@@ -1,0 +1,67 @@
+{
+  "catalog": {
+    "records": 3729,
+    "attributes": 9,
+    "duplicate_codes": [
+      "BIOL 4256",
+      "CHEM 1204",
+      "EDUC 1511",
+      "ENGL 2116",
+      "ETFS 2264",
+      "GLST 2301",
+      "HLTH 4105",
+      "HLTH 4400",
+      "INFO 2130",
+      "LANG 3050",
+      "DANC 1502",
+      "HAHS 1511",
+      "MEGR 3280",
+      "MEGR 3310",
+      "MUPF 1111",
+      "POLS 3250",
+      "RELS 1200",
+      "SOCY 1511",
+      "SPAN 3208",
+      "SPAN 4232",
+      "WGST 2120"
+    ],
+    "credits_distribution": {
+      "0.0": 43,
+      "1.0": 562,
+      "2.0": 219,
+      "3.0": 2798,
+      "4.0": 77,
+      "6.0": 14,
+      "9.0": 1,
+      "12.0": 7,
+      "15.0": 8
+    },
+    "variable_credit_courses": 275,
+    "unknown_prerequisite_rules": 2703,
+    "missing_program_course_references": []
+  },
+  "onet": {
+    "transferable_skills": {
+      "records": 45500,
+      "attributes": 15,
+      "missing_cells": 22750
+    },
+    "essential_skills": {
+      "records": 18200,
+      "attributes": 15,
+      "missing_cells": 9100
+    },
+    "knowledge": {
+      "records": 60060,
+      "attributes": 15,
+      "missing_cells": 99416
+    }
+  },
+  "selected_occupations": 4,
+  "selected_skills": 68,
+  "degreeworks": {
+    "validation": "synthetic only",
+    "real_records_inspected": 0
+  },
+  "version": "388774660f9cc53ac1c8"
+}

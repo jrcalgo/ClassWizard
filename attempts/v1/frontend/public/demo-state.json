@@ -1,0 +1,45 @@
+{
+  "completed": {
+    "ITSC 1212": "B",
+    "ITSC 1213": "B",
+    "ITSC 2181": "B",
+    "ITSC 2214": "B",
+    "ITSC 2175": "B",
+    "ITSC 2600": "B",
+    "MATH 1241": "B",
+    "MATH 1242": "B",
+    "MATH 2164": "B",
+    "STAT 2122": "B",
+    "WRDS 1103": "B",
+    "CTCM 2530": "B",
+    "COMM 1501": "B",
+    "PHIL 1502": "B",
+    "SOCY 1511": "B"
+  },
+  "in_progress": [],
+  "applied_credits": 81,
+  "gpa": 3.2,
+  "reviewed": true,
+  "satisfied_groups": [
+    "science",
+    "outside_electives",
+    "unrestricted"
+  ],
+  "requirement_choices": {
+    "capstone": [
+      "ITSC 4990"
+    ],
+    "concentration_electives": [
+      "ITIS 3130",
+      "ITIS 4350",
+      "ITIS 4180"
+    ],
+    "technical_electives": [
+      "ITIS 3200",
+      "ITIS 4166"
+    ]
+  },
+  "approved_exceptions": [
+    "ITSC 4990"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "seconds": 30,
+  "warmup": 5,
+  "concurrency": 20,
+  "elapsed": 35.63198611792177,
+  "failures": [],
+  "invalid_plans": 0,
+  "public_status": {
+    "attempt": "v3",
+    "version": "22e2f16f1213478558ad",
+    "courses": 3729,
+    "embeddings": 0,
+    "worksheet_validation": "synthetic only",
+    "offering_data": "unverified"
+  },
+  "metrics_before": {
+    "attempt": "v3",
+    "requests": 3,
+    "statuses": {
+      "200": 3
+    },
+    "http_seconds": 0.23824378394056112,
+    "sql": {
+      "queries": 11,
+      "sql_seconds": 0.050183295737951994
+    },
+    "queue_depth": 0
+  },
+  "metrics_after": {
+    "attempt": "v3",
+    "requests": 6941,
+    "statuses": {
+      "200": 6941
+    },
+    "http_seconds": 589.1867925908882,
+    "sql": {
+      "queries": 6896,
+      "sql_seconds": 84.10996955877636
+    },
+    "queue_depth": 0
+  },
+  "recommendations": {
+    "count": 3117,
+    "p50_ms": 82.79118698555976,
+    "p95_ms": 161.53423499781638,
+    "p99_ms": 244.36804198194295
+  },
+  "plans": {
+    "count": 3129,
+    "p50_ms": 82.35996298026294,
+    "p95_ms": 173.45803300850093,
+    "p99_ms": 231.35100200306624
+  },
+  "meets_latency_target": true,
+  "throughput_requests_per_second": 208.2
+}

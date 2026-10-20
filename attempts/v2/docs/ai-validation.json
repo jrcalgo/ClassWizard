@@ -1,0 +1,21 @@
+{
+  "mode": "template",
+  "explanations": [
+    {
+      "code": "ITSC 3155",
+      "text": "ITSC 3155 \u2014 Software Engineering: degree progress contributes 0 to its ranking component. Career relevance is estimated from mapped course skills. Check prerequisite conditions and actual term availability.",
+      "evidence": [
+        {
+          "url": "https://catalog.charlotte.edu/mime/media/view/10/5658/2026-2027-Undergraduate-Catalog.pdf",
+          "pdf_page": 743,
+          "catalog_year": "2026-2027",
+          "section": "ITSC 3155"
+        }
+      ]
+    }
+  ],
+  "retrieval": [],
+  "message": "AI service unavailable or output failed evidence validation; deterministic explanations supplied.",
+  "seconds": 82.118,
+  "wall_seconds": 82.39473564107902
+}

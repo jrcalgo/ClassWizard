@@ -1,0 +1,49 @@
+{
+  "version": "388774660f9cc53ac1c8",
+  "concurrency": 20,
+  "warmup_seconds_per_run": 120,
+  "measurement_seconds_per_run": 600,
+  "runs": [
+    {
+      "run": 1,
+      "recommendation_p95_ms": 124.02246508281678,
+      "plan_p95_ms": 123.05790896061808,
+      "recommendation_p99_ms": 194.38084494322538,
+      "plan_p99_ms": 192.58213590364903,
+      "measured_requests": 195806,
+      "requests_per_second": 326.3433333333333,
+      "failures": 0,
+      "invalid_plans": 0,
+      "passed": true
+    },
+    {
+      "run": 2,
+      "recommendation_p95_ms": 166.8236869154498,
+      "plan_p95_ms": 167.1806809026748,
+      "recommendation_p99_ms": 223.17578294314444,
+      "plan_p99_ms": 223.37335196789354,
+      "measured_requests": 137430,
+      "requests_per_second": 229.05,
+      "failures": 0,
+      "invalid_plans": 0,
+      "passed": true
+    },
+    {
+      "run": 3,
+      "recommendation_p95_ms": 164.69312098342925,
+      "plan_p95_ms": 162.9554039100185,
+      "recommendation_p99_ms": 221.7730889096856,
+      "plan_p99_ms": 221.0844079963863,
+      "measured_requests": 137596,
+      "requests_per_second": 229.32666666666665,
+      "failures": 0,
+      "invalid_plans": 0,
+      "passed": true
+    }
+  ],
+  "all_passed": true,
+  "total_measured_requests": 470832,
+  "worst_recommendation_p95_ms": 166.8236869154498,
+  "worst_plan_p95_ms": 167.1806809026748,
+  "scope": "Warm API traffic with twenty identical synthetic profiles; real worksheets and offerings unverified."
+}

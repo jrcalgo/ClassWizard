@@ -1,0 +1,117 @@
+{
+  "synthetic": true,
+  "courses": 10000,
+  "chunks": 100000,
+  "dimensions": 384,
+  "seed": 42,
+  "queries": 20,
+  "load_seconds": 34.76152979605831,
+  "index_build_seconds": 104.95909692405257,
+  "recall_at_10": 0.9949999999999999,
+  "filtered_recall_at_10": 0.9949999999999999,
+  "high_selectivity_policy": "exact fallback (validated)",
+  "mean_exact_ms": 118.84274574113078,
+  "mean_ann_ms": 12.44806763716042,
+  "join_plan": [
+    "GroupAggregate  (cost=0.58..4230.89 rows=100 width=12) (actual time=0.094..3.600 rows=100 loops=1)",
+    "  Group Key: c.id",
+    "  Buffers: local hit=1003 read=200",
+    "  ->  Nested Loop  (cost=0.58..4224.89 rows=1000 width=4) (actual time=0.017..3.459 rows=1000 loops=1)",
+    "        Buffers: local hit=1003 read=200",
+    "        ->  Index Only Scan using bench_courses_pkey on bench_courses c  (cost=0.29..10.29 rows=100 width=4) (actual time=0.011..0.033 rows=100 loops=1)",
+    "              Index Cond: ((id >= 1) AND (id <= 100))",
+    "              Heap Fetches: 100",
+    "              Buffers: local hit=3",
+    "        ->  Index Only Scan using bench_vectors_course on bench_vectors v  (cost=0.29..42.05 rows=10 width=4) (actual time=0.002..0.016 rows=10 loops=100)",
+    "              Index Cond: (course_id = c.id)",
+    "              Heap Fetches: 1000",
+    "              Buffers: local hit=1000 read=200",
+    "Planning:",
+    "  Buffers: shared hit=25, local hit=5 read=11",
+    "Planning Time: 0.434 ms",
+    "Execution Time: 3.635 ms"
+  ],
+  "timings": [
+    {
+      "exact_ms": 81.4573799725622,
+      "ann_ms": 9.844845975749195
+    },
+    {
+      "exact_ms": 72.49527506064624,
+      "ann_ms": 12.701599975116551
+    },
+    {
+      "exact_ms": 136.3817829405889,
+      "ann_ms": 13.215983053669333
+    },
+    {
+      "exact_ms": 114.49265002738684,
+      "ann_ms": 10.238691000267863
+    },
+    {
+      "exact_ms": 122.7800688939169,
+      "ann_ms": 16.346825985237956
+    },
+    {
+      "exact_ms": 109.49768999125808,
+      "ann_ms": 18.96685396786779
+    },
+    {
+      "exact_ms": 119.70708495937288,
+      "ann_ms": 10.362145025283098
+    },
+    {
+      "exact_ms": 117.72624799050391,
+      "ann_ms": 9.377560927532613
+    },
+    {
+      "exact_ms": 108.20837097708136,
+      "ann_ms": 11.029576999135315
+    },
+    {
+      "exact_ms": 108.97146502975374,
+      "ann_ms": 10.248498991131783
+    },
+    {
+      "exact_ms": 130.61508303508162,
+      "ann_ms": 13.991451007314026
+    },
+    {
+      "exact_ms": 120.80968206282705,
+      "ann_ms": 14.609409961849451
+    },
+    {
+      "exact_ms": 118.58368094544858,
+      "ann_ms": 15.774303930811584
+    },
+    {
+      "exact_ms": 129.0581680368632,
+      "ann_ms": 11.995363980531693
+    },
+    {
+      "exact_ms": 145.88420104701072,
+      "ann_ms": 12.91453291196376
+    },
+    {
+      "exact_ms": 134.07204393297434,
+      "ann_ms": 15.065923100337386
+    },
+    {
+      "exact_ms": 112.46106796897948,
+      "ann_ms": 11.03569904807955
+    },
+    {
+      "exact_ms": 110.44566496275365,
+      "ann_ms": 12.656494975090027
+    },
+    {
+      "exact_ms": 190.4038799693808,
+      "ann_ms": 9.694430977106094
+    },
+    {
+      "exact_ms": 92.8034270182252,
+      "ann_ms": 8.891160949133337
+    }
+  ],
+  "ann_qualifies": true
+}

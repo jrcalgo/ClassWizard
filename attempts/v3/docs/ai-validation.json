@@ -1,0 +1,129 @@
+{
+  "synthetic": true,
+  "elapsed_seconds": 4.042180205928162,
+  "version": "388774660f9cc53ac1c8",
+  "result": {
+    "mode": "llm",
+    "explanations": [
+      {
+        "code": "ITSC 3155",
+        "text": "ITSC 3155 \u2014 Software Engineering. It supports a remaining degree requirement. Its coursework is mapped to Technology Design, Programming, Quality Control Analysis, Systems Analysis. Review prerequisite conditions and actual term availability.",
+        "evidence": [
+          {
+            "url": "https://catalog.charlotte.edu/mime/media/view/10/5658/2026-2027-Undergraduate-Catalog.pdf",
+            "pdf_page": 743,
+            "catalog_year": "2026-2027",
+            "section": "ITSC 3155"
+          }
+        ]
+      },
+      {
+        "code": "ITIS 3310",
+        "text": "ITIS 3310 \u2014 Software Architecture and Design. It supports a remaining degree requirement. Its coursework is mapped to Technology Design, Computers and Electronics, Design. Review prerequisite conditions and actual term availability.",
+        "evidence": [
+          {
+            "url": "https://catalog.charlotte.edu/mime/media/view/10/5658/2026-2027-Undergraduate-Catalog.pdf",
+            "pdf_page": 739,
+            "catalog_year": "2026-2027",
+            "section": "ITIS 3310"
+          }
+        ]
+      },
+      {
+        "code": "ITIS 3130",
+        "text": "ITIS 3130 \u2014 Introduction to Human-Centered Computing. It supports a remaining degree requirement. Its coursework is mapped to Science, Computers and Electronics, Design, Psychology. Review prerequisite conditions and actual term availability.",
+        "evidence": [
+          {
+            "url": "https://catalog.charlotte.edu/mime/media/view/10/5658/2026-2027-Undergraduate-Catalog.pdf",
+            "pdf_page": 738,
+            "catalog_year": "2026-2027",
+            "section": "ITIS 3130"
+          }
+        ]
+      },
+      {
+        "code": "ITSC 3146",
+        "text": "ITSC 3146 \u2014 Introduction to Operating Systems and Networking. It supports a remaining degree requirement. Its coursework is mapped to Technology Design, Computers and Electronics. Review prerequisite conditions and actual term availability.",
+        "evidence": [
+          {
+            "url": "https://catalog.charlotte.edu/mime/media/view/10/5658/2026-2027-Undergraduate-Catalog.pdf",
+            "pdf_page": 743,
+            "catalog_year": "2026-2027",
+            "section": "ITSC 3146"
+          }
+        ]
+      },
+      {
+        "code": "ITIS 4350",
+        "text": "ITIS 4350 \u2014 Design Prototyping. It supports a remaining degree requirement. Its coursework is mapped to Computers and Electronics, Design. Review prerequisite conditions and actual term availability.",
+        "evidence": [
+          {
+            "url": "https://catalog.charlotte.edu/mime/media/view/10/5658/2026-2027-Undergraduate-Catalog.pdf",
+            "pdf_page": 740,
+            "catalog_year": "2026-2027",
+            "section": "ITIS 4350"
+          }
+        ]
+      }
+    ],
+    "public_course_summary": "Project planning, working in teams, and using modern software development tools are also explored.",
+    "citations": [
+      "ITSC 3155"
+    ],
+    "retrieval": [
+      {
+        "entity_id": "2.B.3.e",
+        "content": "Programming Programming",
+        "evidence": {
+          "url": "https://www.onetcenter.org/dl_files/database/db_31_0_csv/transferable_skills.csv",
+          "release": "31.0"
+        },
+        "distance": 0.36461748306542385
+      },
+      {
+        "entity_id": "ITSC 4155",
+        "content": "Software Development Projects Prerequisite(s): ITCS 2214; and ITCS 3155, or ITIS 3300, or ITIS 3310, or permission of instructor; and Senior standing or permission of department. Advanced software engineering concepts. Explores the entire software development process, emphasizing requirements engineering, design, implementation, test, deployment, and evolution. Advanced topics in software engineering, such as object-oriented modeling, software architecture, architectural styles, design patterns, middleware frameworks, and programming paradigms. Students apply these concepts, along with concepts from introductory programming courses, data structures and algorithms courses, and introductory software engineering courses, to a team software development project that results in an executable software system prototype.",
+        "evidence": {
+          "url": "https://catalog.charlotte.edu/mime/media/view/10/5658/2026-2027-Undergraduate-Catalog.pdf",
+          "section": "ITSC 4155",
+          "pdf_page": 744,
+          "catalog_year": "2026-2027"
+        },
+        "distance": 0.3709900532972704
+      },
+      {
+        "entity_id": "ITSC 3155",
+        "content": "Software Engineering Prerequisite(s): ITSC 2214 with grade of C or above; and College of Computing and Informatics major or minor. An introduction to software engineering, which advances the studyandapplicationofengineeringprinciples,methods,andtechniques that can help us to improve the process of creating software as well as the resulting software products. The course covers fundamentals of software engineering, including: modern software process models; eliciting, specifying, and evaluating software system requirements; designing software systems to embody required quality attributes, including usability and security; an introduction to reusable software design solutions in the form of software architectural styles and design patterns; software system modeling, implementation, and deployment; and software quality assurance (measurement, inspection, testing). Project planning, working in teams, and using modern software development tools are",
+        "evidence": {
+          "url": "https://catalog.charlotte.edu/mime/media/view/10/5658/2026-2027-Undergraduate-Catalog.pdf",
+          "section": "ITSC 3155",
+          "pdf_page": 743,
+          "catalog_year": "2026-2027"
+        },
+        "distance": 0.3711664830247735
+      },
+      {
+        "entity_id": "ITIS 4164",
+        "content": "AI-Assisted Software Engineering Prerequisite(s): ITIS 3135; CS major and (Junior or Senior level). Cross-listed Course(s): ITIS 5164. Explores the integration of Artificial Intelligence (AI) with software development, covering multiple phases of the Software Development Lifecycle (SDLC), including planning, designing, coding, debugging, refactoring, testing, deployment, and management. Students will learn practical knowledge of using AI for software creation, as well as a critical mindset to evaluate, compare, critique, validate, recommend, and manageAIsolutionsforsoftwaredevelopmentinorganizationsofvarious sizes.",
+        "evidence": {
+          "url": "https://catalog.charlotte.edu/mime/media/view/10/5658/2026-2027-Undergraduate-Catalog.pdf",
+          "section": "ITIS 4164",
+          "pdf_page": 739,
+          "catalog_year": "2026-2027"
+        },
+        "distance": 0.3731882127299011
+      },
+      {
+        "entity_id": "15-1252.00",
+        "content": "Software Developers Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Update software or enhance existing software capabilities. May work with computer hardware engineers to integrate hardware and software systems, and develop specifications and performance requirements. May maintain databases within an application area, working individually or coordinating database development as part of a team.",
+        "evidence": {
+          "soc": "15-1252.00",
+          "url": "https://www.onetcenter.org/database.html",
+          "release": "31.0"
+        },
+        "distance": 0.3829818875225972
+      }
+    ],
+    "seconds": 3.783
+  }
+}

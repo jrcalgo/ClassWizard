@@ -1,0 +1,8 @@
+FROM python:3.11-slim@sha256:6f31d6e9ba2b0a787a3f81c37b004155b87b9efa1b771182bd550c1615745be5
+WORKDIR /app
+RUN pip install --no-cache-dir torch==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+COPY embedding-requirements.lock.txt .
+RUN pip install --no-cache-dir -r embedding-requirements.lock.txt
+COPY embedding_server.py .
+ENV HF_HOME=/models TORCH_NUM_THREADS=2
+CMD ["uvicorn", "embedding_server:app", "--host", "0.0.0.0", "--port", "8000", "--no-access-log"]

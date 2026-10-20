@@ -1,0 +1,123 @@
+{
+  "synthetic": true,
+  "courses": 10000,
+  "chunks": 100000,
+  "dimensions": 384,
+  "seed": 42,
+  "queries": 20,
+  "load_seconds": 32.41044862498529,
+  "index_build_seconds": 90.77615090599284,
+  "recall_at_10": 1.0,
+  "filtered_recall_at_10": 1.0,
+  "high_selectivity_policy": "exact fallback (validated)",
+  "mean_exact_ms": 113.11551160179079,
+  "mean_ann_ms": 11.030189314624295,
+  "join_plan": [
+    "GroupAggregate  (cost=21355.69..21364.15 rows=100 width=12) (actual time=69.562..69.715 rows=100 loops=1)",
+    "  Group Key: c.id",
+    "  Buffers: local hit=3 read=20032",
+    "  ->  Sort  (cost=21355.69..21358.18 rows=995 width=4) (actual time=69.552..69.607 rows=1000 loops=1)",
+    "        Sort Key: c.id",
+    "        Sort Method: quicksort  Memory: 25kB",
+    "        Buffers: local hit=3 read=20032",
+    "        ->  Hash Join  (cost=11.54..21306.15 rows=995 width=4) (actual time=0.060..69.474 rows=1000 loops=1)",
+    "              Hash Cond: (v.course_id = c.id)",
+    "              Buffers: local hit=3 read=20032",
+    "              ->  Seq Scan on bench_vectors v  (cost=0.00..21032.00 rows=100000 width=4) (actual time=0.014..61.024 rows=100000 loops=1)",
+    "                    Buffers: local read=20032",
+    "              ->  Hash  (cost=10.29..10.29 rows=100 width=4) (actual time=0.035..0.036 rows=100 loops=1)",
+    "                    Buckets: 1024  Batches: 1  Memory Usage: 12kB",
+    "                    Buffers: local hit=3",
+    "                    ->  Index Only Scan using bench_courses_pkey on bench_courses c  (cost=0.29..10.29 rows=100 width=4) (actual time=0.011..0.022 rows=100 loops=1)",
+    "                          Index Cond: ((id >= 1) AND (id <= 100))",
+    "                          Heap Fetches: 100",
+    "                          Buffers: local hit=3",
+    "Planning:",
+    "  Buffers: shared hit=25, local hit=4 read=6",
+    "Planning Time: 0.546 ms",
+    "Execution Time: 69.777 ms"
+  ],
+  "timings": [
+    {
+      "exact_ms": 128.54229507502168,
+      "ann_ms": 11.209886986762285
+    },
+    {
+      "exact_ms": 108.66251296829432,
+      "ann_ms": 9.27138701081276
+    },
+    {
+      "exact_ms": 93.57814094983041,
+      "ann_ms": 16.305753029882908
+    },
+    {
+      "exact_ms": 106.49079596623778,
+      "ann_ms": 11.91605709027499
+    },
+    {
+      "exact_ms": 106.87777493149042,
+      "ann_ms": 6.762544042430818
+    },
+    {
+      "exact_ms": 102.96436795033514,
+      "ann_ms": 11.424402007833123
+    },
+    {
+      "exact_ms": 117.00625903904438,
+      "ann_ms": 11.716703069396317
+    },
+    {
+      "exact_ms": 146.3898359797895,
+      "ann_ms": 13.100207084789872
+    },
+    {
+      "exact_ms": 123.23978904169053,
+      "ann_ms": 7.578229997307062
+    },
+    {
+      "exact_ms": 106.56990006100386,
+      "ann_ms": 14.571006991900504
+    },
+    {
+      "exact_ms": 100.05683603230864,
+      "ann_ms": 12.370713986456394
+    },
+    {
+      "exact_ms": 118.02682501729578,
+      "ann_ms": 14.139915001578629
+    },
+    {
+      "exact_ms": 140.54276200477034,
+      "ann_ms": 13.702441938221455
+    },
+    {
+      "exact_ms": 109.34524005278945,
+      "ann_ms": 10.133170988410711
+    },
+    {
+      "exact_ms": 116.37284199241549,
+      "ann_ms": 10.05015498958528
+    },
+    {
+      "exact_ms": 120.32520503271371,
+      "ann_ms": 12.745870975777507
+    },
+    {
+      "exact_ms": 126.52797705959529,
+      "ann_ms": 9.94849402923137
+    },
+    {
+      "exact_ms": 100.6921980297193,
+      "ann_ms": 8.939452935010195
+    },
+    {
+      "exact_ms": 95.79253091942519,
+      "ann_ms": 8.095675031654537
+    },
+    {
+      "exact_ms": 94.3061439320445,
+      "ann_ms": 6.621719105169177
+    }
+  ],
+  "ann_qualifies": true
+}

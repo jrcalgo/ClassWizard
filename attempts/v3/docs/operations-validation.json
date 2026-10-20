@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-06",
+  "academic_data": "Synthetic only; no real student worksheet used",
+  "backend_tests_passed": 36,
+  "browser_tests_passed": 4,
+  "public_ingestion": {
+    "idempotent_import": true,
+    "failed_import_rolls_back": true,
+    "new_version_activation_invalidates_cached_recommendations": true,
+    "mapping_generation_invalidates_public_snapshot": true,
+    "active_dataset": "388774660f9cc53ac1c8",
+    "unchanged_embedding_content_reused": true
+  },
+  "privacy": {
+    "redis_save_disabled": true,
+    "redis_appendonly_disabled": true,
+    "redis_restart_discards_synthetic_ephemeral_probe": true,
+    "sql_tables_contain_no_student_or_session_records": true,
+    "session_deletion_rejects_late_result_writes": true,
+    "parser_uses_in_memory_pdf_bytes": true,
+    "proxy_request_and_response_disk_buffering_disabled": true,
+    "api_and_proxy_access_logs_disabled": true
+  },
+  "recovery": {
+    "postgres_restart_connection_recovery": true,
+    "redis_restart_worker_reconnection": true,
+    "interrupted_explanation_claim_recovered": true,
+    "claim_recovery_report": "worker-recovery.json"
+  },
+  "remaining_unverified": [
+    "Real DegreeWorks layout compatibility",
+    "Actual semester offerings",
+    "Real-world skill mapping accuracy and student proficiency",
+    "Hosted GitHub Actions execution"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-06",
+  "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+  "logical_cpus": 12,
+  "host_memory_bytes": 33551851520,
+  "platform": "Linux-6.8.0-139-generic-x86_64-with-glibc2.39",
+  "application_limits": {
+    "cpus": 6,
+    "memory_gib": 7.75
+  },
+  "load_generator": "Separate Docker tools container; 1 CPU, 768 MiB; twenty HTTP clients",
+  "private_data": "Synthetic academic profiles only",
+  "target_recommendation_p95_ms": 500,
+  "target_plan_p95_ms": 2000,
+  "warmup_seconds": 120,
+  "measurement_seconds": 600,
+  "repetitions": 3
+}

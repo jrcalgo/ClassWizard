@@ -1,0 +1,21 @@
+{
+  "seconds": 30,
+  "warmup": 5,
+  "concurrency": 20,
+  "elapsed": 36.19195840100292,
+  "failures": [],
+  "invalid_plans": 0,
+  "recommendations": {
+    "count": 547,
+    "p50_ms": 569.1993079381064,
+    "p95_ms": 1037.9697770113125,
+    "p99_ms": 1344.8787309462205
+  },
+  "plans": {
+    "count": 554,
+    "p50_ms": 518.5941079398617,
+    "p95_ms": 839.412120054476,
+    "p99_ms": 1277.2849189350381
+  },
+  "meets_latency_target": false
+}
