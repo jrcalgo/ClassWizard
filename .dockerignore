@@ -1,0 +1,15 @@
+# Keep the build context small: Docker sends all of it to the daemon before building.
+.git
+.github
+.env
+**/__pycache__
+**/*.py[cod]
+.pytest_cache
+.venv
+venv
+env
+project_docs
+data
+out
+Major&courses
+app
