@@ -1,0 +1,351 @@
+[
+ {
+  "code": "ANTH 4620",
+  "title": "Language, Culture, and Thought",
+  "section": "Other Courses",
+  "description": "Can you think without language? Can you talk without thinking? This course delves into these questions, combining linguistics, psychology, anthropology, and digital studies. Students begin with an investigation of semiotic relativity, or how language shapes human cognition, debating the differences between human and non-human communication and cognition, including animal communication and AI. Students then investigate the effects of language in particular on thought-including specific syntactic and semantic forms. Students also examine discursive relativity, or the relationship between cognition and language in use, investigating verbal art, pragmatics and political speech, and changes in writing forms-including literacy, the internet, and interactions with AI. Scholars debate the degree to which these technological developments change, and have changed, thought patterns. Students will investigate these debates and write a final research paper.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Cross-listed Course(s)": "ANTH 5620",
+   "Pre- or Corequisite(s)": "One prior linguistics or cultural anthropology course"
+  },
+  "listing_page": 1
+ },
+ {
+  "code": "AFRS 4600",
+  "title": "Senior Seminar in Africana Studies",
+  "section": "Africana Studies",
+  "description": "This advanced seminar explores a wide-body of literature selected as the eminent scholarship in the field of Africana Studies. Students read, analyze, and critique the scholarly literature of the field and prepare written assignments conceptualizing the course readings and discussions.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Restriction(s)": "Senior standing."
+  },
+  "listing_page": 1
+ },
+ {
+  "code": "AFRS 4630",
+  "title": "Environmental and Public Health in Africa",
+  "section": "Africana Studies",
+  "description": "In-depth analysis of environmental and public health hazards in Africa, including pandemic, as well as the principles and practice of public health, pollution control, and waste management. The social and political contexts of the environmental and health issues in Africa are emphasized throughout.",
+  "raw_fields": {
+   "Credit Hours": "(3)"
+  },
+  "listing_page": 2
+ },
+ {
+  "code": "CHEM 4090",
+  "title": "Special Topics in Chemistry",
+  "section": "Art: Print Media",
+  "description": "Selected topics in chemistry. Lecture and/or laboratory hours vary with the nature of the course taught.",
+  "raw_fields": {
+   "Credit Hours": "(1 to 4)",
+   "Restriction(s)": "Permission of instructor.",
+   "Repeatability": "May be repeated for credit."
+  },
+  "listing_page": 4
+ },
+ {
+  "code": "GEOL 3140",
+  "title": "Paleontology",
+  "section": "Geology",
+  "description": "Nature of fossils, analysis of growth and variation in fossil assemblages, reconstruction of the modes of life of extinct organisms, paleobiogeography, biostratigraphy, and the fossil record of evolutionary pattern and processes.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "GEOL 1200, GEOL 1200L, GEOL 1210, and GEOL 1210L; or permission of instructor."
+  },
+  "listing_page": 17
+ },
+ {
+  "code": "GEOL 3190",
+  "title": "Environmental Geology",
+  "section": "Geology",
+  "description": "Aspects of geology with direct or indirect impact on society. Topics include: slope stability, earthquake hazards, solid waste disposal, flooding, ground water problems, soil loss, sediment pollution, watershed dynamics, water and soil pollution, and radioactive waste disposal.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "GEOL 1200 and GEOL 1200L."
+  },
+  "listing_page": 18
+ },
+ {
+  "code": "HIST 2051",
+  "title": "Themes in European History",
+  "section": "History",
+  "description": "Explores major themes in European history. It does so by emphasizing continuity and change over time through historical examinations, analyses, and findings that focus on the interconnections and intersections of similar and/or different topics and events in the history of Europe.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Repeatability": "May be repeated for credit with change of topic"
+  },
+  "listing_page": 18
+ },
+ {
+  "code": "HIST 2101",
+  "title": "American Business History",
+  "section": "History",
+  "description": "A survey of the origins, methods, and goals of modern business enterprise. Lectures emphasize the social history of the American business community and the relation between public policy and economic growth. Discussion emphasizes current economic problems and policies.",
+  "raw_fields": {
+   "Credit Hours": "(3)"
+  },
+  "listing_page": 19
+ },
+ {
+  "code": "GRNT 4364",
+  "title": "Aging and Criminal Justice: An Interdisciplinary Understanding",
+  "section": "Gerontology",
+  "description": "Utilizes an interdisciplinary approach to examining the many ways in which we interface with the criminal justice system as we age. Topics include: the nature and extent of aging related crime, the criminal justice system response to older offenders, older adults as participants in criminal trials, older adults as victims of crime and abuse, and legal issues for the older adult population. Particular attention is placed on assessing these issues from a policy perspective that incorporates concern for administrative, legal, and ethical issues.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Cross-listed Course(s)": "CJUS 4364, GRNT 5364"
+  },
+  "listing_page": 18
+ },
+ {
+  "code": "HSMT 3201",
+  "title": "Health System Leadership, Ethics, and Inter-Professional Communication",
+  "section": "Health Systems Management",
+  "description": "Examination of leadership skills and communication development. Analysis of ethical and bioethical problems confronting health systems. Contemporary issues confronting organizations and people who work to promote, restore, or maintain health are examined. The course also serves as a continuation of the design and development of student ePortfolios.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "HSMT 2101, HSMT 2103, and HSMT 2104 with grades of C or above within two attempts",
+   "Restriction(s)": "Health Systems Management major and Junior Standing; no more than two attempts"
+  },
+  "listing_page": 18
+ },
+ {
+  "code": "GERM 4061",
+  "title": "Topics in German Language",
+  "section": "German",
+  "description": "Advanced study in German Language. Conducted in German.",
+  "raw_fields": {
+   "Credit Hours": "(1 to 3)",
+   "Prerequisite(s)": "GERM 2201, GERM 2202, GERM 3201, and GERM 3202; or permission of department.",
+   "Repeatability": "May be repeated for credit with change of topic."
+  },
+  "listing_page": 18
+ },
+ {
+  "code": "ITCS 3120",
+  "title": "Introduction to Interactive Computer Graphics",
+  "section": "Computer Science",
+  "description": "Introduction to graphics hardware; raster algorithms; event-based programming; shader programming; anti-aliasing methods; matrix algebra for change of coordinates and 2D geometric transformations; 2D viewing transformation and clipping; 2D curves and 2D splines.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "ITSC 2214 and MATH 2164 or permission of department."
+  },
+  "listing_page": 8
+ },
+ {
+  "code": "SOCY 4699",
+  "title": "Senior Seminar in Sociology",
+  "section": "Sociology",
+  "description": "This capstone course draws upon all of the skills that the Sociology student has learned, including understanding interactions among individuals, groups, and social institutions in society; applying major sociological concepts; understanding major social theories; posing research questions, evaluating evidence, and developing logical arguments; and selecting research methods appropriate to sociological inquiry. Students produce a capstone e-portfolio which allows them to demonstrate these sociological skills.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "SOCY 1101 with grade of C or above; SOCY 3153 or SOCY 4153 with grade of C or above; SOCY 3155 with grade of C or above; and SOCY 4156 with grade of C or above.",
+   "Restriction(s)": "Sociology major or minor"
+  },
+  "listing_page": 34
+ },
+ {
+  "code": "GEOG 3161",
+  "title": "Migration and Borders in a Global World",
+  "section": "Geography",
+  "description": "Even as globalization promises a world of increasing flows, borders -and their most visible manifestation as fences - are on the rise. This course focuses on the dynamics of diversifying flows of people with the multiplication of borders within and beyond countries. It explores key policy debates such as: the relationship between migration and development; increased demand for migrant workers; the upswing in migrant detention and deportation; and the Right to Freedom of Movement.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Cross-listed Course(s)": "GLST 3161."
+  },
+  "listing_page": 17
+ },
+ {
+  "code": "BINF 4191",
+  "title": "Life Sciences and the Law",
+  "section": "Bioinformatics and Genomics",
+  "description": "Law and regulations permeate our daily lives, and nowhere is this truer than in areas of life sciences. This course explores what the law is, how our current laws developed, and factors currently affecting the evolution of the law. It provides a general overview of U.S. law, including constitutional law, criminal law, contract law, tort law, property law (especially intellectual property law), business law (especially legal aspects of forming a new company), and administrative law. It then focuses on specific aspects of the law affecting the life sciences, such as ownership of tissues and organisms, regulation of drugs and medical devices, regulation of research in the life sciences, the history and regulation of medicine, the economics and various types of health care delivery, and food production.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Restriction(s)": "Junior or Senior standing in a scientific/technical major or permission of instructor if in a non-biological/technical or scientific major."
+  },
+  "listing_page": 4
+ },
+ {
+  "code": "MATH 1341",
+  "title": "Mathematics for Elementary Teachers II",
+  "section": "Mathematics",
+  "description": "Develops elementary teachers’ understanding of four fundamental, interrelated concepts in elementary mathematics: geometry, measurement and data, ratios and proportions, and algebraic reasoning. Students use proportional reasoning to solve problems involving ratios, compare ratios, interpret unit rates, and solve problems involving percentages. Students understand how algebraic reasoning develops in the elementary grades through sequences and pattern recognition followed by the development of expressions and equations. Students re-conceptualize definitions and properties of polygons and polyhedral including the concepts of perimeter, area, surface area, volume, transformation, and congruence and similarity. Students develop their understanding of the organization, representation, and analysis of data along with measures of central tendency and variation. The content will be taught through a problem-solving approach.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "MATH 1340",
+   "Restriction(s)": "Must be enrolled in one of the following majors: Pre-Elementary Education, Elementary Education, Pre-Special Education.",
+   "General Education Requirement(s) Satisfied": "Quantitative/Data Competency"
+  },
+  "listing_page": 23
+ },
+ {
+  "code": "ANTH 4050",
+  "title": "Topics in Archaeology",
+  "section": "Anthropology",
+  "description": "Specialized topics in Archaeology. Examples include: Ceramic Analysis; Bioarchaeology and Demography.",
+  "raw_fields": {
+   "Credit Hours": "",
+   "Prerequisite(s)": "ANTH 2151 or permission of instructor.",
+   "Repeatability": "May be repeated for credit with change of topic."
+  },
+  "listing_page": 2
+ },
+ {
+  "code": "PHYS 4105",
+  "title": "Fundamentals of Physics Teaching",
+  "section": "Physics",
+  "description": "This is a 1 credit hour course intended to prepare students for the multitude of challenges and responsibilities as a Undergraduate (UG) Teaching Assistant (TA) for the Department of Physics and Optical Sciences. The class is designed for first time TAs and will introduce Physics teaching techniques and approaches and provide resources to enhance students’ learning and classroom engagement. The course is designed to help students develop equitable, evidence based and student-centered teaching practices. This course uses Canvas as a learning management system.",
+  "raw_fields": {
+   "Credit Hours": "(!)"
+  },
+  "listing_page": 30
+ },
+ {
+  "code": "SEGR 3890",
+  "title": "Individualized Study",
+  "section": "Systems Engineering",
+  "description": "Supervised individual study within an area of a student’s particular interest which is beyond the scope of existing courses. May be repeated for credit up to 3 credit hours.",
+  "raw_fields": {
+   "Credit Hours": "(1 ro 3)",
+   "Restriction(s)": "Permission of department",
+   "Repeatability": "May be repeated for credit up to 3 credit hours."
+  },
+  "listing_page": 36
+ },
+ {
+  "code": "CJUS 3354",
+  "title": "Punishment and Freedom",
+  "section": "Criminal Justice and Criminology",
+  "description": "Examines the manner in which the notions of freedom and punishment are fundamentally bound to one another, and how, at their intersections, these constructs are the source of considerable speculation regarding consumerism, democracy, capitalism, and ethics.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "CJUS 1511 and CJUS 2340, both with grade of C or above",
+   "Restriction(s)": "Criminal Justice major or minor; and Junior or Senior standing.",
+   "Cross-listed Course(s)": "HONR 3700 -H01 and LEGL 3354"
+  },
+  "listing_page": 9
+ },
+ {
+  "code": "HONR 3700",
+  "title": "Honors College Topics",
+  "section": "Honors College",
+  "description": "A seminar course taught by faculty members from different disciplines on interdisciplinary topics. The course is typically characterized by small class sizes, stimulating discussions, engagement in interdisciplinary or disciplinary inquiry, writing and revising, and presentation of an inquiry-based, interdisciplinary or disciplinary product (at a smaller scale than a capstone project).",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "CTCM 2530 or LBST 2301",
+   "Restriction(s)": "Permission of the University Honors Program.",
+   "Repeatability": "May be repeated for credit with change of topic and coursework."
+  },
+  "listing_page": 20
+ },
+ {
+  "code": "BIOL 2120L",
+  "title": "General Biology I Laboratory",
+  "section": "Biology",
+  "description": "The accompanying laboratory to BIOL 2120 . Experimental scientific inquiry into the concepts addressed in General Biology I. Three contact hours.",
+  "raw_fields": {
+   "Credit Hours": "(1)",
+   "Corequisite(s)": "BIOL 2120"
+  },
+  "listing_page": 4
+ },
+ {
+  "code": "WRDS 4900",
+  "title": "Senior Research Capstone",
+  "section": "Writing, Rhetoric, and Digital Studies",
+  "description": "Students complete an article-length research paper under the supervision of a member of the faculty (typically the instructor-of-record for the course). The paper must involve quantitative or other methods of writing research. Students propose and research a topic that builds on their previous coursework for the Writing, Rhetoric, and Digital Studies major.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Restriction(s)": "Junior or Senior standing; Writing, Rhetoric, and Digital Studies major or minor; and minimum 2.0 GPA in all major or minor coursework.",
+   "Pre- or Corequisite(s)": "WRDS 4225"
+  },
+  "listing_page": 38
+ },
+ {
+  "code": "UCOL 1502",
+  "title": "Global Arts/Humanities: Study Abroad",
+  "section": "University College",
+  "description": "This Global Theme course uses the methods and insights of the arts and humanities to explore the central question of what it means to be a citizen of the world. Through the study of one or more different peoples, societies, or cultures across the globe, students will be able to better understand themselves as part of a complex, interconnected world. This course can only be used for coursework taken as part of a study abroad experience.",
+  "raw_fields": {
+   "Credit Hours": "(3 to 6)",
+   "Repeatability": "May be repeated for credit with change of topic.",
+   "General Education Requirement(s) Satisfied": "Global Arts/Humanities",
+   "Grading Method": "Face-to-Face Instruction"
+  },
+  "listing_page": 38
+ },
+ {
+  "code": "PHIL 2105",
+  "title": "Deductive Logic",
+  "section": "Philosophy",
+  "description": "Principles of deductive logic, both classical and symbolic, with emphasis on the use of formal logic in analysis of ordinary language discourse.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Cross-listed Course(s)": "LEGL 2105",
+   "General Education Requirement(s) Satisfied": "Quantitative/Data Competency - Mathematical and Logical Reasoning"
+  },
+  "listing_page": 29
+ },
+ {
+  "code": "LEGL 2105",
+  "title": "Deductive Logic",
+  "section": "Legal Studies",
+  "description": "Principles of deductive logic, both classical and symbolic, with emphasis on the use of formal logic in analysis of ordinary language discourse.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Restriction(s)": "Legal Studies minor.",
+   "Cross-listed Course(s)": "PHIL 2105"
+  },
+  "listing_page": 22
+ },
+ {
+  "code": "DANC 3201",
+  "title": "Professional Training Certificate in Dance",
+  "section": "Dance",
+  "description": "First year of a two-year program of pre-professional technical dance training in ballet, performance experience, and professional dance company observation with the Charlotte Ballet. Emphasis on advanced pointe work for women and men’s grande allegro work.",
+  "raw_fields": {
+   "Credit Hours": "(4)",
+   "Prerequisite(s)": "Both DANC 3201 and DANC 3202 must be taken sequentially during the same academic year.",
+   "Restriction(s)": "Audition at Charlotte Ballet"
+  },
+  "listing_page": 10
+ },
+ {
+  "code": "ARTA 4901",
+  "title": "Senior Thesis I: Creative Research",
+  "section": "Art: Academic and Departmental",
+  "description": "Advanced Studio course where students research, conceptualize, and create a body of work. Students are self-directed in the development of source ideas, content, and use of materials. They refine their personal expression, and their ability to define an artistic problem or theme. Students are expected to conduct theoretical research and contextualize their artistic production. In this often interdisciplinary environment, students engage in group critiques and sometimes interact with visiting artists. Six contact hours.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "ARTA 3201 and: Digital: ARTM 3101 and ARTM 3102 Painting: ARTD 2139; and two of the following: ARTP 3131, ARTP 3132, ARTP 3161 Photography: ARTT 3190 and ARTT 3191 Print Media: ARTB 1201, ARTB 1203, ARTB 1206, ARTR 2161 or ARTR 2162 3-D: any 3000-level course in ARTC (recommended ARTC 3273); ARTF (recommended ARTF 3353), or ARTZ (recommended ARTZ 3306 or ARTZ 3344)",
+   "Restriction(s)": "Senior standing and Art major"
+  },
+  "listing_page": 3
+ },
+ {
+  "code": "ACCT 3350",
+  "title": "Introduction to Auditing",
+  "section": "Accounting",
+  "description": "Introduction to auditing and its role in the capital markets. Students will be introduced to the evaluation of risk, controls, designing and executing tests, and assessing audit evidence. Special attention is given to information technology, data analytics, and comparisons of internal and external auditing.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "ACCT 3312 or ACCT 3324 and ACCT 3340 with grade of C or above.",
+   "Restriction(s)": "Accounting major",
+   "Pre- or Corequisite(s)": ""
+  },
+  "listing_page": 1
+ },
+ {
+  "code": "FREN 3203",
+  "title": "Introduction to French Literature",
+  "section": "French",
+  "description": "Development of techniques for literary study through analysis of selected major works in French literature. Readings, discussions, presentations, and explications de texte.",
+  "raw_fields": {
+   "Credit Hours": "(3)",
+   "Prerequisite(s)": "FREN 2202."
+  },
+  "listing_page": 17
+ }
+]

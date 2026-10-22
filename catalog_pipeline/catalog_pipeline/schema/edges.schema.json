@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/jrcalgo/ClassWizard/catalog_pipeline/edges.schema.json",
+  "title": "ClassWizard catalog course-to-course links",
+  "type": "object",
+  "required": ["schema_version", "catalog", "edges"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"type": "string"},
+    "catalog": {"type": "string"},
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "source", "target", "target_resolved", "reciprocal"],
+        "properties": {
+          "type": {"enum": ["crosslist", "exclusion", "requisite"]},
+          "source": {"type": "string", "description": "Course the link is printed on"},
+          "target": {"type": "string"},
+          "target_resolved": {"type": "boolean", "description": "Target exists in this catalog"},
+          "reciprocal": {"type": "boolean", "description": "Same kind of link also printed on the target"},
+          "section": {"type": ["string", "null"]},
+          "field": {"type": "string"},
+          "timing": {"enum": ["before", "same_term", "before_or_same_term"]},
+          "in_tree": {"type": "boolean"},
+          "advisory_only": {"type": "boolean"},
+          "status": {"enum": ["parsed", "proposed", "unparsed", "advisory_only"]},
+          "evidence": {"type": "string"},
+          "needs_review": {"type": "boolean"}
+        },
+        "allOf": [
+          {"if": {"properties": {"type": {"const": "crosslist"}}}, "then": {"required": ["section"]}},
+          {"if": {"properties": {"type": {"const": "exclusion"}}}, "then": {"required": ["field", "evidence", "needs_review"]}},
+          {"if": {"properties": {"type": {"const": "requisite"}}}, "then": {"required": ["field", "timing", "in_tree", "advisory_only", "status"]}}
+        ]
+      }
+    }
+  }
+}

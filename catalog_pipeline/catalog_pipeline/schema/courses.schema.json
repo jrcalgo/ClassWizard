@@ -1,0 +1,235 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/jrcalgo/ClassWizard/catalog_pipeline/courses.schema.json",
+  "title": "ClassWizard catalog courses",
+  "description": "One document per catalog. Every derived value keeps the raw catalog text next to it.",
+  "type": "object",
+  "required": ["schema_version", "generator", "catalog", "sources", "courses"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"type": "string"},
+    "generator": {"type": "string"},
+    "catalog": {"type": "string", "description": "e.g. 'Undergraduate 2026-2027'"},
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["listing_page", "file", "pdf_pages", "producer", "printed_at", "printed_url"],
+        "additionalProperties": false,
+        "properties": {
+          "listing_page": {"type": "integer", "minimum": 1},
+          "file": {"type": "string"},
+          "pdf_pages": {"type": "integer", "minimum": 1},
+          "producer": {"type": ["string", "null"]},
+          "printed_at": {"type": ["string", "null"]},
+          "printed_url": {"type": ["string", "null"], "description": "truncated in the print-out"}
+        }
+      }
+    },
+    "courses": {"type": "array", "items": {"$ref": "#/$defs/course"}}
+  },
+  "$defs": {
+    "severity": {"enum": ["low", "high"]},
+    "course": {
+      "type": "object",
+      "required": ["catalog", "code", "subject", "number", "number_parts", "title", "section",
+                   "description", "raw_fields", "credit_hours", "requisites", "restrictions",
+                   "repeatability", "cross_listed", "gen_ed", "grading", "review", "provenance"],
+      "additionalProperties": false,
+      "properties": {
+        "catalog": {"type": "string"},
+        "code": {"type": "string", "pattern": "^[A-Z]{3,5} [0-9]{4}[A-Z]{0,2}$",
+                 "description": "Key within a catalog; (catalog, code) is unique."},
+        "subject": {"type": "string", "pattern": "^[A-Z]{3,5}$"},
+        "number": {"type": "string", "pattern": "^[0-9]{4}[A-Z]{0,2}$"},
+        "number_parts": {
+          "type": "object",
+          "required": ["base", "suffix", "level"],
+          "additionalProperties": false,
+          "properties": {
+            "base": {"type": "integer"},
+            "suffix": {"type": ["string", "null"]},
+            "level": {"type": "integer"}
+          }
+        },
+        "title": {"type": "string", "minLength": 1},
+        "section": {"type": ["string", "null"], "description": "Department heading the course is printed under"},
+        "description": {"type": "string"},
+        "raw_fields": {
+          "type": "object",
+          "description": "Layer A: exact text after each field label.",
+          "additionalProperties": false,
+          "properties": {
+            "Credit Hours": {"type": "string"},
+            "Prerequisite(s)": {"type": "string"},
+            "Restriction(s)": {"type": "string"},
+            "Repeatability": {"type": "string"},
+            "Cross-listed Course(s)": {"type": "string"},
+            "Pre- or Corequisite(s)": {"type": "string"},
+            "General Education Requirement(s) Satisfied": {"type": "string"},
+            "Corequisite(s)": {"type": "string"},
+            "Grading Method": {"type": "string"}
+          }
+        },
+        "credit_hours": {
+          "type": ["object", "null"],
+          "required": ["raw", "min", "max", "options", "variable", "attributes", "status"],
+          "additionalProperties": false,
+          "properties": {
+            "raw": {"type": "string"},
+            "min": {"type": ["integer", "null"]},
+            "max": {"type": ["integer", "null"]},
+            "options": {"type": ["array", "null"], "items": {"type": "integer"}},
+            "variable": {"type": ["boolean", "null"]},
+            "attributes": {"type": "array", "items": {"type": "string"},
+                           "description": "SL service learning, W writing intensive, O oral communication"},
+            "status": {"enum": ["ok", "invalid"]}
+          }
+        },
+        "requisites": {
+          "type": "object",
+          "required": ["prerequisite", "corequisite", "pre_or_corequisite"],
+          "additionalProperties": false,
+          "properties": {
+            "prerequisite": {"$ref": "#/$defs/requisite"},
+            "corequisite": {"$ref": "#/$defs/requisite"},
+            "pre_or_corequisite": {"$ref": "#/$defs/requisite"}
+          }
+        },
+        "restrictions": {
+          "type": ["object", "null"],
+          "required": ["raw", "gates", "standing_levels", "min_gpa_values", "method"],
+          "additionalProperties": false,
+          "properties": {
+            "raw": {"type": "string"},
+            "gates": {"type": "array", "items": {"enum": ["program", "admission", "standing", "permission",
+                                                           "gpa", "honors", "credit_hours", "exclusion",
+                                                           "background_check"]}},
+            "standing_levels": {"type": "array", "items": {"enum": ["freshman", "sophomore", "junior", "senior"]}},
+            "min_gpa_values": {"type": "array", "items": {"type": "number"}},
+            "method": {"const": "keyword"}
+          }
+        },
+        "repeatability": {
+          "type": ["object", "null"],
+          "required": ["raw", "repeatable", "change_of_topic", "permission_of", "max_credit_hours",
+                       "max_repeats", "max_attempts"],
+          "additionalProperties": false,
+          "properties": {
+            "raw": {"type": "string"},
+            "repeatable": {"type": ["boolean", "null"]},
+            "change_of_topic": {"type": "boolean"},
+            "permission_of": {"type": ["string", "null"]},
+            "max_credit_hours": {"type": ["integer", "null"]},
+            "max_repeats": {"type": ["integer", "null"]},
+            "max_attempts": {"type": ["integer", "null"]}
+          }
+        },
+        "cross_listed": {
+          "type": ["object", "null"],
+          "required": ["raw", "courses", "status"],
+          "additionalProperties": false,
+          "properties": {
+            "raw": {"type": "string"},
+            "courses": {"type": "array", "items": {
+              "type": "object", "required": ["code", "section"], "additionalProperties": false,
+              "properties": {"code": {"type": "string"}, "section": {"type": ["string", "null"]}}}},
+            "status": {"enum": ["ok", "check"]}
+          }
+        },
+        "gen_ed": {
+          "type": ["object", "null"],
+          "required": ["raw", "labels"],
+          "additionalProperties": false,
+          "properties": {
+            "raw": {"type": "string"},
+            "labels": {"type": "array", "items": {
+              "type": "object", "required": ["label", "components"], "additionalProperties": false,
+              "properties": {"label": {"type": "string"},
+                             "components": {"type": "array", "items": {"type": "string"}}}}}
+          }
+        },
+        "grading": {
+          "type": ["object", "null"],
+          "required": ["raw", "method", "delivery_mode", "status"],
+          "additionalProperties": false,
+          "properties": {
+            "raw": {"type": "string"},
+            "method": {"enum": [null, "pass_no_credit", "satisfactory_unsatisfactory", "pass_unsatisfactory"]},
+            "delivery_mode": {"type": ["string", "null"]},
+            "status": {"enum": ["ok", "unrecognized", "delivery_mode_in_grading_field"]}
+          }
+        },
+        "review": {
+          "type": "array",
+          "items": {
+            "type": "object", "required": ["field", "severity", "reason"], "additionalProperties": false,
+            "properties": {"field": {"type": "string"}, "severity": {"$ref": "#/$defs/severity"},
+                           "reason": {"type": "string"}}
+          }
+        },
+        "provenance": {
+          "type": "object",
+          "required": ["listing_page", "order", "source_file", "printed_at", "producer"],
+          "additionalProperties": false,
+          "properties": {
+            "listing_page": {"type": "integer"},
+            "order": {"type": "integer", "description": "Position in the catalog listing, 1-based"},
+            "source_file": {"type": "string"},
+            "printed_at": {"type": ["string", "null"]},
+            "producer": {"type": ["string", "null"]}
+          }
+        }
+      }
+    },
+    "requisite": {
+      "type": ["object", "null"],
+      "required": ["raw", "timing", "status", "tree", "advisory", "courses_mentioned", "review"],
+      "additionalProperties": false,
+      "properties": {
+        "raw": {"type": "string"},
+        "timing": {"enum": ["before", "same_term", "before_or_same_term"]},
+        "status": {"enum": ["parsed", "proposed", "unparsed", "advisory_only"]},
+        "tree": {"oneOf": [{"type": "null"}, {"$ref": "#/$defs/node"}]},
+        "advisory": {"type": "array", "items": {
+          "type": "object", "required": ["text", "courses"], "additionalProperties": false,
+          "properties": {"text": {"type": "string"}, "courses": {"type": "array", "items": {"type": "string"}}}}},
+        "courses_mentioned": {"type": "array", "items": {"type": "string"}},
+        "review": {"type": "array", "items": {
+          "type": "object", "required": ["reason", "severity"], "additionalProperties": false,
+          "properties": {"reason": {"type": "string"}, "severity": {"$ref": "#/$defs/severity"}}}}
+      }
+    },
+    "node": {
+      "oneOf": [
+        {"type": "object", "required": ["op", "items"], "additionalProperties": false,
+         "properties": {"op": {"enum": ["and", "or"]}, "items": {"type": "array", "minItems": 2, "items": {"$ref": "#/$defs/node"}}}},
+        {"type": "object", "required": ["op", "n", "items"], "additionalProperties": false,
+         "properties": {"op": {"const": "n_of"}, "n": {"type": "integer", "minimum": 1},
+                        "items": {"type": "array", "items": {"$ref": "#/$defs/node"}}}},
+        {"$ref": "#/$defs/leaf"}
+      ]
+    },
+    "leaf": {
+      "type": "object",
+      "required": ["type"],
+      "properties": {
+        "type": {"enum": ["course", "level", "permission", "placement", "standing", "equivalent", "other", "text"]},
+        "notes": {"type": "array", "items": {"type": "string"}}
+      },
+      "allOf": [
+        {"if": {"properties": {"type": {"const": "course"}}},
+         "then": {"required": ["code", "min_grade", "timing"],
+                  "properties": {"code": {"type": "string"}, "min_grade": {"type": ["string", "null"]},
+                                 "timing": {"type": "string"}, "or_higher": {"type": "boolean"},
+                                 "max_attempts": {"type": ["integer", "null"]}}}},
+        {"if": {"properties": {"type": {"const": "level"}}},
+         "then": {"required": ["subject", "level", "number_prefix", "count", "text"]}},
+        {"if": {"properties": {"type": {"const": "permission"}}}, "then": {"required": ["of"]}},
+        {"if": {"properties": {"type": {"const": "placement"}}}, "then": {"required": ["test", "level"]}},
+        {"if": {"properties": {"type": {"const": "standing"}}}, "then": {"required": ["levels"]}},
+        {"if": {"properties": {"type": {"enum": ["other", "text"]}}}, "then": {"required": ["text"]}}
+      ]
+    }
+  }
+}
