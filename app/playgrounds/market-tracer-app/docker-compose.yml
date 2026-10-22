@@ -1,7 +1,0 @@
-services:
-  market-tracker:
-    build: .
-    container_name: market_tracker_app
-    ports:
-      - "8501:8501"
-    restart: always
