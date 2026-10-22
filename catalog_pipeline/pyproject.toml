@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "catalog-pipeline"
+version = "0.1.0"
+description = "ClassWizard: UNC Charlotte catalog print-outs -> validated, structured JSON"
+requires-python = ">=3.10"
+dependencies = ["pdfplumber>=0.10", "jsonschema>=4.18"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "pylint>=3"]
+
+[project.scripts]
+catalog-pipeline = "catalog_pipeline.cli:main"
+
+[tool.setuptools]
+packages = ["catalog_pipeline"]
+
+[tool.setuptools.package-data]
+catalog_pipeline = ["schema/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.pylint.format]
+max-line-length = 110
+
+[tool.pylint.design]
+max-args = 7
+max-locals = 25
+max-branches = 16
+max-statements = 60
+max-returns = 12
+max-attributes = 12
+
+[tool.pylint."messages control"]
+# C0103: short names (f, m, p) are used deliberately inside regex-heavy helpers.
+disable = ["C0103"]
