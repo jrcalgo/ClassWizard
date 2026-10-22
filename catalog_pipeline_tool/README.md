@@ -29,3 +29,9 @@ The operation `Microsoft Print to PDF` follows these parameters:
 - Options: Print headers and footers
     - Note about the options: Prefabably without any headers or footers, but I forgot to disable them and later noticed about 38 entries in and I am not keen to spend an hour to save to PDF again.
 
+# Docker Usage
+## Catalog Pipeline Setup
+- Unzip the file at the ROOT of the repository for this tool to work. Ensure that the name of the folder is called `catalog_pipeline`. It may seem confusing that there will be two folders, one in the other, called `catalog_pipeline` but I do not suggest to change it.
+
+
+- If you want to use Docker as the means to pipe catalog PDFs into output, you **must** put your PDFs in `data/catalog_pdfs`.
