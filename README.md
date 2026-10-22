@@ -22,11 +22,9 @@ docker compose up -d            # Run db
 
 
 ## catalog-scrape start
-The README under the `catalog_pipeline_tool` directory has most of the directions that you will need that does not merit rehashing in this README. Regardless, to use this tool:
-- Unzip `catalog_pipeline.zip` to the root directory of the repo. The name **must** be `catalog_pipeline`or the Dockerfile will fail to find the needed files.
 
-### Via Docker
-- Put your PDFs from the University Catalog into `data/catalog_pdfs`.
+### Docker
+- Put your PDFs from the University Catalog into `data/catalog_pdfs`. Formatting can be found in `catalog_pipeline/catalog_dataset/README.md`.
 - In the terminal, run `docker compose run --rm catalog-pipeline`. This will create a containter that will only exist to convert PDFs into the output files (read more in the README in the unzipped directory).
 
 ### Local
