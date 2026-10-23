@@ -1,10 +1,14 @@
 import html
+import json
+import os
+import urllib.error
+import urllib.request
 
 import streamlit as st
 
 import style
 
-CAREERS = ["Data Analyst", "Software Developer", "Business Analyst"]
+BACKEND_URL = os.environ.get("BACKEND_URL", "http://127.0.0.1:8000")
 
 CURRENT_COURSES = ["ITSC 1212", "STAT 1220", "WRDS 1103"]
 NEEDED_COURSES = ["ITSC 3160", "STAT 2122", "COMM 2100"]
@@ -84,7 +88,7 @@ def _seed_message(prefs: dict) -> str:
         priority = "closing skill gaps first: SQL, statistics, then communication"
     return (
         f"Using {prefs['filename']} as the uploaded audit. This draft does not "
-        f"parse it yet. For a {prefs['career']} role, the sample plan favors "
+        f"parse it yet. For {_career_label(prefs)}, the sample plan favors "
         f"{priority}. You set a cap of {prefs['credits']} credits per term; the "
         f"cards below are a fixed sample, not a schedule rebuilt to that cap. "
         f"{summer} Fall 2026 starts with ITSC 3160 and STAT 2122. Spring 2027 "
@@ -95,7 +99,7 @@ def _seed_message(prefs: dict) -> str:
 
 def _follow_up(prefs: dict) -> str:
     return (
-        f"The sample plan for {prefs['career']} is still the one in this draft. "
+        f"The sample plan for {_career_label(prefs)} is still the one in this draft. "
         f"ITSC 3160 covers the SQL gap, STAT 2122 covers statistics, and "
         f"COMM 2100 covers communication. The semester cards are the sequence "
         f"to follow, with a recorded cap of {prefs['credits']} credits per term."
@@ -146,7 +150,32 @@ def _node_center(column: int, row: int) -> tuple[float, float]:
     return x, y
 
 
-def _graph_html(career: str) -> str:
+def _career_label(prefs: dict) -> str:
+    titles = [career["title"] for career in prefs["careers"]]
+    if len(titles) == 1:
+        return titles[0]
+    if len(titles) == 2:
+        return f"{titles[0]} and {titles[1]}"
+    return ", ".join(titles[:-1]) + f", and {titles[-1]}"
+
+
+def _wrap_title(title: str, width: int = 22) -> list[str]:
+    lines: list[str] = []
+    current = ""
+    for word in title.split():
+        trial = word if not current else f"{current} {word}"
+        if len(trial) <= width:
+            current = trial
+        else:
+            if current:
+                lines.append(current)
+            current = word
+    if current:
+        lines.append(current)
+    return lines
+
+
+def _graph_html(careers: list[dict]) -> str:
     headings = [
         (36, "Current courses"),
         (266, "Courses needed"),
@@ -157,8 +186,8 @@ def _graph_html(career: str) -> str:
         for x, label in headings
     )
 
-    columns = [CURRENT_COURSES, NEEDED_COURSES, [career]]
-    kinds = ["current", "needed", "career"]
+    columns = [CURRENT_COURSES, NEEDED_COURSES]
+    kinds = ["current", "needed"]
     nodes = []
     for column, (labels, kind) in enumerate(zip(columns, kinds)):
         for row, label in enumerate(labels):
@@ -171,6 +200,28 @@ def _graph_html(career: str) -> str:
                 f"<text x='{left + 10}' y='{top + 23}'>{html.escape(label)}</text>"
                 "</g>"
             )
+    career_lines: list[str] = []
+    for career in careers:
+        career_lines.extend(_wrap_title(career["title"]))
+    if not career_lines:
+        career_lines = ["Career"]
+    career_height = max(36, 12 + len(career_lines) * 16)
+    career_x, career_y = _node_center(2, 0)
+    career_left = career_x - 90
+    career_top = career_y - career_height / 2
+    tspans = []
+    for index, line in enumerate(career_lines):
+        dy = 0 if index == 0 else 16
+        tspans.append(
+            f"<tspan x='{career_left + 10}' dy='{dy}'>{html.escape(line)}</tspan>"
+        )
+    first_baseline = career_top + 20
+    nodes.append(
+        "<g class='node career'>"
+        f"<rect x='{career_left}' y='{career_top}' width='180' height='{career_height}' rx='8'/>"
+        f"<text x='{career_left + 10}' y='{first_baseline}'>{''.join(tspans)}</text>"
+        "</g>"
+    )
 
     links = []
     for start_col, start_row, end_col, end_row in SKILL_LINKS:
@@ -201,6 +252,40 @@ def _init_state() -> None:
         st.session_state.messages = []
     if "prefs" not in st.session_state:
         st.session_state.prefs = None
+    if "selected_careers" not in st.session_state:
+        st.session_state.selected_careers = {}
+
+
+@st.cache_data(ttl=300, show_spinner=False)
+def _load_occupations() -> dict:
+    with urllib.request.urlopen(f"{BACKEND_URL}/occupations", timeout=5) as response:
+        return json.load(response)
+
+
+def _career_menu() -> list[dict]:
+    st.subheader("Target careers")
+    try:
+        payload = _load_occupations()
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError):
+        st.error("Occupations are unavailable.")
+        return []
+    chosen: dict[str, str] = {}
+    with st.container(border=True, height="content", gap=2, key="occ_menu"):
+        for category in payload.get("categories", []):
+            occupations = category["occupations"]
+            label = f"{category['name']} ({len(occupations)})"
+            with st.expander(label):
+                for occupation in occupations:
+                    soc = occupation["soc_code"]
+                    title = occupation["title"]
+                    checked = st.checkbox(title, key=f"occ_{soc}")
+                    if checked:
+                        chosen[soc] = title
+    st.session_state.selected_careers = chosen
+    count = len(chosen)
+    noun = "career" if count == 1 else "careers"
+    st.caption(f"{count} {noun} selected")
+    return [{"soc_code": soc, "title": title} for soc, title in chosen.items()]
 
 
 def _preferences() -> None:
@@ -209,8 +294,8 @@ def _preferences() -> None:
         type=["pdf"],
         help="Stored for this session only. This draft does not parse the file.",
     )
-    career_col, credit_col, summer_col = st.columns(3)
-    career = career_col.selectbox("Target career", CAREERS)
+    careers = _career_menu()
+    credit_col, summer_col = st.columns(2)
     credits = credit_col.slider("Credits per semester", min_value=3, max_value=18, value=15)
     include_summer = summer_col.checkbox("Include summer terms", value=True)
     priority = st.radio(
@@ -222,10 +307,13 @@ def _preferences() -> None:
         if uploaded is None:
             st.warning("Upload a DegreeWorks PDF first.")
             return
+        if not careers:
+            st.warning("Select at least one career.")
+            return
         st.session_state.plan_ready = True
         st.session_state.prefs = {
             "filename": uploaded.name,
-            "career": career,
+            "careers": careers,
             "credits": credits,
             "include_summer": include_summer,
             "priority": priority,
@@ -263,7 +351,7 @@ def _results() -> None:
             st.subheader("Skill gaps")
             _show_html(_gaps_html())
             st.subheader("Skill links")
-            _show_html(_graph_html(prefs["career"]))
+            _show_html(_graph_html(prefs["careers"]))
 
 
 def main() -> None:
@@ -271,7 +359,7 @@ def main() -> None:
     style.apply()
     _init_state()
     st.title("ClassWizard")
-    st.caption("Draft planner. Recommendations below use sample courses.")
+    st.caption("Draft planner. Currently WIP; non-operational.")
     _preferences()
     if st.session_state.plan_ready:
         _results()

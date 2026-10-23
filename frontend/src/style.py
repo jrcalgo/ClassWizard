@@ -99,6 +99,65 @@ _CSS = """
   font-size: 11px;
   fill: #5c6b64;
 }
+
+.st-key-occ_menu,
+.st-key-occ_menu [data-testid="stVerticalBlockBorderWrapper"] {
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
+  padding-top: 0.45rem;
+  padding-bottom: 0.45rem;
+}
+
+.st-key-occ_menu [data-testid="stElementContainer"] {
+  margin: 0;
+  padding: 0;
+}
+
+.st-key-occ_menu div[data-testid="stExpander"] {
+  margin: 0;
+  border: none;
+}
+
+div[data-testid="stExpander"] details summary {
+  min-height: 0;
+  padding: 0.15rem 0.45rem;
+}
+
+div[data-testid="stExpander"] details summary p {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.2;
+}
+
+div[data-testid="stExpanderDetails"] {
+  padding: 0 0.45rem 0.15rem;
+}
+
+div[data-testid="stExpander"] [data-testid="stVerticalBlock"] {
+  gap: 0;
+}
+
+div[data-testid="stExpander"] [data-testid="stElementContainer"] {
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+div[data-testid="stExpander"] [data-testid="stCheckbox"] {
+  min-height: 0;
+}
+
+div[data-testid="stExpander"] [data-testid="stCheckbox"] label {
+  min-height: 0;
+  padding: 0.05rem 0;
+}
+
+div[data-testid="stExpander"] [data-testid="stCheckbox"] label p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.15;
+}
 </style>
 """
 
