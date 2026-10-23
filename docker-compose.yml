@@ -1,0 +1,27 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-classwizard}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-classwizard}
+      POSTGRES_DB: ${POSTGRES_DB:-classwizard}
+      DATABASE_URL: postgresql://${POSTGRES_USER:-classwizard}:${POSTGRES_PASSWORD:-classwizard}@127.0.0.1:5432/${POSTGRES_DB:-classwizard}
+      REDIS_URL: ${REDIS_URL:-redis://127.0.0.1:6379/0}
+    ports:
+      - "8000:8000"
+    volumes:
+      - ${CATALOG_DATASET_DIR:-./data/_datasets/uncc-courses/catalog/dataset}:/data/dataset:ro
+      - ./data/_datasets/onet:/data/onet:ro
+      - ./data/catalog_out:/data/out
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    environment:
+      BACKEND_URL: http://backend:8000
+    ports:
+      - "8501:8501"
+

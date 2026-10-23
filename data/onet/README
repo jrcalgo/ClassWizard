@@ -1,0 +1,20 @@
+Prerequisites
+
+Ensure you have python 3.9, or 3.10
+Please go to our private cloud or a terminal of Ubuntu 22.04 
+
+Create a python virtual environment:
+$ python -m venv .venv
+
+Activate the python virtual environment:
+$ source .venv/bin/activate
+
+Ensure you have pandas and pydantic installed:
+$ pip install pandas pydantic requests
+
+
+Batch Processing Pipeline Script (onet_etl_pipeline.py)
+This script processes raw tabular data dumps from O*NET, cleans null values, enforces data types, and exports clean JSONL and CSV deliverables.
+$ python onet_etl_pipeline.py
+
+

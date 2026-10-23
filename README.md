@@ -12,20 +12,22 @@ With the diverse classes offered at the university, college students struggle to
 
 # How to Start
 
-## Quick Start
 ```bash
-cp .\.env.example .\.env        # Copy environment
-docker compose up -d            # Run db
+cp .env.example .env
+docker compose up
 ```
-## How to Start
 
+The first boot unzips `data/_datasets/uncc-courses/catalog/dataset/undergraduate-catalog-2026-2027.zip`, builds catalog JSON, and loads PostgreSQL. The directory inside that zip is spelled `undegraduate-catalog-2026-2027` (missing an r). Extracted PDFs and JSON stay in `data/catalog_out` and are not committed. A later boot skips a catalog or O*NET release already recorded in `ingest_runs`.
 
+Postgres stores courses, requisite links, programs, and O*NET occupations and skills. O*NET is read from `data/_datasets/onet`. DegreeWorks uploads stay in Redis for the session only and are not written to Postgres. Redis is empty until a student uploads a PDF.
+
+The API is at http://127.0.0.1:8000/health. The Streamlit page is at http://127.0.0.1:8501.
+
+## Restore the database
+
+See [database_dump/README.MD](database_dump/README.MD). 
 
 ## catalog-scrape start
-
-### Docker
-- Put your PDFs from the University Catalog into `data/catalog_pdfs`. Formatting can be found in `catalog_pipeline/catalog_dataset/README.md`.
-- In the terminal, run `docker compose run --rm catalog-pipeline`. This will create a containter that will only exist to convert PDFs into the output files (read more in the README in the unzipped directory).
 
 ### Local
 - Ensure the terminal is in `/catalog_pipeline`
@@ -40,11 +42,9 @@ python -m catalog_pipeline build \
 
 Replace the path to where you stored the catalog PDFs. 
 
-
 # Tools
 catalog-scrape
-- Turns the UNC Charlotte "Course Descriptions" catalog print-outs into validated JSON for
-ClassWizard. 
+- Turns the UNC Charlotte "Course Descriptions" catalog print-outs into validated JSON for ClassWizard. 
 
 # Technologies
 What the software uses are the following:
@@ -66,4 +66,3 @@ Docker
 | Outputs          | Recommended courses, skill-gap view, explanations                                                                         |
 
 This software takes source data from the UNC- Charlotte course catalog, DegreeWorks PDfs submitted by the user, and the O*NET career database. PostgreSQL, pgvector, and Redis will be used for storage in their respective locations. AI will be used to match skills, and suggest courses between matching career pathways and produce recommended courses in a front-end.
-
