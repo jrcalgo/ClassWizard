@@ -1,8 +1,11 @@
 # Starts the stack in docker-compose.yml, which builds:
 #   backend/Dockerfile  (Postgres with pgvector, Redis, and the catalog CLI)
 #   frontend/Dockerfile
-# The catalog dataset is mounted into the backend container at /data/dataset
-# from data/_datasets/uncc-courses/catalog/dataset.
+# The catalog zip is mounted at /data/dataset from
+# data/_datasets/uncc-courses/catalog/dataset (undergraduate-catalog-2026-2027.zip).
+# O*NET CSVs are mounted at /data/onet. First boot unzips the catalog, builds
+# JSON under data/catalog_out, and loads Postgres. Later boots skip a release
+# already recorded in ingest_runs.
 #
 #   docker build -t classwizard .
 #   docker run --rm \
