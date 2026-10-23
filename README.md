@@ -25,16 +25,7 @@ The API is at http://127.0.0.1:8000/health. The Streamlit page is at http://127.
 
 ## Restore the database
 
-`data_dump/classwizard.sql` is a PostgreSQL dump of the loaded catalog, program, and O*NET tables, including the `vector` extension. Redis is not in the dump. It only holds a student's DegreeWorks session and starts empty.
-
-Start the stack, then restore into the Postgres running inside the backend container. The dump drops and recreates those tables.
-
-```bash
-docker compose up -d
-docker compose exec -T backend psql -h 127.0.0.1 -U classwizard -d classwizard -v ON_ERROR_STOP=1 < data_dump/classwizard.sql
-```
-
-If `.env` sets `POSTGRES_USER`, `POSTGRES_PASSWORD`, or `POSTGRES_DB`, use those values. The password must match the database that was created on first boot. Default user, password, and database name are `classwizard`. 
+See [database_dump/README.MD](database_dump/README.MD). 
 
 
 # Tools
