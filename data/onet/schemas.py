@@ -11,12 +11,14 @@ class Skill(BaseModel):
     element_id: str
     element_name: Optional[str] = "Essential Skill"
     data_value: float = Field(default=1.0, description="Importance or Level score")
+    scale_id: Optional[str] = None
 
 class KnowledgeArea(BaseModel):
     onet_soc_code: str
     element_id: str
     element_name: Optional[str] = "Knowledge Area"
     data_value: float
+    scale_id: Optional[str] = None
 
 class EducationRequirement(BaseModel):
     onet_soc_code: str

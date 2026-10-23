@@ -4,7 +4,7 @@ Turns the UNC Charlotte "Course Descriptions" catalog print-outs into validated 
 ClassWizard. It was built and tested on the 2026–27 Undergraduate Catalog: 38 PDFs, 3,794
 courses.
 
-The output has three layers, and every derived value keeps the catalog's raw text next to it:
+The output has three layers, and every derived value keeps the catalog's raw text next to it:0
 
 | Layer | What it holds | Trust |
 |---|---|---|
@@ -19,8 +19,6 @@ shaped like link tables.
 
 ```bash
 pip install -e ".[dev]"            # needs Python 3.10+, and poppler's pdftotext on PATH
-# On BASH, to install Poppler with winget
-
 python -m catalog_pipeline build \
     --pdf-dir path/to/pdfs \
     --catalog "Undergraduate 2026-2027" \
@@ -28,7 +26,7 @@ python -m catalog_pipeline build \
 ```
 
 To install poppler: `apt install poppler-utils` on Debian/Ubuntu, `brew install poppler` on
-macOS, or on Windows add the poppler `bin` folder to PATH or `   winget install --id=oschwartz10612.Poppler -e` in winget.
+macOS, or on Windows add the poppler `bin` folder to PATH, or run `winget install --id oschwartz10612.Poppler --exact --version 25.07.0-0` with winget.
 
 `python -m catalog_pipeline validate ...` runs only the checks.
 

@@ -87,6 +87,9 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
+# Generated catalog unzip and ETL JSON
+data/catalog_out/
+
 # Environments
 .env
 .venv
@@ -119,3 +122,7 @@ dmypy.json
 
 #Pycharm IDE
 .idea
+
+# ClassWizard data folders:
+data/*/*
+!data/*/.gitkeep

@@ -50,6 +50,7 @@ class ONetBatchETL:
             "onetsoc_code": "onet_soc_code", "O*NET-SOC Code": "onet_soc_code",
             "element_id": "element_id", "Element ID": "element_id",
             "element_name": "element_name", "Element Name": "element_name",
+            "scale_id": "scale_id", "Scale ID": "scale_id",
             "data_value": "data_value", "Data Value": "data_value"
         }
         df = df.rename(columns=rename_map)
@@ -66,7 +67,10 @@ class ONetBatchETL:
         if "element_id" not in df.columns:
             df["element_id"] = "ESSENTIAL_SKILL"
 
-        return df[["onet_soc_code", "element_id", "element_name", "data_value"]]
+        if "scale_id" not in df.columns:
+            df["scale_id"] = None
+
+        return df[["onet_soc_code", "element_id", "element_name", "scale_id", "data_value"]]
 
     def extract_and_clean_knowledge(self) -> pd.DataFrame:
         """Extracts Knowledge Areas from knowledge.csv."""
@@ -77,6 +81,7 @@ class ONetBatchETL:
             "onetsoc_code": "onet_soc_code", "O*NET-SOC Code": "onet_soc_code",
             "element_id": "element_id", "Element ID": "element_id",
             "element_name": "element_name", "Element Name": "element_name",
+            "scale_id": "scale_id", "Scale ID": "scale_id",
             "data_value": "data_value", "Data Value": "data_value"
         }
         df = df.rename(columns=rename_map)
@@ -90,7 +95,10 @@ class ONetBatchETL:
         if "element_id" not in df.columns:
             df["element_id"] = "KNOWLEDGE"
 
-        return df[["onet_soc_code", "element_id", "element_name", "data_value"]]
+        if "scale_id" not in df.columns:
+            df["scale_id"] = None
+
+        return df[["onet_soc_code", "element_id", "element_name", "scale_id", "data_value"]]
 
     def extract_and_clean_education(self) -> pd.DataFrame:
         """Extracts Education Requirements from education.csv."""
