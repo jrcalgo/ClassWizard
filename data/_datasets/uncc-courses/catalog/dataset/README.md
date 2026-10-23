@@ -1,12 +1,13 @@
 # Catalog Dataset
 
 ## Overview
-This folder contains PDFs of the Undergraduate and Academic Academic Catalog for the 2026-2027 academic year. As the catalog-scraper has been discontinued due to an AWS WAF challenge, I had to produce a different means of acquiring such data. For this plan, I will choose to use Microsoft: Print to PDF all pages of the catalog.
+This folder contains the files that were tested for the catalog_pipeline, specifically the University of North Carolina - Charlotte Course Catalog for the 2026-2027 year. Directions are below to replicate this.
 
 ## Requirements to Replicate
 Windows 10/11 OS.
+Patience to do save PDFs manually for an academic year.
 
-## Steps
+## Steps to gather vaild PDFs for this tool
 
 1. Go to Course Descriptions. This can be accessed via `https://catalog.charlotte.edu/` > 2026-2027 Undergraduate/Graduate Catalog > Course Descriptions.
 2. On the right of the title `Course Descriptions` there is a print icon. Click it to pull a popup.
