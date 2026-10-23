@@ -1,0 +1,127 @@
+# ClassWizard local stack
+#
+#   First time:  copy .env.example to .env and set a password
+#   Start DB:    docker compose up -d
+#   Run parser:  docker compose run --rm catalog-pipeline
+#   Run tests:   docker compose run --rm --entrypoint pytest catalog-pipeline
+#   DB web UI:   docker compose --profile admin up -d      (then http://localhost:5050)
+#   Stop:        docker compose down        (keeps data)
+#   Reset DB:    docker compose down -v     (deletes data; init SQL runs again on next up)
+
+name: classwizard
+
+# Connection settings shared by every service that talks to Postgres.
+# New services reuse them with "environment: *db-client-env".
+x-db-client-env: &db-client-env
+  POSTGRES_HOST: db
+  POSTGRES_PORT: 5432
+  POSTGRES_DB: ${POSTGRES_DB:-classwizard}
+  POSTGRES_USER: ${POSTGRES_USER:-classwizard}
+  POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env (see .env.example)}
+  DATABASE_URL: postgresql://${POSTGRES_USER:-classwizard}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB:-classwizard}
+
+services:
+
+  # ---------------------------------------------------------------- storage
+  db:
+    # Official Postgres 17 with the pgvector extension compiled in.
+    # Pinned to 17: the Postgres 18 image moved its data directory, so the
+    # volume path below would be wrong there.
+    image: pgvector/pgvector:pg17
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-classwizard}
+      POSTGRES_USER: ${POSTGRES_USER:-classwizard}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env (see .env.example)}
+    ports:
+      # Bound to localhost only, so the database is not reachable from the network.
+      - "127.0.0.1:${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      # Files here run once, in name order, only when pgdata is empty.
+      - ./db/init/00_extensions.sql:/docker-entrypoint-initdb.d/00_extensions.sql:ro
+      - "./Major&courses/classes.sql:/docker-entrypoint-initdb.d/10_classes.sql:ro"
+      - "./Major&courses/major_requirements.sql:/docker-entrypoint-initdb.d/20_major_requirements.sql:ro"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+
+  # ------------------------------------------------------------- ingestion
+  catalog-pipeline:
+    # Batch job, not a server: it runs, writes files, and exits.
+    # The profile keeps it out of a plain "docker compose up".
+    pull_policy: build                   # built locally, never pulled from a registry
+    profiles: ["pipelines"]
+    build:
+      context: .
+      dockerfile: docker/catalog_pipeline/Dockerfile
+    image: classwizard/catalog-pipeline:dev
+    environment:
+      CATALOG_PDF_DIR: /data/pdfs        # turns on tests/test_integration.py
+    volumes:
+      - ${CATALOG_PDF_DIR:-./data/catalog_pdfs}:/data/pdfs:ro
+      - ./data/catalog_out:/data/out
+    command:
+      - build
+      - --pdf-dir
+      - /data/pdfs
+      - --catalog
+      - ${CATALOG_NAME:-Undergraduate 2026-2027}
+      - --out
+      - /data/out
+
+  # ------------------------------------------------------------ dev tools
+  pgadmin:
+    profiles: ["admin"]
+    image: dpage/pgadmin4:9
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_EMAIL:-admin@classwizard.local}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD:?Set PGADMIN_PASSWORD in .env (see .env.example)}
+      PGADMIN_CONFIG_SERVER_MODE: "False"
+    ports:
+      - "127.0.0.1:${PGADMIN_PORT:-5050}:80"
+    volumes:
+      - pgadmin-data:/var/lib/pgadmin
+    depends_on:
+      db:
+        condition: service_healthy
+
+  # ------------------------------------------------- planned (not built yet)
+  # Uncomment each block once its folder has a Dockerfile; Compose fails on a
+  # build context with no Dockerfile.
+  #
+  # backend:
+  #   build: ./app/backend
+  #   environment: *db-client-env
+  #   ports:
+  #     - "127.0.0.1:${BACKEND_PORT:-8000}:8000"
+  #   depends_on:
+  #     db:
+  #       condition: service_healthy
+  #
+  # frontend:
+  #   build: ./app/frontend
+  #   environment:
+  #     BACKEND_URL: http://backend:8000
+  #   ports:
+  #     - "127.0.0.1:${FRONTEND_PORT:-8501}:8501"
+  #   depends_on:
+  #     - backend
+  #
+  # db-loader:            # catalog JSON -> Postgres (the README's "layer D")
+  #   profiles: ["pipelines"]
+  #   build: ...
+  #   environment: *db-client-env
+  #   volumes:
+  #     - ./data/catalog_out:/data/in:ro
+  #   depends_on:
+  #     db:
+  #       condition: service_healthy
+
+volumes:
+  pgdata:
+  pgadmin-data:

@@ -19,8 +19,6 @@ shaped like link tables.
 
 ```bash
 pip install -e ".[dev]"            # needs Python 3.10+, and poppler's pdftotext on PATH
-# On BASH, to install Poppler with winget
-
 python -m catalog_pipeline build \
     --pdf-dir path/to/pdfs \
     --catalog "Undergraduate 2026-2027" \
@@ -28,7 +26,7 @@ python -m catalog_pipeline build \
 ```
 
 To install poppler: `apt install poppler-utils` on Debian/Ubuntu, `brew install poppler` on
-macOS, or on Windows add the poppler `bin` folder to PATH or `   winget install --id=oschwartz10612.Poppler -e` in winget.
+macOS, or on Windows add the poppler `bin` folder to PATH.
 
 `python -m catalog_pipeline validate ...` runs only the checks.
 
