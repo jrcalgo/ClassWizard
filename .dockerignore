@@ -1,0 +1,6 @@
+.git
+project_docs
+data/_datasets
+**/__pycache__
+**/.pytest_cache
+**/*.pyc
