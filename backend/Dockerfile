@@ -32,8 +32,8 @@ COPY data/uncc-courses/catalog/pipeline/ /tmp/catalog/catalog_pipeline/
 COPY data/uncc-courses/catalog/tests/ /tmp/catalog/tests/
 COPY data/onet/etl_pipeline.py /app/data/onet/etl_pipeline.py
 COPY data/onet/schemas.py /app/data/onet/schemas.py
-COPY ["Major&courses/major_requirements.sql", "/app/sql/major_requirements.sql"]
-COPY ["Major&courses/classes.sql", "/app/sql/classes.sql"]
+COPY ["docs/Major&courses/major_requirements.sql", "/app/sql/major_requirements.sql"]
+COPY ["docs/Major&courses/classes.sql", "/app/sql/classes.sql"]
 RUN pip3 install --no-cache-dir --break-system-packages --no-deps /tmp/catalog \
  && rm -rf /tmp/catalog
 
