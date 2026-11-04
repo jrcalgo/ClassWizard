@@ -121,3 +121,38 @@ CREATE TABLE IF NOT EXISTS text_chunks (
   embedding vector(384),
   UNIQUE (source_type, source_key)
 );
+
+
+CREATE TABLE IF NOT EXISTS syllabus_triples (
+  id bigint GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+  triple_id text NOT NULL,
+  subject text NOT NULL,
+  subject_type text NOT NULL,
+  subject_canonical_id text,
+  predicate text NOT NULL,
+  object text NOT NULL,
+  object_type text NOT NULL,
+  object_canonical_id text,
+  confidence numeric(3, 2) NOT NULL DEFAULT 0.9,
+  evidence text NOT NULL DEFAULT '',
+  filename text,
+  page_num integer,
+  section_heading text,
+  embedding vector(384),
+  UNIQUE (triple_id, filename)
+);
+
+CREATE INDEX IF NOT EXISTS syllabus_triples_subject_idx
+  ON syllabus_triples (subject);
+
+CREATE INDEX IF NOT EXISTS syllabus_triples_predicate_idx
+  ON syllabus_triples (predicate);
+
+CREATE INDEX IF NOT EXISTS syllabus_triples_object_idx
+  ON syllabus_triples (object);
+
+CREATE INDEX IF NOT EXISTS syllabus_triples_filename_idx
+  ON syllabus_triples (filename);
+
+CREATE INDEX IF NOT EXISTS syllabus_triples_embedding_hnsw
+  ON syllabus_triples USING hnsw (embedding vector_cosine_ops);

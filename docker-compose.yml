@@ -15,6 +15,7 @@ services:
       - ${CATALOG_DATASET_DIR:-./data/_datasets/uncc-courses/catalog/dataset}:/data/dataset:ro
       - ./data/_datasets/onet:/data/onet:ro
       - ./data/catalog_out:/data/out
+      - ./data/uncc-courses/syllabi:/data/syllabi:ro
 
   frontend:
     build:

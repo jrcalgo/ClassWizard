@@ -39,7 +39,9 @@ RUN pip3 install --no-cache-dir --break-system-packages --no-deps /tmp/catalog \
 
 COPY init.sql /docker-entrypoint-initdb.d/init.sql
 COPY backend/start.sh /usr/local/bin/start-backend.sh
-RUN chmod +x /usr/local/bin/start-backend.sh \
+RUN tr -d '\r' < /usr/local/bin/start-backend.sh > /usr/local/bin/start-backend.sh.clean \
+ && mv /usr/local/bin/start-backend.sh.clean /usr/local/bin/start-backend.sh \
+ && chmod 755 /usr/local/bin/start-backend.sh \
  && mkdir -p /data/out /data/dataset
 
 EXPOSE 8000
@@ -47,4 +49,4 @@ EXPOSE 8000
 HEALTHCHECK --interval=10s --timeout=5s --start-period=600s --retries=30 \
     CMD python3 -c "import urllib.request; assert urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=3).read()==b'OK'"
 
-ENTRYPOINT ["/usr/local/bin/start-backend.sh"]
+ENTRYPOINT ["/bin/bash", "/usr/local/bin/start-backend.sh"]

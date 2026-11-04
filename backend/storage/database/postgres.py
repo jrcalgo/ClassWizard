@@ -23,6 +23,8 @@ PDF_ROOT = OUT_DIR / "pdfs"
 ONET_DIR = Path(os.environ.get("ONET_DIR", "/data/onet/raw_onet_data/db_31_0_csv"))
 SQL_DIR = Path(os.environ.get("PROGRAM_SQL_DIR", "/app/sql"))
 SCHEMA_SQL = Path(__file__).resolve().parents[2] / "schema.sql"
+SYLLABI_RELEASE = "v1"
+SYLLABI_DIR = Path(os.environ.get("SYLLABI_DIR", "/data/syllabi"))
 
 REQUISITE_KIND = {
     "Prerequisite(s)": "prerequisite",
@@ -41,6 +43,7 @@ def main() -> None:
         load_catalog(conn)
         load_onet(conn)
         load_programs(conn)
+        load_syllabi(conn)
         print_counts(conn)
 
 
@@ -488,6 +491,69 @@ def load_programs(conn) -> None:
     print("loaded programs from Major&courses SQL")
 
 
+def find_syllabi_json() -> Path | None:
+    candidates = [
+        SYLLABI_DIR / "valid_triples_with_embeddings.json",
+        Path(__file__).resolve().parents[3] / "data" / "uncc-courses" / "syllabi" / "valid_triples_with_embeddings.json",
+    ]
+    for candidate in candidates:
+        if candidate.is_file():
+            return candidate
+    return None
+
+
+def load_syllabi(conn) -> None:
+    if already_loaded(conn, "syllabi", SYLLABI_RELEASE):
+        print(f"syllabi {SYLLABI_RELEASE} already loaded")
+        return
+    json_path = find_syllabi_json()
+    if not json_path:
+        print("syllabus triples embedding JSON not found, skipping syllabi load")
+        return
+    records = json.loads(json_path.read_text(encoding="utf-8"))
+    rows = []
+    for r in records:
+        emb = r.get("embedding")
+        emb_str = str(emb) if emb is not None else None
+        rows.append(
+            (
+                r.get("triple_id", ""),
+                r.get("subject", ""),
+                r.get("subject_type", ""),
+                r.get("subject_canonical_id") or None,
+                r.get("predicate", ""),
+                r.get("object", ""),
+                r.get("object_type", ""),
+                r.get("object_canonical_id") or None,
+                float(r.get("confidence") or 0.9),
+                r.get("evidence", ""),
+                r.get("filename") or None,
+                int(r["page_num"]) if r.get("page_num") else None,
+                r.get("section_heading") or None,
+                emb_str,
+            )
+        )
+    with conn.transaction():
+        conn.execute("DELETE FROM syllabus_triples")
+        copy_rows(
+            conn,
+            """
+            COPY syllabus_triples (
+              triple_id, subject, subject_type, subject_canonical_id,
+              predicate, object, object_type, object_canonical_id,
+              confidence, evidence, filename, page_num, section_heading,
+              embedding
+            ) FROM STDIN
+            """,
+            rows,
+        )
+        conn.execute(
+            "INSERT INTO ingest_runs (source, release) VALUES (%s, %s)",
+            ("syllabi", SYLLABI_RELEASE),
+        )
+    print(f"loaded syllabi {SYLLABI_RELEASE}: {len(rows)} triples with embeddings")
+
+
 def print_counts(conn) -> None:
     tables = (
         "courses",
@@ -501,6 +567,7 @@ def print_counts(conn) -> None:
         "occupation_technologies",
         "skill_terms",
         "text_chunks",
+        "syllabus_triples",
     )
     for table in tables:
         count = conn.execute(f"SELECT count(*) FROM {table}").fetchone()[0]
