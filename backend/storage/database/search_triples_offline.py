@@ -1,13 +1,3 @@
-"""Standalone semantic search over syllabus triples using precomputed embeddings.
-
-Runs completely offline using valid_triples_with_embeddings.json.
-Does NOT require a database connection.
-
-Usage:
-    python backend/storage/database/search_triples_offline.py "machine learning prerequisites"
-"""
-
-from __future__ import annotations
 
 import json
 import math
