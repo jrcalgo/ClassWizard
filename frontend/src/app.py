@@ -6,6 +6,7 @@ import urllib.request
 
 import streamlit as st
 
+import chat
 import style
 from uploads.degreeworks import AuditUnavailable, load_audit, post_audit, watch_session
 
@@ -109,13 +110,26 @@ def _seed_message(prefs: dict, audit: dict) -> str:
     )
 
 
-def _follow_up(prefs: dict) -> str:
-    return (
-        f"The sample plan for {_career_label(prefs)} is still the one in this draft. "
-        f"ITSC 3160 covers the SQL gap, STAT 2122 covers statistics, and "
-        f"COMM 2100 covers communication. The semester cards are the sequence "
-        f"to follow, with a recorded cap of {prefs['credits']} credits per term."
-    )
+def _chat_reply(prefs: dict, prompt: str) -> str:
+    session_id = st.session_state.session_id
+    if not session_id:
+        return "The audit is gone. Upload the DegreeWorks PDF again."
+    history = [
+        {"role": item["role"], "content": item["content"]}
+        for item in st.session_state.messages[:-1]
+    ]
+    try:
+        payload = chat.post_chat(BACKEND_URL, session_id, prompt, history, prefs)
+    except chat.ChatFailed as exc:
+        if exc.status == 404:
+            return "The audit is gone. Upload the DegreeWorks PDF again."
+        if str(exc) == "timed out":
+            return "The reply timed out."
+        return f"The reply could not be generated. {exc}"
+    reply = payload.get("reply")
+    if not reply:
+        return "The reply could not be generated."
+    return reply
 
 
 def _terms_html() -> str:
@@ -365,12 +379,14 @@ def _store_upload(
         "include_summer": include_summer,
         "priority": priority,
     }
-    st.session_state.messages = [
-        {
-            "role": "assistant",
-            "content": _seed_message(st.session_state.prefs, payload["audit"]),
-        }
-    ]
+    seed = _seed_message(st.session_state.prefs, payload["audit"])
+    st.session_state.messages = []
+    reply = _chat_reply(
+        st.session_state.prefs,
+        "Write the first recommendation from this parsed-audit draft. "
+        "Do not copy the draft verbatim.\n\n" + seed,
+    )
+    st.session_state.messages = [{"role": "assistant", "content": reply}]
 
 
 def _preferences() -> None:
@@ -410,7 +426,7 @@ def _chat(prefs: dict) -> None:
     if prompt:
         st.session_state.messages.append({"role": "user", "content": prompt})
         st.session_state.messages.append(
-            {"role": "assistant", "content": _follow_up(prefs)}
+            {"role": "assistant", "content": _chat_reply(prefs, prompt)}
         )
         st.rerun()
 

@@ -24,9 +24,15 @@ WORKDIR /app
 RUN pip3 install --no-cache-dir --break-system-packages \
         "fastapi" "uvicorn" "psycopg[binary]" "redis" \
         "pdfplumber>=0.10" "jsonschema>=4.18" \
-        "pandas" "pydantic" "litellm" "python-multipart"
+        "pandas" "pydantic" "litellm" "python-multipart" \
+        "sentence-transformers"
+
+ENV HF_HOME=/opt/hf \
+    SENTENCE_TRANSFORMERS_HOME=/opt/sentence-transformers
+RUN python3 -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
 
 COPY backend /app/backend
+COPY ai /app/ai
 COPY data/__init__.py /app/data/__init__.py
 COPY data/degreeworks /app/data/degreeworks
 COPY data/uncc-courses/catalog/pyproject.toml /tmp/catalog/pyproject.toml

@@ -1,18 +1,39 @@
 import os
 import re
 import uuid
+from contextlib import asynccontextmanager
 from dataclasses import asdict
 
 import psycopg
 from fastapi import FastAPI, File, Form, UploadFile
 from fastapi.responses import JSONResponse, PlainTextResponse
+from pydantic import BaseModel, Field
 
+from ai.nlp.explanations.llm import explain
 from backend.storage.cache.redis import delete_audit, load_audit, ping, save_audit
+from backend.storage.database.pgvector import search_syllabus_triples
 from data.degreeworks.parser import parse_audit
 
 _SESSION_ID = re.compile(r"[0-9a-f]{32}")
+_ENCODER = None
+_MODEL_NAME = "all-MiniLM-L6-v2"
 
-app = FastAPI()
+
+def _load_encoder() -> None:
+    """Load the syllabus embedding model once. Weights are baked into the image."""
+    global _ENCODER
+    from sentence_transformers import SentenceTransformer
+
+    _ENCODER = SentenceTransformer(_MODEL_NAME, local_files_only=True)
+
+
+@asynccontextmanager
+async def _lifespan(_app: FastAPI):
+    _load_encoder()
+    yield
+
+
+app = FastAPI(lifespan=_lifespan)
 
 # Computer science and IT roles only. Order is the menu order.
 OCCUPATION_CATEGORIES = [
@@ -142,3 +163,53 @@ def remove_audit(session_id: str):
     except Exception:
         return JSONResponse({"detail": "audit cache unavailable"}, status_code=503)
     return PlainTextResponse("", status_code=204)
+
+
+class ChatRequest(BaseModel):
+    session_id: str
+    message: str
+    history: list[dict] = Field(default_factory=list)
+    prefs: dict = Field(default_factory=dict)
+
+
+def _search_text(question: str, audit: dict) -> str:
+    parts = [question.strip()]
+    for item in audit.get("courses_not_taken") or []:
+        block = (item.get("block") or "").strip()
+        text = (item.get("text") or "").strip()
+        if block or text:
+            parts.append(f"{block}: {text}".strip())
+    return "\n".join(part for part in parts if part)
+
+
+def _retrieve(question: str, audit: dict) -> list[dict]:
+    if _ENCODER is None:
+        raise RuntimeError("encoder not loaded")
+    vector = _ENCODER.encode(_search_text(question, audit)).tolist()
+    with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+        return search_syllabus_triples(conn, vector, top_k=5)
+
+
+@app.post("/chat")
+def post_chat(body: ChatRequest):
+    """Answer from syllabus triples and the stored DegreeWorks audit."""
+    if _session_id(body.session_id) is None:
+        return JSONResponse({"detail": "audit not found"}, status_code=404)
+    if not body.message.strip():
+        return JSONResponse({"detail": "message required"}, status_code=422)
+    try:
+        audit = load_audit(body.session_id)
+    except Exception:
+        return JSONResponse({"detail": "audit cache unavailable"}, status_code=503)
+    if audit is None:
+        return JSONResponse({"detail": "audit not found"}, status_code=404)
+    try:
+        rows = _retrieve(body.message, audit)
+        reply = explain(body.message, body.history, audit, body.prefs, rows)
+    except RuntimeError as exc:
+        return JSONResponse({"detail": str(exc)}, status_code=503)
+    except Exception:
+        return JSONResponse({"detail": "reply unavailable"}, status_code=503)
+    if not reply:
+        return JSONResponse({"detail": "reply unavailable"}, status_code=503)
+    return {"reply": reply}
