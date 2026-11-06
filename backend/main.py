@@ -6,7 +6,9 @@ from dataclasses import asdict
 import psycopg
 from fastapi import FastAPI, File, Form, UploadFile
 from fastapi.responses import JSONResponse, PlainTextResponse
+from pydantic import BaseModel
 
+from ai.recommendations.ranking import MissingVectors, UnsupportedAudit, recommend
 from backend.storage.cache.redis import delete_audit, load_audit, ping, save_audit
 from data.degreeworks.parser import parse_audit
 
@@ -85,6 +87,52 @@ def occupations():
         items.sort(key=lambda item: item["title"])
         categories.append({"name": name, "occupations": items})
     return {"categories": categories}
+
+
+_CURATED_SOC = {code for _, group in OCCUPATION_CATEGORIES for code in group}
+_MAX_CAREERS = 5
+_MAX_LIMIT = 25
+
+
+class RecommendRequest(BaseModel):
+    """Body of POST /recommend."""
+
+    session_id: str
+    soc_codes: list[str]
+    limit: int = 10
+
+
+@app.post("/recommend")
+def post_recommend(body: RecommendRequest):
+    """Rank the stored audit's still-needed courses against the chosen careers."""
+    token = _session_id(body.session_id)
+    if token is None:
+        return JSONResponse({"detail": "invalid session"}, status_code=422)
+    soc_codes = list(dict.fromkeys(body.soc_codes))  # drop repeats, keep order
+    if not soc_codes or len(soc_codes) > _MAX_CAREERS:
+        return JSONResponse({"detail": f"choose 1 to {_MAX_CAREERS} careers"}, status_code=422)
+    if any(code not in _CURATED_SOC for code in soc_codes):
+        return JSONResponse({"detail": "unknown career"}, status_code=422)
+    if not 1 <= body.limit <= _MAX_LIMIT:
+        return JSONResponse({"detail": f"limit must be 1 to {_MAX_LIMIT}"}, status_code=422)
+    try:
+        audit = load_audit(token)
+    except Exception:
+        return JSONResponse({"detail": "audit cache unavailable"}, status_code=503)
+    if audit is None:
+        return JSONResponse({"detail": "audit not found"}, status_code=404)
+    try:
+        with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            result = recommend(conn, audit, soc_codes, body.limit)
+    except UnsupportedAudit:
+        return JSONResponse(
+            {"detail": "graduate audits are not supported yet"}, status_code=422
+        )
+    except MissingVectors as exc:
+        return JSONResponse({"detail": str(exc)}, status_code=409)
+    except psycopg.Error:
+        return JSONResponse({"detail": "database unavailable"}, status_code=503)
+    return {"session_id": token, **result}
 
 
 def _session_id(value: str | None) -> str | None:
