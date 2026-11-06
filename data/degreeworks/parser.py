@@ -49,13 +49,14 @@ class UnmetRequirement:
 class Audit:
     """Fields read from one Degree Works audit.
 
-    The student ID printed on the audit is not stored.
+    The student name, student ID and advisor names printed on the audit are
+    not stored: nothing in ClassWizard needs them, and leaving them out keeps
+    identifying data out of Redis, API responses and any future LLM prompt.
     """
 
     # A parsed audit is one record; pylint's attribute cap is for service objects.
     # pylint: disable=too-many-instance-attributes
 
-    student_name: str
     degree: str
     audit_date: str
     level: str
@@ -63,7 +64,6 @@ class Audit:
     program: str
     major: str
     college: str
-    advisors: List[str]
     catalog_year: str
     credits_required: Union[int, float]
     credits_applied: Union[int, float]
@@ -81,7 +81,6 @@ def parse_audit(source: Union[str, Path, bytes]) -> Audit:
     credits_required, credits_applied = _credits(flat)
     completed, in_progress, preregistered = _classify(_courses(flat))
     return Audit(
-        student_name=header["student_name"],
         degree=header["degree"],
         audit_date=header["audit_date"],
         level=header["level"],
@@ -89,7 +88,6 @@ def parse_audit(source: Union[str, Path, bytes]) -> Audit:
         program=header["program"],
         major=header["major"],
         college=header["college"],
-        advisors=header["advisors"],
         catalog_year=_first(flat, r"Catalog year:\s*(\d{4}-\d{4})", "catalog year"),
         credits_required=credits_required,
         credits_applied=credits_applied,
@@ -112,34 +110,32 @@ def _flatten(text: str) -> str:
 
 
 def _header(flat: str) -> dict:
-    """Labeled header values. Student ID is skipped on purpose."""
+    """Labeled header values.
+
+    The student name, student ID and advisor names are matched only so the
+    pattern can find the fields around them. Their groups are non-capturing
+    (?:...), so those values are never extracted into a variable.
+    """
     match = re.search(
-        r"Student name\s+(.+?)\s+(?:Overall GPA|Student ID)\s+"
+        r"Student name\s+(?:.+?)\s+(?:Overall GPA|Student ID)\s+"
         r".+?\s+Degree\s+(?!progress\b)(.+?)\s+Audit date\s+"
         r"(\d{1,2}/\d{1,2}/\d{4}\s+\d{1,2}:\d{2}\s*[AP]M)\s+"
         r".*?\s+Level\s+(.+?)\s+Classification\s+(.+?)\s+"
         r"Program\s+(.+?)\s+Major\s+(.+?)\s+College\s+(.+?)\s+"
-        r"Advisors\s+(.+?)\s+Degree in\b",
+        r"Advisors\s+(?:.+?)\s+Degree in\b",
         flat,
     )
     if match is None:
         raise ValueError("degree audit header could not be read")
     return {
-        "student_name": match.group(1).strip(),
-        "degree": match.group(2).strip(),
-        "audit_date": re.sub(r"\s+", " ", match.group(3).strip()),
-        "level": match.group(4).strip(),
-        "classification": match.group(5).strip(),
-        "program": match.group(6).strip(),
-        "major": match.group(7).strip(),
-        "college": match.group(8).strip(),
-        "advisors": _advisors(match.group(9)),
+        "degree": match.group(1).strip(),
+        "audit_date": re.sub(r"\s+", " ", match.group(2).strip()),
+        "level": match.group(3).strip(),
+        "classification": match.group(4).strip(),
+        "program": match.group(5).strip(),
+        "major": match.group(6).strip(),
+        "college": match.group(7).strip(),
     }
-
-
-def _advisors(raw: str) -> List[str]:
-    parts = re.split(r"\s*;\s*|\s+and\s+", raw.strip())
-    return [part.strip() for part in parts if part.strip()]
 
 
 def _first(flat: str, pattern: str, label: str) -> str:
