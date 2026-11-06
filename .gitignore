@@ -130,3 +130,6 @@ data/*/*
 !data/uncc-courses/syllabi/
 !data/uncc-courses/syllabi/*.csv
 !data/uncc-courses/syllabi/*.json
+
+# Patches
+*.patch

@@ -43,7 +43,22 @@ def main() -> None:
         load_catalog(conn)
         load_onet(conn)
         load_programs(conn)
-        load_syllabi(conn)
+        # Syllabus triples are optional enrichment: a bad triples file must
+        # not stop the API from starting. load_syllabi runs in its own
+        # transaction, so a failure rolls back cleanly and leaves the other
+        # tables intact.
+        try:
+            load_syllabi(conn)
+        except psycopg.Error as exc:
+            print(f"syllabi load failed, continuing without triples: {exc}", file=sys.stderr)
+        # Embeddings power semantic search, but relational queries (courses,
+        # prerequisites, programs, O*NET) still work without them. A failure
+        # here is reported loudly and the API still starts; the next boot
+        # retries only the rows that are still missing a vector.
+        try:
+            embed_text_chunks(conn)
+        except Exception as exc:  # model files, memory, or database errors
+            print(f"text_chunks embedding failed, semantic search unavailable: {exc!r}", file=sys.stderr)
         print_counts(conn)
 
 
@@ -559,6 +574,45 @@ def load_syllabi(conn) -> None:
             ("syllabi", SYLLABI_RELEASE),
         )
     print(f"loaded syllabi {SYLLABI_RELEASE}: {len(rows)} triples with embeddings")
+
+
+EMBED_BATCH_SIZE = 256
+
+
+def embed_text_chunks(conn) -> None:
+    """Fill text_chunks.embedding for every row that has no vector yet.
+
+    load_catalog and load_onet delete and re-insert their chunks without
+    vectors whenever they reload, so this step re-embeds exactly what was
+    replaced. On a normal boot nothing is missing and it returns at once.
+    Each batch commits on its own, so an interrupted run resumes where it
+    stopped instead of starting over.
+    """
+    pending = conn.execute(
+        "SELECT id, chunk_text FROM text_chunks WHERE embedding IS NULL ORDER BY id"
+    ).fetchall()
+    if not pending:
+        print("text_chunks: all rows already embedded")
+        return
+
+    # Imported here, not at module top, so the loader still runs (and the
+    # API still starts) on a machine without the model installed.
+    from ai.nlp.embeddings.sentence_transformer import MODEL_NAME, encode, to_pgvector
+
+    print(f"embedding {len(pending)} text_chunks with {MODEL_NAME} ...")
+    done = 0
+    for start in range(0, len(pending), EMBED_BATCH_SIZE):
+        batch = pending[start : start + EMBED_BATCH_SIZE]
+        vectors = encode([text for _, text in batch])
+        with conn.transaction():
+            with conn.cursor() as cur:
+                cur.executemany(
+                    "UPDATE text_chunks SET embedding = %s::vector WHERE id = %s",
+                    [(to_pgvector(vec), row_id) for (row_id, _), vec in zip(batch, vectors)],
+                )
+        done += len(batch)
+        print(f"  embedded {done}/{len(pending)}")
+    print(f"embedded {done} text_chunks")
 
 
 def print_counts(conn) -> None:
