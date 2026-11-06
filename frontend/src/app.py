@@ -7,6 +7,7 @@ import urllib.request
 import streamlit as st
 
 import style
+from uploads.degreeworks import AuditUnavailable, load_audit, post_audit, watch_session
 
 BACKEND_URL = os.environ.get("BACKEND_URL", "http://127.0.0.1:8000")
 
@@ -76,7 +77,18 @@ SKILL_LINKS = [
 ]
 
 
-def _seed_message(prefs: dict) -> str:
+def _audit_summary(audit: dict) -> str:
+    return (
+        f"{audit['major']} ({audit['catalog_year']}): "
+        f"{audit['credits_applied']} of {audit['credits_required']} credits applied. "
+        f"{len(audit['courses_completed'])} completed, "
+        f"{len(audit['courses_in_progress'])} in progress, "
+        f"{len(audit['courses_preregistered'])} preregistered, "
+        f"{len(audit['courses_not_taken'])} still needed."
+    )
+
+
+def _seed_message(prefs: dict, audit: dict) -> str:
     summer = (
         "Summer 2027 stays in the sequence as a lighter term."
         if prefs["include_summer"]
@@ -87,8 +99,8 @@ def _seed_message(prefs: dict) -> str:
     else:
         priority = "closing skill gaps first: SQL, statistics, then communication"
     return (
-        f"Using {prefs['filename']} as the uploaded audit. This draft does not "
-        f"parse it yet. For {_career_label(prefs)}, the sample plan favors "
+        f"Parsed {prefs['filename']}. {_audit_summary(audit)} "
+        f"For {_career_label(prefs)}, the sample plan favors "
         f"{priority}. You set a cap of {prefs['credits']} credits per term; the "
         f"cards below are a fixed sample, not a schedule rebuilt to that cap. "
         f"{summer} Fall 2026 starts with ITSC 3160 and STAT 2122. Spring 2027 "
@@ -254,6 +266,10 @@ def _init_state() -> None:
         st.session_state.prefs = None
     if "selected_careers" not in st.session_state:
         st.session_state.selected_careers = {}
+    if "session_id" not in st.session_state:
+        st.session_state.session_id = None
+    if "audit" not in st.session_state:
+        st.session_state.audit = None
 
 
 @st.cache_data(ttl=300, show_spinner=False)
@@ -288,11 +304,80 @@ def _career_menu() -> list[dict]:
     return [{"soc_code": soc, "title": title} for soc, title in chosen.items()]
 
 
+@st.fragment(run_every=20)
+def _keep_audit() -> None:
+    """Renew the short safety TTL while this page is still connected."""
+    if st.session_state.get("session_id"):
+        watch_session(BACKEND_URL, st.session_state.session_id)
+        _refresh_audit()
+
+
+def _refresh_audit() -> None:
+    """Renew the audit while this page is open. A missing key clears it."""
+    session_id = st.session_state.session_id
+    if not session_id:
+        return
+    watch_session(BACKEND_URL, session_id)
+    try:
+        payload = load_audit(BACKEND_URL, session_id)
+    except AuditUnavailable:
+        st.warning("The saved audit could not be refreshed.")
+        return
+    if payload is None:
+        st.session_state.session_id = None
+        st.session_state.audit = None
+        st.session_state.plan_ready = False
+        st.session_state.prefs = None
+        st.session_state.messages = []
+        st.warning("This audit expired. Upload it again.")
+        return
+    st.session_state.audit = payload["audit"]
+
+
+def _store_upload(
+    uploaded,
+    careers: list[dict],
+    credits: int,
+    include_summer: bool,
+    priority: str,
+) -> None:
+    try:
+        payload = post_audit(
+            BACKEND_URL,
+            uploaded.getvalue(),
+            uploaded.name,
+            st.session_state.session_id,
+        )
+    except AuditUnavailable as exc:
+        if exc.status == 422:
+            st.error("That PDF could not be read as a DegreeWorks audit.")
+        else:
+            st.error("The audit could not be saved.")
+        return
+    st.session_state.session_id = payload["session_id"]
+    st.session_state.audit = payload["audit"]
+    watch_session(BACKEND_URL, payload["session_id"])
+    st.session_state.plan_ready = True
+    st.session_state.prefs = {
+        "filename": uploaded.name,
+        "careers": careers,
+        "credits": credits,
+        "include_summer": include_summer,
+        "priority": priority,
+    }
+    st.session_state.messages = [
+        {
+            "role": "assistant",
+            "content": _seed_message(st.session_state.prefs, payload["audit"]),
+        }
+    ]
+
+
 def _preferences() -> None:
     uploaded = st.file_uploader(
         "DegreeWorks audit",
         type=["pdf"],
-        help="Stored for this session only. This draft does not parse the file.",
+        help="Kept for this page only. A refresh discards the parsed audit.",
     )
     careers = _career_menu()
     credit_col, summer_col = st.columns(2)
@@ -310,17 +395,9 @@ def _preferences() -> None:
         if not careers:
             st.warning("Select at least one career.")
             return
-        st.session_state.plan_ready = True
-        st.session_state.prefs = {
-            "filename": uploaded.name,
-            "careers": careers,
-            "credits": credits,
-            "include_summer": include_summer,
-            "priority": priority,
-        }
-        st.session_state.messages = [
-            {"role": "assistant", "content": _seed_message(st.session_state.prefs)}
-        ]
+        _store_upload(uploaded, careers, credits, include_summer, priority)
+    if st.session_state.audit:
+        st.info(_audit_summary(st.session_state.audit))
 
 
 def _chat(prefs: dict) -> None:
@@ -360,6 +437,8 @@ def main() -> None:
     _init_state()
     st.title("ClassWizard")
     st.caption("Draft planner. Currently WIP; non-operational.")
+    _keep_audit()
+    _refresh_audit()
     _preferences()
     if st.session_state.plan_ready:
         _results()
