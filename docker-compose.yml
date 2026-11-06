@@ -17,6 +17,12 @@ services:
       CHATGPT_TOKEN_DIR: /opt/codex
       CHATGPT_AUTH_FILE: auth.json
       GITHUB_COPILOT_TOKEN_DIR: /opt/copilot-token
+      # /explain: local Ollama only (separate from LLM_MODEL, which /chat uses)
+      EXPLAIN_MODEL: ${EXPLAIN_MODEL:-ollama_chat/qwen3:8b}
+      OLLAMA_URL: ${OLLAMA_URL:-http://host.docker.internal:11434}
+    extra_hosts:
+      # Lets Linux Docker resolve host.docker.internal (Docker Desktop already does)
+      - "host.docker.internal:host-gateway"
     ports:
       - "8000:8000"
     volumes:
@@ -34,6 +40,8 @@ services:
       dockerfile: frontend/Dockerfile
     environment:
       BACKEND_URL: http://backend:8000
+      # explain = cited answers via /explain (local Ollama); chat = syllabus chat via /chat
+      CHAT_MODE: ${CHAT_MODE:-explain}
     ports:
       - "8501:8501"
     volumes:

@@ -24,7 +24,13 @@ def get_model():
     """Load the sentence-transformers model once and reuse it."""
     from sentence_transformers import SentenceTransformer
 
-    return SentenceTransformer(MODEL_NAME)
+    # Local copy first: the image bakes the model in at build time, so the
+    # backend never needs the network. Fall back to a download on machines
+    # that have no copy yet (e.g. a fresh .venv).
+    try:
+        return SentenceTransformer(MODEL_NAME, local_files_only=True)
+    except Exception:  # missing local files raise several different error types
+        return SentenceTransformer(MODEL_NAME)
 
 
 def encode(texts: Sequence[str], batch_size: int = 64) -> list[list[float]]:

@@ -10,6 +10,9 @@ from fastapi.responses import JSONResponse, PlainTextResponse
 from pydantic import BaseModel, Field
 
 from ai.nlp.explanations.llm import explain
+from ai.nlp.explanations.rag import build_messages, check_citations, generate, model_name, student_context
+from ai.nlp.explanations.retrieval import retrieve_evidence
+from ai.recommendations.ranking import MissingVectors, UnsupportedAudit, recommend
 from backend.storage.cache.redis import delete_audit, load_audit, ping, save_audit
 from backend.storage.database.pgvector import search_syllabus_triples
 from data.degreeworks.parser import parse_audit
@@ -124,22 +127,12 @@ class RecommendRequest(BaseModel):
 @app.post("/recommend")
 def post_recommend(body: RecommendRequest):
     """Rank the stored audit's still-needed courses against the chosen careers."""
-    token = _session_id(body.session_id)
-    if token is None:
-        return JSONResponse({"detail": "invalid session"}, status_code=422)
-    soc_codes = list(dict.fromkeys(body.soc_codes))  # drop repeats, keep order
-    if not soc_codes or len(soc_codes) > _MAX_CAREERS:
-        return JSONResponse({"detail": f"choose 1 to {_MAX_CAREERS} careers"}, status_code=422)
-    if any(code not in _CURATED_SOC for code in soc_codes):
-        return JSONResponse({"detail": "unknown career"}, status_code=422)
+    checked = _session_and_careers(body.session_id, body.soc_codes)
+    if isinstance(checked, JSONResponse):
+        return checked
+    token, soc_codes, audit = checked
     if not 1 <= body.limit <= _MAX_LIMIT:
         return JSONResponse({"detail": f"limit must be 1 to {_MAX_LIMIT}"}, status_code=422)
-    try:
-        audit = load_audit(token)
-    except Exception:
-        return JSONResponse({"detail": "audit cache unavailable"}, status_code=503)
-    if audit is None:
-        return JSONResponse({"detail": "audit not found"}, status_code=404)
     try:
         with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
             result = recommend(conn, audit, soc_codes, body.limit)
@@ -152,6 +145,89 @@ def post_recommend(body: RecommendRequest):
     except psycopg.Error:
         return JSONResponse({"detail": "database unavailable"}, status_code=503)
     return {"session_id": token, **result}
+
+
+def _session_and_careers(session_id: str, soc_codes: list[str]):
+    """Shared checks for /recommend and /explain.
+
+    Returns (token, soc_codes, audit), or a JSONResponse describing the error.
+    """
+    token = _session_id(session_id)
+    if token is None:
+        return JSONResponse({"detail": "invalid session"}, status_code=422)
+    soc_codes = list(dict.fromkeys(soc_codes))  # drop repeats, keep order
+    if not soc_codes or len(soc_codes) > _MAX_CAREERS:
+        return JSONResponse({"detail": f"choose 1 to {_MAX_CAREERS} careers"}, status_code=422)
+    if any(code not in _CURATED_SOC for code in soc_codes):
+        return JSONResponse({"detail": "unknown career"}, status_code=422)
+    try:
+        audit = load_audit(token)
+    except Exception:
+        return JSONResponse({"detail": "audit cache unavailable"}, status_code=503)
+    if audit is None:
+        return JSONResponse({"detail": "audit not found"}, status_code=404)
+    return token, soc_codes, audit
+
+
+_MAX_QUESTION = 500
+
+
+class ExplainRequest(BaseModel):
+    """Body of POST /explain."""
+
+    session_id: str
+    soc_codes: list[str]
+    question: str
+
+
+@app.post("/explain")
+def post_explain(body: ExplainRequest):
+    """Answer a question about the student's recommendations from cited evidence only.
+
+    Runs next to /chat: /chat answers from syllabus triples through the
+    provider chosen in llm.py; /explain answers from catalog, O*NET and
+    /recommend evidence through a local Ollama model (rag.py).
+    """
+    question = " ".join(body.question.split())
+    if not question or len(question) > _MAX_QUESTION:
+        return JSONResponse(
+            {"detail": f"question must be 1 to {_MAX_QUESTION} characters"}, status_code=422
+        )
+    checked = _session_and_careers(body.session_id, body.soc_codes)
+    if isinstance(checked, JSONResponse):
+        return checked
+    token, soc_codes, audit = checked
+    # 1-2. Context and retrieval: recompute the recommendation server-side
+    # (never trust a course list from the client), then gather evidence.
+    try:
+        with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            recommendation = recommend(conn, audit, soc_codes, _MAX_LIMIT)
+            evidence = retrieve_evidence(conn, question, audit, recommendation, soc_codes)
+    except UnsupportedAudit:
+        return JSONResponse(
+            {"detail": "graduate audits are not supported yet"}, status_code=422
+        )
+    except MissingVectors as exc:
+        return JSONResponse({"detail": str(exc)}, status_code=409)
+    except psycopg.Error:
+        return JSONResponse({"detail": "database unavailable"}, status_code=503)
+    # 3-4. Prompt and generation. If the model is unreachable, still return
+    # the evidence so the frontend can show the facts.
+    messages = build_messages(question, evidence, student_context(audit))
+    try:
+        answer = generate(messages)
+    except Exception:
+        return JSONResponse(
+            {"detail": "language model unavailable", "evidence": evidence}, status_code=503
+        )
+    # 5. Citation check: every cited ID must be one of the evidence IDs.
+    return {
+        "session_id": token,
+        "answer": answer,
+        **check_citations(answer, evidence),
+        "evidence": evidence,
+        "model": model_name(),
+    }
 
 
 def _session_id(value: str | None) -> str | None:
