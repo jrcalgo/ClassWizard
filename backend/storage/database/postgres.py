@@ -23,7 +23,7 @@ PDF_ROOT = OUT_DIR / "pdfs"
 ONET_DIR = Path(os.environ.get("ONET_DIR", "/data/onet/raw_onet_data/db_31_0_csv"))
 SQL_DIR = Path(os.environ.get("PROGRAM_SQL_DIR", "/app/sql"))
 SCHEMA_SQL = Path(__file__).resolve().parents[2] / "schema.sql"
-SYLLABI_RELEASE = "v1"
+SYLLABI_RELEASE = "v2"
 SYLLABI_DIR = Path(os.environ.get("SYLLABI_DIR", "/data/syllabi"))
 
 REQUISITE_KIND = {
@@ -512,7 +512,14 @@ def load_syllabi(conn) -> None:
         return
     records = json.loads(json_path.read_text(encoding="utf-8"))
     rows = []
+    seen = set()
     for r in records:
+        # Additions to avoid duplicate triples with the same triple_id and filename
+        key = (r.get("triple_id", ""), r.get("filename") or None)
+        if key in seen:
+            continue
+        seen.add(key)
+        
         emb = r.get("embedding")
         emb_str = str(emb) if emb is not None else None
         rows.append(
