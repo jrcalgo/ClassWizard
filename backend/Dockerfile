@@ -24,7 +24,7 @@ WORKDIR /app
 RUN pip3 install --no-cache-dir --break-system-packages \
         "fastapi" "uvicorn" "psycopg[binary]" "redis" \
         "pdfplumber>=0.10" "jsonschema>=4.18" \
-        "pandas" "pydantic"
+        "pandas" "pydantic" "sentence-transformers"
 
 COPY backend /app/backend
 COPY data/uncc-courses/catalog/pyproject.toml /tmp/catalog/pyproject.toml
