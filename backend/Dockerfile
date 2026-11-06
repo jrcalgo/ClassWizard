@@ -37,14 +37,12 @@ RUN python3 -m pip install --no-cache-dir --break-system-packages \
 RUN pip3 install --no-cache-dir --break-system-packages \
         "fastapi" "uvicorn" "psycopg[binary]" "redis" \
         "pdfplumber>=0.10" "jsonschema>=4.18" \
-        "pandas" "pydantic" "litellm" "python-multipart" "sentence-transformers"
+        "pandas" "pydantic" "litellm" "python-multipart" \
+        "sentence-transformers"
 
-# Download the embedding model at build time into a fixed cache folder, so
-# containers start without internet access and never re-download it.
-# HF_HUB_OFFLINE is set afterwards, so runtime only reads that cache.
-ENV HF_HOME=/opt/hf
+ENV HF_HOME=/opt/hf \
+    SENTENCE_TRANSFORMERS_HOME=/opt/sentence-transformers
 RUN python3 -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
-ENV HF_HUB_OFFLINE=1
 
 COPY backend /app/backend
 COPY ai /app/ai
