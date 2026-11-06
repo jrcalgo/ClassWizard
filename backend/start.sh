@@ -22,7 +22,7 @@ do
   sleep 1
 done
 
-redis-server --daemonize yes --bind 127.0.0.1 --protected-mode yes --port 6379
+redis-server --daemonize yes --bind 127.0.0.1 --protected-mode yes --port 6379 --save "" --appendonly no
 
 cd /app
 python3 -m backend.storage.database.postgres
