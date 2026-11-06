@@ -11,18 +11,22 @@ from typing import List, Optional, Tuple, Union
 import pdfplumber
 
 
+_COURSE_NUM = r"(?:\d{4}[A-Z]?|\dELE)"
+_GRADE = r"(?:\*[A-Z]+|T[A-F][+-]?|TP|[A-F][+-]?|S|P|CR|TR)"
 _COURSE_RE = re.compile(
-    r"\b([A-Z]{2,5})\s+(\d{4})\s+"
-    r"((?:(?![A-Z]{2,5}\s+\d{4}\b)(?!Still needed\b).)+?)\s+"
-    r"(\*[A-Z]+|[A-F][+-]?|S|P|CR|TR)\s+"
-    r"\((\d+(?:\.\d+)?)\)\s+"
-    r"((?:Fall|Spring|Summer|Winter)\s+\d{4})"
+    rf"\b([A-Z]{{2,5}})\s+({_COURSE_NUM})\s+"
+    rf"((?:(?![A-Z]{{2,5}}\s+{_COURSE_NUM}\b)(?!Still needed\b).)+?)\s+"
+    rf"({_GRADE})\s+"
+    rf"\(?(\d+(?:\.\d+)?)\)?\s+"
+    rf"((?:Fall|Spring|Summer|Winter)\s+\d{{4}})"
 )
+_ROW_CODE = re.compile(rf"\b[A-Z]{{2,5}}\s+{_COURSE_NUM}\b")
+_LEFTOVER_TITLE = re.compile(r"^[A-Z][a-z]+$")
 _REQ_KIND = re.compile(r"\b(?:Classes in|Class in|Credits in)\b")
 _CODE_TOKEN = re.compile(r"[A-Z]{2,5}|@|\d{4}")
 _IN_PROGRESS = {"*IP", "IP"}
 _PREREGISTERED = {"*REG", "REG", "*PR", "PR"}
-_COMPLETED = re.compile(r"[A-F][+-]?|S|P|CR|TR")
+_COMPLETED = re.compile(r"T[A-F][+-]?|TP|[A-F][+-]?|S|P|CR|TR")
 
 
 @dataclass
@@ -119,7 +123,8 @@ def _header(flat: str) -> dict:
         r"(\d{1,2}/\d{1,2}/\d{4}\s+\d{1,2}:\d{2}\s*[AP]M)\s+"
         r".*?\s+Level\s+(.+?)\s+Classification\s+(.+?)\s+"
         r"Program\s+(.+?)\s+Major\s+(.+?)\s+College\s+(.+?)\s+"
-        r"Advisors\s+(.+?)\s+Degree in\b",
+        r"Advisors\s+(.+?)\s+(?:Degree in\b|Property missing\b|"
+        r"(?:Bachelor|Master|Doctor) of\b)",
         flat,
     )
     if match is None:
@@ -219,6 +224,7 @@ def _unmet(raw: str) -> List[UnmetRequirement]:
             index += 1
             continue
         block, _, rest = line.partition("Still needed:")
+        block = _requirement_block(lines, index, block)
         parts = [rest.strip()]
         index += 1
         while index < len(lines) and _continues_requirement(lines[index]):
@@ -227,14 +233,28 @@ def _unmet(raw: str) -> List[UnmetRequirement]:
         text = " ".join(part for part in parts if part).strip()
         if _REQ_KIND.search(text) is None:
             continue
+        if index < len(lines) and _LEFTOVER_TITLE.fullmatch(lines[index]):
+            block = f"{block} {lines[index]}".strip()
+            index += 1
         unmet.append(
             UnmetRequirement(
-                block=block.strip(),
+                block=block,
                 text=text,
                 course_codes=_course_codes(text),
             )
         )
     return unmet
+
+
+def _requirement_block(lines: List[str], index: int, inline: str) -> str:
+    """Label on the Still needed line, or the previous row's requirement name."""
+    block = inline.strip()
+    if block or index == 0:
+        return block
+    match = _ROW_CODE.search(lines[index - 1])
+    if match is None:
+        return ""
+    return lines[index - 1][: match.start()].strip()
 
 
 def _continues_requirement(line: str) -> bool:
