@@ -1,0 +1,21 @@
+# Backend image dependencies. Compile for Linux CPython 3.12 with the CPU
+# PyTorch index first, so torch stays a +cpu wheel:
+#   uv pip compile backend/requirements.in \
+#     --python-version 3.12 \
+#     --index-url https://download.pytorch.org/whl/cpu \
+#     --extra-index-url https://pypi.org/simple \
+#     --index-strategy unsafe-best-match \
+#     -o backend/requirements.lock
+
+torch
+fastapi
+uvicorn
+psycopg[binary]
+redis
+pdfplumber>=0.10
+jsonschema>=4.18
+pandas
+pydantic
+litellm
+python-multipart
+sentence-transformers

@@ -1,11 +1,15 @@
 # Starts the stack in docker-compose.yml, which builds:
-#   backend/Dockerfile  (Postgres with pgvector, Redis, and the catalog CLI)
+#   backend/Dockerfile  (API, catalog CLI, Poppler 25.07.0, sentence-transformers)
 #   frontend/Dockerfile
+# Postgres (pgvector) and Redis are separate images. The catalog database is
+# kept in the pgdata volume. docker compose down keeps that volume;
+# docker compose down -v drops it. Redis stays empty until the next boot.
 # The catalog zip is mounted at /data/dataset from
 # data/_datasets/uncc-courses/catalog/dataset (undergraduate-catalog-2026-2027.zip).
 # O*NET CSVs are mounted at /data/onet. First boot unzips the catalog, builds
-# JSON under data/catalog_out, and loads Postgres. Later boots skip a release
-# already recorded in ingest_runs.
+# JSON under data/catalog_out, and loads Postgres. Later boots skip the catalog
+# when the zip's SHA-256 is already stored in ingest_runs. O*NET, programs, and
+# syllabi are loaded again on every boot.
 #
 #   docker build -t classwizard .
 #   docker run --rm \

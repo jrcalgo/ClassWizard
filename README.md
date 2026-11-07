@@ -17,11 +17,18 @@ cp .env.example .env
 docker compose up
 ```
 
-The first boot unzips `data/_datasets/uncc-courses/catalog/dataset/undergraduate-catalog-2026-2027.zip`, builds catalog JSON, and loads PostgreSQL. The directory inside that zip is spelled `undegraduate-catalog-2026-2027` (missing an r). Extracted PDFs and JSON stay in `data/catalog_out` and are not committed. A later boot skips a catalog or O*NET release already recorded in `ingest_runs`.
-
-Postgres stores courses, requisite links, programs, and O*NET occupations and skills. O*NET is read from `data/_datasets/onet`. DegreeWorks uploads stay in Redis for the session only and are not written to Postgres. Redis is empty until a student uploads a PDF.
-
 The API is at http://127.0.0.1:8000/health. The Streamlit page is at http://127.0.0.1:8501.
+
+Postgres and Redis run in their own containers. The catalog database is kept in a Docker volume: `docker compose down` keeps it, and `docker compose down -v` drops it so the next boot loads the catalog again. Postgres stores courses, requisite links, programs, and O*NET occupations and skills. O*NET is read from `data/_datasets/onet`. DegreeWorks uploads stay in Redis for the session only and are not written to Postgres. Redis is empty until a student uploads a PDF.
+
+Assuming that `docker compose down` was executed previously, reinitialization `docker compose up` uses cached build dependencies and persisted postgres data to reduce subsequent build times.
+
+To clear the cache and database persistence, do:
+
+```bash
+docker compose down --rmi local
+docker builder prune --all
+```
 
 ## Restore the database
 

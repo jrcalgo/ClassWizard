@@ -3,8 +3,10 @@
 from __future__ import annotations
 
 import csv
+import hashlib
 import json
 import os
+import shutil
 import subprocess
 import sys
 import zipfile
@@ -20,6 +22,7 @@ DATASET_DIR = Path(os.environ.get("CATALOG_DATASET_DIR", "/data/dataset"))
 CATALOG_ZIP = DATASET_DIR / "undergraduate-catalog-2026-2027.zip"
 OUT_DIR = Path(os.environ.get("CATALOG_OUT_DIR", "/data/out"))
 PDF_ROOT = OUT_DIR / "pdfs"
+CATALOG_STAMP = OUT_DIR / "catalog.sha256"
 ONET_DIR = Path(os.environ.get("ONET_DIR", "/data/onet/raw_onet_data/db_31_0_csv"))
 SQL_DIR = Path(os.environ.get("PROGRAM_SQL_DIR", "/app/sql"))
 SCHEMA_SQL = Path(__file__).resolve().parents[2] / "schema.sql"
@@ -71,11 +74,14 @@ def ensure_pgpassword() -> None:
 
 
 def run_psql(sql_path: Path) -> None:
+    parsed = urlparse(os.environ["DATABASE_URL"])
     subprocess.run(
         [
             "psql",
             "-h",
-            "127.0.0.1",
+            parsed.hostname or "127.0.0.1",
+            "-p",
+            str(parsed.port or 5432),
             "-U",
             os.environ.get("POSTGRES_USER", "classwizard"),
             "-d",
@@ -98,6 +104,23 @@ def already_loaded(conn, source: str, release: str) -> bool:
     return row is not None
 
 
+def replace_ingest_run(conn, source: str, release: str) -> None:
+    conn.execute("DELETE FROM ingest_runs WHERE source = %s", (source,))
+    conn.execute(
+        "INSERT INTO ingest_runs (source, release) VALUES (%s, %s)",
+        (source, release),
+    )
+
+
+def catalog_fingerprint(path: Path) -> str:
+    """SHA-256 of the catalog zip. A replaced or edited file gets a new hash."""
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
 def copy_rows(conn, sql: str, rows: list[tuple]) -> None:
     if not rows:
         return
@@ -108,11 +131,14 @@ def copy_rows(conn, sql: str, rows: list[tuple]) -> None:
 
 
 def load_catalog(conn) -> None:
-    if already_loaded(conn, "catalog", CATALOG_RELEASE):
-        print(f"catalog {CATALOG_RELEASE} already loaded")
+    if not CATALOG_ZIP.is_file():
+        raise SystemExit(f"catalog zip not found: {CATALOG_ZIP}")
+    digest = catalog_fingerprint(CATALOG_ZIP)
+    if already_loaded(conn, "catalog", digest):
+        print(f"catalog unchanged ({digest[:12]})")
         return
-    pdf_dir = ensure_pdf_dir()
-    courses_path, edges_path = ensure_catalog_json(pdf_dir)
+    pdf_dir = ensure_pdf_dir(digest)
+    courses_path, edges_path = ensure_catalog_json(pdf_dir, digest)
     courses_doc = json.loads(courses_path.read_text(encoding="utf-8"))
     edges_doc = json.loads(edges_path.read_text(encoding="utf-8"))
     catalog_name = courses_doc.get("catalog") or CATALOG_RELEASE
@@ -167,15 +193,9 @@ def load_catalog(conn) -> None:
             )
         )
     with conn.transaction():
-        conn.execute(
-            """
-            DELETE FROM text_chunks
-            WHERE source_type = 'course' AND metadata->>'catalog' = %s
-            """,
-            (catalog_name,),
-        )
-        conn.execute("DELETE FROM course_links WHERE catalog_name = %s", (catalog_name,))
-        conn.execute("DELETE FROM courses WHERE catalog_name = %s", (catalog_name,))
+        conn.execute("DELETE FROM text_chunks WHERE source_type = 'course'")
+        conn.execute("DELETE FROM course_links")
+        conn.execute("DELETE FROM courses")
         copy_rows(
             conn,
             """
@@ -205,10 +225,7 @@ def load_catalog(conn) -> None:
             """,
             chunk_rows,
         )
-        conn.execute(
-            "INSERT INTO ingest_runs (source, release) VALUES (%s, %s)",
-            ("catalog", CATALOG_RELEASE),
-        )
+        replace_ingest_run(conn, "catalog", digest)
     print(f"loaded catalog {catalog_name}: {len(course_rows)} courses, {len(link_rows)} links")
 
 
@@ -227,12 +244,31 @@ def link_kind(edge: dict) -> str | None:
     return None
 
 
-def ensure_pdf_dir() -> Path:
-    found = find_pdf_dir(PDF_ROOT)
-    if found is not None:
-        return found
-    if not CATALOG_ZIP.is_file():
-        raise SystemExit(f"catalog zip not found: {CATALOG_ZIP}")
+def catalog_outputs_match(digest: str) -> bool:
+    courses_path = OUT_DIR / "courses.json"
+    edges_path = OUT_DIR / "edges.json"
+    if not CATALOG_STAMP.is_file() or not courses_path.is_file() or not edges_path.is_file():
+        return False
+    if CATALOG_STAMP.read_text(encoding="utf-8").strip() != digest:
+        return False
+    return find_pdf_dir(PDF_ROOT) is not None
+
+
+def clear_catalog_outputs() -> None:
+    if PDF_ROOT.exists():
+        shutil.rmtree(PDF_ROOT)
+    for name in ("courses.json", "edges.json", "catalog.sha256"):
+        path = OUT_DIR / name
+        if path.is_file():
+            path.unlink()
+
+
+def ensure_pdf_dir(digest: str) -> Path:
+    if catalog_outputs_match(digest):
+        found = find_pdf_dir(PDF_ROOT)
+        if found is not None:
+            return found
+    clear_catalog_outputs()
     PDF_ROOT.mkdir(parents=True, exist_ok=True)
     with zipfile.ZipFile(CATALOG_ZIP) as archive:
         safe_extract(archive, PDF_ROOT)
@@ -264,10 +300,10 @@ def find_pdf_dir(root: Path) -> Path | None:
     return counts.most_common(1)[0][0]
 
 
-def ensure_catalog_json(pdf_dir: Path) -> tuple[Path, Path]:
+def ensure_catalog_json(pdf_dir: Path, digest: str) -> tuple[Path, Path]:
     courses_path = OUT_DIR / "courses.json"
     edges_path = OUT_DIR / "edges.json"
-    if courses_path.is_file() and edges_path.is_file():
+    if catalog_outputs_match(digest):
         return courses_path, edges_path
     print(f"building catalog JSON from {pdf_dir}")
     subprocess.run(
@@ -288,13 +324,11 @@ def ensure_catalog_json(pdf_dir: Path) -> tuple[Path, Path]:
     )
     if not courses_path.is_file() or not edges_path.is_file():
         raise SystemExit("catalog build did not write courses.json and edges.json")
+    CATALOG_STAMP.write_text(digest + "\n", encoding="utf-8")
     return courses_path, edges_path
 
 
 def load_onet(conn) -> None:
-    if already_loaded(conn, "onet", ONET_RELEASE):
-        print(f"onet {ONET_RELEASE} already loaded")
-        return
     occupations = read_occupations()
     skills = read_scored(ONET_DIR / "essential_skills.csv")
     knowledge = read_scored(ONET_DIR / "knowledge.csv")
@@ -368,10 +402,7 @@ def load_onet(conn) -> None:
             "COPY text_chunks (source_type, source_key, chunk_text, metadata) FROM STDIN",
             occupation_chunks + skill_chunks,
         )
-        conn.execute(
-            "INSERT INTO ingest_runs (source, release) VALUES (%s, %s)",
-            ("onet", ONET_RELEASE),
-        )
+        replace_ingest_run(conn, "onet", ONET_RELEASE)
     print(
         f"loaded onet {ONET_RELEASE}: {len(occupations)} occupations, "
         f"{len(skills)} skill scores, {len(skill_names)} skill names"
@@ -464,13 +495,11 @@ def number(value: str | None) -> float | None:
 
 
 def load_programs(conn) -> None:
-    count = conn.execute("SELECT count(*) FROM programs").fetchone()[0]
-    if count:
-        print(f"programs already loaded ({count})")
-        return
     run_psql(SQL_DIR / "major_requirements.sql")
     run_psql(SQL_DIR / "classes.sql")
     with conn.transaction():
+        conn.execute("DELETE FROM program_courses")
+        conn.execute("DELETE FROM programs")
         conn.execute(
             """
             INSERT INTO programs (name, min_gpa, credit_requirement)
@@ -499,10 +528,7 @@ def load_programs(conn) -> None:
               AND class_name IS NOT NULL AND btrim(class_name) <> ''
             """
         )
-        conn.execute(
-            "INSERT INTO ingest_runs (source, release) VALUES (%s, %s)",
-            ("programs", "major_courses_sql"),
-        )
+        replace_ingest_run(conn, "programs", "major_courses_sql")
     print("loaded programs from Major&courses SQL")
 
 
@@ -518,9 +544,6 @@ def find_syllabi_json() -> Path | None:
 
 
 def load_syllabi(conn) -> None:
-    if already_loaded(conn, "syllabi", SYLLABI_RELEASE):
-        print(f"syllabi {SYLLABI_RELEASE} already loaded")
-        return
     json_path = find_syllabi_json()
     if not json_path:
         print("syllabus triples embedding JSON not found, skipping syllabi load")
@@ -569,10 +592,7 @@ def load_syllabi(conn) -> None:
             """,
             rows,
         )
-        conn.execute(
-            "INSERT INTO ingest_runs (source, release) VALUES (%s, %s)",
-            ("syllabi", SYLLABI_RELEASE),
-        )
+        replace_ingest_run(conn, "syllabi", SYLLABI_RELEASE)
     print(f"loaded syllabi {SYLLABI_RELEASE}: {len(rows)} triples with embeddings")
 
 
@@ -582,9 +602,10 @@ EMBED_BATCH_SIZE = 256
 def embed_text_chunks(conn) -> None:
     """Fill text_chunks.embedding for every row that has no vector yet.
 
-    load_catalog and load_onet delete and re-insert their chunks without
-    vectors whenever they reload, so this step re-embeds exactly what was
-    replaced. On a normal boot nothing is missing and it returns at once.
+    A catalog reload and every O*NET reload insert chunks without vectors, so
+    this step re-embeds exactly what was replaced. An unchanged catalog keeps
+    its course vectors. On a boot where those rows already have vectors, the
+    query returns at once for them.
     Each batch commits on its own, so an interrupted run resumes where it
     stopped instead of starting over.
     """
