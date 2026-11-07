@@ -122,7 +122,7 @@ def _header(flat: str) -> dict:
         r"(\d{1,2}/\d{1,2}/\d{4}\s+\d{1,2}:\d{2}\s*[AP]M)\s+"
         r".*?\s+Level\s+(.+?)\s+Classification\s+(.+?)\s+"
         r"Program\s+(.+?)\s+Major\s+(.+?)\s+College\s+(.+?)\s+"
-        r"Advisors\s+(?:.+?)\s+Degree in\b",
+        r"(?:Advisors?|Degree in)\b",
         flat,
     )
     if match is None:
