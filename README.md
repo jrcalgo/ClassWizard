@@ -19,7 +19,7 @@ docker compose up
 
 The API is at http://127.0.0.1:8000/health. The Streamlit page is at http://127.0.0.1:8501.
 
-Postgres and Redis run in their own containers. The catalog database is kept in a Docker volume: `docker compose down` keeps it, and `docker compose down -v` drops it so the next boot loads the catalog again. Postgres stores courses, requisite links, programs, and O*NET occupations and skills. O*NET is read from `data/_datasets/onet`. DegreeWorks uploads stay in Redis for the session only and are not written to Postgres. Redis is empty until a student uploads a PDF.
+Postgres and Redis run in their own containers. The database is kept in a Docker volume: `docker compose down` keeps it, and `docker compose down -v` drops it so the next boot loads everything again. A later boot skips the catalog, O*NET, and programs when each source's SHA-256 is already stored in `ingest_runs`. Syllabi are loaded again on every boot. Postgres stores courses, requisite links, programs, and O*NET occupations and skills.
 
 Assuming that `docker compose down` was executed previously, reinitialization `docker compose up` uses cached build dependencies and persisted postgres data to reduce subsequent build times.
 

@@ -7,9 +7,9 @@
 # The catalog zip is mounted at /data/dataset from
 # data/_datasets/uncc-courses/catalog/dataset (undergraduate-catalog-2026-2027.zip).
 # O*NET CSVs are mounted at /data/onet. First boot unzips the catalog, builds
-# JSON under data/catalog_out, and loads Postgres. Later boots skip the catalog
-# when the zip's SHA-256 is already stored in ingest_runs. O*NET, programs, and
-# syllabi are loaded again on every boot.
+# JSON under data/catalog_out, and loads Postgres. Later boots skip the catalog,
+# O*NET, and programs when each source's SHA-256 is already stored in ingest_runs.
+# Syllabi are loaded again on every boot.
 #
 #   docker build -t classwizard .
 #   docker run --rm \

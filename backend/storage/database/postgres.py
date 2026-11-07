@@ -24,7 +24,18 @@ OUT_DIR = Path(os.environ.get("CATALOG_OUT_DIR", "/data/out"))
 PDF_ROOT = OUT_DIR / "pdfs"
 CATALOG_STAMP = OUT_DIR / "catalog.sha256"
 ONET_DIR = Path(os.environ.get("ONET_DIR", "/data/onet/raw_onet_data/db_31_0_csv"))
+ONET_FILES = (
+    ONET_DIR / "occupation_data.csv",
+    ONET_DIR / "essential_skills.csv",
+    ONET_DIR / "knowledge.csv",
+    ONET_DIR / "education.csv",
+    ONET_DIR / "software_skills.csv",
+)
 SQL_DIR = Path(os.environ.get("PROGRAM_SQL_DIR", "/app/sql"))
+PROGRAM_FILES = (
+    SQL_DIR / "major_requirements.sql",
+    SQL_DIR / "classes.sql",
+)
 SCHEMA_SQL = Path(__file__).resolve().parents[2] / "schema.sql"
 SYLLABI_RELEASE = "v2"
 SYLLABI_DIR = Path(os.environ.get("SYLLABI_DIR", "/data/syllabi"))
@@ -112,12 +123,27 @@ def replace_ingest_run(conn, source: str, release: str) -> None:
     )
 
 
-def catalog_fingerprint(path: Path) -> str:
-    """SHA-256 of the catalog zip. A replaced or edited file gets a new hash."""
+def file_fingerprint(path: Path) -> str:
+    """SHA-256 of one file. A replaced or edited file gets a new hash."""
     digest = hashlib.sha256()
     with path.open("rb") as handle:
         for chunk in iter(lambda: handle.read(1024 * 1024), b""):
             digest.update(chunk)
+    return digest.hexdigest()
+
+
+def files_fingerprint(paths: tuple[Path, ...]) -> str:
+    """SHA-256 of each path's name and bytes, in the given order."""
+    digest = hashlib.sha256()
+    for path in paths:
+        if not path.is_file():
+            raise SystemExit(f"missing source file: {path}")
+        digest.update(path.name.encode())
+        digest.update(b"\0")
+        with path.open("rb") as handle:
+            for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+                digest.update(chunk)
+        digest.update(b"\0")
     return digest.hexdigest()
 
 
@@ -133,7 +159,7 @@ def copy_rows(conn, sql: str, rows: list[tuple]) -> None:
 def load_catalog(conn) -> None:
     if not CATALOG_ZIP.is_file():
         raise SystemExit(f"catalog zip not found: {CATALOG_ZIP}")
-    digest = catalog_fingerprint(CATALOG_ZIP)
+    digest = file_fingerprint(CATALOG_ZIP)
     if already_loaded(conn, "catalog", digest):
         print(f"catalog unchanged ({digest[:12]})")
         return
@@ -329,6 +355,10 @@ def ensure_catalog_json(pdf_dir: Path, digest: str) -> tuple[Path, Path]:
 
 
 def load_onet(conn) -> None:
+    digest = files_fingerprint(ONET_FILES)
+    if already_loaded(conn, "onet", digest):
+        print(f"onet unchanged ({digest[:12]})")
+        return
     occupations = read_occupations()
     skills = read_scored(ONET_DIR / "essential_skills.csv")
     knowledge = read_scored(ONET_DIR / "knowledge.csv")
@@ -402,7 +432,7 @@ def load_onet(conn) -> None:
             "COPY text_chunks (source_type, source_key, chunk_text, metadata) FROM STDIN",
             occupation_chunks + skill_chunks,
         )
-        replace_ingest_run(conn, "onet", ONET_RELEASE)
+        replace_ingest_run(conn, "onet", digest)
     print(
         f"loaded onet {ONET_RELEASE}: {len(occupations)} occupations, "
         f"{len(skills)} skill scores, {len(skill_names)} skill names"
@@ -495,6 +525,10 @@ def number(value: str | None) -> float | None:
 
 
 def load_programs(conn) -> None:
+    digest = files_fingerprint(PROGRAM_FILES)
+    if already_loaded(conn, "programs", digest):
+        print(f"programs unchanged ({digest[:12]})")
+        return
     run_psql(SQL_DIR / "major_requirements.sql")
     run_psql(SQL_DIR / "classes.sql")
     with conn.transaction():
@@ -528,7 +562,7 @@ def load_programs(conn) -> None:
               AND class_name IS NOT NULL AND btrim(class_name) <> ''
             """
         )
-        replace_ingest_run(conn, "programs", "major_courses_sql")
+        replace_ingest_run(conn, "programs", digest)
     print("loaded programs from Major&courses SQL")
 
 
@@ -602,10 +636,10 @@ EMBED_BATCH_SIZE = 256
 def embed_text_chunks(conn) -> None:
     """Fill text_chunks.embedding for every row that has no vector yet.
 
-    A catalog reload and every O*NET reload insert chunks without vectors, so
-    this step re-embeds exactly what was replaced. An unchanged catalog keeps
-    its course vectors. On a boot where those rows already have vectors, the
-    query returns at once for them.
+    A catalog or O*NET reload inserts chunks without vectors, so this step
+    re-embeds exactly what was replaced. An unchanged catalog or O*NET keeps
+    its vectors. On a boot where those rows already have vectors, the query
+    returns at once for them.
     Each batch commits on its own, so an interrupted run resumes where it
     stopped instead of starting over.
     """
