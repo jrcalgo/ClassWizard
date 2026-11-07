@@ -9,6 +9,20 @@ services:
       POSTGRES_DB: ${POSTGRES_DB:-classwizard}
       DATABASE_URL: postgresql://${POSTGRES_USER:-classwizard}:${POSTGRES_PASSWORD:-classwizard}@127.0.0.1:5432/${POSTGRES_DB:-classwizard}
       REDIS_URL: ${REDIS_URL:-redis://127.0.0.1:6379/0}
+      LLM_MODE: ${LLM_MODE:-api}
+      LLM_SUBSCRIPTION: ${LLM_SUBSCRIPTION:-}
+      LLM_MODEL: ${LLM_MODEL:-openai/gpt-4o-mini}
+      LLM_API_BASE: ${LLM_API_BASE:-}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      CHATGPT_TOKEN_DIR: /opt/codex
+      CHATGPT_AUTH_FILE: auth.json
+      GITHUB_COPILOT_TOKEN_DIR: /opt/copilot-token
+      # /explain: local Ollama only (separate from LLM_MODEL, which /chat uses)
+      EXPLAIN_MODEL: ${EXPLAIN_MODEL:-ollama_chat/qwen3:8b}
+      OLLAMA_URL: ${OLLAMA_URL:-http://host.docker.internal:11434}
+    extra_hosts:
+      # Lets Linux Docker resolve host.docker.internal (Docker Desktop already does)
+      - "host.docker.internal:host-gateway"
     ports:
       - "8000:8000"
     volumes:
@@ -16,6 +30,9 @@ services:
       - ./data/_datasets/onet:/data/onet:ro
       - ./data/catalog_out:/data/out
       - ./data/uncc-courses/syllabi:/data/syllabi:ro
+      - ${CLAUDE_HOME:-${HOME}/.claude}:/opt/claude:ro
+      - ${CODEX_HOME:-${HOME}/.codex}:/opt/codex
+      - ${GITHUB_COPILOT_TOKEN_DIR:-./data/copilot-token}:/opt/copilot-token
 
   frontend:
     build:
@@ -23,6 +40,10 @@ services:
       dockerfile: frontend/Dockerfile
     environment:
       BACKEND_URL: http://backend:8000
+      # explain = cited answers via /explain (local Ollama); chat = syllabus chat via /chat
+      CHAT_MODE: ${CHAT_MODE:-explain}
     ports:
       - "8501:8501"
+    volumes:
+      - ./frontend/src:/app
 

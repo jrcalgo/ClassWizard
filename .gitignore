@@ -126,7 +126,11 @@ dmypy.json
 # ClassWizard data folders:
 data/*/*
 !data/*/.gitkeep
+data/copilot-token/
 
 !data/uncc-courses/syllabi/
 !data/uncc-courses/syllabi/*.csv
 !data/uncc-courses/syllabi/*.json
+
+# Patches
+*.patch

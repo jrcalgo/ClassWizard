@@ -1,8 +1,7 @@
 -- Relational catalog, program, and O*NET tables, plus one text chunk per
--- course, occupation, and skill name. Embeddings stay null until a later job.
--- After vectors exist, index cosine search with:
--- CREATE INDEX text_chunks_embedding_hnsw
---   ON text_chunks USING hnsw (embedding vector_cosine_ops);
+-- course, occupation, and skill name. Chunks are inserted without vectors;
+-- embed_text_chunks() in postgres.py fills text_chunks.embedding afterwards.
+-- Its HNSW cosine index is created right after the text_chunks table.
 
 CREATE TABLE IF NOT EXISTS ingest_runs (
   source text NOT NULL,
@@ -121,6 +120,11 @@ CREATE TABLE IF NOT EXISTS text_chunks (
   embedding vector(384),
   UNIQUE (source_type, source_key)
 );
+
+-- Rows without a vector are simply left out of the index; each UPDATE that
+-- fills a vector adds that row to it.
+CREATE INDEX IF NOT EXISTS text_chunks_embedding_hnsw
+  ON text_chunks USING hnsw (embedding vector_cosine_ops);
 
 
 CREATE TABLE IF NOT EXISTS syllabus_triples (

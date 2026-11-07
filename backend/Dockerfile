@@ -21,12 +21,33 @@ RUN MAMBA_ROOT_PREFIX=/tmp/mamba micromamba create -y -q -p /opt/poppler \
 
 WORKDIR /app
 
+# Debian 12 ships pip 23.0.1, which rejects wheels from the PyTorch index when
+# the listed name and the wheel's metadata name differ only by "-" vs "_"
+# (typing-extensions vs typing_extensions). Install a current pip next to it.
+# --ignore-installed is required: Debian's own pip cannot be uninstalled.
+RUN python3 -m pip install --no-cache-dir --break-system-packages \
+        --ignore-installed --upgrade pip
+
+# CPU-only PyTorch first. sentence-transformers needs torch; installed from
+# PyPI it pulls the CUDA build (~4 GB of GPU libraries this container cannot
+# use). With a CPU torch already present, the next install keeps it.
+RUN python3 -m pip install --no-cache-dir --break-system-packages \
+        torch --index-url https://download.pytorch.org/whl/cpu
+
 RUN pip3 install --no-cache-dir --break-system-packages \
         "fastapi" "uvicorn" "psycopg[binary]" "redis" \
         "pdfplumber>=0.10" "jsonschema>=4.18" \
-        "pandas" "pydantic"
+        "pandas" "pydantic" "litellm" "python-multipart" \
+        "sentence-transformers"
+
+ENV HF_HOME=/opt/hf \
+    SENTENCE_TRANSFORMERS_HOME=/opt/sentence-transformers
+RUN python3 -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
 
 COPY backend /app/backend
+COPY ai /app/ai
+COPY data/__init__.py /app/data/__init__.py
+COPY data/degreeworks /app/data/degreeworks
 COPY data/uncc-courses/catalog/pyproject.toml /tmp/catalog/pyproject.toml
 COPY data/uncc-courses/catalog/pipeline/ /tmp/catalog/catalog_pipeline/
 COPY data/uncc-courses/catalog/tests/ /tmp/catalog/tests/
