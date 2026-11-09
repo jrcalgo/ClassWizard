@@ -5,26 +5,61 @@ from __future__ import annotations
 import csv
 import json
 import os
+import re
 import subprocess
 import sys
 import zipfile
 from collections import Counter
+from dataclasses import dataclass
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 
-CATALOG_RELEASE = "Undergraduate 2026-2027"
 ONET_RELEASE = "db_31_0"
-PDF_PATTERN = __import__("re").compile(r"pg\d+\.pdf$", __import__("re").IGNORECASE)
+PDF_PATTERN = re.compile(r"pg\d+\.pdf$", re.IGNORECASE)
 
 DATASET_DIR = Path(os.environ.get("CATALOG_DATASET_DIR", "/data/dataset"))
-CATALOG_ZIP = DATASET_DIR / "undergraduate-catalog-2026-2027.zip"
+# Every catalog print-out zip in DATASET_DIR is loaded as its own catalog:
+#   undergraduate-catalog-2026-2027.zip -> "Undergraduate 2026-2027"
+#   graduate-catalog-2026-2027.zip      -> "Graduate 2026-2027"
+CATALOG_ZIP_RE = re.compile(r"^(undergraduate|graduate)-catalog-(\d{4}-\d{4})\.zip$", re.IGNORECASE)
 OUT_DIR = Path(os.environ.get("CATALOG_OUT_DIR", "/data/out"))
 PDF_ROOT = OUT_DIR / "pdfs"
 ONET_DIR = Path(os.environ.get("ONET_DIR", "/data/onet/raw_onet_data/db_31_0_csv"))
 SQL_DIR = Path(os.environ.get("PROGRAM_SQL_DIR", "/app/sql"))
 SCHEMA_SQL = Path(__file__).resolve().parents[2] / "schema.sql"
-SYLLABI_RELEASE = "v2"
+# Bump when valid_triples_for_postgres.csv changes, so the next boot reloads it.
+SYLLABI_RELEASE = "v3"
 SYLLABI_DIR = Path(os.environ.get("SYLLABI_DIR", "/data/syllabi"))
+SYLLABI_CSV = "valid_triples_for_postgres.csv"
+
+
+@dataclass(frozen=True)
+class CatalogSource:
+    """One catalog print-out zip and where its PDFs and JSON go."""
+
+    release: str  # "Undergraduate 2026-2027", stored as courses.catalog_name
+    zip_path: Path
+    slug: str  # "undergraduate-2026-2027"
+
+    @property
+    def pdf_root(self) -> Path:
+        return PDF_ROOT / self.slug
+
+    @property
+    def out_dir(self) -> Path:
+        return OUT_DIR / self.slug
+
+
+def discover_catalogs(dataset_dir: Path = DATASET_DIR) -> list[CatalogSource]:
+    """Catalog zips in dataset_dir, undergraduate first."""
+    sources = []
+    if dataset_dir.is_dir():
+        for path in dataset_dir.glob("*.zip"):
+            match = CATALOG_ZIP_RE.match(path.name)
+            if match:
+                level, year = match.group(1).capitalize(), match.group(2)
+                sources.append(CatalogSource(f"{level} {year}", path, f"{level.lower()}-{year}"))
+    return sorted(sources, key=lambda s: (s.release.startswith("Graduate"), s.release))
 
 REQUISITE_KIND = {
     "Prerequisite(s)": "prerequisite",
@@ -40,7 +75,7 @@ def main() -> None:
     with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
         conn.autocommit = True
         run_psql(SCHEMA_SQL)
-        load_catalog(conn)
+        load_catalogs(conn)
         load_onet(conn)
         load_programs(conn)
         # Syllabus triples are optional enrichment: a bad triples file must
@@ -59,6 +94,13 @@ def main() -> None:
             embed_text_chunks(conn)
         except Exception as exc:  # model files, memory, or database errors
             print(f"text_chunks embedding failed, semantic search unavailable: {exc!r}", file=sys.stderr)
+        # Same pattern for syllabus triples: the first boot after a new
+        # release embeds every row (a few minutes on CPU); later boots find
+        # nothing missing, and an interrupted run resumes.
+        try:
+            embed_syllabus_triples(conn)
+        except Exception as exc:
+            print(f"syllabus_triples embedding failed, /chat retrieval limited: {exc!r}", file=sys.stderr)
         print_counts(conn)
 
 
@@ -107,15 +149,31 @@ def copy_rows(conn, sql: str, rows: list[tuple]) -> None:
                 copy.write_row(row)
 
 
-def load_catalog(conn) -> None:
-    if already_loaded(conn, "catalog", CATALOG_RELEASE):
-        print(f"catalog {CATALOG_RELEASE} already loaded")
+def load_catalogs(conn) -> None:
+    """Load every catalog zip found (undergraduate, graduate, ...)."""
+    sources = discover_catalogs()
+    if not sources:
+        loaded = conn.execute("SELECT 1 FROM ingest_runs WHERE source = 'catalog' LIMIT 1").fetchone()
+        if loaded:
+            print(f"no catalog zips in {DATASET_DIR}; keeping the catalogs already loaded")
+            return
+        raise SystemExit(
+            f"no catalog zip found in {DATASET_DIR} "
+            "(expected undergraduate-catalog-YYYY-YYYY.zip and/or graduate-catalog-YYYY-YYYY.zip)"
+        )
+    print("catalogs found: " + ", ".join(s.release for s in sources))
+    for source in sources:
+        load_catalog(conn, source)
+
+
+def load_catalog(conn, source: CatalogSource) -> None:
+    if already_loaded(conn, "catalog", source.release):
+        print(f"catalog {source.release} already loaded")
         return
-    pdf_dir = ensure_pdf_dir()
-    courses_path, edges_path = ensure_catalog_json(pdf_dir)
+    courses_path, edges_path = ensure_catalog_json(source)
     courses_doc = json.loads(courses_path.read_text(encoding="utf-8"))
     edges_doc = json.loads(edges_path.read_text(encoding="utf-8"))
-    catalog_name = courses_doc.get("catalog") or CATALOG_RELEASE
+    catalog_name = courses_doc.get("catalog") or source.release
     course_rows = []
     chunk_rows = []
     for course in courses_doc["courses"]:
@@ -207,7 +265,7 @@ def load_catalog(conn) -> None:
         )
         conn.execute(
             "INSERT INTO ingest_runs (source, release) VALUES (%s, %s)",
-            ("catalog", CATALOG_RELEASE),
+            ("catalog", source.release),
         )
     print(f"loaded catalog {catalog_name}: {len(course_rows)} courses, {len(link_rows)} links")
 
@@ -227,19 +285,20 @@ def link_kind(edge: dict) -> str | None:
     return None
 
 
-def ensure_pdf_dir() -> Path:
-    found = find_pdf_dir(PDF_ROOT)
+def ensure_pdf_dir(source: CatalogSource) -> Path:
+    """Unzip one catalog into its own folder, so two catalogs never mix pages."""
+    found = find_pdf_dir(source.pdf_root)
     if found is not None:
         return found
-    if not CATALOG_ZIP.is_file():
-        raise SystemExit(f"catalog zip not found: {CATALOG_ZIP}")
-    PDF_ROOT.mkdir(parents=True, exist_ok=True)
-    with zipfile.ZipFile(CATALOG_ZIP) as archive:
-        safe_extract(archive, PDF_ROOT)
-    found = find_pdf_dir(PDF_ROOT)
+    if not source.zip_path.is_file():
+        raise SystemExit(f"catalog zip not found: {source.zip_path}")
+    source.pdf_root.mkdir(parents=True, exist_ok=True)
+    with zipfile.ZipFile(source.zip_path) as archive:
+        safe_extract(archive, source.pdf_root)
+    found = find_pdf_dir(source.pdf_root)
     if found is None:
-        raise SystemExit(f"no pgN.pdf files after unzipping {CATALOG_ZIP}")
-    print(f"unzipped catalog pages to {found}")
+        raise SystemExit(f"no pgN.pdf files after unzipping {source.zip_path}")
+    print(f"unzipped {source.release} pages to {found}")
     return found
 
 
@@ -264,12 +323,36 @@ def find_pdf_dir(root: Path) -> Path | None:
     return counts.most_common(1)[0][0]
 
 
-def ensure_catalog_json(pdf_dir: Path) -> tuple[Path, Path]:
-    courses_path = OUT_DIR / "courses.json"
-    edges_path = OUT_DIR / "edges.json"
+def _json_pair(folder: Path) -> tuple[Path, Path] | None:
+    courses_path, edges_path = folder / "courses.json", folder / "edges.json"
     if courses_path.is_file() and edges_path.is_file():
         return courses_path, edges_path
-    print(f"building catalog JSON from {pdf_dir}")
+    return None
+
+
+def _catalog_name(courses_path: Path) -> str | None:
+    try:
+        return json.loads(courses_path.read_text(encoding="utf-8")).get("catalog")
+    except (OSError, ValueError):
+        return None
+
+
+def ensure_catalog_json(source: CatalogSource) -> tuple[Path, Path]:
+    """courses.json + edges.json for one catalog, building them if needed.
+
+    Each catalog builds into OUT_DIR/<slug>/. JSON from before multi-catalog
+    support sits directly in OUT_DIR; it is reused when its "catalog" field
+    names this release, so existing machines skip a rebuild.
+    """
+    pair = _json_pair(source.out_dir)
+    if pair:
+        return pair
+    legacy = _json_pair(OUT_DIR)
+    if legacy and _catalog_name(legacy[0]) == source.release:
+        return legacy
+    pdf_dir = ensure_pdf_dir(source)
+    print(f"building {source.release} catalog JSON from {pdf_dir}")
+    source.out_dir.mkdir(parents=True, exist_ok=True)
     subprocess.run(
         [
             "python3",
@@ -279,16 +362,17 @@ def ensure_catalog_json(pdf_dir: Path) -> tuple[Path, Path]:
             "--pdf-dir",
             str(pdf_dir),
             "--catalog",
-            CATALOG_RELEASE,
+            source.release,
             "--out",
-            str(OUT_DIR),
+            str(source.out_dir),
         ],
         check=True,
         env=os.environ,
     )
-    if not courses_path.is_file() or not edges_path.is_file():
-        raise SystemExit("catalog build did not write courses.json and edges.json")
-    return courses_path, edges_path
+    pair = _json_pair(source.out_dir)
+    if pair is None:
+        raise SystemExit(f"{source.release} build did not write courses.json and edges.json")
+    return pair
 
 
 def load_onet(conn) -> None:
@@ -506,10 +590,10 @@ def load_programs(conn) -> None:
     print("loaded programs from Major&courses SQL")
 
 
-def find_syllabi_json() -> Path | None:
+def find_syllabi_csv() -> Path | None:
     candidates = [
-        SYLLABI_DIR / "valid_triples_with_embeddings.json",
-        Path(__file__).resolve().parents[3] / "data" / "uncc-courses" / "syllabi" / "valid_triples_with_embeddings.json",
+        SYLLABI_DIR / SYLLABI_CSV,
+        Path(__file__).resolve().parents[3] / "data" / "uncc-courses" / "syllabi" / SYLLABI_CSV,
     ]
     for candidate in candidates:
         if candidate.is_file():
@@ -517,26 +601,15 @@ def find_syllabi_json() -> Path | None:
     return None
 
 
-def load_syllabi(conn) -> None:
-    if already_loaded(conn, "syllabi", SYLLABI_RELEASE):
-        print(f"syllabi {SYLLABI_RELEASE} already loaded")
-        return
-    json_path = find_syllabi_json()
-    if not json_path:
-        print("syllabus triples embedding JSON not found, skipping syllabi load")
-        return
-    records = json.loads(json_path.read_text(encoding="utf-8"))
+def syllabi_rows(csv_path: Path) -> list[tuple]:
+    """Rows for COPY, one per (triple_id, filename); embeddings are added later."""
     rows = []
     seen = set()
-    for r in records:
-        # Additions to avoid duplicate triples with the same triple_id and filename
+    for r in read_csv(csv_path):
         key = (r.get("triple_id", ""), r.get("filename") or None)
-        if key in seen:
+        if key in seen:  # (triple_id, filename) is UNIQUE in syllabus_triples
             continue
         seen.add(key)
-        
-        emb = r.get("embedding")
-        emb_str = str(emb) if emb is not None else None
         rows.append(
             (
                 r.get("triple_id", ""),
@@ -552,9 +625,26 @@ def load_syllabi(conn) -> None:
                 r.get("filename") or None,
                 int(r["page_num"]) if r.get("page_num") else None,
                 r.get("section_heading") or None,
-                emb_str,
             )
         )
+    return rows
+
+
+def load_syllabi(conn) -> None:
+    """Load the triples CSV without vectors; embed_syllabus_triples fills them in.
+
+    The CSV (~15 MB) is what the repo ships. Vectors are computed here on the
+    first boot of each release rather than committed, since a full release
+    with vectors runs to hundreds of MB.
+    """
+    if already_loaded(conn, "syllabi", SYLLABI_RELEASE):
+        print(f"syllabi {SYLLABI_RELEASE} already loaded")
+        return
+    csv_path = find_syllabi_csv()
+    if not csv_path:
+        print(f"{SYLLABI_CSV} not found, skipping syllabi load")
+        return
+    rows = syllabi_rows(csv_path)
     with conn.transaction():
         conn.execute("DELETE FROM syllabus_triples")
         copy_rows(
@@ -563,8 +653,7 @@ def load_syllabi(conn) -> None:
             COPY syllabus_triples (
               triple_id, subject, subject_type, subject_canonical_id,
               predicate, object, object_type, object_canonical_id,
-              confidence, evidence, filename, page_num, section_heading,
-              embedding
+              confidence, evidence, filename, page_num, section_heading
             ) FROM STDIN
             """,
             rows,
@@ -573,7 +662,7 @@ def load_syllabi(conn) -> None:
             "INSERT INTO ingest_runs (source, release) VALUES (%s, %s)",
             ("syllabi", SYLLABI_RELEASE),
         )
-    print(f"loaded syllabi {SYLLABI_RELEASE}: {len(rows)} triples with embeddings")
+    print(f"loaded syllabi {SYLLABI_RELEASE}: {len(rows)} triples (vectors pending)")
 
 
 EMBED_BATCH_SIZE = 256
@@ -613,6 +702,41 @@ def embed_text_chunks(conn) -> None:
         done += len(batch)
         print(f"  embedded {done}/{len(pending)}")
     print(f"embedded {done} text_chunks")
+
+
+def embed_syllabus_triples(conn) -> None:
+    """Fill syllabus_triples.embedding for every row that has none.
+
+    Mirrors embed_text_chunks: per-batch commits, so a stopped container
+    resumes where it left off, and a boot with nothing missing returns at once.
+    """
+    pending = conn.execute(
+        """
+        SELECT id, subject, predicate, object, evidence
+        FROM syllabus_triples WHERE embedding IS NULL ORDER BY id
+        """
+    ).fetchall()
+    if not pending:
+        print("syllabus_triples: all rows already embedded")
+        return
+
+    from ai.nlp.embeddings.sentence_transformer import MODEL_NAME, encode, to_pgvector, triple_embed_text
+
+    print(f"embedding {len(pending)} syllabus_triples with {MODEL_NAME} (first boot of this release) ...")
+    done = 0
+    for start in range(0, len(pending), EMBED_BATCH_SIZE):
+        batch = pending[start : start + EMBED_BATCH_SIZE]
+        vectors = encode([triple_embed_text(s, p, o, e) for _, s, p, o, e in batch])
+        with conn.transaction():
+            with conn.cursor() as cur:
+                cur.executemany(
+                    "UPDATE syllabus_triples SET embedding = %s::vector WHERE id = %s",
+                    [(to_pgvector(vec), row[0]) for row, vec in zip(batch, vectors)],
+                )
+        done += len(batch)
+        if done % (EMBED_BATCH_SIZE * 20) == 0 or done == len(pending):
+            print(f"  embedded {done}/{len(pending)}")
+    print(f"embedded {done} syllabus_triples")
 
 
 def print_counts(conn) -> None:

@@ -26,6 +26,12 @@ services:
     ports:
       - "8000:8000"
     volumes:
+      # Keeps Postgres (and its embeddings) across rebuilds, so only the first
+      # boot, or a boot after a release bump, has to embed. Reset everything
+      # with: docker compose down -v
+      - pgdata:/var/lib/postgresql/data
+      # Drop graduate-catalog-YYYY-YYYY.zip next to the undergraduate zip to
+      # load both catalogs.
       - ${CATALOG_DATASET_DIR:-./data/_datasets/uncc-courses/catalog/dataset}:/data/dataset:ro
       - ./data/_datasets/onet:/data/onet:ro
       - ./data/catalog_out:/data/out
@@ -47,3 +53,6 @@ services:
     volumes:
       - ./frontend/src:/app
 
+
+volumes:
+  pgdata:

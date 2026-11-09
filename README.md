@@ -17,7 +17,9 @@ cp .env.example .env
 docker compose up
 ```
 
-The first boot unzips `data/_datasets/uncc-courses/catalog/dataset/undergraduate-catalog-2026-2027.zip`, builds catalog JSON, and loads PostgreSQL. The directory inside that zip is spelled `undegraduate-catalog-2026-2027` (missing an r). Extracted PDFs and JSON stay in `data/catalog_out` and are not committed. A later boot skips a catalog or O*NET release already recorded in `ingest_runs`.
+The first boot unzips every catalog zip in `data/_datasets/uncc-courses/catalog/dataset/`, builds catalog JSON, and loads PostgreSQL. Zips are named `undergraduate-catalog-YYYY-YYYY.zip` and `graduate-catalog-YYYY-YYYY.zip`; each becomes its own catalog (`Undergraduate 2026-2027`, `Graduate 2026-2027`), and each DegreeWorks audit is ranked against the catalog for its level. Only the undergraduate zip is in the repo today, so graduate audits get a "Graduate 2026-2027 catalog is not loaded yet" message until a graduate zip is added.
+
+The first boot also embeds the syllabus triples from `data/uncc-courses/syllabi/valid_triples_for_postgres.csv`, which takes a few minutes on CPU. The database lives in the `pgdata` Docker volume, so later boots and rebuilds skip anything already loaded. To start over from an empty database, run `docker compose down -v`. The directory inside that zip is spelled `undegraduate-catalog-2026-2027` (missing an r). Extracted PDFs and JSON stay in `data/catalog_out` and are not committed. A later boot skips a catalog or O*NET release already recorded in `ingest_runs`.
 
 Postgres stores courses, requisite links, programs, and O*NET occupations and skills. O*NET is read from `data/_datasets/onet`. DegreeWorks uploads stay in Redis for the session only and are not written to Postgres. Redis is empty until a student uploads a PDF.
 

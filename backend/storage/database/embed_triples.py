@@ -1,4 +1,9 @@
-"""Generate sentence embeddings for syllabus triples and prepare SQL & database import.
+"""Optional offline export: syllabus triples with embeddings as JSON and SQL.
+
+Not needed to run ClassWizard: the backend loader (postgres.py) embeds the
+CSV into Postgres on first start. The outputs below are large (hundreds of
+MB for a full release) and are git-ignored; use this only for offline tools
+such as search_triples_offline.py and verify_embeddings.py.
 
 Input:
     data/uncc-courses/syllabi/valid_triples_for_postgres.csv
@@ -20,6 +25,9 @@ from pathlib import Path
 from sentence_transformers import SentenceTransformer
 
 REPO_ROOT = Path(__file__).resolve().parents[3]
+sys.path.insert(0, str(REPO_ROOT))  # so "python embed_triples.py" can import ai.*
+
+from ai.nlp.embeddings.sentence_transformer import triple_embed_text  # noqa: E402
 INPUT_CSV = REPO_ROOT / "data" / "uncc-courses" / "syllabi" / "valid_triples_for_postgres.csv"
 OUTPUT_JSON = REPO_ROOT / "data" / "uncc-courses" / "syllabi" / "valid_triples_with_embeddings.json"
 OUTPUT_SQL = REPO_ROOT / "data" / "uncc-courses" / "syllabi" / "valid_triples_inserts.sql"
@@ -29,14 +37,9 @@ MODEL_NAME = "all-MiniLM-L6-v2"
 
 
 def build_embed_text(row: dict) -> str:
-    subject = row.get("subject", "").strip()
-    predicate = row.get("predicate", "").strip().replace("_", " ")
-    obj = row.get("object", "").strip()
-    evidence = row.get("evidence", "").strip()
-    triple_sentence = f"{subject} {predicate} {obj}"
-    if evidence and evidence.lower() != triple_sentence.lower():
-        return f"{triple_sentence}. {evidence}"
-    return triple_sentence
+    return triple_embed_text(
+        row.get("subject", ""), row.get("predicate", ""), row.get("object", ""), row.get("evidence", "")
+    )
 
 
 def escape_sql_str(val: str | None) -> str:

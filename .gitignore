@@ -131,6 +131,13 @@ data/copilot-token/
 !data/uncc-courses/syllabi/
 !data/uncc-courses/syllabi/*.csv
 !data/uncc-courses/syllabi/*.json
+# Generated: embeddings are made by the backend on first boot, and the
+# offline export from embed_triples.py runs to hundreds of MB.
+data/uncc-courses/syllabi/valid_triples_with_embeddings.json
+data/uncc-courses/syllabi/valid_triples_inserts.sql
+# Local pipeline review output (regenerated on every syllabi_pipeline run)
+data/uncc-courses/syllabi/pipeline_report.json
+data/uncc-courses/syllabi/rejected_triples.csv
 
 # Patches
 *.patch

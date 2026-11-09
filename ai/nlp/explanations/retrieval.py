@@ -166,7 +166,7 @@ def _career_items(conn, soc_codes: list[str]) -> list[dict]:
     return items
 
 
-def _ranked_by_question(conn, vector: str, codes: list[str]) -> list[tuple[str, float]]:
+def _ranked_by_question(conn, vector: str, codes: list[str], catalog: str) -> list[tuple[str, float]]:
     """Course codes (restricted to `codes`) ordered by similarity to the question."""
     if not codes:
         return []
@@ -175,23 +175,25 @@ def _ranked_by_question(conn, vector: str, codes: list[str]) -> list[tuple[str, 
         SELECT source_key, 1 - (embedding <=> %s::vector) AS similarity
         FROM text_chunks
         WHERE source_type = 'course' AND source_key = ANY(%s) AND embedding IS NOT NULL
+          AND metadata->>'catalog' = %s
         ORDER BY similarity DESC, source_key
         """,
-        (vector, codes),
+        (vector, codes, catalog),
     ).fetchall()
 
 
-def _open_search(conn, vector: str, exclude: set[str], limit: int) -> list[tuple[str, float]]:
-    """Whole-catalog search, over-fetching so excluded courses don't empty the list (D4)."""
+def _open_search(conn, vector: str, exclude: set[str], limit: int, catalog: str) -> list[tuple[str, float]]:
+    """Search the student's catalog, over-fetching so excluded courses don't empty the list (D4)."""
     rows = conn.execute(
         """
         SELECT source_key, 1 - (embedding <=> %s::vector) AS similarity
         FROM text_chunks
         WHERE source_type = 'course' AND embedding IS NOT NULL
+          AND metadata->>'catalog' = %s
         ORDER BY embedding <=> %s::vector
         LIMIT %s
         """,
-        (vector, vector, limit + len(exclude) + 20),
+        (vector, catalog, vector, limit + len(exclude) + 20),
     ).fetchall()
     hits = [(code, sim) for code, sim in rows if code not in exclude and sim >= MIN_OPEN_SIMILARITY]
     return hits[:limit]
@@ -203,9 +205,13 @@ def retrieve_evidence(
     audit: dict,
     recommendation: dict,
     soc_codes: list[str],
-    catalog: str = CATALOG,
+    catalog: str | None = None,
 ) -> list[dict]:
-    """Evidence items for one question, most important first, at most MAX_ITEMS."""
+    """Evidence items for one question, most important first, at most MAX_ITEMS.
+
+    The catalog defaults to the one /recommend ranked against (the audit's level).
+    """
+    catalog = catalog or recommendation.get("catalog") or CATALOG
     titles = {o["soc_code"]: o["title"] for o in recommendation.get("occupations", [])}
     recommended = {r["code"]: r for r in recommendation.get("recommendations", [])}
     blocks_by_code = candidate_courses(audit)
@@ -225,11 +231,11 @@ def retrieve_evidence(
         }
         named = [code for code in named if code.split()[0] in subjects]
     # 2. Recommended courses closest to the question.
-    focus = [code for code, _ in _ranked_by_question(conn, vector, list(recommended))]
+    focus = [code for code, _ in _ranked_by_question(conn, vector, list(recommended), catalog)]
     focus = [code for code in focus if code not in named][:FOCUS_COURSES]
     # 3. Catalog courses matching an open question, never already-taken ones.
     exclude = set(named) | set(focus) | taken_codes(audit)
-    found = _open_search(conn, vector, exclude, OPEN_SEARCH)
+    found = _open_search(conn, vector, exclude, OPEN_SEARCH, catalog)
 
     wanted = named + focus + [code for code, _ in found]
     rows = _course_rows(conn, wanted, catalog)
