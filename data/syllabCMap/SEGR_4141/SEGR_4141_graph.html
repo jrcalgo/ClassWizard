@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SEGR 4141 - Engineering Experimental Design - concept map</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:#222;background:#fff}
+ header{padding:12px 16px;border-bottom:1px solid #ddd}
+ h1{font-size:18px;margin:0 0 4px} .sub{color:#666;font-size:13px}
+ #map{height:72vh;border-bottom:1px solid #ddd}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;padding:8px 16px;font-size:12px}
+ .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+ .ln{display:inline-block;width:18px;height:3px;margin-right:5px;vertical-align:3px}
+ section{padding:8px 16px 24px} h2{font-size:15px;margin:16px 0 6px}
+ table{border-collapse:collapse;font-size:13px} td,th{border:1px solid #ddd;padding:3px 8px;text-align:left}
+ th{background:#f5f5f5} #err{display:none;padding:16px;color:#a00}
+</style></head><body>
+<header><h1>SEGR 4141 - Engineering Experimental Design</h1><div class="sub">6 concepts, 4 relations &middot; drag to move, scroll to zoom, hover for details</div></header>
+<div id="err">The interactive map needs internet access to load its drawing library (unpkg.com).
+Open SEGR_4141_graph.png instead; the tables below list the same content.</div>
+<div id="map"></div>
+<div class="legend"><span><span class='sw' style='background:#4C78A8'></span>topic</span><span><span class='sw' style='background:#F28E2B'></span>method</span><span><span class='ln' style='background:#1F77B4'></span>PART_OF</span><span><span class='ln' style='background:#2CA02C'></span>SUBTYPE_OF</span><span><span class='ln' style='background:#FF7F0E'></span>USED_FOR</span><span class='sub'>dashed border = not verified in the syllabus text</span></div>
+<section><h2>Relations</h2><table><tr><th>subject</th><th>relation</th><th>object</th></tr><tr><td>Fractional Factorial Designs</td><td>PART_OF</td><td>Design of Experiments (DOE</td></tr><tr><td>Taguchi Parameter Design</td><td>PART_OF</td><td>Engineering Experimental Design</td></tr><tr><td>Fractional Factorial Designs</td><td>SUBTYPE_OF</td><td>Design of Experiments (DOE</td></tr><tr><td>Design of Experiments (DOE</td><td>USED_FOR</td><td>Engineering Experimental Design</td></tr></table><h2>Concepts</h2><table><tr><th>concept</th><th>type</th><th>status</th><th>occurrences</th></tr><tr><td>DOE</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Engineering Experimental Design</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Taguchi Parameter Design</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Design of Experiments (DOE</td><td>method</td><td>verified</td><td>1</td></tr><tr><td>Fractional Factorial Designs</td><td>method</td><td>verified</td><td>1</td></tr><tr><td>Taguchi parameter design techniques</td><td>method</td><td>verified</td><td>1</td></tr></table></section>
+<script>
+const DATA = {"nodes": [{"id": "engineering experimental design", "label": "Engineering Experimental Design", "title": "Engineering Experimental Design\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 400.0, "y": -0.0}, {"id": "doe", "label": "DOE", "title": "DOE\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 57.14285714285714, "y": 204.0}, {"id": "fractional factorial designs", "label": "Fractional Factorial Designs", "title": "Fractional Factorial Designs\ntype: method\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#F28E2B", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 200.0, "y": -340.0}, {"id": "taguchi parameter design", "label": "Taguchi Parameter Design", "title": "Taguchi Parameter Design\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 600.0, "y": -170.0}, {"id": "design of experiments (doe", "label": "Design of Experiments (DOE", "title": "Design of Experiments (DOE\ntype: method\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#F28E2B", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 200.0, "y": -170.0}, {"id": "taguchi parameter design techniques", "label": "Taguchi parameter design techniques", "title": "Taguchi parameter design techniques\ntype: method\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#F28E2B", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 171.42857142857142, "y": 204.0}, {"id": "__alone__", "label": "concepts with no relation:", "shape": "text", "font": {"color": "#666", "size": 13}, "x": 48.0, "y": 118.99999999999999, "fixed": true, "chosen": false}], "edges": [{"from": "taguchi parameter design", "to": "engineering experimental design", "label": "PART_OF", "color": "#1F77B4", "smooth": {"enabled": false}, "title": "Taguchi Parameter Design PART_OF Engineering Experimental Design"}, {"from": "fractional factorial designs", "to": "design of experiments (doe", "label": "PART_OF\nSUBTYPE_OF", "color": "#1F77B4", "smooth": {"enabled": false}, "title": "Fractional Factorial Designs PART_OF / SUBTYPE_OF Design of Experiments (DOE"}, {"from": "design of experiments (doe", "to": "engineering experimental design", "label": "USED_FOR", "color": "#FF7F0E", "smooth": {"enabled": false}, "title": "Design of Experiments (DOE USED_FOR Engineering Experimental Design"}]};
+if (typeof vis === "undefined") { document.getElementById("err").style.display = "block";
+  document.getElementById("map").style.display = "none"; }
+else {
+  const nodes = new vis.DataSet(DATA.nodes), edges = new vis.DataSet(DATA.edges);
+  const net = new vis.Network(document.getElementById("map"), {nodes, edges}, {
+    nodes: {shape: "box", margin: 8, font: {color: "#fff", size: 14}, widthConstraint: {maximum: 180}},
+    edges: {arrows: {to: {enabled: true, scaleFactor: 0.7}}, font: {size: 11, align: "middle",
+            background: "rgba(255,255,255,0.85)", multi: false}, width: 1.6},
+    physics: false,          // positions come from the same layered layout as the PNG
+    layout: {improvedLayout: false},
+    interaction: {hover: true, tooltipDelay: 120}
+  });
+  net.once("afterDrawing", () => net.fit());
+}
+</script></body></html>

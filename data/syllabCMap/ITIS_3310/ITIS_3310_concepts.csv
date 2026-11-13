@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_3310,topic,Software Architecture & Design,Software Architecture & Design,3,verified,Software Architecture & Design,ITIS_3310_concepts_raw.json
+ITIS_3310,topic,Software Architecture,Software Architecture,3,verified,Introduction to Software Architecture,ITIS_3310_concepts_raw.json
+ITIS_3310,method,agile software development methodologies,Agile Software Development Methodologies,1,verified,agile software development methodologies,ITIS_3310_concepts_raw.json
+ITIS_3310,topic,Architecture Styles and Patterns,architecture styles and patterns,1,verified,Architecture Styles and Patterns,ITIS_3310_concepts_raw.json
+ITIS_3310,concept,abstraction,abstraction,1,verified,abstraction,ITIS_3310_concepts_raw.json
+ITIS_3310,concept,traceability,traceability,1,verified,traceability,ITIS_3310_concepts_raw.json
+ITIS_3310,concept,patterns,patterns,3,verified,patterns,ITIS_3310_concepts_raw.json
+ITIS_3310,concept,architectural design principles,architectural design principles,1,verified,architectural design principles,ITIS_3310_concepts_raw.json
+ITIS_3310,tool,Visio,Visio,1,verified,Visio,ITIS_3310_concepts_raw.json
+ITIS_3310,tool,Draw.io,Draw.io,1,verified,Draw.io,ITIS_3310_concepts_raw.json

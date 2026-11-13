@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6125,research design,topic,PREREQUISITE_OF,decision-making theory,topic,A taught first,,MPAD_6125_triples_raw.json
+MPAD_6125,research design,topic,PREREQUISITE_OF,measurement,topic,same unit,,MPAD_6125_triples_raw.json
+MPAD_6125,research design,topic,PREREQUISITE_OF,sampling,topic,A taught first,,MPAD_6125_triples_raw.json
+MPAD_6125,measurement,topic,PREREQUISITE_OF,data collection techniques,concept,same unit,,MPAD_6125_triples_raw.json
+MPAD_6125,sampling,topic,PREREQUISITE_OF,data collection techniques,concept,B taught first,B is taught before A - check,MPAD_6125_triples_raw.json
+MPAD_6125,decision-making theory,topic,PREREQUISITE_OF,data collection techniques,concept,B taught first,B is taught before A - check,MPAD_6125_triples_raw.json
+MPAD_6125,data collection techniques,concept,PART_OF,research design,topic,,,MPAD_6125_triples_raw.json
+MPAD_6125,measurement,topic,PART_OF,research design,topic,,,MPAD_6125_triples_raw.json
+MPAD_6125,sampling,topic,PART_OF,research design,topic,,,MPAD_6125_triples_raw.json
+MPAD_6125,decision-making theory,topic,PART_OF,research design,topic,,,MPAD_6125_triples_raw.json
+MPAD_6125,data collection techniques,concept,PART_OF,measurement,topic,,,MPAD_6125_triples_raw.json
+MPAD_6125,sampling,topic,PART_OF,measurement,topic,,,MPAD_6125_triples_raw.json
+MPAD_6125,decision-making theory,topic,PART_OF,measurement,topic,,,MPAD_6125_triples_raw.json
+MPAD_6125,data collection techniques,concept,PART_OF,sampling,topic,,,MPAD_6125_triples_raw.json
+MPAD_6125,sampling,topic,PART_OF,decision-making theory,topic,,,MPAD_6125_triples_raw.json

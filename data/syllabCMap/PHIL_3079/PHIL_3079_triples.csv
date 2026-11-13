@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_3079,Computing Philosophy,topic,PREREQUISITE_OF,History of Philosophy and Computing,topic,A mentioned first,,PHIL_3079_triples_raw.json
+PHIL_3079,epistemology of computing systems,concept,PART_OF,Abacus to AI: A Philosophical Journey,topic,,,PHIL_3079_triples_raw.json
+PHIL_3079,moral issues in algorithms,concept,PART_OF,Ethics and Computing Implications,topic,,,PHIL_3079_triples_raw.json
+PHIL_3079,societal implications of AI,concept,PART_OF,Stakes of Computing on Society,topic,,,PHIL_3079_triples_raw.json

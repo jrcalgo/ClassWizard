@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_4116,Cognitive Neuroscience Overview,concept,PART_OF,Cognitive Neuroscience,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Brain and Behavior Relationship,concept,PART_OF,Cognitive Neuroscience,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,History of the Field,concept,PART_OF,Cognitive Neuroscience,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Neural Correlates of Awareness,concept,PART_OF,Neural Basis of Consciousness,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Integrated Information Theory,concept,PART_OF,Neural Basis of Consciousness,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Dopamine and Reward System,concept,PART_OF,Neurotransmitters and Neuroplasticity,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Synaptic Plasticity Mechanisms,concept,PART_OF,Neurotransmitters and Neuroplasticity,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Visual Pathway Anatomy,concept,PART_OF,Sensory Processing and Perception,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Tactile Sensory Integration,concept,PART_OF,Sensory Processing and Perception,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Motor Cortex Organization,concept,PART_OF,Motor Control and Action,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Neural Mechanisms of Consolidation,concept,PART_OF,Learning and Memory,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Functional Magnetic Resonance Imaging,concept,PART_OF,Imaging Techniques in Cognitive Neuroscience,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Electroencephalography Principles,concept,PART_OF,Imaging Techniques in Cognitive Neuroscience,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Magnetoencephalography Applications,concept,PART_OF,Imaging Techniques in Cognitive Neuroscience,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Neurological Disorders Overview,concept,PART_OF,Clinical Neurology and Disorders,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Neuropsychiatric Conditions,concept,PART_OF,Clinical Neurology and Disorders,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Spiking Neural Networks,concept,PART_OF,Computational Models in Cognitive Neuroscience,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Deep Learning Architectures,concept,PART_OF,Computational Models in Cognitive Neuroscience,topic,,,PSYC_4116_triples_raw.json
+PSYC_4116,Cognitive Architectures Frameworks,concept,PART_OF,Computational Models in Cognitive Neuroscience,topic,,,PSYC_4116_triples_raw.json

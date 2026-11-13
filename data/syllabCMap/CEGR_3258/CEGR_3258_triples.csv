@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3258,Soil Classification Systems,topic,PART_OF,Geotechnical Lab,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,Permeability Testing,topic,PART_OF,Geotechnical Lab,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,Compaction Testing,topic,PART_OF,Geotechnical Lab,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,Slope Stability Analysis,topic,PART_OF,Geotechnical Lab,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,Settlement Analysis,topic,PART_OF,Geotechnical Lab,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,Technical Mastery of Soil Behavior,topic,PART_OF,Geotechnical Lab,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,soil testing,method,USED_FOR,Settlement Analysis,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,calculation of critical soil parameters,method,USED_FOR,Technical Mastery of Soil Behavior,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,graphing techniques,method,USED_FOR,Technical Mastery of Soil Behavior,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,experimentation,method,USED_FOR,Technical Mastery of Soil Behavior,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,engineering judgment,method,USED_FOR,Technical Mastery of Soil Behavior,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,peer-review processes,method,USED_FOR,Geotechnical Lab,topic,,,CEGR_3258_triples_raw.json
+CEGR_3258,technical reporting and documentation,method,USED_FOR,Geotechnical Lab,topic,,,CEGR_3258_triples_raw.json

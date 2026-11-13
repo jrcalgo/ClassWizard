@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AERO_1100,AFROTC Honor Code,concept,PREREQUISITE_OF,DAF Customs & Courtesies,topic,A mentioned first,,AERO_1100_triples_raw.json
+AERO_1100,AFROTC Honor Code,concept,PREREQUISITE_OF,Drill Positions & Movement,topic,A mentioned first,,AERO_1100_triples_raw.json
+AERO_1100,AFROTC Honor Code,concept,PREREQUISITE_OF,Expeditionary Skills,topic,A taught first,,AERO_1100_triples_raw.json
+AERO_1100,Grade Structure,concept,PREREQUISITE_OF,DAF/AFROTC Chain of Command,topic,A mentioned first,,AERO_1100_triples_raw.json

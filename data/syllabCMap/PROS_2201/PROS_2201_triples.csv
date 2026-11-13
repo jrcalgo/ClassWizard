@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_2201,Leadership Fundamentals,topic,PART_OF,Leadership Styles and Traits,topic,,,PROS_2201_triples_raw.json
+PROS_2201,Leadership Fundamentals,topic,PART_OF,Hiring and Recruitment,topic,,,PROS_2201_triples_raw.json
+PROS_2201,Leadership Fundamentals,topic,PART_OF,Communication in the Workplace,topic,,,PROS_2201_triples_raw.json
+PROS_2201,Hiring and Recruitment,topic,PART_OF,Leadership Styles and Traits,topic,,,PROS_2201_triples_raw.json
+PROS_2201,Hiring and Recruitment,topic,PART_OF,Communication in the Workplace,topic,,,PROS_2201_triples_raw.json
+PROS_2201,Conflict Resolution,topic,PART_OF,Leadership Styles and Traits,topic,,,PROS_2201_triples_raw.json
+PROS_2201,Conflict Resolution,topic,PART_OF,Communication in the Workplace,topic,,,PROS_2201_triples_raw.json
+PROS_2201,Transactional Leadership,concept,SUBTYPE_OF,Leadership Styles and Traits,topic,,,PROS_2201_triples_raw.json

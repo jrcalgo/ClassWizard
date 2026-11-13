@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AFRS_3260,Abolitionism,topic,PREREQUISITE_OF,Colonialism,topic,B taught first,B is taught before A - check,AFRS_3260_triples_raw.json
+AFRS_3260,Characteristics of Slavery,concept,PART_OF,Slavery,topic,,,AFRS_3260_triples_raw.json
+AFRS_3260,Forms of Dependence,concept,PART_OF,Slavery,topic,,,AFRS_3260_triples_raw.json
+AFRS_3260,Military Slavery,topic,SUBTYPE_OF,Slavery,topic,,,AFRS_3260_triples_raw.json
+AFRS_3260,Abolitionism,topic,SUBTYPE_OF,Colonialism,topic,,,AFRS_3260_triples_raw.json

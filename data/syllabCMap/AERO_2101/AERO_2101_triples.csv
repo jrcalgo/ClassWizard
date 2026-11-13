@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AERO_2101,Aerodynamic Forces,concept,PREREQUISITE_OF,Lift Generation Mechanisms,concept,same unit,,AERO_2101_triples_raw.json
+AERO_2101,Aerodynamic Forces,concept,PREREQUISITE_OF,Lift coefficients,concept,A taught first,,AERO_2101_triples_raw.json
+AERO_2101,Aerodynamic Forces,concept,PREREQUISITE_OF,Airfoil shapes,concept,A taught first,,AERO_2101_triples_raw.json
+AERO_2101,Flight Dynamics Principles,concept,PREREQUISITE_OF,Flight Dynamics,concept,same unit,,AERO_2101_triples_raw.json
+AERO_2101,Personal Growth,concept,PREREQUISITE_OF,Emotional Intelligence,concept,same unit,,AERO_2101_triples_raw.json
+AERO_2101,Personal Growth,concept,PREREQUISITE_OF,Mindfulness Practices,concept,same unit,,AERO_2101_triples_raw.json
+AERO_2101,Personal Growth,concept,PREREQUISITE_OF,Reflective Thinking,concept,same unit,,AERO_2101_triples_raw.json
+AERO_2101,Leadership Styles,concept,PREREQUISITE_OF,Effective Followership,concept,same unit,,AERO_2101_triples_raw.json
+AERO_2101,Leadership Styles,concept,PREREQUISITE_OF,Initiative in Teams,concept,same unit,,AERO_2101_triples_raw.json
+AERO_2101,Leadership Styles,concept,PREREQUISITE_OF,Collaborative Problem Solving,concept,same unit,,AERO_2101_triples_raw.json
+AERO_2101,Leadership Styles,concept,PREREQUISITE_OF,Adaptive Leadership Skills,concept,same unit,,AERO_2101_triples_raw.json
+AERO_2101,Flight Dynamics,concept,PREREQUISITE_OF,Lift and Drag,concept,A taught first,,AERO_2101_triples_raw.json
+AERO_2101,Flight Dynamics,concept,PREREQUISITE_OF,Control Surfaces,concept,A taught first,,AERO_2101_triples_raw.json
+AERO_2101,Flight Dynamics,concept,PREREQUISITE_OF,Stability Analysis,concept,A taught first,,AERO_2101_triples_raw.json
+AERO_2101,Transactional Leadership,concept,SUBTYPE_OF,Full Range Leadership Model,concept,,,AERO_2101_triples_raw.json
+AERO_2101,Servant Leadership,concept,SUBTYPE_OF,Full Range Leadership Model,concept,,,AERO_2101_triples_raw.json
+AERO_2101,Lift Generation Mechanisms,concept,SUBTYPE_OF,Aerodynamic Forces,concept,,,AERO_2101_triples_raw.json
+AERO_2101,Lift coefficients,concept,SUBTYPE_OF,Aerodynamic Forces,concept,,,AERO_2101_triples_raw.json
+AERO_2101,Airfoil shapes,concept,SUBTYPE_OF,Aerodynamic Forces,concept,,,AERO_2101_triples_raw.json

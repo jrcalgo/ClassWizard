@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPER_3201,topic,Production Planning,production planning,1,verified,Production Planning,OPER_3201_concepts_raw.json
+OPER_3201,topic,Forecasting,forecasting,2,verified,Forecasting,OPER_3201_concepts_raw.json
+OPER_3201,topic,Independent Demand Inventory Management,independent demand inventory management,2,verified,Independent Demand Inventory Management,OPER_3201_concepts_raw.json
+OPER_3201,method,materials requirement planning,materials requirement planning,2,verified,materials requirement planning,OPER_3201_concepts_raw.json
+OPER_3201,topic,Capacity Planning,capacity planning,2,verified,Capacity Planning,OPER_3201_concepts_raw.json
+OPER_3201,method,production activity control,production activity control,2,verified,production activity control,OPER_3201_concepts_raw.json
+OPER_3201,method,master production scheduling,master production scheduling,2,verified,master production scheduling,OPER_3201_concepts_raw.json

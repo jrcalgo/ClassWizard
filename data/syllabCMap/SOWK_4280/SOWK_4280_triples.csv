@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_4280,Alzheimer's disease,concept,PREREQUISITE_OF,dementia types,concept,same unit,,SOWK_4280_triples_raw.json
+SOWK_4280,biological aspects,concept,PREREQUISITE_OF,neurological effects,concept,same unit,,SOWK_4280_triples_raw.json
+SOWK_4280,Alzheimer's disease,concept,PREREQUISITE_OF,cognitive decline,concept,A taught first,,SOWK_4280_triples_raw.json
+SOWK_4280,Alzheimer's disease,concept,PREREQUISITE_OF,tau protein aggregation,concept,A taught first,,SOWK_4280_triples_raw.json
+SOWK_4280,Alzheimer's disease,concept,PREREQUISITE_OF,synaptic loss mechanisms,concept,A taught first,,SOWK_4280_triples_raw.json
+SOWK_4280,Alzheimer's disease,concept,PART_OF,dementia types,concept,,,SOWK_4280_triples_raw.json
+SOWK_4280,biological aspects,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_4280_triples_raw.json
+SOWK_4280,neurological effects,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_4280_triples_raw.json
+SOWK_4280,social implications,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_4280_triples_raw.json
+SOWK_4280,Types of Dementia,topic,PART_OF,Experience Of Dementia,topic,,,SOWK_4280_triples_raw.json
+SOWK_4280,Alzheimer's disease,concept,SUBTYPE_OF,dementia types,concept,,,SOWK_4280_triples_raw.json
+SOWK_4280,amyloid plaques formation,concept,SUBTYPE_OF,neurological changes,concept,,,SOWK_4280_triples_raw.json
+SOWK_4280,tau protein aggregation,concept,SUBTYPE_OF,neurological changes,concept,,,SOWK_4280_triples_raw.json
+SOWK_4280,synaptic loss mechanisms,concept,SUBTYPE_OF,neurological changes,concept,,,SOWK_4280_triples_raw.json

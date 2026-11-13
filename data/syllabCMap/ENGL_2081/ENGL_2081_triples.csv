@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_2081,prototyping,method,PREREQUISITE_OF,playtesting,method,same unit,,ENGL_2081_triples_raw.json
+ENGL_2081,iterative design,method,PREREQUISITE_OF,prototyping,method,same unit,,ENGL_2081_triples_raw.json
+ENGL_2081,design document creation,method,PREREQUISITE_OF,gameplay balance and pacing,concept,same unit,,ENGL_2081_triples_raw.json
+ENGL_2081,identifying market trends,method,PREREQUISITE_OF,deconstructing existing games,topic,same unit,,ENGL_2081_triples_raw.json
+ENGL_2081,story structure basics,concept,PART_OF,narrative fundamentals,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,character development techniques,concept,PART_OF,narrative fundamentals,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,plot twists and turns,concept,PART_OF,narrative fundamentals,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,player agency and choice,concept,PART_OF,game mechanics design,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,reward and punishment systems,concept,PART_OF,game mechanics design,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,iterative design process,concept,PART_OF,prototyping and playtesting,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,playtesting methods and tools,concept,PART_OF,prototyping and playtesting,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,feedback loop analysis,concept,PART_OF,prototyping and playtesting,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,gameplay balance and pacing,concept,PART_OF,gameplay design process,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,player engagement strategies,concept,PART_OF,gameplay design process,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,freelance career paths,concept,PART_OF,freelancing and portfolio building,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,portfolio creation strategies,concept,PART_OF,freelancing and portfolio building,topic,,,ENGL_2081_triples_raw.json
+ENGL_2081,prototyping,method,USED_FOR,playtesting,method,,,ENGL_2081_triples_raw.json

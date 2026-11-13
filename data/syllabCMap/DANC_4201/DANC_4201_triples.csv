@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_4201,turnout,concept,PREREQUISITE_OF,body alignment,concept,A mentioned first,,DANC_4201_triples_raw.json
+DANC_4201,turnout,concept,PREREQUISITE_OF,turning accuracy,concept,A mentioned first,,DANC_4201_triples_raw.json
+DANC_4201,turnout,concept,PREREQUISITE_OF,flexibility,concept,A mentioned first,,DANC_4201_triples_raw.json
+DANC_4201,turnout,concept,PREREQUISITE_OF,strength in legs and feet,concept,A mentioned first,,DANC_4201_triples_raw.json

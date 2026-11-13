@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BPHD_8120,topic,derivation of least squares estimators,derivation of least squares estimators,3,verified,derivation of least squares estimators,BPHD_8120_concepts_raw.json
+BPHD_8120,concept,maximum likelihood estimation,maximum likelihood estimation,5,verified,maximum likelihood estimation,BPHD_8120_concepts_raw.json
+BPHD_8120,concept,multicollinearity,multicollinearity,5,verified,multicollinearity,BPHD_8120_concepts_raw.json
+BPHD_8120,concept,heteroskedasticity,heteroskedasticity,5,verified,heteroskedasticity,BPHD_8120_concepts_raw.json
+BPHD_8120,concept,autocorrelation,autocorrelation,5,verified,autocorrelation,BPHD_8120_concepts_raw.json
+BPHD_8120,concept,least squares estimators,least squares estimators,5,verified,least squares estimators,BPHD_8120_concepts_raw.json
+BPHD_8120,tool,Datacamp,Datacamp,1,verified,Datacamp,BPHD_8120_concepts_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_5143,Completeness Axiom Definition,concept,PREREQUISITE_OF,Least Upper Bound Property,concept,same unit,,MATH_5143_triples_raw.json
+MATH_5143,Sequence Convergence Criteria,concept,PREREQUISITE_OF,Series Convergence Tests,concept,same unit,,MATH_5143_triples_raw.json
+MATH_5143,Basic Integration Rules and Formulas,concept,PREREQUISITE_OF,Substitution Method and Integration by Parts,concept,same unit,,MATH_5143_triples_raw.json

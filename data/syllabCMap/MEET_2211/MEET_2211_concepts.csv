@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_2211,topic,Graphics Communication,Graphics Communication,1,verified,Graphics Communication,MEET_2211_concepts_raw.json
+MEET_2211,tool,SOLIDWORKS,SOLIDWORKS,1,verified,SOLIDWORKS,MEET_2211_concepts_raw.json
+MEET_2211,topic,Computer-Aided Design,Computer-Aided Design,1,inferred,Computer-Aided Design,MEET_2211_concepts_raw.json
+MEET_2211,topic,SOLIDWORKS Interface,SOLIDWORKS Interface,1,inferred,SOLIDWORKS Interface,MEET_2211_concepts_raw.json
+MEET_2211,topic,2D Sketching Fundamentals,2D Sketching Fundamentals,1,inferred,2D Sketching Fundamentals,MEET_2211_concepts_raw.json
+MEET_2211,topic,3D Modeling Essentials,3D Modeling Essentials,1,inferred,3D Modeling Essentials,MEET_2211_concepts_raw.json
+MEET_2211,topic,SOLIDWORKS Drawing Tools,SOLIDWORKS Drawing Tools,1,inferred,SOLIDWORKS Drawing Tools,MEET_2211_concepts_raw.json
+MEET_2211,topic,Assembly Modeling Fundamentals,Assembly Modeling Fundamentals,1,inferred,Assembly Modeling Fundamentals,MEET_2211_concepts_raw.json
+MEET_2211,topic,Advanced SOLIDWORKS Topics,Advanced SOLIDWORKS Topics,1,inferred,Advanced SOLIDWORKS Topics,MEET_2211_concepts_raw.json
+MEET_2211,topic,Design for Manufacturing,Design for Manufacturing,1,inferred,Design for Manufacturing,MEET_2211_concepts_raw.json
+MEET_2211,topic,Graphics Communication Principles,Graphics Communication Principles,1,inferred,Graphics Communication Principles,MEET_2211_concepts_raw.json
+MEET_2211,concept,Graphics Communication Basics,Graphics Communication Basics,1,inferred,Graphics Communication Basics,MEET_2211_concepts_raw.json
+MEET_2211,concept,Computer-Aided Design Overview,Computer-Aided Design Overview,1,inferred,Computer-Aided Design Overview,MEET_2211_concepts_raw.json
+MEET_2211,concept,Design Process Fundamentals,Design Process Fundamentals,1,inferred,Design Process Fundamentals,MEET_2211_concepts_raw.json
+MEET_2211,concept,SOLIDWORKS User Interface Elements,SOLIDWORKS User Interface Elements,1,inferred,SOLIDWORKS User Interface Elements,MEET_2211_concepts_raw.json
+MEET_2211,concept,Navigation and Selection Techniques,Navigation and Selection Techniques,1,inferred,Navigation and Selection Techniques,MEET_2211_concepts_raw.json
+MEET_2211,concept,Basic Modeling Tools Introduction,Basic Modeling Tools Introduction,1,inferred,Basic Modeling Tools Introduction,MEET_2211_concepts_raw.json
+MEET_2211,concept,Sketch Entities and Relations,Sketch Entities and Relations,1,inferred,Sketch Entities and Relations,MEET_2211_concepts_raw.json
+MEET_2211,concept,Constraints and Dimensions Basics,Constraints and Dimensions Basics,1,inferred,Constraints and Dimensions Basics,MEET_2211_concepts_raw.json
+MEET_2211,concept,Sketch Modification Techniques,Sketch Modification Techniques,1,inferred,Sketch Modification Techniques,MEET_2211_concepts_raw.json
+MEET_2211,concept,Solid Modeling Concepts Overview,Solid Modeling Concepts Overview,1,inferred,Solid Modeling Concepts Overview,MEET_2211_concepts_raw.json
+MEET_2211,concept,Extrusions and Lofts Introduction,Extrusions and Lofts Introduction,1,inferred,Extrusions and Lofts Introduction,MEET_2211_concepts_raw.json
+MEET_2211,concept,Mates and Assemblies Basics,Mates and Assemblies Basics,1,inferred,Mates and Assemblies Basics,MEET_2211_concepts_raw.json
+MEET_2211,concept,Drawing Templates and Settings,Drawing Templates and Settings,1,inferred,Drawing Templates and Settings,MEET_2211_concepts_raw.json
+MEET_2211,concept,View and Projection Control,View and Projection Control,1,inferred,View and Projection Control,MEET_2211_concepts_raw.json
+MEET_2211,concept,Annotation and Dimensioning Techniques,Annotation and Dimensioning Techniques,1,inferred,Annotation and Dimensioning Techniques,MEET_2211_concepts_raw.json
+MEET_2211,concept,Assembly Design Principles Overview,Assembly Design Principles Overview,1,inferred,Assembly Design Principles Overview,MEET_2211_concepts_raw.json
+MEET_2211,concept,Component and Mate Management,Component and Mate Management,1,inferred,Component and Mate Management,MEET_2211_concepts_raw.json
+MEET_2211,concept,Motion and Simulation Basics,Motion and Simulation Basics,1,inferred,Motion and Simulation Basics,MEET_2211_concepts_raw.json
+MEET_2211,concept,Sheet Metal and Weldments Introduction,Sheet Metal and Weldments Introduction,1,inferred,Sheet Metal and Weldments Introduction,MEET_2211_concepts_raw.json
+MEET_2211,concept,Surface Modeling and Smoothing,Surface Modeling and Smoothing,1,inferred,Surface Modeling and Smoothing,MEET_2211_concepts_raw.json
+MEET_2211,concept,Advanced Assembly Techniques,Advanced Assembly Techniques,1,inferred,Advanced Assembly Techniques,MEET_2211_concepts_raw.json
+MEET_2211,concept,Manufacturing Process Overview,Manufacturing Process Overview,1,inferred,Manufacturing Process Overview,MEET_2211_concepts_raw.json
+MEET_2211,concept,Design for Assembly and Disassembly,Design for Assembly and Disassembly,1,inferred,Design for Assembly and Disassembly,MEET_2211_concepts_raw.json
+MEET_2211,concept,Material Selection and Properties,Material Selection and Properties,1,inferred,Material Selection and Properties,MEET_2211_concepts_raw.json
+MEET_2211,concept,Visual Hierarchy and Balance,Visual Hierarchy and Balance,1,inferred,Visual Hierarchy and Balance,MEET_2211_concepts_raw.json
+MEET_2211,concept,Color Theory and Application,Color Theory and Application,1,inferred,Color Theory and Application,MEET_2211_concepts_raw.json
+MEET_2211,concept,Typography and Labeling Techniques,Typography and Labeling Techniques,1,inferred,Typography and Labeling Techniques,MEET_2211_concepts_raw.json

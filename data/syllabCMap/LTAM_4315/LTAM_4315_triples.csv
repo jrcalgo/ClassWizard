@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_4315,mestizaje,concept,PREREQUISITE_OF,national identity,concept,same unit,,LTAM_4315_triples_raw.json
+LTAM_4315,modernization,concept,PREREQUISITE_OF,industrial growth,concept,same unit,,LTAM_4315_triples_raw.json
+LTAM_4315,Mexican Revolution (1910-1917,concept,PREREQUISITE_OF,state-led nation-building project,concept,same unit,,LTAM_4315_triples_raw.json
+LTAM_4315,indigenous experience in postrevolutionary Mexico,concept,PREREQUISITE_OF,representations of Mexican identity in literature,concept,A taught first,,LTAM_4315_triples_raw.json

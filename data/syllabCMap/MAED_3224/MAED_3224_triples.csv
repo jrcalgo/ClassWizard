@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MAED_3224,mathematical proficiency,concept,SUBTYPE_OF,conceptual understanding,concept,,,MAED_3224_triples_raw.json
+MAED_3224,math identity issues,concept,SUBTYPE_OF,reasoning,concept,,,MAED_3224_triples_raw.json
+MAED_3224,problem solving skills,concept,SUBTYPE_OF,mathematical writing,method,,,MAED_3224_triples_raw.json
+MAED_3224,critique,method,SUBTYPE_OF,arithmetic properties,method,,,MAED_3224_triples_raw.json

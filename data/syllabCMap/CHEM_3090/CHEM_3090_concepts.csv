@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_3090,topic,Atomic Structure,Atomic Structure,1,inferred,Atomic Structure,CHEM_3090_concepts_raw.json
+CHEM_3090,topic,Periodic Table,Periodic Table,1,inferred,Periodic Table,CHEM_3090_concepts_raw.json
+CHEM_3090,topic,Chemical Bonding,Chemical Bonding,1,inferred,Chemical Bonding,CHEM_3090_concepts_raw.json
+CHEM_3090,topic,Thermodynamics I,Thermodynamics I,1,inferred,Thermodynamics I,CHEM_3090_concepts_raw.json
+CHEM_3090,topic,Kinetics and Equilibrium,Kinetics and Equilibrium,1,inferred,Kinetics and Equilibrium,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Electron Configuration,Electron Configuration,1,inferred,Electron Configuration,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Atomic Orbitals,Atomic Orbitals,1,inferred,Atomic Orbitals,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Quantum Numbers,Quantum Numbers,1,inferred,Quantum Numbers,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Periodic Trends,Periodic Trends,1,inferred,Periodic Trends,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Block Elements,Block Elements,1,inferred,Block Elements,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Metalloids Properties,Metalloids Properties,1,inferred,Metalloids Properties,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Ionic Bonds Formed,Ionic Bonds Formed,1,inferred,Ionic Bonds Formed,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Covalent Bond Types,Covalent Bond Types,1,inferred,Covalent Bond Types,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Molecular Polarity,Molecular Polarity,1,inferred,Molecular Polarity,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Internal Energy Changes,Internal Energy Changes,1,inferred,Internal Energy Changes,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Enthalpy and Entropy,Enthalpy and Entropy,1,inferred,Enthalpy and Entropy,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Heat Transfer Methods,Heat Transfer Methods,1,inferred,Heat Transfer Methods,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Reaction Rate Laws,Reaction Rate Laws,1,inferred,Reaction Rate Laws,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Equilibrium Constant Kc,Equilibrium Constant Kc,1,inferred,Equilibrium Constant Kc,CHEM_3090_concepts_raw.json
+CHEM_3090,concept,Le Chatelier's Principle,Le Chatelier's Principle,1,inferred,Le Chatelier's Principle,CHEM_3090_concepts_raw.json

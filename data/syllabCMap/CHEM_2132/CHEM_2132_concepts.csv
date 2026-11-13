@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_2132,topic,Organic Chemistry II,Organic Chemistry II,1,verified,Organic Chemistry II,CHEM_2132_concepts_raw.json
+CHEM_2132,topic,Bonding Review,Bonding Review,1,inferred,Bonding Review,CHEM_2132_concepts_raw.json
+CHEM_2132,topic,Alkene Chemistry,Alkene Chemistry,1,inferred,Alkene Chemistry,CHEM_2132_concepts_raw.json
+CHEM_2132,topic,Alkyne Chemistry,Alkyne Chemistry,1,inferred,Alkyne Chemistry,CHEM_2132_concepts_raw.json
+CHEM_2132,topic,Aromaticity Fundamentals,Aromaticity Fundamentals,1,inferred,Aromaticity Fundamentals,CHEM_2132_concepts_raw.json
+CHEM_2132,topic,Alkyl Halide Reactions,Alkyl Halide Reactions,1,inferred,Alkyl Halide Reactions,CHEM_2132_concepts_raw.json
+CHEM_2132,topic,Carbonyl Chemistry Basics,Carbonyl Chemistry Basics,1,inferred,Carbonyl Chemistry Basics,CHEM_2132_concepts_raw.json
+CHEM_2132,topic,Spectroscopy Fundamentals,Spectroscopy Fundamentals,1,inferred,Spectroscopy Fundamentals,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Sigma and Pi Bonds,Sigma and Pi Bonds,1,inferred,Sigma and Pi Bonds,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Bond Polarity and Electronegativity,Bond Polarity and Electronegativity,1,inferred,Bond Polarity and Electronegativity,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Hybridization Theory Basics,Hybridization Theory Basics,1,inferred,Hybridization Theory Basics,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Alkene Structure and Nomenclature,Alkene Structure and Nomenclature,1,inferred,Alkene Structure and Nomenclature,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Electron Deficiency and Stability,Electron Deficiency and Stability,1,inferred,Electron Deficiency and Stability,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Cis-Trans Isomerism Basics,Cis-Trans Isomerism Basics,1,inferred,Cis-Trans Isomerism Basics,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Alkyne Structure and Properties,Alkyne Structure and Properties,1,inferred,Alkyne Structure and Properties,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Acetylide Ion Formation,Acetylide Ion Formation,1,inferred,Acetylide Ion Formation,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Alkyne Reactivity Patterns,Alkyne Reactivity Patterns,1,inferred,Alkyne Reactivity Patterns,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Aromatic Ring Structure,Aromatic Ring Structure,1,inferred,Aromatic Ring Structure,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Electron Delocalization Basics,Electron Delocalization Basics,1,inferred,Electron Delocalization Basics,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Hückel's Rule Application,Hückel's Rule Application,1,inferred,Hückel's Rule Application,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,SN1 and SN2 Reaction Mechanisms,SN1 and SN2 Reaction Mechanisms,1,inferred,SN1 and SN2 Reaction Mechanisms,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Substitution vs Elimination Reactions,Substitution vs Elimination Reactions,1,inferred,Substitution vs Elimination Reactions,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Steric Effects on Reactivity,Steric Effects on Reactivity,1,inferred,Steric Effects on Reactivity,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Aldehyde and Ketone Structure,Aldehyde and Ketone Structure,1,inferred,Aldehyde and Ketone Structure,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Acid-Base Equilibrium in Carbonyls,Acid-Base Equilibrium in Carbonyls,1,inferred,Acid-Base Equilibrium in Carbonyls,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Nucleophilic Addition Reactions,Nucleophilic Addition Reactions,1,inferred,Nucleophilic Addition Reactions,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,IR Spectroscopy Basics,IR Spectroscopy Basics,1,inferred,IR Spectroscopy Basics,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,NMR Spectroscopy Principles,NMR Spectroscopy Principles,1,inferred,NMR Spectroscopy Principles,CHEM_2132_concepts_raw.json
+CHEM_2132,concept,Mass Spectrometry Introduction,Mass Spectrometry Introduction,1,inferred,Mass Spectrometry Introduction,CHEM_2132_concepts_raw.json

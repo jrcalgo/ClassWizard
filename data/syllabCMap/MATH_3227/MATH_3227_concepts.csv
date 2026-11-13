@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3227,topic,Textbook and Courseware Purchase,textbook and courseware purchase,1,verified,Textbook and Courseware Purchase,MATH_3227_concepts_raw.json
+MATH_3227,concept,mathematical theory of interest,Mathematical Theory of Interest,2,inferred,mathematical theory of interest,MATH_3227_concepts_raw.json
+MATH_3227,topic,Calculator Selection and Use,Calculator Selection and Use,1,inferred,Calculator Selection and Use,MATH_3227_concepts_raw.json
+MATH_3227,concept,time value of money concepts,Time Value of Money Concepts,1,inferred,time value of money concepts,MATH_3227_concepts_raw.json
+MATH_3227,concept,annuity calculations and applications,Annuity Calculations and Applications,1,inferred,annuity calculations and applications,MATH_3227_concepts_raw.json
+MATH_3227,concept,loan amortization schedule creation,Loan Amortization Schedule Creation,1,inferred,loan amortization schedule creation,MATH_3227_concepts_raw.json
+MATH_3227,concept,sinking fund calculations for businesses,Sinking Fund Calculations for Businesses,1,inferred,sinking fund calculations for businesses,MATH_3227_concepts_raw.json
+MATH_3227,concept,importance of calculators in finance,Importance of Calculators in Finance,1,inferred,importance of calculators in finance,MATH_3227_concepts_raw.json
+MATH_3227,concept,Texas Instruments BA II Plus calculator,Texas Instruments BA II Plus Calculator,1,inferred,Texas Instruments BA II Plus calculator,MATH_3227_concepts_raw.json
+MATH_3227,concept,BA II Plus Professional calculator options,BA II Plus Professional Calculator Options,1,inferred,BA II Plus Professional calculator options,MATH_3227_concepts_raw.json
+MATH_3227,concept,BA-35 calculator requirements,BA-35 Calculator Requirements,1,inferred,BA-35 calculator requirements,MATH_3227_concepts_raw.json
+MATH_3227,concept,interest rate formulas and calculations,Interest Rate Formulas and Calculations,1,inferred,interest rate formulas and calculations,MATH_3227_concepts_raw.json
+MATH_3227,concept,compound interest formula derivation,Compound Interest Formula Derivation,1,inferred,compound interest formula derivation,MATH_3227_concepts_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_4000,Loneliness,topic,PART_OF,Social Isolation,topic,,,HLTH_4000_triples_raw.json
+HLTH_4000,Loneliness,topic,PART_OF,Social Well-being,topic,,,HLTH_4000_triples_raw.json
+HLTH_4000,Loneliness,topic,PART_OF,Policy Approaches,topic,,,HLTH_4000_triples_raw.json
+HLTH_4000,Loneliness,topic,PART_OF,Older Adults,topic,,,HLTH_4000_triples_raw.json

@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_2221,topic,Circuits Fundamentals,Circuits Fundamentals,1,verified,Circuits Fundamentals,MEET_2221_concepts_raw.json
+MEET_2221,topic,DC and AC Circuits,DC and AC circuits,2,verified,DC and AC Circuits,MEET_2221_concepts_raw.json
+MEET_2221,concept,AC circuits,AC circuits,2,verified,AC circuits,MEET_2221_concepts_raw.json
+MEET_2221,concept,AC voltage,AC voltage,1,verified,AC voltage,MEET_2221_concepts_raw.json
+MEET_2221,concept,current,current,2,verified,current,MEET_2221_concepts_raw.json
+MEET_2221,concept,power,power,2,verified,power,MEET_2221_concepts_raw.json
+MEET_2221,concept,Kirchhoff's laws,Kirchhoff's laws,1,verified,Kirchhoff's laws,MEET_2221_concepts_raw.json
+MEET_2221,method,circuit analysis,Circuit Analysis,2,verified,circuit analysis,MEET_2221_concepts_raw.json
+MEET_2221,method,circuit simulation,circuit simulations,1,verified,circuit simulation,MEET_2221_concepts_raw.json

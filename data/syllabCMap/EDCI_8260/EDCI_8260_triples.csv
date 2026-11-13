@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8260,Implicit Bias Definition,concept,PREREQUISITE_OF,Biased Perception Theory,concept,same unit,,EDCI_8260_triples_raw.json
+EDCI_8260,Implicit Bias Definition,concept,PREREQUISITE_OF,Social Justice Framework,concept,same unit,,EDCI_8260_triples_raw.json
+EDCI_8260,Biased Perception Theory,concept,PREREQUISITE_OF,Social Justice Framework,concept,same unit,,EDCI_8260_triples_raw.json
+EDCI_8260,Cultural Shifts and Change,concept,PREREQUISITE_OF,Societal Power Dynamics,concept,same unit,,EDCI_8260_triples_raw.json
+EDCI_8260,Cultural Shifts and Change,concept,PREREQUISITE_OF,Human Behavior and History,concept,same unit,,EDCI_8260_triples_raw.json
+EDCI_8260,Implicit Bias Definition,concept,PART_OF,Biases,topic,,,EDCI_8260_triples_raw.json
+EDCI_8260,Biased Perception Theory,concept,PART_OF,Biases,topic,,,EDCI_8260_triples_raw.json
+EDCI_8260,Social Justice Framework,concept,PART_OF,Psychological Theories of Influence,topic,,,EDCI_8260_triples_raw.json
+EDCI_8260,Cultural Shifts and Change,concept,PART_OF,Historical Influences on Society,topic,,,EDCI_8260_triples_raw.json
+EDCI_8260,Human Behavior and History,concept,PART_OF,Historical Influences on Society,topic,,,EDCI_8260_triples_raw.json
+EDCI_8260,Social Learning Theory Impact,concept,PART_OF,Psychological Theories of Influence,topic,,,EDCI_8260_triples_raw.json
+EDCI_8260,Cognitive Dissonance Effects,concept,PART_OF,Psychological Theories of Influence,topic,,,EDCI_8260_triples_raw.json
+EDCI_8260,Emotional Intelligence Role,concept,PART_OF,Psychological Theories of Influence,topic,,,EDCI_8260_triples_raw.json
+EDCI_8260,Equity and Equality Concepts,concept,PART_OF,Social Justice Education Principles,topic,,,EDCI_8260_triples_raw.json
+EDCI_8260,Inclusive Teaching Practices,concept,PART_OF,Social Justice Education Principles,topic,,,EDCI_8260_triples_raw.json

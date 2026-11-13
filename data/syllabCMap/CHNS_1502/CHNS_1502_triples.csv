@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHNS_1502,Women's roles in traditional China,concept,PREREQUISITE_OF,Impact of modernity on society,concept,same unit,,CHNS_1502_triples_raw.json
+CHNS_1502,Cross-cultural influence on film,concept,PREREQUISITE_OF,Globalization and Modernity,topic,A taught first,,CHNS_1502_triples_raw.json
+CHNS_1502,Emergence of Chinese cinema,concept,PREREQUISITE_OF,Women's Portrayal in Film,topic,A taught first,,CHNS_1502_triples_raw.json
+CHNS_1502,Communist Party influence on film,concept,PREREQUISITE_OF,Post-1949 China,topic,same unit,,CHNS_1502_triples_raw.json
+CHNS_1502,Cultural significance of cinema,concept,PART_OF,Chinese Cinema,topic,,,CHNS_1502_triples_raw.json
+CHNS_1502,Women's roles in socialist society,concept,PART_OF,Post-1949 China,topic,,,CHNS_1502_triples_raw.json
+CHNS_1502,Impact of globalization on Chinese culture,concept,PART_OF,Globalization and Modernity,topic,,,CHNS_1502_triples_raw.json
+CHNS_1502,Changing gender roles in modern China,concept,PART_OF,Globalization and Modernity,topic,,,CHNS_1502_triples_raw.json
+CHNS_1502,Female characters in Chinese cinema,concept,PART_OF,Women's Portrayal in Film,topic,,,CHNS_1502_triples_raw.json
+CHNS_1502,Portrayal of women in different films,concept,PART_OF,Women's Portrayal in Film,topic,,,CHNS_1502_triples_raw.json
+CHNS_1502,Feminist perspectives on film,concept,PART_OF,Women's Portrayal in Film,topic,,,CHNS_1502_triples_raw.json
+CHNS_1502,Film as propaganda tool,concept,SUBTYPE_OF,Film as social commentary,concept,,,CHNS_1502_triples_raw.json
+CHNS_1502,Impact of globalization on Chinese culture,concept,SUBTYPE_OF,Film as social commentary,concept,,,CHNS_1502_triples_raw.json
+CHNS_1502,Changing gender roles in modern China,concept,SUBTYPE_OF,Film as social commentary,concept,,,CHNS_1502_triples_raw.json
+CHNS_1502,Film as reflection of societal change,concept,SUBTYPE_OF,Film as social commentary,concept,,,CHNS_1502_triples_raw.json

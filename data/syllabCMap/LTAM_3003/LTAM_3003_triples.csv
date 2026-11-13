@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_3003,Indigenous Roots,topic,PART_OF,Puerto Rico,topic,,,LTAM_3003_triples_raw.json
+LTAM_3003,Música Urbana,topic,PART_OF,Cultural Expression,topic,,,LTAM_3003_triples_raw.json
+LTAM_3003,Community Memory,concept,PART_OF,Cultural Expression,topic,,,LTAM_3003_triples_raw.json
+LTAM_3003,Digital Storytelling,topic,PART_OF,Public Scholarship,topic,,,LTAM_3003_triples_raw.json

@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_3273L,lab safety protocols,concept,PART_OF,Animal Physiology Laboratory,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,lab expectations,concept,PART_OF,Animal Physiology Laboratory,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,measuring heart rate,concept,PART_OF,Physiological Parameters,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,blood pressure measurement,concept,PART_OF,Physiological Parameters,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,respiratory rate assessment,concept,PART_OF,Physiological Parameters,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,recording data accurately,concept,PART_OF,Data Collection Techniques,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,data analysis methods,concept,PART_OF,Data Collection Techniques,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,graphical representation,concept,PART_OF,Data Collection Techniques,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,organ identification,concept,PART_OF,Dissection and Anatomy,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,anatomical relationships,concept,PART_OF,Dissection and Anatomy,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,physiological systems overview,concept,PART_OF,Case Studies in Physiology,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,systemic regulation mechanisms,concept,PART_OF,Case Studies in Physiology,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,clinical applications of physiology,concept,PART_OF,Case Studies in Physiology,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,scientific writing style,concept,PART_OF,Lab Report Writing,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,report structure and format,concept,PART_OF,Lab Report Writing,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,effective communication skills,concept,PART_OF,Lab Report Writing,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,giving constructive feedback,concept,PART_OF,Peer Review Process,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,receiving criticism productively,concept,PART_OF,Peer Review Process,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,collaborative learning environment,concept,PART_OF,Peer Review Process,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,research question formulation,concept,PART_OF,Lab Project Development,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,hypothesis generation and testing,concept,PART_OF,Lab Project Development,topic,,,BIOL_3273L_triples_raw.json
+BIOL_3273L,experimental design principles,concept,PART_OF,Lab Project Development,topic,,,BIOL_3273L_triples_raw.json

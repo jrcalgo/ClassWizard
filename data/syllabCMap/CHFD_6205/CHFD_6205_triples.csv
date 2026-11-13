@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHFD_6205,edTPA early childhood assessment,concept,PART_OF,edTPA,topic,,,CHFD_6205_triples_raw.json
+CHFD_6205,Environmental strategies for young children,concept,PART_OF,Integrated Instructional Applications in Child and Family Development,topic,,,CHFD_6205_triples_raw.json

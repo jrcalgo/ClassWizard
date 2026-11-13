@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_6145,contrast,concept,PREREQUISITE_OF,graphic design best practices,concept,A mentioned first,,ELDT_6145_triples_raw.json
+ELDT_6145,repetition,concept,PREREQUISITE_OF,graphic design best practices,concept,A mentioned first,,ELDT_6145_triples_raw.json
+ELDT_6145,alignment,concept,PREREQUISITE_OF,graphic design best practices,concept,A mentioned first,,ELDT_6145_triples_raw.json
+ELDT_6145,proximity,concept,PREREQUISITE_OF,graphic design best practices,concept,A mentioned first,,ELDT_6145_triples_raw.json
+ELDT_6145,white space,concept,PREREQUISITE_OF,graphic design best practices,concept,A mentioned first,,ELDT_6145_triples_raw.json
+ELDT_6145,color schemes,concept,PREREQUISITE_OF,graphic design best practices,concept,A mentioned first,,ELDT_6145_triples_raw.json
+ELDT_6145,fonts,concept,PREREQUISITE_OF,graphic design best practices,concept,A mentioned first,,ELDT_6145_triples_raw.json
+ELDT_6145,contrast,concept,PART_OF,Visual Design Elements,topic,,,ELDT_6145_triples_raw.json
+ELDT_6145,repetition,concept,PART_OF,Visual Design Elements,topic,,,ELDT_6145_triples_raw.json
+ELDT_6145,alignment,concept,PART_OF,Visual Design Elements,topic,,,ELDT_6145_triples_raw.json
+ELDT_6145,proximity,concept,PART_OF,Visual Design Elements,topic,,,ELDT_6145_triples_raw.json
+ELDT_6145,white space,concept,PART_OF,Visual Design Elements,topic,,,ELDT_6145_triples_raw.json
+ELDT_6145,color schemes,concept,PART_OF,Visual Design Elements,topic,,,ELDT_6145_triples_raw.json
+ELDT_6145,fonts,concept,PART_OF,Visual Design Elements,topic,,,ELDT_6145_triples_raw.json

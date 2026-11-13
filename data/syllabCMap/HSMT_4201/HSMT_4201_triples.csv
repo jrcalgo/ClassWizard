@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HSMT_4201,Policy Formulation,concept,USED_FOR,Health Policy Formulation,concept,,,HSMT_4201_triples_raw.json

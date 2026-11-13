@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5431,linear integrated circuits,concept,PART_OF,Linear Integrated Electronics,topic,,,ECGR_5431_triples_raw.json
+ECGR_5431,Circuit Design,topic,PART_OF,Linear Integrated Electronics,topic,,,ECGR_5431_triples_raw.json
+ECGR_5431,Analog Integrated Circuit Design,topic,PART_OF,Linear Integrated Electronics,topic,,,ECGR_5431_triples_raw.json
+ECGR_5431,MOS devices,concept,PART_OF,Linear Integrated Electronics,topic,,,ECGR_5431_triples_raw.json
+ECGR_5431,computer-aided design (CAD,method,PART_OF,Linear Integrated Electronics,topic,,,ECGR_5431_triples_raw.json

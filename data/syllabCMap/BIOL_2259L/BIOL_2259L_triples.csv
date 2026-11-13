@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_2259L,Sterilization methods and equipment,concept,PREREQUISITE_OF,Laminar flow hood safety,concept,same unit,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Gram staining procedure and results,concept,PREREQUISITE_OF,Interpreting bacterial cell wall structure,concept,same unit,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Special stains for bacteria morphology,concept,PREREQUISITE_OF,Interpreting bacterial cell wall structure,concept,same unit,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Light microscopy techniques,concept,PART_OF,Microscopy,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Sample preparation methods,concept,PART_OF,Microscopy,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Sterilization methods and equipment,concept,PART_OF,Aseptic Techniques,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Gloving and gowning procedures,concept,PART_OF,Aseptic Techniques,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Laminar flow hood safety,concept,PART_OF,Aseptic Techniques,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Gram staining procedure and results,concept,PART_OF,Staining Bacteria,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Special stains for bacteria morphology,concept,PART_OF,Staining Bacteria,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Interpreting bacterial cell wall structure,concept,PART_OF,Staining Bacteria,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Physical methods of microbial control,concept,PART_OF,Microbial Growth Control,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Chemical disinfection and sterilization,concept,PART_OF,Microbial Growth Control,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Bacterial cell structure and function,concept,PART_OF,Bacterial Physiology,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Metabolic pathways in bacteria,concept,PART_OF,Bacterial Physiology,topic,,,BIOL_2259L_triples_raw.json
+BIOL_2259L,Microscopy,topic,USED_FOR,Aseptic Techniques,topic,,topic used for something - check direction,BIOL_2259L_triples_raw.json
+BIOL_2259L,Microscopy,topic,USED_FOR,Microbial Growth Control,topic,,topic used for something - check direction,BIOL_2259L_triples_raw.json

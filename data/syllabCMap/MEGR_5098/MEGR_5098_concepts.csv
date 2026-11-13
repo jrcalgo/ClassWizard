@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_5098,topic,Precision Engineering,Precision Engineering,1,verified,Precision Engineering,MEGR_5098_concepts_raw.json
+MEGR_5098,topic,Intelligent and Sustainable Machining Processes,Intelligent and Sustainable Machining Processes,1,verified,Intelligent and Sustainable Machining Processes,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,machining fundamentals,machining fundamentals,3,verified,machining fundamentals,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,machine tool types,machine tool types,2,verified,machine tool types,MEGR_5098_concepts_raw.json
+MEGR_5098,topic,Tool Geometry Parameters,tool geometry parameters,1,verified,Tool Geometry Parameters,MEGR_5098_concepts_raw.json
+MEGR_5098,topic,Sustainable Machining Practices,sustainable machining practices,2,verified,Sustainable Machining Practices,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,Computer Numerical Control (CNC) technology,Computer Numerical Control (CNC) technology,1,verified,Computer Numerical Control (CNC) technology,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,cutting tool technology,cutting tool technology,1,verified,cutting tool technology,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,tool holding systems,tool holding systems,1,verified,tool holding systems,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,fixtures,fixtures,2,verified,fixtures,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,sensors (IoT,sensors (IoT,1,verified,sensors (IoT),MEGR_5098_concepts_raw.json
+MEGR_5098,concept,Artificial Intelligence (AI) & machine learning,Artificial Intelligence (AI) & machine learning,1,verified,Artificial Intelligence (AI) & machine learning,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,automation/robotics,automation/robotics,1,verified,automation/robotics,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,eco-friendly cutting fluids,eco-friendly cutting fluids,2,verified,eco-friendly cutting fluids,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,energy-efficient processes,energy-efficient processes,2,verified,energy-efficient processes,MEGR_5098_concepts_raw.json
+MEGR_5098,concept,ISO standard 3002,ISO standard 3002,1,verified,ISO standard 3002,MEGR_5098_concepts_raw.json
+MEGR_5098,method,review of machining fundamentals,review of machining fundamentals,1,verified,review of machining fundamentals,MEGR_5098_concepts_raw.json
+MEGR_5098,method,intelligent machining,intelligent machining,2,verified,exploration and assessment of emerging trends in smart/intelligent machining,MEGR_5098_concepts_raw.json

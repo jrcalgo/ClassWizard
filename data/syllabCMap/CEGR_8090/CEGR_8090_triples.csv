@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_8090,wildfire hazards,topic,PREREQUISITE_OF,defensible space,topic,B mentioned first,,CEGR_8090_triples_raw.json
+CEGR_8090,wildfire exposure mechanisms,concept,PREREQUISITE_OF,radiant heat and flame exposure,concept,same unit,,CEGR_8090_triples_raw.json
+CEGR_8090,wildfire exposure mechanisms,concept,PREREQUISITE_OF,ember intrusion,concept,same unit,,CEGR_8090_triples_raw.json

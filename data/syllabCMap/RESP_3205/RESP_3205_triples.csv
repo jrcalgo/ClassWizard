@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_3205,Cardiopulmonary Physiology,topic,PREREQUISITE_OF,Acute Respiratory Disorders,topic,A taught first,,RESP_3205_triples_raw.json
+RESP_3205,Cardiopulmonary Physiology,topic,PREREQUISITE_OF,Chronic Respiratory Disorders,topic,A taught first,,RESP_3205_triples_raw.json
+RESP_3205,Respiratory System Anatomy,concept,PART_OF,Cardiopulmonary Physiology,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Pulmonary Circulation Overview,concept,PART_OF,Cardiopulmonary Physiology,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Cardiac Output Regulation,concept,PART_OF,Cardiopulmonary Physiology,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Asthma Pathophysiology,concept,PART_OF,Acute Respiratory Disorders,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Chronic Obstructive Pulmonary Disease (COPD,concept,PART_OF,Acute Respiratory Disorders,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Pneumonia Etiology and Treatment,concept,PART_OF,Acute Respiratory Disorders,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Chronic Bronchitis Management,concept,PART_OF,Chronic Respiratory Disorders,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Cystic Fibrosis Overview,concept,PART_OF,Chronic Respiratory Disorders,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Drug Classification System,concept,PART_OF,Pharmacology Fundamentals,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Therapeutic Index Explanation,concept,PART_OF,Pharmacology Fundamentals,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Corticosteroids in Respiratory Disease,concept,PART_OF,Cardiopulmonary Pharmacology,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Long-Acting Beta-Agonists (LABAs,concept,PART_OF,Advanced Respiratory Agents,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Mast Cell Stabilizers Overview,concept,PART_OF,Advanced Respiratory Agents,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Evidence-Based Medicine Principles,concept,PART_OF,Evidence-Based Practice Guidelines,topic,,,RESP_3205_triples_raw.json
+RESP_3205,Patient Care Quality Improvement,concept,PART_OF,Evidence-Based Practice Guidelines,topic,,,RESP_3205_triples_raw.json

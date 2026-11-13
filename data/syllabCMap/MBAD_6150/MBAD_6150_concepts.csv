@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MBAD_6150,topic,Wealth Management,wealth management,2,verified,Wealth Management,MBAD_6150_concepts_raw.json
+MBAD_6150,topic,Fintech Innovation,fintech innovations,1,verified,Fintech Innovation,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Decision Tree Models,decision tree models,1,verified,Decision Tree Models,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Transformer-Based AI Technologies,transformer-based AI technologies,1,verified,Transformer-Based AI Technologies,MBAD_6150_concepts_raw.json
+MBAD_6150,topic,Fintech Overview,Fintech Overview,1,inferred,Fintech Overview,MBAD_6150_concepts_raw.json
+MBAD_6150,topic,Payments and Lending,Payments and Lending,1,inferred,Payments and Lending,MBAD_6150_concepts_raw.json
+MBAD_6150,topic,Blockchain Fundamentals,Blockchain Fundamentals,1,inferred,Blockchain Fundamentals,MBAD_6150_concepts_raw.json
+MBAD_6150,topic,Fintech Regulation,Fintech Regulation,1,inferred,Fintech Regulation,MBAD_6150_concepts_raw.json
+MBAD_6150,topic,Blockchain Applications,Blockchain Applications,1,inferred,Blockchain Applications,MBAD_6150_concepts_raw.json
+MBAD_6150,topic,AI and Machine Learning,AI and Machine Learning,1,inferred,AI and Machine Learning,MBAD_6150_concepts_raw.json
+MBAD_6150,topic,Case Studies and Analysis,Case Studies and Analysis,1,inferred,Case Studies and Analysis,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Financial Services Evolution,Financial Services Evolution,1,inferred,Financial Services Evolution,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Technological Disintermediation Impact,Technological Disintermediation Impact,1,inferred,Technological Disintermediation Impact,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Fintech Industry Trends,Fintech Industry Trends,1,inferred,Fintech Industry Trends,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Digital Payment Systems,Digital Payment Systems,1,inferred,Digital Payment Systems,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Online Lending Platforms,Online Lending Platforms,1,inferred,Online Lending Platforms,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Alternative Credit Scoring,Alternative Credit Scoring,1,inferred,Alternative Credit Scoring,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Robo-Advisory Services,Robo-Advisory Services,1,inferred,Robo-Advisory Services,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Investment Portfolio Optimization,Investment Portfolio Optimization,1,inferred,Investment Portfolio Optimization,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Cryptocurrency Trading,Cryptocurrency Trading,1,inferred,Cryptocurrency Trading,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Blockchain Technology Overview,Blockchain Technology Overview,1,inferred,Blockchain Technology Overview,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Cryptography and Security,Cryptography and Security,1,inferred,Cryptography and Security,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Smart Contract Programming,Smart Contract Programming,1,inferred,Smart Contract Programming,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Global Regulatory Frameworks,Global Regulatory Frameworks,1,inferred,Global Regulatory Frameworks,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Compliance and Risk Management,Compliance and Risk Management,1,inferred,Compliance and Risk Management,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Regulatory Sandboxes,Regulatory Sandboxes,1,inferred,Regulatory Sandboxes,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Supply Chain Finance,Supply Chain Finance,1,inferred,Supply Chain Finance,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Identity Verification Systems,Identity Verification Systems,1,inferred,Identity Verification Systems,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Cross-Border Payments,Cross-Border Payments,1,inferred,Cross-Border Payments,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Vectorization and Tokenization,Vectorization and Tokenization,1,inferred,Vectorization and Tokenization,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Design Thinking Principles,Design Thinking Principles,1,inferred,Design Thinking Principles,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Customer-Centric Design,Customer-Centric Design,1,inferred,Customer-Centric Design,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Prototyping and Testing,Prototyping and Testing,1,inferred,Prototyping and Testing,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Fintech Startup Success Stories,Fintech Startup Success Stories,1,inferred,Fintech Startup Success Stories,MBAD_6150_concepts_raw.json
+MBAD_6150,concept,Industry Disruption Examples,Industry Disruption Examples,1,inferred,Industry Disruption Examples,MBAD_6150_concepts_raw.json

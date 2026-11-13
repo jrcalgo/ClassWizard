@@ -1,0 +1,52 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_2171,Social Problem Continuity,concept,PREREQUISITE_OF,Understanding Social Problems,topic,same unit,,SOCY_2171_triples_raw.json
+SOCY_2171,Poverty Measurement,concept,PREREQUISITE_OF,Economic Inequality,concept,same unit,,SOCY_2171_triples_raw.json
+SOCY_2171,Stereotype Threat Theory,concept,PREREQUISITE_OF,Racial and Ethnic Inequality,topic,same unit,,SOCY_2171_triples_raw.json
+SOCY_2171,Patriarchy Theory,concept,PREREQUISITE_OF,Gender Inequality,topic,same unit,,SOCY_2171_triples_raw.json
+SOCY_2171,Age Discrimination Laws,concept,PREREQUISITE_OF,Aging and Ageism,topic,same unit,,SOCY_2171_triples_raw.json
+SOCY_2171,Crime Rates,concept,PREREQUISITE_OF,Crime and Criminal Justice,topic,same unit,,SOCY_2171_triples_raw.json
+SOCY_2171,Poverty Measurement,concept,PART_OF,Poverty and Economic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Income Inequality,concept,PART_OF,Poverty and Economic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Wealth Disparity,concept,PART_OF,Poverty and Economic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Social Mobility,concept,PART_OF,Poverty and Economic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Relative Poverty,concept,PART_OF,Poverty and Economic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Absolute Poverty,concept,PART_OF,Poverty and Economic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Poverty Thresholds,concept,PART_OF,Poverty and Economic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Stereotype Threat Theory,concept,PART_OF,Racial and Ethnic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Colorblind Racism,concept,PART_OF,Racial and Ethnic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Systemic Racism,concept,PART_OF,Racial and Ethnic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Racial and Ethnic Inequality,topic,PART_OF,Affirmative Action Policy,concept,,part is broader than whole - check direction,SOCY_2171_triples_raw.json
+SOCY_2171,Discrimination Types,concept,PART_OF,Racial and Ethnic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Institutionalized Bias,concept,PART_OF,Racial and Ethnic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Cultural Competence Model,concept,PART_OF,Racial and Ethnic Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Patriarchy Theory,concept,PART_OF,Gender Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Sexism Definition,concept,PART_OF,Gender Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Masculinity Norms,concept,PART_OF,Gender Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Feminist Perspective,concept,PART_OF,Gender Inequality,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Intersectionality Concept,concept,PART_OF,"Sexual Orientation, Gender Identity, and Inequality",topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Heteronormativity,concept,PART_OF,"Sexual Orientation, Gender Identity, and Inequality",topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Homophobia and Biphobia,concept,PART_OF,"Sexual Orientation, Gender Identity, and Inequality",topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,LGBTQ+ Rights Movement,concept,PART_OF,"Sexual Orientation, Gender Identity, and Inequality",topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Age Discrimination Laws,concept,PART_OF,Aging and Ageism,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Gerontology Theories,concept,PART_OF,Aging and Ageism,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Social Isolation Effects,concept,PART_OF,Aging and Ageism,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Elder Abuse Prevention,concept,PART_OF,Aging and Ageism,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Cognitive Decline Stages,concept,PART_OF,Aging and Ageism,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Stereotypes and Prejudice,concept,PART_OF,Aging and Ageism,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Intergenerational Relationships,concept,PART_OF,Aging and Ageism,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Alcohol Use Patterns,concept,PART_OF,Alcohol and Other Drugs,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Substance Abuse Consequences,concept,PART_OF,Alcohol and Other Drugs,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Drug Addiction Stages,concept,PART_OF,Alcohol and Other Drugs,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Illicit Drug Trade Impact,concept,PART_OF,Alcohol and Other Drugs,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Social Learning Theory,concept,PART_OF,Alcohol and Other Drugs,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Addiction Treatment Options,concept,PART_OF,Alcohol and Other Drugs,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Rehabilitation Program Effectiveness,concept,PART_OF,Alcohol and Other Drugs,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Stigma and Shame Effects,concept,PART_OF,Alcohol and Other Drugs,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Crime Rates,concept,PART_OF,Crime and Criminal Justice,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,White-Collar Crime,concept,PART_OF,Crime and Criminal Justice,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Street Crime,concept,PART_OF,Crime and Criminal Justice,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Juvenile Delinquency,concept,PART_OF,Crime and Criminal Justice,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Recidivism Rate,concept,PART_OF,Crime and Criminal Justice,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Prison Overcrowding,concept,PART_OF,Crime and Criminal Justice,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Restorative Justice,concept,PART_OF,Crime and Criminal Justice,topic,,,SOCY_2171_triples_raw.json
+SOCY_2171,Victimology,concept,PART_OF,Crime and Criminal Justice,topic,,,SOCY_2171_triples_raw.json

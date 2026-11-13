@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_5250,Microbial Ecology and Environment,topic,PREREQUISITE_OF,Microbial Disease Outbreaks Causes,concept,A taught first,,BIOL_5250_triples_raw.json
+BIOL_5250,Microbial Ecology and Environment,topic,PREREQUISITE_OF,Infectious Disease Prevention Strategies,concept,A taught first,,BIOL_5250_triples_raw.json
+BIOL_5250,Microbial Ecology and Environment,topic,PREREQUISITE_OF,Environmental Microbiome Disruptions,concept,A taught first,,BIOL_5250_triples_raw.json
+BIOL_5250,Metabolism and Physiology,topic,PREREQUISITE_OF,Aerobic Respiration Pathways,concept,same unit,,BIOL_5250_triples_raw.json
+BIOL_5250,Metabolism and Physiology,topic,PREREQUISITE_OF,Anaerobic Metabolic Processes,concept,same unit,,BIOL_5250_triples_raw.json
+BIOL_5250,Metabolism and Physiology,topic,PREREQUISITE_OF,Microbial Nutrient Acquisition,concept,same unit,,BIOL_5250_triples_raw.json
+BIOL_5250,Bacterial Domains and Phyla,concept,PART_OF,Microbial Diversity,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Archaea Characteristics,concept,PART_OF,Microbial Diversity,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Fungal Kingdom Overview,concept,PART_OF,Microbial Diversity,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Cell Membrane Components,concept,PART_OF,Cell Structure and Function,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Cytoplasmic Streaming Mechanisms,concept,PART_OF,Cell Structure and Function,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Chromosomal Replication Process,concept,PART_OF,Cell Structure and Function,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Anaerobic Metabolic Processes,concept,PART_OF,Metabolism and Physiology,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Microbial Nutrient Acquisition,concept,PART_OF,Metabolism and Physiology,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Symbiotic Relationships Examples,concept,PART_OF,Host-Microbe Interactions,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Pathogenic Microorganisms Types,concept,PART_OF,Host-Microbe Interactions,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Immune System Response Mechanisms,concept,PART_OF,Host-Microbe Interactions,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Soil Microbiome Composition,concept,PART_OF,Microbial Ecology and Environment,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Atmospheric Microbial Influence,concept,PART_OF,Microbial Ecology and Environment,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Data Analysis Techniques Overview,concept,PART_OF,Scientific Research Methods,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Research Paper Writing Guidelines,concept,PART_OF,Scientific Research Methods,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Biotechnology Industry Overview,concept,PART_OF,Real-World Applications and Case Studies,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Public Health Policy Development,concept,PART_OF,Real-World Applications and Case Studies,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Sustainable Practices in Agriculture,concept,PART_OF,Real-World Applications and Case Studies,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Peer-Reviewed Journal Articles,concept,PART_OF,Information Literacy and Critical Evaluation,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Scientific Evidence-Based Claims,concept,PART_OF,Information Literacy and Critical Evaluation,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Source Credibility Assessment Tools,concept,PART_OF,Information Literacy and Critical Evaluation,topic,,,BIOL_5250_triples_raw.json
+BIOL_5250,Experimental Design Principles,method,USED_FOR,Data Analysis Techniques Overview,concept,,,BIOL_5250_triples_raw.json
+BIOL_5250,Experimental Design Principles,method,USED_FOR,Research Paper Writing Guidelines,concept,,,BIOL_5250_triples_raw.json

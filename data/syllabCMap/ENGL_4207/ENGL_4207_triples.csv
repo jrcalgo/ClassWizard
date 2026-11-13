@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4207,YA fantasy genre overview,concept,PREREQUISITE_OF,Experimental approaches in writing,concept,same unit,,ENGL_4207_triples_raw.json
+ENGL_4207,YA fantasy genre overview,concept,PREREQUISITE_OF,Brief sketches and descriptions,concept,A taught first,,ENGL_4207_triples_raw.json
+ENGL_4207,YA fantasy genre overview,concept,PREREQUISITE_OF,Character portraits and development,concept,A taught first,,ENGL_4207_triples_raw.json
+ENGL_4207,YA fantasy genre overview,concept,PREREQUISITE_OF,Shifting points of view techniques,concept,A taught first,,ENGL_4207_triples_raw.json
+ENGL_4207,Contemporary YA fantasy authors,concept,PREREQUISITE_OF,Literary analysis and critique,concept,same unit,,ENGL_4207_triples_raw.json
+ENGL_4207,Contemporary YA fantasy authors,concept,PREREQUISITE_OF,Constructive discussion skills,concept,same unit,,ENGL_4207_triples_raw.json
+ENGL_4207,Character portraits and development,concept,PART_OF,Writing Exercises and Skills,topic,,,ENGL_4207_triples_raw.json
+ENGL_4207,Shifting points of view techniques,concept,PART_OF,Writing Exercises and Skills,topic,,,ENGL_4207_triples_raw.json
+ENGL_4207,Contemporary YA fantasy authors,concept,PART_OF,Reading YA Fantasy,topic,,,ENGL_4207_triples_raw.json
+ENGL_4207,Literary analysis and critique,concept,PART_OF,Reading YA Fantasy,topic,,,ENGL_4207_triples_raw.json
+ENGL_4207,Constructive discussion skills,concept,PART_OF,Reading YA Fantasy,topic,,,ENGL_4207_triples_raw.json
+ENGL_4207,Story structure and organization,concept,PART_OF,Plotting a YA Novel,topic,,,ENGL_4207_triples_raw.json
+ENGL_4207,Character arc development,concept,PART_OF,Plotting a YA Novel,topic,,,ENGL_4207_triples_raw.json
+ENGL_4207,Plot twists and surprises,concept,PART_OF,Plotting a YA Novel,topic,,,ENGL_4207_triples_raw.json
+ENGL_4207,First chapter writing strategies,concept,PART_OF,Writing a Synopsis and Chapter,topic,,,ENGL_4207_triples_raw.json
+ENGL_4207,Constructive discussions,method,USED_FOR,Constructive discussion skills,concept,,,ENGL_4207_triples_raw.json
+ENGL_4207,Writing exercises,method,USED_FOR,Character portraits and development,concept,,,ENGL_4207_triples_raw.json
+ENGL_4207,Writing exercises,method,USED_FOR,Shifting points of view techniques,concept,,,ENGL_4207_triples_raw.json

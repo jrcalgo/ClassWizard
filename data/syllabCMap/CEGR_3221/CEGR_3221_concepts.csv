@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3221,topic,Structural Analysis,Structural Analysis,1,verified,Structural Analysis,CEGR_3221_concepts_raw.json
+CEGR_3221,topic,Structural Materials Lab,Structural Materials Lab,1,verified,Structural Materials Lab,CEGR_3221_concepts_raw.json
+CEGR_3221,concept,Allowable Strength Design (ASD,Allowable Strength Design (ASD,1,verified,Allowable Strength Design (ASD),CEGR_3221_concepts_raw.json
+CEGR_3221,concept,Load and Resistance Factor Design (LRFD,Load and Resistance Factor Design (LRFD,1,verified,Load and Resistance Factor Design (LRFD),CEGR_3221_concepts_raw.json
+CEGR_3221,topic,Tension Members,tension members,3,verified,Tension Members,CEGR_3221_concepts_raw.json
+CEGR_3221,topic,Compression Members,compression members,1,verified,Compression Members,CEGR_3221_concepts_raw.json
+CEGR_3221,topic,Flexural Theory,flexural theory,1,verified,Flexural Theory,CEGR_3221_concepts_raw.json
+CEGR_3221,topic,Laterally Supported Beams,laterally supported beams,1,verified,Laterally Supported Beams,CEGR_3221_concepts_raw.json
+CEGR_3221,topic,System-Level Behavior,system-level behavior,1,verified,System-Level Behavior,CEGR_3221_concepts_raw.json
+CEGR_3221,concept,Design Philosophies,Design philosophies,1,verified,Design Philosophies,CEGR_3221_concepts_raw.json
+CEGR_3221,concept,Bolted Connections for Tension,bolted connections for tension,1,verified,Bolted Connections for Tension,CEGR_3221_concepts_raw.json
+CEGR_3221,concept,AISC 360 Specification,AISC 360 specification,2,verified,AISC 360 Specification,CEGR_3221_concepts_raw.json
+CEGR_3221,concept,Column Base Plates,column base plates,1,verified,Column Base Plates,CEGR_3221_concepts_raw.json
+CEGR_3221,concept,General Flexural Theory,General flexural theory,1,verified,General Flexural Theory,CEGR_3221_concepts_raw.json
+CEGR_3221,concept,Bending of Unsymmetrical Sections,bending of unsymmetrical sections,1,verified,Bending of Unsymmetrical Sections,CEGR_3221_concepts_raw.json

@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5180,Mobile Applications,topic,PREREQUISITE_OF,Mobile Application Development,topic,B mentioned first,,ITIS_5180_triples_raw.json
+ITIS_5180,software engineering,concept,PREREQUISITE_OF,Mobile Applications,topic,A mentioned first,,ITIS_5180_triples_raw.json
+ITIS_5180,system requirements,concept,PREREQUISITE_OF,use cases,concept,same unit,,ITIS_5180_triples_raw.json
+ITIS_5180,class diagrams,concept,PREREQUISITE_OF,use cases,concept,same unit,,ITIS_5180_triples_raw.json
+ITIS_5180,test scoring methods,concept,PREREQUISITE_OF,in-class evaluation,concept,B taught first,B is taught before A - check,ITIS_5180_triples_raw.json
+ITIS_5180,support vector machines,concept,PREREQUISITE_OF,random forest classifier,concept,B taught first,B is taught before A - check,ITIS_5180_triples_raw.json
+ITIS_5180,regression analysis,concept,PREREQUISITE_OF,linear regression model,concept,same unit,,ITIS_5180_triples_raw.json
+ITIS_5180,coefficient estimation,concept,PREREQUISITE_OF,hypothesis testing,concept,same unit,,ITIS_5180_triples_raw.json
+ITIS_5180,machine learning,concept,PREREQUISITE_OF,decision trees,concept,B taught first,B is taught before A - check,ITIS_5180_triples_raw.json
+ITIS_5180,random forests,concept,PREREQUISITE_OF,gradient boosting,concept,A taught first,,ITIS_5180_triples_raw.json
+ITIS_5180,in-class evaluation,concept,PART_OF,student participation,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,test scoring methods,concept,PART_OF,in-class evaluation,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,student performance metrics,concept,PART_OF,in-class evaluation,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,data preprocessing,concept,PART_OF,feature selection techniques,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,decision tree algorithm,concept,PART_OF,random forest classifier,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,support vector machines,concept,PART_OF,random forest classifier,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,regression analysis,concept,PART_OF,linear regression model,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,multiple linear regression,concept,PART_OF,linear regression model,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,coefficient estimation,concept,PART_OF,hypothesis testing,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,machine learning,concept,PART_OF,decision trees,concept,,,ITIS_5180_triples_raw.json
+ITIS_5180,random forests,concept,PART_OF,gradient boosting,concept,,,ITIS_5180_triples_raw.json

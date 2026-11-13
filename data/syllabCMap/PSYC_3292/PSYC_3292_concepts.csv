@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_3292,concept,Critical Thinking,Critical Thinking,1,verified,Critical Thinking,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Experimental Design,Experimental Design,2,verified,Experimental Design,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Non-Experimental Methods,non-experimental methods,4,verified,Non-Experimental Methods,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Constructs in Psychology,Constructs in Psychology,1,verified,Constructs in Psychology,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Operational Definitions,Operational Definitions,1,verified,Operational Definitions,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Measurement Scales,Measurement Scales,1,verified,Measurement Scales,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Reliability Issues,Reliability Issues,1,verified,Reliability Issues,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Validity Types,Validity Types,1,verified,Validity Types,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Independent Variable,Independent Variable,1,verified,Independent Variable,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Dependent Variable,Dependent Variable,1,verified,Dependent Variable,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Control Group,Control Group,1,verified,Control Group,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Random Sampling,Random Sampling,1,verified,Random Sampling,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Sampling Bias,Sampling Bias,1,verified,Sampling Bias,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Confounding Variables,Confounding Variables,1,verified,Confounding Variables,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Measurement Error,Measurement Error,1,verified,Measurement Error,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Hypothesis Writing,Hypothesis Writing,1,verified,Hypothesis Writing,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Null Hypothesis Statement,Null Hypothesis Statement,1,verified,Null Hypothesis Statement,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Alternative Hypothesis Statement,Alternative Hypothesis Statement,2,verified,Alternative Hypothesis Statement,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Research Question Formulation,Research Question Formulation,1,verified,Research Question Formulation,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Testable Research Questions,Testable Research Questions,1,verified,Testable Research Questions,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Non-directional tests,Non-directional tests,1,verified,Non-directional tests,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Directional tests,directional tests,2,verified,Directional tests,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,One-tailed hypothesis,One-tailed hypothesis,1,verified,One-tailed hypothesis,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Two-tailed hypothesis,Two-tailed hypothesis,1,verified,Two-tailed hypothesis,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Directional Hypothesis,Directional Hypothesis,1,verified,Directional Hypothesis,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Null Hypothesis Testing,Null Hypothesis Testing,1,verified,Null Hypothesis Testing,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Experimental Methods,experimental methods,6,verified,Experimental Methods,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,Data Analysis Techniques,Data Analysis Techniques,2,verified,Data Analysis Techniques,PSYC_3292_concepts_raw.json
+PSYC_3292,concept,APA Style Guidelines,APA Style Guidelines,3,verified,APA Style Guidelines,PSYC_3292_concepts_raw.json
+PSYC_3292,tool,Excel,EXCEL,1,verified,Excel,PSYC_3292_concepts_raw.json
+PSYC_3292,tool,PowerPoint,PowerPoint,1,verified,PowerPoint,PSYC_3292_concepts_raw.json

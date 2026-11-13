@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ACCT_3361,topic,accounting cycle,accounting cycle,6,verified,accounting cycle,ACCT_3361_concepts_raw.json
+ACCT_3361,topic,conceptual framework,conceptual framework,4,verified,conceptual framework,ACCT_3361_concepts_raw.json
+ACCT_3361,topic,primary financial statements and disclosure,primary financial statements and disclosure,3,verified,primary financial statements and disclosure,ACCT_3361_concepts_raw.json
+ACCT_3361,topic,use of present value techniques in accounting measurement,use of present value techniques in accounting measurement,3,verified,use of present value techniques in accounting measurement,ACCT_3361_concepts_raw.json
+ACCT_3361,topic,revenue recognition,revenue recognition,9,verified,revenue recognition,ACCT_3361_concepts_raw.json
+ACCT_3361,topic,cash,cash,15,verified,cash,ACCT_3361_concepts_raw.json
+ACCT_3361,topic,receivables,receivables,7,verified,receivables,ACCT_3361_concepts_raw.json
+ACCT_3361,topic,inventories,inventories,5,verified,inventories,ACCT_3361_concepts_raw.json
+ACCT_3361,topic,long-term assets,long-term assets,4,verified,long-term assets,ACCT_3361_concepts_raw.json
+ACCT_3361,topic,time value of money,Time Value of Money,1,verified,time value of money,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Accounting Standards,Accounting Standards,1,verified,Accounting Standards,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Financial Reporting Objectives,Financial Reporting Objectives,1,verified,Financial Reporting Objectives,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Qualitative Characteristics,Qualitative Characteristics,1,verified,Qualitative Characteristics,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Reliability Principle,Reliability Principle,1,verified,Reliability Principle,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Present Value Techniques,present value techniques,9,verified,Present Value Techniques,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Revenue Recognition Rules,Revenue Recognition Rules,2,verified,Revenue Recognition Rules,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Cash Flow Statement,Cash Flow Statement,1,verified,Cash Flow Statement,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Income Statement Format,Income Statement Format,1,verified,Income Statement Format,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Accrual Accounting Concept,Accrual Accounting Concept,1,verified,Accrual Accounting Concept,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Matching Principle Application,Matching Principle Application,1,verified,Matching Principle Application,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Materiality Disclosure Requirements,Materiality Disclosure Requirements,1,verified,Materiality Disclosure Requirements,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Accounting Cycle Process Steps,Accounting Cycle Process Steps,1,verified,Accounting Cycle Process Steps,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Discounted Cash Flows,Discounted Cash Flows,1,verified,Discounted Cash Flows,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Future Value Calculations,Future Value Calculations,1,verified,Future Value Calculations,ACCT_3361_concepts_raw.json
+ACCT_3361,concept,Net Present Value,Net Present Value,1,verified,Net Present Value,ACCT_3361_concepts_raw.json
+ACCT_3361,tool,Excel,Excel,1,verified,Excel,ACCT_3361_concepts_raw.json

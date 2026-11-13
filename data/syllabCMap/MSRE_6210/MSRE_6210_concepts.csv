@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MSRE_6210,concept,Fiduciary Responsibility,fiduciary responsibility,1,verified,Fiduciary Responsibility,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Real Estate Investment Fund Structure,Real Estate Investment Fund Structure,1,inferred,Real Estate Investment Fund Structure,MSRE_6210_concepts_raw.json
+MSRE_6210,topic,Market Research and Analysis,Market Research and Analysis,1,inferred,Market Research and Analysis,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Property Valuation Techniques,Property Valuation Techniques,1,inferred,Property Valuation Techniques,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Financial Statement Analysis,Financial Statement Analysis,1,inferred,Financial Statement Analysis,MSRE_6210_concepts_raw.json
+MSRE_6210,topic,Site Inspection and Evaluation,Site Inspection and Evaluation,1,inferred,Site Inspection and Evaluation,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Environmental and Regulatory Review,Environmental and Regulatory Review,1,inferred,Environmental and Regulatory Review,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Portfolio Optimization Strategies,Portfolio Optimization Strategies,1,inferred,Portfolio Optimization Strategies,MSRE_6210_concepts_raw.json
+MSRE_6210,topic,Risk-Return Tradeoff Analysis,Risk-Return Tradeoff Analysis,1,inferred,Risk-Return Tradeoff Analysis,MSRE_6210_concepts_raw.json
+MSRE_6210,topic,Effective Presentation Techniques,Effective Presentation Techniques,1,inferred,Effective Presentation Techniques,MSRE_6210_concepts_raw.json
+MSRE_6210,topic,Communication with Stakeholders,Communication with Stakeholders,1,inferred,Communication with Stakeholders,MSRE_6210_concepts_raw.json
+MSRE_6210,topic,Performance Metrics and Benchmarks,Performance Metrics and Benchmarks,1,inferred,Performance Metrics and Benchmarks,MSRE_6210_concepts_raw.json
+MSRE_6210,topic,Risk Management Strategies,Risk Management Strategies,1,inferred,Risk Management Strategies,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Market Research,Market Research,1,inferred,Market Research,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Site Inspection,Site Inspection,1,inferred,Site Inspection,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Risk-Return Tradeoff,Risk-Return Tradeoff,1,inferred,Risk-Return Tradeoff,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Investment Thesis,Investment Thesis,1,inferred,Investment Thesis,MSRE_6210_concepts_raw.json
+MSRE_6210,concept,Rationale,Rationale,1,inferred,Rationale,MSRE_6210_concepts_raw.json
+MSRE_6210,measure,Performance Metrics,Performance Metrics,1,inferred,Performance Metrics,MSRE_6210_concepts_raw.json
+MSRE_6210,measure,Benchmarks,Benchmarks,1,inferred,Benchmarks,MSRE_6210_concepts_raw.json

@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPTI_8102,topic,Principles of Geometrical Optics,Principles of Geometrical Optics,1,verified,Principles of Geometrical Optics,OPTI_8102_concepts_raw.json
+OPTI_8102,topic,Reflection and Refraction,reflection and refraction,2,verified,Reflection and Refraction,OPTI_8102_concepts_raw.json
+OPTI_8102,topic,Plane Surfaces,plane surfaces,1,verified,Plane Surfaces,OPTI_8102_concepts_raw.json
+OPTI_8102,topic,Paraxial Optics,paraxial optics,1,verified,Paraxial Optics,OPTI_8102_concepts_raw.json
+OPTI_8102,topic,Paraxial Radiometry,paraxial radiometry,1,verified,Paraxial Radiometry,OPTI_8102_concepts_raw.json
+OPTI_8102,topic,Real Ray Tracing,real ray tracing,1,verified,Real Ray Tracing,OPTI_8102_concepts_raw.json
+OPTI_8102,concept,Law of reflection,Law of reflection,1,verified,Law of reflection,OPTI_8102_concepts_raw.json
+OPTI_8102,concept,Modulation Transfer Function,modulation transfer functions,1,verified,Modulation Transfer Function,OPTI_8102_concepts_raw.json
+OPTI_8102,concept,Image Quality Assessment,image quality assessment,1,verified,Image Quality Assessment,OPTI_8102_concepts_raw.json

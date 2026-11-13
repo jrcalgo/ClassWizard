@@ -1,0 +1,52 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BUSN_1101,Accounting Fundamentals,topic,PREREQUISITE_OF,Business Analytics Basics,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Accounting Fundamentals,topic,PREREQUISITE_OF,Economics in Business,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Accounting Fundamentals,topic,PREREQUISITE_OF,Finance Fundamentals,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Accounting Fundamentals,topic,PREREQUISITE_OF,International Business Overview,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Accounting Fundamentals,topic,PREREQUISITE_OF,Management Principles,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Accounting Fundamentals,topic,PREREQUISITE_OF,Marketing Fundamentals,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Accounting Fundamentals,topic,PREREQUISITE_OF,Operations and Supply Chain Management,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Business Analytics Basics,topic,PREREQUISITE_OF,Economics in Business,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Business Analytics Basics,topic,PREREQUISITE_OF,Management Principles,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Business Analytics Basics,topic,PREREQUISITE_OF,Marketing Fundamentals,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Business Analytics Basics,topic,PREREQUISITE_OF,Operations and Supply Chain Management,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Economics in Business,topic,PREREQUISITE_OF,Finance Fundamentals,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Economics in Business,topic,PREREQUISITE_OF,International Business Overview,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Economics in Business,topic,PREREQUISITE_OF,Management Principles,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Economics in Business,topic,PREREQUISITE_OF,Marketing Fundamentals,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Finance Fundamentals,topic,PREREQUISITE_OF,International Business Overview,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Finance Fundamentals,topic,PREREQUISITE_OF,Management Principles,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Finance Fundamentals,topic,PREREQUISITE_OF,Marketing Fundamentals,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Finance Fundamentals,topic,PREREQUISITE_OF,Operations and Supply Chain Management,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,International Business Overview,topic,PREREQUISITE_OF,Management Principles,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,International Business Overview,topic,PREREQUISITE_OF,Marketing Fundamentals,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,International Business Overview,topic,PREREQUISITE_OF,Operations and Supply Chain Management,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Management Principles,topic,PREREQUISITE_OF,Marketing Fundamentals,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Marketing Fundamentals,topic,PREREQUISITE_OF,Operations and Supply Chain Management,topic,A taught first,,BUSN_1101_triples_raw.json
+BUSN_1101,Business Environment Overview,concept,PART_OF,business,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Career Opportunities in Business,concept,PART_OF,business,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Importance of Goal Setting,concept,PART_OF,business,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Accounting Principles and Theories,concept,PART_OF,Accounting Fundamentals,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Financial Reporting Standards,concept,PART_OF,Accounting Fundamentals,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Statistical Tools for Decision Making,concept,PART_OF,Business Analytics Basics,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Interpreting Business Data Results,concept,PART_OF,Business Analytics Basics,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Supply and Demand Principles,concept,PART_OF,Economics in Business,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Time Value of Money Concepts,concept,PART_OF,Finance Fundamentals,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Financial Statement Analysis Techniques,concept,PART_OF,Finance Fundamentals,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Investment Decision Making Process,concept,PART_OF,Finance Fundamentals,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Globalization and Trade Agreements,concept,PART_OF,International Business Overview,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Cultural Differences in Business,concept,PART_OF,International Business Overview,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,International Marketing Strategies,concept,PART_OF,International Business Overview,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Leadership Styles and Theories,concept,PART_OF,Management Principles,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Motivation and Employee Engagement,concept,PART_OF,Management Principles,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Organizational Structure and Design,concept,PART_OF,Management Principles,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Database Management System Basics,concept,PART_OF,Management Information Systems,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Enterprise Resource Planning Software,concept,PART_OF,Management Information Systems,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Business Intelligence Tools and Techniques,concept,PART_OF,Management Information Systems,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Segmentation,concept,PART_OF,Marketing Fundamentals,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Targeting,concept,PART_OF,Marketing Fundamentals,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Positioning Strategies,concept,PART_OF,Marketing Fundamentals,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Branding and Advertising Principles,concept,PART_OF,Marketing Fundamentals,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Supply Chain Network Design and Optimization,concept,PART_OF,Operations and Supply Chain Management,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Inventory Management and Control Systems,concept,PART_OF,Operations and Supply Chain Management,topic,,,BUSN_1101_triples_raw.json
+BUSN_1101,Open-Ended Inquiry Process Overview,concept,PART_OF,Inquiry Process and Goal Setting,topic,,,BUSN_1101_triples_raw.json

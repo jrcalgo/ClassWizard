@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BIOL 3222 - L Section 001 General Botany Lab - concept map</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:#222;background:#fff}
+ header{padding:12px 16px;border-bottom:1px solid #ddd}
+ h1{font-size:18px;margin:0 0 4px} .sub{color:#666;font-size:13px}
+ #map{height:72vh;border-bottom:1px solid #ddd}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;padding:8px 16px;font-size:12px}
+ .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+ .ln{display:inline-block;width:18px;height:3px;margin-right:5px;vertical-align:3px}
+ section{padding:8px 16px 24px} h2{font-size:15px;margin:16px 0 6px}
+ table{border-collapse:collapse;font-size:13px} td,th{border:1px solid #ddd;padding:3px 8px;text-align:left}
+ th{background:#f5f5f5} #err{display:none;padding:16px;color:#a00}
+</style></head><body>
+<header><h1>BIOL 3222 - L Section 001 General Botany Lab</h1><div class="sub">9 concepts, 2 relations &middot; drag to move, scroll to zoom, hover for details</div></header>
+<div id="err">The interactive map needs internet access to load its drawing library (unpkg.com).
+Open BIOL_3222L_graph.png instead; the tables below list the same content.</div>
+<div id="map"></div>
+<div class="legend"><span><span class='sw' style='background:#4C78A8'></span>topic</span><span><span class='sw' style='background:#F28E2B'></span>method</span><span><span class='sw' style='background:#E15759'></span>tool</span><span><span class='ln' style='background:#FF7F0E'></span>USED_FOR</span><span class='sub'>dashed border = not verified in the syllabus text</span></div>
+<section><h2>Relations</h2><table><tr><th>subject</th><th>relation</th><th>object</th></tr><tr><td>laboratory equipment</td><td>USED_FOR</td><td>General Botany Lab</td></tr><tr><td>microscopes</td><td>USED_FOR</td><td>General Botany Lab</td></tr></table><h2>Concepts</h2><table><tr><th>concept</th><th>type</th><th>status</th><th>occurrences</th></tr><tr><td>Ecology of Plants</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>General Botany Lab</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Morphology</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Phylogeny</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Physiology</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Reproduction</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>scientific reasoning</td><td>method</td><td>verified</td><td>1</td></tr><tr><td>laboratory equipment</td><td>tool</td><td>verified</td><td>1</td></tr><tr><td>microscopes</td><td>tool</td><td>verified</td><td>1</td></tr></table></section>
+<script>
+const DATA = {"nodes": [{"id": "general botany lab", "label": "General Botany Lab", "title": "General Botany Lab\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 600.0, "y": -0.0}, {"id": "morphology", "label": "Morphology", "title": "Morphology\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 257.1428571428571, "y": 204.0}, {"id": "physiology", "label": "Physiology", "title": "Physiology\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 600.0, "y": 204.0}, {"id": "reproduction", "label": "Reproduction", "title": "Reproduction\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 771.4285714285714, "y": 204.0}, {"id": "phylogeny", "label": "Phylogeny", "title": "Phylogeny\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 428.57142857142856, "y": 204.0}, {"id": "ecology of plants", "label": "Ecology of Plants", "title": "Ecology of Plants\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 85.71428571428571, "y": 204.0}, {"id": "scientific reasoning", "label": "scientific reasoning", "title": "scientific reasoning\ntype: method\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#F28E2B", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 942.8571428571429, "y": 204.0}, {"id": "microscopes", "label": "microscopes", "title": "microscopes\ntype: tool\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#E15759", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 900.0, "y": -170.0}, {"id": "laboratory equipment", "label": "laboratory equipment", "title": "laboratory equipment\ntype: tool\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#E15759", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 300.0, "y": -170.0}, {"id": "__alone__", "label": "concepts with no relation:", "shape": "text", "font": {"color": "#666", "size": 13}, "x": 72.0, "y": 118.99999999999999, "fixed": true, "chosen": false}], "edges": [{"from": "microscopes", "to": "general botany lab", "label": "USED_FOR", "color": "#FF7F0E", "smooth": {"enabled": false}, "title": "microscopes USED_FOR General Botany Lab"}, {"from": "laboratory equipment", "to": "general botany lab", "label": "USED_FOR", "color": "#FF7F0E", "smooth": {"enabled": false}, "title": "laboratory equipment USED_FOR General Botany Lab"}]};
+if (typeof vis === "undefined") { document.getElementById("err").style.display = "block";
+  document.getElementById("map").style.display = "none"; }
+else {
+  const nodes = new vis.DataSet(DATA.nodes), edges = new vis.DataSet(DATA.edges);
+  const net = new vis.Network(document.getElementById("map"), {nodes, edges}, {
+    nodes: {shape: "box", margin: 8, font: {color: "#fff", size: 14}, widthConstraint: {maximum: 180}},
+    edges: {arrows: {to: {enabled: true, scaleFactor: 0.7}}, font: {size: 11, align: "middle",
+            background: "rgba(255,255,255,0.85)", multi: false}, width: 1.6},
+    physics: false,          // positions come from the same layered layout as the PNG
+    layout: {improvedLayout: false},
+    interaction: {hover: true, tooltipDelay: 120}
+  });
+  net.once("afterDrawing", () => net.fit());
+}
+</script></body></html>

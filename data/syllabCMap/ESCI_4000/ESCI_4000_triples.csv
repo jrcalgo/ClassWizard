@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_4000,human impact on freshwater,concept,PART_OF,Human Impact on Freshwater Ecosystems,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,importance of freshwater ecosystems,concept,PART_OF,freshwater ecosystem definition,concept,,,ESCI_4000_triples_raw.json
+ESCI_4000,lake stratification and mixing,concept,PART_OF,Physical Processes in Freshwater,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,aquatic food webs and trophic levels,concept,PART_OF,Biological Processes in Freshwater,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,primary production and decomposition,concept,PART_OF,Biological Processes in Freshwater,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,biodiversity and community structure,concept,PART_OF,Biological Processes in Freshwater,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,water chemistry and quality parameters,concept,PART_OF,Chemical Processes in Freshwater,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,nutrient cycling and budgets,concept,PART_OF,Chemical Processes in Freshwater,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,spatial heterogeneity and patterns,concept,PART_OF,Environmental Variability and Scales,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,temporal dynamics and cycles,concept,PART_OF,Environmental Variability and Scales,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,scale dependencies and interactions,concept,PART_OF,Environmental Variability and Scales,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,climate change and hydrological extremes,concept,PART_OF,Human Impact on Freshwater Ecosystems,topic,,,ESCI_4000_triples_raw.json
+ESCI_4000,water management and policy implications,concept,PART_OF,Human Impact on Freshwater Ecosystems,topic,,,ESCI_4000_triples_raw.json

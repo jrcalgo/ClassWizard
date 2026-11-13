@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUDN_8230,Healthcare Economics,topic,PART_OF,Economic and Financial Aspects of Healthcare Systems,topic,,,NUDN_8230_triples_raw.json
+NUDN_8230,Healthcare Workforce,topic,PART_OF,Economic and Financial Aspects of Healthcare Systems,topic,,,NUDN_8230_triples_raw.json
+NUDN_8230,Organizational Performance,topic,PART_OF,Economic and Financial Aspects of Healthcare Systems,topic,,,NUDN_8230_triples_raw.json
+NUDN_8230,Leadership Decision Making,topic,PART_OF,Economic and Financial Aspects of Healthcare Systems,topic,,,NUDN_8230_triples_raw.json
+NUDN_8230,Budgeting and Resource Management,topic,PART_OF,Economic and Financial Aspects of Healthcare Systems,topic,,,NUDN_8230_triples_raw.json
+NUDN_8230,economic factors in healthcare,concept,USED_FOR,Healthcare Economics,topic,,,NUDN_8230_triples_raw.json
+NUDN_8230,types of payment systems,concept,USED_FOR,Payment and Reimbursement,topic,,,NUDN_8230_triples_raw.json
+NUDN_8230,financial performance metrics,concept,USED_FOR,Organizational Performance,topic,,,NUDN_8230_triples_raw.json
+NUDN_8230,data-driven decision making,concept,USED_FOR,Leadership Decision Making,topic,,,NUDN_8230_triples_raw.json
+NUDN_8230,operating budget development,concept,USED_FOR,Budgeting and Resource Management,topic,,,NUDN_8230_triples_raw.json

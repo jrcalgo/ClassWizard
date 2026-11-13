@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_6219,topic,Financial E conometrics,Financial E conometrics,1,verified,Financial E conometrics,FINN_6219_concepts_raw.json
+FINN_6219,topic,Time Series Analysis,time series analysis,1,verified,Time Series Analysis,FINN_6219_concepts_raw.json
+FINN_6219,topic,Time Series Regressions,time series regressions,2,verified,Time Series Regressions,FINN_6219_concepts_raw.json
+FINN_6219,topic,Stationary,stationary,4,verified,Stationary and Non-Stationary Time Series Models,FINN_6219_concepts_raw.json
+FINN_6219,topic,ARMA,ARMA,3,verified,ARMA,FINN_6219_concepts_raw.json
+FINN_6219,topic,ARCH,ARCH,3,verified,ARCH,FINN_6219_concepts_raw.json
+FINN_6219,topic,GARCH,GARCH,3,verified,GARCH,FINN_6219_concepts_raw.json
+FINN_6219,topic,Stochastic Volatility and Factor Models,stochastic volatility and factor models,2,verified,Stochastic Volatility and Factor Models,FINN_6219_concepts_raw.json
+FINN_6219,topic,Capital Asset Pricing Model (CAPM,Capital Asset Pricing Model (CAPM,1,verified,Capital Asset Pricing Model (CAPM),FINN_6219_concepts_raw.json
+FINN_6219,topic,Fama-French Multi-Factor Models,Fama- French multi-factor models,1,verified,Fama-French Multi-Factor Models,FINN_6219_concepts_raw.json

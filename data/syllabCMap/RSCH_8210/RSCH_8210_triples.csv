@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_8210,Research Design Principles,concept,PREREQUISITE_OF,Literature Synthesis Methods,concept,A taught first,,RSCH_8210_triples_raw.json
+RSCH_8210,Research Paradigm Overview,concept,PREREQUISITE_OF,Research Questions Development,concept,same unit,,RSCH_8210_triples_raw.json
+RSCH_8210,Case Study Methodology,concept,PREREQUISITE_OF,Phenomenological Research Design,concept,same unit,,RSCH_8210_triples_raw.json
+RSCH_8210,Informed Consent Procedures,concept,PREREQUISITE_OF,Confidentiality and Anonymity,concept,same unit,,RSCH_8210_triples_raw.json
+RSCH_8210,SPSS,tool,USED_FOR,Data Analysis Techniques,concept,,,RSCH_8210_triples_raw.json
+RSCH_8210,NVivo,tool,USED_FOR,Combining Quant and Qual Data,concept,,,RSCH_8210_triples_raw.json
+RSCH_8210,R,tool,USED_FOR,Data Integration Strategies,concept,,,RSCH_8210_triples_raw.json

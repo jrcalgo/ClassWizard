@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGR_3295,Engineering Profession,concept,PREREQUISITE_OF,Professional Development,concept,same unit,,ENGR_3295_triples_raw.json
+ENGR_3295,global,topic,PREREQUISITE_OF,contemporary issues of current interest,topic,A mentioned first,,ENGR_3295_triples_raw.json
+ENGR_3295,leadership,topic,PREREQUISITE_OF,entrepreneurship,topic,A taught first,,ENGR_3295_triples_raw.json
+ENGR_3295,ethics,topic,PREREQUISITE_OF,professional licensure,topic,A mentioned first,,ENGR_3295_triples_raw.json
+ENGR_3295,global,topic,PART_OF,contemporary issues of current interest,topic,,,ENGR_3295_triples_raw.json
+ENGR_3295,societal,topic,PART_OF,contemporary issues of current interest,topic,,,ENGR_3295_triples_raw.json
+ENGR_3295,leadership,topic,PART_OF,entrepreneurship,topic,,,ENGR_3295_triples_raw.json
+ENGR_3295,ethics,topic,PART_OF,professional licensure,topic,,,ENGR_3295_triples_raw.json
+ENGR_3295,Engineering Profession,concept,PART_OF,Professional Development,concept,,,ENGR_3295_triples_raw.json

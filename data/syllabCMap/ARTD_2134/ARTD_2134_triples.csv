@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTD_2134,Human Anatomy Basics,concept,PREREQUISITE_OF,Proportion and Measurement,concept,same unit,,ARTD_2134_triples_raw.json
+ARTD_2134,Human Anatomy Basics,concept,PREREQUISITE_OF,Skeletal System Review,concept,A taught first,,ARTD_2134_triples_raw.json
+ARTD_2134,Human Anatomy Basics,concept,PREREQUISITE_OF,Muscular System Fundamentals,concept,A taught first,,ARTD_2134_triples_raw.json
+ARTD_2134,Proportion and Measurement,concept,PREREQUISITE_OF,Proportion in Art Making,concept,A taught first,,ARTD_2134_triples_raw.json
+ARTD_2134,Proportion and Measurement,concept,PREREQUISITE_OF,Measuring the Human Form,concept,A taught first,,ARTD_2134_triples_raw.json
+ARTD_2134,Skeletal System Review,concept,PREREQUISITE_OF,Muscular System Fundamentals,concept,same unit,,ARTD_2134_triples_raw.json
+ARTD_2134,Human Anatomy Basics,concept,PART_OF,Anatomy for Artists,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Proportion and Measurement,concept,PART_OF,Proportion and Measurement Techniques,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Measuring the Human Form,concept,PART_OF,Proportion and Measurement Techniques,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Skeletal System Review,concept,PART_OF,Anatomy for Artists,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Muscular System Fundamentals,concept,PART_OF,Anatomy for Artists,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Body Systems Interactions,concept,PART_OF,Anatomy for Artists,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Line Quality and Expression,concept,PART_OF,Expressive Drawing Fundamentals,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Gesture Drawing Exercises,concept,PART_OF,Expressive Drawing Fundamentals,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Balance and Visual Weight,concept,PART_OF,Composition Principles,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Negative Space Exploration,concept,PART_OF,Composition Principles,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Organizing Artwork Digitally,concept,PART_OF,Digital Portfolio Development,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Documenting Artwork Techniques,concept,PART_OF,Digital Portfolio Development,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Labeling and Categorization,concept,PART_OF,Digital Portfolio Development,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Speaking About Artwork Effectively,concept,PART_OF,Effective Communication in the Arts,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Digital Presentation Tools Overview,concept,PART_OF,Effective Communication in the Arts,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Art Criticism Fundamentals,concept,PART_OF,Effective Communication in the Arts,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Connections to Larger Art Context,concept,PART_OF,Writing About Art and Context,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Studio Practice Reflections,concept,PART_OF,Writing About Art and Context,topic,,,ARTD_2134_triples_raw.json
+ARTD_2134,Analyzing Artwork and Ideas,concept,PART_OF,Writing About Art and Context,topic,,,ARTD_2134_triples_raw.json

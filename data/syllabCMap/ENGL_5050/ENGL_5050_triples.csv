@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_5050,Sexual Violence,topic,PREREQUISITE_OF,race,concept,A taught first,,ENGL_5050_triples_raw.json
+ENGL_5050,Birth of a Nation,work,USED_FOR,Sexual Violence,topic,,,ENGL_5050_triples_raw.json
+ENGL_5050,Last Year at Marienbad,work,USED_FOR,Sexual Violence,topic,,,ENGL_5050_triples_raw.json
+ENGL_5050,Accused,work,USED_FOR,Sexual Violence,topic,,,ENGL_5050_triples_raw.json
+ENGL_5050,I Spit on Your Grave,work,USED_FOR,Sexual Violence,topic,,,ENGL_5050_triples_raw.json
+ENGL_5050,Deliverance,work,USED_FOR,Sexual Violence,topic,,,ENGL_5050_triples_raw.json
+ENGL_5050,Promising Young Woman,work,USED_FOR,Sexual Violence,topic,,,ENGL_5050_triples_raw.json

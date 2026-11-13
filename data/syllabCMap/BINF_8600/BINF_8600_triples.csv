@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_8600,Bioinformatics,topic,PREREQUISITE_OF,Genomics Research,topic,A mentioned first,,BINF_8600_triples_raw.json
+BINF_8600,Bioinformatics,topic,PREREQUISITE_OF,Presentation Skills,topic,A taught first,,BINF_8600_triples_raw.json
+BINF_8600,Bioinformatics,topic,PREREQUISITE_OF,Bioinformatics Tools,topic,A taught first,,BINF_8600_triples_raw.json
+BINF_8600,Genomics Research,topic,PREREQUISITE_OF,Bioinformatics Tools,topic,B mentioned first,,BINF_8600_triples_raw.json
+BINF_8600,sequence alignment algorithms,concept,PART_OF,computational biology techniques,concept,,,BINF_8600_triples_raw.json
+BINF_8600,formal critique writing skills,concept,PART_OF,peer review process overview,concept,,,BINF_8600_triples_raw.json
+BINF_8600,constructive feedback strategies,concept,PART_OF,peer review process overview,concept,,,BINF_8600_triples_raw.json
+BINF_8600,bioinformatics and genomics overview,concept,PART_OF,Bioinformatics,topic,,,BINF_8600_triples_raw.json
+BINF_8600,importance of bioinformatics,concept,PART_OF,Bioinformatics,topic,,,BINF_8600_triples_raw.json

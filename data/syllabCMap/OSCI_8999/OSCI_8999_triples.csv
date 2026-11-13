@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OSCI_8999,Research Question Identification,concept,PREREQUISITE_OF,Proposal Structure Guidelines,concept,A taught first,,OSCI_8999_triples_raw.json
+OSCI_8999,Research Question Identification,concept,PREREQUISITE_OF,Methodology Selection Criteria,concept,A taught first,,OSCI_8999_triples_raw.json
+OSCI_8999,Literature Review Basics,concept,PREREQUISITE_OF,Empirical Studies Analysis Techniques,concept,A taught first,,OSCI_8999_triples_raw.json
+OSCI_8999,Research Objectives Clarification,concept,PREREQUISITE_OF,Significance of Study Explanation,concept,same unit,,OSCI_8999_triples_raw.json

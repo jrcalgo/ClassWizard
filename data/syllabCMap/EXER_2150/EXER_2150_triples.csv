@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_2150,exercise science definition,concept,PREREQUISITE_OF,Philosophies of Exercise,topic,same unit,,EXER_2150_triples_raw.json
+EXER_2150,muscular system function,concept,PREREQUISITE_OF,respiratory system adaptation,concept,same unit,,EXER_2150_triples_raw.json

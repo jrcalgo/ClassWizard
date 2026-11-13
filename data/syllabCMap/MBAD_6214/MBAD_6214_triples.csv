@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6214,Types of Artificial Intelligence,concept,PART_OF,Artificial Intelligence,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Neural Network Architectures,concept,PART_OF,Machine Learning Fundamentals,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Project Planning and Management,concept,PART_OF,Planning and Executing AI Projects,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Resource Allocation for AI,concept,PART_OF,Planning and Executing AI Projects,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Budgeting and Cost Estimation,concept,PART_OF,Planning and Executing AI Projects,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Writing a Business Case for AI,topic,PART_OF,Business Requirements for AI,concept,,part is broader than whole - check direction,MBAD_6214_triples_raw.json
+MBAD_6214,ROI Analysis for AI Deployment,concept,PART_OF,Writing a Business Case for AI,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Justification for AI Investment,concept,PART_OF,Writing a Business Case for AI,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Ethical Considerations in AI,concept,PART_OF,Ethics and Implications of AI,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Explainable AI (xAI) Principles,concept,PART_OF,Ethics and Implications of AI,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Machine Learning Fundamentals,topic,USED_FOR,Types of Artificial Intelligence,concept,,topic used for something - check direction,MBAD_6214_triples_raw.json
+MBAD_6214,Generative AI Models,concept,USED_FOR,Types of Artificial Intelligence,concept,,,MBAD_6214_triples_raw.json
+MBAD_6214,Computer Vision Basics,concept,USED_FOR,Types of Artificial Intelligence,concept,,,MBAD_6214_triples_raw.json
+MBAD_6214,Project Planning and Management,concept,USED_FOR,Planning and Executing AI Projects,topic,,,MBAD_6214_triples_raw.json
+MBAD_6214,Writing a Business Case for AI,topic,USED_FOR,Business Requirements for AI,concept,,topic used for something - check direction,MBAD_6214_triples_raw.json
+MBAD_6214,Justification for AI Investment,concept,USED_FOR,Writing a Business Case for AI,topic,,,MBAD_6214_triples_raw.json

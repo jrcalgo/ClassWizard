@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_3610,research,concept,PREREQUISITE_OF,leadership theory,concept,B mentioned first,,ITSC_3610_triples_raw.json
+ITSC_3610,research,concept,PREREQUISITE_OF,pedagogical theories,concept,B mentioned first,,ITSC_3610_triples_raw.json
+ITSC_3610,communication skills,concept,PREREQUISITE_OF,teamwork,concept,same unit,,ITSC_3610_triples_raw.json
+ITSC_3610,conflict resolution,concept,PREREQUISITE_OF,teamwork,concept,same unit,,ITSC_3610_triples_raw.json
+ITSC_3610,time management,concept,PREREQUISITE_OF,teamwork,concept,same unit,,ITSC_3610_triples_raw.json
+ITSC_3610,team-based computing service-learning projects,method,PART_OF,semester-long service-learning project,topic,,,ITSC_3610_triples_raw.json
+ITSC_3610,lectures,method,PART_OF,Computing Leaders Seminar,topic,,,ITSC_3610_triples_raw.json
+ITSC_3610,invited speakers,method,PART_OF,Computing Leaders Seminar,topic,,,ITSC_3610_triples_raw.json
+ITSC_3610,civic engagement,topic,PART_OF,community service,topic,,,ITSC_3610_triples_raw.json
+ITSC_3610,lectures,method,USED_FOR,Computing Leaders Seminar,topic,,,ITSC_3610_triples_raw.json
+ITSC_3610,team-based computing service-learning projects,method,USED_FOR,semester-long service-learning project,topic,,,ITSC_3610_triples_raw.json
+ITSC_3610,facilitated class discussions,method,USED_FOR,Computing Leaders Seminar,topic,,,ITSC_3610_triples_raw.json
+ITSC_3610,invited speakers,method,USED_FOR,Computing Leaders Seminar,topic,,,ITSC_3610_triples_raw.json

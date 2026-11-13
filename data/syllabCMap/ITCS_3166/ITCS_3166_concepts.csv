@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_3166,topic,Internet,Internet,3,verified,Internet,ITCS_3166_concepts_raw.json
+ITCS_3166,topic,Network Layer Protocols,Network Layer Protocols,2,verified,Network Layer Protocols,ITCS_3166_concepts_raw.json
+ITCS_3166,topic,Transport Layer Protocols,Transport Layer Protocols,2,verified,Transport Layer Protocols,ITCS_3166_concepts_raw.json
+ITCS_3166,topic,Application Layer Protocols,Application Layer Protocols,2,verified,Application Layer Protocols,ITCS_3166_concepts_raw.json
+ITCS_3166,topic,Wireless Networking,Wireless Networking,3,verified,Wireless Networking,ITCS_3166_concepts_raw.json
+ITCS_3166,topic,Emerging Topics on Smart Networked System,Emerging Topics on Smart Networked System,2,verified,Emerging Topics on Smart Networked System,ITCS_3166_concepts_raw.json
+ITCS_3166,concept,packet communication,packet communications,1,verified,packet communication,ITCS_3166_concepts_raw.json
+ITCS_3166,concept,OSI model,OSI model,1,verified,OSI model,ITCS_3166_concepts_raw.json
+ITCS_3166,concept,routing protocol,routing protocols,2,verified,routing protocol,ITCS_3166_concepts_raw.json
+ITCS_3166,concept,software-defined networking,Software-Defined Networking,2,verified,software-defined networking,ITCS_3166_concepts_raw.json
+ITCS_3166,concept,network function virtualization,Network Function Virtualization,1,verified,network function virtualization,ITCS_3166_concepts_raw.json
+ITCS_3166,method,analysis of OSI layered architectures,Analysis of OSI layered architectures,1,verified,analysis of OSI layered architectures,ITCS_3166_concepts_raw.json
+ITCS_3166,method,investigation of routing protocols at the network layer,Investigation of routing protocols at the network layer,1,verified,investigation of routing protocols at the network layer,ITCS_3166_concepts_raw.json

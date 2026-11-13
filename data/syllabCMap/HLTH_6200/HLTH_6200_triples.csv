@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6200,population health,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,Determinants of Health,topic,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,international models,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,health system,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,evidence-based practice,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,one health approach,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,public health infrastructure,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,systematic inquiry,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,determinants of health (DOH,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,climate health,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,sustainability,concept,PART_OF,Public Health Fundamentals,topic,,,HLTH_6200_triples_raw.json
+HLTH_6200,systematic inquiry,concept,USED_FOR,evidence-based practice,concept,,,HLTH_6200_triples_raw.json

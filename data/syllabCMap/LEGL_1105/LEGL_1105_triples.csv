@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_1105,categorical logic,concept,PREREQUISITE_OF,syllogisms,concept,A taught first,,LEGL_1105_triples_raw.json
+LEGL_1105,categorical logic,concept,PREREQUISITE_OF,argument validity,concept,same unit,,LEGL_1105_triples_raw.json
+LEGL_1105,informal fallacies,concept,PREREQUISITE_OF,ad hominem fallacy,concept,A taught first,,LEGL_1105_triples_raw.json
+LEGL_1105,informal fallacies,concept,PREREQUISITE_OF,straw man fallacy,concept,A taught first,,LEGL_1105_triples_raw.json
+LEGL_1105,informal fallacies,concept,PREREQUISITE_OF,false dilemma,concept,A taught first,,LEGL_1105_triples_raw.json
+LEGL_1105,categorical logic,concept,PART_OF,Evaluating Arguments,topic,,,LEGL_1105_triples_raw.json
+LEGL_1105,syllogisms,concept,PART_OF,Categorical Logic Basics,topic,,,LEGL_1105_triples_raw.json
+LEGL_1105,ad hominem fallacy,concept,PART_OF,Fallacies in Argumentation,topic,,,LEGL_1105_triples_raw.json
+LEGL_1105,straw man fallacy,concept,PART_OF,Fallacies in Argumentation,topic,,,LEGL_1105_triples_raw.json
+LEGL_1105,false dilemma,concept,PART_OF,Fallacies in Argumentation,topic,,,LEGL_1105_triples_raw.json
+LEGL_1105,syllogisms,concept,USED_FOR,Categorical Logic Basics,topic,,,LEGL_1105_triples_raw.json

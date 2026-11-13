@@ -1,0 +1,40 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_6127,work,Biostatistics,Biostatistics,2,verified,Fundamentals of Biostatistics,STAT_6127_concepts_raw.json
+STAT_6127,method,jmp,JMP,1,verified,jmp/r software use,STAT_6127_concepts_raw.json
+STAT_6127,tool,r,R,1,verified,r,STAT_6127_concepts_raw.json
+STAT_6127,topic,Study Design and Planning,Study Design and Planning,1,inferred,Study Design and Planning,STAT_6127_concepts_raw.json
+STAT_6127,topic,Descriptive Statistics,Descriptive Statistics,1,inferred,Descriptive Statistics,STAT_6127_concepts_raw.json
+STAT_6127,topic,Inferential Statistics I,Inferential Statistics I,1,inferred,Inferential Statistics I,STAT_6127_concepts_raw.json
+STAT_6127,topic,Inferential Statistics II,Inferential Statistics II,1,inferred,Inferential Statistics II,STAT_6127_concepts_raw.json
+STAT_6127,topic,Data Analysis with JMP/R,Data Analysis with JMP/R,1,inferred,Data Analysis with JMP/R,STAT_6127_concepts_raw.json
+STAT_6127,topic,Biostatistics in Practice I,Biostatistics in Practice I,1,inferred,Biostatistics in Practice I,STAT_6127_concepts_raw.json
+STAT_6127,topic,Biostatistics in Practice II,Biostatistics in Practice II,1,inferred,Biostatistics in Practice II,STAT_6127_concepts_raw.json
+STAT_6127,concept,biostatistics definition,Biostatistics Definition,1,inferred,biostatistics definition,STAT_6127_concepts_raw.json
+STAT_6127,concept,importance in healthcare,Importance in Healthcare,1,inferred,importance in healthcare,STAT_6127_concepts_raw.json
+STAT_6127,concept,types of studies,Types of Studies,1,inferred,types of studies,STAT_6127_concepts_raw.json
+STAT_6127,concept,research question formulation,Research Question Formulation,1,inferred,research question formulation,STAT_6127_concepts_raw.json
+STAT_6127,concept,study objectives and hypotheses,Study Objectives and Hypotheses,1,inferred,study objectives and hypotheses,STAT_6127_concepts_raw.json
+STAT_6127,method,sample size calculation,Sample Size Calculation,1,inferred,sample size calculation,STAT_6127_concepts_raw.json
+STAT_6127,concept,measures of central tendency,Measures of Central Tendency,1,inferred,measures of central tendency,STAT_6127_concepts_raw.json
+STAT_6127,concept,measures of variability,Measures of Variability,1,inferred,measures of variability,STAT_6127_concepts_raw.json
+STAT_6127,concept,data visualization techniques,Data Visualization Techniques,1,inferred,data visualization techniques,STAT_6127_concepts_raw.json
+STAT_6127,concept,hypothesis testing basics,Hypothesis Testing Basics,1,inferred,hypothesis testing basics,STAT_6127_concepts_raw.json
+STAT_6127,concept,null and alternative hypotheses,Null and Alternative Hypotheses,1,inferred,null and alternative hypotheses,STAT_6127_concepts_raw.json
+STAT_6127,concept,p-value interpretation,P-Value Interpretation,1,inferred,p-value interpretation,STAT_6127_concepts_raw.json
+STAT_6127,concept,confidence intervals construction,Confidence Intervals Construction,1,inferred,confidence intervals construction,STAT_6127_concepts_raw.json
+STAT_6127,concept,regression analysis fundamentals,Regression Analysis Fundamentals,1,inferred,regression analysis fundamentals,STAT_6127_concepts_raw.json
+STAT_6127,method,correlation coefficient calculation,Correlation Coefficient Calculation,1,inferred,correlation coefficient calculation,STAT_6127_concepts_raw.json
+STAT_6127,concept,jmp/r software overview,jmp/r software overview,1,inferred,jmp/r software overview,STAT_6127_concepts_raw.json
+STAT_6127,method,data import and cleaning,Data Import and Cleaning,1,inferred,data import and cleaning,STAT_6127_concepts_raw.json
+STAT_6127,method,visualization and modeling,Visualization and Modeling,1,inferred,visualization and modeling,STAT_6127_concepts_raw.json
+STAT_6127,concept,case studies in biostatistics,Case Studies in Biostatistics,1,inferred,case studies in biostatistics,STAT_6127_concepts_raw.json
+STAT_6127,concept,real-world applications of statistics,Real-World Applications of Statistics,1,inferred,real-world applications of statistics,STAT_6127_concepts_raw.json
+STAT_6127,concept,interpretation of results,Interpretation of Results,1,inferred,interpretation of results,STAT_6127_concepts_raw.json
+STAT_6127,concept,common statistical errors,Common Statistical Errors,1,inferred,common statistical errors,STAT_6127_concepts_raw.json
+STAT_6127,concept,limitations and assumptions,Limitations and Assumptions,1,inferred,limitations and assumptions,STAT_6127_concepts_raw.json
+STAT_6127,concept,ethics in biostatistical research,Ethics in Biostatistical Research,1,inferred,ethics in biostatistical research,STAT_6127_concepts_raw.json
+STAT_6127,method,study design,Study Design,1,inferred,study design,STAT_6127_concepts_raw.json
+STAT_6127,method,planning,Planning,1,inferred,planning,STAT_6127_concepts_raw.json
+STAT_6127,method,hypothesis testing,Hypothesis Testing,1,inferred,hypothesis testing,STAT_6127_concepts_raw.json
+STAT_6127,method,data visualization,Data Visualization,1,inferred,data visualization,STAT_6127_concepts_raw.json
+STAT_6127,method,regression analysis,Regression Analysis,1,inferred,regression analysis,STAT_6127_concepts_raw.json

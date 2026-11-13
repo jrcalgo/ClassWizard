@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2391,Qualitative Methods,concept,PREREQUISITE_OF,Quantitative Methods,concept,same unit,,PSYC_2391_triples_raw.json
+PSYC_2391,Statistical Tests,concept,PREREQUISITE_OF,Regression Analysis,topic,A taught first,,PSYC_2391_triples_raw.json
+PSYC_2391,Correlational Research,concept,PREREQUISITE_OF,Experimental Design,concept,same unit,,PSYC_2391_triples_raw.json
+PSYC_2391,Measurement Concepts,concept,PREREQUISITE_OF,Statistical Tests,concept,same unit,,PSYC_2391_triples_raw.json
+PSYC_2391,Scientific Method,concept,PREREQUISITE_OF,Experimental Design,concept,same unit,,PSYC_2391_triples_raw.json
+PSYC_2391,Correlational Research,concept,SUBTYPE_OF,Quantitative Methods,concept,,,PSYC_2391_triples_raw.json
+PSYC_2391,Experimental Design,concept,SUBTYPE_OF,Quantitative Methods,concept,,,PSYC_2391_triples_raw.json
+PSYC_2391,Qualitative Methods,concept,SUBTYPE_OF,Quantitative Methods,concept,,,PSYC_2391_triples_raw.json
+PSYC_2391,Regression Analysis,topic,SUBTYPE_OF,Statistical Tests,concept,,,PSYC_2391_triples_raw.json
+PSYC_2391,Ordinary Least Squares,topic,SUBTYPE_OF,Regression Analysis,topic,,,PSYC_2391_triples_raw.json
+PSYC_2391,Ordinary Least Squares,topic,USED_FOR,Regression Analysis,topic,,topic used for something - check direction,PSYC_2391_triples_raw.json

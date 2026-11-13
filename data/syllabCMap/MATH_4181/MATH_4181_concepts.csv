@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_4181,topic,Metric Spaces,metric spaces,1,verified,Metric Spaces,MATH_4181_concepts_raw.json
+MATH_4181,topic,Separation Axioms,separation axioms,1,verified,Separation Axioms,MATH_4181_concepts_raw.json
+MATH_4181,topic,Product and Quotient Topologies,product and quotient topologies,1,verified,Product and Quotient Topologies,MATH_4181_concepts_raw.json
+MATH_4181,topic,Function Spaces,function spaces,1,verified,Function Spaces,MATH_4181_concepts_raw.json
+MATH_4181,topic,General Topological Spaces,general topological spaces,1,verified,General Topological Spaces,MATH_4181_concepts_raw.json
+MATH_4181,topic,Fundamental Group and Covering Spaces,fundamental group and covering spaces,1,verified,Fundamental Group and Covering Spaces,MATH_4181_concepts_raw.json
+MATH_4181,concept,Open and Closed Sets,open and closed sets,1,verified,Open and Closed Sets,MATH_4181_concepts_raw.json
+MATH_4181,concept,Continuous Functions,continuous functions,1,verified,Continuous Functions,MATH_4181_concepts_raw.json
+MATH_4181,concept,Homeomorphisms,homeomorphisms,1,verified,Homeomorphisms,MATH_4181_concepts_raw.json

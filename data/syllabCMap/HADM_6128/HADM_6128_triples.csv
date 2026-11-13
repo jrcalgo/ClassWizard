@@ -1,0 +1,34 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HADM_6128,Strategic Workforce Planning,topic,PREREQUISITE_OF,Recruitment and Selection,topic,same unit,,HADM_6128_triples_raw.json
+HADM_6128,Strategic Workforce Planning,topic,PREREQUISITE_OF,Compensation and Benefits,topic,A taught first,,HADM_6128_triples_raw.json
+HADM_6128,Job Analysis,concept,PREREQUISITE_OF,Job Analysis and Design,concept,same unit,,HADM_6128_triples_raw.json
+HADM_6128,Labor Relations,concept,PREREQUISITE_OF,Union-Management Relations,concept,same unit,,HADM_6128_triples_raw.json
+HADM_6128,Emotional Intelligence,concept,PREREQUISITE_OF,Leadership Styles,concept,same unit,,HADM_6128_triples_raw.json
+HADM_6128,Employee Well-being,concept,PREREQUISITE_OF,Performance Management,concept,A taught first,,HADM_6128_triples_raw.json
+HADM_6128,Workplace Safety,concept,PREREQUISITE_OF,"Safety, Health, and Security",topic,A taught first,,HADM_6128_triples_raw.json
+HADM_6128,Recruitment and Selection,topic,PART_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Compensation and Benefits,topic,PART_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Job Analysis,concept,PART_OF,Job Analysis and Design,concept,,,HADM_6128_triples_raw.json
+HADM_6128,Union-Management Relations,concept,PART_OF,Labor Relations,concept,,,HADM_6128_triples_raw.json
+HADM_6128,Employee Development,concept,PART_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Performance Management,concept,PART_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Employee Well-being,concept,PART_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Workplace Safety,concept,PART_OF,"Safety, Health, and Security",topic,,,HADM_6128_triples_raw.json
+HADM_6128,Strategic Workforce Planning,topic,SUBTYPE_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Recruitment and Selection,topic,SUBTYPE_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Compensation and Benefits,topic,SUBTYPE_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Job Analysis,concept,SUBTYPE_OF,Job Analysis and Design,concept,,,HADM_6128_triples_raw.json
+HADM_6128,Union-Management Relations,concept,SUBTYPE_OF,Labor Relations,concept,,,HADM_6128_triples_raw.json
+HADM_6128,Organizational Effectiveness,concept,SUBTYPE_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Employee Development,concept,SUBTYPE_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Performance Management,concept,SUBTYPE_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Employee Well-being,concept,SUBTYPE_OF,Human Resources Management,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Job Analysis,concept,USED_FOR,Job Analysis and Design,concept,,,HADM_6128_triples_raw.json
+HADM_6128,Recruitment Strategies,concept,USED_FOR,Recruitment and Selection,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Selection Criteria,concept,USED_FOR,Recruitment and Selection,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Employment Law,concept,USED_FOR,Labor Relations,concept,,,HADM_6128_triples_raw.json
+HADM_6128,Evidence-Based Practices,concept,USED_FOR,Strategic Workforce Planning,topic,,,HADM_6128_triples_raw.json
+HADM_6128,Healthcare Regulations,concept,USED_FOR,Workplace Safety,concept,,,HADM_6128_triples_raw.json
+HADM_6128,Legal Compliance,concept,USED_FOR,Labor Relations,concept,,,HADM_6128_triples_raw.json
+HADM_6128,Healthcare Laws,concept,USED_FOR,Workplace Safety,concept,,,HADM_6128_triples_raw.json
+HADM_6128,Workforce Protections,concept,USED_FOR,Workplace Safety,concept,,,HADM_6128_triples_raw.json

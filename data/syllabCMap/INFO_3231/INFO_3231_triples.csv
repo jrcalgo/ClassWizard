@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INFO_3231,Visual C# 2025,tool,USED_FOR,object-oriented programming,method,,,INFO_3231_triples_raw.json
+INFO_3231,Visual C# 2025,tool,USED_FOR,graphical user interface development,method,,,INFO_3231_triples_raw.json

@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSCI_3000,American Colonial Wars,concept,PART_OF,Evolution of American Warfare,topic,,,MSCI_3000_triples_raw.json
+MSCI_3000,Revolutionary War,topic,PART_OF,Evolution of American Warfare,topic,,,MSCI_3000_triples_raw.json
+MSCI_3000,War of 1812,topic,PART_OF,Evolution of American Warfare,topic,,,MSCI_3000_triples_raw.json
+MSCI_3000,Civil War Era,topic,PART_OF,Evolution of American Warfare,topic,,,MSCI_3000_triples_raw.json
+MSCI_3000,World War I and II,topic,PART_OF,Evolution of American Warfare,topic,,,MSCI_3000_triples_raw.json
+MSCI_3000,Cold War Era,topic,PART_OF,Evolution of American Warfare,topic,,,MSCI_3000_triples_raw.json
+MSCI_3000,Modern American Warfare,topic,PART_OF,Evolution of American Warfare,topic,,,MSCI_3000_triples_raw.json
+MSCI_3000,Systematic battlefield analysis exercises,method,USED_FOR,Evolution of American Warfare,topic,,,MSCI_3000_triples_raw.json

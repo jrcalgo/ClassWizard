@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3115,US Constitution Structure,concept,PREREQUISITE_OF,Constitutional Law,topic,same unit,,POLS_3115_triples_raw.json
+POLS_3115,US Constitution Structure,concept,PREREQUISITE_OF,United States Constitutional Law,topic,A mentioned first,,POLS_3115_triples_raw.json
+POLS_3115,Separation of Powers,concept,PREREQUISITE_OF,Checks and Balances,concept,same unit,,POLS_3115_triples_raw.json
+POLS_3115,First Amendment Rights,concept,PREREQUISITE_OF,Due Process Clause,concept,same unit,,POLS_3115_triples_raw.json
+POLS_3115,Second Amendment Rights,concept,PREREQUISITE_OF,Due Process Clause,concept,same unit,,POLS_3115_triples_raw.json
+POLS_3115,US Constitution Structure,concept,PART_OF,US Constitution,work,,part is broader than whole - check direction,POLS_3115_triples_raw.json
+POLS_3115,Marbury v Madison,work,PART_OF,US Supreme Court Cases,topic,,,POLS_3115_triples_raw.json
+POLS_3115,McCulloch v Maryland,work,PART_OF,US Supreme Court Cases,topic,,,POLS_3115_triples_raw.json
+POLS_3115,Voting Rights Act of 1965,concept,PART_OF,Civil Rights Expansion,topic,,,POLS_3115_triples_raw.json
+POLS_3115,Civil Rights Act of 1964,concept,PART_OF,Civil Rights Expansion,topic,,,POLS_3115_triples_raw.json
+POLS_3115,US Constitution,work,USED_FOR,Constitutional Law,topic,,,POLS_3115_triples_raw.json
+POLS_3115,US Constitution,work,USED_FOR,United States Constitutional Law,topic,,,POLS_3115_triples_raw.json

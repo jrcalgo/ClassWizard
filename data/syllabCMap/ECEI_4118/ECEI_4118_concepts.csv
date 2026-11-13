@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECEI_4118,topic,ECEI,ECEI,1,verified,Introduction to ECEI,ECEI_4118_concepts_raw.json
+ECEI_4118,topic,Developmentally Appropriate Interventions,developmentally appropriate interventions,1,verified,Developmentally Appropriate Interventions,ECEI_4118_concepts_raw.json
+ECEI_4118,topic,Early Childhood Intervention,Early Childhood Intervention,1,inferred,Early Childhood Intervention,ECEI_4118_concepts_raw.json
+ECEI_4118,topic,Assessment and Screening,Assessment and Screening,1,inferred,Assessment and Screening,ECEI_4118_concepts_raw.json
+ECEI_4118,topic,Evidence-Based Practices,Evidence-Based Practices,1,inferred,Evidence-Based Practices,ECEI_4118_concepts_raw.json
+ECEI_4118,topic,Family Strengths and Supports,Family Strengths and Supports,1,inferred,Family Strengths and Supports,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Early Childhood Intervention Principles,Early Childhood Intervention Principles,1,inferred,Early Childhood Intervention Principles,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Family-Centered Practices,Family-Centered Practices,1,inferred,Family-Centered Practices,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Child Development Theories,Child Development Theories,1,inferred,Child Development Theories,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Developmental Milestones Assessment,Developmental Milestones Assessment,1,inferred,Developmental Milestones Assessment,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Screening Tools for Disabilities,Screening Tools for Disabilities,1,inferred,Screening Tools for Disabilities,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Parent-Professional Collaboration,Parent-Professional Collaboration,1,inferred,Parent-Professional Collaboration,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Research-Supported Interventions,Research-Supported Interventions,1,inferred,Research-Supported Interventions,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Inclusive Setting Strategies,Inclusive Setting Strategies,1,inferred,Inclusive Setting Strategies,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Child-Centered Approaches,Child-Centered Approaches,1,inferred,Child-Centered Approaches,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Family Engagement Strategies,Family Engagement Strategies,1,inferred,Family Engagement Strategies,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Culturally Responsive Practices,Culturally Responsive Practices,1,inferred,Culturally Responsive Practices,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Community Resources Utilization,Community Resources Utilization,1,inferred,Community Resources Utilization,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Infant-Toddler Developmental Needs,Infant-Toddler Developmental Needs,1,inferred,Infant-Toddler Developmental Needs,ECEI_4118_concepts_raw.json
+ECEI_4118,concept,Preschool Age Child Support,Preschool Age Child Support,1,inferred,Preschool Age Child Support,ECEI_4118_concepts_raw.json

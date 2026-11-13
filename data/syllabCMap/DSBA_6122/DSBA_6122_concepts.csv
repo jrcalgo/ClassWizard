@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6122,topic,Decision Modeling and Analysis,Decision Modeling and Analysis,1,verified,Decision Modeling and Analysis,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Management Science,management science,1,verified,Management Science,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Operations,operations,2,verified,Operations,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Supply Chain Management,supply chain management,2,verified,Supply Chain Management,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Finance,finance,1,verified,Finance,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Accounting,accounting,1,verified,Accounting,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Marketing,marketing,1,verified,Marketing,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Linear Programming,linear programming,2,verified,Linear Programming,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Nonlinear Programming,nonlinear programming,2,verified,Nonlinear Programming,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Integer Programming,integer programming,2,verified,Integer Programming,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Goal Programming,goal programming,2,verified,Goal Programming,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Multi-Objective Optimization,multi-objective optimization,2,verified,Multi-Objective Optimization,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Multi-Criteria Decision Making,multi-criteria decision making,2,verified,Multi-Criteria Decision Making,DSBA_6122_concepts_raw.json
+DSBA_6122,method,sensitivity analysis,sensitivity analysis,1,verified,sensitivity analysis,DSBA_6122_concepts_raw.json
+DSBA_6122,method,model interpretation,model interpretation,1,verified,model interpretation,DSBA_6122_concepts_raw.json
+DSBA_6122,topic,Managerial Recommendations,managerial recommendations,2,verified,Managerial Recommendations,DSBA_6122_concepts_raw.json
+DSBA_6122,concept,decision making process,decision making process,1,verified,decision making process,DSBA_6122_concepts_raw.json
+DSBA_6122,method,analyzing,analyze,1,verified,analyzing and solving models,DSBA_6122_concepts_raw.json
+DSBA_6122,method,implementing spreadsheet-based solution approaches,implementing spreadsheet-based solution approaches,1,verified,implementing spreadsheet-based solution approaches,DSBA_6122_concepts_raw.json
+DSBA_6122,method,using Microsoft Excel,using Microsoft Excel,1,verified,using Microsoft Excel,DSBA_6122_concepts_raw.json
+DSBA_6122,tool,Microsoft Excel,Microsoft Excel,1,verified,Microsoft Excel,DSBA_6122_concepts_raw.json
+DSBA_6122,tool,Solver,Solver,2,verified,Solver,DSBA_6122_concepts_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_2343,Area of Rectangles,concept,PART_OF,Area and Perimeter,topic,,,MATH_2343_triples_raw.json
+MATH_2343,Perimeter Formulas,concept,PART_OF,Area and Perimeter,topic,,,MATH_2343_triples_raw.json
+MATH_2343,Similar Polygons,concept,PART_OF,Area and Perimeter,topic,,,MATH_2343_triples_raw.json
+MATH_2343,Congruent Triangles,concept,PART_OF,Area and Perimeter,topic,,,MATH_2343_triples_raw.json
+MATH_2343,Right Triangle Theorem,concept,PART_OF,Area and Perimeter,topic,,,MATH_2343_triples_raw.json
+MATH_2343,Surface Area Formula,concept,PART_OF,Area and Perimeter,topic,,,MATH_2343_triples_raw.json
+MATH_2343,Prism Volume Calculation,concept,PART_OF,Geometry and Measurement,topic,,,MATH_2343_triples_raw.json
+MATH_2343,Lateral Surface Area,concept,PART_OF,Geometry and Measurement,topic,,,MATH_2343_triples_raw.json
+MATH_2343,Building Thinking Classrooms approach,method,USED_FOR,Explaining concepts to others,method,,,MATH_2343_triples_raw.json

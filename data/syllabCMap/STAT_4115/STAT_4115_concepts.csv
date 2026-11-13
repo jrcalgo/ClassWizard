@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_4115,topic,matrix algebra,matrix algebra,2,verified,matrix algebra,STAT_4115_concepts_raw.json
+STAT_4115,topic,random vectors,random vectors,2,verified,random vectors,STAT_4115_concepts_raw.json
+STAT_4115,concept,multivariate normal distributions,multivariate normal distributions,2,verified,multivariate normal distributions,STAT_4115_concepts_raw.json
+STAT_4115,topic,supervised learning,Supervised Learning,1,verified,supervised learning,STAT_4115_concepts_raw.json
+STAT_4115,topic,linear regressions,Linear regressions,1,verified,linear regressions,STAT_4115_concepts_raw.json
+STAT_4115,topic,k-nearest neighbors,K-nearest neighbors,1,verified,k-nearest neighbors,STAT_4115_concepts_raw.json
+STAT_4115,topic,classifications,Classifications,3,verified,classifications,STAT_4115_concepts_raw.json
+STAT_4115,topic,shrinkage methods,Shrinkage methods,1,verified,shrinkage methods,STAT_4115_concepts_raw.json
+STAT_4115,concept,bias-variance trade-off,Bias-Variance trade-off,1,verified,bias-variance trade-off,STAT_4115_concepts_raw.json
+STAT_4115,topic,model selections,Model selections,1,verified,model selections,STAT_4115_concepts_raw.json
+STAT_4115,topic,bootstrap,Bootstrap,1,verified,bootstrap,STAT_4115_concepts_raw.json
+STAT_4115,topic,unsupervised learning,Unsupervised Learning,1,verified,unsupervised learning,STAT_4115_concepts_raw.json
+STAT_4115,topic,principal component analysis,Principal component analysis,3,verified,principal component analysis,STAT_4115_concepts_raw.json
+STAT_4115,topic,factor analysis,Factor analysis,3,verified,factor analysis,STAT_4115_concepts_raw.json
+STAT_4115,topic,independent component analysis,Independent component analysis,3,verified,independent component analysis,STAT_4115_concepts_raw.json
+STAT_4115,topic,clustering,Clustering,3,verified,clustering,STAT_4115_concepts_raw.json
+STAT_4115,topic,Bayesian statistics,Bayesian Statistics,1,verified,Bayesian statistics,STAT_4115_concepts_raw.json
+STAT_4115,concept,support vector machines,Support vector machines,4,verified,support vector machines,STAT_4115_concepts_raw.json
+STAT_4115,topic,probabilistic graphical models,Probabilistic graphical models,1,verified,probabilistic graphical models,STAT_4115_concepts_raw.json
+STAT_4115,topic,undirected graphical model,Undirected graphical model,1,verified,undirected graphical model,STAT_4115_concepts_raw.json
+STAT_4115,topic,directed acyclic graphical model,Directed acyclic graphical model,1,verified,directed acyclic graphical model,STAT_4115_concepts_raw.json
+STAT_4115,concept,multivariate calculus,Multivariate Calculus,1,verified,multivariate calculus,STAT_4115_concepts_raw.json
+STAT_4115,concept,eigenvalues and eigenvectors,Eigenvalues and eigenvectors,1,verified,eigenvalues and eigenvectors,STAT_4115_concepts_raw.json
+STAT_4115,concept,singular value decomposition,Singular value decomposition,1,verified,singular value decomposition,STAT_4115_concepts_raw.json
+STAT_4115,concept,conditional distribution,conditional distribution,1,verified,conditional distribution,STAT_4115_concepts_raw.json
+STAT_4115,concept,AIC,AIC,1,verified,AIC,STAT_4115_concepts_raw.json
+STAT_4115,concept,BIC,BIC,1,verified,BIC,STAT_4115_concepts_raw.json
+STAT_4115,concept,cross-validation,cross-validation,1,verified,cross-validation,STAT_4115_concepts_raw.json
+STAT_4115,concept,maximal margin classifier,Maximal margin classifier,1,verified,maximal margin classifier,STAT_4115_concepts_raw.json
+STAT_4115,concept,support vector classifiers,Support vector classifiers,1,verified,support vector classifiers,STAT_4115_concepts_raw.json
+STAT_4115,tool,R,R,5,verified,R,STAT_4115_concepts_raw.json

@@ -1,0 +1,34 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_2101,National Income Determination,topic,PREREQUISITE_OF,Fiscal Policy,topic,A taught first,,ECON_2101_triples_raw.json
+ECON_2101,National Income Measurement,topic,PREREQUISITE_OF,National Income Determination,topic,A taught first,,ECON_2101_triples_raw.json
+ECON_2101,Money and Banking System,topic,PREREQUISITE_OF,Monetary Policy,topic,same unit,,ECON_2101_triples_raw.json
+ECON_2101,Real-World Macro Applications,topic,PREREQUISITE_OF,Monetary Policy,topic,B taught first,B is taught before A - check,ECON_2101_triples_raw.json
+ECON_2101,Real-World Macro Applications,topic,PREREQUISITE_OF,Fiscal Policy,topic,B taught first,B is taught before A - check,ECON_2101_triples_raw.json
+ECON_2101,National Income Measurement,topic,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,National Income Determination,topic,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Money and Banking System,topic,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Monetary Policy,topic,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Fiscal Policy,topic,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,International Trade and Finance,topic,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Real-World Macro Applications,topic,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Definition of Economics,concept,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Methodology of Economics,concept,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Social Science Discipline,concept,PART_OF,Economic Scope,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Gross Domestic Product (GDP,concept,USED_FOR,National Income Measurement,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Nominal vs. Real GDP,concept,USED_FOR,National Income Measurement,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Deflator Index Calculation,concept,USED_FOR,National Income Measurement,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Keynesian Cross Model,concept,USED_FOR,National Income Determination,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Monetary Policy Tools,concept,USED_FOR,Monetary Policy,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Fiscal Policy Instruments,concept,USED_FOR,Fiscal Policy,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Central Bank Functions,concept,USED_FOR,Money and Banking System,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Interest Rate Manipulation,concept,USED_FOR,Monetary Policy,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Quantitative Easing Techniques,concept,USED_FOR,Monetary Policy,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Inflation Targeting Strategies,concept,USED_FOR,Monetary Policy,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Government Revenue Sources,concept,USED_FOR,Fiscal Policy,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Expenditure Multiplier Effects,concept,USED_FOR,Fiscal Policy,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Budget Deficit and Surplus,concept,USED_FOR,Fiscal Policy,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Comparative Advantage Theory,concept,USED_FOR,International Trade and Finance,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Balance of Payments Accounts,concept,USED_FOR,International Trade and Finance,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Exchange Rate Determination,concept,USED_FOR,International Trade and Finance,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Economic Indicators Analysis,concept,USED_FOR,Real-World Macro Applications,topic,,,ECON_2101_triples_raw.json
+ECON_2101,Case Study Methodology,concept,USED_FOR,Real-World Macro Applications,topic,,,ECON_2101_triples_raw.json

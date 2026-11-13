@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_1502,Speculative fiction,concept,PREREQUISITE_OF,Afrofuturism,concept,A taught first,,ENGL_1502_triples_raw.json
+ENGL_1502,Speculative fiction,concept,PREREQUISITE_OF,Asian futurisms,concept,A taught first,,ENGL_1502_triples_raw.json
+ENGL_1502,Global connections in English studies,concept,PREREQUISITE_OF,Magical realism,concept,same unit,,ENGL_1502_triples_raw.json
+ENGL_1502,Magical realism,concept,PREREQUISITE_OF,Afrofuturism,concept,A taught first,,ENGL_1502_triples_raw.json
+ENGL_1502,Magical realism,concept,PREREQUISITE_OF,Asian futurisms,concept,A taught first,,ENGL_1502_triples_raw.json
+ENGL_1502,Magical realism,concept,PART_OF,Global connections in English studies,concept,,,ENGL_1502_triples_raw.json
+ENGL_1502,Afrofuturism,concept,PART_OF,Global connections in English studies,concept,,,ENGL_1502_triples_raw.json
+ENGL_1502,Asian futurisms,concept,PART_OF,Global connections in English studies,concept,,,ENGL_1502_triples_raw.json
+ENGL_1502,Speculative fiction,concept,PART_OF,Global connections in English studies,concept,,,ENGL_1502_triples_raw.json
+ENGL_1502,Afrofuturism,concept,USED_FOR,Magical realism,concept,,,ENGL_1502_triples_raw.json
+ENGL_1502,Asian futurisms,concept,USED_FOR,Magical realism,concept,,,ENGL_1502_triples_raw.json

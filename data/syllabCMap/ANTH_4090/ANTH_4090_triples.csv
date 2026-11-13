@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_4090,evolutionary theories,topic,PREREQUISITE_OF,socioecological frameworks,topic,A mentioned first,,ANTH_4090_triples_raw.json
+ANTH_4090,digestion and nutrition,topic,PART_OF,diet and nutrition,topic,,,ANTH_4090_triples_raw.json
+ANTH_4090,methods to assess dietary intake,concept,PART_OF,digestion and nutrition,topic,,,ANTH_4090_triples_raw.json
+ANTH_4090,anthropometry,method,PART_OF,methods to assess dietary intake,concept,,,ANTH_4090_triples_raw.json
+ANTH_4090,human variation in health and disease,concept,PART_OF,diet and nutrition,topic,,,ANTH_4090_triples_raw.json
+ANTH_4090,socioecological frameworks,topic,PART_OF,evolutionary theories,topic,,,ANTH_4090_triples_raw.json
+ANTH_4090,ecological model of food and nutrition,topic,PART_OF,socioecological frameworks,topic,,,ANTH_4090_triples_raw.json
+ANTH_4090,biocultural approach,topic,SUBTYPE_OF,socioecological frameworks,topic,,,ANTH_4090_triples_raw.json

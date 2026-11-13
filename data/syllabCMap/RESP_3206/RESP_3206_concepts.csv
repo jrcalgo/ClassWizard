@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RESP_3206,topic,Critical Care Monitoring & Mechanical Ventilation,Critical Care Monitoring & Mechanical Ventilation,1,verified,Critical Care Monitoring & Mechanical Ventilation,RESP_3206_concepts_raw.json
+RESP_3206,topic,Critical Care Monitoring,Critical Care Monitoring,2,verified,Critical Care Monitoring,RESP_3206_concepts_raw.json
+RESP_3206,topic,Adult Critical Care Pathophysiology,adult critical care pathophysiology,1,verified,Adult Critical Care Pathophysiology,RESP_3206_concepts_raw.json
+RESP_3206,topic,Mechanical Ventilation Fundamentals,Mechanical Ventilation Fundamentals,1,inferred,Mechanical Ventilation Fundamentals,RESP_3206_concepts_raw.json
+RESP_3206,topic,Neonatal Critical Care Pathophysiology,Neonatal Critical Care Pathophysiology,1,inferred,Neonatal Critical Care Pathophysiology,RESP_3206_concepts_raw.json
+RESP_3206,topic,Pediatric Critical Care Pathophysiology,Pediatric Critical Care Pathophysiology,1,inferred,Pediatric Critical Care Pathophysiology,RESP_3206_concepts_raw.json
+RESP_3206,topic,Mechanical Ventilation in Special Cases,Mechanical Ventilation in Special Cases,1,inferred,Mechanical Ventilation in Special Cases,RESP_3206_concepts_raw.json
+RESP_3206,concept,lab values analysis techniques,Lab Values Analysis Techniques,1,inferred,lab values analysis techniques,RESP_3206_concepts_raw.json
+RESP_3206,concept,clinical interventions strategies,Clinical Interventions Strategies,1,inferred,clinical interventions strategies,RESP_3206_concepts_raw.json
+RESP_3206,concept,patient monitoring modalities,Patient Monitoring Modalities,1,inferred,patient monitoring modalities,RESP_3206_concepts_raw.json
+RESP_3206,concept,ventilator modes and settings,Ventilator Modes and Settings,1,inferred,ventilator modes and settings,RESP_3206_concepts_raw.json
+RESP_3206,concept,respiratory mechanics principles,Respiratory Mechanics Principles,1,inferred,respiratory mechanics principles,RESP_3206_concepts_raw.json
+RESP_3206,concept,gas exchange processes,Gas Exchange Processes,1,inferred,gas exchange processes,RESP_3206_concepts_raw.json
+RESP_3206,concept,neonatal respiratory distress syndrome,Neonatal Respiratory Distress Syndrome,1,inferred,neonatal respiratory distress syndrome,RESP_3206_concepts_raw.json
+RESP_3206,concept,premature infant ventilation needs,Premature Infant Ventilation Needs,1,inferred,premature infant ventilation needs,RESP_3206_concepts_raw.json
+RESP_3206,concept,neonatal cardiac complications,Neonatal Cardiac Complications,1,inferred,neonatal cardiac complications,RESP_3206_concepts_raw.json
+RESP_3206,concept,childhood respiratory failure causes,Childhood Respiratory Failure Causes,1,inferred,childhood respiratory failure causes,RESP_3206_concepts_raw.json
+RESP_3206,concept,pediatric cardiac arrest management,Pediatric Cardiac Arrest Management,1,inferred,pediatric cardiac arrest management,RESP_3206_concepts_raw.json
+RESP_3206,concept,pediatric neurological complications,Pediatric Neurological Complications,1,inferred,pediatric neurological complications,RESP_3206_concepts_raw.json
+RESP_3206,concept,adult respiratory failure causes,Adult Respiratory Failure Causes,1,inferred,adult respiratory failure causes,RESP_3206_concepts_raw.json
+RESP_3206,concept,cardiovascular disease complications,Cardiovascular Disease Complications,1,inferred,cardiovascular disease complications,RESP_3206_concepts_raw.json
+RESP_3206,concept,neurological injury management,Neurological Injury Management,1,inferred,neurological injury management,RESP_3206_concepts_raw.json

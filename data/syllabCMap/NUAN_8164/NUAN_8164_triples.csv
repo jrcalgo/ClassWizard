@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUAN_8164,Ultrasound Technology,topic,USED_FOR,Arterial Access Techniques,concept,,topic used for something - check direction,NUAN_8164_triples_raw.json
+NUAN_8164,Ultrasound Technology,topic,USED_FOR,Central Venous Access Methods,concept,,topic used for something - check direction,NUAN_8164_triples_raw.json
+NUAN_8164,Ultrasound Technology,topic,USED_FOR,Ultrasound Guided Procedures,concept,,topic used for something - check direction,NUAN_8164_triples_raw.json

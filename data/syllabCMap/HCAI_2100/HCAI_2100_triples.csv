@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCAI_2100,Algorithmic Bias,topic,PREREQUISITE_OF,Automation,topic,A taught first,,HCAI_2100_triples_raw.json

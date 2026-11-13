@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1222,Jazz Fundamentals,topic,PREREQUISITE_OF,Rehearsal Techniques,topic,A taught first,,MUSC_1222_triples_raw.json
+MUSC_1222,Jazz Fundamentals,topic,PREREQUISITE_OF,Analyzing Jazz Literature,topic,A taught first,,MUSC_1222_triples_raw.json
+MUSC_1222,Rhythm Section Roles,topic,PREREQUISITE_OF,Rehearsal Techniques,topic,A taught first,,MUSC_1222_triples_raw.json
+MUSC_1222,jazz conception,concept,PART_OF,Jazz Ensemble Techniques,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,improvisation techniques,concept,PART_OF,Jazz Fundamentals,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,bass line fundamentals,concept,PART_OF,Rhythm Section Roles,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,drum kit essentials,concept,PART_OF,Rhythm Section Roles,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,warm-up exercises,concept,PART_OF,Rehearsal Techniques,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,sectional rehearsals,concept,PART_OF,Rehearsal Techniques,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,full ensemble rehearsal,concept,PART_OF,Rehearsal Techniques,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,melodic motifs and riffs,concept,PART_OF,Analyzing Jazz Literature,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,form and structure analysis,concept,PART_OF,Analyzing Jazz Literature,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,method books and scores,concept,PART_OF,Teaching Materials,topic,,,MUSC_1222_triples_raw.json
+MUSC_1222,teaching pedagogy and philosophy,concept,PART_OF,Teaching Materials,topic,,,MUSC_1222_triples_raw.json

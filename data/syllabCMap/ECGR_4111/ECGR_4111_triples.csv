@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4111,transfer functions,concept,PREREQUISITE_OF,block diagrams,concept,same unit,,ECGR_4111_triples_raw.json
+ECGR_4111,transfer functions,concept,PREREQUISITE_OF,signal flow graphs,concept,same unit,,ECGR_4111_triples_raw.json
+ECGR_4111,state-space methods,concept,PREREQUISITE_OF,controllability,concept,B mentioned first,,ECGR_4111_triples_raw.json
+ECGR_4111,state-space methods,concept,PREREQUISITE_OF,observability,concept,B mentioned first,,ECGR_4111_triples_raw.json
+ECGR_4111,MATLAB,tool,PREREQUISITE_OF,frequency-domain analysis tools,method,B taught first,B is taught before A - check,ECGR_4111_triples_raw.json
+ECGR_4111,SIMULINK,tool,PREREQUISITE_OF,design and compensation of control systems,method,A mentioned first,,ECGR_4111_triples_raw.json
+ECGR_4111,block diagrams,concept,PART_OF,transfer functions,concept,,,ECGR_4111_triples_raw.json
+ECGR_4111,signal flow graphs,concept,PART_OF,transfer functions,concept,,,ECGR_4111_triples_raw.json
+ECGR_4111,time domain analysis of control systems,concept,PART_OF,Control Systems Theory I,topic,,,ECGR_4111_triples_raw.json
+ECGR_4111,state-variables,concept,PART_OF,state-space methods,concept,,,ECGR_4111_triples_raw.json
+ECGR_4111,state transition matrices,concept,PART_OF,state-space methods,concept,,,ECGR_4111_triples_raw.json
+ECGR_4111,eigenvalues,concept,PART_OF,state-space methods,concept,,,ECGR_4111_triples_raw.json
+ECGR_4111,controllability,concept,PART_OF,Control Systems Theory I,topic,,,ECGR_4111_triples_raw.json
+ECGR_4111,observability,concept,PART_OF,Control Systems Theory I,topic,,,ECGR_4111_triples_raw.json
+ECGR_4111,SIMULINK,tool,USED_FOR,design and compensation of control systems,method,,,ECGR_4111_triples_raw.json

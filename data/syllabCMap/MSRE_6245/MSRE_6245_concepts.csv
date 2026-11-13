@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MSRE_6245,concept,commercial real estate practice,commercial real estate practice,1,verified,commercial real estate practice,MSRE_6245_concepts_raw.json
+MSRE_6245,concept,retail and multifamily markets,retail and multifamily markets,1,verified,retail and multifamily markets,MSRE_6245_concepts_raw.json
+MSRE_6245,concept,analytical frameworks,analytical frameworks,1,verified,analytical frameworks,MSRE_6245_concepts_raw.json
+MSRE_6245,concept,industry-standard tools,industry-standard tools,1,verified,industry-standard tools,MSRE_6245_concepts_raw.json
+MSRE_6245,tool,CoStar,CoStar,1,verified,CoStar,MSRE_6245_concepts_raw.json
+MSRE_6245,tool,Placer.ai,Placer.ai,1,verified,Placer.ai,MSRE_6245_concepts_raw.json
+MSRE_6245,tool,ESRI,ESRI,1,verified,ESRI,MSRE_6245_concepts_raw.json

@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_3123,Labor Resource Planning,topic,PREREQUISITE_OF,Engineered Production Planning,topic,A taught first,,CMET_3123_triples_raw.json
+CMET_3123,Cost Engineering and Control,topic,PREREQUISITE_OF,Engineered Production Planning,topic,B taught first,B is taught before A - check,CMET_3123_triples_raw.json
+CMET_3123,Cost Estimating Principles,concept,PART_OF,Cost Estimating II,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Estimate Types and Purposes,concept,PART_OF,Cost Estimating II,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Parametric Estimation Techniques,concept,PART_OF,Construction Cost Estimate Methods,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Bottom-Up Estimation Methodology,concept,PART_OF,Construction Cost Estimate Methods,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Top-Down Estimation Approach,concept,PART_OF,Construction Cost Estimate Methods,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Labor Productivity Factors,concept,PART_OF,Labor Resource Planning,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Workforce Scheduling Strategies,concept,PART_OF,Labor Resource Planning,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Material Procurement Processes,concept,PART_OF,Equipment and Material Resources,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Resource Allocation Techniques,concept,PART_OF,Equipment and Material Resources,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Production Scheduling Methods,concept,PART_OF,Engineered Production Planning,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Work Breakdown Structure (WBS,concept,PART_OF,Engineered Production Planning,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Critical Path Method (CPM,concept,PART_OF,Engineered Production Planning,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Cost Control Strategies,concept,PART_OF,Cost Engineering and Control,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Earned Value Management (EVM,concept,PART_OF,Cost Engineering and Control,topic,,,CMET_3123_triples_raw.json
+CMET_3123,Cost-Benefit Analysis Techniques,concept,PART_OF,Cost Engineering and Control,topic,,,CMET_3123_triples_raw.json

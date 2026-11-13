@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_6103,topic,nanoscale materials,Nanoscale Materials,2,verified,nanoscale materials,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,quantum dots,quantum dots,2,verified,quantum dots,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,metallic nanoparticles,metallic nanoparticles,2,verified,metallic nanoparticles,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,carbon nanostructured materials and nanotubes,carbon nanostructured materials and nanotubes,2,verified,carbon nanostructured materials and nanotubes,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,zeolites,zeolites,2,verified,zeolites,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,organic inorganic polymers,organic inorganic polymers,2,verified,organic inorganic polymers,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,composite materials,composite materials,2,verified,composite materials,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,solution-phase colloids,solution-phase colloids,2,verified,solution-phase colloids,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,sol-gel process,sol-gel process,2,verified,sol-gel process,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,silica spheres,silica spheres,2,verified,silica spheres,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,porous silicon,porous silicon,2,verified,porous silicon,CHEM_6103_concepts_raw.json
+CHEM_6103,topic,photonic crystals,photonic crystals,3,verified,photonic crystals,CHEM_6103_concepts_raw.json
+CHEM_6103,concept,hierarchical design features,hierarchical design features,1,verified,hierarchical design features,CHEM_6103_concepts_raw.json
+CHEM_6103,measure,BET isotherms,BET isotherms,1,verified,BET isotherms,CHEM_6103_concepts_raw.json
+CHEM_6103,measure,JV curves,JV curves,1,verified,JV curves,CHEM_6103_concepts_raw.json
+CHEM_6103,measure,DLS/zeta-potential data,DLS/zeta-potential data,1,verified,DLS/zeta-potential data,CHEM_6103_concepts_raw.json

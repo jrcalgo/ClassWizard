@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_6151,Social Work,topic,PART_OF,social justice,concept,,part is broader than whole - check direction,SOWK_6151_triples_raw.json
+SOWK_6151,Diversity,topic,PART_OF,social justice,concept,,part is broader than whole - check direction,SOWK_6151_triples_raw.json
+SOWK_6151,Racism and White Supremacy,topic,PART_OF,social justice,concept,,part is broader than whole - check direction,SOWK_6151_triples_raw.json
+SOWK_6151,Cultural Humility in Practice,topic,PART_OF,social justice,concept,,part is broader than whole - check direction,SOWK_6151_triples_raw.json
+SOWK_6151,personal biases,concept,PART_OF,social justice,concept,,,SOWK_6151_triples_raw.json
+SOWK_6151,ideological factors,concept,PART_OF,social justice,concept,,,SOWK_6151_triples_raw.json
+SOWK_6151,client differences,concept,PART_OF,social justice,concept,,,SOWK_6151_triples_raw.json
+SOWK_6151,critical analysis,method,PART_OF,social justice,concept,,,SOWK_6151_triples_raw.json
+SOWK_6151,self-reflection,method,PART_OF,social justice,concept,,,SOWK_6151_triples_raw.json
+SOWK_6151,racism,concept,SUBTYPE_OF,Racism and White Supremacy,topic,,,SOWK_6151_triples_raw.json
+SOWK_6151,privilege,concept,SUBTYPE_OF,Racism and White Supremacy,topic,,,SOWK_6151_triples_raw.json
+SOWK_6151,discrimination,concept,SUBTYPE_OF,Racism and White Supremacy,topic,,,SOWK_6151_triples_raw.json
+SOWK_6151,self-reflection,method,USED_FOR,social justice,concept,,,SOWK_6151_triples_raw.json

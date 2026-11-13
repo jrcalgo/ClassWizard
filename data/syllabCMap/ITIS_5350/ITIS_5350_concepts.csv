@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5350,topic,Design Prototyping,Design Prototyping,2,verified,Design Prototyping,ITIS_5350_concepts_raw.json
+ITIS_5350,concept,Sketching User Experiences,Sketching User Experiences,1,verified,Sketching User Experiences,ITIS_5350_concepts_raw.json
+ITIS_5350,concept,Prototyping Software Tools,prototyping software tools,1,verified,Prototyping Software Tools,ITIS_5350_concepts_raw.json
+ITIS_5350,method,Sketching,Sketching,3,verified,Sketching,ITIS_5350_concepts_raw.json
+ITIS_5350,method,Storyboarding,Storyboarding,1,verified,Storyboarding,ITIS_5350_concepts_raw.json
+ITIS_5350,method,Paper Prototyping,paper prototyping,2,verified,Paper Prototyping,ITIS_5350_concepts_raw.json
+ITIS_5350,method,Prototyping with general software tools,Prototyping with general software tools,1,verified,Prototyping with general software tools,ITIS_5350_concepts_raw.json
+ITIS_5350,method,Prototyping with specialty prototyping software tools,Prototyping with specialty prototyping software tools,1,verified,Prototyping with specialty prototyping software tools,ITIS_5350_concepts_raw.json

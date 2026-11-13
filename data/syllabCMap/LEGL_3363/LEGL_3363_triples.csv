@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_3363,Alternative Dispute Resolution,concept,PREREQUISITE_OF,Arbitration,topic,A taught first,,LEGL_3363_triples_raw.json
+LEGL_3363,Alternative Dispute Resolution,concept,PREREQUISITE_OF,Negotiation,topic,A taught first,,LEGL_3363_triples_raw.json

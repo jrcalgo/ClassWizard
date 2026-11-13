@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_4318,Parental Involvement Strategies,concept,PREREQUISITE_OF,Culturally Diverse Families,concept,same unit,,SPED_4318_triples_raw.json
+SPED_4318,Parental Involvement Strategies,concept,PREREQUISITE_OF,Family Support Systems,concept,same unit,,SPED_4318_triples_raw.json
+SPED_4318,Team Planning and Collaboration,concept,PREREQUISITE_OF,Role of Related Service Professionals,concept,same unit,,SPED_4318_triples_raw.json
+SPED_4318,Team Planning and Collaboration,concept,PREREQUISITE_OF,Student-Centered Team Meetings,concept,same unit,,SPED_4318_triples_raw.json
+SPED_4318,Effective Communication Strategies,concept,PREREQUISITE_OF,Building Trust with Families,concept,same unit,,SPED_4318_triples_raw.json
+SPED_4318,Inclusionary Practices in Classrooms,concept,PREREQUISITE_OF,Universal Design for Learning,concept,same unit,,SPED_4318_triples_raw.json
+SPED_4318,Inclusionary Practices in Classrooms,concept,PREREQUISITE_OF,Differentiated Instruction Methods,concept,same unit,,SPED_4318_triples_raw.json
+SPED_4318,Parental Involvement Strategies,concept,PART_OF,Role of Parents,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Culturally Diverse Families,concept,PART_OF,Role of Parents,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Family Support Systems,concept,PART_OF,Role of Parents,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Program Development and Implementation,concept,PART_OF,Administrators and Leadership,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Role of Related Service Professionals,concept,PART_OF,Interdisciplinary Teams,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Student-Centered Team Meetings,concept,PART_OF,Interdisciplinary Teams,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Conflict Resolution in Teams,concept,PART_OF,Communication and Collaboration,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Building Trust with Families,concept,PART_OF,Communication and Collaboration,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Inclusionary Practices in Classrooms,concept,PART_OF,Inclusive Program Initiatives,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Universal Design for Learning,concept,PART_OF,Inclusive Program Initiatives,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Differentiated Instruction Methods,concept,PART_OF,Inclusive Program Initiatives,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Range of Services for Students,concept,PART_OF,Services and Supports,topic,,,SPED_4318_triples_raw.json
+SPED_4318,Community-Based Resources,concept,PART_OF,Services and Supports,topic,,,SPED_4318_triples_raw.json

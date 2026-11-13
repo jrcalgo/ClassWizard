@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_2120,Cell Membrane Transport Mechanisms,concept,PART_OF,Cell Structure and Function,topic,,,BIOL_2120_triples_raw.json
+BIOL_2120,Cellular Energetics Overview,topic,PART_OF,Cell Structure and Function,topic,,,BIOL_2120_triples_raw.json
+BIOL_2120,DNA Structure and Replication,concept,PART_OF,Gene Expression Basics,topic,,,BIOL_2120_triples_raw.json
+BIOL_2120,Gene Expression,concept,PART_OF,Gene Expression Basics,topic,,,BIOL_2120_triples_raw.json
+BIOL_2120,Genetic Variation,concept,PART_OF,Gene Expression Basics,topic,,,BIOL_2120_triples_raw.json
+BIOL_2120,Primordial Soup Hypothesis,concept,PART_OF,Early Earth Environment,topic,,,BIOL_2120_triples_raw.json
+BIOL_2120,Emergence of Life Forms,concept,PART_OF,Early Earth Environment,topic,,,BIOL_2120_triples_raw.json
+BIOL_2120,Cell Division and Cycle,concept,PART_OF,Cellular Differentiation Overview,topic,,,BIOL_2120_triples_raw.json
+BIOL_2120,Cell Signaling Pathways,concept,PART_OF,Cellular Differentiation Overview,topic,,,BIOL_2120_triples_raw.json
+BIOL_2120,conduct,method,USED_FOR,Biological Research Process,concept,,,BIOL_2120_triples_raw.json
+BIOL_2120,analyze,method,USED_FOR,Biological Research Process,concept,,,BIOL_2120_triples_raw.json
+BIOL_2120,communicate biological research,method,USED_FOR,Biological Research Process,concept,,,BIOL_2120_triples_raw.json

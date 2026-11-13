@@ -1,0 +1,48 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3156,topic,Solid Mechanics,Solid Mechanics,1,verified,Solid Mechanics,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Statics,Statics,1,verified,Statics,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Dynamics,Dynamics,1,verified,Dynamics,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Machining,Machining,1,verified,Machining,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Design Process Overview,Design Process Overview,1,inferred,Design Process Overview,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Teamwork and Communication,Teamwork and Communication,1,inferred,Teamwork and Communication,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,stress and strain principles,Stress and Strain Principles,1,inferred,stress and strain principles,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Material Properties and Behavior,Material Properties and Behavior,1,inferred,Material Properties and Behavior,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Failure Theories and Analysis,Failure Theories and Analysis,1,inferred,Failure Theories and Analysis,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Force Vectors and Equilibrium,Force Vectors and Equilibrium,1,inferred,Force Vectors and Equilibrium,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Moment of Forces and Torque,Moment of Forces and Torque,1,inferred,Moment of Forces and Torque,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Kinematics and Kinetics Fundamentals,Kinematics and Kinetics Fundamentals,1,inferred,Kinematics and Kinetics Fundamentals,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Machine Tool Operations and Safety,Machine Tool Operations and Safety,1,inferred,Machine Tool Operations and Safety,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Material Removal Processes and Techniques,Material Removal Processes and Techniques,1,inferred,Material Removal Processes and Techniques,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Manufacturing Process Selection and Planning,Manufacturing Process Selection and Planning,1,inferred,Manufacturing Process Selection and Planning,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Project Scope and Objectives Definition,Project Scope and Objectives Definition,1,inferred,Project Scope and Objectives Definition,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Timeline and Milestone Management,Timeline and Milestone Management,1,inferred,Timeline and Milestone Management,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Resource Allocation and Budgeting,Resource Allocation and Budgeting,1,inferred,Resource Allocation and Budgeting,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Design Requirements and Specifications,Design Requirements and Specifications,1,inferred,Design Requirements and Specifications,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Concept Evaluation and Selection,Concept Evaluation and Selection,1,inferred,Concept Evaluation and Selection,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,design optimization techniques,Design Optimization Techniques,1,inferred,design optimization techniques,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Subsystem Interfaces and Integration,Subsystem Interfaces and Integration,1,inferred,Subsystem Interfaces and Integration,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Component Design and Prototyping,Component Design and Prototyping,1,inferred,Component Design and Prototyping,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,testing and validation methods,Testing and Validation Methods,1,inferred,testing and validation methods,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Manufacturing Process Implementation,Manufacturing Process Implementation,1,inferred,Manufacturing Process Implementation,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Quality Control and Assurance,Quality Control and Assurance,1,inferred,Quality Control and Assurance,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Supply Chain Management and Logistics,Supply Chain Management and Logistics,1,inferred,Supply Chain Management and Logistics,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,System Performance Metrics and Evaluation,System Performance Metrics and Evaluation,1,inferred,System Performance Metrics and Evaluation,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Testing and Validation Protocols,Testing and Validation Protocols,1,inferred,Testing and Validation Protocols,MEGR_3156_concepts_raw.json
+MEGR_3156,topic,Design Iteration and Improvement,Design Iteration and Improvement,1,inferred,Design Iteration and Improvement,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,design process,Design Process,1,inferred,design process,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,project management,Project Management,1,inferred,project management,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,teamwork,Teamwork,1,inferred,teamwork,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,communication,Communication,2,inferred,communication,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,material properties,Material Properties,1,inferred,material properties,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,failure theories,Failure Theories,1,inferred,failure theories,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,force vectors,Force Vectors,1,inferred,force vectors,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,moment of forces,Moment of Forces,1,inferred,moment of forces,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,kinematics,Kinematics,1,inferred,kinematics,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,kinetics fundamentals,Kinetics Fundamentals,1,inferred,kinetics fundamentals,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,machine tool operations,Machine Tool Operations,1,inferred,machine tool operations,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,material removal processes,Material Removal Processes,1,inferred,material removal processes,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,manufacturing process selection,Manufacturing Process Selection,1,inferred,manufacturing process selection,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,design requirements,Design Requirements,1,inferred,design requirements,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,concept evaluation,Concept Evaluation,1,inferred,concept evaluation,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,subsystem interfaces,Subsystem Interfaces,1,inferred,subsystem interfaces,MEGR_3156_concepts_raw.json
+MEGR_3156,concept,component design,Component Design,1,inferred,component design,MEGR_3156_concepts_raw.json

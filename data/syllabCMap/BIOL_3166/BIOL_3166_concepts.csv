@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_3166,topic,GENETICS,GENETICS,90,verified,GENETICS,BIOL_3166_concepts_raw.json
+BIOL_3166,topic,Mendelian and non-Mendelian inheritance,Mendelian and non-Mendelian inheritance,4,verified,Mendelian and non-Mendelian inheritance,BIOL_3166_concepts_raw.json
+BIOL_3166,topic,structure and function of chromosomes and genomes,structure and function of chromosomes and genomes,3,verified,structure and function of chromosomes and genomes,BIOL_3166_concepts_raw.json
+BIOL_3166,topic,"biological variation resulting from recombination, mutation, and selection","biological variation resulting from recombination, mutation, and selection",2,verified,"biological variation resulting from recombination, mutation, and selection",BIOL_3166_concepts_raw.json
+BIOL_3166,topic,population genetics,population genetics,47,verified,population genetics,BIOL_3166_concepts_raw.json
+BIOL_3166,topic,evolutionary genetics,evolutionary genetics,35,verified,evolutionary genetics,BIOL_3166_concepts_raw.json
+BIOL_3166,topic,Eukaryotic Genetics,eukaryotic genetics,3,verified,Eukaryotic Genetics,BIOL_3166_concepts_raw.json
+BIOL_3166,topic,Prokaryotic System,Prokaryotic Systems,41,verified,Prokaryotic System,BIOL_3166_concepts_raw.json
+BIOL_3166,topic,Genetic Contrast,Genetic Contrast,1,verified,Genetic Contrast,BIOL_3166_concepts_raw.json
+BIOL_3166,topic,Eukaryote vs Prokaryote,Eukaryote vs Prokaryote,1,verified,Eukaryote vs Prokaryote,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Mendelian Inheritance,Mendelian inheritance,61,verified,Mendelian Inheritance,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Chromosome Structure,Chromosome Structure,55,verified,Chromosome Structure,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Genome Function,Genome Function,21,verified,Genome Function,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Recombination Process,Recombination Processes,1,verified,Recombination Process,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Mutation Types,Mutation Types,8,verified,Mutation Types,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Population Dynamics,Population Dynamics,1,verified,Population Dynamics,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Evolutionary Theory,Evolutionary Theory,1,verified,Evolutionary Theory,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Diverse scholarly perspectives,diverse scholarly perspectives,3,verified,Diverse scholarly perspectives,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Critical thinking skills,Critical thinking skills,1,verified,Critical thinking skills,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Analysis and debate techniques,Analysis and debate techniques,1,verified,Analysis and debate techniques,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Selection Pressure,Selection Pressure,2,verified,Selection Pressure,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Genomic Recombination,Genomic Recombination,2,verified,Genomic Recombination,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Mutational Processes,Mutational Processes,1,verified,Mutational Processes,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Biological Variation,biological variation,7,verified,Biological Variation,BIOL_3166_concepts_raw.json
+BIOL_3166,concept,Recombination Mutation,"recombination
+- mutation",8,verified,Recombination Mutation,BIOL_3166_concepts_raw.json
+BIOL_3166,work,GENETIC ANALYSIS,GENETIC ANALYSIS,3,verified,AN INTRODUCTION TO GENETIC ANALYSIS,BIOL_3166_concepts_raw.json
+BIOL_3166,work,Anthony Griffiths,Anthony Griffiths,2,verified,Anthony Griffiths,BIOL_3166_concepts_raw.json
+BIOL_3166,work,Catherine Peichel,Catherine Peichel,2,verified,Catherine Peichel,BIOL_3166_concepts_raw.json

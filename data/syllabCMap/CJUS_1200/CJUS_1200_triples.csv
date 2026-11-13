@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_1200,Definition of Crime,concept,PREREQUISITE_OF,Criminology,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Definition of Crime,concept,PREREQUISITE_OF,History of Criminology,concept,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Definition of Crime,concept,PREREQUISITE_OF,Branches of Study,concept,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Classical School Theory,concept,PREREQUISITE_OF,Theories of Crime,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Positivist Theory Overview,concept,PREREQUISITE_OF,Theories of Crime,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Conflict Theory Basics,concept,PREREQUISITE_OF,Theories of Crime,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Biological Theories of Crime,concept,PREREQUISITE_OF,Crime Causation and Control,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Control Theories Overview,concept,PREREQUISITE_OF,Crime Causation and Control,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Juvenile Court Process,concept,PREREQUISITE_OF,Juvenile Justice System,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Youthful Offender Status,concept,PREREQUISITE_OF,Juvenile Justice System,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Diversion Programs Explained,concept,PREREQUISITE_OF,Juvenile Justice System,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Prison Types and Functions,concept,PREREQUISITE_OF,Adult Correctional Systems,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Probation and Parole Overview,concept,PREREQUISITE_OF,Adult Correctional Systems,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Rehabilitation Theories Applied,concept,PREREQUISITE_OF,Adult Correctional Systems,topic,same unit,,CJUS_1200_triples_raw.json
+CJUS_1200,Definition of Crime,concept,PART_OF,Criminology,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,History of Criminology,concept,PART_OF,Criminology,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Branches of Study,concept,PART_OF,Criminology,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Classical School Theory,concept,PART_OF,Theories of Crime,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Positivist Theory Overview,concept,PART_OF,Theories of Crime,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Conflict Theory Basics,concept,PART_OF,Theories of Crime,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Biological Theories of Crime,concept,PART_OF,Crime Causation and Control,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Social Learning Theory,concept,PART_OF,Crime Causation and Control,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Control Theories Overview,concept,PART_OF,Crime Causation and Control,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Juvenile Court Process,concept,PART_OF,Juvenile Justice System,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Youthful Offender Status,concept,PART_OF,Juvenile Justice System,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Prison Types and Functions,concept,PART_OF,Adult Correctional Systems,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Probation and Parole Overview,concept,PART_OF,Adult Correctional Systems,topic,,,CJUS_1200_triples_raw.json
+CJUS_1200,Rehabilitation Theories Applied,concept,PART_OF,Adult Correctional Systems,topic,,,CJUS_1200_triples_raw.json

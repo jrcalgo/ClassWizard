@@ -1,0 +1,45 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_5210,topic,Topographic Interpretation,topographic interpretation,1,verified,Topographic Interpretation,ESCI_5210_concepts_raw.json
+ESCI_5210,topic,Soil Genesis Basics,Soil Genesis Basics,1,inferred,Soil Genesis Basics,ESCI_5210_concepts_raw.json
+ESCI_5210,topic,Soil Taxonomy Fundamentals,Soil Taxonomy Fundamentals,1,inferred,Soil Taxonomy Fundamentals,ESCI_5210_concepts_raw.json
+ESCI_5210,topic,Soil Morphology Essentials,Soil Morphology Essentials,1,inferred,Soil Morphology Essentials,ESCI_5210_concepts_raw.json
+ESCI_5210,topic,Surficial Processes Overview,Surficial Processes Overview,1,inferred,Surficial Processes Overview,ESCI_5210_concepts_raw.json
+ESCI_5210,topic,Soil-Geomorphology Connections,Soil-Geomorphology Connections,1,inferred,Soil-Geomorphology Connections,ESCI_5210_concepts_raw.json
+ESCI_5210,topic,Literature Review Fundamentals,Literature Review Fundamentals,1,inferred,Literature Review Fundamentals,ESCI_5210_concepts_raw.json
+ESCI_5210,topic,Field Techniques and Safety,Field Techniques and Safety,1,inferred,Field Techniques and Safety,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,soil formation processes,Soil Formation Processes,1,inferred,soil formation processes,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,pedogenesis overview,Pedogenesis Overview,1,inferred,pedogenesis overview,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,weathering and erosion,Weathering and Erosion,1,inferred,weathering and erosion,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,soil parent material,Soil Parent Material,1,inferred,soil parent material,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,soil classification system,Soil Classification System,1,inferred,soil classification system,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,taxonomic categories defined,Taxonomic Categories Defined,1,inferred,taxonomic categories defined,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,order,Order,1,inferred,"order, suborder, great group, family and series concepts",ESCI_5210_concepts_raw.json
+ESCI_5210,concept,suborder,Suborder,1,inferred,"order, suborder, great group, family and series concepts",ESCI_5210_concepts_raw.json
+ESCI_5210,concept,great group,Great Group,1,inferred,"order, suborder, great group, family and series concepts",ESCI_5210_concepts_raw.json
+ESCI_5210,concept,family,Family,1,inferred,"order, suborder, great group, family and series concepts",ESCI_5210_concepts_raw.json
+ESCI_5210,concept,series concepts,Series Concepts,1,inferred,"order, suborder, great group, family and series concepts",ESCI_5210_concepts_raw.json
+ESCI_5210,concept,soil horizon descriptions,Soil Horizon Descriptions,1,inferred,soil horizon descriptions,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,morphological features identified,Morphological Features Identified,1,inferred,morphological features identified,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,texture and structure analysis,Texture and Structure Analysis,1,inferred,texture and structure analysis,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,color and pattern recognition,Color and Pattern Recognition,1,inferred,color and pattern recognition,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,geomorphic processes defined,Geomorphic Processes Defined,1,inferred,geomorphic processes defined,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,erosion,Erosion,2,inferred,"erosion, deposition, and transport",ESCI_5210_concepts_raw.json
+ESCI_5210,concept,deposition,Deposition,1,inferred,"erosion, deposition, and transport",ESCI_5210_concepts_raw.json
+ESCI_5210,concept,transport,Transport,1,inferred,"erosion, deposition, and transport",ESCI_5210_concepts_raw.json
+ESCI_5210,concept,landform evolution models,Landform Evolution Models,1,inferred,landform evolution models,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,soil-landscape relationships,Soil-Landscape Relationships,1,inferred,soil-landscape relationships,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,map reading and scale use,Map Reading and Scale Use,1,inferred,map reading and scale use,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,topographic features identified,Topographic Features Identified,1,inferred,topographic features identified,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,relief and aspect analysis,Relief and Aspect Analysis,1,inferred,relief and aspect analysis,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,slope and drainage patterns,Slope and Drainage Patterns,1,inferred,slope and drainage patterns,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,soil-landscape associations,Soil-Landscape Associations,1,inferred,soil-landscape associations,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,geomorphic processes impacting soils,Geomorphic Processes Impacting Soils,1,inferred,geomorphic processes impacting soils,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,landform evolution and soil development,Landform Evolution and Soil Development,1,inferred,landform evolution and soil development,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,soil morphology and geomorphology interactions,Soil Morphology and Geomorphology Interactions,1,inferred,soil morphology and geomorphology interactions,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,scientific literature search strategies,Scientific Literature Search Strategies,1,inferred,scientific literature search strategies,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,peer-reviewed article analysis,Peer-Reviewed Article Analysis,1,inferred,peer-reviewed article analysis,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,critical evaluation of research methods,Critical Evaluation of Research Methods,1,inferred,critical evaluation of research methods,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,current trends in soil science,Current Trends in Soil Science,1,inferred,current trends in soil science,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,soil sampling and description protocols,Soil Sampling and Description Protocols,1,inferred,soil sampling and description protocols,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,field equipment and safety precautions,Field Equipment and Safety Precautions,1,inferred,field equipment and safety precautions,ESCI_5210_concepts_raw.json
+ESCI_5210,concept,map reading and navigation skills,Map Reading and Navigation Skills,1,inferred,map reading and navigation skills,ESCI_5210_concepts_raw.json

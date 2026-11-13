@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_8121,critical theory framework,concept,PREREQUISITE_OF,intersectionality in data analysis,concept,A taught first,,RSCH_8121_triples_raw.json
+RSCH_8121,critical theory framework,concept,PREREQUISITE_OF,power dynamics in data interpretation,concept,A taught first,,RSCH_8121_triples_raw.json
+RSCH_8121,qualitative research paradigm,concept,PART_OF,Qualitative Research,topic,,,RSCH_8121_triples_raw.json
+RSCH_8121,document analysis procedures,concept,PART_OF,Qualitative Data Collection Methods,topic,,,RSCH_8121_triples_raw.json
+RSCH_8121,coding and categorization processes,concept,PART_OF,Data Analysis Techniques and Tools,topic,,,RSCH_8121_triples_raw.json
+RSCH_8121,intersectionality in data analysis,concept,PART_OF,Critical Theory and Data Analysis Intersection,topic,,,RSCH_8121_triples_raw.json
+RSCH_8121,power dynamics in research,concept,PART_OF,Critical Theory and Data Analysis Intersection,topic,,,RSCH_8121_triples_raw.json

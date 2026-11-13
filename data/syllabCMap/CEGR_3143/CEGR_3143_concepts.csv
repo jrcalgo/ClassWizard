@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3143,topic,Fluid properties,Fluid properties,1,verified,Fluid properties,CEGR_3143_concepts_raw.json
+CEGR_3143,topic,Closed-Conduit Flow,closed-conduit flow,1,verified,Closed-Conduit Flow,CEGR_3143_concepts_raw.json
+CEGR_3143,topic,Open Channel Flow,open channel flow,1,verified,Open Channel Flow,CEGR_3143_concepts_raw.json
+CEGR_3143,topic,Precipitation and Runoff,Precipitation and Runoff,1,verified,Precipitation and Runoff,CEGR_3143_concepts_raw.json
+CEGR_3143,topic,Pressure and Flow,Pressure and Flow,1,inferred,Pressure and Flow,CEGR_3143_concepts_raw.json
+CEGR_3143,topic,Pipe Network Analysis,Pipe Network Analysis,1,inferred,Pipe Network Analysis,CEGR_3143_concepts_raw.json
+CEGR_3143,topic,Pumps and Turbines,Pumps and Turbines,1,inferred,Pumps and Turbines,CEGR_3143_concepts_raw.json
+CEGR_3143,topic,Weirs and Orifices,Weirs and Orifices,1,inferred,Weirs and Orifices,CEGR_3143_concepts_raw.json
+CEGR_3143,topic,Flumes and Culverts,Flumes and Culverts,1,inferred,Flumes and Culverts,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Density of Water,Density of Water,1,inferred,Density of Water,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Specific Weight,Specific Weight,1,inferred,Specific Weight,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Viscosity of Fluids,Viscosity of Fluids,1,inferred,Viscosity of Fluids,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Hydrostatic Pressure,Hydrostatic Pressure,1,inferred,Hydrostatic Pressure,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Gauge Pressure,Gauge Pressure,1,inferred,Gauge Pressure,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Flow Rate Measurement,Flow Rate Measurement,1,inferred,Flow Rate Measurement,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Pipe Flow Equations,Pipe Flow Equations,1,inferred,Pipe Flow Equations,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Darcy-Weisbach Equation,Darcy-Weisbach Equation,1,inferred,Darcy-Weisbach Equation,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Friction Losses,Friction Losses,1,inferred,Friction Losses,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Pipe Network Modeling,Pipe Network Modeling,1,inferred,Pipe Network Modeling,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Head Loss Calculations,Head Loss Calculations,1,inferred,Head Loss Calculations,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,System Pressure Analysis,System Pressure Analysis,1,inferred,System Pressure Analysis,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Centrifugal Pump Theory,Centrifugal Pump Theory,1,inferred,Centrifugal Pump Theory,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Turbine Efficiency Factors,Turbine Efficiency Factors,1,inferred,Turbine Efficiency Factors,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Power Consumption,Power Consumption,1,inferred,Power Consumption,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Manning's Equation,Manning's Equation,1,inferred,Manning's Equation,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Flow in Rectangular Channels,Flow in Rectangular Channels,1,inferred,Flow in Rectangular Channels,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Flow in Circular Channels,Flow in Circular Channels,1,inferred,Flow in Circular Channels,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Weir Flow Equations,Weir Flow Equations,1,inferred,Weir Flow Equations,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Orifice Flow Theory,Orifice Flow Theory,1,inferred,Orifice Flow Theory,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Energy Loss Calculations,Energy Loss Calculations,1,inferred,Energy Loss Calculations,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Flume Flow Equations,Flume Flow Equations,1,inferred,Flume Flow Equations,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Culvert Design Principles,Culvert Design Principles,1,inferred,Culvert Design Principles,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Flow Measurement Devices,Flow Measurement Devices,1,inferred,Flow Measurement Devices,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Rainfall Intensity-Duration,Rainfall Intensity-Duration,1,inferred,Rainfall Intensity-Duration,CEGR_3143_concepts_raw.json
+CEGR_3143,concept,Runoff Coefficient Values,Runoff Coefficient Values,1,inferred,Runoff Coefficient Values,CEGR_3143_concepts_raw.json

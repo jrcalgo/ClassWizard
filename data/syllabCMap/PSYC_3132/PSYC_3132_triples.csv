@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_3132,sensory pathways,concept,PART_OF,Sensation and Perception,topic,,,PSYC_3132_triples_raw.json
+PSYC_3132,brain regions,concept,PART_OF,Sensation and Perception,topic,,,PSYC_3132_triples_raw.json
+PSYC_3132,biological mechanisms,concept,PART_OF,Sensation and Perception,topic,,,PSYC_3132_triples_raw.json
+PSYC_3132,psychophysical threshold measurements,concept,PART_OF,Sensation and Perception,topic,,,PSYC_3132_triples_raw.json
+PSYC_3132,common sensory impairments,concept,PART_OF,Sensation and Perception,topic,,,PSYC_3132_triples_raw.json
+PSYC_3132,perceptual illusions,concept,PART_OF,Sensation and Perception,topic,,,PSYC_3132_triples_raw.json
+PSYC_3132,psychophysical threshold measurements,concept,USED_FOR,Sensation and Perception,topic,,,PSYC_3132_triples_raw.json

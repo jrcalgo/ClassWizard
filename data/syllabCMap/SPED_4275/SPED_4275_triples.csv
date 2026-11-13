@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_4275,Patterns of Learning and Development,concept,PREREQUISITE_OF,Developmentally Appropriate Learning Experiences,concept,same unit,,SPED_4275_triples_raw.json
+SPED_4275,Patterns of Learning and Development,concept,PREREQUISITE_OF,Diverse Learning Needs and Challenges,concept,A taught first,,SPED_4275_triples_raw.json
+SPED_4275,Types of Disabilities in Elementary Students,concept,PART_OF,Understanding Disability Categories,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Diverse Learning Needs and Challenges,concept,PART_OF,Understanding Disability Categories,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Accommodations and Modifications Strategies,concept,PART_OF,Understanding Disability Categories,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Language Acquisition and Development,concept,PART_OF,Teaching English Language Learners,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Culturally Responsive Teaching Practices,concept,PART_OF,Teaching English Language Learners,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Supporting ELLs in the Classroom,concept,PART_OF,Teaching English Language Learners,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Phonics,concept,PART_OF,Direct Instruction Reading Strategies,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Fluency,concept,PART_OF,Direct Instruction Reading Strategies,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Comprehension,concept,PART_OF,Direct Instruction Reading Strategies,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Retention,concept,PART_OF,Direct Instruction Reading Strategies,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Summative Assessment Techniques,concept,PART_OF,Assessment and Application of Strategies,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Data-Driven Instructional Decision Making,concept,PART_OF,Assessment and Application of Strategies,topic,,,SPED_4275_triples_raw.json
+SPED_4275,Applying Research-Based Interventions,concept,PART_OF,Assessment and Application of Strategies,topic,,,SPED_4275_triples_raw.json

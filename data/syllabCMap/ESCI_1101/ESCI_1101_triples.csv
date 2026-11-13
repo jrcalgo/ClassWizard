@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_1101,Branch of Science,concept,PREREQUISITE_OF,Earth Science,topic,same unit,,ESCI_1101_triples_raw.json
+ESCI_1101,Branch of Science,concept,PART_OF,Earth Science,topic,,,ESCI_1101_triples_raw.json

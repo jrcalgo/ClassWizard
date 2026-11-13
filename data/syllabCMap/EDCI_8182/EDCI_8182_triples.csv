@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8182,Culturally Responsive Teaching,concept,PREREQUISITE_OF,Inclusive Curriculum Design,concept,A taught first,,EDCI_8182_triples_raw.json
+EDCI_8182,Differentiated Instruction,concept,PREREQUISITE_OF,Collaborative Learning Environments,concept,same unit,,EDCI_8182_triples_raw.json
+EDCI_8182,Technology Integration Strategies,concept,PREREQUISITE_OF,Collaborative Learning Environments,concept,same unit,,EDCI_8182_triples_raw.json
+EDCI_8182,Critical Thinking and Reflection,concept,PREREQUISITE_OF,Social Justice Activism in Schools,concept,same unit,,EDCI_8182_triples_raw.json
+EDCI_8182,Social Justice in Education,concept,PART_OF,Addressing Social Issues,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Power Dynamics in Schools,concept,PART_OF,Addressing Social Issues,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Culturally Responsive Teaching,concept,PART_OF,Curricular Changes,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Inclusive Curriculum Design,concept,PART_OF,Curricular Changes,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Culturally Relevant Pedagogy,concept,PART_OF,Curricular Changes,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Enhanced Student Achievement,concept,PART_OF,Curricular Changes,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Differentiated Instruction,concept,PART_OF,Pedagogical Practices,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Technology Integration Strategies,concept,PART_OF,Pedagogical Practices,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Collaborative Learning Environments,concept,PART_OF,Pedagogical Practices,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Community Engagement Initiatives,concept,PART_OF,Addressing Social Issues,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Diverse Voices in the Classroom,concept,PART_OF,Multicultural Literature Development,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Culturally Relevant Texts,concept,PART_OF,Multicultural Literature Development,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Culturally Responsive Teaching Strategies,concept,PART_OF,Lesson Plan Activity,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Student-Centered Learning Environments,concept,PART_OF,Lesson Plan Activity,topic,,,EDCI_8182_triples_raw.json
+EDCI_8182,Community Engagement Initiatives,concept,USED_FOR,Addressing Social Issues,topic,,,EDCI_8182_triples_raw.json

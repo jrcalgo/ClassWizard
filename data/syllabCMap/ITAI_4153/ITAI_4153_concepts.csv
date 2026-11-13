@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITAI_4153,topic,Machine Learning Operations,Machine Learning Operations,1,verified,Machine Learning Operations,ITAI_4153_concepts_raw.json
+ITAI_4153,topic,Data Structures and Algorithms,Data Structures and Algorithms,1,verified,Data Structures and Algorithms,ITAI_4153_concepts_raw.json
+ITAI_4153,topic,Machine Learning,Machine Learning,7,verified,Introduction to Machine Learning,ITAI_4153_concepts_raw.json
+ITAI_4153,topic,DevOps,DevOps,2,verified,DevOps,ITAI_4153_concepts_raw.json
+ITAI_4153,topic,Data Engineering,data engineering,2,verified,Data Engineering,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,MLOps integration,MLOps integration,1,verified,MLOps integration,ITAI_4153_concepts_raw.json
+ITAI_4153,method,data management techniques,data management techniques,1,verified,data management techniques,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,high-quality inputs,high-quality inputs,1,verified,high-quality inputs,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,model performance,model performance,1,verified,model performance,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,deployment strategies,deployment strategies,1,verified,deployment strategies,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,monitoring protocols,monitoring protocols,1,verified,monitoring protocols,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,performance degradation,performance degradation,1,verified,performance degradation,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,security measures,security measures,1,verified,security measures,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,scalability,scalability,1,verified,scalability,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,efficiency,efficiency,1,verified,efficiency,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,AI applications,AI applications,1,verified,AI applications,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,technical details,technical details,1,verified,technical details,ITAI_4153_concepts_raw.json
+ITAI_4153,concept,feedback loops,Feedback Loops,1,verified,feedback loops,ITAI_4153_concepts_raw.json
+ITAI_4153,method,hands-on learning,hands-on learning,1,verified,hands-on learning,ITAI_4153_concepts_raw.json
+ITAI_4153,method,deploying ML models,Deploying ML Models,1,verified,deploying ML models,ITAI_4153_concepts_raw.json
+ITAI_4153,method,maintaining ML models,maintaining ML models,1,verified,maintaining ML models,ITAI_4153_concepts_raw.json

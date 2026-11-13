@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_1501,global technology issues,concept,PREREQUISITE_OF,equity of access to resources,concept,A taught first,,ITSC_1501_triples_raw.json
+ITSC_1501,global technology issues,concept,PREREQUISITE_OF,Digital Citizenship,topic,same unit,,ITSC_1501_triples_raw.json
+ITSC_1501,global technology issues,concept,PREREQUISITE_OF,cultural perspectives,method,A taught first,,ITSC_1501_triples_raw.json
+ITSC_1501,global technology issues,concept,PART_OF,Global Social Science,topic,,,ITSC_1501_triples_raw.json
+ITSC_1501,equity of access to resources,concept,PART_OF,Interconnected World of Technology,topic,,,ITSC_1501_triples_raw.json
+ITSC_1501,Digital Citizenship,topic,PART_OF,Interconnected World of Technology,topic,,,ITSC_1501_triples_raw.json
+ITSC_1501,familiar and unfamiliar cultures,concept,PART_OF,Global Social Science,topic,,,ITSC_1501_triples_raw.json
+ITSC_1501,cultural perspectives,method,PART_OF,Global Social Science,topic,,,ITSC_1501_triples_raw.json
+ITSC_1501,research science and technology,method,USED_FOR,global technology issues,concept,,,ITSC_1501_triples_raw.json
+ITSC_1501,presenting various cultural viewpoints,method,USED_FOR,Digital Citizenship,topic,,,ITSC_1501_triples_raw.json
+ITSC_1501,developing a mock global society,method,USED_FOR,equity of access to resources,concept,,,ITSC_1501_triples_raw.json

@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ACCT_6121,topic,Federal Tax Procedure,federal tax procedure,1,verified,Federal Tax Procedure,ACCT_6121_concepts_raw.json
+ACCT_6121,topic,Federal Income Tax Theory,Federal Income Tax Theory,1,inferred,Federal Income Tax Theory,ACCT_6121_concepts_raw.json
+ACCT_6121,topic,Business Entity Taxation,Business Entity Taxation,1,inferred,Business Entity Taxation,ACCT_6121_concepts_raw.json
+ACCT_6121,topic,Tax Research Fundamentals,Tax Research Fundamentals,1,inferred,Tax Research Fundamentals,ACCT_6121_concepts_raw.json
+ACCT_6121,topic,Ethics in Tax Practice,Ethics in Tax Practice,1,inferred,Ethics in Tax Practice,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Tax Accounting Principles,Tax Accounting Principles,1,inferred,Tax Accounting Principles,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,GAAP vs. Tax Accounting,GAAP vs. Tax Accounting,1,inferred,GAAP vs. Tax Accounting,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Tax Return Preparation,Tax Return Preparation,1,inferred,Tax Return Preparation,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Corporations and Partnerships,Corporations and Partnerships,1,inferred,Corporations and Partnerships,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Estates and Trusts Overview,Estates and Trusts Overview,1,inferred,Estates and Trusts Overview,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Entity Classification Rules,Entity Classification Rules,1,inferred,Entity Classification Rules,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Internal Revenue Code Review,Internal Revenue Code Review,1,inferred,Internal Revenue Code Review,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Regulations and Legislative Histories,Regulations and Legislative Histories,1,inferred,Regulations and Legislative Histories,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Court Cases and Precedents,Court Cases and Precedents,1,inferred,Court Cases and Precedents,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Professional Responsibility Standards,Professional Responsibility Standards,1,inferred,Professional Responsibility Standards,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Tax Practitioner Ethics Rules,Tax Practitioner Ethics Rules,1,inferred,Tax Practitioner Ethics Rules,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Confidentiality and Privilege,Confidentiality and Privilege,1,inferred,Confidentiality and Privilege,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Tax Return Filing Requirements,Tax Return Filing Requirements,1,inferred,Tax Return Filing Requirements,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Audits and Examination Process,Audits and Examination Process,1,inferred,Audits and Examination Process,ACCT_6121_concepts_raw.json
+ACCT_6121,concept,Tax Court and Appeals Process,Tax Court and Appeals Process,1,inferred,Tax Court and Appeals Process,ACCT_6121_concepts_raw.json

@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_4291,topic,Battery Performance and Testing,Battery Performance and Testing,1,verified,Battery Performance and Testing,MEGR_4291_concepts_raw.json
+MEGR_4291,topic,Battery Testing,battery testing,1,verified,Introduction to Battery Testing,MEGR_4291_concepts_raw.json
+MEGR_4291,concept,Li-ion batteries,Li-ion batteries,1,verified,Li-ion batteries,MEGR_4291_concepts_raw.json
+MEGR_4291,method,data analysis,data analysis,2,verified,data analysis,MEGR_4291_concepts_raw.json
+MEGR_4291,tool,cyclers,cyclers,1,verified,cyclers,MEGR_4291_concepts_raw.json
+MEGR_4291,tool,electrochemistry workstation,electrochemistry workstation,1,verified,electrochemistry workstation,MEGR_4291_concepts_raw.json
+MEGR_4291,tool,glovebox,glovebox,1,verified,glovebox,MEGR_4291_concepts_raw.json

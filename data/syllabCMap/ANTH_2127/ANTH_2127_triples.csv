@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_2127,Cultural Variations in Environmental Perception,concept,PREREQUISITE_OF,Place-Based Environmental Knowledge Systems,concept,same unit,,ANTH_2127_triples_raw.json
+ANTH_2127,Cultural Variations in Environmental Perception,concept,PREREQUISITE_OF,Environmental Impact of Cultural Practices,concept,same unit,,ANTH_2127_triples_raw.json
+ANTH_2127,Environmental Anthropology Definition,concept,PART_OF,Environmental Anthropology,topic,,,ANTH_2127_triples_raw.json
+ANTH_2127,Cultural Variations in Environmental Perception,concept,PART_OF,Human-Environment Interactions Across Cultures,topic,,,ANTH_2127_triples_raw.json
+ANTH_2127,Place-Based Environmental Knowledge Systems,concept,PART_OF,Human-Environment Interactions Across Cultures,topic,,,ANTH_2127_triples_raw.json
+ANTH_2127,Environmental Impact of Cultural Practices,concept,PART_OF,Human-Environment Interactions Across Cultures,topic,,,ANTH_2127_triples_raw.json
+ANTH_2127,"EA and Inequality, Governance, Sustainability",topic,PART_OF,Environmental Justice and Social Inequality,concept,,part is broader than whole - check direction,ANTH_2127_triples_raw.json
+ANTH_2127,Governance and Environmental Decision-Making,concept,PART_OF,"EA and Inequality, Governance, Sustainability",topic,,,ANTH_2127_triples_raw.json
+ANTH_2127,Sustainable Development and EA Principles,concept,PART_OF,"EA and Inequality, Governance, Sustainability",topic,,,ANTH_2127_triples_raw.json
+ANTH_2127,Examples of EA Research Applications,concept,PART_OF,Case Studies in Environmental Anthropology,topic,,,ANTH_2127_triples_raw.json
+ANTH_2127,EA Case Studies from Around the World,concept,PART_OF,Case Studies in Environmental Anthropology,topic,,,ANTH_2127_triples_raw.json
+ANTH_2127,Comparative Analysis of EA Findings,concept,PART_OF,Case Studies in Environmental Anthropology,topic,,,ANTH_2127_triples_raw.json

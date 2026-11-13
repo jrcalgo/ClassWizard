@@ -1,0 +1,34 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3221,material selection criteria,concept,PREREQUISITE_OF,Machine Element Design for Strength,topic,A taught first,,MEGR_3221_triples_raw.json
+MEGR_3221,material selection criteria,concept,PREREQUISITE_OF,Machine Element Stress Analysis,topic,A taught first,,MEGR_3221_triples_raw.json
+MEGR_3221,compressive strength,concept,PREREQUISITE_OF,Machine Element Forces and Loads,topic,A taught first,,MEGR_3221_triples_raw.json
+MEGR_3221,load types,concept,PREREQUISITE_OF,Machine Element Forces and Loads,topic,same unit,,MEGR_3221_triples_raw.json
+MEGR_3221,torque analysis,concept,PREREQUISITE_OF,Machine Element Forces and Loads,topic,same unit,,MEGR_3221_triples_raw.json
+MEGR_3221,stress types,concept,PREREQUISITE_OF,Machine Element Stress Analysis,topic,same unit,,MEGR_3221_triples_raw.json
+MEGR_3221,failure theories,concept,PREREQUISITE_OF,Machine Element Stress Analysis,topic,same unit,,MEGR_3221_triples_raw.json
+MEGR_3221,fracture mechanics,concept,PREREQUISITE_OF,Machine Element Stress Analysis,topic,same unit,,MEGR_3221_triples_raw.json
+MEGR_3221,machine design process,concept,PART_OF,Machine Elements,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,material selection criteria,concept,PART_OF,Mechanical Properties of Materials,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,compressive strength,concept,PART_OF,Mechanical Properties of Materials,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,elastic modulus,concept,PART_OF,Mechanical Properties of Materials,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,force systems,concept,PART_OF,Machine Element Forces and Loads,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,load types,concept,PART_OF,Machine Element Forces and Loads,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,torque analysis,concept,PART_OF,Machine Element Forces and Loads,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,stress types,concept,PART_OF,Machine Element Stress Analysis,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,failure theories,concept,PART_OF,Machine Element Stress Analysis,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,fracture mechanics,concept,PART_OF,Machine Element Stress Analysis,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,design for minimum weight,concept,PART_OF,Machine Element Design for Strength,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,gear trains,concept,PART_OF,Machine Element Design for Motion,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,linkages,concept,PART_OF,Machine Element Design for Motion,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,mechanism analysis,concept,PART_OF,Machine Element Design for Motion,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,cam mechanisms,concept,PART_OF,Machine Element Design for Motion,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,heat transfer fundamentals,concept,PART_OF,Machine Element Thermal Analysis,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,thermal expansion,concept,PART_OF,Machine Element Thermal Analysis,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,temperature measurement,concept,PART_OF,Machine Element Thermal Analysis,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,stress,concept,USED_FOR,Machine Element Stress Analysis,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,force systems,concept,USED_FOR,Machine Element Forces and Loads,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,load types,concept,USED_FOR,Machine Element Forces and Loads,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,torque analysis,concept,USED_FOR,Machine Element Forces and Loads,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,stress types,concept,USED_FOR,Machine Element Stress Analysis,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,failure theories,concept,USED_FOR,Machine Element Stress Analysis,topic,,,MEGR_3221_triples_raw.json
+MEGR_3221,fracture mechanics,concept,USED_FOR,Machine Element Stress Analysis,topic,,,MEGR_3221_triples_raw.json

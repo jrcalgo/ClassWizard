@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4162,topic,Cell Biology Laboratory,Cell Biology Laboratory,1,verified,Cell Biology Laboratory,BIOL_4162_concepts_raw.json
+BIOL_4162,topic,Biotechnology,Biotechnology,4,verified,Introduction to Biotechnology,BIOL_4162_concepts_raw.json
+BIOL_4162,topic,Genetics,Genetics,1,verified,Genetics,BIOL_4162_concepts_raw.json
+BIOL_4162,topic,Modern Molecular Biotechnology,modern molecular biotechnology,1,verified,Modern Molecular Biotechnology,BIOL_4162_concepts_raw.json
+BIOL_4162,topic,Biopharmaceutical Applications,biopharmaceutical applications,1,verified,Biopharmaceutical Applications,BIOL_4162_concepts_raw.json
+BIOL_4162,topic,Recombinant Microorganisms,recombinant microorganisms,2,verified,Recombinant Microorganisms,BIOL_4162_concepts_raw.json
+BIOL_4162,concept,transgenic organisms,transgenic organisms,1,verified,transgenic organisms,BIOL_4162_concepts_raw.json
+BIOL_4162,topic,Large-Scale Biomanufacturing,large- scale biomanufacturing,2,verified,Large-Scale Biomanufacturing,BIOL_4162_concepts_raw.json
+BIOL_4162,method,CRISPR/Cas9 genome editing,CRISPR/Cas9 genome editing,1,verified,CRISPR/Cas9 genome editing,BIOL_4162_concepts_raw.json
+BIOL_4162,method,molecular cloning,molecular cloning,2,verified,molecular cloning,BIOL_4162_concepts_raw.json
+BIOL_4162,method,PCR,PCR,1,verified,PCR,BIOL_4162_concepts_raw.json
+BIOL_4162,method,sequencing,sequencing,1,verified,sequencing,BIOL_4162_concepts_raw.json
+BIOL_4162,concept,omics,omics,1,verified,omics,BIOL_4162_concepts_raw.json
+BIOL_4162,concept,recombinant proteins,recombinant proteins,2,verified,recombinant proteins,BIOL_4162_concepts_raw.json
+BIOL_4162,concept,vaccine development,vaccine development,1,verified,vaccine development,BIOL_4162_concepts_raw.json
+BIOL_4162,concept,bioprocess engineering principles,bioprocess engineering principles,1,verified,bioprocess engineering principles,BIOL_4162_concepts_raw.json

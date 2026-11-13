@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+READ_6250,diverse learners,concept,PREREQUISITE_OF,Literacy and Language Development,topic,A mentioned first,,READ_6250_triples_raw.json
+READ_6250,concepts of print,concept,PREREQUISITE_OF,phonological awareness,concept,same unit,,READ_6250_triples_raw.json
+READ_6250,phonological awareness,concept,PREREQUISITE_OF,phonics,concept,same unit,,READ_6250_triples_raw.json
+READ_6250,word recognition,concept,PREREQUISITE_OF,fluency,concept,same unit,,READ_6250_triples_raw.json
+READ_6250,fluency,concept,PREREQUISITE_OF,comprehension,concept,same unit,,READ_6250_triples_raw.json
+READ_6250,culturally responsive instruction,concept,PREREQUISITE_OF,equity,concept,B mentioned first,,READ_6250_triples_raw.json
+READ_6250,concepts of print,concept,PART_OF,Emergent and Elementary Literacy,topic,,,READ_6250_triples_raw.json
+READ_6250,phonological awareness,concept,PART_OF,Emergent and Elementary Literacy,topic,,,READ_6250_triples_raw.json
+READ_6250,phonics,concept,PART_OF,Emergent and Elementary Literacy,topic,,,READ_6250_triples_raw.json
+READ_6250,word recognition,concept,PART_OF,Emergent and Elementary Literacy,topic,,,READ_6250_triples_raw.json
+READ_6250,fluency,concept,PART_OF,Emergent and Elementary Literacy,topic,,,READ_6250_triples_raw.json
+READ_6250,vocabulary,concept,PART_OF,Emergent and Elementary Literacy,topic,,,READ_6250_triples_raw.json
+READ_6250,comprehension,concept,PART_OF,Emergent and Elementary Literacy,topic,,,READ_6250_triples_raw.json
+READ_6250,equity,concept,PART_OF,Literacy and Language Development,topic,,,READ_6250_triples_raw.json
+READ_6250,culturally responsive instruction,concept,PART_OF,Literacy and Language Development,topic,,,READ_6250_triples_raw.json

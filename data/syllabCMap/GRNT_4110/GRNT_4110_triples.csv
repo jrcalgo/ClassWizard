@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_4110,demographic transition,concept,PART_OF,Sociology of Aging,topic,,,GRNT_4110_triples_raw.json
+GRNT_4110,global aging trends,concept,PART_OF,Sociology of Aging,topic,,,GRNT_4110_triples_raw.json
+GRNT_4110,age structure changes,concept,PART_OF,Modernization and Age Structure,topic,,,GRNT_4110_triples_raw.json
+GRNT_4110,global health disparities,concept,PART_OF,Health Patterns Across Nations,topic,,,GRNT_4110_triples_raw.json
+GRNT_4110,aging population effects,concept,PART_OF,Health Patterns Across Nations,topic,,,GRNT_4110_triples_raw.json
+GRNT_4110,healthcare systems comparison,concept,PART_OF,Health Patterns Across Nations,topic,,,GRNT_4110_triples_raw.json
+GRNT_4110,global cultural diversity,concept,PART_OF,Cultural Preferences and Aging,topic,,,GRNT_4110_triples_raw.json
+GRNT_4110,ageism and stereotypes,concept,PART_OF,Cultural Preferences and Aging,topic,,,GRNT_4110_triples_raw.json
+GRNT_4110,social security reforms,concept,PART_OF,Aging Policies and Programs,topic,,,GRNT_4110_triples_raw.json
+GRNT_4110,elderly care services,concept,PART_OF,Aging Policies and Programs,topic,,,GRNT_4110_triples_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_8200,cryptography,topic,PREREQUISITE_OF,system,topic,A taught first,,ITIS_8200_triples_raw.json
+ITIS_8200,cryptography,topic,PREREQUISITE_OF,network,topic,A taught first,,ITIS_8200_triples_raw.json
+ITIS_8200,cryptography,topic,PREREQUISITE_OF,web,topic,A taught first,,ITIS_8200_triples_raw.json
+ITIS_8200,cryptography,topic,PREREQUISITE_OF,software security,topic,A taught first,,ITIS_8200_triples_raw.json
+ITIS_8200,cryptography,topic,PREREQUISITE_OF,privacy,topic,A taught first,,ITIS_8200_triples_raw.json
+ITIS_8200,cryptography,topic,PREREQUISITE_OF,emerging security challenges,topic,A taught first,,ITIS_8200_triples_raw.json
+ITIS_8200,cryptography,topic,USED_FOR,software security,topic,,topic used for something - check direction,ITIS_8200_triples_raw.json
+ITIS_8200,cryptography,topic,USED_FOR,authentication and access control,topic,,topic used for something - check direction,ITIS_8200_triples_raw.json
+ITIS_8200,cryptography,topic,USED_FOR,emerging security challenges,topic,,topic used for something - check direction,ITIS_8200_triples_raw.json

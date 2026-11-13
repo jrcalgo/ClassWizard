@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_6001,Historiographical Approaches,concept,PART_OF,United States History Before 1865,topic,,,HIST_6001_triples_raw.json
+HIST_6001,Reading critically,method,PART_OF,Historiographical Approaches,concept,,,HIST_6001_triples_raw.json
+HIST_6001,Considering opportunities for further research,method,PART_OF,Historiographical Approaches,concept,,,HIST_6001_triples_raw.json
+HIST_6001,Reading critically,method,USED_FOR,Historiographical Approaches,concept,,,HIST_6001_triples_raw.json
+HIST_6001,Considering opportunities for further research,method,USED_FOR,Historiographical Approaches,concept,,,HIST_6001_triples_raw.json

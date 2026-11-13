@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGR_0200,Exponents,topic,PREREQUISITE_OF,Radicals and Rational Exponents,topic,A mentioned first,,ENGR_0200_triples_raw.json
+ENGR_0200,Solving Linear and Quadratic Equations,topic,PREREQUISITE_OF,Solving Simultaneous Equations,topic,A mentioned first,,ENGR_0200_triples_raw.json
+ENGR_0200,Solving Linear and Quadratic Equations,topic,PREREQUISITE_OF,Solving Inequalities,topic,A mentioned first,,ENGR_0200_triples_raw.json

@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPED_8675,topic,Applied behavior analysis,Applied behavior analysis,3,verified,Applied behavior analysis,SPED_8675_concepts_raw.json
+SPED_8675,topic,Basic Behavioral Concepts,basic behavioral concepts,1,verified,Basic Behavioral Concepts,SPED_8675_concepts_raw.json
+SPED_8675,topic,ABA,ABA,5,inferred,Introduction to ABA,SPED_8675_concepts_raw.json
+SPED_8675,topic,Behavioral Principles in Action,Behavioral Principles in Action,1,inferred,Behavioral Principles in Action,SPED_8675_concepts_raw.json
+SPED_8675,topic,Applied Research in ABA,Applied Research in ABA,1,inferred,Applied Research in ABA,SPED_8675_concepts_raw.json
+SPED_8675,topic,Practice Guided by ABA,Practice Guided by ABA,1,inferred,Practice Guided by ABA,SPED_8675_concepts_raw.json
+SPED_8675,topic,Improving Educational Outcomes,Improving Educational Outcomes,1,inferred,Improving Educational Outcomes,SPED_8675_concepts_raw.json
+SPED_8675,concept,Operant Conditioning Basics,Operant Conditioning Basics,1,inferred,Operant Conditioning Basics,SPED_8675_concepts_raw.json
+SPED_8675,concept,Classical Conditioning Principles,Classical Conditioning Principles,1,inferred,Classical Conditioning Principles,SPED_8675_concepts_raw.json
+SPED_8675,concept,Reinforcement Strategies,Reinforcement Strategies,1,inferred,Reinforcement Strategies,SPED_8675_concepts_raw.json
+SPED_8675,concept,Schedules of Reinforcement,Schedules of Reinforcement,1,inferred,Schedules of Reinforcement,SPED_8675_concepts_raw.json
+SPED_8675,concept,Chaining and Shaping Techniques,Chaining and Shaping Techniques,1,inferred,Chaining and Shaping Techniques,SPED_8675_concepts_raw.json
+SPED_8675,concept,Prompting and Fading Methods,Prompting and Fading Methods,1,inferred,Prompting and Fading Methods,SPED_8675_concepts_raw.json
+SPED_8675,concept,Single-Subject Design Methodology,Single-Subject Design Methodology,1,inferred,Single-Subject Design Methodology,SPED_8675_concepts_raw.json
+SPED_8675,concept,Group Design Experimental Methods,Group Design Experimental Methods,1,inferred,Group Design Experimental Methods,SPED_8675_concepts_raw.json
+SPED_8675,concept,Meta-Analytic Review Procedures,Meta-Analytic Review Procedures,1,inferred,Meta-Analytic Review Procedures,SPED_8675_concepts_raw.json
+SPED_8675,concept,Functional Assessment Techniques,Functional Assessment Techniques,1,inferred,Functional Assessment Techniques,SPED_8675_concepts_raw.json
+SPED_8675,concept,Behavior Intervention Plans Development,Behavior Intervention Plans Development,1,inferred,Behavior Intervention Plans Development,SPED_8675_concepts_raw.json
+SPED_8675,concept,Data-Based Decision Making,Data-Based Decision Making,1,inferred,Data-Based Decision Making,SPED_8675_concepts_raw.json
+SPED_8675,concept,ABA Philosophical Foundations,ABA Philosophical Foundations,1,inferred,ABA Philosophical Foundations,SPED_8675_concepts_raw.json

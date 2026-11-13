@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CMET_2105L,tool,Construction Master,Construction Master,1,verified,Construction Master,CMET_2105L_concepts_raw.json
+CMET_2105L,tool,Bluebeam,Bluebeam,1,verified,Bluebeam,CMET_2105L_concepts_raw.json
+CMET_2105L,topic,Floor Systems,Floor Systems,1,inferred,Floor Systems,CMET_2105L_concepts_raw.json
+CMET_2105L,topic,Roofing Systems,Roofing Systems,1,inferred,Roofing Systems,CMET_2105L_concepts_raw.json
+CMET_2105L,topic,Drainage and Paving,Drainage and Paving,1,inferred,Drainage and Paving,CMET_2105L_concepts_raw.json
+CMET_2105L,topic,Structural Systems,Structural Systems,1,inferred,Structural Systems,CMET_2105L_concepts_raw.json
+CMET_2105L,topic,MEP Systems Overview,MEP Systems Overview,1,inferred,MEP Systems Overview,CMET_2105L_concepts_raw.json
+CMET_2105L,topic,Specifications and Drawings,Specifications and Drawings,1,inferred,Specifications and Drawings,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Construction Drawing Basics,Construction Drawing Basics,1,inferred,Construction Drawing Basics,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Drawing Conventions and Symbols,Drawing Conventions and Symbols,1,inferred,Drawing Conventions and Symbols,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Reading Drawing Notations,Reading Drawing Notations,1,inferred,Reading Drawing Notations,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Foundation Types and Materials,Foundation Types and Materials,1,inferred,Foundation Types and Materials,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Footing Design and Construction,Footing Design and Construction,1,inferred,Footing Design and Construction,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Foundation Drainage Systems,Foundation Drainage Systems,1,inferred,Foundation Drainage Systems,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Slab-on-Grade Construction,Slab-on-Grade Construction,1,inferred,Slab-on-Grade Construction,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Concrete Slab Details and Finishing,Concrete Slab Details and Finishing,1,inferred,Concrete Slab Details and Finishing,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Floor Joist and Beam Design,Floor Joist and Beam Design,1,inferred,Floor Joist and Beam Design,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Wall Types and Materials,Wall Types and Materials,1,inferred,Wall Types and Materials,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Exterior Finish Options and Details,Exterior Finish Options and Details,1,inferred,Exterior Finish Options and Details,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Window and Door Installation,Window and Door Installation,1,inferred,Window and Door Installation,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Roof Types and Design Considerations,Roof Types and Design Considerations,1,inferred,Roof Types and Design Considerations,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Roof Covering Materials and Installation,Roof Covering Materials and Installation,1,inferred,Roof Covering Materials and Installation,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Gutter and Downspout Systems,Gutter and Downspout Systems,1,inferred,Gutter and Downspout Systems,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Stormwater Management Systems,Stormwater Management Systems,1,inferred,Stormwater Management Systems,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Pavement Design and Construction,Pavement Design and Construction,1,inferred,Pavement Design and Construction,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Sewer and Drainage System Details,Sewer and Drainage System Details,1,inferred,Sewer and Drainage System Details,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Beam and Column Design Principles,Beam and Column Design Principles,1,inferred,Beam and Column Design Principles,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Foundation to Structure Connections,Foundation to Structure Connections,1,inferred,Foundation to Structure Connections,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Load Path and Structural Integrity,Load Path and Structural Integrity,1,inferred,Load Path and Structural Integrity,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Spec Writing and Format Standards,Spec Writing and Format Standards,1,inferred,Spec Writing and Format Standards,CMET_2105L_concepts_raw.json
+CMET_2105L,concept,Drawing Notations and Specifications Integration,Drawing Notations and Specifications Integration,1,inferred,Drawing Notations and Specifications Integration,CMET_2105L_concepts_raw.json

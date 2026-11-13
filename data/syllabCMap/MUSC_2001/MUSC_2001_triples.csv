@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_2001,microphone types and characteristics,concept,PREREQUISITE_OF,microphone placement strategies,concept,same unit,,MUSC_2001_triples_raw.json
+MUSC_2001,studio signal flow basics,concept,PREREQUISITE_OF,Console Operations,topic,A taught first,,MUSC_2001_triples_raw.json
+MUSC_2001,Digital Audio Workstations,topic,PREREQUISITE_OF,Mixing Techniques,topic,A taught first,,MUSC_2001_triples_raw.json
+MUSC_2001,polar patterns and applications,concept,PREREQUISITE_OF,Effects Processing,topic,A taught first,,MUSC_2001_triples_raw.json
+MUSC_2001,microphone types and characteristics,concept,PART_OF,Microphone Techniques,topic,,,MUSC_2001_triples_raw.json
+MUSC_2001,reverb and delay techniques,concept,PART_OF,Effects Processing,topic,,,MUSC_2001_triples_raw.json
+MUSC_2001,EQ and filtering applications,concept,PART_OF,Effects Processing,topic,,,MUSC_2001_triples_raw.json
+MUSC_2001,recording console layouts,concept,PART_OF,Console Operations,topic,,,MUSC_2001_triples_raw.json
+MUSC_2001,signal routing and patching,concept,PART_OF,Console Operations,topic,,,MUSC_2001_triples_raw.json
+MUSC_2001,gain staging techniques,concept,PART_OF,Console Operations,topic,,,MUSC_2001_triples_raw.json
+MUSC_2001,DAW software fundamentals,concept,PART_OF,Digital Audio Workstations,topic,,,MUSC_2001_triples_raw.json
+MUSC_2001,project setup and organization,concept,PART_OF,Digital Audio Workstations,topic,,,MUSC_2001_triples_raw.json
+MUSC_2001,Digital Audio Workstations,topic,USED_FOR,Mixing Techniques,topic,,topic used for something - check direction,MUSC_2001_triples_raw.json

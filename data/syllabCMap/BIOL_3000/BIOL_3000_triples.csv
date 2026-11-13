@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_3000,Phylogenetic relationships,concept,USED_FOR,Vertebrate Evolution,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Shared ancestry among vertebrates,concept,USED_FOR,Vertebrate Evolution,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Classification of vertebrates,concept,USED_FOR,Vertebrate Diversity,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Habitat and distribution patterns,concept,USED_FOR,Vertebrate Ecology,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Food webs and trophic levels,concept,USED_FOR,Vertebrate Ecology,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Ecological niches and competition,concept,USED_FOR,Vertebrate Ecology,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Mating and reproductive behaviors,concept,USED_FOR,Vertebrate Behavior,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Social structures and communication,concept,USED_FOR,Vertebrate Behavior,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Migration patterns and navigation,concept,USED_FOR,Vertebrate Behavior,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Respiratory and circulatory systems,concept,USED_FOR,Vertebrate Biomechanics,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Conservation status and threats,concept,USED_FOR,Vertebrate Natural History,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Genetic variation and evolution,concept,USED_FOR,Vertebrate Genetics,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Genetic adaptation to environment,concept,USED_FOR,Vertebrate Genetics,topic,,,BIOL_3000_triples_raw.json
+BIOL_3000,Genetic diversity among vertebrates,concept,USED_FOR,Vertebrate Genetics,topic,,,BIOL_3000_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_3103,Cockpit/Cabin Crew Psychosocial Factors,topic,PART_OF,Airport and Airline Operations,topic,,,SEGR_3103_triples_raw.json
+SEGR_3103,biomechanics,method,USED_FOR,human-machine collaboration,concept,,,SEGR_3103_triples_raw.json
+SEGR_3103,physiology,method,USED_FOR,human-machine collaboration,concept,,,SEGR_3103_triples_raw.json
+SEGR_3103,psychophysics,method,USED_FOR,human-machine collaboration,concept,,,SEGR_3103_triples_raw.json

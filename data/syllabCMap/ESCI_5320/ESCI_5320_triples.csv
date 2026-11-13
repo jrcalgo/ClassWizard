@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_5320,Climatology,topic,PREREQUISITE_OF,Mean Structure and Circulation,topic,A mentioned first,,ESCI_5320_triples_raw.json
+ESCI_5320,Air-Sea Energy Exchange,topic,PREREQUISITE_OF,Cumulus Transport,topic,A mentioned first,,ESCI_5320_triples_raw.json
+ESCI_5320,Synoptic Waves,topic,PREREQUISITE_OF,Tropical Storms,topic,B mentioned first,,ESCI_5320_triples_raw.json
+ESCI_5320,Tropical Storms,topic,PREREQUISITE_OF,Regional Variability in Tropical Cyclone Activity,topic,A mentioned first,,ESCI_5320_triples_raw.json

@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_4303,topic,Machine Design II,Machine Design II,1,verified,Machine Design II,MEET_4303_concepts_raw.json
+MEET_4303,topic,Machine Elements in Mechanical Design,Machine Elements in Mechanical Design,1,verified,Machine Elements in Mechanical Design,MEET_4303_concepts_raw.json
+MEET_4303,topic,Review of Machine Elements,Review of Machine Elements,1,inferred,Review of Machine Elements,MEET_4303_concepts_raw.json
+MEET_4303,topic,Gear Design and Analysis,Gear Design and Analysis,1,inferred,Gear Design and Analysis,MEET_4303_concepts_raw.json
+MEET_4303,topic,Shaft and Bearing Design,Shaft and Bearing Design,1,inferred,Shaft and Bearing Design,MEET_4303_concepts_raw.json
+MEET_4303,topic,Linkage and Chain Systems,Linkage and Chain Systems,1,inferred,Linkage and Chain Systems,MEET_4303_concepts_raw.json
+MEET_4303,topic,Cam Design and Analysis,Cam Design and Analysis,1,inferred,Cam Design and Analysis,MEET_4303_concepts_raw.json
+MEET_4303,topic,Mechanical Advantage Devices,Mechanical Advantage Devices,1,inferred,Mechanical Advantage Devices,MEET_4303_concepts_raw.json
+MEET_4303,topic,Machine System Optimization,Machine System Optimization,1,inferred,Machine System Optimization,MEET_4303_concepts_raw.json
+MEET_4303,topic,Case Studies and Applications,Case Studies and Applications,1,inferred,Case Studies and Applications,MEET_4303_concepts_raw.json
+MEET_4303,concept,machine element types,Machine element types,1,inferred,machine element types,MEET_4303_concepts_raw.json
+MEET_4303,concept,material properties,Material properties,1,inferred,material properties,MEET_4303_concepts_raw.json
+MEET_4303,concept,design considerations,Design considerations,4,inferred,design considerations,MEET_4303_concepts_raw.json
+MEET_4303,concept,gear tooth geometry,Gear tooth geometry,1,inferred,gear tooth geometry,MEET_4303_concepts_raw.json
+MEET_4303,concept,gear ratio calculations,Gear ratio calculations,1,inferred,gear ratio calculations,MEET_4303_concepts_raw.json
+MEET_4303,concept,gear efficiency factors,Gear efficiency factors,1,inferred,gear efficiency factors,MEET_4303_concepts_raw.json
+MEET_4303,concept,shaft design considerations,Shaft design considerations,1,inferred,shaft design considerations,MEET_4303_concepts_raw.json
+MEET_4303,concept,bearing types and selection,Bearing types and selection,1,inferred,bearing types and selection,MEET_4303_concepts_raw.json
+MEET_4303,concept,lubrication principles,Lubrication principles,1,inferred,lubrication principles,MEET_4303_concepts_raw.json
+MEET_4303,concept,linkage motion analysis,Linkage motion analysis,1,inferred,linkage motion analysis,MEET_4303_concepts_raw.json
+MEET_4303,concept,chain drive calculations,Chain drive calculations,1,inferred,chain drive calculations,MEET_4303_concepts_raw.json
+MEET_4303,concept,system optimization techniques,System optimization techniques,1,inferred,system optimization techniques,MEET_4303_concepts_raw.json
+MEET_4303,concept,cam profile design,Cam profile design,1,inferred,cam profile design,MEET_4303_concepts_raw.json
+MEET_4303,concept,cam follower kinematics,Cam follower kinematics,1,inferred,cam follower kinematics,MEET_4303_concepts_raw.json
+MEET_4303,concept,motion generation principles,Motion generation principles,1,inferred,motion generation principles,MEET_4303_concepts_raw.json
+MEET_4303,concept,gearbox design considerations,Gearbox design considerations,1,inferred,gearbox design considerations,MEET_4303_concepts_raw.json
+MEET_4303,concept,pulley system calculations,Pulley system calculations,1,inferred,pulley system calculations,MEET_4303_concepts_raw.json
+MEET_4303,concept,inclined plane mechanics,Inclined plane mechanics,1,inferred,inclined plane mechanics,MEET_4303_concepts_raw.json
+MEET_4303,concept,system performance metrics,System performance metrics,1,inferred,system performance metrics,MEET_4303_concepts_raw.json
+MEET_4303,concept,design trade-off analysis,Design trade-off analysis,1,inferred,design trade-off analysis,MEET_4303_concepts_raw.json
+MEET_4303,concept,optimization techniques,optimization techniques,2,inferred,optimization techniques,MEET_4303_concepts_raw.json

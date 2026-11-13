@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_3114,formalism,concept,PREREQUISITE_OF,iconography,concept,same unit,,ARTH_3114_triples_raw.json
+ARTH_3114,formalism,concept,PREREQUISITE_OF,connoisseurship,concept,A taught first,,ARTH_3114_triples_raw.json
+ARTH_3114,formalism,concept,PREREQUISITE_OF,biography,concept,A taught first,,ARTH_3114_triples_raw.json
+ARTH_3114,formalism,concept,PREREQUISITE_OF,social history,concept,A taught first,,ARTH_3114_triples_raw.json
+ARTH_3114,iconography,concept,PREREQUISITE_OF,Marxism,concept,A taught first,,ARTH_3114_triples_raw.json
+ARTH_3114,iconography,concept,PREREQUISITE_OF,feminism,concept,A taught first,,ARTH_3114_triples_raw.json
+ARTH_3114,Marxism,concept,PREREQUISITE_OF,postmodern,concept,A taught first,,ARTH_3114_triples_raw.json
+ARTH_3114,Marxism,concept,PREREQUISITE_OF,contemporary theory,concept,A taught first,,ARTH_3114_triples_raw.json
+ARTH_3114,formalism,concept,PART_OF,Art History Methods,topic,,,ARTH_3114_triples_raw.json
+ARTH_3114,iconography,concept,PART_OF,Art History Methods,topic,,,ARTH_3114_triples_raw.json
+ARTH_3114,connoisseurship,concept,PART_OF,Art History Methods,topic,,,ARTH_3114_triples_raw.json
+ARTH_3114,biography,concept,PART_OF,Art History Methods,topic,,,ARTH_3114_triples_raw.json
+ARTH_3114,social history,concept,PART_OF,Art History Methods,topic,,,ARTH_3114_triples_raw.json
+ARTH_3114,Marxism,concept,PART_OF,Postmodern and Contemporary Theory,topic,,,ARTH_3114_triples_raw.json
+ARTH_3114,feminism,concept,PART_OF,Postmodern and Contemporary Theory,topic,,,ARTH_3114_triples_raw.json
+ARTH_3114,postmodern,concept,PART_OF,Postmodern and Contemporary Theory,topic,,,ARTH_3114_triples_raw.json
+ARTH_3114,contemporary theory,concept,PART_OF,Postmodern and Contemporary Theory,topic,,,ARTH_3114_triples_raw.json

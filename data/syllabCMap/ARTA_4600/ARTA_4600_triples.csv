@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTA_4600,Interdependent formal relationships,concept,PREREQUISITE_OF,Conceptualizing studio practice,concept,same unit,,ARTA_4600_triples_raw.json
+ARTA_4600,Artistic research methods,concept,PREREQUISITE_OF,Effective digital presentations,concept,A taught first,,ARTA_4600_triples_raw.json
+ARTA_4600,Applying design principles,concept,PREREQUISITE_OF,Visual problem-solving strategies,concept,same unit,,ARTA_4600_triples_raw.json
+ARTA_4600,Industry-recommended digital tools,concept,PREREQUISITE_OF,Digital literacy in art,method,same unit,,ARTA_4600_triples_raw.json
+ARTA_4600,Effective public speaking skills,concept,PREREQUISITE_OF,Professional artistic communication,concept,same unit,,ARTA_4600_triples_raw.json
+ARTA_4600,Collaborative problem-solving strategies,concept,PREREQUISITE_OF,Group project management techniques,concept,same unit,,ARTA_4600_triples_raw.json
+ARTA_4600,Conceptualizing studio practice,concept,PART_OF,Research and Conceptualization,topic,,,ARTA_4600_triples_raw.json
+ARTA_4600,Effective digital presentations,concept,PART_OF,Digital Presentation Tools,topic,,,ARTA_4600_triples_raw.json
+ARTA_4600,Visual problem-solving strategies,concept,PART_OF,Design Process and Aesthetics,topic,,,ARTA_4600_triples_raw.json
+ARTA_4600,Historical context of design,concept,PART_OF,Writing About Design,topic,,,ARTA_4600_triples_raw.json
+ARTA_4600,Commercial and cultural significance,concept,PART_OF,Writing About Design,topic,,,ARTA_4600_triples_raw.json
+ARTA_4600,Effective public speaking skills,concept,PART_OF,Professional Communication,topic,,,ARTA_4600_triples_raw.json
+ARTA_4600,Professional artistic communication,concept,PART_OF,Professional Communication,topic,,,ARTA_4600_triples_raw.json
+ARTA_4600,Collaborative problem-solving strategies,concept,PART_OF,Collaboration and Group Projects,topic,,,ARTA_4600_triples_raw.json
+ARTA_4600,Group project management techniques,concept,PART_OF,Collaboration and Group Projects,topic,,,ARTA_4600_triples_raw.json
+ARTA_4600,Problem-solving strategies,method,USED_FOR,Visual problem-solving strategies,concept,,,ARTA_4600_triples_raw.json
+ARTA_4600,Visual storytelling techniques,method,USED_FOR,Effective digital presentations,concept,,,ARTA_4600_triples_raw.json
+ARTA_4600,Digital literacy in art,method,USED_FOR,Industry-recommended digital tools,concept,,,ARTA_4600_triples_raw.json
+ARTA_4600,Research methods,method,USED_FOR,Conceptualizing studio practice,concept,,,ARTA_4600_triples_raw.json
+ARTA_4600,Public speaking skills,method,USED_FOR,Effective public speaking skills,concept,,,ARTA_4600_triples_raw.json
+ARTA_4600,Artistic communication,method,USED_FOR,Professional artistic communication,concept,,,ARTA_4600_triples_raw.json

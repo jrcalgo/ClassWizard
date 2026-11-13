@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+INFO_4214,topic,AI for Business Competitive Advantage,AI for Business Competitive Advantage,1,verified,AI for Business Competitive Advantage,INFO_4214_concepts_raw.json
+INFO_4214,topic,AI,AI,10,verified,Introduction to AI,INFO_4214_concepts_raw.json
+INFO_4214,concept,artificial intelligence,artificial intelligence,1,verified,artificial intelligence,INFO_4214_concepts_raw.json
+INFO_4214,concept,machine learning,machine learning,1,verified,machine learning,INFO_4214_concepts_raw.json
+INFO_4214,concept,neural networks,neural networks,1,verified,neural networks,INFO_4214_concepts_raw.json
+INFO_4214,concept,generative AI,generative AI,1,verified,generative AI,INFO_4214_concepts_raw.json
+INFO_4214,tool,Python,Python,1,verified,Python,INFO_4214_concepts_raw.json

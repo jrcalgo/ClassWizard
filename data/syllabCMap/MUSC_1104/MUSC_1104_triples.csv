@@ -1,0 +1,34 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1104,Early Blues Music,concept,PREREQUISITE_OF,Origins of Rock,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,Early Blues Music,concept,PREREQUISITE_OF,Rock and Roll Emergence,topic,A taught first,,MUSC_1104_triples_raw.json
+MUSC_1104,1950s American Culture,concept,PREREQUISITE_OF,Rock and Roll Emergence,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,Elvis Presley's Impact,concept,PREREQUISITE_OF,Rock and Roll Emergence,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,Chuck Berry's Contribution,concept,PREREQUISITE_OF,Rock and Roll Emergence,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,Beatles' Rise to Fame,concept,PREREQUISITE_OF,British Invasion,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,Rolling Stones' Influence,concept,PREREQUISITE_OF,British Invasion,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,Mod Subculture Emerges,concept,PREREQUISITE_OF,British Invasion,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,1960s Social Movements,concept,PREREQUISITE_OF,Psychedelic Rock and Counterculture,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,San Francisco Music Scene,concept,PREREQUISITE_OF,Psychedelic Rock and Counterculture,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,LSD's Impact on Art,concept,PREREQUISITE_OF,Psychedelic Rock and Counterculture,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,1970s Economic Crisis,concept,PREREQUISITE_OF,Punk Rock and New Wave,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,1970s Urban Music Scene,concept,PREREQUISITE_OF,Hip-Hop and Rap's Impact,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,Globalization of Music Industry,concept,PREREQUISITE_OF,Contemporary Rock Landscape,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,Digital Music Distribution,concept,PREREQUISITE_OF,Contemporary Rock Landscape,topic,same unit,,MUSC_1104_triples_raw.json
+MUSC_1104,Early Blues Music,concept,PART_OF,Origins of Rock,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Delta Blues Style,concept,PART_OF,Origins of Rock,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,1950s American Culture,concept,PART_OF,Rock and Roll Emergence,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Elvis Presley's Impact,concept,PART_OF,Rock and Roll Emergence,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Chuck Berry's Contribution,concept,PART_OF,Rock and Roll Emergence,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Beatles' Rise to Fame,concept,PART_OF,British Invasion,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Rolling Stones,work,PART_OF,British Invasion,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,1960s Social Movements,concept,PART_OF,Psychedelic Rock and Counterculture,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,San Francisco Music Scene,concept,PART_OF,Psychedelic Rock and Counterculture,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,LSD's Impact on Art,concept,PART_OF,Psychedelic Rock and Counterculture,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Guitar Hero Worship,concept,PART_OF,Hard Rock and Heavy Metal,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Aerosmith's Rise to Fame,concept,PART_OF,Hard Rock and Heavy Metal,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,1970s Economic Crisis,concept,PART_OF,Punk Rock and New Wave,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Avant-Garde Rock Subgenre,concept,PART_OF,Fusion and Experimentation,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,1970s Urban Music Scene,concept,PART_OF,Hip-Hop and Rap's Impact,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Globalization of Music Industry,concept,PART_OF,Contemporary Rock Landscape,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Digital Music Distribution,concept,PART_OF,Contemporary Rock Landscape,topic,,,MUSC_1104_triples_raw.json
+MUSC_1104,Social Media's Impact on Artists,concept,PART_OF,Contemporary Rock Landscape,topic,,,MUSC_1104_triples_raw.json

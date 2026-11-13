@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_3130,semiconductor,concept,PREREQUISITE_OF,Operational Amplifiers,topic,A taught first,,ECGR_3130_triples_raw.json
+ECGR_3130,semiconductor,concept,PREREQUISITE_OF,Differential Pair Amplifiers,topic,A taught first,,ECGR_3130_triples_raw.json
+ECGR_3130,Ohm's law,concept,PART_OF,Linear Circuit Elements,topic,,,ECGR_3130_triples_raw.json
+ECGR_3130,doped semiconductors,concept,PART_OF,semiconductor,concept,,,ECGR_3130_triples_raw.json
+ECGR_3130,energy band structure,concept,PART_OF,semiconductor,concept,,,ECGR_3130_triples_raw.json
+ECGR_3130,p-n junction diodes,concept,PART_OF,semiconductor,concept,,,ECGR_3130_triples_raw.json
+ECGR_3130,Zener diodes,concept,PART_OF,semiconductor,concept,,,ECGR_3130_triples_raw.json
+ECGR_3130,bipolar junction transistors,concept,PART_OF,semiconductor,concept,,,ECGR_3130_triples_raw.json
+ECGR_3130,Metal Oxide Semiconductor Field Effect Transistors,concept,PART_OF,semiconductor,concept,,,ECGR_3130_triples_raw.json
+ECGR_3130,Zener diodes,concept,SUBTYPE_OF,p-n junction diodes,concept,,,ECGR_3130_triples_raw.json
+ECGR_3130,Ohm's law,concept,USED_FOR,Linear Circuit Elements,topic,,,ECGR_3130_triples_raw.json
+ECGR_3130,small signal low frequency models,concept,USED_FOR,bipolar junction transistors,concept,,,ECGR_3130_triples_raw.json
+ECGR_3130,small signal low frequency models,concept,USED_FOR,Metal Oxide Semiconductor Field Effect Transistors,concept,,,ECGR_3130_triples_raw.json

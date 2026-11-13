@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_1300,topic,Music,music,1,verified,Introduction to Music,MUSC_1300_concepts_raw.json
+MUSC_1300,topic,Music Fundamentals Basics,Music Fundamentals Basics,1,inferred,Music Fundamentals Basics,MUSC_1300_concepts_raw.json
+MUSC_1300,topic,Ear Training Techniques,Ear Training Techniques,1,inferred,Ear Training Techniques,MUSC_1300_concepts_raw.json
+MUSC_1300,topic,Critical Music Analysis,Critical Music Analysis,1,inferred,Critical Music Analysis,MUSC_1300_concepts_raw.json
+MUSC_1300,topic,Music Theory Fundamentals,Music Theory Fundamentals,1,inferred,Music Theory Fundamentals,MUSC_1300_concepts_raw.json
+MUSC_1300,topic,Applying Music Theory,Applying Music Theory,1,inferred,Applying Music Theory,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,pitch recognition exercises,Pitch Recognition Exercises,1,inferred,pitch recognition exercises,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,interval identification methods,Interval Identification Methods,1,inferred,interval identification methods,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,analyzing musical structure,Analyzing Musical Structure,1,inferred,analyzing musical structure,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,identifying musical motifs,Identifying Musical Motifs,1,inferred,identifying musical motifs,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,understanding chord progressions,Understanding Chord Progressions,1,inferred,understanding chord progressions,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,recognizing musical scales,Recognizing Musical Scales,1,inferred,recognizing musical scales,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,musical notation,Musical Notation,1,inferred,musical notation,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,musical motifs,Musical Motifs,1,inferred,musical motifs,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,musical compositions,Musical Compositions,1,inferred,musical compositions,MUSC_1300_concepts_raw.json
+MUSC_1300,concept,musical genres,Musical Genres,1,inferred,musical genres,MUSC_1300_concepts_raw.json

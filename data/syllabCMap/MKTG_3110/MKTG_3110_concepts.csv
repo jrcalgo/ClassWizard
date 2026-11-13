@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MKTG_3110,topic,Marketing Concept,marketing concept,1,verified,Marketing Concept,MKTG_3110_concepts_raw.json
+MKTG_3110,topic,External Environment Interface,external environment interface,1,verified,External Environment Interface,MKTG_3110_concepts_raw.json
+MKTG_3110,topic,Marketing-Environment Interaction,Marketing-Environment Interaction,1,inferred,Marketing-Environment Interaction,MKTG_3110_concepts_raw.json
+MKTG_3110,topic,Marketing and Other Functional Areas,Marketing and Other Functional Areas,1,inferred,Marketing and Other Functional Areas,MKTG_3110_concepts_raw.json
+MKTG_3110,topic,Marketing in Business Organizations,Marketing in Business Organizations,1,inferred,Marketing in Business Organizations,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,marketing mix variables,Marketing Mix Variables,1,inferred,marketing mix variables,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,customer needs focus,Customer Needs Focus,1,inferred,customer needs focus,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,marketing orientation,Marketing Orientation,1,inferred,marketing orientation,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,market forces analysis,Market Forces Analysis,1,inferred,market forces analysis,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,competitive market structure,Competitive Market Structure,1,inferred,competitive market structure,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,economic factors impact,Economic Factors Impact,1,inferred,economic factors impact,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,environmental scanning techniques,Environmental Scanning Techniques,1,inferred,environmental scanning techniques,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,strategic planning process,Strategic Planning Process,1,inferred,strategic planning process,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,marketing mix adaptation,Marketing Mix Adaptation,1,inferred,marketing mix adaptation,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,interdepartmental coordination,Interdepartmental Coordination,1,inferred,interdepartmental coordination,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,supply chain management,Supply Chain Management,1,inferred,supply chain management,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,financial support systems,Financial Support Systems,1,inferred,financial support systems,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,marketing's role in strategy,Marketing's Role in Strategy,1,inferred,marketing's role in strategy,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,marketing's contribution to profit,Marketing's Contribution to Profit,1,inferred,marketing's contribution to profit,MKTG_3110_concepts_raw.json
+MKTG_3110,concept,marketing's impact on society,Marketing's Impact on Society,1,inferred,marketing's impact on society,MKTG_3110_concepts_raw.json

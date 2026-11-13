@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3180,topic,Predictive Analytics,Predictive Analytics,1,verified,Predictive Analytics,MATH_3180_concepts_raw.json
+MATH_3180,tool,R,R,2,verified,R,MATH_3180_concepts_raw.json
+MATH_3180,topic,Exploratory Data Analysis,Exploratory Data Analysis,1,verified,Exploratory Data Analysis,MATH_3180_concepts_raw.json
+MATH_3180,topic,Feature Selection Methods,feature selection methods,1,verified,Feature Selection Methods,MATH_3180_concepts_raw.json
+MATH_3180,topic,Model Validation Techniques,model validation techniques,1,verified,Model Validation Techniques,MATH_3180_concepts_raw.json
+MATH_3180,method,model validation,model validation,1,verified,model validation,MATH_3180_concepts_raw.json
+MATH_3180,method,feature selection,feature selection,1,verified,feature selection,MATH_3180_concepts_raw.json
+MATH_3180,tool,GGPLOT 2,GGPLOT 2,1,verified,GGPLOT 2,MATH_3180_concepts_raw.json

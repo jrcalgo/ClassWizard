@@ -1,0 +1,178 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EXER_4121,topic,Pharmacology for the Physically Active,Pharmacology for the Physically Active,1,verified,Pharmacology for the Physically Active,EXER_4121_concepts_raw.json
+EXER_4121,topic,Introduction/Drugs and Behavior,Introduction/Drugs and Behavior,1,verified,Introduction/Drugs and Behavior,EXER_4121_concepts_raw.json
+EXER_4121,topic,How Drugs Work,How Drugs Work,1,verified,How Drugs Work,EXER_4121_concepts_raw.json
+EXER_4121,topic,FDA,FDA,2,verified,FDA,EXER_4121_concepts_raw.json
+EXER_4121,topic,Analgesics,Analgesics,2,verified,Analgesics,EXER_4121_concepts_raw.json
+EXER_4121,topic,Antihistamines and Decongestants,Antihistamines and Decongestants,1,verified,Antihistamines and Decongestants,EXER_4121_concepts_raw.json
+EXER_4121,topic,Clinical Drugs,Clinical Drugs,1,verified,Clinical Drugs,EXER_4121_concepts_raw.json
+EXER_4121,topic,Beta-blockers,Beta-blockers,2,verified,Beta-blockers,EXER_4121_concepts_raw.json
+EXER_4121,topic,Alpha-antagonists and ACE Inhibitors,Alpha-antagonists and ACE Inhibitors,1,verified,Alpha-antagonists and ACE Inhibitors,EXER_4121_concepts_raw.json
+EXER_4121,topic,Calcium Antagonists,Calcium Antagonists,1,verified,Calcium Antagonists,EXER_4121_concepts_raw.json
+EXER_4121,topic,Digitalis and Nitrates,Digitalis and Nitrates,1,verified,Digitalis and Nitrates,EXER_4121_concepts_raw.json
+EXER_4121,topic,Diuretics,Diuretics,3,verified,Diuretics,EXER_4121_concepts_raw.json
+EXER_4121,topic,Antihyperlipidemic Drugs,Antihyperlipidemic Drugs,1,verified,Antihyperlipidemic Drugs,EXER_4121_concepts_raw.json
+EXER_4121,topic,Pulmonary/Asthma Drugs and CNS Stimulants,Pulmonary/Asthma Drugs and CNS Stimulants,1,verified,Pulmonary/Asthma Drugs and CNS Stimulants,EXER_4121_concepts_raw.json
+EXER_4121,topic,"Anxiolytics, MAO Inhibitors, and Antidepressants","Anxiolytics, MAO Inhibitors, and Antidepressants",1,verified,"Anxiolytics, MAO Inhibitors, and Antidepressants",EXER_4121_concepts_raw.json
+EXER_4121,topic,Antibacterial and Antiviral Drugs,Antibacterial and Antiviral Drugs,1,verified,Antibacterial and Antiviral Drugs,EXER_4121_concepts_raw.json
+EXER_4121,topic,Antidiabetic Drugs,Antidiabetic Drugs,1,verified,Antidiabetic Drugs,EXER_4121_concepts_raw.json
+EXER_4121,topic,Musculoskeletal System Drugs,Musculoskeletal System Drugs,1,verified,Musculoskeletal System Drugs,EXER_4121_concepts_raw.json
+EXER_4121,topic,Ergogenic Aids,Ergogenic Aids,3,verified,Ergogenic Aids,EXER_4121_concepts_raw.json
+EXER_4121,topic,Nutritional Supplement Issues,Nutritional Supplement Issues,1,verified,Nutritional Supplement Issues,EXER_4121_concepts_raw.json
+EXER_4121,topic,"Ephedrine, Caffeine, and Ma Huang","Ephedrine, Caffeine, and Ma Huang",1,verified,"Ephedrine, Caffeine, and Ma Huang",EXER_4121_concepts_raw.json
+EXER_4121,topic,Chromium Picolinate and Ginseng,Chromium Picolinate and Ginseng,1,verified,Chromium Picolinate and Ginseng,EXER_4121_concepts_raw.json
+EXER_4121,topic,Creatine and Anabolic Steroids,Creatine and Anabolic Steroids,1,verified,Creatine and Anabolic Steroids,EXER_4121_concepts_raw.json
+EXER_4121,topic,Human Growth Hormone and DHEA,Human Growth Hormone and DHEA,1,verified,Human Growth Hormone and DHEA,EXER_4121_concepts_raw.json
+EXER_4121,topic,Ginkgo Biloba and Saw Palmetto,Ginkgo Biloba and Saw Palmetto,1,verified,Ginkgo Biloba and Saw Palmetto,EXER_4121_concepts_raw.json
+EXER_4121,concept,Drug Use Patterns,Drug Use Patterns,1,verified,Drug Use Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Behavioral Addiction,Behavioral Addiction,1,verified,Behavioral Addiction,EXER_4121_concepts_raw.json
+EXER_4121,concept,Substance Abuse Issues,Substance Abuse Issues,1,verified,Substance Abuse Issues,EXER_4121_concepts_raw.json
+EXER_4121,concept,Health and Performance,Health and Performance,2,verified,Health and Performance,EXER_4121_concepts_raw.json
+EXER_4121,concept,Historical Drug Use,Historical Drug Use,1,verified,Historical Drug Use,EXER_4121_concepts_raw.json
+EXER_4121,concept,Drug Mechanisms,Drug Mechanisms,2,verified,Drug Mechanisms,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pharmacokinetics Process,Pharmacokinetics Process,1,verified,Pharmacokinetics Process,EXER_4121_concepts_raw.json
+EXER_4121,concept,Receptor Binding Sites,Receptor Binding Sites,1,verified,Receptor Binding Sites,EXER_4121_concepts_raw.json
+EXER_4121,concept,Neurotransmitter Regulation,Neurotransmitter Regulation,1,verified,Neurotransmitter Regulation,EXER_4121_concepts_raw.json
+EXER_4121,concept,Synaptic Transmission Pathway,Synaptic Transmission Pathway,1,verified,Synaptic Transmission Pathway,EXER_4121_concepts_raw.json
+EXER_4121,concept,FDA Regulations,FDA Regulations,1,verified,FDA Regulations,EXER_4121_concepts_raw.json
+EXER_4121,concept,Drug Approval Process,Drug Approval Process,1,verified,Drug Approval Process,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pharmaceutical Labeling Laws,Pharmaceutical Labeling Laws,1,verified,Pharmaceutical Labeling Laws,EXER_4121_concepts_raw.json
+EXER_4121,concept,Regulatory Agencies Role,Regulatory Agencies Role,1,verified,Regulatory Agencies Role,EXER_4121_concepts_raw.json
+EXER_4121,concept,Compliance Guidelines,Compliance Guidelines,1,verified,Compliance Guidelines,EXER_4121_concepts_raw.json
+EXER_4121,concept,Analgesic Classification,Analgesic Classification,1,verified,Analgesic Classification,EXER_4121_concepts_raw.json
+EXER_4121,concept,Opioid Receptors Function,Opioid Receptors Function,1,verified,Opioid Receptors Function,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pain Mechanisms Overview,Pain Mechanisms Overview,1,verified,Pain Mechanisms Overview,EXER_4121_concepts_raw.json
+EXER_4121,concept,Acetaminophen Pharmacokinetics,Acetaminophen Pharmacokinetics,1,verified,Acetaminophen Pharmacokinetics,EXER_4121_concepts_raw.json
+EXER_4121,concept,Nonsteroidal Anti-Inflammatory,Nonsteroidal Anti-Inflammatory,2,verified,Nonsteroidal Anti-Inflammatory,EXER_4121_concepts_raw.json
+EXER_4121,concept,Narcotic Analgesics Effects,Narcotic Analgesics Effects,1,verified,Narcotic Analgesics Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Addiction Risk Factors,Addiction Risk Factors,1,verified,Addiction Risk Factors,EXER_4121_concepts_raw.json
+EXER_4121,concept,Tolerance Development Process,Tolerance Development Process,1,verified,Tolerance Development Process,EXER_4121_concepts_raw.json
+EXER_4121,concept,Withdrawal Symptoms Management,Withdrawal Symptoms Management,1,verified,Withdrawal Symptoms Management,EXER_4121_concepts_raw.json
+EXER_4121,concept,Antihistamine Mechanism,Antihistamine Mechanism,1,verified,Antihistamine Mechanism,EXER_4121_concepts_raw.json
+EXER_4121,concept,Decongestant Classification,Decongestant Classification,1,verified,Decongestant Classification,EXER_4121_concepts_raw.json
+EXER_4121,concept,Histamine Receptor Blockage,Histamine Receptor Blockage,1,verified,Histamine Receptor Blockage,EXER_4121_concepts_raw.json
+EXER_4121,concept,Non-Sedating Antihistamines,Non-Sedating Antihistamines,1,verified,Non-Sedating Antihistamines,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pseudoephedrine Effects,Pseudoephedrine Effects,1,verified,Pseudoephedrine Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Clinical Drug Categories,Clinical Drug Categories,1,verified,Clinical Drug Categories,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pharmacokinetics and Pharmacodynamics,Pharmacokinetics and Pharmacodynamics,1,verified,Pharmacokinetics and Pharmacodynamics,EXER_4121_concepts_raw.json
+EXER_4121,concept,Drug Interactions and Reactions,Drug Interactions and Reactions,1,verified,Drug Interactions and Reactions,EXER_4121_concepts_raw.json
+EXER_4121,concept,Adverse Effects of Medications,Adverse Effects of Medications,1,verified,Adverse Effects of Medications,EXER_4121_concepts_raw.json
+EXER_4121,concept,Therapeutic Index and Range,Therapeutic Index and Range,1,verified,Therapeutic Index and Range,EXER_4121_concepts_raw.json
+EXER_4121,concept,Beta-blocker mechanism,Beta-blocker mechanism,1,verified,Beta-blocker mechanism,EXER_4121_concepts_raw.json
+EXER_4121,concept,Cardiovascular disease prevention,Cardiovascular disease prevention,1,verified,Cardiovascular disease prevention,EXER_4121_concepts_raw.json
+EXER_4121,concept,Exercise-induced hypertension treatment,Exercise-induced hypertension treatment,1,verified,Exercise-induced hypertension treatment,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pharmacokinetics of beta-blockers,Pharmacokinetics of beta-blockers,1,verified,Pharmacokinetics of beta-blockers,EXER_4121_concepts_raw.json
+EXER_4121,concept,Side effects management,Side effects management,1,verified,Side effects management,EXER_4121_concepts_raw.json
+EXER_4121,concept,Alpha-antagonists,Alpha-antagonists,2,verified,Alpha-antagonists,EXER_4121_concepts_raw.json
+EXER_4121,concept,ACE Inhibitors,ACE Inhibitors,2,verified,ACE Inhibitors,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pharmacokinetics,Pharmacokinetics,8,verified,Pharmacokinetics,EXER_4121_concepts_raw.json
+EXER_4121,concept,Receptor Binding,Receptor Binding,2,verified,Receptor Binding,EXER_4121_concepts_raw.json
+EXER_4121,concept,Hypotensive Effects,Hypotensive Effects,1,verified,Hypotensive Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Calcium Channel Blockers,Calcium Channel Blockers,1,verified,Calcium Channel Blockers,EXER_4121_concepts_raw.json
+EXER_4121,concept,Nifedipine Mechanism,Nifedipine Mechanism,1,verified,Nifedipine Mechanism,EXER_4121_concepts_raw.json
+EXER_4121,concept,Verapamil Effects,Verapamil Effects,1,verified,Verapamil Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Diltiazem Pharmacokinetics,Diltiazem Pharmacokinetics,1,verified,Diltiazem Pharmacokinetics,EXER_4121_concepts_raw.json
+EXER_4121,concept,Calcium Antagonist Side,Calcium Antagonist Side,1,verified,Calcium Antagonist Side,EXER_4121_concepts_raw.json
+EXER_4121,concept,Cardiovascular Disease Risk,Cardiovascular Disease Risk,1,verified,Cardiovascular Disease Risk,EXER_4121_concepts_raw.json
+EXER_4121,concept,Hypertension Treatment Options,Hypertension Treatment Options,1,verified,Hypertension Treatment Options,EXER_4121_concepts_raw.json
+EXER_4121,concept,Vasodilator Therapy Benefits,Vasodilator Therapy Benefits,1,verified,Vasodilator Therapy Benefits,EXER_4121_concepts_raw.json
+EXER_4121,concept,Arterial Blood Pressure,Arterial Blood Pressure,1,verified,Arterial Blood Pressure,EXER_4121_concepts_raw.json
+EXER_4121,concept,Digitalis Mechanism,Digitalis Mechanism,1,verified,Digitalis Mechanism,EXER_4121_concepts_raw.json
+EXER_4121,concept,Nitrates Pharmacology,Nitrates Pharmacology,1,verified,Nitrates Pharmacology,EXER_4121_concepts_raw.json
+EXER_4121,concept,Cardiac Glycoside Effects,Cardiac Glycoside Effects,1,verified,Cardiac Glycoside Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Vasodilator Therapy Goals,Vasodilator Therapy Goals,1,verified,Vasodilator Therapy Goals,EXER_4121_concepts_raw.json
+EXER_4121,concept,Hemodynamic Response Patterns,Hemodynamic Response Patterns,1,verified,Hemodynamic Response Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Diuretic Mechanism of Action,Diuretic Mechanism of Action,1,verified,Diuretic Mechanism of Action,EXER_4121_concepts_raw.json
+EXER_4121,concept,Loop Diuretics Classification,Loop Diuretics Classification,1,verified,Loop Diuretics Classification,EXER_4121_concepts_raw.json
+EXER_4121,concept,Thiazide Diuretics Effects,Thiazide Diuretics Effects,1,verified,Thiazide Diuretics Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Potassium Loss Consequences,Potassium Loss Consequences,1,verified,Potassium Loss Consequences,EXER_4121_concepts_raw.json
+EXER_4121,concept,Electrolyte Imbalance Prevention,Electrolyte Imbalance Prevention,1,verified,Electrolyte Imbalance Prevention,EXER_4121_concepts_raw.json
+EXER_4121,concept,Statins Mechanism,Statins Mechanism,1,verified,Statins Mechanism,EXER_4121_concepts_raw.json
+EXER_4121,concept,Hyperlipidemia Causes,Hyperlipidemia Causes,1,verified,Hyperlipidemia Causes,EXER_4121_concepts_raw.json
+EXER_4121,concept,Fibrates Effects,Fibrates Effects,1,verified,Fibrates Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Bile Acid Sequestrants,Bile Acid Sequestrants,1,verified,Bile Acid Sequestrants,EXER_4121_concepts_raw.json
+EXER_4121,concept,Cholesterol Lowering Agents,Cholesterol Lowering Agents,1,verified,Cholesterol Lowering Agents,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pulmonary Drug Mechanisms,Pulmonary Drug Mechanisms,1,verified,Pulmonary Drug Mechanisms,EXER_4121_concepts_raw.json
+EXER_4121,concept,Asthma Medication Types,Asthma Medication Types,1,verified,Asthma Medication Types,EXER_4121_concepts_raw.json
+EXER_4121,concept,CNS Stimulant Effects,CNS Stimulant Effects,1,verified,CNS Stimulant Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Respiratory System Response,Respiratory System Response,1,verified,Respiratory System Response,EXER_4121_concepts_raw.json
+EXER_4121,concept,Drug Abuse Patterns,Drug Abuse Patterns,13,verified,Drug Abuse Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pharmacokinetics of Inhalers,Pharmacokinetics of Inhalers,1,verified,Pharmacokinetics of Inhalers,EXER_4121_concepts_raw.json
+EXER_4121,concept,Bronchodilator Action,Bronchodilator Action,1,verified,Bronchodilator Action,EXER_4121_concepts_raw.json
+EXER_4121,concept,Stimulant Withdrawal Symptoms,Stimulant Withdrawal Symptoms,1,verified,Stimulant Withdrawal Symptoms,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pulmonary Toxicity Factors,Pulmonary Toxicity Factors,1,verified,Pulmonary Toxicity Factors,EXER_4121_concepts_raw.json
+EXER_4121,concept,Anxiolytic medications,Anxiolytic medications,1,verified,Anxiolytic medications,EXER_4121_concepts_raw.json
+EXER_4121,concept,MAO inhibitor mechanisms,MAO inhibitor mechanisms,1,verified,MAO inhibitor mechanisms,EXER_4121_concepts_raw.json
+EXER_4121,concept,Antidepressant classifications,Antidepressant classifications,1,verified,Antidepressant classifications,EXER_4121_concepts_raw.json
+EXER_4121,concept,Selective serotonin reuptake inhibitors,Selective serotonin reuptake inhibitors,1,verified,Selective serotonin reuptake inhibitors,EXER_4121_concepts_raw.json
+EXER_4121,concept,Benzodiazepine withdrawal symptoms,Benzodiazepine withdrawal symptoms,1,verified,Benzodiazepine withdrawal symptoms,EXER_4121_concepts_raw.json
+EXER_4121,concept,Tricyclic antidepressant side effects,Tricyclic antidepressant side effects,1,verified,Tricyclic antidepressant side effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Monoamine oxidase inhibition,Monoamine oxidase inhibition,1,verified,Monoamine oxidase inhibition,EXER_4121_concepts_raw.json
+EXER_4121,concept,Serotonin-norepinephrine reuptake inhibitors,Serotonin-norepinephrine reuptake inhibitors,1,verified,Serotonin-norepinephrine reuptake inhibitors,EXER_4121_concepts_raw.json
+EXER_4121,concept,Anxiolytic abuse patterns,Anxiolytic abuse patterns,1,verified,Anxiolytic abuse patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Antibacterial Mechanisms,Antibacterial Mechanisms,1,verified,Antibacterial Mechanisms,EXER_4121_concepts_raw.json
+EXER_4121,concept,Antiviral Resistance Patterns,Antiviral Resistance Patterns,1,verified,Antiviral Resistance Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Drug Abuse Prevention,Drug Abuse Prevention,2,verified,Drug Abuse Prevention,EXER_4121_concepts_raw.json
+EXER_4121,concept,Pharmacokinetics of Antibiotics,Pharmacokinetics of Antibiotics,1,verified,Pharmacokinetics of Antibiotics,EXER_4121_concepts_raw.json
+EXER_4121,concept,Viral Load Reduction,Viral Load Reduction,1,verified,Viral Load Reduction,EXER_4121_concepts_raw.json
+EXER_4121,concept,Antimicrobial Stewardship,Antimicrobial Stewardship,1,verified,Antimicrobial Stewardship,EXER_4121_concepts_raw.json
+EXER_4121,concept,Infection Control Measures,Infection Control Measures,1,verified,Infection Control Measures,EXER_4121_concepts_raw.json
+EXER_4121,concept,Antibiotic Overuse Consequences,Antibiotic Overuse Consequences,1,verified,Antibiotic Overuse Consequences,EXER_4121_concepts_raw.json
+EXER_4121,concept,Antiviral Efficacy Comparison,Antiviral Efficacy Comparison,1,verified,Antiviral Efficacy Comparison,EXER_4121_concepts_raw.json
+EXER_4121,concept,Antidiabetic Medications,Antidiabetic Medications,1,verified,Antidiabetic Medications,EXER_4121_concepts_raw.json
+EXER_4121,concept,Insulin Resistance Mechanisms,Insulin Resistance Mechanisms,1,verified,Insulin Resistance Mechanisms,EXER_4121_concepts_raw.json
+EXER_4121,concept,Oral Hypoglycemic Agents,Oral Hypoglycemic Agents,1,verified,Oral Hypoglycemic Agents,EXER_4121_concepts_raw.json
+EXER_4121,concept,Diabetes Management Strategies,Diabetes Management Strategies,1,verified,Diabetes Management Strategies,EXER_4121_concepts_raw.json
+EXER_4121,concept,Biguanide Class Drugs,Biguanide Class Drugs,1,verified,Biguanide Class Drugs,EXER_4121_concepts_raw.json
+EXER_4121,concept,Sulfonylurea Action,Sulfonylurea Action,1,verified,Sulfonylurea Action,EXER_4121_concepts_raw.json
+EXER_4121,concept,Meglitinide Effects,Meglitinide Effects,1,verified,Meglitinide Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Thiazolidinedione Side Effects,Thiazolidinedione Side Effects,1,verified,Thiazolidinedione Side Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Nonsteroidal Anti-Inflammatory Agents,Nonsteroidal Anti-Inflammatory Agents,1,verified,Nonsteroidal Anti-Inflammatory Agents,EXER_4121_concepts_raw.json
+EXER_4121,concept,Corticosteroids in Musculoskeletal,Corticosteroids in Musculoskeletal,1,verified,Corticosteroids in Musculoskeletal,EXER_4121_concepts_raw.json
+EXER_4121,concept,Opioid Use and Abuse Patterns,Opioid Use and Abuse Patterns,1,verified,Opioid Use and Abuse Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Anabolic Steroid Effects on Body,Anabolic Steroid Effects on Body,1,verified,Anabolic Steroid Effects on Body,EXER_4121_concepts_raw.json
+EXER_4121,concept,Muscle Relaxant Medications Types,Muscle Relaxant Medications Types,1,verified,Muscle Relaxant Medications Types,EXER_4121_concepts_raw.json
+EXER_4121,concept,Bisphosphonates for Osteoporosis Treatment,Bisphosphonates for Osteoporosis Treatment,1,verified,Bisphosphonates for Osteoporosis Treatment,EXER_4121_concepts_raw.json
+EXER_4121,concept,Growth Hormone Receptor Agonists,Growth Hormone Receptor Agonists,1,verified,Growth Hormone Receptor Agonists,EXER_4121_concepts_raw.json
+EXER_4121,concept,Selective Estrogen Receptor Modulators,Selective Estrogen Receptor Modulators,1,verified,Selective Estrogen Receptor Modulators,EXER_4121_concepts_raw.json
+EXER_4121,concept,Performance Enhancement Methods,Performance Enhancement Methods,2,verified,Performance Enhancement Methods,EXER_4121_concepts_raw.json
+EXER_4121,concept,Anabolic Steroids Use,Anabolic Steroids Use,1,verified,Anabolic Steroids Use,EXER_4121_concepts_raw.json
+EXER_4121,concept,Corticosteroid Abuse Patterns,Corticosteroid Abuse Patterns,1,verified,Corticosteroid Abuse Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Hormone Replacement Therapy,Hormone Replacement Therapy,1,verified,Hormone Replacement Therapy,EXER_4121_concepts_raw.json
+EXER_4121,concept,Blood Doping Techniques,Blood Doping Techniques,1,verified,Blood Doping Techniques,EXER_4121_concepts_raw.json
+EXER_4121,concept,Stimulant Abuse Consequences,Stimulant Abuse Consequences,1,verified,Stimulant Abuse Consequences,EXER_4121_concepts_raw.json
+EXER_4121,concept,Prohibited Substances List,Prohibited Substances List,1,verified,Prohibited Substances List,EXER_4121_concepts_raw.json
+EXER_4121,concept,Athlete Substance Use,Athlete Substance Use,1,verified,Athlete Substance Use,EXER_4121_concepts_raw.json
+EXER_4121,concept,Nutritional Supplement Regulation,Nutritional Supplement Regulation,1,verified,Nutritional Supplement Regulation,EXER_4121_concepts_raw.json
+EXER_4121,concept,Prohibited Substances in Sports,Prohibited Substances in Sports,1,verified,Prohibited Substances in Sports,EXER_4121_concepts_raw.json
+EXER_4121,concept,Anabolic Steroid Abuse Patterns,Anabolic Steroid Abuse Patterns,1,verified,Anabolic Steroid Abuse Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Supplement Label Claims Analysis,Supplement Label Claims Analysis,1,verified,Supplement Label Claims Analysis,EXER_4121_concepts_raw.json
+EXER_4121,concept,Dietary Supplement Safety Concerns,Dietary Supplement Safety Concerns,1,verified,Dietary Supplement Safety Concerns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Ephedrine pharmacology,Ephedrine pharmacology,1,verified,Ephedrine pharmacology,EXER_4121_concepts_raw.json
+EXER_4121,concept,Caffeine metabolism pathways,Caffeine metabolism pathways,1,verified,Caffeine metabolism pathways,EXER_4121_concepts_raw.json
+EXER_4121,concept,Ma Huang plant properties,Ma Huang plant properties,1,verified,Ma Huang plant properties,EXER_4121_concepts_raw.json
+EXER_4121,concept,Adrenaline stimulant effects,Adrenaline stimulant effects,1,verified,Adrenaline stimulant effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Sympathetic nervous system response,Sympathetic nervous system response,1,verified,Sympathetic nervous system response,EXER_4121_concepts_raw.json
+EXER_4121,concept,Cardiovascular system impact,Cardiovascular system impact,1,verified,Cardiovascular system impact,EXER_4121_concepts_raw.json
+EXER_4121,concept,Central nervous system stimulation,Central nervous system stimulation,1,verified,Central nervous system stimulation,EXER_4121_concepts_raw.json
+EXER_4121,concept,Dopamine release mechanisms,Dopamine release mechanisms,1,verified,Dopamine release mechanisms,EXER_4121_concepts_raw.json
+EXER_4121,concept,Ephedrine withdrawal symptoms,Ephedrine withdrawal symptoms,1,verified,Ephedrine withdrawal symptoms,EXER_4121_concepts_raw.json
+EXER_4121,concept,Chromium Picolinate Effects,Chromium Picolinate Effects,1,verified,Chromium Picolinate Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Ginseng Use Patterns,Ginseng Use Patterns,1,verified,Ginseng Use Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Addiction Warning Signs,Addiction Warning Signs,1,verified,Addiction Warning Signs,EXER_4121_concepts_raw.json
+EXER_4121,concept,Substance Abuse Risks,Substance Abuse Risks,1,verified,Substance Abuse Risks,EXER_4121_concepts_raw.json
+EXER_4121,concept,Creatine Supplementation,Creatine Supplementation,1,verified,Creatine Supplementation,EXER_4121_concepts_raw.json
+EXER_4121,concept,Anabolic Steroid Use,Anabolic Steroid Use,1,verified,Anabolic Steroid Use,EXER_4121_concepts_raw.json
+EXER_4121,concept,Steroid Abuse Patterns,Steroid Abuse Patterns,2,verified,Steroid Abuse Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Muscle Building Agents,Muscle Building Agents,1,verified,Muscle Building Agents,EXER_4121_concepts_raw.json
+EXER_4121,concept,Performance Enhancing Drugs,Performance Enhancing Drugs,1,verified,Performance Enhancing Drugs,EXER_4121_concepts_raw.json
+EXER_4121,concept,Human Growth Hormone,Human Growth Hormone,2,verified,Human Growth Hormone,EXER_4121_concepts_raw.json
+EXER_4121,concept,DHEA Use Patterns,DHEA Use Patterns,1,verified,DHEA Use Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Hormone Abuse Risks,Hormone Abuse Risks,1,verified,Hormone Abuse Risks,EXER_4121_concepts_raw.json
+EXER_4121,concept,Growth Hormone Regulation,Growth Hormone Regulation,1,verified,Growth Hormone Regulation,EXER_4121_concepts_raw.json
+EXER_4121,concept,DHEA Side Effects,DHEA Side Effects,1,verified,DHEA Side Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Ginkgo Biloba Effects,Ginkgo Biloba Effects,1,verified,Ginkgo Biloba Effects,EXER_4121_concepts_raw.json
+EXER_4121,concept,Saw Palmetto Benefits,Saw Palmetto Benefits,1,verified,Saw Palmetto Benefits,EXER_4121_concepts_raw.json
+EXER_4121,concept,Herbal Supplement Risks,Herbal Supplement Risks,1,verified,Herbal Supplement Risks,EXER_4121_concepts_raw.json
+EXER_4121,concept,Elderberry Use Patterns,Elderberry Use Patterns,1,verified,Elderberry Use Patterns,EXER_4121_concepts_raw.json
+EXER_4121,concept,Phytochemical Properties,Phytochemical Properties,1,verified,Phytochemical Properties,EXER_4121_concepts_raw.json

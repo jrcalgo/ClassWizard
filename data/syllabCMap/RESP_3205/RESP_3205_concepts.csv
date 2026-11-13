@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RESP_3205,topic,Cardiopulmonary Physiology,cardiopulmonary physiology,1,verified,Cardiopulmonary Physiology,RESP_3205_concepts_raw.json
+RESP_3205,topic,Chronic Respiratory Disorders,chronic respiratory disorders,1,verified,Chronic Respiratory Disorders,RESP_3205_concepts_raw.json
+RESP_3205,topic,Acute Respiratory Disorders,Acute Respiratory Disorders,1,inferred,Acute Respiratory Disorders,RESP_3205_concepts_raw.json
+RESP_3205,topic,Pharmacology Fundamentals,Pharmacology Fundamentals,1,inferred,Pharmacology Fundamentals,RESP_3205_concepts_raw.json
+RESP_3205,topic,Cardiopulmonary Pharmacology,Cardiopulmonary Pharmacology,1,inferred,Cardiopulmonary Pharmacology,RESP_3205_concepts_raw.json
+RESP_3205,topic,Advanced Respiratory Agents,Advanced Respiratory Agents,1,inferred,Advanced Respiratory Agents,RESP_3205_concepts_raw.json
+RESP_3205,topic,Evidence-Based Practice Guidelines,Evidence-Based Practice Guidelines,1,inferred,Evidence-Based Practice Guidelines,RESP_3205_concepts_raw.json
+RESP_3205,topic,Case Studies and Applications,Case Studies and Applications,1,inferred,Case Studies and Applications,RESP_3205_concepts_raw.json
+RESP_3205,concept,Respiratory System Anatomy,Respiratory System Anatomy,1,inferred,Respiratory System Anatomy,RESP_3205_concepts_raw.json
+RESP_3205,concept,Pulmonary Circulation Overview,Pulmonary Circulation Overview,1,inferred,Pulmonary Circulation Overview,RESP_3205_concepts_raw.json
+RESP_3205,concept,Cardiac Output Regulation,Cardiac Output Regulation,1,inferred,Cardiac Output Regulation,RESP_3205_concepts_raw.json
+RESP_3205,concept,Asthma Pathophysiology,Asthma Pathophysiology,1,inferred,Asthma Pathophysiology,RESP_3205_concepts_raw.json
+RESP_3205,concept,Chronic Obstructive Pulmonary Disease (COPD,Chronic Obstructive Pulmonary Disease (COPD,1,inferred,Chronic Obstructive Pulmonary Disease (COPD),RESP_3205_concepts_raw.json
+RESP_3205,concept,Pneumonia Etiology and Treatment,Pneumonia Etiology and Treatment,1,inferred,Pneumonia Etiology and Treatment,RESP_3205_concepts_raw.json
+RESP_3205,concept,Chronic Bronchitis Management,Chronic Bronchitis Management,1,inferred,Chronic Bronchitis Management,RESP_3205_concepts_raw.json
+RESP_3205,concept,Emphysema Pathophysiology and Treatment,Emphysema Pathophysiology and Treatment,1,inferred,Emphysema Pathophysiology and Treatment,RESP_3205_concepts_raw.json
+RESP_3205,concept,Cystic Fibrosis Overview,Cystic Fibrosis Overview,1,inferred,Cystic Fibrosis Overview,RESP_3205_concepts_raw.json
+RESP_3205,concept,Drug Classification System,Drug Classification System,1,inferred,Drug Classification System,RESP_3205_concepts_raw.json
+RESP_3205,concept,Pharmacokinetics and Pharmacodynamics,Pharmacokinetics and Pharmacodynamics,1,inferred,Pharmacokinetics and Pharmacodynamics,RESP_3205_concepts_raw.json
+RESP_3205,concept,Therapeutic Index Explanation,Therapeutic Index Explanation,1,inferred,Therapeutic Index Explanation,RESP_3205_concepts_raw.json
+RESP_3205,concept,Bronchodilators Mechanism of Action,Bronchodilators Mechanism of Action,1,inferred,Bronchodilators Mechanism of Action,RESP_3205_concepts_raw.json
+RESP_3205,concept,Corticosteroids in Respiratory Disease,Corticosteroids in Respiratory Disease,1,inferred,Corticosteroids in Respiratory Disease,RESP_3205_concepts_raw.json
+RESP_3205,concept,Pharmacotherapy for Heart Failure,Pharmacotherapy for Heart Failure,1,inferred,Pharmacotherapy for Heart Failure,RESP_3205_concepts_raw.json
+RESP_3205,concept,Inhaled Corticosteroids Indications,Inhaled Corticosteroids Indications,1,inferred,Inhaled Corticosteroids Indications,RESP_3205_concepts_raw.json
+RESP_3205,concept,Long-Acting Beta-Agonists (LABAs,Long-Acting Beta-Agonists (LABAs,1,inferred,Long-Acting Beta-Agonists (LABAs),RESP_3205_concepts_raw.json
+RESP_3205,concept,Mast Cell Stabilizers Overview,Mast Cell Stabilizers Overview,1,inferred,Mast Cell Stabilizers Overview,RESP_3205_concepts_raw.json
+RESP_3205,concept,Clinical Practice Guidelines Explanation,Clinical Practice Guidelines Explanation,1,inferred,Clinical Practice Guidelines Explanation,RESP_3205_concepts_raw.json
+RESP_3205,concept,Evidence-Based Medicine Principles,Evidence-Based Medicine Principles,1,inferred,Evidence-Based Medicine Principles,RESP_3205_concepts_raw.json
+RESP_3205,concept,Patient Care Quality Improvement,Patient Care Quality Improvement,1,inferred,Patient Care Quality Improvement,RESP_3205_concepts_raw.json

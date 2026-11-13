@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LEGL_1105,topic,Arguments and Argument Components,arguments and argument components,1,verified,Arguments and Argument Components,LEGL_1105_concepts_raw.json
+LEGL_1105,topic,Logic,Logic,2,verified,Introduction to Logic,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,categorical logic,categorical logic,1,verified,categorical logic,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,informal fallacies,informal fallacies,1,verified,informal fallacies,LEGL_1105_concepts_raw.json
+LEGL_1105,topic,Identifying Arguments,Identifying Arguments,1,inferred,Identifying Arguments,LEGL_1105_concepts_raw.json
+LEGL_1105,topic,Evaluating Arguments,Evaluating Arguments,1,inferred,Evaluating Arguments,LEGL_1105_concepts_raw.json
+LEGL_1105,topic,Fallacies in Argumentation,Fallacies in Argumentation,1,inferred,Fallacies in Argumentation,LEGL_1105_concepts_raw.json
+LEGL_1105,topic,Categorical Logic Basics,Categorical Logic Basics,1,inferred,Categorical Logic Basics,LEGL_1105_concepts_raw.json
+LEGL_1105,topic,Constructing Arguments,Constructing Arguments,1,inferred,Constructing Arguments,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,argument structure,Argument Structure,1,inferred,argument structure,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,argument validity,Argument Validity,1,inferred,argument validity,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,particular claims,Particular Claims,1,inferred,particular claims,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,negative terms,Negative Terms,1,inferred,negative terms,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,syllogisms,Syllogisms,1,inferred,syllogisms,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,ad hominem fallacy,Ad Hominem Fallacy,1,inferred,ad hominem fallacy,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,straw man fallacy,Straw Man Fallacy,1,inferred,straw man fallacy,LEGL_1105_concepts_raw.json
+LEGL_1105,concept,false dilemma,False Dilemma,1,inferred,false dilemma,LEGL_1105_concepts_raw.json

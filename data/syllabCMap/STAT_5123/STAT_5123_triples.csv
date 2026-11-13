@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_5123,Parameter Estimation,topic,PREREQUISITE_OF,hypothesis testing and confidence intervals,concept,A taught first,,STAT_5123_triples_raw.json
+STAT_5123,Parameter Estimation,topic,PREREQUISITE_OF,ANOVA table,concept,A taught first,,STAT_5123_triples_raw.json
+STAT_5123,Parameter Estimation,topic,PREREQUISITE_OF,model diagnostics,concept,A taught first,,STAT_5123_triples_raw.json
+STAT_5123,Parameter Estimation,topic,PREREQUISITE_OF,transformations,concept,A taught first,,STAT_5123_triples_raw.json
+STAT_5123,Parameter Estimation,topic,PREREQUISITE_OF,Leverages and Influential Points,topic,A taught first,,STAT_5123_triples_raw.json
+STAT_5123,Parameter Estimation,topic,PREREQUISITE_OF,multicollinearity,concept,A taught first,,STAT_5123_triples_raw.json
+STAT_5123,Parameter Estimation,topic,PREREQUISITE_OF,Dimension Reduction Techniques,topic,A taught first,,STAT_5123_triples_raw.json
+STAT_5123,Parameter Estimation,topic,PREREQUISITE_OF,categorical predictors,concept,A taught first,,STAT_5123_triples_raw.json
+STAT_5123,model diagnostics,concept,PART_OF,hypothesis testing and confidence intervals,concept,,,STAT_5123_triples_raw.json
+STAT_5123,transformations,concept,PART_OF,hypothesis testing and confidence intervals,concept,,,STAT_5123_triples_raw.json

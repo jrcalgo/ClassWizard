@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_6270,Experimental Design Principles,method,PREREQUISITE_OF,Quantitative Data Analysis,method,same unit,,BIOL_6270_triples_raw.json
+BIOL_6270,DNA Isolation and Purification,concept,PREREQUISITE_OF,Gene Expression Analysis,method,same unit,,BIOL_6270_triples_raw.json
+BIOL_6270,Graduate Program Expectations,concept,PART_OF,Graduate Studies,topic,,,BIOL_6270_triples_raw.json
+BIOL_6270,Course Objectives and Outcomes,concept,PART_OF,Graduate Studies,topic,,,BIOL_6270_triples_raw.json
+BIOL_6270,Cellular Structure and Function,concept,PART_OF,Biological Systems and Processes,topic,,,BIOL_6270_triples_raw.json
+BIOL_6270,DNA Isolation and Purification,concept,PART_OF,Molecular Biology Techniques,topic,,,BIOL_6270_triples_raw.json
+BIOL_6270,PCR Amplification Methods,method,PART_OF,Molecular Biology Techniques,topic,,,BIOL_6270_triples_raw.json
+BIOL_6270,Experimental Design Principles,method,PART_OF,Research Methods in Biology,topic,,,BIOL_6270_triples_raw.json
+BIOL_6270,Quantitative Data Analysis,method,PART_OF,Research Methods in Biology,topic,,,BIOL_6270_triples_raw.json
+BIOL_6270,Hypothesis Testing Procedures,method,PART_OF,Statistical Analysis in Biology,topic,,,BIOL_6270_triples_raw.json
+BIOL_6270,Confidence Interval Estimation,method,PART_OF,Statistical Analysis in Biology,topic,,,BIOL_6270_triples_raw.json
+BIOL_6270,Regression Analysis Techniques,method,PART_OF,Statistical Analysis in Biology,topic,,,BIOL_6270_triples_raw.json

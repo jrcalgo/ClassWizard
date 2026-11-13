@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTA_4902,interdependent formal and conceptual relationships,concept,PREREQUISITE_OF,BFA-Level Studio Work,method,B mentioned first,,ARTA_4902_triples_raw.json
+ARTA_4902,Theoretical Context,concept,PREREQUISITE_OF,interdependent formal and conceptual relationships,concept,A mentioned first,,ARTA_4902_triples_raw.json
+ARTA_4902,Artistic Research Methods,topic,PREREQUISITE_OF,Conceptual Frameworks,concept,same unit,,ARTA_4902_triples_raw.json
+ARTA_4902,Project Outline Development,method,PART_OF,Work Schedule Creation,topic,,,ARTA_4902_triples_raw.json
+ARTA_4902,Time Management Techniques,method,PART_OF,Work Schedule Creation,topic,,,ARTA_4902_triples_raw.json
+ARTA_4902,Senior Exhibition Planning,topic,PART_OF,Exhibition Design Principles,topic,,,ARTA_4902_triples_raw.json
+ARTA_4902,Image Documentation Techniques,method,PART_OF,Digital Portfolio Design,method,,,ARTA_4902_triples_raw.json
+ARTA_4902,BFA-Level Studio Work,method,SUBTYPE_OF,interdependent formal and conceptual relationships,concept,,,ARTA_4902_triples_raw.json
+ARTA_4902,Conceptual Frameworks,concept,SUBTYPE_OF,Theoretical Context,concept,,,ARTA_4902_triples_raw.json
+ARTA_4902,Interdependent Artistic Elements,method,SUBTYPE_OF,BFA-Level Studio Work,method,,,ARTA_4902_triples_raw.json
+ARTA_4902,Effective Communication Techniques,method,SUBTYPE_OF,Arts-Related Topic Discussion,method,,,ARTA_4902_triples_raw.json
+ARTA_4902,Digital Portfolio Design,method,SUBTYPE_OF,Labeling and Organization,method,,,ARTA_4902_triples_raw.json
+ARTA_4902,Digital Presentation Tools,method,USED_FOR,Arts-Related Topic Discussion,method,,,ARTA_4902_triples_raw.json

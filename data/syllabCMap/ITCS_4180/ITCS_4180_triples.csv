@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_4180,Regression Analysis,concept,PREREQUISITE_OF,Multiple Linear Regression,concept,same unit,,ITCS_4180_triples_raw.json
+ITCS_4180,Regression Analysis,concept,PREREQUISITE_OF,Model Evaluation Metrics,concept,same unit,,ITCS_4180_triples_raw.json
+ITCS_4180,Software Engineering,concept,PREREQUISITE_OF,Mobile Application Development,topic,A mentioned first,,ITCS_4180_triples_raw.json
+ITCS_4180,System Requirements,concept,PREREQUISITE_OF,Use Cases,concept,same unit,,ITCS_4180_triples_raw.json
+ITCS_4180,Class Diagrams,concept,PREREQUISITE_OF,Use Cases,concept,same unit,,ITCS_4180_triples_raw.json
+ITCS_4180,In Class Evaluation,concept,PART_OF,Student Participation,concept,,,ITCS_4180_triples_raw.json
+ITCS_4180,Regression Analysis,concept,PART_OF,Model Evaluation Metrics,concept,,,ITCS_4180_triples_raw.json
+ITCS_4180,Multiple Linear Regression,concept,PART_OF,Model Evaluation Metrics,concept,,,ITCS_4180_triples_raw.json
+ITCS_4180,Data Preprocessing,concept,PART_OF,Machine Learning,concept,,,ITCS_4180_triples_raw.json
+ITCS_4180,Decision Tree Algorithm,concept,PART_OF,Machine Learning,concept,,,ITCS_4180_triples_raw.json
+ITCS_4180,Random Forest Classifier,concept,PART_OF,Machine Learning,concept,,,ITCS_4180_triples_raw.json
+ITCS_4180,Support Vector Machines,concept,PART_OF,Machine Learning,concept,,,ITCS_4180_triples_raw.json

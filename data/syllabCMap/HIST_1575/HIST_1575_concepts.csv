@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HIST_1575,topic,American History,American History,1,verified,American History,HIST_1575_concepts_raw.json
+HIST_1575,topic,Charlotte Core,Charlotte Core,4,verified,The Charlotte Core,HIST_1575_concepts_raw.json
+HIST_1575,topic,Critical Thinking Skills,critical thinking skills,1,verified,Critical Thinking Skills,HIST_1575_concepts_raw.json
+HIST_1575,topic,Engagement Across Perspectives,engagement across perspectives,2,verified,Engagement Across Perspectives,HIST_1575_concepts_raw.json
+HIST_1575,topic,American History Documents,American History Documents,1,inferred,American History Documents,HIST_1575_concepts_raw.json
+HIST_1575,topic,Exam 1 Preparation,Exam 1 Preparation,1,inferred,Exam 1 Preparation,HIST_1575_concepts_raw.json
+HIST_1575,topic,Mid-Semester Review,Mid-Semester Review,1,inferred,Mid-Semester Review,HIST_1575_concepts_raw.json
+HIST_1575,topic,Exam 2 Preparation,Exam 2 Preparation,1,inferred,Exam 2 Preparation,HIST_1575_concepts_raw.json
+HIST_1575,topic,Final Exam Preparation,Final Exam Preparation,1,inferred,Final Exam Preparation,HIST_1575_concepts_raw.json
+HIST_1575,concept,Analyzing Primary Sources,Analyzing Primary Sources,1,inferred,Analyzing Primary Sources,HIST_1575_concepts_raw.json
+HIST_1575,concept,Evaluating Historical Context,Evaluating Historical Context,1,inferred,Evaluating Historical Context,HIST_1575_concepts_raw.json
+HIST_1575,concept,Identifying Bias and Perspective,Identifying Bias and Perspective,1,inferred,Identifying Bias and Perspective,HIST_1575_concepts_raw.json
+HIST_1575,concept,Understanding Diverse Viewpoints,Understanding Diverse Viewpoints,1,inferred,Understanding Diverse Viewpoints,HIST_1575_concepts_raw.json
+HIST_1575,concept,Recognizing Cultural Differences,Recognizing Cultural Differences,1,inferred,Recognizing Cultural Differences,HIST_1575_concepts_raw.json
+HIST_1575,concept,Approaching Problems Creatively,Approaching Problems Creatively,1,inferred,Approaching Problems Creatively,HIST_1575_concepts_raw.json
+HIST_1575,concept,Context of Historical Documents,Context of Historical Documents,1,inferred,Context of Historical Documents,HIST_1575_concepts_raw.json
+HIST_1575,concept,Creation and Legacy of Documents,Creation and Legacy of Documents,1,inferred,Creation and Legacy of Documents,HIST_1575_concepts_raw.json
+HIST_1575,concept,Significance of Key Documents,Significance of Key Documents,1,inferred,Significance of Key Documents,HIST_1575_concepts_raw.json
+HIST_1575,concept,Reviewing Course Material,Reviewing Course Material,2,inferred,Reviewing Course Material,HIST_1575_concepts_raw.json
+HIST_1575,concept,Analyzing Document Significance,Analyzing Document Significance,2,inferred,Analyzing Document Significance,HIST_1575_concepts_raw.json
+HIST_1575,concept,Evaluating Historical Impact,Evaluating Historical Impact,2,inferred,Evaluating Historical Impact,HIST_1575_concepts_raw.json

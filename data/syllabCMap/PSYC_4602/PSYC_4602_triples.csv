@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_4602,cognitive mechanisms,concept,PREREQUISITE_OF,integrated psychological processes,concept,A taught first,,PSYC_4602_triples_raw.json

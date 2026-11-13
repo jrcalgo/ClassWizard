@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RSCH_6110,topic,research methods,research methods,1,verified,research methods,RSCH_6110_concepts_raw.json
+RSCH_6110,topic,data processing,data processing,2,verified,data processing,RSCH_6110_concepts_raw.json
+RSCH_6110,measure,descriptive statistics,descriptive statistics,1,verified,descriptive statistics,RSCH_6110_concepts_raw.json
+RSCH_6110,measure,inferential statistics,inferential statistics,2,verified,inferential statistics,RSCH_6110_concepts_raw.json
+RSCH_6110,concept,probability theory,probability theory,2,verified,probability theory,RSCH_6110_concepts_raw.json
+RSCH_6110,method,hypothesis testing,hypothesis testing,2,verified,hypothesis testing,RSCH_6110_concepts_raw.json
+RSCH_6110,concept,sampling distributions,sampling distributions,2,verified,sampling distributions,RSCH_6110_concepts_raw.json
+RSCH_6110,measure,confidence interval estimation,Confidence interval estimation,1,verified,confidence interval estimation,RSCH_6110_concepts_raw.json
+RSCH_6110,topic,central tendency and variability,Central tendency and variability,1,verified,central tendency and variability,RSCH_6110_concepts_raw.json
+RSCH_6110,topic,frequency distributions,Frequency distributions,1,verified,frequency distributions,RSCH_6110_concepts_raw.json
+RSCH_6110,topic,graphical representations of data,graphical representations of data,2,verified,graphical representations of data,RSCH_6110_concepts_raw.json
+RSCH_6110,method,APA format for tables,APA format for tables,1,verified,APA format for tables,RSCH_6110_concepts_raw.json
+RSCH_6110,concept,random variables,random variables,1,verified,random variables,RSCH_6110_concepts_raw.json
+RSCH_6110,concept,central tendency,Central tendency,1,verified,central tendency,RSCH_6110_concepts_raw.json
+RSCH_6110,concept,variability,variability,1,verified,variability,RSCH_6110_concepts_raw.json
+RSCH_6110,method,SPSS,SPSS,5,verified,SPSS,RSCH_6110_concepts_raw.json
+RSCH_6110,method,data analysis,data analysis,2,verified,data analysis,RSCH_6110_concepts_raw.json
+RSCH_6110,method,statistical procedures,statistical procedures,1,verified,statistical procedures,RSCH_6110_concepts_raw.json
+RSCH_6110,method,data entry,data entry,1,verified,data entry,RSCH_6110_concepts_raw.json
+RSCH_6110,method,recoding and variable transformation,recoding and variable transformation,1,verified,recoding and variable transformation,RSCH_6110_concepts_raw.json
+RSCH_6110,method,writing statistical statements,writing statistical statements,1,verified,writing statistical statements,RSCH_6110_concepts_raw.json
+RSCH_6110,measure,contingency tables,contingency tables,2,verified,contingency tables,RSCH_6110_concepts_raw.json
+RSCH_6110,measure,correlations,correlations,2,verified,correlations,RSCH_6110_concepts_raw.json
+RSCH_6110,measure,simple linear regression,simple linear regression,1,verified,simple linear regression,RSCH_6110_concepts_raw.json
+RSCH_6110,tool,SASS,SASS,1,verified,SASS,RSCH_6110_concepts_raw.json
+RSCH_6110,tool,US census,US census,1,verified,US census,RSCH_6110_concepts_raw.json

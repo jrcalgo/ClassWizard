@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GERM_3670,German - American Culture,topic,PREREQUISITE_OF,German Culture,topic,B mentioned first,,GERM_3670_triples_raw.json
+GERM_3670,American Business Culture Overview,topic,PREREQUISITE_OF,Engineering in Germany,topic,A taught first,,GERM_3670_triples_raw.json
+GERM_3670,Engineering in Germany,topic,PREREQUISITE_OF,German-American Business Relations,topic,A taught first,,GERM_3670_triples_raw.json
+GERM_3670,German-American Business Relations,topic,PREREQUISITE_OF,Cultural Competence in the Workplace,topic,A taught first,,GERM_3670_triples_raw.json
+GERM_3670,German - American Culture,topic,PART_OF,German Culture,topic,,,GERM_3670_triples_raw.json
+GERM_3670,American Business Culture Overview,topic,PART_OF,German Culture,topic,,,GERM_3670_triples_raw.json
+GERM_3670,German-American Business Relations,topic,PART_OF,German Culture,topic,,,GERM_3670_triples_raw.json
+GERM_3670,Cultural Competence in the Workplace,topic,PART_OF,German Culture,topic,,,GERM_3670_triples_raw.json

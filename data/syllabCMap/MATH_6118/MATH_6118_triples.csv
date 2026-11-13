@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_6118,Euclidean geometry basics,concept,PREREQUISITE_OF,Analytical Geometry Fundamentals,topic,A taught first,,MATH_6118_triples_raw.json
+MATH_6118,Euclidean geometry basics,concept,PREREQUISITE_OF,Transformational Geometry Principles,topic,A taught first,,MATH_6118_triples_raw.json
+MATH_6118,Euclidean geometry basics,concept,PREREQUISITE_OF,Non-Euclidean Geometries Overview,topic,A taught first,,MATH_6118_triples_raw.json
+MATH_6118,Euclidean geometry basics,concept,PREREQUISITE_OF,Neutral Geometry Fundamentals,topic,A taught first,,MATH_6118_triples_raw.json
+MATH_6118,Euclidean geometry basics,concept,PREREQUISITE_OF,Hyperbolic Geometry Concepts,topic,A taught first,,MATH_6118_triples_raw.json
+MATH_6118,Euclidean geometry basics,concept,PREREQUISITE_OF,Elliptical Geometry Fundamentals,topic,A taught first,,MATH_6118_triples_raw.json
+MATH_6118,Euclidean geometry basics,concept,PREREQUISITE_OF,Riemannian Geometry Overview,topic,A taught first,,MATH_6118_triples_raw.json
+MATH_6118,Points and lines definitions,concept,PART_OF,Plane and space concepts,concept,,,MATH_6118_triples_raw.json
+MATH_6118,Coordinate systems introduction,concept,PART_OF,Analytical Geometry Fundamentals,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Graphing linear equations,concept,PART_OF,Analytical Geometry Fundamentals,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Neutral geometry introduction,concept,PART_OF,Non-Euclidean Geometries Overview,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Riemannian geometry basics,concept,PART_OF,Riemannian Geometry Overview,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Axioms and postulates review,concept,PART_OF,Neutral Geometry Fundamentals,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Properties of neutral geometry,concept,PART_OF,Neutral Geometry Fundamentals,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Hyperbolic plane introduction,concept,PART_OF,Hyperbolic Geometry Concepts,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Hyperbolic trigonometry basics,concept,PART_OF,Hyperbolic Geometry Concepts,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Spherical geometry introduction,concept,PART_OF,Elliptical Geometry Fundamentals,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Elliptical trigonometry basics,concept,PART_OF,Elliptical Geometry Fundamentals,topic,,,MATH_6118_triples_raw.json
+MATH_6118,Differential geometry introduction,concept,PART_OF,Riemannian Geometry Overview,topic,,,MATH_6118_triples_raw.json

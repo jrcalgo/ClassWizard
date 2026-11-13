@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OSCI_8611,motivation,topic,PREREQUISITE_OF,leadership,topic,same unit,,OSCI_8611_triples_raw.json
+OSCI_8611,stress,topic,PREREQUISITE_OF,job design,topic,A mentioned first,,OSCI_8611_triples_raw.json
+OSCI_8611,employee attitudes and emotions,topic,PREREQUISITE_OF,teamwork,topic,A mentioned first,,OSCI_8611_triples_raw.json
+OSCI_8611,Emotion Regulation,concept,USED_FOR,leadership,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Moral Emotions,concept,USED_FOR,leadership,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Organizational Commitment,concept,USED_FOR,motivation,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Perceived Organizational Support,concept,USED_FOR,motivation,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Motivation Theories,concept,USED_FOR,motivation,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Leadership Styles,concept,USED_FOR,leadership,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Dyadic Relationships,concept,USED_FOR,leadership,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Context Deficit,concept,USED_FOR,decision making,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Methodological Diversity,concept,USED_FOR,decision making,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Multilevel Analysis,concept,USED_FOR,decision making,topic,,,OSCI_8611_triples_raw.json
+OSCI_8611,Emergent Leadership Categorizations,concept,USED_FOR,leadership,topic,,,OSCI_8611_triples_raw.json

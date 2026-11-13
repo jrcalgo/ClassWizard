@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DSBA 6277 - concept map</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:#222;background:#fff}
+ header{padding:12px 16px;border-bottom:1px solid #ddd}
+ h1{font-size:18px;margin:0 0 4px} .sub{color:#666;font-size:13px}
+ #map{height:72vh;border-bottom:1px solid #ddd}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;padding:8px 16px;font-size:12px}
+ .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+ .ln{display:inline-block;width:18px;height:3px;margin-right:5px;vertical-align:3px}
+ section{padding:8px 16px 24px} h2{font-size:15px;margin:16px 0 6px}
+ table{border-collapse:collapse;font-size:13px} td,th{border:1px solid #ddd;padding:3px 8px;text-align:left}
+ th{background:#f5f5f5} #err{display:none;padding:16px;color:#a00}
+</style></head><body>
+<header><h1>DSBA 6277</h1><div class="sub">10 concepts, 2 relations &middot; drag to move, scroll to zoom, hover for details</div></header>
+<div id="err">The interactive map needs internet access to load its drawing library (unpkg.com).
+Open DSBA_6277_graph.png instead; the tables below list the same content.</div>
+<div id="map"></div>
+<div class="legend"><span><span class='sw' style='background:#4C78A8'></span>topic</span><span><span class='sw' style='background:#59A14F'></span>concept</span><span><span class='sw' style='background:#F28E2B'></span>method</span><span><span class='ln' style='background:#1F77B4'></span>PART_OF</span><span><span class='ln' style='background:#FF7F0E'></span>USED_FOR</span><span class='sub'>dashed border = not verified in the syllabus text</span></div>
+<section><h2>Relations</h2><table><tr><th>subject</th><th>relation</th><th>object</th></tr><tr><td>Social listening</td><td>PART_OF</td><td>Text analytics</td></tr><tr><td>Text analytics</td><td>USED_FOR</td><td>Social listening</td></tr></table><h2>Concepts</h2><table><tr><th>concept</th><th>type</th><th>status</th><th>occurrences</th></tr><tr><td>Developing Social Media Strategy</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Influencer Marketing</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Social Advertising</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Social media strategies and objectives</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Social platforms</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Traditional media vs. social media</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>Cluster analysis</td><td>method</td><td>verified</td><td>1</td></tr><tr><td>Regression analysis</td><td>method</td><td>verified</td><td>1</td></tr><tr><td>Social listening</td><td>method</td><td>verified</td><td>1</td></tr><tr><td>Text analytics</td><td>method</td><td>verified</td><td>1</td></tr></table></section>
+<script>
+const DATA = {"nodes": [{"id": "traditional media vs. social media", "label": "Traditional media vs. social media", "title": "Traditional media vs. social media\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 1100.0, "y": 204.0}, {"id": "social media strategies and objectives", "label": "Social media strategies and objectives", "title": "Social media strategies and objectives\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 700.0, "y": 204.0}, {"id": "social platforms", "label": "Social platforms", "title": "Social platforms\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 900.0000000000001, "y": 204.0}, {"id": "social advertising", "label": "Social Advertising", "title": "Social Advertising\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 500.0, "y": 204.0}, {"id": "influencer marketing", "label": "Influencer Marketing", "title": "Influencer Marketing\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 300.0, "y": 204.0}, {"id": "developing social media strategy", "label": "Developing Social Media Strategy", "title": "Developing Social Media Strategy\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 100.0, "y": 204.0}, {"id": "social listening", "label": "Social listening", "title": "Social listening\ntype: method\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#F28E2B", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 700.0, "y": -340.0}, {"id": "text analytics", "label": "Text analytics", "title": "Text analytics\ntype: method\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#F28E2B", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 700.0, "y": -170.0}, {"id": "regression analysis", "label": "Regression analysis", "title": "Regression analysis\ntype: method\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#F28E2B", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 100.0, "y": 323.0}, {"id": "cluster analysis", "label": "Cluster analysis", "title": "Cluster analysis\ntype: method\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#F28E2B", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 1300.0, "y": 204.0}, {"id": "__alone__", "label": "concepts with no relation:", "shape": "text", "font": {"color": "#666", "size": 13}, "x": 84.0, "y": 118.99999999999999, "fixed": true, "chosen": false}], "edges": [{"from": "social listening", "to": "text analytics", "label": "PART_OF", "color": "#1F77B4", "smooth": {"enabled": true, "type": "curvedCW", "roundness": 0.25}, "title": "Social listening PART_OF Text analytics"}, {"from": "text analytics", "to": "social listening", "label": "USED_FOR", "color": "#FF7F0E", "smooth": {"enabled": true, "type": "curvedCW", "roundness": 0.25}, "title": "Text analytics USED_FOR Social listening"}]};
+if (typeof vis === "undefined") { document.getElementById("err").style.display = "block";
+  document.getElementById("map").style.display = "none"; }
+else {
+  const nodes = new vis.DataSet(DATA.nodes), edges = new vis.DataSet(DATA.edges);
+  const net = new vis.Network(document.getElementById("map"), {nodes, edges}, {
+    nodes: {shape: "box", margin: 8, font: {color: "#fff", size: 14}, widthConstraint: {maximum: 180}},
+    edges: {arrows: {to: {enabled: true, scaleFactor: 0.7}}, font: {size: 11, align: "middle",
+            background: "rgba(255,255,255,0.85)", multi: false}, width: 1.6},
+    physics: false,          // positions come from the same layered layout as the PNG
+    layout: {improvedLayout: false},
+    interaction: {hover: true, tooltipDelay: 120}
+  });
+  net.once("afterDrawing", () => net.fit());
+}
+</script></body></html>

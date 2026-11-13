@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_3220,story structure,concept,PREREQUISITE_OF,screenplay format,concept,A mentioned first,,FILM_3220_triples_raw.json
+FILM_3220,screenplay format,concept,PREREQUISITE_OF,short script,concept,A mentioned first,,FILM_3220_triples_raw.json
+FILM_3220,short script,concept,PREREQUISITE_OF,professional screenwriting,concept,A mentioned first,,FILM_3220_triples_raw.json
+FILM_3220,Film History,topic,PART_OF,Cinematic Language,topic,,,FILM_3220_triples_raw.json
+FILM_3220,Film Genre Theory,topic,PART_OF,Cinematic Language,topic,,,FILM_3220_triples_raw.json
+FILM_3220,Narrative Structure,topic,PART_OF,Cinematic Language,topic,,,FILM_3220_triples_raw.json
+FILM_3220,Visual Storytelling,topic,PART_OF,Cinematic Language,topic,,,FILM_3220_triples_raw.json
+FILM_3220,Short Film Structure,topic,PART_OF,Cinematic Language,topic,,,FILM_3220_triples_raw.json
+FILM_3220,Idea Generation Techniques,topic,PART_OF,Cinematic Language,topic,,,FILM_3220_triples_raw.json
+FILM_3220,Logistics Planning,topic,PART_OF,Cinematic Language,topic,,,FILM_3220_triples_raw.json
+FILM_3220,Film Script Elements,topic,PART_OF,Cinematic Language,topic,,,FILM_3220_triples_raw.json
+FILM_3220,Visual Storytelling,topic,USED_FOR,short script,concept,,topic used for something - check direction,FILM_3220_triples_raw.json
+FILM_3220,Visual Storytelling,topic,USED_FOR,screenplay format,concept,,topic used for something - check direction,FILM_3220_triples_raw.json

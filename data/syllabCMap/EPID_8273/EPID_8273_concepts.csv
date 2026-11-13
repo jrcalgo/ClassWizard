@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EPID_8273,topic,Multilevel and Longitudinal Data Analysis,Multilevel and Longitudinal Data Analysis,1,verified,Multilevel and Longitudinal Data Analysis,EPID_8273_concepts_raw.json
+EPID_8273,method,logistic regression,logistic regression,1,verified,logistic regression,EPID_8273_concepts_raw.json
+EPID_8273,method,multilevel cross-sectional and longitudinal measures analysis,multilevel cross-sectional and longitudinal measures analysis,1,verified,multilevel cross-sectional and longitudinal measures analysis,EPID_8273_concepts_raw.json
+EPID_8273,topic,Multilevel Data,Multilevel Data,3,inferred,Introduction to Multilevel Data,EPID_8273_concepts_raw.json
+EPID_8273,topic,Linear Regression for Multilevel Data,Linear Regression for Multilevel Data,1,inferred,Linear Regression for Multilevel Data,EPID_8273_concepts_raw.json
+EPID_8273,topic,Logistic Regression for Binary Outcomes,Logistic Regression for Binary Outcomes,1,inferred,Logistic Regression for Binary Outcomes,EPID_8273_concepts_raw.json
+EPID_8273,topic,Longitudinal Data Analysis Basics,Longitudinal Data Analysis Basics,1,inferred,Longitudinal Data Analysis Basics,EPID_8273_concepts_raw.json
+EPID_8273,topic,Random Effects Models for Longitudinal Data,Random Effects Models for Longitudinal Data,1,inferred,Random Effects Models for Longitudinal Data,EPID_8273_concepts_raw.json
+EPID_8273,topic,Growth Curve Modeling,Growth Curve Modeling,1,inferred,Growth Curve Modeling,EPID_8273_concepts_raw.json
+EPID_8273,topic,Multilevel and Longitudinal Model Comparison,Multilevel and Longitudinal Model Comparison,1,inferred,Multilevel and Longitudinal Model Comparison,EPID_8273_concepts_raw.json
+EPID_8273,topic,Software Applications for Multilevel and Longitudinal Data Analysis,Software Applications for Multilevel and Longitudinal Data Analysis,1,inferred,Software Applications for Multilevel and Longitudinal Data Analysis,EPID_8273_concepts_raw.json
+EPID_8273,topic,Case Studies in Public Health Epidemiology,Case Studies in Public Health Epidemiology,1,inferred,Case Studies in Public Health Epidemiology,EPID_8273_concepts_raw.json
+EPID_8273,concept,multilevel data structure,Multilevel data structure,1,inferred,multilevel data structure,EPID_8273_concepts_raw.json
+EPID_8273,concept,hierarchical models,Hierarchical models,1,inferred,hierarchical models,EPID_8273_concepts_raw.json
+EPID_8273,concept,clustered observations,Clustered observations,1,inferred,clustered observations,EPID_8273_concepts_raw.json
+EPID_8273,method,fixed effects estimation,Fixed effects estimation,1,inferred,fixed effects estimation,EPID_8273_concepts_raw.json
+EPID_8273,method,random effects modeling,Random effects modeling,1,inferred,random effects modeling,EPID_8273_concepts_raw.json
+EPID_8273,concept,variance components,Variance components,2,inferred,variance components,EPID_8273_concepts_raw.json
+EPID_8273,concept,binary outcome models,Binary outcome models,1,inferred,binary outcome models,EPID_8273_concepts_raw.json
+EPID_8273,concept,log odds ratio interpretation,Log odds ratio interpretation,1,inferred,log odds ratio interpretation,EPID_8273_concepts_raw.json
+EPID_8273,concept,multilevel logistic regression,Multilevel logistic regression,1,inferred,multilevel logistic regression,EPID_8273_concepts_raw.json
+EPID_8273,concept,panel data structure,Panel data structure,1,inferred,panel data structure,EPID_8273_concepts_raw.json
+EPID_8273,concept,time-varying covariates,Time-varying covariates,1,inferred,time-varying covariates,EPID_8273_concepts_raw.json
+EPID_8273,method,repeated measures analysis,Repeated measures analysis,1,inferred,repeated measures analysis,EPID_8273_concepts_raw.json
+EPID_8273,concept,random intercepts and slopes,Random intercepts and slopes,1,inferred,random intercepts and slopes,EPID_8273_concepts_raw.json
+EPID_8273,method,correlated residuals modeling,Correlated residuals modeling,1,inferred,correlated residuals modeling,EPID_8273_concepts_raw.json
+EPID_8273,concept,longitudinal variance components,Longitudinal variance components,1,inferred,longitudinal variance components,EPID_8273_concepts_raw.json
+EPID_8273,concept,non-linear growth patterns,Non-linear growth patterns,1,inferred,non-linear growth patterns,EPID_8273_concepts_raw.json
+EPID_8273,method,polynomial regression models,Polynomial regression models,1,inferred,polynomial regression models,EPID_8273_concepts_raw.json
+EPID_8273,concept,individual growth trajectories,Individual growth trajectories,1,inferred,individual growth trajectories,EPID_8273_concepts_raw.json
+EPID_8273,concept,model selection criteria,Model selection criteria,1,inferred,model selection criteria,EPID_8273_concepts_raw.json
+EPID_8273,concept,Akaike information criterion,Akaike information criterion,1,inferred,Akaike information criterion,EPID_8273_concepts_raw.json
+EPID_8273,concept,Bayesian information criterion,Bayesian information criterion,1,inferred,Bayesian information criterion,EPID_8273_concepts_raw.json
+EPID_8273,method,linear regression,Linear Regression,1,inferred,linear regression,EPID_8273_concepts_raw.json
+EPID_8273,tool,R programming language,R programming language,1,inferred,R programming language,EPID_8273_concepts_raw.json
+EPID_8273,tool,SAS statistical software,SAS statistical software,1,inferred,SAS statistical software,EPID_8273_concepts_raw.json
+EPID_8273,tool,MLwiN multilevel modeling package,MLwiN multilevel modeling package,1,inferred,MLwiN multilevel modeling package,EPID_8273_concepts_raw.json

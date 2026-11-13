@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3101,Definition of Persuasion,concept,PREREQUISITE_OF,Types of Persuaders,concept,same unit,,COMM_3101_triples_raw.json
+COMM_3101,Persuasion,topic,PREREQUISITE_OF,Importance of Persuasion,concept,same unit,,COMM_3101_triples_raw.json
+COMM_3101,Definition of Persuasion,concept,PREREQUISITE_OF,Role of Media,concept,A taught first,,COMM_3101_triples_raw.json
+COMM_3101,Types of Persuaders,concept,PREREQUISITE_OF,Elaboration Likelihood Model,concept,A taught first,,COMM_3101_triples_raw.json
+COMM_3101,Types of Persuaders,concept,PREREQUISITE_OF,Theory of Reasoned Action,concept,A taught first,,COMM_3101_triples_raw.json
+COMM_3101,Types of Persuaders,concept,PREREQUISITE_OF,Social Identity Theory,concept,A taught first,,COMM_3101_triples_raw.json
+COMM_3101,Types of Persuaders,concept,PREREQUISITE_OF,Deception and Manipulation,concept,A taught first,,COMM_3101_triples_raw.json
+COMM_3101,Types of Persuaders,concept,PREREQUISITE_OF,Autonomy and Free Will,concept,A taught first,,COMM_3101_triples_raw.json
+COMM_3101,Types of Persuaders,concept,PREREQUISITE_OF,Respect for Diversity,concept,A taught first,,COMM_3101_triples_raw.json
+COMM_3101,Persuasion,topic,PREREQUISITE_OF,Persuader Characteristics,concept,A taught first,,COMM_3101_triples_raw.json
+COMM_3101,Definition of Persuasion,concept,PART_OF,Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Importance of Persuasion,concept,PART_OF,Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Types of Persuaders,concept,PART_OF,Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,History of Persuasion,concept,PART_OF,Persuasion in American Life,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Influence on Society,concept,PART_OF,Persuasion in American Life,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Role of Media,concept,PART_OF,Persuasion in American Life,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Elaboration Likelihood Model,concept,PART_OF,Theories of Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Theory of Reasoned Action,concept,PART_OF,Theories of Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Social Identity Theory,concept,PART_OF,Theories of Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Message Structure and Content,concept,PART_OF,Persuasive Messages,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Appeals to Emotions and Logic,concept,PART_OF,Persuasive Messages,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Use of Rhetorical Devices,concept,PART_OF,Persuasive Messages,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Deception and Manipulation,concept,PART_OF,Ethics in Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Autonomy and Free Will,concept,PART_OF,Ethics in Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Respect for Diversity,concept,PART_OF,Ethics in Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Cognitive Dissonance Theory,concept,PART_OF,Resistance to Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Counterarguing and Refutation,concept,PART_OF,Resistance to Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Persuader Characteristics,concept,PART_OF,Resistance to Persuasion,topic,,,COMM_3101_triples_raw.json
+COMM_3101,Experimental Design Methods,measure,USED_FOR,Measuring Persuasion Effectiveness,topic,,,COMM_3101_triples_raw.json

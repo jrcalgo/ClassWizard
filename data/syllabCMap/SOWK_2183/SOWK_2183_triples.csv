@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_2183,Human Behavior,topic,PREREQUISITE_OF,Individual Behavior,topic,B mentioned first,,SOWK_2183_triples_raw.json
+SOWK_2183,Human Behavior,topic,PREREQUISITE_OF,Family Systems,topic,B mentioned first,,SOWK_2183_triples_raw.json
+SOWK_2183,Human Behavior,topic,PREREQUISITE_OF,Community Organization,topic,B mentioned first,,SOWK_2183_triples_raw.json
+SOWK_2183,Human Behavior,topic,PREREQUISITE_OF,Social Systems Theory,topic,B mentioned first,,SOWK_2183_triples_raw.json
+SOWK_2183,Human Behavior,topic,PREREQUISITE_OF,Larger Social Environment,topic,B mentioned first,,SOWK_2183_triples_raw.json
+SOWK_2183,Individual Behavior,topic,PREREQUISITE_OF,Family Systems,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Individual Behavior,topic,PREREQUISITE_OF,Community Organization,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Individual Behavior,topic,PREREQUISITE_OF,Social Systems Theory,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Individual Behavior,topic,PREREQUISITE_OF,Larger Social Environment,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Family Systems,topic,PREREQUISITE_OF,Community Organization,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Family Systems,topic,PREREQUISITE_OF,Social Systems Theory,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Family Systems,topic,PREREQUISITE_OF,Larger Social Environment,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Community Organization,topic,PREREQUISITE_OF,Social Systems Theory,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Community Organization,topic,PREREQUISITE_OF,Larger Social Environment,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Social Systems Theory,topic,PREREQUISITE_OF,Larger Social Environment,topic,A taught first,,SOWK_2183_triples_raw.json
+SOWK_2183,Human Development Theories,concept,PART_OF,Individual Behavior,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Life Span Development,concept,PART_OF,Individual Behavior,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Cognitive Development Stages,concept,PART_OF,Individual Behavior,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Family Structure Dynamics,concept,PART_OF,Family Systems,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Family Life Cycle Phases,concept,PART_OF,Family Systems,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Intergenerational Family Relationships,concept,PART_OF,Family Systems,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Community Needs Assessment,concept,PART_OF,Community Organization,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Community Resource Allocation,concept,PART_OF,Community Organization,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Community Development Strategies,concept,PART_OF,Community Organization,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Social Exchange Theory Basics,concept,PART_OF,Social Systems Theory,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Social Support Networks Formation,concept,PART_OF,Social Systems Theory,topic,,,SOWK_2183_triples_raw.json
+SOWK_2183,Social Capital Building Blocks,concept,PART_OF,Social Systems Theory,topic,,,SOWK_2183_triples_raw.json

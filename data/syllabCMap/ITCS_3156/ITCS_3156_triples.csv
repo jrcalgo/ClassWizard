@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_3156,Probability and Statistics,topic,PREREQUISITE_OF,Machine Learning,topic,B taught first,B is taught before A - check,ITCS_3156_triples_raw.json
+ITCS_3156,Calculus,topic,PREREQUISITE_OF,Machine Learning,topic,B taught first,B is taught before A - check,ITCS_3156_triples_raw.json
+ITCS_3156,Linear Algebra,topic,PREREQUISITE_OF,Machine Learning,topic,B taught first,B is taught before A - check,ITCS_3156_triples_raw.json
+ITCS_3156,Supervised Learning,topic,SUBTYPE_OF,Machine Learning,topic,,,ITCS_3156_triples_raw.json
+ITCS_3156,Unsupervised Learning,topic,SUBTYPE_OF,Machine Learning,topic,,,ITCS_3156_triples_raw.json
+ITCS_3156,Reinforcement Learning,topic,SUBTYPE_OF,Machine Learning,topic,,,ITCS_3156_triples_raw.json
+ITCS_3156,Python,tool,USED_FOR,Machine Learning,topic,,,ITCS_3156_triples_raw.json
+ITCS_3156,Scikit-Learn,tool,USED_FOR,Machine Learning,topic,,,ITCS_3156_triples_raw.json

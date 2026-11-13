@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6010,topic,AI System Design,AI System Design,1,verified,AI System Design,ITCS_6010_concepts_raw.json
+ITCS_6010,topic,Large-Scale System Design,large-scale system design,1,verified,Large-Scale System Design,ITCS_6010_concepts_raw.json
+ITCS_6010,topic,HPC × AI Workflows,HPC × AI Workflows,1,verified,HPC × AI Workflows,ITCS_6010_concepts_raw.json
+ITCS_6010,concept,Latency,latency,1,verified,"Latency, Throughput, and Cost Trade-offs",ITCS_6010_concepts_raw.json
+ITCS_6010,concept,Throughput,throughput,1,verified,"Latency, Throughput, and Cost Trade-offs",ITCS_6010_concepts_raw.json

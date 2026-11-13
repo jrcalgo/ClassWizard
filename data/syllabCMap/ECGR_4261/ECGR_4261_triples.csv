@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4261,Smith Chart Analysis,concept,USED_FOR,impedance matching techniques,topic,,,ECGR_4261_triples_raw.json
+ECGR_4261,Smith Chart Analysis,concept,USED_FOR,Single Frequency Impedance Matching,concept,,,ECGR_4261_triples_raw.json

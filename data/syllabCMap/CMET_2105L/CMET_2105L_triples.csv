@@ -1,0 +1,43 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_2105L,Construction Drawing Basics,concept,PART_OF,Floor Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Construction Drawing Basics,concept,PART_OF,Roofing Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Construction Drawing Basics,concept,PART_OF,Drainage and Paving,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Construction Drawing Basics,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Construction Drawing Basics,concept,PART_OF,MEP Systems Overview,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Construction Drawing Basics,concept,PART_OF,Specifications and Drawings,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Drawing Conventions and Symbols,concept,PART_OF,Floor Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Drawing Conventions and Symbols,concept,PART_OF,Roofing Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Drawing Conventions and Symbols,concept,PART_OF,Drainage and Paving,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Drawing Conventions and Symbols,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Drawing Conventions and Symbols,concept,PART_OF,MEP Systems Overview,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Drawing Conventions and Symbols,concept,PART_OF,Specifications and Drawings,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Reading Drawing Notations,concept,PART_OF,Floor Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Reading Drawing Notations,concept,PART_OF,Roofing Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Reading Drawing Notations,concept,PART_OF,Drainage and Paving,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Reading Drawing Notations,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Reading Drawing Notations,concept,PART_OF,MEP Systems Overview,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Reading Drawing Notations,concept,PART_OF,Specifications and Drawings,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Foundation Types and Materials,concept,PART_OF,Floor Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Foundation Types and Materials,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Footing Design and Construction,concept,PART_OF,Floor Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Footing Design and Construction,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Foundation Drainage Systems,concept,PART_OF,Floor Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Foundation Drainage Systems,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Slab-on-Grade Construction,concept,PART_OF,Floor Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Concrete Slab Details and Finishing,concept,PART_OF,Floor Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Floor Joist and Beam Design,concept,PART_OF,Floor Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Wall Types and Materials,concept,PART_OF,Roofing Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Wall Types and Materials,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Exterior Finish Options and Details,concept,PART_OF,Roofing Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Exterior Finish Options and Details,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Window and Door Installation,concept,PART_OF,Roofing Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Window and Door Installation,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Roof Types and Design Considerations,concept,PART_OF,Roofing Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Roof Covering Materials and Installation,concept,PART_OF,Roofing Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Gutter and Downspout Systems,concept,PART_OF,Roofing Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Stormwater Management Systems,concept,PART_OF,Drainage and Paving,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Pavement Design and Construction,concept,PART_OF,Drainage and Paving,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Sewer and Drainage System Details,concept,PART_OF,Drainage and Paving,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Beam and Column Design Principles,concept,PART_OF,Structural Systems,topic,,,CMET_2105L_triples_raw.json
+CMET_2105L,Construction Master,tool,USED_FOR,Construction Drawing Basics,concept,,,CMET_2105L_triples_raw.json
+CMET_2105L,Bluebeam,tool,USED_FOR,Construction Drawing Basics,concept,,,CMET_2105L_triples_raw.json

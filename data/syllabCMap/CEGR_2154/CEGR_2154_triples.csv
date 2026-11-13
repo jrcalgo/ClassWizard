@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_2154,Design Process,topic,PREREQUISITE_OF,Project Planning,topic,same unit,,CEGR_2154_triples_raw.json
+CEGR_2154,Design Process,topic,PREREQUISITE_OF,Technical Communication,topic,same unit,,CEGR_2154_triples_raw.json
+CEGR_2154,Project Scope Definition,concept,PART_OF,Project Planning,topic,,,CEGR_2154_triples_raw.json
+CEGR_2154,Timeline Creation Techniques,concept,PART_OF,Project Planning,topic,,,CEGR_2154_triples_raw.json
+CEGR_2154,Resource Allocation Strategies,concept,PART_OF,Project Planning,topic,,,CEGR_2154_triples_raw.json
+CEGR_2154,Report Writing Guidelines,concept,PART_OF,Technical Communication,topic,,,CEGR_2154_triples_raw.json
+CEGR_2154,Presentation Skills Development,concept,PART_OF,Technical Communication,topic,,,CEGR_2154_triples_raw.json
+CEGR_2154,Effective Communication Methods,concept,PART_OF,Technical Communication,topic,,,CEGR_2154_triples_raw.json

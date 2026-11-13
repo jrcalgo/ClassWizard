@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WGST_5160,Intersectionality and Power,concept,PREREQUISITE_OF,Biological Determinism Debunked,concept,same unit,,WGST_5160_triples_raw.json
+WGST_5160,Intersectionality and Power,concept,PREREQUISITE_OF,Feminist Theoretical Frameworks,concept,same unit,,WGST_5160_triples_raw.json
+WGST_5160,Colonialism and Body Control,concept,PREREQUISITE_OF,Slavery and Racialization,concept,same unit,,WGST_5160_triples_raw.json
+WGST_5160,Colonialism and Body Control,concept,PREREQUISITE_OF,Historical Trauma and Memory,concept,same unit,,WGST_5160_triples_raw.json
+WGST_5160,Media Representation and Influence,concept,PREREQUISITE_OF,Body Image and Self-Esteem,concept,A taught first,,WGST_5160_triples_raw.json
+WGST_5160,Emotional Expression and Vulnerability,concept,PREREQUISITE_OF,Toxic Masculinity and Violence,concept,same unit,,WGST_5160_triples_raw.json
+WGST_5160,Biological Determinism Debunked,concept,PART_OF,Politics of the Body,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Racialized Bodies in History,topic,PART_OF,Colonialism and Body Control,concept,,part is broader than whole - check direction,WGST_5160_triples_raw.json
+WGST_5160,Historical Trauma and Memory,concept,PART_OF,Racialized Bodies in History,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Cultural Norms of Femininity,concept,PART_OF,Gendered Beauty Standards,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Beauty as Social Construct,concept,PART_OF,Gendered Beauty Standards,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Traditional Masculine Ideals,concept,PART_OF,Masculinity and the Body,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Intimate Partner Violence and Abuse,concept,PART_OF,"Labor, Desire, and Relationships",topic,,,WGST_5160_triples_raw.json
+WGST_5160,Consumerism and Commodification,concept,PART_OF,Popular Culture and the Body,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Feminist Theoretical Frameworks,concept,PART_OF,Resistance and Activism,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Nonviolent Resistance Strategies,concept,PART_OF,Resistance and Activism,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Intersectional Solidarity and Coalition-Building,concept,PART_OF,Resistance and Activism,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Physical and Emotional Abuse,concept,PART_OF,Violence and Trauma,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Healing,concept,PART_OF,Violence and Trauma,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Recovery,concept,PART_OF,Violence and Trauma,topic,,,WGST_5160_triples_raw.json
+WGST_5160,Consumerism and Commodification,concept,SUBTYPE_OF,Media Representation and Influence,concept,,,WGST_5160_triples_raw.json
+WGST_5160,Intersectional Solidarity and Coalition-Building,concept,SUBTYPE_OF,Intersectionality and Power,concept,,,WGST_5160_triples_raw.json
+WGST_5160,Nonviolent Resistance Strategies,concept,USED_FOR,Resistance and Activism,topic,,,WGST_5160_triples_raw.json

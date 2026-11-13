@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3141,Metternich's Legacy,concept,PREREQUISITE_OF,European Balance of Power,concept,same unit,,HIST_3141_triples_raw.json
+HIST_3141,Metternich's Legacy,concept,PART_OF,European Balance of Power,concept,,,HIST_3141_triples_raw.json
+HIST_3141,Metternich,work,USED_FOR,European Balance of Power,concept,,,HIST_3141_triples_raw.json
+HIST_3141,Archduke Franz Ferdinand,work,USED_FOR,Assassination of Archduke Franz Ferdinand,concept,,,HIST_3141_triples_raw.json

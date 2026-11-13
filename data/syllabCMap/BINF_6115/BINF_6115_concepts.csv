@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_6115,concept,manual page system,manual page system,1,verified,manual page system,BINF_6115_concepts_raw.json
+BINF_6115,concept,bash shell scripting,Bash shell scripting,1,verified,bash shell scripting,BINF_6115_concepts_raw.json
+BINF_6115,concept,preinstalled software modules,preinstalled software modules,1,verified,preinstalled software modules,BINF_6115_concepts_raw.json
+BINF_6115,concept,batch scripting system,batch scripting system,1,verified,batch scripting system,BINF_6115_concepts_raw.json
+BINF_6115,topic,UNIX Filesystem Basics,UNIX Filesystem Basics,1,inferred,UNIX Filesystem Basics,BINF_6115_concepts_raw.json
+BINF_6115,topic,Manual Page System Overview,Manual Page System Overview,1,inferred,Manual Page System Overview,BINF_6115_concepts_raw.json
+BINF_6115,topic,Basic UNIX Commands,Basic UNIX Commands,1,inferred,Basic UNIX Commands,BINF_6115_concepts_raw.json
+BINF_6115,topic,Shell Scripting Fundamentals,Shell Scripting Fundamentals,1,inferred,Shell Scripting Fundamentals,BINF_6115_concepts_raw.json
+BINF_6115,topic,Analysis Pipelines with UNIX,Analysis Pipelines with UNIX,1,inferred,Analysis Pipelines with UNIX,BINF_6115_concepts_raw.json
+BINF_6115,topic,Transferring Files to Clusters,Transferring Files to Clusters,1,inferred,Transferring Files to Clusters,BINF_6115_concepts_raw.json
+BINF_6115,topic,Software Management on Clusters,Software Management on Clusters,1,inferred,Software Management on Clusters,BINF_6115_concepts_raw.json
+BINF_6115,topic,Reproducibility and FAIR Principles,Reproducibility and FAIR Principles,1,inferred,Reproducibility and FAIR Principles,BINF_6115_concepts_raw.json
+BINF_6115,concept,UNIX filesystem structure,UNIX filesystem structure,1,inferred,UNIX filesystem structure,BINF_6115_concepts_raw.json
+BINF_6115,concept,file navigation commands,File navigation commands,1,inferred,file navigation commands,BINF_6115_concepts_raw.json
+BINF_6115,concept,directory management,Directory management,1,inferred,directory management,BINF_6115_concepts_raw.json
+BINF_6115,concept,command documentation,Command documentation,1,inferred,command documentation,BINF_6115_concepts_raw.json
+BINF_6115,concept,script design principles,Script design principles,1,inferred,script design principles,BINF_6115_concepts_raw.json
+BINF_6115,concept,UNIX command pipeline,UNIX command pipeline,1,inferred,UNIX command pipeline,BINF_6115_concepts_raw.json
+BINF_6115,concept,workflow step implementation,Workflow step implementation,1,inferred,workflow step implementation,BINF_6115_concepts_raw.json
+BINF_6115,concept,file parsing and modification,File parsing and modification,1,inferred,file parsing and modification,BINF_6115_concepts_raw.json
+BINF_6115,concept,file transfer methods,File transfer methods,1,inferred,file transfer methods,BINF_6115_concepts_raw.json
+BINF_6115,concept,cluster access protocols,Cluster access protocols,1,inferred,cluster access protocols,BINF_6115_concepts_raw.json
+BINF_6115,concept,conda package management,Conda package management,1,inferred,conda package management,BINF_6115_concepts_raw.json
+BINF_6115,concept,analysis reproducibility,Analysis reproducibility,1,inferred,analysis reproducibility,BINF_6115_concepts_raw.json
+BINF_6115,concept,FAIR principles in computing,FAIR principles in computing,1,inferred,FAIR principles in computing,BINF_6115_concepts_raw.json

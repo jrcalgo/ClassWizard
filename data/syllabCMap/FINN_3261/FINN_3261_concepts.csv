@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_3261,topic,real estate capital markets,real estate capital markets,2,verified,real estate capital markets,FINN_3261_concepts_raw.json
+FINN_3261,concept,mortgage markets,mortgage markets,2,verified,mortgage markets,FINN_3261_concepts_raw.json
+FINN_3261,topic,mortgage securitization,mortgage securitization,2,verified,mortgage securitization,FINN_3261_concepts_raw.json
+FINN_3261,topic,real estate contracts and leases,real estate contracts and leases,2,verified,real estate contracts and leases,FINN_3261_concepts_raw.json
+FINN_3261,topic,investment analysis,investment analysis,2,verified,investment analysis,FINN_3261_concepts_raw.json
+FINN_3261,topic,valuation and appraisal,valuation and appraisal,2,verified,valuation and appraisal,FINN_3261_concepts_raw.json
+FINN_3261,topic,return and risk considerations,return and risk considerations,2,verified,return and risk considerations,FINN_3261_concepts_raw.json
+FINN_3261,topic,effects of debt financing,effects of debt financing,2,verified,effects of debt financing,FINN_3261_concepts_raw.json
+FINN_3261,topic,taxation,taxation,2,verified,taxation,FINN_3261_concepts_raw.json
+FINN_3261,topic,government regulations on real estate investment,government regulations on real estate investment,2,verified,government regulations on real estate investment,FINN_3261_concepts_raw.json
+FINN_3261,concept,risk allocation and borrower suitability,risk allocation and borrower suitability,1,verified,risk allocation and borrower suitability,FINN_3261_concepts_raw.json
+FINN_3261,concept,GSEs,GSEs,1,verified,GSEs,FINN_3261_concepts_raw.json
+FINN_3261,concept,Ginnie Mae,Ginnie Mae,1,verified,Ginnie Mae,FINN_3261_concepts_raw.json
+FINN_3261,concept,private-label issuers,private-label issuers,1,verified,private-label issuers,FINN_3261_concepts_raw.json
+FINN_3261,concept,net operating income,net operating income,1,verified,net operating income,FINN_3261_concepts_raw.json
+FINN_3261,concept,capitalization rates,capitalization rates,1,verified,capitalization rates,FINN_3261_concepts_raw.json
+FINN_3261,concept,discounted cash flow analysis,discounted cash flow analysis,1,verified,discounted cash flow analysis,FINN_3261_concepts_raw.json
+FINN_3261,concept,loan-to-value constraints,loan-to-value constraints,1,verified,loan-to-value constraints,FINN_3261_concepts_raw.json
+FINN_3261,concept,cash flow structure,cash flow structure,1,verified,cash flow structure,FINN_3261_concepts_raw.json
+FINN_3261,concept,credit enhancement,credit enhancement,1,verified,credit enhancement,FINN_3261_concepts_raw.json

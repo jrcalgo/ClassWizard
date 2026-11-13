@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTE_5121,child development and art,concept,PREREQUISITE_OF,visual arts learning themes,concept,same unit,,ARTE_5121_triples_raw.json
+ARTE_5121,child development and art,concept,PREREQUISITE_OF,elementary art curriculum design,concept,same unit,,ARTE_5121_triples_raw.json
+ARTE_5121,organization of art supplies,concept,PREREQUISITE_OF,media and materials selection,concept,same unit,,ARTE_5121_triples_raw.json
+ARTE_5121,classroom management strategies,concept,PREREQUISITE_OF,motivating students to create,concept,same unit,,ARTE_5121_triples_raw.json
+ARTE_5121,classroom management strategies,concept,PREREQUISITE_OF,encouraging risk-taking in art,concept,same unit,,ARTE_5121_triples_raw.json
+ARTE_5121,child development and art,concept,PART_OF,elementary art curriculum design,concept,,,ARTE_5121_triples_raw.json
+ARTE_5121,organization of art supplies,concept,PART_OF,media and materials selection,concept,,,ARTE_5121_triples_raw.json
+ARTE_5121,classroom management strategies,concept,PART_OF,motivating students to create,concept,,,ARTE_5121_triples_raw.json
+ARTE_5121,classroom management strategies,concept,PART_OF,encouraging risk-taking in art,concept,,,ARTE_5121_triples_raw.json
+ARTE_5121,developing teaching skills,concept,PART_OF,planning and delivering lessons,concept,,,ARTE_5121_triples_raw.json
+ARTE_5121,evaluating student learning outcomes,concept,PART_OF,reflecting on teaching practice,concept,,,ARTE_5121_triples_raw.json

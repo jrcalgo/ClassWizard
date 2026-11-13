@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_2600,self-branding,topic,PREREQUISITE_OF,career preparation,topic,B taught first,B is taught before A - check,MEET_2600_triples_raw.json
+MEET_2600,self-branding,topic,PREREQUISITE_OF,entrepreneurship,topic,A taught first,,MEET_2600_triples_raw.json
+MEET_2600,self-branding,topic,PREREQUISITE_OF,ethics,topic,A taught first,,MEET_2600_triples_raw.json
+MEET_2600,self-branding,topic,PREREQUISITE_OF,cultural diversity,topic,A taught first,,MEET_2600_triples_raw.json
+MEET_2600,self-branding,topic,PREREQUISITE_OF,professional licensure,topic,A taught first,,MEET_2600_triples_raw.json
+MEET_2600,professionalism in engineering,concept,PREREQUISITE_OF,soft skills,concept,same unit,,MEET_2600_triples_raw.json
+MEET_2600,professional etiquette,topic,PART_OF,career preparation,topic,,,MEET_2600_triples_raw.json
+MEET_2600,business professional etiquette,concept,PART_OF,professional etiquette,topic,,,MEET_2600_triples_raw.json
+MEET_2600,entrepreneurship,topic,PART_OF,career preparation,topic,,,MEET_2600_triples_raw.json
+MEET_2600,ethics,topic,PART_OF,career preparation,topic,,,MEET_2600_triples_raw.json
+MEET_2600,cultural diversity,topic,PART_OF,career preparation,topic,,,MEET_2600_triples_raw.json
+MEET_2600,professional licensure,topic,PART_OF,career preparation,topic,,,MEET_2600_triples_raw.json

@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_2112,topic,Linear Equations,linear equations,1,verified,Linear Equations,MATH_2112_concepts_raw.json
+MATH_2112,topic,Vector Spaces,vector spaces,1,verified,Vector Spaces,MATH_2112_concepts_raw.json
+MATH_2112,topic,Orthogonality,orthogonality,2,verified,Orthogonality,MATH_2112_concepts_raw.json
+MATH_2112,topic,Continuous Random Variables,continuous random variables,2,verified,Continuous Random Variables,MATH_2112_concepts_raw.json
+MATH_2112,topic,Hypothesis Testing,hypothesis testing,2,verified,Hypothesis Testing,MATH_2112_concepts_raw.json
+MATH_2112,concept,Systems of Linear Equations,Systems of linear equations,1,verified,Systems of Linear Equations,MATH_2112_concepts_raw.json
+MATH_2112,concept,Matrix Operations,matrix operations,2,verified,Matrix Operations,MATH_2112_concepts_raw.json
+MATH_2112,concept,Linear Dependence,linear dependence,1,verified,Linear Dependence,MATH_2112_concepts_raw.json
+MATH_2112,concept,Eigenvalue/Eigenvector,Eigenvalue/Eigenvector,1,verified,Eigenvalue/Eigenvector,MATH_2112_concepts_raw.json
+MATH_2112,concept,Sample Space,sample space,1,verified,Sample Space,MATH_2112_concepts_raw.json
+MATH_2112,concept,Conditional Probability,conditional probability,1,verified,Conditional Probability,MATH_2112_concepts_raw.json
+MATH_2112,concept,Probability Distributions,probability distributions,1,verified,Probability Distributions,MATH_2112_concepts_raw.json
+MATH_2112,concept,Bayes' Theorem,Bayes' theorem,1,verified,Bayes' Theorem,MATH_2112_concepts_raw.json
+MATH_2112,concept,Central Limit Theorem,Central Limit Theorem,1,verified,Central Limit Theorem,MATH_2112_concepts_raw.json
+MATH_2112,tool,ZyBooks,ZyBooks,1,verified,ZyBooks,MATH_2112_concepts_raw.json

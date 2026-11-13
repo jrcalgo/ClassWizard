@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ENGL_3236,topic,African American Literature,African American Literature,1,verified,African American Literature,ENGL_3236_concepts_raw.json
+ENGL_3236,topic,Harlem Renaissance,Harlem Renaissance,1,verified,Harlem Renaissance,ENGL_3236_concepts_raw.json
+ENGL_3236,topic,Literary Analysis Fundamentals,Literary Analysis Fundamentals,1,inferred,Literary Analysis Fundamentals,ENGL_3236_concepts_raw.json
+ENGL_3236,topic,Early Harlem Renaissance Writers,Early Harlem Renaissance Writers,1,inferred,Early Harlem Renaissance Writers,ENGL_3236_concepts_raw.json
+ENGL_3236,topic,Mid-Century African American Literature,Mid-Century African American Literature,1,inferred,Mid-Century African American Literature,ENGL_3236_concepts_raw.json
+ENGL_3236,topic,Black Arts Movement and Beyond,Black Arts Movement and Beyond,1,inferred,Black Arts Movement and Beyond,ENGL_3236_concepts_raw.json
+ENGL_3236,topic,Contemporary African American Literature,Contemporary African American Literature,1,inferred,Contemporary African American Literature,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,African American Literary History,African American Literary History,1,inferred,African American Literary History,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Harlem Renaissance Overview,Harlem Renaissance Overview,1,inferred,Harlem Renaissance Overview,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Close Reading Techniques,Close Reading Techniques,1,inferred,Close Reading Techniques,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Analyzing Literary Texts,Analyzing Literary Texts,1,inferred,Analyzing Literary Texts,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Supportive Evidence Development,Supportive Evidence Development,1,inferred,Supportive Evidence Development,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Langston Hughes' Poetry Style,Langston Hughes' Poetry Style,1,inferred,Langston Hughes' Poetry Style,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Zora Neale Hurston's Works,Zora Neale Hurston's Works,1,inferred,Zora Neale Hurston's Works,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Countee Cullen's Themes,Countee Cullen's Themes,1,inferred,Countee Cullen's Themes,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Richard Wright's Racial Commentary,Richard Wright's Racial Commentary,1,inferred,Richard Wright's Racial Commentary,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,James Baldwin's Essays Influence,James Baldwin's Essays Influence,1,inferred,James Baldwin's Essays Influence,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Gwendolyn Brooks' Poetry Style,Gwendolyn Brooks' Poetry Style,1,inferred,Gwendolyn Brooks' Poetry Style,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Amiri Baraka's Poetic Themes,Amiri Baraka's Poetic Themes,1,inferred,Amiri Baraka's Poetic Themes,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Audre Lorde's Feminist Perspective,Audre Lorde's Feminist Perspective,1,inferred,Audre Lorde's Feminist Perspective,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Toni Morrison's Literary Style,Toni Morrison's Literary Style,1,inferred,Toni Morrison's Literary Style,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Ta-Nehisi Coates' Nonfiction Works,Ta-Nehisi Coates' Nonfiction Works,1,inferred,Ta-Nehisi Coates' Nonfiction Works,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Angela Davis' Social Commentary,Angela Davis' Social Commentary,1,inferred,Angela Davis' Social Commentary,ENGL_3236_concepts_raw.json
+ENGL_3236,concept,Ayana Gray's Fictional Themes,Ayana Gray's Fictional Themes,1,inferred,Ayana Gray's Fictional Themes,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Langston Hughes,Langston Hughes,1,inferred,Langston Hughes,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Zora Neale Hurston,Zora Neale Hurston,1,inferred,Zora Neale Hurston,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Countee Cullen,Countee Cullen,1,inferred,Countee Cullen,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Richard Wright,Richard Wright,1,inferred,Richard Wright,ENGL_3236_concepts_raw.json
+ENGL_3236,work,James Baldwin,James Baldwin,1,inferred,James Baldwin,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Gwendolyn Brooks,Gwendolyn Brooks,1,inferred,Gwendolyn Brooks,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Amiri Baraka,Amiri Baraka,1,inferred,Amiri Baraka,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Audre Lorde,Audre Lorde,1,inferred,Audre Lorde,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Toni Morrison,Toni Morrison,1,inferred,Toni Morrison,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Ta-Nehisi Coates,Ta-Nehisi Coates,1,inferred,Ta-Nehisi Coates,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Angela Davis,Angela Davis,1,inferred,Angela Davis,ENGL_3236_concepts_raw.json
+ENGL_3236,work,Ayana Gray,Ayana Gray,1,inferred,Ayana Gray,ENGL_3236_concepts_raw.json

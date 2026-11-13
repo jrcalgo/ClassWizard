@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RELS_2109,concept,death-related terms,death-related terms,1,verified,death-related terms,RELS_2109_concepts_raw.json
+RELS_2109,topic,Death and Human Experience,Death and Human Experience,1,inferred,Death and Human Experience,RELS_2109_concepts_raw.json
+RELS_2109,topic,Understanding Mortality,Understanding Mortality,1,inferred,Understanding Mortality,RELS_2109_concepts_raw.json
+RELS_2109,topic,Religious Perspectives on Death,Religious Perspectives on Death,1,inferred,Religious Perspectives on Death,RELS_2109_concepts_raw.json
+RELS_2109,topic,Egyptian Afterlife Beliefs,Egyptian Afterlife Beliefs,1,inferred,Egyptian Afterlife Beliefs,RELS_2109_concepts_raw.json
+RELS_2109,topic,Mesopotamian Funerary Practices,Mesopotamian Funerary Practices,1,inferred,Mesopotamian Funerary Practices,RELS_2109_concepts_raw.json
+RELS_2109,topic,Greek and Roman Views of Death,Greek and Roman Views of Death,1,inferred,Greek and Roman Views of Death,RELS_2109_concepts_raw.json
+RELS_2109,topic,Hinduism and Reincarnation,Hinduism and Reincarnation,1,inferred,Hinduism and Reincarnation,RELS_2109_concepts_raw.json
+RELS_2109,topic,Buddhism and Karma,Buddhism and Karma,1,inferred,Buddhism and Karma,RELS_2109_concepts_raw.json
+RELS_2109,topic,Taoist and Confucian Views on Death,Taoist and Confucian Views on Death,1,inferred,Taoist and Confucian Views on Death,RELS_2109_concepts_raw.json
+RELS_2109,topic,Hebrew Bible and Afterlife,Hebrew Bible and Afterlife,1,inferred,Hebrew Bible and Afterlife,RELS_2109_concepts_raw.json
+RELS_2109,topic,Christianity and Resurrection,Christianity and Resurrection,1,inferred,Christianity and Resurrection,RELS_2109_concepts_raw.json
+RELS_2109,topic,Islamic Views of the Hereafter,Islamic Views of the Hereafter,1,inferred,Islamic Views of the Hereafter,RELS_2109_concepts_raw.json
+RELS_2109,topic,Secularization and Death,Secularization and Death,1,inferred,Secularization and Death,RELS_2109_concepts_raw.json
+RELS_2109,topic,Modern Funerary Practices,Modern Funerary Practices,1,inferred,Modern Funerary Practices,RELS_2109_concepts_raw.json
+RELS_2109,topic,Death and Culture in Contemporary Society,Death and Culture in Contemporary Society,1,inferred,Death and Culture in Contemporary Society,RELS_2109_concepts_raw.json
+RELS_2109,concept,afterlife beliefs,Afterlife Beliefs,1,inferred,afterlife beliefs,RELS_2109_concepts_raw.json
+RELS_2109,concept,religious perspectives,Religious Perspectives,1,inferred,religious perspectives,RELS_2109_concepts_raw.json
+RELS_2109,concept,mortality,Mortality,1,inferred,mortality,RELS_2109_concepts_raw.json
+RELS_2109,concept,reincarnation,Reincarnation,1,inferred,reincarnation,RELS_2109_concepts_raw.json
+RELS_2109,concept,karma,Karma,1,inferred,karma,RELS_2109_concepts_raw.json
+RELS_2109,concept,resurrection,Resurrection,1,inferred,resurrection,RELS_2109_concepts_raw.json
+RELS_2109,concept,hereafter,Hereafter,1,inferred,hereafter,RELS_2109_concepts_raw.json
+RELS_2109,concept,secularization,Secularization,1,inferred,secularization,RELS_2109_concepts_raw.json

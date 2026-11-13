@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_1512,Local Community Definition,concept,PART_OF,Local Communities,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Importance of Cultural Diversity,concept,PART_OF,Local Communities,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Arts and Humanities Methods,concept,PART_OF,Local Communities,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Language Evolution Timeline,concept,PART_OF,Spanish Language in the US History,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Translation Strategies,concept,PART_OF,Bilingual and Multilingual Spaces,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Interpreting Techniques,concept,PART_OF,Bilingual and Multilingual Spaces,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Multilingual Communication,concept,PART_OF,Bilingual and Multilingual Spaces,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Language Use in Social Groups,topic,PART_OF,Language Change Over Time,concept,,part is broader than whole - check direction,SPAN_1512_triples_raw.json
+SPAN_1512,Language Service Roles,concept,PART_OF,Language Services and Society,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Language Services in Context,concept,PART_OF,Language Services and Society,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Institutional Language Needs,concept,PART_OF,Institutional Settings for Language Services,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Assessing Language Requirements,concept,PART_OF,Institutional Settings for Language Services,topic,,,SPAN_1512_triples_raw.json
+SPAN_1512,Language Support Systems,concept,PART_OF,Institutional Settings for Language Services,topic,,,SPAN_1512_triples_raw.json

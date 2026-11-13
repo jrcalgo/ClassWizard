@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_4700,Research Proposal,topic,PREREQUISITE_OF,Research Project Defense Preparation,topic,A taught first,,EXER_4700_triples_raw.json
+EXER_4700,Data Collection Methods,topic,PREREQUISITE_OF,Data Synthesis and Analysis,topic,A taught first,,EXER_4700_triples_raw.json
+EXER_4700,Literature Review Development,topic,PREREQUISITE_OF,Critical Thinking and Debate,topic,A taught first,,EXER_4700_triples_raw.json
+EXER_4700,thesis project planning,concept,PREREQUISITE_OF,Data Synthesis and Analysis,topic,A taught first,,EXER_4700_triples_raw.json
+EXER_4700,sampling frame selection criteria,concept,PREREQUISITE_OF,Data Synthesis and Analysis,topic,A taught first,,EXER_4700_triples_raw.json
+EXER_4700,peer-reviewed article evaluation,concept,PREREQUISITE_OF,Literature Review Development,topic,same unit,,EXER_4700_triples_raw.json
+EXER_4700,quantitative data analysis techniques,concept,PREREQUISITE_OF,Data Synthesis and Analysis,topic,same unit,,EXER_4700_triples_raw.json
+EXER_4700,qualitative data coding strategies,concept,PREREQUISITE_OF,Data Synthesis and Analysis,topic,same unit,,EXER_4700_triples_raw.json
+EXER_4700,research question development,concept,PART_OF,Research Proposal,topic,,,EXER_4700_triples_raw.json
+EXER_4700,literature review basics,concept,PART_OF,Research Proposal,topic,,,EXER_4700_triples_raw.json
+EXER_4700,thesis project planning,concept,PART_OF,Research Proposal,topic,,,EXER_4700_triples_raw.json
+EXER_4700,participant recruitment strategies,concept,PART_OF,Data Collection Methods,topic,,,EXER_4700_triples_raw.json
+EXER_4700,data collection techniques overview,concept,PART_OF,Data Collection Methods,topic,,,EXER_4700_triples_raw.json
+EXER_4700,ethics in research practice,concept,PART_OF,Data Collection Methods,topic,,,EXER_4700_triples_raw.json
+EXER_4700,quantitative vs qualitative research,concept,PART_OF,Data Synthesis and Analysis,topic,,,EXER_4700_triples_raw.json
+EXER_4700,sampling frame selection criteria,concept,PART_OF,Data Synthesis and Analysis,topic,,,EXER_4700_triples_raw.json
+EXER_4700,data analysis approaches comparison,concept,PART_OF,Data Synthesis and Analysis,topic,,,EXER_4700_triples_raw.json
+EXER_4700,peer-reviewed article evaluation,concept,PART_OF,Literature Review Development,topic,,,EXER_4700_triples_raw.json
+EXER_4700,theoretical frameworks application,concept,PART_OF,Literature Review Development,topic,,,EXER_4700_triples_raw.json
+EXER_4700,research gaps identification,concept,PART_OF,Literature Review Development,topic,,,EXER_4700_triples_raw.json
+EXER_4700,thesis document organization,concept,PART_OF,Data Synthesis and Analysis,topic,,,EXER_4700_triples_raw.json
+EXER_4700,debate and discussion etiquette,concept,PART_OF,Critical Thinking and Debate,topic,,,EXER_4700_triples_raw.json
+EXER_4700,oral presentation techniques,concept,PART_OF,Research Project Defense Preparation,topic,,,EXER_4700_triples_raw.json

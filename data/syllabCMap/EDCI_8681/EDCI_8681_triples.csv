@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8681,Characteristics of Adult Learners,concept,PREREQUISITE_OF,Classroom Teaching Strategies,topic,A taught first,,EDCI_8681_triples_raw.json
+EDCI_8681,Syllabus Design and Planning,topic,PREREQUISITE_OF,Teaching in Higher Education,topic,A taught first,,EDCI_8681_triples_raw.json
+EDCI_8681,Teaching Philosophy and Practice,topic,PREREQUISITE_OF,Teaching in Higher Education,topic,B taught first,B is taught before A - check,EDCI_8681_triples_raw.json

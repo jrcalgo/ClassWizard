@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8999,Research Questions Development,concept,PREREQUISITE_OF,Literature Review Process,concept,same unit,,EDCI_8999_triples_raw.json
+EDCI_8999,Research Questions Development,concept,PREREQUISITE_OF,Data Collection Techniques,concept,A taught first,,EDCI_8999_triples_raw.json
+EDCI_8999,Combining Qualitative and Quantitative Data,concept,PREREQUISITE_OF,Triangulation Techniques Application,concept,same unit,,EDCI_8999_triples_raw.json
+EDCI_8999,Combining Qualitative and Quantitative Data,concept,PREREQUISITE_OF,Data Integration Methods,concept,same unit,,EDCI_8999_triples_raw.json
+EDCI_8999,Research Problem Statement,concept,PART_OF,Dissertation Planning,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Literature Review Process,concept,PART_OF,Dissertation Planning,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Research Questions Development,concept,PART_OF,Dissertation Planning,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Data Collection Techniques,concept,PART_OF,Qualitative Research Methods,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Coding and Theme Identification,concept,PART_OF,Qualitative Research Methods,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Data Analysis Strategies,concept,PART_OF,Qualitative Research Methods,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Research Design Principles,concept,PART_OF,Quantitative Research Methods,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Sampling Strategies Selection,concept,PART_OF,Quantitative Research Methods,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Measurement Tools Development,concept,PART_OF,Quantitative Research Methods,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Triangulation Techniques Application,concept,PART_OF,Mixed-Methods Research Approaches,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Methodology Section Development,concept,PART_OF,Research Design and Proposal Writing,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Ethics and IRB Considerations,concept,PART_OF,Research Design and Proposal Writing,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Chapter Organization and Structure,concept,PART_OF,Writing the Dissertation,topic,,,EDCI_8999_triples_raw.json
+EDCI_8999,Results and Discussion Sections,concept,PART_OF,Writing the Dissertation,topic,,,EDCI_8999_triples_raw.json

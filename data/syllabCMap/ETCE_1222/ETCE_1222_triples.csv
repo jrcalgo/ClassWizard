@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETCE_1222,mineral aggregates,topic,PREREQUISITE_OF,portland cement concrete,topic,A taught first,,ETCE_1222_triples_raw.json
+ETCE_1222,masonry,topic,PREREQUISITE_OF,wood,topic,A taught first,,ETCE_1222_triples_raw.json
+ETCE_1222,masonry,topic,PREREQUISITE_OF,asphalt concrete,topic,A taught first,,ETCE_1222_triples_raw.json
+ETCE_1222,masonry,topic,PREREQUISITE_OF,metals,topic,A taught first,,ETCE_1222_triples_raw.json
+ETCE_1222,masonry,topic,PREREQUISITE_OF,plastics,topic,A taught first,,ETCE_1222_triples_raw.json
+ETCE_1222,mineral aggregates,topic,PREREQUISITE_OF,asphalt concrete,topic,A taught first,,ETCE_1222_triples_raw.json
+ETCE_1222,mineral aggregates,topic,PREREQUISITE_OF,metals,topic,A taught first,,ETCE_1222_triples_raw.json
+ETCE_1222,mineral aggregates,topic,PREREQUISITE_OF,plastics,topic,A taught first,,ETCE_1222_triples_raw.json
+ETCE_1222,mineral aggregates,topic,PART_OF,Construction Materials,topic,,,ETCE_1222_triples_raw.json
+ETCE_1222,portland cement concrete,topic,PART_OF,Construction Materials,topic,,,ETCE_1222_triples_raw.json
+ETCE_1222,masonry,topic,PART_OF,Construction Materials,topic,,,ETCE_1222_triples_raw.json
+ETCE_1222,wood,topic,PART_OF,Construction Materials,topic,,,ETCE_1222_triples_raw.json
+ETCE_1222,asphalt concrete,topic,PART_OF,Construction Materials,topic,,,ETCE_1222_triples_raw.json
+ETCE_1222,metals,topic,PART_OF,Construction Materials,topic,,,ETCE_1222_triples_raw.json
+ETCE_1222,plastics,topic,PART_OF,Construction Materials,topic,,,ETCE_1222_triples_raw.json
+ETCE_1222,other materials,topic,PART_OF,Construction Materials,topic,,,ETCE_1222_triples_raw.json

@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MSCI_4101L,concept,Multidomain Operations,Multidomain Operations,2,verified,Multidomain Operations,MSCI_4101L_concepts_raw.json
+MSCI_4101L,method,Training Management Process,Training Management Process,1,verified,Training Management Process,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Army Officer Development,Army Officer Development,1,inferred,Army Officer Development,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Commander's Role,Commander's Role,1,inferred,Commander's Role,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Staff Organization Structure,Staff Organization Structure,1,inferred,Staff Organization Structure,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Operations Planning,Operations Planning,1,inferred,Operations Planning,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Operations Process Overview,Operations Process Overview,1,inferred,Operations Process Overview,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Planning and Execution Cycle,Planning and Execution Cycle,1,inferred,Planning and Execution Cycle,MSCI_4101L_concepts_raw.json
+MSCI_4101L,method,Unit Readiness Assessment,Unit Readiness Assessment,1,inferred,Unit Readiness Assessment,MSCI_4101L_concepts_raw.json
+MSCI_4101L,method,Leader Development Principles,Leader Development Principles,1,inferred,Leader Development Principles,MSCI_4101L_concepts_raw.json
+MSCI_4101L,method,Unit Training Planning,Unit Training Planning,1,inferred,Unit Training Planning,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Training Prioritization,Training Prioritization,1,inferred,Training Prioritization,MSCI_4101L_concepts_raw.json
+MSCI_4101L,topic,Planning and Preparation Cycle,Planning and Preparation Cycle,1,inferred,Planning and Preparation Cycle,MSCI_4101L_concepts_raw.json
+MSCI_4101L,method,Risk Management Strategies,Risk Management Strategies,1,inferred,Risk Management Strategies,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Training Execution Principles,Training Execution Principles,1,inferred,Training Execution Principles,MSCI_4101L_concepts_raw.json
+MSCI_4101L,method,Evaluation and Assessment Methods,Evaluation and Assessment Methods,1,inferred,Evaluation and Assessment Methods,MSCI_4101L_concepts_raw.json
+MSCI_4101L,topic,Training Meetings and Briefings,Training Meetings and Briefings,1,inferred,Training Meetings and Briefings,MSCI_4101L_concepts_raw.json
+MSCI_4101L,topic,US Military Structure,US Military Structure,1,inferred,US Military Structure,MSCI_4101L_concepts_raw.json
+MSCI_4101L,topic,Army Organizations and Functions,Army Organizations and Functions,1,inferred,Army Organizations and Functions,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Enabler Systems and Capabilities,Enabler Systems and Capabilities,1,inferred,Enabler Systems and Capabilities,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Operation Types Overview,Operation Types Overview,1,inferred,Operation Types Overview,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Multidomain Operations Principles,Multidomain Operations Principles,1,inferred,Multidomain Operations Principles,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Joint Operation Planning,Joint Operation Planning,1,inferred,Joint Operation Planning,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,International Law and Ethics,International Law and Ethics,1,inferred,International Law and Ethics,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Land Warfare Principles,Land Warfare Principles,1,inferred,Land Warfare Principles,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Ethical Decision Making,Ethical Decision Making,1,inferred,Ethical Decision Making,MSCI_4101L_concepts_raw.json
+MSCI_4101L,concept,Mission Command Principles,Mission Command Principles,1,inferred,Mission Command Principles,MSCI_4101L_concepts_raw.json
+MSCI_4101L,method,Case Study Analysis Methods,Case Study Analysis Methods,1,inferred,Case Study Analysis Methods,MSCI_4101L_concepts_raw.json
+MSCI_4101L,topic,Leadership and Decision Making,Leadership and Decision Making,1,inferred,Leadership and Decision Making,MSCI_4101L_concepts_raw.json

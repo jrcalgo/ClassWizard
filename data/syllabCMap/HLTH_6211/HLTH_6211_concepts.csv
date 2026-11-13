@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_6211,topic,Public Health Evaluation,Public Health Evaluation,1,verified,Public Health Evaluation,HLTH_6211_concepts_raw.json
+HLTH_6211,topic,Data Analysis,Data Analysis,1,verified,Data Analysis,HLTH_6211_concepts_raw.json
+HLTH_6211,topic,Public Health Practice,Public Health Practice,3,verified,Public Health Practice,HLTH_6211_concepts_raw.json
+HLTH_6211,concept,biostatistics,biostatistics,3,verified,biostatistics,HLTH_6211_concepts_raw.json
+HLTH_6211,topic,Inferential Epidemiology and Biostatistics,inferential epidemiology and biostatistics,1,verified,Inferential Epidemiology and Biostatistics,HLTH_6211_concepts_raw.json
+HLTH_6211,concept,epidemiological methods,epidemiological methods,1,verified,epidemiological methods,HLTH_6211_concepts_raw.json
+HLTH_6211,concept,descriptive epidemiology,descriptive epidemiology,1,verified,descriptive epidemiology,HLTH_6211_concepts_raw.json
+HLTH_6211,concept,inferential epidemiology,inferential epidemiology,1,verified,inferential epidemiology,HLTH_6211_concepts_raw.json
+HLTH_6211,concept,statistical analysis software,statistical analysis software,1,verified,statistical analysis software,HLTH_6211_concepts_raw.json
+HLTH_6211,concept,data visualizations,data visualizations,1,verified,data visualizations,HLTH_6211_concepts_raw.json
+HLTH_6211,concept,validity of statistical results,validity of statistical results,1,verified,validity of statistical results,HLTH_6211_concepts_raw.json
+HLTH_6211,concept,public health settings,public health settings,1,verified,public health settings,HLTH_6211_concepts_raw.json
+HLTH_6211,method,statistical analysis,statistical analysis,1,verified,statistical analysis,HLTH_6211_concepts_raw.json

@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDUC_1511,educational philosophies,concept,PREREQUISITE_OF,Teaching as a Profession,topic,same unit,,EDUC_1511_triples_raw.json
+EDUC_1511,educational philosophies,concept,PREREQUISITE_OF,leadership,concept,A taught first,,EDUC_1511_triples_raw.json
+EDUC_1511,educational philosophies,concept,PREREQUISITE_OF,professional learning and ethical practice,concept,A taught first,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PREREQUISITE_OF,learning differences,concept,A mentioned first,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PREREQUISITE_OF,learning environments,concept,B mentioned first,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PREREQUISITE_OF,content knowledge,concept,A mentioned first,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PREREQUISITE_OF,application of content,concept,A mentioned first,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PREREQUISITE_OF,assessment,concept,B mentioned first,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PREREQUISITE_OF,planning for instruction,concept,A mentioned first,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PREREQUISITE_OF,instructional strategies,concept,A mentioned first,,EDUC_1511_triples_raw.json
+EDUC_1511,socio-historical context,concept,PART_OF,big ideas,concept,,,EDUC_1511_triples_raw.json
+EDUC_1511,diverse populations,concept,PART_OF,cultural diversity,concept,,,EDUC_1511_triples_raw.json
+EDUC_1511,educational philosophies,concept,PART_OF,Teaching as a Profession,topic,,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PART_OF,learning differences,concept,,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PART_OF,learning environments,concept,,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PART_OF,content knowledge,concept,,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PART_OF,application of content,concept,,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PART_OF,assessment,concept,,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PART_OF,planning for instruction,concept,,,EDUC_1511_triples_raw.json
+EDUC_1511,learner development,concept,PART_OF,instructional strategies,concept,,,EDUC_1511_triples_raw.json

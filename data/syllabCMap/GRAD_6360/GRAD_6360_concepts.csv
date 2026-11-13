@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GRAD_6360,concept,Time series analysis,Time series analysis,1,verified,Time series analysis,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Stationarity assumption,Stationarity assumption,1,verified,Stationarity assumption,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,ARIMA model components,ARIMA model components,1,verified,ARIMA model components,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Differencing techniques used,Differencing techniques used,1,verified,Differencing techniques used,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Hypothesis Testing,Hypothesis Testing,1,verified,Hypothesis Testing,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Confidence Intervals,Confidence Intervals,1,verified,Confidence Intervals,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Sampling Distributions,Sampling Distributions,1,verified,Sampling Distributions,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Standard Error Estimation,Standard Error Estimation,1,verified,Standard Error Estimation,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Maximum likelihood estimation,Maximum likelihood estimation,1,verified,Maximum likelihood estimation,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Bayesian inference methods,Bayesian inference methods,1,verified,Bayesian inference methods,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Markov chain Monte Carlo,Markov chain Monte Carlo,2,verified,Markov chain Monte Carlo,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Gibbs sampling algorithm,Gibbs sampling algorithm,2,verified,Gibbs sampling algorithm,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,Convergence diagnostics,Convergence diagnostics,1,verified,Convergence diagnostics,GRAD_6360_concepts_raw.json
+GRAD_6360,concept,MCMC convergence criteria,MCMC convergence criteria,1,verified,MCMC convergence criteria,GRAD_6360_concepts_raw.json

@@ -1,0 +1,54 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,MicroRNAs and their targets,concept,same unit,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,Small interfering RNAs function,concept,same unit,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,RNA level control mechanisms,concept,same unit,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,Gene Expression Control,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,Gene silencing techniques used,concept,same unit,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,Post-Transcriptional Regulation,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,MicroRNAs function,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,RNA Binding Proteins,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,RNA splicing,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,Alternative splicing,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,Non-coding RNAs role,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,mRNA capping,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,mRNA stability factors,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,polyadenylation process,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,capping enzymes function,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,poly(A) tail formation,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,polyadenylation regulation mechanisms,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,spliceosome structure and function,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,pre-mRNA processing stages,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,intron removal techniques,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,exon recognition factors,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,MicroRNA Functionality,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,Long Noncoding RNAs,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,mRNA Stability Mechanisms,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,Translational Regulation Pathways,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-transcriptional gene regulation,concept,PREREQUISITE_OF,mRNA Decay Processes,concept,A taught first,,BIOL_4000_triples_raw.json
+BIOL_4000,Small Interfering RNAs,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,RNA level control mechanisms,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,Gene Expression Control,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,Post-Transcriptional Regulation,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,RNA Binding Proteins,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,RNA splicing,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,Alternative splicing,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,mRNA stability factors,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,polyadenylation process,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,poly(A) tail formation,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,cap structure importance,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,polyadenylation regulation mechanisms,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,spliceosome structure and function,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,pre-mRNA processing stages,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,intron removal techniques,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,exon recognition factors,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,Long Noncoding RNAs,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,mRNA Stability Mechanisms,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,Translational Regulation Pathways,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,mRNA Decay Processes,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_4000_triples_raw.json
+BIOL_4000,Cloning,method,USED_FOR,Gene editing technologies,method,,,BIOL_4000_triples_raw.json
+BIOL_4000,PCR,method,USED_FOR,Gene editing technologies,method,,,BIOL_4000_triples_raw.json
+BIOL_4000,Next Generation Sequencing,method,USED_FOR,Post-transcriptional gene silencing,method,,,BIOL_4000_triples_raw.json
+BIOL_4000,RNA Sequencing Techniques,method,USED_FOR,Post-transcriptional gene silencing,method,,,BIOL_4000_triples_raw.json
+BIOL_4000,CRISPR-Cas9 mechanism,method,USED_FOR,Gene editing technologies,method,,,BIOL_4000_triples_raw.json
+BIOL_4000,Gene editing technologies,method,USED_FOR,Post-transcriptional gene silencing,method,,,BIOL_4000_triples_raw.json
+BIOL_4000,RNA Editing Mechanisms,method,USED_FOR,Post-transcriptional gene silencing,method,,,BIOL_4000_triples_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_3155,Qualitative Interviews,method,PREREQUISITE_OF,Questionnaire Surveys,method,A taught first,,SOCY_3155_triples_raw.json
+SOCY_3155,Questionnaire Surveys,method,PREREQUISITE_OF,Experiments in Research,method,A taught first,,SOCY_3155_triples_raw.json
+SOCY_3155,Questionnaire Surveys,method,PREREQUISITE_OF,Unobtrusive Data Collection,method,same unit,,SOCY_3155_triples_raw.json
+SOCY_3155,Experiments in Research,method,PREREQUISITE_OF,Unobtrusive Data Collection,method,B taught first,B is taught before A - check,SOCY_3155_triples_raw.json
+SOCY_3155,Questionnaire Surveys,method,USED_FOR,Conceptualization,concept,,,SOCY_3155_triples_raw.json
+SOCY_3155,Questionnaire Surveys,method,USED_FOR,Operationalization,concept,,,SOCY_3155_triples_raw.json
+SOCY_3155,Unobtrusive Data Collection,method,USED_FOR,Hypothesis Formulation,concept,,,SOCY_3155_triples_raw.json
+SOCY_3155,Unobtrusive Data Collection,method,USED_FOR,Conceptualization,concept,,,SOCY_3155_triples_raw.json
+SOCY_3155,Unobtrusive Data Collection,method,USED_FOR,Operationalization,concept,,,SOCY_3155_triples_raw.json
+SOCY_3155,Unobtrusive Data Collection,method,USED_FOR,Measurement,concept,,,SOCY_3155_triples_raw.json

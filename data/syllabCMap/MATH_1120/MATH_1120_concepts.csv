@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_1120,topic,Optimization Problems,optimization problems,1,verified,Optimization Problems,MATH_1120_concepts_raw.json
+MATH_1120,topic,Area Under a Curve,area under a curve,1,verified,Area Under a Curve,MATH_1120_concepts_raw.json
+MATH_1120,concept,product and quotient rules,Product and Quotient Rules,1,verified,product and quotient rules,MATH_1120_concepts_raw.json
+MATH_1120,concept,increasing and decreasing intervals,increasing and decreasing intervals,1,verified,increasing and decreasing intervals,MATH_1120_concepts_raw.json
+MATH_1120,concept,maximums and minimums,maximums and minimums,1,verified,maximums and minimums,MATH_1120_concepts_raw.json
+MATH_1120,concept,second derivative test,Second Derivative Tests,1,verified,second derivative test,MATH_1120_concepts_raw.json
+MATH_1120,concept,real-world optimization,real-world optimization,1,verified,real-world optimization,MATH_1120_concepts_raw.json
+MATH_1120,concept,non-substitution approaches,non-substitution approaches,1,verified,non-substitution approaches,MATH_1120_concepts_raw.json

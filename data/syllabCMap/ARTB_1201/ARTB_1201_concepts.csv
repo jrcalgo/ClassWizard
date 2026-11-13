@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARTB_1201,topic,2D Design,2D Design,1,verified,2D Design,ARTB_1201_concepts_raw.json
+ARTB_1201,topic,Drawing,drawing,3,verified,Introduction to Drawing,ARTB_1201_concepts_raw.json
+ARTB_1201,topic,Drawing Materials and Techniques,drawing materials and techniques,1,verified,Drawing Materials and Techniques,ARTB_1201_concepts_raw.json
+ARTB_1201,concept,drawing terminology,drawing terminology,1,verified,drawing terminology,ARTB_1201_concepts_raw.json
+ARTB_1201,concept,visual organization,visual organization,1,verified,visual organization,ARTB_1201_concepts_raw.json
+ARTB_1201,concept,formal elements,formal elements,1,verified,formal elements,ARTB_1201_concepts_raw.json
+ARTB_1201,method,principles of design,principles of design,1,verified,manipulating elements and principles of design,ARTB_1201_concepts_raw.json
+ARTB_1201,method,techniques,techniques,2,verified,using drawing materials and techniques,ARTB_1201_concepts_raw.json
+ARTB_1201,method,critique for evaluation,critique for evaluation,1,verified,electronically submitting image and critique for evaluation,ARTB_1201_concepts_raw.json

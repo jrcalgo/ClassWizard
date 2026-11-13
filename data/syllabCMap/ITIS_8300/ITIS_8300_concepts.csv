@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_8300,topic,Human-Centered Design,Human-Centered Design,2,verified,Human-Centered Design,ITIS_8300_concepts_raw.json
+ITIS_8300,concept,design principles,design principles,2,verified,design principles,ITIS_8300_concepts_raw.json
+ITIS_8300,concept,need finding,need finding,2,verified,need finding,ITIS_8300_concepts_raw.json
+ITIS_8300,concept,design prototypes,design prototypes,2,verified,design prototypes,ITIS_8300_concepts_raw.json
+ITIS_8300,topic,usability,usability,1,verified,usability,ITIS_8300_concepts_raw.json
+ITIS_8300,topic,user experience,user experiences,1,verified,user experience,ITIS_8300_concepts_raw.json
+ITIS_8300,topic,human-computer interaction,human-computer interaction,1,verified,human-computer interaction,ITIS_8300_concepts_raw.json
+ITIS_8300,concept,theories of human abilities and cognition,theories of human abilities and cognition,1,verified,theories of human abilities and cognition,ITIS_8300_concepts_raw.json

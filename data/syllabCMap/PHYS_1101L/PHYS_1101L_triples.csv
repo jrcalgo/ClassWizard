@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_1101L,Laboratory,topic,PREREQUISITE_OF,Scientific Investigation Process,concept,B mentioned first,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Kinematics Concepts Review,concept,PREREQUISITE_OF,Velocity and Acceleration Measurement,concept,same unit,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Newton's Laws of Motion,concept,PREREQUISITE_OF,Frictional Forces Types,concept,same unit,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Work-Energy Theorem Application,concept,PREREQUISITE_OF,Kinetic Energy Calculation,concept,same unit,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Linear Momentum Conservation,concept,PREREQUISITE_OF,Impulse-Momentum Relationship,concept,same unit,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Experimental Apparatus Familiarization,concept,PART_OF,Laboratory,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Precision and Accuracy,concept,PART_OF,Measurement Techniques,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Significant Figures Rules,concept,PART_OF,Measurement Techniques,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Data Collection Methods,concept,PART_OF,Measurement Techniques,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Kinematics Concepts Review,concept,PART_OF,Motion Lab,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Velocity and Acceleration Measurement,concept,PART_OF,Motion Lab,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Graphical Analysis Techniques,concept,PART_OF,Motion Lab,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Newton's Laws of Motion,concept,PART_OF,Force and Motion,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Energy Conservation Principles,concept,PART_OF,Force and Motion,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Work-Energy Theorem Application,concept,PART_OF,Work and Energy,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Kinetic Energy Calculation,concept,PART_OF,Work and Energy,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Potential Energy Concepts,concept,PART_OF,Work and Energy,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Linear Momentum Conservation,concept,PART_OF,Momentum Lab,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Impulse-Momentum Relationship,concept,PART_OF,Momentum Lab,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Angular Momentum Principles,concept,PART_OF,Rotational Motion,topic,,,PHYS_1101L_triples_raw.json
+PHYS_1101L,Moment of Inertia Calculation,concept,PART_OF,Rotational Motion,topic,,,PHYS_1101L_triples_raw.json

@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_2050,College Transition Experience,concept,PREREQUISITE_OF,English Department Involvement,concept,same unit,,ENGL_2050_triples_raw.json
+ENGL_2050,Reading Alice's Adventures,topic,PREREQUISITE_OF,Reflection and Journaling,topic,A taught first,,ENGL_2050_triples_raw.json
+ENGL_2050,Reading Alice's Adventures,topic,PREREQUISITE_OF,Presentations and Communication,topic,A taught first,,ENGL_2050_triples_raw.json
+ENGL_2050,Reading Alice's Adventures,topic,PREREQUISITE_OF,Final Presentations and Reflections,topic,A taught first,,ENGL_2050_triples_raw.json
+ENGL_2050,College Transition Experience,concept,PART_OF,English Learning Community,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Cultural Awareness and Identity,topic,PART_OF,English Learning Community,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Inquiry as a Learning Process,topic,PART_OF,English Learning Community,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Reflection and Journaling,topic,PART_OF,English Learning Community,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Presentations and Communication,topic,PART_OF,English Learning Community,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Inquiry Project Planning,topic,PART_OF,English Learning Community,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Literary Analysis Techniques,concept,USED_FOR,Reading Alice's Adventures,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Character Development Insights,concept,USED_FOR,Reading Alice's Adventures,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Thematic Understanding,concept,USED_FOR,Reading Alice's Adventures,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Event Reflection Methods,concept,USED_FOR,Reflection and Journaling,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Presentation Skills Development,concept,USED_FOR,Presentations and Communication,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Effective Communication Strategies,concept,USED_FOR,Presentations and Communication,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Project Design Methods,concept,USED_FOR,Inquiry Project Planning,topic,,,ENGL_2050_triples_raw.json
+ENGL_2050,Inquiry Project Proposal,concept,USED_FOR,Inquiry Project Planning,topic,,,ENGL_2050_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_3103,Health Belief Model Components,concept,PREREQUISITE_OF,Theory of Reasoned Action Application,concept,same unit,,HLTH_3103_triples_raw.json
+HLTH_3103,Social Cognitive Theory,topic,PREREQUISITE_OF,Transtheoretical Model of Change,topic,A taught first,,HLTH_3103_triples_raw.json
+HLTH_3103,Behavior Change Theories Overview,concept,PREREQUISITE_OF,Applying Behavior Change Theories in Practice,topic,A taught first,,HLTH_3103_triples_raw.json
+HLTH_3103,Health Promotion Strategies,concept,PART_OF,Behavior Change,topic,,,HLTH_3103_triples_raw.json
+HLTH_3103,Public Health Research Practice,concept,PART_OF,Behavior Change,topic,,,HLTH_3103_triples_raw.json
+HLTH_3103,Theory-Based Intervention Development,concept,PART_OF,Applying Behavior Change Theories in Practice,topic,,,HLTH_3103_triples_raw.json
+HLTH_3103,Decisional Balance Scale Application,concept,USED_FOR,Transtheoretical Model of Change,topic,,,HLTH_3103_triples_raw.json
+HLTH_3103,Prochaska's Readiness Ruler,concept,USED_FOR,Transtheoretical Model of Change,topic,,,HLTH_3103_triples_raw.json
+HLTH_3103,Perceived Susceptibility and Severity,concept,USED_FOR,Health Belief Model Components,concept,,,HLTH_3103_triples_raw.json
+HLTH_3103,Theory of Reasoned Action Application,concept,USED_FOR,Health Belief Model and Theory of Reasoned Action,topic,,,HLTH_3103_triples_raw.json
+HLTH_3103,Motivational Interviewing Principles,concept,USED_FOR,Motivational Interviewing Techniques,topic,,,HLTH_3103_triples_raw.json

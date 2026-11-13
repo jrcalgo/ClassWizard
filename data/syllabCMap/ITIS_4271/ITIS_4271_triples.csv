@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4271,Machine Learning Preliminaries,topic,PREREQUISITE_OF,Data Poisoning attacks,topic,B mentioned first,,ITIS_4271_triples_raw.json
+ITIS_4271,Machine Learning Preliminaries,topic,PREREQUISITE_OF,Privacy attacks,topic,B mentioned first,,ITIS_4271_triples_raw.json
+ITIS_4271,Machine Learning Preliminaries,topic,PREREQUISITE_OF,Risk management in LLMs,topic,A mentioned first,,ITIS_4271_triples_raw.json
+ITIS_4271,Machine Learning Preliminaries,topic,PREREQUISITE_OF,Bias discovery,topic,B mentioned first,,ITIS_4271_triples_raw.json
+ITIS_4271,Machine Learning Preliminaries,topic,PREREQUISITE_OF,Bias mitigation,topic,B mentioned first,,ITIS_4271_triples_raw.json
+ITIS_4271,Machine Learning Preliminaries,topic,PREREQUISITE_OF,Distribution shifts,topic,A mentioned first,,ITIS_4271_triples_raw.json

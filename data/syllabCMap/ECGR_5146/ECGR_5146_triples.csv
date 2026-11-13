@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5146,Digital Design Components,topic,PREREQUISITE_OF,Placement and Routing,topic,A taught first,,ECGR_5146_triples_raw.json
+ECGR_5146,VHDL,tool,PREREQUISITE_OF,VHDL Design Flow,topic,A taught first,,ECGR_5146_triples_raw.json
+ECGR_5146,FPGA Architecture,topic,PREREQUISITE_OF,VHDL Design Flow,topic,A taught first,,ECGR_5146_triples_raw.json

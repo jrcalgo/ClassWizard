@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_6200,Probability,topic,PREREQUISITE_OF,Bayes' theorem,concept,same unit,,BINF_6200_triples_raw.json
+BINF_6200,Probability,topic,PREREQUISITE_OF,statistical inference,method,A mentioned first,,BINF_6200_triples_raw.json
+BINF_6200,Bayes' theorem,concept,PREREQUISITE_OF,confidence intervals,method,A taught first,,BINF_6200_triples_raw.json
+BINF_6200,Bayes' theorem,concept,PREREQUISITE_OF,hypothesis testing,method,A taught first,,BINF_6200_triples_raw.json
+BINF_6200,Bayes' theorem,concept,PREREQUISITE_OF,linear regression,method,A taught first,,BINF_6200_triples_raw.json
+BINF_6200,Bayes' theorem,concept,PREREQUISITE_OF,correlation analysis,method,A taught first,,BINF_6200_triples_raw.json
+BINF_6200,Bayes' theorem,concept,PART_OF,Probability,topic,,,BINF_6200_triples_raw.json
+BINF_6200,Central Limit Theorem,method,PART_OF,sampling distributions of a statistic,method,,,BINF_6200_triples_raw.json
+BINF_6200,R,tool,USED_FOR,Linear Regression and Correlation Analysis,topic,,,BINF_6200_triples_raw.json
+BINF_6200,R,tool,USED_FOR,hypothesis testing,method,,,BINF_6200_triples_raw.json

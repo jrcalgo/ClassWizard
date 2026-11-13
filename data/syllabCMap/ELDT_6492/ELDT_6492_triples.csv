@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_6492,"Learning, Design and Technology",topic,PREREQUISITE_OF,Capstone Project Overview,topic,B taught first,B is taught before A - check,ELDT_6492_triples_raw.json
+ELDT_6492,"Learning, Design and Technology",topic,PREREQUISITE_OF,Electronic Portfolio Development,topic,B taught first,B is taught before A - check,ELDT_6492_triples_raw.json
+ELDT_6492,"Learning, Design and Technology",topic,PREREQUISITE_OF,Technology Integration in Learning Design,topic,A taught first,,ELDT_6492_triples_raw.json
+ELDT_6492,"Learning, Design and Technology",topic,PREREQUISITE_OF,Capstone Project Finalization,topic,A taught first,,ELDT_6492_triples_raw.json
+ELDT_6492,Project Development Process,concept,PART_OF,Capstone Project Overview,topic,,,ELDT_6492_triples_raw.json
+ELDT_6492,APA Publication Guidelines,topic,PART_OF,Electronic Portfolio Development,topic,,,ELDT_6492_triples_raw.json
+ELDT_6492,Technology Integration Strategies,concept,PART_OF,Technology Integration in Learning Design,topic,,,ELDT_6492_triples_raw.json
+ELDT_6492,APA Publication Guidelines,topic,USED_FOR,Electronic Portfolio Development,topic,,topic used for something - check direction,ELDT_6492_triples_raw.json

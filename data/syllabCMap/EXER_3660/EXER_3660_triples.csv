@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_3660,contemporary exercise practices,concept,PART_OF,health and wellness emphasis,concept,,,EXER_3660_triples_raw.json
+EXER_3660,scholarly views on exercise,concept,PART_OF,contemporary exercise practices,concept,,,EXER_3660_triples_raw.json
+EXER_3660,multiple theoretical frameworks,concept,PART_OF,scholarly views on exercise,concept,,,EXER_3660_triples_raw.json

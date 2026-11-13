@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3000,American Exceptionalism,topic,PREREQUISITE_OF,murder rates comparison,concept,same unit,,HIST_3000_triples_raw.json
+HIST_3000,case study research methods,concept,PREREQUISITE_OF,analyzing historical violence,concept,same unit,,HIST_3000_triples_raw.json
+HIST_3000,writing a comparative paper,concept,PREREQUISITE_OF,comparative historical analysis,concept,same unit,,HIST_3000_triples_raw.json
+HIST_3000,drafting a research proposal,concept,PREREQUISITE_OF,conducting original research,concept,same unit,,HIST_3000_triples_raw.json
+HIST_3000,Murder as Historical Source,topic,PART_OF,American Exceptionalism,topic,,,HIST_3000_triples_raw.json
+HIST_3000,racial and sexual tensions,concept,PART_OF,Hannah Mary Tabbs case study,concept,,,HIST_3000_triples_raw.json
+HIST_3000,violence in American culture,concept,PART_OF,Murder as Historical Source,topic,,,HIST_3000_triples_raw.json
+HIST_3000,comparative historical analysis,concept,PART_OF,analyzing historical violence,concept,,,HIST_3000_triples_raw.json
+HIST_3000,murder rates comparison,concept,SUBTYPE_OF,Murder as Historical Source,topic,,,HIST_3000_triples_raw.json
+HIST_3000,racial violence in America,concept,SUBTYPE_OF,violence in US society,concept,,,HIST_3000_triples_raw.json
+HIST_3000,sexual violence in history,concept,SUBTYPE_OF,violence in US society,concept,,,HIST_3000_triples_raw.json
+HIST_3000,disembodied torso mystery,concept,SUBTYPE_OF,Hannah Mary Tabbs case study,concept,,,HIST_3000_triples_raw.json
+HIST_3000,case study research methods,concept,USED_FOR,analyzing historical violence,concept,,,HIST_3000_triples_raw.json
+HIST_3000,comparative historical analysis,concept,USED_FOR,writing a comparative paper,concept,,,HIST_3000_triples_raw.json
+HIST_3000,drafting a research proposal,concept,USED_FOR,conducting original research,concept,,,HIST_3000_triples_raw.json

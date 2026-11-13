@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_2201,Spanish Alphabet and Pronunciation,concept,PREREQUISITE_OF,Basic Phrases and Greetings,concept,same unit,,SPAN_2201_triples_raw.json
+SPAN_2201,Identifying Main Ideas in Texts,concept,PREREQUISITE_OF,Understanding Simple Sentences,concept,same unit,,SPAN_2201_triples_raw.json
+SPAN_2201,Identifying Main Ideas in Texts,concept,PREREQUISITE_OF,Recognizing Key Vocabulary,concept,same unit,,SPAN_2201_triples_raw.json
+SPAN_2201,Giving Simple Presentations and Talks,concept,PREREQUISITE_OF,Discussing Familiar Topics with a General Audience,concept,same unit,,SPAN_2201_triples_raw.json
+SPAN_2201,Spanish Alphabet and Pronunciation,concept,PART_OF,Spanish,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Basic Phrases and Greetings,concept,PART_OF,Spanish,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Introductions and Self-Description,concept,PART_OF,Spanish,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Identifying Main Ideas in Texts,concept,PART_OF,Reading Comprehension,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Understanding Simple Sentences,concept,PART_OF,Reading Comprehension,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Recognizing Key Vocabulary,concept,PART_OF,Reading Comprehension,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Discussing Daily Life and Habits,concept,PART_OF,Everyday Conversations,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Cultural Differences and Similarities,concept,PART_OF,Cultural Perspectives,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Understanding Cultural Norms and Values,concept,PART_OF,Cultural Perspectives,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Basic Sentence Structure and Grammar,concept,PART_OF,Writing in Spanish,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Describing Personal Experiences and Feelings,concept,PART_OF,Writing in Spanish,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Writing Short Paragraphs and Descriptions,concept,PART_OF,Writing in Spanish,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Giving Simple Presentations and Talks,concept,PART_OF,Presenting Information,topic,,,SPAN_2201_triples_raw.json
+SPAN_2201,Spanish,topic,USED_FOR,Reading Comprehension,topic,,topic used for something - check direction,SPAN_2201_triples_raw.json
+SPAN_2201,Spanish,topic,USED_FOR,Everyday Conversations,topic,,topic used for something - check direction,SPAN_2201_triples_raw.json
+SPAN_2201,Spanish,topic,USED_FOR,Presenting Information,topic,,topic used for something - check direction,SPAN_2201_triples_raw.json

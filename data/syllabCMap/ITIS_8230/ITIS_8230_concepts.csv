@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_8230,topic,Information Infrastructure Protection,Information Infrastructure Protection,2,verified,Information Infrastructure Protection,ITIS_8230_concepts_raw.json
+ITIS_8230,topic,Risk Assessment and Management,risk assessment and management,2,verified,Risk Assessment and Management,ITIS_8230_concepts_raw.json
+ITIS_8230,topic,Infrastructure Reconnaissance,infrastructure reconnaissance,2,verified,Infrastructure Reconnaissance,ITIS_8230_concepts_raw.json
+ITIS_8230,concept,prevent-detect-response strategy for enterprise security,prevent-detect-response strategy for enterprise security,2,verified,prevent-detect-response strategy for enterprise security,ITIS_8230_concepts_raw.json
+ITIS_8230,topic,Enterprise Security Fundamentals,Enterprise Security Fundamentals,1,inferred,Enterprise Security Fundamentals,ITIS_8230_concepts_raw.json
+ITIS_8230,topic,Forensic Analysis and Investigation,Forensic Analysis and Investigation,1,inferred,Forensic Analysis and Investigation,ITIS_8230_concepts_raw.json
+ITIS_8230,topic,Disaster Recovery and Business Continuity,Disaster Recovery and Business Continuity,1,inferred,Disaster Recovery and Business Continuity,ITIS_8230_concepts_raw.json
+ITIS_8230,concept,Cybersecurity Policies and Procedures,Cybersecurity Policies and Procedures,1,inferred,Cybersecurity Policies and Procedures,ITIS_8230_concepts_raw.json
+ITIS_8230,method,risk assessment methodologies,Risk Assessment Methodologies,1,inferred,risk assessment methodologies,ITIS_8230_concepts_raw.json
+ITIS_8230,method,threat and vulnerability analysis,Threat and Vulnerability Analysis,1,inferred,threat and vulnerability analysis,ITIS_8230_concepts_raw.json
+ITIS_8230,concept,risk management techniques,Risk Management Techniques,1,inferred,risk management techniques,ITIS_8230_concepts_raw.json
+ITIS_8230,method,network infrastructure mapping,Network Infrastructure Mapping,1,inferred,network infrastructure mapping,ITIS_8230_concepts_raw.json
+ITIS_8230,method,system configuration analysis,System Configuration Analysis,1,inferred,system configuration analysis,ITIS_8230_concepts_raw.json
+ITIS_8230,method,vulnerability scanning tools,Vulnerability Scanning Tools,1,inferred,vulnerability scanning tools,ITIS_8230_concepts_raw.json
+ITIS_8230,method,digital forensics fundamentals,Digital Forensics Fundamentals,1,inferred,digital forensics fundamentals,ITIS_8230_concepts_raw.json
+ITIS_8230,method,incident response planning,Incident Response Planning,1,inferred,incident response planning,ITIS_8230_concepts_raw.json
+ITIS_8230,method,evidence collection and preservation,Evidence Collection and Preservation,1,inferred,evidence collection and preservation,ITIS_8230_concepts_raw.json
+ITIS_8230,method,business impact analysis,Business Impact Analysis,1,inferred,business impact analysis,ITIS_8230_concepts_raw.json
+ITIS_8230,concept,recovery point objective,Recovery Point Objective,1,inferred,recovery point objective,ITIS_8230_concepts_raw.json
+ITIS_8230,method,disaster recovery planning,Disaster Recovery Planning,1,inferred,disaster recovery planning,ITIS_8230_concepts_raw.json

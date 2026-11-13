@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_6130,factors contributing to minimal learning,concept,PREREQUISITE_OF,student learning barriers identification,concept,same unit,,ESCI_6130_triples_raw.json
+ESCI_6130,exercises supporting student learning,concept,PREREQUISITE_OF,interventions to enhance learning,concept,same unit,,ESCI_6130_triples_raw.json
+ESCI_6130,aligning assessments with learning goals,concept,PREREQUISITE_OF,student work evaluation criteria,concept,same unit,,ESCI_6130_triples_raw.json
+ESCI_6130,supporting student motivation strategies,concept,PREREQUISITE_OF,self-regulation techniques for learning,concept,same unit,,ESCI_6130_triples_raw.json
+ESCI_6130,geoscience discipline overview,concept,PART_OF,Geoscience,topic,,,ESCI_6130_triples_raw.json
+ESCI_6130,science disciplines comparison,concept,PART_OF,Geoscience,topic,,,ESCI_6130_triples_raw.json
+ESCI_6130,inclusive classroom environment,concept,PART_OF,Supporting All Students,topic,,,ESCI_6130_triples_raw.json
+ESCI_6130,supporting student motivation strategies,concept,PART_OF,Motivation and Self-Regulation,topic,,,ESCI_6130_triples_raw.json
+ESCI_6130,self-regulation techniques for learning,concept,PART_OF,Motivation and Self-Regulation,topic,,,ESCI_6130_triples_raw.json
+ESCI_6130,research-based teaching methods,concept,PART_OF,Research-Validated Pedagogy,topic,,,ESCI_6130_triples_raw.json
+ESCI_6130,pedagogy design and implementation,concept,PART_OF,Research-Validated Pedagogy,topic,,,ESCI_6130_triples_raw.json
+ESCI_6130,learning goals and objectives alignment,concept,PART_OF,Course Design and Alignment,topic,,,ESCI_6130_triples_raw.json
+ESCI_6130,instructional activities and assessments,concept,PART_OF,Course Design and Alignment,topic,,,ESCI_6130_triples_raw.json

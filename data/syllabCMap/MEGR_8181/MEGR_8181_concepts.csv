@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_8181,topic,Metrology,Metrology,3,verified,Metrology,MEGR_8181_concepts_raw.json
+MEGR_8181,topic,Uncertainty,Uncertainty,1,verified,Uncertainty,MEGR_8181_concepts_raw.json
+MEGR_8181,topic,Precision and Accuracy in Metrology,precision and accuracy in metrology,1,verified,Precision and Accuracy in Metrology,MEGR_8181_concepts_raw.json
+MEGR_8181,topic,Surface Texture and Out of Roundness,surface texture and out of roundness,1,verified,Surface Texture and Out of Roundness,MEGR_8181_concepts_raw.json
+MEGR_8181,topic,Machine Tool and Robot Accuracy and Calibration,Machine tool and robot accuracy and calibration,1,verified,Machine Tool and Robot Accuracy and Calibration,MEGR_8181_concepts_raw.json
+MEGR_8181,topic,Evaluation of Screw Threads and Gears,Evaluation of screw threads and gears,1,verified,Evaluation of Screw Threads and Gears,MEGR_8181_concepts_raw.json
+MEGR_8181,topic,Design of Precision Instruments,design of precision instruments,1,verified,Design of Precision Instruments,MEGR_8181_concepts_raw.json
+MEGR_8181,method,computational methods,computational methods,1,verified,computational methods,MEGR_8181_concepts_raw.json

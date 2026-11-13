@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CMET_2105,topic,Drawings,drawings,2,verified,Introduction to Drawings,CMET_2105_concepts_raw.json
+CMET_2105,concept,Mechanical,mechanical,1,verified,"Mechanical, Electrical, Plumbing Basics",CMET_2105_concepts_raw.json
+CMET_2105,concept,Construction Drawing Basics,Construction Drawing Basics,1,inferred,Construction Drawing Basics,CMET_2105_concepts_raw.json
+CMET_2105,concept,Foundation Types and Materials,Foundation Types and Materials,1,inferred,Foundation Types and Materials,CMET_2105_concepts_raw.json
+CMET_2105,concept,Floor Framing and Finishing,Floor Framing and Finishing,1,inferred,Floor Framing and Finishing,CMET_2105_concepts_raw.json
+CMET_2105,concept,Wall Construction Methods,Wall Construction Methods,1,inferred,Wall Construction Methods,CMET_2105_concepts_raw.json
+CMET_2105,concept,Load-Bearing vs. Non-Load Bearing,Load-Bearing vs. Non-Load Bearing,1,inferred,Load-Bearing vs. Non-Load Bearing,CMET_2105_concepts_raw.json
+CMET_2105,concept,Roof Types and Materials,Roof Types and Materials,1,inferred,Roof Types and Materials,CMET_2105_concepts_raw.json
+CMET_2105,concept,Drainage Systems and Gutters,Drainage Systems and Gutters,1,inferred,Drainage Systems and Gutters,CMET_2105_concepts_raw.json
+CMET_2105,concept,Beams and Columns Design,Beams and Columns Design,1,inferred,Beams and Columns Design,CMET_2105_concepts_raw.json
+CMET_2105,concept,Joist and Rafter Framing,Joist and Rafter Framing,1,inferred,Joist and Rafter Framing,CMET_2105_concepts_raw.json
+CMET_2105,concept,Connection Details and Splices,Connection Details and Splices,1,inferred,Connection Details and Splices,CMET_2105_concepts_raw.json
+CMET_2105,topic,"Mechanical, Electrical, Plumbing Basics","Mechanical, Electrical, Plumbing Basics",1,inferred,"Mechanical, Electrical, Plumbing Basics",CMET_2105_concepts_raw.json
+CMET_2105,concept,System Interdependencies and Coordination,System Interdependencies and Coordination,1,inferred,System Interdependencies and Coordination,CMET_2105_concepts_raw.json
+CMET_2105,concept,Space Planning and Layout,Space Planning and Layout,1,inferred,Space Planning and Layout,CMET_2105_concepts_raw.json
+CMET_2105,concept,Building Codes and Regulations,Building Codes and Regulations,1,inferred,Building Codes and Regulations,CMET_2105_concepts_raw.json
+CMET_2105,concept,Standards and Industry Guidelines,Standards and Industry Guidelines,1,inferred,Standards and Industry Guidelines,CMET_2105_concepts_raw.json
+CMET_2105,concept,Drawing Conventions and Symbols,Drawing Conventions and Symbols,1,inferred,Drawing Conventions and Symbols,CMET_2105_concepts_raw.json
+CMET_2105,concept,Scale and Notation Systems,Scale and Notation Systems,1,inferred,Scale and Notation Systems,CMET_2105_concepts_raw.json
+CMET_2105,concept,Footings and Slab-on-Grade,Footings and Slab-on-Grade,1,inferred,Footings and Slab-on-Grade,CMET_2105_concepts_raw.json
+CMET_2105,concept,Wall Footing Design,Wall Footing Design,1,inferred,Wall Footing Design,CMET_2105_concepts_raw.json
+CMET_2105,concept,Flashings and Weatherproofing,Flashings and Weatherproofing,1,inferred,Flashings and Weatherproofing,CMET_2105_concepts_raw.json
+CMET_2105,concept,Electrical,Electrical,1,inferred,"Mechanical, Electrical, Plumbing Basics",CMET_2105_concepts_raw.json
+CMET_2105,concept,Plumbing Basics,Plumbing Basics,1,inferred,"Mechanical, Electrical, Plumbing Basics",CMET_2105_concepts_raw.json

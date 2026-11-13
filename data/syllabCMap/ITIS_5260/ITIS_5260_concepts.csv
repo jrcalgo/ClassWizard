@@ -1,0 +1,71 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5260,topic,Data Cleaning and Storage Techniques,Data cleaning and storage techniques,3,verified,Data Cleaning and Storage Techniques,ITIS_5260_concepts_raw.json
+ITIS_5260,tool,Python,Python,44,verified,Python,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Machine Learning,machine learning,43,verified,Machine Learning,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Statistical Inference for Security,statistical inference for security,6,verified,Statistical Inference for Security,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Log Analysis,log analysis,55,verified,Log Analysis,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Event Correlation,event correlation,44,verified,Event Correlation,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Anomaly Detection,anomaly detection,48,verified,Anomaly Detection,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Cyber Threat Intelligence,cyber threat intelligence,37,verified,Cyber Threat Intelligence,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Use of Public Cybersecurity Information Resources,use of public cybersecurity information resources,3,verified,Use of Public Cybersecurity Information Resources,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Killchain,Killchain,2,verified,Killchain,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,MITRE ATT&CK Framework,MITRE ATT&CK Framework,1,verified,MITRE ATT&CK Framework,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,SIEM Systems,SIEM Systems,1,verified,SIEM Systems,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Cloud Login Process,Cloud Login Process,1,verified,Cloud Login Process,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Authentication Protocols,Authentication Protocols,1,verified,Authentication Protocols,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Authorization Mechanisms,Authorization Mechanisms,1,verified,Authorization Mechanisms,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Identity Management Systems,Identity Management Systems,1,verified,Identity Management Systems,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Access Control Models,Access Control Models,1,verified,Access Control Models,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Endpoint Detection Response,Endpoint Detection Response,1,verified,Endpoint Detection Response,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,EDR Fundamentals,EDR Fundamentals,1,verified,EDR Fundamentals,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Threat Hunting Techniques,Threat Hunting Techniques,1,verified,Threat Hunting Techniques,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Windows Event Log,Windows event log,2,verified,Windows Event Log,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Endpoint Protection,Endpoint Protection,2,verified,Endpoint Protection,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,SOC Analysts,SOC analysts,1,verified,SOC Analysts,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Network Traffic Features,Network traffic features,1,verified,Network Traffic Features,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Automated Threat Hunting with LLM Generative AI,Automated threat hunting with LLM generative AI,1,verified,Automated Threat Hunting with LLM Generative AI,ITIS_5260_concepts_raw.json
+ITIS_5260,work,Crowdstrik Video,Crowdstrik video,1,verified,Crowdstrik Video,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,CIS Controls,CIS controls,1,verified,CIS Controls,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Prompt Injection,Prompt Injection,2,verified,Prompt Injection,ITIS_5260_concepts_raw.json
+ITIS_5260,topic,Public Cybersecurity Resources,Public Cybersecurity Resources,3,verified,Public Cybersecurity Resources,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Python Basics,Python Basics,1,verified,Python Basics,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Data Cleaning Techniques,Data Cleaning Techniques,30,verified,Data Cleaning Techniques,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Data Storage Methods,Data Storage Methods,2,verified,Data Storage Methods,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Ordinary Least Squares,Ordinary Least Squares,1,verified,Ordinary Least Squares,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Machine Learning Fundamentals,Machine Learning Fundamentals,11,verified,Machine Learning Fundamentals,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Python Variables,Python Variables,1,verified,Python Variables,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Data Types Python,Data Types Python,1,verified,Data Types Python,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Conditional Statements,Conditional Statements,1,verified,Conditional Statements,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Loops in Python,Loops in Python,1,verified,Loops in Python,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Functions in Python,Functions in Python,1,verified,Functions in Python,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Killchain Phases,Killchain Phases,1,verified,Killchain Phases,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Log Analysis Techniques,Log Analysis Techniques,16,verified,Log Analysis Techniques,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Event Correlation Methods,Event Correlation Methods,7,verified,Event Correlation Methods,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Anomaly Detection Algorithms,Anomaly Detection Algorithms,15,verified,Anomaly Detection Algorithms,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Dataframes,dataframes,2,verified,Dataframes,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Pandas Library,Pandas Library,1,verified,Pandas Library,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Python Data Structures,Python Data Structures,1,verified,Python Data Structures,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,SIEM Architecture,SIEM architecture,2,verified,SIEM Architecture,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Virtual Box,Virtual Box,2,verified,Virtual Box,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,x86 Architecture,x86 Architecture,1,verified,x86 Architecture,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Supervised Machine Learning,Supervised Machine Learning,3,verified,Supervised Machine Learning,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Unsupervised Machine Learning,Unsupervised Machine Learning,3,verified,Unsupervised Machine Learning,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Classification Techniques,Classification Techniques,1,verified,Classification Techniques,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Decision Trees,Decision Trees,1,verified,Decision Trees,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Random Forests,Random Forests,1,verified,Random Forests,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Support Vector Machines,Support Vector Machines,1,verified,Support Vector Machines,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,Prompt Injection Techniques,Prompt Injection Techniques,1,verified,Prompt Injection Techniques,ITIS_5260_concepts_raw.json
+ITIS_5260,concept,LLM Generative AI,LLM generative AI,2,verified,LLM Generative AI,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Python Programming,Python Programming,27,verified,Python Programming,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Machine Learning Basics,Machine Learning Basics,1,verified,Machine Learning Basics,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Statistical Inference Methods,Statistical Inference Methods,18,verified,Statistical Inference Methods,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Log Analysis Fundamentals,Log Analysis Fundamentals,3,verified,Log Analysis Fundamentals,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Event Correlation Rules,Event Correlation Rules,13,verified,Event Correlation Rules,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Anomaly Detection Models,Anomaly Detection Models,1,verified,Anomaly Detection Models,ITIS_5260_concepts_raw.json
+ITIS_5260,method,SIEM System Configuration,SIEM System Configuration,1,verified,SIEM System Configuration,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Log Analysis Tools,Log Analysis Tools,7,verified,Log Analysis Tools,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Event Correlation Strategies,Event Correlation Strategies,1,verified,Event Correlation Strategies,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Cyber Threat Indicators,Cyber Threat Indicators,1,verified,Cyber Threat Indicators,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Machine Learning Models,Machine Learning Models,6,verified,Machine Learning Models,ITIS_5260_concepts_raw.json
+ITIS_5260,method,Statistical Inference Tools,Statistical Inference Tools,6,verified,Statistical Inference Tools,ITIS_5260_concepts_raw.json
+ITIS_5260,tool,Sophos EDR with ML,Sophos EDR with ML,1,verified,Sophos EDR with ML,ITIS_5260_concepts_raw.json

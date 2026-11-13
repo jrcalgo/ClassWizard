@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_2120,multivariable functions definition,concept,PREREQUISITE_OF,Trigonometric Functions,topic,A taught first,,MATH_2120_triples_raw.json
+MATH_2120,multivariable functions definition,concept,PREREQUISITE_OF,Techniques of Integration,topic,A taught first,,MATH_2120_triples_raw.json
+MATH_2120,multivariable functions definition,concept,PREREQUISITE_OF,Differential Equations,topic,A taught first,,MATH_2120_triples_raw.json
+MATH_2120,multivariable functions definition,concept,PREREQUISITE_OF,Multiple Integrals,topic,A taught first,,MATH_2120_triples_raw.json
+MATH_2120,multivariable functions definition,concept,PREREQUISITE_OF,Taylor Polynomials and Series,topic,A taught first,,MATH_2120_triples_raw.json
+MATH_2120,multivariable functions definition,concept,PART_OF,Functions of Several Variables,topic,,,MATH_2120_triples_raw.json
+MATH_2120,Functions of Several Variables,topic,PART_OF,domain and range properties,concept,,part is broader than whole - check direction,MATH_2120_triples_raw.json
+MATH_2120,graphing multivariable functions,concept,PART_OF,Functions of Several Variables,topic,,,MATH_2120_triples_raw.json
+MATH_2120,partial derivative notation,concept,PART_OF,Partial Derivatives,topic,,,MATH_2120_triples_raw.json
+MATH_2120,higher-order partial derivatives,concept,PART_OF,Partial Derivatives,topic,,,MATH_2120_triples_raw.json
+MATH_2120,iterated integrals definition,concept,PART_OF,Multiple Integrals,topic,,,MATH_2120_triples_raw.json
+MATH_2120,graphing trig functions,concept,PART_OF,Trigonometric Functions,topic,,,MATH_2120_triples_raw.json
+MATH_2120,identities and equations,concept,PART_OF,Trigonometric Functions,topic,,,MATH_2120_triples_raw.json
+MATH_2120,integration by substitution,concept,PART_OF,Techniques of Integration,topic,,,MATH_2120_triples_raw.json
+MATH_2120,integration by parts formula,concept,PART_OF,Techniques of Integration,topic,,,MATH_2120_triples_raw.json
+MATH_2120,integration by partial fractions,concept,PART_OF,Techniques of Integration,topic,,,MATH_2120_triples_raw.json
+MATH_2120,separable differential equations,concept,PART_OF,Differential Equations,topic,,,MATH_2120_triples_raw.json
+MATH_2120,linear first-order DEs,concept,PART_OF,Differential Equations,topic,,,MATH_2120_triples_raw.json
+MATH_2120,Euler's method application,concept,PART_OF,Differential Equations,topic,,,MATH_2120_triples_raw.json
+MATH_2120,Taylor polynomial definition,concept,PART_OF,Taylor Polynomials and Series,topic,,,MATH_2120_triples_raw.json

@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6171,topic,Data Pipelines,data pipelines,3,verified,Data Pipelines,DSBA_6171_concepts_raw.json
+DSBA_6171,topic,Rule-Based Retrieval Mechanisms,rule-based retrieval mechanisms,1,verified,Rule-Based Retrieval Mechanisms,DSBA_6171_concepts_raw.json
+DSBA_6171,topic,Software Engineering Practices,software engineering practices,1,verified,Software Engineering Practices,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,data's role in AI,Data's Role in AI,1,verified,data's role in AI,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,scalable data pipelines,scalable data pipelines,1,verified,scalable data pipelines,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,structured JSON formats,structured JSON formats,1,verified,structured JSON formats,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,deterministic data inputs,deterministic data inputs,1,verified,deterministic data inputs,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,verifiable source evidence,verifiable source evidence,1,verified,verifiable source evidence,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,strict data validation,strict data validation,1,verified,strict data validation,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,data governance principles,data governance principles,1,verified,data governance principles,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,metadata frameworks,metadata frameworks,1,verified,metadata frameworks,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,integrated testing and version control,integrated testing and version control,1,verified,integrated testing and version control,DSBA_6171_concepts_raw.json
+DSBA_6171,concept,professional delivery practices,professional delivery practices,1,verified,professional delivery practices,DSBA_6171_concepts_raw.json
+DSBA_6171,tool,Python,Python,1,verified,Python,DSBA_6171_concepts_raw.json
+DSBA_6171,tool,SQL,SQL,1,verified,SQL,DSBA_6171_concepts_raw.json
+DSBA_6171,tool,Databases,Databases,1,verified,Databases,DSBA_6171_concepts_raw.json
+DSBA_6171,tool,GitHub,GitHub,1,verified,GitHub,DSBA_6171_concepts_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECEI_4118,Early Childhood Intervention Principles,concept,PREREQUISITE_OF,Family Strengths and Supports,topic,A taught first,,ECEI_4118_triples_raw.json
+ECEI_4118,Assessment and Screening,topic,PREREQUISITE_OF,Family Strengths and Supports,topic,A taught first,,ECEI_4118_triples_raw.json
+ECEI_4118,Assessment and Screening,topic,PREREQUISITE_OF,Developmentally Appropriate Interventions,topic,A taught first,,ECEI_4118_triples_raw.json
+ECEI_4118,Family-Centered Practices,concept,PART_OF,Early Childhood Intervention,topic,,,ECEI_4118_triples_raw.json
+ECEI_4118,Child Development Theories,concept,PART_OF,Early Childhood Intervention,topic,,,ECEI_4118_triples_raw.json
+ECEI_4118,Developmental Milestones Assessment,concept,PART_OF,Assessment and Screening,topic,,,ECEI_4118_triples_raw.json
+ECEI_4118,Research-Supported Interventions,concept,PART_OF,Evidence-Based Practices,topic,,,ECEI_4118_triples_raw.json
+ECEI_4118,Inclusive Setting Strategies,concept,PART_OF,Evidence-Based Practices,topic,,,ECEI_4118_triples_raw.json
+ECEI_4118,Child-Centered Approaches,concept,PART_OF,Evidence-Based Practices,topic,,,ECEI_4118_triples_raw.json
+ECEI_4118,Culturally Responsive Practices,concept,PART_OF,Family Strengths and Supports,topic,,,ECEI_4118_triples_raw.json
+ECEI_4118,Community Resources Utilization,concept,PART_OF,Family Strengths and Supports,topic,,,ECEI_4118_triples_raw.json
+ECEI_4118,Infant-Toddler Developmental Needs,concept,PART_OF,Developmentally Appropriate Interventions,topic,,,ECEI_4118_triples_raw.json
+ECEI_4118,Preschool Age Child Support,concept,PART_OF,Developmentally Appropriate Interventions,topic,,,ECEI_4118_triples_raw.json

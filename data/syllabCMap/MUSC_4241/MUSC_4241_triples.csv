@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_4241,Rhythmic Organization Principles,topic,PREREQUISITE_OF,Formal Structure Development,topic,A taught first,,MUSC_4241_triples_raw.json
+MUSC_4241,Instrumentation and Arrangement,topic,PREREQUISITE_OF,Composition Workshop II,topic,A taught first,,MUSC_4241_triples_raw.json
+MUSC_4241,Composition Process Overview,concept,PART_OF,Advanced Composition,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Formal Structure Fundamentals,concept,PART_OF,Advanced Composition,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Pitch Organization Techniques,concept,PART_OF,Advanced Composition,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Instrument Selection Strategies,concept,PART_OF,Instrumentation and Timbre,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Timbre Manipulation Methods,concept,PART_OF,Instrumentation and Timbre,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Texture and Color Contrast,concept,PART_OF,Instrumentation and Timbre,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Meter and Rhythm Fundamentals,concept,PART_OF,Rhythmic Organization Principles,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Syncopation and Accentuation,concept,PART_OF,Rhythmic Organization Principles,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Sonata Form Analysis,concept,PART_OF,Formal Structure Development,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Rondo and Binary Forms,concept,PART_OF,Formal Structure Development,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Peer Review and Feedback,concept,PART_OF,Composition Workshop I,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Revision and Editing Strategies,concept,PART_OF,Composition Workshop I,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Arrangement Techniques for Various Ensembles,concept,PART_OF,Instrumentation and Arrangement,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Instrumental Color and Balance,concept,PART_OF,Instrumentation and Arrangement,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Experimental Form and Structure,concept,PART_OF,Advanced Composition Techniques,topic,,,MUSC_4241_triples_raw.json
+MUSC_4241,Theme and Variation Techniques,concept,USED_FOR,Sonata Form Analysis,concept,,,MUSC_4241_triples_raw.json
+MUSC_4241,Peer Review and Feedback,concept,USED_FOR,Revision and Editing Strategies,concept,,,MUSC_4241_triples_raw.json

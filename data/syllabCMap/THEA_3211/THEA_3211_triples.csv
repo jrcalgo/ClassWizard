@@ -1,0 +1,42 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_3211,Decorative Motifs,concept,PREREQUISITE_OF,Human Activity and Cultural Symbols,topic,B taught first,B is taught before A - check,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,PREREQUISITE_OF,Ritual Centers,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,PREREQUISITE_OF,Romanesque,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,PREREQUISITE_OF,Colonial America,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,PREREQUISITE_OF,19th Century,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PREREQUISITE_OF,European Expansion,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PREREQUISITE_OF,Prehistory,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PREREQUISITE_OF,Sculpture,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PREREQUISITE_OF,Rock Drawings,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PREREQUISITE_OF,Cradles of Civilization,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PREREQUISITE_OF,Ritual Centers,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PREREQUISITE_OF,Romanesque,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PREREQUISITE_OF,Colonial America,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PREREQUISITE_OF,19th Century,topic,A taught first,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,PART_OF,Human Activity and Cultural Symbols,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,PART_OF,Ritual Centers,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,PART_OF,Romanesque,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,PART_OF,Colonial America,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,PART_OF,19th Century,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PART_OF,European Expansion,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PART_OF,Prehistory,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PART_OF,Sculpture,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PART_OF,Rock Drawings,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PART_OF,Cradles of Civilization,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PART_OF,Ritual Centers,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PART_OF,Romanesque,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PART_OF,Colonial America,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,PART_OF,19th Century,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,USED_FOR,Human Activity and Cultural Symbols,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,USED_FOR,Ritual Centers,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,USED_FOR,Romanesque,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,USED_FOR,Colonial America,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Decorative Motifs,concept,USED_FOR,19th Century,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,USED_FOR,European Expansion,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,USED_FOR,Prehistory,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,USED_FOR,Sculpture,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,USED_FOR,Rock Drawings,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,USED_FOR,Cradles of Civilization,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,USED_FOR,Ritual Centers,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,USED_FOR,Romanesque,topic,,,THEA_3211_triples_raw.json
+THEA_3211,Theatrical Design Applications,concept,USED_FOR,Colonial America,topic,,,THEA_3211_triples_raw.json

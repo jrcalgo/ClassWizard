@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ENGR_1303,topic,Engineering Visualization,Engineering Visualization,1,verified,Engineering Visualization,ENGR_1303_concepts_raw.json
+ENGR_1303,topic,Graphical Communication,Graphical Communication,2,verified,Graphical Communication,ENGR_1303_concepts_raw.json
+ENGR_1303,topic,Visualization,Visualization,2,verified,Introduction to Visualization,ENGR_1303_concepts_raw.json
+ENGR_1303,concept,importance of visualization,importance of visualization,1,verified,importance of visualization,ENGR_1303_concepts_raw.json
+ENGR_1303,concept,3D CAD software,3D CAD software,1,verified,3D CAD software,ENGR_1303_concepts_raw.json
+ENGR_1303,method,sketching,Sketching,1,verified,sketching,ENGR_1303_concepts_raw.json
+ENGR_1303,method,drawing,drawings,1,verified,drawing,ENGR_1303_concepts_raw.json
+ENGR_1303,method,parametric modeling,Parametric Modeling,1,verified,parametric modeling,ENGR_1303_concepts_raw.json
+ENGR_1303,method,data analysis,data analysis,1,verified,data analysis,ENGR_1303_concepts_raw.json
+ENGR_1303,method,decision-making,decision-making,1,verified,decision-making,ENGR_1303_concepts_raw.json
+ENGR_1303,tool,Autodesk Fusion,Autodesk Fusion,1,verified,Autodesk Fusion,ENGR_1303_concepts_raw.json

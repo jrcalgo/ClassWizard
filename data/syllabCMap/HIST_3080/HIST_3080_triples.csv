@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3080,black migration,concept,PREREQUISITE_OF,Black Atlantic,concept,same unit,,HIST_3080_triples_raw.json
+HIST_3080,black migration,concept,PREREQUISITE_OF,community formation,concept,same unit,,HIST_3080_triples_raw.json
+HIST_3080,Black Atlantic,concept,PREREQUISITE_OF,Reconstruction's aftermath,concept,same unit,,HIST_3080_triples_raw.json
+HIST_3080,African American public history,concept,PREREQUISITE_OF,Museums and Monuments as Arguments,topic,A taught first,,HIST_3080_triples_raw.json
+HIST_3080,National Museum of African American History,tool,PART_OF,Creating Historic Sites,topic,,,HIST_3080_triples_raw.json
+HIST_3080,black migration,concept,SUBTYPE_OF,community-based historical practices,concept,,,HIST_3080_triples_raw.json
+HIST_3080,black press,concept,SUBTYPE_OF,popular media,concept,,,HIST_3080_triples_raw.json
+HIST_3080,museums,concept,SUBTYPE_OF,commemorative events,concept,,,HIST_3080_triples_raw.json
+HIST_3080,Local History and Historic Preservation,topic,SUBTYPE_OF,digital platforms,concept,,,HIST_3080_triples_raw.json
+HIST_3080,YouTube,tool,USED_FOR,historical interpretation,method,,,HIST_3080_triples_raw.json
+HIST_3080,National Museum of African American History,tool,USED_FOR,historical narrative,concept,,,HIST_3080_triples_raw.json
+HIST_3080,ProQuest,tool,USED_FOR,primary-source discussion,method,,,HIST_3080_triples_raw.json
+HIST_3080,Newspaper.com,tool,USED_FOR,newspapers,concept,,,HIST_3080_triples_raw.json
+HIST_3080,KnowCLT App,tool,USED_FOR,historic sites,concept,,,HIST_3080_triples_raw.json

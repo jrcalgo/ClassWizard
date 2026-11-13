@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_6190,Grid modernization aspects,concept,PART_OF,Characteristics and Design,topic,,,ECGR_6190_triples_raw.json
+ECGR_6190,Important metrics,concept,PART_OF,Smart Grid,topic,,,ECGR_6190_triples_raw.json
+ECGR_6190,Distributed energy resources,concept,PART_OF,Key Technology Areas,topic,,,ECGR_6190_triples_raw.json
+ECGR_6190,Advanced control methods,concept,PART_OF,Key Technology Areas,topic,,,ECGR_6190_triples_raw.json
+ECGR_6190,Simplified models of smart grid components,concept,PART_OF,Modeling Modern Power Grid with Distributed Energy Resources,topic,,,ECGR_6190_triples_raw.json

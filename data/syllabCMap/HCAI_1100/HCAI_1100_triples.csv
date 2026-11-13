@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCAI_1100,bias,method,PREREQUISITE_OF,relevance,method,same unit,,HCAI_1100_triples_raw.json
+HCAI_1100,bias,method,PREREQUISITE_OF,hallucination,method,same unit,,HCAI_1100_triples_raw.json
+HCAI_1100,bias,method,PREREQUISITE_OF,social,method,A taught first,,HCAI_1100_triples_raw.json
+HCAI_1100,prompts,method,PREREQUISITE_OF,creative writing,method,A taught first,,HCAI_1100_triples_raw.json
+HCAI_1100,prompts,method,PREREQUISITE_OF,visual arts,method,A mentioned first,,HCAI_1100_triples_raw.json
+HCAI_1100,prompts,method,PREREQUISITE_OF,research,method,A taught first,,HCAI_1100_triples_raw.json

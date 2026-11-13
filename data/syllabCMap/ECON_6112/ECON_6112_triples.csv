@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_6112,multicollinearity,concept,PREREQUISITE_OF,heteroskedasticity,concept,A taught first,,ECON_6112_triples_raw.json
+ECON_6112,multicollinearity,concept,PREREQUISITE_OF,autocorrelation,concept,A taught first,,ECON_6112_triples_raw.json
+ECON_6112,maximum likelihood estimation,concept,PREREQUISITE_OF,instrumental variables,concept,A taught first,,ECON_6112_triples_raw.json
+ECON_6112,least squares estimators,concept,PREREQUISITE_OF,maximum likelihood estimation,concept,A taught first,,ECON_6112_triples_raw.json
+ECON_6112,least squares estimators,concept,PART_OF,econometric theory,concept,,,ECON_6112_triples_raw.json
+ECON_6112,multicollinearity,concept,PART_OF,econometric theory,concept,,,ECON_6112_triples_raw.json
+ECON_6112,heteroskedasticity,concept,PART_OF,econometric theory,concept,,,ECON_6112_triples_raw.json
+ECON_6112,autocorrelation,concept,PART_OF,econometric theory,concept,,,ECON_6112_triples_raw.json
+ECON_6112,maximum likelihood estimation,concept,PART_OF,econometric theory,concept,,,ECON_6112_triples_raw.json
+ECON_6112,instrumental variables,concept,PART_OF,econometric theory,concept,,,ECON_6112_triples_raw.json
+ECON_6112,least squares estimators,concept,USED_FOR,Derivation of Least Squares Estimators,topic,,,ECON_6112_triples_raw.json
+ECON_6112,maximum likelihood estimation,concept,USED_FOR,instrumental variables,concept,,,ECON_6112_triples_raw.json
+ECON_6112,heteroskedasticity,concept,USED_FOR,multicollinearity,concept,,,ECON_6112_triples_raw.json
+ECON_6112,autocorrelation,concept,USED_FOR,econometric theory,concept,,,ECON_6112_triples_raw.json

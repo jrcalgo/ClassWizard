@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_1204,design problem solving,concept,PART_OF,Design Process,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,visual communication principles,concept,PART_OF,Design Process,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,creative thinking strategies,concept,PART_OF,Design Process,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,Adobe Creative Suite Basics,concept,PART_OF,Digital Tools and Software,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,graphic design software overview,concept,PART_OF,Digital Tools and Software,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,digital tool selection criteria,concept,PART_OF,Digital Tools and Software,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,visual hierarchy fundamentals,concept,PART_OF,Design Aesthetics and Principles,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,color theory and application,concept,PART_OF,Design Aesthetics and Principles,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,typography best practices,concept,PART_OF,Design Aesthetics and Principles,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,graphic design software skills,concept,PART_OF,Digital Design Production,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,digital file management systems,concept,PART_OF,Digital Design Production,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,design output formats overview,concept,PART_OF,Digital Design Production,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,design writing styles and tone,concept,PART_OF,Writing About Design,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,historical context of graphic design,concept,PART_OF,Writing About Design,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,cultural significance in design,concept,PART_OF,Writing About Design,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,professional design presentation skills,concept,PART_OF,Effective Communication,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,design outcome evaluation criteria,concept,PART_OF,Effective Communication,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,teamwork and collaboration strategies,concept,PART_OF,Collaborative Group Projects,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,project management best practices,concept,PART_OF,Collaborative Group Projects,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,effective feedback and revision,concept,PART_OF,Collaborative Group Projects,topic,,,ARTG_1204_triples_raw.json
+ARTG_1204,Adobe Creative Suite,tool,USED_FOR,Digital Tools and Software,topic,,,ARTG_1204_triples_raw.json

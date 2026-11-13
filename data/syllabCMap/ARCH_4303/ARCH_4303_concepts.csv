@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_4303,topic,Structural Principles,Structural Principles,2,verified,Structural Principles,ARCH_4303_concepts_raw.json
+ARCH_4303,topic,Interrelationship between Strain,interrelationship between strain,2,verified,Interrelationship between Strain,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,stress,stress,2,verified,stress,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,stability,stability,3,verified,stability,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,tension,tension,2,verified,tension,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,compression,compression,2,verified,compression,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,shear,shear,2,verified,shear,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,torsion,torsion,2,verified,torsion,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,bending,bending,2,verified,bending,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,structural systems,structural systems,1,verified,structural systems,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,graphic statics,graphic statics,1,verified,graphic statics,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,numerical analysis,numerical analysis,1,verified,numerical analysis,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,strength of materials,strength of materials,1,verified,strength of materials,ARCH_4303_concepts_raw.json
+ARCH_4303,concept,strain,strain,2,verified,strain,ARCH_4303_concepts_raw.json

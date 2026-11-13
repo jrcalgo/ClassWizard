@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_5151,graduate program,topic,PREREQUISITE_OF,departmental orientation,topic,A taught first,,SOCY_5151_triples_raw.json
+SOCY_5151,graduate program,topic,PREREQUISITE_OF,debate and inclusion,topic,A taught first,,SOCY_5151_triples_raw.json
+SOCY_5151,graduate program,topic,PREREQUISITE_OF,professional socialization,topic,A taught first,,SOCY_5151_triples_raw.json
+SOCY_5151,department history,concept,PART_OF,departmental orientation,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,research focus areas,concept,PART_OF,departmental orientation,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,faculty expertise,concept,PART_OF,departmental orientation,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,academic expectations,concept,PART_OF,graduate program,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,program structure,concept,PART_OF,graduate program,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,faculty roles,concept,PART_OF,graduate program,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,professional norms,concept,PART_OF,professional socialization,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,ethics in research,concept,PART_OF,professional socialization,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,collaboration skills,concept,PART_OF,professional socialization,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,argumentation techniques,concept,PART_OF,critical thinking and analysis,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,evidence-based reasoning,concept,PART_OF,critical thinking and analysis,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,diverse viewpoints,concept,PART_OF,debate and inclusion,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,inclusive dialogue,concept,PART_OF,debate and inclusion,topic,,,SOCY_5151_triples_raw.json
+SOCY_5151,respectful disagreement,concept,PART_OF,debate and inclusion,topic,,,SOCY_5151_triples_raw.json

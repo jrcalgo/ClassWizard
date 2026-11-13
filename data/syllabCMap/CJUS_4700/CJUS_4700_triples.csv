@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4700,Proposal Structure and Organization,concept,PREREQUISITE_OF,Oral Defense Presentation Skills,concept,same unit,,CJUS_4700_triples_raw.json
+CJUS_4700,Research Design and Methodology,concept,PREREQUISITE_OF,Data Collection and Analysis Techniques,concept,same unit,,CJUS_4700_triples_raw.json
+CJUS_4700,Honors Capstone Committee Selection,concept,PART_OF,Capstone Committee Formation,topic,,,CJUS_4700_triples_raw.json
+CJUS_4700,Committee Member Roles and Responsibilities,concept,PART_OF,Capstone Committee Formation,topic,,,CJUS_4700_triples_raw.json
+CJUS_4700,Literature Review Planning,concept,PART_OF,Capstone Project Proposal Development,topic,,,CJUS_4700_triples_raw.json
+CJUS_4700,Oral Defense Presentation Skills,concept,PART_OF,Proposal Writing and Defense Preparation,topic,,,CJUS_4700_triples_raw.json
+CJUS_4700,Research Design and Methodology,concept,PART_OF,Capstone Project Implementation,topic,,,CJUS_4700_triples_raw.json
+CJUS_4700,Project Outcomes and Recommendations,concept,PART_OF,Final Product Development and Refinement,topic,,,CJUS_4700_triples_raw.json
+CJUS_4700,Conclusion and Future Directions,concept,PART_OF,Final Product Development and Refinement,topic,,,CJUS_4700_triples_raw.json
+CJUS_4700,Effective Communication Strategies,concept,PART_OF,Oral Defense Preparation and Presentation,topic,,,CJUS_4700_triples_raw.json
+CJUS_4700,Question Answering and Response Techniques,concept,PART_OF,Oral Defense Preparation and Presentation,topic,,,CJUS_4700_triples_raw.json

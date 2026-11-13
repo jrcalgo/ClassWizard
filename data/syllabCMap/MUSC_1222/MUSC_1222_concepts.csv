@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_1222,topic,Jazz Ensemble Techniques,Jazz Ensemble Techniques,1,verified,Jazz Ensemble Techniques,MUSC_1222_concepts_raw.json
+MUSC_1222,topic,Rehearsal Techniques,rehearsal techniques,2,verified,Rehearsal Techniques,MUSC_1222_concepts_raw.json
+MUSC_1222,topic,Teaching Materials,teaching materials,1,verified,Teaching Materials,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,jazz conception,Jazz conception,1,verified,jazz conception,MUSC_1222_concepts_raw.json
+MUSC_1222,topic,Jazz Fundamentals,Jazz Fundamentals,1,inferred,Jazz Fundamentals,MUSC_1222_concepts_raw.json
+MUSC_1222,topic,Rhythm Section Roles,Rhythm Section Roles,1,inferred,Rhythm Section Roles,MUSC_1222_concepts_raw.json
+MUSC_1222,topic,Analyzing Jazz Literature,Analyzing Jazz Literature,1,inferred,Analyzing Jazz Literature,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,improvisation techniques,Improvisation Techniques,1,inferred,improvisation techniques,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,piano accompaniment,Piano Accompaniment,1,inferred,piano accompaniment,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,bass line fundamentals,Bass Line Fundamentals,1,inferred,bass line fundamentals,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,drum kit essentials,Drum Kit Essentials,1,inferred,drum kit essentials,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,warm-up exercises,Warm-Up Exercises,1,inferred,warm-up exercises,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,sectional rehearsals,Sectional Rehearsals,1,inferred,sectional rehearsals,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,full ensemble rehearsal,Full Ensemble Rehearsal,1,inferred,full ensemble rehearsal,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,harmony and chord progressions,Harmony and Chord Progressions,1,inferred,harmony and chord progressions,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,melodic motifs and riffs,Melodic Motifs and Riffs,1,inferred,melodic motifs and riffs,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,form and structure analysis,Form and Structure Analysis,1,inferred,form and structure analysis,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,method books and scores,Method Books and Scores,1,inferred,method books and scores,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,arranging for jazz ensemble,Arranging for Jazz Ensemble,1,inferred,arranging for jazz ensemble,MUSC_1222_concepts_raw.json
+MUSC_1222,concept,teaching pedagogy and philosophy,Teaching Pedagogy and Philosophy,1,inferred,teaching pedagogy and philosophy,MUSC_1222_concepts_raw.json

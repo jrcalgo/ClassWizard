@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_3112,work,President Donald J. Trump,President Donald J. Trump,1,verified,President Donald J. Trump,POLS_3112_concepts_raw.json
+POLS_3112,concept,Role of the President,Role of the President,1,inferred,Role of the President,POLS_3112_concepts_raw.json
+POLS_3112,concept,Strategies for Nomination,Strategies for Nomination,1,inferred,Strategies for Nomination,POLS_3112_concepts_raw.json
+POLS_3112,concept,Campaign Finance Laws,Campaign Finance Laws,1,inferred,Campaign Finance Laws,POLS_3112_concepts_raw.json
+POLS_3112,concept,Executive Orders and Decrees,Executive Orders and Decrees,1,inferred,Executive Orders and Decrees,POLS_3112_concepts_raw.json
+POLS_3112,concept,Legislative Support and Opposition,Legislative Support and Opposition,1,inferred,Legislative Support and Opposition,POLS_3112_concepts_raw.json
+POLS_3112,concept,Judicial Review and Checks,Judicial Review and Checks,1,inferred,Judicial Review and Checks,POLS_3112_concepts_raw.json
+POLS_3112,concept,Domestic Policy Initiatives,Domestic Policy Initiatives,1,inferred,Domestic Policy Initiatives,POLS_3112_concepts_raw.json
+POLS_3112,concept,Foreign Policy Objectives,Foreign Policy Objectives,1,inferred,Foreign Policy Objectives,POLS_3112_concepts_raw.json
+POLS_3112,concept,Crisis Management Techniques,Crisis Management Techniques,1,inferred,Crisis Management Techniques,POLS_3112_concepts_raw.json
+POLS_3112,concept,Legislative Branch Powers,Legislative Branch Powers,1,inferred,Legislative Branch Powers,POLS_3112_concepts_raw.json
+POLS_3112,concept,Presidential Veto Authority,Presidential Veto Authority,1,inferred,Presidential Veto Authority,POLS_3112_concepts_raw.json
+POLS_3112,concept,Bipartisan Cooperation Models,Bipartisan Cooperation Models,1,inferred,Bipartisan Cooperation Models,POLS_3112_concepts_raw.json
+POLS_3112,concept,Supreme Court Rulings Impact,Supreme Court Rulings Impact,1,inferred,Supreme Court Rulings Impact,POLS_3112_concepts_raw.json
+POLS_3112,concept,Media Coverage of the Presidency,Media Coverage of the Presidency,1,inferred,Media Coverage of the Presidency,POLS_3112_concepts_raw.json
+POLS_3112,concept,Public Opinion Shaping Policy,Public Opinion Shaping Policy,1,inferred,Public Opinion Shaping Policy,POLS_3112_concepts_raw.json
+POLS_3112,concept,Economic Crises and Response,Economic Crises and Response,1,inferred,Economic Crises and Response,POLS_3112_concepts_raw.json
+POLS_3112,concept,Social Movements and Policy Change,Social Movements and Policy Change,1,inferred,Social Movements and Policy Change,POLS_3112_concepts_raw.json
+POLS_3112,concept,Global Conflicts and Diplomacy,Global Conflicts and Diplomacy,1,inferred,Global Conflicts and Diplomacy,POLS_3112_concepts_raw.json
+POLS_3112,concept,Foreign Policy Initiatives,Foreign Policy Initiatives,1,inferred,Foreign Policy Initiatives,POLS_3112_concepts_raw.json
+POLS_3112,concept,Domestic Policy Reforms,Domestic Policy Reforms,1,inferred,Domestic Policy Reforms,POLS_3112_concepts_raw.json
+POLS_3112,concept,Presidential Leadership Style Analysis,Presidential Leadership Style Analysis,1,inferred,Presidential Leadership Style Analysis,POLS_3112_concepts_raw.json

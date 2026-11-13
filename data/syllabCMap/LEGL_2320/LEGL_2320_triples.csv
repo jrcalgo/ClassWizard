@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_2320,Prosecutorial Discretion Theory,concept,USED_FOR,court reform policies,topic,,,LEGL_2320_triples_raw.json
+LEGL_2320,Prosecution Strategies,concept,USED_FOR,prosecutors,topic,,,LEGL_2320_triples_raw.json
+LEGL_2320,Defense Attorney Ethics,concept,USED_FOR,defense attorneys,topic,,,LEGL_2320_triples_raw.json
+LEGL_2320,Murray Process Diagrams,concept,USED_FOR,Court structure models,concept,,,LEGL_2320_triples_raw.json
+LEGL_2320,Public Defender System,concept,USED_FOR,Indigent defense,concept,,,LEGL_2320_triples_raw.json
+LEGL_2320,American Simulation,concept,USED_FOR,court area,topic,,,LEGL_2320_triples_raw.json
+LEGL_2320,Gideon v. Wainwright,concept,USED_FOR,Right to counsel,concept,,,LEGL_2320_triples_raw.json

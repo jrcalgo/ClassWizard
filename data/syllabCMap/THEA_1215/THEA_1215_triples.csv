@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_1215,pattern drafting,concept,PREREQUISITE_OF,garment fitting,concept,A mentioned first,,THEA_1215_triples_raw.json
+THEA_1215,pattern drafting,concept,PREREQUISITE_OF,machine sewing,concept,A mentioned first,,THEA_1215_triples_raw.json
+THEA_1215,hand sewing,concept,PREREQUISITE_OF,garment fitting,concept,A mentioned first,,THEA_1215_triples_raw.json
+THEA_1215,machine sewing,concept,PREREQUISITE_OF,garment fitting,concept,A mentioned first,,THEA_1215_triples_raw.json
+THEA_1215,pattern drafting,concept,PREREQUISITE_OF,costume accessories construction,concept,same unit,,THEA_1215_triples_raw.json
+THEA_1215,hand sewing,concept,PART_OF,Theatre Practice,topic,,,THEA_1215_triples_raw.json
+THEA_1215,machine sewing,concept,PART_OF,Theatre Practice,topic,,,THEA_1215_triples_raw.json
+THEA_1215,garment fitting,concept,PART_OF,Theatre Practice,topic,,,THEA_1215_triples_raw.json
+THEA_1215,dyeing,concept,PART_OF,wardrobe skills,concept,,,THEA_1215_triples_raw.json
+THEA_1215,basic clothing repairs,concept,PART_OF,wardrobe skills,concept,,,THEA_1215_triples_raw.json
+THEA_1215,pattern drafting,concept,PART_OF,costume accessories construction,concept,,,THEA_1215_triples_raw.json
+THEA_1215,fabric manipulation,concept,PART_OF,costume accessories construction,concept,,,THEA_1215_triples_raw.json
+THEA_1215,analytical problem-solving,method,USED_FOR,Theatre Practice,topic,,,THEA_1215_triples_raw.json
+THEA_1215,research,method,USED_FOR,theatre texts,concept,,,THEA_1215_triples_raw.json
+THEA_1215,active engagement,method,USED_FOR,theatre texts,concept,,,THEA_1215_triples_raw.json
+THEA_1215,sewing machine operations,method,USED_FOR,machine sewing,concept,,,THEA_1215_triples_raw.json
+THEA_1215,makeup application,method,USED_FOR,wardrobe skills,concept,,,THEA_1215_triples_raw.json

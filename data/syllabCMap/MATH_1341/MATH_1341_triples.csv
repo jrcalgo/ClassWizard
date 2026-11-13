@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_1341,Math,topic,PREREQUISITE_OF,Elementary Statistics,topic,A taught first,,MATH_1341_triples_raw.json

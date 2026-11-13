@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_5133,IR spectroscopy basics,concept,PART_OF,Spectroscopy,topic,,,CHEM_5133_triples_raw.json
+CHEM_5133,Instrumental operation and spectral processing,concept,PART_OF,Spectroscopy,topic,,,CHEM_5133_triples_raw.json

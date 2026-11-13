@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_5600,Postcolonial Configuration,concept,PREREQUISITE_OF,Quantitative Studies of Slavery,concept,A taught first,,LTAM_5600_triples_raw.json
+LTAM_5600,Postcolonial Configuration,concept,PREREQUISITE_OF,Slavery and Racial Inequality,concept,A taught first,,LTAM_5600_triples_raw.json
+LTAM_5600,Authenticity of Sources,concept,PART_OF,Source Assessment Techniques,concept,,,LTAM_5600_triples_raw.json
+LTAM_5600,Authenticity of Sources,concept,PART_OF,Historical Contextualization,concept,,,LTAM_5600_triples_raw.json
+LTAM_5600,Research Hypothesis Formation,concept,PART_OF,Argument Crafting with Evidence,concept,,,LTAM_5600_triples_raw.json
+LTAM_5600,Quantitative Studies of Slavery,concept,PART_OF,Racial Dynamics in Latin America,concept,,,LTAM_5600_triples_raw.json
+LTAM_5600,Quantitative Studies of Slavery,concept,PART_OF,Slavery and Racial Inequality,concept,,,LTAM_5600_triples_raw.json
+LTAM_5600,Research Question Formulation,method,USED_FOR,Source Authenticity Assessment,method,,,LTAM_5600_triples_raw.json

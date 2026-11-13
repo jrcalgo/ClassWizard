@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_4115,matrix algebra,topic,PART_OF,supervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,random vectors,topic,PART_OF,supervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,linear regressions,topic,PART_OF,supervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,k-nearest neighbors,topic,PART_OF,supervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,classifications,topic,PART_OF,supervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,shrinkage methods,topic,PART_OF,supervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,model selections,topic,PART_OF,supervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,bootstrap,topic,PART_OF,supervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,principal component analysis,topic,PART_OF,unsupervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,factor analysis,topic,PART_OF,unsupervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,independent component analysis,topic,PART_OF,unsupervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,clustering,topic,PART_OF,unsupervised learning,topic,,,STAT_4115_triples_raw.json
+STAT_4115,Bayesian statistics,topic,PART_OF,probabilistic graphical models,topic,,,STAT_4115_triples_raw.json
+STAT_4115,support vector machines,concept,PART_OF,probabilistic graphical models,topic,,,STAT_4115_triples_raw.json
+STAT_4115,undirected graphical model,topic,PART_OF,probabilistic graphical models,topic,,,STAT_4115_triples_raw.json
+STAT_4115,directed acyclic graphical model,topic,PART_OF,probabilistic graphical models,topic,,,STAT_4115_triples_raw.json
+STAT_4115,R,tool,USED_FOR,classifications,topic,,,STAT_4115_triples_raw.json
+STAT_4115,R,tool,USED_FOR,clustering,topic,,,STAT_4115_triples_raw.json
+STAT_4115,R,tool,USED_FOR,principal component analysis,topic,,,STAT_4115_triples_raw.json
+STAT_4115,R,tool,USED_FOR,factor analysis,topic,,,STAT_4115_triples_raw.json
+STAT_4115,R,tool,USED_FOR,independent component analysis,topic,,,STAT_4115_triples_raw.json
+STAT_4115,R,tool,USED_FOR,support vector machines,concept,,,STAT_4115_triples_raw.json

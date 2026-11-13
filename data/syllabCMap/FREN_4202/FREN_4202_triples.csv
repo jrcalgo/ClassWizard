@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FREN_4202,Close analysis of literary texts,method,USED_FOR,Relationship between literature and history,concept,,,FREN_4202_triples_raw.json
+FREN_4202,Close analysis of literary texts,method,USED_FOR,Socio-historical contexts of literary works,concept,,,FREN_4202_triples_raw.json

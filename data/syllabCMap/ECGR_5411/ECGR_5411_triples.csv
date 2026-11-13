@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5411,feedback control systems,concept,PREREQUISITE_OF,"Controllability, Observability, and Stability",topic,A taught first,,ECGR_5411_triples_raw.json
+ECGR_5411,signal flow graphs,concept,PART_OF,feedback control systems,concept,,,ECGR_5411_triples_raw.json
+ECGR_5411,Time-Domain Analysis Methods,topic,PART_OF,Control Systems Theory I,topic,,,ECGR_5411_triples_raw.json

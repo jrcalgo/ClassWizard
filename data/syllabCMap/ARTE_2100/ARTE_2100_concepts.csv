@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARTE_2100,topic,Artists as Teachers,Artists as Teachers,1,verified,Artists as Teachers,ARTE_2100_concepts_raw.json
+ARTE_2100,topic,Art Education,Art Education,1,verified,Introduction to Art Education,ARTE_2100_concepts_raw.json
+ARTE_2100,topic,Studio Practice Translation,Studio Practice Translation,1,inferred,Studio Practice Translation,ARTE_2100_concepts_raw.json
+ARTE_2100,topic,Visual Arts in Learning Settings,Visual Arts in Learning Settings,1,inferred,Visual Arts in Learning Settings,ARTE_2100_concepts_raw.json
+ARTE_2100,topic,Clinical Experience Preparation,Clinical Experience Preparation,1,inferred,Clinical Experience Preparation,ARTE_2100_concepts_raw.json
+ARTE_2100,topic,Lesson Planning and Practice Teaching,Lesson Planning and Practice Teaching,1,inferred,Lesson Planning and Practice Teaching,ARTE_2100_concepts_raw.json
+ARTE_2100,topic,Narrative Art Project Development,Narrative Art Project Development,1,inferred,Narrative Art Project Development,ARTE_2100_concepts_raw.json
+ARTE_2100,topic,Clinical Presentation Preparation,Clinical Presentation Preparation,1,inferred,Clinical Presentation Preparation,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Role of Visual Arts in Learning,Role of Visual Arts in Learning,1,inferred,Role of Visual Arts in Learning,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Teaching Expertise Development,Teaching Expertise Development,1,inferred,Teaching Expertise Development,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Meaningful Curriculum Creation,Meaningful Curriculum Creation,1,inferred,Meaningful Curriculum Creation,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Individual Studio Practices Analysis,Individual Studio Practices Analysis,1,inferred,Individual Studio Practices Analysis,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Teaching Strategies Application,Teaching Strategies Application,1,inferred,Teaching Strategies Application,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Engaged and Relevant Curriculum Design,Engaged and Relevant Curriculum Design,1,inferred,Engaged and Relevant Curriculum Design,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Transformative Power of Art Education,Transformative Power of Art Education,1,inferred,Transformative Power of Art Education,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Community Engagement through Visual Arts,Community Engagement through Visual Arts,1,inferred,Community Engagement through Visual Arts,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Individual Transformation through Art,Individual Transformation through Art,1,inferred,Individual Transformation through Art,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Clinical Experience Requirements,Clinical Experience Requirements,1,inferred,Clinical Experience Requirements,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Teaching in Diverse Learning Settings,Teaching in Diverse Learning Settings,1,inferred,Teaching in Diverse Learning Settings,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Professionalism and Responsibility,Professionalism and Responsibility,1,inferred,Professionalism and Responsibility,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Effective Lesson Plan Design,Effective Lesson Plan Design,1,inferred,Effective Lesson Plan Design,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Practice Teaching Strategies,Practice Teaching Strategies,1,inferred,Practice Teaching Strategies,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Assessment and Feedback Techniques,Assessment and Feedback Techniques,1,inferred,Assessment and Feedback Techniques,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Artistic Expression and Communication,Artistic Expression and Communication,1,inferred,Artistic Expression and Communication,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Storytelling through Visual Arts,Storytelling through Visual Arts,1,inferred,Storytelling through Visual Arts,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Personal Narrative Art Creation,Personal Narrative Art Creation,1,inferred,Personal Narrative Art Creation,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Effective Clinical Presentation Techniques,Effective Clinical Presentation Techniques,1,inferred,Effective Clinical Presentation Techniques,ARTE_2100_concepts_raw.json
+ARTE_2100,concept,Professional Communication Skills,Professional Communication Skills,1,inferred,Professional Communication Skills,ARTE_2100_concepts_raw.json

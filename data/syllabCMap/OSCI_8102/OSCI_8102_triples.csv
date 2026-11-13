@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OSCI_8102,measurement,topic,PART_OF,validity,topic,,,OSCI_8102_triples_raw.json
+OSCI_8102,writing,topic,PART_OF,Managing the Publication Process,topic,,,OSCI_8102_triples_raw.json
+OSCI_8102,generating and evaluating research ideas,topic,PART_OF,study design,topic,,,OSCI_8102_triples_raw.json
+OSCI_8102,regression,topic,PART_OF,Foundational Statistical Concepts,topic,,,OSCI_8102_triples_raw.json
+OSCI_8102,factor analysis,topic,PART_OF,Structural Equation Modeling,concept,,part is broader than whole - check direction,OSCI_8102_triples_raw.json
+OSCI_8102,Structural Equation Modeling,concept,PART_OF,Foundational Statistical Concepts,topic,,,OSCI_8102_triples_raw.json

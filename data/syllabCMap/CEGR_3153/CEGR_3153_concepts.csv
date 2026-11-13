@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3153,topic,Transportation Lab,Transportation Lab,1,verified,Transportation Lab,CEGR_3153_concepts_raw.json
+CEGR_3153,topic,Traffic Engineering,Traffic Engineering,1,verified,Introduction to Traffic Engineering,CEGR_3153_concepts_raw.json
+CEGR_3153,topic,Technical Report Writing,Technical report writing,1,verified,Technical Report Writing,CEGR_3153_concepts_raw.json
+CEGR_3153,topic,Data Collection Methods,Data Collection Methods,1,inferred,Data Collection Methods,CEGR_3153_concepts_raw.json
+CEGR_3153,topic,Parking Lot Design Principles,Parking Lot Design Principles,1,inferred,Parking Lot Design Principles,CEGR_3153_concepts_raw.json
+CEGR_3153,topic,Turning Movement Count Analysis,Turning Movement Count Analysis,1,inferred,Turning Movement Count Analysis,CEGR_3153_concepts_raw.json
+CEGR_3153,topic,Travel Time Study Techniques,Travel Time Study Techniques,1,inferred,Travel Time Study Techniques,CEGR_3153_concepts_raw.json
+CEGR_3153,topic,Vehicle Occupancy Study Principles,Vehicle Occupancy Study Principles,1,inferred,Vehicle Occupancy Study Principles,CEGR_3153_concepts_raw.json
+CEGR_3153,topic,Collision Diagrams and Analysis,Collision Diagrams and Analysis,1,inferred,Collision Diagrams and Analysis,CEGR_3153_concepts_raw.json
+CEGR_3153,topic,Roadway Design Principles,Roadway Design Principles,1,inferred,Roadway Design Principles,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Traffic Flow Principles,Traffic Flow Principles,1,inferred,Traffic Flow Principles,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Transportation System Design,Transportation System Design,1,inferred,Transportation System Design,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Geometric Design Elements,Geometric Design Elements,2,inferred,Geometric Design Elements,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Data Collection Techniques,Data Collection Techniques,2,inferred,Data Collection Techniques,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Traffic Volume Measurement,Traffic Volume Measurement,1,inferred,Traffic Volume Measurement,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Speed Study Methodology,Speed Study Methodology,1,inferred,Speed Study Methodology,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Parking Lot Layout Design,Parking Lot Layout Design,1,inferred,Parking Lot Layout Design,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Space Requirements Calculations,Space Requirements Calculations,1,inferred,Space Requirements Calculations,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Accessibility Standards Compliance,Accessibility Standards Compliance,1,inferred,Accessibility Standards Compliance,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Turning Movement Count Methodology,Turning Movement Count Methodology,1,inferred,Turning Movement Count Methodology,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Traffic Signal Control Systems,Traffic Signal Control Systems,1,inferred,Traffic Signal Control Systems,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Intersection Capacity Analysis,Intersection Capacity Analysis,1,inferred,Intersection Capacity Analysis,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Travel Time Measurement Methods,Travel Time Measurement Methods,1,inferred,Travel Time Measurement Methods,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Route Choice Behavior Models,Route Choice Behavior Models,1,inferred,Route Choice Behavior Models,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Transportation Network Analysis,Transportation Network Analysis,1,inferred,Transportation Network Analysis,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Vehicle Occupancy Rate Calculations,Vehicle Occupancy Rate Calculations,1,inferred,Vehicle Occupancy Rate Calculations,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Traffic Demand Forecasting,Traffic Demand Forecasting,1,inferred,Traffic Demand Forecasting,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Transportation System Capacity,Transportation System Capacity,1,inferred,Transportation System Capacity,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Collision Diagram Creation Methods,Collision Diagram Creation Methods,1,inferred,Collision Diagram Creation Methods,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Accident Data Collection Techniques,Accident Data Collection Techniques,1,inferred,Accident Data Collection Techniques,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Safety Performance Indicators,Safety Performance Indicators,1,inferred,Safety Performance Indicators,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Roadway Geometric Design Elements,Roadway Geometric Design Elements,1,inferred,Roadway Geometric Design Elements,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Pavement Design and Materials,Pavement Design and Materials,1,inferred,Pavement Design and Materials,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Drainage System Design Requirements,Drainage System Design Requirements,1,inferred,Drainage System Design Requirements,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Technical Communication Principles,Technical Communication Principles,1,inferred,Technical Communication Principles,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Report Writing Format Guidelines,Report Writing Format Guidelines,1,inferred,Report Writing Format Guidelines,CEGR_3153_concepts_raw.json
+CEGR_3153,concept,Effective Technical Presentation,Effective Technical Presentation,1,inferred,Effective Technical Presentation,CEGR_3153_concepts_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_5158,Financial Management,topic,PREREQUISITE_OF,Investment,topic,B mentioned first,,MBAD_5158_triples_raw.json
+MBAD_5158,risk and return analysis,concept,PART_OF,Portfolio Management Basics,topic,,,MBAD_5158_triples_raw.json
+MBAD_5158,diversification strategies,concept,PART_OF,Portfolio Management Basics,topic,,,MBAD_5158_triples_raw.json
+MBAD_5158,investment decision making,concept,PART_OF,Portfolio Management Basics,topic,,,MBAD_5158_triples_raw.json
+MBAD_5158,industry and market research,concept,PART_OF,Stock Selection Criteria,topic,,,MBAD_5158_triples_raw.json
+MBAD_5158,company financial performance,concept,PART_OF,Researching Prospective Stocks,topic,,,MBAD_5158_triples_raw.json
+MBAD_5158,competitor analysis,concept,PART_OF,Researching Prospective Stocks,topic,,,MBAD_5158_triples_raw.json
+MBAD_5158,risk management strategies,concept,PART_OF,Making Investment Decisions,topic,,,MBAD_5158_triples_raw.json
+MBAD_5158,portfolio rebalancing techniques,concept,PART_OF,Making Investment Decisions,topic,,,MBAD_5158_triples_raw.json
+MBAD_5158,effective communication skills,concept,PART_OF,Class Participation and Officer Responsibilities,topic,,,MBAD_5158_triples_raw.json
+MBAD_5158,teamwork and collaboration,concept,PART_OF,Class Participation and Officer Responsibilities,topic,,,MBAD_5158_triples_raw.json

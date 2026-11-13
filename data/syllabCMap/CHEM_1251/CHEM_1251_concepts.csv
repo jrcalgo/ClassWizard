@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_1251,topic,Chemistry,Chemistry,5,verified,Chemistry,CHEM_1251_concepts_raw.json
+CHEM_1251,concept,measurements,measurements,2,verified,measurements,CHEM_1251_concepts_raw.json
+CHEM_1251,concept,chemical nomenclature,chemical nomenclature,2,verified,chemical nomenclature,CHEM_1251_concepts_raw.json
+CHEM_1251,concept,reactions and stoichiometry,reactions and stoichiometry,2,verified,reactions and stoichiometry,CHEM_1251_concepts_raw.json
+CHEM_1251,concept,thermochemistry,thermochemistry,2,verified,thermochemistry,CHEM_1251_concepts_raw.json
+CHEM_1251,concept,atomic structure,atomic structure,3,verified,atomic structure,CHEM_1251_concepts_raw.json
+CHEM_1251,concept,periodicity,periodicity,2,verified,periodicity,CHEM_1251_concepts_raw.json
+CHEM_1251,concept,bonding,bonding,2,verified,bonding,CHEM_1251_concepts_raw.json
+CHEM_1251,concept,behavior of gases,behavior of gases,2,verified,behavior of gases,CHEM_1251_concepts_raw.json
+CHEM_1251,concept,molecular structure,molecular structure,2,verified,molecular structure,CHEM_1251_concepts_raw.json

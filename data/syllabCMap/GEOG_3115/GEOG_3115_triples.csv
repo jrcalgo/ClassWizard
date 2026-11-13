@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_3115,urbanization trends,concept,PREREQUISITE_OF,population shifts analysis,concept,same unit,,GEOG_3115_triples_raw.json
+GEOG_3115,urbanization trends,concept,PREREQUISITE_OF,housing development impact,concept,same unit,,GEOG_3115_triples_raw.json
+GEOG_3115,public transit systems,concept,PREREQUISITE_OF,non-motorized transportation,concept,same unit,,GEOG_3115_triples_raw.json
+GEOG_3115,private vehicle dependence,concept,PREREQUISITE_OF,congestion pricing strategies,concept,A taught first,,GEOG_3115_triples_raw.json
+GEOG_3115,private vehicle dependence,concept,PREREQUISITE_OF,transportation demand management,concept,A taught first,,GEOG_3115_triples_raw.json
+GEOG_3115,urbanization trends,concept,PART_OF,Urban Growth Patterns,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,population shifts analysis,concept,PART_OF,Urban Growth Patterns,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,housing development impact,concept,PART_OF,Urban Growth Patterns,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,public transit systems,concept,PART_OF,Transportation Modes Overview,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,private vehicle dependence,concept,PART_OF,Transportation Modes Overview,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,urban traffic gridlock,concept,PART_OF,Traffic Congestion Issues,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,transportation demand management,concept,PART_OF,Traffic Congestion Issues,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,social equity in transit,concept,PART_OF,Equity and Accessibility,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,accessibility for vulnerable groups,concept,PART_OF,Equity and Accessibility,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,inclusive urban planning,concept,PART_OF,Equity and Accessibility,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,urban sustainability goals,concept,PART_OF,Sustainable Transportation,topic,,,GEOG_3115_triples_raw.json
+GEOG_3115,green infrastructure development,concept,PART_OF,Sustainable Transportation,topic,,,GEOG_3115_triples_raw.json

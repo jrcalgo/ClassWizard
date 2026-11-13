@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_5161,financial statement analysis,concept,PREREQUISITE_OF,Security Valuation,topic,A taught first,,FINN_5161_triples_raw.json
+FINN_5161,financial statement analysis,concept,PREREQUISITE_OF,Capital Budgeting,topic,A taught first,,FINN_5161_triples_raw.json
+FINN_5161,time value of money,measure,PREREQUISITE_OF,Security Valuation,topic,A taught first,,FINN_5161_triples_raw.json
+FINN_5161,time value of money,measure,PREREQUISITE_OF,Capital Budgeting,topic,A taught first,,FINN_5161_triples_raw.json
+FINN_5161,Corporate Finance,topic,PREREQUISITE_OF,Investments,topic,A mentioned first,,FINN_5161_triples_raw.json
+FINN_5161,mean,measure,PREREQUISITE_OF,standard deviation,measure,same unit,,FINN_5161_triples_raw.json
+FINN_5161,covariance,measure,PREREQUISITE_OF,correlation,measure,same unit,,FINN_5161_triples_raw.json
+FINN_5161,Microsoft Excel,tool,USED_FOR,financial statement analysis,concept,,,FINN_5161_triples_raw.json
+FINN_5161,Microsoft Excel,tool,USED_FOR,time value of money,measure,,,FINN_5161_triples_raw.json
+FINN_5161,Microsoft Excel,tool,USED_FOR,Security Valuation,topic,,,FINN_5161_triples_raw.json
+FINN_5161,Microsoft Excel,tool,USED_FOR,Capital Budgeting,topic,,,FINN_5161_triples_raw.json

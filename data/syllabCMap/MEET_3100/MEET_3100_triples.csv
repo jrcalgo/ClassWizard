@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_3100,Math modeling,method,USED_FOR,Design Process,topic,,,MEET_3100_triples_raw.json
+MEET_3100,Analytical modeling,method,USED_FOR,Thermal-Fluid Systems,topic,,,MEET_3100_triples_raw.json

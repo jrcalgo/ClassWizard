@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JAPN_1201,Greetings and Introductions,topic,PART_OF,Listening & Speaking,topic,,,JAPN_1201_triples_raw.json
+JAPN_1201,Daily Routines and Locations,topic,PART_OF,Listening & Speaking,topic,,,JAPN_1201_triples_raw.json
+JAPN_1201,basic Japanese social norms for greetings,concept,PART_OF,Listening & Speaking,topic,,,JAPN_1201_triples_raw.json

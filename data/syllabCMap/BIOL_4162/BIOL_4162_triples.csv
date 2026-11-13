@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4162,molecular cloning,method,PART_OF,Modern Molecular Biotechnology,topic,,,BIOL_4162_triples_raw.json
+BIOL_4162,PCR,method,PART_OF,Modern Molecular Biotechnology,topic,,,BIOL_4162_triples_raw.json
+BIOL_4162,sequencing,method,PART_OF,Modern Molecular Biotechnology,topic,,,BIOL_4162_triples_raw.json
+BIOL_4162,recombinant proteins,concept,PART_OF,Biopharmaceutical Applications,topic,,,BIOL_4162_triples_raw.json
+BIOL_4162,transgenic organisms,concept,PART_OF,Biopharmaceutical Applications,topic,,,BIOL_4162_triples_raw.json
+BIOL_4162,omics,concept,PART_OF,Modern Molecular Biotechnology,topic,,,BIOL_4162_triples_raw.json
+BIOL_4162,vaccine development,concept,PART_OF,Biopharmaceutical Applications,topic,,,BIOL_4162_triples_raw.json

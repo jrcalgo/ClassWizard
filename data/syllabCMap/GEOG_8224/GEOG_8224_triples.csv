@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_8224,Global Elemental Cycles,concept,PART_OF,Earth Systems Analysis Biogeochemical,topic,,,GEOG_8224_triples_raw.json
+GEOG_8224,Major Crustal Elements,topic,PART_OF,Global Elemental Cycles,concept,,part is broader than whole - check direction,GEOG_8224_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_8221,developing and applying a codebook,concept,PREREQUISITE_OF,transforming qualitative data into analyses and interpretations,method,A mentioned first,,HLTH_8221_triples_raw.json
+HLTH_8221,conducting an interview,method,PART_OF,fieldwork,method,,,HLTH_8221_triples_raw.json
+HLTH_8221,observations,method,PART_OF,fieldwork,method,,,HLTH_8221_triples_raw.json
+HLTH_8221,coding and managing qualitative data,method,PART_OF,transforming qualitative data into analyses and interpretations,method,,,HLTH_8221_triples_raw.json
+HLTH_8221,coding and managing qualitative data,method,USED_FOR,transforming qualitative data into analyses and interpretations,method,,,HLTH_8221_triples_raw.json

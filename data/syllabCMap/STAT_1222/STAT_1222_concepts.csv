@@ -1,0 +1,60 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_1222,topic,data summarization,data summarization,11,verified,data summarization,STAT_1222_concepts_raw.json
+STAT_1222,topic,discrete and continuous random variables,discrete and continuous random variable,2,verified,discrete and continuous random variables,STAT_1222_concepts_raw.json
+STAT_1222,topic,binomial,binomial,30,verified,binomial,STAT_1222_concepts_raw.json
+STAT_1222,topic,normal,normal,28,verified,normal,STAT_1222_concepts_raw.json
+STAT_1222,topic,sampling,sampling,17,verified,sampling,STAT_1222_concepts_raw.json
+STAT_1222,concept,central limit theorem,central limit theorem,12,verified,central limit theorem,STAT_1222_concepts_raw.json
+STAT_1222,topic,estimation,estimation,20,verified,estimation,STAT_1222_concepts_raw.json
+STAT_1222,topic,testing hypotheses,testing hypotheses,3,verified,testing hypotheses,STAT_1222_concepts_raw.json
+STAT_1222,concept,descriptive statistics,descriptive statistics,6,verified,descriptive statistics,STAT_1222_concepts_raw.json
+STAT_1222,concept,discrete random variables,Discrete Random Variables,26,verified,discrete random variables,STAT_1222_concepts_raw.json
+STAT_1222,concept,continuous random variables,Continuous Random Variables,24,verified,continuous random variables,STAT_1222_concepts_raw.json
+STAT_1222,concept,binomial distribution,Binomial Distribution,26,verified,binomial distribution,STAT_1222_concepts_raw.json
+STAT_1222,concept,normal distribution,Normal Distributions,1,verified,normal distribution,STAT_1222_concepts_raw.json
+STAT_1222,method,probability distributions,probability distributions,2,verified,probability distributions,STAT_1222_concepts_raw.json
+STAT_1222,topic,confidence intervals,confidence intervals,11,verified,confidence intervals,STAT_1222_concepts_raw.json
+STAT_1222,method,hypothesis testing,hypothesis testing,15,verified,hypothesis testing,STAT_1222_concepts_raw.json
+STAT_1222,topic,statistical literacy,Statistical Literacy,7,verified,statistical literacy,STAT_1222_concepts_raw.json
+STAT_1222,concept,probability mass function,Probability Mass Function,3,verified,probability mass function,STAT_1222_concepts_raw.json
+STAT_1222,concept,expected value formula,Expected Value Formula,3,verified,expected value formula,STAT_1222_concepts_raw.json
+STAT_1222,concept,variance calculation,Variance Calculation,2,verified,variance calculation,STAT_1222_concepts_raw.json
+STAT_1222,concept,sampling distributions,Sampling Distributions,4,verified,sampling distributions,STAT_1222_concepts_raw.json
+STAT_1222,concept,standard error,Standard Error,12,verified,standard error,STAT_1222_concepts_raw.json
+STAT_1222,concept,margin of error,Margin of Error,3,verified,margin of error,STAT_1222_concepts_raw.json
+STAT_1222,concept,null hypothesis,Null Hypothesis,8,verified,null hypothesis,STAT_1222_concepts_raw.json
+STAT_1222,concept,alternative hypothesis,Alternative Hypothesis,8,verified,alternative hypothesis,STAT_1222_concepts_raw.json
+STAT_1222,concept,test statistic calculation,Test Statistic Calculation,4,verified,test statistic calculation,STAT_1222_concepts_raw.json
+STAT_1222,concept,p-value interpretation,P-Value Interpretation,4,verified,p-value interpretation,STAT_1222_concepts_raw.json
+STAT_1222,concept,type I error rate,Type I Error Rate,2,verified,type I error rate,STAT_1222_concepts_raw.json
+STAT_1222,method,confidence interval estimation,Confidence Interval Estimation,3,verified,confidence interval estimation,STAT_1222_concepts_raw.json
+STAT_1222,concept,large sample confidence interval,Large Sample Confidence Interval,8,verified,large sample confidence interval,STAT_1222_concepts_raw.json
+STAT_1222,concept,small sample confidence interval,Small Sample Confidence Interval,4,verified,small sample confidence interval,STAT_1222_concepts_raw.json
+STAT_1222,concept,population mean estimation,Population Mean Estimation,6,verified,population mean estimation,STAT_1222_concepts_raw.json
+STAT_1222,concept,sample size determination,Sample Size Determination,6,verified,sample size determination,STAT_1222_concepts_raw.json
+STAT_1222,concept,standard error calculation,Standard Error Calculation,8,verified,standard error calculation,STAT_1222_concepts_raw.json
+STAT_1222,concept,confidence level understanding,Confidence Level Understanding,2,verified,confidence level understanding,STAT_1222_concepts_raw.json
+STAT_1222,concept,one-sample confidence intervals,one-sample confidence intervals,3,verified,one-sample confidence intervals,STAT_1222_concepts_raw.json
+STAT_1222,concept,one-sample hypothesis testing,one -sample hypothesis testing,4,verified,one-sample hypothesis testing,STAT_1222_concepts_raw.json
+STAT_1222,concept,large sample hypothesis tests for the population mean,Large Sample Hypothesis Tests for the Population Mean,1,verified,large sample hypothesis tests for the population mean,STAT_1222_concepts_raw.json
+STAT_1222,concept,small sample hypothesis tests for the population mean,Small Sample Hypothesis Tests for the Population Mean,1,verified,small sample hypothesis tests for the population mean,STAT_1222_concepts_raw.json
+STAT_1222,concept,large sample hypothesis tests for the population proportion,Large Sample Hypothesis Tests for the Population Proportion,1,verified,large sample hypothesis tests for the population proportion,STAT_1222_concepts_raw.json
+STAT_1222,method,data summarization techniques,Data Summarization Techniques,2,verified,data summarization techniques,STAT_1222_concepts_raw.json
+STAT_1222,method,graphical displays making,Graphical Displays Making,1,verified,graphical displays making,STAT_1222_concepts_raw.json
+STAT_1222,method,visualizing data techniques,Visualizing Data Techniques,1,verified,visualizing data techniques,STAT_1222_concepts_raw.json
+STAT_1222,method,probability concepts,probability concepts,1,verified,probability concepts,STAT_1222_concepts_raw.json
+STAT_1222,method,sampling methods,Sampling Methods,2,verified,sampling methods,STAT_1222_concepts_raw.json
+STAT_1222,method,random sampling methods,Random Sampling Methods,1,verified,random sampling methods,STAT_1222_concepts_raw.json
+STAT_1222,method,stratified random sampling,Stratified Random Sampling,1,verified,stratified random sampling,STAT_1222_concepts_raw.json
+STAT_1222,method,cluster sampling,Cluster Sampling,1,verified,cluster sampling,STAT_1222_concepts_raw.json
+STAT_1222,method,systematic sampling,Systematic Sampling,1,verified,systematic sampling,STAT_1222_concepts_raw.json
+STAT_1222,method,numerical summaries including mean,numerical summaries including mean,1,verified,"numerical summaries including mean, median, mode, variance, standard deviation, z-scores, and percentiles",STAT_1222_concepts_raw.json
+STAT_1222,method,median,median,5,verified,"numerical summaries including mean, median, mode, variance, standard deviation, z-scores, and percentiles",STAT_1222_concepts_raw.json
+STAT_1222,method,mode,mode,5,verified,"numerical summaries including mean, median, mode, variance, standard deviation, z-scores, and percentiles",STAT_1222_concepts_raw.json
+STAT_1222,method,variance,variance,7,verified,"numerical summaries including mean, median, mode, variance, standard deviation, z-scores, and percentiles",STAT_1222_concepts_raw.json
+STAT_1222,method,standard deviation,standard deviation,4,verified,"numerical summaries including mean, median, mode, variance, standard deviation, z-scores, and percentiles",STAT_1222_concepts_raw.json
+STAT_1222,method,z-scores,z-scores,5,verified,"numerical summaries including mean, median, mode, variance, standard deviation, z-scores, and percentiles",STAT_1222_concepts_raw.json
+STAT_1222,method,percentiles,percentiles,2,verified,"numerical summaries including mean, median, mode, variance, standard deviation, z-scores, and percentiles",STAT_1222_concepts_raw.json
+STAT_1222,tool,Microsoft Excel,Microsoft Excel,1,verified,Microsoft Excel,STAT_1222_concepts_raw.json
+STAT_1222,tool,RealizeIt,RealizeIt,3,verified,RealizeIt,STAT_1222_concepts_raw.json
+STAT_1222,tool,PowerPoint,PowerPoint,2,verified,PowerPoint,STAT_1222_concepts_raw.json

@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_3123,method of moments,concept,PREREQUISITE_OF,method of maximum likelihood,concept,A taught first,,MATH_3123_triples_raw.json
+MATH_3123,method of maximum likelihood,concept,PREREQUISITE_OF,unbiased estimators,concept,B taught first,B is taught before A - check,MATH_3123_triples_raw.json
+MATH_3123,method of maximum likelihood,concept,PREREQUISITE_OF,efficiency,concept,B taught first,B is taught before A - check,MATH_3123_triples_raw.json
+MATH_3123,method of maximum likelihood,concept,PREREQUISITE_OF,consistency,concept,same unit,,MATH_3123_triples_raw.json
+MATH_3123,Confidence Intervals and Hypothesis Tests,topic,PREREQUISITE_OF,proportions,concept,same unit,,MATH_3123_triples_raw.json
+MATH_3123,Confidence Intervals and Hypothesis Tests,topic,PREREQUISITE_OF,means,concept,same unit,,MATH_3123_triples_raw.json
+MATH_3123,Confidence Intervals and Hypothesis Tests,topic,PREREQUISITE_OF,variances,concept,same unit,,MATH_3123_triples_raw.json
+MATH_3123,Confidence Intervals and Hypothesis Tests,topic,PREREQUISITE_OF,differences between means,concept,A taught first,,MATH_3123_triples_raw.json
+MATH_3123,Confidence Intervals and Hypothesis Tests,topic,PREREQUISITE_OF,tests of significance,concept,A mentioned first,,MATH_3123_triples_raw.json
+MATH_3123,method of moments,concept,PART_OF,Estimation,topic,,,MATH_3123_triples_raw.json
+MATH_3123,method of maximum likelihood,concept,PART_OF,Estimation,topic,,,MATH_3123_triples_raw.json
+MATH_3123,unbiased estimators,concept,PART_OF,Estimation,topic,,,MATH_3123_triples_raw.json
+MATH_3123,efficiency,concept,PART_OF,Estimation,topic,,,MATH_3123_triples_raw.json
+MATH_3123,consistency,concept,PART_OF,Estimation,topic,,,MATH_3123_triples_raw.json
+MATH_3123,confidence intervals,concept,PART_OF,Confidence Intervals and Hypothesis Tests,topic,,,MATH_3123_triples_raw.json
+MATH_3123,hypothesis tests,concept,PART_OF,confidence intervals,concept,,,MATH_3123_triples_raw.json
+MATH_3123,proportions,concept,PART_OF,Confidence Intervals and Hypothesis Tests,topic,,,MATH_3123_triples_raw.json
+MATH_3123,means,concept,PART_OF,Confidence Intervals and Hypothesis Tests,topic,,,MATH_3123_triples_raw.json
+MATH_3123,variances,concept,PART_OF,Confidence Intervals and Hypothesis Tests,topic,,,MATH_3123_triples_raw.json

@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHNS_1512,Chinese Culture,topic,PREREQUISITE_OF,Chinese Culture in the United States,topic,A mentioned first,,CHNS_1512_triples_raw.json
+CHNS_1512,Early Chinese Immigration,topic,PREREQUISITE_OF,Chinese American Communities,topic,A taught first,,CHNS_1512_triples_raw.json
+CHNS_1512,Influence of Chinese Culture,topic,PREREQUISITE_OF,Chinese American Contributions,topic,A taught first,,CHNS_1512_triples_raw.json
+CHNS_1512,immigration history overview,concept,PART_OF,Early Chinese Immigration,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,Gold Rush era migration,concept,PART_OF,Early Chinese Immigration,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,Transcontinental Railroad impact,concept,PART_OF,Early Chinese Immigration,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,Anti-Chinese legislation,concept,PART_OF,Early Chinese Immigration,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,community organization and leadership,concept,PART_OF,Chinese American Communities,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,cultural preservation efforts,concept,PART_OF,Chinese American Communities,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,culinary arts and cuisine,concept,PART_OF,Influence of Chinese Culture,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,arts and cultural expression,concept,PART_OF,Influence of Chinese Culture,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,technological innovations,concept,PART_OF,Influence of Chinese Culture,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,global economic interdependence,concept,PART_OF,Globalization and Multiculturalism,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,diversity and inclusion policies,concept,PART_OF,Globalization and Multiculturalism,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,intercultural competence development,concept,PART_OF,Globalization and Multiculturalism,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,intersectionality and social justice,concept,PART_OF,Cultural Diversity and Identity,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,community building strategies,concept,PART_OF,Chinese American Communities,topic,,,CHNS_1512_triples_raw.json
+CHNS_1512,Chinese Culture,topic,USED_FOR,Chinese Culture in the United States,topic,,topic used for something - check direction,CHNS_1512_triples_raw.json

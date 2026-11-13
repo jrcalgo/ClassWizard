@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPTI_8241,topic,Optical System Function and Design,Optical System Function and Design,1,verified,Optical System Function and Design,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,geometrical ray-tracing methods,geometrical ray-tracing methods,1,verified,geometrical ray-tracing methods,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,optical system design principles,Optical System Design Principles,1,inferred,optical system design principles,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,advanced telescope study topics,Advanced Telescope Study Topics,1,inferred,advanced telescope study topics,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,microscope optical system design,Microscope Optical System Design,1,inferred,microscope optical system design,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,camera lens design principles,Camera Lens Design Principles,1,inferred,camera lens design principles,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,off-axis imaging system design,Off-Axis Imaging System Design,1,inferred,off-axis imaging system design,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,multiple refractive surfaces,Multiple Refractive Surfaces,2,inferred,multiple refractive surfaces,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,aperture stop functionality,Aperture Stop Functionality,1,inferred,aperture stop functionality,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,stop and aperture design principles,Stop and Aperture Design Principles,1,inferred,stop and aperture design principles,OPTI_8241_concepts_raw.json
+OPTI_8241,concept,lens system optimization techniques,Lens System Optimization Techniques,1,inferred,lens system optimization techniques,OPTI_8241_concepts_raw.json
+OPTI_8241,topic,Zemax Code Functionality,Zemax Code Functionality,1,inferred,Zemax Code Functionality,OPTI_8241_concepts_raw.json
+OPTI_8241,topic,Geometric Optics Simulation Tools,Geometric Optics Simulation Tools,1,inferred,Geometric Optics Simulation Tools,OPTI_8241_concepts_raw.json
+OPTI_8241,topic,Design of Optical Components,Design of Optical Components,1,inferred,Design of Optical Components,OPTI_8241_concepts_raw.json
+OPTI_8241,topic,Optical Design Code Selection,Optical Design Code Selection,1,inferred,Optical Design Code Selection,OPTI_8241_concepts_raw.json
+OPTI_8241,topic,Code Functionality and Limitations,Code Functionality and Limitations,1,inferred,Code Functionality and Limitations,OPTI_8241_concepts_raw.json

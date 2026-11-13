@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_4181,Crystal Structure,topic,PREREQUISITE_OF,Reciprocal Lattices,topic,A taught first,,PHYS_4181_triples_raw.json
+PHYS_4181,Crystal Structure,topic,PREREQUISITE_OF,X-Ray Diffraction,topic,A taught first,,PHYS_4181_triples_raw.json
+PHYS_4181,Solid State Physics,topic,PREREQUISITE_OF,Crystal Structure,topic,B mentioned first,,PHYS_4181_triples_raw.json
+PHYS_4181,Solid State Physics,topic,PREREQUISITE_OF,Reciprocal Lattices,topic,B mentioned first,,PHYS_4181_triples_raw.json
+PHYS_4181,Solid State Physics,topic,PREREQUISITE_OF,X-Ray Diffraction,topic,B mentioned first,,PHYS_4181_triples_raw.json
+PHYS_4181,Solid State Physics,topic,PREREQUISITE_OF,Acoustic Properties,topic,B mentioned first,,PHYS_4181_triples_raw.json
+PHYS_4181,Solid State Physics,topic,PREREQUISITE_OF,Free Electron Model,topic,B mentioned first,,PHYS_4181_triples_raw.json
+PHYS_4181,Solid State Physics,topic,PREREQUISITE_OF,Semiconductor Devices,topic,B mentioned first,,PHYS_4181_triples_raw.json
+PHYS_4181,Solid State Physics,topic,PREREQUISITE_OF,Dielectric Properties,topic,B mentioned first,,PHYS_4181_triples_raw.json

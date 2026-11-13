@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JAPN_3201,Japanese sentence structure,concept,PREREQUISITE_OF,Verb conjugation rules,concept,same unit,,JAPN_3201_triples_raw.json
+JAPN_3201,Japanese sentence structure,concept,PREREQUISITE_OF,Basic grammar concepts,concept,same unit,,JAPN_3201_triples_raw.json
+JAPN_3201,Verb conjugation rules,concept,PREREQUISITE_OF,Conditional sentence formation,concept,A taught first,,JAPN_3201_triples_raw.json
+JAPN_3201,Verb conjugation rules,concept,PREREQUISITE_OF,Past tense usage review,concept,A taught first,,JAPN_3201_triples_raw.json
+JAPN_3201,Pronunciation practice,concept,PREREQUISITE_OF,Spoken Japanese Fundamentals,topic,same unit,,JAPN_3201_triples_raw.json
+JAPN_3201,Prepared topic discussion,concept,PREREQUISITE_OF,Guided Conversation I,topic,same unit,,JAPN_3201_triples_raw.json
+JAPN_3201,Prepared topic discussion,concept,PREREQUISITE_OF,Guided Conversation II,topic,A taught first,,JAPN_3201_triples_raw.json
+JAPN_3201,Prepared topic discussion,concept,PREREQUISITE_OF,Guided Conversation III,topic,A taught first,,JAPN_3201_triples_raw.json
+JAPN_3201,Japanese sentence structure,concept,PART_OF,Upper Intermediate Japanese I,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Verb conjugation rules,concept,PART_OF,Review of Japanese Grammar,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Basic grammar concepts,concept,PART_OF,Review of Japanese Grammar,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Pronunciation practice,concept,PART_OF,Spoken Japanese Fundamentals,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Basic conversation phrases,concept,PART_OF,Spoken Japanese Fundamentals,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Listening comprehension skills,concept,PART_OF,Spoken Japanese Fundamentals,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Prepared topic discussion,concept,PART_OF,Guided Conversation I,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Question-asking techniques,concept,PART_OF,Guided Conversation I,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Conditional sentence formation,concept,PART_OF,Grammar Review and Practice,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Past tense usage review,concept,PART_OF,Grammar Review and Practice,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Grammar exercises,concept,PART_OF,Grammar Review and Practice,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Paragraph writing basics,concept,PART_OF,Writing and Narration I,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Narrative structure review,concept,PART_OF,Writing and Narration I,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Advanced narrative structure review,concept,PART_OF,Writing and Narration II,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Response generation strategies,concept,USED_FOR,Guided Conversation II,topic,,,JAPN_3201_triples_raw.json
+JAPN_3201,Response generation strategies,concept,USED_FOR,Guided Conversation III,topic,,,JAPN_3201_triples_raw.json

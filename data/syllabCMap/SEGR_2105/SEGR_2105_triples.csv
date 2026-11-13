@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_2105,structured query language (SQL,concept,PREREQUISITE_OF,machine learning,concept,A taught first,,SEGR_2105_triples_raw.json
+SEGR_2105,design,concept,PREREQUISITE_OF,coding,concept,A mentioned first,,SEGR_2105_triples_raw.json
+SEGR_2105,compiling,concept,PREREQUISITE_OF,debugging,concept,B mentioned first,,SEGR_2105_triples_raw.json
+SEGR_2105,Python,tool,PREREQUISITE_OF,machine learning,concept,A taught first,,SEGR_2105_triples_raw.json
+SEGR_2105,Python,tool,USED_FOR,machine learning,concept,,,SEGR_2105_triples_raw.json

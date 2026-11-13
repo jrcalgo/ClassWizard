@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_6100,Statistics,topic,PREREQUISITE_OF,Discrete Random Variables,topic,A taught first,,GRAD_6100_triples_raw.json
+GRAD_6100,Statistics,topic,PREREQUISITE_OF,Continuous Random Variables,topic,A taught first,,GRAD_6100_triples_raw.json
+GRAD_6100,Statistics,topic,PREREQUISITE_OF,Hypothesis Testing,topic,A taught first,,GRAD_6100_triples_raw.json
+GRAD_6100,Statistics,topic,PREREQUISITE_OF,Regression Analysis,topic,A taught first,,GRAD_6100_triples_raw.json
+GRAD_6100,Probability Theory,topic,PREREQUISITE_OF,Discrete Random Variables,topic,A taught first,,GRAD_6100_triples_raw.json
+GRAD_6100,Probability Theory,topic,PREREQUISITE_OF,Continuous Random Variables,topic,A taught first,,GRAD_6100_triples_raw.json
+GRAD_6100,Probability Theory,topic,PREREQUISITE_OF,Hypothesis Testing,topic,A taught first,,GRAD_6100_triples_raw.json
+GRAD_6100,Probability Theory,topic,PREREQUISITE_OF,Regression Analysis,topic,A taught first,,GRAD_6100_triples_raw.json
+GRAD_6100,Descriptive Statistics,topic,PREREQUISITE_OF,Regression Analysis,topic,A taught first,,GRAD_6100_triples_raw.json
+GRAD_6100,Measures of Central Tendency,concept,PART_OF,Descriptive Statistics,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Data Visualization,concept,PART_OF,Descriptive Statistics,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Basic Probability Concepts,concept,PART_OF,Probability Theory,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Conditional Probability,concept,PART_OF,Probability Theory,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Bernoulli Distribution,concept,PART_OF,Discrete Random Variables,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Binomial Distribution,concept,PART_OF,Discrete Random Variables,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Poisson Distribution,concept,PART_OF,Discrete Random Variables,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Uniform Distribution,concept,PART_OF,Continuous Random Variables,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Exponential Distribution,concept,PART_OF,Continuous Random Variables,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Normal Distribution,concept,PART_OF,Continuous Random Variables,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Null and Alternative Hypotheses,concept,PART_OF,Hypothesis Testing,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Test Statistics and P-Values,concept,PART_OF,Hypothesis Testing,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Type I and Type II Errors,concept,PART_OF,Hypothesis Testing,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Point Estimation and Interval Estimation,concept,PART_OF,Confidence Intervals,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Simple Linear Regression Model,concept,PART_OF,Regression Analysis,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Multiple Linear Regression Model,concept,PART_OF,Regression Analysis,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,Coefficient of Determination,concept,PART_OF,Regression Analysis,topic,,,GRAD_6100_triples_raw.json
+GRAD_6100,R,tool,USED_FOR,Statistics,topic,,,GRAD_6100_triples_raw.json

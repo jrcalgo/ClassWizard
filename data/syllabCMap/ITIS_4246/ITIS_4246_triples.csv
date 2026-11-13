@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4246,Security Policy Design,topic,PREREQUISITE_OF,security policy design and development,concept,same unit,,ITIS_4246_triples_raw.json
+ITIS_4246,single-sign-on services,concept,PREREQUISITE_OF,log analysis,concept,A taught first,,ITIS_4246_triples_raw.json
+ITIS_4246,secrets management,concept,PREREQUISITE_OF,secure information flow,concept,B taught first,B is taught before A - check,ITIS_4246_triples_raw.json
+ITIS_4246,network access control policies,concept,PART_OF,security policy design and development,concept,,,ITIS_4246_triples_raw.json
+ITIS_4246,single-sign-on services,concept,PART_OF,securing network communication,concept,,,ITIS_4246_triples_raw.json

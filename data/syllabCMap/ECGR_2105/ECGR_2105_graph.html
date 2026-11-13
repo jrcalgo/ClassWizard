@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ECGR 2105 - Computer Programming - concept map</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:#222;background:#fff}
+ header{padding:12px 16px;border-bottom:1px solid #ddd}
+ h1{font-size:18px;margin:0 0 4px} .sub{color:#666;font-size:13px}
+ #map{height:72vh;border-bottom:1px solid #ddd}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;padding:8px 16px;font-size:12px}
+ .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+ .ln{display:inline-block;width:18px;height:3px;margin-right:5px;vertical-align:3px}
+ section{padding:8px 16px 24px} h2{font-size:15px;margin:16px 0 6px}
+ table{border-collapse:collapse;font-size:13px} td,th{border:1px solid #ddd;padding:3px 8px;text-align:left}
+ th{background:#f5f5f5} #err{display:none;padding:16px;color:#a00}
+</style></head><body>
+<header><h1>ECGR 2105 - Computer Programming</h1><div class="sub">12 concepts, 1 relations &middot; drag to move, scroll to zoom, hover for details</div></header>
+<div id="err">The interactive map needs internet access to load its drawing library (unpkg.com).
+Open ECGR_2105_graph.png instead; the tables below list the same content.</div>
+<div id="map"></div>
+<div class="legend"><span><span class='sw' style='background:#4C78A8'></span>topic</span><span><span class='sw' style='background:#59A14F'></span>concept</span><span><span class='sw' style='background:#E15759'></span>tool</span><span><span class='ln' style='background:#FF7F0E'></span>USED_FOR</span><span class='sub'>dashed border = not verified in the syllabus text</span></div>
+<section><h2>Relations</h2><table><tr><th>subject</th><th>relation</th><th>object</th></tr><tr><td>C++</td><td>USED_FOR</td><td>object-oriented programming</td></tr></table><h2>Concepts</h2><table><tr><th>concept</th><th>type</th><th>status</th><th>occurrences</th></tr><tr><td>Computer Programming</td><td>topic</td><td>verified</td><td>2</td></tr><tr><td>Inheritance and Polymorphism</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>branches and loops</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>class interfaces</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>dynamic memory allocation</td><td>concept</td><td>verified</td><td>2</td></tr><tr><td>logical operators</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>memory management</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>object-oriented programming</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>objects and classes</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>variable declaration</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>C++</td><td>tool</td><td>verified</td><td>5</td></tr><tr><td>ZyBooks</td><td>tool</td><td>verified</td><td>1</td></tr></table></section>
+<script>
+const DATA = {"nodes": [{"id": "computer programming", "label": "Computer Programming", "title": "Computer Programming\ntype: topic\nstatus: verified\noccurrences in syllabus: 2", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 100.0, "y": 204.0}, {"id": "c++", "label": "C++", "title": "C++\ntype: tool\nstatus: verified\noccurrences in syllabus: 5", "color": {"background": "#E15759", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 700.0, "y": -170.0}, {"id": "inheritance and polymorphism", "label": "Inheritance and Polymorphism", "title": "Inheritance and Polymorphism\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 300.0, "y": 204.0}, {"id": "object-oriented programming", "label": "object-oriented programming", "title": "object-oriented programming\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 700.0, "y": -0.0}, {"id": "variable declaration", "label": "variable declaration", "title": "variable declaration\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 300.0, "y": 323.0}, {"id": "logical operators", "label": "logical operators", "title": "logical operators\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 1100.0, "y": 204.0}, {"id": "branches and loops", "label": "branches and loops", "title": "branches and loops\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 500.0, "y": 204.0}, {"id": "objects and classes", "label": "objects and classes", "title": "objects and classes\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 100.0, "y": 323.0}, {"id": "class interfaces", "label": "class interfaces", "title": "class interfaces\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 700.0, "y": 204.0}, {"id": "dynamic memory allocation", "label": "dynamic memory allocation", "title": "dynamic memory allocation\ntype: concept\nstatus: verified\noccurrences in syllabus: 2", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 900.0000000000001, "y": 204.0}, {"id": "memory management", "label": "memory management", "title": "memory management\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 1300.0, "y": 204.0}, {"id": "zybooks", "label": "ZyBooks", "title": "ZyBooks\ntype: tool\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#E15759", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 500.0, "y": 323.0}, {"id": "__alone__", "label": "concepts with no relation:", "shape": "text", "font": {"color": "#666", "size": 13}, "x": 84.0, "y": 118.99999999999999, "fixed": true, "chosen": false}], "edges": [{"from": "c++", "to": "object-oriented programming", "label": "USED_FOR", "color": "#FF7F0E", "smooth": {"enabled": false}, "title": "C++ USED_FOR object-oriented programming"}]};
+if (typeof vis === "undefined") { document.getElementById("err").style.display = "block";
+  document.getElementById("map").style.display = "none"; }
+else {
+  const nodes = new vis.DataSet(DATA.nodes), edges = new vis.DataSet(DATA.edges);
+  const net = new vis.Network(document.getElementById("map"), {nodes, edges}, {
+    nodes: {shape: "box", margin: 8, font: {color: "#fff", size: 14}, widthConstraint: {maximum: 180}},
+    edges: {arrows: {to: {enabled: true, scaleFactor: 0.7}}, font: {size: 11, align: "middle",
+            background: "rgba(255,255,255,0.85)", multi: false}, width: 1.6},
+    physics: false,          // positions come from the same layered layout as the PNG
+    layout: {improvedLayout: false},
+    interaction: {hover: true, tooltipDelay: 120}
+  });
+  net.once("afterDrawing", () => net.fit());
+}
+</script></body></html>

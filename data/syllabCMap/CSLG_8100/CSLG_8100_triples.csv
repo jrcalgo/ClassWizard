@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_8100,Psychoanalytic Theory Basics,concept,PREREQUISITE_OF,Behavioral Therapy Fundamentals,concept,same unit,,CSLG_8100_triples_raw.json
+CSLG_8100,Psychoanalytic Theory Basics,concept,PREREQUISITE_OF,Cognitive Theory Principles,concept,same unit,,CSLG_8100_triples_raw.json
+CSLG_8100,Psychoanalytic Theory Basics,concept,PREREQUISITE_OF,Gestalt and Person-Centered,concept,A taught first,,CSLG_8100_triples_raw.json
+CSLG_8100,Psychoanalytic Theory Basics,concept,PREREQUISITE_OF,Solution-Focused Brief Therapy,concept,A taught first,,CSLG_8100_triples_raw.json
+CSLG_8100,Behavioral Therapy Fundamentals,concept,PREREQUISITE_OF,Cognitive-Behavioral Mechanisms,concept,A taught first,,CSLG_8100_triples_raw.json
+CSLG_8100,Behavioral Therapy Fundamentals,concept,PREREQUISITE_OF,Humanistic Change Processes,concept,A taught first,,CSLG_8100_triples_raw.json
+CSLG_8100,Cognitive Theory Principles,concept,PREREQUISITE_OF,Humanistic and Existentialism,concept,A taught first,,CSLG_8100_triples_raw.json
+CSLG_8100,Cognitive Theory Principles,concept,PREREQUISITE_OF,Solution-Focused Brief Therapy,concept,A taught first,,CSLG_8100_triples_raw.json
+CSLG_8100,Human Condition Perspective,concept,PART_OF,Philosophical Foundations,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Psychoanalytic Theory Basics,concept,PART_OF,Traditional Theories,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Behavioral Therapy Fundamentals,concept,PART_OF,Traditional Theories,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Cognitive Theory Principles,concept,PART_OF,Traditional Theories,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Gestalt and Person-Centered,concept,PART_OF,Current Theoretical Approaches,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Solution-Focused Brief Therapy,concept,PART_OF,Current Theoretical Approaches,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Conditioning and Learning Theories,concept,PART_OF,Therapeutic Efficacy Factors,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Cognitive-Behavioral Mechanisms,concept,PART_OF,Therapeutic Efficacy Factors,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Humanistic Change Processes,concept,PART_OF,Therapeutic Efficacy Factors,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Power Dynamics in Therapy,concept,PART_OF,Multicultural Counseling Considerations,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Culturally Responsive Practice,concept,PART_OF,Multicultural Counseling Considerations,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Theory Selection and Use,concept,PART_OF,Theoretical Integration and Application,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Integration of Multiple Theories,concept,PART_OF,Theoretical Integration and Application,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Psychoanalytic Theory Basics,concept,USED_FOR,Traditional Theories,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Behavioral Therapy Fundamentals,concept,USED_FOR,Traditional Theories,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Cognitive Theory Principles,concept,USED_FOR,Traditional Theories,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Humanistic and Existentialism,concept,USED_FOR,Current Theoretical Approaches,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Solution-Focused Brief Therapy,concept,USED_FOR,Current Theoretical Approaches,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Conditioning and Learning Theories,concept,USED_FOR,Therapeutic Efficacy Factors,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Cognitive-Behavioral Mechanisms,concept,USED_FOR,Therapeutic Efficacy Factors,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Power Dynamics in Therapy,concept,USED_FOR,Multicultural Counseling Considerations,topic,,,CSLG_8100_triples_raw.json
+CSLG_8100,Culturally Responsive Practice,concept,USED_FOR,Multicultural Counseling Considerations,topic,,,CSLG_8100_triples_raw.json

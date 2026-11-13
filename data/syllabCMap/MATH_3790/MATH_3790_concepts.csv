@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3790,topic,Mathematics,Mathematics,3,verified,Mathematics,MATH_3790_concepts_raw.json
+MATH_3790,topic,Statistics,Statistics,2,verified,Statistics,MATH_3790_concepts_raw.json
+MATH_3790,topic,Research,research,2,verified,Research,MATH_3790_concepts_raw.json
+MATH_3790,topic,Applied Mathematics,applied mathematics,1,verified,Applied Mathematics,MATH_3790_concepts_raw.json
+MATH_3790,method,Literature search,literature searches,1,verified,Literature search,MATH_3790_concepts_raw.json
+MATH_3790,method,Rigorous literature search,rigorous literature search,1,verified,Rigorous literature search,MATH_3790_concepts_raw.json
+MATH_3790,method,Targeted literature searches,targeted literature searches,1,verified,Targeted literature searches,MATH_3790_concepts_raw.json
+MATH_3790,method,Specialized databases,specialized databases,1,verified,Specialized databases,MATH_3790_concepts_raw.json
+MATH_3790,method,Computational methods,computational methods,1,verified,Computational methods,MATH_3790_concepts_raw.json
+MATH_3790,tool,Math-SciNet,Math-SciNet,1,verified,Math-SciNet,MATH_3790_concepts_raw.json
+MATH_3790,tool,arXiv,arXiv,1,verified,arXiv,MATH_3790_concepts_raw.json

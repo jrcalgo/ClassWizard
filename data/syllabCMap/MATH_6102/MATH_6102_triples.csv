@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_6102,convergence tests,concept,PREREQUISITE_OF,Limits and Continuity,topic,A taught first,,MATH_6102_triples_raw.json
+MATH_6102,Mean Value Theorem,concept,PREREQUISITE_OF,Differentiation,topic,same unit,,MATH_6102_triples_raw.json
+MATH_6102,completeness property of the real numbers,concept,PART_OF,Real Number System,topic,,,MATH_6102_triples_raw.json
+MATH_6102,convergence tests,concept,PART_OF,Sequences and Series,topic,,,MATH_6102_triples_raw.json
+MATH_6102,Mean Value Theorem,concept,PART_OF,Differentiation,topic,,,MATH_6102_triples_raw.json

@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_6000,Historical Theories and Paradigms,topic,PREREQUISITE_OF,Research Design and Methodology,topic,A taught first,,HIST_6000_triples_raw.json
+HIST_6000,Historical Theories and Paradigms,topic,PREREQUISITE_OF,Historical Periodization and Categorization,topic,A taught first,,HIST_6000_triples_raw.json
+HIST_6000,Research Design and Methodology,topic,PREREQUISITE_OF,Primary Source Analysis and Interpretation,topic,A taught first,,HIST_6000_triples_raw.json
+HIST_6000,Research Design and Methodology,topic,PREREQUISITE_OF,Theories of History and Historiography,topic,A taught first,,HIST_6000_triples_raw.json
+HIST_6000,Primary Source Analysis and Interpretation,topic,PREREQUISITE_OF,Theories of History and Historiography,topic,A taught first,,HIST_6000_triples_raw.json
+HIST_6000,Theories of History and Historiography,topic,PREREQUISITE_OF,Historical Periodization and Categorization,topic,A taught first,,HIST_6000_triples_raw.json
+HIST_6000,Cultural and Social Categories,concept,PART_OF,Historical Periodization and Categorization,topic,,,HIST_6000_triples_raw.json
+HIST_6000,Power Dynamics in Historical Narratives,concept,PART_OF,Historical Contextualization and Representation,topic,,,HIST_6000_triples_raw.json
+HIST_6000,Research Question Formulation,concept,PART_OF,Research Proposal Development and Writing,topic,,,HIST_6000_triples_raw.json
+HIST_6000,Literature Review Strategies,concept,PART_OF,Research Proposal Development and Writing,topic,,,HIST_6000_triples_raw.json
+HIST_6000,Historical Contextualization Techniques,method,USED_FOR,Historical Periodization and Categorization,topic,,,HIST_6000_triples_raw.json
+HIST_6000,Document Analysis Strategies,method,USED_FOR,Primary Source Analysis and Interpretation,topic,,,HIST_6000_triples_raw.json
+HIST_6000,Source Criticism Techniques,method,USED_FOR,Primary Source Analysis and Interpretation,topic,,,HIST_6000_triples_raw.json
+HIST_6000,Interpretive Frameworks Development,method,USED_FOR,Historical Contextualization and Representation,topic,,,HIST_6000_triples_raw.json
+HIST_6000,Informed Consent Protocols,method,USED_FOR,Research Ethics and Academic Integrity,topic,,,HIST_6000_triples_raw.json
+HIST_6000,Confidentiality and Anonymity Practices,method,USED_FOR,Research Ethics and Academic Integrity,topic,,,HIST_6000_triples_raw.json

@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5010,topic,Active Cyber Defense,Active Cyber Defense,2,verified,Active Cyber Defense,ITIS_5010_concepts_raw.json
+ITIS_5010,topic,Identity and Access,identity and access,1,verified,Identity and Access,ITIS_5010_concepts_raw.json
+ITIS_5010,topic,Incident Response,incident response,1,verified,Incident Response,ITIS_5010_concepts_raw.json
+ITIS_5010,topic,Standard Operating Procedures,standard operating procedures,1,verified,Standard Operating Procedures,ITIS_5010_concepts_raw.json
+ITIS_5010,topic,Final Examination,final examination,1,verified,Final Examination,ITIS_5010_concepts_raw.json
+ITIS_5010,concept,Recover Administrative Access,recover administrative access,1,verified,Recover Administrative Access,ITIS_5010_concepts_raw.json
+ITIS_5010,concept,Configure Firewalls,Configure firewalls,1,verified,Configure Firewalls,ITIS_5010_concepts_raw.json

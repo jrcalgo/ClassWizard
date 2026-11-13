@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_6920,Logistics,topic,PREREQUISITE_OF,Logistics Systems Management,topic,A taught first,,EMGT_6920_triples_raw.json
+EMGT_6920,Logistics Engineering and Management,topic,PREREQUISITE_OF,Logistics Systems Management,topic,B mentioned first,,EMGT_6920_triples_raw.json
+EMGT_6920,logistics systems,concept,PART_OF,Logistics Systems Management,topic,,,EMGT_6920_triples_raw.json
+EMGT_6920,production and distribution,concept,PART_OF,logistics systems,concept,,,EMGT_6920_triples_raw.json
+EMGT_6920,supply chains,concept,PART_OF,logistics systems,concept,,,EMGT_6920_triples_raw.json
+EMGT_6920,systems engineering perspective,concept,USED_FOR,Logistics Systems Management,topic,,,EMGT_6920_triples_raw.json

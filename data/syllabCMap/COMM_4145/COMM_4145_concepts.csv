@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+COMM_4145,topic,Communication Process Overview,Communication Process Overview,1,inferred,Communication Process Overview,COMM_4145_concepts_raw.json
+COMM_4145,topic,Verbal Message Components,Verbal Message Components,1,inferred,Verbal Message Components,COMM_4145_concepts_raw.json
+COMM_4145,topic,Nonverbal Cues and Feedback,Nonverbal Cues and Feedback,1,inferred,Nonverbal Cues and Feedback,COMM_4145_concepts_raw.json
+COMM_4145,topic,Linear Model of Communication,Linear Model of Communication,1,inferred,Linear Model of Communication,COMM_4145_concepts_raw.json
+COMM_4145,topic,Transactional Model of Communication,Transactional Model of Communication,1,inferred,Transactional Model of Communication,COMM_4145_concepts_raw.json
+COMM_4145,concept,Social Penetration Theory,Social Penetration Theory,1,inferred,Social Penetration Theory,COMM_4145_concepts_raw.json
+COMM_4145,topic,Active Listening Techniques,Active Listening Techniques,1,inferred,Active Listening Techniques,COMM_4145_concepts_raw.json
+COMM_4145,topic,Conflict Resolution Strategies,Conflict Resolution Strategies,1,inferred,Conflict Resolution Strategies,COMM_4145_concepts_raw.json
+COMM_4145,topic,Empathy and Emotional Intelligence,Empathy and Emotional Intelligence,1,inferred,Empathy and Emotional Intelligence,COMM_4145_concepts_raw.json
+COMM_4145,topic,Group Formation and Roles,Group Formation and Roles,1,inferred,Group Formation and Roles,COMM_4145_concepts_raw.json
+COMM_4145,topic,Group Decision-Making Processes,Group Decision-Making Processes,1,inferred,Group Decision-Making Processes,COMM_4145_concepts_raw.json
+COMM_4145,topic,Communication in Virtual Teams,Communication in Virtual Teams,1,inferred,Communication in Virtual Teams,COMM_4145_concepts_raw.json
+COMM_4145,concept,Communication Process,Communication Process,1,inferred,Communication Process,COMM_4145_concepts_raw.json
+COMM_4145,concept,Importance of Effective Communication,Importance of Effective Communication,1,inferred,Importance of Effective Communication,COMM_4145_concepts_raw.json
+COMM_4145,concept,Types of Communication Channels,Types of Communication Channels,1,inferred,Types of Communication Channels,COMM_4145_concepts_raw.json
+COMM_4145,concept,Verbal Message,Verbal Message,1,inferred,Verbal Message,COMM_4145_concepts_raw.json
+COMM_4145,concept,Nonverbal Cues,Nonverbal Cues,1,inferred,Nonverbal Cues,COMM_4145_concepts_raw.json
+COMM_4145,concept,Message Encoding,Message Encoding,1,inferred,Message Encoding,COMM_4145_concepts_raw.json
+COMM_4145,concept,Linear Model,Linear Model,1,inferred,Linear Model,COMM_4145_concepts_raw.json
+COMM_4145,concept,Transactional Model,Transactional Model,1,inferred,Transactional Model,COMM_4145_concepts_raw.json
+COMM_4145,concept,Active Listening,Active Listening,1,inferred,Active Listening,COMM_4145_concepts_raw.json
+COMM_4145,concept,Conflict Resolution,Conflict Resolution,1,inferred,Conflict Resolution,COMM_4145_concepts_raw.json
+COMM_4145,concept,Empathy,Empathy,1,inferred,Empathy,COMM_4145_concepts_raw.json
+COMM_4145,concept,Emotional Intelligence,Emotional Intelligence,1,inferred,Emotional Intelligence,COMM_4145_concepts_raw.json
+COMM_4145,concept,Group Formation,Group Formation,1,inferred,Group Formation,COMM_4145_concepts_raw.json
+COMM_4145,concept,Group Decision-Making,Group Decision-Making,1,inferred,Group Decision-Making,COMM_4145_concepts_raw.json

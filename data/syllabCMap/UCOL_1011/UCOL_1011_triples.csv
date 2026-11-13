@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+UCOL_1011,Intellectual Curiosity,topic,PREREQUISITE_OF,Cultural Awareness,topic,same unit,,UCOL_1011_triples_raw.json
+UCOL_1011,Intellectual Curiosity,topic,PREREQUISITE_OF,Intellectual Curiosity Development,topic,same unit,,UCOL_1011_triples_raw.json
+UCOL_1011,Intellectual Curiosity,topic,PREREQUISITE_OF,Cultural Awareness Principles,topic,same unit,,UCOL_1011_triples_raw.json
+UCOL_1011,Intellectual Curiosity,topic,PREREQUISITE_OF,Commitment to Success,topic,A taught first,,UCOL_1011_triples_raw.json
+UCOL_1011,Intellectual Curiosity,topic,PREREQUISITE_OF,College Transition,topic,A taught first,,UCOL_1011_triples_raw.json
+UCOL_1011,Intellectual Curiosity,topic,PREREQUISITE_OF,Goal Setting Strategies,topic,A taught first,,UCOL_1011_triples_raw.json
+UCOL_1011,College Success Strategies,topic,PART_OF,College Student Success,topic,,,UCOL_1011_triples_raw.json
+UCOL_1011,Intellectual Curiosity Development,topic,PART_OF,Intellectual Curiosity,topic,,,UCOL_1011_triples_raw.json
+UCOL_1011,Cultural Awareness Principles,topic,PART_OF,Cultural Awareness,topic,,,UCOL_1011_triples_raw.json
+UCOL_1011,NCAA Life Skills Program,topic,PART_OF,Commitment to Success,topic,,,UCOL_1011_triples_raw.json
+UCOL_1011,Commitment to Success,topic,PART_OF,College Student Success,topic,,,UCOL_1011_triples_raw.json
+UCOL_1011,Goal Setting Strategies,topic,PART_OF,College Student Success,topic,,,UCOL_1011_triples_raw.json
+UCOL_1011,NCAA Life Skills Program,topic,USED_FOR,Commitment to Success,topic,,topic used for something - check direction,UCOL_1011_triples_raw.json

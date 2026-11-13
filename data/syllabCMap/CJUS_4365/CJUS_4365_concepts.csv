@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_4365,topic,Criminal Justice & Social Diversity,Criminal Justice & Social Diversity,1,verified,Criminal Justice & Social Diversity,CJUS_4365_concepts_raw.json
+CJUS_4365,topic,Historical Perspective,historical perspective,1,verified,Historical Perspective,CJUS_4365_concepts_raw.json
+CJUS_4365,concept,race,race,3,verified,"race, class, gender, and crime",CJUS_4365_concepts_raw.json
+CJUS_4365,concept,gender,gender,3,verified,"race, class, gender, and crime",CJUS_4365_concepts_raw.json
+CJUS_4365,concept,crime,crime,2,verified,"race, class, gender, and crime",CJUS_4365_concepts_raw.json

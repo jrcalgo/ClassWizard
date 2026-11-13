@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_1202,topic,Optical Coherence Tomography,optical coherence tomography,1,verified,Optical Coherence Tomography,PHYS_1202_concepts_raw.json
+PHYS_1202,topic,Magnetic Resonance Imaging,magnetic resonance imaging,1,verified,Magnetic Resonance Imaging,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Medical imaging modalities,medical imaging modalities,1,verified,Medical imaging modalities,PHYS_1202_concepts_raw.json
+PHYS_1202,topic,Medical Physics,Medical Physics,1,inferred,Medical Physics,PHYS_1202_concepts_raw.json
+PHYS_1202,topic,Electrocautery and Electrosurgery,Electrocautery and Electrosurgery,1,inferred,Electrocautery and Electrosurgery,PHYS_1202_concepts_raw.json
+PHYS_1202,topic,Microwave Ablation and Lasers,Microwave Ablation and Lasers,1,inferred,Microwave Ablation and Lasers,PHYS_1202_concepts_raw.json
+PHYS_1202,topic,Fiber Optics and Ultrasound,Fiber Optics and Ultrasound,1,inferred,Fiber Optics and Ultrasound,PHYS_1202_concepts_raw.json
+PHYS_1202,topic,X-rays and Computed Tomography,X-rays and Computed Tomography,1,inferred,X-rays and Computed Tomography,PHYS_1202_concepts_raw.json
+PHYS_1202,topic,Nuclear Imaging Modalities,Nuclear Imaging Modalities,1,inferred,Nuclear Imaging Modalities,PHYS_1202_concepts_raw.json
+PHYS_1202,topic,Therapeutic Ultrasound Applications,Therapeutic Ultrasound Applications,1,inferred,Therapeutic Ultrasound Applications,PHYS_1202_concepts_raw.json
+PHYS_1202,topic,Clinical Applications of Medical Imaging,Clinical Applications of Medical Imaging,1,inferred,Clinical Applications of Medical Imaging,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Physical principles in medicine,Physical principles in medicine,1,inferred,Physical principles in medicine,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Surgical instruments overview,Surgical instruments overview,1,inferred,Surgical instruments overview,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Electrocautery principles,Electrocautery principles,1,inferred,Electrocautery principles,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Electrosurgery techniques,Electrosurgery techniques,1,inferred,Electrosurgery techniques,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Tissue interaction with electricity,Tissue interaction with electricity,1,inferred,Tissue interaction with electricity,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Microwave ablation mechanisms,Microwave ablation mechanisms,1,inferred,Microwave ablation mechanisms,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Laser-tissue interactions,Laser-tissue interactions,1,inferred,Laser-tissue interactions,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Thermal effects on tissue,Thermal effects on tissue,1,inferred,Thermal effects on tissue,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Fiber optic principles,Fiber optic principles,1,inferred,Fiber optic principles,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Ultrasound imaging basics,Ultrasound imaging basics,1,inferred,Ultrasound imaging basics,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Sound wave propagation,Sound wave propagation,1,inferred,Sound wave propagation,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,OCT imaging technology,OCT imaging technology,1,inferred,OCT imaging technology,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Light-tissue interactions,Light-tissue interactions,1,inferred,Light-tissue interactions,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,High-resolution imaging,High-resolution imaging,1,inferred,High-resolution imaging,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,X-ray radiation basics,X-ray radiation basics,1,inferred,X-ray radiation basics,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Computed tomography principles,Computed tomography principles,1,inferred,Computed tomography principles,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Image reconstruction algorithms,Image reconstruction algorithms,1,inferred,Image reconstruction algorithms,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Radioisotope detection,Radioisotope detection,1,inferred,Radioisotope detection,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Positron emission tomography,Positron emission tomography,1,inferred,Positron emission tomography,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Radiation safety protocols,Radiation safety protocols,1,inferred,Radiation safety protocols,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,MRI principles and mechanisms,MRI principles and mechanisms,1,inferred,MRI principles and mechanisms,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Nuclear magnetic resonance,Nuclear magnetic resonance,1,inferred,Nuclear magnetic resonance,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Image formation in MRI,Image formation in MRI,1,inferred,Image formation in MRI,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Ultrasound therapy techniques,Ultrasound therapy techniques,1,inferred,Ultrasound therapy techniques,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Tissue heating and cooling,Tissue heating and cooling,1,inferred,Tissue heating and cooling,PHYS_1202_concepts_raw.json
+PHYS_1202,concept,Treatment planning protocols,Treatment planning protocols,1,inferred,Treatment planning protocols,PHYS_1202_concepts_raw.json

@@ -1,0 +1,55 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4122,concept,Visual Analytics,Visual Analytics,6,verified,Visual Analytics,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Critical Thinking,critical thinking,4,verified,Critical Thinking,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Visual Reasoning,visual reasoning,4,verified,Visual Reasoning,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Perception/Cognition,Perception Cognition,4,verified,Perception/Cognition,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Statistical Analysis,Statistical Analysis,2,verified,Statistical Analysis,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Visualization Basics,Visualization Basics,1,verified,Visualization Basics,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Time Series Visualization,Time Series Visualization,1,verified,Time Series Visualization,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Multidimensional Data Visualization,Multidimensional Data Visualization,1,verified,Multidimensional Data Visualization,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Tableau 1,Tableau 1,1,verified,Tableau 1,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Tree & Graph Visualization,Tree & Graph Visualization,1,verified,Tree & Graph Visualization,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Vis for AI,Vis for AI,1,verified,Vis for AI,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Dashboards and Interactions,Dashboards and Interactions,1,verified,Dashboards and Interactions,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,AI for Vis,AI for Vis,1,verified,AI for Vis,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Tableau 2 & Figma,Tableau 2 & Figma,1,verified,Tableau 2 & Figma,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Tableau Mini Competition,Tableau Mini Competition,2,verified,Tableau Mini Competition,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Vega & Observable,Vega & Observable,1,verified,Vega & Observable,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Programming for Visualization,Programming for Visualization,1,verified,Programming for Visualization,ITCS_4122_concepts_raw.json
+ITCS_4122,topic,Individual Tableau Student Presentations,Individual Tableau Student Presentations,3,verified,Individual Tableau Student Presentations,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Seasonal Decomposition,Seasonal Decomposition,1,verified,Seasonal Decomposition,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Trend Analysis Techniques,Trend Analysis Techniques,1,verified,Trend Analysis Techniques,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Autocorrelation Coefficient,Autocorrelation Coefficient,1,verified,Autocorrelation Coefficient,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Moving Averages Method,Moving Averages Method,1,verified,Moving Averages Method,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Exponential Smoothing,Exponential Smoothing,1,verified,Exponential Smoothing,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,ARIMA Model Parameters,ARIMA Model Parameters,1,verified,ARIMA Model Parameters,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Forecasting Error Metrics,Forecasting Error Metrics,1,verified,Forecasting Error Metrics,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Visualization Design Principles,Visualization Design Principles,1,verified,Visualization Design Principles,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Multidimensional Data,multidimensional data,3,verified,Multidimensional Data,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Scatterplot Matrix Visualization,Scatterplot Matrix Visualization,1,verified,Scatterplot Matrix Visualization,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Parallel Coordinates Plotting,Parallel Coordinates Plotting,1,verified,Parallel Coordinates Plotting,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Interactive Dashboards Design,Interactive Dashboards Design,1,verified,Interactive Dashboards Design,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Tableau Visualization Techniques,Tableau Visualization Techniques,1,verified,Tableau Visualization Techniques,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Figma Interactive Visualizations,Figma Interactive Visualizations,1,verified,Figma Interactive Visualizations,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Vega-Lite Multidimensions,Vega-Lite Multidimensions,1,verified,Vega-Lite Multidimensions,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Observable Data Analysis,Observable Data Analysis,1,verified,Observable Data Analysis,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Data Density Visualization,Data Density Visualization,1,verified,Data Density Visualization,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Tree Visualization,Tree Visualization,1,verified,Tree Visualization,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Graph Layout Algorithms,Graph Layout Algorithms,1,verified,Graph Layout Algorithms,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Node Link Diagrams,Node Link Diagrams,1,verified,Node Link Diagrams,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Edge Bundling Techniques,Edge Bundling Techniques,1,verified,Edge Bundling Techniques,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Force Directed Graphs,Force Directed Graphs,1,verified,Force Directed Graphs,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Interactive Tree Navigation,Interactive Tree Navigation,1,verified,Interactive Tree Navigation,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Graph Clustering Methods,Graph Clustering Methods,1,verified,Graph Clustering Methods,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Visual Hierarchy Principles,Visual Hierarchy Principles,1,verified,Visual Hierarchy Principles,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Node Label Placement,Node Label Placement,1,verified,Node Label Placement,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,AI X Vis Integration,AI X Vis Integration,6,verified,AI X Vis Integration,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Integrated Workflows for Analysis,Integrated Workflows for Analysis,3,verified,Integrated Workflows for Analysis,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Knowledge Discovery Methods,Knowledge Discovery Methods,5,verified,Knowledge Discovery Methods,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Decision Support Systems,Decision Support Systems,7,verified,Decision Support Systems,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Data Intelligence Tasks,data intelligence tasks,15,verified,Data Intelligence Tasks,ITCS_4122_concepts_raw.json
+ITCS_4122,concept,Human-Computer Interaction,Human-Computer Interaction,1,verified,Human-Computer Interaction,ITCS_4122_concepts_raw.json
+ITCS_4122,tool,Tableau,Tableau,25,verified,Tableau,ITCS_4122_concepts_raw.json
+ITCS_4122,tool,Figma,Figma,10,verified,Figma,ITCS_4122_concepts_raw.json
+ITCS_4122,tool,Vega,Vega,16,verified,Vega,ITCS_4122_concepts_raw.json
+ITCS_4122,tool,Observable,Observable,8,verified,Observable,ITCS_4122_concepts_raw.json

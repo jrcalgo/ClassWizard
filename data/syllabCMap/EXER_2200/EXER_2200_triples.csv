@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_2200,Health Education,topic,PREREQUISITE_OF,Wellness Literacy,topic,same unit,,EXER_2200_triples_raw.json
+EXER_2200,Evidence-Based Decision Making,concept,PREREQUISITE_OF,Prevention Strategies for Common Diseases,concept,same unit,,EXER_2200_triples_raw.json
+EXER_2200,Importance of Social Support Networks,concept,PREREQUISITE_OF,Building Positive Social Environments,topic,same unit,,EXER_2200_triples_raw.json
+EXER_2200,Wellness Literacy Definition,concept,PART_OF,Wellness Literacy,topic,,,EXER_2200_triples_raw.json
+EXER_2200,Components of Wellness Model,concept,PART_OF,Wellness Literacy,topic,,,EXER_2200_triples_raw.json
+EXER_2200,Evidence-Based Decision Making,concept,PART_OF,Health Education,topic,,,EXER_2200_triples_raw.json
+EXER_2200,Prevention Strategies for Common Diseases,concept,PART_OF,Health Education,topic,,,EXER_2200_triples_raw.json
+EXER_2200,Evidence-Based Decision Making,concept,USED_FOR,Prevention Strategies for Common Diseases,concept,,,EXER_2200_triples_raw.json
+EXER_2200,Evidence-Based Decision Making,concept,USED_FOR,Health Education,topic,,,EXER_2200_triples_raw.json
+EXER_2200,Types of Exercise for Different Goals,concept,USED_FOR,Benefits of Regular Physical Activity,topic,,,EXER_2200_triples_raw.json
+EXER_2200,Importance of Social Support Networks,concept,USED_FOR,Building Positive Social Environments,topic,,,EXER_2200_triples_raw.json
+EXER_2200,Effective Communication Skills in Relationships,concept,USED_FOR,Building Positive Social Environments,topic,,,EXER_2200_triples_raw.json

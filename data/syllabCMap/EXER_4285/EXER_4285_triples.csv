@@ -1,0 +1,37 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_4285,Prehabilitation Techniques,concept,PREREQUISITE_OF,Exercise Execution,concept,A taught first,,EXER_4285_triples_raw.json
+EXER_4285,Prehabilitation Techniques,concept,PREREQUISITE_OF,Activation Methods,concept,same unit,,EXER_4285_triples_raw.json
+EXER_4285,Prehabilitation Techniques,concept,PREREQUISITE_OF,Warm-up Strategies,concept,same unit,,EXER_4285_triples_raw.json
+EXER_4285,Resistance Training Methods,concept,PREREQUISITE_OF,Conditioning Exercises,concept,same unit,,EXER_4285_triples_raw.json
+EXER_4285,Flexibility Training Programs,concept,PREREQUISITE_OF,Mobility Exercises,concept,same unit,,EXER_4285_triples_raw.json
+EXER_4285,Prehabilitation Techniques,concept,PART_OF,Prehabilitation Fundamentals,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Activation Methods,concept,PART_OF,Prehabilitation Fundamentals,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Warm-up Strategies,concept,PART_OF,Prehabilitation Fundamentals,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Exercise Execution,concept,PART_OF,Resistance Training Techniques,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Resistance Training Methods,concept,PART_OF,Resistance Training Techniques,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Conditioning Exercises,concept,PART_OF,Resistance Training Techniques,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Flexibility Training Programs,concept,PART_OF,Flexibility and Mobility,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Mobility Exercises,concept,PART_OF,Flexibility and Mobility,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Range of Motion,concept,PART_OF,Flexibility and Mobility,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Field Testing Methods,concept,PART_OF,Sports-Specific Testing,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Administration Protocols,concept,PART_OF,Sports-Specific Testing,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Testing and Evaluation,concept,PART_OF,Sports-Specific Testing,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Strength Training Programs,concept,PART_OF,Program Design Principles,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Power Exercise Design,concept,PART_OF,Program Design Principles,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Periodization Strategies,concept,PART_OF,Program Design Principles,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Speed Development Methods,concept,PART_OF,"Speed, Agility, and ESD",topic,,,EXER_4285_triples_raw.json
+EXER_4285,Energy System Development,concept,PART_OF,"Speed, Agility, and ESD",topic,,,EXER_4285_triples_raw.json
+EXER_4285,Program Organization,concept,PART_OF,Program Administration,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Facility Management,concept,PART_OF,Program Administration,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Staff Supervision,concept,PART_OF,Program Administration,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Client Needs Assessment,concept,PART_OF,Needs Analysis and Planning,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Training Plan Development,concept,PART_OF,Needs Analysis and Planning,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Exercise Demonstration,concept,PART_OF,Video Technique Presentations,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Technique Critique,concept,PART_OF,Video Technique Presentations,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Coaching Feedback,concept,PART_OF,Video Technique Presentations,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Program Design Implementation,concept,PART_OF,Final Presentation Preparation,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Client Progress Monitoring,concept,PART_OF,Final Presentation Preparation,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Program Evaluation Strategies,concept,PART_OF,Final Presentation Preparation,topic,,,EXER_4285_triples_raw.json
+EXER_4285,Exercise Execution,concept,USED_FOR,Resistance Training Methods,concept,,,EXER_4285_triples_raw.json
+EXER_4285,Exercise Execution,concept,USED_FOR,Conditioning Exercises,concept,,,EXER_4285_triples_raw.json
+EXER_4285,Energy System Development,concept,USED_FOR,"Speed, Agility, and ESD",topic,,,EXER_4285_triples_raw.json

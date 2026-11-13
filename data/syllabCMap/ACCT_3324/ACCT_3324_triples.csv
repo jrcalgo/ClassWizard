@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ACCT_3324,accounting cycle,topic,PART_OF,accounting cycle process,concept,,part is broader than whole - check direction,ACCT_3324_triples_raw.json
+ACCT_3324,primary financial statements and disclosure,topic,PART_OF,conceptual framework,topic,,,ACCT_3324_triples_raw.json
+ACCT_3324,present value techniques,concept,PART_OF,use of present value techniques in accounting measurement,topic,,,ACCT_3324_triples_raw.json
+ACCT_3324,disclosure requirements,concept,PART_OF,primary financial statements and disclosure,topic,,,ACCT_3324_triples_raw.json
+ACCT_3324,conceptual framework principles,concept,PART_OF,conceptual framework,topic,,,ACCT_3324_triples_raw.json
+ACCT_3324,financial statement disclosure,concept,PART_OF,primary financial statements and disclosure,topic,,,ACCT_3324_triples_raw.json
+ACCT_3324,accounting measurement,concept,PART_OF,use of present value techniques in accounting measurement,topic,,,ACCT_3324_triples_raw.json
+ACCT_3324,accounting measurement methods,concept,PART_OF,use of present value techniques in accounting measurement,topic,,,ACCT_3324_triples_raw.json
+ACCT_3324,time value of money,concept,PART_OF,use of present value techniques in accounting measurement,topic,,,ACCT_3324_triples_raw.json

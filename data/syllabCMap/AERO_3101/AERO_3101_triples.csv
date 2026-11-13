@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AERO_3101,Team Building and Development,topic,PREREQUISITE_OF,Motivating Team Members,topic,same unit,,AERO_3101_triples_raw.json
+AERO_3101,Transformational Leadership Theory,topic,PART_OF,Leadership Theories,topic,,,AERO_3101_triples_raw.json
+AERO_3101,Servant Leadership Principles,topic,PART_OF,Leadership Theories,topic,,,AERO_3101_triples_raw.json
+AERO_3101,Autocratic vs Democratic Leadership,topic,PART_OF,Leadership Theories,topic,,,AERO_3101_triples_raw.json
+AERO_3101,Verbal and Nonverbal Communication,topic,PART_OF,Effective Communication Skills,topic,,,AERO_3101_triples_raw.json
+AERO_3101,Active Listening Techniques,topic,PART_OF,Effective Communication Skills,topic,,,AERO_3101_triples_raw.json
+AERO_3101,Conflict Resolution Strategies,topic,PART_OF,Effective Communication Skills,topic,,,AERO_3101_triples_raw.json
+AERO_3101,Team Building and Development,topic,PART_OF,Leadership Theories,topic,,,AERO_3101_triples_raw.json
+AERO_3101,Cultural and Language Barriers,topic,PART_OF,Effective Communication Skills,topic,,,AERO_3101_triples_raw.json
+AERO_3101,Effective Feedback Mechanisms,topic,PART_OF,Effective Communication Skills,topic,,,AERO_3101_triples_raw.json

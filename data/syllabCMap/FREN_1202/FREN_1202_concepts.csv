@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FREN_1202,topic,Spoken Interaction,spoken interaction,1,verified,Spoken Interaction,FREN_1202_concepts_raw.json
+FREN_1202,topic,Francophone Cultures,francophone cultures,1,verified,Francophone Cultures,FREN_1202_concepts_raw.json
+FREN_1202,topic,French Pronunciation,French Pronunciation,1,inferred,French Pronunciation,FREN_1202_concepts_raw.json
+FREN_1202,topic,Reading Comprehension,Reading Comprehension,1,inferred,Reading Comprehension,FREN_1202_concepts_raw.json
+FREN_1202,topic,Listening Skills,Listening Skills,1,inferred,Listening Skills,FREN_1202_concepts_raw.json
+FREN_1202,concept,Accents and Diacritical Marks,Accents and Diacritical Marks,1,inferred,Accents and Diacritical Marks,FREN_1202_concepts_raw.json
+FREN_1202,concept,Vowel Sounds and Diphthongs,Vowel Sounds and Diphthongs,1,inferred,Vowel Sounds and Diphthongs,FREN_1202_concepts_raw.json
+FREN_1202,concept,Consonant Sounds and Allophones,Consonant Sounds and Allophones,1,inferred,Consonant Sounds and Allophones,FREN_1202_concepts_raw.json
+FREN_1202,concept,French Alphabet and Orthography,French Alphabet and Orthography,1,inferred,French Alphabet and Orthography,FREN_1202_concepts_raw.json
+FREN_1202,concept,Basic Sentence Structure and Grammar,Basic Sentence Structure and Grammar,1,inferred,Basic Sentence Structure and Grammar,FREN_1202_concepts_raw.json
+FREN_1202,concept,Common Vocabulary and Idioms,Common Vocabulary and Idioms,1,inferred,Common Vocabulary and Idioms,FREN_1202_concepts_raw.json
+FREN_1202,concept,French Phonetics and Intonation,French Phonetics and Intonation,1,inferred,French Phonetics and Intonation,FREN_1202_concepts_raw.json
+FREN_1202,concept,Cultural References and Allusions,Cultural References and Allusions,1,inferred,Cultural References and Allusions,FREN_1202_concepts_raw.json
+FREN_1202,concept,Greetings and Introductions,Greetings and Introductions,1,inferred,Greetings and Introductions,FREN_1202_concepts_raw.json
+FREN_1202,concept,Basic Questions and Answers,Basic Questions and Answers,1,inferred,Basic Questions and Answers,FREN_1202_concepts_raw.json
+FREN_1202,concept,Simple Conversations and Dialogues,Simple Conversations and Dialogues,1,inferred,Simple Conversations and Dialogues,FREN_1202_concepts_raw.json
+FREN_1202,concept,Geography and History of Francophone Countries,Geography and History of Francophone Countries,1,inferred,Geography and History of Francophone Countries,FREN_1202_concepts_raw.json
+FREN_1202,concept,Cultural Practices and Traditions,Cultural Practices and Traditions,1,inferred,Cultural Practices and Traditions,FREN_1202_concepts_raw.json
+FREN_1202,concept,Social Norms and Etiquette,Social Norms and Etiquette,1,inferred,Social Norms and Etiquette,FREN_1202_concepts_raw.json

@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_3260,Historical roots of Buddhism,concept,PREREQUISITE_OF,Influence of Indian culture,concept,same unit,,RELS_3260_triples_raw.json
+RELS_3260,Historical roots of Buddhism,concept,PREREQUISITE_OF,Early Buddhist scriptures,concept,same unit,,RELS_3260_triples_raw.json
+RELS_3260,Buddhism as a romantic ideal,concept,PREREQUISITE_OF,Orientalism in literature,concept,same unit,,RELS_3260_triples_raw.json
+RELS_3260,Buddhism as a romantic ideal,concept,PREREQUISITE_OF,Colonialism and Buddhism,concept,same unit,,RELS_3260_triples_raw.json
+RELS_3260,Critique of modernity in Buddhism,concept,PREREQUISITE_OF,Traditionalism vs. modernization,concept,same unit,,RELS_3260_triples_raw.json
+RELS_3260,Critique of modernity in Buddhism,concept,PREREQUISITE_OF,Reaction to Western influence,concept,same unit,,RELS_3260_triples_raw.json
+RELS_3260,Buddhism as a national identity,concept,PREREQUISITE_OF,Role of Buddhism in politics,concept,same unit,,RELS_3260_triples_raw.json
+RELS_3260,Buddhism as a national identity,concept,PREREQUISITE_OF,Cultural nationalism and Buddhism,concept,same unit,,RELS_3260_triples_raw.json
+RELS_3260,Mindfulness and meditation,concept,PREREQUISITE_OF,Buddhism as a therapeutic tool,concept,same unit,,RELS_3260_triples_raw.json
+RELS_3260,Historical roots of Buddhism,concept,PART_OF,Pre-Modern Influences,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Influence of Indian culture,concept,PART_OF,Pre-Modern Influences,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Early Buddhist scriptures,concept,PART_OF,Pre-Modern Influences,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Buddhism as a romantic ideal,concept,PART_OF,Romanticism and Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Buddhism,topic,PART_OF,Imperialism and Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Cultural exchange and conflict,concept,PART_OF,Imperialism and Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Critique of modernity in Buddhism,concept,PART_OF,Anti-Modernism and Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Traditionalism vs. modernization,concept,PART_OF,Anti-Modernism and Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Reaction to Western influence,concept,PART_OF,Anti-Modernism and Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Role of Buddhism in politics,concept,PART_OF,Nationalism and Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Mindfulness and meditation,concept,PART_OF,Therapeutic Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Buddhism,topic,PART_OF,Therapeutic Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Westernization of Buddhist practices,concept,PART_OF,Therapeutic Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Neuroscience and Buddhism,concept,PART_OF,Scientific Buddhism,topic,,,RELS_3260_triples_raw.json
+RELS_3260,Mindfulness and meditation,concept,USED_FOR,Buddhism as a therapeutic tool,concept,,,RELS_3260_triples_raw.json

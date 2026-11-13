@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_5074,simulation theory,concept,PREREQUISITE_OF,algorithmic storytelling,concept,A taught first,,ENGL_5074_triples_raw.json
+ENGL_5074,simulation theory,concept,PREREQUISITE_OF,digital narrative,concept,A taught first,,ENGL_5074_triples_raw.json
+ENGL_5074,medium specificity,concept,PREREQUISITE_OF,digital afterlives,concept,A taught first,,ENGL_5074_triples_raw.json
+ENGL_5074,medium specificity,concept,PREREQUISITE_OF,algorithmic worlds,concept,A taught first,,ENGL_5074_triples_raw.json
+ENGL_5074,narrative adaptation,concept,PREREQUISITE_OF,digital narrative,concept,A taught first,,ENGL_5074_triples_raw.json
+ENGL_5074,surveillance studies,concept,PREREQUISITE_OF,simulated war ethics,concept,A taught first,,ENGL_5074_triples_raw.json
+ENGL_5074,digital media,concept,PART_OF,medium specificity,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,digital imagination,concept,PART_OF,medium specificity,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,algorithmic storytelling,concept,PART_OF,simulation theory,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,generative AI,concept,PART_OF,algorithmic worlds,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,narrative adaptation,concept,PART_OF,medium specificity,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,surveillance studies,concept,PART_OF,simulation theory,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,participatory web,concept,PART_OF,medium specificity,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,adaptation studies,concept,PART_OF,medium specificity,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,surveillance state,concept,PART_OF,simulation theory,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,simulated war ethics,concept,PART_OF,simulation theory,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,digital narrative,concept,PART_OF,medium specificity,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,virtual experience,concept,PART_OF,simulation theory,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,simulated reality,concept,PART_OF,simulation theory,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,algorithmic worlds,concept,SUBTYPE_OF,digital afterlives,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,simulated war ethics,concept,SUBTYPE_OF,surveillance studies,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,close reading,method,USED_FOR,digital narrative,concept,,,ENGL_5074_triples_raw.json
+ENGL_5074,social-media forms,method,USED_FOR,digital narrative,concept,,,ENGL_5074_triples_raw.json

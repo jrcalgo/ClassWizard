@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_6090,topic,interconnect design goals and metrics,interconnect design goals and metrics,2,verified,interconnect design goals and metrics,ECGR_6090_concepts_raw.json
+ECGR_6090,topic,topology design and analysis,topology design and analysis,2,verified,topology design and analysis,ECGR_6090_concepts_raw.json
+ECGR_6090,topic,routing algorithms and protocols (including deadlock/livelock considerations,routing algorithms and protocols (including deadlock/livelock considerations,2,verified,routing algorithms and protocols (including deadlock/livelock considerations),ECGR_6090_concepts_raw.json
+ECGR_6090,topic,switching and flow control,switching and flow control,2,verified,switching and flow control,ECGR_6090_concepts_raw.json
+ECGR_6090,topic,router microarchitecture and implementation tradeoffs,router microarchitecture and implementation tradeoffs,2,verified,router microarchitecture and implementation tradeoffs,ECGR_6090_concepts_raw.json
+ECGR_6090,topic,congestion management and quality-of -service,congestion management and quality-of -service,2,verified,congestion management and quality-of -service,ECGR_6090_concepts_raw.json
+ECGR_6090,topic,"case studies spanning CPU NoCs, GPU fabrics, TPU/accelerator interconnects, and chiplet/packaged systems","case studies spanning CPU NoCs, GPU fabrics, TPU/accelerator interconnects, and chiplet/packaged systems",2,verified,"case studies spanning CPU NoCs, GPU fabrics, TPU/accelerator interconnects, and chiplet/packaged systems",ECGR_6090_concepts_raw.json
+ECGR_6090,concept,Interconnect Design Goals,interconnect design goals,2,verified,Interconnect Design Goals,ECGR_6090_concepts_raw.json
+ECGR_6090,concept,Deadlock/Livelock Considerations,Deadlock/Livelock Considerations,2,verified,Deadlock/Livelock Considerations,ECGR_6090_concepts_raw.json
+ECGR_6090,method,critically read,Critically read,1,verified,"critically read, discuss, and present recent research on NoCs, accelerator fabrics, and chiplet-based systems",ECGR_6090_concepts_raw.json
+ECGR_6090,method,discuss,discuss,2,verified,"critically read, discuss, and present recent research on NoCs, accelerator fabrics, and chiplet-based systems",ECGR_6090_concepts_raw.json
+ECGR_6090,method,present recent research on NoCs,present recent research on NoCs,1,verified,"critically read, discuss, and present recent research on NoCs, accelerator fabrics, and chiplet-based systems",ECGR_6090_concepts_raw.json
+ECGR_6090,method,accelerator fabrics,accelerator fabrics,1,verified,"critically read, discuss, and present recent research on NoCs, accelerator fabrics, and chiplet-based systems",ECGR_6090_concepts_raw.json
+ECGR_6090,method,chiplet-based systems,chiplet-based systems,1,verified,"critically read, discuss, and present recent research on NoCs, accelerator fabrics, and chiplet-based systems",ECGR_6090_concepts_raw.json
+ECGR_6090,tool,BookSim,BookSim,2,verified,BookSim,ECGR_6090_concepts_raw.json
+ECGR_6090,tool,GEM5,GEM5,2,verified,GEM5,ECGR_6090_concepts_raw.json

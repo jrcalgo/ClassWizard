@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARBC_1201,Mastering Arabic Letters,concept,PREREQUISITE_OF,Recognizing Arabic Sounds,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Mastering Arabic Letters,concept,PREREQUISITE_OF,Pronouncing Arabic Alphabets,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Recognizing Arabic Sounds,concept,PREREQUISITE_OF,Pronouncing Arabic Alphabets,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Initiating Conversations,concept,PREREQUISITE_OF,Cultural Aspects of Interaction,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Introducing Yourself,concept,PREREQUISITE_OF,Discussing Family and Friends,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Reading Simple Arabic Texts,concept,PREREQUISITE_OF,Understanding Familiar Topics,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Reading Simple Arabic Texts,concept,PREREQUISITE_OF,Recognizing Vocabulary in Context,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Comprehending Simple Audio/Video,concept,PREREQUISITE_OF,Recognizing Vocabulary in Media,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Composing Simple Paragraphs,concept,PREREQUISITE_OF,Describing Family and Friends,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Composing Simple Paragraphs,concept,PREREQUISITE_OF,Using Basic Arabic Grammar,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Understanding Formal vs. Spoken Arabic,concept,PREREQUISITE_OF,Recognizing Dialect Expressions,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Understanding Formal vs. Spoken Arabic,concept,PREREQUISITE_OF,Using Basic Dialect Vocabulary,concept,same unit,,ARBC_1201_triples_raw.json
+ARBC_1201,Mastering Arabic Letters,concept,PART_OF,Arabic Alphabet,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Recognizing Arabic Sounds,concept,PART_OF,Arabic Alphabet,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Pronouncing Arabic Alphabets,concept,PART_OF,Arabic Alphabet,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Initiating Conversations,concept,PART_OF,Basic Social Interactions,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Asking Basic Information,concept,PART_OF,Basic Social Interactions,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Introducing Yourself,concept,PART_OF,Talking About Yourself,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Describing Education Background,concept,PART_OF,Talking About Yourself,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Discussing Family and Friends,concept,PART_OF,Talking About Yourself,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Understanding Familiar Topics,concept,PART_OF,Comprehending Print Texts,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Recognizing Vocabulary in Context,concept,PART_OF,Comprehending Print Texts,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Comprehending Simple Audio/Video,concept,PART_OF,Listening to Audio/Video,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Identifying Familiar Topics,concept,PART_OF,Listening to Audio/Video,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Recognizing Vocabulary in Media,concept,PART_OF,Listening to Audio/Video,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Composing Simple Paragraphs,concept,PART_OF,Writing About Yourself,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Describing Family and Friends,concept,PART_OF,Writing About Yourself,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Using Basic Arabic Grammar,concept,PART_OF,Writing About Yourself,topic,,,ARBC_1201_triples_raw.json
+ARBC_1201,Understanding Formal vs. Spoken Arabic,concept,PART_OF,Dialects and Registers,topic,,,ARBC_1201_triples_raw.json

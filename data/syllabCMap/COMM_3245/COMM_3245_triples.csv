@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3245,Creating Compelling Media Pitches,concept,PREREQUISITE_OF,Crafting Media Advisories and Alerts,concept,same unit,,COMM_3245_triples_raw.json
+COMM_3245,Creating Compelling Media Pitches,concept,PREREQUISITE_OF,Building Relationships with Journalists,concept,same unit,,COMM_3245_triples_raw.json
+COMM_3245,Writing for Social Media Platforms,concept,PREREQUISITE_OF,Developing Engaging Content Strategies,concept,same unit,,COMM_3245_triples_raw.json
+COMM_3245,Writing for Social Media Platforms,concept,PREREQUISITE_OF,Measuring Social Media Success,concept,same unit,,COMM_3245_triples_raw.json
+COMM_3245,Crafting Effective Internal Messages,concept,PREREQUISITE_OF,Adapting Writing Voice and Tone,concept,same unit,,COMM_3245_triples_raw.json
+COMM_3245,Crafting Effective Internal Messages,concept,PREREQUISITE_OF,Communicating with Diverse Audiences,concept,same unit,,COMM_3245_triples_raw.json
+COMM_3245,Writing Persuasive Stories and Content,concept,PREREQUISITE_OF,Crafting Compelling Promotional Messages,concept,same unit,,COMM_3245_triples_raw.json
+COMM_3245,Understanding AI-Assisted Writing Tools,concept,PREREQUISITE_OF,Best Practices for Integrating AI into PR Writing,concept,same unit,,COMM_3245_triples_raw.json
+COMM_3245,Associated Press style,concept,PART_OF,Industry Standards and Ethics,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Associated Press style,concept,PART_OF,Accurate Use of AP Style,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Associated Press style,concept,PART_OF,Style Conventions for PR Writing,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Creating Compelling Media Pitches,concept,PART_OF,Crafting Media Advisories and Alerts,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Creating Compelling Media Pitches,concept,PART_OF,Building Relationships with Journalists,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Writing for Social Media Platforms,concept,PART_OF,Developing Engaging Content Strategies,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Writing for Social Media Platforms,concept,PART_OF,Measuring Social Media Success,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Crafting Effective Internal Messages,concept,PART_OF,Adapting Writing Voice and Tone,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Crafting Effective Internal Messages,concept,PART_OF,Communicating with Diverse Audiences,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Writing Persuasive Stories and Content,concept,PART_OF,Aligning with Organizational Brand Identity,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Understanding AI-Assisted Writing Tools,concept,PART_OF,Best Practices for Integrating AI into PR Writing,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Associated Press style,concept,USED_FOR,Public Relations Writing Basics,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Associated Press style,concept,USED_FOR,Industry Standards and Ethics,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Associated Press style,concept,USED_FOR,Accurate Use of AP Style,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Creating Compelling Media Pitches,concept,USED_FOR,Crafting Media Advisories and Alerts,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Writing for Social Media Platforms,concept,USED_FOR,Measuring Social Media Success,concept,,,COMM_3245_triples_raw.json
+COMM_3245,Writing Persuasive Stories and Content,concept,USED_FOR,Aligning with Organizational Brand Identity,concept,,,COMM_3245_triples_raw.json

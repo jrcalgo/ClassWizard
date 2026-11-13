@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUDD_6205,topic,Urban Design,urban design,4,verified,Urban Design,MUDD_6205_concepts_raw.json
+MUDD_6205,topic,Modern City Planning,modern city planning,1,verified,Modern City Planning,MUDD_6205_concepts_raw.json
+MUDD_6205,topic,Ecological Urbanism,ecological urbanism,1,verified,Ecological Urbanism,MUDD_6205_concepts_raw.json
+MUDD_6205,topic,Monumental City Paradigm,Monumental City Paradigm,1,inferred,Monumental City Paradigm,MUDD_6205_concepts_raw.json
+MUDD_6205,topic,Garden City Movement,Garden City Movement,1,inferred,Garden City Movement,MUDD_6205_concepts_raw.json
+MUDD_6205,topic,Suburbanization and Sprawl,Suburbanization and Sprawl,1,inferred,Suburbanization and Sprawl,MUDD_6205_concepts_raw.json
+MUDD_6205,topic,New Urbanism Paradigm,New Urbanism Paradigm,1,inferred,New Urbanism Paradigm,MUDD_6205_concepts_raw.json
+MUDD_6205,topic,Global City Phenomenon,Global City Phenomenon,1,inferred,Global City Phenomenon,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Industrial Revolution Impact,Industrial Revolution Impact,1,inferred,Industrial Revolution Impact,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Urbanization and Growth,Urbanization and Growth,1,inferred,Urbanization and Growth,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,City Planning Theories,City Planning Theories,1,inferred,City Planning Theories,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Haussmann's Urban Renewal,Haussmann's Urban Renewal,1,inferred,Haussmann's Urban Renewal,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Grand Boulevards and Squares,Grand Boulevards and Squares,1,inferred,Grand Boulevards and Squares,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Public Space Design Principles,Public Space Design Principles,1,inferred,Public Space Design Principles,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Ebenezer Howard's Ideas,Ebenezer Howard's Ideas,1,inferred,Ebenezer Howard's Ideas,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Green Belts and Parks,Green Belts and Parks,1,inferred,Green Belts and Parks,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Rural-Urban Interface Planning,Rural-Urban Interface Planning,1,inferred,Rural-Urban Interface Planning,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Post-War Suburban Development,Post-War Suburban Development,1,inferred,Post-War Suburban Development,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Single-Family Home Dominance,Single-Family Home Dominance,1,inferred,Single-Family Home Dominance,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Transportation Infrastructure Needs,Transportation Infrastructure Needs,1,inferred,Transportation Infrastructure Needs,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Traditional Neighborhood Design,Traditional Neighborhood Design,1,inferred,Traditional Neighborhood Design,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Mixed-Use and Walkability,Mixed-Use and Walkability,1,inferred,Mixed-Use and Walkability,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Community Engagement Strategies,Community Engagement Strategies,1,inferred,Community Engagement Strategies,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Sustainable Urban Development,Sustainable Urban Development,1,inferred,Sustainable Urban Development,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Green Infrastructure Systems,Green Infrastructure Systems,1,inferred,Green Infrastructure Systems,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Climate Change Mitigation,Climate Change Mitigation,1,inferred,Climate Change Mitigation,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Urbanization and Globalization,Urbanization and Globalization,1,inferred,Urbanization and Globalization,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Megacities and Metropolitan Regions,Megacities and Metropolitan Regions,1,inferred,Megacities and Metropolitan Regions,MUDD_6205_concepts_raw.json
+MUDD_6205,concept,Economic and Cultural Exchange,Economic and Cultural Exchange,1,inferred,Economic and Cultural Exchange,MUDD_6205_concepts_raw.json
+MUDD_6205,work,Haussmann,Haussmann,1,inferred,Haussmann,MUDD_6205_concepts_raw.json
+MUDD_6205,work,Ebenezer Howard,Ebenezer Howard,1,inferred,Ebenezer Howard,MUDD_6205_concepts_raw.json

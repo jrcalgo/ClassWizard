@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_3255,topic,Real Estate Principles,Real Estate Principles,2,verified,Real Estate Principles,FINN_3255_concepts_raw.json
+FINN_3255,topic,Real Estate Finance and Investment,real estate finance and investment,1,verified,Real Estate Finance and Investment,FINN_3255_concepts_raw.json
+FINN_3255,topic,Real Estate Financing Alternatives,real estate financing alternatives,1,verified,Real Estate Financing Alternatives,FINN_3255_concepts_raw.json
+FINN_3255,topic,Real Estate Fundamentals,Real Estate Fundamentals,1,inferred,Real Estate Fundamentals,FINN_3255_concepts_raw.json
+FINN_3255,topic,Market Principles and Value,Market Principles and Value,1,inferred,Market Principles and Value,FINN_3255_concepts_raw.json
+FINN_3255,topic,Appraisal Methods and Techniques,Appraisal Methods and Techniques,1,inferred,Appraisal Methods and Techniques,FINN_3255_concepts_raw.json
+FINN_3255,topic,Investment Analysis and Decision Making,Investment Analysis and Decision Making,1,inferred,Investment Analysis and Decision Making,FINN_3255_concepts_raw.json
+FINN_3255,concept,real estate terminology,Real Estate Terminology,1,inferred,real estate terminology,FINN_3255_concepts_raw.json
+FINN_3255,concept,property ownership types,Property Ownership Types,1,inferred,property ownership types,FINN_3255_concepts_raw.json
+FINN_3255,concept,land use classifications,Land Use Classifications,1,inferred,land use classifications,FINN_3255_concepts_raw.json
+FINN_3255,concept,supply and demand equilibrium,Supply and Demand Equilibrium,1,inferred,supply and demand equilibrium,FINN_3255_concepts_raw.json
+FINN_3255,concept,market forces affecting value,Market Forces Affecting Value,1,inferred,market forces affecting value,FINN_3255_concepts_raw.json
+FINN_3255,concept,property market analysis,Property Market Analysis,1,inferred,property market analysis,FINN_3255_concepts_raw.json
+FINN_3255,concept,income approach to value,Income Approach to Value,1,inferred,income approach to value,FINN_3255_concepts_raw.json
+FINN_3255,concept,cost approach to value,Cost Approach to Value,1,inferred,cost approach to value,FINN_3255_concepts_raw.json
+FINN_3255,concept,sales comparison approach,Sales Comparison Approach,1,inferred,sales comparison approach,FINN_3255_concepts_raw.json
+FINN_3255,concept,financial calculations in real estate,Financial Calculations in Real Estate,1,inferred,financial calculations in real estate,FINN_3255_concepts_raw.json
+FINN_3255,concept,investment analysis techniques,Investment Analysis Techniques,1,inferred,investment analysis techniques,FINN_3255_concepts_raw.json
+FINN_3255,concept,risk management strategies,Risk Management Strategies,1,inferred,risk management strategies,FINN_3255_concepts_raw.json
+FINN_3255,concept,mortgage types and options,Mortgage Types and Options,1,inferred,mortgage types and options,FINN_3255_concepts_raw.json
+FINN_3255,concept,financing sources and costs,Financing Sources and Costs,1,inferred,financing sources and costs,FINN_3255_concepts_raw.json
+FINN_3255,concept,alternative financing methods,Alternative Financing Methods,1,inferred,alternative financing methods,FINN_3255_concepts_raw.json
+FINN_3255,concept,quantitative investment analysis,Quantitative Investment Analysis,1,inferred,quantitative investment analysis,FINN_3255_concepts_raw.json
+FINN_3255,concept,qualitative investment factors,Qualitative Investment Factors,1,inferred,qualitative investment factors,FINN_3255_concepts_raw.json
+FINN_3255,concept,real estate investment strategies,Real Estate Investment Strategies,1,inferred,real estate investment strategies,FINN_3255_concepts_raw.json

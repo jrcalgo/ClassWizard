@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_2102L,Electricity,topic,PREREQUISITE_OF,Magnetism,topic,A taught first,,PHYS_2102L_triples_raw.json
+PHYS_2102L,Electricity,topic,PREREQUISITE_OF,Optics,topic,A taught first,,PHYS_2102L_triples_raw.json
+PHYS_2102L,Scientific Method,topic,PREREQUISITE_OF,Lab Safety Protocols,topic,A taught first,,PHYS_2102L_triples_raw.json
+PHYS_2102L,Scientific Method Basics,concept,PART_OF,Scientific Method,topic,,,PHYS_2102L_triples_raw.json

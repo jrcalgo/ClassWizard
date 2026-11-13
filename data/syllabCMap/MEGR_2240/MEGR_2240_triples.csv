@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2240,numerical methods,concept,PREREQUISITE_OF,linear algebra,concept,A taught first,,MEGR_2240_triples_raw.json

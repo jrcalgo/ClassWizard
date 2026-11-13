@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_4208,fetal development,topic,PREREQUISITE_OF,gas exchange,topic,same unit,,RESP_4208_triples_raw.json
+RESP_4208,fetal development,topic,PREREQUISITE_OF,circulation,topic,same unit,,RESP_4208_triples_raw.json
+RESP_4208,cardiopulmonary derangements,topic,PREREQUISITE_OF,critical illness,topic,same unit,,RESP_4208_triples_raw.json
+RESP_4208,critical care assessment,topic,PREREQUISITE_OF,management and treatment,topic,A mentioned first,,RESP_4208_triples_raw.json
+RESP_4208,NRP,topic,PREREQUISITE_OF,PALS,topic,same unit,,RESP_4208_triples_raw.json
+RESP_4208,PALS,topic,PREREQUISITE_OF,ACLS,topic,same unit,,RESP_4208_triples_raw.json
+RESP_4208,cardiopulmonary derangements,topic,PART_OF,critical illness,topic,,,RESP_4208_triples_raw.json
+RESP_4208,neonatal,topic,SUBTYPE_OF,critically ill patients,topic,,,RESP_4208_triples_raw.json
+RESP_4208,pediatric,topic,SUBTYPE_OF,critically ill patients,topic,,,RESP_4208_triples_raw.json
+RESP_4208,adult disease processes,topic,SUBTYPE_OF,critical illness,topic,,,RESP_4208_triples_raw.json
+RESP_4208,cardiopulmonary derangements,topic,SUBTYPE_OF,pathophysiology,topic,,,RESP_4208_triples_raw.json
+RESP_4208,intensive care unit,topic,SUBTYPE_OF,critical care assessment,topic,,,RESP_4208_triples_raw.json
+RESP_4208,respiratory therapist,topic,SUBTYPE_OF,high-risk situations,topic,,,RESP_4208_triples_raw.json
+RESP_4208,patient assessment,method,USED_FOR,laboratory studies,method,,,RESP_4208_triples_raw.json

@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOL_3115,mineral definition and classification,concept,PART_OF,Mineralogy,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,importance of mineralogy in geology,concept,PART_OF,Mineralogy,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,history of mineralogy development,concept,PART_OF,Mineralogy,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,streak and luster characteristics,concept,PART_OF,Physical Properties of Minerals,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,birefringence and refractive indices,concept,PART_OF,Optical Properties of Minerals,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,pleochroism and dispersion effects,concept,PART_OF,Optical Properties of Minerals,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,crystal forms and symmetry,concept,PART_OF,Optical Properties of Minerals,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,common minerals in igneous rocks,concept,PART_OF,Rock-Forming Minerals,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,metamorphic rock mineral assemblages,concept,PART_OF,Rock-Forming Minerals,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,industrial minerals and their uses,concept,PART_OF,Economic Minerals and Deposits,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,metallic ore deposits and formation,concept,PART_OF,Economic Minerals and Deposits,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,microscopic examination methods,method,PART_OF,Mineral Identification Techniques,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,polarized light microscopy techniques,method,PART_OF,Mineral Identification Techniques,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,chemical tests for mineral identification,method,PART_OF,Mineral Identification Techniques,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,microscopic examination methods,method,USED_FOR,Mineral Identification Techniques,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,polarized light microscopy techniques,method,USED_FOR,Mineral Identification Techniques,topic,,,GEOL_3115_triples_raw.json
+GEOL_3115,chemical tests for mineral identification,method,USED_FOR,Mineral Identification Techniques,topic,,,GEOL_3115_triples_raw.json

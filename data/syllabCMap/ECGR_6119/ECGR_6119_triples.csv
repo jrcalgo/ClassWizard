@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,Deep Learning Frameworks,topic,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,machine learning algorithms using MATLAB,method,A mentioned first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,Clustering,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,Representation Learning,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,Multi-Task Learning,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,Recurrent Neural Network,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,LSTM,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,Transformers,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,Autoencoders,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,GANs,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,Generative AI,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Probability Theory,topic,PREREQUISITE_OF,Ethics in AI,concept,A taught first,,ECGR_6119_triples_raw.json
+ECGR_6119,Bayesian Estimation,concept,PART_OF,Probability Theory,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Multi-Dimensional Gaussian Distribution,concept,PART_OF,Probability Theory,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Decision Making,concept,PART_OF,Probability Theory,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,CNN Basics,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Optimizers,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Loss Functions,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Object Detection,concept,PART_OF,Machine Vision,concept,,,ECGR_6119_triples_raw.json
+ECGR_6119,Segmentation,concept,PART_OF,Machine Vision,concept,,,ECGR_6119_triples_raw.json
+ECGR_6119,Representation Learning,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Multi-Task Learning,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Recurrent Neural Network,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,LSTM,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Transformers,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Autoencoders,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,GANs,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Generative AI,concept,PART_OF,Applied Artificial Intelligence (AI,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,Ethics in AI,concept,PART_OF,Applied Artificial Intelligence (AI,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,machine learning algorithms using MATLAB,method,USED_FOR,Pattern Recognition,topic,,,ECGR_6119_triples_raw.json
+ECGR_6119,segmentation using Tensorflow or Pytorch frameworks,method,USED_FOR,Object Detection and Segmentation,topic,,,ECGR_6119_triples_raw.json

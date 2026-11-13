@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_5000,Nuclear Physics Importance,concept,PART_OF,Intro. to Nuclear Physics,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Atomic Nucleus Structure,concept,PART_OF,Intro. to Nuclear Physics,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Nuclear Properties Overview,concept,PART_OF,Intro. to Nuclear Physics,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Nuclear Mass and Charge,concept,PART_OF,Atomic Nucleus Composition,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Alpha Beta Gamma Radiation,concept,PART_OF,Radioactive Decay Processes,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Radioactive Equilibrium State,concept,PART_OF,Radioactive Decay Processes,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Nuclear Energy Generation,concept,PART_OF,Nuclear Reactions and Applications,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Meson Baryon Interactions,concept,PART_OF,Particle Physics and Nucleons,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Quark Confinement Model,concept,PART_OF,Particle Physics and Nucleons,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Yukawa Potential Derivation,concept,PART_OF,Nuclear Forces and Models,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Shell Model Explanation,concept,PART_OF,Nuclear Forces and Models,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Binding Energy Calculation,concept,PART_OF,Nuclear Stability and Binding Energy,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Electromagnetic Form Factors,concept,PART_OF,Advanced Nuclear Topics,topic,,,PHYS_5000_triples_raw.json
+PHYS_5000,Quark-Gluon Plasma State,concept,PART_OF,Advanced Nuclear Topics,topic,,,PHYS_5000_triples_raw.json

@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+KNES_6120,concept,Clinical Exercise Physiology,Clinical Exercise Physiology,1,verified,Clinical Exercise Physiology,KNES_6120_concepts_raw.json
+KNES_6120,topic,Guidelines,Guidelines,1,verified,Introduction to Guidelines,KNES_6120_concepts_raw.json
+KNES_6120,topic,Assessment of Aerobic Capacity,Assessment of Aerobic Capacity,1,inferred,Assessment of Aerobic Capacity,KNES_6120_concepts_raw.json
+KNES_6120,topic,Anaerobic and Muscular Function,Anaerobic and Muscular Function,1,inferred,Anaerobic and Muscular Function,KNES_6120_concepts_raw.json
+KNES_6120,topic,Cardiovascular Disease Risk Factors,Cardiovascular Disease Risk Factors,1,inferred,Cardiovascular Disease Risk Factors,KNES_6120_concepts_raw.json
+KNES_6120,topic,Exercise Prescription for Special Populations,Exercise Prescription for Special Populations,1,inferred,Exercise Prescription for Special Populations,KNES_6120_concepts_raw.json
+KNES_6120,concept,ACSM's Exercise Testing,ACSM's Exercise Testing,1,inferred,ACSM's Exercise Testing,KNES_6120_concepts_raw.json
+KNES_6120,concept,Exercise Prescription Principles,Exercise Prescription Principles,1,inferred,Exercise Prescription Principles,KNES_6120_concepts_raw.json
+KNES_6120,concept,Maximal Oxygen Consumption,Maximal Oxygen Consumption,1,inferred,Maximal Oxygen Consumption,KNES_6120_concepts_raw.json
+KNES_6120,concept,Cardiovascular Endurance Tests,Cardiovascular Endurance Tests,1,inferred,Cardiovascular Endurance Tests,KNES_6120_concepts_raw.json
+KNES_6120,concept,Aerobic Capacity Measurement,Aerobic Capacity Measurement,1,inferred,Aerobic Capacity Measurement,KNES_6120_concepts_raw.json
+KNES_6120,concept,Muscle Strength and Power,Muscle Strength and Power,1,inferred,Muscle Strength and Power,KNES_6120_concepts_raw.json
+KNES_6120,concept,Anaerobic Capacity Assessment,Anaerobic Capacity Assessment,1,inferred,Anaerobic Capacity Assessment,KNES_6120_concepts_raw.json
+KNES_6120,concept,Muscular Endurance Testing,Muscular Endurance Testing,1,inferred,Muscular Endurance Testing,KNES_6120_concepts_raw.json
+KNES_6120,concept,Blood Pressure Measurement,Blood Pressure Measurement,1,inferred,Blood Pressure Measurement,KNES_6120_concepts_raw.json
+KNES_6120,concept,Lipid Profile Analysis,Lipid Profile Analysis,1,inferred,Lipid Profile Analysis,KNES_6120_concepts_raw.json
+KNES_6120,concept,Cardiovascular Disease Prevention,Cardiovascular Disease Prevention,1,inferred,Cardiovascular Disease Prevention,KNES_6120_concepts_raw.json
+KNES_6120,concept,Older Adults Exercise Guidelines,Older Adults Exercise Guidelines,1,inferred,Older Adults Exercise Guidelines,KNES_6120_concepts_raw.json
+KNES_6120,concept,Children and Adolescents Exercise,Children and Adolescents Exercise,1,inferred,Children and Adolescents Exercise,KNES_6120_concepts_raw.json
+KNES_6120,concept,Individuals with Chronic Diseases,Individuals with Chronic Diseases,1,inferred,Individuals with Chronic Diseases,KNES_6120_concepts_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_5204,staff supervision,topic,PREREQUISITE_OF,consultation,topic,A taught first,,SPED_5204_triples_raw.json
+SPED_5204,consultation,topic,PREREQUISITE_OF,performance improvement,topic,same unit,,SPED_5204_triples_raw.json
+SPED_5204,organizational effectiveness,topic,PART_OF,staff supervision,topic,,,SPED_5204_triples_raw.json
+SPED_5204,staff supervision,topic,PART_OF,consultation,topic,,,SPED_5204_triples_raw.json
+SPED_5204,consultation,topic,PART_OF,performance improvement,topic,,,SPED_5204_triples_raw.json
+SPED_5204,employee outcomes,topic,PART_OF,service settings,topic,,,SPED_5204_triples_raw.json
+SPED_5204,organizational behavior management,topic,PART_OF,staff supervision,topic,,,SPED_5204_triples_raw.json
+SPED_5204,staff supervision,topic,PART_OF,performance improvement,topic,,,SPED_5204_triples_raw.json
+SPED_5204,performance improvement,topic,PART_OF,employee outcomes,topic,,,SPED_5204_triples_raw.json

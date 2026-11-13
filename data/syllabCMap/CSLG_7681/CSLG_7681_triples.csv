@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_7681,Theories of Normal and Complicated Grief,topic,PREREQUISITE_OF,Factors that Influence Grief at Different Stages of the Lifespan,topic,A mentioned first,,CSLG_7681_triples_raw.json
+CSLG_7681,Theories of Normal and Complicated Grief,topic,PREREQUISITE_OF,Traumatic Loss,topic,same unit,,CSLG_7681_triples_raw.json
+CSLG_7681,Grief and Loss Counseling,concept,PART_OF,Theories of Normal and Complicated Grief,topic,,,CSLG_7681_triples_raw.json
+CSLG_7681,Grief and Loss Counseling,concept,PART_OF,Factors that Influence Grief at Different Stages of the Lifespan,topic,,,CSLG_7681_triples_raw.json
+CSLG_7681,Grief and Loss Counseling,concept,PART_OF,Cultural and Spiritual Influences,topic,,,CSLG_7681_triples_raw.json
+CSLG_7681,Grief and Loss Counseling,concept,PART_OF,Traumatic Loss,topic,,,CSLG_7681_triples_raw.json
+CSLG_7681,Grief and Loss Counseling,concept,PART_OF,Anticipatory Grief and End of Life Care,topic,,,CSLG_7681_triples_raw.json
+CSLG_7681,Grief and Loss Counseling,concept,PART_OF,Impact of Loss and Working in Close Contact with Grief on Professionals,topic,,,CSLG_7681_triples_raw.json

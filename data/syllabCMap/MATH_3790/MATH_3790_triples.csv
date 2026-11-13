@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_3790,Mathematics,topic,PREREQUISITE_OF,Applied Mathematics,topic,A mentioned first,,MATH_3790_triples_raw.json
+MATH_3790,Research,topic,PART_OF,Mathematics,topic,,,MATH_3790_triples_raw.json
+MATH_3790,Literature search,method,PART_OF,Research,topic,,,MATH_3790_triples_raw.json
+MATH_3790,Targeted literature searches,method,PART_OF,Literature search,method,,,MATH_3790_triples_raw.json
+MATH_3790,Specialized databases,method,PART_OF,Literature search,method,,,MATH_3790_triples_raw.json
+MATH_3790,Math-SciNet,tool,PART_OF,Specialized databases,method,,,MATH_3790_triples_raw.json
+MATH_3790,arXiv,tool,PART_OF,Specialized databases,method,,,MATH_3790_triples_raw.json
+MATH_3790,Rigorous literature search,method,SUBTYPE_OF,Literature search,method,,,MATH_3790_triples_raw.json
+MATH_3790,Targeted literature searches,method,SUBTYPE_OF,Literature search,method,,,MATH_3790_triples_raw.json

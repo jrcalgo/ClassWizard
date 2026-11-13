@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3141,mass balance analyses,concept,PREREQUISITE_OF,reactor performance,concept,B mentioned first,,CEGR_3141_triples_raw.json
+CEGR_3141,mass balance analyses,concept,PREREQUISITE_OF,second order reactions,concept,B mentioned first,,CEGR_3141_triples_raw.json
+CEGR_3141,mass balance analyses,concept,PREREQUISITE_OF,unmixed reactors,concept,B mentioned first,,CEGR_3141_triples_raw.json
+CEGR_3141,sustainability,concept,PREREQUISITE_OF,Pollution Problems and Controls,topic,A mentioned first,,CEGR_3141_triples_raw.json
+CEGR_3141,unit conversions,concept,PART_OF,Environmental Engineering,topic,,,CEGR_3141_triples_raw.json
+CEGR_3141,reactor performance,concept,PART_OF,Environmental Engineering,topic,,,CEGR_3141_triples_raw.json
+CEGR_3141,second order reactions,concept,PART_OF,Environmental Engineering,topic,,,CEGR_3141_triples_raw.json
+CEGR_3141,unmixed reactors,concept,PART_OF,Environmental Engineering,topic,,,CEGR_3141_triples_raw.json
+CEGR_3141,air treatment systems,concept,PART_OF,Environmental Engineering,topic,,,CEGR_3141_triples_raw.json
+CEGR_3141,mass balance analyses,concept,PART_OF,Environmental Engineering,topic,,,CEGR_3141_triples_raw.json
+CEGR_3141,sustainability,concept,PART_OF,Environmental Engineering,topic,,,CEGR_3141_triples_raw.json
+CEGR_3141,Stream Pollution Analysis,topic,PART_OF,Water and Wastewater Treatment Processes,topic,,,CEGR_3141_triples_raw.json
+CEGR_3141,toxicity calculations,method,PART_OF,Pollution Problems and Controls,topic,,,CEGR_3141_triples_raw.json

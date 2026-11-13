@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_2181,topic,Logic Systems Design,Logic Systems Design,1,verified,Logic Systems Design,ECGR_2181_concepts_raw.json
+ECGR_2181,concept,Boolean algebra,Boolean algebra,2,verified,Boolean algebra,ECGR_2181_concepts_raw.json
+ECGR_2181,topic,Combinational Circuits,combinational circuits,1,verified,Combinational Circuits,ECGR_2181_concepts_raw.json
+ECGR_2181,topic,Sequential Systems,sequential systems,1,verified,Sequential Systems,ECGR_2181_concepts_raw.json
+ECGR_2181,topic,MSI Building Blocks,MSI building blocks,1,verified,MSI Building Blocks,ECGR_2181_concepts_raw.json
+ECGR_2181,topic,Digital Systems Design and Test,digital systems design and test,1,verified,Digital Systems Design and Test,ECGR_2181_concepts_raw.json
+ECGR_2181,method,programmable logic devices,programmable logic devices,1,verified,programmable logic devices,ECGR_2181_concepts_raw.json
+ECGR_2181,topic,Mixed Logic,mixed logic,1,verified,Mixed Logic,ECGR_2181_concepts_raw.json
+ECGR_2181,topic,Multi-input Based Controller Systems,multi-input based controller systems,1,verified,Multi-input Based Controller Systems,ECGR_2181_concepts_raw.json
+ECGR_2181,concept,finite state machines,finite state machines,1,verified,finite state machines,ECGR_2181_concepts_raw.json
+ECGR_2181,concept,digital systems,digital systems,2,verified,digital systems,ECGR_2181_concepts_raw.json
+ECGR_2181,concept,combinational circuit function,combinational circuit function,1,verified,combinational circuit function,ECGR_2181_concepts_raw.json
+ECGR_2181,concept,tradeoffs in combinational logic,tradeoffs in combinational logic,1,verified,tradeoffs in combinational logic,ECGR_2181_concepts_raw.json
+ECGR_2181,concept,sequential circuit design,sequential circuit design,1,verified,sequential circuit design,ECGR_2181_concepts_raw.json
+ECGR_2181,method,design of combinational circuits,design of combinational circuits,1,verified,design of combinational circuits,ECGR_2181_concepts_raw.json
+ECGR_2181,method,design of multi-input based controller systems,design of multi-input based controller systems,1,verified,design of multi-input based controller systems,ECGR_2181_concepts_raw.json
+ECGR_2181,method,simulation,simulation,1,verified,simulation,ECGR_2181_concepts_raw.json
+ECGR_2181,method,analysis,analysis,1,verified,analysis,ECGR_2181_concepts_raw.json
+ECGR_2181,method,documentation,documentation,1,verified,documentation,ECGR_2181_concepts_raw.json
+ECGR_2181,tool,CAD tools,CAD tools,1,verified,CAD tools,ECGR_2181_concepts_raw.json

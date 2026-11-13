@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_8990,Academic Integrity,topic,PART_OF,Code of Student Academic Integrity,topic,,,GRAD_8990_triples_raw.json
+GRAD_8990,Academic Integrity,topic,PART_OF,Critical Thinking and Analysis,topic,,,GRAD_8990_triples_raw.json
+GRAD_8990,Academic Integrity,topic,PART_OF,Debate and Discussion,topic,,,GRAD_8990_triples_raw.json

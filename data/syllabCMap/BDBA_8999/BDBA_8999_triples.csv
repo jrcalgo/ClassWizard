@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BDBA_8999,Research Proposal Development,topic,PART_OF,Dissertation Conceptual Framework,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Research Proposal Development,topic,PART_OF,Dissertation Completion and Submission,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Dissertation Conceptual Framework,topic,PART_OF,Dissertation Completion and Submission,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Literature Review Fundamentals,concept,PART_OF,Literature Review and Analysis,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Research Question Formulation,concept,PART_OF,Literature Review and Analysis,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Methodology Selection Criteria,concept,PART_OF,Research Design and Methodology,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Conceptual Model Development,concept,PART_OF,Dissertation Conceptual Framework,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Hypothesis Generation Strategies,concept,PART_OF,Dissertation Conceptual Framework,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Quantitative vs Qualitative Research,concept,PART_OF,Research Design and Methodology,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Data Collection Instrumentation,concept,PART_OF,Research Design and Methodology,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Theoretical Framework Application,concept,PART_OF,Literature Review and Analysis,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Methodological Critique Techniques,concept,PART_OF,Literature Review and Analysis,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Abstract and Summary Writing,concept,PART_OF,Dissertation Writing and Structure,topic,,,BDBA_8999_triples_raw.json
+BDBA_8999,Copyright and Intellectual Property,concept,PART_OF,Dissertation Completion and Submission,topic,,,BDBA_8999_triples_raw.json

@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CAPI_3050,Developing Areas of American Law,concept,PREREQUISITE_OF,Regulation of Online Content,concept,same unit,,CAPI_3050_triples_raw.json
+CAPI_3050,Developing Areas of American Law,concept,PREREQUISITE_OF,Applying Established Laws Online,concept,same unit,,CAPI_3050_triples_raw.json
+CAPI_3050,Critical Thinking and Writing,concept,PREREQUISITE_OF,Multimodal Resource Utilization,concept,same unit,,CAPI_3050_triples_raw.json
+CAPI_3050,Right to Privacy Evolution,concept,PART_OF,Historic Legal Changes,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Libel and Slander Laws,concept,PART_OF,Historic Legal Changes,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Image Protection History,concept,PART_OF,Historic Legal Changes,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Social Norms and Reputation,concept,PART_OF,Cultural Impact on Image,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Cultural Differences in Image,concept,PART_OF,Cultural Impact on Image,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Historic Cultural Influences,concept,PART_OF,Cultural Impact on Image,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Regulation of Online Content,concept,PART_OF,American Law and Social Media,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Applying Established Laws Online,concept,PART_OF,American Law and Social Media,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Impact of Social Media on Society,concept,PART_OF,Social Media Usage and Regulation,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Balancing Freedom and Protection,concept,PART_OF,Social Media Usage and Regulation,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Multimodal Resource Utilization,concept,PART_OF,Analyzing and Presenting Information,topic,,,CAPI_3050_triples_raw.json
+CAPI_3050,Professional Content Creation,concept,PART_OF,Analyzing and Presenting Information,topic,,,CAPI_3050_triples_raw.json

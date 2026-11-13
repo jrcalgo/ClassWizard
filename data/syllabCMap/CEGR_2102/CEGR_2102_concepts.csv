@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_2102,topic,Engineering Economics,Engineering Economic,1,verified,Engineering Economics,CEGR_2102_concepts_raw.json
+CEGR_2102,topic,Time Value of Money,Time Value of Money,1,inferred,Time Value of Money,CEGR_2102_concepts_raw.json
+CEGR_2102,topic,Cost Estimation and Classification,Cost Estimation and Classification,1,inferred,Cost Estimation and Classification,CEGR_2102_concepts_raw.json
+CEGR_2102,topic,Cash Flow Analysis,Cash Flow Analysis,1,inferred,Cash Flow Analysis,CEGR_2102_concepts_raw.json
+CEGR_2102,topic,Risk and Uncertainty in Engineering Projects,Risk and Uncertainty in Engineering Projects,1,inferred,Risk and Uncertainty in Engineering Projects,CEGR_2102_concepts_raw.json
+CEGR_2102,topic,Break-Even Analysis and Sensitivity Analysis,Break-Even Analysis and Sensitivity Analysis,1,inferred,Break-Even Analysis and Sensitivity Analysis,CEGR_2102_concepts_raw.json
+CEGR_2102,topic,Engineering Economic Decision Making,Engineering Economic Decision Making,1,inferred,Engineering Economic Decision Making,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Importance of Economic Analysis,Importance of Economic Analysis,1,inferred,Importance of Economic Analysis,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Engineering Economy Definition,Engineering Economy Definition,1,inferred,Engineering Economy Definition,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Economic Decision Making,Economic Decision Making,2,inferred,Economic Decision Making,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Present Worth Factor,Present Worth Factor,1,inferred,Present Worth Factor,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Future Worth Factor,Future Worth Factor,1,inferred,Future Worth Factor,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Compound Interest Formula,Compound Interest Formula,1,inferred,Compound Interest Formula,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Direct vs Indirect Costs,Direct vs Indirect Costs,1,inferred,Direct vs Indirect Costs,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Fixed vs Variable Costs,Fixed vs Variable Costs,1,inferred,Fixed vs Variable Costs,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Estimating Methods Overview,Estimating Methods Overview,1,inferred,Estimating Methods Overview,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Cash Flow Diagrams,Cash Flow Diagrams,1,inferred,Cash Flow Diagrams,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Net Present Worth Method,Net Present Worth Method,1,inferred,Net Present Worth Method,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Equivalent Annual Cost,Equivalent Annual Cost,1,inferred,Equivalent Annual Cost,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Probability Theory Basics,Probability Theory Basics,1,inferred,Probability Theory Basics,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Expected Monetary Value,Expected Monetary Value,1,inferred,Expected Monetary Value,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Sensitivity Analysis Techniques,Sensitivity Analysis Techniques,1,inferred,Sensitivity Analysis Techniques,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Break-Even Point Calculation,Break-Even Point Calculation,1,inferred,Break-Even Point Calculation,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Sensitivity Analysis Applications,Sensitivity Analysis Applications,1,inferred,Sensitivity Analysis Applications,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Scenario Planning Method,Scenario Planning Method,1,inferred,Scenario Planning Method,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Decision Tree Analysis,Decision Tree Analysis,1,inferred,Decision Tree Analysis,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Cost-Benefit Analysis Framework,Cost-Benefit Analysis Framework,1,inferred,Cost-Benefit Analysis Framework,CEGR_2102_concepts_raw.json
+CEGR_2102,concept,Prioritization and Selection Criteria,Prioritization and Selection Criteria,1,inferred,Prioritization and Selection Criteria,CEGR_2102_concepts_raw.json

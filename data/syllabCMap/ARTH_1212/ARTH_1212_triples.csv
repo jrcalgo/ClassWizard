@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_1212,Art History,topic,PART_OF,Art History Survey II,topic,,,ARTH_1212_triples_raw.json
+ARTH_1212,Medieval Art,topic,PART_OF,Art History Survey II,topic,,,ARTH_1212_triples_raw.json
+ARTH_1212,Renaissance Art,topic,PART_OF,Art History Survey II,topic,,,ARTH_1212_triples_raw.json
+ARTH_1212,Baroque and Rococo Art,topic,PART_OF,Art History Survey II,topic,,,ARTH_1212_triples_raw.json
+ARTH_1212,Modern Art Movements,topic,PART_OF,Art History Survey II,topic,,,ARTH_1212_triples_raw.json

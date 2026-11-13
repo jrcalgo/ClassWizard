@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_3183,VHDL,tool,USED_FOR,datapath and control design,method,,,ECGR_3183_triples_raw.json

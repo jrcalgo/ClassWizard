@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_3101,Greenhouse Effect Basics,concept,PREREQUISITE_OF,Radiative Forcing Mechanisms,concept,same unit,,ESCI_3101_triples_raw.json
+ESCI_3101,Greenhouse Effect Basics,concept,PREREQUISITE_OF,Atmospheric Composition,concept,same unit,,ESCI_3101_triples_raw.json
+ESCI_3101,Global Warming Trends,topic,PREREQUISITE_OF,Causes of Global Warming,topic,A taught first,,ESCI_3101_triples_raw.json
+ESCI_3101,Climate Change Impacts,topic,PREREQUISITE_OF,Societal and Environmental Impacts,topic,A taught first,,ESCI_3101_triples_raw.json
+ESCI_3101,Greenhouse Gas Emissions Sources,concept,PART_OF,Causes of Global Warming,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Fossil Fuel Combustion Impact,concept,PART_OF,Causes of Global Warming,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Natural Climate Variability,concept,PART_OF,Causes of Global Warming,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Weather Extremes Intensification,concept,PART_OF,Climate Change Impacts,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Sea Level Rise Consequences,concept,PART_OF,Climate Change Impacts,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Societal and Environmental Impacts,topic,PART_OF,Biodiversity Loss Risks,concept,,part is broader than whole - check direction,ESCI_3101_triples_raw.json
+ESCI_3101,Greenhouse Effect Basics,concept,USED_FOR,Climate Fundamentals,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Radiative Forcing Mechanisms,concept,USED_FOR,Climate Fundamentals,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Atmospheric Composition,concept,USED_FOR,Climate Fundamentals,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Temperature Increase Patterns,concept,USED_FOR,Global Warming Trends,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Sea Level Rise Projections,concept,USED_FOR,Global Warming Trends,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Arctic Ice Melting Rates,concept,USED_FOR,Global Warming Trends,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Water Cycle Disruptions Effects,concept,USED_FOR,Climate Change Impacts,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Sea Level Rise Consequences,concept,USED_FOR,Climate Change Impacts,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Renewable Energy Transition Options,concept,USED_FOR,Climate Change Mitigation Strategies,topic,,,ESCI_3101_triples_raw.json
+ESCI_3101,Carbon Capture and Storage Methods,concept,USED_FOR,Climate Change Mitigation Strategies,topic,,,ESCI_3101_triples_raw.json

@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_1102,topic,rudimentary clef and pitch reading,rudimentary clef and pitch reading,3,verified,rudimentary clef and pitch reading,MUSC_1102_concepts_raw.json
+MUSC_1102,topic,diatonic scale recognition,diatonic scale recognition,5,verified,diatonic scale recognition,MUSC_1102_concepts_raw.json
+MUSC_1102,topic,key signatures,key signatures,5,verified,key signatures,MUSC_1102_concepts_raw.json
+MUSC_1102,topic,meter (time) signatures,Meter Time Signatures,4,verified,meter (time) signatures,MUSC_1102_concepts_raw.json
+MUSC_1102,topic,interval recognition and labeling,interval recognition and labeling,3,verified,interval recognition and labeling,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,triad formation,triad formation,4,verified,triad formation,MUSC_1102_concepts_raw.json
+MUSC_1102,topic,basic Roman numeral and Figured Bass analysis of triads and seventh chords,basic Roman numeral and Figured Bass analysis of triads and seventh chords,3,verified,basic Roman numeral and Figured Bass analysis of triads and seventh chords,MUSC_1102_concepts_raw.json
+MUSC_1102,topic,rudimentary concepts of compositional form in song structure,rudimentary concepts of compositional form in song structure,3,verified,rudimentary concepts of compositional form in song structure,MUSC_1102_concepts_raw.json
+MUSC_1102,topic,Simple Meters,Simple Meters,1,verified,Simple Meters,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,clef and pitch reading,clef and pitch reading,4,verified,clef and pitch reading,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,diatonic scale,diatonic scale,5,verified,diatonic scale,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,key signature,key signatures,5,verified,key signature,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,meter (time) signature,Meter Time Signatures,4,verified,meter (time) signature,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,interval recognition,interval recognition,5,verified,interval recognition,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,labeling,labeling,3,verified,labeling,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,Roman numeral analysis,Roman Numeral Analysis,1,verified,Roman numeral analysis,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,Figured Bass analysis,Figured Bass analysis,4,verified,Figured Bass analysis,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,Solfège sight-singing,Solfège Sight-Singing,1,verified,Solfège sight-singing,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,simple meter identification,Simple Meter Identification,1,verified,simple meter identification,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,time signature recognition,Time Signature Recognition,1,verified,time signature recognition,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,duple and triple time,Duple and Triple Time,1,verified,duple and triple time,MUSC_1102_concepts_raw.json
+MUSC_1102,concept,common time understanding,Common Time Understanding,1,verified,common time understanding,MUSC_1102_concepts_raw.json
+MUSC_1102,method,aural skills,Aural skills,1,verified,aural skills,MUSC_1102_concepts_raw.json
+MUSC_1102,method,basic sight-singing,basic sight-singing,1,verified,basic sight-singing,MUSC_1102_concepts_raw.json
+MUSC_1102,method,rhythm reading,rhythm reading,1,verified,rhythm reading,MUSC_1102_concepts_raw.json
+MUSC_1102,method,rhythmic and melodic dictation through listening,rhythmic and melodic dictation through listening,1,verified,rhythmic and melodic dictation through listening,MUSC_1102_concepts_raw.json

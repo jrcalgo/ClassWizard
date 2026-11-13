@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3315,Team Formation Process,concept,PART_OF,Project Formation,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Client Project Briefing,concept,PART_OF,Project Formation,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Project Scope Definition,concept,PART_OF,Project Formation,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Engineering Design Principles,concept,PART_OF,Design Philosophy,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Design Standards and Guidelines,concept,PART_OF,Design Philosophy,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Innovation and Creativity,concept,PART_OF,Design Philosophy,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Time Management Techniques,concept,PART_OF,Project Planning,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Budgeting and Cost Estimation,concept,PART_OF,Project Planning,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Risk Assessment and Mitigation,concept,PART_OF,Project Planning,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Design Concept Development,concept,PART_OF,Conceptual Design,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Feasibility Study and Analysis,concept,PART_OF,Conceptual Design,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Initial Design Specifications,concept,PART_OF,Conceptual Design,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Design Review Process and Criteria,concept,PART_OF,Preliminary Design Review,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Design Iteration and Refinement,concept,PART_OF,Preliminary Design Review,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Feedback and Improvement Plan,concept,PART_OF,Progress Evaluation 1,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Project Status Update and Analysis,concept,PART_OF,Mid-Project Review,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Client Satisfaction and Expectations,concept,PART_OF,Mid-Project Review,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Design Adjustments and Refinements,concept,PART_OF,Mid-Project Review,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Team Performance and Progress,concept,PART_OF,Progress Evaluation 2,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Risk Management and Mitigation,concept,PART_OF,Progress Evaluation 2,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Final Design Specifications and Documentation,concept,PART_OF,Final Design Package,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Client Review and Feedback,concept,PART_OF,Final Design Package,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Project Completion and Closure,concept,PART_OF,Final Design Package,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Design Communication and Presentation,concept,PART_OF,Expo Presentation and Poster,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Team Collaboration and Coordination,concept,PART_OF,Expo Presentation and Poster,topic,,,MEGR_3315_triples_raw.json
+MEGR_3315,Project Showcase and Promotion,concept,PART_OF,Expo Presentation and Poster,topic,,,MEGR_3315_triples_raw.json

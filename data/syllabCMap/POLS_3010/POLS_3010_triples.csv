@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3010,Mock Trials,topic,PREREQUISITE_OF,Trial Advocacy Techniques,topic,A mentioned first,,POLS_3010_triples_raw.json
+POLS_3010,Mock Trials,topic,PREREQUISITE_OF,Rules of Evidence,topic,A taught first,,POLS_3010_triples_raw.json
+POLS_3010,Mock Trials,topic,PREREQUISITE_OF,Trial Structure Fundamentals,topic,A taught first,,POLS_3010_triples_raw.json
+POLS_3010,Mock Trials,topic,PREREQUISITE_OF,Oral Communication Skills,topic,A taught first,,POLS_3010_triples_raw.json
+POLS_3010,Mock Trials,topic,PREREQUISITE_OF,Mock Trial Applications,topic,A taught first,,POLS_3010_triples_raw.json
+POLS_3010,Trial Structure,topic,PART_OF,Trial Structure Fundamentals,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Trial Structure,topic,PART_OF,Rules of Evidence,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Relevance and Admissibility,concept,PART_OF,Rules of Evidence,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Burden of Proof Standards,concept,PART_OF,Rules of Evidence,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Plaintiff's Case Presentation,concept,PART_OF,Trial Structure Fundamentals,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Defendant's Case Defense Strategy,concept,PART_OF,Trial Structure Fundamentals,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Witness Examination Techniques,concept,PART_OF,Trial Structure Fundamentals,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Cross-Examination Strategies,concept,PART_OF,Oral Communication Skills,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Closing Argument Techniques,concept,PART_OF,Oral Communication Skills,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Case Analysis and Strategy,concept,PART_OF,Mock Trial Applications,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Role Assignment and Preparation,concept,PART_OF,Mock Trial Applications,topic,,,POLS_3010_triples_raw.json
+POLS_3010,Mock Trials,topic,USED_FOR,Trial Advocacy Techniques,topic,,topic used for something - check direction,POLS_3010_triples_raw.json
+POLS_3010,Mock Trials,topic,USED_FOR,Rules of Evidence,topic,,topic used for something - check direction,POLS_3010_triples_raw.json
+POLS_3010,Mock Trials,topic,USED_FOR,Trial Structure Fundamentals,topic,,topic used for something - check direction,POLS_3010_triples_raw.json
+POLS_3010,Mock Trials,topic,USED_FOR,Oral Communication Skills,topic,,topic used for something - check direction,POLS_3010_triples_raw.json
+POLS_3010,Mock Trials,topic,USED_FOR,Mock Trial Applications,topic,,topic used for something - check direction,POLS_3010_triples_raw.json

@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_3260,Definition of Nutrition,concept,PREREQUISITE_OF,Importance of Nutrition,concept,same unit,,EXER_3260_triples_raw.json
+EXER_3260,Definition of Nutrition,concept,PREREQUISITE_OF,Types of Nutrients,concept,same unit,,EXER_3260_triples_raw.json
+EXER_3260,Carbohydrates and Digestion,concept,PREREQUISITE_OF,Protein Structure and Function,concept,same unit,,EXER_3260_triples_raw.json
+EXER_3260,Carbohydrates and Digestion,concept,PREREQUISITE_OF,Fats and Lipid Metabolism,concept,same unit,,EXER_3260_triples_raw.json
+EXER_3260,Definition of Nutrition,concept,PART_OF,Nutrition,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Importance of Nutrition,concept,PART_OF,Nutrition,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Types of Nutrients,concept,PART_OF,Nutrition,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Carbohydrates and Digestion,concept,PART_OF,Macronutrients and Energy,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Protein Structure and Function,concept,PART_OF,Macronutrients and Energy,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Fats and Lipid Metabolism,concept,PART_OF,Macronutrients and Energy,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Vitamins and Their Roles,concept,PART_OF,Micronutrients and Health,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Water and Electrolyte Balance,concept,PART_OF,Micronutrients and Health,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Dietary Patterns and Disease,topic,PART_OF,Relationship Between Diet and Obesity,concept,,part is broader than whole - check direction,EXER_3260_triples_raw.json
+EXER_3260,Impact of Diet on Cardiovascular Health,concept,PART_OF,Dietary Patterns and Disease,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Link Between Diet and Chronic Diseases,concept,PART_OF,Dietary Patterns and Disease,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Impact of Socioeconomic Status on Nutrition,concept,PART_OF,Nutrition and Lifestyle,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Evaluating Nutrition Information Sources,concept,PART_OF,Critical Thinking and Debate,topic,,,EXER_3260_triples_raw.json
+EXER_3260,Analyzing Nutrition Claims and Labels,concept,PART_OF,Critical Thinking and Debate,topic,,,EXER_3260_triples_raw.json

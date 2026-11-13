@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARBC_1201,topic,Elementary Arabic I,Elementary Arabic I,1,verified,Elementary Arabic I,ARBC_1201_concepts_raw.json
+ARBC_1201,topic,Arabic Alphabet,Arabic alphabet,1,verified,Arabic Alphabet,ARBC_1201_concepts_raw.json
+ARBC_1201,topic,Basic Social Interactions,Basic Social Interactions,1,inferred,Basic Social Interactions,ARBC_1201_concepts_raw.json
+ARBC_1201,topic,Talking About Yourself,Talking About Yourself,1,inferred,Talking About Yourself,ARBC_1201_concepts_raw.json
+ARBC_1201,topic,Comprehending Print Texts,Comprehending Print Texts,1,inferred,Comprehending Print Texts,ARBC_1201_concepts_raw.json
+ARBC_1201,topic,Listening to Audio/Video,Listening to Audio/Video,1,inferred,Listening to Audio/Video,ARBC_1201_concepts_raw.json
+ARBC_1201,topic,Writing About Yourself,Writing About Yourself,1,inferred,Writing About Yourself,ARBC_1201_concepts_raw.json
+ARBC_1201,topic,Dialects and Registers,Dialects and Registers,1,inferred,Dialects and Registers,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Mastering Arabic Letters,Mastering Arabic Letters,1,inferred,Mastering Arabic Letters,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Recognizing Arabic Sounds,Recognizing Arabic Sounds,1,inferred,Recognizing Arabic Sounds,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Pronouncing Arabic Alphabets,Pronouncing Arabic Alphabets,1,inferred,Pronouncing Arabic Alphabets,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Initiating Conversations,Initiating Conversations,1,inferred,Initiating Conversations,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Asking Basic Information,Asking Basic Information,1,inferred,Asking Basic Information,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Cultural Aspects of Interaction,Cultural Aspects of Interaction,1,inferred,Cultural Aspects of Interaction,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Introducing Yourself,Introducing Yourself,1,inferred,Introducing Yourself,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Describing Education Background,Describing Education Background,1,inferred,Describing Education Background,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Discussing Family and Friends,Discussing Family and Friends,1,inferred,Discussing Family and Friends,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Reading Simple Arabic Texts,Reading Simple Arabic Texts,1,inferred,Reading Simple Arabic Texts,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Understanding Familiar Topics,Understanding Familiar Topics,1,inferred,Understanding Familiar Topics,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Recognizing Vocabulary in Context,Recognizing Vocabulary in Context,1,inferred,Recognizing Vocabulary in Context,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Comprehending Simple Audio/Video,Comprehending Simple Audio/Video,1,inferred,Comprehending Simple Audio/Video,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Identifying Familiar Topics,Identifying Familiar Topics,1,inferred,Identifying Familiar Topics,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Recognizing Vocabulary in Media,Recognizing Vocabulary in Media,1,inferred,Recognizing Vocabulary in Media,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Composing Simple Paragraphs,Composing Simple Paragraphs,1,inferred,Composing Simple Paragraphs,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Describing Family and Friends,Describing Family and Friends,1,inferred,Describing Family and Friends,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Using Basic Arabic Grammar,Using Basic Arabic Grammar,1,inferred,Using Basic Arabic Grammar,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Understanding Formal vs. Spoken Arabic,Understanding Formal vs. Spoken Arabic,1,inferred,Understanding Formal vs. Spoken Arabic,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Recognizing Dialect Expressions,Recognizing Dialect Expressions,1,inferred,Recognizing Dialect Expressions,ARBC_1201_concepts_raw.json
+ARBC_1201,concept,Using Basic Dialect Vocabulary,Using Basic Dialect Vocabulary,1,inferred,Using Basic Dialect Vocabulary,ARBC_1201_concepts_raw.json

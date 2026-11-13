@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4101,topic,Natural Language Processing,Natural Language Processing,2,verified,Natural Language Processing,ITCS_4101_concepts_raw.json
+ITCS_4101,topic,Machine Learning,Machine Learning,3,verified,Introduction to Machine Learning,ITCS_4101_concepts_raw.json
+ITCS_4101,topic,Linguistic Analysis Tasks,linguistic analysis tasks,1,verified,Linguistic Analysis Tasks,ITCS_4101_concepts_raw.json
+ITCS_4101,topic,Vector Based Representations of Text,vector based representations of text,1,verified,Vector Based Representations of Text,ITCS_4101_concepts_raw.json
+ITCS_4101,topic,Machine Learning Models and Techniques,machine learning models and techniques,1,verified,Machine Learning Models and Techniques,ITCS_4101_concepts_raw.json
+ITCS_4101,topic,NLP Applications,NLP applications,1,verified,NLP Applications,ITCS_4101_concepts_raw.json
+ITCS_4101,topic,Standard APIs and Frameworks for Developing Workflows,standard APIs and frameworks for developing workflows,1,verified,Standard APIs and Frameworks for Developing Workflows,ITCS_4101_concepts_raw.json
+ITCS_4101,concept,tokenization,tokenization,4,verified,tokenization,ITCS_4101_concepts_raw.json
+ITCS_4101,concept,syntactic parsing,syntactic parsing,4,verified,syntactic parsing,ITCS_4101_concepts_raw.json
+ITCS_4101,concept,semantic parsing,semantic parsing,4,verified,semantic parsing,ITCS_4101_concepts_raw.json
+ITCS_4101,concept,coreference resolution,coreference resolution,4,verified,coreference resolution,ITCS_4101_concepts_raw.json
+ITCS_4101,concept,bag-of-words model,Bag-of-Words Model,1,verified,bag-of-words model,ITCS_4101_concepts_raw.json
+ITCS_4101,concept,TF-IDF model,TF-IDF Model,1,verified,TF-IDF model,ITCS_4101_concepts_raw.json
+ITCS_4101,concept,neural word embeddings,Neural Word Embeddings,1,verified,neural word embeddings,ITCS_4101_concepts_raw.json
+ITCS_4101,concept,attention,attention,1,verified,attention,ITCS_4101_concepts_raw.json

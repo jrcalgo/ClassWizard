@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EXER_2101,topic,Physical Conditioning,Physical Conditioning,1,verified,Physical Conditioning,EXER_2101_concepts_raw.json
+EXER_2101,topic,Exercise Science,Exercise Science,1,verified,Exercise Science,EXER_2101_concepts_raw.json
+EXER_2101,topic,Physical Fitness,physical fitness,1,verified,Physical Fitness,EXER_2101_concepts_raw.json
+EXER_2101,concept,Types of Exercise Programs,Types of Exercise Programs,1,inferred,Types of Exercise Programs,EXER_2101_concepts_raw.json
+EXER_2101,concept,Components of Physical Conditioning,Components of Physical Conditioning,1,inferred,Components of Physical Conditioning,EXER_2101_concepts_raw.json
+EXER_2101,topic,Designing Effective Workouts,Designing Effective Workouts,1,inferred,Designing Effective Workouts,EXER_2101_concepts_raw.json
+EXER_2101,concept,Measuring Physical Fitness Levels,Measuring Physical Fitness Levels,1,inferred,Measuring Physical Fitness Levels,EXER_2101_concepts_raw.json
+EXER_2101,topic,Using Assessment Tools and Equipment,Using Assessment Tools and Equipment,1,inferred,Using Assessment Tools and Equipment,EXER_2101_concepts_raw.json
+EXER_2101,topic,Interpreting Results and Feedback,Interpreting Results and Feedback,1,inferred,Interpreting Results and Feedback,EXER_2101_concepts_raw.json
+EXER_2101,topic,Creating Individualized Programs,Creating Individualized Programs,1,inferred,Creating Individualized Programs,EXER_2101_concepts_raw.json
+EXER_2101,topic,Group Exercise Programming Strategies,Group Exercise Programming Strategies,1,inferred,Group Exercise Programming Strategies,EXER_2101_concepts_raw.json
+EXER_2101,concept,Incorporating Lifestyle Changes,Incorporating Lifestyle Changes,1,inferred,Incorporating Lifestyle Changes,EXER_2101_concepts_raw.json
+EXER_2101,concept,Periodization and Progressive Overload,Periodization and Progressive Overload,1,inferred,Periodization and Progressive Overload,EXER_2101_concepts_raw.json
+EXER_2101,concept,Energy Systems and Endurance Training,Energy Systems and Endurance Training,1,inferred,Energy Systems and Endurance Training,EXER_2101_concepts_raw.json
+EXER_2101,concept,Strength Training Principles,Strength Training Principles,1,inferred,Strength Training Principles,EXER_2101_concepts_raw.json
+EXER_2101,topic,Importance of Proper Nutrition,Importance of Proper Nutrition,1,inferred,Importance of Proper Nutrition,EXER_2101_concepts_raw.json
+EXER_2101,topic,Balancing Macronutrients and Micronutrients,Balancing Macronutrients and Micronutrients,1,inferred,Balancing Macronutrients and Micronutrients,EXER_2101_concepts_raw.json
+EXER_2101,topic,Stress Management Techniques,Stress Management Techniques,1,inferred,Stress Management Techniques,EXER_2101_concepts_raw.json
+EXER_2101,concept,Definition of Physical Fitness,Definition of Physical Fitness,1,inferred,Definition of Physical Fitness,EXER_2101_concepts_raw.json
+EXER_2101,concept,Importance of Regular Exercise,Importance of Regular Exercise,1,inferred,Importance of Regular Exercise,EXER_2101_concepts_raw.json
+EXER_2101,concept,Exercise Science as a Discipline,Exercise Science as a Discipline,1,inferred,Exercise Science as a Discipline,EXER_2101_concepts_raw.json

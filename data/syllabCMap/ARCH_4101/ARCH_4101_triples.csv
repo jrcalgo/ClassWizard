@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_4101,primal conditions of buildings,concept,PREREQUISITE_OF,Advanced Building Design,topic,A mentioned first,,ARCH_4101_triples_raw.json
+ARCH_4101,sociocultural change,concept,PREREQUISITE_OF,avant-guard practice,concept,A taught first,,ARCH_4101_triples_raw.json
+ARCH_4101,primal conditions of buildings,concept,PREREQUISITE_OF,experimental methods,method,A taught first,,ARCH_4101_triples_raw.json
+ARCH_4101,projective nature of design,concept,PART_OF,Advanced Building Design,topic,,,ARCH_4101_triples_raw.json
+ARCH_4101,avant-guard practice,concept,PART_OF,Architectural Design Studio VII,topic,,,ARCH_4101_triples_raw.json
+ARCH_4101,experimental methods,method,PART_OF,Advanced Building Design,topic,,,ARCH_4101_triples_raw.json
+ARCH_4101,experimental methods,method,USED_FOR,Advanced Building Design,topic,,,ARCH_4101_triples_raw.json

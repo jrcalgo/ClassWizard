@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OSCI_8640,Labor Market Participation,topic,PART_OF,Work,topic,,,OSCI_8640_triples_raw.json
+OSCI_8640,Occupational Segregation Patterns,concept,PART_OF,Labor Market Participation,topic,,,OSCI_8640_triples_raw.json
+OSCI_8640,Career Advancement Barriers,concept,PART_OF,Labor Market Participation,topic,,,OSCI_8640_triples_raw.json
+OSCI_8640,Gender Pay Gap Explanation,concept,PART_OF,Labor Market Participation,topic,,,OSCI_8640_triples_raw.json
+OSCI_8640,Career Aspirations and Expectations,concept,PART_OF,Labor Market Participation,topic,,,OSCI_8640_triples_raw.json
+OSCI_8640,Organizational Culture and Gender,concept,PART_OF,Organizations,topic,,,OSCI_8640_triples_raw.json
+OSCI_8640,Work-Life Balance Challenges,concept,PART_OF,Work,topic,,,OSCI_8640_triples_raw.json

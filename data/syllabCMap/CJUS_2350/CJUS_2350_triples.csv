@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_2350,recidivism,concept,PREREQUISITE_OF,offender re-entry,concept,B mentioned first,,CJUS_2350_triples_raw.json
+CJUS_2350,inmate classification,concept,PREREQUISITE_OF,security levels,concept,A mentioned first,,CJUS_2350_triples_raw.json
+CJUS_2350,correctional philosophy,concept,PREREQUISITE_OF,sentencing theories,concept,same unit,,CJUS_2350_triples_raw.json
+CJUS_2350,substance abuse and crime,concept,PREREQUISITE_OF,mental health and corrections,concept,A taught first,,CJUS_2350_triples_raw.json
+CJUS_2350,probation practices,concept,PREREQUISITE_OF,parole systems,concept,same unit,,CJUS_2350_triples_raw.json
+CJUS_2350,correctional system evolution,concept,PART_OF,American correctional system,topic,,,CJUS_2350_triples_raw.json
+CJUS_2350,community corrections,concept,PART_OF,American correctional system,topic,,,CJUS_2350_triples_raw.json
+CJUS_2350,inmate classification,concept,PART_OF,security levels,concept,,,CJUS_2350_triples_raw.json
+CJUS_2350,recidivism,concept,PART_OF,offender re-entry,concept,,,CJUS_2350_triples_raw.json
+CJUS_2350,substance abuse and crime,concept,PART_OF,mental health and corrections,concept,,,CJUS_2350_triples_raw.json
+CJUS_2350,parole systems,concept,SUBTYPE_OF,probation practices,concept,,,CJUS_2350_triples_raw.json
+CJUS_2350,offender re-entry,concept,SUBTYPE_OF,alternatives to incarceration,concept,,,CJUS_2350_triples_raw.json

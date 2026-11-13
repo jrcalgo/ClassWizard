@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ATRN_6104,obtaining a medical history,method,USED_FOR,Clinical Evaluation,topic,,,ATRN_6104_triples_raw.json

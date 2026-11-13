@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_3000,Cultural Systems of Healing,topic,PART_OF,Medical Anthropology,topic,,,HLTH_3000_triples_raw.json
+HLTH_3000,Religion and Magic in Healing,topic,PART_OF,Medical Anthropology,topic,,,HLTH_3000_triples_raw.json
+HLTH_3000,Cultural Beliefs and Practices,topic,PART_OF,Medical Anthropology,topic,,,HLTH_3000_triples_raw.json

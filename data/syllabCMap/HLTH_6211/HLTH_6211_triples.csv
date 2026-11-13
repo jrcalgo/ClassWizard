@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6211,descriptive epidemiology,concept,PART_OF,Inferential Epidemiology and Biostatistics,topic,,,HLTH_6211_triples_raw.json
+HLTH_6211,inferential epidemiology,concept,PART_OF,Inferential Epidemiology and Biostatistics,topic,,,HLTH_6211_triples_raw.json
+HLTH_6211,data visualizations,concept,PART_OF,public health settings,concept,,,HLTH_6211_triples_raw.json
+HLTH_6211,statistical analysis software,concept,PART_OF,Public Health Practice,topic,,,HLTH_6211_triples_raw.json
+HLTH_6211,validity of statistical results,concept,PART_OF,Public Health Evaluation,topic,,,HLTH_6211_triples_raw.json
+HLTH_6211,statistical analysis,method,USED_FOR,Public Health Evaluation,topic,,,HLTH_6211_triples_raw.json

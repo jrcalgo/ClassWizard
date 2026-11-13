@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_4161,topic,Traffic Engineering,Traffic Engineering,3,verified,Traffic Engineering,CEGR_4161_concepts_raw.json
+CEGR_4161,topic,Stream Flow Elements,Stream flow elements,1,verified,Stream Flow Elements,CEGR_4161_concepts_raw.json
+CEGR_4161,topic,Traffic Measurement Techniques,Traffic Measurement Techniques,1,inferred,Traffic Measurement Techniques,CEGR_4161_concepts_raw.json
+CEGR_4161,topic,Capacity Analysis and Design,Capacity Analysis and Design,1,inferred,Capacity Analysis and Design,CEGR_4161_concepts_raw.json
+CEGR_4161,topic,Intersections and Junctions,Intersections and Junctions,1,inferred,Intersections and Junctions,CEGR_4161_concepts_raw.json
+CEGR_4161,topic,Accidents and Safety Analysis,Accidents and Safety Analysis,1,inferred,Accidents and Safety Analysis,CEGR_4161_concepts_raw.json
+CEGR_4161,topic,Parking and Access Management,Parking and Access Management,1,inferred,Parking and Access Management,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,traffic system performance,Traffic System Performance,1,inferred,traffic system performance,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,driver characteristics,Driver Characteristics,1,inferred,driver characteristics,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,vehicle types and sizes,Vehicle Types and Sizes,1,inferred,vehicle types and sizes,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,volume and density,Volume and Density,1,inferred,volume and density,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,speed distribution,Speed Distribution,1,inferred,speed distribution,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,flow rate calculation,Flow Rate Calculation,1,inferred,flow rate calculation,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,data collection methods,Data Collection Methods,1,inferred,data collection methods,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,investigation procedures,Investigation Procedures,1,inferred,investigation procedures,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,data analysis tools,Data Analysis Tools,1,inferred,data analysis tools,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,capacity calculation formulas,Capacity Calculation Formulas,1,inferred,capacity calculation formulas,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,design speed determination,Design Speed Determination,1,inferred,design speed determination,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,lane capacity estimation,Lane Capacity Estimation,1,inferred,lane capacity estimation,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,intersection types and designs,Intersection Types and Designs,1,inferred,intersection types and designs,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,signalized intersection control,Signalized Intersection Control,1,inferred,signalized intersection control,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,roundabout design principles,Roundabout Design Principles,1,inferred,roundabout design principles,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,accident classification systems,Accident Classification Systems,1,inferred,accident classification systems,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,causes of accidents and crashes,Causes of Accidents and Crashes,1,inferred,causes of accidents and crashes,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,safety performance indicators,Safety Performance Indicators,1,inferred,safety performance indicators,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,parking demand estimation,Parking Demand Estimation,1,inferred,parking demand estimation,CEGR_4161_concepts_raw.json
+CEGR_4161,concept,access control measures,Access Control Measures,1,inferred,access control measures,CEGR_4161_concepts_raw.json

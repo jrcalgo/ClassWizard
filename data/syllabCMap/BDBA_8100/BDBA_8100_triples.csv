@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BDBA_8100,quasi-experimental design,concept,PREREQUISITE_OF,research design,concept,B taught first,B is taught before A - check,BDBA_8100_triples_raw.json
+BDBA_8100,basic statistics,concept,PREREQUISITE_OF,meaningful data visualization,concept,A taught first,,BDBA_8100_triples_raw.json
+BDBA_8100,methodological skills,concept,PREREQUISITE_OF,research design,concept,B mentioned first,,BDBA_8100_triples_raw.json
+BDBA_8100,regression diagnostics,method,PREREQUISITE_OF,modeling,method,same unit,,BDBA_8100_triples_raw.json
+BDBA_8100,basic statistics,concept,PART_OF,Research,topic,,,BDBA_8100_triples_raw.json
+BDBA_8100,quasi-experimental design,concept,PART_OF,Experimental Design & Measurement,topic,,,BDBA_8100_triples_raw.json
+BDBA_8100,qualitative analytical techniques,method,PART_OF,qualitative techniques,concept,,,BDBA_8100_triples_raw.json
+BDBA_8100,meaningful data visualization,concept,PART_OF,basic statistics,concept,,,BDBA_8100_triples_raw.json
+BDBA_8100,descriptive statistical analyses,method,PART_OF,basic statistics,concept,,,BDBA_8100_triples_raw.json
+BDBA_8100,methodological skills,concept,PART_OF,Experimental Design & Measurement,topic,,,BDBA_8100_triples_raw.json
+BDBA_8100,regression diagnostics,method,PART_OF,modeling,method,,,BDBA_8100_triples_raw.json
+BDBA_8100,data visualization,method,PART_OF,descriptive statistical analyses,method,,,BDBA_8100_triples_raw.json
+BDBA_8100,Kenexa,tool,USED_FOR,research design,concept,,,BDBA_8100_triples_raw.json
+BDBA_8100,Quantitative Methods Online Course,tool,USED_FOR,methodological skills,concept,,,BDBA_8100_triples_raw.json

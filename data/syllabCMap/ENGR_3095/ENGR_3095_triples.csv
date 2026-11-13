@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGR_3095,Self-Awareness,concept,PREREQUISITE_OF,Emotional Intelligence,concept,same unit,,ENGR_3095_triples_raw.json
+ENGR_3095,Self-Awareness,concept,PREREQUISITE_OF,Personal Values,concept,same unit,,ENGR_3095_triples_raw.json
+ENGR_3095,Self-Awareness,concept,PREREQUISITE_OF,Leadership Foundations,concept,same unit,,ENGR_3095_triples_raw.json
+ENGR_3095,Self-Awareness,concept,PREREQUISITE_OF,Collaborative Problem Solving,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Self-Awareness,concept,PREREQUISITE_OF,Effective Communication Skills,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Self-Awareness,concept,PREREQUISITE_OF,Conflict Resolution Strategies,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Emotional Intelligence,concept,PREREQUISITE_OF,Emotional Intelligence Development,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Personal Values,concept,PREREQUISITE_OF,Servant Leadership,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Personal Values,concept,PREREQUISITE_OF,Transformational Leadership,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Personal Values,concept,PREREQUISITE_OF,Affiliative Leadership,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Personal Values,concept,PREREQUISITE_OF,Coercive Leadership,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Collaborative Problem Solving,concept,PREREQUISITE_OF,Effective Communication Skills,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Emotional Intelligence Development,concept,PREREQUISITE_OF,Cultural Competence,concept,A taught first,,ENGR_3095_triples_raw.json
+ENGR_3095,Self-Awareness,concept,PART_OF,Personal Values,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Self-Awareness,concept,PART_OF,Emotional Intelligence,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Self-Management Skills,concept,PART_OF,Resilience Strategies,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Goal Setting Techniques,concept,PART_OF,Time Management Practices,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Decision Making Models,concept,PART_OF,Risk Management Techniques,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Storytelling Techniques,concept,PART_OF,Authentic Leadership Practices,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Empathy in Leadership,concept,PART_OF,Cultural Competence,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Moral Principles Framework,concept,PART_OF,Professional Code of Conduct,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Coercive Leadership,concept,SUBTYPE_OF,Authoritative Leadership,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Affiliative Leadership,concept,SUBTYPE_OF,Democratic Leadership,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Transformational Leadership,concept,SUBTYPE_OF,Servant Leadership,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Storytelling Techniques,concept,USED_FOR,Personal Leadership Style,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Emotional Intelligence Development,concept,USED_FOR,Cultural Competence,concept,,,ENGR_3095_triples_raw.json
+ENGR_3095,Emotional Intelligence Development,concept,USED_FOR,Professional Code of Conduct,concept,,,ENGR_3095_triples_raw.json

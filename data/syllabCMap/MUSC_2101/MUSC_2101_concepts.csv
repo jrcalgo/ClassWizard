@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_2101,topic,music business,Music Business,4,verified,music business,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,marketing,marketing,3,verified,marketing,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,promotion,promotion,2,verified,promotion,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,communication,communication,3,verified,communication,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,conduct,conduct,1,verified,conduct,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,organization,organization,1,verified,organization,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,accounting,accounting,1,verified,accounting,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,administration,administration,2,verified,administration,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,intellectual property,intellectual property,1,verified,intellectual property,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,royalties,royalties,1,verified,royalties,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,recording agreements,recording agreements,1,verified,recording agreements,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,social media,social media,2,verified,social media,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,online presence,online presence,1,verified,online presence,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,project management,project management,1,verified,project management,MUSC_2101_concepts_raw.json
+MUSC_2101,topic,entrepreneurship,entrepreneurship,1,verified,entrepreneurship,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,artificial intelligence,artificial intelligence,2,verified,artificial intelligence,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,practical decision-making,practical decision-making,1,verified,practical decision-making,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,transferable skills,transferable skills,1,verified,transferable skills,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,strategies,strategies,1,verified,strategies,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,resources,resources,1,verified,resources,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,streaming platforms,streaming platforms,1,verified,streaming platforms,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,digital distribution,digital distribution,1,verified,digital distribution,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,changing revenue models,changing revenue models,1,verified,changing revenue models,MUSC_2101_concepts_raw.json
+MUSC_2101,measure,human interaction,human interaction,1,verified,human interaction and communication metrics,MUSC_2101_concepts_raw.json
+MUSC_2101,measure,collaboration,collaboration,1,verified,collaboration and decision making evaluation criteria,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,decision making,decision-making,1,verified,decision making,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,success,success,1,verified,success,MUSC_2101_concepts_raw.json
+MUSC_2101,concept,professional and personal priorities,professional and personal priorities,1,verified,professional and personal priorities,MUSC_2101_concepts_raw.json
+MUSC_2101,method,financial literacy,financial literacy,1,verified,financial literacy,MUSC_2101_concepts_raw.json
+MUSC_2101,method,licensing,licensing,3,verified,licensing and permissions management,MUSC_2101_concepts_raw.json
+MUSC_2101,measure,professional,professionals,1,verified,professional and personal priority balancing scales,MUSC_2101_concepts_raw.json

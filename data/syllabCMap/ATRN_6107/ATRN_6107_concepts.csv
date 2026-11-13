@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ATRN_6107,topic,Clinical Outcomes Assessment,clinical outcomes assessment,1,verified,Clinical Outcomes Assessment,ATRN_6107_concepts_raw.json
+ATRN_6107,topic,Diagnostic Accuracy Concepts,diagnostic accuracy concepts,1,verified,Diagnostic Accuracy Concepts,ATRN_6107_concepts_raw.json
+ATRN_6107,topic,Clinical Prediction Rules,clinical prediction rules,1,verified,Clinical Prediction Rules,ATRN_6107_concepts_raw.json
+ATRN_6107,concept,Health-Related Quality of Life,health-related quality of life,1,verified,Health-Related Quality of Life,ATRN_6107_concepts_raw.json
+ATRN_6107,concept,Clinician-Based Outcomes Measures,clinician-based outcomes measures,1,verified,Clinician-Based Outcomes Measures,ATRN_6107_concepts_raw.json
+ATRN_6107,measure,Reliability,reliability,1,verified,Reliability,ATRN_6107_concepts_raw.json
+ATRN_6107,measure,Sensitivity,sensitivity,1,verified,Sensitivity,ATRN_6107_concepts_raw.json
+ATRN_6107,measure,Specificity,specificity,1,verified,Specificity,ATRN_6107_concepts_raw.json
+ATRN_6107,measure,Likelihood Ratios,likelihood ratios,1,verified,Likelihood Ratios,ATRN_6107_concepts_raw.json
+ATRN_6107,measure,Prediction Values,prediction values,1,verified,Prediction Values,ATRN_6107_concepts_raw.json
+ATRN_6107,measure,Pre-test and post-test probabilities,pre-test and post-test probabilities,1,verified,Pre-test and post-test probabilities,ATRN_6107_concepts_raw.json
+ATRN_6107,measure,Receiver Operating Curves,receiver operating curves,1,verified,Receiver Operating Curves,ATRN_6107_concepts_raw.json

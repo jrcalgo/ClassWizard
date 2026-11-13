@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4367,Definition of Crime,concept,PREREQUISITE_OF,History of Criminology,concept,same unit,,CJUS_4367_triples_raw.json
+CJUS_4367,Definition of Crime,concept,PREREQUISITE_OF,Rational Choice Theory,concept,A taught first,,CJUS_4367_triples_raw.json
+CJUS_4367,Definition of Crime,concept,PREREQUISITE_OF,Social Learning Theory,concept,A taught first,,CJUS_4367_triples_raw.json
+CJUS_4367,Definition of Crime,concept,PREREQUISITE_OF,Strain Theory,concept,A taught first,,CJUS_4367_triples_raw.json
+CJUS_4367,Definition of Crime,concept,PREREQUISITE_OF,Causes of Juvenile Delinquency,concept,A taught first,,CJUS_4367_triples_raw.json
+CJUS_4367,Definition of Crime,concept,PART_OF,Criminology,topic,,,CJUS_4367_triples_raw.json
+CJUS_4367,History of Criminology,concept,PART_OF,Criminology,topic,,,CJUS_4367_triples_raw.json
+CJUS_4367,Rational Choice Theory,concept,PART_OF,Crime Theories and Models,topic,,,CJUS_4367_triples_raw.json
+CJUS_4367,Social Learning Theory,concept,PART_OF,Crime Theories and Models,topic,,,CJUS_4367_triples_raw.json
+CJUS_4367,Strain Theory,concept,PART_OF,Crime Theories and Models,topic,,,CJUS_4367_triples_raw.json
+CJUS_4367,Causes of Juvenile Delinquency,concept,PART_OF,Juvenile Delinquency and Justice,topic,,,CJUS_4367_triples_raw.json
+CJUS_4367,Youth Crime Prevention Programs,concept,PART_OF,Juvenile Delinquency and Justice,topic,,,CJUS_4367_triples_raw.json

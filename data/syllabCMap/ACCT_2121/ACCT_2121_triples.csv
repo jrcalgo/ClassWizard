@@ -1,0 +1,40 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Journal Entries,concept,same unit,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,T-Accounts,concept,same unit,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Financial Statement Analysis,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Asset Classification,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Liability Recognition,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Analyzing Financial Data,concept,same unit,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Basic Financial Statements,concept,same unit,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Asset Accounts,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Liability Accounts,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Equity Accounts,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Expense Recognition,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Matching Concept,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Accrual Accounting Method,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Accounting Principles,concept,PREREQUISITE_OF,Accounting Equations,concept,A taught first,,ACCT_2121_triples_raw.json
+ACCT_2121,Journal Entries,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,T-Accounts,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Asset Classification,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Liability Recognition,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Revenue Recognition,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Basic Financial Statements,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Asset Accounts,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Liability Accounts,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Equity Accounts,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Expense Recognition,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Equity Calculation,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Matching Concept,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Accrual Accounting Method,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Accounting Equations,concept,PART_OF,Financial Accounting Principles,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Asset Classification,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Liability Recognition,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Revenue Recognition,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Asset Accounts,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Liability Accounts,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Equity Accounts,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Expense Recognition,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Equity Calculation,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Matching Concept,concept,,,ACCT_2121_triples_raw.json
+ACCT_2121,Financial Statement Analysis,concept,USED_FOR,Accounting Equations,concept,,,ACCT_2121_triples_raw.json

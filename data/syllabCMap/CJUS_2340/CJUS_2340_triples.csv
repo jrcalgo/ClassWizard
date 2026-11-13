@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_2340,Criminology,topic,PREREQUISITE_OF,Criminological Theory,topic,same unit,,CJUS_2340_triples_raw.json
+CJUS_2340,research methods in criminology,method,PREREQUISITE_OF,evidence-based policy making,method,A taught first,,CJUS_2340_triples_raw.json
+CJUS_2340,Jeremy Bentham's Panopticon,work,PREREQUISITE_OF,deterrence theory,concept,same unit,,CJUS_2340_triples_raw.json
+CJUS_2340,Cesare Lombroso's Biological Theory,work,PREREQUISITE_OF,positivist perspective,concept,same unit,,CJUS_2340_triples_raw.json
+CJUS_2340,marxist criminological perspective,concept,PREREQUISITE_OF,conflict theories,concept,same unit,,CJUS_2340_triples_raw.json
+CJUS_2340,Howard Becker's Labeling Theory,work,PREREQUISITE_OF,Labeling Theory and Social Learning,topic,same unit,,CJUS_2340_triples_raw.json
+CJUS_2340,Criminological Theory,topic,PART_OF,Criminology,topic,,,CJUS_2340_triples_raw.json
+CJUS_2340,labeling theory,concept,PART_OF,Labeling Theory and Social Learning,topic,,,CJUS_2340_triples_raw.json
+CJUS_2340,Feminist Criminological Perspective,topic,PART_OF,Criminology,topic,,,CJUS_2340_triples_raw.json
+CJUS_2340,Policy and Program Recommendations,topic,PART_OF,Criminology,topic,,,CJUS_2340_triples_raw.json
+CJUS_2340,critical criminology,concept,PART_OF,Criminology,topic,,,CJUS_2340_triples_raw.json
+CJUS_2340,routine activity theory,concept,PART_OF,Criminology,topic,,,CJUS_2340_triples_raw.json
+CJUS_2340,rational choice theory,concept,PART_OF,Criminology,topic,,,CJUS_2340_triples_raw.json
+CJUS_2340,deterrence theory,concept,PART_OF,classical school of thought,concept,,,CJUS_2340_triples_raw.json
+CJUS_2340,free will vs determinism,concept,PART_OF,classical school of thought,concept,,,CJUS_2340_triples_raw.json
+CJUS_2340,biological theory,concept,PART_OF,positivist perspective,concept,,,CJUS_2340_triples_raw.json
+CJUS_2340,anomie theory,concept,PART_OF,conflict theories,concept,,,CJUS_2340_triples_raw.json
+CJUS_2340,social learning theory,concept,PART_OF,Labeling Theory and Social Learning,topic,,,CJUS_2340_triples_raw.json
+CJUS_2340,opportunity for crime existence,concept,PART_OF,routine activity theory,concept,,,CJUS_2340_triples_raw.json
+CJUS_2340,decision-making process in crime,concept,PART_OF,rational choice theory,concept,,,CJUS_2340_triples_raw.json
+CJUS_2340,risk vs reward analysis,concept,PART_OF,rational choice theory,concept,,,CJUS_2340_triples_raw.json
+CJUS_2340,feminist theories of crime causation,concept,PART_OF,Feminist Criminological Perspective,topic,,,CJUS_2340_triples_raw.json

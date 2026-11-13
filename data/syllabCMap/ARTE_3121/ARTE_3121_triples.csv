@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTE_3121,Child Development,concept,PREREQUISITE_OF,Theme-Based Curriculum Planning,concept,A taught first,,ARTE_3121_triples_raw.json
+ARTE_3121,Child Development,concept,PREREQUISITE_OF,Growth and Development Theories,concept,A taught first,,ARTE_3121_triples_raw.json
+ARTE_3121,Unit Planning and Lesson Plans,topic,PREREQUISITE_OF,Assessment and Evaluation Methods,topic,same unit,,ARTE_3121_triples_raw.json
+ARTE_3121,Unit Planning and Lesson Plans,topic,PREREQUISITE_OF,Motivation and Engagement Strategies,topic,same unit,,ARTE_3121_triples_raw.json
+ARTE_3121,Child Development,concept,PART_OF,Child Development and Art,topic,,,ARTE_3121_triples_raw.json
+ARTE_3121,Art Supplies,concept,PART_OF,Art Supplies and Equipment,topic,,,ARTE_3121_triples_raw.json
+ARTE_3121,Unit Planning,method,PART_OF,Unit Planning and Lesson Plans,topic,,,ARTE_3121_triples_raw.json
+ARTE_3121,Supplies,concept,PART_OF,Art Supplies and Equipment,topic,,,ARTE_3121_triples_raw.json
+ARTE_3121,Studio Organization Strategies,method,USED_FOR,Managing Classroom Behavior and Safety,topic,,,ARTE_3121_triples_raw.json
+ARTE_3121,Evaluating Student Learning,concept,USED_FOR,Evaluating Student Learning Outcomes,method,,,ARTE_3121_triples_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTC_3172,researching,method,PREREQUISITE_OF,Domain-Specific Research,topic,unknown,,ARTC_3172_triples_raw.json
+ARTC_3172,researching,method,PREREQUISITE_OF,utility,concept,unknown,,ARTC_3172_triples_raw.json
+ARTC_3172,researching,method,PREREQUISITE_OF,high temperature firing techniques,concept,unknown,,ARTC_3172_triples_raw.json
+ARTC_3172,designing,method,PREREQUISITE_OF,utility,concept,unknown,,ARTC_3172_triples_raw.json
+ARTC_3172,designing,method,PREREQUISITE_OF,conceptual relationships,method,unknown,,ARTC_3172_triples_raw.json
+ARTC_3172,high temperature firing techniques,concept,PART_OF,Ceramics Wheel II,topic,,,ARTC_3172_triples_raw.json
+ARTC_3172,researching,method,USED_FOR,Domain-Specific Research,topic,,,ARTC_3172_triples_raw.json
+ARTC_3172,researching,method,USED_FOR,interdependent formal and conceptual relationships,concept,,,ARTC_3172_triples_raw.json
+ARTC_3172,researching,method,USED_FOR,utility,concept,,,ARTC_3172_triples_raw.json

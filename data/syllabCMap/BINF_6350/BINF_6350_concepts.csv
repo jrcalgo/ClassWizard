@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_6350,topic,Genomics,genomics,2,verified,Genomics,BINF_6350_concepts_raw.json
+BINF_6350,concept,Illumina Shotgun Sequencing,Illumina shotgun sequencing,1,verified,Illumina Shotgun Sequencing,BINF_6350_concepts_raw.json
+BINF_6350,method,Experimental Design,Experimental design,1,verified,Experimental Design,BINF_6350_concepts_raw.json
+BINF_6350,method,Statistical Analysis of data,statistical analysis of data,1,verified,Statistical Analysis of data,BINF_6350_concepts_raw.json
+BINF_6350,method,Bioinformatics and statistical analysis,bioinformatics and statistical analysis,1,verified,Bioinformatics and statistical analysis,BINF_6350_concepts_raw.json
+BINF_6350,method,verbal presentation,verbal presentation,1,verified,Presenting research results in written and verbal presentation,BINF_6350_concepts_raw.json

@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EXER_2168,topic,Tissue Types,tissue types,1,verified,Tissue Types,EXER_2168_concepts_raw.json
+EXER_2168,tool,digital cadaver technology,digital cadaver technology,1,verified,digital cadaver technology,EXER_2168_concepts_raw.json
+EXER_2168,topic,Cell Structure,Cell Structure,1,inferred,Cell Structure,EXER_2168_concepts_raw.json
+EXER_2168,topic,Nervous System,Nervous System,1,inferred,Nervous System,EXER_2168_concepts_raw.json
+EXER_2168,topic,Integumentary System,Integumentary System,1,inferred,Integumentary System,EXER_2168_concepts_raw.json
+EXER_2168,topic,Musculoskeletal System,Musculoskeletal System,1,inferred,Musculoskeletal System,EXER_2168_concepts_raw.json
+EXER_2168,concept,cell organization,Cell Organization,1,inferred,cell organization,EXER_2168_concepts_raw.json
+EXER_2168,concept,organelle functions,Organelle Functions,1,inferred,organelle functions,EXER_2168_concepts_raw.json
+EXER_2168,concept,cell membrane structure,Cell Membrane Structure,1,inferred,cell membrane structure,EXER_2168_concepts_raw.json
+EXER_2168,concept,epithelial tissue function,Epithelial Tissue Function,1,inferred,epithelial tissue function,EXER_2168_concepts_raw.json
+EXER_2168,concept,connective tissue structure,Connective Tissue Structure,1,inferred,connective tissue structure,EXER_2168_concepts_raw.json
+EXER_2168,concept,muscle tissue characteristics,Muscle Tissue Characteristics,1,inferred,muscle tissue characteristics,EXER_2168_concepts_raw.json
+EXER_2168,concept,neuron structure and function,Neuron Structure and Function,1,inferred,neuron structure and function,EXER_2168_concepts_raw.json
+EXER_2168,concept,synapse formation process,Synapse Formation Process,1,inferred,synapse formation process,EXER_2168_concepts_raw.json
+EXER_2168,concept,brain and spinal cord location,Brain and Spinal Cord Location,1,inferred,brain and spinal cord location,EXER_2168_concepts_raw.json
+EXER_2168,concept,skin layers and functions,Skin Layers and Functions,1,inferred,skin layers and functions,EXER_2168_concepts_raw.json
+EXER_2168,concept,hair and nails growth,Hair and Nails Growth,1,inferred,hair and nails growth,EXER_2168_concepts_raw.json
+EXER_2168,concept,sweat gland regulation,Sweat Gland Regulation,1,inferred,sweat gland regulation,EXER_2168_concepts_raw.json
+EXER_2168,concept,bone structure and function,Bone Structure and Function,1,inferred,bone structure and function,EXER_2168_concepts_raw.json
+EXER_2168,concept,joint movement types,Joint Movement Types,1,inferred,joint movement types,EXER_2168_concepts_raw.json
+EXER_2168,concept,muscle fiber contraction,Muscle Fiber Contraction,1,inferred,muscle fiber contraction,EXER_2168_concepts_raw.json
+EXER_2168,concept,human anatomy visualization,Human Anatomy Visualization,1,inferred,human anatomy visualization,EXER_2168_concepts_raw.json
+EXER_2168,concept,anatomical structure identification,Anatomical Structure Identification,1,inferred,anatomical structure identification,EXER_2168_concepts_raw.json
+EXER_2168,concept,3D modeling applications,3D Modeling Applications,1,inferred,3D modeling applications,EXER_2168_concepts_raw.json

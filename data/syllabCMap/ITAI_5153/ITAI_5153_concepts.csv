@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITAI_5153,topic,Artificial Intelligence and Ethics,Artificial Intelligence and Ethics,1,verified,Artificial Intelligence and Ethics,ITAI_5153_concepts_raw.json
+ITAI_5153,topic,Artificial Intelligence,Artificial Intelligence,3,verified,Introduction to Artificial Intelligence,ITAI_5153_concepts_raw.json
+ITAI_5153,concept,AI Literacy,AI Literacy,1,verified,AI Literacy,ITAI_5153_concepts_raw.json
+ITAI_5153,concept,reinforcement learning,reinforcement learning,2,verified,reinforcement learning,ITAI_5153_concepts_raw.json
+ITAI_5153,concept,neural networks,neural networks,1,verified,neural networks,ITAI_5153_concepts_raw.json
+ITAI_5153,concept,deep learning,deep learning,1,verified,deep learning,ITAI_5153_concepts_raw.json
+ITAI_5153,concept,embeddings,embeddings,1,verified,embeddings,ITAI_5153_concepts_raw.json
+ITAI_5153,concept,generative AI,generative AI,2,verified,generative AI,ITAI_5153_concepts_raw.json
+ITAI_5153,method,service design development,service design development,1,verified,service design development,ITAI_5153_concepts_raw.json
+ITAI_5153,method,machine learning concepts,machine learning concepts,1,verified,machine learning concepts,ITAI_5153_concepts_raw.json
+ITAI_5153,method,practical problem-solving skills,practical problem-solving skills,1,verified,practical problem-solving skills,ITAI_5153_concepts_raw.json
+ITAI_5153,tool,open-source tools,open-source tools,1,verified,open-source tools and APIs (no specific names mentioned),ITAI_5153_concepts_raw.json

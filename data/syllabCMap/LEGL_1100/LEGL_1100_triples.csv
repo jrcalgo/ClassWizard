@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_1100,Law,topic,PREREQUISITE_OF,organization of legal system,concept,same unit,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,role of courts and judges,concept,same unit,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,types of case law decisions,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,statutory law creation process,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,interpretation of statutes,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,constitutional structure and framework,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,bill of rights and amendments,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,judicial review and checks,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,contract law basics and types,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,tort law overview and examples,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,business associations and entities,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,civil procedure and court rules,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,criminal procedure and rights,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,Law,topic,PREREQUISITE_OF,evidence and burden of proof,concept,A taught first,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,organization of legal system,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,role of courts and judges,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,types of case law decisions,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,interpretation of statutes,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,bill of rights and amendments,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,judicial review and checks,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,contract law basics and types,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,business associations and entities,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,civil procedure and court rules,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,criminal procedure and rights,concept,,,LEGL_1100_triples_raw.json
+LEGL_1100,sources of law,concept,PART_OF,evidence and burden of proof,concept,,,LEGL_1100_triples_raw.json

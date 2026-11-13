@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHNS_1201,topic,Chinese language,Chinese language,1,verified,Chinese language,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,simple messages,simple messages,1,verified,"Producing short, simple messages",CHNS_1201_concepts_raw.json
+CHNS_1201,topic,Pronunciation Fundamentals,Pronunciation Fundamentals,1,inferred,Pronunciation Fundamentals,CHNS_1201_concepts_raw.json
+CHNS_1201,topic,Greetings and Introductions,Greetings and Introductions,1,inferred,Greetings and Introductions,CHNS_1201_concepts_raw.json
+CHNS_1201,topic,Time and Scheduling,Time and Scheduling,1,inferred,Time and Scheduling,CHNS_1201_concepts_raw.json
+CHNS_1201,topic,Hobbies and Interests,Hobbies and Interests,2,inferred,Hobbies and Interests,CHNS_1201_concepts_raw.json
+CHNS_1201,topic,Visiting Friends and Family,Visiting Friends and Family,1,inferred,Visiting Friends and Family,CHNS_1201_concepts_raw.json
+CHNS_1201,topic,High-Frequency Characters,High-Frequency Characters,2,inferred,High-Frequency Characters,CHNS_1201_concepts_raw.json
+CHNS_1201,topic,Basic Writing Skills,Basic Writing Skills,1,inferred,Basic Writing Skills,CHNS_1201_concepts_raw.json
+CHNS_1201,topic,Chinese Culture and Practices,Chinese Culture and Practices,1,inferred,Chinese Culture and Practices,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Mandarin sounds and tones,Mandarin sounds and tones,1,inferred,Mandarin sounds and tones,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Pinyin transcription,Pinyin transcription,1,inferred,Pinyin transcription,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Familiar syllables and words,Familiar syllables and words,1,inferred,Familiar syllables and words,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Basic greetings in Chinese,Basic greetings in Chinese,1,inferred,Basic greetings in Chinese,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Introducing oneself and others,Introducing oneself and others,1,inferred,Introducing oneself and others,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Family relationships and vocabulary,Family relationships and vocabulary,1,inferred,Family relationships and vocabulary,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Telling time in Chinese,Telling time in Chinese,1,inferred,Telling time in Chinese,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Scheduling appointments and meetings,Scheduling appointments and meetings,1,inferred,Scheduling appointments and meetings,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Date and age vocabulary,Date and age vocabulary,1,inferred,Date and age vocabulary,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Vocabulary for hobbies and interests,Vocabulary for hobbies and interests,1,inferred,Vocabulary for hobbies and interests,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Describing personal preferences,Describing personal preferences,1,inferred,Describing personal preferences,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Communicating about leisure activities,Communicating about leisure activities,1,inferred,Communicating about leisure activities,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Inviting friends to visit,Inviting friends to visit,1,inferred,Inviting friends to visit,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Making plans with family and friends,Making plans with family and friends,1,inferred,Making plans with family and friends,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Expressing gratitude and appreciation,Expressing gratitude and appreciation,1,inferred,Expressing gratitude and appreciation,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Recognizing 250 high-frequency characters,Recognizing 250 high-frequency characters,1,inferred,Recognizing 250 high-frequency characters,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Understanding character structure and components,Understanding character structure and components,1,inferred,Understanding character structure and components,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Reading simple texts in Chinese characters,Reading simple texts in Chinese characters,1,inferred,Reading simple texts in Chinese characters,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Producing short,Producing short,1,inferred,"Producing short, simple messages",CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Using acquired vocabulary in writing,Using acquired vocabulary in writing,1,inferred,Using acquired vocabulary in writing,CHNS_1201_concepts_raw.json
+CHNS_1201,concept,Memorized and formulaic expressions in writing,Memorized and formulaic expressions in writing,1,inferred,Memorized and formulaic expressions in writing,CHNS_1201_concepts_raw.json

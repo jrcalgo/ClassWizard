@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_8611,Scholarly Productivity and Rationale,topic,PREREQUISITE_OF,Critical Thinking and Analysis,topic,A taught first,,ADMN_8611_triples_raw.json
+ADMN_8611,Scholarly Productivity and Rationale,topic,PREREQUISITE_OF,Developing a Research Proposal,topic,A taught first,,ADMN_8611_triples_raw.json
+ADMN_8611,Designing Research Methods,topic,PREREQUISITE_OF,Critical Thinking and Analysis,topic,A taught first,,ADMN_8611_triples_raw.json
+ADMN_8611,Designing Research Methods,topic,PREREQUISITE_OF,Developing a Research Proposal,topic,A taught first,,ADMN_8611_triples_raw.json
+ADMN_8611,Qualitative Research Paradigm,concept,PART_OF,Qualitative Research,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Higher Education Context,concept,PART_OF,Qualitative Research,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Research Design Principles,concept,PART_OF,Qualitative Research,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Academic Writing Style,concept,PART_OF,Scholarly Productivity and Rationale,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Research Question Development,concept,PART_OF,Scholarly Productivity and Rationale,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Literature Review Fundamentals,concept,PART_OF,Scholarly Productivity and Rationale,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Data Collection Techniques,concept,PART_OF,Designing Research Methods,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Sampling Strategies,concept,PART_OF,Designing Research Methods,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Critical Thinking Models,concept,PART_OF,Critical Thinking and Analysis,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Debate and Discussion Skills,concept,PART_OF,Critical Thinking and Analysis,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Proposal Structure Guidelines,concept,PART_OF,Developing a Research Proposal,topic,,,ADMN_8611_triples_raw.json
+ADMN_8611,Literature Review Organization,concept,PART_OF,Developing a Research Proposal,topic,,,ADMN_8611_triples_raw.json

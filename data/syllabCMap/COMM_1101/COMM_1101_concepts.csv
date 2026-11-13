@@ -1,0 +1,84 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+COMM_1101,topic,Public Speaking Matters,Public Speaking Matters,1,verified,Public Speaking Matters,COMM_1101_concepts_raw.json
+COMM_1101,topic,Public Speaking Principles,Public Speaking Principles,5,verified,Public Speaking Principles,COMM_1101_concepts_raw.json
+COMM_1101,topic,Ethics,Ethics,2,verified,Ethics,COMM_1101_concepts_raw.json
+COMM_1101,method,Audience Analysis,Audience Analysis,29,verified,Audience Analysis,COMM_1101_concepts_raw.json
+COMM_1101,topic,Speaking Confidently,Speaking Confidently,1,verified,Speaking Confidently,COMM_1101_concepts_raw.json
+COMM_1101,topic,Listening,Listening,3,verified,Listening,COMM_1101_concepts_raw.json
+COMM_1101,concept,Rhetorical Devices,Rhetorical Devices,8,verified,Rhetorical Devices,COMM_1101_concepts_raw.json
+COMM_1101,topic,Finding Purpose/ Selecting a Topic,Finding Purpose/ Selecting a Topic,1,verified,Finding Purpose/ Selecting a Topic,COMM_1101_concepts_raw.json
+COMM_1101,method,Research,research,5,verified,Research,COMM_1101_concepts_raw.json
+COMM_1101,topic,Supporting Ideas,Supporting Ideas,1,verified,Supporting Ideas,COMM_1101_concepts_raw.json
+COMM_1101,topic,First Speeches,First Speeches,2,verified,First Speeches,COMM_1101_concepts_raw.json
+COMM_1101,topic,Body of the Speech,Body of the Speech,1,verified,Body of the Speech,COMM_1101_concepts_raw.json
+COMM_1101,topic,Introductions & Conclusions,Introductions & Conclusions,1,verified,Introductions & Conclusions,COMM_1101_concepts_raw.json
+COMM_1101,topic,Informative Speaking,Informative Speaking,2,verified,Informative Speaking,COMM_1101_concepts_raw.json
+COMM_1101,topic,Outlining,Outlining,1,verified,Outlining,COMM_1101_concepts_raw.json
+COMM_1101,topic,Language,Language,4,verified,Language,COMM_1101_concepts_raw.json
+COMM_1101,topic,Delivery,delivery,20,verified,Delivery,COMM_1101_concepts_raw.json
+COMM_1101,topic,Persuasive Speaking,Persuasive Speaking,2,verified,Persuasive Speaking,COMM_1101_concepts_raw.json
+COMM_1101,topic,Entertaining Speaking,Entertaining Speaking,1,verified,Entertaining Speaking,COMM_1101_concepts_raw.json
+COMM_1101,concept,Public Speaking Importance,Public Speaking Importance,1,verified,Public Speaking Importance,COMM_1101_concepts_raw.json
+COMM_1101,concept,Audience Analysis Techniques,Audience Analysis Techniques,12,verified,Audience Analysis Techniques,COMM_1101_concepts_raw.json
+COMM_1101,concept,Message Design Principles,Message Design Principles,1,verified,Message Design Principles,COMM_1101_concepts_raw.json
+COMM_1101,concept,Speaker Credibility Factors,Speaker Credibility Factors,2,verified,Speaker Credibility Factors,COMM_1101_concepts_raw.json
+COMM_1101,concept,Ethical Principles,Ethical Principles,1,verified,Ethical Principles,COMM_1101_concepts_raw.json
+COMM_1101,concept,Public Speaking Ethics,Public Speaking Ethics,1,verified,Public Speaking Ethics,COMM_1101_concepts_raw.json
+COMM_1101,concept,Speaker Responsibility,Speaker Responsibility,1,verified,Speaker Responsibility,COMM_1101_concepts_raw.json
+COMM_1101,concept,Audience Respect,Audience Respect,1,verified,Audience Respect,COMM_1101_concepts_raw.json
+COMM_1101,concept,Truthfulness in Speech,Truthfulness in Speech,1,verified,Truthfulness in Speech,COMM_1101_concepts_raw.json
+COMM_1101,method,Confidence Building Techniques,Confidence Building Techniques,1,verified,Confidence Building Techniques,COMM_1101_concepts_raw.json
+COMM_1101,concept,Body Language Awareness,Body Language Awareness,1,verified,Body Language Awareness,COMM_1101_concepts_raw.json
+COMM_1101,concept,Vocal Variety Control,Vocal Variety Control,1,verified,Vocal Variety Control,COMM_1101_concepts_raw.json
+COMM_1101,method,Emotional Expression Management,Emotional Expression Management,1,verified,Emotional Expression Management,COMM_1101_concepts_raw.json
+COMM_1101,concept,Effective Listening,Effective Listening,1,verified,Effective Listening,COMM_1101_concepts_raw.json
+COMM_1101,concept,Active Listening Skills,Active Listening Skills,1,verified,Active Listening Skills,COMM_1101_concepts_raw.json
+COMM_1101,concept,Verbal and Nonverbal Cues,Verbal and Nonverbal Cues,1,verified,Verbal and Nonverbal Cues,COMM_1101_concepts_raw.json
+COMM_1101,concept,Message Reception Process,Message Reception Process,1,verified,Message Reception Process,COMM_1101_concepts_raw.json
+COMM_1101,concept,Topic Selection Criteria,Topic Selection Criteria,1,verified,Topic Selection Criteria,COMM_1101_concepts_raw.json
+COMM_1101,concept,Purpose Statement Development,Purpose Statement Development,1,verified,Purpose Statement Development,COMM_1101_concepts_raw.json
+COMM_1101,concept,Message Purpose Identification,Message Purpose Identification,1,verified,Message Purpose Identification,COMM_1101_concepts_raw.json
+COMM_1101,concept,Rhetorical Situation Awareness,Rhetorical Situation Awareness,1,verified,Rhetorical Situation Awareness,COMM_1101_concepts_raw.json
+COMM_1101,concept,Research Methods,Research Methods,2,verified,Research Methods,COMM_1101_concepts_raw.json
+COMM_1101,concept,Argumentation Techniques,Argumentation Techniques,2,verified,Argumentation Techniques,COMM_1101_concepts_raw.json
+COMM_1101,method,Evidence-Based Claims,Evidence-Based Claims,1,verified,Evidence-Based Claims,COMM_1101_concepts_raw.json
+COMM_1101,method,Counterargument Strategy,Counterargument Strategy,1,verified,Counterargument Strategy,COMM_1101_concepts_raw.json
+COMM_1101,concept,Evidence Types,Evidence Types,2,verified,Evidence Types,COMM_1101_concepts_raw.json
+COMM_1101,concept,Reasoning Techniques,Reasoning Techniques,1,verified,Reasoning Techniques,COMM_1101_concepts_raw.json
+COMM_1101,concept,First Speech Structure,First Speech Structure,2,verified,First Speech Structure,COMM_1101_concepts_raw.json
+COMM_1101,concept,Speech Purpose Clarity,Speech Purpose Clarity,2,verified,Speech Purpose Clarity,COMM_1101_concepts_raw.json
+COMM_1101,concept,Delivery Confidence Building,Delivery Confidence Building,2,verified,Delivery Confidence Building,COMM_1101_concepts_raw.json
+COMM_1101,concept,Time Management Strategies,Time Management Strategies,2,verified,Time Management Strategies,COMM_1101_concepts_raw.json
+COMM_1101,concept,Speech Structure,Speech Structure,5,verified,Speech Structure,COMM_1101_concepts_raw.json
+COMM_1101,concept,Main Points Development,Main Points Development,1,verified,Main Points Development,COMM_1101_concepts_raw.json
+COMM_1101,concept,Supporting Details,Supporting Details,2,verified,Supporting Details,COMM_1101_concepts_raw.json
+COMM_1101,concept,Credibility Sources,Credibility Sources,1,verified,Credibility Sources,COMM_1101_concepts_raw.json
+COMM_1101,concept,Effective Opening Sentences,Effective Opening Sentences,1,verified,Effective Opening Sentences,COMM_1101_concepts_raw.json
+COMM_1101,concept,Speaker's Credibility Techniques,Speaker's Credibility Techniques,1,verified,Speaker's Credibility Techniques,COMM_1101_concepts_raw.json
+COMM_1101,concept,Audience Analysis Strategies,Audience Analysis Strategies,2,verified,Audience Analysis Strategies,COMM_1101_concepts_raw.json
+COMM_1101,concept,Conclusion Structure Models,Conclusion Structure Models,1,verified,Conclusion Structure Models,COMM_1101_concepts_raw.json
+COMM_1101,concept,Transitions and Connectives,Transitions and Connectives,1,verified,Transitions and Connectives,COMM_1101_concepts_raw.json
+COMM_1101,method,Rhetorical Devices Used,Rhetorical Devices Used,2,verified,Rhetorical Devices Used,COMM_1101_concepts_raw.json
+COMM_1101,concept,Speaker's Tone Management,Speaker's Tone Management,1,verified,Speaker's Tone Management,COMM_1101_concepts_raw.json
+COMM_1101,method,Engagement Techniques Applied,Engagement Techniques Applied,1,verified,Engagement Techniques Applied,COMM_1101_concepts_raw.json
+COMM_1101,method,Cohesion in Speech Writing,Cohesion in Speech Writing,1,verified,Cohesion in Speech Writing,COMM_1101_concepts_raw.json
+COMM_1101,concept,Informative Speaking Purpose,Informative Speaking Purpose,1,verified,Informative Speaking Purpose,COMM_1101_concepts_raw.json
+COMM_1101,concept,Message Organization Strategies,Message Organization Strategies,8,verified,Message Organization Strategies,COMM_1101_concepts_raw.json
+COMM_1101,concept,Visual Aids Effectiveness,Visual Aids Effectiveness,1,verified,Visual Aids Effectiveness,COMM_1101_concepts_raw.json
+COMM_1101,concept,Public Speaking Techniques,Public Speaking Techniques,1,verified,Public Speaking Techniques,COMM_1101_concepts_raw.json
+COMM_1101,concept,Audience Analysis Skills,Audience Analysis Skills,1,verified,Audience Analysis Skills,COMM_1101_concepts_raw.json
+COMM_1101,concept,Delivery Methods Comparison,Delivery Methods Comparison,6,verified,Delivery Methods Comparison,COMM_1101_concepts_raw.json
+COMM_1101,concept,Nonverbal Communication Elements,Nonverbal Communication Elements,3,verified,Nonverbal Communication Elements,COMM_1101_concepts_raw.json
+COMM_1101,concept,Topic Sentences,Topic Sentences,1,verified,Topic Sentences,COMM_1101_concepts_raw.json
+COMM_1101,concept,Main Ideas,Main Ideas,1,verified,Main Ideas,COMM_1101_concepts_raw.json
+COMM_1101,concept,Outline Structure,Outline Structure,1,verified,Outline Structure,COMM_1101_concepts_raw.json
+COMM_1101,concept,Indentation Rules,Indentation Rules,1,verified,Indentation Rules,COMM_1101_concepts_raw.json
+COMM_1101,concept,Language Functions,Language Functions,1,verified,Language Functions,COMM_1101_concepts_raw.json
+COMM_1101,concept,Message Design,Message Design,2,verified,Message Design,COMM_1101_concepts_raw.json
+COMM_1101,concept,Delivery Techniques,Delivery Techniques,10,verified,Delivery Techniques,COMM_1101_concepts_raw.json
+COMM_1101,concept,Nonverbal Communication,Nonverbal Communication,8,verified,Nonverbal Communication,COMM_1101_concepts_raw.json
+COMM_1101,method,Argumentation,Argumentation,2,verified,Argumentation,COMM_1101_concepts_raw.json
+COMM_1101,method,Persuasive Speaking Techniques,Persuasive Speaking Techniques,1,verified,Persuasive Speaking Techniques,COMM_1101_concepts_raw.json
+COMM_1101,method,Humor in Public Speaking,Humor in Public Speaking,1,verified,Humor in Public Speaking,COMM_1101_concepts_raw.json
+COMM_1101,method,Storytelling Strategies Used,Storytelling Strategies Used,1,verified,Storytelling Strategies Used,COMM_1101_concepts_raw.json
+COMM_1101,method,Audience Adaptation Strategies,Audience Adaptation Strategies,1,verified,Audience Adaptation Strategies,COMM_1101_concepts_raw.json

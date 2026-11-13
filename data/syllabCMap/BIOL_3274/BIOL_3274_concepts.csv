@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_3274,topic,Scientific Writing,Scientific Writing,4,verified,Scientific Writing,BIOL_3274_concepts_raw.json
+BIOL_3274,topic,IMRD Manuscript Format,IMRD manuscript format,1,verified,IMRD Manuscript Format,BIOL_3274_concepts_raw.json
+BIOL_3274,method,Literature research,literature research,2,verified,Literature research,BIOL_3274_concepts_raw.json
+BIOL_3274,method,Experimental design,experimental design,1,verified,Experimental design,BIOL_3274_concepts_raw.json
+BIOL_3274,method,Interpretation of published data,interpretation of published data,1,verified,Interpretation of published data,BIOL_3274_concepts_raw.json
+BIOL_3274,method,Peer review,peer review,2,verified,Peer review,BIOL_3274_concepts_raw.json
+BIOL_3274,method,Editorial revision,editorial revision,1,verified,Editorial revision,BIOL_3274_concepts_raw.json

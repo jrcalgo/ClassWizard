@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8699,research question development,concept,PART_OF,dissertation proposal process,concept,,,EDCI_8699_triples_raw.json
+EDCI_8699,original research study,concept,PART_OF,dissertation proposal process,concept,,,EDCI_8699_triples_raw.json
+EDCI_8699,mixed methods approaches,concept,SUBTYPE_OF,Qualitative and Quantitative Methods,topic,,,EDCI_8699_triples_raw.json
+EDCI_8699,mixed methods data integration,concept,SUBTYPE_OF,qualitative data coding techniques,concept,,,EDCI_8699_triples_raw.json
+EDCI_8699,dissertation proposal process,concept,SUBTYPE_OF,original research study,concept,,,EDCI_8699_triples_raw.json
+EDCI_8699,quantitative methods,concept,USED_FOR,research design principles,concept,,,EDCI_8699_triples_raw.json

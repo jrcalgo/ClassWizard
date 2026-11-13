@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITAI_1600,machine learning,concept,PREREQUISITE_OF,natural language processing,concept,same unit,,ITAI_1600_triples_raw.json
+ITAI_1600,machine learning,concept,PREREQUISITE_OF,computer vision,concept,same unit,,ITAI_1600_triples_raw.json
+ITAI_1600,machine learning,concept,PREREQUISITE_OF,expert systems,concept,A taught first,,ITAI_1600_triples_raw.json
+ITAI_1600,machine learning,concept,PREREQUISITE_OF,cognitive systems,concept,A taught first,,ITAI_1600_triples_raw.json
+ITAI_1600,machine learning,concept,PREREQUISITE_OF,robotics,concept,A taught first,,ITAI_1600_triples_raw.json
+ITAI_1600,natural language processing,concept,PREREQUISITE_OF,intelligent tutoring systems,concept,A taught first,,ITAI_1600_triples_raw.json
+ITAI_1600,natural language processing,concept,PREREQUISITE_OF,adaptive learning platforms,concept,A taught first,,ITAI_1600_triples_raw.json
+ITAI_1600,natural language processing,concept,PREREQUISITE_OF,personalized recommendation systems,concept,A taught first,,ITAI_1600_triples_raw.json
+ITAI_1600,machine learning,concept,USED_FOR,expert systems,concept,,,ITAI_1600_triples_raw.json
+ITAI_1600,machine learning,concept,USED_FOR,cognitive systems,concept,,,ITAI_1600_triples_raw.json
+ITAI_1600,machine learning,concept,USED_FOR,robotics,concept,,,ITAI_1600_triples_raw.json
+ITAI_1600,natural language processing,concept,USED_FOR,intelligent tutoring systems,concept,,,ITAI_1600_triples_raw.json
+ITAI_1600,natural language processing,concept,USED_FOR,adaptive learning platforms,concept,,,ITAI_1600_triples_raw.json
+ITAI_1600,natural language processing,concept,USED_FOR,personalized recommendation systems,concept,,,ITAI_1600_triples_raw.json

@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MFPA_6123,Evacuation time estimation methods,concept,PREREQUISITE_OF,Occupant movement patterns,concept,same unit,,MFPA_6123_triples_raw.json
+MFPA_6123,Evacuation time estimation methods,concept,PREREQUISITE_OF,Exit capacity and design,concept,A taught first,,MFPA_6123_triples_raw.json
+MFPA_6123,Emergency lighting design,concept,PART_OF,Fire Safety Systems,topic,,,MFPA_6123_triples_raw.json
+MFPA_6123,Smoke management systems,concept,PART_OF,Fire Safety Systems,topic,,,MFPA_6123_triples_raw.json
+MFPA_6123,Types of human behavior,concept,PART_OF,Human Behavior in Emergencies,topic,,,MFPA_6123_triples_raw.json
+MFPA_6123,Egress Prediction Methods,topic,PART_OF,Evacuation Time Estimation,topic,,,MFPA_6123_triples_raw.json
+MFPA_6123,Occupant movement patterns,concept,PART_OF,Evacuation Time Estimation,topic,,,MFPA_6123_triples_raw.json
+MFPA_6123,Building layout and evacuation,concept,PART_OF,Evacuation Time Estimation,topic,,,MFPA_6123_triples_raw.json

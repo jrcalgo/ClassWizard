@@ -1,0 +1,40 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DTSC_8110,Probability Theory,topic,PREREQUISITE_OF,Random Variables,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Theory,topic,PREREQUISITE_OF,Probability Distributions,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Theory,topic,PREREQUISITE_OF,Point Estimation,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Theory,topic,PREREQUISITE_OF,Interval Estimation,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Theory,topic,PREREQUISITE_OF,Hypothesis Testing,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Theory,topic,PREREQUISITE_OF,Variance Analysis,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Theory,topic,PREREQUISITE_OF,Regression Models,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Theory,topic,PREREQUISITE_OF,Statistics in Machine Learning,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Variables,topic,PREREQUISITE_OF,Probability Distributions,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Variables,topic,PREREQUISITE_OF,Point Estimation,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Variables,topic,PREREQUISITE_OF,Interval Estimation,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Variables,topic,PREREQUISITE_OF,Hypothesis Testing,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Variables,topic,PREREQUISITE_OF,Variance Analysis,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Variables,topic,PREREQUISITE_OF,Regression Models,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Variables,topic,PREREQUISITE_OF,Statistics in Machine Learning,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Distributions,topic,PREREQUISITE_OF,Random Samples and Statistical Models,topic,A mentioned first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Distributions,topic,PREREQUISITE_OF,Point Estimation,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Distributions,topic,PREREQUISITE_OF,Interval Estimation,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Distributions,topic,PREREQUISITE_OF,Hypothesis Testing,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Distributions,topic,PREREQUISITE_OF,Variance Analysis,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Probability Distributions,topic,PREREQUISITE_OF,Regression Models,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Samples and Statistical Models,topic,PREREQUISITE_OF,Point Estimation,topic,B mentioned first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Samples and Statistical Models,topic,PREREQUISITE_OF,Interval Estimation,topic,B mentioned first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Samples and Statistical Models,topic,PREREQUISITE_OF,Variance Analysis,topic,B mentioned first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Samples and Statistical Models,topic,PREREQUISITE_OF,Regression Models,topic,B mentioned first,,DTSC_8110_triples_raw.json
+DTSC_8110,Random Samples and Statistical Models,topic,PREREQUISITE_OF,Statistics in Machine Learning,topic,B mentioned first,,DTSC_8110_triples_raw.json
+DTSC_8110,Point Estimation,topic,PREREQUISITE_OF,Interval Estimation,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Point Estimation,topic,PREREQUISITE_OF,Hypothesis Testing,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Point Estimation,topic,PREREQUISITE_OF,Variance Analysis,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Point Estimation,topic,PREREQUISITE_OF,Regression Models,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Point Estimation,topic,PREREQUISITE_OF,Statistics in Machine Learning,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Interval Estimation,topic,PREREQUISITE_OF,Hypothesis Testing,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Interval Estimation,topic,PREREQUISITE_OF,Variance Analysis,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Interval Estimation,topic,PREREQUISITE_OF,Regression Models,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Hypothesis Testing,topic,PREREQUISITE_OF,Variance Analysis,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Hypothesis Testing,topic,PREREQUISITE_OF,Regression Models,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Variance Analysis,topic,PREREQUISITE_OF,Regression Models,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Variance Analysis,topic,PREREQUISITE_OF,Statistics in Machine Learning,topic,A taught first,,DTSC_8110_triples_raw.json
+DTSC_8110,Regression Models,topic,PREREQUISITE_OF,Statistics in Machine Learning,topic,A taught first,,DTSC_8110_triples_raw.json

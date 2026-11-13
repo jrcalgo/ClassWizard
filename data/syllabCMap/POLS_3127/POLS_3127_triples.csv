@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3127,Nonprofits,topic,PREREQUISITE_OF,Legal Requirements and Compliance,topic,A taught first,,POLS_3127_triples_raw.json
+POLS_3127,Nonprofits,topic,PREREQUISITE_OF,Board of Directors,concept,A taught first,,POLS_3127_triples_raw.json
+POLS_3127,Nonprofits,topic,PREREQUISITE_OF,Executive Leadership,concept,A taught first,,POLS_3127_triples_raw.json
+POLS_3127,Nonprofits,topic,PREREQUISITE_OF,Governance Practices,concept,A taught first,,POLS_3127_triples_raw.json
+POLS_3127,Nonprofits,topic,PREREQUISITE_OF,Compliance Issues,concept,A taught first,,POLS_3127_triples_raw.json
+POLS_3127,Nonprofits,topic,PREREQUISITE_OF,Leadership Transitions,concept,A taught first,,POLS_3127_triples_raw.json
+POLS_3127,Nonprofits,topic,PREREQUISITE_OF,Adapting to Change,concept,A taught first,,POLS_3127_triples_raw.json
+POLS_3127,Board of Directors,concept,PART_OF,Nonprofit Organizations,concept,,,POLS_3127_triples_raw.json
+POLS_3127,Executive Leadership,concept,PART_OF,Nonprofit Organizations,concept,,,POLS_3127_triples_raw.json
+POLS_3127,Governance Practices,concept,PART_OF,Nonprofit Organizations,concept,,,POLS_3127_triples_raw.json
+POLS_3127,Compliance Issues,concept,PART_OF,Legal Requirements and Compliance,topic,,,POLS_3127_triples_raw.json
+POLS_3127,Adapting to Change,concept,PART_OF,Current Trends Affecting Nonprofits,topic,,,POLS_3127_triples_raw.json

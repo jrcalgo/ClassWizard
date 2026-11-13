@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WRDS_4225,Quantitative research,concept,PREREQUISITE_OF,Mixed-methods writing studies,concept,same unit,,WRDS_4225_triples_raw.json
+WRDS_4225,Research questions,concept,PREREQUISITE_OF,Methodology,concept,A taught first,,WRDS_4225_triples_raw.json
+WRDS_4225,Focused research question,concept,PREREQUISITE_OF,Appropriate methods and tools,concept,same unit,,WRDS_4225_triples_raw.json
+WRDS_4225,Ethics in writing studies research,concept,PART_OF,Mixed-methods writing studies,concept,,,WRDS_4225_triples_raw.json
+WRDS_4225,Quantitative research,concept,SUBTYPE_OF,Mixed-methods writing studies,concept,,,WRDS_4225_triples_raw.json
+WRDS_4225,Methodology,concept,USED_FOR,Research questions,concept,,,WRDS_4225_triples_raw.json

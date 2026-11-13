@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_4220,Competency-Based Curriculum,concept,PREREQUISITE_OF,Curriculum Planning,topic,same unit,,ELED_4220_triples_raw.json
+ELED_4220,Elementary School Teachers,topic,PREREQUISITE_OF,Teacher Handbooks,topic,A mentioned first,,ELED_4220_triples_raw.json
+ELED_4220,Sources of Curriculum,topic,PREREQUISITE_OF,Cross-Curricular Activities,topic,A mentioned first,,ELED_4220_triples_raw.json
+ELED_4220,North Carolina Standard Course of Study,concept,PREREQUISITE_OF,Common Core Standards,concept,same unit,,ELED_4220_triples_raw.json
+ELED_4220,Cross-Curricular Activities,topic,PART_OF,Curriculum Planning,topic,,,ELED_4220_triples_raw.json
+ELED_4220,Learner-Centered Environment,concept,PART_OF,Instructional Planning,topic,,,ELED_4220_triples_raw.json
+ELED_4220,Elementary Classroom Setting,topic,PART_OF,Curriculum Planning,topic,,,ELED_4220_triples_raw.json
+ELED_4220,Teacher Handbooks,topic,PART_OF,Competency-Based Curriculum,concept,,part is broader than whole - check direction,ELED_4220_triples_raw.json
+ELED_4220,Sources of Curriculum,topic,PART_OF,Curriculum Planning,topic,,,ELED_4220_triples_raw.json
+ELED_4220,School Philosophies,topic,PART_OF,Elementary School Teachers,topic,,,ELED_4220_triples_raw.json
+ELED_4220,Competency-Based Curriculum,concept,USED_FOR,Curriculum Planning,topic,,,ELED_4220_triples_raw.json
+ELED_4220,North Carolina Standard Course of Study,concept,USED_FOR,Common Core Standards,concept,,,ELED_4220_triples_raw.json

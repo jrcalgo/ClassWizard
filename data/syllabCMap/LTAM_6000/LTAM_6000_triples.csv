@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_6000,Children's Texts Significance,topic,PREREQUISITE_OF,Migration in Children's Lit,topic,A taught first,,LTAM_6000_triples_raw.json
+LTAM_6000,Migration in Children's Lit,topic,PREREQUISITE_OF,Assimilation and Citizenship,topic,A taught first,,LTAM_6000_triples_raw.json
+LTAM_6000,Reading Responses and Presentations,topic,PART_OF,U.S. Latino/a Literature,concept,,part is broader than whole - check direction,LTAM_6000_triples_raw.json
+LTAM_6000,Short Paper Development,topic,PART_OF,U.S. Latino/a Literature,concept,,part is broader than whole - check direction,LTAM_6000_triples_raw.json
+LTAM_6000,Abstract and Seminar Paper Prep,topic,PART_OF,U.S. Latino/a Literature,concept,,part is broader than whole - check direction,LTAM_6000_triples_raw.json
+LTAM_6000,Seminar Paper Presentations,topic,PART_OF,U.S. Latino/a Literature,concept,,part is broader than whole - check direction,LTAM_6000_triples_raw.json
+LTAM_6000,Final Seminar Paper Submission,topic,PART_OF,U.S. Latino/a Literature,concept,,part is broader than whole - check direction,LTAM_6000_triples_raw.json
+LTAM_6000,Close reading,method,USED_FOR,Assimilation and Citizenship,topic,,,LTAM_6000_triples_raw.json
+LTAM_6000,Analytical writing,method,USED_FOR,Scholarly Perspectives on Lit,topic,,,LTAM_6000_triples_raw.json
+LTAM_6000,Effective presentation,method,USED_FOR,Seminar Paper Presentations,topic,,,LTAM_6000_triples_raw.json

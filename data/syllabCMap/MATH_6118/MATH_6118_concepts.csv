@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_6118,topic,Geometry,Geometries,1,verified,Geometry,MATH_6118_concepts_raw.json
+MATH_6118,topic,Analytical Geometry Fundamentals,Analytical Geometry Fundamentals,1,inferred,Analytical Geometry Fundamentals,MATH_6118_concepts_raw.json
+MATH_6118,topic,Transformational Geometry Principles,Transformational Geometry Principles,1,inferred,Transformational Geometry Principles,MATH_6118_concepts_raw.json
+MATH_6118,topic,Non-Euclidean Geometries Overview,Non-Euclidean Geometries Overview,1,inferred,Non-Euclidean Geometries Overview,MATH_6118_concepts_raw.json
+MATH_6118,topic,Neutral Geometry Fundamentals,Neutral Geometry Fundamentals,1,inferred,Neutral Geometry Fundamentals,MATH_6118_concepts_raw.json
+MATH_6118,topic,Hyperbolic Geometry Concepts,Hyperbolic Geometry Concepts,1,inferred,Hyperbolic Geometry Concepts,MATH_6118_concepts_raw.json
+MATH_6118,topic,Elliptical Geometry Fundamentals,Elliptical Geometry Fundamentals,1,inferred,Elliptical Geometry Fundamentals,MATH_6118_concepts_raw.json
+MATH_6118,topic,Riemannian Geometry Overview,Riemannian Geometry Overview,1,inferred,Riemannian Geometry Overview,MATH_6118_concepts_raw.json
+MATH_6118,concept,Euclidean geometry basics,Euclidean geometry basics,1,inferred,Euclidean geometry basics,MATH_6118_concepts_raw.json
+MATH_6118,concept,Points and lines definitions,Points and lines definitions,1,inferred,Points and lines definitions,MATH_6118_concepts_raw.json
+MATH_6118,concept,Plane and space concepts,Plane and space concepts,1,inferred,Plane and space concepts,MATH_6118_concepts_raw.json
+MATH_6118,concept,Coordinate systems introduction,Coordinate systems introduction,1,inferred,Coordinate systems introduction,MATH_6118_concepts_raw.json
+MATH_6118,concept,Graphing linear equations,Graphing linear equations,1,inferred,Graphing linear equations,MATH_6118_concepts_raw.json
+MATH_6118,concept,Distance and midpoint formulas,Distance and midpoint formulas,1,inferred,Distance and midpoint formulas,MATH_6118_concepts_raw.json
+MATH_6118,concept,Isometries and similarity,Isometries and similarity,1,inferred,Isometries and similarity,MATH_6118_concepts_raw.json
+MATH_6118,concept,Translations and rotations,Translations and rotations,1,inferred,Translations and rotations,MATH_6118_concepts_raw.json
+MATH_6118,concept,Reflections and glide reflections,Reflections and glide reflections,1,inferred,Reflections and glide reflections,MATH_6118_concepts_raw.json
+MATH_6118,concept,Neutral geometry introduction,Neutral geometry introduction,1,inferred,Neutral geometry introduction,MATH_6118_concepts_raw.json
+MATH_6118,concept,Hyperbolic and elliptical geometries,Hyperbolic and elliptical geometries,1,inferred,Hyperbolic and elliptical geometries,MATH_6118_concepts_raw.json
+MATH_6118,concept,Riemannian geometry basics,Riemannian geometry basics,1,inferred,Riemannian geometry basics,MATH_6118_concepts_raw.json
+MATH_6118,concept,Axioms and postulates review,Axioms and postulates review,1,inferred,Axioms and postulates review,MATH_6118_concepts_raw.json
+MATH_6118,concept,Congruence and similarity in NG,Congruence and similarity in NG,1,inferred,Congruence and similarity in NG,MATH_6118_concepts_raw.json
+MATH_6118,concept,Properties of neutral geometry,Properties of neutral geometry,1,inferred,Properties of neutral geometry,MATH_6118_concepts_raw.json
+MATH_6118,concept,Hyperbolic plane introduction,Hyperbolic plane introduction,1,inferred,Hyperbolic plane introduction,MATH_6118_concepts_raw.json
+MATH_6118,concept,Angles and triangles in HG,Angles and triangles in HG,1,inferred,Angles and triangles in HG,MATH_6118_concepts_raw.json
+MATH_6118,concept,Hyperbolic trigonometry basics,Hyperbolic trigonometry basics,1,inferred,Hyperbolic trigonometry basics,MATH_6118_concepts_raw.json
+MATH_6118,concept,Spherical geometry introduction,Spherical geometry introduction,1,inferred,Spherical geometry introduction,MATH_6118_concepts_raw.json
+MATH_6118,concept,Angles and triangles in EG,Angles and triangles in EG,1,inferred,Angles and triangles in EG,MATH_6118_concepts_raw.json
+MATH_6118,concept,Elliptical trigonometry basics,Elliptical trigonometry basics,1,inferred,Elliptical trigonometry basics,MATH_6118_concepts_raw.json
+MATH_6118,concept,Differential geometry introduction,Differential geometry introduction,1,inferred,Differential geometry introduction,MATH_6118_concepts_raw.json
+MATH_6118,concept,Curvature and torsion concepts,Curvature and torsion concepts,1,inferred,Curvature and torsion concepts,MATH_6118_concepts_raw.json
+MATH_6118,concept,Manifolds and Riemannian metrics,Manifolds and Riemannian metrics,1,inferred,Manifolds and Riemannian metrics,MATH_6118_concepts_raw.json

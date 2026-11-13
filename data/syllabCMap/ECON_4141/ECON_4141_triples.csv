@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_4141,Health Economics,topic,PREREQUISITE_OF,Cost-benefit Analysis,topic,same unit,,ECON_4141_triples_raw.json
+ECON_4141,Health Economics,topic,PREREQUISITE_OF,production function for health capital,concept,A taught first,,ECON_4141_triples_raw.json
+ECON_4141,Cost-benefit Analysis,topic,PREREQUISITE_OF,Healthcare Reform and Policy,topic,A taught first,,ECON_4141_triples_raw.json
+ECON_4141,challenges in healthcare reform,concept,PART_OF,Healthcare Reform and Policy,topic,,,ECON_4141_triples_raw.json
+ECON_4141,policy options for improving access,concept,PART_OF,Healthcare Reform and Policy,topic,,,ECON_4141_triples_raw.json
+ECON_4141,Cost-benefit Analysis,topic,USED_FOR,Health Economics,topic,,topic used for something - check direction,ECON_4141_triples_raw.json
+ECON_4141,Cost-benefit Analysis,topic,USED_FOR,Global Health Care Systems,topic,,topic used for something - check direction,ECON_4141_triples_raw.json
+ECON_4141,Cost-benefit Analysis,topic,USED_FOR,Healthcare Reform and Policy,topic,,topic used for something - check direction,ECON_4141_triples_raw.json

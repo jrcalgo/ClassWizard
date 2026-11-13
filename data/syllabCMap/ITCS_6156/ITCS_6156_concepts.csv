@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6156,topic,self-supervised learning,self-supervised learning,1,verified,self-supervised learning,ITCS_6156_concepts_raw.json
+ITCS_6156,topic,mathematics for machine learning,Mathematics for Machine Learning,1,verified,mathematics for machine learning,ITCS_6156_concepts_raw.json
+ITCS_6156,tool,Python,Python,4,verified,Python,ITCS_6156_concepts_raw.json
+ITCS_6156,tool,NumPy,NumPy,1,verified,NumPy,ITCS_6156_concepts_raw.json
+ITCS_6156,tool,scikit-learn,scikit-learn,1,verified,scikit-learn,ITCS_6156_concepts_raw.json
+ITCS_6156,tool,PyTorch,PyTorch,1,verified,PyTorch,ITCS_6156_concepts_raw.json
+ITCS_6156,tool,Jupyter/Google Colab,Jupyter/Google Colab,1,verified,Jupyter/Google Colab,ITCS_6156_concepts_raw.json

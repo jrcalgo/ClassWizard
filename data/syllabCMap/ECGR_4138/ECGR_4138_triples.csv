@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4138,vacuum technology,concept,PREREQUISITE_OF,metallization,concept,A mentioned first,,ECGR_4138_triples_raw.json
+ECGR_4138,vacuum technology,concept,PREREQUISITE_OF,silicide formation,concept,A mentioned first,,ECGR_4138_triples_raw.json
+ECGR_4138,solar-thermal and/or radiative cooling coating,concept,PREREQUISITE_OF,"Applications of low-E, solar-thermal, and radiative cooling coating",topic,A mentioned first,,ECGR_4138_triples_raw.json
+ECGR_4138,Thin Films,topic,PART_OF,Thin-film deposition technologies,topic,,,ECGR_4138_triples_raw.json
+ECGR_4138,vacuum technology,concept,PART_OF,Thin-film deposition technologies,topic,,,ECGR_4138_triples_raw.json
+ECGR_4138,metallization,concept,PART_OF,Thin-film deposition technologies,topic,,,ECGR_4138_triples_raw.json
+ECGR_4138,silicide formation,concept,PART_OF,Thin-film deposition technologies,topic,,,ECGR_4138_triples_raw.json
+ECGR_4138,solar-thermal and/or radiative cooling coating,concept,PART_OF,"Applications of low-E, solar-thermal, and radiative cooling coating",topic,,,ECGR_4138_triples_raw.json
+ECGR_4138,Electrochromic devices,topic,PART_OF,"Applications of electrochromic, photovoltaic, and flat-panel display devices",topic,,,ECGR_4138_triples_raw.json
+ECGR_4138,Photovoltaic devices,topic,PART_OF,"Applications of electrochromic, photovoltaic, and flat-panel display devices",topic,,,ECGR_4138_triples_raw.json
+ECGR_4138,Thin Films,topic,USED_FOR,Semiconductor materials and devices,topic,,topic used for something - check direction,ECGR_4138_triples_raw.json
+ECGR_4138,vacuum technology,concept,USED_FOR,silicide formation,concept,,,ECGR_4138_triples_raw.json
+ECGR_4138,Doping of semiconductors,topic,USED_FOR,Photovoltaic devices,topic,,topic used for something - check direction,ECGR_4138_triples_raw.json

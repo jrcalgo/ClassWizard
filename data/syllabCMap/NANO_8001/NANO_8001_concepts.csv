@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NANO_8001,topic,Nanoscale Science,Nanoscale Science,4,verified,Nanoscale Science,NANO_8001_concepts_raw.json
+NANO_8001,topic,Chemistry and Nanoscale Science,Chemistry and Nanoscale Science,3,verified,Chemistry and Nanoscale Science,NANO_8001_concepts_raw.json
+NANO_8001,topic,Selecting a Research Advisor,selecting a research advisor,1,verified,Selecting a Research Advisor,NANO_8001_concepts_raw.json
+NANO_8001,topic,Faculty Research Presentations,Faculty Research Presentations,1,inferred,Faculty Research Presentations,NANO_8001_concepts_raw.json
+NANO_8001,topic,Research Opportunities in Chemistry,Research Opportunities in Chemistry,1,inferred,Research Opportunities in Chemistry,NANO_8001_concepts_raw.json
+NANO_8001,topic,Nanoscale Science and Chemistry,Nanoscale Science and Chemistry,1,inferred,Nanoscale Science and Chemistry,NANO_8001_concepts_raw.json
+NANO_8001,concept,nanoscale science definition,Nanoscale science definition,1,inferred,nanoscale science definition,NANO_8001_concepts_raw.json
+NANO_8001,concept,nanotechnology,nanotechnology,1,inferred,nanotechnology,NANO_8001_concepts_raw.json
+NANO_8001,concept,importance of nanotechnology,Importance of nanotechnology,1,inferred,importance of nanotechnology,NANO_8001_concepts_raw.json
+NANO_8001,concept,applications in chemistry,Applications in chemistry,1,inferred,applications in chemistry,NANO_8001_concepts_raw.json
+NANO_8001,concept,chemistry research methods,Chemistry research methods,1,inferred,chemistry research methods,NANO_8001_concepts_raw.json
+NANO_8001,concept,nanoscience research approaches,Nanoscience research approaches,1,inferred,nanoscience research approaches,NANO_8001_concepts_raw.json
+NANO_8001,concept,interdisciplinary collaboration,Interdisciplinary collaboration,1,inferred,interdisciplinary collaboration,NANO_8001_concepts_raw.json
+NANO_8001,concept,dissertation research topics,Dissertation research topics,1,inferred,dissertation research topics,NANO_8001_concepts_raw.json
+NANO_8001,concept,faculty research expertise,Faculty research expertise,1,inferred,faculty research expertise,NANO_8001_concepts_raw.json
+NANO_8001,concept,research funding opportunities,Research funding opportunities,1,inferred,research funding opportunities,NANO_8001_concepts_raw.json
+NANO_8001,concept,chemical properties at nanoscale,Chemical properties at nanoscale,1,inferred,chemical properties at nanoscale,NANO_8001_concepts_raw.json
+NANO_8001,concept,nanostructured materials synthesis,Nanostructured materials synthesis,1,inferred,nanostructured materials synthesis,NANO_8001_concepts_raw.json
+NANO_8001,concept,nanoparticle characterization methods,Nanoparticle characterization methods,1,inferred,nanoparticle characterization methods,NANO_8001_concepts_raw.json
+NANO_8001,concept,research advisor selection criteria,Research advisor selection criteria,1,inferred,research advisor selection criteria,NANO_8001_concepts_raw.json
+NANO_8001,concept,faculty research interests matching,Faculty research interests matching,1,inferred,faculty research interests matching,NANO_8001_concepts_raw.json
+NANO_8001,concept,communication with potential advisors,Communication with potential advisors,1,inferred,communication with potential advisors,NANO_8001_concepts_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4156,sampling distributions,concept,PREREQUISITE_OF,hypothesis testing,concept,A taught first,,SOCY_4156_triples_raw.json
+SOCY_4156,sampling distributions,concept,PREREQUISITE_OF,confidence intervals,concept,same unit,,SOCY_4156_triples_raw.json
+SOCY_4156,descriptive statistics,concept,PREREQUISITE_OF,Quantitative Models of Analysis,topic,A taught first,,SOCY_4156_triples_raw.json
+SOCY_4156,data processing,concept,PREREQUISITE_OF,measurement theory,concept,B mentioned first,,SOCY_4156_triples_raw.json
+SOCY_4156,descriptive statistics,concept,PART_OF,quantitative analysis,concept,,,SOCY_4156_triples_raw.json
+SOCY_4156,hypothesis testing,concept,PART_OF,quantitative analysis,concept,,,SOCY_4156_triples_raw.json
+SOCY_4156,measurement theory,concept,PART_OF,quantitative analysis,concept,,,SOCY_4156_triples_raw.json
+SOCY_4156,sampling distributions,concept,PART_OF,quantitative analysis,concept,,,SOCY_4156_triples_raw.json
+SOCY_4156,confidence intervals,concept,PART_OF,quantitative analysis,concept,,,SOCY_4156_triples_raw.json

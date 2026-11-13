@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_2127,fundamental movements,concept,PREREQUISITE_OF,dynamic alignment,concept,B mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,fundamental movements,concept,PREREQUISITE_OF,polycentrism,concept,B mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,fundamental movements,concept,PREREQUISITE_OF,polyrhythm,concept,B mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,fundamental movements,concept,PREREQUISITE_OF,expression,concept,B mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,fundamental movements,concept,PREREQUISITE_OF,improvisation,concept,A mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,fundamental movements,concept,PREREQUISITE_OF,spatial awareness,concept,A mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,fundamental movements,concept,PREREQUISITE_OF,movement communication,concept,A mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,fundamental movements,concept,PREREQUISITE_OF,lead/follow,concept,A mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,fundamental movements,concept,PREREQUISITE_OF,coordination and proficiency,concept,A mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,dynamic alignment,concept,PREREQUISITE_OF,vertical bounce,concept,A mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,polycentrism,concept,PREREQUISITE_OF,polyrhythm,concept,same unit,,DANC_2127_triples_raw.json
+DANC_2127,expression,concept,PREREQUISITE_OF,improvisation,concept,A mentioned first,,DANC_2127_triples_raw.json
+DANC_2127,rhythmic precision,concept,PREREQUISITE_OF,syncopation,concept,same unit,,DANC_2127_triples_raw.json
+DANC_2127,fundamental movements,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2127_triples_raw.json
+DANC_2127,dynamic alignment,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2127_triples_raw.json
+DANC_2127,vertical spine,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2127_triples_raw.json
+DANC_2127,vertical bounce,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2127_triples_raw.json
+DANC_2127,polycentrism,concept,PART_OF,Fundamental Latin Dance Movements,topic,,,DANC_2127_triples_raw.json
+DANC_2127,polyrhythm,concept,PART_OF,Fundamental Latin Dance Movements,topic,,,DANC_2127_triples_raw.json
+DANC_2127,expression,concept,PART_OF,Fundamental Latin Dance Movements,topic,,,DANC_2127_triples_raw.json
+DANC_2127,improvisation,concept,PART_OF,Fundamental Latin Dance Movements,topic,,,DANC_2127_triples_raw.json
+DANC_2127,spatial awareness,concept,PART_OF,Fundamental Latin Dance Movements,topic,,,DANC_2127_triples_raw.json
+DANC_2127,movement communication,concept,PART_OF,Fundamental Latin Dance Movements,topic,,,DANC_2127_triples_raw.json
+DANC_2127,lead/follow,concept,PART_OF,Fundamental Latin Dance Movements,topic,,,DANC_2127_triples_raw.json
+DANC_2127,rhythmic precision,concept,PART_OF,Musicality and Rhythm in Latin Dance,topic,,,DANC_2127_triples_raw.json
+DANC_2127,syncopation,concept,PART_OF,Musicality and Rhythm in Latin Dance,topic,,,DANC_2127_triples_raw.json
+DANC_2127,music,concept,USED_FOR,Musicality and Rhythm in Latin Dance,topic,,,DANC_2127_triples_raw.json

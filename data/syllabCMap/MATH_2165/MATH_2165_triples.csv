@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_2165,sets,concept,PREREQUISITE_OF,lattices,topic,A taught first,,MATH_2165_triples_raw.json
+MATH_2165,sets,concept,PREREQUISITE_OF,trees,topic,A taught first,,MATH_2165_triples_raw.json
+MATH_2165,propositions,concept,PREREQUISITE_OF,truth tables,concept,same unit,,MATH_2165_triples_raw.json
+MATH_2165,permutations and combinations,topic,PREREQUISITE_OF,relations and functions,topic,A taught first,,MATH_2165_triples_raw.json
+MATH_2165,permutations and combinations,topic,PREREQUISITE_OF,lattices,topic,A taught first,,MATH_2165_triples_raw.json
+MATH_2165,permutations and combinations,topic,PREREQUISITE_OF,trees,topic,A taught first,,MATH_2165_triples_raw.json
+MATH_2165,propositions,concept,PART_OF,Propositions and truth tables,topic,,,MATH_2165_triples_raw.json
+MATH_2165,truth tables,concept,PART_OF,Propositions and truth tables,topic,,,MATH_2165_triples_raw.json
+MATH_2165,TI-25,tool,USED_FOR,permutations and combinations,topic,,,MATH_2165_triples_raw.json
+MATH_2165,TI-30,tool,USED_FOR,permutations and combinations,topic,,,MATH_2165_triples_raw.json
+MATH_2165,TI-83,tool,USED_FOR,relations and functions,topic,,,MATH_2165_triples_raw.json

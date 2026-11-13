@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6208,supply chain decision phases,concept,PREREQUISITE_OF,push/pull views,concept,same unit,,DSBA_6208_triples_raw.json
+DSBA_6208,macro processes,concept,PREREQUISITE_OF,goal of a supply chain,concept,same unit,,DSBA_6208_triples_raw.json
+DSBA_6208,key financial measures,concept,PREREQUISITE_OF,significant drivers of supply chain performance,concept,B mentioned first,,DSBA_6208_triples_raw.json

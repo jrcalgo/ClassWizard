@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3120,topic,Electromagnetic Fields and Waves,Electromagnetic Fields and Waves,2,verified,Electromagnetic Fields and Waves,ECGR_3120_concepts_raw.json
+ECGR_3120,topic,Static Electric Fields,static electric fields,1,verified,Static Electric Fields,ECGR_3120_concepts_raw.json
+ECGR_3120,topic,Boundary Conditions,boundary conditions,3,verified,Boundary Conditions,ECGR_3120_concepts_raw.json
+ECGR_3120,topic,Maxwell's Equations,Maxwell's equations,2,verified,Maxwell's Equations,ECGR_3120_concepts_raw.json
+ECGR_3120,concept,vector algebra,vector algebra,1,verified,vector algebra,ECGR_3120_concepts_raw.json
+ECGR_3120,concept,Coulomb's law,Coulomb's law,1,verified,Coulomb's law,ECGR_3120_concepts_raw.json
+ECGR_3120,concept,Gauss's law,Gauss's law,1,verified,Gauss's law,ECGR_3120_concepts_raw.json
+ECGR_3120,concept,vector magnetic potential,vector magnetic potential,1,verified,vector magnetic potential,ECGR_3120_concepts_raw.json
+ECGR_3120,concept,magnetic field intensity,magnetic field intensity,1,verified,magnetic field intensity,ECGR_3120_concepts_raw.json
+ECGR_3120,concept,Ampère's law with displacement current,Ampère's law with displacement current,1,verified,Ampère's law with displacement current,ECGR_3120_concepts_raw.json

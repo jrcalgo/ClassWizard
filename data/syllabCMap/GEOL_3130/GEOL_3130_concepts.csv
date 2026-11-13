@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOL_3130,topic,Structural Geology,Structural Geology,13,verified,Structural Geology,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,stress,stress,8,verified,stress,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,strain,strain,8,verified,strain,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,deformation,deformation,14,verified,deformation,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,foliations,foliations,1,verified,foliations,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,folds,folds,1,verified,folds,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,fractures,fractures,1,verified,fractures,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,faults,faults,1,verified,faults,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,kinematics,kinematics,2,verified,kinematics,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,dynamics,dynamics,1,verified,dynamics,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,mechanics,Mechanics,2,verified,mechanics,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,statics,statics,2,verified,statics,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,flow,flow,2,verified,flow,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,motion,motions,1,verified,motion,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,velocity,velocities,1,verified,velocity,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,displacement,displacements,2,verified,displacement,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,equilibrium,equilibrium,1,verified,equilibrium,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,forces,forces,2,verified,forces,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,masses,masses,3,verified,masses,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,symmetry,symmetry,1,verified,symmetry,GEOL_3130_concepts_raw.json
+GEOL_3130,concept,careful observation,careful observation,1,verified,careful observation,GEOL_3130_concepts_raw.json

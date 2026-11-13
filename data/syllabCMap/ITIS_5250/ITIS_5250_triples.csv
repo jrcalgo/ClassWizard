@@ -1,0 +1,51 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5250,digital forensics,concept,PREREQUISITE_OF,tracking users,topic,A mentioned first,,ITIS_5250_triples_raw.json
+ITIS_5250,digital evidence handling,concept,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,testimony preparation,concept,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,reporting requirements,concept,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,forensic testimony standards,concept,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,Windows registry analysis,concept,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,event log analysis,concept,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,system restore points,concept,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,user tracking methods,concept,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,digital evidence collection,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,forensic imaging,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,disk analysis techniques,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,bitstream imaging,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,logical vs physical disk,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,evidence integrity protocols,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,digital evidence chain,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,hash values calculation,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,metadata extraction methods,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,file carving techniques,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,mobile data recovery,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,device encryption methods,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,iOS jailbreaking techniques,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,Android rooting procedures,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,mobile app tracking,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,memory dump acquisition methods,method,PART_OF,digital forensics,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,NTFS filesystem,concept,SUBTYPE_OF,filesystem structure,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,bad sectors,concept,SUBTYPE_OF,data fragmentation,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,event log analysis,concept,SUBTYPE_OF,digital evidence handling,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,system restore points,concept,SUBTYPE_OF,digital evidence handling,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,user tracking methods,concept,SUBTYPE_OF,digital evidence handling,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,forensic imaging,method,SUBTYPE_OF,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,bitstream imaging,method,SUBTYPE_OF,disk analysis techniques,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,logical vs physical disk,method,SUBTYPE_OF,disk analysis techniques,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,hash values calculation,method,SUBTYPE_OF,metadata extraction methods,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,Windows artifact recovery,method,SUBTYPE_OF,metadata extraction methods,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,mobile data recovery,method,SUBTYPE_OF,metadata extraction methods,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,device encryption methods,method,SUBTYPE_OF,metadata extraction methods,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,iOS jailbreaking techniques,method,SUBTYPE_OF,metadata extraction methods,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,Android rooting procedures,method,SUBTYPE_OF,metadata extraction methods,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,FTK Imager,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,Arsenal Image Mounter,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,Registry Explorer,tool,USED_FOR,Windows registry analysis,concept,,,ITIS_5250_triples_raw.json
+ITIS_5250,SIFT,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,Autopsy,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,Sleuthkit,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,HxD,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,iLEAPP/aLEAPP,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,Bulk Extractor,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,dcode,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json
+ITIS_5250,KAPE,tool,USED_FOR,digital evidence collection,method,,,ITIS_5250_triples_raw.json

@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_6652,research,topic,PREREQUISITE_OF,scientific research methods,topic,A mentioned first,,SOCY_6652_triples_raw.json
+SOCY_6652,research,topic,PREREQUISITE_OF,social sciences,topic,same unit,,SOCY_6652_triples_raw.json
+SOCY_6652,research,topic,PREREQUISITE_OF,sociology,topic,same unit,,SOCY_6652_triples_raw.json
+SOCY_6652,designing a study,topic,PREREQUISITE_OF,assessing study soundness,topic,A taught first,,SOCY_6652_triples_raw.json
+SOCY_6652,designing a study,topic,PREREQUISITE_OF,quantitative data analysis,topic,A taught first,,SOCY_6652_triples_raw.json
+SOCY_6652,designing a study,topic,PREREQUISITE_OF,qualitative data analysis,topic,A taught first,,SOCY_6652_triples_raw.json
+SOCY_6652,designing a study,topic,PREREQUISITE_OF,research ethics and bias,topic,A taught first,,SOCY_6652_triples_raw.json
+SOCY_6652,designing a study,topic,PREREQUISITE_OF,publishing research findings,topic,A taught first,,SOCY_6652_triples_raw.json
+SOCY_6652,research questions and hypotheses,concept,PART_OF,designing a study,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,sampling strategies and techniques,concept,PART_OF,designing a study,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,data collection methods overview,concept,PART_OF,designing a study,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,study design and methodological flaws,concept,PART_OF,assessing study soundness,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,ethics in social science research,concept,PART_OF,assessing study soundness,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,theoretical frameworks in sociology,concept,PART_OF,research paradigms and theories,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,surveys and questionnaire design,concept,PART_OF,data collection methods,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,interviews and focus groups techniques,concept,PART_OF,data collection methods,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,observational methods overview,concept,PART_OF,data collection methods,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,statistical analysis software overview,concept,PART_OF,quantitative data analysis,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,descriptive statistics and measures,concept,PART_OF,quantitative data analysis,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,avoiding sampling biases and errors,concept,PART_OF,research ethics and bias,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,addressing cultural and social biases,concept,PART_OF,research ethics and bias,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,peer review process and feedback,concept,PART_OF,publishing research findings,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,coding and thematic analysis techniques,method,USED_FOR,qualitative data analysis,topic,,,SOCY_6652_triples_raw.json
+SOCY_6652,hypothesis testing,method,USED_FOR,quantitative data analysis,topic,,,SOCY_6652_triples_raw.json

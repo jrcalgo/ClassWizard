@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_3131,topic,Electromechanical Devices,Electromechanical Devices,2,verified,Electromechanical Devices,ETEM_3131_concepts_raw.json
+ETEM_3131,topic,Electrical and Mechanical Devices,electrical and mechanical devices,1,verified,Electrical and Mechanical Devices,ETEM_3131_concepts_raw.json
+ETEM_3131,topic,Input Devices Fundamentals,Input Devices Fundamentals,1,inferred,Input Devices Fundamentals,ETEM_3131_concepts_raw.json
+ETEM_3131,topic,Output Devices Design,Output Devices Design,1,inferred,Output Devices Design,ETEM_3131_concepts_raw.json
+ETEM_3131,topic,Signals and Signal Processing,Signals and Signal Processing,1,inferred,Signals and Signal Processing,ETEM_3131_concepts_raw.json
+ETEM_3131,topic,Electromechanical System Design,Electromechanical System Design,1,inferred,Electromechanical System Design,ETEM_3131_concepts_raw.json
+ETEM_3131,topic,Simulation and Modeling Tools,Simulation and Modeling Tools,1,inferred,Simulation and Modeling Tools,ETEM_3131_concepts_raw.json
+ETEM_3131,topic,System Integration and Testing,System Integration and Testing,1,inferred,System Integration and Testing,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Electromechanical Devices Overview,Electromechanical Devices Overview,1,inferred,Electromechanical Devices Overview,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Course Objectives and Expectations,Course Objectives and Expectations,1,inferred,Course Objectives and Expectations,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Sensors Types and Applications,Sensors Types and Applications,1,inferred,Sensors Types and Applications,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Actuators Principles of Operation,Actuators Principles of Operation,1,inferred,Actuators Principles of Operation,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Signal Acquisition Methods,Signal Acquisition Methods,1,inferred,Signal Acquisition Methods,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Display Devices Characteristics,Display Devices Characteristics,1,inferred,Display Devices Characteristics,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Control Systems Basics,Control Systems Basics,2,inferred,Control Systems Basics,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Feedback Mechanisms Overview,Feedback Mechanisms Overview,1,inferred,Feedback Mechanisms Overview,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Signal Generation Techniques,Signal Generation Techniques,1,inferred,Signal Generation Techniques,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Filtering Methods and Applications,Filtering Methods and Applications,1,inferred,Filtering Methods and Applications,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Amplification and Attenuation,Amplification and Attenuation,1,inferred,Amplification and Attenuation,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,System Requirements and Specifications,System Requirements and Specifications,1,inferred,System Requirements and Specifications,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Design for Reliability and Maintainability,Design for Reliability and Maintainability,1,inferred,Design for Reliability and Maintainability,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Safety Considerations in EMD,Safety Considerations in EMD,1,inferred,Safety Considerations in EMD,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Simulation Software Overview,Simulation Software Overview,1,inferred,Simulation Software Overview,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Modeling Techniques for EMD,Modeling Techniques for EMD,1,inferred,Modeling Techniques for EMD,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Validation and Verification Methods,Validation and Verification Methods,1,inferred,Validation and Verification Methods,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Motor Control Systems Basics,Motor Control Systems Basics,1,inferred,Motor Control Systems Basics,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Gearbox Design Principles,Gearbox Design Principles,1,inferred,Gearbox Design Principles,ETEM_3131_concepts_raw.json
+ETEM_3131,concept,Pneumatic and Hydraulic Systems,Pneumatic and Hydraulic Systems,1,inferred,Pneumatic and Hydraulic Systems,ETEM_3131_concepts_raw.json

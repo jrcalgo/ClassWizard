@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_2130,fundamental movements,concept,PREREQUISITE_OF,hip-hop dance movement vocabulary,concept,A mentioned first,,DANC_2130_triples_raw.json
+DANC_2130,dynamic alignment,concept,PREREQUISITE_OF,anatomically-supported alignment,concept,A mentioned first,,DANC_2130_triples_raw.json
+DANC_2130,strength,concept,PREREQUISITE_OF,range of motion,concept,A mentioned first,,DANC_2130_triples_raw.json
+DANC_2130,rhythmic precision,concept,PREREQUISITE_OF,polyrhythms,concept,same unit,,DANC_2130_triples_raw.json
+DANC_2130,choreography,method,PREREQUISITE_OF,Hip Hop Choreography,topic,same unit,,DANC_2130_triples_raw.json
+DANC_2130,technique,concept,PART_OF,Hip Hop Dance,topic,,,DANC_2130_triples_raw.json
+DANC_2130,musicality,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2130_triples_raw.json
+DANC_2130,confidence,concept,PART_OF,Professional & Leadership Skills,topic,,,DANC_2130_triples_raw.json
+DANC_2130,dynamic alignment,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2130_triples_raw.json
+DANC_2130,fundamental movements,concept,PART_OF,Hip Hop Dance,topic,,,DANC_2130_triples_raw.json
+DANC_2130,anatomically-supported alignment,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2130_triples_raw.json
+DANC_2130,vertical bounce,concept,PART_OF,Hip Hop Dance,topic,,,DANC_2130_triples_raw.json
+DANC_2130,hip-hop dance movement vocabulary,concept,PART_OF,Hip Hop Dance,topic,,,DANC_2130_triples_raw.json
+DANC_2130,strength,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2130_triples_raw.json
+DANC_2130,coordination,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2130_triples_raw.json
+DANC_2130,range of motion,concept,PART_OF,Bodily and Performance Practices,topic,,,DANC_2130_triples_raw.json
+DANC_2130,foundational movements,concept,PART_OF,Hip Hop Dance,topic,,,DANC_2130_triples_raw.json
+DANC_2130,rhythm,concept,PART_OF,Musicality and Rhythm,topic,,,DANC_2130_triples_raw.json
+DANC_2130,rhythmic precision,concept,PART_OF,Musicality and Rhythm,topic,,,DANC_2130_triples_raw.json
+DANC_2130,polyrhythms,concept,PART_OF,Musicality and Rhythm,topic,,,DANC_2130_triples_raw.json
+DANC_2130,self-discipline,concept,PART_OF,Professional & Leadership Skills,topic,,,DANC_2130_triples_raw.json
+DANC_2130,choreography,method,USED_FOR,Hip Hop Choreography,topic,,,DANC_2130_triples_raw.json
+DANC_2130,dance practice & application,method,USED_FOR,Hip Hop Dance,topic,,,DANC_2130_triples_raw.json
+DANC_2130,engagement with the larger artistic community,method,USED_FOR,Hip Hop Dance,topic,,,DANC_2130_triples_raw.json
+DANC_2130,self-study,method,USED_FOR,Bodily and Performance Practices,topic,,,DANC_2130_triples_raw.json
+DANC_2130,freestyle movements,method,USED_FOR,Hip Hop Dance,topic,,,DANC_2130_triples_raw.json

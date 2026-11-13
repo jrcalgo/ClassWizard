@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OSCI_8948,research process overview,concept,PART_OF,Research,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,Literature Review Fundamentals,topic,PART_OF,Research,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,Developing a Research Proposal,topic,PART_OF,Research,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,Writing the Research Question Statement,topic,PART_OF,Research,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,Conducting a Preliminary Literature Review,topic,PART_OF,Research,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,experimental vs. non-experimental designs,concept,PART_OF,research design and methodology,concept,,,OSCI_8948_triples_raw.json
+OSCI_8948,importance of research questions,concept,PART_OF,Research,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,formulating research questions,concept,PART_OF,Research,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,research literature overview,concept,PART_OF,Research,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,sources of academic literature,concept,PART_OF,Research,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,crafting clear research questions,concept,PART_OF,Writing the Research Question Statement,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,identifying relevant studies and theories,concept,PART_OF,Conducting a Preliminary Literature Review,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,analyzing and synthesizing findings,concept,PART_OF,Conducting a Preliminary Literature Review,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,proposal organization and structure,concept,PART_OF,Developing a Research Proposal,topic,,,OSCI_8948_triples_raw.json
+OSCI_8948,setting realistic research timelines,concept,PART_OF,Developing a Research Proposal,topic,,,OSCI_8948_triples_raw.json

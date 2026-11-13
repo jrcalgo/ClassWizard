@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_4210,topic,Internal Combustion Engine Theory,internal combustion engine theory,1,verified,Internal Combustion Engine Theory,MEGR_4210_concepts_raw.json
+MEGR_4210,topic,Design and Application,Design and Application,1,verified,Design and Application,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Internal Combustion Engine Definition,Internal Combustion Engine Definition,1,inferred,Internal Combustion Engine Definition,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Engine Classification and Types,Engine Classification and Types,1,inferred,Engine Classification and Types,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Basic Engine Components,Basic Engine Components,1,inferred,Basic Engine Components,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,First Law of Thermodynamics,First Law of Thermodynamics,1,inferred,First Law of Thermodynamics,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Second Law of Thermodynamics,Second Law of Thermodynamics,1,inferred,Second Law of Thermodynamics,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Heat Transfer Principles,Heat Transfer Principles,1,inferred,Heat Transfer Principles,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Air-Fuel Mixture Formation,Air-Fuel Mixture Formation,1,inferred,Air-Fuel Mixture Formation,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Combustion Process and Products,Combustion Process and Products,1,inferred,Combustion Process and Products,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Ignition Timing and Spark Advance,Ignition Timing and Spark Advance,1,inferred,Ignition Timing and Spark Advance,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Otto Cycle and Diesel Cycle,Otto Cycle and Diesel Cycle,1,inferred,Otto Cycle and Diesel Cycle,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Atkinson and Miller Cycles,Atkinson and Miller Cycles,1,inferred,Atkinson and Miller Cycles,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Engine Efficiency and Performance,Engine Efficiency and Performance,1,inferred,Engine Efficiency and Performance,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Cylinder Head and Valve Train,Cylinder Head and Valve Train,1,inferred,Cylinder Head and Valve Train,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Piston and Connecting Rod,Piston and Connecting Rod,1,inferred,Piston and Connecting Rod,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Crankshaft and Flywheel,Crankshaft and Flywheel,1,inferred,Crankshaft and Flywheel,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Fuel Injection System Design,Fuel Injection System Design,1,inferred,Fuel Injection System Design,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Lubrication System Components,Lubrication System Components,1,inferred,Lubrication System Components,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Cooling System Fundamentals,Cooling System Fundamentals,1,inferred,Cooling System Fundamentals,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Brake Specific Fuel Consumption,Brake Specific Fuel Consumption,1,inferred,Brake Specific Fuel Consumption,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Engine Emissions and Control,Engine Emissions and Control,1,inferred,Engine Emissions and Control,MEGR_4210_concepts_raw.json
+MEGR_4210,concept,Performance Optimization Techniques,Performance Optimization Techniques,1,inferred,Performance Optimization Techniques,MEGR_4210_concepts_raw.json

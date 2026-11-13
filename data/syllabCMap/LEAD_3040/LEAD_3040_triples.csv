@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEAD_3040,Life Design,topic,PART_OF,Exploring Career Paths,topic,,,LEAD_3040_triples_raw.json
+LEAD_3040,Exploring Career Paths,topic,PART_OF,Five Buckets of Success,topic,,,LEAD_3040_triples_raw.json
+LEAD_3040,Five Buckets of Success,topic,PART_OF,Assessing Personal Strengths and Gaps,topic,,,LEAD_3040_triples_raw.json
+LEAD_3040,Assessing Personal Strengths and Gaps,topic,PART_OF,Analyzing Relationships and Resources,topic,,,LEAD_3040_triples_raw.json
+LEAD_3040,Analyzing Relationships and Resources,topic,PART_OF,Developing a Personal Strategy,topic,,,LEAD_3040_triples_raw.json
+LEAD_3040,Life Design Principles,concept,USED_FOR,Exploring Career Paths,topic,,,LEAD_3040_triples_raw.json
+LEAD_3040,Life Design Principles,concept,USED_FOR,Five Buckets of Success,topic,,,LEAD_3040_triples_raw.json

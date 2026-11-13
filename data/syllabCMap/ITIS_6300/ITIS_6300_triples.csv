@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_6300,design principles,concept,PART_OF,Human-Centered Design,topic,,,ITIS_6300_triples_raw.json
+ITIS_6300,need finding,concept,PART_OF,Human-Centered Design,topic,,,ITIS_6300_triples_raw.json
+ITIS_6300,design prototypes,topic,PART_OF,Human-Centered Design,topic,,,ITIS_6300_triples_raw.json
+ITIS_6300,theories of human abilities and cognition,concept,PART_OF,Human-Centered Design,topic,,,ITIS_6300_triples_raw.json
+ITIS_6300,design principles,concept,USED_FOR,Human-Centered Design,topic,,,ITIS_6300_triples_raw.json
+ITIS_6300,design prototypes,topic,USED_FOR,Human-Centered Design,topic,,topic used for something - check direction,ITIS_6300_triples_raw.json

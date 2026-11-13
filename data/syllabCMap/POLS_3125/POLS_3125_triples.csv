@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3125,Healthcare System,topic,PREREQUISITE_OF,Health Insurance Policy,topic,A mentioned first,,POLS_3125_triples_raw.json
+POLS_3125,Healthcare System,topic,PREREQUISITE_OF,Health Care Reform,topic,A mentioned first,,POLS_3125_triples_raw.json
+POLS_3125,Artificial Intelligence in Healthcare,topic,PREREQUISITE_OF,Telemedicine and Remote Monitoring,concept,same unit,,POLS_3125_triples_raw.json
+POLS_3125,Racial and Ethnic Disparities,topic,PREREQUISITE_OF,Mental Health and Substance Abuse,topic,same unit,,POLS_3125_triples_raw.json
+POLS_3125,Public Policies in Healthcare,concept,PART_OF,Healthcare System,topic,,,POLS_3125_triples_raw.json
+POLS_3125,Value-Based Payment Models,concept,PART_OF,Population Health Management,concept,,,POLS_3125_triples_raw.json
+POLS_3125,Precision Medicine and Genomics,concept,PART_OF,Population Health Management,concept,,,POLS_3125_triples_raw.json
+POLS_3125,US Healthcare System,concept,PART_OF,Healthcare System,topic,,,POLS_3125_triples_raw.json
+POLS_3125,Early Health Insurance Plans,concept,PART_OF,Health Insurance Policy,topic,,,POLS_3125_triples_raw.json
+POLS_3125,Social Security Act of 1935,concept,PART_OF,Health Insurance Policy,topic,,,POLS_3125_triples_raw.json
+POLS_3125,Affordable Care Act (ACA,concept,PART_OF,Health Care Reform,topic,,,POLS_3125_triples_raw.json
+POLS_3125,Electronic Health Records (EHRs,concept,PART_OF,Artificial Intelligence in Healthcare,topic,,,POLS_3125_triples_raw.json

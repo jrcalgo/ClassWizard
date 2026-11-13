@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSCI_4101L,Training Management Process,method,USED_FOR,Army Officer Development,concept,,,MSCI_4101L_triples_raw.json
+MSCI_4101L,Training Management Process,method,USED_FOR,Multidomain Operations,concept,,,MSCI_4101L_triples_raw.json
+MSCI_4101L,Training Management Process,method,USED_FOR,Unit Readiness Assessment,method,,,MSCI_4101L_triples_raw.json
+MSCI_4101L,Training Management Process,method,USED_FOR,Leader Development Principles,method,,,MSCI_4101L_triples_raw.json
+MSCI_4101L,Training Management Process,method,USED_FOR,Unit Training Planning,method,,,MSCI_4101L_triples_raw.json
+MSCI_4101L,Training Management Process,method,USED_FOR,Risk Management Strategies,method,,,MSCI_4101L_triples_raw.json
+MSCI_4101L,Training Management Process,method,USED_FOR,Evaluation and Assessment Methods,method,,,MSCI_4101L_triples_raw.json

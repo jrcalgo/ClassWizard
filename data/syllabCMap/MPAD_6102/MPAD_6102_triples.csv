@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6102,legislative-executive relations,concept,PREREQUISITE_OF,separation of powers in government,concept,same unit,,MPAD_6102_triples_raw.json
+MPAD_6102,public administration definition,concept,PREREQUISITE_OF,role of administration in policy process,concept,same unit,,MPAD_6102_triples_raw.json
+MPAD_6102,constitutional framework for PA,concept,PREREQUISITE_OF,statutory and regulatory environment,concept,same unit,,MPAD_6102_triples_raw.json
+MPAD_6102,administrative law basics,concept,PREREQUISITE_OF,separation of powers in government,concept,A taught first,,MPAD_6102_triples_raw.json
+MPAD_6102,role of administration in policy process,concept,PART_OF,Public Administration,topic,,,MPAD_6102_triples_raw.json
+MPAD_6102,constitutional framework for PA,concept,PART_OF,Legal Basis for Public Administration,topic,,,MPAD_6102_triples_raw.json
+MPAD_6102,statutory and regulatory environment,concept,PART_OF,Legal Basis for Public Administration,topic,,,MPAD_6102_triples_raw.json
+MPAD_6102,administrative law basics,concept,PART_OF,Legal Basis for Public Administration,topic,,,MPAD_6102_triples_raw.json
+MPAD_6102,separation of powers in government,concept,PART_OF,Political Context of Public Administration,topic,,,MPAD_6102_triples_raw.json
+MPAD_6102,bureaucratic politics and power,concept,PART_OF,Political Context of Public Administration,topic,,,MPAD_6102_triples_raw.json
+MPAD_6102,nonprofit-government partnerships,concept,PART_OF,Government and Nonprofit Leadership,topic,,,MPAD_6102_triples_raw.json
+MPAD_6102,principles of ethical decision-making,concept,PART_OF,Ethics in Public Administration,topic,,,MPAD_6102_triples_raw.json
+MPAD_6102,writing for public administration,concept,PART_OF,Effective Communication in PA,topic,,,MPAD_6102_triples_raw.json
+MPAD_6102,clear and concise communication,concept,PART_OF,Effective Communication in PA,topic,,,MPAD_6102_triples_raw.json

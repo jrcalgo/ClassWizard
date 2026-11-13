@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GRAD_6100,topic,Statistics & Probability,Statistics & Probability,1,verified,Statistics & Probability,GRAD_6100_concepts_raw.json
+GRAD_6100,topic,Statistics,Statistics,2,verified,Introduction to Statistics,GRAD_6100_concepts_raw.json
+GRAD_6100,tool,R,R,1,verified,R,GRAD_6100_concepts_raw.json
+GRAD_6100,topic,Descriptive Statistics,Descriptive Statistics,1,inferred,Descriptive Statistics,GRAD_6100_concepts_raw.json
+GRAD_6100,topic,Probability Theory,Probability Theory,1,inferred,Probability Theory,GRAD_6100_concepts_raw.json
+GRAD_6100,topic,Discrete Random Variables,Discrete Random Variables,1,inferred,Discrete Random Variables,GRAD_6100_concepts_raw.json
+GRAD_6100,topic,Continuous Random Variables,Continuous Random Variables,1,inferred,Continuous Random Variables,GRAD_6100_concepts_raw.json
+GRAD_6100,topic,Hypothesis Testing,Hypothesis Testing,1,inferred,Hypothesis Testing,GRAD_6100_concepts_raw.json
+GRAD_6100,topic,Confidence Intervals,Confidence Intervals,2,inferred,Confidence Intervals,GRAD_6100_concepts_raw.json
+GRAD_6100,topic,Regression Analysis,Regression Analysis,1,inferred,Regression Analysis,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Definition of Statistics,Definition of Statistics,1,inferred,Definition of Statistics,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Measures of Central Tendency,Measures of Central Tendency,1,inferred,Measures of Central Tendency,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Variance and Standard Deviation,Variance and Standard Deviation,1,inferred,Variance and Standard Deviation,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Data Visualization,Data Visualization,1,inferred,Data Visualization,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Basic Probability Concepts,Basic Probability Concepts,1,inferred,Basic Probability Concepts,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Random Variables and Distributions,Random Variables and Distributions,1,inferred,Random Variables and Distributions,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Conditional Probability,Conditional Probability,1,inferred,Conditional Probability,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Bernoulli Distribution,Bernoulli Distribution,1,inferred,Bernoulli Distribution,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Binomial Distribution,Binomial Distribution,1,inferred,Binomial Distribution,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Poisson Distribution,Poisson Distribution,1,inferred,Poisson Distribution,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Uniform Distribution,Uniform Distribution,1,inferred,Uniform Distribution,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Exponential Distribution,Exponential Distribution,1,inferred,Exponential Distribution,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Normal Distribution,Normal Distribution,1,inferred,Normal Distribution,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Null and Alternative Hypotheses,Null and Alternative Hypotheses,1,inferred,Null and Alternative Hypotheses,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Test Statistics and P-Values,Test Statistics and P-Values,1,inferred,Test Statistics and P-Values,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Type I and Type II Errors,Type I and Type II Errors,1,inferred,Type I and Type II Errors,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Point Estimation and Interval Estimation,Point Estimation and Interval Estimation,1,inferred,Point Estimation and Interval Estimation,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Margin of Error and Confidence Level,Margin of Error and Confidence Level,1,inferred,Margin of Error and Confidence Level,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Simple Linear Regression Model,Simple Linear Regression Model,1,inferred,Simple Linear Regression Model,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Multiple Linear Regression Model,Multiple Linear Regression Model,1,inferred,Multiple Linear Regression Model,GRAD_6100_concepts_raw.json
+GRAD_6100,concept,Coefficient of Determination,Coefficient of Determination,1,inferred,Coefficient of Determination,GRAD_6100_concepts_raw.json

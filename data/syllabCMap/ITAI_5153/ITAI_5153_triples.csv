@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITAI_5153,machine learning concepts,method,PREREQUISITE_OF,generative AI,concept,B mentioned first,,ITAI_5153_triples_raw.json
+ITAI_5153,reinforcement learning,concept,PREREQUISITE_OF,neural networks,concept,same unit,,ITAI_5153_triples_raw.json
+ITAI_5153,machine learning concepts,method,PREREQUISITE_OF,deep learning,concept,B mentioned first,,ITAI_5153_triples_raw.json
+ITAI_5153,machine learning concepts,method,PREREQUISITE_OF,embeddings,concept,B mentioned first,,ITAI_5153_triples_raw.json
+ITAI_5153,AI Literacy,concept,PART_OF,Artificial Intelligence and Ethics,topic,,,ITAI_5153_triples_raw.json
+ITAI_5153,service design development,method,PART_OF,AI Literacy,concept,,,ITAI_5153_triples_raw.json
+ITAI_5153,generative AI,concept,PART_OF,machine learning concepts,method,,part is broader than whole - check direction,ITAI_5153_triples_raw.json
+ITAI_5153,reinforcement learning,concept,PART_OF,machine learning concepts,method,,part is broader than whole - check direction,ITAI_5153_triples_raw.json
+ITAI_5153,neural networks,concept,PART_OF,machine learning concepts,method,,part is broader than whole - check direction,ITAI_5153_triples_raw.json
+ITAI_5153,deep learning,concept,PART_OF,machine learning concepts,method,,part is broader than whole - check direction,ITAI_5153_triples_raw.json
+ITAI_5153,embeddings,concept,PART_OF,machine learning concepts,method,,part is broader than whole - check direction,ITAI_5153_triples_raw.json
+ITAI_5153,open-source tools,tool,USED_FOR,service design development,method,,,ITAI_5153_triples_raw.json

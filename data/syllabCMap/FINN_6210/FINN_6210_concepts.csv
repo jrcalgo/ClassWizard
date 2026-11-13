@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_6210,concept,Derivative Securities,derivative securities,3,verified,Derivative Securities,FINN_6210_concepts_raw.json
+FINN_6210,topic,Forward and Futures Pricing,forward and futures pricing,2,verified,Forward and Futures Pricing,FINN_6210_concepts_raw.json
+FINN_6210,concept,Hedging with Futures,hedging with futures,9,verified,Hedging with Futures,FINN_6210_concepts_raw.json
+FINN_6210,concept,Interest Rate Futures,interest rate futures,11,verified,Interest Rate Futures,FINN_6210_concepts_raw.json
+FINN_6210,concept,Plain Vanilla Swaps,plain vanilla swaps,11,verified,Plain Vanilla Swaps,FINN_6210_concepts_raw.json
+FINN_6210,concept,Option Pricing Theory,Option Pricing Theory,5,verified,Option Pricing Theory,FINN_6210_concepts_raw.json
+FINN_6210,concept,American Options,American options,10,verified,American Options,FINN_6210_concepts_raw.json
+FINN_6210,concept,Binomial Trees,binomial trees,18,verified,Binomial Trees,FINN_6210_concepts_raw.json
+FINN_6210,method,Risk-neutral valuation,risk-neutral valuation,22,verified,Risk-neutral valuation,FINN_6210_concepts_raw.json
+FINN_6210,topic,Stochastic Calculus,stochastic calculus,10,verified,Stochastic Calculus,FINN_6210_concepts_raw.json
+FINN_6210,concept,Black-Scholes-Merton Model,Black-Scholes-Merton model,12,verified,Black-Scholes-Merton Model,FINN_6210_concepts_raw.json
+FINN_6210,topic,No-Arbitrage Restrictions,no-arbitrage restrictions,9,verified,No-Arbitrage Restrictions,FINN_6210_concepts_raw.json
+FINN_6210,concept,No-Arbitrage Argument,no-arbitrage arguments,3,verified,No-Arbitrage Argument,FINN_6210_concepts_raw.json
+FINN_6210,concept,Cost of Carry,cost of carry,11,verified,Cost of Carry,FINN_6210_concepts_raw.json
+FINN_6210,concept,Forward Pricing,Forward Pricing,8,verified,Forward Pricing,FINN_6210_concepts_raw.json
+FINN_6210,concept,Futures Pricing,futures pricing,11,verified,Futures Pricing,FINN_6210_concepts_raw.json
+FINN_6210,concept,Stochastic Processes,Stochastic Processes,1,verified,Stochastic Processes,FINN_6210_concepts_raw.json
+FINN_6210,concept,Ito's Lemma,Itô's lemma,4,verified,Ito's Lemma,FINN_6210_concepts_raw.json
+FINN_6210,concept,Brownian Motion,Brownian Motion,3,verified,Brownian Motion,FINN_6210_concepts_raw.json
+FINN_6210,concept,Wiener Process,Wiener Process,1,verified,Wiener Process,FINN_6210_concepts_raw.json
+FINN_6210,concept,Hedge Parameters,hedge parameters,11,verified,Hedge Parameters,FINN_6210_concepts_raw.json
+FINN_6210,concept,Delta Hedging,delta hedging,3,verified,Delta Hedging,FINN_6210_concepts_raw.json
+FINN_6210,concept,Greeks,Greeks,3,verified,Greeks,FINN_6210_concepts_raw.json
+FINN_6210,method,Derivation,derivation,2,verified,Derivation,FINN_6210_concepts_raw.json
+FINN_6210,method,Replication strategy,Replication strategy,1,verified,Replication strategy,FINN_6210_concepts_raw.json
+FINN_6210,method,Multi-step European & American pricing,Multi-step European & American pricing,1,verified,Multi-step European & American pricing,FINN_6210_concepts_raw.json
+FINN_6210,method,Itô applications,Itô applications,2,verified,Itô applications,FINN_6210_concepts_raw.json
+FINN_6210,method,Worked problems,worked problems,1,verified,Worked problems,FINN_6210_concepts_raw.json
+FINN_6210,method,Pricing engines,pricing engines,1,verified,Pricing engines,FINN_6210_concepts_raw.json
+FINN_6210,method,Hedge ratio estimation,hedge ratio estimation,1,verified,Hedge ratio estimation,FINN_6210_concepts_raw.json
+FINN_6210,method,Tree methods,tree methods,1,verified,Tree methods,FINN_6210_concepts_raw.json
+FINN_6210,method,Hedging simulations,hedging simulations,1,verified,Hedging simulations,FINN_6210_concepts_raw.json
+FINN_6210,tool,Python,Python,2,verified,Python,FINN_6210_concepts_raw.json

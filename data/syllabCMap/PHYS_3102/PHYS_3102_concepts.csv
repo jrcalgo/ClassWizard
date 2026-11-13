@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_3102,topic,Physical Optics,physical optics,1,verified,Physical Optics,PHYS_3102_concepts_raw.json
+PHYS_3102,topic,Electromagnetic Waves,electromagnetic waves,1,verified,Electromagnetic Waves,PHYS_3102_concepts_raw.json
+PHYS_3102,tool,Python code,Python code,1,verified,Python code,PHYS_3102_concepts_raw.json
+PHYS_3102,topic,Wave Motion Basics,Wave Motion Basics,1,inferred,Wave Motion Basics,PHYS_3102_concepts_raw.json
+PHYS_3102,topic,Geometrical Optics,Geometrical Optics,1,inferred,Geometrical Optics,PHYS_3102_concepts_raw.json
+PHYS_3102,topic,Thermodynamics Fundamentals,Thermodynamics Fundamentals,1,inferred,Thermodynamics Fundamentals,PHYS_3102_concepts_raw.json
+PHYS_3102,topic,Problem-Solving Strategies,Problem-Solving Strategies,1,inferred,Problem-Solving Strategies,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,wave definition and types,Wave Definition and Types,1,inferred,wave definition and types,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,wave speed and frequency,Wave Speed and Frequency,1,inferred,wave speed and frequency,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,wavelength and period,Wavelength and Period,1,inferred,wavelength and period,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,refraction and reflection laws,Refraction and Reflection Laws,1,inferred,refraction and reflection laws,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,mirrors and lenses basics,Mirrors and Lenses Basics,1,inferred,mirrors and lenses basics,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,image formation principles,Image Formation Principles,1,inferred,image formation principles,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,diffraction fundamentals,Diffraction Fundamentals,1,inferred,diffraction fundamentals,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,interference patterns analysis,Interference Patterns Analysis,1,inferred,interference patterns analysis,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,polarization concepts,Polarization Concepts,1,inferred,polarization concepts,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,EM wave properties and types,EM Wave Properties and Types,1,inferred,EM wave properties and types,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,wave propagation and speed,Wave Propagation and Speed,1,inferred,wave propagation and speed,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,energy transfer mechanisms,Energy Transfer Mechanisms,1,inferred,energy transfer mechanisms,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,temperature and heat basics,Temperature and Heat Basics,1,inferred,temperature and heat basics,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,thermal energy transfer modes,Thermal Energy Transfer Modes,1,inferred,thermal energy transfer modes,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,zeroth law of thermodynamics,Zeroth Law of Thermodynamics,1,inferred,zeroth law of thermodynamics,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,critical thinking techniques,Critical Thinking Techniques,1,inferred,critical thinking techniques,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,analytical problem solving,Analytical Problem Solving,1,inferred,analytical problem solving,PHYS_3102_concepts_raw.json
+PHYS_3102,concept,effective communication methods,Effective Communication Methods,1,inferred,effective communication methods,PHYS_3102_concepts_raw.json

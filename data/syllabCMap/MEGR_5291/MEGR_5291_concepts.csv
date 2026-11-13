@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_5291,topic,Battery Performance,Battery Performance,1,verified,Battery Performance,MEGR_5291_concepts_raw.json
+MEGR_5291,topic,Battery Testing,battery testing,1,verified,Battery Testing,MEGR_5291_concepts_raw.json
+MEGR_5291,tool,electrochemistry workstation,electrochemistry workstation,1,verified,electrochemistry workstation,MEGR_5291_concepts_raw.json
+MEGR_5291,tool,glovebox,glovebox,1,verified,glovebox,MEGR_5291_concepts_raw.json
+MEGR_5291,topic,Li-ion Battery Manufacturing Process,Li-ion Battery Manufacturing Process,1,inferred,Li-ion Battery Manufacturing Process,MEGR_5291_concepts_raw.json
+MEGR_5291,topic,Cycling and Electrochemistry Workstation,Cycling and Electrochemistry Workstation,1,inferred,Cycling and Electrochemistry Workstation,MEGR_5291_concepts_raw.json
+MEGR_5291,topic,Battery Formation and Testing Protocol,Battery Formation and Testing Protocol,1,inferred,Battery Formation and Testing Protocol,MEGR_5291_concepts_raw.json
+MEGR_5291,topic,Data Analysis and Modeling,Data Analysis and Modeling,1,inferred,Data Analysis and Modeling,MEGR_5291_concepts_raw.json
+MEGR_5291,topic,Electrochemical Models and Simulation,Electrochemical Models and Simulation,1,inferred,Electrochemical Models and Simulation,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,battery performance metrics,Battery Performance Metrics,2,inferred,battery performance metrics,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,charge-discharge cycle protocols,Charge-Discharge Cycle Protocols,1,inferred,charge-discharge cycle protocols,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,electrochemical impedance spectroscopy,Electrochemical Impedance Spectroscopy,1,inferred,electrochemical impedance spectroscopy,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,formation charging techniques,Formation Charging Techniques,1,inferred,formation charging techniques,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,electrical testing methods and equipment,Electrical Testing Methods and Equipment,1,inferred,electrical testing methods and equipment,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,data acquisition and analysis software,Data Acquisition and Analysis Software,1,inferred,data acquisition and analysis software,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,battery performance metrics analysis,Battery Performance Metrics Analysis,1,inferred,battery performance metrics analysis,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,modeling electrochemical processes,Modeling Electrochemical Processes,1,inferred,modeling electrochemical processes,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,control-oriented model development,Control-Oriented Model Development,1,inferred,control-oriented model development,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,mathematical modeling of batteries,Mathematical Modeling of Batteries,1,inferred,mathematical modeling of batteries,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,simulation software and tools,Simulation Software and Tools,1,inferred,simulation software and tools,MEGR_5291_concepts_raw.json
+MEGR_5291,concept,validation and verification techniques,Validation and Verification Techniques,1,inferred,validation and verification techniques,MEGR_5291_concepts_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6187,Scope of Work,concept,PART_OF,Public Management Problem Solving,topic,,,MPAD_6187_triples_raw.json
+MPAD_6187,Service-Learning Experience,concept,PART_OF,Public Management Problem Solving,topic,,,MPAD_6187_triples_raw.json
+MPAD_6187,Jurisdictional Analysis,concept,PART_OF,Public Management Problem Solving,topic,,,MPAD_6187_triples_raw.json
+MPAD_6187,Problem Definition,concept,PART_OF,Public Management Problem Solving,topic,,,MPAD_6187_triples_raw.json
+MPAD_6187,Teamwork in public management,concept,PART_OF,Public/nonprofit management,concept,,,MPAD_6187_triples_raw.json
+MPAD_6187,Leadership skills,concept,PART_OF,Public/nonprofit management,concept,,,MPAD_6187_triples_raw.json
+MPAD_6187,Management skills,concept,PART_OF,Public/nonprofit management,concept,,,MPAD_6187_triples_raw.json
+MPAD_6187,Problem-solving approach,concept,PART_OF,Public/nonprofit management,concept,,,MPAD_6187_triples_raw.json
+MPAD_6187,Jurisdictional Analysis,concept,USED_FOR,Problem Definition,concept,,,MPAD_6187_triples_raw.json

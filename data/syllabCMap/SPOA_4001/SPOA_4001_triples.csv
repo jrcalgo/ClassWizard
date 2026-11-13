@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPOA_4001,Computational Methods,method,PREREQUISITE_OF,Statistical Modeling in Football,concept,same unit,,SPOA_4001_triples_raw.json
+SPOA_4001,Data Visualization Techniques,method,PREREQUISITE_OF,Game Dynamics and Metrics,topic,A taught first,,SPOA_4001_triples_raw.json
+SPOA_4001,Expected Points Added (EPA,concept,PREREQUISITE_OF,Player Performance Evaluation,topic,A taught first,,SPOA_4001_triples_raw.json
+SPOA_4001,Passer Rating Calculation,concept,PREREQUISITE_OF,Player Performance Evaluation,topic,A taught first,,SPOA_4001_triples_raw.json
+SPOA_4001,Rushing Yards per Carry (YPC,concept,PREREQUISITE_OF,Player Performance Evaluation,topic,A taught first,,SPOA_4001_triples_raw.json
+SPOA_4001,Advanced Passing Statistics,concept,PREREQUISITE_OF,Player Performance Evaluation,topic,same unit,,SPOA_4001_triples_raw.json
+SPOA_4001,Receiving Efficiency Metrics,concept,PREREQUISITE_OF,Player Performance Evaluation,topic,same unit,,SPOA_4001_triples_raw.json
+SPOA_4001,Play Calling Strategies,concept,PREREQUISITE_OF,Coaching Performance Analysis,topic,same unit,,SPOA_4001_triples_raw.json
+SPOA_4001,In-Game Decision Making,concept,PREREQUISITE_OF,Coaching Performance Analysis,topic,same unit,,SPOA_4001_triples_raw.json
+SPOA_4001,Game Management Techniques,concept,PREREQUISITE_OF,Coaching Performance Analysis,topic,same unit,,SPOA_4001_triples_raw.json
+SPOA_4001,Player Movement Patterns,concept,PREREQUISITE_OF,Spatial Tracking Data and Analytics,topic,same unit,,SPOA_4001_triples_raw.json
+SPOA_4001,Statistical Modeling in Football,concept,PART_OF,Advanced Analytics,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Computational Methods Overview,concept,PART_OF,Advanced Analytics,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Expected Points Added (EPA,concept,PART_OF,Game Dynamics and Metrics,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Passer Rating Calculation,concept,PART_OF,Player Performance Evaluation,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Rushing Yards per Carry (YPC,concept,PART_OF,Player Performance Evaluation,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Advanced Passing Statistics,concept,PART_OF,Player Performance Evaluation,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Receiving Efficiency Metrics,concept,PART_OF,Player Performance Evaluation,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Defensive Player Impact,concept,PART_OF,Coaching Performance Analysis,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Play Calling Strategies,concept,PART_OF,Coaching Performance Analysis,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,In-Game Decision Making,concept,PART_OF,Coaching Performance Analysis,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Game Management Techniques,concept,PART_OF,Coaching Performance Analysis,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Player Movement Patterns,concept,PART_OF,Spatial Tracking Data and Analytics,topic,,,SPOA_4001_triples_raw.json
+SPOA_4001,Defensive Coverage Analysis,concept,PART_OF,Spatial Tracking Data and Analytics,topic,,,SPOA_4001_triples_raw.json

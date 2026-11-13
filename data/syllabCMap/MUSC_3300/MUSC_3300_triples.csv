@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_3300,diatonic triads,concept,PREREQUISITE_OF,seventh chords,concept,same unit,,MUSC_3300_triples_raw.json
+MUSC_3300,diatonic triads,concept,PREREQUISITE_OF,tones of figuration,concept,A taught first,,MUSC_3300_triples_raw.json
+MUSC_3300,first species counterpoint,concept,PREREQUISITE_OF,second species counterpoint,concept,A taught first,,MUSC_3300_triples_raw.json
+MUSC_3300,harmonic dictation,topic,PREREQUISITE_OF,applied chords,topic,A taught first,,MUSC_3300_triples_raw.json
+MUSC_3300,voice-leading,topic,PREREQUISITE_OF,part-writing,topic,same unit,,MUSC_3300_triples_raw.json
+MUSC_3300,diatonic triads,concept,PART_OF,seventh chords,concept,,,MUSC_3300_triples_raw.json
+MUSC_3300,tones of figuration,concept,PART_OF,harmonic dictation,topic,,,MUSC_3300_triples_raw.json
+MUSC_3300,first species counterpoint,concept,PART_OF,second species counterpoint,concept,,,MUSC_3300_triples_raw.json
+MUSC_3300,tonic-dominant progressions,concept,PART_OF,part-writing,topic,,,MUSC_3300_triples_raw.json
+MUSC_3300,predominant function,concept,PART_OF,part-writing,topic,,,MUSC_3300_triples_raw.json
+MUSC_3300,plagal embellishing chord,concept,PART_OF,part-writing,topic,,,MUSC_3300_triples_raw.json
+MUSC_3300,leading tone 7th chords,concept,PART_OF,applied chords,topic,,,MUSC_3300_triples_raw.json
+MUSC_3300,embedded phrase models,concept,PART_OF,applied chords,topic,,,MUSC_3300_triples_raw.json
+MUSC_3300,seventh chords,concept,SUBTYPE_OF,diatonic triads,concept,,,MUSC_3300_triples_raw.json
+MUSC_3300,tones of figuration,concept,SUBTYPE_OF,harmonic dictation,topic,,,MUSC_3300_triples_raw.json
+MUSC_3300,predominant function,concept,SUBTYPE_OF,subdominant function,concept,,,MUSC_3300_triples_raw.json
+MUSC_3300,plagal embellishing chord,concept,SUBTYPE_OF,cadence patterns,concept,,,MUSC_3300_triples_raw.json

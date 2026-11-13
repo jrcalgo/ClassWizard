@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_6362,Utilitarianism Frameworks,concept,PREREQUISITE_OF,Deontological Ethics Principles,concept,same unit,,ITIS_6362_triples_raw.json
+ITIS_6362,Utilitarianism Frameworks,concept,PREREQUISITE_OF,Virtue Ethics Approach,concept,same unit,,ITIS_6362_triples_raw.json
+ITIS_6362,Deontological Ethics Principles,concept,PREREQUISITE_OF,Virtue Ethics Approach,concept,same unit,,ITIS_6362_triples_raw.json
+ITIS_6362,Utilitarianism Frameworks,concept,PART_OF,Information Technology Ethics,topic,,,ITIS_6362_triples_raw.json
+ITIS_6362,Deontological Ethics Principles,concept,PART_OF,Information Technology Ethics,topic,,,ITIS_6362_triples_raw.json
+ITIS_6362,Virtue Ethics Approach,concept,PART_OF,Information Technology Ethics,topic,,,ITIS_6362_triples_raw.json
+ITIS_6362,Fairness and Transparency Metrics,measure,USED_FOR,Algorithmic Bias Mitigation Strategies,concept,,,ITIS_6362_triples_raw.json

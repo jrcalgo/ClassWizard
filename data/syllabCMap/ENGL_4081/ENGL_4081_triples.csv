@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4081,La9n American Fic9on,topic,PREREQUISITE_OF,Importance of translation,concept,same unit,,ENGL_4081_triples_raw.json
+ENGL_4081,Close Reading Skills,topic,PREREQUISITE_OF,Comparative Literature Study,topic,A taught first,,ENGL_4081_triples_raw.json
+ENGL_4081,La9n American Culture and History,topic,PREREQUISITE_OF,Comparative Literature Study,topic,A taught first,,ENGL_4081_triples_raw.json
+ENGL_4081,Contemporary writers and themes,concept,PART_OF,La9n American Fic9on,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Importance of translation,concept,PART_OF,La9n American Fic9on,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Literary analysis techniques,concept,PART_OF,Textual Analysis Fundamentals,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Textual interpretation methods,concept,PART_OF,Textual Analysis Fundamentals,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Reading comprehension strategies,concept,PART_OF,Close Reading Skills,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Narrative structure and style,concept,PART_OF,Textual Analysis Fundamentals,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Character development and symbolism,concept,PART_OF,Textual Analysis Fundamentals,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Thematic resonance and significance,concept,PART_OF,Textual Analysis Fundamentals,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Regional cultural differences,concept,PART_OF,La9n American Culture and History,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Literary movements and trends,concept,PART_OF,Comparative Literature Study,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Authorial influences and styles,concept,PART_OF,Comparative Literature Study,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Cross-cultural literary exchange,concept,PART_OF,Comparative Literature Study,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,China Iron narrative structure,concept,PART_OF,Gabriela Cabezón Cámara's Work,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Themes of identity and belonging,concept,PART_OF,Gabriela Cabezón Cámara's Work,topic,,,ENGL_4081_triples_raw.json
+ENGL_4081,Symbolism in La9n American literature,concept,PART_OF,Gabriela Cabezón Cámara's Work,topic,,,ENGL_4081_triples_raw.json

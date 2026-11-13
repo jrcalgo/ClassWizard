@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5260,Python,tool,USED_FOR,Machine Learning,topic,,,ITIS_5260_triples_raw.json
+ITIS_5260,Python,tool,USED_FOR,Statistical Inference for Security,topic,,,ITIS_5260_triples_raw.json

@@ -1,0 +1,103 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GRNT_3267,concept,Dying and Death,Dying and Death,1,verified,Dying and Death,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Bereavement Process,Bereavement Process,2,verified,Bereavement Process,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Grief Theories,Grief Theories,1,verified,Grief Theories,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Mourning Rituals,Mourning Rituals,1,verified,Mourning Rituals,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Death Anxiety,Death Anxiety,3,verified,Death Anxiety,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Thanatology Field,Thanatology Field,1,verified,Thanatology Field,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,End of Life Care,End of Life Care,3,verified,End of Life Care,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Terminal Illness,Terminal Illness,4,verified,Terminal Illness,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Loss Experience,Loss Experience,1,verified,Loss Experience,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Leming's framework,Leming's framework,2,verified,Leming's framework,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Social capital theory,Social capital theory,4,verified,Social capital theory,GRNT_3267_concepts_raw.json
+GRNT_3267,method,Community development models,Community development models,2,verified,Community development models,GRNT_3267_concepts_raw.json
+GRNT_3267,method,Participatory action research,Participatory action research,3,verified,Participatory action research,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Structural Functionalism,Structural Functionalism,1,verified,Structural Functionalism,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Conflict Theory,Conflict Theory,1,verified,Conflict Theory,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Symbolic Interactionism,Symbolic Interactionism,2,verified,Symbolic Interactionism,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Social Constructionism,Social Constructionism,1,verified,Social Constructionism,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Positivism vs Interpretivism,Positivism vs Interpretivism,1,verified,Positivism vs Interpretivism,GRNT_3267_concepts_raw.json
+GRNT_3267,method,Qualitative Research Methods,Qualitative Research Methods,1,verified,Qualitative Research Methods,GRNT_3267_concepts_raw.json
+GRNT_3267,method,Quantitative Research Methods,Quantitative Research Methods,1,verified,Quantitative Research Methods,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Sociological Paradigms,Sociological Paradigms,1,verified,Sociological Paradigms,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Theoretical Perspectives,Theoretical Perspectives,1,verified,Theoretical Perspectives,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Demographic Transition,Demographic Transition,1,verified,Demographic Transition,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Population Growth Rate,Population Growth Rate,1,verified,Population Growth Rate,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Fertility Rates,Fertility Rates,1,verified,Fertility Rates,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Mortality Rates,Mortality Rates,1,verified,Mortality Rates,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Life Expectancy,Life Expectancy,1,verified,Life Expectancy,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Total Fertility Rate,Total Fertility Rate,1,verified,Total Fertility Rate,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Brain Death Criteria,Brain Death Criteria,1,verified,Brain Death Criteria,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Organ Donation Laws,Organ Donation Laws,1,verified,Organ Donation Laws,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Medical Futility Concept,Medical Futility Concept,1,verified,Medical Futility Concept,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Cardiac Death Definition,Cardiac Death Definition,1,verified,Cardiac Death Definition,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Death Certificates Process,Death Certificates Process,1,verified,Death Certificates Process,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Thanatophobia definition,Thanatophobia definition,1,verified,Thanatophobia definition,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Cultural attitudes towards death,Cultural attitudes towards death,1,verified,Cultural attitudes towards death,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Death anxiety theories,Death anxiety theories,2,verified,Death anxiety theories,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Grief process stages,Grief process stages,1,verified,Grief process stages,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Life Course Perspective,Life Course Perspective,1,verified,Life Course Perspective,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Mortality Transition Theory,Mortality Transition Theory,1,verified,Mortality Transition Theory,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Social Determinants of Health,Social Determinants of Health,1,verified,Social Determinants of Health,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Health Disparities Across Life Stages,Health Disparities Across Life Stages,1,verified,Health Disparities Across Life Stages,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,End-of-Life Care Models,End-of-Life Care Models,1,verified,End-of-Life Care Models,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Regression Analysis,Regression Analysis,4,verified,Regression Analysis,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Multiple Regression Model,Multiple Regression Model,3,verified,Multiple Regression Model,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Dummy Variable Technique,Dummy Variable Technique,3,verified,Dummy Variable Technique,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Interaction Terms,Interaction Terms,3,verified,Interaction Terms,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Hypothesis Testing,Hypothesis Testing,20,verified,Hypothesis Testing,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,T-Distribution Properties,T-Distribution Properties,2,verified,T-Distribution Properties,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Sample Size Determination,Sample Size Determination,5,verified,Sample Size Determination,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Grants management,Grants management,6,verified,Grants management,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Funding opportunities,Funding opportunities,5,verified,Funding opportunities,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Proposal writing skills,Proposal writing skills,4,verified,Proposal writing skills,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Grant proposal structure,Grant proposal structure,3,verified,Grant proposal structure,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Funeral Rites and Rituals,Funeral Rites and Rituals,1,verified,Funeral Rites and Rituals,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Cultural Significance of Death,Cultural Significance of Death,1,verified,Cultural Significance of Death,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Mourning Practices and Customs,Mourning Practices and Customs,1,verified,Mourning Practices and Customs,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Death and Bereavement Process,Death and Bereavement Process,1,verified,Death and Bereavement Process,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Symbolic Meaning in Funerals,Symbolic Meaning in Funerals,1,verified,Symbolic Meaning in Funerals,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Near Death Experience,Near Death Experience,1,verified,Near Death Experience,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Afterlife Beliefs,Afterlife Beliefs,1,verified,Afterlife Beliefs,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Grief Counseling Models,Grief Counseling Models,1,verified,Grief Counseling Models,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Terminal Illness Care,Terminal Illness Care,2,verified,Terminal Illness Care,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Burial rights,burial rights,2,verified,Burial rights,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Mourner support,Mourner support,1,verified,Mourner support,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Professional perspectives,Professional perspectives,1,verified,Professional perspectives,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Cultural burial practices,Cultural burial practices,1,verified,Cultural burial practices,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Catering to diverse populations,Catering to diverse populations,1,verified,Catering to diverse populations,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Ethnic and religious diversity,Ethnic and religious diversity,1,verified,Ethnic and religious diversity,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Population demographics analysis,Population demographics analysis,1,verified,Population demographics analysis,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Child funeral attendance,Child funeral attendance,1,verified,Child funeral attendance,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Professional recommendations,Professional recommendations,1,verified,Professional recommendations,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Involvement of children,Involvement of children,1,verified,Involvement of children,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Funeral participation guidelines,Funeral participation guidelines,1,verified,Funeral participation guidelines,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Funeral home resources,Funeral home resources,1,verified,Funeral home resources,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Parental support services,Parental support services,1,verified,Parental support services,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Grief counseling options,Grief counseling options,1,verified,Grief counseling options,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Bereavement care practices,Bereavement care practices,1,verified,Bereavement care practices,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Financial costs of funerals,Financial costs of funerals,1,verified,Financial costs of funerals,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Purchasing funeral services,purchasing funeral services,2,verified,Purchasing funeral services,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Providing funeral services,Providing funeral services,1,verified,Providing funeral services,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Funeral service industry,Funeral service industry,1,verified,Funeral service industry,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Economic impact on families,Economic impact on families,1,verified,Economic impact on families,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Funeral industry services,Funeral industry services,1,verified,Funeral industry services,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Service delivery models,Service delivery models,1,verified,Service delivery models,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Profession comparison methods,Profession comparison methods,1,verified,Profession comparison methods,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Industry service standards,Industry service standards,1,verified,Industry service standards,GRNT_3267_concepts_raw.json
+GRNT_3267,topic,Interview Techniques,Interview Techniques,1,verified,Interview Techniques,GRNT_3267_concepts_raw.json
+GRNT_3267,topic,Assessment Criteria,Assessment Criteria,1,verified,Assessment Criteria,GRNT_3267_concepts_raw.json
+GRNT_3267,topic,Place Description,Place Description,1,verified,Place Description,GRNT_3267_concepts_raw.json
+GRNT_3267,topic,Person Interviewed,Person Interviewed,1,verified,Person Interviewed,GRNT_3267_concepts_raw.json
+GRNT_3267,topic,Observation Skills,Observation Skills,1,verified,Observation Skills,GRNT_3267_concepts_raw.json
+GRNT_3267,topic,Reflection Writing,Reflection Writing,1,verified,Reflection Writing,GRNT_3267_concepts_raw.json
+GRNT_3267,topic,Subjective Experience,Subjective Experience,1,verified,Subjective Experience,GRNT_3267_concepts_raw.json
+GRNT_3267,topic,Objective Analysis,Objective Analysis,1,verified,Objective Analysis,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Grant Proposal Writing,Grant Proposal Writing,3,verified,Grant Proposal Writing,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Research Funding Sources,Research Funding Sources,2,verified,Research Funding Sources,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Grant Review Process,Grant Review Process,3,verified,Grant Review Process,GRNT_3267_concepts_raw.json
+GRNT_3267,concept,Proposal Evaluation Criteria,Proposal Evaluation Criteria,2,verified,Proposal Evaluation Criteria,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Confidence Intervals,Confidence Intervals,9,verified,Confidence Intervals,GRNT_3267_concepts_raw.json
+GRNT_3267,measure,Standard Error Calculation,Standard Error Calculation,5,verified,Standard Error Calculation,GRNT_3267_concepts_raw.json
+GRNT_3267,work,When Breath Becomes Air,When Breath Becomes Air,1,verified,When Breath Becomes Air,GRNT_3267_concepts_raw.json
+GRNT_3267,work,Last Lecture,Last Lecture,1,verified,The Last Lecture,GRNT_3267_concepts_raw.json

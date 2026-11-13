@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+READ_5311,Reading Development,topic,PREREQUISITE_OF,Reading Comprehension,topic,A taught first,,READ_5311_triples_raw.json
+READ_5311,Reading Development,topic,PREREQUISITE_OF,Literacy Instruction and Assessment,topic,A taught first,,READ_5311_triples_raw.json
+READ_5311,Phonological Awareness,topic,PREREQUISITE_OF,Reading Comprehension,topic,A taught first,,READ_5311_triples_raw.json
+READ_5311,Phonological Awareness,topic,PREREQUISITE_OF,Literacy Instruction and Assessment,topic,A taught first,,READ_5311_triples_raw.json
+READ_5311,Foundations of Reading Practice,topic,PREREQUISITE_OF,Literacy Assessment and Intervention,topic,B taught first,B is taught before A - check,READ_5311_triples_raw.json
+READ_5311,Assessment and Intervention Planning,topic,PREREQUISITE_OF,Literacy Assessment and Instruction,topic,A taught first,,READ_5311_triples_raw.json
+READ_5311,Assessment and Intervention Planning,topic,PREREQUISITE_OF,Literacy Assessment and Intervention,topic,B taught first,B is taught before A - check,READ_5311_triples_raw.json
+READ_5311,Reading Development Stages,concept,PART_OF,Reading Development,topic,,,READ_5311_triples_raw.json
+READ_5311,Assessment Tools and Techniques,concept,PART_OF,Evidence-Based Assessments,concept,,,READ_5311_triples_raw.json
+READ_5311,Phonemic Awareness Skills,concept,PART_OF,Phonological Awareness,topic,,,READ_5311_triples_raw.json
+READ_5311,Phonics Instructional Strategies,concept,PART_OF,Phonological Awareness,topic,,,READ_5311_triples_raw.json
+READ_5311,Fluency Building Techniques,concept,PART_OF,Phonological Awareness,topic,,,READ_5311_triples_raw.json
+READ_5311,Vocabulary Development Methods,concept,PART_OF,Reading Comprehension,topic,,,READ_5311_triples_raw.json
+READ_5311,Comprehension Instructional Practices,concept,PART_OF,Reading Comprehension,topic,,,READ_5311_triples_raw.json
+READ_5311,Reading Comprehension Strategies,concept,PART_OF,Reading Comprehension,topic,,,READ_5311_triples_raw.json
+READ_5311,Reading Instructional Frameworks,concept,PART_OF,Foundations of Reading Practice,topic,,,READ_5311_triples_raw.json
+READ_5311,Literacy Instructional Models,concept,PART_OF,Foundations of Reading Practice,topic,,,READ_5311_triples_raw.json
+READ_5311,Student Progress Monitoring Systems,concept,PART_OF,Assessment and Intervention Planning,topic,,,READ_5311_triples_raw.json
+READ_5311,Intervention Effectiveness Evaluation,concept,PART_OF,Assessment and Intervention Planning,topic,,,READ_5311_triples_raw.json
+READ_5311,Evidence-Based Assessments,concept,USED_FOR,Evidence-Based Literacy Practices,concept,,,READ_5311_triples_raw.json
+READ_5311,Phonemic Awareness Skills,concept,USED_FOR,Phonological Awareness,topic,,,READ_5311_triples_raw.json
+READ_5311,Phonics Instructional Strategies,concept,USED_FOR,Phonological Awareness,topic,,,READ_5311_triples_raw.json
+READ_5311,Fluency Building Techniques,concept,USED_FOR,Phonological Awareness,topic,,,READ_5311_triples_raw.json
+READ_5311,Reading Comprehension Strategies,concept,USED_FOR,Reading Comprehension,topic,,,READ_5311_triples_raw.json
+READ_5311,Literacy Instructional Models,concept,USED_FOR,Foundations of Reading Practice,topic,,,READ_5311_triples_raw.json
+READ_5311,Intervention Effectiveness Evaluation,concept,USED_FOR,Assessment and Intervention Planning,topic,,,READ_5311_triples_raw.json

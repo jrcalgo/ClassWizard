@@ -1,0 +1,42 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_3141,Communication Processes,concept,PREREQUISITE_OF,Group Dynamics,concept,same unit,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Processes,concept,PREREQUISITE_OF,Organizational Culture,concept,A taught first,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Processes,concept,PREREQUISITE_OF,Information Exchange,concept,A taught first,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Processes,concept,PREREQUISITE_OF,Power Dynamics,concept,A taught first,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Processes,concept,PREREQUISITE_OF,Conflict Resolution,concept,A taught first,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Processes,concept,PREREQUISITE_OF,Resource Allocation,concept,A taught first,,LEGL_3141_triples_raw.json
+LEGL_3141,Interpersonal Communication,concept,PREREQUISITE_OF,Group Dynamics,concept,same unit,,LEGL_3141_triples_raw.json
+LEGL_3141,Group Dynamics,concept,PREREQUISITE_OF,Conflict Resolution,concept,A taught first,,LEGL_3141_triples_raw.json
+LEGL_3141,Organizational Culture,concept,PREREQUISITE_OF,Power Dynamics,concept,B taught first,B is taught before A - check,LEGL_3141_triples_raw.json
+LEGL_3141,Organizational Culture,concept,PREREQUISITE_OF,Information Exchange,concept,B taught first,B is taught before A - check,LEGL_3141_triples_raw.json
+LEGL_3141,Symbolic Interactionism,concept,PREREQUISITE_OF,Rhetorical Theory,concept,same unit,,LEGL_3141_triples_raw.json
+LEGL_3141,Resource Allocation,concept,PREREQUISITE_OF,Human Relations,concept,B taught first,B is taught before A - check,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Processes,concept,PART_OF,Foundations of Org Comm,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Interpersonal Communication,concept,PART_OF,Foundations of Org Comm,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Group Dynamics,concept,PART_OF,Foundations of Org Comm,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Organizational Culture,concept,PART_OF,Classic Approaches,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Information Exchange,concept,PART_OF,Systems/Culture Approaches,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Power Dynamics,concept,PART_OF,Systems/Culture Approaches,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Conflict Resolution,concept,PART_OF,Human Relations/Resources,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Barriers,concept,PART_OF,Human Relations/Resources,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Organizational Communication,concept,PART_OF,Foundations of Org Comm,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Symbolic Interactionism,concept,PART_OF,Classic Approaches,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Resource Allocation,concept,PART_OF,Human Relations/Resources,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Emotional Intelligence,concept,PART_OF,Emotion Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Theories,concept,PART_OF,Foundations of Org Comm,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Channels,concept,PART_OF,Systems/Culture Approaches,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Human Relations,concept,PART_OF,Human Relations/Resources,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Role Expectations,concept,PART_OF,Socialization Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Emotion Regulation,concept,PART_OF,Emotion Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Emotional Labor,concept,PART_OF,Emotion Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Interpersonal Conflict,concept,PART_OF,Conflict Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Styles,concept,PART_OF,Conflict Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Communication Models,concept,PART_OF,Foundations of Org Comm,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Classical Approaches,concept,PART_OF,Classic Approaches,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Rhetorical Theory,concept,PART_OF,Classic Approaches,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Social Identity Theory,concept,PART_OF,Socialization Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Emotion Expression,concept,PART_OF,Emotion Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Emotion Recognition,concept,PART_OF,Emotion Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Emotion Management,concept,PART_OF,Emotion Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Organizational Conflict,concept,PART_OF,Conflict Processes,topic,,,LEGL_3141_triples_raw.json
+LEGL_3141,Negotiation Strategies,concept,PART_OF,Conflict Processes,topic,,,LEGL_3141_triples_raw.json

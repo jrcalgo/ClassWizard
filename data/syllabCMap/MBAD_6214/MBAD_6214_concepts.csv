@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MBAD_6214,topic,Artificial Intelligence,artificial intelligence,1,verified,Artificial Intelligence,MBAD_6214_concepts_raw.json
+MBAD_6214,topic,Machine Learning Fundamentals,Machine Learning Fundamentals,1,inferred,Machine Learning Fundamentals,MBAD_6214_concepts_raw.json
+MBAD_6214,topic,Planning and Executing AI Projects,Planning and Executing AI Projects,1,inferred,Planning and Executing AI Projects,MBAD_6214_concepts_raw.json
+MBAD_6214,topic,Writing a Business Case for AI,Writing a Business Case for AI,1,inferred,Writing a Business Case for AI,MBAD_6214_concepts_raw.json
+MBAD_6214,topic,Ethics and Implications of AI,Ethics and Implications of AI,1,inferred,Ethics and Implications of AI,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Types of Artificial Intelligence,Types of Artificial Intelligence,1,inferred,Types of Artificial Intelligence,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Supervised and Unsupervised Learning,Supervised and Unsupervised Learning,1,inferred,Supervised and Unsupervised Learning,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Neural Network Architectures,Neural Network Architectures,1,inferred,Neural Network Architectures,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Generative AI Models,Generative AI Models,1,inferred,Generative AI Models,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Natural Language Processing,Natural Language Processing,1,inferred,Natural Language Processing,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Computer Vision Basics,Computer Vision Basics,1,inferred,Computer Vision Basics,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Project Planning and Management,Project Planning and Management,1,inferred,Project Planning and Management,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Resource Allocation for AI,Resource Allocation for AI,1,inferred,Resource Allocation for AI,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Budgeting and Cost Estimation,Budgeting and Cost Estimation,1,inferred,Budgeting and Cost Estimation,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Business Requirements for AI,Business Requirements for AI,1,inferred,Business Requirements for AI,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,ROI Analysis for AI Deployment,ROI Analysis for AI Deployment,1,inferred,ROI Analysis for AI Deployment,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Justification for AI Investment,Justification for AI Investment,1,inferred,Justification for AI Investment,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Ethical Considerations in AI,Ethical Considerations in AI,1,inferred,Ethical Considerations in AI,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Moral Implications of AI Decisions,Moral Implications of AI Decisions,1,inferred,Moral Implications of AI Decisions,MBAD_6214_concepts_raw.json
+MBAD_6214,concept,Explainable AI (xAI) Principles,Explainable AI (xAI) Principles,1,inferred,Explainable AI (xAI) Principles,MBAD_6214_concepts_raw.json

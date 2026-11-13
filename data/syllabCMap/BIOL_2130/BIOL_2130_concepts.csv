@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_2130,topic,Animal Structure and Function,animal structure and function,1,verified,Animal Structure and Function,BIOL_2130_concepts_raw.json
+BIOL_2130,topic,Ecological Principles,Ecological Principles,1,inferred,Ecological Principles,BIOL_2130_concepts_raw.json
+BIOL_2130,topic,Evolutionary Theory,Evolutionary Theory,1,inferred,Evolutionary Theory,BIOL_2130_concepts_raw.json
+BIOL_2130,topic,Biodiversity Concepts,Biodiversity Concepts,1,inferred,Biodiversity Concepts,BIOL_2130_concepts_raw.json
+BIOL_2130,topic,Plant Structure and Function,Plant Structure and Function,1,inferred,Plant Structure and Function,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Ecosystem Structure and Function,Ecosystem Structure and Function,1,inferred,Ecosystem Structure and Function,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Energy Flow in Ecosystems,Energy Flow in Ecosystems,1,inferred,Energy Flow in Ecosystems,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Nutrient Cycling Processes,Nutrient Cycling Processes,1,inferred,Nutrient Cycling Processes,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Mechanisms of Evolution,Mechanisms of Evolution,1,inferred,Mechanisms of Evolution,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Species Adaptation and Change,Species Adaptation and Change,1,inferred,Species Adaptation and Change,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Natural Selection Process,Natural Selection Process,1,inferred,Natural Selection Process,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Taxonomic Classification Systems,Taxonomic Classification Systems,1,inferred,Taxonomic Classification Systems,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Species Diversity and Abundance,Species Diversity and Abundance,1,inferred,Species Diversity and Abundance,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Ecological Niche Theory,Ecological Niche Theory,1,inferred,Ecological Niche Theory,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Photosynthesis and Respiration,Photosynthesis and Respiration,1,inferred,Photosynthesis and Respiration,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Transportation in Plants,Transportation in Plants,1,inferred,Transportation in Plants,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Cell Wall Composition,Cell Wall Composition,1,inferred,Cell Wall Composition,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Skeletal System and Movement,Skeletal System and Movement,1,inferred,Skeletal System and Movement,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Muscular System and Contraction,Muscular System and Contraction,1,inferred,Muscular System and Contraction,BIOL_2130_concepts_raw.json
+BIOL_2130,concept,Nervous System and Reflexes,Nervous System and Reflexes,1,inferred,Nervous System and Reflexes,BIOL_2130_concepts_raw.json

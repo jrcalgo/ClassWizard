@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_2221,construction means,concept,PART_OF,Construction Means and Methods,topic,,,CMET_2221_triples_raw.json
+CMET_2221,Crews and Equipment,topic,PART_OF,Construction Means and Methods,topic,,,CMET_2221_triples_raw.json
+CMET_2221,analysis based on economics and performance,method,USED_FOR,construction means,concept,,,CMET_2221_triples_raw.json

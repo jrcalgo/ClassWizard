@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPTI_8381,topic,Metrology,Metrology,3,verified,Metrology,OPTI_8381_concepts_raw.json
+OPTI_8381,topic,Precision and Accuracy,precision and accuracy,1,verified,Precision and Accuracy,OPTI_8381_concepts_raw.json
+OPTI_8381,topic,Robot Accuracy and Calibration,robot accuracy and calibration,1,verified,Robot Accuracy and Calibration,OPTI_8381_concepts_raw.json
+OPTI_8381,topic,Design of Precision Instruments,design of precision instruments,1,verified,Design of Precision Instruments,OPTI_8381_concepts_raw.json
+OPTI_8381,topic,Size and Form Measurement,Size and Form Measurement,1,inferred,Size and Form Measurement,OPTI_8381_concepts_raw.json
+OPTI_8381,topic,Computational Methods in Form Measurement,Computational Methods in Form Measurement,1,inferred,Computational Methods in Form Measurement,OPTI_8381_concepts_raw.json
+OPTI_8381,topic,Surface Texture and Roundness Measurement,Surface Texture and Roundness Measurement,1,inferred,Surface Texture and Roundness Measurement,OPTI_8381_concepts_raw.json
+OPTI_8381,topic,Machine Tool Accuracy and Calibration,Machine Tool Accuracy and Calibration,1,inferred,Machine Tool Accuracy and Calibration,OPTI_8381_concepts_raw.json
+OPTI_8381,topic,Screw Thread and Gear Measurement,Screw Thread and Gear Measurement,1,inferred,Screw Thread and Gear Measurement,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Metrology Definition,Metrology Definition,1,inferred,Metrology Definition,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Importance of Metrology,Importance of Metrology,1,inferred,Importance of Metrology,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Measurement Uncertainty,Measurement Uncertainty,1,inferred,Measurement Uncertainty,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Precision vs Accuracy,Precision vs Accuracy,1,inferred,Precision vs Accuracy,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Measurement Error Types,Measurement Error Types,1,inferred,Measurement Error Types,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Uncertainty Propagation,Uncertainty Propagation,1,inferred,Uncertainty Propagation,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Caliper Measurement Techniques,Caliper Measurement Techniques,1,inferred,Caliper Measurement Techniques,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Micrometer Measurement Methods,Micrometer Measurement Methods,1,inferred,Micrometer Measurement Methods,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Coordinate Metrology Systems,Coordinate Metrology Systems,1,inferred,Coordinate Metrology Systems,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Geometric Dimensioning Tolerancing,Geometric Dimensioning Tolerancing,1,inferred,Geometric Dimensioning Tolerancing,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Form Error Calculation Methods,Form Error Calculation Methods,1,inferred,Form Error Calculation Methods,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Reverse Engineering Techniques,Reverse Engineering Techniques,1,inferred,Reverse Engineering Techniques,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Surface Roughness Parameters,Surface Roughness Parameters,1,inferred,Surface Roughness Parameters,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Roundness Measurement Techniques,Roundness Measurement Techniques,1,inferred,Roundness Measurement Techniques,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Surface Finish Measurement,Surface Finish Measurement,1,inferred,Surface Finish Measurement,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Machine Tool Calibration Methods,Machine Tool Calibration Methods,1,inferred,Machine Tool Calibration Methods,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Accuracy Testing and Evaluation,Accuracy Testing and Evaluation,1,inferred,Accuracy Testing and Evaluation,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Calibration Standards and Procedures,Calibration Standards and Procedures,1,inferred,Calibration Standards and Procedures,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Robot Calibration Techniques,Robot Calibration Techniques,1,inferred,Robot Calibration Techniques,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Accuracy Requirements for Robots,Accuracy Requirements for Robots,1,inferred,Accuracy Requirements for Robots,OPTI_8381_concepts_raw.json
+OPTI_8381,concept,Calibration of Robot Sensors,Calibration of Robot Sensors,1,inferred,Calibration of Robot Sensors,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Thread Measurement Methods,Thread Measurement Methods,1,inferred,Thread Measurement Methods,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Gear Metrology Techniques,Gear Metrology Techniques,1,inferred,Gear Metrology Techniques,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Precision Gearing Design,Precision Gearing Design,1,inferred,Precision Gearing Design,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Instrument Design Principles,Instrument Design Principles,1,inferred,Instrument Design Principles,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Precision Instrument Calibration,Precision Instrument Calibration,1,inferred,Precision Instrument Calibration,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Optimization of Instrument Performance,Optimization of Instrument Performance,1,inferred,Optimization of Instrument Performance,OPTI_8381_concepts_raw.json
+OPTI_8381,method,Calibration Methods,Calibration Methods,1,inferred,Calibration Methods,OPTI_8381_concepts_raw.json

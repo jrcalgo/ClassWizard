@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4272,Photosynthesis in Plants,concept,PART_OF,Energy Acquisition,topic,,,BIOL_4272_triples_raw.json
+BIOL_4272,Cellular Respiration Overview,concept,PART_OF,Energy Acquisition,topic,,,BIOL_4272_triples_raw.json
+BIOL_4272,Aerobic vs Anaerobic Metabolism,concept,PART_OF,Energy Acquisition,topic,,,BIOL_4272_triples_raw.json
+BIOL_4272,Temperature Regulation Mechanisms,concept,PART_OF,Homeostasis Fundamentals,topic,,,BIOL_4272_triples_raw.json
+BIOL_4272,Electrolyte Balance and Homeostasis,concept,PART_OF,Homeostasis Fundamentals,topic,,,BIOL_4272_triples_raw.json
+BIOL_4272,Endothermy in Mammals and Birds,concept,PART_OF,Vertebrate Energy Strategies,topic,,,BIOL_4272_triples_raw.json
+BIOL_4272,Arthropod Respiration and Metabolism,concept,PART_OF,Invertebrate Energy Strategies,topic,,,BIOL_4272_triples_raw.json
+BIOL_4272,Gamete Formation and Fertilization,concept,PART_OF,Reproduction in Animals,topic,,,BIOL_4272_triples_raw.json
+BIOL_4272,Embryonic Development Stages,concept,PART_OF,Reproduction in Animals,topic,,,BIOL_4272_triples_raw.json
+BIOL_4272,Maternal Investment Strategies,concept,PART_OF,Reproduction in Animals,topic,,,BIOL_4272_triples_raw.json

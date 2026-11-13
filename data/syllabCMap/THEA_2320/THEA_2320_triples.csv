@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_2320,Loglines,topic,PREREQUISITE_OF,synopsis,concept,same unit,,THEA_2320_triples_raw.json
+THEA_2320,Loglines,topic,PREREQUISITE_OF,initial outline,concept,same unit,,THEA_2320_triples_raw.json
+THEA_2320,synopsis,concept,PREREQUISITE_OF,theatrical structure,concept,same unit,,THEA_2320_triples_raw.json
+THEA_2320,synopsis,concept,PREREQUISITE_OF,artistic voice development,concept,A taught first,,THEA_2320_triples_raw.json
+THEA_2320,initial outline,concept,PREREQUISITE_OF,play drafting techniques,concept,A taught first,,THEA_2320_triples_raw.json
+THEA_2320,theatrical structure,concept,PREREQUISITE_OF,feature length play structure,concept,A taught first,,THEA_2320_triples_raw.json
+THEA_2320,Aristotelian Tragedy Structure,topic,PREREQUISITE_OF,villainous character traits,concept,same unit,,THEA_2320_triples_raw.json
+THEA_2320,theatrical storytelling principles,concept,PART_OF,theatrical works,concept,,,THEA_2320_triples_raw.json
+THEA_2320,Loglines,topic,PART_OF,synopsis,concept,,part is broader than whole - check direction,THEA_2320_triples_raw.json
+THEA_2320,theatrical structure,concept,PART_OF,play structure,concept,,,THEA_2320_triples_raw.json
+THEA_2320,artistic voice development,concept,PART_OF,artistic voice,concept,,,THEA_2320_triples_raw.json
+THEA_2320,feature length play structure,concept,PART_OF,Feature Length Plays,topic,,,THEA_2320_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_2320,Prosecutorial Discretion,concept,USED_FOR,Court Reform Policies,topic,,,CJUS_2320_triples_raw.json
+CJUS_2320,Prosecutorial Discretion,concept,USED_FOR,Defense Attorney Roles,concept,,,CJUS_2320_triples_raw.json
+CJUS_2320,Prosecutorial Discretion,concept,USED_FOR,Judges,topic,,,CJUS_2320_triples_raw.json
+CJUS_2320,Prosecutorial Discretion,concept,USED_FOR,Juries,topic,,,CJUS_2320_triples_raw.json

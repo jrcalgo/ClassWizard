@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HSMT_2101,topic,Health Systems Management,Health Systems Management,1,verified,Health Systems Management,HSMT_2101_concepts_raw.json
+HSMT_2101,topic,HSM,HSM,6,inferred,Introduction to HSM,HSMT_2101_concepts_raw.json
+HSMT_2101,topic,Healthcare System Structure,Healthcare System Structure,1,inferred,Healthcare System Structure,HSMT_2101_concepts_raw.json
+HSMT_2101,topic,Healthcare Policy and Law,Healthcare Policy and Law,1,inferred,Healthcare Policy and Law,HSMT_2101_concepts_raw.json
+HSMT_2101,topic,Healthcare Finance and Economics,Healthcare Finance and Economics,1,inferred,Healthcare Finance and Economics,HSMT_2101_concepts_raw.json
+HSMT_2101,topic,Quality Improvement and Patient Safety,Quality Improvement and Patient Safety,1,inferred,Quality Improvement and Patient Safety,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Definition of Health Systems Management,Definition of Health Systems Management,1,inferred,Definition of Health Systems Management,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Types of Healthcare Delivery Systems,Types of Healthcare Delivery Systems,1,inferred,Types of Healthcare Delivery Systems,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Role of Government in Healthcare,Role of Government in Healthcare,1,inferred,Role of Government in Healthcare,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Private Sector Involvement in Healthcare,Private Sector Involvement in Healthcare,1,inferred,Private Sector Involvement in Healthcare,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Regulatory Framework for HSM,Regulatory Framework for HSM,1,inferred,Regulatory Framework for HSM,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Healthcare Laws and Regulations,Healthcare Laws and Regulations,1,inferred,Healthcare Laws and Regulations,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Economic Principles in Healthcare,Economic Principles in Healthcare,1,inferred,Economic Principles in Healthcare,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Cost-Benefit Analysis in HSM,Cost-Benefit Analysis in HSM,1,inferred,Cost-Benefit Analysis in HSM,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Revenue Cycle Management,Revenue Cycle Management,1,inferred,Revenue Cycle Management,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Importance of Quality Improvement,Importance of Quality Improvement,1,inferred,Importance of Quality Improvement,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Patient Safety Initiatives in HSM,Patient Safety Initiatives in HSM,1,inferred,Patient Safety Initiatives in HSM,HSMT_2101_concepts_raw.json
+HSMT_2101,concept,Root Cause Analysis Techniques,Root Cause Analysis Techniques,1,inferred,Root Cause Analysis Techniques,HSMT_2101_concepts_raw.json

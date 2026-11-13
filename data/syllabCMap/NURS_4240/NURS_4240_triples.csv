@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_4240,Social Justice Framework,topic,PART_OF,Risk Reduction Strategies,topic,,,NURS_4240_triples_raw.json
+NURS_4240,Social Justice Framework,topic,PART_OF,Community Partnerships in Healthcare,topic,,,NURS_4240_triples_raw.json
+NURS_4240,Social Justice Framework,topic,PART_OF,Healthcare Systems and Policy,topic,,,NURS_4240_triples_raw.json
+NURS_4240,Population Health Indicators,topic,PART_OF,Risk Reduction Strategies,topic,,,NURS_4240_triples_raw.json
+NURS_4240,Risk Reduction Strategies,topic,PART_OF,Community Partnerships in Healthcare,topic,,,NURS_4240_triples_raw.json
+NURS_4240,Community Partnerships in Healthcare,topic,PART_OF,Healthcare Systems and Policy,topic,,,NURS_4240_triples_raw.json

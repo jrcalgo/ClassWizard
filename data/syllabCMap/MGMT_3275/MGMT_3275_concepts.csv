@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MGMT_3275,topic,International Management,International Management,2,verified,International Management,MGMT_3275_concepts_raw.json
+MGMT_3275,topic,Strategic Decision Making,strategic decision making,1,verified,Strategic Decision Making,MGMT_3275_concepts_raw.json
+MGMT_3275,concept,Social Responsibility Issues,social responsibility issues,1,verified,Social Responsibility Issues,MGMT_3275_concepts_raw.json
+MGMT_3275,concept,Impact of Globalization on Markets,impact of globalization on markets,1,verified,Impact of Globalization on Markets,MGMT_3275_concepts_raw.json
+MGMT_3275,method,Simulations,simulations,2,verified,Simulations,MGMT_3275_concepts_raw.json
+MGMT_3275,work,Walmart,Walmart,1,verified,Walmart,MGMT_3275_concepts_raw.json
+MGMT_3275,work,Starbucks,Starbucks,1,verified,Starbucks,MGMT_3275_concepts_raw.json
+MGMT_3275,work,Honda,Honda,1,verified,Honda,MGMT_3275_concepts_raw.json
+MGMT_3275,work,Toyota,Toyota,1,verified,Toyota,MGMT_3275_concepts_raw.json

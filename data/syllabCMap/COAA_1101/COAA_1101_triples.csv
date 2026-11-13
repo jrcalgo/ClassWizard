@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COAA_1101,claims,concept,PREREQUISITE_OF,supporting evidence,concept,A mentioned first,,COAA_1101_triples_raw.json

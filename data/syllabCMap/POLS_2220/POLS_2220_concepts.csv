@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_2220,topic,Political Science Methods,Political Science Methods,1,verified,Political Science Methods,POLS_2220_concepts_raw.json
+POLS_2220,tool,RStudio,RStudio,1,verified,RStudio,POLS_2220_concepts_raw.json
+POLS_2220,topic,Combining Multiple Kinds of Evidence,combining multiple kinds of evidence,1,verified,Combining Multiple Kinds of Evidence,POLS_2220_concepts_raw.json
+POLS_2220,topic,Literature Search and Review,Literature Search and Review,1,inferred,Literature Search and Review,POLS_2220_concepts_raw.json
+POLS_2220,topic,Statistical Reasoning Fundamentals,Statistical Reasoning Fundamentals,1,inferred,Statistical Reasoning Fundamentals,POLS_2220_concepts_raw.json
+POLS_2220,topic,Data Quality and Evaluation,Data Quality and Evaluation,1,inferred,Data Quality and Evaluation,POLS_2220_concepts_raw.json
+POLS_2220,topic,Descriptive Statistics in R,Descriptive Statistics in R,1,inferred,Descriptive Statistics in R,POLS_2220_concepts_raw.json
+POLS_2220,topic,Inferential Statistics with R,Inferential Statistics with R,1,inferred,Inferential Statistics with R,POLS_2220_concepts_raw.json
+POLS_2220,topic,Quantifying Uncertainty in R,Quantifying Uncertainty in R,1,inferred,Quantifying Uncertainty in R,POLS_2220_concepts_raw.json
+POLS_2220,topic,Empirical Research Workflow,Empirical Research Workflow,1,inferred,Empirical Research Workflow,POLS_2220_concepts_raw.json
+POLS_2220,concept,probability concepts,Probability concepts,1,inferred,probability concepts,POLS_2220_concepts_raw.json
+POLS_2220,concept,hypothesis testing basics,Hypothesis testing basics,1,inferred,hypothesis testing basics,POLS_2220_concepts_raw.json
+POLS_2220,concept,confidence intervals,Confidence intervals,1,inferred,confidence intervals,POLS_2220_concepts_raw.json
+POLS_2220,concept,data cleaning techniques,Data cleaning techniques,1,inferred,data cleaning techniques,POLS_2220_concepts_raw.json
+POLS_2220,concept,data quality metrics,Data quality metrics,1,inferred,data quality metrics,POLS_2220_concepts_raw.json
+POLS_2220,concept,mode calculation,mode calculation,1,inferred,mode calculation,POLS_2220_concepts_raw.json
+POLS_2220,concept,standard deviation and variance,Standard deviation and variance,1,inferred,standard deviation and variance,POLS_2220_concepts_raw.json
+POLS_2220,concept,data summary statistics,Data summary statistics,1,inferred,data summary statistics,POLS_2220_concepts_raw.json
+POLS_2220,concept,t-tests,t-tests,1,inferred,t-tests,POLS_2220_concepts_raw.json
+POLS_2220,concept,regression analysis basics,Regression analysis basics,1,inferred,regression analysis basics,POLS_2220_concepts_raw.json
+POLS_2220,method,confidence interval construction,Confidence interval construction,1,inferred,confidence interval construction,POLS_2220_concepts_raw.json
+POLS_2220,method,standard error calculation,Standard error calculation,1,inferred,standard error calculation,POLS_2220_concepts_raw.json
+POLS_2220,method,margin of error estimation,Margin of error estimation,1,inferred,margin of error estimation,POLS_2220_concepts_raw.json
+POLS_2220,concept,mixed-methods research design,Mixed-methods research design,1,inferred,mixed-methods research design,POLS_2220_concepts_raw.json
+POLS_2220,method,hypothesis testing,Hypothesis testing,2,inferred,hypothesis testing,POLS_2220_concepts_raw.json
+POLS_2220,method,literature review techniques,Literature review techniques,1,inferred,literature review techniques,POLS_2220_concepts_raw.json
+POLS_2220,method,citation analysis,Citation analysis,1,inferred,citation analysis,POLS_2220_concepts_raw.json
+POLS_2220,method,data visualization,Data visualization,2,inferred,data visualization,POLS_2220_concepts_raw.json
+POLS_2220,method,data cleaning,Data cleaning,1,inferred,data cleaning,POLS_2220_concepts_raw.json
+POLS_2220,method,regression analysis,Regression analysis,1,inferred,regression analysis,POLS_2220_concepts_raw.json

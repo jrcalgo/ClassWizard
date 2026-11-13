@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETCE_4251,topic,Highway Planning,highway planning,1,verified,Highway Planning,ETCE_4251_concepts_raw.json
+ETCE_4251,topic,Traffic Engineering,traffic engineering,1,verified,Traffic Engineering,ETCE_4251_concepts_raw.json
+ETCE_4251,topic,Grade Separations,grade separations,1,verified,Grade Separations,ETCE_4251_concepts_raw.json
+ETCE_4251,topic,Interchanges,interchanges,1,verified,Interchanges,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Transportation Infrastructure Planning,Transportation Infrastructure Planning,1,inferred,Transportation Infrastructure Planning,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Economic Considerations in Planning,Economic Considerations in Planning,1,inferred,Economic Considerations in Planning,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Traffic Flow Theory Basics,Traffic Flow Theory Basics,1,inferred,Traffic Flow Theory Basics,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Roundabout and Intersection Design,Roundabout and Intersection Design,1,inferred,Roundabout and Intersection Design,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Capacity and Level of Service,Capacity and Level of Service,1,inferred,Capacity and Level of Service,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Peak Hour Traffic Volume Calculation,Peak Hour Traffic Volume Calculation,1,inferred,Peak Hour Traffic Volume Calculation,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Freeway and Arterial Road Capacity,Freeway and Arterial Road Capacity,1,inferred,Freeway and Arterial Road Capacity,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Horizontal Curve Design Guidelines,Horizontal Curve Design Guidelines,1,inferred,Horizontal Curve Design Guidelines,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Vertical Curve Design Considerations,Vertical Curve Design Considerations,1,inferred,Vertical Curve Design Considerations,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Diamond Interchange Design Features,Diamond Interchange Design Features,1,inferred,Diamond Interchange Design Features,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Cloverleaf Interchange Design Principles,Cloverleaf Interchange Design Principles,1,inferred,Cloverleaf Interchange Design Principles,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Ramp Metering System Design,Ramp Metering System Design,1,inferred,Ramp Metering System Design,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Pavement Material Selection Criteria,Pavement Material Selection Criteria,1,inferred,Pavement Material Selection Criteria,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Soil Stabilization Techniques Overview,Soil Stabilization Techniques Overview,1,inferred,Soil Stabilization Techniques Overview,ETCE_4251_concepts_raw.json
+ETCE_4251,topic,Construction Methods and Equipment,Construction Methods and Equipment,1,inferred,Construction Methods and Equipment,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Highway Design Software Applications,Highway Design Software Applications,1,inferred,Highway Design Software Applications,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Design-Build Project Delivery Method,Design-Build Project Delivery Method,1,inferred,Design-Build Project Delivery Method,ETCE_4251_concepts_raw.json
+ETCE_4251,topic,Construction Management Best Practices,Construction Management Best Practices,1,inferred,Construction Management Best Practices,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Highway System Design Principles,Highway System Design Principles,1,inferred,Highway System Design Principles,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Traffic Signal Control Systems,Traffic Signal Control Systems,1,inferred,Traffic Signal Control Systems,ETCE_4251_concepts_raw.json
+ETCE_4251,concept,Grade Separation Design Elements,Grade Separation Design Elements,1,inferred,Grade Separation Design Elements,ETCE_4251_concepts_raw.json

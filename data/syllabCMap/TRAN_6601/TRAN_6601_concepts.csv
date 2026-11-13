@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+TRAN_6601,topic,Theories of translation from Horace and Cicero to the present,Theories of translation from Horace and Cicero to the present,1,verified,Theories of translation from Horace and Cicero to the present,TRAN_6601_concepts_raw.json
+TRAN_6601,work,Horace,Horace,1,verified,Horace,TRAN_6601_concepts_raw.json
+TRAN_6601,work,Cicero,Cicero,1,verified,Cicero,TRAN_6601_concepts_raw.json
+TRAN_6601,topic,Ancient Roots,Ancient Roots,1,inferred,Ancient Roots,TRAN_6601_concepts_raw.json
+TRAN_6601,topic,Medieval Period,Medieval Period,1,inferred,Medieval Period,TRAN_6601_concepts_raw.json
+TRAN_6601,topic,Renaissance to Enlightenment,Renaissance to Enlightenment,1,inferred,Renaissance to Enlightenment,TRAN_6601_concepts_raw.json
+TRAN_6601,topic,Romanticism and Beyond,Romanticism and Beyond,1,inferred,Romanticism and Beyond,TRAN_6601_concepts_raw.json
+TRAN_6601,topic,Structuralism and Post-Structuralism,Structuralism and Post-Structuralism,1,inferred,Structuralism and Post-Structuralism,TRAN_6601_concepts_raw.json
+TRAN_6601,topic,Descriptive Translation Studies,Descriptive Translation Studies,1,inferred,Descriptive Translation Studies,TRAN_6601_concepts_raw.json
+TRAN_6601,topic,Skopos Theory and Beyond,Skopos Theory and Beyond,1,inferred,Skopos Theory and Beyond,TRAN_6601_concepts_raw.json
+TRAN_6601,topic,Translation and Culture,Translation and Culture,1,inferred,Translation and Culture,TRAN_6601_concepts_raw.json
+TRAN_6601,topic,Translation Technologies and Ethics,Translation Technologies and Ethics,1,inferred,Translation Technologies and Ethics,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Horace's Translation Theory,Horace's Translation Theory,1,inferred,Horace's Translation Theory,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Cicero's Rhetorical Approach,Cicero's Rhetorical Approach,1,inferred,Cicero's Rhetorical Approach,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Scholasticism and Translation,Scholasticism and Translation,1,inferred,Scholasticism and Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Thomas Aquinas' Views on Translation,Thomas Aquinas' Views on Translation,1,inferred,Thomas Aquinas' Views on Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Humanist Translation Movement,Humanist Translation Movement,1,inferred,Humanist Translation Movement,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,William Tyndale's Bible Translations,William Tyndale's Bible Translations,1,inferred,William Tyndale's Bible Translations,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,John Locke's Empiricism and Translation,John Locke's Empiricism and Translation,1,inferred,John Locke's Empiricism and Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,German Romanticism and Translation,German Romanticism and Translation,1,inferred,German Romanticism and Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Friedrich Schleiermacher's Theory,Friedrich Schleiermacher's Theory,1,inferred,Friedrich Schleiermacher's Theory,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Roman Jakobson's Structuralism,Roman Jakobson's Structuralism,1,inferred,Roman Jakobson's Structuralism,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Emile Benveniste's Semiotics,Emile Benveniste's Semiotics,1,inferred,Emile Benveniste's Semiotics,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Foucault's Power Dynamics in Translation,Foucault's Power Dynamics in Translation,1,inferred,Foucault's Power Dynamics in Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Gideon Toury's Descriptive Approach,Gideon Toury's Descriptive Approach,1,inferred,Gideon Toury's Descriptive Approach,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Hans Vermeer's Skopos Theory,Hans Vermeer's Skopos Theory,1,inferred,Hans Vermeer's Skopos Theory,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Peter Newmark's Communicative Approach,Peter Newmark's Communicative Approach,1,inferred,Peter Newmark's Communicative Approach,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Cultural Studies and Translation,Cultural Studies and Translation,1,inferred,Cultural Studies and Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Postcolonialism and Translation,Postcolonialism and Translation,1,inferred,Postcolonialism and Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Globalization and Translation,Globalization and Translation,1,inferred,Globalization and Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Machine Translation and Human Translation,Machine Translation and Human Translation,1,inferred,Machine Translation and Human Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Ethics of Machine Translation,Ethics of Machine Translation,1,inferred,Ethics of Machine Translation,TRAN_6601_concepts_raw.json
+TRAN_6601,concept,Translation Quality Assessment Metrics,Translation Quality Assessment Metrics,1,inferred,Translation Quality Assessment Metrics,TRAN_6601_concepts_raw.json

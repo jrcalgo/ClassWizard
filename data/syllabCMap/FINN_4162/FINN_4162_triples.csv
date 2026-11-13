@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_4162,Evolution of Financial Technology,concept,PREREQUISITE_OF,Fintech,topic,same unit,,FINN_4162_triples_raw.json
+FINN_4162,Evolution of Financial Technology,concept,PART_OF,Fintech,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Impact on Financial Services Industry,concept,PART_OF,Fintech,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Digital Payment Systems,concept,PART_OF,Payments and Transfers,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Mobile Wallets and Payments,concept,PART_OF,Payments and Transfers,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Cryptocurrencies and Blockchain,concept,PART_OF,Payments and Transfers,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Credit Risk Assessment Models,concept,PART_OF,Lending and Credit Scoring,topic,,,FINN_4162_triples_raw.json
+FINN_4162,AI-Powered Investment Strategies,concept,PART_OF,Wealth Management and AI,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Predictive Analytics in Insurance,concept,PART_OF,Insurance and Risk Management,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Fintech Regulatory Frameworks,concept,PART_OF,Regulatory Challenges and Opportunities,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Sustainable Fintech Practices,concept,PART_OF,Emerging Trends and Solutions,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Credit risk assessment,method,USED_FOR,Lending and Credit Scoring,topic,,,FINN_4162_triples_raw.json
+FINN_4162,Machine learning,method,USED_FOR,Lending and Credit Scoring,topic,,,FINN_4162_triples_raw.json

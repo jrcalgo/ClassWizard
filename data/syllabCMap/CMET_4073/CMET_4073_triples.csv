@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_4073,Team Dynamics and Roles,concept,PREREQUISITE_OF,Project Selection,topic,A taught first,,CMET_4073_triples_raw.json
+CMET_4073,Team Dynamics and Roles,concept,PREREQUISITE_OF,Deliverable Planning,topic,A taught first,,CMET_4073_triples_raw.json
+CMET_4073,Team Dynamics and Roles,concept,PREREQUISITE_OF,Real-World Project Analysis,topic,A taught first,,CMET_4073_triples_raw.json
+CMET_4073,Communication Strategies,concept,PREREQUISITE_OF,Conflict Resolution Techniques,concept,same unit,,CMET_4073_triples_raw.json
+CMET_4073,Project Schedule Development,concept,PREREQUISITE_OF,Resource Allocation Strategies,concept,same unit,,CMET_4073_triples_raw.json
+CMET_4073,Collaborative Problem Solving,concept,PREREQUISITE_OF,Presentation and Reporting Skills,concept,same unit,,CMET_4073_triples_raw.json
+CMET_4073,Team Dynamics and Roles,concept,PART_OF,Team Formation,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Communication Strategies,concept,PART_OF,Team Formation,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Conflict Resolution Techniques,concept,PART_OF,Team Formation,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Construction Project Types,concept,PART_OF,Project Selection,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Client Needs and Expectations,concept,PART_OF,Project Selection,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Project Scope Definition,concept,PART_OF,Project Selection,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Project Schedule Development,concept,PART_OF,Deliverable Planning,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Resource Allocation Strategies,concept,PART_OF,Deliverable Planning,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Risk Management Techniques,concept,PART_OF,Deliverable Planning,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Collaborative Problem Solving,concept,PART_OF,Team-Based Deliverables,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Presentation and Reporting Skills,concept,PART_OF,Team-Based Deliverables,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Time Management and Organization,concept,PART_OF,Team-Based Deliverables,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Construction Industry Trends,concept,PART_OF,Real-World Project Analysis,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Real-World Project Analysis,topic,PART_OF,Project Case Studies and Examples,topic,,,CMET_4073_triples_raw.json
+CMET_4073,Best Practices in Construction Management,concept,PART_OF,Real-World Project Analysis,topic,,,CMET_4073_triples_raw.json

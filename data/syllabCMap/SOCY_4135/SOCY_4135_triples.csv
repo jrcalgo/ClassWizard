@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4135,sociology of education,topic,PREREQUISITE_OF,Civil Rights Movement and Education,topic,B mentioned first,,SOCY_4135_triples_raw.json
+SOCY_4135,sociology of education,topic,PREREQUISITE_OF,School Choice and Privatization,topic,B mentioned first,,SOCY_4135_triples_raw.json
+SOCY_4135,sociology of education,topic,PREREQUISITE_OF,Teacher Shortage and Burnout,topic,B mentioned first,,SOCY_4135_triples_raw.json
+SOCY_4135,Theoretical Paradigms in Education,concept,PART_OF,sociology of education,topic,,,SOCY_4135_triples_raw.json
+SOCY_4135,Functionalist Theory and Education,concept,PART_OF,Theoretical Paradigms in Education,concept,,,SOCY_4135_triples_raw.json
+SOCY_4135,Symbolic Interactionism and Education,concept,PART_OF,Theoretical Paradigms in Education,concept,,,SOCY_4135_triples_raw.json
+SOCY_4135,Social Reproduction Theory and Education,concept,PART_OF,Theoretical Paradigms in Education,concept,,,SOCY_4135_triples_raw.json
+SOCY_4135,Standardized Testing and Accountability,topic,USED_FOR,Dropout Rates among Minority Students,topic,,topic used for something - check direction,SOCY_4135_triples_raw.json

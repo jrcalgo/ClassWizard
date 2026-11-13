@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_3111L,cell membrane structure,concept,PART_OF,Cellular Structure,topic,,,BIOL_3111L_triples_raw.json
+BIOL_3111L,nucleus composition and role,concept,PART_OF,Cellular Structure,topic,,,BIOL_3111L_triples_raw.json
+BIOL_3111L,membrane protein interactions,concept,PART_OF,Biomolecular Interactions,topic,,,BIOL_3111L_triples_raw.json
+BIOL_3111L,nucleic acid structure and function,concept,PART_OF,Biomolecular Interactions,topic,,,BIOL_3111L_triples_raw.json
+BIOL_3111L,nucleus composition and role,concept,USED_FOR,Cellular Structure,topic,,,BIOL_3111L_triples_raw.json
+BIOL_3111L,protein-ligand binding mechanisms,concept,USED_FOR,Biomolecular Interactions,topic,,,BIOL_3111L_triples_raw.json
+BIOL_3111L,membrane protein interactions,concept,USED_FOR,Biomolecular Interactions,topic,,,BIOL_3111L_triples_raw.json
+BIOL_3111L,nucleic acid structure and function,concept,USED_FOR,Biomolecular Interactions,topic,,,BIOL_3111L_triples_raw.json

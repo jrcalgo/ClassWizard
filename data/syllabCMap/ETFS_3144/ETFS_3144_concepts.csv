@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETFS_3144,topic,Fire Detection Devices,fire detection devices,1,verified,Fire Detection Devices,ETFS_3144_concepts_raw.json
+ETFS_3144,topic,Fire Suppression Systems,Fire Suppression Systems,2,inferred,Fire Suppression Systems,ETFS_3144_concepts_raw.json
+ETFS_3144,topic,Fire Agents and Mechanisms,Fire Agents and Mechanisms,1,inferred,Fire Agents and Mechanisms,ETFS_3144_concepts_raw.json
+ETFS_3144,topic,Smoke Production and Movement,Smoke Production and Movement,1,inferred,Smoke Production and Movement,ETFS_3144_concepts_raw.json
+ETFS_3144,topic,Fire Protective Detection Systems,Fire Protective Detection Systems,1,inferred,Fire Protective Detection Systems,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Fixed Fire Suppression Systems,Fixed Fire Suppression Systems,1,inferred,Fixed Fire Suppression Systems,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Portable Fire Extinguishers,Portable Fire Extinguishers,1,inferred,Portable Fire Extinguishers,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Suppression System Components,Suppression System Components,1,inferred,Suppression System Components,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Fire Suppression Agents Types,Fire Suppression Agents Types,1,inferred,Fire Suppression Agents Types,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Extinguishing Mechanisms Principles,Extinguishing Mechanisms Principles,1,inferred,Extinguishing Mechanisms Principles,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Agent Selection Criteria,Agent Selection Criteria,1,inferred,Agent Selection Criteria,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Fire Detection Sensors Types,Fire Detection Sensors Types,1,inferred,Fire Detection Sensors Types,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Detection System Components,Detection System Components,1,inferred,Detection System Components,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Alarm Signal Transmission,Alarm Signal Transmission,1,inferred,Alarm Signal Transmission,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Smoke Generation Principles,Smoke Generation Principles,1,inferred,Smoke Generation Principles,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Smoke Behavior Characteristics,Smoke Behavior Characteristics,1,inferred,Smoke Behavior Characteristics,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Ventilation Strategies,Ventilation Strategies,1,inferred,Ventilation Strategies,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Detection System Design Considerations,Detection System Design Considerations,1,inferred,Detection System Design Considerations,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Alarm Signal Processing,Alarm Signal Processing,1,inferred,Alarm Signal Processing,ETFS_3144_concepts_raw.json
+ETFS_3144,concept,Notification Procedures,Notification Procedures,1,inferred,Notification Procedures,ETFS_3144_concepts_raw.json

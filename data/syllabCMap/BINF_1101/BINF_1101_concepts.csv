@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_1101,topic,Bioinformatics,Bioinformatics,8,verified,Bioinformatics,BINF_1101_concepts_raw.json
+BINF_1101,topic,Genomics,Genomics,3,verified,Genomics,BINF_1101_concepts_raw.json
+BINF_1101,concept,DNA Structure and Function,DNA structure and function,1,verified,DNA Structure and Function,BINF_1101_concepts_raw.json
+BINF_1101,topic,Molecular Evolution,molecular evolution,2,verified,Molecular Evolution,BINF_1101_concepts_raw.json
+BINF_1101,concept,Mechanisms of Molecular Evolution,mechanisms of molecular evolution,1,verified,Mechanisms of Molecular Evolution,BINF_1101_concepts_raw.json
+BINF_1101,concept,Historical Development of Genomics,historical development of genomics,1,verified,Historical Development of Genomics,BINF_1101_concepts_raw.json
+BINF_1101,concept,Important Algorithms Used in Bioinformatics,important algorithms used in bioinformatics,1,verified,Important Algorithms Used in Bioinformatics,BINF_1101_concepts_raw.json
+BINF_1101,concept,Critical Advances in Biotechnology,critical advances in biotechnology,1,verified,Critical Advances in Biotechnology,BINF_1101_concepts_raw.json

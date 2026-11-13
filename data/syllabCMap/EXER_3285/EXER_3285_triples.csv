@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_3285,Exercise Science Fundamentals,concept,PREREQUISITE_OF,Biomechanical Principles,concept,same unit,,EXER_3285_triples_raw.json
+EXER_3285,Exercise Science Fundamentals,concept,PREREQUISITE_OF,Physiological Adaptations,concept,same unit,,EXER_3285_triples_raw.json
+EXER_3285,Muscle Fiber Types,concept,PREREQUISITE_OF,Muscle Contraction Mechanisms,concept,same unit,,EXER_3285_triples_raw.json
+EXER_3285,Muscle Contraction Mechanisms,concept,PREREQUISITE_OF,Energy Systems Overview,concept,same unit,,EXER_3285_triples_raw.json

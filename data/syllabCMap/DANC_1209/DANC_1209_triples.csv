@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_1209,alignment,concept,PREREQUISITE_OF,external rotation,topic,A taught first,,DANC_1209_triples_raw.json
+DANC_1209,alignment,concept,PREREQUISITE_OF,shift of weight,concept,A taught first,,DANC_1209_triples_raw.json
+DANC_1209,anatomically-supported alignment,concept,PREREQUISITE_OF,alignment,concept,same unit,,DANC_1209_triples_raw.json
+DANC_1209,anatomically-supported alignment,concept,PREREQUISITE_OF,external rotation,topic,A taught first,,DANC_1209_triples_raw.json
+DANC_1209,musical phrasing,concept,PREREQUISITE_OF,rhythm,concept,same unit,,DANC_1209_triples_raw.json
+DANC_1209,tempo,concept,PREREQUISITE_OF,rhythm,concept,same unit,,DANC_1209_triples_raw.json
+DANC_1209,alignment,concept,PART_OF,bodily and performance practice,topic,,,DANC_1209_triples_raw.json
+DANC_1209,anatomically-supported alignment,concept,PART_OF,alignment,concept,,,DANC_1209_triples_raw.json
+DANC_1209,shift of weight,concept,PART_OF,bodily and performance practice,topic,,,DANC_1209_triples_raw.json
+DANC_1209,tempo,concept,PART_OF,rhythm,concept,,,DANC_1209_triples_raw.json
+DANC_1209,tempo,concept,PART_OF,musical phrasing,concept,,,DANC_1209_triples_raw.json
+DANC_1209,anatomically-supported alignment,concept,SUBTYPE_OF,alignment,concept,,,DANC_1209_triples_raw.json
+DANC_1209,shift of weight,concept,SUBTYPE_OF,bodily and performance practice,topic,,,DANC_1209_triples_raw.json
+DANC_1209,anatomically-supported alignment,concept,USED_FOR,alignment,concept,,,DANC_1209_triples_raw.json
+DANC_1209,anatomically-supported alignment,concept,USED_FOR,external rotation,topic,,,DANC_1209_triples_raw.json
+DANC_1209,anatomically-supported alignment,concept,USED_FOR,shift of weight,concept,,,DANC_1209_triples_raw.json
+DANC_1209,tempo,concept,USED_FOR,rhythm,concept,,,DANC_1209_triples_raw.json

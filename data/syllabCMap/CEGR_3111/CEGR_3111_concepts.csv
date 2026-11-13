@@ -1,0 +1,62 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3111,topic,Construction Engineering,Construction Engineering,2,verified,Construction Engineering,CEGR_3111_concepts_raw.json
+CEGR_3111,topic,"Contracts, Legal Structure, and Contract Administration","Contracts, Legal Structure, and Contract Administration",1,verified,"Contracts, Legal Structure, and Contract Administration",CEGR_3111_concepts_raw.json
+CEGR_3111,topic,Construction Economics,Construction Economics,1,verified,Construction Economics,CEGR_3111_concepts_raw.json
+CEGR_3111,topic,"Earthwork QTO Methods, Estimating Labor and Equipment Costs","Earthwork QTO Methods, Estimating Labor and Equipment Costs",1,verified,"Earthwork QTO Methods, Estimating Labor and Equipment Costs",CEGR_3111_concepts_raw.json
+CEGR_3111,topic,Revit and Navisworks,Revit and Navisworks,1,verified,Revit and Navisworks,CEGR_3111_concepts_raw.json
+CEGR_3111,topic,Learning Curves and Cost Forecasting,Learning Curves and Cost Forecasting,1,verified,Learning Curves and Cost Forecasting,CEGR_3111_concepts_raw.json
+CEGR_3111,topic,"Resource Leveling ,& Impact of Scheduling Decisions","Resource Leveling ,& Impact of Scheduling Decisions",1,verified,"Resource Leveling ,& Impact of Scheduling Decisions",CEGR_3111_concepts_raw.json
+CEGR_3111,topic,Materials Management and Safety,Materials Management and Safety,1,verified,Materials Management and Safety,CEGR_3111_concepts_raw.json
+CEGR_3111,topic,Formwork Design,Formwork Design,5,verified,Formwork Design,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Construction Contracts,Construction Contracts,1,verified,Construction Contracts,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Contract Administration,Contract Administration,2,verified,Contract Administration,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Legal Structure,Legal Structure,2,verified,Legal Structure,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Contract Law,Contract Law,1,verified,Contract Law,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Bidding Process,Bidding Process,1,verified,Bidding Process,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Tendering Methods,Tendering Methods,1,verified,Tendering Methods,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Contract Award,Contract Award,1,verified,Contract Award,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Contract Terms,Contract Terms,1,verified,Contract Terms,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Contract Dispute,Contract Dispute,1,verified,Contract Dispute,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Construction Cost Estimation,Construction Cost Estimation,1,verified,Construction Cost Estimation,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Economic Feasibility Analysis,Economic Feasibility Analysis,1,verified,Economic Feasibility Analysis,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Cost-Benefit Tradeoffs,Cost-Benefit Tradeoffs,1,verified,Cost-Benefit Tradeoffs,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Sensitivity Analysis Techniques,Sensitivity Analysis Techniques,1,verified,Sensitivity Analysis Techniques,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Break-Even Point Calculation,Break-Even Point Calculation,1,verified,Break-Even Point Calculation,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Quantity Takeoff Methods,Quantity Takeoff Methods,1,verified,Quantity Takeoff Methods,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Earthwork Estimating Techniques,Earthwork Estimating Techniques,1,verified,Earthwork Estimating Techniques,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Labor Cost Estimation,Labor Cost Estimation,1,verified,Labor Cost Estimation,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Equipment Cost Calculation,Equipment Cost Calculation,1,verified,Equipment Cost Calculation,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Square Foot Costs Method,Square Foot Costs Method,1,verified,Square Foot Costs Method,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,RS Means Cost Data,RS Means Cost Data,1,verified,RS Means Cost Data,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Construction Labor Productivity,Construction Labor Productivity,1,verified,Construction Labor Productivity,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Heavy Equipment Selection Criteria,Heavy Equipment Selection Criteria,1,verified,Heavy Equipment Selection Criteria,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Cost Estimating Formulas,Cost Estimating Formulas,1,verified,Cost Estimating Formulas,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Learning Curve Theory,Learning Curve Theory,1,verified,Learning Curve Theory,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Cost Forecasting Methods,Cost Forecasting Methods,1,verified,Cost Forecasting Methods,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Exponential Smoothing Model,Exponential Smoothing Model,1,verified,Exponential Smoothing Model,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Moving Average Technique,Moving Average Technique,1,verified,Moving Average Technique,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,S-Curve Analysis,S-Curve Analysis,1,verified,S-Curve Analysis,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Resource Leveling,Resource Leveling,2,verified,Resource Leveling,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Critical Path Method,Critical Path Method,1,verified,Critical Path Method,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Scheduling Decisions,Scheduling Decisions,2,verified,Scheduling Decisions,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Float Time Calculation,Float Time Calculation,1,verified,Float Time Calculation,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Dependency Relationships,Dependency Relationships,1,verified,Dependency Relationships,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Materials Management,Materials Management,2,verified,Materials Management,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Safety Protocols,Safety Protocols,1,verified,Safety Protocols,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Quality Control Measures,Quality Control Measures,1,verified,Quality Control Measures,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Supply Chain Optimization,Supply Chain Optimization,1,verified,Supply Chain Optimization,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Risk Assessment Techniques,Risk Assessment Techniques,1,verified,Risk Assessment Techniques,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Construction Site Safety,Construction Site Safety,1,verified,Construction Site Safety,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Material Handling Systems,Material Handling Systems,1,verified,Material Handling Systems,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Inventory Management Strategies,Inventory Management Strategies,1,verified,Inventory Management Strategies,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Formwork Design Principles,Formwork Design Principles,1,verified,Formwork Design Principles,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Shuttering Materials Selection,Shuttering Materials Selection,1,verified,Shuttering Materials Selection,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Formwork System Types,Formwork System Types,1,verified,Formwork System Types,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Column Formwork Design,Column Formwork Design,1,verified,Column Formwork Design,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Beam Formwork Design,Beam Formwork Design,1,verified,Beam Formwork Design,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Slab Formwork Design,Slab Formwork Design,1,verified,Slab Formwork Design,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Formwork Safety Considerations,Formwork Safety Considerations,1,verified,Formwork Safety Considerations,CEGR_3111_concepts_raw.json
+CEGR_3111,concept,Formwork Cost Estimation,Formwork Cost Estimation,1,verified,Formwork Cost Estimation,CEGR_3111_concepts_raw.json
+CEGR_3111,tool,Revit,Revit,2,verified,Revit,CEGR_3111_concepts_raw.json
+CEGR_3111,tool,Navisworks,Navisworks,2,verified,Navisworks,CEGR_3111_concepts_raw.json
+CEGR_3111,tool,RS Means,RS Means,2,verified,RS Means,CEGR_3111_concepts_raw.json

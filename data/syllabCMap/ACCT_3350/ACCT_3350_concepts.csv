@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ACCT_3350,topic,Auditing,Auditing,16,verified,Introduction to Auditing,ACCT_3350_concepts_raw.json
+ACCT_3350,topic,Three Hypotheses for Reasons for the Audit,Three Hypotheses for Reasons for the Audit,1,verified,Three Hypotheses for Reasons for the Audit,ACCT_3350_concepts_raw.json
+ACCT_3350,topic,"1, 2, Part 1: Introduction to Auditing","1, 2, Part 1: Introduction to Auditing",1,verified,"1, 2, Part 1: Introduction to Auditing",ACCT_3350_concepts_raw.json
+ACCT_3350,topic,Financial,Financial,2,verified,Financial,ACCT_3350_concepts_raw.json
+ACCT_3350,topic,Statement Audits,Statement Audits,1,verified,Statement Audits,ACCT_3350_concepts_raw.json
+ACCT_3350,topic,"Independence, and Quality Management","Independence, and Quality Management",1,verified,"Independence, and Quality Management",ACCT_3350_concepts_raw.json
+ACCT_3350,topic,Materiality,materiality,3,verified,Materiality,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Risk Assessment,Risk Assessment,42,verified,Risk Assessment,ACCT_3350_concepts_raw.json
+ACCT_3350,topic,Evidence and Documentation,Evidence and Documentation,3,verified,Evidence and Documentation,ACCT_3350_concepts_raw.json
+ACCT_3350,topic,IT Auditing,IT Auditing,2,verified,IT Auditing,ACCT_3350_concepts_raw.json
+ACCT_3350,topic,External Auditing,external auditing,7,verified,External Auditing,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Hypotheses,Audit Hypotheses,1,verified,Audit Hypotheses,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Reasons for Audit,Reasons for Audit,1,verified,Reasons for Audit,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Objectives,audit objectives,7,verified,Audit Objectives,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Evidence,audit evidence,44,verified,Audit Evidence,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Internal Controls Evaluation,Internal Controls Evaluation,3,verified,Internal Controls Evaluation,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Data Analytics Application,Data Analytics Applications,2,verified,Data Analytics Application,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Standards,Audit Standards,5,verified,Audit Standards,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Professional Conduct,Professional Conduct,2,verified,Professional Conduct,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Control Frameworks,Audit Control Frameworks,1,verified,Audit Control Frameworks,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,IT Audit Considerations,IT Audit Considerations,4,verified,IT Audit Considerations,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Independence,Audit Independence,1,verified,Audit Independence,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Quality Management,Quality Management,2,verified,Quality Management,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Materiality Threshold,Materiality Threshold,1,verified,Materiality Threshold,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Planning Process,Audit Planning Process,4,verified,Audit Planning Process,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Procedures Design,Audit Procedures Design,3,verified,Audit Procedures Design,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Tests Execution,Audit Tests Execution,1,verified,Audit Tests Execution,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Sampling Methods,Audit Sampling Methods,5,verified,Audit Sampling Methods,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Internal Control Frameworks,Internal Control Frameworks,3,verified,Internal Control Frameworks,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,External Audit Standards,External Audit Standards,1,verified,External Audit Standards,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Data Analytics,Audit Data Analytics,3,verified,Audit Data Analytics,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Inherent Risk Factors,Inherent Risk Factors,1,verified,Inherent Risk Factors,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Control Risk Evaluation,Control Risk Evaluation,1,verified,Control Risk Evaluation,ACCT_3350_concepts_raw.json
+ACCT_3350,concept,Audit Evidence Types,Audit Evidence Types,3,verified,Audit Evidence Types,ACCT_3350_concepts_raw.json

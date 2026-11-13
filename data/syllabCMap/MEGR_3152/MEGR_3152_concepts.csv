@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3152,topic,Mechanics and Materials Laboratory,Mechanics and Materials Laboratory,1,verified,Mechanics and Materials Laboratory,MEGR_3152_concepts_raw.json
+MEGR_3152,topic,Tensile Testing,tensile testing,1,verified,Tensile Testing,MEGR_3152_concepts_raw.json
+MEGR_3152,concept,Instron Tensile Machine,Instron tensile machine,1,verified,Instron Tensile Machine,MEGR_3152_concepts_raw.json
+MEGR_3152,concept,Displacement Extensometers,displacement extensometers,1,verified,Displacement Extensometers,MEGR_3152_concepts_raw.json
+MEGR_3152,concept,Micro-Hardness Testers,micro-hardness testers,1,verified,Micro-Hardness Testers,MEGR_3152_concepts_raw.json
+MEGR_3152,concept,Computer Application Packages,computer application packages,1,verified,Computer Application Packages,MEGR_3152_concepts_raw.json
+MEGR_3152,concept,Clear Writing Style,clear writing style,1,verified,Clear Writing Style,MEGR_3152_concepts_raw.json
+MEGR_3152,method,Conducting experiments,conducting experiments,1,verified,Conducting experiments,MEGR_3152_concepts_raw.json
+MEGR_3152,method,analyzing,analyzing,1,verified,"Using computer application packages for collecting, analyzing and plotting data",MEGR_3152_concepts_raw.json
+MEGR_3152,method,plotting data,plotting data,1,verified,"Using computer application packages for collecting, analyzing and plotting data",MEGR_3152_concepts_raw.json
+MEGR_3152,tool,Multimeters,multimeters,1,verified,Multimeters,MEGR_3152_concepts_raw.json
+MEGR_3152,tool,Load cells,load cells,1,verified,Load cells,MEGR_3152_concepts_raw.json
+MEGR_3152,tool,Hardness testers,hardness testers,2,verified,Hardness testers,MEGR_3152_concepts_raw.json
+MEGR_3152,tool,Lab furnaces,lab furnaces,1,verified,Lab furnaces,MEGR_3152_concepts_raw.json
+MEGR_3152,tool,Optical microscopes,optical microscopes,1,verified,Optical microscopes,MEGR_3152_concepts_raw.json
+MEGR_3152,tool,Metallographic sample preparation equipment,metallographic sample preparation equipment,1,verified,Metallographic sample preparation equipment,MEGR_3152_concepts_raw.json

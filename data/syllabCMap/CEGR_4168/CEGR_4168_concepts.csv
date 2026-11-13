@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_4168,topic,airport planning,Airport Planning,8,verified,airport planning,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,airport design,airport design,3,verified,airport design,CEGR_4168_concepts_raw.json
+CEGR_4168,method,airport master planning,airport master planning,2,verified,airport master planning,CEGR_4168_concepts_raw.json
+CEGR_4168,method,forecasting,forecasting,1,verified,forecasting,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,capacity and delay effects,capacity and delay effects,1,verified,capacity and delay effects,CEGR_4168_concepts_raw.json
+CEGR_4168,method,geometric design,geometric design,2,verified,geometric design,CEGR_4168_concepts_raw.json
+CEGR_4168,method,layout of airfields,layout of airfields,1,verified,layout of airfields,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,signage and lighting,signage and lighting,2,verified,signage and lighting,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,terminal facilities,terminal facilities,1,verified,terminal facilities,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,environmental planning,environmental planning,1,verified,environmental planning,CEGR_4168_concepts_raw.json
+CEGR_4168,concept,hazardous wildlife attractants,hazardous wildlife attractants,1,verified,hazardous wildlife attractants,CEGR_4168_concepts_raw.json
+CEGR_4168,concept,airport noise,airport noise,1,verified,airport noise,CEGR_4168_concepts_raw.json
+CEGR_4168,concept,compatible land use,compatible land use,1,verified,compatible land use,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,financing options,financing options,1,verified,financing options,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,capital development,capital development,1,verified,capital development,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,grants,grants,1,verified,grants,CEGR_4168_concepts_raw.json
+CEGR_4168,concept,passenger facility charges,passenger facility charges,1,verified,passenger facility charges,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,bonds,bonds,1,verified,bonds,CEGR_4168_concepts_raw.json
+CEGR_4168,concept,National Plan of Integrated Airports System,National Plan of Integrated Airports System,1,verified,National Plan of Integrated Airports System,CEGR_4168_concepts_raw.json
+CEGR_4168,concept,state systems planning,state systems planning,1,verified,state systems planning,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,public and political impacts,public and political impacts,1,verified,public and political impacts,CEGR_4168_concepts_raw.json
+CEGR_4168,measure,runway length requirements,runway length requirements,1,verified,runway length requirements,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,landside access and egress,landside access and egress,1,verified,landside access and egress,CEGR_4168_concepts_raw.json
+CEGR_4168,topic,intermodal transportation systems,intermodal transportation systems,1,verified,intermodal transportation systems,CEGR_4168_concepts_raw.json
+CEGR_4168,concept,airport reference code,airport reference code,1,verified,airport reference code,CEGR_4168_concepts_raw.json
+CEGR_4168,concept,design aircraft,design aircraft,1,verified,airport critical/design aircraft,CEGR_4168_concepts_raw.json
+CEGR_4168,concept,public and political impacts on airport planning,public and political impacts on airport planning,1,verified,public and political impacts on airport planning,CEGR_4168_concepts_raw.json
+CEGR_4168,method,signage,signage,2,verified,signage and lighting design,CEGR_4168_concepts_raw.json
+CEGR_4168,method,public,public,1,verified,public and political engagement,CEGR_4168_concepts_raw.json
+CEGR_4168,measure,airport capacity,airport capacity,1,verified,airport capacity,CEGR_4168_concepts_raw.json
+CEGR_4168,measure,landside access,landside access,1,verified,landside access and egress metrics,CEGR_4168_concepts_raw.json
+CEGR_4168,measure,parking,parking,1,verified,parking and rental car system performance,CEGR_4168_concepts_raw.json

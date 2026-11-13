@@ -1,0 +1,33 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_2200,Urbanization Process,concept,PREREQUISITE_OF,Urban Studies Discipline,concept,A taught first,,GEOG_2200_triples_raw.json
+GEOG_2200,Urban Social Structure,concept,PREREQUISITE_OF,Urban Governance,concept,A taught first,,GEOG_2200_triples_raw.json
+GEOG_2200,City Form Theory,concept,PREREQUISITE_OF,Urban Planning History,concept,same unit,,GEOG_2200_triples_raw.json
+GEOG_2200,Urban Studies Discipline,concept,PREREQUISITE_OF,Urban Geography,topic,A taught first,,GEOG_2200_triples_raw.json
+GEOG_2200,Urbanization Process,concept,PREREQUISITE_OF,Urban Social Justice,concept,A taught first,,GEOG_2200_triples_raw.json
+GEOG_2200,Urbanism as a lifestyle,concept,PREREQUISITE_OF,Post-suburbanization trends,concept,same unit,,GEOG_2200_triples_raw.json
+GEOG_2200,Urban Governance,concept,PREREQUISITE_OF,Public Transportation Policy,concept,same unit,,GEOG_2200_triples_raw.json
+GEOG_2200,Suburbanization patterns,concept,PART_OF,Urban sprawl consequences,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Public Space Management,concept,PART_OF,Urban Governance,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Sustainable Urban Planning,concept,PART_OF,Urban Studies Discipline,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Urban Social Structure,concept,PART_OF,Urban Governance,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,City Form Theory,concept,PART_OF,Urban Planning History,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Human Ecology Perspective,concept,PART_OF,Urban Ecology,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Urbanism as a lifestyle,concept,PART_OF,Post-suburbanization trends,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Gentrification dynamics,concept,PART_OF,Gentrification effects,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Public Transportation Policy,concept,PART_OF,Urban Governance,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Ecological Fallacy,concept,PART_OF,Social Disorganization Theory,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Urban Studies Discipline,concept,PART_OF,Urban Geography,topic,,,GEOG_2200_triples_raw.json
+GEOG_2200,Gentrification dynamics,concept,SUBTYPE_OF,Gentrification effects,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Public Space Management,concept,SUBTYPE_OF,Urban Governance,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Transportation Infrastructure Planning,concept,SUBTYPE_OF,Urban Geography,topic,,,GEOG_2200_triples_raw.json
+GEOG_2200,Urban Social Structure,concept,SUBTYPE_OF,Urban Governance,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,City Form Theory,concept,SUBTYPE_OF,Urban Planning History,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Human Ecology Perspective,concept,SUBTYPE_OF,Urban Ecology,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Bus Rapid Transit Design,concept,USED_FOR,Public Space Management,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Bus Rapid Transit Design,concept,USED_FOR,Urban Studies Discipline,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Bus Rapid Transit Design,concept,USED_FOR,Urban Geography,topic,,,GEOG_2200_triples_raw.json
+GEOG_2200,Bus Rapid Transit Design,concept,USED_FOR,Urban Social Justice,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Bus Rapid Transit Design,concept,USED_FOR,Gentrification dynamics,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Bus Rapid Transit Design,concept,USED_FOR,Urban Governance,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Bus Rapid Transit Design,concept,USED_FOR,Ecological Fallacy,concept,,,GEOG_2200_triples_raw.json
+GEOG_2200,Bus Rapid Transit Design,concept,USED_FOR,Human Ecology Perspective,concept,,,GEOG_2200_triples_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_2151,Early Explorers' Contributions,concept,PART_OF,Explorers & Discovery,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Archaeological Evidence Found,concept,PART_OF,Explorers & Discovery,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Scientific Method in Archaeology,concept,PART_OF,Explorers & Discovery,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Field Methods and Techniques,concept,PART_OF,How Archaeologists Work,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Artifact Analysis and Dating,concept,PART_OF,How Archaeologists Work,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Contextualizing Artifacts and Sites,concept,PART_OF,Analyzing Archaeological Evidence,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Inference of Human Behavior,concept,PART_OF,Analyzing Archaeological Evidence,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Cultural and Social Interpretations,concept,PART_OF,Analyzing Archaeological Evidence,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Social Change Through Time,concept,PART_OF,Investigating Ancestors' Lives,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Environmental Impact on Societies,concept,PART_OF,Investigating Ancestors' Lives,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Examples of Successful Excavations,concept,PART_OF,Case Studies in Archaeology,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Challenges and Controversies in Archaeology,concept,PART_OF,Case Studies in Archaeology,topic,,,ANTH_2151_triples_raw.json
+ANTH_2151,Applications of Archaeological Research,concept,PART_OF,Case Studies in Archaeology,topic,,,ANTH_2151_triples_raw.json

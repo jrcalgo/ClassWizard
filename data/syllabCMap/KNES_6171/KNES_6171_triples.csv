@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_6171,linear kinematics,concept,PREREQUISITE_OF,linear kinetics,concept,A taught first,,KNES_6171_triples_raw.json
+KNES_6171,angular kinematics,concept,PREREQUISITE_OF,angular kinetics,concept,A taught first,,KNES_6171_triples_raw.json
+KNES_6171,work,concept,PREREQUISITE_OF,energy,concept,same unit,,KNES_6171_triples_raw.json

@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_3160,topic,Applied Multivariate Analysis,Applied Multivariate Analysis,2,verified,Applied Multivariate Analysis,STAT_3160_concepts_raw.json
+STAT_3160,topic,Multivariate Data,multivariate data,3,verified,Introduction to Multivariate Data,STAT_3160_concepts_raw.json
+STAT_3160,method,Multivariate analysis of variance (MANOVA,Multivariate analysis of variance (MANOVA,1,verified,Multivariate analysis of variance (MANOVA),STAT_3160_concepts_raw.json
+STAT_3160,method,Exploratory data analysis,exploratory data analysis,1,verified,Exploratory data analysis,STAT_3160_concepts_raw.json
+STAT_3160,concept,Real-World Applications,real-world applications,2,verified,Real-World Applications,STAT_3160_concepts_raw.json
+STAT_3160,method,Factor analysis,factor analysis,1,verified,Factor analysis,STAT_3160_concepts_raw.json
+STAT_3160,method,Correspondence analysis,correspondence analysis,1,verified,Correspondence analysis,STAT_3160_concepts_raw.json
+STAT_3160,method,Cluster analysis,cluster analysis,1,verified,Cluster analysis,STAT_3160_concepts_raw.json
+STAT_3160,tool,R,R,1,verified,R,STAT_3160_concepts_raw.json
+STAT_3160,tool,Python,Python,1,verified,Python,STAT_3160_concepts_raw.json

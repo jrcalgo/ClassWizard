@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+READ_3226,vocabulary support and instruction,concept,PART_OF,Literacy Instruction,topic,,,READ_3226_triples_raw.json
+READ_3226,comprehension support,concept,PART_OF,Literacy Instruction,topic,,,READ_3226_triples_raw.json
+READ_3226,needs of diverse learners,concept,PART_OF,Literacy Instruction,topic,,,READ_3226_triples_raw.json

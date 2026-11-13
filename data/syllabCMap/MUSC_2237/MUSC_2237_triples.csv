@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_2237,Vowel Sounds in German,concept,PART_OF,Consonant Sounds in German,concept,,,MUSC_2237_triples_raw.json
+MUSC_2237,Vowel Sounds in German,concept,PART_OF,Phonetic Transcription Symbols,concept,,,MUSC_2237_triples_raw.json
+MUSC_2237,Front and Back Vowel Positions,concept,PART_OF,Rounded and Unrounded Vowels,concept,,,MUSC_2237_triples_raw.json
+MUSC_2237,Front and Back Vowel Positions,concept,PART_OF,Vowel Length and Stress,concept,,,MUSC_2237_triples_raw.json
+MUSC_2237,Stop and Fricative Consonants,concept,PART_OF,Nasal and Liquid Consonants,concept,,,MUSC_2237_triples_raw.json
+MUSC_2237,Stop and Fricative Consonants,concept,PART_OF,German Consonant Clusters,concept,,,MUSC_2237_triples_raw.json
+MUSC_2237,Monophthong and Diphthong Sounds,concept,PART_OF,Phonetic Transcription of Diphthongs,concept,,,MUSC_2237_triples_raw.json
+MUSC_2237,Phonetic Transcription Symbols,concept,USED_FOR,Vowel Sounds in German,concept,,,MUSC_2237_triples_raw.json
+MUSC_2237,Phonetic Transcription Symbols,concept,USED_FOR,Consonant Sounds in German,concept,,,MUSC_2237_triples_raw.json

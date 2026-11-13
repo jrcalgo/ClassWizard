@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_8111,variables,concept,PREREQUISITE_OF,control structures,concept,A taught first,,BINF_8111_triples_raw.json
+BINF_8111,variables,concept,PREREQUISITE_OF,functions,concept,A taught first,,BINF_8111_triples_raw.json
+BINF_8111,data types,concept,PREREQUISITE_OF,expressions,concept,same unit,,BINF_8111_triples_raw.json
+BINF_8111,data types,concept,PREREQUISITE_OF,arrays,concept,A taught first,,BINF_8111_triples_raw.json
+BINF_8111,procedural programming,concept,PREREQUISITE_OF,pseudocode,concept,B taught first,B is taught before A - check,BINF_8111_triples_raw.json
+BINF_8111,procedural programming,concept,PREREQUISITE_OF,flowcharts,concept,A mentioned first,,BINF_8111_triples_raw.json
+BINF_8111,variables,concept,PART_OF,Foundations of Programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,data types,concept,PART_OF,Foundations of Programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,expressions,concept,PART_OF,Foundations of Programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,control structures,concept,PART_OF,Foundations of Programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,functions,concept,PART_OF,Foundations of Programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,file input,concept,PART_OF,Foundations of Programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,output,concept,PART_OF,Foundations of Programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,arrays,concept,PART_OF,Foundations of Programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,procedural programming,concept,PART_OF,computer programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,pseudocode,concept,PART_OF,computer programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,flowcharts,concept,PART_OF,computer programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,procedural programming,concept,SUBTYPE_OF,computer programming,topic,,,BINF_8111_triples_raw.json
+BINF_8111,Python,tool,USED_FOR,computational thinking and problem-solving using Python,topic,,,BINF_8111_triples_raw.json

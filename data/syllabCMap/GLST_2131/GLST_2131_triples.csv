@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_2131,History of Peace Movements,concept,PREREQUISITE_OF,Peace and Conflict Definition,concept,same unit,,GLST_2131_triples_raw.json
+GLST_2131,Mediation and Negotiation Techniques,concept,PREREQUISITE_OF,Conflict Resolution Models,concept,same unit,,GLST_2131_triples_raw.json
+GLST_2131,Globalization and Conflict,concept,PREREQUISITE_OF,Environmental Conflicts and Disasters,concept,same unit,,GLST_2131_triples_raw.json
+GLST_2131,Peace and Conflict Definition,concept,PART_OF,Peace Studies,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Causes of War and Violence,topic,PART_OF,Peace Studies,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Peacebuilding and Conflict Resolution,topic,PART_OF,Peace Studies,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Global Issues and Conflicts,topic,PART_OF,Peace Studies,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Case Studies in Peace and Conflict,topic,PART_OF,Peace Studies,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Root Causes of Conflict,concept,PART_OF,Peace and Conflict Studies,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Types of Conflicts and Wars,concept,PART_OF,Peace and Conflict Studies,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Human Rights Violations,concept,PART_OF,Peace and Conflict Studies,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Mediation and Negotiation Techniques,concept,PART_OF,Peacebuilding and Conflict Resolution,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Peacebuilding Strategies,concept,PART_OF,Peacebuilding and Conflict Resolution,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Environmental Conflicts and Disasters,concept,PART_OF,Global Issues and Conflicts,topic,,,GLST_2131_triples_raw.json
+GLST_2131,Humanitarian Crises,concept,PART_OF,Global Issues and Conflicts,topic,,,GLST_2131_triples_raw.json

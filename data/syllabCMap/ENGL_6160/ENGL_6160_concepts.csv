@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ENGL_6160,topic,Linguistics,linguistics,4,verified,Linguistics,ENGL_6160_concepts_raw.json
+ENGL_6160,topic,Phonetics and Phonology,Phonetics and Phonology,1,inferred,Phonetics and Phonology,ENGL_6160_concepts_raw.json
+ENGL_6160,topic,Morphology and Syntax,Morphology and Syntax,1,inferred,Morphology and Syntax,ENGL_6160_concepts_raw.json
+ENGL_6160,topic,Semantics and Pragmatics,Semantics and Pragmatics,1,inferred,Semantics and Pragmatics,ENGL_6160_concepts_raw.json
+ENGL_6160,topic,Sociolinguistics and Language Policy,Sociolinguistics and Language Policy,1,inferred,Sociolinguistics and Language Policy,ENGL_6160_concepts_raw.json
+ENGL_6160,topic,Analyzing Language in Use,Analyzing Language in Use,1,inferred,Analyzing Language in Use,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Language as a System,Language as a System,1,inferred,Language as a System,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Linguistic Research Methods,Linguistic Research Methods,1,inferred,Linguistic Research Methods,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Sound Systems in Language,Sound Systems in Language,1,inferred,Sound Systems in Language,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Phoneme vs. Allophone,Phoneme vs. Allophone,1,inferred,Phoneme vs. Allophone,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Acoustic Phonetics,Acoustic Phonetics,1,inferred,Acoustic Phonetics,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Word Formation Processes,Word Formation Processes,1,inferred,Word Formation Processes,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Syntactic Structures,Syntactic Structures,1,inferred,Syntactic Structures,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Phrase Structure Rules,Phrase Structure Rules,1,inferred,Phrase Structure Rules,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Meaning in Language Use,Meaning in Language Use,1,inferred,Meaning in Language Use,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Semantic Fields and Relations,Semantic Fields and Relations,1,inferred,Semantic Fields and Relations,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Implicature and Inference,Implicature and Inference,1,inferred,Implicature and Inference,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Language Variation and Change,Language Variation and Change,1,inferred,Language Variation and Change,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Language Attitudes and Ideology,Language Attitudes and Ideology,1,inferred,Language Attitudes and Ideology,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Language Planning and Policy,Language Planning and Policy,1,inferred,Language Planning and Policy,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Corpus Linguistics Methods,Corpus Linguistics Methods,1,inferred,Corpus Linguistics Methods,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Discourse Analysis Techniques,Discourse Analysis Techniques,1,inferred,Discourse Analysis Techniques,ENGL_6160_concepts_raw.json
+ENGL_6160,concept,Critical Discourse Analysis,Critical Discourse Analysis,1,inferred,Critical Discourse Analysis,ENGL_6160_concepts_raw.json

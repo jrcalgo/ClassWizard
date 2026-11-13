@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_5010,topic,Advanced Football Analytics,Advanced Football Analytics,2,verified,Advanced Football Analytics,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Statistical Modeling in Football,Statistical Modeling in Football,1,inferred,Statistical Modeling in Football,ITCS_5010_concepts_raw.json
+ITCS_5010,topic,Game Dynamics and Simulation,Game Dynamics and Simulation,1,inferred,Game Dynamics and Simulation,ITCS_5010_concepts_raw.json
+ITCS_5010,topic,Player Performance Evaluation,Player Performance Evaluation,1,inferred,Player Performance Evaluation,ITCS_5010_concepts_raw.json
+ITCS_5010,topic,Coaching Performance Metrics,Coaching Performance Metrics,1,inferred,Coaching Performance Metrics,ITCS_5010_concepts_raw.json
+ITCS_5010,topic,Spatial Tracking Data Analysis,Spatial Tracking Data Analysis,1,inferred,Spatial Tracking Data Analysis,ITCS_5010_concepts_raw.json
+ITCS_5010,topic,Case Studies in Advanced Analytics,Case Studies in Advanced Analytics,1,inferred,Case Studies in Advanced Analytics,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Markov Chain Models for Games,Markov Chain Models for Games,1,inferred,Markov Chain Models for Games,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Agent-Based Modeling of Teams,Agent-Based Modeling of Teams,1,inferred,Agent-Based Modeling of Teams,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Expected Points Added (EPA) Metric,Expected Points Added (EPA) Metric,1,inferred,Expected Points Added (EPA) Metric,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Passer Rating and Efficiency Metrics,Passer Rating and Efficiency Metrics,1,inferred,Passer Rating and Efficiency Metrics,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Rushing Yards per Carry (YPC) Analysis,Rushing Yards per Carry (YPC) Analysis,1,inferred,Rushing Yards per Carry (YPC) Analysis,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Win Probability Added (WPA) Metric,Win Probability Added (WPA) Metric,1,inferred,Win Probability Added (WPA) Metric,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Game-Specific Situational Awareness,Game-Specific Situational Awareness,1,inferred,Game-Specific Situational Awareness,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,In-Game Decision Making Models,In-Game Decision Making Models,1,inferred,In-Game Decision Making Models,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Player Movement Patterns and Speed,Player Movement Patterns and Speed,1,inferred,Player Movement Patterns and Speed,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Route Running Efficiency Metrics,Route Running Efficiency Metrics,1,inferred,Route Running Efficiency Metrics,ITCS_5010_concepts_raw.json
+ITCS_5010,concept,Defensive Coverage Zone Analysis,Defensive Coverage Zone Analysis,1,inferred,Defensive Coverage Zone Analysis,ITCS_5010_concepts_raw.json
+ITCS_5010,method,Data Preprocessing Techniques,Data Preprocessing Techniques,1,inferred,Data Preprocessing Techniques,ITCS_5010_concepts_raw.json
+ITCS_5010,method,Simulation of Game Outcomes,Simulation of Game Outcomes,1,inferred,Simulation of Game Outcomes,ITCS_5010_concepts_raw.json
+ITCS_5010,method,Collaborative Work with Coaches and Analysts,Collaborative Work with Coaches and Analysts,1,inferred,Collaborative Work with Coaches and Analysts,ITCS_5010_concepts_raw.json

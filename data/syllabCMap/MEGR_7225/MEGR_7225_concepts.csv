@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_7225,topic,Linear Systems Theory,Linear Systems Theory,1,verified,Linear Systems Theory,MEGR_7225_concepts_raw.json
+MEGR_7225,topic,State-Space,state-space,4,verified,Introduction to State-Space,MEGR_7225_concepts_raw.json
+MEGR_7225,topic,Existence and Uniqueness of Solutions,Existence and uniqueness of solutions,1,verified,Existence and Uniqueness of Solutions,MEGR_7225_concepts_raw.json
+MEGR_7225,topic,Change of Basis and Diagonalization,Change of basis and diagonalization,1,verified,Change of Basis and Diagonalization,MEGR_7225_concepts_raw.json
+MEGR_7225,topic,Matrix Exponential and State-Transition Matrices,Matrix exponential and state-transition matrices,1,verified,Matrix Exponential and State-Transition Matrices,MEGR_7225_concepts_raw.json
+MEGR_7225,topic,Controllability and Observability,controllability and observability,2,verified,Controllability and Observability,MEGR_7225_concepts_raw.json
+MEGR_7225,topic,State-Feedback Control and Pole Placement,State-feedback control and pole placement,1,verified,State-Feedback Control and Pole Placement,MEGR_7225_concepts_raw.json
+MEGR_7225,topic,Luenberger Observer Design,Luenberger observer design,1,verified,Luenberger Observer Design,MEGR_7225_concepts_raw.json
+MEGR_7225,topic,Linear-Quadratic Optimal Control,linear-quadratic optimal control,2,verified,Linear-Quadratic Optimal Control,MEGR_7225_concepts_raw.json
+MEGR_7225,concept,state-space representations,state-space representations,2,verified,state-space representations,MEGR_7225_concepts_raw.json
+MEGR_7225,concept,eigenvalues and eigenvectors,Eigenvalues and eigenvectors,1,verified,eigenvalues and eigenvectors,MEGR_7225_concepts_raw.json
+MEGR_7225,concept,similarity transforms,similarity transforms,1,verified,similarity transforms,MEGR_7225_concepts_raw.json
+MEGR_7225,concept,Jordan canonical forms,Jordan canonical forms,1,verified,Jordan canonical forms,MEGR_7225_concepts_raw.json
+MEGR_7225,concept,Popov-Belevitch-Hautus test,Popov-Belevitch-Hautus tests,1,verified,Popov-Belevitch-Hautus test,MEGR_7225_concepts_raw.json
+MEGR_7225,concept,pole placement techniques,pole - placement techniques,1,verified,pole placement techniques,MEGR_7225_concepts_raw.json
+MEGR_7225,concept,algebraic Riccati equation,algebraic Riccati equation,2,verified,algebraic Riccati equation,MEGR_7225_concepts_raw.json
+MEGR_7225,tool,MATLAB,MATLAB,1,verified,MATLAB,MEGR_7225_concepts_raw.json

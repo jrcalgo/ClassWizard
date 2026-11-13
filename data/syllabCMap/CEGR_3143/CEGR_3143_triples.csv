@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3143,Closed-Conduit Flow,topic,PREREQUISITE_OF,Open Channel Flow,topic,A taught first,,CEGR_3143_triples_raw.json
+CEGR_3143,Closed-Conduit Flow,topic,PREREQUISITE_OF,Pipe Network Analysis,topic,A taught first,,CEGR_3143_triples_raw.json
+CEGR_3143,Pressure and Flow,topic,PREREQUISITE_OF,Closed-Conduit Flow,topic,A taught first,,CEGR_3143_triples_raw.json
+CEGR_3143,Fluid properties,topic,PREREQUISITE_OF,Pressure and Flow,topic,A taught first,,CEGR_3143_triples_raw.json
+CEGR_3143,Density of Water,concept,PART_OF,Fluid properties,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Specific Weight,concept,PART_OF,Fluid properties,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Viscosity of Fluids,concept,PART_OF,Fluid properties,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Hydrostatic Pressure,concept,PART_OF,Pressure and Flow,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Gauge Pressure,concept,PART_OF,Pressure and Flow,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Flow Rate Measurement,concept,PART_OF,Pressure and Flow,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Pipe Flow Equations,concept,PART_OF,Closed-Conduit Flow,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Darcy-Weisbach Equation,concept,PART_OF,Closed-Conduit Flow,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Friction Losses,concept,PART_OF,Closed-Conduit Flow,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Pipe Network Modeling,concept,PART_OF,Pipe Network Analysis,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Head Loss Calculations,concept,PART_OF,Pipe Network Analysis,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Centrifugal Pump Theory,concept,PART_OF,Pumps and Turbines,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Turbine Efficiency Factors,concept,PART_OF,Pumps and Turbines,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Power Consumption,concept,PART_OF,Pumps and Turbines,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Manning's Equation,concept,PART_OF,Open Channel Flow,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Flow in Rectangular Channels,concept,PART_OF,Open Channel Flow,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Flow in Circular Channels,concept,PART_OF,Open Channel Flow,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Weir Flow Equations,concept,PART_OF,Weirs and Orifices,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Orifice Flow Theory,concept,PART_OF,Weirs and Orifices,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Energy Loss Calculations,concept,PART_OF,Weirs and Orifices,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Flume Flow Equations,concept,PART_OF,Flumes and Culverts,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Culvert Design Principles,concept,PART_OF,Flumes and Culverts,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Flow Measurement Devices,concept,PART_OF,Precipitation and Runoff,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Rainfall Intensity-Duration,concept,PART_OF,Precipitation and Runoff,topic,,,CEGR_3143_triples_raw.json
+CEGR_3143,Runoff Coefficient Values,concept,PART_OF,Precipitation and Runoff,topic,,,CEGR_3143_triples_raw.json

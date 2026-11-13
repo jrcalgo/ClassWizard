@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_2101,topic,Healthy Lifestyles,Healthy Lifestyles,1,verified,Healthy Lifestyles,HLTH_2101_concepts_raw.json
+HLTH_2101,concept,optimal personal health,optimal personal health,1,verified,optimal personal health,HLTH_2101_concepts_raw.json
+HLTH_2101,concept,healthy behaviors,healthy behaviors,1,verified,healthy behaviors,HLTH_2101_concepts_raw.json
+HLTH_2101,concept,lifestyles,Lifestyles,2,verified,lifestyles,HLTH_2101_concepts_raw.json
+HLTH_2101,concept,outcomes,outcomes,1,verified,outcomes,HLTH_2101_concepts_raw.json
+HLTH_2101,concept,behavior change exercises,behavior change exercises,1,verified,behavior change exercises,HLTH_2101_concepts_raw.json

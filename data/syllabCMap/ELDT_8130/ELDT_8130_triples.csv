@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_8130,Multimedia,topic,PREREQUISITE_OF,multimedia instructional design,concept,same unit,,ELDT_8130_triples_raw.json
+ELDT_8130,cognitive theory,concept,PREREQUISITE_OF,multimedia principles,concept,A taught first,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia principles,concept,PREREQUISITE_OF,design principles,concept,same unit,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia instructional design,concept,PART_OF,Multimedia,topic,,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia instructional design,concept,PART_OF,Instructional Design Models,topic,,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia instructional design,concept,PART_OF,Multimedia Principles and Design,topic,,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia instructional design,concept,PART_OF,cognitive theory,concept,,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia instructional design,concept,PART_OF,design principles,concept,,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia instructional design,concept,SUBTYPE_OF,Multimedia,topic,,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia instructional design,concept,SUBTYPE_OF,Multimedia Principles and Design,topic,,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia instructional design,concept,SUBTYPE_OF,cognitive theory,concept,,,ELDT_8130_triples_raw.json
+ELDT_8130,multimedia instructional design,concept,SUBTYPE_OF,design principles,concept,,,ELDT_8130_triples_raw.json

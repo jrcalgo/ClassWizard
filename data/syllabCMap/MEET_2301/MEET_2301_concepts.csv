@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_2301,topic,systems of forces,systems of forces,2,verified,systems of forces,MEET_2301_concepts_raw.json
+MEET_2301,topic,friction,friction,4,verified,friction,MEET_2301_concepts_raw.json
+MEET_2301,topic,equilibrium of particles and rigid bodies,equilibrium of particles and rigid bodies,2,verified,equilibrium of particles and rigid bodies,MEET_2301_concepts_raw.json
+MEET_2301,topic,distributed force systems,distributed force systems,2,verified,distributed force systems,MEET_2301_concepts_raw.json
+MEET_2301,topic,centroids and moments of inertia,centroids and moments of inertia,2,verified,centroids and moments of inertia,MEET_2301_concepts_raw.json
+MEET_2301,topic,analysis of structures,analysis of structures,2,verified,analysis of structures,MEET_2301_concepts_raw.json
+MEET_2301,concept,statics language,statics language,2,verified,statics language,MEET_2301_concepts_raw.json
+MEET_2301,concept,types of force systems,types of force systems,2,verified,types of force systems,MEET_2301_concepts_raw.json
+MEET_2301,concept,equivalent force systems,equivalent force systems,2,verified,equivalent force systems,MEET_2301_concepts_raw.json
+MEET_2301,concept,Free Body Diagrams (FBDs,Free Body Diagrams (FBDs,2,verified,Free Body Diagrams (FBDs),MEET_2301_concepts_raw.json
+MEET_2301,concept,global equilibrium,global equilibrium,2,verified,global equilibrium,MEET_2301_concepts_raw.json
+MEET_2301,concept,moment produced by a force,moment produced by a force,2,verified,moment produced by a force,MEET_2301_concepts_raw.json
+MEET_2301,concept,non-concurrent force system,non -concurrent force system,2,verified,non-concurrent force system,MEET_2301_concepts_raw.json
+MEET_2301,concept,support reactions,support reactions,2,verified,support reactions,MEET_2301_concepts_raw.json
+MEET_2301,concept,basic structures,basic structures,2,verified,basic structures,MEET_2301_concepts_raw.json
+MEET_2301,concept,internal forces in members and pins,internal forces in members and pins,2,verified,internal forces in members and pins,MEET_2301_concepts_raw.json
+MEET_2301,concept,method of joints,method of joints,2,verified,method of joints,MEET_2301_concepts_raw.json
+MEET_2301,concept,method of sections,method of sections,2,verified,method of sections,MEET_2301_concepts_raw.json
+MEET_2301,concept,simple frames,simple fram,2,verified,simple frames,MEET_2301_concepts_raw.json
+MEET_2301,concept,machine members,machine members,2,verified,machine members,MEET_2301_concepts_raw.json
+MEET_2301,concept,output forces,output forces,2,verified,output forces,MEET_2301_concepts_raw.json
+MEET_2301,concept,mechanical advantage,mechanical advantage,2,verified,mechanical advantage,MEET_2301_concepts_raw.json
+MEET_2301,concept,dry friction,dry friction,2,verified,dry friction,MEET_2301_concepts_raw.json
+MEET_2301,concept,tipping problems,tipping problems,2,verified,tipping problems,MEET_2301_concepts_raw.json
+MEET_2301,concept,centroids of composite areas,centroids of composite areas,2,verified,centroids of composite areas,MEET_2301_concepts_raw.json
+MEET_2301,concept,center of mass,center of mass,2,verified,center of mass,MEET_2301_concepts_raw.json
+MEET_2301,concept,center of gravity,center of gravity,2,verified,center of gravity,MEET_2301_concepts_raw.json
+MEET_2301,concept,moment of inertia (MOI,moment of inertia (MOI,2,verified,moment of inertia (MOI),MEET_2301_concepts_raw.json
+MEET_2301,concept,area moment of inertia,area moment of inertia,2,verified,area moment of inertia,MEET_2301_concepts_raw.json
+MEET_2301,concept,radius of gyration,radius of gyration,2,verified,radius of gyration,MEET_2301_concepts_raw.json
+MEET_2301,method,analytical and graphical methods,analytical and graphical methods,1,verified,analytical and graphical methods,MEET_2301_concepts_raw.json
+MEET_2301,method,analysis techniques,analysis techniques,2,verified,analysis techniques,MEET_2301_concepts_raw.json

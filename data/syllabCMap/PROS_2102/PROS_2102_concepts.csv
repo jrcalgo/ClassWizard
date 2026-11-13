@@ -1,0 +1,47 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PROS_2102,topic,Project Management Fundamentals,Project Management Fundamentals,1,inferred,Project Management Fundamentals,PROS_2102_concepts_raw.json
+PROS_2102,topic,Stakeholder Identification and Analysis,Stakeholder Identification and Analysis,1,inferred,Stakeholder Identification and Analysis,PROS_2102_concepts_raw.json
+PROS_2102,topic,Requirements Documentation,Requirements Documentation,2,inferred,Requirements Documentation,PROS_2102_concepts_raw.json
+PROS_2102,topic,Project Scope Management,Project Scope Management,1,inferred,Project Scope Management,PROS_2102_concepts_raw.json
+PROS_2102,topic,Project Schedule Management,Project Schedule Management,1,inferred,Project Schedule Management,PROS_2102_concepts_raw.json
+PROS_2102,topic,Project Cost Management,Project Cost Management,1,inferred,Project Cost Management,PROS_2102_concepts_raw.json
+PROS_2102,topic,Project Quality Management,Project Quality Management,1,inferred,Project Quality Management,PROS_2102_concepts_raw.json
+PROS_2102,topic,Project Resource Management,Project Resource Management,1,inferred,Project Resource Management,PROS_2102_concepts_raw.json
+PROS_2102,topic,Project Communications Management,Project Communications Management,1,inferred,Project Communications Management,PROS_2102_concepts_raw.json
+PROS_2102,topic,Project Risk Management,Project Risk Management,1,inferred,Project Risk Management,PROS_2102_concepts_raw.json
+PROS_2102,topic,Project Integration Management,Project Integration Management,1,inferred,Project Integration Management,PROS_2102_concepts_raw.json
+PROS_2102,concept,Project Life Cycle Phases,Project Life Cycle Phases,1,inferred,Project Life Cycle Phases,PROS_2102_concepts_raw.json
+PROS_2102,concept,Project Scope Statement,Project Scope Statement,1,inferred,Project Scope Statement,PROS_2102_concepts_raw.json
+PROS_2102,concept,Project Management Knowledge Areas,Project Management Knowledge Areas,1,inferred,Project Management Knowledge Areas,PROS_2102_concepts_raw.json
+PROS_2102,concept,Stakeholder Roles and Responsibilities,Stakeholder Roles and Responsibilities,1,inferred,Stakeholder Roles and Responsibilities,PROS_2102_concepts_raw.json
+PROS_2102,concept,Stakeholder Engagement Strategies,Stakeholder Engagement Strategies,1,inferred,Stakeholder Engagement Strategies,PROS_2102_concepts_raw.json
+PROS_2102,concept,Communication Planning Techniques,Communication Planning Techniques,1,inferred,Communication Planning Techniques,PROS_2102_concepts_raw.json
+PROS_2102,concept,Requirements Gathering Methods,Requirements Gathering Methods,1,inferred,Requirements Gathering Methods,PROS_2102_concepts_raw.json
+PROS_2102,concept,Requirements Documentation Templates,Requirements Documentation Templates,1,inferred,Requirements Documentation Templates,PROS_2102_concepts_raw.json
+PROS_2102,concept,Requirements Verification and Validation,Requirements Verification and Validation,1,inferred,Requirements Verification and Validation,PROS_2102_concepts_raw.json
+PROS_2102,concept,Scope Statement Development,Scope Statement Development,1,inferred,Scope Statement Development,PROS_2102_concepts_raw.json
+PROS_2102,concept,Work Breakdown Structure (WBS,Work Breakdown Structure (WBS,1,inferred,Work Breakdown Structure (WBS),PROS_2102_concepts_raw.json
+PROS_2102,concept,Scope Change Control Process,Scope Change Control Process,1,inferred,Scope Change Control Process,PROS_2102_concepts_raw.json
+PROS_2102,concept,Activity Sequencing Techniques,Activity Sequencing Techniques,1,inferred,Activity Sequencing Techniques,PROS_2102_concepts_raw.json
+PROS_2102,concept,Resource Allocation Strategies,Resource Allocation Strategies,1,inferred,Resource Allocation Strategies,PROS_2102_concepts_raw.json
+PROS_2102,concept,Schedule Risk Management,Schedule Risk Management,1,inferred,Schedule Risk Management,PROS_2102_concepts_raw.json
+PROS_2102,concept,Cost Estimation Methods,Cost Estimation Methods,1,inferred,Cost Estimation Methods,PROS_2102_concepts_raw.json
+PROS_2102,concept,Budgeting and Cost Control,Budgeting and Cost Control,1,inferred,Budgeting and Cost Control,PROS_2102_concepts_raw.json
+PROS_2102,concept,Earned Value Management (EVM,Earned Value Management (EVM,1,inferred,Earned Value Management (EVM),PROS_2102_concepts_raw.json
+PROS_2102,concept,Quality Planning Process,Quality Planning Process,1,inferred,Quality Planning Process,PROS_2102_concepts_raw.json
+PROS_2102,concept,Quality Assurance Techniques,Quality Assurance Techniques,1,inferred,Quality Assurance Techniques,PROS_2102_concepts_raw.json
+PROS_2102,concept,Quality Control Measures,Quality Control Measures,1,inferred,Quality Control Measures,PROS_2102_concepts_raw.json
+PROS_2102,concept,Resource Allocation and Assignment,Resource Allocation and Assignment,1,inferred,Resource Allocation and Assignment,PROS_2102_concepts_raw.json
+PROS_2102,concept,Team Building and Leadership,Team Building and Leadership,1,inferred,Team Building and Leadership,PROS_2102_concepts_raw.json
+PROS_2102,concept,Resource Conflict Resolution,Resource Conflict Resolution,1,inferred,Resource Conflict Resolution,PROS_2102_concepts_raw.json
+PROS_2102,concept,Communication Planning Strategies,Communication Planning Strategies,1,inferred,Communication Planning Strategies,PROS_2102_concepts_raw.json
+PROS_2102,concept,Information Distribution Channels,Information Distribution Channels,1,inferred,Information Distribution Channels,PROS_2102_concepts_raw.json
+PROS_2102,concept,Stakeholder Reporting Requirements,Stakeholder Reporting Requirements,1,inferred,Stakeholder Reporting Requirements,PROS_2102_concepts_raw.json
+PROS_2102,concept,Risk Identification and Analysis,Risk Identification and Analysis,1,inferred,Risk Identification and Analysis,PROS_2102_concepts_raw.json
+PROS_2102,concept,Risk Response Planning Techniques,Risk Response Planning Techniques,1,inferred,Risk Response Planning Techniques,PROS_2102_concepts_raw.json
+PROS_2102,concept,Risk Monitoring and Control,Risk Monitoring and Control,1,inferred,Risk Monitoring and Control,PROS_2102_concepts_raw.json
+PROS_2102,concept,Integration Planning Process,Integration Planning Process,1,inferred,Integration Planning Process,PROS_2102_concepts_raw.json
+PROS_2102,concept,Scope,Scope,5,inferred,"Scope, Schedule, Cost Integration",PROS_2102_concepts_raw.json
+PROS_2102,concept,Schedule,Schedule,3,inferred,"Scope, Schedule, Cost Integration",PROS_2102_concepts_raw.json
+PROS_2102,concept,Cost Integration,Cost Integration,1,inferred,"Scope, Schedule, Cost Integration",PROS_2102_concepts_raw.json
+PROS_2102,concept,Project Closure Procedures,Project Closure Procedures,1,inferred,Project Closure Procedures,PROS_2102_concepts_raw.json

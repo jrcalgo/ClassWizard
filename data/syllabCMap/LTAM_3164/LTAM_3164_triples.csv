@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_3164,Monroe Doctrine,concept,PREREQUISITE_OF,Roosevelt Corollary,concept,same unit,,LTAM_3164_triples_raw.json
+LTAM_3164,colonial political economy,concept,PREREQUISITE_OF,Atlantic Slavery,concept,same unit,,LTAM_3164_triples_raw.json
+LTAM_3164,modernization theory,concept,PREREQUISITE_OF,dependency theory,concept,same unit,,LTAM_3164_triples_raw.json
+LTAM_3164,democratization,concept,PREREQUISITE_OF,democratic backsliding,concept,same unit,,LTAM_3164_triples_raw.json
+LTAM_3164,Monroe Doctrine,concept,PART_OF,hemispheric doctrine and colonial political economy,topic,,,LTAM_3164_triples_raw.json
+LTAM_3164,Roosevelt Corollary,concept,PART_OF,hemispheric doctrine and colonial political economy,topic,,,LTAM_3164_triples_raw.json
+LTAM_3164,Atlantic Slavery,concept,PART_OF,colonial political economy,concept,,,LTAM_3164_triples_raw.json
+LTAM_3164,unequal incorporation,concept,PART_OF,colonial political economy,concept,,,LTAM_3164_triples_raw.json
+LTAM_3164,territorial conquest,concept,PART_OF,construction of an unequal inter-American hierarchy through territorial expansion and intervention,topic,,,LTAM_3164_triples_raw.json
+LTAM_3164,conditional independence,concept,PART_OF,construction of an unequal inter-American hierarchy through territorial expansion and intervention,topic,,,LTAM_3164_triples_raw.json
+LTAM_3164,financial supervision,concept,PART_OF,"revolution, development, and external financial constraint",topic,,,LTAM_3164_triples_raw.json
+LTAM_3164,democratic backsliding,concept,PART_OF,"democratization, security, and deep interdependence with Mexico",topic,,,LTAM_3164_triples_raw.json
+LTAM_3164,dependency theory,concept,SUBTYPE_OF,structuralism,concept,,,LTAM_3164_triples_raw.json
+LTAM_3164,dependency theory,concept,SUBTYPE_OF,modernization theory,concept,,,LTAM_3164_triples_raw.json
+LTAM_3164,Monroe Doctrine,concept,USED_FOR,hemispheric doctrine and colonial political economy,topic,,,LTAM_3164_triples_raw.json
+LTAM_3164,Roosevelt Corollary,concept,USED_FOR,hemispheric doctrine and colonial political economy,topic,,,LTAM_3164_triples_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4400,writing centers,concept,PREREQUISITE_OF,linguistic justice and accessibility,concept,A taught first,,ENGL_4400_triples_raw.json
+ENGL_4400,Pedagogical Competencies,topic,PART_OF,Theories of Teaching and Tutoring Writing,topic,,,ENGL_4400_triples_raw.json

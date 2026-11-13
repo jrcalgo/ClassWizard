@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TESL_5205,First and Second Language Acquisition,topic,PART_OF,Second Language Acquisition & Linguistics in K-12 Schools,topic,,,TESL_5205_triples_raw.json
+TESL_5205,first and second language acquisition processes,concept,PART_OF,First and Second Language Acquisition,topic,,,TESL_5205_triples_raw.json
+TESL_5205,Teaching English Language Learners,topic,PART_OF,implications for teaching in the content areas,topic,,,TESL_5205_triples_raw.json

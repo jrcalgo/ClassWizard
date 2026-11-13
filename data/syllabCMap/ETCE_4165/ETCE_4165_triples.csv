@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETCE_4165,Material Behavior,topic,PART_OF,Structural Steel Design,topic,,,ETCE_4165_triples_raw.json
+ETCE_4165,Tension Members,topic,PART_OF,Structural Steel Design,topic,,,ETCE_4165_triples_raw.json
+ETCE_4165,Beam-Columns,topic,PART_OF,Structural Steel Design,topic,,,ETCE_4165_triples_raw.json
+ETCE_4165,Basic Connections,topic,PART_OF,Structural Steel Design,topic,,,ETCE_4165_triples_raw.json

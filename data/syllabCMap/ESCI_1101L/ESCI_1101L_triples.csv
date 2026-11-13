@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_1101L,Atmospheric Temperature and Pressure,concept,PREREQUISITE_OF,Mapped Data Interpretation,concept,A taught first,,ESCI_1101L_triples_raw.json

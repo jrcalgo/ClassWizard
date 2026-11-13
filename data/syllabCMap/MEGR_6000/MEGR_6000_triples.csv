@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_6000,Current Research in Mechanical Engineering,topic,PART_OF,Research Seminar,topic,,,MEGR_6000_triples_raw.json
+MEGR_6000,Research Seminar,topic,USED_FOR,Engineering Science Applications,topic,,topic used for something - check direction,MEGR_6000_triples_raw.json

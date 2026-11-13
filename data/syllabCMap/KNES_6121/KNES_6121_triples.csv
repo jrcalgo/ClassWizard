@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_6121,clinical tracking procedures,concept,PREREQUISITE_OF,QOL assessment,concept,A mentioned first,,KNES_6121_triples_raw.json
+KNES_6121,patient Initial Treatment Plan (ITP,concept,PREREQUISITE_OF,daily duties of the CEP,concept,A mentioned first,,KNES_6121_triples_raw.json
+KNES_6121,operational standards,concept,PART_OF,Clinical Practice in Exercise Physiology,topic,,,KNES_6121_triples_raw.json
+KNES_6121,clinical tracking procedures,concept,PART_OF,Cancer Rehabilitation Programs,topic,,,KNES_6121_triples_raw.json
+KNES_6121,outcomes documentation,concept,PART_OF,Cancer Rehabilitation Programs,topic,,,KNES_6121_triples_raw.json
+KNES_6121,QOL assessment,concept,PART_OF,Cancer Rehabilitation Programs,topic,,,KNES_6121_triples_raw.json
+KNES_6121,reimbursement strategies for health care costs,concept,PART_OF,Clinical Practice in Exercise Physiology,topic,,,KNES_6121_triples_raw.json
+KNES_6121,basic emergency drugs and equipment,concept,PART_OF,Emergency Action Plan,topic,,,KNES_6121_triples_raw.json

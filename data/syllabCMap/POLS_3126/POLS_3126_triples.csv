@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3126,legislative checks on executive,concept,PREREQUISITE_OF,separation of powers,concept,same unit,,POLS_3126_triples_raw.json
+POLS_3126,needs assessment and analysis,concept,PREREQUISITE_OF,problem definition and framing,concept,same unit,,POLS_3126_triples_raw.json
+POLS_3126,public bureaucracy definition,concept,PREREQUISITE_OF,role of administrator,concept,same unit,,POLS_3126_triples_raw.json
+POLS_3126,legislative checks on executive,concept,PART_OF,separation of powers,concept,,,POLS_3126_triples_raw.json
+POLS_3126,lobbying techniques and strategies,concept,PART_OF,interest group formation,concept,,,POLS_3126_triples_raw.json
+POLS_3126,influence on public policy,concept,PART_OF,interest group formation,concept,,,POLS_3126_triples_raw.json
+POLS_3126,stakeholder engagement,concept,PART_OF,problem definition and framing,concept,,,POLS_3126_triples_raw.json
+POLS_3126,analyzing complex problems,concept,PART_OF,evaluating evidence-based solutions,concept,,,POLS_3126_triples_raw.json
+POLS_3126,strategic planning process,concept,PART_OF,goal setting and prioritization,concept,,,POLS_3126_triples_raw.json

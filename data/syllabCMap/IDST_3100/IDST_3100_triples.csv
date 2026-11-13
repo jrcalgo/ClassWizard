@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+IDST_3100,data collection techniques qualitative,concept,PREREQUISITE_OF,data analysis methods qualitative,concept,same unit,,IDST_3100_triples_raw.json
+IDST_3100,survey research design quantitative,concept,PREREQUISITE_OF,experimental research design quantitative,concept,same unit,,IDST_3100_triples_raw.json
+IDST_3100,literature search strategies,concept,PART_OF,Literature Review and Annotated Bibliography,topic,,,IDST_3100_triples_raw.json
+IDST_3100,annotated bibliography guidelines,concept,PART_OF,Literature Review and Annotated Bibliography,topic,,,IDST_3100_triples_raw.json
+IDST_3100,citation management tools,concept,PART_OF,Literature Review and Annotated Bibliography,topic,,,IDST_3100_triples_raw.json
+IDST_3100,ethics in research considerations,concept,PART_OF,Research Design and Proposal Development,topic,,,IDST_3100_triples_raw.json
+IDST_3100,data collection tools and techniques,concept,PART_OF,Data Collection and Analysis,topic,,,IDST_3100_triples_raw.json
+IDST_3100,data analysis software applications,concept,PART_OF,Data Collection and Analysis,topic,,,IDST_3100_triples_raw.json
+IDST_3100,statistical data analysis,concept,USED_FOR,Quantitative Research Methods,topic,,,IDST_3100_triples_raw.json

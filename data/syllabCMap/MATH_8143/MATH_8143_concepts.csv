@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_8143,topic,Lebesgue integration,Lebesgue integration,1,verified,Lebesgue integration,MATH_8143_concepts_raw.json
+MATH_8143,topic,Lp spaces,Lp spaces,1,verified,Lp spaces,MATH_8143_concepts_raw.json
+MATH_8143,topic,general measure and integration theory,general measure and integration theory,1,verified,general measure and integration theory,MATH_8143_concepts_raw.json
+MATH_8143,concept,Outer measure definition,Outer measure definition,1,inferred,Outer measure definition,MATH_8143_concepts_raw.json
+MATH_8143,concept,Measurable sets properties,Measurable sets properties,1,inferred,Measurable sets properties,MATH_8143_concepts_raw.json
+MATH_8143,concept,Sigma-algebra construction,Sigma-algebra construction,1,inferred,Sigma-algebra construction,MATH_8143_concepts_raw.json
+MATH_8143,concept,Measurability criteria,Measurability criteria,1,inferred,Measurability criteria,MATH_8143_concepts_raw.json
+MATH_8143,concept,Almost everywhere equality,Almost everywhere equality,1,inferred,Almost everywhere equality,MATH_8143_concepts_raw.json
+MATH_8143,concept,Lebesgue points existence,Lebesgue points existence,1,inferred,Lebesgue points existence,MATH_8143_concepts_raw.json
+MATH_8143,concept,Normed vector space definition,Normed vector space definition,1,inferred,Normed vector space definition,MATH_8143_concepts_raw.json
+MATH_8143,concept,Lp space properties,Lp space properties,1,inferred,Lp space properties,MATH_8143_concepts_raw.json
+MATH_8143,concept,Holder's inequality proof,Holder's inequality proof,1,inferred,Holder's inequality proof,MATH_8143_concepts_raw.json
+MATH_8143,concept,Dual spaces existence,Dual spaces existence,1,inferred,Dual spaces existence,MATH_8143_concepts_raw.json
+MATH_8143,concept,Riesz representation theorem,Riesz representation theorem,1,inferred,Riesz representation theorem,MATH_8143_concepts_raw.json
+MATH_8143,concept,Weak convergence concept,Weak convergence concept,1,inferred,Weak convergence concept,MATH_8143_concepts_raw.json
+MATH_8143,concept,Sigma-finite measure definition,Sigma-finite measure definition,1,inferred,Sigma-finite measure definition,MATH_8143_concepts_raw.json
+MATH_8143,concept,Radon-Nikodym derivative,Radon-Nikodym derivative,1,inferred,Radon-Nikodym derivative,MATH_8143_concepts_raw.json
+MATH_8143,concept,Absolute continuity property,Absolute continuity property,1,inferred,Absolute continuity property,MATH_8143_concepts_raw.json

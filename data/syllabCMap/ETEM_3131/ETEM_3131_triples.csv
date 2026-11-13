@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_3131,Electromechanical Devices Overview,concept,PART_OF,Electromechanical Devices,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Input Devices Fundamentals,topic,PART_OF,Electromechanical Devices,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Signals and Signal Processing,topic,PART_OF,Electromechanical Devices,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Electromechanical System Design,topic,PART_OF,Electromechanical Devices,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Simulation and Modeling Tools,topic,PART_OF,Electromechanical Devices,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,System Integration and Testing,topic,PART_OF,Electromechanical Devices,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Control Systems Basics,concept,PART_OF,Output Devices Design,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Filtering Methods and Applications,concept,PART_OF,Signals and Signal Processing,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,System Requirements and Specifications,concept,PART_OF,Electromechanical System Design,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Simulation Software Overview,concept,PART_OF,Simulation and Modeling Tools,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Modeling Techniques for EMD,concept,PART_OF,Simulation and Modeling Tools,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Validation and Verification Methods,concept,PART_OF,Simulation and Modeling Tools,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Motor Control Systems Basics,concept,PART_OF,Electrical and Mechanical Devices,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Gearbox Design Principles,concept,PART_OF,Electrical and Mechanical Devices,topic,,,ETEM_3131_triples_raw.json
+ETEM_3131,Pneumatic and Hydraulic Systems,concept,PART_OF,Electrical and Mechanical Devices,topic,,,ETEM_3131_triples_raw.json

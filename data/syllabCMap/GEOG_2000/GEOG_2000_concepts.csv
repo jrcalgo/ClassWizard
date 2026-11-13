@@ -1,0 +1,40 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_2000,concept,health disparities,health disparities,1,verified,health disparities,GEOG_2000_concepts_raw.json
+GEOG_2000,topic,Analyzing Public Health Issues,analyzing public health issues,1,verified,Analyzing Public Health Issues,GEOG_2000_concepts_raw.json
+GEOG_2000,topic,Socioeconomic Status and Health,Socioeconomic Status and Health,1,inferred,Socioeconomic Status and Health,GEOG_2000_concepts_raw.json
+GEOG_2000,topic,Healthcare Access and Utilization,Healthcare Access and Utilization,1,inferred,Healthcare Access and Utilization,GEOG_2000_concepts_raw.json
+GEOG_2000,topic,Environmental Health and Sustainability,Environmental Health and Sustainability,1,inferred,Environmental Health and Sustainability,GEOG_2000_concepts_raw.json
+GEOG_2000,topic,Psychological and Behavioral Factors,Psychological and Behavioral Factors,1,inferred,Psychological and Behavioral Factors,GEOG_2000_concepts_raw.json
+GEOG_2000,topic,Community-Based Health Promotion,Community-Based Health Promotion,1,inferred,Community-Based Health Promotion,GEOG_2000_concepts_raw.json
+GEOG_2000,topic,Case Studies in North Carolina,Case Studies in North Carolina,1,inferred,Case Studies in North Carolina,GEOG_2000_concepts_raw.json
+GEOG_2000,topic,Disease Prevention and Control,Disease Prevention and Control,1,inferred,Disease Prevention and Control,GEOG_2000_concepts_raw.json
+GEOG_2000,topic,Culturally Competent Health Care,Culturally Competent Health Care,1,inferred,Culturally Competent Health Care,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,social determinants of health,Social determinants of health,1,inferred,social determinants of health,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,racial and ethnic differences,Racial and ethnic differences,1,inferred,racial and ethnic differences,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,poverty and health outcomes,Poverty and health outcomes,1,inferred,poverty and health outcomes,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,income inequality and health,Income inequality and health,1,inferred,income inequality and health,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,education and health disparities,Education and health disparities,1,inferred,education and health disparities,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,health insurance and access,Health insurance and access,1,inferred,health insurance and access,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,primary care and preventive services,Primary care and preventive services,1,inferred,primary care and preventive services,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,barriers to healthcare utilization,Barriers to healthcare utilization,1,inferred,barriers to healthcare utilization,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,air and water pollution effects,Air and water pollution effects,1,inferred,air and water pollution effects,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,climate change and health impacts,Climate change and health impacts,1,inferred,climate change and health impacts,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,urban planning and public health,Urban planning and public health,1,inferred,urban planning and public health,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,stress and mental health outcomes,Stress and mental health outcomes,1,inferred,stress and mental health outcomes,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,social support and well-being,Social support and well-being,1,inferred,social support and well-being,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,health behaviors and lifestyle choices,Health behaviors and lifestyle choices,1,inferred,health behaviors and lifestyle choices,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,community engagement and participation,Community engagement and participation,1,inferred,community engagement and participation,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,partnerships for health improvement,Partnerships for health improvement,1,inferred,partnerships for health improvement,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,capacity building and sustainability,Capacity building and sustainability,1,inferred,capacity building and sustainability,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,regional health disparities and challenges,Regional health disparities and challenges,1,inferred,regional health disparities and challenges,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,urban-rural differences in health outcomes,Urban-rural differences in health outcomes,1,inferred,urban-rural differences in health outcomes,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,state-level policies and initiatives,State-level policies and initiatives,1,inferred,state-level policies and initiatives,GEOG_2000_concepts_raw.json
+GEOG_2000,method,data analysis and interpretation,Data analysis and interpretation,1,inferred,data analysis and interpretation,GEOG_2000_concepts_raw.json
+GEOG_2000,method,epidemiological methods and tools,Epidemiological methods and tools,1,inferred,epidemiological methods and tools,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,health equity and social justice,Health equity and social justice,1,inferred,health equity and social justice,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,infectious disease prevention strategies,Infectious disease prevention strategies,1,inferred,infectious disease prevention strategies,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,chronic disease management and control,Chronic disease management and control,1,inferred,chronic disease management and control,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,vaccine development and distribution,Vaccine development and distribution,1,inferred,vaccine development and distribution,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,cultural humility and awareness,Cultural humility and awareness,1,inferred,cultural humility and awareness,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,language access and communication,Language access and communication,1,inferred,language access and communication,GEOG_2000_concepts_raw.json
+GEOG_2000,concept,patient-centered care and respect,Patient-centered care and respect,1,inferred,patient-centered care and respect,GEOG_2000_concepts_raw.json

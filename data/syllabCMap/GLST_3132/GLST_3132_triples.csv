@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_3132,root causes of conflict,concept,PREREQUISITE_OF,types of conflicts,concept,same unit,,GLST_3132_triples_raw.json
+GLST_3132,root causes of conflict,concept,PREREQUISITE_OF,peace process models,concept,A taught first,,GLST_3132_triples_raw.json
+GLST_3132,reconciliation processes,concept,PREREQUISITE_OF,forgiveness mechanisms,concept,same unit,,GLST_3132_triples_raw.json
+GLST_3132,community engagement strategies,concept,PREREQUISITE_OF,local peace initiatives,concept,same unit,,GLST_3132_triples_raw.json
+GLST_3132,peace education principles,concept,PREREQUISITE_OF,conflict resolution skills,concept,same unit,,GLST_3132_triples_raw.json
+GLST_3132,peacebuilding definition,concept,PART_OF,Peacebuilding,topic,,,GLST_3132_triples_raw.json
+GLST_3132,root causes of conflict,concept,PART_OF,Causes of Conflict,topic,,,GLST_3132_triples_raw.json
+GLST_3132,types of conflicts,concept,PART_OF,Causes of Conflict,topic,,,GLST_3132_triples_raw.json
+GLST_3132,peace process models,concept,PART_OF,Peace Processes and Negotiation,topic,,,GLST_3132_triples_raw.json
+GLST_3132,power dynamics in negotiation,concept,PART_OF,Peace Processes and Negotiation,topic,,,GLST_3132_triples_raw.json
+GLST_3132,reconciliation processes,concept,PART_OF,Reconciliation and Forgiveness,topic,,,GLST_3132_triples_raw.json
+GLST_3132,healing from trauma,concept,PART_OF,Reconciliation and Forgiveness,topic,,,GLST_3132_triples_raw.json
+GLST_3132,community engagement strategies,concept,PART_OF,Community-Based Peacebuilding,topic,,,GLST_3132_triples_raw.json
+GLST_3132,grassroots peacebuilding models,concept,PART_OF,Community-Based Peacebuilding,topic,,,GLST_3132_triples_raw.json
+GLST_3132,obstacles to peacebuilding,concept,PART_OF,Challenges in Peacebuilding,topic,,,GLST_3132_triples_raw.json
+GLST_3132,resistance to change,concept,PART_OF,Challenges in Peacebuilding,topic,,,GLST_3132_triples_raw.json
+GLST_3132,Challenges in Peacebuilding,topic,PART_OF,sustainability of peace efforts,concept,,part is broader than whole - check direction,GLST_3132_triples_raw.json

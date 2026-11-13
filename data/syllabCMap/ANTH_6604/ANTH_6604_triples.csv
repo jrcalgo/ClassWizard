@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_6604,archaeological theory,concept,PREREQUISITE_OF,process of archaeology,concept,same unit,,ANTH_6604_triples_raw.json

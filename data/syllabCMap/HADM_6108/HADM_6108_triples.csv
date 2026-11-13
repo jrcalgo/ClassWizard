@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HADM_6108,Quantitative Management Tools,concept,PART_OF,Decision Analysis,topic,,,HADM_6108_triples_raw.json
+HADM_6108,Statistical Process Control,topic,PART_OF,Decision Analysis,topic,,,HADM_6108_triples_raw.json
+HADM_6108,Advanced Prediction Methods,topic,PART_OF,Decision Analysis,topic,,,HADM_6108_triples_raw.json

@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+UCOL_2200,International Education,concept,PREREQUISITE_OF,Global Career Competencies,concept,A taught first,,UCOL_2200_triples_raw.json
+UCOL_2200,International Education,concept,PREREQUISITE_OF,Personal Branding,concept,A taught first,,UCOL_2200_triples_raw.json
+UCOL_2200,International Education,concept,PREREQUISITE_OF,Career Development,concept,A taught first,,UCOL_2200_triples_raw.json
+UCOL_2200,International Education,concept,PREREQUISITE_OF,Cultural Agility,concept,A taught first,,UCOL_2200_triples_raw.json
+UCOL_2200,Global Experiences,concept,PART_OF,Global Professional Development,topic,,,UCOL_2200_triples_raw.json
+UCOL_2200,Understanding Intercultural Skills and Competencies,topic,PART_OF,Global Professional Development,topic,,,UCOL_2200_triples_raw.json
+UCOL_2200,Developing your Personal & Professional Narrative,topic,PART_OF,Global Professional Development,topic,,,UCOL_2200_triples_raw.json
+UCOL_2200,Resume & Cover Letter Writing,topic,PART_OF,Global Professional Development,topic,,,UCOL_2200_triples_raw.json
+UCOL_2200,Global Career Planning,topic,PART_OF,Global Professional Development,topic,,,UCOL_2200_triples_raw.json
+UCOL_2200,Cultural Agility & Professionalism Across Cultures,topic,PART_OF,Global Professional Development,topic,,,UCOL_2200_triples_raw.json
+UCOL_2200,Global Career Competencies,concept,SUBTYPE_OF,Career Competencies,concept,,,UCOL_2200_triples_raw.json
+UCOL_2200,Cross-Cultural Communication,concept,SUBTYPE_OF,Intercultural Skills,concept,,,UCOL_2200_triples_raw.json
+UCOL_2200,Cultural Intelligence,concept,SUBTYPE_OF,Cultural Awareness,concept,,,UCOL_2200_triples_raw.json
+UCOL_2200,Global Mindset Development,concept,SUBTYPE_OF,Global Competencies,concept,,,UCOL_2200_triples_raw.json
+UCOL_2200,Intercultural Competence,concept,SUBTYPE_OF,Intercultural Skills,concept,,,UCOL_2200_triples_raw.json

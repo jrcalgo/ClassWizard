@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4350,Evolutionary Prototyping,concept,PREREQUISITE_OF,Low Fidelity Prototyping,topic,A taught first,,ITIS_4350_triples_raw.json
+ITIS_4350,Human-Computer Interaction,concept,PREREQUISITE_OF,Interface Design Evaluation,topic,A taught first,,ITIS_4350_triples_raw.json
+ITIS_4350,Paper Prototyping,method,PART_OF,Low Fidelity Prototyping,topic,,,ITIS_4350_triples_raw.json
+ITIS_4350,Physical Prototyping,topic,PART_OF,Evolutionary Prototyping,concept,,part is broader than whole - check direction,ITIS_4350_triples_raw.json
+ITIS_4350,Low Fidelity Prototyping,topic,SUBTYPE_OF,Evolutionary Prototyping,concept,,,ITIS_4350_triples_raw.json
+ITIS_4350,Physical Prototyping,topic,SUBTYPE_OF,Evolutionary Prototyping,concept,,,ITIS_4350_triples_raw.json

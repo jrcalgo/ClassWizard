@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_8101,biological macromolecules,topic,PREREQUISITE_OF,chemical driving forces,topic,A mentioned first,,BINF_8101_triples_raw.json
+BINF_8101,biochemical basis,concept,PREREQUISITE_OF,molecular roles,topic,A mentioned first,,BINF_8101_triples_raw.json
+BINF_8101,biochemical basis,concept,PREREQUISITE_OF,physical forces,topic,A mentioned first,,BINF_8101_triples_raw.json
+BINF_8101,biochemical basis,concept,PREREQUISITE_OF,molecular interactions,concept,same unit,,BINF_8101_triples_raw.json
+BINF_8101,water structure,concept,PREREQUISITE_OF,hydrogen bonding,concept,same unit,,BINF_8101_triples_raw.json
+BINF_8101,acid base equilibrium,concept,PREREQUISITE_OF,amino acid structure,concept,same unit,,BINF_8101_triples_raw.json

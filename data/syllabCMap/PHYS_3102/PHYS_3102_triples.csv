@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_3102,Physical Optics,topic,PREREQUISITE_OF,Electromagnetic Waves,topic,A taught first,,PHYS_3102_triples_raw.json
+PHYS_3102,Physical Optics,topic,PREREQUISITE_OF,Thermodynamics Fundamentals,topic,A taught first,,PHYS_3102_triples_raw.json
+PHYS_3102,Geometrical Optics,topic,PREREQUISITE_OF,Physical Optics,topic,A taught first,,PHYS_3102_triples_raw.json
+PHYS_3102,Wave Motion Basics,topic,PREREQUISITE_OF,Geometrical Optics,topic,A taught first,,PHYS_3102_triples_raw.json
+PHYS_3102,wave definition and types,concept,PART_OF,Wave Motion Basics,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,wave speed and frequency,concept,PART_OF,Wave Motion Basics,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,refraction and reflection laws,concept,PART_OF,Geometrical Optics,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,mirrors and lenses basics,concept,PART_OF,Geometrical Optics,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,image formation principles,concept,PART_OF,Geometrical Optics,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,diffraction fundamentals,concept,PART_OF,Physical Optics,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,interference patterns analysis,concept,PART_OF,Physical Optics,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,polarization concepts,concept,PART_OF,Physical Optics,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,EM wave properties and types,concept,PART_OF,Electromagnetic Waves,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,wave propagation and speed,concept,PART_OF,Electromagnetic Waves,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,energy transfer mechanisms,concept,PART_OF,Electromagnetic Waves,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,thermal energy transfer modes,concept,PART_OF,Thermodynamics Fundamentals,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,zeroth law of thermodynamics,concept,PART_OF,Thermodynamics Fundamentals,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,critical thinking techniques,concept,PART_OF,Problem-Solving Strategies,topic,,,PHYS_3102_triples_raw.json
+PHYS_3102,effective communication methods,concept,PART_OF,Problem-Solving Strategies,topic,,,PHYS_3102_triples_raw.json

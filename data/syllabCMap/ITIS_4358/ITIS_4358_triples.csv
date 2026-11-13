@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4358,2D and 3D modeling approaches,concept,PREREQUISITE_OF,foundational 2D modeling,concept,same unit,,ITIS_4358_triples_raw.json
+ITIS_4358,2D and 3D modeling approaches,concept,PREREQUISITE_OF,subtractive digital fabrication,concept,A taught first,,ITIS_4358_triples_raw.json
+ITIS_4358,programming for embedded computing,concept,PREREQUISITE_OF,prototyping interactive physical computing,concept,A taught first,,ITIS_4358_triples_raw.json
+ITIS_4358,foundational 2D modeling,concept,PART_OF,2D and 3D modeling approaches,concept,,,ITIS_4358_triples_raw.json
+ITIS_4358,subtractive digital fabrication,concept,PART_OF,Digital Fabrication Techniques,topic,,,ITIS_4358_triples_raw.json
+ITIS_4358,programming for embedded computing,concept,PART_OF,Embedded Computing Platforms,topic,,,ITIS_4358_triples_raw.json
+ITIS_4358,tangible interface designs,concept,PART_OF,User Experience Design for Tangible Computing,topic,,,ITIS_4358_triples_raw.json

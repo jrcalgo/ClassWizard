@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6326,topic,Network Science,Network Science,2,verified,Network Science,DSBA_6326_concepts_raw.json
+DSBA_6326,topic,Network Structures and Properties,network structures and properties,1,verified,Network Structures and Properties,DSBA_6326_concepts_raw.json
+DSBA_6326,topic,Network Processes and Behaviors,network processes and behaviors,1,verified,Network Processes and Behaviors,DSBA_6326_concepts_raw.json
+DSBA_6326,concept,social networks,social network,1,verified,social networks,DSBA_6326_concepts_raw.json
+DSBA_6326,method,network analysis,network analysis,1,verified,network analysis,DSBA_6326_concepts_raw.json

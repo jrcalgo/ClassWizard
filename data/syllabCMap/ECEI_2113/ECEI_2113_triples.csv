@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECEI_2113,developmentally appropriate practice,concept,PREREQUISITE_OF,development,concept,B mentioned first,,ECEI_2113_triples_raw.json
+ECEI_2113,fetal development stages,concept,PART_OF,Prenatal Development,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,birth process overview,concept,PART_OF,Prenatal Development,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,physical growth patterns,concept,PART_OF,Infancy and Early Childhood,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,cognitive development milestones,concept,PART_OF,Infancy and Early Childhood,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,hormonal regulation effects,concept,PART_OF,Biological Factors Influence,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,risk factors identification,concept,PART_OF,Developmental Delays and Disabilities,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,early intervention strategies,concept,PART_OF,Developmental Delays and Disabilities,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,child-centered learning approach,concept,PART_OF,DAP Principles Overview,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,supporting diverse learners,concept,PART_OF,Applying DAP in Practice,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,development,concept,USED_FOR,Early Childhood Development,topic,,,ECEI_2113_triples_raw.json
+ECEI_2113,developmentally appropriate practice,concept,USED_FOR,DAP Principles Overview,topic,,,ECEI_2113_triples_raw.json

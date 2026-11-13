@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3111,First law of thermodynamics,concept,PREREQUISITE_OF,Second law of thermodynamics,concept,A taught first,,MEGR_3111_triples_raw.json
+MEGR_3111,Closed System Processes,topic,PREREQUISITE_OF,Open System Steady Flow,topic,A taught first,,MEGR_3111_triples_raw.json
+MEGR_3111,IG equation of state,concept,PREREQUISITE_OF,Specific heat relationships,concept,B mentioned first,,MEGR_3111_triples_raw.json
+MEGR_3111,IG equation of state,concept,PART_OF,Ideal and real gases,topic,,,MEGR_3111_triples_raw.json
+MEGR_3111,Specific heat relationships,concept,PART_OF,Thermodynamic Properties,topic,,,MEGR_3111_triples_raw.json
+MEGR_3111,Polytropic relation,concept,PART_OF,Thermodynamic Properties,topic,,,MEGR_3111_triples_raw.json
+MEGR_3111,Closed System Processes,topic,PART_OF,First law of thermodynamics,concept,,part is broader than whole - check direction,MEGR_3111_triples_raw.json
+MEGR_3111,IG equation of state,concept,USED_FOR,Ideal and real gases,topic,,,MEGR_3111_triples_raw.json
+MEGR_3111,Specific heat relationships,concept,USED_FOR,Thermodynamic Properties,topic,,,MEGR_3111_triples_raw.json
+MEGR_3111,Polytropic relation,concept,USED_FOR,Thermodynamic Properties,topic,,,MEGR_3111_triples_raw.json
+MEGR_3111,Closed System Processes,topic,USED_FOR,First law of thermodynamics,concept,,topic used for something - check direction,MEGR_3111_triples_raw.json
+MEGR_3111,Open System Steady Flow,topic,USED_FOR,First law of thermodynamics,concept,,topic used for something - check direction,MEGR_3111_triples_raw.json
+MEGR_3111,Refrigeration and heat pumps,concept,USED_FOR,Second law of thermodynamics,concept,,,MEGR_3111_triples_raw.json

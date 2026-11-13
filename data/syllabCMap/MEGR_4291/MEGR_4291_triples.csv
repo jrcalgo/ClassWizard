@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_4291,Battery Testing,topic,PREREQUISITE_OF,Li-ion batteries,concept,A taught first,,MEGR_4291_triples_raw.json
+MEGR_4291,cyclers,tool,USED_FOR,Battery Testing,topic,,,MEGR_4291_triples_raw.json
+MEGR_4291,electrochemistry workstation,tool,USED_FOR,Battery Testing,topic,,,MEGR_4291_triples_raw.json
+MEGR_4291,glovebox,tool,USED_FOR,Battery Testing,topic,,,MEGR_4291_triples_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_2206,pre-contact civilizations,concept,PREREQUISITE_OF,Portuguese colonization strategies,concept,same unit,,LTAM_2206_triples_raw.json
+LTAM_2206,Colonial Era Beginnings,concept,PREREQUISITE_OF,Colonial Administration,concept,A taught first,,LTAM_2206_triples_raw.json
+LTAM_2206,Indigenous resistance movements,concept,PREREQUISITE_OF,Colonial Reforms,concept,A taught first,,LTAM_2206_triples_raw.json
+LTAM_2206,Enlightenment Ideas,concept,PREREQUISITE_OF,Late Colonial Reforms,concept,B taught first,B is taught before A - check,LTAM_2206_triples_raw.json
+LTAM_2206,pre-contact civilizations,concept,PREREQUISITE_OF,South American Societies,concept,A taught first,,LTAM_2206_triples_raw.json
+LTAM_2206,Colonial Administration,concept,PART_OF,Iberian Empires,concept,,,LTAM_2206_triples_raw.json
+LTAM_2206,Indigenous resistance movements,concept,PART_OF,Colonial Era Beginnings,concept,,,LTAM_2206_triples_raw.json
+LTAM_2206,Missionary Activities,concept,PART_OF,Transculturation Process,concept,,,LTAM_2206_triples_raw.json
+LTAM_2206,Colonial Reforms,concept,PART_OF,Late Colonial Reforms,concept,,,LTAM_2206_triples_raw.json
+LTAM_2206,Hacienda Economy,concept,PART_OF,Colonial Economy,concept,,,LTAM_2206_triples_raw.json
+LTAM_2206,Colonial Power Structures,concept,PART_OF,Colonial Power Dynamics,concept,,,LTAM_2206_triples_raw.json
+LTAM_2206,Imperial Decline Theories,concept,PART_OF,Economic Crisis Factors,concept,,,LTAM_2206_triples_raw.json
+LTAM_2206,Slavery Laws and Codes,concept,PART_OF,Transatlantic Slave Trade,concept,,,LTAM_2206_triples_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_3001,Geographical Diversities in Food,topic,PART_OF,Social and Environmental Science Perspectives,topic,,,GLST_3001_triples_raw.json
+GLST_3001,Environmental Impacts of Food,topic,PART_OF,Social and Environmental Science Perspectives,topic,,,GLST_3001_triples_raw.json

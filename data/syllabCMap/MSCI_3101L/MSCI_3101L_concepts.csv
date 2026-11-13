@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MSCI_3101L,concept,Unit METL,Unit METL,2,verified,Unit METL,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Leadership Attributes,Leadership Attributes,1,verified,Leadership Attributes,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Core Leader Competencies,core leader competencies,2,verified,Core Leader Competencies,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Army Values and Ethics,Army Values and Ethics,2,verified,Army Values and Ethics,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Personal Development,Personal Development,3,verified,Personal Development,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,After Action Review,After Action Reviews,6,verified,After Action Review,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Mission Command Principles,Mission Command Principles,1,verified,Mission Command Principles,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Command and Control Fundamentals,Command and Control Fundamentals,1,verified,Command and Control Fundamentals,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Army Leadership,Army Leadership,3,verified,Army Leadership,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Warfighting Functions,Warfighting Functions,4,verified,Warfighting Functions,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Operations Process,operations process,9,verified,Operations Process,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Critical Thinking,Critical Thinking,8,verified,Critical Thinking,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Creative Thinking,creative thinking,9,verified,Creative Thinking,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Sustainment Functions,sustainment functions,9,verified,Sustainment Functions,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Training Management,Training Management,11,verified,Training Management,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Leadership Proficiency,Leadership Proficiency,3,verified,Leadership Proficiency,MSCI_3101L_concepts_raw.json
+MSCI_3101L,concept,Evaluation Reporting System,Evaluation Reporting System,1,verified,Evaluation Reporting System,MSCI_3101L_concepts_raw.json
+MSCI_3101L,topic,U.S,U.S,1,verified,The U.S.,MSCI_3101L_concepts_raw.json
+MSCI_3101L,topic,Army in Multi-Domain Operations 2028,Army in Multi-Domain Operations 2028,1,verified,Army in Multi-Domain Operations 2028,MSCI_3101L_concepts_raw.json
+MSCI_3101L,topic,ROTC On-Campus Training and Leadership Development,ROTC On-Campus Training and Leadership Development,1,verified,ROTC On-Campus Training and Leadership Development,MSCI_3101L_concepts_raw.json
+MSCI_3101L,topic,Cadet Command Safety Program Regulation,Cadet Command Safety Program Regulation,1,verified,Cadet Command Safety Program Regulation,MSCI_3101L_concepts_raw.json
+MSCI_3101L,topic,Commander and Staff Guide to Rehearsals,Commander and Staff Guide to Rehearsals,1,verified,Commander and Staff Guide to Rehearsals,MSCI_3101L_concepts_raw.json

@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4261,topic,Microwave Circuit Design I,Microwave Circuit Design I,1,verified,Microwave Circuit Design I,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,Telegrapher's and wave equations,Telegrapher's and wave equations,1,verified,Telegrapher's and wave equations,ECGR_4261_concepts_raw.json
+ECGR_4261,concept,Physical Transmission Lines,physical transmission lines,1,verified,Physical Transmission Lines,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,circuit analysis techniques,circuit analysis techniques,1,verified,circuit analysis techniques,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,impedance matching techniques,impedance matching techniques,1,verified,impedance matching techniques,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,Wilkinson power dividers,Wilkinson power dividers,1,verified,Wilkinson power dividers,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,hybrid couplers,hybrid couplers,1,verified,hybrid couplers,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,transformers,transformers,3,verified,transformers,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,filters,filters,1,verified,filters,ECGR_4261_concepts_raw.json
+ECGR_4261,concept,Basic Transmission Line Characteristics,Basic transmission line characteristics,1,verified,Basic Transmission Line Characteristics,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,Microwave network analysis,Microwave network analysis,2,verified,Microwave network analysis,ECGR_4261_concepts_raw.json
+ECGR_4261,concept,Smith Chart Analysis,Smith Chart analysis,2,verified,Smith Chart Analysis,ECGR_4261_concepts_raw.json
+ECGR_4261,concept,Single Frequency Impedance Matching,Single frequency impedance matching,2,verified,Single Frequency Impedance Matching,ECGR_4261_concepts_raw.json
+ECGR_4261,concept,Broadband Quarter Wave Transformers,Broadband quarter wave transformers,2,verified,Broadband Quarter Wave Transformers,ECGR_4261_concepts_raw.json
+ECGR_4261,concept,Microwave Filter Design,Microwave filter design,2,verified,Microwave Filter Design,ECGR_4261_concepts_raw.json
+ECGR_4261,concept,Network Parameter Modelling of Microwave Systems,network parameter modelling of microwave systems,1,verified,Network Parameter Modelling of Microwave Systems,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,Design and analyze simple passive microwave circuits and systems,design and analyze simple passive microwave circuits and systems,1,verified,Design and analyze simple passive microwave circuits and systems,ECGR_4261_concepts_raw.json
+ECGR_4261,topic,Traditional design flow for microwave circuits,traditional design flow for microwave circuits,1,verified,Traditional design flow for microwave circuits,ECGR_4261_concepts_raw.json
+ECGR_4261,concept,Impedance and S-parameters,impedance and S-parameters,2,verified,Impedance and S-parameters,ECGR_4261_concepts_raw.json

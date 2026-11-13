@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_8201,topic,Molecular Sequence Analysis,Molecular Sequence Analysis,2,verified,Molecular Sequence Analysis,BINF_8201_concepts_raw.json
+BINF_8201,topic,Evolutionary Framework in Bioinformatics,Evolutionary Framework in Bioinformatics,1,verified,Evolutionary Framework in Bioinformatics,BINF_8201_concepts_raw.json
+BINF_8201,topic,Multiple Sequence Alignments,Multiple Sequence Alignments,1,verified,Multiple Sequence Alignments,BINF_8201_concepts_raw.json
+BINF_8201,topic,"Genetic Maps, Linkage, and Variants","Genetic Maps, Linkage, and Variants",1,verified,"Genetic Maps, Linkage, and Variants",BINF_8201_concepts_raw.json
+BINF_8201,concept,evolutionary assumptions on which sequence comparison is based,evolutionary assumptions on which sequence comparison is based,2,verified,evolutionary assumptions on which sequence comparison is based,BINF_8201_concepts_raw.json
+BINF_8201,concept,types and formats of biological sequence data,types and formats of biological sequence data,2,verified,types and formats of biological sequence data,BINF_8201_concepts_raw.json
+BINF_8201,concept,use of common sequence databases,use of common sequence databases,2,verified,use of common sequence databases,BINF_8201_concepts_raw.json
+BINF_8201,concept,underlying algorithms for sequence alignment and sequence searching,underlying algorithms for sequence alignment and sequence searching,2,verified,underlying algorithms for sequence alignment and sequence searching,BINF_8201_concepts_raw.json
+BINF_8201,method,sequence alignment,Sequence Alignments,1,verified,sequence alignment,BINF_8201_concepts_raw.json
+BINF_8201,method,sequence searching,sequence searching,2,verified,sequence searching,BINF_8201_concepts_raw.json

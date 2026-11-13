@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_4620,Critical Thinking Skills,concept,PREREQUISITE_OF,Analytical Techniques,concept,same unit,,THEA_4620_triples_raw.json
+THEA_4620,Theoretical Frameworks,concept,PREREQUISITE_OF,Performance Text Analysis,concept,same unit,,THEA_4620_triples_raw.json
+THEA_4620,Critical Thinking Models,concept,USED_FOR,Critical Thinking Skills,concept,,,THEA_4620_triples_raw.json

@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_3135,topic,Front-End Web Application Development,Front-End Web Application Development,2,verified,Front-End Web Application Development,ITIS_3135_concepts_raw.json
+ITIS_3135,topic,User Experience,user experience,1,verified,User Experience,ITIS_3135_concepts_raw.json
+ITIS_3135,topic,HTML Fundamentals,HTML Fundamentals,1,inferred,HTML Fundamentals,ITIS_3135_concepts_raw.json
+ITIS_3135,topic,CSS Basics,CSS Basics,1,inferred,CSS Basics,ITIS_3135_concepts_raw.json
+ITIS_3135,topic,JavaScript Introduction,JavaScript Introduction,1,inferred,JavaScript Introduction,ITIS_3135_concepts_raw.json
+ITIS_3135,topic,Front-End Frameworks,Front-End Frameworks,1,inferred,Front-End Frameworks,ITIS_3135_concepts_raw.json
+ITIS_3135,topic,State Management,State Management,1,inferred,State Management,ITIS_3135_concepts_raw.json
+ITIS_3135,topic,Responsive Web Design,Responsive Web Design,1,inferred,Responsive Web Design,ITIS_3135_concepts_raw.json
+ITIS_3135,topic,Project Planning,Project Planning,1,inferred,Project Planning,ITIS_3135_concepts_raw.json
+ITIS_3135,topic,Front-End Project Development,Front-End Project Development,1,inferred,Front-End Project Development,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,HTML Structure and Syntax,HTML Structure and Syntax,1,inferred,HTML Structure and Syntax,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Semantic HTML Elements,Semantic HTML Elements,1,inferred,Semantic HTML Elements,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Headings and Paragraphs,Headings and Paragraphs,1,inferred,Headings and Paragraphs,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,CSS Selectors and Properties,CSS Selectors and Properties,1,inferred,CSS Selectors and Properties,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Box Model and Layout,Box Model and Layout,1,inferred,Box Model and Layout,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Colors and Typography,Colors and Typography,1,inferred,Colors and Typography,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Variables and Data Types,Variables and Data Types,1,inferred,Variables and Data Types,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Conditional Statements and Loops,Conditional Statements and Loops,1,inferred,Conditional Statements and Loops,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Functions and Event Handling,Functions and Event Handling,1,inferred,Functions and Event Handling,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Bootstrap and CSS Frameworks,Bootstrap and CSS Frameworks,1,inferred,Bootstrap and CSS Frameworks,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,React and Angular Basics,React and Angular Basics,1,inferred,React and Angular Basics,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Vue.js Fundamentals,Vue.js Fundamentals,1,inferred,Vue.js Fundamentals,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Redux and Flux Architectures,Redux and Flux Architectures,1,inferred,Redux and Flux Architectures,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Global State vs. Component State,Global State vs. Component State,1,inferred,Global State vs. Component State,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Action Creators and Reducers,Action Creators and Reducers,1,inferred,Action Creators and Reducers,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Media Queries and Breakpoints,Media Queries and Breakpoints,1,inferred,Media Queries and Breakpoints,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Flexible Box Layout Module,Flexible Box Layout Module,1,inferred,Flexible Box Layout Module,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Mobile-First Design Approach,Mobile-First Design Approach,1,inferred,Mobile-First Design Approach,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,User Interface Design Principles,User Interface Design Principles,1,inferred,User Interface Design Principles,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Accessibility Guidelines and Best Practices,Accessibility Guidelines and Best Practices,1,inferred,Accessibility Guidelines and Best Practices,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Consistency and Feedback in UI,Consistency and Feedback in UI,1,inferred,Consistency and Feedback in UI,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Project Requirements and Scope,Project Requirements and Scope,1,inferred,Project Requirements and Scope,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Wireframing and Prototyping Tools,Wireframing and Prototyping Tools,1,inferred,Wireframing and Prototyping Tools,ITIS_3135_concepts_raw.json
+ITIS_3135,concept,Agile Development Methodologies,Agile Development Methodologies,1,inferred,Agile Development Methodologies,ITIS_3135_concepts_raw.json

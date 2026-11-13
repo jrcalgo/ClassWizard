@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8475,Co-Teaching,topic,PREREQUISITE_OF,College Teaching,topic,A mentioned first,,EDCI_8475_triples_raw.json
+EDCI_8475,Co-Teaching,topic,PREREQUISITE_OF,Curriculum & Instruction,topic,A mentioned first,,EDCI_8475_triples_raw.json
+EDCI_8475,Co-Teaching,topic,PREREQUISITE_OF,Classroom Management,topic,A taught first,,EDCI_8475_triples_raw.json
+EDCI_8475,Co-Teaching,topic,PREREQUISITE_OF,Inclusive Teaching Practices,topic,A taught first,,EDCI_8475_triples_raw.json
+EDCI_8475,Co-Teaching,topic,PREREQUISITE_OF,Teaching Philosophy,topic,A taught first,,EDCI_8475_triples_raw.json
+EDCI_8475,Co-Teaching,topic,PREREQUISITE_OF,Student Engagement,topic,A taught first,,EDCI_8475_triples_raw.json
+EDCI_8475,Co-Teaching,topic,PREREQUISITE_OF,Motivation,topic,A taught first,,EDCI_8475_triples_raw.json
+EDCI_8475,Co-Teaching,topic,PREREQUISITE_OF,Research-Based Teaching Strategies,topic,A taught first,,EDCI_8475_triples_raw.json

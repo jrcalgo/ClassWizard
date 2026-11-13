@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_2301,African American Literary History,concept,PREREQUISITE_OF,Genre Classification Systems,concept,same unit,,ENGL_2301_triples_raw.json
+ENGL_2301,African American Literary History,concept,PREREQUISITE_OF,Literary Periodization,concept,same unit,,ENGL_2301_triples_raw.json
+ENGL_2301,Authorial Intentions,concept,PREREQUISITE_OF,Contextualizing Literary Works,concept,same unit,,ENGL_2301_triples_raw.json
+ENGL_2301,Literary Devices and Motifs,concept,PREREQUISITE_OF,Thematic Analysis Techniques,concept,same unit,,ENGL_2301_triples_raw.json
+ENGL_2301,Symbolism in Literature,concept,PREREQUISITE_OF,Thematic Analysis Techniques,concept,same unit,,ENGL_2301_triples_raw.json
+ENGL_2301,African American Literary History,concept,PART_OF,African American Literature,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Genre Classification Systems,concept,PART_OF,Genre,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Literary Periodization,concept,PART_OF,Genre,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Textual Analysis Methods,concept,PART_OF,Close Reading Techniques,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Contextualizing Literary Works,concept,PART_OF,Close Reading Techniques,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Authorial Intentions,concept,PART_OF,Close Reading Techniques,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Literary Devices and Motifs,concept,PART_OF,Analyzing Literary Texts,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Thematic Analysis Techniques,concept,PART_OF,Analyzing Literary Texts,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Symbolism in Literature,concept,PART_OF,Analyzing Literary Texts,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Citation Styles and Formats,concept,PART_OF,MLA Formatting Guidelines,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Parenthetical Citations,concept,PART_OF,MLA Formatting Guidelines,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Works Cited Page Structure,concept,PART_OF,MLA Formatting Guidelines,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Argumentation Strategies,concept,PART_OF,Claim Development and Evidence,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Supporting Claims with Texts,concept,PART_OF,Claim Development and Evidence,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Counterargument Considerations,concept,PART_OF,Claim Development and Evidence,topic,,,ENGL_2301_triples_raw.json
+ENGL_2301,Close reading,method,USED_FOR,Analyzing Literary Texts,topic,,,ENGL_2301_triples_raw.json

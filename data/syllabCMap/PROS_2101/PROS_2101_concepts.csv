@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PROS_2101,topic,Information Gathering,information gathering,1,verified,Information Gathering,PROS_2101_concepts_raw.json
+PROS_2101,topic,Project Management Basics,Project Management Basics,1,inferred,Project Management Basics,PROS_2101_concepts_raw.json
+PROS_2101,topic,Defining Organizational Need,Defining Organizational Need,1,inferred,Defining Organizational Need,PROS_2101_concepts_raw.json
+PROS_2101,topic,Defining Project Requirements,Defining Project Requirements,1,inferred,Defining Project Requirements,PROS_2101_concepts_raw.json
+PROS_2101,topic,Resource Allocation and Management,Resource Allocation and Management,1,inferred,Resource Allocation and Management,PROS_2101_concepts_raw.json
+PROS_2101,concept,Project Management Definition,Project Management Definition,1,inferred,Project Management Definition,PROS_2101_concepts_raw.json
+PROS_2101,concept,PMI Guide Overview,PMI Guide Overview,1,inferred,PMI Guide Overview,PROS_2101_concepts_raw.json
+PROS_2101,concept,Project Life Cycle Phases,Project Life Cycle Phases,1,inferred,Project Life Cycle Phases,PROS_2101_concepts_raw.json
+PROS_2101,concept,Identifying Project Goals,Identifying Project Goals,1,inferred,Identifying Project Goals,PROS_2101_concepts_raw.json
+PROS_2101,concept,Assessing Business Needs,Assessing Business Needs,1,inferred,Assessing Business Needs,PROS_2101_concepts_raw.json
+PROS_2101,concept,Stakeholder Analysis,Stakeholder Analysis,1,inferred,Stakeholder Analysis,PROS_2101_concepts_raw.json
+PROS_2101,concept,Data Collection Methods,Data Collection Methods,1,inferred,Data Collection Methods,PROS_2101_concepts_raw.json
+PROS_2101,concept,Risk Identification Techniques,Risk Identification Techniques,1,inferred,Risk Identification Techniques,PROS_2101_concepts_raw.json
+PROS_2101,concept,Communication Planning,Communication Planning,1,inferred,Communication Planning,PROS_2101_concepts_raw.json
+PROS_2101,concept,Scope Statement Development,Scope Statement Development,1,inferred,Scope Statement Development,PROS_2101_concepts_raw.json
+PROS_2101,concept,Work Breakdown Structure,Work Breakdown Structure,1,inferred,Work Breakdown Structure,PROS_2101_concepts_raw.json
+PROS_2101,concept,Project Schedule Creation,Project Schedule Creation,1,inferred,Project Schedule Creation,PROS_2101_concepts_raw.json
+PROS_2101,concept,Human Resource Planning,Human Resource Planning,1,inferred,Human Resource Planning,PROS_2101_concepts_raw.json
+PROS_2101,concept,Material and Equipment Procurement,Material and Equipment Procurement,1,inferred,Material and Equipment Procurement,PROS_2101_concepts_raw.json
+PROS_2101,concept,Budgeting and Cost Estimation,Budgeting and Cost Estimation,1,inferred,Budgeting and Cost Estimation,PROS_2101_concepts_raw.json

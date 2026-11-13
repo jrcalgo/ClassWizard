@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_1235,conventional lighting equipment,concept,PREREQUISITE_OF,Vectorworks,tool,A taught first,,THEA_1235_triples_raw.json
+THEA_1235,conventional lighting equipment,concept,PREREQUISITE_OF,Vectorworks Spotlight,tool,A taught first,,THEA_1235_triples_raw.json
+THEA_1235,Vectorworks,tool,PREREQUISITE_OF,Vectorworks Spotlight,tool,same unit,,THEA_1235_triples_raw.json

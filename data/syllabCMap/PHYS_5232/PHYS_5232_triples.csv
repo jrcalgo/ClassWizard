@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_5232,Lorentz Force Equation,concept,PREREQUISITE_OF,Electrodynamics Basics,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Charge Conservation Law,concept,PREREQUISITE_OF,Electrodynamics Basics,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Gauss's Law for Electric Field,concept,PREREQUISITE_OF,Electrodynamics Basics,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Wave Propagation Speed,concept,PREREQUISITE_OF,Electromagnetic Waves in Vacuum,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Poynting Vector Definition,concept,PREREQUISITE_OF,Electromagnetic Waves in Vacuum,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Refraction Index Definition,concept,PREREQUISITE_OF,Electromagnetic Waves in Media,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Snell's Law Application,concept,PREREQUISITE_OF,Electromagnetic Waves in Media,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Total Internal Reflection,concept,PREREQUISITE_OF,Electromagnetic Waves in Media,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Vector Potential Definition,concept,PREREQUISITE_OF,Potentials and Fields,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Gauge Invariance Principle,concept,PREREQUISITE_OF,Potentials and Fields,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Poynting Vector Energy Density,concept,PREREQUISITE_OF,Energy and Momentum in Electromagnetism,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Momentum Conservation Law,concept,PREREQUISITE_OF,Energy and Momentum in Electromagnetism,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Radiation Pressure Concept,concept,PREREQUISITE_OF,Energy and Momentum in Electromagnetism,topic,same unit,,PHYS_5232_triples_raw.json
+PHYS_5232,Lorentz Force Equation,concept,PART_OF,Electrodynamics Basics,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Charge Conservation Law,concept,PART_OF,Electrodynamics Basics,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Wave Propagation Speed,concept,PART_OF,Electromagnetic Waves in Vacuum,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Poynting Vector Definition,concept,PART_OF,Electromagnetic Waves in Vacuum,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Snell's Law Application,concept,PART_OF,Electromagnetic Waves in Media,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Total Internal Reflection,concept,PART_OF,Electromagnetic Waves in Media,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Scalar Potential Definition,concept,PART_OF,Potentials and Fields,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Vector Potential Definition,concept,PART_OF,Potentials and Fields,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Gauge Invariance Principle,concept,PART_OF,Potentials and Fields,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Momentum Conservation Law,concept,PART_OF,Energy and Momentum in Electromagnetism,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Dipole Radiation Pattern,concept,PART_OF,Electromagnetic Wave Radiation,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Multipole Radiation Expansion,concept,PART_OF,Electromagnetic Wave Radiation,topic,,,PHYS_5232_triples_raw.json
+PHYS_5232,Larmor Formula Derivation,concept,PART_OF,Electromagnetic Wave Radiation,topic,,,PHYS_5232_triples_raw.json

@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_5301,topic,Materials and Assembly Systems,Materials and Assembly Systems,1,verified,Materials and Assembly Systems,ARCH_5301_concepts_raw.json
+ARCH_5301,topic,Forces,forces,1,verified,Introduction to Forces,ARCH_5301_concepts_raw.json
+ARCH_5301,topic,Structural Principles,structural principles,1,verified,Structural Principles,ARCH_5301_concepts_raw.json
+ARCH_5301,concept,forces and structural behavior,forces and structural behavior,1,verified,forces and structural behavior,ARCH_5301_concepts_raw.json
+ARCH_5301,concept,physical and visual properties,physical and visual properties,1,verified,physical and visual properties,ARCH_5301_concepts_raw.json
+ARCH_5301,method,digital simulations,digital simulations,1,verified,digital simulations,ARCH_5301_concepts_raw.json
+ARCH_5301,method,building prototypes,building prototypes,1,verified,building prototypes,ARCH_5301_concepts_raw.json
+ARCH_5301,method,hands-on experimentation,hands-on experimentation,1,verified,hands-on experimentation,ARCH_5301_concepts_raw.json
+ARCH_5301,method,documenting,documenting,1,verified,documenting and reflecting on processes,ARCH_5301_concepts_raw.json

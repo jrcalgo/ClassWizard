@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPOA_4001,topic,Advanced Football Analytics,Advanced Football Analytics,2,verified,Advanced Football Analytics,SPOA_4001_concepts_raw.json
+SPOA_4001,method,Computational Methods,computational methods,1,verified,Computational Methods,SPOA_4001_concepts_raw.json
+SPOA_4001,topic,Advanced Analytics,Advanced Analytics,1,inferred,Introduction to Advanced Analytics,SPOA_4001_concepts_raw.json
+SPOA_4001,topic,Game Dynamics and Metrics,Game Dynamics and Metrics,1,inferred,Game Dynamics and Metrics,SPOA_4001_concepts_raw.json
+SPOA_4001,topic,Player Performance Evaluation,Player Performance Evaluation,1,inferred,Player Performance Evaluation,SPOA_4001_concepts_raw.json
+SPOA_4001,topic,Coaching Performance Analysis,Coaching Performance Analysis,1,inferred,Coaching Performance Analysis,SPOA_4001_concepts_raw.json
+SPOA_4001,topic,Spatial Tracking Data and Analytics,Spatial Tracking Data and Analytics,1,inferred,Spatial Tracking Data and Analytics,SPOA_4001_concepts_raw.json
+SPOA_4001,topic,Case Studies in Advanced Football Analytics,Case Studies in Advanced Football Analytics,1,inferred,Case Studies in Advanced Football Analytics,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Statistical Modeling in Football,Statistical Modeling in Football,1,inferred,Statistical Modeling in Football,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Computational Methods Overview,Computational Methods Overview,1,inferred,Computational Methods Overview,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Expected Points Added (EPA,Expected Points Added (EPA,1,inferred,Expected Points Added (EPA),SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Passer Rating Calculation,Passer Rating Calculation,1,inferred,Passer Rating Calculation,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Rushing Yards per Carry (YPC,Rushing Yards per Carry (YPC,1,inferred,Rushing Yards per Carry (YPC),SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Advanced Passing Statistics,Advanced Passing Statistics,1,inferred,Advanced Passing Statistics,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Receiving Efficiency Metrics,Receiving Efficiency Metrics,1,inferred,Receiving Efficiency Metrics,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Defensive Player Impact,Defensive Player Impact,1,inferred,Defensive Player Impact,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Play Calling Strategies,Play Calling Strategies,1,inferred,Play Calling Strategies,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,In-Game Decision Making,In-Game Decision Making,1,inferred,In-Game Decision Making,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Game Management Techniques,Game Management Techniques,1,inferred,Game Management Techniques,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Player Movement Patterns,Player Movement Patterns,1,inferred,Player Movement Patterns,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Route Running Efficiency,Route Running Efficiency,1,inferred,Route Running Efficiency,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Defensive Coverage Analysis,Defensive Coverage Analysis,1,inferred,Defensive Coverage Analysis,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Real-World NFL Applications,Real-World NFL Applications,1,inferred,Real-World NFL Applications,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Data-Driven Decision Making,Data-Driven Decision Making,1,inferred,Data-Driven Decision Making,SPOA_4001_concepts_raw.json
+SPOA_4001,concept,Analytical Storytelling Techniques,Analytical Storytelling Techniques,1,inferred,Analytical Storytelling Techniques,SPOA_4001_concepts_raw.json
+SPOA_4001,method,Data Visualization Techniques,Data Visualization Techniques,1,inferred,Data Visualization Techniques,SPOA_4001_concepts_raw.json

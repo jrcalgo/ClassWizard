@@ -1,0 +1,101 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_8210,topic,Machine Learning for Bioinformatics,Machine Learning for Bioinformatics,1,verified,Machine Learning for Bioinformatics,BINF_8210_concepts_raw.json
+BINF_8210,topic,ML/AI in Bioinformatics,ML/AI in Bioinformatics,2,verified,Introduction to ML/AI in Bioinformatics,BINF_8210_concepts_raw.json
+BINF_8210,topic,"ML/AI, bioinformatics challenges","ML/AI, bioinformatics challenges",1,verified,"Overview of ML/AI, bioinformatics challenges",BINF_8210_concepts_raw.json
+BINF_8210,topic,Data Preprocessing,Data Preprocessing,1,verified,Data Preprocessing,BINF_8210_concepts_raw.json
+BINF_8210,topic,"Omics data cleaning, normalization, feature extraction","Omics data cleaning, normalization, feature extraction",1,verified,"Omics data cleaning, normalization, feature extraction",BINF_8210_concepts_raw.json
+BINF_8210,topic,Supervised Learning: Regression,Supervised Learning: Regression,2,verified,Supervised Learning: Regression,BINF_8210_concepts_raw.json
+BINF_8210,topic,"Linear regression, logistic regression, applications in omics data prediction","Linear regression, logistic regression, applications in omics data prediction",1,verified,"Linear regression, logistic regression, applications in omics data prediction",BINF_8210_concepts_raw.json
+BINF_8210,topic,"Regularization Techniques, Bayesian Inference Methods, Gaussian Mixture Models, Expectation Maximization Algorithm","Regularization Techniques, Bayesian Inference Methods, Gaussian Mixture Models, Expectation Maximization Algorithm",1,verified,"Regularization Techniques, Bayesian Inference Methods, Gaussian Mixture Models, Expectation Maximization Algorithm",BINF_8210_concepts_raw.json
+BINF_8210,topic,Supervised Learning: Classification,Supervised Learning: Classification,2,verified,Supervised Learning: Classification,BINF_8210_concepts_raw.json
+BINF_8210,topic,"Decision trees, SVMs, random forests, evaluation metrics (accuracy, precision, recall, AUC","Decision trees, SVMs, random forests, evaluation metrics (accuracy, precision, recall, AUC",1,verified,"Decision trees, SVMs, random forests, evaluation metrics (accuracy, precision, recall, AUC)",BINF_8210_concepts_raw.json
+BINF_8210,topic,Unsupervised Learning and Dimensionality Reduction,Unsupervised Learning and Dimensionality Reduction,1,verified,Unsupervised Learning and Dimensionality Reduction,BINF_8210_concepts_raw.json
+BINF_8210,topic,"Clustering (k-means, hierarchical), PCA, t-SNE, UMAP","Clustering (k-means, hierarchical), PCA, t-SNE, UMAP",1,verified,"Clustering (k-means, hierarchical), PCA, t-SNE, UMAP",BINF_8210_concepts_raw.json
+BINF_8210,topic,Deep Learning,deep learning,15,verified,Introduction to Deep Learning,BINF_8210_concepts_raw.json
+BINF_8210,topic,Convolutional Neural Networks (CNNs) in Bioinformatics,Convolutional Neural Networks (CNNs) in Bioinformatics,1,verified,Convolutional Neural Networks (CNNs) in Bioinformatics,BINF_8210_concepts_raw.json
+BINF_8210,topic,Review of Weeks 1–7,Review of Weeks 1–7,1,verified,Review of Weeks 1–7,BINF_8210_concepts_raw.json
+BINF_8210,topic,"Sequential Models: Recurrent Neural Networks (RNNs), LSTMs, Transformers","Sequential Models: Recurrent Neural Networks (RNNs), LSTMs, Transformers",1,verified,"Sequential Models: Recurrent Neural Networks (RNNs), LSTMs, Transformers",BINF_8210_concepts_raw.json
+BINF_8210,topic,Graph Neural Networks (GNNs,Graph Neural Networks (GNNs,1,verified,Graph Neural Networks (GNNs),BINF_8210_concepts_raw.json
+BINF_8210,topic,Transfer Learning and Foundation Models,Transfer Learning and Foundation Models,1,verified,Transfer Learning and Foundation Models,BINF_8210_concepts_raw.json
+BINF_8210,concept,Machine Learning,Machine Learning,8,verified,Machine Learning,BINF_8210_concepts_raw.json
+BINF_8210,concept,Artificial Intelligence,artificial intelligence,3,verified,Artificial Intelligence,BINF_8210_concepts_raw.json
+BINF_8210,concept,Bioinformatics Applications,Bioinformatics Applications,2,verified,Bioinformatics Applications,BINF_8210_concepts_raw.json
+BINF_8210,concept,Biological Data Analysis,Biological Data Analysis,2,verified,Biological Data Analysis,BINF_8210_concepts_raw.json
+BINF_8210,concept,High Dimensionality,high dimensionality,2,verified,High Dimensionality,BINF_8210_concepts_raw.json
+BINF_8210,concept,Noise in Data,Noise in Data,1,verified,Noise in Data,BINF_8210_concepts_raw.json
+BINF_8210,concept,Data Heterogeneity,Data Heterogeneity,1,verified,Data Heterogeneity,BINF_8210_concepts_raw.json
+BINF_8210,concept,Feature Scaling,Feature Scaling,1,verified,Feature Scaling,BINF_8210_concepts_raw.json
+BINF_8210,concept,Normalization Techniques,Normalization Techniques,2,verified,Normalization Techniques,BINF_8210_concepts_raw.json
+BINF_8210,concept,Handling Missing Values,Handling Missing Values,1,verified,Handling Missing Values,BINF_8210_concepts_raw.json
+BINF_8210,concept,Data Transformation Methods,Data Transformation Methods,1,verified,Data Transformation Methods,BINF_8210_concepts_raw.json
+BINF_8210,concept,Omics data cleaning,Omics data cleaning,2,verified,Omics data cleaning,BINF_8210_concepts_raw.json
+BINF_8210,concept,Data normalization techniques,Data normalization techniques,1,verified,Data normalization techniques,BINF_8210_concepts_raw.json
+BINF_8210,concept,Feature extraction methods,Feature extraction methods,1,verified,Feature extraction methods,BINF_8210_concepts_raw.json
+BINF_8210,concept,Bioinformatics feature selection,Bioinformatics feature selection,1,verified,Bioinformatics feature selection,BINF_8210_concepts_raw.json
+BINF_8210,concept,Supervised Learning,Supervised Learning,4,verified,Supervised Learning,BINF_8210_concepts_raw.json
+BINF_8210,concept,Regression Analysis,Regression Analysis,2,verified,Regression Analysis,BINF_8210_concepts_raw.json
+BINF_8210,concept,Ordinary Least Squares,Ordinary Least Squares,2,verified,Ordinary Least Squares,BINF_8210_concepts_raw.json
+BINF_8210,concept,Linear Regression Model,Linear Regression Model,1,verified,Linear Regression Model,BINF_8210_concepts_raw.json
+BINF_8210,concept,Mean Squared Error,Mean Squared Error,1,verified,Mean Squared Error,BINF_8210_concepts_raw.json
+BINF_8210,concept,Coefficient of Determination,Coefficient of Determination,1,verified,Coefficient of Determination,BINF_8210_concepts_raw.json
+BINF_8210,concept,Regularization Techniques,Regularization Techniques,4,verified,Regularization Techniques,BINF_8210_concepts_raw.json
+BINF_8210,concept,Overfitting Prevention Methods,Overfitting Prevention Methods,1,verified,Overfitting Prevention Methods,BINF_8210_concepts_raw.json
+BINF_8210,concept,Linear Regression,Linear Regression,3,verified,Linear Regression,BINF_8210_concepts_raw.json
+BINF_8210,concept,Logistic Regression,logistic regression,3,verified,Logistic Regression,BINF_8210_concepts_raw.json
+BINF_8210,concept,Omic Data Prediction,Omic Data Prediction,1,verified,Omic Data Prediction,BINF_8210_concepts_raw.json
+BINF_8210,concept,Model Evaluation Metrics,Model Evaluation Metrics,3,verified,Model Evaluation Metrics,BINF_8210_concepts_raw.json
+BINF_8210,concept,Prediction Accuracy Measures,Prediction Accuracy Measures,1,verified,Prediction Accuracy Measures,BINF_8210_concepts_raw.json
+BINF_8210,concept,Feature Selection Techniques,Feature Selection Techniques,1,verified,Feature Selection Techniques,BINF_8210_concepts_raw.json
+BINF_8210,concept,Regularization Methods,Regularization Methods,1,verified,Regularization Methods,BINF_8210_concepts_raw.json
+BINF_8210,concept,Decision Trees,Decision Trees,3,verified,Decision Trees,BINF_8210_concepts_raw.json
+BINF_8210,concept,Random Forests,Random Forests,3,verified,Random Forests,BINF_8210_concepts_raw.json
+BINF_8210,concept,Support Vector Machines,Support Vector Machines,2,verified,Support Vector Machines,BINF_8210_concepts_raw.json
+BINF_8210,concept,Confusion Matrices,Confusion Matrices,1,verified,Confusion Matrices,BINF_8210_concepts_raw.json
+BINF_8210,concept,Precision Metrics,Precision Metrics,2,verified,Precision Metrics,BINF_8210_concepts_raw.json
+BINF_8210,concept,Recall Metrics,Recall Metrics,2,verified,Recall Metrics,BINF_8210_concepts_raw.json
+BINF_8210,concept,AUC Metrics,AUC Metrics,1,verified,AUC Metrics,BINF_8210_concepts_raw.json
+BINF_8210,concept,K-Means Clustering,K-Means Clustering,2,verified,K-Means Clustering,BINF_8210_concepts_raw.json
+BINF_8210,concept,Principal Component Analysis,Principal Component Analysis,2,verified,Principal Component Analysis,BINF_8210_concepts_raw.json
+BINF_8210,concept,t-Distributed Stochastic Neighbor Embedding,t-Distributed Stochastic Neighbor Embedding,1,verified,t-Distributed Stochastic Neighbor Embedding,BINF_8210_concepts_raw.json
+BINF_8210,concept,Dimensionality Reduction,Dimensionality Reduction,4,verified,Dimensionality Reduction,BINF_8210_concepts_raw.json
+BINF_8210,concept,Feature Extraction,feature extraction,4,verified,Feature Extraction,BINF_8210_concepts_raw.json
+BINF_8210,concept,Clustering Algorithms,Clustering Algorithms,1,verified,Clustering Algorithms,BINF_8210_concepts_raw.json
+BINF_8210,concept,Hierarchical Clustering,Hierarchical Clustering,2,verified,Hierarchical Clustering,BINF_8210_concepts_raw.json
+BINF_8210,concept,Density-Based Clustering,Density-Based Clustering,1,verified,Density-Based Clustering,BINF_8210_concepts_raw.json
+BINF_8210,concept,Convolutional Neural Networks,Convolutional Neural Networks,4,verified,Convolutional Neural Networks,BINF_8210_concepts_raw.json
+BINF_8210,concept,Activation Functions,Activation Functions,4,verified,Activation Functions,BINF_8210_concepts_raw.json
+BINF_8210,concept,Backpropagation Algorithm,Backpropagation Algorithm,2,verified,Backpropagation Algorithm,BINF_8210_concepts_raw.json
+BINF_8210,concept,Deep Learning Architectures,Deep Learning Architectures,3,verified,Deep Learning Architectures,BINF_8210_concepts_raw.json
+BINF_8210,concept,Recurrent Neural Networks,Recurrent Neural Networks,4,verified,Recurrent Neural Networks,BINF_8210_concepts_raw.json
+BINF_8210,concept,Long Short-Term Memory,Long Short-Term Memories,1,verified,Long Short-Term Memory,BINF_8210_concepts_raw.json
+BINF_8210,concept,Transformers Architecture,Transformers Architecture,2,verified,Transformers Architecture,BINF_8210_concepts_raw.json
+BINF_8210,concept,Sequence Analysis Techniques,Sequence Analysis Techniques,5,verified,Sequence Analysis Techniques,BINF_8210_concepts_raw.json
+BINF_8210,concept,Protein Structure Prediction Models,Protein Structure Prediction Models,3,verified,Protein Structure Prediction Models,BINF_8210_concepts_raw.json
+BINF_8210,concept,Compound Structure Prediction Methods,Compound Structure Prediction Methods,2,verified,Compound Structure Prediction Methods,BINF_8210_concepts_raw.json
+BINF_8210,concept,Graph Neural Networks,Graph Neural Networks,3,verified,Graph Neural Networks,BINF_8210_concepts_raw.json
+BINF_8210,concept,GNN Architecture Design,GNN Architecture Design,1,verified,GNN Architecture Design,BINF_8210_concepts_raw.json
+BINF_8210,concept,Node Embeddings Learning,Node Embeddings Learning,1,verified,Node Embeddings Learning,BINF_8210_concepts_raw.json
+BINF_8210,concept,Edge Feature Extraction,Edge Feature Extraction,1,verified,Edge Feature Extraction,BINF_8210_concepts_raw.json
+BINF_8210,concept,Graph Convolutional Layers,Graph Convolutional Layers,1,verified,Graph Convolutional Layers,BINF_8210_concepts_raw.json
+BINF_8210,concept,Transfer Learning,Transfer Learning,2,verified,Transfer Learning,BINF_8210_concepts_raw.json
+BINF_8210,concept,Foundation Models,Foundation Models,2,verified,Foundation Models,BINF_8210_concepts_raw.json
+BINF_8210,concept,Pre-Trained Models,Pre-Trained Models,1,verified,Pre-Trained Models,BINF_8210_concepts_raw.json
+BINF_8210,concept,Fine-Tuning Techniques,Fine-Tuning Techniques,2,verified,Fine-Tuning Techniques,BINF_8210_concepts_raw.json
+BINF_8210,concept,Model Adaptation,Model Adaptation,1,verified,Model Adaptation,BINF_8210_concepts_raw.json
+BINF_8210,concept,BERT for Sequences,BERT for sequences,2,verified,BERT for Sequences,BINF_8210_concepts_raw.json
+BINF_8210,concept,Responsible AI,Responsible AI,3,verified,Responsible AI,BINF_8210_concepts_raw.json
+BINF_8210,concept,Ethics in AI,Ethics in AI,1,verified,Ethics in AI,BINF_8210_concepts_raw.json
+BINF_8210,concept,AI Interpretability,AI Interpretability,1,verified,AI Interpretability,BINF_8210_concepts_raw.json
+BINF_8210,concept,Bias in Models,Bias in Models,1,verified,Bias in Models,BINF_8210_concepts_raw.json
+BINF_8210,concept,Fairness Metrics,Fairness Metrics,1,verified,Fairness Metrics,BINF_8210_concepts_raw.json
+BINF_8210,concept,Explainable AI,Explainable AI,1,verified,Explainable AI,BINF_8210_concepts_raw.json
+BINF_8210,concept,Model Evaluation,Model Evaluation,4,verified,Model Evaluation,BINF_8210_concepts_raw.json
+BINF_8210,concept,AI Transparency,AI Transparency,1,verified,AI Transparency,BINF_8210_concepts_raw.json
+BINF_8210,concept,Data Bias Detection,Data Bias Detection,1,verified,Data Bias Detection,BINF_8210_concepts_raw.json
+BINF_8210,method,Implement,Implement,1,verified,"Implement and evaluate models using Python (scikit-learn, TensorFlow, PyTorch)",BINF_8210_concepts_raw.json
+BINF_8210,method,evaluate models using Python (scikit-learn,evaluate models using Python (scikit-learn,1,verified,"Implement and evaluate models using Python (scikit-learn, TensorFlow, PyTorch)",BINF_8210_concepts_raw.json
+BINF_8210,method,TensorFlow,TensorFlow,1,verified,"Implement and evaluate models using Python (scikit-learn, TensorFlow, PyTorch)",BINF_8210_concepts_raw.json
+BINF_8210,method,PyTorch,PyTorch,1,verified,"Implement and evaluate models using Python (scikit-learn, TensorFlow, PyTorch)",BINF_8210_concepts_raw.json
+BINF_8210,method,Use pretrained AI models for domain-specific tasks,Use pretrained AI models for domain-specific tasks,1,verified,Use pretrained AI models for domain-specific tasks,BINF_8210_concepts_raw.json
+BINF_8210,tool,Python,Python,1,verified,Python,BINF_8210_concepts_raw.json
+BINF_8210,tool,scikit-learn,scikit-learn,1,verified,scikit-learn,BINF_8210_concepts_raw.json

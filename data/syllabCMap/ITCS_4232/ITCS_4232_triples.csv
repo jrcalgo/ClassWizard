@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_4232,iterative development process,concept,PART_OF,agile methodologies,method,,part is broader than whole - check direction,ITCS_4232_triples_raw.json
+ITCS_4232,iterative development process,concept,PART_OF,iterative development,method,,part is broader than whole - check direction,ITCS_4232_triples_raw.json
+ITCS_4232,sprint planning and execution,concept,PART_OF,agile methodologies,method,,part is broader than whole - check direction,ITCS_4232_triples_raw.json
+ITCS_4232,sprint planning and execution,concept,PART_OF,iterative development,method,,part is broader than whole - check direction,ITCS_4232_triples_raw.json
+ITCS_4232,agile methodologies overview,concept,PART_OF,agile methodologies,method,,part is broader than whole - check direction,ITCS_4232_triples_raw.json
+ITCS_4232,innovative game systems creation,concept,PART_OF,game mechanics design,topic,,,ITCS_4232_triples_raw.json
+ITCS_4232,player feedback integration,concept,PART_OF,game mechanics design,topic,,,ITCS_4232_triples_raw.json
+ITCS_4232,gameplay balance and refinement,concept,PART_OF,game mechanics design,topic,,,ITCS_4232_triples_raw.json
+ITCS_4232,agile team structures and roles,concept,PART_OF,collaboration and communication,topic,,,ITCS_4232_triples_raw.json
+ITCS_4232,task management,method,PART_OF,collaboration and communication,topic,,,ITCS_4232_triples_raw.json
+ITCS_4232,progress tracking,method,PART_OF,collaboration and communication,topic,,,ITCS_4232_triples_raw.json
+ITCS_4232,game performance analysis and refinement,concept,PART_OF,playtesting and feedback,topic,,,ITCS_4232_triples_raw.json
+ITCS_4232,sprint planning,method,USED_FOR,sprint planning and execution,concept,,,ITCS_4232_triples_raw.json

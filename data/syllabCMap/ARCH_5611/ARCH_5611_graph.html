@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ARCH 5611 - Computational Research Methods - concept map</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:#222;background:#fff}
+ header{padding:12px 16px;border-bottom:1px solid #ddd}
+ h1{font-size:18px;margin:0 0 4px} .sub{color:#666;font-size:13px}
+ #map{height:72vh;border-bottom:1px solid #ddd}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;padding:8px 16px;font-size:12px}
+ .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+ .ln{display:inline-block;width:18px;height:3px;margin-right:5px;vertical-align:3px}
+ section{padding:8px 16px 24px} h2{font-size:15px;margin:16px 0 6px}
+ table{border-collapse:collapse;font-size:13px} td,th{border:1px solid #ddd;padding:3px 8px;text-align:left}
+ th{background:#f5f5f5} #err{display:none;padding:16px;color:#a00}
+</style></head><body>
+<header><h1>ARCH 5611 - Computational Research Methods</h1><div class="sub">6 concepts, 7 relations &middot; drag to move, scroll to zoom, hover for details</div></header>
+<div id="err">The interactive map needs internet access to load its drawing library (unpkg.com).
+Open ARCH_5611_graph.png instead; the tables below list the same content.</div>
+<div id="map"></div>
+<div class="legend"><span><span class='sw' style='background:#4C78A8'></span>topic</span><span><span class='ln' style='background:#1F77B4'></span>PART_OF</span><span><span class='ln' style='background:#D62728'></span>PREREQUISITE_OF</span><span class='sub'>dashed border = not verified in the syllabus text</span></div>
+<section><h2>Relations</h2><table><tr><th>subject</th><th>relation</th><th>object</th></tr><tr><td>Academic Research Methodologies</td><td>PART_OF</td><td>Foundations of Design &amp; Computation</td></tr><tr><td>Design Computation</td><td>PART_OF</td><td>Foundations of Design &amp; Computation</td></tr><tr><td>Future Impacts of Computation</td><td>PART_OF</td><td>Foundations of Design &amp; Computation</td></tr><tr><td>Foundations of Design &amp; Computation</td><td>PREREQUISITE_OF</td><td>Design Computation</td></tr><tr><td>Foundations of Design &amp; Computation</td><td>PREREQUISITE_OF</td><td>Computational Tools and Processes</td></tr><tr><td>Foundations of Design &amp; Computation</td><td>PREREQUISITE_OF</td><td>Future Impacts of Computation</td></tr><tr><td>Historical Lineage of Ideas</td><td>PREREQUISITE_OF</td><td>Academic Research Methodologies</td></tr></table><h2>Concepts</h2><table><tr><th>concept</th><th>type</th><th>status</th><th>occurrences</th></tr><tr><td>Academic Research Methodologies</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Computational Tools and Processes</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Design Computation</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Foundations of Design &amp; Computation</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Future Impacts of Computation</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Historical Lineage of Ideas</td><td>topic</td><td>verified</td><td>1</td></tr></table></section>
+<script>
+const DATA = {"nodes": [{"id": "foundations of design & computation", "label": "Foundations of Design & Computation", "title": "Foundations of Design & Computation\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 400.0, "y": -340.0}, {"id": "design computation", "label": "Design Computation", "title": "Design Computation\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 200.0, "y": -170.0}, {"id": "historical lineage of ideas", "label": "Historical Lineage of Ideas", "title": "Historical Lineage of Ideas\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 400.0, "y": -680.0}, {"id": "academic research methodologies", "label": "Academic Research Methodologies", "title": "Academic Research Methodologies\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 400.0, "y": -510.0}, {"id": "computational tools and processes", "label": "Computational Tools and Processes", "title": "Computational Tools and Processes\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 400.0, "y": -0.0}, {"id": "future impacts of computation", "label": "Future Impacts of Computation", "title": "Future Impacts of Computation\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 600.0, "y": -170.0}], "edges": [{"from": "historical lineage of ideas", "to": "academic research methodologies", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": false}, "title": "Historical Lineage of Ideas PREREQUISITE_OF Academic Research Methodologies"}, {"from": "foundations of design & computation", "to": "design computation", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": true, "type": "curvedCW", "roundness": 0.25}, "title": "Foundations of Design & Computation PREREQUISITE_OF Design Computation"}, {"from": "foundations of design & computation", "to": "computational tools and processes", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": true, "type": "curvedCW", "roundness": 0.15}, "title": "Foundations of Design & Computation PREREQUISITE_OF Computational Tools and Processes"}, {"from": "foundations of design & computation", "to": "future impacts of computation", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": true, "type": "curvedCW", "roundness": 0.25}, "title": "Foundations of Design & Computation PREREQUISITE_OF Future Impacts of Computation"}, {"from": "design computation", "to": "foundations of design & computation", "label": "PART_OF", "color": "#1F77B4", "smooth": {"enabled": true, "type": "curvedCW", "roundness": 0.25}, "title": "Design Computation PART_OF Foundations of Design & Computation"}, {"from": "academic research methodologies", "to": "foundations of design & computation", "label": "PART_OF", "color": "#1F77B4", "smooth": {"enabled": false}, "title": "Academic Research Methodologies PART_OF Foundations of Design & Computation"}, {"from": "future impacts of computation", "to": "foundations of design & computation", "label": "PART_OF", "color": "#1F77B4", "smooth": {"enabled": true, "type": "curvedCW", "roundness": 0.25}, "title": "Future Impacts of Computation PART_OF Foundations of Design & Computation"}]};
+if (typeof vis === "undefined") { document.getElementById("err").style.display = "block";
+  document.getElementById("map").style.display = "none"; }
+else {
+  const nodes = new vis.DataSet(DATA.nodes), edges = new vis.DataSet(DATA.edges);
+  const net = new vis.Network(document.getElementById("map"), {nodes, edges}, {
+    nodes: {shape: "box", margin: 8, font: {color: "#fff", size: 14}, widthConstraint: {maximum: 180}},
+    edges: {arrows: {to: {enabled: true, scaleFactor: 0.7}}, font: {size: 11, align: "middle",
+            background: "rgba(255,255,255,0.85)", multi: false}, width: 1.6},
+    physics: false,          // positions come from the same layered layout as the PNG
+    layout: {improvedLayout: false},
+    interaction: {hover: true, tooltipDelay: 120}
+  });
+  net.once("afterDrawing", () => net.fit());
+}
+</script></body></html>

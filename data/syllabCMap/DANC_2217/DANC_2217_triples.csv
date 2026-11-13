@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_2217,somatic inquiry,method,PREREQUISITE_OF,Safety Release principles,topic,A taught first,,DANC_2217_triples_raw.json
+DANC_2217,somatic inquiry,method,PREREQUISITE_OF,anatomical awareness,method,same unit,,DANC_2217_triples_raw.json
+DANC_2217,somatic inquiry,method,PREREQUISITE_OF,artistic expression,method,same unit,,DANC_2217_triples_raw.json
+DANC_2217,anatomical awareness,method,PREREQUISITE_OF,Modern dance technique,topic,A taught first,,DANC_2217_triples_raw.json
+DANC_2217,dynamic alignment,concept,PART_OF,alignment,concept,,,DANC_2217_triples_raw.json
+DANC_2217,contraction and release,concept,PART_OF,Modern dance technique,topic,,,DANC_2217_triples_raw.json
+DANC_2217,intermediate-level shift of weight,concept,PART_OF,Modern dance technique,topic,,,DANC_2217_triples_raw.json
+DANC_2217,Standing exercises,topic,SUBTYPE_OF,Locomotor patterns,topic,,,DANC_2217_triples_raw.json
+DANC_2217,Safety Release principles,topic,SUBTYPE_OF,Modern dance technique,topic,,,DANC_2217_triples_raw.json

@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_5161,topic,Financial Modeling,Financial Modeling,2,verified,Financial Modeling,FINN_5161_concepts_raw.json
+FINN_5161,topic,Corporate Finance,Corporate Finance,2,verified,Corporate Finance,FINN_5161_concepts_raw.json
+FINN_5161,topic,Investments,Investments,2,verified,Investments,FINN_5161_concepts_raw.json
+FINN_5161,measure,time value of money,time value of money,2,verified,time value of money,FINN_5161_concepts_raw.json
+FINN_5161,topic,Security Valuation,security valuation,1,verified,Security Valuation,FINN_5161_concepts_raw.json
+FINN_5161,measure,cost of capital,cost of capital,1,verified,cost of capital,FINN_5161_concepts_raw.json
+FINN_5161,topic,Capital Budgeting,capital budgeting,1,verified,Capital Budgeting,FINN_5161_concepts_raw.json
+FINN_5161,measure,efficient portfolios,efficient portfolios,1,verified,efficient portfolios,FINN_5161_concepts_raw.json
+FINN_5161,measure,CAPM,CAPM,1,verified,CAPM,FINN_5161_concepts_raw.json
+FINN_5161,concept,financial statement analysis,financial statement analysis,1,verified,financial statement analysis,FINN_5161_concepts_raw.json
+FINN_5161,topic,Scenario Analysis,Scenario analysis,1,verified,Scenario Analysis,FINN_5161_concepts_raw.json
+FINN_5161,measure,financial ratios,financial ratios,1,verified,financial ratios,FINN_5161_concepts_raw.json
+FINN_5161,concept,basic spreadsheet use,basic spreadsheet use,1,verified,basic spreadsheet use,FINN_5161_concepts_raw.json
+FINN_5161,concept,Excel built-in functions,Excel built -in functions,2,verified,Excel built-in functions,FINN_5161_concepts_raw.json
+FINN_5161,measure,mean,mean,1,verified,mean,FINN_5161_concepts_raw.json
+FINN_5161,measure,standard deviation,standard deviation,1,verified,standard deviation,FINN_5161_concepts_raw.json
+FINN_5161,measure,covariance,covariance,1,verified,covariance,FINN_5161_concepts_raw.json
+FINN_5161,measure,correlation,correlation,1,verified,correlation,FINN_5161_concepts_raw.json
+FINN_5161,tool,Microsoft Excel,Microsoft Excel,1,verified,Microsoft Excel,FINN_5161_concepts_raw.json
+FINN_5161,tool,Scenario Manager,scenario manager,1,verified,Scenario Manager,FINN_5161_concepts_raw.json
+FINN_5161,tool,Solver,Solver,1,verified,Solver,FINN_5161_concepts_raw.json

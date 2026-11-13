@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_4375,concept,Community-Oriented Policing,community-oriented policing,1,verified,Community-Oriented Policing,CJUS_4375_concepts_raw.json
+CJUS_4375,concept,Problem-Solving Strategies,problem-solving strategies,1,verified,Problem-Solving Strategies,CJUS_4375_concepts_raw.json
+CJUS_4375,method,Evidence-based problem-solving,evidence-based problem-solving,1,verified,Evidence-based problem-solving,CJUS_4375_concepts_raw.json
+CJUS_4375,concept,Offender,offenders,1,verified,"Offender, Victim, Place, Pattern (OVP) Analysis",CJUS_4375_concepts_raw.json
+CJUS_4375,concept,Victim,victims,1,verified,"Offender, Victim, Place, Pattern (OVP) Analysis",CJUS_4375_concepts_raw.json
+CJUS_4375,concept,Place,places,1,verified,"Offender, Victim, Place, Pattern (OVP) Analysis",CJUS_4375_concepts_raw.json

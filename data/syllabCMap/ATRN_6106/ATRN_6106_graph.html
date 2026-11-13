@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ATRN 6106 - Therapeutic Exercise Techniques - concept map</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:#222;background:#fff}
+ header{padding:12px 16px;border-bottom:1px solid #ddd}
+ h1{font-size:18px;margin:0 0 4px} .sub{color:#666;font-size:13px}
+ #map{height:72vh;border-bottom:1px solid #ddd}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;padding:8px 16px;font-size:12px}
+ .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+ .ln{display:inline-block;width:18px;height:3px;margin-right:5px;vertical-align:3px}
+ section{padding:8px 16px 24px} h2{font-size:15px;margin:16px 0 6px}
+ table{border-collapse:collapse;font-size:13px} td,th{border:1px solid #ddd;padding:3px 8px;text-align:left}
+ th{background:#f5f5f5} #err{display:none;padding:16px;color:#a00}
+</style></head><body>
+<header><h1>ATRN 6106 - Therapeutic Exercise Techniques</h1><div class="sub">6 concepts, 0 relations &middot; drag to move, scroll to zoom, hover for details</div></header>
+<div id="err">The interactive map needs internet access to load its drawing library (unpkg.com).
+Open ATRN_6106_graph.png instead; the tables below list the same content.</div>
+<div id="map"></div>
+<div class="legend"><span><span class='sw' style='background:#4C78A8'></span>topic</span><span><span class='sw' style='background:#59A14F'></span>concept</span><span class='sub'>dashed border = not verified in the syllabus text</span></div>
+<section><h2>Relations</h2><p class='sub'>none</p><h2>Concepts</h2><table><tr><th>concept</th><th>type</th><th>status</th><th>occurrences</th></tr><tr><td>Joint Mobilization and Manipulation</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Rehabilitation</td><td>topic</td><td>verified</td><td>2</td></tr><tr><td>Task-Specific Functional Training</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>soft tissue techniques</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>therapeutic exercise techniques</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>tissue healing response</td><td>concept</td><td>verified</td><td>1</td></tr></table></section>
+<script>
+const DATA = {"nodes": [{"id": "therapeutic exercise techniques", "label": "therapeutic exercise techniques", "title": "therapeutic exercise techniques\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 771.4285714285714, "y": -0.0}, {"id": "rehabilitation", "label": "Rehabilitation", "title": "Rehabilitation\ntype: topic\nstatus: verified\noccurrences in syllabus: 2", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 257.1428571428571, "y": -0.0}, {"id": "joint mobilization and manipulation", "label": "Joint Mobilization and Manipulation", "title": "Joint Mobilization and Manipulation\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 85.71428571428571, "y": -0.0}, {"id": "task-specific functional training", "label": "Task-Specific Functional Training", "title": "Task-Specific Functional Training\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 428.57142857142856, "y": -0.0}, {"id": "tissue healing response", "label": "tissue healing response", "title": "tissue healing response\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 942.8571428571429, "y": -0.0}, {"id": "soft tissue techniques", "label": "soft tissue techniques", "title": "soft tissue techniques\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 600.0, "y": -0.0}], "edges": []};
+if (typeof vis === "undefined") { document.getElementById("err").style.display = "block";
+  document.getElementById("map").style.display = "none"; }
+else {
+  const nodes = new vis.DataSet(DATA.nodes), edges = new vis.DataSet(DATA.edges);
+  const net = new vis.Network(document.getElementById("map"), {nodes, edges}, {
+    nodes: {shape: "box", margin: 8, font: {color: "#fff", size: 14}, widthConstraint: {maximum: 180}},
+    edges: {arrows: {to: {enabled: true, scaleFactor: 0.7}}, font: {size: 11, align: "middle",
+            background: "rgba(255,255,255,0.85)", multi: false}, width: 1.6},
+    physics: false,          // positions come from the same layered layout as the PNG
+    layout: {improvedLayout: false},
+    interaction: {hover: true, tooltipDelay: 120}
+  });
+  net.once("afterDrawing", () => net.fit());
+}
+</script></body></html>

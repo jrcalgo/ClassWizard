@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_2234,major and minor scales (2 octaves,concept,PART_OF,Class Piano Iv,topic,,,MUSC_2234_triples_raw.json
+MUSC_2234,arpeggios (2 octaves,concept,PART_OF,Class Piano Iv,topic,,,MUSC_2234_triples_raw.json
+MUSC_2234,chord inversions,concept,PART_OF,Class Piano Iv,topic,,,MUSC_2234_triples_raw.json
+MUSC_2234,sight-reading,concept,USED_FOR,Sight-Reading & Repertoire,topic,,,MUSC_2234_triples_raw.json

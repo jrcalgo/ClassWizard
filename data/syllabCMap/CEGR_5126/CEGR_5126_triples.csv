@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5126,Nodes,topic,PREREQUISITE_OF,load paths,concept,B mentioned first,,CEGR_5126_triples_raw.json
+CEGR_5126,ASCE7,topic,PREREQUISITE_OF,IBC,tool,B mentioned first,,CEGR_5126_triples_raw.json
+CEGR_5126,ASCE7,topic,PREREQUISITE_OF,IRC,tool,B mentioned first,,CEGR_5126_triples_raw.json
+CEGR_5126,load paths,concept,PART_OF,Loads,topic,,,CEGR_5126_triples_raw.json
+CEGR_5126,lateral loads,concept,PART_OF,Loads,topic,,,CEGR_5126_triples_raw.json
+CEGR_5126,critical design scenarios,concept,PART_OF,governing load standards,concept,,,CEGR_5126_triples_raw.json
+CEGR_5126,governing load standards,concept,PART_OF,Codes,topic,,,CEGR_5126_triples_raw.json
+CEGR_5126,Nodes,topic,PART_OF,Codes,topic,,,CEGR_5126_triples_raw.json
+CEGR_5126,ASCE7,topic,PART_OF,Codes,topic,,,CEGR_5126_triples_raw.json
+CEGR_5126,IBC,tool,PART_OF,Codes,topic,,,CEGR_5126_triples_raw.json
+CEGR_5126,IRC,tool,PART_OF,Codes,topic,,,CEGR_5126_triples_raw.json
+CEGR_5126,ASCE7,topic,USED_FOR,governing load standards,concept,,topic used for something - check direction,CEGR_5126_triples_raw.json
+CEGR_5126,ASCE7,topic,USED_FOR,Loads,topic,,topic used for something - check direction,CEGR_5126_triples_raw.json
+CEGR_5126,IBC,tool,USED_FOR,governing load standards,concept,,,CEGR_5126_triples_raw.json
+CEGR_5126,IRC,tool,USED_FOR,governing load standards,concept,,,CEGR_5126_triples_raw.json

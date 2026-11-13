@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_6201,Copilot/AI,tool,USED_FOR,AI-assisted grading,method,,,GRAD_6201_triples_raw.json
+GRAD_6201,Copilot/AI,tool,USED_FOR,Enhancing student learning,method,,,GRAD_6201_triples_raw.json

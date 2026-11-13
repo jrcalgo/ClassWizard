@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6104,Public Sector Perspective,concept,PREREQUISITE_OF,Nonprofit Management,concept,same unit,,MPAD_6104_triples_raw.json
+MPAD_6104,Public Sector Perspective,concept,PREREQUISITE_OF,Organizational Theory,concept,same unit,,MPAD_6104_triples_raw.json
+MPAD_6104,Class Discussions,method,USED_FOR,Public Sector Perspective,concept,,,MPAD_6104_triples_raw.json

@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LEGL_3000,topic,Rules of Evidence,Rules of Evidence,1,verified,Rules of Evidence,LEGL_3000_concepts_raw.json
+LEGL_3000,topic,Trial Advocacy Techniques,trial advocacy techniques,2,verified,Trial Advocacy Techniques,LEGL_3000_concepts_raw.json
+LEGL_3000,topic,Trial Structure Basics,Trial Structure Basics,1,inferred,Trial Structure Basics,LEGL_3000_concepts_raw.json
+LEGL_3000,topic,Mock Trial Preparation,Mock Trial Preparation,1,inferred,Mock Trial Preparation,LEGL_3000_concepts_raw.json
+LEGL_3000,topic,Mock Trial Execution,Mock Trial Execution,1,inferred,Mock Trial Execution,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Components of a Trial,Components of a Trial,1,inferred,Components of a Trial,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Pre-Trial Procedures,Pre-Trial Procedures,1,inferred,Pre-Trial Procedures,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Jury Selection Process,Jury Selection Process,1,inferred,Jury Selection Process,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Relevance Standard,Relevance Standard,1,inferred,Relevance Standard,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Hearsay Exceptions,Hearsay Exceptions,1,inferred,Hearsay Exceptions,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Exclusionary Rules,Exclusionary Rules,1,inferred,Exclusionary Rules,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Opening Statements,Opening Statements,1,inferred,Opening Statements,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Direct Examination,Direct Examination,1,inferred,Direct Examination,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Cross-Examination,Cross-Examination,1,inferred,Cross-Examination,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Case Analysis and Strategy,Case Analysis and Strategy,1,inferred,Case Analysis and Strategy,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Witness Preparation,Witness Preparation,1,inferred,Witness Preparation,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Evidence Organization,Evidence Organization,1,inferred,Evidence Organization,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Trial Conduct and Etiquette,Trial Conduct and Etiquette,1,inferred,Trial Conduct and Etiquette,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Time Management and Pacing,Time Management and Pacing,1,inferred,Time Management and Pacing,LEGL_3000_concepts_raw.json
+LEGL_3000,concept,Teamwork and Communication,Teamwork and Communication,1,inferred,Teamwork and Communication,LEGL_3000_concepts_raw.json

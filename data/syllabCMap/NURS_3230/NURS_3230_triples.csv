@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_3230,comprehensive plans of care,concept,PREREQUISITE_OF,scholarship for evidence based practice,concept,A taught first,,NURS_3230_triples_raw.json
+NURS_3230,developing plans of care,concept,PREREQUISITE_OF,scholarship for evidence based practice,concept,same unit,,NURS_3230_triples_raw.json
+NURS_3230,improving patient health outcomes,concept,PREREQUISITE_OF,Interprofessional Communication,topic,same unit,,NURS_3230_triples_raw.json
+NURS_3230,Health Promotion Strategies,topic,PREREQUISITE_OF,Adult Medical-Surgical Nursing,topic,A taught first,,NURS_3230_triples_raw.json
+NURS_3230,comprehensive plans of care,concept,PART_OF,developing plans of care,concept,,,NURS_3230_triples_raw.json
+NURS_3230,comprehensive plans of care,concept,PART_OF,scholarship for evidence based practice,concept,,,NURS_3230_triples_raw.json
+NURS_3230,improving patient health outcomes,concept,PART_OF,Interprofessional Communication,topic,,,NURS_3230_triples_raw.json
+NURS_3230,Health Promotion Strategies,topic,PART_OF,Adult Medical-Surgical Nursing,topic,,,NURS_3230_triples_raw.json
+NURS_3230,scholarship for evidence based practice,concept,USED_FOR,developing plans of care,concept,,,NURS_3230_triples_raw.json

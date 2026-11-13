@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EMGT_6116,topic,Optimal Control,optimal control,1,verified,Optimal Control,EMGT_6116_concepts_raw.json
+EMGT_6116,topic,System Identification and Reinforcement Learning,System Identification and Reinforcement Learning,1,verified,System Identification and Reinforcement Learning,EMGT_6116_concepts_raw.json
+EMGT_6116,topic,Top Infrastruct & Environ Syst,Top Infrastruct & Environ Syst,1,verified,Top Infrastruct & Environ Syst,EMGT_6116_concepts_raw.json
+EMGT_6116,topic,Stochastic System Analysis,Stochastic System Analysis,1,verified,Stochastic System Analysis,EMGT_6116_concepts_raw.json
+EMGT_6116,topic,Behavioral Applications to Optimal Control and Reinforcement Learning Theory,behavioral applications to optimal control and reinforcement learning theory,1,verified,Behavioral Applications to Optimal Control and Reinforcement Learning Theory,EMGT_6116_concepts_raw.json
+EMGT_6116,concept,Riccati equation,Riccati equation,2,verified,Riccati equation,EMGT_6116_concepts_raw.json
+EMGT_6116,concept,Kalman Filter,Kalman Filter,2,verified,Kalman Filter,EMGT_6116_concepts_raw.json
+EMGT_6116,concept,Neuro-dynamic Programming,Neuro-dynamic Programming,2,verified,Neuro-dynamic Programming,EMGT_6116_concepts_raw.json
+EMGT_6116,concept,Reinforcement Learning,Reinforcement Learning,4,verified,Reinforcement Learning,EMGT_6116_concepts_raw.json
+EMGT_6116,concept,Generative Adversarial Network,Generative Adversarial Network,2,verified,Generative Adversarial Network,EMGT_6116_concepts_raw.json

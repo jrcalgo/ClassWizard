@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_5165,topic,Principles of Biochemistry,Principles of Biochemistry,3,verified,Principles of Biochemistry,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,biological molecules importance,Biological Molecules Importance,1,inferred,biological molecules importance,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,chemical principles in biology,Chemical Principles in Biology,1,inferred,chemical principles in biology,CHEM_5165_concepts_raw.json
+CHEM_5165,topic,Carbohydrates and Glycans,Carbohydrates and Glycans,1,inferred,Carbohydrates and Glycans,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,monosaccharide structure function,Monosaccharide Structure Function,1,inferred,monosaccharide structure function,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,disaccharide synthesis degradation,Disaccharide Synthesis Degradation,1,inferred,disaccharide synthesis degradation,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,polysaccharides role in cells,Polysaccharides Role in Cells,1,inferred,polysaccharides role in cells,CHEM_5165_concepts_raw.json
+CHEM_5165,topic,Proteins and Amino Acids,Proteins and Amino Acids,1,inferred,Proteins and Amino Acids,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,amino acid properties functions,Amino Acid Properties Functions,1,inferred,amino acid properties functions,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,peptide bond formation breakage,Peptide Bond Formation Breakage,1,inferred,peptide bond formation breakage,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,protein structure function relationship,Protein Structure Function Relationship,1,inferred,protein structure function relationship,CHEM_5165_concepts_raw.json
+CHEM_5165,topic,Nucleic Acids and DNA,Nucleic Acids and DNA,1,inferred,Nucleic Acids and DNA,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,DNA structure double helix,DNA Structure Double Helix,1,inferred,DNA structure double helix,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,RNA synthesis degradation regulation,RNA Synthesis Degradation Regulation,1,inferred,RNA synthesis degradation regulation,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,gene expression transcription translation,Gene Expression Transcription Translation,1,inferred,gene expression transcription translation,CHEM_5165_concepts_raw.json
+CHEM_5165,topic,Lipids and Membranes,Lipids and Membranes,1,inferred,Lipids and Membranes,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,fatty acid structure function,Fatty Acid Structure Function,1,inferred,fatty acid structure function,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,phospholipid bilayer formation,Phospholipid Bilayer Formation,1,inferred,phospholipid bilayer formation,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,membrane transport processes overview,Membrane Transport Processes Overview,1,inferred,membrane transport processes overview,CHEM_5165_concepts_raw.json
+CHEM_5165,topic,Bioenergetics and Metabolism,Bioenergetics and Metabolism,1,inferred,Bioenergetics and Metabolism,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,cellular respiration overview,Cellular Respiration Overview,1,inferred,cellular respiration overview,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,glycolysis pyruvate oxidation,Glycolysis Pyruvate Oxidation,1,inferred,glycolysis pyruvate oxidation,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,citric acid cycle electron transport chain,Citric Acid Cycle Electron Transport Chain,1,inferred,citric acid cycle electron transport chain,CHEM_5165_concepts_raw.json
+CHEM_5165,topic,Enzyme Catalysis and Kinetics,Enzyme Catalysis and Kinetics,1,inferred,Enzyme Catalysis and Kinetics,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,enzyme structure function relationship,Enzyme Structure Function Relationship,1,inferred,enzyme structure function relationship,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,catalytic mechanism enzyme inhibition,Catalytic Mechanism Enzyme Inhibition,1,inferred,catalytic mechanism enzyme inhibition,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,kinetic parameters michaelis menten equation,Kinetic Parameters Michaelis Menten Equation,1,inferred,kinetic parameters michaelis menten equation,CHEM_5165_concepts_raw.json
+CHEM_5165,topic,Thermodynamics in Biochemistry,Thermodynamics in Biochemistry,1,inferred,Thermodynamics in Biochemistry,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,first second law thermodynamics,First Second Law Thermodynamics,1,inferred,first second law thermodynamics,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,free energy change calculation,Free Energy Change Calculation,1,inferred,free energy change calculation,CHEM_5165_concepts_raw.json
+CHEM_5165,concept,equilibrium constant expression,Equilibrium Constant Expression,1,inferred,equilibrium constant expression,CHEM_5165_concepts_raw.json

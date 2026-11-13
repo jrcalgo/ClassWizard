@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3201,topic,Systems And Design,Systems And Design,1,verified,Systems And Design,CEGR_3201_concepts_raw.json
+CEGR_3201,topic,Systems Engineering,Systems engineering,1,verified,Introduction to Systems Engineering,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Methodological Considerations,methodological considerations,1,verified,Methodological Considerations,CEGR_3201_concepts_raw.json
+CEGR_3201,topic,Civil Engineering Applications,Civil Engineering Applications,1,inferred,Civil Engineering Applications,CEGR_3201_concepts_raw.json
+CEGR_3201,topic,Systems Analysis and Evaluation,Systems Analysis and Evaluation,1,inferred,Systems Analysis and Evaluation,CEGR_3201_concepts_raw.json
+CEGR_3201,topic,Engineering Plan Development,Engineering Plan Development,1,inferred,Engineering Plan Development,CEGR_3201_concepts_raw.json
+CEGR_3201,topic,Teamwork and Collaboration,Teamwork and Collaboration,1,inferred,Teamwork and Collaboration,CEGR_3201_concepts_raw.json
+CEGR_3201,topic,Engineering Journal and Reflection,Engineering Journal and Reflection,1,inferred,Engineering Journal and Reflection,CEGR_3201_concepts_raw.json
+CEGR_3201,topic,Final Report Preparation,Final Report Preparation,1,inferred,Final Report Preparation,CEGR_3201_concepts_raw.json
+CEGR_3201,topic,Final Presentation and Defense,Final Presentation and Defense,1,inferred,Final Presentation and Defense,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Systems Thinking Approach,Systems Thinking Approach,1,inferred,Systems Thinking Approach,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Engineering Problem Solving,Engineering Problem Solving,1,inferred,Engineering Problem Solving,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Infrastructure System Design,Infrastructure System Design,1,inferred,Infrastructure System Design,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Transportation System Planning,Transportation System Planning,1,inferred,Transportation System Planning,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Water Resource Management,Water Resource Management,1,inferred,Water Resource Management,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Alternative Solutions Identification,Alternative Solutions Identification,1,inferred,Alternative Solutions Identification,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Cost Benefit Analysis Techniques,Cost Benefit Analysis Techniques,1,inferred,Cost Benefit Analysis Techniques,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Risk Assessment Methods,Risk Assessment Methods,1,inferred,Risk Assessment Methods,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Project Planning and Scheduling,Project Planning and Scheduling,1,inferred,Project Planning and Scheduling,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Resource Allocation Strategies,Resource Allocation Strategies,1,inferred,Resource Allocation Strategies,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Quality Control Measures,Quality Control Measures,1,inferred,Quality Control Measures,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Effective Communication Skills,Effective Communication Skills,1,inferred,Effective Communication Skills,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Conflict Resolution Strategies,Conflict Resolution Strategies,1,inferred,Conflict Resolution Strategies,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Professional Conduct Expectations,Professional Conduct Expectations,1,inferred,Professional Conduct Expectations,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Reflective Practice in Engineering,Reflective Practice in Engineering,1,inferred,Reflective Practice in Engineering,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Journaling for Professional Development,Journaling for Professional Development,1,inferred,Journaling for Professional Development,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Self-Assessment and Feedback,Self-Assessment and Feedback,1,inferred,Self-Assessment and Feedback,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Report Writing and Presentation,Report Writing and Presentation,1,inferred,Report Writing and Presentation,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Appendix and Calculation Organization,Appendix and Calculation Organization,1,inferred,Appendix and Calculation Organization,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Engineering Plan Documentation,Engineering Plan Documentation,1,inferred,Engineering Plan Documentation,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Effective Communication Techniques,Effective Communication Techniques,1,inferred,Effective Communication Techniques,CEGR_3201_concepts_raw.json
+CEGR_3201,concept,Presentation Skills and Delivery,Presentation Skills and Delivery,1,inferred,Presentation Skills and Delivery,CEGR_3201_concepts_raw.json

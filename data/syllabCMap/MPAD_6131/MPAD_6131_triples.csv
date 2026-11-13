@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6131,budget reform initiatives,concept,PREREQUISITE_OF,budget cycle stages,concept,same unit,,MPAD_6131_triples_raw.json
+MPAD_6131,taxation policies and processes,concept,PREREQUISITE_OF,Tax Administration and Enforcement,topic,A taught first,,MPAD_6131_triples_raw.json
+MPAD_6131,capital budgeting process,concept,PREREQUISITE_OF,Long-Term Capital Planning,topic,A taught first,,MPAD_6131_triples_raw.json
+MPAD_6131,budget cycle stages,concept,PART_OF,budget cycle overview,concept,,,MPAD_6131_triples_raw.json
+MPAD_6131,revenue sharing agreements,concept,PART_OF,intergovernmental fiscal relations,concept,,,MPAD_6131_triples_raw.json
+MPAD_6131,Tax Reform Initiatives,topic,PART_OF,taxation policies and processes,concept,,part is broader than whole - check direction,MPAD_6131_triples_raw.json

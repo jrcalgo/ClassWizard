@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_8010,topic,AI System Design,AI System Design,1,verified,AI System Design,ITCS_8010_concepts_raw.json
+ITCS_8010,topic,Large-Scale System Design,large-scale system design,1,verified,Large-Scale System Design,ITCS_8010_concepts_raw.json
+ITCS_8010,topic,HPC × AI Workflows,HPC × AI Workflows,1,verified,HPC × AI Workflows,ITCS_8010_concepts_raw.json
+ITCS_8010,topic,Traditional Systems Fundamentals,Traditional Systems Fundamentals,1,inferred,Traditional Systems Fundamentals,ITCS_8010_concepts_raw.json
+ITCS_8010,topic,Machine Learning Basics,Machine Learning Basics,1,inferred,Machine Learning Basics,ITCS_8010_concepts_raw.json
+ITCS_8010,topic,Edge AI Systems Design,Edge AI Systems Design,1,inferred,Edge AI Systems Design,ITCS_8010_concepts_raw.json
+ITCS_8010,topic,LLM System Architecture,LLM System Architecture,1,inferred,LLM System Architecture,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Distributed System Design Principles,Distributed System Design Principles,1,inferred,Distributed System Design Principles,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Scalability and Performance Metrics,Scalability and Performance Metrics,1,inferred,Scalability and Performance Metrics,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Reliability and Fault Tolerance,Reliability and Fault Tolerance,1,inferred,Reliability and Fault Tolerance,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Supervised and Unsupervised Learning,Supervised and Unsupervised Learning,1,inferred,Supervised and Unsupervised Learning,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Neural Network Architectures Overview,Neural Network Architectures Overview,1,inferred,Neural Network Architectures Overview,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Model Evaluation Metrics,Model Evaluation Metrics,2,inferred,Model Evaluation Metrics,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Latency vs Throughput Tradeoffs,Latency vs Throughput Tradeoffs,1,inferred,Latency vs Throughput Tradeoffs,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Cost Optimization Strategies,Cost Optimization Strategies,1,inferred,Cost Optimization Strategies,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Scalability and Reliability Analysis,Scalability and Reliability Analysis,1,inferred,Scalability and Reliability Analysis,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Resource-Constrained Device Architectures,Resource-Constrained Device Architectures,1,inferred,Resource-Constrained Device Architectures,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Optimizing AI Models for Edge Devices,Optimizing AI Models for Edge Devices,1,inferred,Optimizing AI Models for Edge Devices,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Real-Time Processing Requirements,Real-Time Processing Requirements,1,inferred,Real-Time Processing Requirements,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Retrieval-Augmented Systems Overview,Retrieval-Augmented Systems Overview,1,inferred,Retrieval-Augmented Systems Overview,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Agent Frameworks and Design Patterns,Agent Frameworks and Design Patterns,1,inferred,Agent Frameworks and Design Patterns,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Large Language Model Evaluation Metrics,Large Language Model Evaluation Metrics,1,inferred,Large Language Model Evaluation Metrics,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Integrating AI with HPC Infrastructure,Integrating AI with HPC Infrastructure,1,inferred,Integrating AI with HPC Infrastructure,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Scientific Computing Pipelines and AI,Scientific Computing Pipelines and AI,1,inferred,Scientific Computing Pipelines and AI,ITCS_8010_concepts_raw.json
+ITCS_8010,concept,Emerging Workflow Architectures,Emerging Workflow Architectures,1,inferred,Emerging Workflow Architectures,ITCS_8010_concepts_raw.json

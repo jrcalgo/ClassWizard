@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3081,Literary Genres Overview,concept,PREREQUISITE_OF,Poetic Forms and Devices,topic,A taught first,,ENGL_3081_triples_raw.json
+ENGL_3081,Poetic Structure Analysis,concept,PREREQUISITE_OF,Imagery in Poetry,concept,same unit,,ENGL_3081_triples_raw.json
+ENGL_3081,Metaphor and Simile,concept,PREREQUISITE_OF,Point of View Explained,concept,A taught first,,ENGL_3081_triples_raw.json
+ENGL_3081,Plot Development Strategies,concept,PREREQUISITE_OF,Characterization Methods,concept,same unit,,ENGL_3081_triples_raw.json
+ENGL_3081,Close Reading Techniques,concept,PREREQUISITE_OF,Contextualizing Literary Works,concept,same unit,,ENGL_3081_triples_raw.json
+ENGL_3081,Literary Genres Overview,concept,PART_OF,Literary Analysis Fundamentals,topic,,,ENGL_3081_triples_raw.json
+ENGL_3081,Types of Fiction Writing,concept,PART_OF,Literary Genres Overview,concept,,,ENGL_3081_triples_raw.json
+ENGL_3081,Imagery in Poetry,concept,PART_OF,Poetic Forms and Devices,topic,,,ENGL_3081_triples_raw.json
+ENGL_3081,Plot Development Strategies,concept,PART_OF,Narrative Techniques,topic,,,ENGL_3081_triples_raw.json
+ENGL_3081,Characterization Methods,concept,PART_OF,Narrative Techniques,topic,,,ENGL_3081_triples_raw.json
+ENGL_3081,Close Reading Techniques,concept,PART_OF,Literary Analysis Fundamentals,topic,,,ENGL_3081_triples_raw.json
+ENGL_3081,Contextualizing Literary Works,concept,PART_OF,Literary Analysis Fundamentals,topic,,,ENGL_3081_triples_raw.json
+ENGL_3081,Authorial Intentions,concept,PART_OF,Literary Analysis Fundamentals,topic,,,ENGL_3081_triples_raw.json
+ENGL_3081,Feminist and Marxist Critique,concept,PART_OF,Critical Thinking and Theory,topic,,,ENGL_3081_triples_raw.json
+ENGL_3081,Postcolonial Perspectives,concept,PART_OF,Critical Thinking and Theory,topic,,,ENGL_3081_triples_raw.json

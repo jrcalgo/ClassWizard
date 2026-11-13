@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_1220,topic,data summarization,data summarization,3,verified,data summarization,STAT_1220_concepts_raw.json
+STAT_1220,topic,discrete and continuous random variables,discrete and continuous random variables,3,verified,discrete and continuous random variables,STAT_1220_concepts_raw.json
+STAT_1220,topic,binomial,binomial,8,verified,binomial,STAT_1220_concepts_raw.json
+STAT_1220,topic,normal,normal,5,verified,normal,STAT_1220_concepts_raw.json
+STAT_1220,topic,sampling,sampling,3,verified,sampling,STAT_1220_concepts_raw.json
+STAT_1220,topic,central limit theorem,central limit theorem,3,verified,central limit theorem,STAT_1220_concepts_raw.json
+STAT_1220,topic,estimation,estimation,4,verified,estimation,STAT_1220_concepts_raw.json
+STAT_1220,topic,testing hypotheses,testing hypotheses,3,verified,testing hypotheses,STAT_1220_concepts_raw.json
+STAT_1220,topic,Statistics for Social Scientists,Statistics for Social Scientists,1,verified,Statistics for Social Scientists,STAT_1220_concepts_raw.json
+STAT_1220,topic,What's In It For Me,What's In It For Me,1,verified,What's In It For Me,STAT_1220_concepts_raw.json
+STAT_1220,topic,Needed Skills from Pre-Algebra and High School Algebra,Needed Skills from Pre-Algebra and High School Algebra,1,verified,Needed Skills from Pre-Algebra and High School Algebra,STAT_1220_concepts_raw.json
+STAT_1220,topic,Decimals and Percents,Decimals and Percents,1,verified,Decimals and Percents,STAT_1220_concepts_raw.json
+STAT_1220,topic,Proportions,Proportions,2,verified,Proportions,STAT_1220_concepts_raw.json
+STAT_1220,topic,Rounding,Rounding,2,verified,Rounding,STAT_1220_concepts_raw.json
+STAT_1220,topic,Inequality Notation,Inequality Notation,1,verified,Inequality Notation,STAT_1220_concepts_raw.json
+STAT_1220,topic,Interval Notation,Interval Notation,1,verified,Interval Notation,STAT_1220_concepts_raw.json
+STAT_1220,topic,Order of Operations,Order of Operations,1,verified,Order of Operations,STAT_1220_concepts_raw.json
+STAT_1220,concept,descriptive statistics,descriptive statistics,3,verified,descriptive statistics,STAT_1220_concepts_raw.json
+STAT_1220,concept,discrete random variables,Discrete Random Variables,6,verified,discrete random variables,STAT_1220_concepts_raw.json
+STAT_1220,concept,continuous random variables,continuous random variables,8,verified,continuous random variables,STAT_1220_concepts_raw.json
+STAT_1220,concept,binomial distribution,Binomial Distribution,5,verified,binomial distribution,STAT_1220_concepts_raw.json
+STAT_1220,concept,normal distribution,Normal Distribution,2,verified,normal distribution,STAT_1220_concepts_raw.json
+STAT_1220,concept,percent change formula,Percent Change Formula,1,verified,percent change formula,STAT_1220_concepts_raw.json
+STAT_1220,concept,proportion estimation,Proportion Estimation,1,verified,proportion estimation,STAT_1220_concepts_raw.json
+STAT_1220,concept,sample proportions,Sample Proportions,1,verified,sample proportions,STAT_1220_concepts_raw.json
+STAT_1220,concept,rounding numbers,Rounding Numbers,1,verified,rounding numbers,STAT_1220_concepts_raw.json
+STAT_1220,concept,significant figures,Significant Figures,1,verified,significant figures,STAT_1220_concepts_raw.json
+STAT_1220,concept,inclusive and exclusive intervals,Inclusive and Exclusive Intervals,1,verified,inclusive and exclusive intervals,STAT_1220_concepts_raw.json
+STAT_1220,concept,not equal to symbol,Not Equal to Symbol,1,verified,not equal to symbol,STAT_1220_concepts_raw.json
+STAT_1220,concept,less than or equal to,Less Than or Equal To,1,verified,less than or equal to,STAT_1220_concepts_raw.json
+STAT_1220,concept,greater than or equal to,Greater Than or Equal To,1,verified,greater than or equal to,STAT_1220_concepts_raw.json
+STAT_1220,method,active learning techniques,active learning techniques,1,verified,active learning techniques,STAT_1220_concepts_raw.json
+STAT_1220,method,hypothesis testing,hypothesis testing,1,verified,hypothesis testing,STAT_1220_concepts_raw.json
+STAT_1220,tool,Poll Everywhere,Poll Everywhere,1,verified,Poll Everywhere,STAT_1220_concepts_raw.json
+STAT_1220,tool,RealizeIt,RealizeIt,1,verified,RealizeIt,STAT_1220_concepts_raw.json

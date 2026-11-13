@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_4203,Engineering Economics,topic,PREREQUISITE_OF,Decision and Bayesian Analysis,topic,A mentioned first,,SEGR_4203_triples_raw.json
+SEGR_4203,Engineering Economics,topic,PREREQUISITE_OF,Game Theory,topic,A taught first,,SEGR_4203_triples_raw.json
+SEGR_4203,Opportunity Cost Definition,concept,PART_OF,Engineering Economics,topic,,,SEGR_4203_triples_raw.json
+SEGR_4203,Time Value of Money,concept,PART_OF,Engineering Economics,topic,,,SEGR_4203_triples_raw.json
+SEGR_4203,Present Worth Factor,concept,PART_OF,Engineering Economics,topic,,,SEGR_4203_triples_raw.json
+SEGR_4203,Bayes' Theorem Application,concept,PART_OF,Decision and Bayesian Analysis,topic,,,SEGR_4203_triples_raw.json
+SEGR_4203,Strategic vs Tactical Decisions,concept,PART_OF,Game Theory,topic,,,SEGR_4203_triples_raw.json
+SEGR_4203,Nash Equilibrium Concept,concept,PART_OF,Game Theory,topic,,,SEGR_4203_triples_raw.json
+SEGR_4203,Pareto Optimality Principle,concept,PART_OF,Game Theory,topic,,,SEGR_4203_triples_raw.json
+SEGR_4203,Updating Probability Estimates,concept,PART_OF,Decision and Bayesian Analysis,topic,,,SEGR_4203_triples_raw.json
+SEGR_4203,Risk Management Strategies,concept,PART_OF,Decision and Bayesian Analysis,topic,,,SEGR_4203_triples_raw.json

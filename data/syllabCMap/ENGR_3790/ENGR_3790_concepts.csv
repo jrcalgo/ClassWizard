@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ENGR_3790,topic,Engineering Honors Seminar 1,Engineering Honors Seminar 1,1,verified,Engineering Honors Seminar 1,ENGR_3790_concepts_raw.json
+ENGR_3790,topic,Honors,Honors,1,verified,Introduction to Honors,ENGR_3790_concepts_raw.json
+ENGR_3790,topic,Societal Implications,Societal Implications,1,inferred,Societal Implications,ENGR_3790_concepts_raw.json
+ENGR_3790,topic,Community Service,Community Service,1,inferred,Community Service,ENGR_3790_concepts_raw.json
+ENGR_3790,topic,Class Discussions,Class Discussions,1,inferred,Class Discussions,ENGR_3790_concepts_raw.json

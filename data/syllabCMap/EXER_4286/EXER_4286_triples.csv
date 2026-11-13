@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_4286,Body Mass Index (BMI) Calculation,concept,PART_OF,Fitness Assessment Techniques,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Waist Circumference Measurement,measure,PART_OF,Fitness Assessment Techniques,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Cardiovascular Risk Factors,measure,PART_OF,Fitness Assessment Techniques,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Aerobic Exercise Prescription Guidelines,concept,PART_OF,Exercise Testing and Prescription Guidelines,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Flexibility and Mobility Exercises,concept,PART_OF,Exercise Testing and Prescription Guidelines,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Geriatric Exercise Programming,concept,PART_OF,Exercise for Older Adults,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Diabetes and Exercise Guidelines,concept,PART_OF,Exercise for Older Adults,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Chronic Obstructive Pulmonary Disease (COPD,concept,PART_OF,Exercise for Older Adults,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Cardiovascular Risk Assessment,concept,PART_OF,Exercise Testing and Prescription Guidelines,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Exercise-Related Injuries Prevention,concept,PART_OF,Exercise Testing and Prescription Guidelines,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Medication Interactions with Exercise,concept,PART_OF,Exercise Testing and Prescription Guidelines,concept,,,EXER_4286_triples_raw.json
+EXER_4286,Cardiovascular Risk Factors,measure,USED_FOR,Exercise Testing and Prescription Guidelines,concept,,,EXER_4286_triples_raw.json

@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CUYC_3600,Urbanization and Migration,concept,PREREQUISITE_OF,Racial and Economic Inequality,concept,same unit,,CUYC_3600_triples_raw.json
+CUYC_3600,Sociological Theories of Youth,concept,PREREQUISITE_OF,Psychological Perspectives on Development,concept,same unit,,CUYC_3600_triples_raw.json
+CUYC_3600,Participatory Action Research,method,PREREQUISITE_OF,Youth-Led Community Development,concept,same unit,,CUYC_3600_triples_raw.json
+CUYC_3600,Urban Youth Challenges,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Social Justice Frameworks,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Community Engagement Principles,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Urbanization and Migration,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Racial and Economic Inequality,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Policy and Planning History,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Sociological Theories of Youth,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Psychological Perspectives on Development,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Economic Models of Community Growth,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Needs Assessment and Goal Setting,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Stakeholder Engagement and Partnerships,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Project Planning and Management,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Quantitative Methods,concept,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Participatory Action Research,method,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Data Collection,method,PART_OF,Urban Youth,topic,,,CUYC_3600_triples_raw.json
+CUYC_3600,Participatory Action Research,method,USED_FOR,Youth-Led Community Development,concept,,,CUYC_3600_triples_raw.json

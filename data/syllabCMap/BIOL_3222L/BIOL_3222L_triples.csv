@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_3222L,microscopes,tool,USED_FOR,General Botany Lab,topic,,,BIOL_3222L_triples_raw.json
+BIOL_3222L,laboratory equipment,tool,USED_FOR,General Botany Lab,topic,,,BIOL_3222L_triples_raw.json

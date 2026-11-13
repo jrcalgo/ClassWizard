@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3114,topic,Fluid Mechanics,Fluid Mechanics,2,verified,Fluid Mechanics,MEGR_3114_concepts_raw.json
+MEGR_3114,topic,Conservation Laws for Fluid Flow,conservation laws for fluid flow,1,verified,Conservation Laws for Fluid Flow,MEGR_3114_concepts_raw.json
+MEGR_3114,topic,Dimensional Analysis and Similarity,dimensional analysis and similarity,1,verified,Dimensional Analysis and Similarity,MEGR_3114_concepts_raw.json
+MEGR_3114,method,dimensional analysis,dimensional analysis,1,verified,dimensional analysis,MEGR_3114_concepts_raw.json
+MEGR_3114,method,similarity methods,similarity methods,1,verified,similarity methods,MEGR_3114_concepts_raw.json
+MEGR_3114,method,experimentation,experimentation,1,verified,experimentation,MEGR_3114_concepts_raw.json

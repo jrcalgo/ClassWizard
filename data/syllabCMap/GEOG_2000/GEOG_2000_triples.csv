@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_2000,health disparities,concept,PREREQUISITE_OF,Healthcare Access and Utilization,topic,A taught first,,GEOG_2000_triples_raw.json
+GEOG_2000,health disparities,concept,PREREQUISITE_OF,Psychological and Behavioral Factors,topic,A taught first,,GEOG_2000_triples_raw.json
+GEOG_2000,health disparities,concept,PREREQUISITE_OF,Disease Prevention and Control,topic,A taught first,,GEOG_2000_triples_raw.json
+GEOG_2000,data analysis and interpretation,method,PART_OF,Analyzing Public Health Issues,topic,,,GEOG_2000_triples_raw.json
+GEOG_2000,Healthcare Access and Utilization,topic,PART_OF,Analyzing Public Health Issues,topic,,,GEOG_2000_triples_raw.json
+GEOG_2000,Environmental Health and Sustainability,topic,PART_OF,Analyzing Public Health Issues,topic,,,GEOG_2000_triples_raw.json
+GEOG_2000,Psychological and Behavioral Factors,topic,PART_OF,Analyzing Public Health Issues,topic,,,GEOG_2000_triples_raw.json
+GEOG_2000,Community-Based Health Promotion,topic,PART_OF,Analyzing Public Health Issues,topic,,,GEOG_2000_triples_raw.json
+GEOG_2000,Disease Prevention and Control,topic,PART_OF,Analyzing Public Health Issues,topic,,,GEOG_2000_triples_raw.json
+GEOG_2000,Culturally Competent Health Care,topic,PART_OF,Analyzing Public Health Issues,topic,,,GEOG_2000_triples_raw.json

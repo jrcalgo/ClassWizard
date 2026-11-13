@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_8156,topic,Machine Learning,Machine Learning,2,verified,Machine Learning,ITCS_8156_concepts_raw.json
+ITCS_8156,topic,Self-Supervised Learning,self-supervised learning,1,verified,Self-Supervised Learning,ITCS_8156_concepts_raw.json
+ITCS_8156,topic,Pattern Recognition and Machine Learning,Pattern Recognition and Machine Learning,1,verified,Pattern Recognition and Machine Learning,ITCS_8156_concepts_raw.json
+ITCS_8156,topic,Mathematics for Machine Learning,Mathematics for Machine Learning,1,verified,Mathematics for Machine Learning,ITCS_8156_concepts_raw.json
+ITCS_8156,tool,Python,Python,4,verified,Python,ITCS_8156_concepts_raw.json
+ITCS_8156,tool,NumPy,NumPy,1,verified,NumPy,ITCS_8156_concepts_raw.json
+ITCS_8156,tool,scikit-learn,scikit-learn,1,verified,scikit-learn,ITCS_8156_concepts_raw.json
+ITCS_8156,tool,PyTorch,PyTorch,1,verified,PyTorch,ITCS_8156_concepts_raw.json
+ITCS_8156,tool,Jupyter/Google Colab,Jupyter/Google Colab,1,verified,Jupyter/Google Colab,ITCS_8156_concepts_raw.json

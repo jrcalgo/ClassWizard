@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_3101,linear time-invariant systems,concept,PART_OF,system modeling methodologies,concept,,,ETEM_3101_triples_raw.json
+ETEM_3101,Laplace transforms,concept,PART_OF,system modeling methodologies,concept,,,ETEM_3101_triples_raw.json
+ETEM_3101,transfer functions,concept,PART_OF,system modeling methodologies,concept,,,ETEM_3101_triples_raw.json

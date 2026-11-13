@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5101,topic,Embedded System Design,embedded system design,1,verified,Embedded System Design,ECGR_5101_concepts_raw.json
+ECGR_5101,topic,Real-Time Operating Systems,real-time operating system,1,verified,Real-Time Operating Systems,ECGR_5101_concepts_raw.json
+ECGR_5101,tool,logic analyzer,logic analyzer,1,verified,logic analyzer,ECGR_5101_concepts_raw.json
+ECGR_5101,tool,hardware design tools,hardware design tools,1,verified,hardware design tools,ECGR_5101_concepts_raw.json
+ECGR_5101,topic,C Programming for Microcontrollers,C Programming for Microcontrollers,1,inferred,C Programming for Microcontrollers,ECGR_5101_concepts_raw.json
+ECGR_5101,topic,Peripheral Devices and Interfaces,Peripheral Devices and Interfaces,1,inferred,Peripheral Devices and Interfaces,ECGR_5101_concepts_raw.json
+ECGR_5101,topic,Efficient Program Development,Efficient Program Development,1,inferred,Efficient Program Development,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,constraints facing embedded designers,Constraints facing embedded designers,1,inferred,constraints facing embedded designers,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,assessing design constraints,Assessing design constraints,1,inferred,assessing design constraints,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,microcontroller architecture overview,Microcontroller architecture overview,1,inferred,microcontroller architecture overview,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,programming modern microcontrollers in C,Programming modern microcontrollers in C,1,inferred,programming modern microcontrollers in C,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,operating peripheral devices with C,Operating peripheral devices with C,1,inferred,operating peripheral devices with C,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,C code to assembly code mapping,C code to assembly code mapping,1,inferred,C code to assembly code mapping,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,implementing embedded systems with peripherals,Implementing embedded systems with peripherals,1,inferred,implementing embedded systems with peripherals,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,input device programming techniques,Input device programming techniques,1,inferred,input device programming techniques,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,communications device interface methods,Communications device interface methods,1,inferred,communications device interface methods,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,thread-based program design principles,Thread-based program design principles,1,inferred,thread-based program design principles,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,RTOS implementation and configuration,RTOS implementation and configuration,1,inferred,RTOS implementation and configuration,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,multitasking in real-time systems,Multitasking in real-time systems,1,inferred,multitasking in real-time systems,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,quick and efficient programming methods,Quick and efficient programming methods,1,inferred,quick and efficient programming methods,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,program optimization techniques for embedded systems,Program optimization techniques for embedded systems,1,inferred,program optimization techniques for embedded systems,ECGR_5101_concepts_raw.json
+ECGR_5101,concept,debugging and testing strategies,Debugging and testing strategies,1,inferred,debugging and testing strategies,ECGR_5101_concepts_raw.json

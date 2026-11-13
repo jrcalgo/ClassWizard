@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_6180,Rubrics and Scoring Guides,topic,PREREQUISITE_OF,Formative and Summative Assessments,topic,same unit,,ADMN_6180_triples_raw.json
+ADMN_6180,Andragogy,concept,PART_OF,Andragogy vs Pedagogy,topic,,,ADMN_6180_triples_raw.json
+ADMN_6180,Pedagogy,concept,PART_OF,Andragogy,concept,,,ADMN_6180_triples_raw.json
+ADMN_6180,Cultural Competence,concept,PART_OF,Cultural Competence and Awareness,topic,,,ADMN_6180_triples_raw.json
+ADMN_6180,Diversity,concept,PART_OF,"Diversity, Equity, and Inclusion",topic,,,ADMN_6180_triples_raw.json
+ADMN_6180,Equity,concept,PART_OF,"Diversity, Equity, and Inclusion",topic,,,ADMN_6180_triples_raw.json
+ADMN_6180,Inclusion,concept,PART_OF,"Diversity, Equity, and Inclusion",topic,,,ADMN_6180_triples_raw.json
+ADMN_6180,Authentic Assessment Methods,concept,USED_FOR,Formative and Summative Assessments,topic,,,ADMN_6180_triples_raw.json
+ADMN_6180,Rubrics and Scoring Guides,topic,USED_FOR,Formative and Summative Assessments,topic,,topic used for something - check direction,ADMN_6180_triples_raw.json

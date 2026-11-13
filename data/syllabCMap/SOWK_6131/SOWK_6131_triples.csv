@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_6131,recidivism measurement,concept,PREREQUISITE_OF,study citation format,concept,same unit,,SOWK_6131_triples_raw.json
+SOWK_6131,adolescent definition,concept,PREREQUISITE_OF,recidivism measurement,concept,same unit,,SOWK_6131_triples_raw.json
+SOWK_6131,Academic Credit Policy,concept,PREREQUISITE_OF,Social Work Research,topic,A mentioned first,,SOWK_6131_triples_raw.json
+SOWK_6131,recidivism measurement,concept,PART_OF,Research Terminology,topic,,,SOWK_6131_triples_raw.json
+SOWK_6131,adolescent definition,concept,PART_OF,Research Terminology,topic,,,SOWK_6131_triples_raw.json
+SOWK_6131,study citation format,concept,PART_OF,APA Style Basics,topic,,,SOWK_6131_triples_raw.json
+SOWK_6131,Academic Credit Policy,concept,PART_OF,Social Work Research,topic,,,SOWK_6131_triples_raw.json
+SOWK_6131,unique sample identification,concept,PART_OF,Literature Review Writing,topic,,,SOWK_6131_triples_raw.json
+SOWK_6131,methodological comparison,concept,PART_OF,Literature Review Writing,topic,,,SOWK_6131_triples_raw.json
+SOWK_6131,client-centered communication,concept,PART_OF,Translating Research for Clients,topic,,,SOWK_6131_triples_raw.json
+SOWK_6131,research translation strategies,concept,PART_OF,Translating Research for Clients,topic,,,SOWK_6131_triples_raw.json

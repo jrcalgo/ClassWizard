@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3114,dimensional analysis,method,PART_OF,Dimensional Analysis and Similarity,topic,,,MEGR_3114_triples_raw.json
+MEGR_3114,similarity methods,method,PART_OF,Dimensional Analysis and Similarity,topic,,,MEGR_3114_triples_raw.json
+MEGR_3114,experimentation,method,PART_OF,Dimensional Analysis and Similarity,topic,,,MEGR_3114_triples_raw.json
+MEGR_3114,dimensional analysis,method,USED_FOR,experimentation,method,,,MEGR_3114_triples_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MGMT_3280,ethical issues in business,concept,PART_OF,Ethics in Business,topic,,,MGMT_3280_triples_raw.json
+MGMT_3280,ethical issues in business,concept,PART_OF,social responsibility concepts,concept,,,MGMT_3280_triples_raw.json
+MGMT_3280,legal compliance requirements,concept,PART_OF,Ethics in Business,topic,,,MGMT_3280_triples_raw.json
+MGMT_3280,sustainable business practices,concept,PART_OF,Sustainability and CSR,topic,,,MGMT_3280_triples_raw.json
+MGMT_3280,environmental impact analysis,concept,PART_OF,Sustainability and CSR,topic,,,MGMT_3280_triples_raw.json
+MGMT_3280,global economic trends,concept,PART_OF,Global Economic Systems,topic,,,MGMT_3280_triples_raw.json
+MGMT_3280,emerging markets overview,concept,PART_OF,Global Economic Systems,topic,,,MGMT_3280_triples_raw.json
+MGMT_3280,external environment analysis,concept,PART_OF,Strategic Decision Making,topic,,,MGMT_3280_triples_raw.json
+MGMT_3280,SWOT analysis techniques,concept,PART_OF,Strategic Decision Making,topic,,,MGMT_3280_triples_raw.json
+MGMT_3280,strategic planning process,concept,PART_OF,Strategic Decision Making,topic,,,MGMT_3280_triples_raw.json

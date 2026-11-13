@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPTI_8102L,topic,Geometrical Optics Lab,Geometrical Optics Lab,1,verified,Geometrical Optics Lab,OPTI_8102L_concepts_raw.json
+OPTI_8102L,topic,Spherical Mirrors,spherical mirrors,1,verified,Spherical Mirrors,OPTI_8102L_concepts_raw.json
+OPTI_8102L,topic,Thin Lenses,thin lenses,1,verified,Thin Lenses,OPTI_8102L_concepts_raw.json
+OPTI_8102L,topic,Fringe Projection Profilometry,fringe projection profilometry,1,verified,Fringe Projection Profilometry,OPTI_8102L_concepts_raw.json
+OPTI_8102L,topic,Index Measurement,Index Measurement,2,inferred,Index Measurement,OPTI_8102L_concepts_raw.json
+OPTI_8102L,topic,Dispersing Prisms,Dispersing Prisms,1,inferred,Dispersing Prisms,OPTI_8102L_concepts_raw.json
+OPTI_8102L,topic,Imaging Systems,Imaging Systems,1,inferred,Imaging Systems,OPTI_8102L_concepts_raw.json
+OPTI_8102L,topic,Aberration Correction,Aberration Correction,1,inferred,Aberration Correction,OPTI_8102L_concepts_raw.json
+OPTI_8102L,topic,Fiber Optics Basics,Fiber Optics Basics,1,inferred,Fiber Optics Basics,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Refraction Index Measurement,Refraction Index Measurement,1,inferred,Refraction Index Measurement,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Prism Refractive Properties,Prism Refractive Properties,1,inferred,Prism Refractive Properties,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Light Path Deviation,Light Path Deviation,1,inferred,Light Path Deviation,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Dispersion and Aberration,Dispersion and Aberration,1,inferred,Dispersion and Aberration,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Spectral Separation Principle,Spectral Separation Principle,1,inferred,Spectral Separation Principle,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Angular Dispersion Calculation,Angular Dispersion Calculation,1,inferred,Angular Dispersion Calculation,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Mirror Focal Length Formula,Mirror Focal Length Formula,1,inferred,Mirror Focal Length Formula,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Image Formation with Mirrors,Image Formation with Mirrors,1,inferred,Image Formation with Mirrors,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Concave Mirror Properties,Concave Mirror Properties,1,inferred,Concave Mirror Properties,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Lensmaker's Equation Derivation,Lensmaker's Equation Derivation,1,inferred,Lensmaker's Equation Derivation,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Focal Length Calculation Method,Focal Length Calculation Method,1,inferred,Focal Length Calculation Method,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Thin Lens Imaging Behavior,Thin Lens Imaging Behavior,1,inferred,Thin Lens Imaging Behavior,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Optical System Alignment,Optical System Alignment,1,inferred,Optical System Alignment,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Image Formation Principles,Image Formation Principles,1,inferred,Image Formation Principles,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,System Resolution Limitations,System Resolution Limitations,1,inferred,System Resolution Limitations,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Seidel Aberration Types,Seidel Aberration Types,1,inferred,Seidel Aberration Types,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Astigmatism and Coma Correction,Astigmatism and Coma Correction,1,inferred,Astigmatism and Coma Correction,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Spherical Aberration Reduction,Spherical Aberration Reduction,1,inferred,Spherical Aberration Reduction,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Fiber Optic Transmission Principle,Fiber Optic Transmission Principle,1,inferred,Fiber Optic Transmission Principle,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Light Propagation in Fibers,Light Propagation in Fibers,1,inferred,Light Propagation in Fibers,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Attenuation and Dispersion Effects,Attenuation and Dispersion Effects,1,inferred,Attenuation and Dispersion Effects,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Interference Pattern Analysis,Interference Pattern Analysis,1,inferred,Interference Pattern Analysis,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Surface Topography Measurement,Surface Topography Measurement,1,inferred,Surface Topography Measurement,OPTI_8102L_concepts_raw.json
+OPTI_8102L,concept,Profiling with Fringe Patterns,Profiling with Fringe Patterns,1,inferred,Profiling with Fringe Patterns,OPTI_8102L_concepts_raw.json

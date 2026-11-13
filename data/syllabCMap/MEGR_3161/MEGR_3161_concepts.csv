@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3161,topic,Materials Science,Materials Science,1,verified,Materials Science,MEGR_3161_concepts_raw.json
+MEGR_3161,topic,Crystal Structures,crystal structures,1,verified,Crystal Structures,MEGR_3161_concepts_raw.json
+MEGR_3161,topic,Mechanical Properties of Materials,mechanical properties of materials,1,verified,Mechanical Properties of Materials,MEGR_3161_concepts_raw.json
+MEGR_3161,topic,Fracture Mechanics,fracture mechanics,1,verified,Fracture Mechanics,MEGR_3161_concepts_raw.json
+MEGR_3161,concept,classes of engineering materials,classes of engineering materials,1,verified,classes of engineering materials,MEGR_3161_concepts_raw.json
+MEGR_3161,method,X-ray diffraction method,X-ray diffraction method,1,verified,X-ray diffraction method,MEGR_3161_concepts_raw.json
+MEGR_3161,concept,point,point,3,verified,"point, line and planar defects",MEGR_3161_concepts_raw.json
+MEGR_3161,concept,line,line,1,verified,"point, line and planar defects",MEGR_3161_concepts_raw.json
+MEGR_3161,concept,planar defects,planar defects,1,verified,"point, line and planar defects",MEGR_3161_concepts_raw.json
+MEGR_3161,method,mass transport equations,mass transport equations,1,verified,mass transport equations,MEGR_3161_concepts_raw.json
+MEGR_3161,concept,concentration profiles in diffusion couples,concentration profiles in diffusion couples,1,verified,concentration profiles in diffusion couples,MEGR_3161_concepts_raw.json
+MEGR_3161,concept,basic mechanical properties of materials,basic mechanical properties of materials,1,verified,basic mechanical properties of materials,MEGR_3161_concepts_raw.json
+MEGR_3161,concept,influence of dislocations on plastic deformation,influence of dislocations on plastic deformation,1,verified,influence of dislocations on plastic deformation,MEGR_3161_concepts_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_2126,Loglines,topic,PREREQUISITE_OF,Synopsis,concept,same unit,,ENGL_2126_triples_raw.json
+ENGL_2126,Synopsis,concept,PREREQUISITE_OF,Initial Outline,concept,same unit,,ENGL_2126_triples_raw.json
+ENGL_2126,Initial Outline,concept,PREREQUISITE_OF,Theatrical Structure,concept,same unit,,ENGL_2126_triples_raw.json
+ENGL_2126,Theatrical Structure,concept,PREREQUISITE_OF,Feature Length Play Structure,concept,A taught first,,ENGL_2126_triples_raw.json
+ENGL_2126,Conceptualizing Feature Length Plays,concept,PREREQUISITE_OF,Feature Length Play Structure,concept,same unit,,ENGL_2126_triples_raw.json
+ENGL_2126,Loglines,topic,PREREQUISITE_OF,Pitch sheet,concept,A taught first,,ENGL_2126_triples_raw.json
+ENGL_2126,Loglines,topic,PART_OF,Playwriting,topic,,,ENGL_2126_triples_raw.json
+ENGL_2126,Synopsis,concept,PART_OF,Playwriting,topic,,,ENGL_2126_triples_raw.json
+ENGL_2126,Initial Outline,concept,PART_OF,Playwriting,topic,,,ENGL_2126_triples_raw.json
+ENGL_2126,Theatrical Works,concept,PART_OF,Playwriting,topic,,,ENGL_2126_triples_raw.json
+ENGL_2126,Artistic Voice Development,concept,PART_OF,Playwriting,topic,,,ENGL_2126_triples_raw.json
+ENGL_2126,Pitch sheet,concept,SUBTYPE_OF,Loglines,topic,,,ENGL_2126_triples_raw.json
+ENGL_2126,One sheet concept,concept,SUBTYPE_OF,Loglines,topic,,,ENGL_2126_triples_raw.json

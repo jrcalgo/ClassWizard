@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_3206,ventilator modes and settings,concept,PREREQUISITE_OF,gas exchange processes,concept,same unit,,RESP_3206_triples_raw.json
+RESP_3206,respiratory mechanics principles,concept,PREREQUISITE_OF,gas exchange processes,concept,same unit,,RESP_3206_triples_raw.json
+RESP_3206,neonatal respiratory distress syndrome,concept,PREREQUISITE_OF,premature infant ventilation needs,concept,same unit,,RESP_3206_triples_raw.json
+RESP_3206,neonatal respiratory distress syndrome,concept,PREREQUISITE_OF,neonatal cardiac complications,concept,same unit,,RESP_3206_triples_raw.json
+RESP_3206,clinical interventions strategies,concept,PART_OF,Critical Care Monitoring,topic,,,RESP_3206_triples_raw.json
+RESP_3206,patient monitoring modalities,concept,PART_OF,Critical Care Monitoring,topic,,,RESP_3206_triples_raw.json
+RESP_3206,ventilator modes and settings,concept,PART_OF,Mechanical Ventilation Fundamentals,topic,,,RESP_3206_triples_raw.json
+RESP_3206,respiratory mechanics principles,concept,PART_OF,Mechanical Ventilation Fundamentals,topic,,,RESP_3206_triples_raw.json
+RESP_3206,gas exchange processes,concept,PART_OF,Mechanical Ventilation Fundamentals,topic,,,RESP_3206_triples_raw.json
+RESP_3206,neonatal respiratory distress syndrome,concept,PART_OF,Neonatal Critical Care Pathophysiology,topic,,,RESP_3206_triples_raw.json
+RESP_3206,neonatal cardiac complications,concept,PART_OF,Neonatal Critical Care Pathophysiology,topic,,,RESP_3206_triples_raw.json
+RESP_3206,pediatric cardiac arrest management,concept,PART_OF,Pediatric Critical Care Pathophysiology,topic,,,RESP_3206_triples_raw.json
+RESP_3206,pediatric neurological complications,concept,PART_OF,Pediatric Critical Care Pathophysiology,topic,,,RESP_3206_triples_raw.json
+RESP_3206,lab values analysis techniques,concept,USED_FOR,patient monitoring modalities,concept,,,RESP_3206_triples_raw.json
+RESP_3206,ventilator modes and settings,concept,USED_FOR,gas exchange processes,concept,,,RESP_3206_triples_raw.json

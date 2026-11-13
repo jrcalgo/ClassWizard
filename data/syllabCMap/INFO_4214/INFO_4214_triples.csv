@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INFO_4214,machine learning,concept,PREREQUISITE_OF,generative AI,concept,A mentioned first,,INFO_4214_triples_raw.json
+INFO_4214,machine learning,concept,PREREQUISITE_OF,neural networks,concept,same unit,,INFO_4214_triples_raw.json
+INFO_4214,machine learning,concept,PREREQUISITE_OF,artificial intelligence,concept,B taught first,B is taught before A - check,INFO_4214_triples_raw.json
+INFO_4214,Python,tool,USED_FOR,machine learning,concept,,,INFO_4214_triples_raw.json

@@ -1,0 +1,57 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6100,concept,Big Data Analytics,Big Data Analytics,7,verified,Big Data Analytics,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Strategic Resource Management,Strategic Resource Management,1,verified,Strategic Resource Management,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,Business Analytics Challenges,business analytics challenges,2,verified,Business Analytics Challenges,ITCS_6100_concepts_raw.json
+ITCS_6100,method,A/B Testing,A/B Testing,2,verified,A/B Testing,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,Predictive AI with Linear Regression,Predictive AI with Linear Regression,1,verified,Predictive AI with Linear Regression,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,Design Principles and Patterns for Data Pipelines,Design Principles and Patterns for Data Pipelines,2,verified,Design Principles and Patterns for Data Pipelines,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Cloud Security,Cloud Security,2,verified,Cloud Security,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Causal AI,Causal AI,2,verified,Causal AI,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,Generative AI,Generative AI,2,verified,Generative AI,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,ETL,ETL,2,verified,ETL,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,Data Warehousing,Data Warehousing,1,verified,Data Warehousing,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,Big Data Processing,Big Data Processing,1,verified,Big Data Processing,ITCS_6100_concepts_raw.json
+ITCS_6100,tool,Hadoop Distributed File System,Hadoop Distributed File System,1,verified,Hadoop Distributed File System,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,MapReduce Programming Model,MapReduce Programming Model,1,verified,MapReduce Programming Model,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,Machine Learning Pipelines,Machine Learning Pipelines,2,verified,Machine Learning Pipelines,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,Automating the Pipeline,Automating the Pipeline,1,verified,Automating the Pipeline,ITCS_6100_concepts_raw.json
+ITCS_6100,topic,Agentic AI,Agentic AI,2,verified,Agentic AI,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,A/B Testing Strategy,A/B Testing Strategy,1,verified,A/B Testing Strategy,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Experiment Design Principles,Experiment Design Principles,1,verified,Experiment Design Principles,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Hypothesis Testing Methods,Hypothesis Testing Methods,1,verified,Hypothesis Testing Methods,ITCS_6100_concepts_raw.json
+ITCS_6100,measure,Statistical Significance Measures,Statistical Significance Measures,1,verified,Statistical Significance Measures,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Linear Regression,Linear Regression,2,verified,Linear Regression,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Predictive AI Models,Predictive AI Models,1,verified,Predictive AI Models,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Data Elements Analysis,Data Elements Analysis,1,verified,Data Elements Analysis,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Ordinary Least Squares,Ordinary Least Squares,1,verified,Ordinary Least Squares,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Coefficient Estimation,Coefficient Estimation,1,verified,Coefficient Estimation,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Residual Analysis,Residual Analysis,1,verified,Residual Analysis,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Confidence Intervals,Confidence Intervals,1,verified,Confidence Intervals,ITCS_6100_concepts_raw.json
+ITCS_6100,measure,Model Evaluation Metrics,Model Evaluation Metrics,3,verified,Model Evaluation Metrics,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Feature Engineering Methods,Feature Engineering Methods,1,verified,Feature Engineering Methods,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Data Preprocessing Steps,Data Preprocessing Steps,1,verified,Data Preprocessing Steps,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Model Interpretability Techniques,Model Interpretability Techniques,1,verified,Model Interpretability Techniques,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Hyperparameter Tuning Strategies,Hyperparameter Tuning Strategies,1,verified,Hyperparameter Tuning Strategies,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Overfitting Prevention Methods,Overfitting Prevention Methods,1,verified,Overfitting Prevention Methods,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Analytics Workload Security,Analytics Workload Security,1,verified,Analytics Workload Security,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Machine Learning Security,Machine Learning Security,1,verified,Machine Learning Security,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Scalable Infrastructure,scalable infrastructure,2,verified,Scalable Infrastructure,ITCS_6100_concepts_raw.json
+ITCS_6100,concept,Generative AI Models,Generative AI Models,1,verified,Generative AI Models,ITCS_6100_concepts_raw.json
+ITCS_6100,measure,Data Quality Metrics,Data Quality Metrics,2,verified,Data Quality Metrics,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Hypothesis Testing,Hypothesis Testing,2,verified,Hypothesis Testing,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Experiment Design,Experiment Design,1,verified,Experiment Design,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Feature Engineering,Feature Engineering,2,verified,Feature Engineering,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Data Preprocessing,Data Preprocessing,3,verified,Data Preprocessing,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Model Evaluation,Model Evaluation,3,verified,Model Evaluation,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Hyperparameter Tuning,Hyperparameter Tuning,1,verified,Hyperparameter Tuning,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Overfitting Prevention,Overfitting Prevention,1,verified,Overfitting Prevention,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Pipeline Orchestration,Pipeline Orchestration,1,verified,Pipeline Orchestration,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Cloud-Native Pipelines,Cloud-Native Pipelines,1,verified,Cloud-Native Pipelines,ITCS_6100_concepts_raw.json
+ITCS_6100,method,Real-Time Data Ingestion,Real-Time Data Ingestion,1,verified,Real-Time Data Ingestion,ITCS_6100_concepts_raw.json
+ITCS_6100,method,MapReduce Programming,MapReduce Programming,1,verified,MapReduce Programming,ITCS_6100_concepts_raw.json
+ITCS_6100,tool,Python,Python,4,verified,Python,ITCS_6100_concepts_raw.json
+ITCS_6100,tool,Jupyter Notebook,Jupyter Notebook,1,verified,Jupyter Notebook,ITCS_6100_concepts_raw.json
+ITCS_6100,tool,pandas,pandas,1,verified,pandas,ITCS_6100_concepts_raw.json
+ITCS_6100,tool,NumPy,NumPy,1,verified,NumPy,ITCS_6100_concepts_raw.json
+ITCS_6100,tool,scikit-learn,scikit-learn,1,verified,scikit-learn,ITCS_6100_concepts_raw.json
+ITCS_6100,tool,AWS Academy,AWS Academy,2,verified,AWS Academy,ITCS_6100_concepts_raw.json

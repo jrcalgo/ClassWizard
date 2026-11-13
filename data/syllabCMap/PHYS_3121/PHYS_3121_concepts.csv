@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_3121,topic,Classical Mechanics I,Classical Mechanics I,1,verified,Classical Mechanics I,PHYS_3121_concepts_raw.json
+PHYS_3121,topic,Mechanics,Mechanics,2,verified,Introduction to Mechanics,PHYS_3121_concepts_raw.json
+PHYS_3121,topic,Kinematics,Kinematics,2,inferred,Kinematics,PHYS_3121_concepts_raw.json
+PHYS_3121,topic,Dynamics,Dynamics,2,inferred,Dynamics,PHYS_3121_concepts_raw.json
+PHYS_3121,topic,Energy Principles,Energy Principles,1,inferred,Energy Principles,PHYS_3121_concepts_raw.json
+PHYS_3121,topic,Rotational Motion,Rotational Motion,1,inferred,Rotational Motion,PHYS_3121_concepts_raw.json
+PHYS_3121,topic,Central Force Motion,Central Force Motion,1,inferred,Central Force Motion,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Newton's Laws of Motion,Newton's Laws of Motion,1,inferred,Newton's Laws of Motion,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Force and Acceleration,Force and Acceleration,1,inferred,Force and Acceleration,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Displacement and Velocity,Displacement and Velocity,1,inferred,Displacement and Velocity,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Acceleration and Time,Acceleration and Time,1,inferred,Acceleration and Time,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Graphical Analysis,Graphical Analysis,1,inferred,Graphical Analysis,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Force and Momentum,Force and Momentum,1,inferred,Force and Momentum,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Impulse and Collisions,Impulse and Collisions,1,inferred,Impulse and Collisions,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Work and Energy,Work and Energy,1,inferred,Work and Energy,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Conservation of Energy,Conservation of Energy,1,inferred,Conservation of Energy,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Kinetic and Potential Energy,Kinetic and Potential Energy,1,inferred,Kinetic and Potential Energy,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Elastic and Inelastic Collisions,Elastic and Inelastic Collisions,1,inferred,Elastic and Inelastic Collisions,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Angular Kinematics,Angular Kinematics,1,inferred,Angular Kinematics,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Torque and Rotational Dynamics,Torque and Rotational Dynamics,1,inferred,Torque and Rotational Dynamics,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Moment of Inertia,Moment of Inertia,1,inferred,Moment of Inertia,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Circular Motion and Orbits,Circular Motion and Orbits,1,inferred,Circular Motion and Orbits,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Gravitational Potential Energy,Gravitational Potential Energy,1,inferred,Gravitational Potential Energy,PHYS_3121_concepts_raw.json
+PHYS_3121,concept,Kepler's Laws,Kepler's Laws,1,inferred,Kepler's Laws,PHYS_3121_concepts_raw.json

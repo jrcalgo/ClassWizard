@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_6155,benefits of personalization,concept,PART_OF,Personalized Learning,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,learning theories and models,concept,PART_OF,Personalized Learning,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,adaptive learning systems overview,concept,PART_OF,Adaptive Technologies for Learning,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,artificial intelligence in education,concept,PART_OF,Adaptive Technologies for Learning,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,machine learning applications,concept,PART_OF,Adaptive Technologies for Learning,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,immersive virtual reality experience,concept,PART_OF,Virtual Environments for Engagement,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,learning data collection methods,concept,PART_OF,Data-Driven Analytics for Personalization,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,data analysis for personalized learning,concept,PART_OF,Data-Driven Analytics for Personalization,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,personalized learning models and theories,concept,PART_OF,Designing Personalized Learning Experiences,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,innovative pedagogies and strategies,concept,PART_OF,Designing Personalized Learning Experiences,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,technology integration in design,concept,PART_OF,Designing Personalized Learning Experiences,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,challenges and limitations of personalization,concept,PART_OF,Applying Personalized Learning in Practice,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,best practices for implementation,concept,PART_OF,Applying Personalized Learning in Practice,topic,,,ELDT_6155_triples_raw.json
+ELDT_6155,adaptive tools,method,USED_FOR,Adaptive Technologies for Learning,topic,,,ELDT_6155_triples_raw.json

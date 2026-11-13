@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_4320,Tropical Meteorology,topic,PREREQUISITE_OF,Tropical Cyclone Activity,topic,A mentioned first,,METR_4320_triples_raw.json
+METR_4320,Tropical Meteorology,topic,PREREQUISITE_OF,Mean Structure and Circulation,topic,A mentioned first,,METR_4320_triples_raw.json
+METR_4320,Tropical Meteorology,topic,PREREQUISITE_OF,Air-Sea Energy Exchange,topic,B mentioned first,,METR_4320_triples_raw.json
+METR_4320,Tropical Meteorology,topic,PREREQUISITE_OF,Cumulus Transport,topic,A mentioned first,,METR_4320_triples_raw.json
+METR_4320,Tropical Meteorology,topic,PREREQUISITE_OF,Synoptic Waves,topic,A mentioned first,,METR_4320_triples_raw.json
+METR_4320,Tropical Meteorology,topic,PREREQUISITE_OF,Tropical Storms,topic,A mentioned first,,METR_4320_triples_raw.json
+METR_4320,Tropical Meteorology,topic,PREREQUISITE_OF,Intraseasonal-Interannual Tropical Variability,topic,A mentioned first,,METR_4320_triples_raw.json
+METR_4320,Tropical Meteorology,topic,PREREQUISITE_OF,Tropical Cyclone Evolution,topic,B mentioned first,,METR_4320_triples_raw.json
+METR_4320,Tropical Meteorology,topic,PREREQUISITE_OF,Tropical Weather Briefing,topic,B mentioned first,,METR_4320_triples_raw.json

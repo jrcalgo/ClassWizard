@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_2132L,topic,Organic Chemistry,Organic Chemistry,2,verified,Organic Chemistry,CHEM_2132L_concepts_raw.json
+CHEM_2132L,tool,Labflow,Labflow,1,verified,Labflow,CHEM_2132L_concepts_raw.json
+CHEM_2132L,tool,Organic Chemistry Laboratory Techniques,Organic Chemistry Laboratory Techniques,1,verified,Organic Chemistry Laboratory Techniques,CHEM_2132L_concepts_raw.json
+CHEM_2132L,topic,Lab Safety,Lab Safety,1,inferred,Lab Safety,CHEM_2132L_concepts_raw.json
+CHEM_2132L,topic,Instrumentation,Instrumentation,1,inferred,Instrumentation,CHEM_2132L_concepts_raw.json
+CHEM_2132L,topic,Synthesis Techniques,Synthesis Techniques,1,inferred,Synthesis Techniques,CHEM_2132L_concepts_raw.json
+CHEM_2132L,topic,Isolation and Purification,Isolation and Purification,1,inferred,Isolation and Purification,CHEM_2132L_concepts_raw.json
+CHEM_2132L,topic,Spectroscopic Analysis,Spectroscopic Analysis,1,inferred,Spectroscopic Analysis,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Personal Protective Equipment,Personal Protective Equipment,1,inferred,Personal Protective Equipment,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Chemical Handling Procedures,Chemical Handling Procedures,1,inferred,Chemical Handling Procedures,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Emergency Response Protocols,Emergency Response Protocols,1,inferred,Emergency Response Protocols,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Gas Chromatography Basics,Gas Chromatography Basics,1,inferred,Gas Chromatography Basics,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Mass Spectrometry Fundamentals,Mass Spectrometry Fundamentals,1,inferred,Mass Spectrometry Fundamentals,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,NMR Spectroscopy Principles,NMR Spectroscopy Principles,1,inferred,NMR Spectroscopy Principles,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Reaction Conditions Optimization,Reaction Conditions Optimization,1,inferred,Reaction Conditions Optimization,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Yield and Purity Maximization,Yield and Purity Maximization,1,inferred,Yield and Purity Maximization,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Purification Methods Comparison,Purification Methods Comparison,1,inferred,Purification Methods Comparison,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Crystallization Process Overview,Crystallization Process Overview,1,inferred,Crystallization Process Overview,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Column Chromatography Techniques,Column Chromatography Techniques,1,inferred,Column Chromatography Techniques,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Distillation Methodologies,Distillation Methodologies,1,inferred,Distillation Methodologies,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,IR Spectroscopy Interpretation,IR Spectroscopy Interpretation,1,inferred,IR Spectroscopy Interpretation,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,NMR Spectroscopy Applications,NMR Spectroscopy Applications,1,inferred,NMR Spectroscopy Applications,CHEM_2132L_concepts_raw.json
+CHEM_2132L,concept,Mass Spectrometry Data Analysis,Mass Spectrometry Data Analysis,1,inferred,Mass Spectrometry Data Analysis,CHEM_2132L_concepts_raw.json

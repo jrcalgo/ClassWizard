@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETCE_3131L,Consolidation Settlement,topic,PREREQUISITE_OF,Shear Strength Testing,topic,A taught first,,ETCE_3131L_triples_raw.json
+ETCE_3131L,soil/moisture relationships,concept,PREREQUISITE_OF,Proctor Curve Analysis,topic,same unit,,ETCE_3131L_triples_raw.json
+ETCE_3131L,moisture content determination,concept,PREREQUISITE_OF,plastic limit measurement,concept,same unit,,ETCE_3131L_triples_raw.json
+ETCE_3131L,moisture content determination,concept,PREREQUISITE_OF,liquid limit calculation,concept,same unit,,ETCE_3131L_triples_raw.json
+ETCE_3131L,soil origin classification,concept,PART_OF,Soil Classification,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,soil consistency types,concept,PART_OF,Soil Classification,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,soil color characteristics,concept,PART_OF,Soil Classification,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,moisture content determination,concept,PART_OF,Moisture Content Testing,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,plastic limit measurement,concept,PART_OF,Moisture Content Testing,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,liquid limit calculation,concept,PART_OF,Moisture Content Testing,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,proctor curve interpretation,concept,PART_OF,Proctor Curve Analysis,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,settlement prediction techniques,concept,PART_OF,Consolidation Settlement,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,consolidation settlement factors,concept,PART_OF,Consolidation Settlement,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,shear strength measurement,concept,PART_OF,Shear Strength Testing,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,triaxial test procedures,concept,PART_OF,Shear Strength Testing,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,bearing ratio determination,concept,PART_OF,Bearing Ratio Calculations,topic,,,ETCE_3131L_triples_raw.json
+ETCE_3131L,triaxial test procedures,concept,USED_FOR,shear strength measurement,concept,,,ETCE_3131L_triples_raw.json

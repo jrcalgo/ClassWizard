@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_1360,Applied Theatre,topic,PREREQUISITE_OF,History of Applied Theatre,concept,same unit,,THEA_1360_triples_raw.json
+THEA_1360,Applied Theatre,topic,PREREQUISITE_OF,Theatre in Non-Traditional Spaces,concept,same unit,,THEA_1360_triples_raw.json
+THEA_1360,Applied Theatre,topic,PREREQUISITE_OF,Community Engagement Strategies,concept,A taught first,,THEA_1360_triples_raw.json
+THEA_1360,Applied Theatre,topic,PREREQUISITE_OF,Needs Assessment and Planning,concept,A taught first,,THEA_1360_triples_raw.json
+THEA_1360,Applied Theatre,topic,PREREQUISITE_OF,Collaboration with Community Partners,concept,A taught first,,THEA_1360_triples_raw.json
+THEA_1360,History of Applied Theatre,concept,PREREQUISITE_OF,Theatre in Education Goals,concept,A taught first,,THEA_1360_triples_raw.json
+THEA_1360,History of Applied Theatre,concept,PREREQUISITE_OF,Curriculum Integration Methods,concept,A taught first,,THEA_1360_triples_raw.json
+THEA_1360,History of Applied Theatre,concept,PREREQUISITE_OF,Social Change through Theatre,concept,A taught first,,THEA_1360_triples_raw.json
+THEA_1360,History of Applied Theatre,concept,PREREQUISITE_OF,Community Development Principles,concept,A taught first,,THEA_1360_triples_raw.json
+THEA_1360,History of Applied Theatre,concept,PREREQUISITE_OF,Successful Applied Theatre Projects,concept,A taught first,,THEA_1360_triples_raw.json
+THEA_1360,Theatre in Non-Traditional Spaces,concept,PART_OF,Applied Theatre,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Community Engagement Strategies,concept,PART_OF,Applied Theatre,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Needs Assessment and Planning,concept,PART_OF,Applied Theatre,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Collaboration with Community Partners,concept,PART_OF,Applied Theatre,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Theatre in Education Goals,concept,PART_OF,School-Based Theatre Programs,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Curriculum Integration Methods,concept,PART_OF,School-Based Theatre Programs,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Assessment and Evaluation Techniques,concept,PART_OF,School-Based Theatre Programs,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Social Change through Theatre,concept,PART_OF,Applied Theatre Theories,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Empowerment and Participation Models,concept,PART_OF,Applied Theatre Theories,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Community Development Principles,concept,PART_OF,Applied Theatre Theories,topic,,,THEA_1360_triples_raw.json
+THEA_1360,Successful Applied Theatre Projects,concept,PART_OF,Case Studies and Examples,topic,,,THEA_1360_triples_raw.json

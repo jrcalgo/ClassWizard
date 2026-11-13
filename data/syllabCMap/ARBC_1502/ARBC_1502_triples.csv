@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARBC_1502,postcolonial era,concept,PART_OF,Social and Political Institutions,topic,,,ARBC_1502_triples_raw.json
+ARBC_1502,critical and analytical skills,method,PART_OF,close reading,method,,,ARBC_1502_triples_raw.json
+ARBC_1502,writing,method,PART_OF,close reading,method,,,ARBC_1502_triples_raw.json
+ARBC_1502,critical and analytical skills,method,USED_FOR,close reading,method,,,ARBC_1502_triples_raw.json
+ARBC_1502,writing,method,USED_FOR,close reading,method,,,ARBC_1502_triples_raw.json

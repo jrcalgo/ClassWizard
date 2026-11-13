@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4000,strategic crime analysis definition,concept,PREREQUISITE_OF,SARA problem-solving model steps,concept,A taught first,,CJUS_4000_triples_raw.json
+CJUS_4000,central tendency measures,concept,PREREQUISITE_OF,mean median mode calculation,concept,same unit,,CJUS_4000_triples_raw.json
+CJUS_4000,geographic information system basics,concept,PREREQUISITE_OF,crime pattern recognition methods,concept,A taught first,,CJUS_4000_triples_raw.json
+CJUS_4000,geographic information system basics,concept,PREREQUISITE_OF,trend analysis in crime data,concept,A taught first,,CJUS_4000_triples_raw.json
+CJUS_4000,geographic information system basics,concept,PREREQUISITE_OF,hot spot identification techniques,concept,A taught first,,CJUS_4000_triples_raw.json
+CJUS_4000,strategic crime analysis definition,concept,PART_OF,Strategic Crime Analysis,topic,,,CJUS_4000_triples_raw.json
+CJUS_4000,geographic information system basics,concept,USED_FOR,spatial analysis techniques,concept,,,CJUS_4000_triples_raw.json
+CJUS_4000,geographic information system basics,concept,USED_FOR,crime mapping software tools,concept,,,CJUS_4000_triples_raw.json

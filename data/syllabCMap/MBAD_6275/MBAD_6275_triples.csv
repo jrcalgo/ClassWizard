@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6275,Global Marketing Environment,topic,PREREQUISITE_OF,Global Marketing Strategy,topic,A taught first,,MBAD_6275_triples_raw.json
+MBAD_6275,Global Market Opportunities,topic,PREREQUISITE_OF,Global Marketing Strategy,topic,A taught first,,MBAD_6275_triples_raw.json
+MBAD_6275,Marketing Mix Adaptation,topic,PREREQUISITE_OF,Global Marketing Strategy,topic,A taught first,,MBAD_6275_triples_raw.json
+MBAD_6275,global market trends,concept,PART_OF,Global Marketing Environment,topic,,,MBAD_6275_triples_raw.json
+MBAD_6275,social and cultural norms,concept,PART_OF,Environmental Forces Analysis,topic,,,MBAD_6275_triples_raw.json
+MBAD_6275,market segmentation strategies,concept,PART_OF,Global Market Opportunities,topic,,,MBAD_6275_triples_raw.json
+MBAD_6275,target market identification,concept,PART_OF,Global Market Opportunities,topic,,,MBAD_6275_triples_raw.json
+MBAD_6275,competitor analysis techniques,concept,PART_OF,Global Market Opportunities,topic,,,MBAD_6275_triples_raw.json
+MBAD_6275,product adaptation methods,concept,PART_OF,Marketing Mix Adaptation,topic,,,MBAD_6275_triples_raw.json
+MBAD_6275,price strategy considerations,concept,PART_OF,Marketing Mix Adaptation,topic,,,MBAD_6275_triples_raw.json
+MBAD_6275,international market entry modes,concept,PART_OF,Global Marketing Strategy,topic,,,MBAD_6275_triples_raw.json
+MBAD_6275,export and import procedures,concept,PART_OF,Global Marketing Strategy,topic,,,MBAD_6275_triples_raw.json
+MBAD_6275,joint venture partnerships,concept,PART_OF,Global Marketing Strategy,topic,,,MBAD_6275_triples_raw.json

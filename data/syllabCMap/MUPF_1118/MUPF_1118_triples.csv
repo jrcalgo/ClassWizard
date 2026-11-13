@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1118,musicianship development strategies,concept,PREREQUISITE_OF,intonation and phrasing techniques,concept,A taught first,,MUPF_1118_triples_raw.json
+MUPF_1118,understanding musical notation systems,concept,PREREQUISITE_OF,aural recognition of musical styles,concept,same unit,,MUPF_1118_triples_raw.json
+MUPF_1118,marching band basics,concept,PART_OF,Marching Band,topic,,,MUPF_1118_triples_raw.json
+MUPF_1118,instrumental technique improvement,concept,PART_OF,Individual Technique Development,topic,,,MUPF_1118_triples_raw.json
+MUPF_1118,intonation and phrasing techniques,concept,PART_OF,Ensemble Skills and Balance,topic,,,MUPF_1118_triples_raw.json
+MUPF_1118,understanding musical notation systems,concept,PART_OF,Music Notation and Traditions,topic,,,MUPF_1118_triples_raw.json
+MUPF_1118,aural recognition of musical styles,concept,PART_OF,Music Notation and Traditions,topic,,,MUPF_1118_triples_raw.json
+MUPF_1118,collaboration and teamwork skills,concept,PART_OF,Professionalism and Preparation,topic,,,MUPF_1118_triples_raw.json
+MUPF_1118,personal responsibility and accountability,concept,PART_OF,Professionalism and Preparation,topic,,,MUPF_1118_triples_raw.json

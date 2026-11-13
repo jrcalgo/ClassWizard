@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3600,historical research methods,concept,PREREQUISITE_OF,Research Proposal Development,topic,A taught first,,HIST_3600_triples_raw.json
+HIST_3600,historical research methods,concept,PREREQUISITE_OF,Rough Draft and Peer Review,topic,A taught first,,HIST_3600_triples_raw.json
+HIST_3600,historical research methods,concept,PREREQUISITE_OF,Final Paper and Presentation Preparation,topic,A taught first,,HIST_3600_triples_raw.json
+HIST_3600,scholarly perspectives on history,concept,PREREQUISITE_OF,critical thinking and analysis,concept,same unit,,HIST_3600_triples_raw.json
+HIST_3600,commodore Matthew Perry's life,concept,PREREQUISITE_OF,Perry's Background and Motivations,topic,same unit,,HIST_3600_triples_raw.json
+HIST_3600,East Asian politics in 1850s,concept,PREREQUISITE_OF,Japanese isolationist policies,concept,A taught first,,HIST_3600_triples_raw.json
+HIST_3600,defining a research question,concept,PREREQUISITE_OF,creating a research plan,concept,same unit,,HIST_3600_triples_raw.json
+HIST_3600,writing a seminar paper,concept,PREREQUISITE_OF,peer review process and feedback,concept,same unit,,HIST_3600_triples_raw.json
+HIST_3600,historical research methods,concept,PART_OF,Historiography,topic,,,HIST_3600_triples_raw.json
+HIST_3600,Perry's Background and Motivations,topic,PART_OF,commodore Matthew Perry's life,concept,,part is broader than whole - check direction,HIST_3600_triples_raw.json
+HIST_3600,First Visit to Japan (1853,topic,PART_OF,commodore Matthew Perry's life,concept,,part is broader than whole - check direction,HIST_3600_triples_raw.json
+HIST_3600,Second Visit to Japan (1854,topic,PART_OF,commodore Matthew Perry's life,concept,,part is broader than whole - check direction,HIST_3600_triples_raw.json
+HIST_3600,Research Proposal Development,topic,PART_OF,Historiography,topic,,,HIST_3600_triples_raw.json
+HIST_3600,Final Paper and Presentation Preparation,topic,PART_OF,Historiography,topic,,,HIST_3600_triples_raw.json
+HIST_3600,historical research methods,concept,USED_FOR,interpreting historical documents,concept,,,HIST_3600_triples_raw.json
+HIST_3600,primary and secondary sources,concept,USED_FOR,analyzing historical images and artifacts,concept,,,HIST_3600_triples_raw.json

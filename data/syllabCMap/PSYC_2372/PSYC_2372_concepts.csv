@@ -1,0 +1,77 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_2372,topic,cognitive and psychological development,cognitive and psychological development,1,verified,cognitive and psychological development,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,adulthood and aging,adulthood and aging,1,verified,adulthood and aging,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,personality and socialization,personality and socialization,1,verified,personality and socialization,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,cognitive development,cognitive development,1,verified,cognitive development,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,psychophysiology of aging,psychophysiology of aging,1,verified,psychophysiology of aging,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,employment,employment,1,verified,employment,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,social relationships,social relationships,3,verified,social relationships,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,death and bereavement,death and bereavement,1,verified,death and bereavement,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,work motivation theories,Work Motivation Theories,1,verified,work motivation theories,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,retirement planning strategies,Retirement Planning Strategies,1,verified,retirement planning strategies,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,career development stages,Career Development Stages,1,verified,career development stages,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,job satisfaction factors,Job Satisfaction Factors,1,verified,job satisfaction factors,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,life stage transitions,Life Stage Transitions,1,verified,life stage transitions,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,fluid intelligence,Fluid Intelligence,1,verified,fluid intelligence,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,crystallized intelligence,Crystallized Intelligence,1,verified,crystallized intelligence,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,working memory capacity,Working Memory Capacity,1,verified,working memory capacity,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,processing speed ability,Processing Speed Ability,1,verified,processing speed ability,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,cognitive flexibility,Cognitive Flexibility,1,verified,cognitive flexibility,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,stress theories,Stress Theories,1,verified,stress theories,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Coping Mechanisms,Coping Mechanisms,2,verified,Coping Mechanisms,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,resilience factors,Resilience Factors,1,verified,resilience factors,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,anxiety disorders,Anxiety Disorders,1,verified,anxiety disorders,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,trauma response,Trauma Response,1,verified,trauma response,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Emotional Regulation,Emotional Regulation,3,verified,Emotional Regulation,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,social support networks,Social Support Networks,1,verified,social support networks,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,adversity coping,Adversity Coping,1,verified,adversity coping,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,vulnerability factors,Vulnerability Factors,1,verified,vulnerability factors,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,causal inference methods,Causal Inference Methods,2,verified,causal inference methods,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,regression analysis techniques,Regression Analysis Techniques,2,verified,regression analysis techniques,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,confounding variable control,Confounding Variable Control,2,verified,confounding variable control,PSYC_2372_concepts_raw.json
+PSYC_2372,topic,bias and variance tradeoff,Bias and Variance Tradeoff,2,verified,bias and variance tradeoff,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Research Design Principles,Research Design Principles,20,verified,Research Design Principles,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Quantitative Research Methods,Quantitative Research Methods,1,verified,Quantitative Research Methods,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Psychological Measurement Tools,Psychological Measurement Tools,1,verified,Psychological Measurement Tools,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Sampling Techniques Used,Sampling Techniques Used,1,verified,Sampling Techniques Used,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Canvas page,Canvas page,2,verified,Canvas page,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Online learning platform,Online learning platform,1,verified,Online learning platform,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Regression Analysis,Regression Analysis,15,verified,Regression Analysis,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Multiple Regression Models,Multiple Regression Models,1,verified,Multiple Regression Models,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Standardized Coefficients,Standardized Coefficients,5,verified,Standardized Coefficients,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Partial Correlation Coefficient,Partial Correlation Coefficient,8,verified,Partial Correlation Coefficient,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Dummy Variable Coding,Dummy Variable Coding,2,verified,Dummy Variable Coding,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Causal Relationship,Causal Relationships,1,verified,Causal Relationship,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Confounding Variables,Confounding Variables,12,verified,Confounding Variables,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Random Sampling,Random Sampling,10,verified,Random Sampling,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Experimental Design,Experimental Design,7,verified,Experimental Design,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Matching Definitions,Matching Definitions,9,verified,Matching Definitions,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Definition Types,Definition Types,1,verified,Definition Types,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Operational Definition,Operational Definition,1,verified,Operational Definition,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Conceptual Definition,Conceptual Definition,1,verified,Conceptual Definition,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Social Roles,Social Roles,2,verified,Social Roles,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Role Expectations,Role Expectations,1,verified,Role Expectations,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Role Conflict,Role Conflict,1,verified,Role Conflict,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Role Strain,Role Strain,1,verified,Role Strain,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Reference Groups,Reference Groups,1,verified,Reference Groups,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Causal Inference,Causal Inference,5,verified,Causal Inference,PSYC_2372_concepts_raw.json
+PSYC_2372,method,Selection Bias,Selection Bias,2,verified,Selection Bias,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Multiple Regression Model,Multiple Regression Models,1,verified,Multiple Regression Model,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Independent Variables,Independent Variables,1,verified,Independent Variables,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Dependent Variable,Dependent Variable,1,verified,Dependent Variable,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Coefficient Estimates,Coefficient Estimates,1,verified,Coefficient Estimates,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Standard Error Values,Standard Error Values,1,verified,Standard Error Values,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,T-Statistics Calculations,T-Statistics Calculations,1,verified,T-Statistics Calculations,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,P-Value Determination,P-Value Determination,1,verified,P-Value Determination,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Openness to Experience,Openness to Experience,4,verified,Openness to Experience,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Personality Traits,Personality Traits,5,verified,Personality Traits,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Big Five Theory,Big Five Theory,3,verified,Big Five Theory,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Extraversion Factor,Extraversion Factor,3,verified,Extraversion Factor,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Agreeableness Dimension,Agreeableness Dimension,3,verified,Agreeableness Dimension,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Grief Process,Grief Process,1,verified,Grief Process,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Bereavement Stages,Bereavement Stages,1,verified,Bereavement Stages,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Death Anxiety,Death Anxiety,1,verified,Death Anxiety,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Loss Trauma,Loss Trauma,1,verified,Loss Trauma,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Mourning Rituals,Mourning Rituals,1,verified,Mourning Rituals,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Funeral Rites,Funeral Rites,1,verified,Funeral Rites,PSYC_2372_concepts_raw.json
+PSYC_2372,concept,Social Support,Social Support,2,verified,Social Support,PSYC_2372_concepts_raw.json

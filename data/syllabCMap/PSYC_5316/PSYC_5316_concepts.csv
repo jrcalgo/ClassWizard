@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_5316,topic,Cognitive Neuroscience,Cognitive Neuroscience,3,verified,Cognitive Neuroscience,PSYC_5316_concepts_raw.json
+PSYC_5316,topic,Brain Imaging Techniques,brain imaging techniques,1,verified,Brain Imaging Techniques,PSYC_5316_concepts_raw.json
+PSYC_5316,topic,Classical Research in Cognitive Neuroscience,Classical Research in Cognitive Neuroscience,1,inferred,Classical Research in Cognitive Neuroscience,PSYC_5316_concepts_raw.json
+PSYC_5316,topic,Neurotransmitters and Neurotransmission,Neurotransmitters and Neurotransmission,1,inferred,Neurotransmitters and Neurotransmission,PSYC_5316_concepts_raw.json
+PSYC_5316,topic,Clinical Neurology and Cognitive Impairment,Clinical Neurology and Cognitive Impairment,1,inferred,Clinical Neurology and Cognitive Impairment,PSYC_5316_concepts_raw.json
+PSYC_5316,topic,Computational Models of Cognition,Computational Models of Cognition,1,inferred,Computational Models of Cognition,PSYC_5316_concepts_raw.json
+PSYC_5316,topic,Current Research in Cognitive Neuroscience,Current Research in Cognitive Neuroscience,1,inferred,Current Research in Cognitive Neuroscience,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,cognitive neuroscience overview,Cognitive Neuroscience Overview,1,inferred,cognitive neuroscience overview,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,brain and behavior relationship,Brain and Behavior Relationship,1,inferred,brain and behavior relationship,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,neuroplasticity basics,Neuroplasticity Basics,1,inferred,neuroplasticity basics,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,Phineas Gage case study,Phineas Gage Case Study,1,inferred,Phineas Gage case study,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,split-brain experiments,Split-Brain Experiments,1,inferred,split-brain experiments,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,lateralization of function,Lateralization of Function,1,inferred,lateralization of function,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,dopamine release mechanism,Dopamine Release Mechanism,1,inferred,dopamine release mechanism,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,serotonin receptor types,Serotonin Receptor Types,1,inferred,serotonin receptor types,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,synaptic plasticity theories,Synaptic Plasticity Theories,1,inferred,synaptic plasticity theories,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,functional magnetic resonance imaging,Functional Magnetic Resonance Imaging,1,inferred,functional magnetic resonance imaging,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,electroencephalography basics,Electroencephalography Basics,1,inferred,electroencephalography basics,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,magnetoencephalography principles,Magnetoencephalography Principles,1,inferred,magnetoencephalography principles,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,Alzheimer's disease pathophysiology,Alzheimer's Disease Pathophysiology,1,inferred,Alzheimer's disease pathophysiology,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,Parkinson's disease symptoms,Parkinson's Disease Symptoms,1,inferred,Parkinson's disease symptoms,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,traumatic brain injury effects,Traumatic Brain Injury Effects,1,inferred,traumatic brain injury effects,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,artificial neural networks basics,Artificial Neural Networks Basics,1,inferred,artificial neural networks basics,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,connectionist models overview,Connectionist Models Overview,1,inferred,connectionist models overview,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,cognitive architectures theories,Cognitive Architectures Theories,1,inferred,cognitive architectures theories,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,neural oscillations and synchronization,Neural Oscillations and Synchronization,1,inferred,neural oscillations and synchronization,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,brain-computer interface technology,Brain-Computer Interface Technology,1,inferred,brain-computer interface technology,PSYC_5316_concepts_raw.json
+PSYC_5316,concept,neurofeedback training methods,Neurofeedback Training Methods,1,inferred,neurofeedback training methods,PSYC_5316_concepts_raw.json
+PSYC_5316,work,Phineas Gage,Phineas Gage,1,inferred,Phineas Gage,PSYC_5316_concepts_raw.json

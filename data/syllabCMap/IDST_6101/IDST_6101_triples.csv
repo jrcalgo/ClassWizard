@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+IDST_6101,Contemporary Latin American Politics,concept,PREREQUISITE_OF,Democratization in Latin America,topic,A taught first,,IDST_6101_triples_raw.json
+IDST_6101,Contemporary Latin American Politics,concept,PREREQUISITE_OF,Social Movements and Protest,topic,A taught first,,IDST_6101_triples_raw.json
+IDST_6101,Contemporary Latin American Politics,concept,PREREQUISITE_OF,Security and Crime in Latin America,topic,A taught first,,IDST_6101_triples_raw.json
+IDST_6101,Contemporary Latin American Politics,concept,PREREQUISITE_OF,Regionalism and Global Governance,topic,A taught first,,IDST_6101_triples_raw.json
+IDST_6101,Theories and Approaches,concept,PART_OF,Contemporary Latin American Politics,concept,,,IDST_6101_triples_raw.json
+IDST_6101,Authoritarian Regimes,concept,PART_OF,Democratization in Latin America,topic,,,IDST_6101_triples_raw.json
+IDST_6101,Civil Society Participation,concept,PART_OF,Democratization in Latin America,topic,,,IDST_6101_triples_raw.json
+IDST_6101,Regional Economic Integration,concept,PART_OF,Economic Integration and Trade,topic,,,IDST_6101_triples_raw.json
+IDST_6101,Trade Agreements and Disputes,concept,PART_OF,Economic Integration and Trade,topic,,,IDST_6101_triples_raw.json
+IDST_6101,Indigenous Rights Movement,concept,PART_OF,Social Movements and Protest,topic,,,IDST_6101_triples_raw.json
+IDST_6101,Labor Unions and Strikes,concept,PART_OF,Social Movements and Protest,topic,,,IDST_6101_triples_raw.json
+IDST_6101,Environmental Activism,concept,PART_OF,Social Movements and Protest,topic,,,IDST_6101_triples_raw.json
+IDST_6101,Narcotrafficking and Cartels,concept,PART_OF,Security and Crime in Latin America,topic,,,IDST_6101_triples_raw.json
+IDST_6101,Transnational Organized Crime,concept,PART_OF,Security and Crime in Latin America,topic,,,IDST_6101_triples_raw.json
+IDST_6101,Police Reform and Accountability,concept,PART_OF,Security and Crime in Latin America,topic,,,IDST_6101_triples_raw.json
+IDST_6101,International Cooperation and Conflict,concept,PART_OF,Regionalism and Global Governance,topic,,,IDST_6101_triples_raw.json

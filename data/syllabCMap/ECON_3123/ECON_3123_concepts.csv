@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECON_3123,topic,GDP and national income,GDP and national income,2,verified,GDP and national income,ECON_3123_concepts_raw.json
+ECON_3123,topic,production and factor markets,production and factor markets,3,verified,production and factor markets,ECON_3123_concepts_raw.json
+ECON_3123,topic,unemployment,unemployment,3,verified,unemployment,ECON_3123_concepts_raw.json
+ECON_3123,topic,saving and investment,saving and investment,2,verified,saving and investment,ECON_3123_concepts_raw.json
+ECON_3123,topic,government budgets and fiscal policy,government budgets and fiscal policy,2,verified,government budgets and fiscal policy,ECON_3123_concepts_raw.json
+ECON_3123,topic,monetary system and inflation,monetary system and inflation,2,verified,monetary system and inflation,ECON_3123_concepts_raw.json
+ECON_3123,topic,open economies,open economies,2,verified,open economies,ECON_3123_concepts_raw.json
+ECON_3123,topic,business cycles,business cycles,2,verified,business cycles,ECON_3123_concepts_raw.json
+ECON_3123,topic,growth theory,growth theory,2,verified,growth theory,ECON_3123_concepts_raw.json
+ECON_3123,measure,GDP,GDP,3,verified,GDP,ECON_3123_concepts_raw.json
+ECON_3123,measure,national income,national income,4,verified,national income,ECON_3123_concepts_raw.json
+ECON_3123,concept,international capital flows,international capital flows,1,verified,international capital flows,ECON_3123_concepts_raw.json

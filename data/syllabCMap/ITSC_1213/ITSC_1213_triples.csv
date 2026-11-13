@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_1213,Variables and Data Types,concept,PART_OF,Programming,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Control Structures Basics,concept,PART_OF,Programming,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Loop Control and Breaks,concept,PART_OF,Loops and Conditional Statements,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Array Initialization and Access,concept,PART_OF,Arrays and Lists,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,List Operations and Methods,concept,PART_OF,Arrays and Lists,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Indexing and Slicing,concept,PART_OF,Arrays and Lists,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Classes and Objects Basics,concept,PART_OF,Object-Oriented Programming,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Serialization and Deserialization,concept,PART_OF,File Input/Output and Persistence,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Array Initialization and Access,concept,USED_FOR,Arrays and Lists,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Inheritance and Polymorphism,concept,USED_FOR,Object-Oriented Programming,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Encapsulation and Abstraction,concept,USED_FOR,Object-Oriented Programming,topic,,,ITSC_1213_triples_raw.json
+ITSC_1213,Reading and Writing Files,concept,USED_FOR,File Input/Output and Persistence,topic,,,ITSC_1213_triples_raw.json

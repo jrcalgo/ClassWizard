@@ -1,0 +1,78 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NUDN_8147,topic,Applied Biostatistics,Applied Biostatistics,1,verified,Applied Biostatistics,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Research Process,Research Process,2,verified,Introduction to the Research Process,NUDN_8147_concepts_raw.json
+NUDN_8147,tool,SPSS,SPSS,2,verified,SPSS,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Descriptive Statistics,Descriptive statistics,2,verified,Descriptive Statistics,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Data Screening and Cleaning,Data Screening and Cleaning,1,verified,Introduction to Data Screening and Cleaning,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Basis of Statistical Testing,Basis of Statistical Testing,1,verified,The Basis of Statistical Testing,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Differences Between Two Groups,Differences Between Two Groups,2,verified,Differences Between Two Groups,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Differences Between Three or More Conditions,Differences Between Three or More Conditions,1,verified,Differences Between Three or More Conditions,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Measuring Agreement: Correlational Techniques,Measuring Agreement: Correlational Techniques,1,verified,Measuring Agreement: Correlational Techniques,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Linear Regression,Linear Regression,2,verified,Linear Regression,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Multiple Regression,Multiple Regression,2,verified,Multiple Regression,NUDN_8147_concepts_raw.json
+NUDN_8147,topic,Logistic Regression & Survival Analysis,Logistic Regression & Survival Analysis,2,verified,Introduction to Logistic Regression & Survival Analysis,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Null Hypothesis,Null Hypothesis,1,verified,Null Hypothesis,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Alternative Hypothesis,Alternative Hypothesis,1,verified,Alternative Hypothesis,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Statistical Significance,Statistical Significance,1,verified,Statistical Significance,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,P-Value Calculation,P-Value Calculation,1,verified,P-Value Calculation,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Test Statistic Formula,Test Statistic Formula,1,verified,Test Statistic Formula,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Two-sample t-test,Two-sample t-test,2,verified,Two-sample t-test,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Confidence intervals,Confidence intervals,2,verified,Confidence intervals,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Effect size calculation,Effect size calculation,1,verified,Effect size calculation,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Analysis of Variance,Analysis of Variance,2,verified,Analysis of Variance,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Kruskal-Wallis Test,Kruskal-Wallis Test,2,verified,Kruskal-Wallis Test,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Dunn's Multiple Comparison,Dunn's Multiple Comparison,2,verified,Dunn's Multiple Comparison,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Tukey's HSD Test,Tukey's HSD Test,1,verified,Tukey's HSD Test,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Chi-Square Test,Chi-Square Test,1,verified,Chi-Square Test,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Contingency Tables,Contingency Tables,1,verified,Contingency Tables,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Categorical Variables,Categorical Variables,2,verified,Categorical Variables,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Association Measures,Association Measures,1,verified,Association Measures,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Odds Ratio Calculation,Odds Ratio Calculation,1,verified,Odds Ratio Calculation,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Intraclass Correlation Coefficient,Intraclass Correlation Coefficient,1,verified,Intraclass Correlation Coefficient,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Kappa Statistic,Kappa Statistic,1,verified,Kappa Statistic,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Weighted Kappa,Weighted Kappa,1,verified,Weighted Kappa,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Bland-Altman Plot,Bland-Altman Plot,1,verified,Bland-Altman Plot,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Lin's Concordance Correlation,Lin's Concordance Correlation,1,verified,Lin's Concordance Correlation,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Pearson Correlation Coefficient,Pearson Correlation Coefficient,1,verified,Pearson Correlation Coefficient,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Spearman Rank Order Correlation,Spearman Rank Order Correlation,1,verified,Spearman Rank Order Correlation,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Cohen's Kappa,Cohen's Kappa,1,verified,Cohen's Kappa,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Interclass Correlation,Interclass Correlation,1,verified,Interclass Correlation,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Linear Regression Model,Linear Regression Model,1,verified,Linear Regression Model,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Ordinary Least Squares,Ordinary Least Squares,1,verified,Ordinary Least Squares,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Coefficient of Determination,Coefficient of Determination,1,verified,Coefficient of Determination,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Residual Analysis,Residual Analysis,1,verified,Residual Analysis,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Confounding Variables,Confounding Variables,1,verified,Confounding Variables,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Interaction Terms,Interaction Terms,2,verified,Interaction Terms,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Model Assumptions,Model Assumptions,1,verified,Model Assumptions,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Goodness-of-Fit Tests,Goodness-of-Fit Tests,1,verified,Goodness-of-Fit Tests,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Multiple Regression Model,Multiple Regression Model,1,verified,Multiple Regression Model,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Independent Variables Selection,Independent Variables Selection,1,verified,Independent Variables Selection,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Logistic Regression,Logistic Regression,3,verified,Logistic Regression,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Survival Analysis,Survival Analysis,2,verified,Survival Analysis,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Odds Ratio Estimation,Odds Ratio Estimation,1,verified,Odds Ratio Estimation,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Hazard Ratios Calculated,Hazard Ratios Calculated,1,verified,Hazard Ratios Calculated,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Cox Proportional Hazards,Cox Proportional Hazards,1,verified,Cox Proportional Hazards,NUDN_8147_concepts_raw.json
+NUDN_8147,concept,Proportional Hazard Assumption,Proportional Hazard Assumption,1,verified,Proportional Hazard Assumption,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Data importation process,Data importation process,1,verified,Data importation process,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Variable types and labels,Variable types and labels,1,verified,Variable types and labels,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Data manipulation techniques,Data manipulation techniques,1,verified,Data manipulation techniques,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Descriptive statistics output,Descriptive statistics output,1,verified,Descriptive statistics output,NUDN_8147_concepts_raw.json
+NUDN_8147,method,P-Value interpretation,P-value interpretation,2,verified,P-Value interpretation,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Standard error calculation,Standard error calculation,1,verified,Standard error calculation,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Multiple Comparison Tests,Multiple Comparison Tests,2,verified,Multiple Comparison Tests,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Bonferroni Correction,Bonferroni Correction,1,verified,Bonferroni Correction,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Confounding Variable Control,Confounding Variable Control,1,verified,Confounding Variable Control,NUDN_8147_concepts_raw.json
+NUDN_8147,method,Interaction Terms Analysis,Interaction Terms Analysis,1,verified,Interaction Terms Analysis,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Measures of Central Tendency,Measures of Central Tendency,1,verified,Measures of Central Tendency,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Measures of Variability,Measures of Variability,1,verified,Measures of Variability,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Quantitative Variables,Quantitative Variables,1,verified,Quantitative Variables,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Qualitative Variables,Qualitative Variables,1,verified,Qualitative Variables,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Frequency Distribution,Frequency Distribution,1,verified,Frequency Distribution,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Data Normality Test,Data Normality Test,1,verified,Data Normality Test,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Skewness Measurement,Skewness Measurement,1,verified,Skewness Measurement,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Kurtosis Calculation,Kurtosis Calculation,1,verified,Kurtosis Calculation,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,P-Value,P-Value,3,verified,P-Value,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Effect size,Effect size,1,verified,Effect size,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Standard error,Standard error,1,verified,Standard error,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Odds Ratio,Odds Ratio,2,verified,Odds Ratio,NUDN_8147_concepts_raw.json
+NUDN_8147,measure,Hazard Ratios,Hazard Ratios,1,verified,Hazard Ratios,NUDN_8147_concepts_raw.json

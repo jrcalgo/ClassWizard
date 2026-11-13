@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1502,cultural,concept,PREREQUISITE_OF,global citizenship,concept,B taught first,B is taught before A - check,MUSC_1502_triples_raw.json
+MUSC_1502,interconnected world,concept,PREREQUISITE_OF,global citizenship,concept,same unit,,MUSC_1502_triples_raw.json
+MUSC_1502,social,concept,PREREQUISITE_OF,global citizenship,concept,B taught first,B is taught before A - check,MUSC_1502_triples_raw.json
+MUSC_1502,cultural,concept,PREREQUISITE_OF,music and culture,concept,B taught first,B is taught before A - check,MUSC_1502_triples_raw.json
+MUSC_1502,interconnected world,concept,PREREQUISITE_OF,music and culture,concept,same unit,,MUSC_1502_triples_raw.json
+MUSC_1502,social,concept,PREREQUISITE_OF,music and culture,concept,B taught first,B is taught before A - check,MUSC_1502_triples_raw.json
+MUSC_1502,global citizenship,concept,PART_OF,"Social, Cultural, Political Influences",topic,,,MUSC_1502_triples_raw.json
+MUSC_1502,interconnected world,concept,PART_OF,"Social, Cultural, Political Influences",topic,,,MUSC_1502_triples_raw.json
+MUSC_1502,music and culture,concept,PART_OF,"Social, Cultural, Political Influences",topic,,,MUSC_1502_triples_raw.json
+MUSC_1502,cultural contexts of music,concept,PART_OF,"Social, Cultural, Political Influences",topic,,,MUSC_1502_triples_raw.json
+MUSC_1502,music critiques society,concept,PART_OF,"Social, Cultural, Political Influences",topic,,,MUSC_1502_triples_raw.json
+MUSC_1502,artists' perspectives on music,concept,PART_OF,community influences on music,concept,,,MUSC_1502_triples_raw.json
+MUSC_1502,audience responses to music,concept,PART_OF,community influences on music,concept,,,MUSC_1502_triples_raw.json
+MUSC_1502,interconnected world,concept,SUBTYPE_OF,global citizenship,concept,,,MUSC_1502_triples_raw.json
+MUSC_1502,music and culture,concept,SUBTYPE_OF,global citizenship,concept,,,MUSC_1502_triples_raw.json
+MUSC_1502,music shapes society,concept,SUBTYPE_OF,"Social, Cultural, Political Influences",topic,,,MUSC_1502_triples_raw.json
+MUSC_1502,music critiques society,concept,SUBTYPE_OF,"Social, Cultural, Political Influences",topic,,,MUSC_1502_triples_raw.json

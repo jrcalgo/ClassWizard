@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_3190,topic,Biogeography,Biogeography,5,verified,Biogeography,ESCI_3190_concepts_raw.json
+ESCI_3190,method,graphing,graph,1,verified,graphing,ESCI_3190_concepts_raw.json
+ESCI_3190,method,collaborative module exercises,collaborative module exercises,1,verified,collaborative module exercises,ESCI_3190_concepts_raw.json
+ESCI_3190,topic,Physical Controls on Species Distributions,Physical Controls on Species Distributions,1,inferred,Physical Controls on Species Distributions,ESCI_3190_concepts_raw.json
+ESCI_3190,topic,Ecological Controls on Species Distributions,Ecological Controls on Species Distributions,1,inferred,Ecological Controls on Species Distributions,ESCI_3190_concepts_raw.json
+ESCI_3190,topic,Historical Biogeography and Evolutionary Processes,Historical Biogeography and Evolutionary Processes,1,inferred,Historical Biogeography and Evolutionary Processes,ESCI_3190_concepts_raw.json
+ESCI_3190,topic,Biogeographic Data Analysis and Interpretation,Biogeographic Data Analysis and Interpretation,1,inferred,Biogeographic Data Analysis and Interpretation,ESCI_3190_concepts_raw.json
+ESCI_3190,topic,Conservation Applications of Biogeography,Conservation Applications of Biogeography,1,inferred,Conservation Applications of Biogeography,ESCI_3190_concepts_raw.json
+ESCI_3190,topic,Case Studies in Biogeography and Conservation,Case Studies in Biogeography and Conservation,1,inferred,Case Studies in Biogeography and Conservation,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,biogeographic patterns and processes,Biogeographic Patterns and Processes,1,inferred,biogeographic patterns and processes,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,spatial diversity of life on earth,Spatial Diversity of Life on Earth,1,inferred,spatial diversity of life on earth,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,importance of biogeography in conservation,Importance of Biogeography in Conservation,1,inferred,importance of biogeography in conservation,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,climate and biodiversity relationships,Climate and Biodiversity Relationships,1,inferred,climate and biodiversity relationships,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,geological history and plate tectonics,Geological History and Plate Tectonics,1,inferred,geological history and plate tectonics,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,mountain building and elevation effects,Mountain Building and Elevation Effects,1,inferred,mountain building and elevation effects,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,habitat fragmentation and isolation,Habitat Fragmentation and Isolation,1,inferred,habitat fragmentation and isolation,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,species interactions and community dynamics,Species Interactions and Community Dynamics,1,inferred,species interactions and community dynamics,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,ecosystem services and human impacts,Ecosystem Services and Human Impacts,1,inferred,ecosystem services and human impacts,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,speciation and adaptive radiation,Speciation and Adaptive Radiation,1,inferred,speciation and adaptive radiation,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,extinction and mass extinctions,Extinction and Mass Extinctions,1,inferred,extinction and mass extinctions,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,phylogenetic relationships and divergence,Phylogenetic Relationships and Divergence,1,inferred,phylogenetic relationships and divergence,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,data manipulation and graphical representation,Data Manipulation and Graphical Representation,1,inferred,data manipulation and graphical representation,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,statistical analysis of biogeographic patterns,Statistical Analysis of Biogeographic Patterns,1,inferred,statistical analysis of biogeographic patterns,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,interpreting results in a biogeographic context,Interpreting Results in a Biogeographic Context,1,inferred,interpreting results in a biogeographic context,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,biogeographic principles for conservation planning,Biogeographic Principles for Conservation Planning,1,inferred,biogeographic principles for conservation planning,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,species distribution modeling and prediction,Species Distribution Modeling and Prediction,1,inferred,species distribution modeling and prediction,ESCI_3190_concepts_raw.json
+ESCI_3190,concept,ecosystem-based management and restoration,Ecosystem-Based Management and Restoration,1,inferred,ecosystem-based management and restoration,ESCI_3190_concepts_raw.json
+ESCI_3190,method,data manipulation,Data Manipulation,1,inferred,data manipulation,ESCI_3190_concepts_raw.json
+ESCI_3190,method,statistical analysis,Statistical Analysis,1,inferred,statistical analysis,ESCI_3190_concepts_raw.json

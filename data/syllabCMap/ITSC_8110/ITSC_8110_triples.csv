@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_8110,Literature Review Fundamentals,method,PREREQUISITE_OF,Quantitative Research Methods,topic,A taught first,,ITSC_8110_triples_raw.json
+ITSC_8110,Experimental Design,method,PREREQUISITE_OF,Non-Experimental Design,method,same unit,,ITSC_8110_triples_raw.json
+ITSC_8110,Sampling Strategy,method,PREREQUISITE_OF,Data Collection Methods,method,same unit,,ITSC_8110_triples_raw.json
+ITSC_8110,Statistical Analysis Technique,method,PREREQUISITE_OF,Hypothesis Testing,method,same unit,,ITSC_8110_triples_raw.json
+ITSC_8110,Regression Analysis,method,PREREQUISITE_OF,Combining Quantitative and Qualitative Data,concept,A taught first,,ITSC_8110_triples_raw.json
+ITSC_8110,Case Study Design,method,PREREQUISITE_OF,Grounded Theory and Coding,method,same unit,,ITSC_8110_triples_raw.json
+ITSC_8110,Research Methodologies Overview,concept,PART_OF,Computing and Information Systems Field,concept,,,ITSC_8110_triples_raw.json
+ITSC_8110,Literature Review Fundamentals,method,PART_OF,Quantitative Research Methods,topic,,,ITSC_8110_triples_raw.json
+ITSC_8110,Experimental Design,method,PART_OF,Non-Experimental Design,method,,,ITSC_8110_triples_raw.json
+ITSC_8110,Sampling Strategy,method,PART_OF,Data Collection Methods,method,,,ITSC_8110_triples_raw.json
+ITSC_8110,Statistical Analysis Technique,method,PART_OF,Hypothesis Testing,method,,,ITSC_8110_triples_raw.json
+ITSC_8110,Regression Analysis,method,PART_OF,Combining Quantitative and Qualitative Data,concept,,,ITSC_8110_triples_raw.json
+ITSC_8110,Case Study Design,method,PART_OF,Grounded Theory and Coding,method,,,ITSC_8110_triples_raw.json
+ITSC_8110,Phenomenological Research,method,PART_OF,Triangulation and Data Integration Strategies,concept,,,ITSC_8110_triples_raw.json
+ITSC_8110,Literature Review Fundamentals,method,USED_FOR,Quantitative Research Methods,topic,,,ITSC_8110_triples_raw.json
+ITSC_8110,Experimental Design,method,USED_FOR,Non-Experimental Design,method,,,ITSC_8110_triples_raw.json
+ITSC_8110,Sampling Strategy,method,USED_FOR,Data Collection Methods,method,,,ITSC_8110_triples_raw.json
+ITSC_8110,Statistical Analysis Technique,method,USED_FOR,Hypothesis Testing,method,,,ITSC_8110_triples_raw.json
+ITSC_8110,Case Study Design,method,USED_FOR,Grounded Theory and Coding,method,,,ITSC_8110_triples_raw.json
+ITSC_8110,Phenomenological Research,method,USED_FOR,Triangulation and Data Integration Strategies,concept,,,ITSC_8110_triples_raw.json

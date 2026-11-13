@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4074,medium-specificity,concept,PREREQUISITE_OF,digital afterlives,concept,A taught first,,ENGL_4074_triples_raw.json
+ENGL_4074,medium-specificity,concept,PREREQUISITE_OF,generative AI,concept,A taught first,,ENGL_4074_triples_raw.json
+ENGL_4074,medium-specificity,concept,PREREQUISITE_OF,participatory web,concept,A taught first,,ENGL_4074_triples_raw.json
+ENGL_4074,simulation theory,concept,PREREQUISITE_OF,simulated war ethics,concept,A taught first,,ENGL_4074_triples_raw.json
+ENGL_4074,simulation in media,concept,PREREQUISITE_OF,digital imagination of childhood,concept,same unit,,ENGL_4074_triples_raw.json
+ENGL_4074,adaptation theory,concept,PREREQUISITE_OF,algorithmic adaptation,concept,B taught first,B is taught before A - check,ENGL_4074_triples_raw.json
+ENGL_4074,close reading,method,PREREQUISITE_OF,viewing across print,method,A mentioned first,,ENGL_4074_triples_raw.json
+ENGL_4074,digital narrative,concept,PART_OF,narrative adaptation,topic,,,ENGL_4074_triples_raw.json
+ENGL_4074,medium-specificity,concept,PART_OF,digital media,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,participatory web,concept,PART_OF,digital media,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,simulation theory,concept,PART_OF,digital imagination of childhood,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,simulated war ethics,concept,PART_OF,war narrative,topic,,,ENGL_4074_triples_raw.json
+ENGL_4074,algorithmic adaptation,concept,PART_OF,digital narrative,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,virtual experience,concept,PART_OF,digital media,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,adaptation and transformation,concept,PART_OF,narrative adaptation,topic,,,ENGL_4074_triples_raw.json
+ENGL_4074,surveillance studies,concept,PART_OF,digital media,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,digital afterlives,concept,SUBTYPE_OF,medium-specificity,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,generative AI,concept,SUBTYPE_OF,participatory web,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,simulated war ethics,concept,SUBTYPE_OF,war narrative,topic,,,ENGL_4074_triples_raw.json
+ENGL_4074,algorithmic adaptation,concept,SUBTYPE_OF,digital narrative,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,virtual experience,concept,SUBTYPE_OF,digital media,concept,,,ENGL_4074_triples_raw.json
+ENGL_4074,digital imagination of childhood,concept,SUBTYPE_OF,childhood and adolescence,topic,,,ENGL_4074_triples_raw.json

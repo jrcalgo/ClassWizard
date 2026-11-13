@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AEEE_4010,solar photovoltaic (PV) systems,concept,PREREQUISITE_OF,Commissioning,topic,B mentioned first,,AEEE_4010_triples_raw.json
+AEEE_4010,solar photovoltaic (PV) systems,concept,PREREQUISITE_OF,Performance Verification,topic,B mentioned first,,AEEE_4010_triples_raw.json
+AEEE_4010,solar photovoltaic (PV) systems,concept,PREREQUISITE_OF,Troubleshooting,topic,B mentioned first,,AEEE_4010_triples_raw.json
+AEEE_4010,data analysis techniques,concept,PREREQUISITE_OF,PV Reliability Issues,topic,B mentioned first,,AEEE_4010_triples_raw.json
+AEEE_4010,I-V curve tracing,concept,PART_OF,thermal imaging,concept,,,AEEE_4010_triples_raw.json
+AEEE_4010,I-V curve tracing,concept,PART_OF,electroluminescence imaging,concept,,,AEEE_4010_triples_raw.json
+AEEE_4010,Commissioning,topic,PART_OF,Operations and Maintenance,topic,,,AEEE_4010_triples_raw.json
+AEEE_4010,Performance Verification,topic,PART_OF,Operations and Maintenance,topic,,,AEEE_4010_triples_raw.json
+AEEE_4010,Troubleshooting,topic,PART_OF,Operations and Maintenance,topic,,,AEEE_4010_triples_raw.json
+AEEE_4010,data analysis techniques,concept,PART_OF,Operations and Maintenance,topic,,,AEEE_4010_triples_raw.json
+AEEE_4010,solar photovoltaic (PV) systems,concept,PART_OF,PV Systems,topic,,,AEEE_4010_triples_raw.json
+AEEE_4010,griddirect PV systems,concept,SUBTYPE_OF,solar photovoltaic (PV) systems,concept,,,AEEE_4010_triples_raw.json
+AEEE_4010,I-V curve tracing,concept,USED_FOR,thermal imaging,concept,,,AEEE_4010_triples_raw.json
+AEEE_4010,I-V curve tracing,concept,USED_FOR,electroluminescence imaging,concept,,,AEEE_4010_triples_raw.json

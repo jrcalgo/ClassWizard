@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_5000,Hydrological Cycle,concept,PREREQUISITE_OF,Groundwater management,concept,A taught first,,GEOG_5000_triples_raw.json
+GEOG_5000,Relational-Dialectical Approach,concept,PREREQUISITE_OF,Water governance frameworks,concept,same unit,,GEOG_5000_triples_raw.json
+GEOG_5000,Riparian rights,concept,PREREQUISITE_OF,Prior appropriation,concept,same unit,,GEOG_5000_triples_raw.json
+GEOG_5000,Groundwater regulation,concept,PREREQUISITE_OF,Groundwater Management Strategies,concept,B taught first,B is taught before A - check,GEOG_5000_triples_raw.json
+GEOG_5000,Arizona Groundwater Management Act,concept,PREREQUISITE_OF,Groundwater regulation,concept,same unit,,GEOG_5000_triples_raw.json
+GEOG_5000,Water allocation law,concept,PREREQUISITE_OF,Water allocation regimes,concept,same unit,,GEOG_5000_triples_raw.json
+GEOG_5000,Water allocation regimes,concept,PREREQUISITE_OF,Water Markets,topic,B taught first,B is taught before A - check,GEOG_5000_triples_raw.json
+GEOG_5000,Hydrosocial Cycle,concept,PREREQUISITE_OF,Water governance frameworks,concept,same unit,,GEOG_5000_triples_raw.json
+GEOG_5000,Groundwater management,concept,PART_OF,Water Quantity and Quality,topic,,,GEOG_5000_triples_raw.json
+GEOG_5000,Water transactions,concept,PART_OF,Water Markets,topic,,,GEOG_5000_triples_raw.json
+GEOG_5000,Groundwater regulation,concept,PART_OF,Groundwater Management Strategies,concept,,,GEOG_5000_triples_raw.json
+GEOG_5000,Arizona Groundwater Management Act,concept,PART_OF,Groundwater regulation,concept,,,GEOG_5000_triples_raw.json
+GEOG_5000,Water allocation law,concept,PART_OF,Water allocation regimes,concept,,,GEOG_5000_triples_raw.json
+GEOG_5000,Water allocation law,concept,PART_OF,Water governance frameworks,concept,,,GEOG_5000_triples_raw.json
+GEOG_5000,Water allocation regimes,concept,PART_OF,Water Markets,topic,,,GEOG_5000_triples_raw.json
+GEOG_5000,Indigenous water rights,concept,PART_OF,Tribal Water Rights,topic,,,GEOG_5000_triples_raw.json
+GEOG_5000,Hydrological Cycle,concept,PART_OF,Water Quantity and Quality,topic,,,GEOG_5000_triples_raw.json
+GEOG_5000,Environmental water transactions,concept,PART_OF,Water transactions,concept,,,GEOG_5000_triples_raw.json
+GEOG_5000,Relational-Dialectical Approach,concept,PART_OF,Water governance frameworks,concept,,,GEOG_5000_triples_raw.json
+GEOG_5000,Groundwater regulation,concept,SUBTYPE_OF,Groundwater Management Strategies,concept,,,GEOG_5000_triples_raw.json
+GEOG_5000,Water allocation law,concept,SUBTYPE_OF,Water allocation regimes,concept,,,GEOG_5000_triples_raw.json
+GEOG_5000,Water allocation law,concept,SUBTYPE_OF,Water governance frameworks,concept,,,GEOG_5000_triples_raw.json
+GEOG_5000,Prior appropriation,concept,SUBTYPE_OF,Riparian rights,concept,,,GEOG_5000_triples_raw.json

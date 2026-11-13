@@ -1,0 +1,68 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GRNT_2372,topic,cognitive and psychological development,cognitive and psychological development,1,verified,cognitive and psychological development,GRNT_2372_concepts_raw.json
+GRNT_2372,topic,adulthood and aging,adulthood and aging,1,verified,adulthood and aging,GRNT_2372_concepts_raw.json
+GRNT_2372,topic,personality and socialization,personality and socialization,1,verified,personality and socialization,GRNT_2372_concepts_raw.json
+GRNT_2372,topic,cognitive development,cognitive development,1,verified,cognitive development,GRNT_2372_concepts_raw.json
+GRNT_2372,topic,psychophysiology of aging,psychophysiology of aging,1,verified,psychophysiology of aging,GRNT_2372_concepts_raw.json
+GRNT_2372,topic,employment,employment,1,verified,employment,GRNT_2372_concepts_raw.json
+GRNT_2372,topic,social relationships,social relationships,3,verified,social relationships,GRNT_2372_concepts_raw.json
+GRNT_2372,topic,death and bereavement,death and bereavement,1,verified,death and bereavement,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Research Design Principles,Research Design Principles,25,verified,Research Design Principles,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Quantitative Research Methods,Quantitative Research Methods,1,verified,Quantitative Research Methods,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Psychological Measurement Tools,Psychological Measurement Tools,1,verified,Psychological Measurement Tools,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Sampling Techniques Used,Sampling Techniques Used,1,verified,Sampling Techniques Used,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Causal Inference,Causal Inference,6,verified,Causal Inference,GRNT_2372_concepts_raw.json
+GRNT_2372,method,regression analysis,Regression Analysis,9,verified,regression analysis,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Confounding Variables,Confounding Variables,16,verified,Confounding Variables,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Selection Bias,Selection Bias,5,verified,Selection Bias,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Randomized Experiments,Randomized Experiments,1,verified,Randomized Experiments,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Class Schedule,Class Schedule,2,verified,Class Schedule,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Contact Information,Contact Information,1,verified,Contact Information,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Chiarella model,Chiarella model,1,verified,Chiarella model,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Financial statement analysis,Financial statement analysis,1,verified,Financial statement analysis,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Accounting information quality,Accounting information quality,1,verified,Accounting information quality,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Reliability and validity,Reliability and validity,1,verified,Reliability and validity,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Audit evidence evaluation,Audit evidence evaluation,1,verified,Audit evidence evaluation,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Course Success Strategies,Course Success Strategies,1,verified,Course Success Strategies,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Academic Time Management,Academic Time Management,1,verified,Academic Time Management,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Note Taking Techniques,Note Taking Techniques,1,verified,Note Taking Techniques,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Active Reading Habits,Active Reading Habits,1,verified,Active Reading Habits,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Critical Thinking Skills,Critical Thinking Skills,1,verified,Critical Thinking Skills,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Self-Directed Learning,Self-Directed Learning,1,verified,Self-Directed Learning,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Motivation Theories,Motivation Theories,2,verified,Motivation Theories,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Learning Styles,Learning Styles,1,verified,Learning Styles,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Time Management Skills,Time Management Skills,1,verified,Time Management Skills,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Causal Relationship,Causal Relationship,9,verified,Causal Relationship,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Mediating Variable,Mediating Variable,2,verified,Mediating Variable,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Moderating Effect,Moderating Effect,2,verified,Moderating Effect,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Social Roles,Social Roles,2,verified,Social Roles,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Role Expectations,Role Expectations,1,verified,Role Expectations,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Role Conflict,Role Conflict,1,verified,Role Conflict,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Role Strain,Role Strain,1,verified,Role Strain,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Reference Groups,Reference Groups,1,verified,Reference Groups,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Random sampling,Random Sampling,14,verified,Random sampling,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Sampling bias,Sampling bias,1,verified,Sampling bias,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Fluid Intelligence,Fluid Intelligence,1,verified,Fluid Intelligence,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Crystallized Intelligence,Crystallized Intelligence,1,verified,Crystallized Intelligence,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Working Memory Capacity,Working Memory Capacity,1,verified,Working Memory Capacity,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Processing Speed Ability,Processing Speed Ability,1,verified,Processing Speed Ability,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Cognitive Flexibility,Cognitive Flexibility,1,verified,Cognitive Flexibility,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Openness to Experience,Openness to Experience,3,verified,Openness to Experience,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Personality Traits,Personality Traits,5,verified,Personality Traits,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Big Five Theory,Big Five Theory,1,verified,Big Five Theory,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Extraversion Factor,Extraversion Factor,2,verified,Extraversion Factor,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Agreeableness Dimension,Agreeableness Dimension,2,verified,Agreeableness Dimension,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Grief Process,Grief Process,1,verified,Grief Process,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Bereavement Stages,Bereavement Stages,1,verified,Bereavement Stages,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Death Anxiety,Death Anxiety,1,verified,Death Anxiety,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Loss Trauma,Loss Trauma,1,verified,Loss Trauma,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Mourning Rituals,Mourning Rituals,1,verified,Mourning Rituals,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Funeral Rites,Funeral Rites,1,verified,Funeral Rites,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Coping Mechanisms,Coping Mechanisms,2,verified,Coping Mechanisms,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Emotional Regulation,Emotional Regulation,3,verified,Emotional Regulation,GRNT_2372_concepts_raw.json
+GRNT_2372,concept,Social Support,Social Support,2,verified,Social Support,GRNT_2372_concepts_raw.json
+GRNT_2372,method,hypothesis testing,Hypothesis Testing,1,verified,hypothesis testing,GRNT_2372_concepts_raw.json
+GRNT_2372,method,multiple regression model,Multiple Regression Model,3,verified,multiple regression model,GRNT_2372_concepts_raw.json
+GRNT_2372,method,dummy variable coding,Dummy Variable Coding,1,verified,dummy variable coding,GRNT_2372_concepts_raw.json
+GRNT_2372,method,interaction terms,Interaction Terms,1,verified,interaction terms,GRNT_2372_concepts_raw.json
+GRNT_2372,method,path analysis,Path Analysis,1,verified,path analysis,GRNT_2372_concepts_raw.json

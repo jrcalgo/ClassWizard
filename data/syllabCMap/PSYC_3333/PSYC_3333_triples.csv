@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_3333,History of the Field,concept,PART_OF,Behavioral Neuroscience,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Philosophical Issues in Research,concept,PART_OF,Behavioral Neuroscience,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Nervous System Structure and Function,concept,PART_OF,Physiological Systems Overview,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Sensory Processing and Perception,concept,PART_OF,Physiological Systems Overview,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Neurotransmitter Types and Functions,concept,PART_OF,Psychopharmacology Fundamentals,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Addiction and Substance Abuse,concept,PART_OF,Psychopharmacology Fundamentals,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Hormonal Influence on Behavior,concept,PART_OF,Sexual Differentiation and Development,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Brain Structure and Function Differences,concept,PART_OF,Sexual Differentiation and Development,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Evolutionary Perspectives on Sex Differences,concept,PART_OF,Sexual Differentiation and Development,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Emotion Processing in the Brain,concept,PART_OF,Neurobiology of Emotion Regulation,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Stress Response and Adaptation,concept,PART_OF,Neurobiology of Emotion Regulation,topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Circadian Rhythm Influence on Behavior,concept,PART_OF,"Sleep, Circadian Rhythms, and Behavior",topic,,,PSYC_3333_triples_raw.json
+PSYC_3333,Food Reward Processing in the Brain,concept,PART_OF,Eating Behavior and Neurobiology,topic,,,PSYC_3333_triples_raw.json

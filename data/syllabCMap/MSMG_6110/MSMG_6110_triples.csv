@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSMG_6110,Financial Statements,concept,PREREQUISITE_OF,Cost-Volume-Profit Analysis,method,A taught first,,MSMG_6110_triples_raw.json
+MSMG_6110,Financial Statements,concept,PREREQUISITE_OF,Capital Budgeting,concept,A taught first,,MSMG_6110_triples_raw.json
+MSMG_6110,Financial Statements,concept,PREREQUISITE_OF,Long-Range Planning,concept,A taught first,,MSMG_6110_triples_raw.json
+MSMG_6110,Financial Statements,concept,PREREQUISITE_OF,External Reporting Requirements,concept,A taught first,,MSMG_6110_triples_raw.json
+MSMG_6110,Financial Statements,concept,PREREQUISITE_OF,Internal Control Mechanisms,concept,A taught first,,MSMG_6110_triples_raw.json
+MSMG_6110,Financial Statements,concept,PREREQUISITE_OF,Financial Statement Creation,concept,A taught first,,MSMG_6110_triples_raw.json
+MSMG_6110,Profit Planning,concept,PART_OF,Budgeting and Planning,topic,,,MSMG_6110_triples_raw.json
+MSMG_6110,Cost of Goods Sold,concept,PART_OF,Financial Statements,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Managerial Decision Making,concept,PART_OF,Managerial Accounting Topics,topic,,,MSMG_6110_triples_raw.json
+MSMG_6110,Conceptual Foundations,concept,PART_OF,Financial Accounting,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,External Reporting Requirements,concept,PART_OF,Financial Statements,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Internal Control Mechanisms,concept,PART_OF,Financial Statements,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Financial Statement Creation,concept,PART_OF,Financial Statements,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Profit Planning,concept,SUBTYPE_OF,Budgeting Process,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Cost of Goods Sold,concept,SUBTYPE_OF,Cost of Capital,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Managerial Decision Making,concept,SUBTYPE_OF,Operating Decisions,topic,,,MSMG_6110_triples_raw.json
+MSMG_6110,Conceptual Foundations,concept,SUBTYPE_OF,Financial Accounting,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Internal Control Mechanisms,concept,SUBTYPE_OF,Financial Statement Creation,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Financial Statement Creation,concept,SUBTYPE_OF,Financial Statements,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Cost-Volume-Profit Analysis,method,USED_FOR,Profit Planning,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Inventory Valuation Methods,method,USED_FOR,Cost of Goods Sold,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Perpetual Procedures,method,USED_FOR,Journal Entries,method,,,MSMG_6110_triples_raw.json
+MSMG_6110,Break-Even Point Calculation,method,USED_FOR,Capital Budgeting,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Contribution Margin Ratio,method,USED_FOR,Long-Range Planning,concept,,,MSMG_6110_triples_raw.json
+MSMG_6110,Selling Price Variance,method,USED_FOR,Variable Cost Control,method,,,MSMG_6110_triples_raw.json
+MSMG_6110,Gross Profit Calculation,method,USED_FOR,Accounting Records,method,,,MSMG_6110_triples_raw.json
+MSMG_6110,Inventory Turnover Ratio,method,USED_FOR,Asset Accounting,method,,,MSMG_6110_triples_raw.json
+MSMG_6110,Matching Principle Application,method,USED_FOR,Accrual Accounting Principles,method,,,MSMG_6110_triples_raw.json
+MSMG_6110,Statement of Cash Flows,tool,USED_FOR,Cash Flow Analysis,tool,,,MSMG_6110_triples_raw.json

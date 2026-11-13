@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_8190,machine learning workloads,concept,PART_OF,Large-Scale Data Analysis,topic,,,ITCS_8190_triples_raw.json
+ITCS_8190,Apache Spark,tool,USED_FOR,Large-Scale Data Analysis,topic,,,ITCS_8190_triples_raw.json
+ITCS_8190,Python,tool,USED_FOR,machine learning workloads,concept,,,ITCS_8190_triples_raw.json
+ITCS_8190,Java,tool,USED_FOR,machine learning workloads,concept,,,ITCS_8190_triples_raw.json
+ITCS_8190,Linux,tool,USED_FOR,machine learning workloads,concept,,,ITCS_8190_triples_raw.json

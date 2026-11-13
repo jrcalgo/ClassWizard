@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_1512,myth and orality,concept,PREREQUISITE_OF,American Indian religiosity,concept,same unit,,RELS_1512_triples_raw.json
+RELS_1512,embodied lifeways and ceremonies,concept,PREREQUISITE_OF,American Indian religiosity,concept,B taught first,B is taught before A - check,RELS_1512_triples_raw.json
+RELS_1512,sacred space,concept,PREREQUISITE_OF,time,concept,same unit,,RELS_1512_triples_raw.json
+RELS_1512,objects,concept,PREREQUISITE_OF,time,concept,same unit,,RELS_1512_triples_raw.json
+RELS_1512,myth and orality,concept,PART_OF,American Indian religiosity,concept,,,RELS_1512_triples_raw.json
+RELS_1512,sacred space,concept,PART_OF,American Indian religiosity,concept,,,RELS_1512_triples_raw.json
+RELS_1512,time,concept,PART_OF,American Indian religiosity,concept,,,RELS_1512_triples_raw.json
+RELS_1512,objects,concept,PART_OF,American Indian religiosity,concept,,,RELS_1512_triples_raw.json
+RELS_1512,notions of personhood,concept,PART_OF,American Indian responses to climate change,concept,,,RELS_1512_triples_raw.json

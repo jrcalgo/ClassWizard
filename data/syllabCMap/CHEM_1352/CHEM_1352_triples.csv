@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_1352,Chemical Reactions,topic,PREREQUISITE_OF,Equilibrium,topic,A taught first,,CHEM_1352_triples_raw.json
+CHEM_1352,Equilibrium,topic,PREREQUISITE_OF,Thermodynamics,topic,A taught first,,CHEM_1352_triples_raw.json
+CHEM_1352,Thermodynamics,topic,PREREQUISITE_OF,Kinetics,topic,A taught first,,CHEM_1352_triples_raw.json
+CHEM_1352,Kinetics,topic,PREREQUISITE_OF,Electrochemistry,topic,A taught first,,CHEM_1352_triples_raw.json

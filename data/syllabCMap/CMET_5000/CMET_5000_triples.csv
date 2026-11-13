@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_5000,Best Practice Frameworks,concept,PREREQUISITE_OF,Project Performance Metrics,topic,A taught first,,CMET_5000_triples_raw.json
+CMET_5000,Stakeholder Engagement Strategies,concept,PREREQUISITE_OF,Effective Project Team Management,concept,same unit,,CMET_5000_triples_raw.json
+CMET_5000,Construction Industry Challenges,concept,PART_OF,Industry Overview,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Current Trends and Innovations,concept,PART_OF,Industry Overview,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Best Practice Frameworks,concept,PART_OF,CII Best Practices,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Project Performance Metrics,topic,PART_OF,CII Best Practices,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Cost Control Strategies,concept,PART_OF,Project Performance Metrics,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Schedule Optimization Techniques,concept,PART_OF,Project Performance Metrics,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Identifying and Assessing Risks,concept,PART_OF,Risk Management Approaches,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Mitigation and Contingency Planning,concept,PART_OF,Risk Management Approaches,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Stakeholder Engagement Strategies,concept,PART_OF,Collaboration and Communication,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Effective Project Team Management,concept,PART_OF,Collaboration and Communication,topic,,,CMET_5000_triples_raw.json
+CMET_5000,Digital Construction Tools and Methods,concept,PART_OF,Innovation and Technology,topic,,,CMET_5000_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JAPN_1202,Hiragana Fundamentals,topic,PREREQUISITE_OF,Katakana Basics,topic,A taught first,,JAPN_1202_triples_raw.json
+JAPN_1202,Katakana Basics,topic,PREREQUISITE_OF,Grammar Review 1,topic,A taught first,,JAPN_1202_triples_raw.json
+JAPN_1202,Kanji Introduction,topic,PREREQUISITE_OF,Vocabulary Expansion,topic,A taught first,,JAPN_1202_triples_raw.json
+JAPN_1202,Grammar Review 1,topic,PREREQUISITE_OF,Grammar Review 2,topic,A taught first,,JAPN_1202_triples_raw.json
+JAPN_1202,Vocabulary Expansion,topic,PREREQUISITE_OF,Listening Comprehension,topic,A taught first,,JAPN_1202_triples_raw.json
+JAPN_1202,Hiragana Fundamentals,topic,PREREQUISITE_OF,Reading and Writing,topic,A taught first,,JAPN_1202_triples_raw.json
+JAPN_1202,Kanji Introduction,topic,PART_OF,Vocabulary Expansion,topic,,,JAPN_1202_triples_raw.json
+JAPN_1202,Grammar Review 1,topic,PART_OF,Grammar Review 2,topic,,,JAPN_1202_triples_raw.json
+JAPN_1202,Listening Comprehension,topic,PART_OF,Speaking Practice,topic,,,JAPN_1202_triples_raw.json
+JAPN_1202,everyday phrases and expressions,concept,PART_OF,Vocabulary Expansion,topic,,,JAPN_1202_triples_raw.json
+JAPN_1202,cultural references,concept,PART_OF,Cultural Understanding,topic,,,JAPN_1202_triples_raw.json

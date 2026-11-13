@@ -1,0 +1,42 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NUAN_8156,topic,Applied Physics and Chemistry in Nurse Anesthesia,Applied Physics and Chemistry in Nurse Anesthesia,1,verified,Applied Physics and Chemistry in Nurse Anesthesia,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Inorganic Chemistry,inorganic chemistry,1,verified,Inorganic Chemistry,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Organic Chemistry,organic chemistry,1,verified,Organic Chemistry,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Anesthesia Equipment,Anesthesia equipment,1,verified,Anesthesia Equipment,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Physics Fundamentals,Physics Fundamentals,1,inferred,Physics Fundamentals,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Gas Laws and Properties,Gas Laws and Properties,1,inferred,Gas Laws and Properties,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Heat Transfer and Thermodynamics,Heat Transfer and Thermodynamics,1,inferred,Heat Transfer and Thermodynamics,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Fluid Dynamics and Mechanics,Fluid Dynamics and Mechanics,1,inferred,Fluid Dynamics and Mechanics,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Electrical Principles in Anesthesia,Electrical Principles in Anesthesia,1,inferred,Electrical Principles in Anesthesia,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Anesthetic Care Planning,Anesthetic Care Planning,1,inferred,Anesthetic Care Planning,NUAN_8156_concepts_raw.json
+NUAN_8156,topic,Workstation Management and Safety,Workstation Management and Safety,1,inferred,Workstation Management and Safety,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Laws of Motion Basics,Laws of Motion Basics,1,inferred,Laws of Motion Basics,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Energy Types and Forms,Energy Types and Forms,1,inferred,Energy Types and Forms,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Work and Efficiency Principles,Work and Efficiency Principles,1,inferred,Work and Efficiency Principles,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Atomic Structure Overview,Atomic Structure Overview,1,inferred,Atomic Structure Overview,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Periodic Table Patterns,Periodic Table Patterns,1,inferred,Periodic Table Patterns,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Chemical Bonding Basics,Chemical Bonding Basics,1,inferred,Chemical Bonding Basics,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Carbon-Based Molecules,Carbon-Based Molecules,1,inferred,Carbon-Based Molecules,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Functional Group Properties,Functional Group Properties,1,inferred,Functional Group Properties,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Reaction Mechanisms Fundamentals,Reaction Mechanisms Fundamentals,1,inferred,Reaction Mechanisms Fundamentals,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Ventilator Functionality,Ventilator Functionality,1,inferred,Ventilator Functionality,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Monitoring Devices Overview,Monitoring Devices Overview,1,inferred,Monitoring Devices Overview,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Sedation and Anesthesia Agents,Sedation and Anesthesia Agents,1,inferred,Sedation and Anesthesia Agents,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Ideal Gas Law Basics,Ideal Gas Law Basics,1,inferred,Ideal Gas Law Basics,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Partial Pressure Calculations,Partial Pressure Calculations,1,inferred,Partial Pressure Calculations,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Anesthetic Gas Behavior,Anesthetic Gas Behavior,1,inferred,Anesthetic Gas Behavior,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Conduction and Convection Principles,Conduction and Convection Principles,1,inferred,Conduction and Convection Principles,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Thermodynamic Systems Overview,Thermodynamic Systems Overview,1,inferred,Thermodynamic Systems Overview,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Temperature Measurement Techniques,Temperature Measurement Techniques,1,inferred,Temperature Measurement Techniques,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Pressure and Flow Relationships,Pressure and Flow Relationships,1,inferred,Pressure and Flow Relationships,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Pump Functionality and Safety,Pump Functionality and Safety,1,inferred,Pump Functionality and Safety,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Anesthetic Circuit Design,Anesthetic Circuit Design,1,inferred,Anesthetic Circuit Design,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Circuit Breaker Fundamentals,Circuit Breaker Fundamentals,1,inferred,Circuit Breaker Fundamentals,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Electrocardiogram (ECG) Interpretation,Electrocardiogram (ECG) Interpretation,1,inferred,Electrocardiogram (ECG) Interpretation,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Defibrillator Functionality,Defibrillator Functionality,1,inferred,Defibrillator Functionality,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Patient Assessment and Evaluation,Patient Assessment and Evaluation,1,inferred,Patient Assessment and Evaluation,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Anesthetic Plan Development,Anesthetic Plan Development,1,inferred,Anesthetic Plan Development,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Medication Administration Safety,Medication Administration Safety,1,inferred,Medication Administration Safety,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Equipment Maintenance and Calibration,Equipment Maintenance and Calibration,1,inferred,Equipment Maintenance and Calibration,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Sterilization and Disinfection Techniques,Sterilization and Disinfection Techniques,1,inferred,Sterilization and Disinfection Techniques,NUAN_8156_concepts_raw.json
+NUAN_8156,concept,Emergency Preparedness Planning,Emergency Preparedness Planning,1,inferred,Emergency Preparedness Planning,NUAN_8156_concepts_raw.json

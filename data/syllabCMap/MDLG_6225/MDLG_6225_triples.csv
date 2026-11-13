@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDLG_6225,Middle School Concept,topic,PREREQUISITE_OF,importance of middle grades education,concept,same unit,,MDLG_6225_triples_raw.json
+MDLG_6225,physical and emotional changes,concept,PREREQUISITE_OF,social pressures and expectations,concept,same unit,,MDLG_6225_triples_raw.json
+MDLG_6225,physical and emotional changes,concept,PREREQUISITE_OF,academic demands and stressors,concept,same unit,,MDLG_6225_triples_raw.json
+MDLG_6225,importance of middle grades education,concept,PART_OF,Middle School Concept,topic,,,MDLG_6225_triples_raw.json
+MDLG_6225,informal school self-study process,concept,USED_FOR,evaluating middle school implementation,concept,,,MDLG_6225_triples_raw.json

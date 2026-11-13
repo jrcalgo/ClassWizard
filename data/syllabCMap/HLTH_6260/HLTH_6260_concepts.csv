@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_6260,topic,Analytic Epidemiology,Analytic Epidemiology,1,verified,Analytic Epidemiology,HLTH_6260_concepts_raw.json
+HLTH_6260,topic,Epidemiologic Research Designs,epidemiologic research designs,1,verified,Epidemiologic Research Designs,HLTH_6260_concepts_raw.json
+HLTH_6260,concept,Objective,OBJECTIVES,1,verified,"Objective, methods, results sections",HLTH_6260_concepts_raw.json
+HLTH_6260,concept,Tables,tables,1,verified,"Tables, figures, and graphs for presentation",HLTH_6260_concepts_raw.json
+HLTH_6260,concept,figures,figures,1,verified,"Tables, figures, and graphs for presentation",HLTH_6260_concepts_raw.json
+HLTH_6260,tool,STATA,STATA,1,verified,STATA,HLTH_6260_concepts_raw.json
+HLTH_6260,tool,SAS,SAS,1,verified,SAS,HLTH_6260_concepts_raw.json

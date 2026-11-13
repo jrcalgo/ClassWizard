@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUDN_8202,Confounding variables,concept,PREREQUISITE_OF,Confounding Effect,concept,A taught first,,NUDN_8202_triples_raw.json
+NUDN_8202,Modes of Transmission,concept,PREREQUISITE_OF,Risk Factors,concept,same unit,,NUDN_8202_triples_raw.json
+NUDN_8202,Chronic Diseases,concept,PREREQUISITE_OF,Health Promotion,concept,same unit,,NUDN_8202_triples_raw.json
+NUDN_8202,Experimental study design,concept,PREREQUISITE_OF,Randomized controlled trials,concept,same unit,,NUDN_8202_triples_raw.json
+NUDN_8202,Bias in studies,concept,PREREQUISITE_OF,Placebo effect,concept,same unit,,NUDN_8202_triples_raw.json
+NUDN_8202,Cohort Study Design,concept,PREREQUISITE_OF,Case-Control Study Design,concept,same unit,,NUDN_8202_triples_raw.json
+NUDN_8202,Modes of Transmission,concept,PART_OF,Disease transmission modes,concept,,,NUDN_8202_triples_raw.json
+NUDN_8202,Risk Factors,concept,PART_OF,Chronic Diseases,concept,,,NUDN_8202_triples_raw.json
+NUDN_8202,Health Promotion,concept,PART_OF,Disease Prevention,concept,,,NUDN_8202_triples_raw.json
+NUDN_8202,Epidemiologic Triad,concept,PART_OF,Descriptive epidemiology,topic,,,NUDN_8202_triples_raw.json
+NUDN_8202,Relative risk calculation,measure,USED_FOR,Measures of disease frequency,concept,,,NUDN_8202_triples_raw.json
+NUDN_8202,Odds ratio estimation,measure,USED_FOR,Measures of disease frequency,concept,,,NUDN_8202_triples_raw.json
+NUDN_8202,Confidence interval construction,measure,USED_FOR,Measures of disease frequency,concept,,,NUDN_8202_triples_raw.json
+NUDN_8202,Poisson distribution application,measure,USED_FOR,Measures of disease frequency,concept,,,NUDN_8202_triples_raw.json
+NUDN_8202,Normal distribution assumption,measure,USED_FOR,Measures of disease frequency,concept,,,NUDN_8202_triples_raw.json
+NUDN_8202,Standardization methods,measure,USED_FOR,Measures of disease frequency,concept,,,NUDN_8202_triples_raw.json

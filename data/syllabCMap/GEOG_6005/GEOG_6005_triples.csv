@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_6005,Hydrologic Cycle,topic,PREREQUISITE_OF,Ocean Circulation,topic,A taught first,,GEOG_6005_triples_raw.json
+GEOG_6005,Hydrologic Cycle,topic,PREREQUISITE_OF,Global Energy Balance,topic,A mentioned first,,GEOG_6005_triples_raw.json
+GEOG_6005,Hydrologic Cycle,topic,PREREQUISITE_OF,Natural and Human-Induced Climate Variability and Change,topic,A mentioned first,,GEOG_6005_triples_raw.json
+GEOG_6005,Global Energy Balance,topic,PART_OF,Global Climate System,topic,,,GEOG_6005_triples_raw.json
+GEOG_6005,Energy Balance at the Surface,topic,PART_OF,Global Climate System,topic,,,GEOG_6005_triples_raw.json
+GEOG_6005,Climate Sensitivity and Feedback Mechanisms,topic,PART_OF,Global Climate System,topic,,,GEOG_6005_triples_raw.json
+GEOG_6005,Natural and Human-Induced Climate Variability and Change,topic,PART_OF,Global Climate System,topic,,,GEOG_6005_triples_raw.json
+GEOG_6005,Hydrologic Cycle,topic,PART_OF,Global Climate System,topic,,,GEOG_6005_triples_raw.json
+GEOG_6005,Ocean Circulation,topic,PART_OF,Global Climate System,topic,,,GEOG_6005_triples_raw.json
+GEOG_6005,qualitative research methods,method,USED_FOR,Global Energy Balance,topic,,,GEOG_6005_triples_raw.json
+GEOG_6005,quantitative analysis,method,USED_FOR,Natural and Human-Induced Climate Variability and Change,topic,,,GEOG_6005_triples_raw.json

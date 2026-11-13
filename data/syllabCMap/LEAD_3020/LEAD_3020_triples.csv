@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEAD_3020,Norms,concept,PREREQUISITE_OF,Hidden Curriculum,topic,same unit,,LEAD_3020_triples_raw.json
+LEAD_3020,Norms,concept,PREREQUISITE_OF,Finding Your Place,topic,A taught first,,LEAD_3020_triples_raw.json
+LEAD_3020,Norms,concept,PREREQUISITE_OF,Finding Your Voice,topic,A mentioned first,,LEAD_3020_triples_raw.json
+LEAD_3020,Norms,concept,PREREQUISITE_OF,Finding Your People,topic,A mentioned first,,LEAD_3020_triples_raw.json
+LEAD_3020,Norms,concept,PREREQUISITE_OF,Finding Your Way,topic,A mentioned first,,LEAD_3020_triples_raw.json
+LEAD_3020,Problem-Solving,topic,PREREQUISITE_OF,Initiative,topic,same unit,,LEAD_3020_triples_raw.json
+LEAD_3020,Problem-Solving,topic,PREREQUISITE_OF,Adaptability,topic,same unit,,LEAD_3020_triples_raw.json
+LEAD_3020,Norms,concept,PART_OF,Hidden Curriculum,topic,,,LEAD_3020_triples_raw.json
+LEAD_3020,Norms,concept,PART_OF,Finding Your Place,topic,,,LEAD_3020_triples_raw.json
+LEAD_3020,Norms,concept,PART_OF,Finding Your Voice,topic,,,LEAD_3020_triples_raw.json
+LEAD_3020,Norms,concept,PART_OF,Finding Your People,topic,,,LEAD_3020_triples_raw.json
+LEAD_3020,Norms,concept,PART_OF,Finding Your Way,topic,,,LEAD_3020_triples_raw.json
+LEAD_3020,Practice,method,USED_FOR,Problem-Solving,topic,,,LEAD_3020_triples_raw.json
+LEAD_3020,Peer Coaching,method,USED_FOR,Problem-Solving,topic,,,LEAD_3020_triples_raw.json
+LEAD_3020,Real-World Application,method,USED_FOR,Problem-Solving,topic,,,LEAD_3020_triples_raw.json

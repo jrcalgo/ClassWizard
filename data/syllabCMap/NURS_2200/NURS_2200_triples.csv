@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_2200,Life Span Development,concept,PREREQUISITE_OF,Human Maturity Stages,concept,same unit,,NURS_2200_triples_raw.json
+NURS_2200,Life Span Development,concept,PREREQUISITE_OF,Physical Changes in Adulthood,concept,A taught first,,NURS_2200_triples_raw.json
+NURS_2200,Human Maturity Stages,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Fetal Development Process,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Birth Defects and Risks,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Maternal Health Factors,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Physical Growth Patterns,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Cognitive Development Milestones,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Social Emotional Learning,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Cognitive Development Theories,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Identity Formation Stages,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Physical Changes in Adulthood,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json
+NURS_2200,Psychological Development Tasks,concept,PART_OF,Life Span Development,concept,,,NURS_2200_triples_raw.json

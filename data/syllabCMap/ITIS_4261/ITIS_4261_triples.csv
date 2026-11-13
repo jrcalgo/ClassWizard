@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4261,storage,topic,PART_OF,Cloud Computing,concept,,part is broader than whole - check direction,ITIS_4261_triples_raw.json
+ITIS_4261,content caching,topic,PART_OF,serverless architecture,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,microservices,topic,PART_OF,serverless architecture,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,elasticity,topic,PART_OF,Cloud Computing,concept,,part is broader than whole - check direction,ITIS_4261_triples_raw.json
+ITIS_4261,availability,topic,PART_OF,Cloud Computing,concept,,part is broader than whole - check direction,ITIS_4261_triples_raw.json
+ITIS_4261,monitoring,topic,PART_OF,Cloud Computing,concept,,part is broader than whole - check direction,ITIS_4261_triples_raw.json
+ITIS_4261,networking,topic,PART_OF,Cloud Computing,concept,,part is broader than whole - check direction,ITIS_4261_triples_raw.json
+ITIS_4261,access and identity management,topic,PART_OF,cloud security,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,incidence response,topic,PART_OF,cloud security,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,governance,topic,PART_OF,cloud security,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,regulatory compliance,topic,PART_OF,cloud security,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,DDOS prevention,topic,SUBTYPE_OF,cloud security,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,intrusion detection,topic,SUBTYPE_OF,cloud security,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,vulnerability management,topic,SUBTYPE_OF,cloud security,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,encryption,topic,SUBTYPE_OF,cloud security,topic,,,ITIS_4261_triples_raw.json
+ITIS_4261,EFS,tool,USED_FOR,Cloud Storage Options,concept,,,ITIS_4261_triples_raw.json
+ITIS_4261,DynamoDB,concept,USED_FOR,Database Security,concept,,,ITIS_4261_triples_raw.json
+ITIS_4261,Route53,tool,USED_FOR,Load Balancing,concept,,,ITIS_4261_triples_raw.json
+ITIS_4261,peering,tool,USED_FOR,VPC Peering,concept,,,ITIS_4261_triples_raw.json
+ITIS_4261,AWS Direct Connect,concept,USED_FOR,Cloud Storage Options,concept,,,ITIS_4261_triples_raw.json
+ITIS_4261,federation,tool,USED_FOR,Federated Identity,concept,,,ITIS_4261_triples_raw.json
+ITIS_4261,Auto Scaling,concept,USED_FOR,DDOS Prevention Techniques,concept,,,ITIS_4261_triples_raw.json

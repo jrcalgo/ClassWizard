@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2113,Neuron Communication Methods,concept,PREREQUISITE_OF,Nervous System Functions,concept,same unit,,PSYC_2113_triples_raw.json
+PSYC_2113,Brain Anatomy and Structure,concept,PREREQUISITE_OF,Neuron Communication Methods,concept,same unit,,PSYC_2113_triples_raw.json
+PSYC_2113,Learning and Development Processes,concept,PREREQUISITE_OF,Behavioral Disorders and Addictions,concept,same unit,,PSYC_2113_triples_raw.json
+PSYC_2113,Action-Thought Effects on Nervous System,concept,PREREQUISITE_OF,Health Impacts of Mind-Body Interactions,concept,same unit,,PSYC_2113_triples_raw.json
+PSYC_2113,Research Methodologies in Biopsychology,concept,PREREQUISITE_OF,Data Analysis Techniques for Biopsychologists,concept,same unit,,PSYC_2113_triples_raw.json
+PSYC_2113,Brain Anatomy and Structure,concept,PART_OF,Biopsychology,topic,,,PSYC_2113_triples_raw.json
+PSYC_2113,Neuron Communication Methods,concept,PART_OF,Biopsychology,topic,,,PSYC_2113_triples_raw.json
+PSYC_2113,Behavioral Disorders and Addictions,concept,PART_OF,Biological Basis of Behavior,topic,,,PSYC_2113_triples_raw.json
+PSYC_2113,Learning and Development Processes,concept,PART_OF,Biological Basis of Behavior,topic,,,PSYC_2113_triples_raw.json
+PSYC_2113,Health Impacts of Mind-Body Interactions,concept,PART_OF,Mind-Body Connection Explained,topic,,,PSYC_2113_triples_raw.json
+PSYC_2113,Technologies Used in Biopsychological Studies,concept,PART_OF,Biopsychology Research Methods,topic,,,PSYC_2113_triples_raw.json
+PSYC_2113,Data Analysis Techniques for Biopsychologists,concept,PART_OF,Biopsychology Research Methods,topic,,,PSYC_2113_triples_raw.json

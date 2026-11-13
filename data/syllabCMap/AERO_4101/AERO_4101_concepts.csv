@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+AERO_4101,topic,Aerodynamics,Aerodynamics,2,inferred,Aerodynamics,AERO_4101_concepts_raw.json
+AERO_4101,topic,Fluid Dynamics Fundamentals,Fluid Dynamics Fundamentals,1,inferred,Fluid Dynamics Fundamentals,AERO_4101_concepts_raw.json
+AERO_4101,topic,Airfoil Aerodynamics,Airfoil Aerodynamics,1,inferred,Airfoil Aerodynamics,AERO_4101_concepts_raw.json
+AERO_4101,topic,Wing Theory and Performance,Wing Theory and Performance,1,inferred,Wing Theory and Performance,AERO_4101_concepts_raw.json
+AERO_4101,topic,Aerodynamic Forces on Airplanes,Aerodynamic Forces on Airplanes,1,inferred,Aerodynamic Forces on Airplanes,AERO_4101_concepts_raw.json
+AERO_4101,concept,Aerodynamic Forces and Moments,Aerodynamic Forces and Moments,1,inferred,Aerodynamic Forces and Moments,AERO_4101_concepts_raw.json
+AERO_4101,concept,Drag Generation,Drag Generation,1,inferred,Drag Generation,AERO_4101_concepts_raw.json
+AERO_4101,concept,Continuity Equation Basics,Continuity Equation Basics,1,inferred,Continuity Equation Basics,AERO_4101_concepts_raw.json
+AERO_4101,concept,Bernoulli's Principle Application,Bernoulli's Principle Application,1,inferred,Bernoulli's Principle Application,AERO_4101_concepts_raw.json
+AERO_4101,concept,Turbulence Effects,Turbulence Effects,1,inferred,Turbulence Effects,AERO_4101_concepts_raw.json
+AERO_4101,concept,Airfoil Geometry and Design,Airfoil Geometry and Design,1,inferred,Airfoil Geometry and Design,AERO_4101_concepts_raw.json
+AERO_4101,concept,Lift Coefficient Calculations,Lift Coefficient Calculations,1,inferred,Lift Coefficient Calculations,AERO_4101_concepts_raw.json
+AERO_4101,concept,Drag Reduction Techniques,Drag Reduction Techniques,1,inferred,Drag Reduction Techniques,AERO_4101_concepts_raw.json
+AERO_4101,concept,Wing Planform and Aspect Ratio,Wing Planform and Aspect Ratio,1,inferred,Wing Planform and Aspect Ratio,AERO_4101_concepts_raw.json
+AERO_4101,concept,Straight Wings,Straight Wings,1,inferred,Straight Wings,AERO_4101_concepts_raw.json
+AERO_4101,concept,Wing Loading,Wing Loading,1,inferred,Wing Loading,AERO_4101_concepts_raw.json
+AERO_4101,concept,Efficiency,Efficiency,1,inferred,Efficiency,AERO_4101_concepts_raw.json

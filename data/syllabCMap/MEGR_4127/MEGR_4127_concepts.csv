@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_4127,topic,Robotics,Robotics,2,verified,Introduction to Robotics,MEGR_4127_concepts_raw.json
+MEGR_4127,topic,Motion Trajectory Planning,motion trajectory planning,1,verified,Motion Trajectory Planning,MEGR_4127_concepts_raw.json
+MEGR_4127,topic,Low-Level Robot Control,Low-Level Robot Control,1,verified,Low-Level Robot Control,MEGR_4127_concepts_raw.json
+MEGR_4127,topic,Future of Autonomous Robots,Future of Autonomous Robots,1,verified,Future of Autonomous Robots,MEGR_4127_concepts_raw.json
+MEGR_4127,concept,General Concepts of System Engineering,general Concepts of System Engineering,1,verified,General Concepts of System Engineering,MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Servos,servos,1,verified,"Servos, Steppers, and Linear Actuators",MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Steppers,steppers,1,verified,"Servos, Steppers, and Linear Actuators",MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Linear Actuators,linear actuators,1,verified,"Servos, Steppers, and Linear Actuators",MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Autonomy and Control in Animals and Robots,Autonomy and Control in Animals and Robots,1,verified,Autonomy and Control in Animals and Robots,MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Control and Regulation in Biological Systems,Control and Regulation in Biological Systems,1,verified,Control and Regulation in Biological Systems,MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Software Architectures for Autonomous Robots,Software Architectures for Autonomous Robots,1,verified,Software Architectures for Autonomous Robots,MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Arm Motion and Manipulation of Manufacturing Robots,Arm Motion and Manipulation of Manufacturing Robots,1,verified,Arm Motion and Manipulation of Manufacturing Robots,MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Control of Multiple Robots Humanoid Robots,Control of Multiple Robots Humanoid Robots,1,verified,Control of Multiple Robots Humanoid Robots,MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Localization,Localization,1,verified,"Localization, Navigation, and Mapping",MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Navigation,Navigation,1,verified,"Localization, Navigation, and Mapping",MEGR_4127_concepts_raw.json
+MEGR_4127,concept,Mapping,Mapping,1,verified,"Localization, Navigation, and Mapping",MEGR_4127_concepts_raw.json

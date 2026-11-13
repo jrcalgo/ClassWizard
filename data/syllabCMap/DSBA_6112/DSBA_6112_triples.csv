@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6112,multicollinearity,concept,PREREQUISITE_OF,heteroskedasticity,concept,A taught first,,DSBA_6112_triples_raw.json
+DSBA_6112,multicollinearity,concept,PREREQUISITE_OF,autocorrelation,concept,A mentioned first,,DSBA_6112_triples_raw.json
+DSBA_6112,maximum likelihood estimation,concept,PREREQUISITE_OF,instrumental variables,concept,A taught first,,DSBA_6112_triples_raw.json
+DSBA_6112,Derivation of Least Squares Estimators,topic,PREREQUISITE_OF,least squares estimators,concept,same unit,,DSBA_6112_triples_raw.json
+DSBA_6112,Econometric Theory,topic,PREREQUISITE_OF,heteroskedasticity,concept,A taught first,,DSBA_6112_triples_raw.json
+DSBA_6112,Econometric Theory,topic,PREREQUISITE_OF,multicollinearity,concept,A taught first,,DSBA_6112_triples_raw.json
+DSBA_6112,Econometric Theory,topic,PREREQUISITE_OF,autocorrelation,concept,A mentioned first,,DSBA_6112_triples_raw.json
+DSBA_6112,least squares estimators,concept,PART_OF,Derivation of Least Squares Estimators,topic,,,DSBA_6112_triples_raw.json
+DSBA_6112,maximum likelihood estimation,concept,PART_OF,Econometric Theory,topic,,,DSBA_6112_triples_raw.json
+DSBA_6112,instrumental variables,concept,PART_OF,Econometric Theory,topic,,,DSBA_6112_triples_raw.json
+DSBA_6112,heteroskedasticity,concept,PART_OF,Econometric Theory,topic,,,DSBA_6112_triples_raw.json
+DSBA_6112,autocorrelation,concept,PART_OF,Econometric Theory,topic,,,DSBA_6112_triples_raw.json
+DSBA_6112,multicollinearity,concept,PART_OF,Econometric Theory,topic,,,DSBA_6112_triples_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_5010,Spatial Tracking Data Analysis,topic,PREREQUISITE_OF,Case Studies in Advanced Analytics,topic,A taught first,,ITCS_5010_triples_raw.json
+ITCS_5010,Coaching Performance Metrics,topic,PART_OF,Advanced Football Analytics,topic,,,ITCS_5010_triples_raw.json
+ITCS_5010,Case Studies in Advanced Analytics,topic,PART_OF,Advanced Football Analytics,topic,,,ITCS_5010_triples_raw.json

@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_4203,Organizational Culture,topic,PART_OF,Healthcare Systems,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Government Regulations,topic,PART_OF,Healthcare Systems,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Social Factors,topic,PART_OF,Healthcare Systems,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Autonomy,topic,PART_OF,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Communication Styles,topic,PART_OF,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Conflict Resolution,topic,PART_OF,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Job Satisfaction,topic,PART_OF,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Workplace Culture,topic,PART_OF,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Team Building,topic,PART_OF,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Innovation,topic,PART_OF,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,Continuous Improvement,topic,PART_OF,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,self-awareness,concept,USED_FOR,Leadership,topic,,,NURS_4203_triples_raw.json
+NURS_4203,leadership theories and models,concept,USED_FOR,Leadership,topic,,,NURS_4203_triples_raw.json
+NURS_4203,organizational culture and structure,concept,USED_FOR,Healthcare Systems,topic,,,NURS_4203_triples_raw.json
+NURS_4203,economic and social factors,concept,USED_FOR,Healthcare Systems,topic,,,NURS_4203_triples_raw.json
+NURS_4203,communication styles and effectiveness,concept,USED_FOR,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,conflict resolution strategies,concept,USED_FOR,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,job satisfaction and engagement,concept,USED_FOR,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,recognition and reward systems,concept,USED_FOR,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,feedback and coaching techniques,concept,USED_FOR,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,workplace culture and climate,concept,USED_FOR,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,team building and collaboration,concept,USED_FOR,Nurse's Role,topic,,,NURS_4203_triples_raw.json
+NURS_4203,innovation and continuous improvement,concept,USED_FOR,Nurse's Role,topic,,,NURS_4203_triples_raw.json

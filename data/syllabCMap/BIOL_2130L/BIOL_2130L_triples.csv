@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_2130L,molecular markers,method,USED_FOR,human genetic variation,topic,,,BIOL_2130L_triples_raw.json

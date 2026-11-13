@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_4102,topic,Public Health Leadership,Public Health Leadership,1,verified,Public Health Leadership,HLTH_4102_concepts_raw.json
+HLTH_4102,topic,Administrative Infrastructure,administrative infrastructure,1,verified,Administrative Infrastructure,HLTH_4102_concepts_raw.json
+HLTH_4102,topic,Governmental Processes,governmental processes,1,verified,Governmental Processes,HLTH_4102_concepts_raw.json
+HLTH_4102,topic,Leadership Styles,leadership styles,1,verified,Leadership Styles,HLTH_4102_concepts_raw.json
+HLTH_4102,topic,Legislative Processes,Legislative Processes,1,inferred,Legislative Processes,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Transformational Leadership Theories,Transformational Leadership Theories,1,inferred,Transformational Leadership Theories,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Transactional Leadership Models,Transactional Leadership Models,1,inferred,Transactional Leadership Models,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Servant Leadership Principles,Servant Leadership Principles,1,inferred,Servant Leadership Principles,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Collaborative Leadership Approaches,Collaborative Leadership Approaches,1,inferred,Collaborative Leadership Approaches,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Effective Leadership Traits,Effective Leadership Traits,1,inferred,Effective Leadership Traits,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Regulatory Frameworks,Regulatory Frameworks,1,inferred,Regulatory Frameworks,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Lawmaking Procedures,Lawmaking Procedures,1,inferred,Lawmaking Procedures,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Policy Development Process,Policy Development Process,1,inferred,Policy Development Process,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Policy Analysis Techniques,Policy Analysis Techniques,1,inferred,Policy Analysis Techniques,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Program Evaluation Methods,Program Evaluation Methods,1,inferred,Program Evaluation Methods,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Health Policy Formulation,Health Policy Formulation,1,inferred,Health Policy Formulation,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Administrative Support Systems,Administrative Support Systems,1,inferred,Administrative Support Systems,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Health Department Structure,Health Department Structure,1,inferred,Health Department Structure,HLTH_4102_concepts_raw.json
+HLTH_4102,concept,Government Agency Roles,Government Agency Roles,1,inferred,Government Agency Roles,HLTH_4102_concepts_raw.json

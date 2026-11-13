@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSCI_2101L,Leadership Styles,topic,PREREQUISITE_OF,Army Profession,topic,same unit,,MSCI_2101L_triples_raw.json
+MSCI_2101L,Ethics,topic,PREREQUISITE_OF,Values,topic,same unit,,MSCI_2101L_triples_raw.json
+MSCI_2101L,Culture Awareness,topic,PREREQUISITE_OF,Army Profession,topic,same unit,,MSCI_2101L_triples_raw.json

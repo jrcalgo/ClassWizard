@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_7090,Graduate Program Overview,concept,PREREQUISITE_OF,Special Topics Format,concept,same unit,,MEGR_7090_triples_raw.json
+MEGR_7090,Quantitative Research Methods,concept,PREREQUISITE_OF,Article Selection Criteria,concept,A taught first,,MEGR_7090_triples_raw.json
+MEGR_7090,Quantitative Research Methods,concept,PREREQUISITE_OF,Proposal Structure Guidelines,concept,A taught first,,MEGR_7090_triples_raw.json
+MEGR_7090,Quantitative Research Methods,concept,PREREQUISITE_OF,Introduction and Background,concept,A taught first,,MEGR_7090_triples_raw.json
+MEGR_7090,Quantitative Research Methods,concept,PREREQUISITE_OF,Methodology and Analysis,concept,A taught first,,MEGR_7090_triples_raw.json
+MEGR_7090,Qualitative Research Approaches,concept,PREREQUISITE_OF,Literature Synthesis Methods,concept,A taught first,,MEGR_7090_triples_raw.json
+MEGR_7090,Qualitative Research Approaches,concept,PREREQUISITE_OF,Proposal Structure Guidelines,concept,A taught first,,MEGR_7090_triples_raw.json
+MEGR_7090,Qualitative Research Approaches,concept,PREREQUISITE_OF,Introduction and Background,concept,A taught first,,MEGR_7090_triples_raw.json
+MEGR_7090,Qualitative Research Approaches,concept,PREREQUISITE_OF,Methodology and Analysis,concept,A taught first,,MEGR_7090_triples_raw.json
+MEGR_7090,Mixed-Methods Design,concept,PREREQUISITE_OF,Article Selection Criteria,concept,A taught first,,MEGR_7090_triples_raw.json
+MEGR_7090,Search Strategy Development,concept,PART_OF,Quantitative Research Methods,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Article Selection Criteria,concept,PART_OF,Quantitative Research Methods,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Literature Synthesis Methods,concept,PART_OF,Qualitative Research Approaches,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Proposal Structure Guidelines,concept,PART_OF,Mixed-Methods Design,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Introduction and Background,concept,PART_OF,Mixed-Methods Design,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Methodology and Analysis,concept,PART_OF,Mixed-Methods Design,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Survey Design Principles,concept,PART_OF,Quantitative Research Methods,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Interview Techniques and Protocols,concept,PART_OF,Qualitative Research Approaches,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Experimental Design Considerations,concept,PART_OF,Quantitative Research Methods,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Quantitative Data Analysis Software,concept,PART_OF,Quantitative Research Methods,concept,,,MEGR_7090_triples_raw.json
+MEGR_7090,Mixed-Methods Data Integration,concept,PART_OF,Mixed-Methods Design,concept,,,MEGR_7090_triples_raw.json

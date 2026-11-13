@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_7116,topic,calculus-based probability,calculus-based probability,1,verified,calculus-based probability,STAT_7116_concepts_raw.json
+STAT_7116,concept,axioms of probability,axioms of probability,2,verified,axioms of probability,STAT_7116_concepts_raw.json
+STAT_7116,concept,conditional probability,conditional probability,3,verified,conditional probability,STAT_7116_concepts_raw.json
+STAT_7116,concept,discrete and continuous random variables,discrete and continuous random variables,3,verified,discrete and continuous random variables,STAT_7116_concepts_raw.json
+STAT_7116,concept,expectation,expectation,2,verified,expectation,STAT_7116_concepts_raw.json
+STAT_7116,concept,transforms of random variables,transforms of random variables,2,verified,transforms of random variables,STAT_7116_concepts_raw.json
+STAT_7116,concept,multivariate distributions,multivariate distributions,2,verified,multivariate distributions,STAT_7116_concepts_raw.json
+STAT_7116,concept,law of large numbers,law of large numbers,3,verified,law of large numbers,STAT_7116_concepts_raw.json
+STAT_7116,concept,central limit theorem,central limit theorem,3,verified,central limit theorem,STAT_7116_concepts_raw.json
+STAT_7116,concept,asymptotic theory,asymptotic theory,2,verified,asymptotic theory,STAT_7116_concepts_raw.json

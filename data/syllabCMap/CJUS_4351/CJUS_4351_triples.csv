@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4351,Genetic Influences on Crime,concept,PREREQUISITE_OF,Mental Disorder and Crime,concept,same unit,,CJUS_4351_triples_raw.json
+CJUS_4351,Biological Theories of Crime,concept,PREREQUISITE_OF,Psychological Theories of Aggression,concept,same unit,,CJUS_4351_triples_raw.json
+CJUS_4351,Social Learning Theory,concept,PREREQUISITE_OF,Cognitive-Behavioral Theory of Crime,concept,A taught first,,CJUS_4351_triples_raw.json
+CJUS_4351,Social Learning Theory,concept,PREREQUISITE_OF,Social Cognitive Theory of Aggression,concept,A taught first,,CJUS_4351_triples_raw.json
+CJUS_4351,Genetic Influences on Crime,concept,PART_OF,Violent Offenders,topic,,,CJUS_4351_triples_raw.json
+CJUS_4351,Environmental Factors of Violence,concept,PART_OF,Violent Offenders,topic,,,CJUS_4351_triples_raw.json
+CJUS_4351,Biological Theories of Crime,concept,PART_OF,Criminality,topic,,,CJUS_4351_triples_raw.json
+CJUS_4351,Psychological Theories of Aggression,concept,PART_OF,Criminality,topic,,,CJUS_4351_triples_raw.json
+CJUS_4351,Social Learning Theory,concept,PART_OF,Criminality,topic,,,CJUS_4351_triples_raw.json

@@ -1,0 +1,46 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BUSN_1101,topic,business,Business,4,verified,Fundamentals of business,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,Management Information Systems,management information systems,1,verified,Management Information Systems,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,Operations and Supply Chain Management,operations and supply chain management,1,verified,Operations and Supply Chain Management,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,Accounting Fundamentals,Accounting Fundamentals,1,inferred,Accounting Fundamentals,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,Business Analytics Basics,Business Analytics Basics,1,inferred,Business Analytics Basics,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,Economics in Business,Economics in Business,1,inferred,Economics in Business,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,Finance Fundamentals,Finance Fundamentals,1,inferred,Finance Fundamentals,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,International Business Overview,International Business Overview,1,inferred,International Business Overview,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,Management Principles,Management Principles,1,inferred,Management Principles,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,Marketing Fundamentals,Marketing Fundamentals,1,inferred,Marketing Fundamentals,BUSN_1101_concepts_raw.json
+BUSN_1101,topic,Inquiry Process and Goal Setting,Inquiry Process and Goal Setting,1,inferred,Inquiry Process and Goal Setting,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Business Environment Overview,Business Environment Overview,1,inferred,Business Environment Overview,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Career Opportunities in Business,Career Opportunities in Business,1,inferred,Career Opportunities in Business,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Importance of Goal Setting,Importance of Goal Setting,1,inferred,Importance of Goal Setting,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Financial Statements Analysis,Financial Statements Analysis,1,inferred,Financial Statements Analysis,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Accounting Principles and Theories,Accounting Principles and Theories,1,inferred,Accounting Principles and Theories,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Financial Reporting Standards,Financial Reporting Standards,1,inferred,Financial Reporting Standards,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Data Collection and Analysis,Data Collection and Analysis,1,inferred,Data Collection and Analysis,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Statistical Tools for Decision Making,Statistical Tools for Decision Making,1,inferred,Statistical Tools for Decision Making,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Interpreting Business Data Results,Interpreting Business Data Results,1,inferred,Interpreting Business Data Results,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Microeconomics and Macroeconomics,Microeconomics and Macroeconomics,1,inferred,Microeconomics and Macroeconomics,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Supply and Demand Principles,Supply and Demand Principles,1,inferred,Supply and Demand Principles,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Market Structures and Competition,Market Structures and Competition,1,inferred,Market Structures and Competition,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Time Value of Money Concepts,Time Value of Money Concepts,1,inferred,Time Value of Money Concepts,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Financial Statement Analysis Techniques,Financial Statement Analysis Techniques,1,inferred,Financial Statement Analysis Techniques,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Investment Decision Making Process,Investment Decision Making Process,1,inferred,Investment Decision Making Process,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Globalization and Trade Agreements,Globalization and Trade Agreements,1,inferred,Globalization and Trade Agreements,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Cultural Differences in Business,Cultural Differences in Business,1,inferred,Cultural Differences in Business,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,International Marketing Strategies,International Marketing Strategies,1,inferred,International Marketing Strategies,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Leadership Styles and Theories,Leadership Styles and Theories,1,inferred,Leadership Styles and Theories,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Motivation and Employee Engagement,Motivation and Employee Engagement,1,inferred,Motivation and Employee Engagement,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Organizational Structure and Design,Organizational Structure and Design,1,inferred,Organizational Structure and Design,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Database Management System Basics,Database Management System Basics,1,inferred,Database Management System Basics,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Enterprise Resource Planning Software,Enterprise Resource Planning Software,1,inferred,Enterprise Resource Planning Software,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Business Intelligence Tools and Techniques,Business Intelligence Tools and Techniques,1,inferred,Business Intelligence Tools and Techniques,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Market Research and Analysis Methods,Market Research and Analysis Methods,1,inferred,Market Research and Analysis Methods,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Segmentation,Segmentation,1,inferred,"Segmentation, Targeting, Positioning Strategies",BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Targeting,Targeting,1,inferred,"Segmentation, Targeting, Positioning Strategies",BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Positioning Strategies,Positioning Strategies,1,inferred,"Segmentation, Targeting, Positioning Strategies",BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Branding and Advertising Principles,Branding and Advertising Principles,1,inferred,Branding and Advertising Principles,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Supply Chain Network Design and Optimization,Supply Chain Network Design and Optimization,1,inferred,Supply Chain Network Design and Optimization,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Inventory Management and Control Systems,Inventory Management and Control Systems,1,inferred,Inventory Management and Control Systems,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Logistics and Transportation Planning,Logistics and Transportation Planning,1,inferred,Logistics and Transportation Planning,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Open-Ended Inquiry Process Overview,Open-Ended Inquiry Process Overview,1,inferred,Open-Ended Inquiry Process Overview,BUSN_1101_concepts_raw.json
+BUSN_1101,concept,Goal Setting Strategies and Techniques,Goal Setting Strategies and Techniques,1,inferred,Goal Setting Strategies and Techniques,BUSN_1101_concepts_raw.json

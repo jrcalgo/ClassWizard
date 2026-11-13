@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_2102,Tensile Stress,concept,SUBTYPE_OF,Normal Stress,concept,,,ETGR_2102_triples_raw.json
+ETGR_2102,Compressive Stress,concept,SUBTYPE_OF,Normal Stress,concept,,,ETGR_2102_triples_raw.json
+ETGR_2102,Plane Stress,concept,SUBTYPE_OF,Normal Stress,concept,,,ETGR_2102_triples_raw.json
+ETGR_2102,Principal Stresses,concept,SUBTYPE_OF,Normal Stress,concept,,,ETGR_2102_triples_raw.json
+ETGR_2102,Maximum Shear Stress,concept,SUBTYPE_OF,Shear Stress,concept,,,ETGR_2102_triples_raw.json
+ETGR_2102,Tangential Stress,concept,SUBTYPE_OF,Shear Stress,concept,,,ETGR_2102_triples_raw.json
+ETGR_2102,Circumferential Stress,concept,SUBTYPE_OF,Shear Stress,concept,,,ETGR_2102_triples_raw.json

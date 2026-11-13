@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_2122,topic,Probability and Statistics for Engineering and Science,Probability and Statistics for Engineering and Science,1,verified,Probability and Statistics for Engineering and Science,STAT_2122_concepts_raw.json
+STAT_2122,topic,Chapter One,Chapter One,1,verified,Chapter One,STAT_2122_concepts_raw.json
+STAT_2122,topic,Basic Terminology,Basic Terminology,1,verified,Basic Terminology,STAT_2122_concepts_raw.json
+STAT_2122,topic,Descriptive Statistics,Descriptive Statistics,2,verified,Descriptive Statistics,STAT_2122_concepts_raw.json
+STAT_2122,topic,Regression and Correlation,Regression and Correlation,1,verified,Regression and Correlation,STAT_2122_concepts_raw.json
+STAT_2122,concept,population,Population,3,verified,population,STAT_2122_concepts_raw.json
+STAT_2122,concept,sample,Samples,1,verified,sample,STAT_2122_concepts_raw.json
+STAT_2122,concept,variable,variables,1,verified,variable,STAT_2122_concepts_raw.json
+STAT_2122,concept,parameter,parameter,1,verified,parameter,STAT_2122_concepts_raw.json
+STAT_2122,concept,statistic,Statistics,7,verified,statistic,STAT_2122_concepts_raw.json
+STAT_2122,concept,data types (qualitative and quantitative,data types (qualitative and quantitative,1,verified,data types (qualitative and quantitative),STAT_2122_concepts_raw.json
+STAT_2122,concept,measures of central tendency,measures of central tendency,1,verified,measures of central tendency,STAT_2122_concepts_raw.json
+STAT_2122,concept,mean,mean,1,verified,mean,STAT_2122_concepts_raw.json
+STAT_2122,concept,median,median,1,verified,median,STAT_2122_concepts_raw.json
+STAT_2122,concept,mode,mode,1,verified,mode,STAT_2122_concepts_raw.json
+STAT_2122,concept,graphical representations,graphical representations,1,verified,graphical representations,STAT_2122_concepts_raw.json
+STAT_2122,concept,histograms,histograms,1,verified,histograms,STAT_2122_concepts_raw.json
+STAT_2122,concept,bar charts,bar charts,1,verified,bar charts,STAT_2122_concepts_raw.json
+STAT_2122,concept,box plots,box plots,1,verified,box plots,STAT_2122_concepts_raw.json
+STAT_2122,concept,measures of dispersion,measures of dispersion,1,verified,measures of dispersion,STAT_2122_concepts_raw.json
+STAT_2122,concept,range,range,1,verified,range,STAT_2122_concepts_raw.json
+STAT_2122,concept,variance,variance,1,verified,variance,STAT_2122_concepts_raw.json
+STAT_2122,concept,standard deviation,standard deviation,1,verified,standard deviation,STAT_2122_concepts_raw.json
+STAT_2122,concept,dependent events,dependent events,1,verified,dependent events,STAT_2122_concepts_raw.json
+STAT_2122,concept,conditional probability,Conditional probability,1,verified,conditional probability,STAT_2122_concepts_raw.json
+STAT_2122,concept,Bayes' theorem,Bayes' theorem,1,verified,Bayes' theorem,STAT_2122_concepts_raw.json
+STAT_2122,concept,probability distributions,probability distributions,1,verified,probability distributions,STAT_2122_concepts_raw.json
+STAT_2122,concept,random sampling,random sampling,1,verified,random sampling,STAT_2122_concepts_raw.json
+STAT_2122,concept,hypothesis testing,hypothesis testing,1,verified,hypothesis testing,STAT_2122_concepts_raw.json
+STAT_2122,concept,confidence intervals,confidence intervals,1,verified,confidence intervals,STAT_2122_concepts_raw.json
+STAT_2122,concept,p-values,p-values,1,verified,p-values,STAT_2122_concepts_raw.json
+STAT_2122,concept,simple linear regression,simple linear regression,1,verified,simple linear regression,STAT_2122_concepts_raw.json

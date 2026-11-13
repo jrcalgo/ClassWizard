@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDUC_4290,Classwide Positive Behavior,topic,PREREQUISITE_OF,proactive classroom management,concept,same unit,,EDUC_4290_triples_raw.json
+EDUC_4290,culturally responsive teaching,concept,PREREQUISITE_OF,meaningful participation strategies,concept,A taught first,,EDUC_4290_triples_raw.json
+EDUC_4290,universal design for learning,concept,PART_OF,Classwide Positive Behavior,topic,,,EDUC_4290_triples_raw.json
+EDUC_4290,tiered instructional supports,method,PART_OF,Multi-Tiered Systems of Support,topic,,,EDUC_4290_triples_raw.json
+EDUC_4290,proactive classroom management,concept,PART_OF,Classwide Positive Behavior,topic,,,EDUC_4290_triples_raw.json
+EDUC_4290,universal design for learning,concept,PART_OF,Diverse Learner Needs,topic,,,EDUC_4290_triples_raw.json
+EDUC_4290,inclusive classrooms strategies,concept,PART_OF,Inclusion of Students With Varied Learning Needs,topic,,,EDUC_4290_triples_raw.json
+EDUC_4290,culturally responsive teaching,concept,PART_OF,Diverse Learner Needs,topic,,,EDUC_4290_triples_raw.json
+EDUC_4290,universal design for learning,concept,SUBTYPE_OF,multiple means of action and expression,concept,,,EDUC_4290_triples_raw.json
+EDUC_4290,classroom observation,method,USED_FOR,lesson plan evaluations,method,,,EDUC_4290_triples_raw.json
+EDUC_4290,research,method,USED_FOR,lesson plan evaluations,method,,,EDUC_4290_triples_raw.json
+EDUC_4290,tiered instructional supports,method,USED_FOR,universal design for learning,concept,,,EDUC_4290_triples_raw.json

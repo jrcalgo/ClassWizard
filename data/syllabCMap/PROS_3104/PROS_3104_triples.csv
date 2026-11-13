@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_3104,Agile methodology overview,concept,PART_OF,Agile methodology,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Benefits of agile adoption,concept,PART_OF,Agile methodology,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Scrum roles and responsibilities,concept,PART_OF,Scrum framework,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Sprint planning process steps,concept,PART_OF,Scrum framework,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Empathy mapping techniques,concept,PART_OF,User-Centered Design Principles,topic,,,PROS_3104_triples_raw.json
+PROS_3104,User story creation guidelines,concept,PART_OF,User-Centered Design Principles,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Sprint backlog prioritization,concept,PART_OF,Agile project management,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Release planning process steps,concept,PART_OF,Agile project planning,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Sprint goal setting guidelines,concept,PART_OF,Agile project planning,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Team collaboration strategies,concept,PART_OF,Agile team dynamics,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Conflict resolution techniques,concept,PART_OF,Agile team dynamics,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Burndown chart interpretation,concept,PART_OF,Agile project monitoring,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Velocity calculation formulas,concept,PART_OF,Agile project monitoring,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Daily Scrum meeting objectives,concept,USED_FOR,Agile project management,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Release planning process steps,concept,USED_FOR,Agile project planning,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Team collaboration strategies,concept,USED_FOR,Agile team dynamics,topic,,,PROS_3104_triples_raw.json
+PROS_3104,Conflict resolution techniques,concept,USED_FOR,Agile team dynamics,topic,,,PROS_3104_triples_raw.json

@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LANG_1502,History of horror cinema,concept,PREREQUISITE_OF,Genre studies,topic,same unit,,LANG_1502_triples_raw.json
+LANG_1502,History of horror cinema,concept,PREREQUISITE_OF,Silent Era Horror Films,topic,A taught first,,LANG_1502_triples_raw.json
+LANG_1502,Silent Era Horror Films,topic,PREREQUISITE_OF,Asian Horror Cinema,topic,A taught first,,LANG_1502_triples_raw.json
+LANG_1502,History of horror cinema,concept,PART_OF,Global Arts/Humanities,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Film analysis basics,concept,PART_OF,Global Arts/Humanities,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Importance of genre studies,concept,PART_OF,Global Arts/Humanities,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Early film techniques,concept,PART_OF,Silent Era Horror Films,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Expressionism in film,concept,PART_OF,Silent Era Horror Films,topic,,,LANG_1502_triples_raw.json
+LANG_1502,German Expressionist Cinema,concept,PART_OF,Silent Era Horror Films,topic,,,LANG_1502_triples_raw.json
+LANG_1502,French New Wave horror,concept,PART_OF,European Horror Cinema,topic,,,LANG_1502_triples_raw.json
+LANG_1502,British Hammer Films style,concept,PART_OF,European Horror Cinema,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Japanese horror film tropes,concept,PART_OF,Asian Horror Cinema,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Korean horror cinema trends,concept,PART_OF,Asian Horror Cinema,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Chinese horror film history,concept,PART_OF,Asian Horror Cinema,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Hollywood horror film industry,concept,PART_OF,American Horror Cinema,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Classic American horror films,concept,PART_OF,American Horror Cinema,topic,,,LANG_1502_triples_raw.json
+LANG_1502,Film analysis basics,concept,USED_FOR,Global Horror Cinema,topic,,,LANG_1502_triples_raw.json

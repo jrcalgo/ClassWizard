@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_4142,Probability Theory Basics,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Risk Assessment Fundamentals,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Data Mining Techniques,concept,PART_OF,Data Surveillance,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Surveillance System Design,concept,PART_OF,Data Surveillance,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Alternative Hypothesis Formulation,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Decision Tree Analysis Methods,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Cognitive Biases in Decision Making,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Bias Mitigation Strategies,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Risk Dependency Graphs,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Network Analysis Techniques,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Threat Aggregation Methods,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Uncertainty Quantification,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Risk Aggregation Models,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Probability Distribution Modeling,concept,PART_OF,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Data Mining Techniques,concept,USED_FOR,Data Surveillance,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Surveillance System Design,concept,USED_FOR,Data Surveillance,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Alternative Hypothesis Formulation,concept,USED_FOR,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Decision Tree Analysis Methods,concept,USED_FOR,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Cognitive Biases in Decision Making,concept,USED_FOR,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json
+SEGR_4142,Bias Mitigation Strategies,concept,USED_FOR,Bayesian Analysis,topic,,,SEGR_4142_triples_raw.json

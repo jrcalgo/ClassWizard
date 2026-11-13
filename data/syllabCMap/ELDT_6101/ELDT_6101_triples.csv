@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_6101,Learning Principles,topic,PREREQUISITE_OF,Instructional Design,topic,A mentioned first,,ELDT_6101_triples_raw.json
+ELDT_6101,Technology,topic,PREREQUISITE_OF,Pedagogical Approaches,topic,B mentioned first,,ELDT_6101_triples_raw.json
+ELDT_6101,Andragogy,topic,PREREQUISITE_OF,Learner Characteristics,topic,B taught first,B is taught before A - check,ELDT_6101_triples_raw.json
+ELDT_6101,Instructional Settings Variety,topic,PREREQUISITE_OF,Engagement Theories,topic,A taught first,,ELDT_6101_triples_raw.json
+ELDT_6101,Behaviorist Learning Theory,topic,PREREQUISITE_OF,Cognitivist Learning Theory,topic,same unit,,ELDT_6101_triples_raw.json
+ELDT_6101,Cognitivist Learning Theory,topic,PREREQUISITE_OF,Constructivist Learning Theory,topic,same unit,,ELDT_6101_triples_raw.json
+ELDT_6101,Adult Learning Principles,concept,PART_OF,Andragogy,topic,,,ELDT_6101_triples_raw.json
+ELDT_6101,Childhood Learning Theories,concept,PART_OF,Pedagogical Approaches,topic,,,ELDT_6101_triples_raw.json
+ELDT_6101,Intrinsic vs Extrinsic Motivation,concept,PART_OF,Engagement Theories Overview,concept,,,ELDT_6101_triples_raw.json
+ELDT_6101,Behaviorist Learning Theory Application,concept,PART_OF,Cognitivist Learning Theory Application,concept,,,ELDT_6101_triples_raw.json
+ELDT_6101,Cognitivist Learning Theory Application,concept,PART_OF,Constructivist Learning Theory Application,concept,,,ELDT_6101_triples_raw.json

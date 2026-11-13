@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3225,reinforced concrete basics,concept,PART_OF,Reinforced Concrete Design I,topic,,,CEGR_3225_triples_raw.json
+CEGR_3225,ACI 318 code overview,concept,PART_OF,Reinforced Concrete Design I,topic,,,CEGR_3225_triples_raw.json
+CEGR_3225,design process fundamentals,concept,PART_OF,Reinforced Concrete Design I,topic,,,CEGR_3225_triples_raw.json
+CEGR_3225,singly reinforced beam analysis,concept,PART_OF,Flexural Behavior of Beams,topic,,,CEGR_3225_triples_raw.json
+CEGR_3225,doubly reinforced beam design,concept,PART_OF,Flexural Behavior of Beams,topic,,,CEGR_3225_triples_raw.json
+CEGR_3225,rectangular and T-beam mechanics,concept,PART_OF,Flexural Behavior of Beams,topic,,,CEGR_3225_triples_raw.json
+CEGR_3225,rebar spacing and cover rules,concept,PART_OF,Reinforcing Steel Development,topic,,,CEGR_3225_triples_raw.json
+CEGR_3225,uniaxial and biaxial bending analysis,concept,PART_OF,Short Column Design,topic,,,CEGR_3225_triples_raw.json
+CEGR_3225,axial load and moment capacity,concept,PART_OF,Short Column Design,topic,,,CEGR_3225_triples_raw.json

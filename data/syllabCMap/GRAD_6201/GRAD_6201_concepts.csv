@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GRAD_6201,concept,Student Needs Assessment,Student Needs Assessment,86,verified,Student Needs Assessment,GRAD_6201_concepts_raw.json
+GRAD_6201,concept,Theories of Learning Motivation,Theories of Learning Motivation,84,verified,Theories of Learning Motivation,GRAD_6201_concepts_raw.json
+GRAD_6201,concept,Mental Health in Students,Mental Health in Students,69,verified,Mental Health in Students,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Academic Integrity Policies,Academic Integrity Policies,73,verified,Academic Integrity Policies,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Technology Tools for Teaching,Technology Tools for Teaching,72,verified,Technology Tools for Teaching,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Assessment and Grading Strategies,Assessment and Grading Strategies,56,verified,Assessment and Grading Strategies,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Active learning techniques,Active Learning Techniques,63,verified,Active learning techniques,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Critical Thinking Methods,Critical Thinking Methods,52,verified,Critical Thinking Methods,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Active Learning Strategies,Active learning strategies,3,verified,Active Learning Strategies,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Critical Thinking Techniques,Critical thinking techniques,2,verified,Critical Thinking Techniques,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Incorporating Technology Tools,Incorporating Technology Tools,1,verified,Incorporating Technology Tools,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Assessment Methods Comparison,Assessment Methods Comparison,3,verified,Assessment Methods Comparison,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Grading Rubrics Development,Grading Rubrics Development,1,verified,Grading Rubrics Development,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Copilot/AI in teaching,Copilot/AI in teaching,1,verified,Copilot/AI in teaching,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Time management strategies,Time management strategies,1,verified,Time management strategies,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Enhancing student learning,Enhancing student learning,1,verified,Enhancing student learning,GRAD_6201_concepts_raw.json
+GRAD_6201,method,AI-assisted grading,AI-assisted grading,3,verified,AI-assisted grading,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Backward Course Design,Backward course design,2,verified,Backward Course Design,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Teaching Philosophy Statement,teaching philosophy statements,1,verified,Teaching Philosophy Statement,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Student Needs Theories,Student Needs Theories,4,verified,Student Needs Theories,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Learning Motivation Theories,Learning Motivation Theories,4,verified,Learning Motivation Theories,GRAD_6201_concepts_raw.json
+GRAD_6201,method,Mental Health Awareness,Mental Health Awareness,13,verified,Mental Health Awareness,GRAD_6201_concepts_raw.json
+GRAD_6201,tool,Copilot/AI,Copilot/AI,2,verified,Copilot/AI,GRAD_6201_concepts_raw.json
+GRAD_6201,tool,Bloom's Taxonomy,Bloom's taxonomy,2,verified,Bloom's Taxonomy,GRAD_6201_concepts_raw.json
+GRAD_6201,tool,Paul and Elder's Framework,Paul and Elder's framework,2,verified,Paul and Elder's Framework,GRAD_6201_concepts_raw.json

@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+COSC_1600,topic,Personal and Professional Development,personal and professional development,1,verified,Personal and Professional Development,COSC_1600_concepts_raw.json
+COSC_1600,topic,Project-Based Learning,project-based learning,1,verified,Project-Based Learning,COSC_1600_concepts_raw.json
+COSC_1600,topic,Community Engagement,Community Engagement,1,inferred,Community Engagement,COSC_1600_concepts_raw.json
+COSC_1600,topic,Symposium Preparation,Symposium Preparation,1,inferred,Symposium Preparation,COSC_1600_concepts_raw.json
+COSC_1600,topic,Campus Involvement,Campus Involvement,1,inferred,Campus Involvement,COSC_1600_concepts_raw.json

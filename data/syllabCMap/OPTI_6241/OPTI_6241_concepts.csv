@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPTI_6241,topic,Optical System Function and Design,Optical System Function and Design,1,verified,Optical System Function and Design,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Geometrical Ray-Tracing Methods,geometrical ray-tracing methods,1,verified,Geometrical Ray-Tracing Methods,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Telescope Optical Systems,Telescope Optical Systems,1,inferred,Telescope Optical Systems,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Aperture and Stop Design,Aperture and Stop Design,1,inferred,Aperture and Stop Design,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Image Formation in Telescopes,Image Formation in Telescopes,1,inferred,Image Formation in Telescopes,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Microscope Optical System Design,Microscope Optical System Design,1,inferred,Microscope Optical System Design,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Resolution and Magnification Limits,Resolution and Magnification Limits,1,inferred,Resolution and Magnification Limits,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Aberration Correction Methods,Aberration Correction Methods,1,inferred,Aberration Correction Methods,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Camera Lens System Design,Camera Lens System Design,1,inferred,Camera Lens System Design,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Image Quality Metrics and Optimization,Image Quality Metrics and Optimization,1,inferred,Image Quality Metrics and Optimization,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Lens Aberrations and Corrections,Lens Aberrations and Corrections,1,inferred,Lens Aberrations and Corrections,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Off-Axis Optical Systems Design,Off-Axis Optical Systems Design,1,inferred,Off-Axis Optical Systems Design,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Asymmetric Optical Components,Asymmetric Optical Components,1,inferred,Asymmetric Optical Components,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Distortion Correction Methods,Distortion Correction Methods,1,inferred,Distortion Correction Methods,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Multi-Lens System Design Principles,Multi-Lens System Design Principles,1,inferred,Multi-Lens System Design Principles,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Lens Combinations and Configurations,Lens Combinations and Configurations,1,inferred,Lens Combinations and Configurations,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,System Optimization Techniques,System Optimization Techniques,1,inferred,System Optimization Techniques,OPTI_6241_concepts_raw.json
+OPTI_6241,topic,Zemax Software and Applications,Zemax Software and Applications,1,inferred,Zemax Software and Applications,OPTI_6241_concepts_raw.json
+OPTI_6241,topic,Optical Design Code Selection Criteria,Optical Design Code Selection Criteria,1,inferred,Optical Design Code Selection Criteria,OPTI_6241_concepts_raw.json
+OPTI_6241,topic,Code-Driven Optical System Design,Code-Driven Optical System Design,1,inferred,Code-Driven Optical System Design,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Optical System Design Principles,Optical System Design Principles,1,inferred,Optical System Design Principles,OPTI_6241_concepts_raw.json
+OPTI_6241,concept,Zemax Software,Zemax Software,1,inferred,Zemax Software,OPTI_6241_concepts_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUED_3270,Philosophies of Discipline,topic,PREREQUISITE_OF,Behavior Modification Techniques,topic,A taught first,,MUED_3270_triples_raw.json
+MUED_3270,Behavior Modification Techniques,topic,PREREQUISITE_OF,Self-Behavioral Modification through Data Collection,topic,A taught first,,MUED_3270_triples_raw.json
+MUED_3270,Clinical experiences observing and working with students,method,USED_FOR,Self-Behavioral Modification through Data Collection,topic,,,MUED_3270_triples_raw.json
+MUED_3270,Clinical experiences observing and working with students,method,USED_FOR,Behavior Modification Techniques,topic,,,MUED_3270_triples_raw.json
+MUED_3270,Clinical experiences observing and working with students,method,USED_FOR,Research in Music Assessment and Discipline,topic,,,MUED_3270_triples_raw.json

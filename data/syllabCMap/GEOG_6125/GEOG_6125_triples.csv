@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_6125,spatial interpolation,topic,PREREQUISITE_OF,spatial and space-time clustering,topic,B taught first,B is taught before A - check,GEOG_6125_triples_raw.json
+GEOG_6125,overlay operations,topic,PREREQUISITE_OF,network analysis,topic,same unit,,GEOG_6125_triples_raw.json
+GEOG_6125,geocoding,concept,PREREQUISITE_OF,data acquisition,topic,same unit,,GEOG_6125_triples_raw.json
+GEOG_6125,Volunteered Geographic Information,concept,PREREQUISITE_OF,data acquisition,topic,same unit,,GEOG_6125_triples_raw.json
+GEOG_6125,GPS,concept,PREREQUISITE_OF,data acquisition,topic,same unit,,GEOG_6125_triples_raw.json
+GEOG_6125,coordinate systems,concept,PREREQUISITE_OF,projection,topic,same unit,,GEOG_6125_triples_raw.json
+GEOG_6125,spatial join,concept,PART_OF,overlay operations,topic,,,GEOG_6125_triples_raw.json
+GEOG_6125,geocoding,concept,PART_OF,data acquisition,topic,,,GEOG_6125_triples_raw.json
+GEOG_6125,Volunteered Geographic Information,concept,PART_OF,data acquisition,topic,,,GEOG_6125_triples_raw.json
+GEOG_6125,GPS,concept,PART_OF,data acquisition,topic,,,GEOG_6125_triples_raw.json
+GEOG_6125,geomasking,concept,PART_OF,spatial data manipulation and protection,topic,,,GEOG_6125_triples_raw.json
+GEOG_6125,aggregation,concept,PART_OF,spatial data manipulation and protection,topic,,,GEOG_6125_triples_raw.json
+GEOG_6125,analytical steps,method,PART_OF,network analysis,topic,,,GEOG_6125_triples_raw.json
+GEOG_6125,GIS analyses,method,PART_OF,models,method,,,GEOG_6125_triples_raw.json
+GEOG_6125,coordinate systems,concept,USED_FOR,projection,topic,,,GEOG_6125_triples_raw.json
+GEOG_6125,attribute data,concept,USED_FOR,overlay operations,topic,,,GEOG_6125_triples_raw.json

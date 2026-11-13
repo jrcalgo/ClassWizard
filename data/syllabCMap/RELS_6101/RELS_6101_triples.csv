@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_6101,Philosophical Thought History,concept,PREREQUISITE_OF,Epistemology and Knowledge Theories,concept,same unit,,RELS_6101_triples_raw.json

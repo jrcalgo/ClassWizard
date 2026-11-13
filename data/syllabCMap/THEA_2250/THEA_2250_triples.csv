@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_2250,Designing with Light Principles,concept,PREREQUISITE_OF,Lighting Design Theory Basics,concept,same unit,,THEA_2250_triples_raw.json
+THEA_2250,Designing with Light Principles,concept,PREREQUISITE_OF,Cultural Influences on Lighting Design,concept,A taught first,,THEA_2250_triples_raw.json
+THEA_2250,Designing with Light Principles,concept,PREREQUISITE_OF,Analyzing Socio-Political Contexts in Theatre,concept,A taught first,,THEA_2250_triples_raw.json
+THEA_2250,Lighting Design Theory Basics,concept,PART_OF,Seeing Light,topic,,,THEA_2250_triples_raw.json
+THEA_2250,Designing with Light Principles,concept,PART_OF,Seeing Light,topic,,,THEA_2250_triples_raw.json
+THEA_2250,Opera Overview,concept,PART_OF,Seeing Light,topic,,,THEA_2250_triples_raw.json
+THEA_2250,Analyzing Socio-Political Contexts in Theatre,concept,PART_OF,Historical and Cultural Contexts,topic,,,THEA_2250_triples_raw.json
+THEA_2250,Developing a Production Schedule and Budget,concept,PART_OF,Production Planning and Execution,topic,,,THEA_2250_triples_raw.json
+THEA_2250,Troubleshooting Common Lighting Issues,concept,PART_OF,Production Planning and Execution,topic,,,THEA_2250_triples_raw.json
+THEA_2250,Identifying Transferable Skills in Lighting Design,concept,PART_OF,Transferable Skills and Career Development,topic,,,THEA_2250_triples_raw.json
+THEA_2250,Developing a Professional Portfolio and Resume,concept,PART_OF,Transferable Skills and Career Development,topic,,,THEA_2250_triples_raw.json
+THEA_2250,Networking and Building Industry Connections,concept,PART_OF,Transferable Skills and Career Development,topic,,,THEA_2250_triples_raw.json
+THEA_2250,Designing with Light,tool,USED_FOR,Lighting Design Theory Basics,concept,,,THEA_2250_triples_raw.json

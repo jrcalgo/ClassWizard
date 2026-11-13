@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GERM_2201,topic,German Education System,German education system,1,verified,German Education System,GERM_2201_concepts_raw.json
+GERM_2201,topic,Wellbeing in German,wellbeing in German,1,verified,Wellbeing in German,GERM_2201_concepts_raw.json
+GERM_2201,topic,Listening Comprehension,listening comprehension,1,verified,Listening Comprehension,GERM_2201_concepts_raw.json
+GERM_2201,method,communicative approach,communicative approach,1,verified,communicative approach,GERM_2201_concepts_raw.json
+GERM_2201,method,reading,reading,1,verified,reading,GERM_2201_concepts_raw.json
+GERM_2201,method,writing,writing,5,verified,writing,GERM_2201_concepts_raw.json
+GERM_2201,method,listening,listening,2,verified,listening,GERM_2201_concepts_raw.json
+GERM_2201,method,speaking,speaking,3,verified,speaking,GERM_2201_concepts_raw.json

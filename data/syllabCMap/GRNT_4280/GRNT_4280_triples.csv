@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_4280,Alzheimer's disease,concept,PREREQUISITE_OF,Dementia types,concept,same unit,,GRNT_4280_triples_raw.json
+GRNT_4280,Biological aspects,concept,PREREQUISITE_OF,Neurological basis,concept,same unit,,GRNT_4280_triples_raw.json
+GRNT_4280,Neurodegenerative processes,concept,PREREQUISITE_OF,Cognitive decline symptoms,concept,A taught first,,GRNT_4280_triples_raw.json
+GRNT_4280,Dementia types classification,concept,PREREQUISITE_OF,Biological markers presence,concept,same unit,,GRNT_4280_triples_raw.json
+GRNT_4280,Caregiver Burden,concept,PREREQUISITE_OF,Emotional Impact,concept,A taught first,,GRNT_4280_triples_raw.json
+GRNT_4280,Alzheimer's disease,concept,SUBTYPE_OF,Dementia types,concept,,,GRNT_4280_triples_raw.json
+GRNT_4280,Synaptic loss mechanisms,concept,SUBTYPE_OF,Neurodegenerative processes,concept,,,GRNT_4280_triples_raw.json

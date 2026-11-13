@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_3134,Historical role of religion in America,concept,PREREQUISITE_OF,Judaism in modern America,concept,A taught first,,RELS_3134_triples_raw.json
+RELS_3134,Christianity in American society,concept,PART_OF,Major World Religions in America,topic,,,RELS_3134_triples_raw.json
+RELS_3134,Judaism in modern America,concept,PART_OF,Major World Religions in America,topic,,,RELS_3134_triples_raw.json
+RELS_3134,Buddhism in contemporary culture,concept,PART_OF,Major World Religions in America,topic,,,RELS_3134_triples_raw.json
+RELS_3134,Faith-based social services,concept,PART_OF,Religion and Community Life,topic,,,RELS_3134_triples_raw.json
+RELS_3134,Community norms and values,concept,PART_OF,Local Structures and Cultural Traditions,topic,,,RELS_3134_triples_raw.json
+RELS_3134,Christianity in American society,concept,USED_FOR,Major World Religions in America,topic,,,RELS_3134_triples_raw.json
+RELS_3134,Islam in the United States,concept,USED_FOR,Major World Religions in America,topic,,,RELS_3134_triples_raw.json
+RELS_3134,Judaism in modern America,concept,USED_FOR,Major World Religions in America,topic,,,RELS_3134_triples_raw.json
+RELS_3134,Buddhism in contemporary culture,concept,USED_FOR,Major World Religions in America,topic,,,RELS_3134_triples_raw.json

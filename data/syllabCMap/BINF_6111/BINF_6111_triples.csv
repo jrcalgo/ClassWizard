@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_6111,variables,concept,PREREQUISITE_OF,data types,concept,same unit,,BINF_6111_triples_raw.json
+BINF_6111,variables,concept,PREREQUISITE_OF,expressions,concept,same unit,,BINF_6111_triples_raw.json
+BINF_6111,control structures,concept,PREREQUISITE_OF,functions,concept,A taught first,,BINF_6111_triples_raw.json
+BINF_6111,file input and output,concept,PREREQUISITE_OF,arrays,concept,B mentioned first,,BINF_6111_triples_raw.json
+BINF_6111,pseudocode,concept,PREREQUISITE_OF,flowcharts,concept,A mentioned first,,BINF_6111_triples_raw.json
+BINF_6111,problem decomposition,concept,PREREQUISITE_OF,algorithm development,method,same unit,,BINF_6111_triples_raw.json
+BINF_6111,variables,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,data types,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,expressions,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,control structures,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,functions,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,file input and output,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,arrays,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,pseudocode,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,flowcharts,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,procedural programming,concept,PART_OF,Foundations of Programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,procedural programming,concept,SUBTYPE_OF,computer programming,topic,,,BINF_6111_triples_raw.json
+BINF_6111,Python,tool,USED_FOR,computational thinking and problem-solving using Python,topic,,,BINF_6111_triples_raw.json

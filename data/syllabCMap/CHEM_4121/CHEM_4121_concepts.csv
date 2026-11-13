@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_4121,topic,Advanced Inorganic Chemistry,Advanced Inorganic Chemistry,1,verified,Advanced Inorganic Chemistry,CHEM_4121_concepts_raw.json
+CHEM_4121,topic,Atomic Structure Review,Atomic Structure Review,1,inferred,Atomic Structure Review,CHEM_4121_concepts_raw.json
+CHEM_4121,topic,Chemical Bonding Fundamentals,Chemical Bonding Fundamentals,1,inferred,Chemical Bonding Fundamentals,CHEM_4121_concepts_raw.json
+CHEM_4121,topic,Main Group Elements Survey,Main Group Elements Survey,1,inferred,Main Group Elements Survey,CHEM_4121_concepts_raw.json
+CHEM_4121,topic,Transition Metal Chemistry,Transition Metal Chemistry,1,inferred,Transition Metal Chemistry,CHEM_4121_concepts_raw.json
+CHEM_4121,topic,Organometallic Chemistry Basics,Organometallic Chemistry Basics,1,inferred,Organometallic Chemistry Basics,CHEM_4121_concepts_raw.json
+CHEM_4121,topic,Inorganic Synthesis Techniques,Inorganic Synthesis Techniques,1,inferred,Inorganic Synthesis Techniques,CHEM_4121_concepts_raw.json
+CHEM_4121,topic,Instrumental Analysis Techniques,Instrumental Analysis Techniques,1,inferred,Instrumental Analysis Techniques,CHEM_4121_concepts_raw.json
+CHEM_4121,topic,Industrial Processes and Applications,Industrial Processes and Applications,1,inferred,Industrial Processes and Applications,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Electron Configuration Basics,Electron Configuration Basics,1,inferred,Electron Configuration Basics,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Atomic Orbitals and Shapes,Atomic Orbitals and Shapes,1,inferred,Atomic Orbitals and Shapes,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Quantum Numbers and Rules,Quantum Numbers and Rules,1,inferred,Quantum Numbers and Rules,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Ionic Bonding and Electrostatics,Ionic Bonding and Electrostatics,1,inferred,Ionic Bonding and Electrostatics,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Covalent Bonding and Molecular Geometry,Covalent Bonding and Molecular Geometry,1,inferred,Covalent Bonding and Molecular Geometry,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Metallic Bonding and Conductivity,Metallic Bonding and Conductivity,1,inferred,Metallic Bonding and Conductivity,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Group 1-2 Element Properties,Group 1-2 Element Properties,1,inferred,Group 1-2 Element Properties,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Group 13-14 Element Chemistry,Group 13-14 Element Chemistry,1,inferred,Group 13-14 Element Chemistry,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Halogens and Noble Gases,Halogens and Noble Gases,1,inferred,Halogens and Noble Gases,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,d-Orbital Hybridization and Geometry,d-Orbital Hybridization and Geometry,1,inferred,d-Orbital Hybridization and Geometry,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Crystal Field Theory and Ligand Fields,Crystal Field Theory and Ligand Fields,1,inferred,Crystal Field Theory and Ligand Fields,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Coordination Numbers and Geometries,Coordination Numbers and Geometries,1,inferred,Coordination Numbers and Geometries,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Metal-Carbon Bonding and Stability,Metal-Carbon Bonding and Stability,1,inferred,Metal-Carbon Bonding and Stability,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Organometallic Compounds and Reactions,Organometallic Compounds and Reactions,1,inferred,Organometallic Compounds and Reactions,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Catalysis and Applications,Catalysis and Applications,1,inferred,Catalysis and Applications,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Sol-Gel Processing and Methods,Sol-Gel Processing and Methods,1,inferred,Sol-Gel Processing and Methods,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Precipitation and Crystallization,Precipitation and Crystallization,1,inferred,Precipitation and Crystallization,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,High-Temperature Synthesis,High-Temperature Synthesis,1,inferred,High-Temperature Synthesis,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,IR,IR,1,inferred,"IR, NMR, and MS Spectroscopy",CHEM_4121_concepts_raw.json
+CHEM_4121,concept,NMR,NMR,1,inferred,"IR, NMR, and MS Spectroscopy",CHEM_4121_concepts_raw.json
+CHEM_4121,concept,MS Spectroscopy,MS Spectroscopy,1,inferred,"IR, NMR, and MS Spectroscopy",CHEM_4121_concepts_raw.json
+CHEM_4121,concept,X-Ray Diffraction and Crystallography,X-Ray Diffraction and Crystallography,1,inferred,X-Ray Diffraction and Crystallography,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Electrochemical Methods and Sensors,Electrochemical Methods and Sensors,1,inferred,Electrochemical Methods and Sensors,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Fertilizer Production and Synthesis,Fertilizer Production and Synthesis,1,inferred,Fertilizer Production and Synthesis,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Battery Materials and Electrochemistry,Battery Materials and Electrochemistry,1,inferred,Battery Materials and Electrochemistry,CHEM_4121_concepts_raw.json
+CHEM_4121,concept,Catalytic Converters and Emissions Control,Catalytic Converters and Emissions Control,1,inferred,Catalytic Converters and Emissions Control,CHEM_4121_concepts_raw.json

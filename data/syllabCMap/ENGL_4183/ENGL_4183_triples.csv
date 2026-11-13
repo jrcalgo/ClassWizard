@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4183,Rhetorical Grammar,topic,PREREQUISITE_OF,rhetorical grammar concepts,concept,A taught first,,ENGL_4183_triples_raw.json
+ENGL_4183,Rhetorical Grammar,topic,PART_OF,Professional Editorial Work,topic,,,ENGL_4183_triples_raw.json
+ENGL_4183,articulating,method,USED_FOR,Professional Editorial Work,topic,,,ENGL_4183_triples_raw.json

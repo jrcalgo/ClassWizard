@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SOCY_1501,topic,Sociology,sociology,1,verified,Introduction to Sociology,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,global citizenship,Global Citizenship,1,inferred,global citizenship,SOCY_1501_concepts_raw.json
+SOCY_1501,topic,Understanding Undocumented Immigrants,Understanding Undocumented Immigrants,1,inferred,Understanding Undocumented Immigrants,SOCY_1501_concepts_raw.json
+SOCY_1501,topic,Global Economic Systems,Global Economic Systems,1,inferred,Global Economic Systems,SOCY_1501_concepts_raw.json
+SOCY_1501,topic,Social and Cultural Diversity,Social and Cultural Diversity,1,inferred,Social and Cultural Diversity,SOCY_1501_concepts_raw.json
+SOCY_1501,topic,Global Politics and Power,Global Politics and Power,1,inferred,Global Politics and Power,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,sociological perspectives,Sociological Perspectives,1,inferred,sociological perspectives,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,social science methods,Social Science Methods,1,inferred,social science methods,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,immigrant experiences,Immigrant Experiences,1,inferred,immigrant experiences,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,undocumented status issues,Undocumented Status Issues,1,inferred,undocumented status issues,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,first-generation challenges,First-Generation Challenges,1,inferred,first-generation challenges,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,globalization effects,Globalization Effects,1,inferred,globalization effects,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,economic inequality factors,Economic Inequality Factors,1,inferred,economic inequality factors,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,cultural exchange impacts,Cultural Exchange Impacts,1,inferred,cultural exchange impacts,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,diversity in societies,Diversity in Societies,1,inferred,diversity in societies,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,cultural identity formation,Cultural Identity Formation,1,inferred,cultural identity formation,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,social justice movements,Social Justice Movements,1,inferred,social justice movements,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,global governance structures,Global Governance Structures,1,inferred,global governance structures,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,power dynamics in relationships,Power Dynamics in Relationships,1,inferred,power dynamics in relationships,SOCY_1501_concepts_raw.json
+SOCY_1501,concept,international conflict resolution,International Conflict Resolution,1,inferred,international conflict resolution,SOCY_1501_concepts_raw.json

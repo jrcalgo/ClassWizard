@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ELED_3111,topic,Instructional Design,Instructional Design,3,verified,Instructional Design,ELED_3111_concepts_raw.json
+ELED_3111,topic,Assessment in Elementary Education,Assessment in Elementary Education,1,verified,Assessment in Elementary Education,ELED_3111_concepts_raw.json
+ELED_3111,concept,performance objectives,performance objectives,1,verified,performance objectives,ELED_3111_concepts_raw.json
+ELED_3111,topic,Instructional Resources,instructional resources,1,verified,Instructional Resources,ELED_3111_concepts_raw.json
+ELED_3111,topic,Effective Instructional Design,effective instructional design,1,verified,Effective Instructional Design,ELED_3111_concepts_raw.json
+ELED_3111,concept,state instructional standards,state instructional standards,1,verified,state instructional standards,ELED_3111_concepts_raw.json
+ELED_3111,concept,instructional objectives and goals,instructional objectives and goals,1,verified,instructional objectives and goals,ELED_3111_concepts_raw.json
+ELED_3111,concept,cognitive,cognitive,1,verified,"cognitive, affective, social, and psychomotor development",ELED_3111_concepts_raw.json
+ELED_3111,concept,affective,affective,1,verified,"cognitive, affective, social, and psychomotor development",ELED_3111_concepts_raw.json
+ELED_3111,concept,social,social,1,verified,"cognitive, affective, social, and psychomotor development",ELED_3111_concepts_raw.json
+ELED_3111,concept,psychomotor development,psychomotor development,1,verified,"cognitive, affective, social, and psychomotor development",ELED_3111_concepts_raw.json
+ELED_3111,method,goals,goals,1,verified,writing instructional objectives and goals,ELED_3111_concepts_raw.json
+ELED_3111,method,generating and classifying performance objectives,Generating and classifying performance objectives,1,verified,generating and classifying performance objectives,ELED_3111_concepts_raw.json
+ELED_3111,method,developing,developing,2,verified,developing and/or selecting instructional resources,ELED_3111_concepts_raw.json
+ELED_3111,method,generating lesson plans,Generating lesson plans,1,verified,generating lesson plans,ELED_3111_concepts_raw.json
+ELED_3111,method,informal means of assessment,informal means of assessment,1,verified,describing the purposes of formal and informal means of assessment,ELED_3111_concepts_raw.json
+ELED_3111,method,diagnostic measures,diagnostic measures,1,verified,differentiating among assessment and diagnostic measures,ELED_3111_concepts_raw.json

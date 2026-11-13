@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGR_1302,problem solving frameworks,concept,PART_OF,Problem Solving,topic,,,ENGR_1302_triples_raw.json
+ENGR_1302,zyBooks eBook Subscription,tool,USED_FOR,problem solving frameworks,concept,,,ENGR_1302_triples_raw.json
+ENGR_1302,Raspberry Pi Starter Kit,tool,USED_FOR,Real-World Engineering Problems,topic,,,ENGR_1302_triples_raw.json

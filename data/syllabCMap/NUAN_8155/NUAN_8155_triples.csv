@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUAN_8155,Therapeutic Decision-Making,topic,PREREQUISITE_OF,Clinical Application and Management,topic,A taught first,,NUAN_8155_triples_raw.json
+NUAN_8155,Therapeutic Decision-Making,topic,PREREQUISITE_OF,Simulation and Workshop Practice,topic,A taught first,,NUAN_8155_triples_raw.json
+NUAN_8155,Pharmacology Fundamentals,topic,PREREQUISITE_OF,Therapeutic Decision-Making,topic,A taught first,,NUAN_8155_triples_raw.json
+NUAN_8155,Pharmacology Fundamentals,topic,PREREQUISITE_OF,Anesthetic Agent Pharmacology,topic,A taught first,,NUAN_8155_triples_raw.json
+NUAN_8155,Pharmacology Fundamentals,topic,PREREQUISITE_OF,Simulation and Workshop Practice,topic,A taught first,,NUAN_8155_triples_raw.json
+NUAN_8155,Mechanisms of Action Explained,concept,PART_OF,Pharmacology Fundamentals,topic,,,NUAN_8155_triples_raw.json
+NUAN_8155,Receptor Binding Principles,concept,PART_OF,Pharmacology Fundamentals,topic,,,NUAN_8155_triples_raw.json
+NUAN_8155,Client Health Assessment Techniques,concept,PART_OF,Therapeutic Decision-Making,topic,,,NUAN_8155_triples_raw.json
+NUAN_8155,Safe and Effective Anesthetic Use,concept,PART_OF,Clinical Application and Management,topic,,,NUAN_8155_triples_raw.json
+NUAN_8155,Client Monitoring Techniques Used,concept,PART_OF,Clinical Application and Management,topic,,,NUAN_8155_triples_raw.json
+NUAN_8155,Pharmacological Management Strategies,concept,PART_OF,Clinical Application and Management,topic,,,NUAN_8155_triples_raw.json

@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_6127,Study Design and Planning,topic,PART_OF,Descriptive Statistics,topic,,,STAT_6127_triples_raw.json
+STAT_6127,Study Design and Planning,topic,PART_OF,Inferential Statistics I,topic,,,STAT_6127_triples_raw.json
+STAT_6127,Study Design and Planning,topic,PART_OF,Inferential Statistics II,topic,,,STAT_6127_triples_raw.json
+STAT_6127,Data Analysis with JMP/R,topic,PART_OF,Biostatistics in Practice I,topic,,,STAT_6127_triples_raw.json
+STAT_6127,Data Analysis with JMP/R,topic,PART_OF,Biostatistics in Practice II,topic,,,STAT_6127_triples_raw.json
+STAT_6127,jmp,method,USED_FOR,Data Analysis with JMP/R,topic,,,STAT_6127_triples_raw.json

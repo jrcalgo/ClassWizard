@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EPID_8202,Data Management,concept,PREREQUISITE_OF,Epidemiological Data,concept,same unit,,EPID_8202_triples_raw.json
+EPID_8202,Data Storage,concept,PREREQUISITE_OF,Data Security,concept,same unit,,EPID_8202_triples_raw.json
+EPID_8202,Data Visualization,concept,PREREQUISITE_OF,Data Wrangling,concept,same unit,,EPID_8202_triples_raw.json
+EPID_8202,R programming,method,PREREQUISITE_OF,Multiple Logistic Regression,concept,A taught first,,EPID_8202_triples_raw.json
+EPID_8202,SQL queries,method,PREREQUISITE_OF,SAS data management,method,same unit,,EPID_8202_triples_raw.json
+EPID_8202,Stata data analysis,method,PREREQUISITE_OF,Relative Risks,concept,A taught first,,EPID_8202_triples_raw.json
+EPID_8202,Data Dictionary Navigation,concept,PART_OF,Epidemiological Data,concept,,,EPID_8202_triples_raw.json
+EPID_8202,Navigating the CDC Natality Data Dictionary,method,PART_OF,Epidemiological Data,concept,,,EPID_8202_triples_raw.json
+EPID_8202,R programming,method,PART_OF,Multiple Logistic Regression,concept,,,EPID_8202_triples_raw.json
+EPID_8202,SQL queries,method,PART_OF,SAS data management,method,,,EPID_8202_triples_raw.json
+EPID_8202,Stata data analysis,method,PART_OF,Relative Risks,concept,,,EPID_8202_triples_raw.json
+EPID_8202,R,tool,USED_FOR,Data Visualization,concept,,,EPID_8202_triples_raw.json
+EPID_8202,R,tool,USED_FOR,Data Wrangling,concept,,,EPID_8202_triples_raw.json
+EPID_8202,R,tool,USED_FOR,Multiple Logistic Regression,concept,,,EPID_8202_triples_raw.json
+EPID_8202,SQL,tool,USED_FOR,SAS data management,method,,,EPID_8202_triples_raw.json
+EPID_8202,Stata,tool,USED_FOR,Relative Risks,concept,,,EPID_8202_triples_raw.json

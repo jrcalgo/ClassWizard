@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1225,Brass,topic,PART_OF,Brass Techniques,topic,,,MUSC_1225_triples_raw.json
+MUSC_1225,Cornet/Trumpet Techniques,topic,PART_OF,Brass Techniques,topic,,,MUSC_1225_triples_raw.json
+MUSC_1225,Horn Techniques,topic,PART_OF,Brass Techniques,topic,,,MUSC_1225_triples_raw.json
+MUSC_1225,Trombone Techniques,topic,PART_OF,Brass Techniques,topic,,,MUSC_1225_triples_raw.json
+MUSC_1225,Baritone/Euphonium Techniques,topic,PART_OF,Brass Techniques,topic,,,MUSC_1225_triples_raw.json
+MUSC_1225,Tuba Techniques,topic,PART_OF,Brass Techniques,topic,,,MUSC_1225_triples_raw.json
+MUSC_1225,Pedagogy and Teaching Methods,topic,PART_OF,Brass Techniques,topic,,,MUSC_1225_triples_raw.json
+MUSC_1225,Analyzing Pedagogical Ideas,topic,PART_OF,Brass Techniques,topic,,,MUSC_1225_triples_raw.json
+MUSC_1225,Google Drive,tool,USED_FOR,Creating a Google Drive Folder,topic,,,MUSC_1225_triples_raw.json

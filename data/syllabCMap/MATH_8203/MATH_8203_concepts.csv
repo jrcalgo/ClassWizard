@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_8203,topic,Stochastic Calculus,Stochastic Calculus,1,verified,Stochastic Calculus,MATH_8203_concepts_raw.json
+MATH_8203,topic,Stochastic Processes,Stochastic Processes,1,inferred,Stochastic Processes,MATH_8203_concepts_raw.json
+MATH_8203,topic,Brownian Motion,Brownian Motion,2,inferred,Brownian Motion,MATH_8203_concepts_raw.json
+MATH_8203,topic,Ito's Lemma,Ito's Lemma,2,inferred,Ito's Lemma,MATH_8203_concepts_raw.json
+MATH_8203,topic,Stochastic Integrals,Stochastic Integrals,1,inferred,Stochastic Integrals,MATH_8203_concepts_raw.json
+MATH_8203,topic,Martingales,Martingales,1,inferred,Martingales,MATH_8203_concepts_raw.json
+MATH_8203,topic,Optional Stopping Theorem,Optional Stopping Theorem,2,inferred,Optional Stopping Theorem,MATH_8203_concepts_raw.json
+MATH_8203,topic,Stochastic Differential Equations,Stochastic Differential Equations,1,inferred,Stochastic Differential Equations,MATH_8203_concepts_raw.json
+MATH_8203,concept,stochastic process definition,Stochastic Process Definition,1,inferred,stochastic process definition,MATH_8203_concepts_raw.json
+MATH_8203,concept,random walk model,Random Walk Model,1,inferred,random walk model,MATH_8203_concepts_raw.json
+MATH_8203,concept,probability measures,Probability Measures,1,inferred,probability measures,MATH_8203_concepts_raw.json
+MATH_8203,concept,brownian motion properties,Brownian Motion Properties,1,inferred,brownian motion properties,MATH_8203_concepts_raw.json
+MATH_8203,concept,ito's lemma statement,Ito's Lemma Statement,1,inferred,ito's lemma statement,MATH_8203_concepts_raw.json
+MATH_8203,concept,taylor series expansion,Taylor Series Expansion,1,inferred,taylor series expansion,MATH_8203_concepts_raw.json
+MATH_8203,concept,stochastic integral definition,Stochastic Integral Definition,1,inferred,stochastic integral definition,MATH_8203_concepts_raw.json
+MATH_8203,concept,ito calculus rules,Ito Calculus Rules,1,inferred,ito calculus rules,MATH_8203_concepts_raw.json
+MATH_8203,concept,sde solution methods,SDE Solution Methods,1,inferred,sde solution methods,MATH_8203_concepts_raw.json
+MATH_8203,concept,martingale definition properties,Martingale Definition Properties,1,inferred,martingale definition properties,MATH_8203_concepts_raw.json
+MATH_8203,concept,optional stopping theorem statement,Optional Stopping Theorem Statement,1,inferred,optional stopping theorem statement,MATH_8203_concepts_raw.json
+MATH_8203,concept,doob's martingale convergence,Doob's Martingale Convergence,1,inferred,doob's martingale convergence,MATH_8203_concepts_raw.json
+MATH_8203,work,Black-Scholes Model,Black-Scholes Model,1,inferred,Black-Scholes Model,MATH_8203_concepts_raw.json

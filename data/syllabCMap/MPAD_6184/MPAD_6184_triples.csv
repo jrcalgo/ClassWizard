@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6184,Global Economic Trends,concept,PREREQUISITE_OF,Demographic Shifts in US,concept,same unit,,MPAD_6184_triples_raw.json
+MPAD_6184,Intergovernmental Stakeholder Influence,concept,PREREQUISITE_OF,Local Government Structures,topic,same unit,,MPAD_6184_triples_raw.json
+MPAD_6184,Alternative Service Delivery Models,concept,PREREQUISITE_OF,Comparative Analysis of Service Delivery,concept,same unit,,MPAD_6184_triples_raw.json
+MPAD_6184,Poverty and Urban Development,concept,PREREQUISITE_OF,Racial Disparities in Urban Areas,concept,same unit,,MPAD_6184_triples_raw.json
+MPAD_6184,Transportation Planning Strategies,concept,PREREQUISITE_OF,Affordable Housing Options,concept,A taught first,,MPAD_6184_triples_raw.json
+MPAD_6184,Crime Prevention Strategies in Urban Areas,concept,PREREQUISITE_OF,Community Policing Models,concept,same unit,,MPAD_6184_triples_raw.json
+MPAD_6184,Global Economic Trends,concept,PART_OF,Urbanization Patterns,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Demographic Shifts in US,concept,PART_OF,Urbanization Patterns,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Historical Urbanization Models,concept,PART_OF,Urbanization Patterns,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Public Administrator Roles,concept,PART_OF,Local Government Structures,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Elected Official Relationships,concept,PART_OF,Local Government Structures,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Intergovernmental Stakeholder Influence,concept,PART_OF,Local Government Structures,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Alternative Service Delivery Models,concept,PART_OF,Service Delivery Arrangements,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Comparative Analysis of Service Delivery,concept,PART_OF,Service Delivery Arrangements,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Poverty and Urban Development,concept,PART_OF,Urban Policy Issues,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Racial Disparities in Urban Areas,concept,PART_OF,Urban Policy Issues,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Transportation Planning Strategies,concept,PART_OF,Urban Policy Issues,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Affordable Housing Options,concept,PART_OF,Housing and Land-Use,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Urban Sprawl and Suburbanization,concept,PART_OF,Housing and Land-Use,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Zoning Regulations and Policy,concept,PART_OF,Housing and Land-Use,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Crime Prevention Strategies in Urban Areas,concept,PART_OF,Public Safety and Education,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Education Reform Initiatives in Cities,concept,PART_OF,Public Safety and Education,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Community Policing Models,concept,PART_OF,Public Safety and Education,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Urban Economic Revitalization Strategies,concept,PART_OF,Economic Development,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Business Incentives and Taxation,concept,PART_OF,Economic Development,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Regional Economic Development Partnerships,concept,PART_OF,Economic Development,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Analytical Models for Urban Policy Issues,concept,PART_OF,Policy Analysis Frameworks,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Evidence-Based Decision Making in Cities,concept,PART_OF,Policy Analysis Frameworks,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Urban Policy Evaluation Methods,concept,PART_OF,Policy Analysis Frameworks,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Effective Communication of Policy Findings,concept,PART_OF,Communication and Practice,topic,,,MPAD_6184_triples_raw.json
+MPAD_6184,Structured Policy Analysis Reports,concept,PART_OF,Communication and Practice,topic,,,MPAD_6184_triples_raw.json

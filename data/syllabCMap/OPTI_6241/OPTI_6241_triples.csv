@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Telescope Optical Systems,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Aperture and Stop Design,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Image Formation in Telescopes,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Microscope Optical System Design,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Resolution and Magnification Limits,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Aberration Correction Methods,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Image Quality Metrics and Optimization,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Lens Aberrations and Corrections,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Asymmetric Optical Components,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Distortion Correction Methods,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Lens Combinations and Configurations,concept,A taught first,,OPTI_6241_triples_raw.json
+OPTI_6241,Geometrical Ray-Tracing Methods,concept,PREREQUISITE_OF,Optical System Design Principles,concept,same unit,,OPTI_6241_triples_raw.json
+OPTI_6241,Microscope Optical System Design,concept,PART_OF,Optical System Function and Design,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Resolution and Magnification Limits,concept,PART_OF,Optical System Function and Design,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Camera Lens System Design,concept,PART_OF,Optical System Function and Design,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Image Quality Metrics and Optimization,concept,PART_OF,Optical System Function and Design,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Lens Aberrations and Corrections,concept,PART_OF,Optical System Function and Design,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Multi-Lens System Design Principles,concept,PART_OF,Optical System Function and Design,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Optical System Design Principles,concept,PART_OF,Optical System Function and Design,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Zemax Software and Applications,topic,PART_OF,Optical System Function and Design,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Optical Design Code Selection Criteria,topic,PART_OF,Optical System Function and Design,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Zemax Software,concept,USED_FOR,Optical Design Code Selection Criteria,topic,,,OPTI_6241_triples_raw.json
+OPTI_6241,Zemax Software,concept,USED_FOR,Code-Driven Optical System Design,topic,,,OPTI_6241_triples_raw.json

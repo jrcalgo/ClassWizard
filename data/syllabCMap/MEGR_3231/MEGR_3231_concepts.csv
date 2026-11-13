@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3231,topic,Advanced CAD topics,Advanced CAD topics,1,verified,Advanced CAD topics,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Advanced solid features,Advanced solid features,1,verified,Advanced solid features,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Sweeps,Sweeps,2,verified,Sweeps,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Blends,Blends,1,verified,Blends,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Variable Section Sweeps,Variable Section Sweeps,1,verified,Variable Section Sweeps,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Warp Surface Modeling,Warp Surface Modeling,1,verified,Warp Surface Modeling,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Sheet Metal,Sheet Metal,1,verified,Sheet Metal,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,PDM/PLM,PDM/PLM,1,verified,PDM/PLM,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,CAM Topics,CAM Topics,1,verified,CAM Topics,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,CAM interaction with CAD,CAM interaction with CAD,1,verified,CAM interaction with CAD,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Additive Manufacturing,Additive Manufacturing,1,verified,Additive Manufacturing,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Subtractive Manufacturing,Subtractive Manufacturing,1,verified,Subtractive Manufacturing,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,AM interface,AM interface,1,verified,AM interface,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,STL file generation,STL file generation,1,verified,STL file generation,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,VRML file generation,VRML file generation,1,verified,VRML file generation,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,AM preprocessor,AM preprocessor,1,verified,AM preprocessor,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Reverse Engineering,Reverse Engineering,1,verified,Reverse Engineering,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Three dimensional scanning,Three dimensional scanning,1,verified,Three dimensional scanning,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Point cloud manipulation,Point cloud manipulation,1,verified,Point cloud manipulation,MEGR_3231_concepts_raw.json
+MEGR_3231,topic,Model verification,Model verification,1,verified,Model verification,MEGR_3231_concepts_raw.json

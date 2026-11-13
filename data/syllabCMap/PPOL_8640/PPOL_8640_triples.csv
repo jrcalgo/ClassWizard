@@ -1,0 +1,38 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PPOL_8640,Scarcity and Choice,concept,PREREQUISITE_OF,Opportunity Cost Concept,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Utility Maximization Theory,concept,PREREQUISITE_OF,Budget Constraint Concept,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Utility Maximization Theory,concept,PREREQUISITE_OF,Indifference Curve Analysis,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Opportunity Cost Concept,concept,PREREQUISITE_OF,Cost Minimization Strategy,concept,A taught first,,PPOL_8640_triples_raw.json
+PPOL_8640,Opportunity Cost Concept,concept,PREREQUISITE_OF,Revenue Maximization Goal,concept,A taught first,,PPOL_8640_triples_raw.json
+PPOL_8640,Marginal Benefit Analysis,concept,PREREQUISITE_OF,Externalities Concept Overview,concept,A taught first,,PPOL_8640_triples_raw.json
+PPOL_8640,Marginal Benefit Analysis,concept,PREREQUISITE_OF,Public Goods Definition,concept,A taught first,,PPOL_8640_triples_raw.json
+PPOL_8640,Marginal Benefit Analysis,concept,PREREQUISITE_OF,Information Asymmetry Problem,concept,A taught first,,PPOL_8640_triples_raw.json
+PPOL_8640,Budget Constraint Concept,concept,PREREQUISITE_OF,Price Controls and Market Impact,concept,A taught first,,PPOL_8640_triples_raw.json
+PPOL_8640,Indifference Curve Analysis,concept,PREREQUISITE_OF,Monopoly Power Definition,concept,A taught first,,PPOL_8640_triples_raw.json
+PPOL_8640,Indifference Curve Analysis,concept,PREREQUISITE_OF,Competition Policy Objectives,concept,A taught first,,PPOL_8640_triples_raw.json
+PPOL_8640,Indifference Curve Analysis,concept,PREREQUISITE_OF,Merger and Acquisition Analysis,concept,A taught first,,PPOL_8640_triples_raw.json
+PPOL_8640,Revenue Maximization Goal,concept,PREREQUISITE_OF,Supply and Demand Equilibrium,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Externalities Concept Overview,concept,PREREQUISITE_OF,Public Goods Definition,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Externalities Concept Overview,concept,PREREQUISITE_OF,Information Asymmetry Problem,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Taxation and Revenue Effects,concept,PREREQUISITE_OF,Price Controls and Market Impact,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Taxation and Revenue Effects,concept,PREREQUISITE_OF,Tariffs and Quotas Consequences,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Price Controls and Market Impact,concept,PREREQUISITE_OF,Tariffs and Quotas Consequences,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Monopoly Power Definition,concept,PREREQUISITE_OF,Competition Policy Objectives,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Competition Policy Objectives,concept,PREREQUISITE_OF,Merger and Acquisition Analysis,concept,same unit,,PPOL_8640_triples_raw.json
+PPOL_8640,Opportunity Cost Concept,concept,PART_OF,Economic Theory Basics,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Marginal Benefit Analysis,concept,PART_OF,Economic Theory Basics,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Utility Maximization Theory,concept,PART_OF,Consumer Behavior Models,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Budget Constraint Concept,concept,PART_OF,Consumer Behavior Models,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Indifference Curve Analysis,concept,PART_OF,Consumer Behavior Models,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Cost Minimization Strategy,concept,PART_OF,Profit Maximization,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Revenue Maximization Goal,concept,PART_OF,Profit Maximization,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Supply and Demand Equilibrium,concept,PART_OF,Profit Maximization,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Externalities Concept Overview,concept,PART_OF,Market Failure Theories,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Public Goods Definition,concept,PART_OF,Market Failure Theories,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Information Asymmetry Problem,concept,PART_OF,Market Failure Theories,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Taxation and Revenue Effects,concept,PART_OF,Policy Tools Analysis,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Monopoly Power Definition,concept,PART_OF,Antitrust Regulation,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Competition Policy Objectives,concept,PART_OF,Antitrust Regulation,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Merger and Acquisition Analysis,concept,PART_OF,Antitrust Regulation,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Incentive Design Principles,concept,PART_OF,Behavioral Interventions,topic,,,PPOL_8640_triples_raw.json
+PPOL_8640,Behavioral Economics Applications,concept,PART_OF,Behavioral Interventions,topic,,,PPOL_8640_triples_raw.json

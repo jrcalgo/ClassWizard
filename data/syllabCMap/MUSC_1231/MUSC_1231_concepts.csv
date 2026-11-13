@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_1231,topic,common practice harmony,common practice harmony,1,verified,common practice harmony,MUSC_1231_concepts_raw.json
+MUSC_1231,topic,voice-leading,voice-leading,13,verified,voice-leading,MUSC_1231_concepts_raw.json
+MUSC_1231,topic,part-writing,part-writing,9,verified,part-writing,MUSC_1231_concepts_raw.json
+MUSC_1231,method,aural skills,aural skills,2,verified,aural skills,MUSC_1231_concepts_raw.json
+MUSC_1231,method,harmonic dictation,Harmonic dictation,9,verified,harmonic dictation,MUSC_1231_concepts_raw.json
+MUSC_1231,topic,applied chords,applied chords,11,verified,applied chords,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,subdivisions in simple meter,subdivisions in simple meter,2,verified,subdivisions in simple meter,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,half note tactus,half note tactus,11,verified,half note tactus,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,dotted half note tactus,dotted half note tactus,5,verified,dotted half note tactus,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,diatonic triads,diatonic triads,12,verified,diatonic triads,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,seventh chords,Seventh Chords,8,verified,seventh chords,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,tones of figuration,tones of figuration,13,verified,tones of figuration,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,first species counterpoint,first species counterpoint,2,verified,first species counterpoint,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,second species counterpoint,Second species counterpoint,2,verified,second species counterpoint,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,tonic-dominant progressions,Tonic-Dominant progressions,2,verified,tonic-dominant progressions,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,cadence patterns,Cadence Patterns,1,verified,cadence patterns,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,subdominant function,Subdominant Function,1,verified,subdominant function,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,supertonic function,Supertonic Function,1,verified,supertonic function,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,predominant function,Predominant Function,2,verified,predominant function,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,plagal embellishing chord,Plagal Embellishing Chord,2,verified,plagal embellishing chord,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,leading tone 7th chords,Leading tone 7th chords,2,verified,leading tone 7th chords,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,embedded phrase models,Embedded Phrase Models,2,verified,embedded phrase models,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,mediant chord function,Mediant Chord Functions,1,verified,mediant chord function,MUSC_1231_concepts_raw.json
+MUSC_1231,concept,submediant chord function,Submediant Chord Function,1,verified,submediant chord function,MUSC_1231_concepts_raw.json
+MUSC_1231,method,part-writing techniques,part Writing Techniques,3,verified,part-writing techniques,MUSC_1231_concepts_raw.json
+MUSC_1231,method,voice-leading principles,Voice Leading Principles,5,verified,voice-leading principles,MUSC_1231_concepts_raw.json
+MUSC_1231,method,singing and dictating melodies,Singing and dictating melodies,1,verified,singing and dictating melodies,MUSC_1231_concepts_raw.json
+MUSC_1231,method,analyzing non-modulatory literature,analyzing non-modulatory literature,1,verified,analyzing non-modulatory literature,MUSC_1231_concepts_raw.json

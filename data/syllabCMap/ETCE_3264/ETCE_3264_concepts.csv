@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETCE_3264,topic,Structural Analysis,Structural Analysis,1,verified,Structural Analysis,ETCE_3264_concepts_raw.json
+ETCE_3264,topic,Applied Mechanics II,Applied Mechanics II,1,verified,Applied Mechanics II,ETCE_3264_concepts_raw.json
+ETCE_3264,topic,Engineering Analysis II,Engineering Analysis II,1,verified,Engineering Analysis II,ETCE_3264_concepts_raw.json
+ETCE_3264,topic,Advanced Shear Moment Diagrams,Advanced Shear Moment Diagrams,1,verified,Advanced Shear Moment Diagrams,ETCE_3264_concepts_raw.json
+ETCE_3264,topic,Building code and load distribution,Building code and load distribution,1,verified,Building code and load distribution,ETCE_3264_concepts_raw.json
+ETCE_3264,topic,Deflections of structures,Deflections of structures,1,verified,Deflections of structures,ETCE_3264_concepts_raw.json
+ETCE_3264,topic,Virtual work,virtual work,2,verified,Virtual work,ETCE_3264_concepts_raw.json
+ETCE_3264,topic,Displacement methods of analysis,displacement methods of analysis,1,verified,Displacement methods of analysis.,ETCE_3264_concepts_raw.json
+ETCE_3264,concept,Statically indeterminate structures,statically indeterminate structures,3,verified,Statically indeterminate structures,ETCE_3264_concepts_raw.json
+ETCE_3264,concept,Compatibility method,Compatibility method,1,verified,Compatibility method.,ETCE_3264_concepts_raw.json

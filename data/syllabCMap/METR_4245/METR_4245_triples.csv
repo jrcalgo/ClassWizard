@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_4245,Synoptic Weather Briefings,topic,PART_OF,Synoptic Meteorology,topic,,,METR_4245_triples_raw.json
+METR_4245,limiting assumptions,concept,PART_OF,dynamics-based analysis techniques,concept,,,METR_4245_triples_raw.json
+METR_4245,dynamics-based analysis techniques,concept,PART_OF,Advanced Synoptic Meteorology,topic,,,METR_4245_triples_raw.json

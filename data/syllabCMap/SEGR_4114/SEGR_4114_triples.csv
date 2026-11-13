@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_4114,linear program,concept,PART_OF,aggregate planning,concept,,,SEGR_4114_triples_raw.json
+SEGR_4114,smoothing models,method,PART_OF,demand forecasting,concept,,,SEGR_4114_triples_raw.json
+SEGR_4114,heuristic,concept,PART_OF,vehicle routing problem,concept,,,SEGR_4114_triples_raw.json

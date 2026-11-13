@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5221,topic,Secure Programming Practices,secure-programming practices,1,verified,Secure Programming Practices,ITIS_5221_concepts_raw.json
+ITIS_5221,topic,OWASP Top 10 Vulnerability Classes,OWASP Top 10 vulnerability classes,1,verified,OWASP Top 10 Vulnerability Classes,ITIS_5221_concepts_raw.json
+ITIS_5221,topic,Security Logging and Monitoring,security logging and monitoring,1,verified,Security Logging and Monitoring,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,vulnerability identification,Vulnerability identification,1,verified,vulnerability identification,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,authorized environments,authorized environments,1,verified,authorized environments,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,input validation,input validation,1,verified,input validation,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,output encoding,output encoding,1,verified,output encoding,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,data sanitization,data sanitization,1,verified,data sanitization,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,strong authentication,strong authentication,1,verified,strong authentication,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,root causes,root causes,2,verified,root causes,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,exploitation paths,exploitation paths,1,verified,exploitation paths,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,mitigation strategies,mitigation strategies,1,verified,mitigation strategies,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,separation of domains,separation of domains,1,verified,separation of domains,ITIS_5221_concepts_raw.json
+ITIS_5221,method,threat modeling,threat modeling,1,verified,threat modeling,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,authorization boundaries,authorization boundaries,1,verified,authorization boundaries,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,professional codes of conduct,professional codes of conduct,1,verified,professional codes of conduct,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,responsible disclosure practices,responsible-disclosure practices,1,verified,responsible disclosure practices,ITIS_5221_concepts_raw.json
+ITIS_5221,method,incident response,incident response,1,verified,incident response,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,evidence quality,evidence quality,2,verified,evidence quality,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,false positives,false positives,2,verified,false positives,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,false negatives,false negatives,2,verified,false negatives,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,coverage assumptions,coverage assumptions,1,verified,coverage assumptions,ITIS_5221_concepts_raw.json
+ITIS_5221,concept,remediation verification,remediation verification,1,verified,remediation verification,ITIS_5221_concepts_raw.json
+ITIS_5221,method,penetration testing,penetration testing,2,verified,penetration testing,ITIS_5221_concepts_raw.json
+ITIS_5221,method,static code analysis,static code analysis,2,verified,static code analysis,ITIS_5221_concepts_raw.json
+ITIS_5221,method,semgrep/static-analysis work,semgrep/static-analysis work,1,verified,semgrep/static-analysis work,ITIS_5221_concepts_raw.json
+ITIS_5221,method,dynamic-analysis work,dynamic-analysis work,1,verified,dynamic-analysis work,ITIS_5221_concepts_raw.json
+ITIS_5221,method,security logging,security logging,1,verified,security logging,ITIS_5221_concepts_raw.json
+ITIS_5221,method,tool evaluation,Tool evaluation,1,verified,tool evaluation,ITIS_5221_concepts_raw.json
+ITIS_5221,tool,Hack The Box (HTB) Academy,Hack The Box (HTB) Academy,1,verified,Hack The Box (HTB) Academy,ITIS_5221_concepts_raw.json
+ITIS_5221,tool,Chromium-based browser,Chromium-based browser,1,verified,Chromium-based browser,ITIS_5221_concepts_raw.json
+ITIS_5221,tool,word processor,word processor,1,verified,word processor,ITIS_5221_concepts_raw.json
+ITIS_5221,tool,virtualization platform,virtualization platform,1,verified,virtualization platform,ITIS_5221_concepts_raw.json

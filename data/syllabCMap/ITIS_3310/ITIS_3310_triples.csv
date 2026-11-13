@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_3310,agile software development methodologies,method,PREREQUISITE_OF,Architecture Styles and Patterns,topic,A taught first,,ITIS_3310_triples_raw.json
+ITIS_3310,abstraction,concept,PREREQUISITE_OF,traceability,concept,A mentioned first,,ITIS_3310_triples_raw.json
+ITIS_3310,patterns,concept,PART_OF,Architecture Styles and Patterns,topic,,,ITIS_3310_triples_raw.json

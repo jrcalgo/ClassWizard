@@ -1,0 +1,33 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_5232,Game Development Process,concept,PREREQUISITE_OF,Game Genre Classification,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Game Genre Classification,concept,PREREQUISITE_OF,Player Experience Goals,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Gameplay Mechanics Overview,concept,PREREQUISITE_OF,Game State Management,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Collision Detection Techniques,concept,PREREQUISITE_OF,Game State Management,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,2D/3D Graphics Rendering,concept,PREREQUISITE_OF,Art and Audio Requirements,concept,A taught first,,ITCS_5232_triples_raw.json
+ITCS_5232,Game Loop Implementation,concept,PREREQUISITE_OF,Object-Oriented Programming,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Game Engine Architecture,concept,PREREQUISITE_OF,Level Editor Features,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Design Document Structure,concept,PREREQUISITE_OF,Gameplay Mechanics Documentation,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Prototyping Methods Overview,concept,PREREQUISITE_OF,Playtesting Techniques and Tools,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Project Planning and Scheduling,concept,PREREQUISITE_OF,Team Collaboration and Communication,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Testing Types and Methods,concept,PREREQUISITE_OF,Bug Tracking and Reporting,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Quality Assurance Best Practices,concept,PREREQUISITE_OF,Bug Tracking and Reporting,concept,same unit,,ITCS_5232_triples_raw.json
+ITCS_5232,Game Development Process,concept,PART_OF,Game Design Fundamentals,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Gameplay Mechanics Overview,concept,PART_OF,Game Mechanics and Systems,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Collision Detection Techniques,concept,PART_OF,Game Mechanics and Systems,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,2D/3D Graphics Rendering,concept,PART_OF,Art and Audio in Games,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Sound Design Principles,concept,PART_OF,Art and Audio in Games,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Music Composition for Games,concept,PART_OF,Art and Audio in Games,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Object-Oriented Programming,concept,PART_OF,Game Programming Fundamentals,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Game Engine Architecture,concept,PART_OF,Game Development Tools and Engines,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Level Editor Features,concept,PART_OF,Game Development Tools and Engines,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Asset Management Systems,concept,PART_OF,Game Development Tools and Engines,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Gameplay Mechanics Documentation,concept,PART_OF,Game Design Document Creation,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Art and Audio Requirements,concept,PART_OF,Game Design Document Creation,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Prototyping Methods Overview,concept,PART_OF,Prototyping and Playtesting,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Playtesting Techniques and Tools,concept,PART_OF,Prototyping and Playtesting,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,User Feedback Analysis,concept,PART_OF,Prototyping and Playtesting,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Project Planning and Scheduling,concept,PART_OF,Game Development Project Management,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Risk Management Strategies,concept,PART_OF,Game Development Project Management,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Testing Types and Methods,concept,PART_OF,Game Testing and Quality Assurance,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Bug Tracking and Reporting,concept,PART_OF,Game Testing and Quality Assurance,topic,,,ITCS_5232_triples_raw.json
+ITCS_5232,Quality Assurance Best Practices,concept,PART_OF,Game Testing and Quality Assurance,topic,,,ITCS_5232_triples_raw.json

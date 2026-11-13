@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HCIP_6160,topic,database systems,database systems,1,verified,database systems,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,data science and analytics workflows,data science and analytics workflows,1,verified,data science and analytics workflows,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,relational databases,relational databases,1,verified,relational databases,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,SQL,SQL,3,verified,SQL,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,database design,database design,1,verified,database design,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,querying,querying,1,verified,querying,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,execution choices,execution choices,1,verified,execution choices,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,analytical performance,analytical performance,1,verified,analytical performance,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,correctness,correctness,1,verified,correctness,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,computational engines for analytics,computational engines for analytics,1,verified,computational engines for analytics,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,integration with Python-based environments,integration with Python-based environments,1,verified,integration with Python-based environments,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,embedded and local analytics databases,embedded and local analytics databases,1,verified,embedded and local analytics databases,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,cloud-scale analytical platforms,cloud-scale analytical platforms,1,verified,cloud-scale analytical platforms,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,graph databases,graph databases,1,verified,graph databases,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,large-scale analytical infrastructure,large-scale analytical infrastructure,1,verified,large-scale analytical infrastructure,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,data warehouses,data warehouses,1,verified,data warehouses,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,data lakes,data lakes,1,verified,data lakes,HCIP_6160_concepts_raw.json
+HCIP_6160,topic,MPP systems,MPP systems,1,verified,MPP systems,HCIP_6160_concepts_raw.json
+HCIP_6160,tool,PySpark,PySpark,1,verified,PySpark,HCIP_6160_concepts_raw.json
+HCIP_6160,tool,Apache Iceberg,Apache Iceberg,1,verified,Apache Iceberg,HCIP_6160_concepts_raw.json
+HCIP_6160,concept,data governance,data governance,1,verified,data governance,HCIP_6160_concepts_raw.json
+HCIP_6160,concept,Relational Database Management Systems (RDBMSs,Relational Database Management Systems (RDBMSs,1,verified,Relational Database Management Systems (RDBMSs),HCIP_6160_concepts_raw.json
+HCIP_6160,concept,Structured Query Language (SQL) for analytical data work,Structured Query Language (SQL) for analytical data work,1,verified,Structured Query Language (SQL) for analytical data work,HCIP_6160_concepts_raw.json
+HCIP_6160,concept,entity-relationship modeling,entity-relationship modeling,1,verified,entity-relationship modeling,HCIP_6160_concepts_raw.json
+HCIP_6160,concept,relational schemas,relational schemas,1,verified,relational schemas,HCIP_6160_concepts_raw.json
+HCIP_6160,concept,non-relational data stores,non-relational data stores,1,verified,non-relational data stores,HCIP_6160_concepts_raw.json
+HCIP_6160,concept,specialized data stores,specialized data stores,1,verified,specialized data stores,HCIP_6160_concepts_raw.json
+HCIP_6160,concept,trade-offs among relational,trade-offs among relational,1,verified,"trade-offs among relational, embedded, cloud / distributed, and specialized data systems",HCIP_6160_concepts_raw.json
+HCIP_6160,method,embedded,embedded,2,verified,"evaluating the trade-offs among relational, embedded, cloud / distributed, and specialized data systems",HCIP_6160_concepts_raw.json
+HCIP_6160,method,cloud,cloud,2,verified,"evaluating the trade-offs among relational, embedded, cloud / distributed, and specialized data systems",HCIP_6160_concepts_raw.json
+HCIP_6160,method,distributed,distributed,2,verified,"evaluating the trade-offs among relational, embedded, cloud / distributed, and specialized data systems",HCIP_6160_concepts_raw.json
+HCIP_6160,method,specialized data systems,specialized data systems,2,verified,"evaluating the trade-offs among relational, embedded, cloud / distributed, and specialized data systems",HCIP_6160_concepts_raw.json
+HCIP_6160,method,designing normalized relational schemas,designing normalized relational schemas,1,verified,designing normalized relational schemas,HCIP_6160_concepts_raw.json
+HCIP_6160,tool,MySQL,MySQL,2,verified,MySQL,HCIP_6160_concepts_raw.json
+HCIP_6160,tool,Python,Python,2,verified,Python,HCIP_6160_concepts_raw.json

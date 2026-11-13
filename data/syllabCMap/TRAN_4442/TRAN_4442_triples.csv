@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TRAN_4442,Text Typologies,concept,PART_OF,Register and Regionalisms,topic,,,TRAN_4442_triples_raw.json
+TRAN_4442,Discourse Domain Areas,topic,PART_OF,Translation,topic,,,TRAN_4442_triples_raw.json
+TRAN_4442,Theory of Translation,topic,PART_OF,Translation,topic,,,TRAN_4442_triples_raw.json

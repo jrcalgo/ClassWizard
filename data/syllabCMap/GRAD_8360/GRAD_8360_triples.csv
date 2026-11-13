@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_8360,Maximum likelihood estimation,concept,PREREQUISITE_OF,Bayesian inference methods,concept,same unit,,GRAD_8360_triples_raw.json
+GRAD_8360,Bayesian inference methods,concept,PREREQUISITE_OF,Markov chain Monte Carlo,concept,same unit,,GRAD_8360_triples_raw.json
+GRAD_8360,Gibbs sampling algorithm,concept,PREREQUISITE_OF,Markov chain Monte Carlo,concept,same unit,,GRAD_8360_triples_raw.json
+GRAD_8360,MCMC convergence criteria,concept,PREREQUISITE_OF,Convergence diagnostics,concept,same unit,,GRAD_8360_triples_raw.json
+GRAD_8360,Time series analysis,concept,PART_OF,Hypothesis Testing,topic,,,GRAD_8360_triples_raw.json
+GRAD_8360,Stationarity assumption,concept,PART_OF,Time series analysis,concept,,,GRAD_8360_triples_raw.json
+GRAD_8360,ARIMA model components,concept,PART_OF,Time series analysis,concept,,,GRAD_8360_triples_raw.json
+GRAD_8360,Null Hypothesis,concept,PART_OF,Hypothesis Testing,topic,,,GRAD_8360_triples_raw.json
+GRAD_8360,Alternative Hypothesis,concept,PART_OF,Hypothesis Testing,topic,,,GRAD_8360_triples_raw.json
+GRAD_8360,Significance Level,concept,PART_OF,Hypothesis Testing,topic,,,GRAD_8360_triples_raw.json
+GRAD_8360,Test Statistics,concept,PART_OF,Hypothesis Testing,topic,,,GRAD_8360_triples_raw.json
+GRAD_8360,Maximum likelihood estimation,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_8360_triples_raw.json
+GRAD_8360,Bayesian inference methods,concept,PART_OF,Hypothesis Testing,topic,,,GRAD_8360_triples_raw.json
+GRAD_8360,Markov chain Monte Carlo,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_8360_triples_raw.json
+GRAD_8360,Gibbs sampling algorithm,concept,PART_OF,Markov chain Monte Carlo,concept,,,GRAD_8360_triples_raw.json
+GRAD_8360,Convergence diagnostics,concept,PART_OF,Markov chain Monte Carlo,concept,,,GRAD_8360_triples_raw.json
+GRAD_8360,MCMC convergence criteria,concept,PART_OF,Markov chain Monte Carlo,concept,,,GRAD_8360_triples_raw.json

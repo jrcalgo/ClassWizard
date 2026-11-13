@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FILM_3051,topic,Animation,Animation,3,verified,Introduction to Animation,FILM_3051_concepts_raw.json
+FILM_3051,topic,History of Animation Techniques,History of Animation Techniques,1,inferred,History of Animation Techniques,FILM_3051_concepts_raw.json
+FILM_3051,concept,traditional drawing methods,Traditional Drawing Methods,1,inferred,traditional drawing methods,FILM_3051_concepts_raw.json
+FILM_3051,concept,digital animation basics,Digital Animation Basics,1,inferred,digital animation basics,FILM_3051_concepts_raw.json
+FILM_3051,concept,stop-motion principles,Stop-Motion Principles,1,inferred,stop-motion principles,FILM_3051_concepts_raw.json
+FILM_3051,concept,hand-drawn animation styles,Hand-Drawn Animation Styles,1,inferred,hand-drawn animation styles,FILM_3051_concepts_raw.json
+FILM_3051,concept,cut-out animation techniques,Cut-Out Animation Techniques,1,inferred,cut-out animation techniques,FILM_3051_concepts_raw.json
+FILM_3051,concept,computer software basics,Computer Software Basics,1,inferred,computer software basics,FILM_3051_concepts_raw.json
+FILM_3051,topic,2D and 3D Animation Types,2D and 3D Animation Types,1,inferred,2D and 3D Animation Types,FILM_3051_concepts_raw.json
+FILM_3051,concept,keyframe animation principles,Keyframe Animation Principles,1,inferred,keyframe animation principles,FILM_3051_concepts_raw.json
+FILM_3051,concept,CGI animation techniques,CGI Animation Techniques,1,inferred,CGI animation techniques,FILM_3051_concepts_raw.json
+FILM_3051,concept,motion capture technology,Motion Capture Technology,1,inferred,motion capture technology,FILM_3051_concepts_raw.json
+FILM_3051,concept,virtual reality applications,Virtual Reality Applications,1,inferred,virtual reality applications,FILM_3051_concepts_raw.json
+FILM_3051,concept,analog animation techniques,Analog Animation Techniques,1,inferred,analog animation techniques,FILM_3051_concepts_raw.json

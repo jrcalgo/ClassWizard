@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EPID_8272,time-to-event data,concept,PART_OF,Survival Analysis,topic,,,EPID_8272_triples_raw.json
+EPID_8272,Kaplan-Meier methods,concept,PART_OF,Survival Analysis,topic,,,EPID_8272_triples_raw.json
+EPID_8272,model diagnostics,concept,PART_OF,Survival Analysis,topic,,,EPID_8272_triples_raw.json
+EPID_8272,associated computational approaches,concept,PART_OF,Survival Analysis,topic,,,EPID_8272_triples_raw.json
+EPID_8272,Cox proportional hazards model,concept,PART_OF,Survival Analysis,topic,,,EPID_8272_triples_raw.json
+EPID_8272,descriptive analysis for censored data,method,PART_OF,Survival Analysis,topic,,,EPID_8272_triples_raw.json
+EPID_8272,log-rank tests for group comparisons,method,PART_OF,Survival Analysis,topic,,,EPID_8272_triples_raw.json
+EPID_8272,R,tool,USED_FOR,Survival Analysis,topic,,,EPID_8272_triples_raw.json

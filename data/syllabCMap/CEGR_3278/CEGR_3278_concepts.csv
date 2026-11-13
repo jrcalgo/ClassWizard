@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3278,topic,Geotechnical Engineering,Geotechnical Engineering,2,verified,Geotechnical Engineering,CEGR_3278_concepts_raw.json
+CEGR_3278,topic,Soil Composition,Soil Composition,1,verified,Soil Composition,CEGR_3278_concepts_raw.json
+CEGR_3278,topic,Soil Compaction,Soil Compaction,1,verified,Soil Compaction,CEGR_3278_concepts_raw.json
+CEGR_3278,topic,Water in Soils,Water in Soils,1,verified,Water in Soils,CEGR_3278_concepts_raw.json
+CEGR_3278,topic,Stress in Soils,Stress in Soils,1,verified,Stress in Soils,CEGR_3278_concepts_raw.json
+CEGR_3278,topic,Consolidation,consolidation,2,verified,Consolidation,CEGR_3278_concepts_raw.json
+CEGR_3278,topic,Shear Strength,shear strength,2,verified,Shear Strength,CEGR_3278_concepts_raw.json
+CEGR_3278,topic,Site Characterization & Subsurface Investigation,Site Characterization & Subsurface Investigation,1,verified,Site Characterization & Subsurface Investigation,CEGR_3278_concepts_raw.json
+CEGR_3278,topic,Geotechnical,Geotechnical,2,verified,Introduction to Geotechnical,CEGR_3278_concepts_raw.json
+CEGR_3278,concept,Permeability,permeability,1,verified,Permeability,CEGR_3278_concepts_raw.json
+CEGR_3278,concept,Seepage,seepage,1,verified,Seepage,CEGR_3278_concepts_raw.json

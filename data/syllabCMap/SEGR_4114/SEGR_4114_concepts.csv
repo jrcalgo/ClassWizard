@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_4114,topic,Production Scheduling,production scheduling,1,verified,Production Scheduling,SEGR_4114_concepts_raw.json
+SEGR_4114,topic,Line Balancing,line balancing,1,verified,Line Balancing,SEGR_4114_concepts_raw.json
+SEGR_4114,topic,Stochastic Models,stochastic models,1,verified,Stochastic Models,SEGR_4114_concepts_raw.json
+SEGR_4114,topic,Single Machine Systems,single machine system,1,verified,Single Machine Systems,SEGR_4114_concepts_raw.json
+SEGR_4114,topic,Two-Machine Systems,two-machine system,1,verified,Two-Machine Systems,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,demand forecasting,demand forecasting,1,verified,demand forecasting,SEGR_4114_concepts_raw.json
+SEGR_4114,method,smoothing models,smoothing models,1,verified,smoothing models,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,aggregate planning,aggregate planning,1,verified,aggregate planning,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,linear program,linear program,2,verified,linear program,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,optimal order quantities,optimal order quantities,2,verified,optimal order quantities,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,deterministic demand,deterministic demand,1,verified,deterministic demand,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,stochastic demand,stochastic demand,1,verified,stochastic demand,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,minimum cost network flow problem,minimum cost network flow problem,1,verified,minimum cost network flow problem,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,vehicle routing problem,vehicle routing problem,1,verified,vehicle routing problem,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,heuristic,heuristic,1,verified,heuristic,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,operational schedules,operational schedules,2,verified,operational schedules,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,single machine system,single machine system,1,verified,single machine system,SEGR_4114_concepts_raw.json
+SEGR_4114,concept,two-machine system,two-machine system,1,verified,two-machine system,SEGR_4114_concepts_raw.json

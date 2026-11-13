@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_5271,topic,Orthopedic Biomechanics,Orthopedic Biomechanics,1,verified,Orthopedic Biomechanics,MEGR_5271_concepts_raw.json
+MEGR_5271,topic,Orthopedics,orthopedics,1,verified,Introduction to Orthopedics,MEGR_5271_concepts_raw.json
+MEGR_5271,topic,Professional and Ethical Responsibilities,professional and ethical responsibilities,1,verified,Professional and Ethical Responsibilities,MEGR_5271_concepts_raw.json
+MEGR_5271,concept,muscle,muscles,1,verified,"muscle, ligament, and tendon mechanics",MEGR_5271_concepts_raw.json
+MEGR_5271,concept,ligament,ligament,1,verified,"muscle, ligament, and tendon mechanics",MEGR_5271_concepts_raw.json
+MEGR_5271,method,analyzing,analyze,1,verified,analyzing and interpreting data,MEGR_5271_concepts_raw.json
+MEGR_5271,method,identifying,Identify,1,verified,"identifying, formulating, and solving biomedical engineering problems",MEGR_5271_concepts_raw.json
+MEGR_5271,method,formulating,formulate,1,verified,"identifying, formulating, and solving biomedical engineering problems",MEGR_5271_concepts_raw.json
+MEGR_5271,method,science,science,1,verified,"applying knowledge of mathematics, science, and engineering to orthopedics",MEGR_5271_concepts_raw.json
+MEGR_5271,method,engineering to orthopedics,engineering to orthopedics,1,verified,"applying knowledge of mathematics, science, and engineering to orthopedics",MEGR_5271_concepts_raw.json
+MEGR_5271,method,modern engineering tools necessary for engineering practice,modern engineering tools necessary for engineering practice,1,verified,"using techniques, skills, and modern engineering tools necessary for engineering practice",MEGR_5271_concepts_raw.json

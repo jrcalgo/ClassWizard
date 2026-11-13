@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4756L,sampling,method,PART_OF,quantitative analysis,method,,,SOCY_4756L_triples_raw.json
+SOCY_4756L,measurement theory,method,PART_OF,quantitative models of analysis,method,,,SOCY_4756L_triples_raw.json
+SOCY_4756L,data processing,method,PART_OF,quantitative analysis,method,,,SOCY_4756L_triples_raw.json
+SOCY_4756L,descriptive statistics,method,PART_OF,quantitative analysis,method,,,SOCY_4756L_triples_raw.json

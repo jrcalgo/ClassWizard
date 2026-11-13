@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DTSC_8600,topic,Data Science,Data Science,4,verified,Data Science,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Knowledge Discovery Process,Knowledge Discovery Process,1,inferred,Knowledge Discovery Process,DTSC_8600_concepts_raw.json
+DTSC_8600,topic,Research in Data Science,Research in Data Science,1,inferred,Research in Data Science,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Scientific Reasoning Principles,Scientific Reasoning Principles,1,inferred,Scientific Reasoning Principles,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Model-Based Knowledge Creation,Model-Based Knowledge Creation,1,inferred,Model-Based Knowledge Creation,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Evidence-Based Decision Making,Evidence-Based Decision Making,1,inferred,Evidence-Based Decision Making,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Experimental Design Techniques,Experimental Design Techniques,1,inferred,Experimental Design Techniques,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Controlled Experiments in DS,Controlled Experiments in DS,1,inferred,Controlled Experiments in DS,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Data-Driven Experimentation,Data-Driven Experimentation,1,inferred,Data-Driven Experimentation,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Deductive Reasoning Methods,Deductive Reasoning Methods,1,inferred,Deductive Reasoning Methods,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Inductive Reasoning Principles,Inductive Reasoning Principles,1,inferred,Inductive Reasoning Principles,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Abductive Inference Techniques,Abductive Inference Techniques,1,inferred,Abductive Inference Techniques,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Research Question Formulation,Research Question Formulation,1,inferred,Research Question Formulation,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Data-Driven Inquiry Process,Data-Driven Inquiry Process,1,inferred,Data-Driven Inquiry Process,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Question-Based Research Design,Question-Based Research Design,1,inferred,Question-Based Research Design,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Designing Data Collection Methods,Designing Data Collection Methods,1,inferred,Designing Data Collection Methods,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Sampling Strategies in DS,Sampling Strategies in DS,1,inferred,Sampling Strategies in DS,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Data Analysis and Interpretation,Data Analysis and Interpretation,1,inferred,Data Analysis and Interpretation,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Data-Driven Insights Generation,Data-Driven Insights Generation,1,inferred,Data-Driven Insights Generation,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Visualizing Data for Understanding,Visualizing Data for Understanding,1,inferred,Visualizing Data for Understanding,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Storytelling with Data Results,Storytelling with Data Results,1,inferred,Storytelling with Data Results,DTSC_8600_concepts_raw.json
+DTSC_8600,topic,Communicating Research Results Effectively,Communicating Research Results Effectively,1,inferred,Communicating Research Results Effectively,DTSC_8600_concepts_raw.json
+DTSC_8600,topic,Tailoring Messages for Different Stakeholders,Tailoring Messages for Different Stakeholders,1,inferred,Tailoring Messages for Different Stakeholders,DTSC_8600_concepts_raw.json
+DTSC_8600,topic,Presenting Data Science Insights,Presenting Data Science Insights,1,inferred,Presenting Data Science Insights,DTSC_8600_concepts_raw.json
+DTSC_8600,concept,Data Science Foundations,Data Science Foundations,1,inferred,Data Science Foundations,DTSC_8600_concepts_raw.json
+DTSC_8600,method,Experimental Design Methods,Experimental Design Methods,1,inferred,Experimental Design Methods,DTSC_8600_concepts_raw.json

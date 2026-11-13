@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_2161,Traditional Grammar,concept,PREREQUISITE_OF,Rhetorical Grammar,concept,B taught first,B is taught before A - check,ENGL_2161_triples_raw.json
+ENGL_2161,Traditional Grammar,concept,SUBTYPE_OF,Grammar For Writing,topic,,,ENGL_2161_triples_raw.json
+ENGL_2161,Rhetorical Grammar,concept,SUBTYPE_OF,Grammar For Writing,topic,,,ENGL_2161_triples_raw.json
+ENGL_2161,in-class instruction,method,USED_FOR,Traditional Grammar,concept,,,ENGL_2161_triples_raw.json
+ENGL_2161,in-class instruction,method,USED_FOR,Rhetorical Grammar,concept,,,ENGL_2161_triples_raw.json
+ENGL_2161,group exercises,method,USED_FOR,Traditional Grammar,concept,,,ENGL_2161_triples_raw.json
+ENGL_2161,online quizzes,method,USED_FOR,Traditional Grammar,concept,,,ENGL_2161_triples_raw.json
+ENGL_2161,online quizzes,method,USED_FOR,Rhetorical Grammar,concept,,,ENGL_2161_triples_raw.json
+ENGL_2161,written work,method,USED_FOR,Traditional Grammar,concept,,,ENGL_2161_triples_raw.json
+ENGL_2161,written work,method,USED_FOR,Rhetorical Grammar,concept,,,ENGL_2161_triples_raw.json

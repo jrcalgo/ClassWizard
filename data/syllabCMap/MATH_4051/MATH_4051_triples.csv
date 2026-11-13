@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_4051,numerical integration,method,PREREQUISITE_OF,statistical analysis,method,A taught first,,MATH_4051_triples_raw.json
+MATH_4051,numerical integration,method,PREREQUISITE_OF,hypothesis testing,method,A taught first,,MATH_4051_triples_raw.json
+MATH_4051,iterated function systems,method,PREREQUISITE_OF,Monte Carlo simulations,method,A taught first,,MATH_4051_triples_raw.json
+MATH_4051,dynamical systems,concept,PREREQUISITE_OF,difference equations,concept,same unit,,MATH_4051_triples_raw.json
+MATH_4051,orbits of celestial bodies,concept,PREREQUISITE_OF,heat propagation,concept,same unit,,MATH_4051_triples_raw.json
+MATH_4051,difference equations,concept,PART_OF,Dynamical Models and Difference Equations,topic,,,MATH_4051_triples_raw.json
+MATH_4051,harvesting models,concept,PART_OF,Dynamical Models and Difference Equations,topic,,,MATH_4051_triples_raw.json
+MATH_4051,orbits of celestial bodies,concept,PART_OF,Physical Models,topic,,,MATH_4051_triples_raw.json
+MATH_4051,heat propagation,concept,PART_OF,Physical Models,topic,,,MATH_4051_triples_raw.json
+MATH_4051,birthday problem,concept,PART_OF,Combinatorics and Probability,topic,,,MATH_4051_triples_raw.json
+MATH_4051,genetics,concept,PART_OF,Combinatorics and Probability,topic,,,MATH_4051_triples_raw.json
+MATH_4051,inventory control,concept,PART_OF,Optimization,topic,,,MATH_4051_triples_raw.json
+MATH_4051,harvesting models,concept,SUBTYPE_OF,difference equations,concept,,,MATH_4051_triples_raw.json
+MATH_4051,orbits of celestial bodies,concept,SUBTYPE_OF,Physical Models,topic,,,MATH_4051_triples_raw.json
+MATH_4051,heat propagation,concept,SUBTYPE_OF,Physical Models,topic,,,MATH_4051_triples_raw.json
+MATH_4051,Excel,tool,USED_FOR,writing spreadsheet formulas,method,,,MATH_4051_triples_raw.json
+MATH_4051,Excel,tool,USED_FOR,iterated function systems,method,,,MATH_4051_triples_raw.json

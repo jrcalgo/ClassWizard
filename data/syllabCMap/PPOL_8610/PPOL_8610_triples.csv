@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PPOL_8610,state and governance,concept,PREREQUISITE_OF,Urban Restructuring,topic,same unit,,PPOL_8610_triples_raw.json
+PPOL_8610,gentrification and urban renewal,concept,PREREQUISITE_OF,sustainable urban development,concept,A taught first,,PPOL_8610_triples_raw.json
+PPOL_8610,globalization and economy,concept,PART_OF,Urban Restructuring,topic,,,PPOL_8610_triples_raw.json
+PPOL_8610,urbanization and society,concept,PART_OF,Urban Restructuring,topic,,,PPOL_8610_triples_raw.json
+PPOL_8610,state and governance,concept,PART_OF,Urban Restructuring,topic,,,PPOL_8610_triples_raw.json
+PPOL_8610,global city hypothesis,concept,PART_OF,Theoretical Frameworks of Urban Change,topic,,,PPOL_8610_triples_raw.json
+PPOL_8610,research design and methodology,concept,PART_OF,Role of Literature Review in Research,topic,,,PPOL_8610_triples_raw.json
+PPOL_8610,literature review process,concept,PART_OF,Role of Literature Review in Research,topic,,,PPOL_8610_triples_raw.json
+PPOL_8610,critical evaluation skills,concept,PART_OF,Role of Literature Review in Research,topic,,,PPOL_8610_triples_raw.json
+PPOL_8610,sustainable urban development,concept,PART_OF,Urban Planning and Policy Challenges,topic,,,PPOL_8610_triples_raw.json
+PPOL_8610,equitable urban governance,concept,PART_OF,Urban Planning and Policy Challenges,topic,,,PPOL_8610_triples_raw.json

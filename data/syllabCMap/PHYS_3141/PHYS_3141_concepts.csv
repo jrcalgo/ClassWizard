@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_3141,topic,Modern Physics,Modern Physics,1,verified,Modern Physics,PHYS_3141_concepts_raw.json
+PHYS_3141,topic,Special Theory of Relativity,special theory of relativity,1,verified,Special Theory of Relativity,PHYS_3141_concepts_raw.json
+PHYS_3141,topic,Quantum Theory of Light,quantum theory of light,1,verified,Quantum Theory of Light,PHYS_3141_concepts_raw.json
+PHYS_3141,topic,Particle Nature of Matter,particle nature of matter,1,verified,Particle Nature of Matter,PHYS_3141_concepts_raw.json
+PHYS_3141,topic,Atomic Physics,atomic physics,1,verified,Atomic Physics,PHYS_3141_concepts_raw.json
+PHYS_3141,topic,Statistical Physics,statistical physics,1,verified,Statistical Physics,PHYS_3141_concepts_raw.json
+PHYS_3141,topic,Nuclear Physics,nuclear physics,1,verified,Nuclear Physics,PHYS_3141_concepts_raw.json
+PHYS_3141,concept,Failures of Classical Physics,Failures of Classical Physics,1,verified,Failures of Classical Physics,PHYS_3141_concepts_raw.json

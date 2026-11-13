@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_4182,Design Research,topic,PREREQUISITE_OF,ideation,concept,same unit,,ARTG_4182_triples_raw.json
+ARTG_4182,ideation,concept,PREREQUISITE_OF,informed speculation,concept,A taught first,,ARTG_4182_triples_raw.json
+ARTG_4182,ideation,concept,PREREQUISITE_OF,data visualization,concept,A taught first,,ARTG_4182_triples_raw.json
+ARTG_4182,ideation,concept,PREREQUISITE_OF,persuasion,concept,A taught first,,ARTG_4182_triples_raw.json
+ARTG_4182,design aesthetics,concept,PREREQUISITE_OF,commercial contexts,concept,A mentioned first,,ARTG_4182_triples_raw.json
+ARTG_4182,design aesthetics,concept,PREREQUISITE_OF,cultural contexts,concept,A taught first,,ARTG_4182_triples_raw.json
+ARTG_4182,design process,concept,PART_OF,Design Research,topic,,,ARTG_4182_triples_raw.json
+ARTG_4182,ideation,concept,PART_OF,design process,concept,,,ARTG_4182_triples_raw.json
+ARTG_4182,informed speculation,concept,PART_OF,design process,concept,,,ARTG_4182_triples_raw.json
+ARTG_4182,data visualization,concept,PART_OF,design process,concept,,,ARTG_4182_triples_raw.json
+ARTG_4182,persuasion,concept,PART_OF,design process,concept,,,ARTG_4182_triples_raw.json
+ARTG_4182,design aesthetics,concept,PART_OF,design process,concept,,,ARTG_4182_triples_raw.json
+ARTG_4182,commercial contexts,concept,PART_OF,Design Research,topic,,,ARTG_4182_triples_raw.json
+ARTG_4182,cultural contexts,concept,PART_OF,Design Research,topic,,,ARTG_4182_triples_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETCE_2163L,laboratory tests,method,USED_FOR,modes of structural failure,concept,,,ETCE_2163L_triples_raw.json
+ETCE_2163L,data collection,method,USED_FOR,making informed engineering decisions,method,,,ETCE_2163L_triples_raw.json

@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_3210,topic,Computational Physics,Computational Physics,2,verified,Introduction to Computational Physics,PHYS_3210_concepts_raw.json
+PHYS_3210,tool,MATLAB,MATLAB,2,verified,MATLAB,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,MATLAB basics,MATLAB basics,1,inferred,MATLAB basics,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Programming environment setup,Programming environment setup,1,inferred,Programming environment setup,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Basic syntax and data types,Basic syntax and data types,1,inferred,Basic syntax and data types,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Variable declaration and assignment,Variable declaration and assignment,1,inferred,Variable declaration and assignment,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Arrays and vector operations,Arrays and vector operations,1,inferred,Arrays and vector operations,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Matrix manipulation techniques,Matrix manipulation techniques,1,inferred,Matrix manipulation techniques,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Conditional statements and loops,Conditional statements and loops,1,inferred,Conditional statements and loops,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,If-else statements and switch cases,If-else statements and switch cases,1,inferred,If-else statements and switch cases,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,For and while loop syntax,For and while loop syntax,1,inferred,For and while loop syntax,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Function definition and calling,Function definition and calling,1,inferred,Function definition and calling,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Argument passing and return values,Argument passing and return values,1,inferred,Argument passing and return values,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Module organization and reuse,Module organization and reuse,1,inferred,Module organization and reuse,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Numerical integration techniques,Numerical integration techniques,1,inferred,Numerical integration techniques,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Solving ordinary differential equations,Solving ordinary differential equations,1,inferred,Solving ordinary differential equations,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Energy conservation methods,Energy conservation methods,1,inferred,Energy conservation methods,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Particle-in-cell simulations,Particle-in-cell simulations,1,inferred,Particle-in-cell simulations,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Finite difference methods for PDEs,Finite difference methods for PDEs,1,inferred,Finite difference methods for PDEs,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Boundary conditions and periodicity,Boundary conditions and periodicity,1,inferred,Boundary conditions and periodicity,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Plotting techniques and customization,Plotting techniques and customization,1,inferred,Plotting techniques and customization,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Data fitting and curve analysis,Data fitting and curve analysis,1,inferred,Data fitting and curve analysis,PHYS_3210_concepts_raw.json
+PHYS_3210,topic,Error estimation and propagation,Error estimation and propagation,1,inferred,Error estimation and propagation,PHYS_3210_concepts_raw.json

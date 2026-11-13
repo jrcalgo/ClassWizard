@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_2112,topic,AC Circuits,AC circuits,1,verified,AC Circuits,ECGR_2112_concepts_raw.json
+ECGR_2112,topic,Network Theory II,Network Theory II,1,verified,Network Theory II,ECGR_2112_concepts_raw.json
+ECGR_2112,topic,Complex Numbers,Complex numbers,4,verified,Complex Numbers,ECGR_2112_concepts_raw.json
+ECGR_2112,topic,Sinusoidal Steady State Analysis,Sinusoidal steady state analysis,2,verified,Sinusoidal Steady State Analysis,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,phasors,phasors,4,verified,phasors,ECGR_2112_concepts_raw.json
+ECGR_2112,topic,Power and Energy in Single-Phase Circuits,Power and energy in single -phase circuits,1,verified,Power and Energy in Single-Phase Circuits,ECGR_2112_concepts_raw.json
+ECGR_2112,topic,Frequency-Domain Analysis,Frequency -domain analysis,1,verified,Frequency-Domain Analysis,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,Bode Plots,Bode Plots,2,verified,Bode Plots,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,Laplace transforms,Laplace transforms,4,verified,Laplace transforms,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,sinusoids,sinusoids,2,verified,sinusoids,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,complex forcing functions,complex forcing functions,3,verified,complex forcing functions,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,impedance,impedance,3,verified,impedance,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,admittance,admittance,2,verified,admittance,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,Kirchhoff's laws,Kirchhoff's laws,1,verified,Kirchhoff's laws,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,instantaneous power,instantaneous power,3,verified,instantaneous power,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,average power,average power,3,verified,average power,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,RMS values,RMS values,3,verified,RMS values,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,power factor,power factor,5,verified,power factor,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,complex power,complex power,3,verified,complex power,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,mutual inductance,Mutual inductance,2,verified,mutual inductance,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,ideal transformer circuits,ideal transformer circuits,1,verified,ideal transformer circuits,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,frequency response,frequency response,3,verified,frequency response,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,Fourier series,Fourier series,3,verified,Fourier series,ECGR_2112_concepts_raw.json
+ECGR_2112,concept,Fourier transforms,Fourier transforms,2,verified,Fourier transforms,ECGR_2112_concepts_raw.json
+ECGR_2112,method,phasor diagrams,Phasor diagrams,1,verified,phasor diagrams,ECGR_2112_concepts_raw.json
+ECGR_2112,method,AC analysis using Kirchoff's laws,AC analysis using Kirchoff's laws,1,verified,AC analysis using Kirchoff's laws,ECGR_2112_concepts_raw.json
+ECGR_2112,method,power measurements,Power measurements,1,verified,power measurements,ECGR_2112_concepts_raw.json
+ECGR_2112,method,correction,correction,2,verified,correction,ECGR_2112_concepts_raw.json
+ECGR_2112,method,manipulation of complex numbers,Manipulation of complex numbers,2,verified,manipulation of complex numbers,ECGR_2112_concepts_raw.json
+ECGR_2112,method,Euler's identity,Euler's identity,2,verified,Euler's identity,ECGR_2112_concepts_raw.json

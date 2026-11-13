@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_6102,topic,Real Analysis for Secondary Mathematics Teachers,Real Analysis for Secondary Mathematics Teachers,1,verified,Real Analysis for Secondary Mathematics Teachers,MATH_6102_concepts_raw.json
+MATH_6102,topic,Real Number System,real number system,1,verified,Real Number System,MATH_6102_concepts_raw.json
+MATH_6102,topic,Sequences and Series,sequences and series,1,verified,Sequences and Series,MATH_6102_concepts_raw.json
+MATH_6102,topic,Limits and Continuity,limits and continuity,1,verified,Limits and Continuity,MATH_6102_concepts_raw.json
+MATH_6102,topic,Differentiation,differentiation,1,verified,Differentiation,MATH_6102_concepts_raw.json
+MATH_6102,concept,completeness property of the real numbers,completeness property of the real numbers,1,verified,completeness property of the real numbers,MATH_6102_concepts_raw.json
+MATH_6102,concept,convergence tests,convergence tests,1,verified,convergence tests,MATH_6102_concepts_raw.json
+MATH_6102,concept,Mean Value Theorem,Mean Value Theorems,1,verified,Mean Value Theorem,MATH_6102_concepts_raw.json
+MATH_6102,concept,Riemann integral,Riemann integral,1,verified,Riemann integral,MATH_6102_concepts_raw.json
+MATH_6102,concept,Fundamental Theorem of Calculus,Fundamental Theorem of Calculus,1,verified,Fundamental Theorem of Calculus,MATH_6102_concepts_raw.json
+MATH_6102,concept,mathematical proofs,mathematical proofs,1,verified,mathematical proofs,MATH_6102_concepts_raw.json

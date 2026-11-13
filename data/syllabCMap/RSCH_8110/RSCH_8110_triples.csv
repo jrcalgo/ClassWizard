@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_8110,data entry,concept,PART_OF,data processing,concept,,,RSCH_8110_triples_raw.json
+RSCH_8110,variable transformation,concept,PART_OF,data processing,concept,,,RSCH_8110_triples_raw.json
+RSCH_8110,contingency table,measure,PART_OF,descriptive statistics,concept,,,RSCH_8110_triples_raw.json
+RSCH_8110,effect size estimate,measure,PART_OF,research methods,topic,,,RSCH_8110_triples_raw.json
+RSCH_8110,university-based research,tool,PART_OF,research methods,topic,,,RSCH_8110_triples_raw.json
+RSCH_8110,hypothetical data,tool,PART_OF,research methods,topic,,,RSCH_8110_triples_raw.json
+RSCH_8110,SASS,tool,PART_OF,research methods,topic,,,RSCH_8110_triples_raw.json
+RSCH_8110,US census,tool,PART_OF,research methods,topic,,,RSCH_8110_triples_raw.json
+RSCH_8110,SPSS,tool,PART_OF,inferential statistics,topic,,,RSCH_8110_triples_raw.json
+RSCH_8110,non-parametric techniques,concept,SUBTYPE_OF,inferential methods,concept,,,RSCH_8110_triples_raw.json
+RSCH_8110,SPSS,tool,USED_FOR,descriptive statistics,concept,,,RSCH_8110_triples_raw.json
+RSCH_8110,SPSS,tool,USED_FOR,inferential statistics,topic,,,RSCH_8110_triples_raw.json
+RSCH_8110,SPSS,tool,USED_FOR,non-parametric techniques,concept,,,RSCH_8110_triples_raw.json

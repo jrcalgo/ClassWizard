@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2319,Aerodynamics,topic,PREREQUISITE_OF,Flight Dynamics and Stability,topic,A taught first,,MEGR_2319_triples_raw.json
+MEGR_2319,Aerodynamics,topic,PART_OF,Aerospace Engineering Discipline,concept,,part is broader than whole - check direction,MEGR_2319_triples_raw.json
+MEGR_2319,Flight Dynamics and Stability,topic,PART_OF,Aerospace Engineering Discipline,concept,,part is broader than whole - check direction,MEGR_2319_triples_raw.json
+MEGR_2319,Lift and Drag Forces,topic,PART_OF,Aerodynamics,topic,,,MEGR_2319_triples_raw.json
+MEGR_2319,Bernoulli's Principle Application,topic,PART_OF,Aerodynamics,topic,,,MEGR_2319_triples_raw.json
+MEGR_2319,Airfoil Shape Design,topic,PART_OF,Aerodynamics,topic,,,MEGR_2319_triples_raw.json
+MEGR_2319,Newton's Laws Application,topic,PART_OF,Flight Dynamics and Stability,topic,,,MEGR_2319_triples_raw.json
+MEGR_2319,Angular Momentum Conservation,topic,PART_OF,Flight Dynamics and Stability,topic,,,MEGR_2319_triples_raw.json
+MEGR_2319,Newton's Laws,concept,USED_FOR,Flight Dynamics and Stability,topic,,,MEGR_2319_triples_raw.json
+MEGR_2319,Bernoulli's Principle,concept,USED_FOR,Lift and Drag Forces,topic,,,MEGR_2319_triples_raw.json

@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_6225,topic,Civil Engineering System Failures,Civil Engineering System Failures,1,inferred,Civil Engineering System Failures,CEGR_6225_concepts_raw.json
+CEGR_6225,topic,Failure Analysis,Failure Analysis,3,inferred,Introduction to Failure Analysis,CEGR_6225_concepts_raw.json
+CEGR_6225,topic,Structural System Failures,Structural System Failures,1,inferred,Structural System Failures,CEGR_6225_concepts_raw.json
+CEGR_6225,topic,Building Systems and Failures,Building Systems and Failures,1,inferred,Building Systems and Failures,CEGR_6225_concepts_raw.json
+CEGR_6225,topic,Geotechnical System Failures,Geotechnical System Failures,1,inferred,Geotechnical System Failures,CEGR_6225_concepts_raw.json
+CEGR_6225,topic,Case Studies in Failure Analysis,Case Studies in Failure Analysis,1,inferred,Case Studies in Failure Analysis,CEGR_6225_concepts_raw.json
+CEGR_6225,topic,Self-Directed Research Project,Self-Directed Research Project,1,inferred,Self-Directed Research Project,CEGR_6225_concepts_raw.json
+CEGR_6225,topic,Forensic Investigation Techniques,Forensic Investigation Techniques,1,inferred,Forensic Investigation Techniques,CEGR_6225_concepts_raw.json
+CEGR_6225,topic,Application of Failure Analysis,Application of Failure Analysis,1,inferred,Application of Failure Analysis,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Load Path and Load Transfer,Load Path and Load Transfer,1,inferred,Load Path and Load Transfer,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Material Properties and Behavior,Material Properties and Behavior,1,inferred,Material Properties and Behavior,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Failure Modes in Structures,Failure Modes in Structures,1,inferred,Failure Modes in Structures,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,HVAC,HVAC,1,inferred,HVAC,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Plumbing,Plumbing,1,inferred,Plumbing,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Electrical Systems,Electrical Systems,1,inferred,Electrical Systems,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Fire Safety and Protection,Fire Safety and Protection,1,inferred,Fire Safety and Protection,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Life Safety Code Compliance,Life Safety Code Compliance,1,inferred,Life Safety Code Compliance,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Soil Mechanics and Properties,Soil Mechanics and Properties,1,inferred,Soil Mechanics and Properties,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Foundation Design and Construction,Foundation Design and Construction,1,inferred,Foundation Design and Construction,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Landslide and Slope Stability,Landslide and Slope Stability,1,inferred,Landslide and Slope Stability,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Research Design and Methodology,Research Design and Methodology,1,inferred,Research Design and Methodology,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Data Collection and Analysis,Data Collection and Analysis,1,inferred,Data Collection and Analysis,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Evidence Collection and Preservation,Evidence Collection and Preservation,1,inferred,Evidence Collection and Preservation,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Witness Interviews and Statements,Witness Interviews and Statements,1,inferred,Witness Interviews and Statements,CEGR_6225_concepts_raw.json
+CEGR_6225,concept,Expert Testimony and Reporting,Expert Testimony and Reporting,1,inferred,Expert Testimony and Reporting,CEGR_6225_concepts_raw.json

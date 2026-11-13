@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_5244,extinction rates,topic,PREREQUISITE_OF,Conservation values,topic,B mentioned first,,BIOL_5244_triples_raw.json
+BIOL_5244,genetic diversity,topic,PREREQUISITE_OF,Conservation values,topic,A taught first,,BIOL_5244_triples_raw.json
+BIOL_5244,demography,topic,PREREQUISITE_OF,Conservation values,topic,B mentioned first,,BIOL_5244_triples_raw.json
+BIOL_5244,habitat fragmentation,topic,PREREQUISITE_OF,Conservation values,topic,same unit,,BIOL_5244_triples_raw.json
+BIOL_5244,reserve management,topic,PREREQUISITE_OF,Conservation values,topic,same unit,,BIOL_5244_triples_raw.json
+BIOL_5244,ecological restoration,topic,PREREQUISITE_OF,Conservation values,topic,B taught first,B is taught before A - check,BIOL_5244_triples_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_3050,Swift Programming,concept,PREREQUISITE_OF,iOS development,topic,A mentioned first,,ITCS_3050_triples_raw.json
+ITCS_3050,Swift Programming,concept,PREREQUISITE_OF,app development with UIKIt,topic,A mentioned first,,ITCS_3050_triples_raw.json
+ITCS_3050,Xcode IDE,tool,PREREQUISITE_OF,iOS development,topic,B mentioned first,,ITCS_3050_triples_raw.json
+ITCS_3050,Xcode IDE,tool,PREREQUISITE_OF,app development with UIKIt,topic,B mentioned first,,ITCS_3050_triples_raw.json
+ITCS_3050,Xcode IDE,tool,PREREQUISITE_OF,model-view-controller architecture (MVC,topic,B mentioned first,,ITCS_3050_triples_raw.json
+ITCS_3050,Xcode IDE,tool,PREREQUISITE_OF,developing engaging User Interfaces (UI,topic,B mentioned first,,ITCS_3050_triples_raw.json
+ITCS_3050,Swift Programming,concept,PART_OF,iOS development,topic,,,ITCS_3050_triples_raw.json
+ITCS_3050,Swift Programming,concept,PART_OF,app development with UIKIt,topic,,,ITCS_3050_triples_raw.json
+ITCS_3050,View Controllers,concept,PART_OF,MVC Architecture,concept,,,ITCS_3050_triples_raw.json
+ITCS_3050,Data Modeling,concept,PART_OF,MVC Architecture,concept,,,ITCS_3050_triples_raw.json
+ITCS_3050,Error Handling,concept,PART_OF,MVC Architecture,concept,,,ITCS_3050_triples_raw.json
+ITCS_3050,Xcode IDE,tool,USED_FOR,Swift Programming,concept,,,ITCS_3050_triples_raw.json

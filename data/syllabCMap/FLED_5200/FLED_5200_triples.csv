@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FLED_5200,communicative proficiency,concept,PART_OF,Proficiency-Based Instruction,topic,,,FLED_5200_triples_raw.json
+FLED_5200,ACTFL Proficiency Guidelines,concept,PART_OF,Proficiency-Based Instruction,topic,,,FLED_5200_triples_raw.json
+FLED_5200,NCSSFL-ACTFL Can Do statements,concept,PART_OF,Proficiency-Based Instruction,topic,,,FLED_5200_triples_raw.json
+FLED_5200,presentational communication,concept,PART_OF,communicative proficiency,concept,,,FLED_5200_triples_raw.json
+FLED_5200,integrated performance assessment,concept,PART_OF,communicative proficiency,concept,,,FLED_5200_triples_raw.json
+FLED_5200,instructional resources,concept,PART_OF,Lesson Planning Process,topic,,,FLED_5200_triples_raw.json
+FLED_5200,learning tasks and activities,concept,PART_OF,Lesson Planning Process,topic,,,FLED_5200_triples_raw.json
+FLED_5200,ACTFL Proficiency Guidelines,concept,USED_FOR,Proficiency-Based Instruction,topic,,,FLED_5200_triples_raw.json

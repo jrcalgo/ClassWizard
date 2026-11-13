@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3230,marketing value to consumers,concept,PREREQUISITE_OF,marketing value to business,concept,same unit,,MKTG_3230_triples_raw.json
+MKTG_3230,strategy design and development,concept,PREREQUISITE_OF,tactic proposal and implementation,concept,same unit,,MKTG_3230_triples_raw.json
+MKTG_3230,Marketing in the Digital Age,topic,PART_OF,marketing mix analysis,concept,,part is broader than whole - check direction,MKTG_3230_triples_raw.json
+MKTG_3230,Social Media Platforms,topic,PART_OF,Instagram marketing strategy,concept,,part is broader than whole - check direction,MKTG_3230_triples_raw.json
+MKTG_3230,Marketing Situation Analysis,topic,PART_OF,current marketing situation audit,concept,,part is broader than whole - check direction,MKTG_3230_triples_raw.json
+MKTG_3230,Instagram marketing strategy,concept,SUBTYPE_OF,social media marketing strategy,concept,,,MKTG_3230_triples_raw.json
+MKTG_3230,social media marketing strategy,concept,USED_FOR,clear marketing objectives,concept,,,MKTG_3230_triples_raw.json
+MKTG_3230,mobile advertising and promotions,concept,USED_FOR,Instagram marketing strategy,concept,,,MKTG_3230_triples_raw.json
+MKTG_3230,digital marketing mix,concept,USED_FOR,Marketing Situation Analysis,topic,,,MKTG_3230_triples_raw.json
+MKTG_3230,marketing value to consumers,concept,USED_FOR,global marketplace context,concept,,,MKTG_3230_triples_raw.json
+MKTG_3230,team formation process,concept,USED_FOR,communication strategies,concept,,,MKTG_3230_triples_raw.json
+MKTG_3230,current marketing situation audit,concept,USED_FOR,marketing mix analysis,concept,,,MKTG_3230_triples_raw.json

@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+COMM_3053,topic,"Sport, Media, and Culture","Sport, Media, and Culture",1,verified,"Sport, Media, and Culture",COMM_3053_concepts_raw.json
+COMM_3053,topic,Rhetoric,Rhetoric,2,verified,Rhetoric,COMM_3053_concepts_raw.json
+COMM_3053,concept,Social Change,Social Change,2,verified,Social Change,COMM_3053_concepts_raw.json
+COMM_3053,concept,Corporeality,corporeality,1,verified,Corporeality,COMM_3053_concepts_raw.json
+COMM_3053,concept,Space,space,1,verified,Space,COMM_3053_concepts_raw.json
+COMM_3053,concept,Scene,scene,1,verified,Scene,COMM_3053_concepts_raw.json
+COMM_3053,concept,Time,time,1,verified,Time,COMM_3053_concepts_raw.json

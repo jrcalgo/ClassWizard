@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_7174,Second-Order Linear ODEs,topic,PREREQUISITE_OF,Higher-Order Linear ODEs,topic,A taught first,,MEGR_7174_triples_raw.json
+MEGR_7174,Series Solutions of ODEs,topic,PREREQUISITE_OF,Partial Differential Equations,topic,A taught first,,MEGR_7174_triples_raw.json
+MEGR_7174,wave equation,concept,PART_OF,Partial Differential Equations,topic,,,MEGR_7174_triples_raw.json
+MEGR_7174,heat equation,concept,PART_OF,Partial Differential Equations,topic,,,MEGR_7174_triples_raw.json
+MEGR_7174,Laplace's equation,concept,PART_OF,Partial Differential Equations,topic,,,MEGR_7174_triples_raw.json
+MEGR_7174,mass-spring systems,concept,PART_OF,Free and Forced Oscillations,topic,,,MEGR_7174_triples_raw.json
+MEGR_7174,electric circuits,concept,PART_OF,Free and Forced Oscillations,topic,,,MEGR_7174_triples_raw.json
+MEGR_7174,Higher-Order Linear ODEs,topic,SUBTYPE_OF,Second-Order Linear ODEs,topic,,,MEGR_7174_triples_raw.json
+MEGR_7174,Sturm-Liouville theory,method,USED_FOR,Fourier series,concept,,,MEGR_7174_triples_raw.json
+MEGR_7174,d'Alembert's solution,method,USED_FOR,wave equation,concept,,,MEGR_7174_triples_raw.json
+MEGR_7174,separation of variables,method,USED_FOR,Laplace's equation,concept,,,MEGR_7174_triples_raw.json

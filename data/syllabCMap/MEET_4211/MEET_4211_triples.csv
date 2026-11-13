@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_4211,finite element method,method,PREREQUISITE_OF,thermal analysis,topic,A taught first,,MEET_4211_triples_raw.json
+MEET_4211,finite element method,method,PREREQUISITE_OF,use of FEA for stress analysis,topic,A taught first,,MEET_4211_triples_raw.json
+MEET_4211,finite element method,method,PREREQUISITE_OF,important distinctions between FEA results,topic,A mentioned first,,MEET_4211_triples_raw.json
+MEET_4211,finite element method,method,PREREQUISITE_OF,theoretical results,topic,A mentioned first,,MEET_4211_triples_raw.json
+MEET_4211,finite element method,method,PREREQUISITE_OF,experimental results,topic,A mentioned first,,MEET_4211_triples_raw.json
+MEET_4211,local and global stiffness matrices,concept,PREREQUISITE_OF,use of FEA for stress analysis,topic,B mentioned first,,MEET_4211_triples_raw.json
+MEET_4211,local and global stiffness matrices,concept,PREREQUISITE_OF,theoretical results,topic,B mentioned first,,MEET_4211_triples_raw.json
+MEET_4211,local and global stiffness matrices,concept,PREREQUISITE_OF,experimental results,topic,B mentioned first,,MEET_4211_triples_raw.json
+MEET_4211,thermal analysis,topic,PART_OF,use of FEA for stress analysis,topic,,,MEET_4211_triples_raw.json
+MEET_4211,thermal analysis,topic,PART_OF,important distinctions between FEA results,topic,,,MEET_4211_triples_raw.json
+MEET_4211,thermal analysis,topic,PART_OF,theoretical results,topic,,,MEET_4211_triples_raw.json
+MEET_4211,thermal analysis,topic,PART_OF,experimental results,topic,,,MEET_4211_triples_raw.json
+MEET_4211,use of FEA for stress analysis,topic,PART_OF,important distinctions between FEA results,topic,,,MEET_4211_triples_raw.json
+MEET_4211,theoretical results,topic,PART_OF,experimental results,topic,,,MEET_4211_triples_raw.json
+MEET_4211,SolidWorks,tool,USED_FOR,use of FEA for stress analysis,topic,,,MEET_4211_triples_raw.json
+MEET_4211,SolidWorks,tool,USED_FOR,important distinctions between FEA results,topic,,,MEET_4211_triples_raw.json
+MEET_4211,SolidWorks,tool,USED_FOR,theoretical results,topic,,,MEET_4211_triples_raw.json

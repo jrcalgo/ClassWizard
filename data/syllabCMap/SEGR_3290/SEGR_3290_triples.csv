@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_3290,Team Formation Process,concept,PART_OF,Project Formation,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Engineering Design Principles,concept,PART_OF,Design Philosophy,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Time Management Techniques,concept,PART_OF,Project Planning,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Budgeting and Cost Estimation,concept,PART_OF,Project Planning,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Risk Assessment and Mitigation,concept,PART_OF,Project Planning,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Design Concept Development,concept,PART_OF,Conceptual Design,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Feasibility Study and Analysis,concept,PART_OF,Conceptual Design,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Initial Design Specifications,concept,PART_OF,Conceptual Design,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Design Review Process and Criteria,concept,PART_OF,Preliminary Design Review,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Project Progress Monitoring,concept,PART_OF,Progress Evaluation,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Team Performance Assessment,concept,PART_OF,Progress Evaluation,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Client Satisfaction Evaluation,concept,PART_OF,Progress Evaluation,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Project Status Update and Analysis,concept,PART_OF,Mid-Project Review,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Design Refinement and Optimization,concept,PART_OF,Mid-Project Review,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Risk Management and Mitigation,concept,PART_OF,Mid-Project Review,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Final Design Specifications and Documentation,concept,PART_OF,Final Design Package,topic,,,SEGR_3290_triples_raw.json
+SEGR_3290,Client Review and Feedback,concept,PART_OF,Final Design Package,topic,,,SEGR_3290_triples_raw.json

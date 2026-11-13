@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_6273,topic,Advanced Human Physiology,Advanced Human Physiology,2,verified,Advanced Human Physiology,NURS_6273_concepts_raw.json
+NURS_6273,topic,Endocrine System,endocrine systems,1,verified,Endocrine System,NURS_6273_concepts_raw.json
+NURS_6273,topic,Cellular Physiology,cellular physiology,1,verified,Cellular Physiology,NURS_6273_concepts_raw.json
+NURS_6273,topic,Disease and Intervention,disease and interventions,1,verified,Disease and Intervention,NURS_6273_concepts_raw.json
+NURS_6273,topic,Cardiovascular System,Cardiovascular System,1,inferred,Cardiovascular System,NURS_6273_concepts_raw.json
+NURS_6273,topic,Respiratory System,Respiratory System,1,inferred,Respiratory System,NURS_6273_concepts_raw.json
+NURS_6273,topic,Renal System,Renal System,1,inferred,Renal System,NURS_6273_concepts_raw.json
+NURS_6273,topic,Nervous System,Nervous System,1,inferred,Nervous System,NURS_6273_concepts_raw.json
+NURS_6273,topic,Physiological Integration,Physiological Integration,1,inferred,Physiological Integration,NURS_6273_concepts_raw.json
+NURS_6273,concept,Heart Structure and Function,Heart Structure and Function,1,inferred,Heart Structure and Function,NURS_6273_concepts_raw.json
+NURS_6273,concept,Blood Pressure Regulation,Blood Pressure Regulation,1,inferred,Blood Pressure Regulation,NURS_6273_concepts_raw.json
+NURS_6273,concept,Vascular Resistance Control,Vascular Resistance Control,1,inferred,Vascular Resistance Control,NURS_6273_concepts_raw.json
+NURS_6273,concept,Lung Anatomy and Physiology,Lung Anatomy and Physiology,1,inferred,Lung Anatomy and Physiology,NURS_6273_concepts_raw.json
+NURS_6273,concept,Gas Exchange Mechanisms,Gas Exchange Mechanisms,1,inferred,Gas Exchange Mechanisms,NURS_6273_concepts_raw.json
+NURS_6273,concept,Breathing Control Systems,Breathing Control Systems,1,inferred,Breathing Control Systems,NURS_6273_concepts_raw.json
+NURS_6273,concept,Kidney Structure and Function,Kidney Structure and Function,1,inferred,Kidney Structure and Function,NURS_6273_concepts_raw.json
+NURS_6273,concept,Fluid Balance Regulation,Fluid Balance Regulation,1,inferred,Fluid Balance Regulation,NURS_6273_concepts_raw.json
+NURS_6273,concept,Electrolyte Balance Control,Electrolyte Balance Control,1,inferred,Electrolyte Balance Control,NURS_6273_concepts_raw.json
+NURS_6273,concept,Neuron Structure and Function,Neuron Structure and Function,1,inferred,Neuron Structure and Function,NURS_6273_concepts_raw.json
+NURS_6273,concept,Synaptic Transmission Mechanisms,Synaptic Transmission Mechanisms,1,inferred,Synaptic Transmission Mechanisms,NURS_6273_concepts_raw.json
+NURS_6273,concept,Brain-Body Communication Systems,Brain-Body Communication Systems,1,inferred,Brain-Body Communication Systems,NURS_6273_concepts_raw.json
+NURS_6273,concept,Hormone Production and Regulation,Hormone Production and Regulation,1,inferred,Hormone Production and Regulation,NURS_6273_concepts_raw.json
+NURS_6273,concept,Feedback Loops in Hormone Control,Feedback Loops in Hormone Control,1,inferred,Feedback Loops in Hormone Control,NURS_6273_concepts_raw.json
+NURS_6273,concept,Hormonal Influence on Metabolism,Hormonal Influence on Metabolism,1,inferred,Hormonal Influence on Metabolism,NURS_6273_concepts_raw.json
+NURS_6273,concept,Cell Membrane Structure and Function,Cell Membrane Structure and Function,1,inferred,Cell Membrane Structure and Function,NURS_6273_concepts_raw.json
+NURS_6273,concept,Ion Channel Mechanisms,Ion Channel Mechanisms,1,inferred,Ion Channel Mechanisms,NURS_6273_concepts_raw.json
+NURS_6273,concept,Signal Transduction Pathways,Signal Transduction Pathways,1,inferred,Signal Transduction Pathways,NURS_6273_concepts_raw.json
+NURS_6273,concept,System Interactions and Feedback Loops,System Interactions and Feedback Loops,1,inferred,System Interactions and Feedback Loops,NURS_6273_concepts_raw.json
+NURS_6273,concept,Homeostatic Control Mechanisms,Homeostatic Control Mechanisms,1,inferred,Homeostatic Control Mechanisms,NURS_6273_concepts_raw.json
+NURS_6273,concept,Adaptation to Stress and Disease,Adaptation to Stress and Disease,1,inferred,Adaptation to Stress and Disease,NURS_6273_concepts_raw.json
+NURS_6273,concept,Physiological Changes in Disease States,Physiological Changes in Disease States,1,inferred,Physiological Changes in Disease States,NURS_6273_concepts_raw.json
+NURS_6273,concept,Pharmacological Agent Effects on Systems,Pharmacological Agent Effects on Systems,1,inferred,Pharmacological Agent Effects on Systems,NURS_6273_concepts_raw.json

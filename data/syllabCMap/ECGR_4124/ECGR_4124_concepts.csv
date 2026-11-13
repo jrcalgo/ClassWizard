@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4124,topic,Digital Signal Processing,Digital Signal Processing,3,verified,Digital Signal Processing,ECGR_4124_concepts_raw.json
+ECGR_4124,topic,Discrete-Time Systems,discrete-time systems,1,verified,Discrete-Time Systems,ECGR_4124_concepts_raw.json
+ECGR_4124,topic,Fourier Transform,Fourier transforms,1,verified,Fourier Transform,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,sampling and aliasing,Sampling and aliasing,1,verified,sampling and aliasing,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,discrete-time system stability,Discrete-time system stability,1,verified,discrete-time system stability,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,discrete-time Fourier transform,Discrete-time Fourier transform,1,verified,discrete-time Fourier transform,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,z-transform,z-transform,2,verified,z-transform,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,region of convergence,region of convergence,1,verified,region of convergence,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,infinite impulse response systems,Infinite impulse response systems,1,verified,infinite impulse response systems,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,finite impulse response systems,Finite impulse response systems,1,verified,finite impulse response systems,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,basic discrete-time signals,basic discrete-time signals,1,verified,basic discrete-time signals,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,difference equations,difference equations,1,verified,difference equations,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,convolution,convolution,2,verified,convolution,ECGR_4124_concepts_raw.json
+ECGR_4124,concept,digital filters,digital filters,1,verified,digital filters,ECGR_4124_concepts_raw.json

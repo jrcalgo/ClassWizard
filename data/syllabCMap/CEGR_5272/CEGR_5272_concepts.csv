@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_5272,topic,Geotechnical Engineering,geotechnical engineering,1,verified,Geotechnical Engineering,CEGR_5272_concepts_raw.json
+CEGR_5272,topic,Designing with Geosynthetics,Designing with Geosynthetics,2,verified,Designing with Geosynthetics,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,soil classification systems,Soil Classification Systems,1,inferred,soil classification systems,CEGR_5272_concepts_raw.json
+CEGR_5272,topic,Pavement Design Considerations,Pavement Design Considerations,1,inferred,Pavement Design Considerations,CEGR_5272_concepts_raw.json
+CEGR_5272,topic,Embankment Stability Issues,Embankment Stability Issues,1,inferred,Embankment Stability Issues,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,slope stability analysis,Slope Stability Analysis,1,inferred,slope stability analysis,CEGR_5272_concepts_raw.json
+CEGR_5272,topic,Soil Stabilization Techniques,Soil Stabilization Techniques,1,inferred,Soil Stabilization Techniques,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,drainage mechanisms in geosynthetics,Drainage Mechanisms in Geosynthetics,1,inferred,drainage mechanisms in geosynthetics,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,geosynthetic definition,Geosynthetic Definition,1,inferred,geosynthetic definition,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,geotextile separation mechanisms,Geotextile Separation Mechanisms,1,inferred,geotextile separation mechanisms,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,load transfer mechanisms,Load Transfer Mechanisms,1,inferred,load transfer mechanisms,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,filtration mechanisms in geosynthetics,Filtration Mechanisms in Geosynthetics,1,inferred,filtration mechanisms in geosynthetics,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,geomaterials limitations,Geomaterials Limitations,1,inferred,geomaterials limitations,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,geosynthetic reinforced pavements,Geosynthetic Reinforced Pavements,1,inferred,geosynthetic reinforced pavements,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,geocomposite separation systems,Geocomposite Separation Systems,1,inferred,geocomposite separation systems,CEGR_5272_concepts_raw.json
+CEGR_5272,concept,geosynthetic reinforcement systems,Geosynthetic Reinforcement Systems,1,inferred,geosynthetic reinforcement systems,CEGR_5272_concepts_raw.json

@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PPOL_8000,topic,Gender,Gender,5,verified,Gender,PPOL_8000_concepts_raw.json
+PPOL_8000,topic,Work,Work,5,verified,Work,PPOL_8000_concepts_raw.json
+PPOL_8000,topic,Organizations,Organizations,3,verified,Organizations,PPOL_8000_concepts_raw.json
+PPOL_8000,topic,Labor Market Participation,labor market participation,1,verified,Labor Market Participation,PPOL_8000_concepts_raw.json
+PPOL_8000,topic,Sociological Theory,Sociological Theory,1,inferred,Sociological Theory,PPOL_8000_concepts_raw.json
+PPOL_8000,topic,Intersectionality,Intersectionality,2,inferred,Intersectionality,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Social Construction of Gender,Social Construction of Gender,1,inferred,Social Construction of Gender,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Occupational Segregation Patterns,Occupational Segregation Patterns,1,inferred,Occupational Segregation Patterns,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Career Advancement Barriers,Career Advancement Barriers,1,inferred,Career Advancement Barriers,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Glass Ceiling Phenomenon,Glass Ceiling Phenomenon,1,inferred,Glass Ceiling Phenomenon,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Occupational Stereotypes Influence,Occupational Stereotypes Influence,1,inferred,Occupational Stereotypes Influence,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Sexual Harassment in Workplace,Sexual Harassment in Workplace,1,inferred,Sexual Harassment in Workplace,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Gender Bias in Hiring Practices,Gender Bias in Hiring Practices,1,inferred,Gender Bias in Hiring Practices,PPOL_8000_concepts_raw.json
+PPOL_8000,topic,Organizational Culture Impact,Organizational Culture Impact,1,inferred,Organizational Culture Impact,PPOL_8000_concepts_raw.json
+PPOL_8000,topic,Racial and Ethnic Disparities,Racial and Ethnic Disparities,1,inferred,Racial and Ethnic Disparities,PPOL_8000_concepts_raw.json
+PPOL_8000,topic,Disability and Work Experiences,Disability and Work Experiences,1,inferred,Disability and Work Experiences,PPOL_8000_concepts_raw.json
+PPOL_8000,topic,LGBTQ+ Labor Market Outcomes,LGBTQ+ Labor Market Outcomes,1,inferred,LGBTQ+ Labor Market Outcomes,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Gender and Sociological Theory,Gender and Sociological Theory,1,inferred,Gender and Sociological Theory,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Intersectionality Concept,Intersectionality Concept,1,inferred,Intersectionality Concept,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Men's Labor Market Outcomes,Men's Labor Market Outcomes,1,inferred,Men's Labor Market Outcomes,PPOL_8000_concepts_raw.json
+PPOL_8000,concept,Women's Labor Market Outcomes,Women's Labor Market Outcomes,1,inferred,Women's Labor Market Outcomes,PPOL_8000_concepts_raw.json

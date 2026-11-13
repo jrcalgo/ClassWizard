@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JAPN_3040,Post-War Japanese Society,concept,PREREQUISITE_OF,Occupation and Reconstruction,concept,same unit,,JAPN_3040_triples_raw.json
+JAPN_3040,Post-War Japanese Society,concept,PREREQUISITE_OF,Economic Growth and Change,concept,same unit,,JAPN_3040_triples_raw.json
+JAPN_3040,Akira Kurosawa's Influence,concept,PREREQUISITE_OF,New Wave Movement Emergence,concept,same unit,,JAPN_3040_triples_raw.json
+JAPN_3040,Early TV Broadcasting History,concept,PREREQUISITE_OF,Soap Operas and Variety Shows,concept,same unit,,JAPN_3040_triples_raw.json
+JAPN_3040,Rise of Video Game Industry,concept,PREREQUISITE_OF,Virtual Reality Technology,concept,same unit,,JAPN_3040_triples_raw.json

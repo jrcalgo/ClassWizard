@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_8174,topic,Engineering Analysis I,Engineering Analysis I,1,verified,Engineering Analysis I,MEGR_8174_concepts_raw.json
+MEGR_8174,topic,Second-Order Linear ODEs,second-order linear ODEs,1,verified,Second-Order Linear ODEs,MEGR_8174_concepts_raw.json
+MEGR_8174,topic,Free and Forced Oscillations,free and forced oscillations,2,verified,Free and Forced Oscillations,MEGR_8174_concepts_raw.json
+MEGR_8174,topic,Higher-Order Linear ODEs,higher-order linear ODEs,1,verified,Higher-Order Linear ODEs,MEGR_8174_concepts_raw.json
+MEGR_8174,topic,Series Solutions of ODEs,series solutions of ODEs,1,verified,Series Solutions of ODEs,MEGR_8174_concepts_raw.json
+MEGR_8174,topic,Partial Differential Equations,partial differential equations,1,verified,Partial Differential Equations,MEGR_8174_concepts_raw.json
+MEGR_8174,method,separation of variables,separation of variables,3,verified,separation of variables,MEGR_8174_concepts_raw.json
+MEGR_8174,method,exact equations,exact equations,1,verified,exact equations,MEGR_8174_concepts_raw.json
+MEGR_8174,method,integrating factors,integrating factors,1,verified,integrating factors,MEGR_8174_concepts_raw.json
+MEGR_8174,method,linear methods,linear methods,1,verified,linear methods,MEGR_8174_concepts_raw.json
+MEGR_8174,method,Bernoulli substitution,Bernoulli substitution,1,verified,Bernoulli substitution,MEGR_8174_concepts_raw.json
+MEGR_8174,method,direction fields,direction fields,1,verified,direction fields,MEGR_8174_concepts_raw.json
+MEGR_8174,method,Euler's method,Euler's method,1,verified,Euler's method,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,characteristic equation,characteristic equation,1,verified,characteristic equation,MEGR_8174_concepts_raw.json
+MEGR_8174,method,reduction of order,reduction of order,1,verified,reduction of order,MEGR_8174_concepts_raw.json
+MEGR_8174,method,undetermined coefficients,undetermined coefficients,1,verified,undetermined coefficients,MEGR_8174_concepts_raw.json
+MEGR_8174,method,variation of parameters,variation of parameters,1,verified,variation of parameters,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,Wronskian,Wronskian,1,verified,Wronskian,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,mass-spring systems,mass-spring systems,1,verified,mass-spring systems,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,electric circuits,electric circuits,2,verified,electric circuits,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,damping regimes,damping regimes,1,verified,damping regimes,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,resonance,resonance,2,verified,resonance,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,beats,beats,1,verified,beats,MEGR_8174_concepts_raw.json
+MEGR_8174,method,power series method,power series method,1,verified,power series method,MEGR_8174_concepts_raw.json
+MEGR_8174,method,Frobenius method,Frobenius method,1,verified,Frobenius method,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,Legendre polynomials,Legendre polynomials,2,verified,Legendre polynomials,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,Bessel functions,Bessel functions,2,verified,Bessel functions,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,Fourier series,Fourier series,3,verified,Fourier series,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,half-range expansions,half-range expansions,1,verified,half-range expansions,MEGR_8174_concepts_raw.json
+MEGR_8174,method,Sturm-Liouville theory,Sturm-Liouville theory,1,verified,Sturm-Liouville theory,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,wave equation,wave equation,2,verified,wave equation,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,heat equation,heat equation,2,verified,heat equation,MEGR_8174_concepts_raw.json
+MEGR_8174,concept,Laplace's equation,Laplace's equation,2,verified,Laplace's equation,MEGR_8174_concepts_raw.json
+MEGR_8174,method,d'Alembert's solution,d'Alembert's solution,2,verified,d'Alembert's solution,MEGR_8174_concepts_raw.json

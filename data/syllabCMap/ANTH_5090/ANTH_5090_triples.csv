@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Artificial Intelligence Definition,concept,same unit,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Medical Diagnosis with AI,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Electronic Health Records,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Data Collection and Surveillance,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Algorithmic Decision-Making,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Music Composition with AI,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Virtual Reality and AI,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Personalized Learning with AI,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Intelligent Tutoring Systems,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Vocabulary for AI Critique,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Human vs Machine Learning,concept,PREREQUISITE_OF,Ethics of AI Development,concept,A taught first,,ANTH_5090_triples_raw.json
+ANTH_5090,Artificial Intelligence Definition,concept,PART_OF,Artificial Intelligence,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,AI Technology Types,concept,PART_OF,Artificial Intelligence,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Medical Diagnosis with AI,concept,PART_OF,Healthcare and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Electronic Health Records,concept,PART_OF,Healthcare and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Telemedicine and AI Integration,concept,PART_OF,Healthcare and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,AI in Public Policy Making,concept,PART_OF,Government and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Data Collection and Surveillance,concept,PART_OF,Government and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Algorithmic Decision-Making,concept,PART_OF,Government and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Artificial Intelligence Art Forms,concept,PART_OF,Creative Arts and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Music Composition with AI,concept,PART_OF,Creative Arts and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Personalized Learning with AI,concept,PART_OF,Education and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Intelligent Tutoring Systems,concept,PART_OF,Education and AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Vocabulary for AI Critique,concept,PART_OF,Critical Engagement with AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Bias and Fairness in AI,concept,PART_OF,Critical Engagement with AI,topic,,,ANTH_5090_triples_raw.json
+ANTH_5090,Ethics of AI Development,concept,PART_OF,Critical Engagement with AI,topic,,,ANTH_5090_triples_raw.json

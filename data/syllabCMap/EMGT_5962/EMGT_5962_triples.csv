@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_5962,supply and demand dynamics,concept,PREREQUISITE_OF,marginal cost,concept,same unit,,EMGT_5962_triples_raw.json
+EMGT_5962,supply and demand dynamics,concept,PREREQUISITE_OF,Locational Marginal Pricing,topic,A taught first,,EMGT_5962_triples_raw.json
+EMGT_5962,marginal cost,concept,PREREQUISITE_OF,restructured electricity markets,concept,A taught first,,EMGT_5962_triples_raw.json
+EMGT_5962,marginal cost,concept,PREREQUISITE_OF,Locational Marginal Pricing,topic,A taught first,,EMGT_5962_triples_raw.json
+EMGT_5962,restructured electricity markets,concept,PREREQUISITE_OF,Locational Marginal Pricing,topic,A taught first,,EMGT_5962_triples_raw.json
+EMGT_5962,constrained optimization problems,concept,PART_OF,Market Clearing Mechanisms,topic,,,EMGT_5962_triples_raw.json

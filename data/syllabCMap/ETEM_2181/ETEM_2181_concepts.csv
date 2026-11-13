@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_2181,topic,Circuits and Mechanics in Action,Circuits and Mechanics in Action,1,verified,Circuits and Mechanics in Action,ETEM_2181_concepts_raw.json
+ETEM_2181,topic,Electromechanical Systems,electromechanical systems,1,verified,Electromechanical Systems,ETEM_2181_concepts_raw.json
+ETEM_2181,topic,Measurement Instruments,measurement instruments,1,verified,Measurement Instruments,ETEM_2181_concepts_raw.json
+ETEM_2181,tool,Standard Electronics Kit,Standard Electronics Kit,1,verified,Standard Electronics Kit,ETEM_2181_concepts_raw.json
+ETEM_2181,topic,Lab Safety Fundamentals,Lab Safety Fundamentals,1,inferred,Lab Safety Fundamentals,ETEM_2181_concepts_raw.json
+ETEM_2181,topic,Basic Circuit Components,Basic Circuit Components,1,inferred,Basic Circuit Components,ETEM_2181_concepts_raw.json
+ETEM_2181,topic,Circuit Building Techniques,Circuit Building Techniques,1,inferred,Circuit Building Techniques,ETEM_2181_concepts_raw.json
+ETEM_2181,topic,Troubleshooting Strategies,Troubleshooting Strategies,1,inferred,Troubleshooting Strategies,ETEM_2181_concepts_raw.json
+ETEM_2181,topic,Experimental Design and Data Collection,Experimental Design and Data Collection,1,inferred,Experimental Design and Data Collection,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Personal Protective Equipment,Personal Protective Equipment,1,inferred,Personal Protective Equipment,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Emergency Procedures Protocol,Emergency Procedures Protocol,1,inferred,Emergency Procedures Protocol,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Chemical Handling Guidelines,Chemical Handling Guidelines,1,inferred,Chemical Handling Guidelines,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Resistor Properties and Uses,Resistor Properties and Uses,1,inferred,Resistor Properties and Uses,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Capacitor Functionality Overview,Capacitor Functionality Overview,1,inferred,Capacitor Functionality Overview,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Inductor Types and Applications,Inductor Types and Applications,1,inferred,Inductor Types and Applications,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Wiring Methods and Best Practices,Wiring Methods and Best Practices,1,inferred,Wiring Methods and Best Practices,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Component Selection Criteria,Component Selection Criteria,1,inferred,Component Selection Criteria,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Circuit Schematics Interpretation,Circuit Schematics Interpretation,1,inferred,Circuit Schematics Interpretation,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Motor Types and Characteristics,Motor Types and Characteristics,1,inferred,Motor Types and Characteristics,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Gearbox Functionality Overview,Gearbox Functionality Overview,1,inferred,Gearbox Functionality Overview,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Pneumatic System Components,Pneumatic System Components,1,inferred,Pneumatic System Components,ETEM_2181_concepts_raw.json
+ETEM_2181,method,multimeter operation and calibration,Multimeter Operation and Calibration,1,inferred,multimeter operation and calibration,ETEM_2181_concepts_raw.json
+ETEM_2181,method,oscilloscope waveform analysis,Oscilloscope Waveform Analysis,1,inferred,oscilloscope waveform analysis,ETEM_2181_concepts_raw.json
+ETEM_2181,method,data logger software usage,Data Logger Software Usage,1,inferred,data logger software usage,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Fault Identification Techniques,Fault Identification Techniques,1,inferred,Fault Identification Techniques,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Circuit Analysis Methods,Circuit Analysis Methods,1,inferred,Circuit Analysis Methods,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,System Redesign Considerations,System Redesign Considerations,1,inferred,System Redesign Considerations,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Hypothesis Formulation and Testing,Hypothesis Formulation and Testing,1,inferred,Hypothesis Formulation and Testing,ETEM_2181_concepts_raw.json
+ETEM_2181,concept,Data Acquisition and Recording,Data Acquisition and Recording,1,inferred,Data Acquisition and Recording,ETEM_2181_concepts_raw.json
+ETEM_2181,method,graphical representation of results,Graphical Representation of Results,1,inferred,graphical representation of results,ETEM_2181_concepts_raw.json
+ETEM_2181,method,circuit analysis,Circuit Analysis,1,inferred,circuit analysis,ETEM_2181_concepts_raw.json
+ETEM_2181,tool,multimeter,Multimeter,1,inferred,multimeter,ETEM_2181_concepts_raw.json
+ETEM_2181,tool,oscilloscope,Oscilloscope,1,inferred,oscilloscope,ETEM_2181_concepts_raw.json
+ETEM_2181,tool,data logger software,Data Logger Software,1,inferred,data logger software,ETEM_2181_concepts_raw.json

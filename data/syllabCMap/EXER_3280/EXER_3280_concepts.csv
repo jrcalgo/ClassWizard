@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EXER_3280,topic,Exercise Physiology,Exercise Physiology,2,verified,Exercise Physiology,EXER_3280_concepts_raw.json
+EXER_3280,topic,Foundation and Theory,Foundation and Theory,1,verified,Foundation and Theory,EXER_3280_concepts_raw.json
+EXER_3280,topic,Physiological Responses,physiological responses,1,verified,Physiological Responses,EXER_3280_concepts_raw.json
+EXER_3280,topic,Adaptations to Exercise,adaptations to exercise,1,verified,Adaptations to Exercise,EXER_3280_concepts_raw.json
+EXER_3280,method,group conditioning programs,group conditioning programs,1,verified,developing individual and group conditioning programs,EXER_3280_concepts_raw.json

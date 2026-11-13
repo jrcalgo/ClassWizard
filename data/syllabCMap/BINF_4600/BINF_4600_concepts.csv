@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_4600,topic,Bioinformatics,Bioinformatics,3,verified,Bioinformatics,BINF_4600_concepts_raw.json
+BINF_4600,topic,Genomics Undergraduate Seminar,Genomics Undergraduate Seminar,1,verified,Genomics Undergraduate Seminar,BINF_4600_concepts_raw.json
+BINF_4600,topic,Scientific Communication Techniques,Scientific Communication Techniques,1,inferred,Scientific Communication Techniques,BINF_4600_concepts_raw.json
+BINF_4600,topic,Competing Hypotheses in Bioinformatics,Competing Hypotheses in Bioinformatics,1,inferred,Competing Hypotheses in Bioinformatics,BINF_4600_concepts_raw.json
+BINF_4600,topic,Visualizing Data and Concepts,Visualizing Data and Concepts,1,inferred,Visualizing Data and Concepts,BINF_4600_concepts_raw.json
+BINF_4600,topic,Departmental Research Presentations,Departmental Research Presentations,1,inferred,Departmental Research Presentations,BINF_4600_concepts_raw.json
+BINF_4600,topic,Invited Speaker Series,Invited Speaker Series,1,inferred,Invited Speaker Series,BINF_4600_concepts_raw.json
+BINF_4600,topic,Student Presentations and Abstracts,Student Presentations and Abstracts,1,inferred,Student Presentations and Abstracts,BINF_4600_concepts_raw.json
+BINF_4600,concept,bioinformatics and genomics overview,Bioinformatics and Genomics Overview,1,inferred,bioinformatics and genomics overview,BINF_4600_concepts_raw.json
+BINF_4600,concept,current research in the field,Current Research in the Field,1,inferred,current research in the field,BINF_4600_concepts_raw.json
+BINF_4600,concept,departmental research focus,Departmental Research Focus,1,inferred,departmental research focus,BINF_4600_concepts_raw.json
+BINF_4600,concept,effective science writing style,Effective Science Writing Style,1,inferred,effective science writing style,BINF_4600_concepts_raw.json
+BINF_4600,concept,oral presentation best practices,Oral Presentation Best Practices,1,inferred,oral presentation best practices,BINF_4600_concepts_raw.json
+BINF_4600,concept,visual aids for presentations,Visual Aids for Presentations,1,inferred,visual aids for presentations,BINF_4600_concepts_raw.json
+BINF_4600,concept,hypothesis generation and testing,Hypothesis Generation and Testing,1,inferred,hypothesis generation and testing,BINF_4600_concepts_raw.json
+BINF_4600,concept,experimental design considerations,Experimental Design Considerations,1,inferred,experimental design considerations,BINF_4600_concepts_raw.json
+BINF_4600,concept,data analysis methods comparison,Data Analysis Methods Comparison,1,inferred,data analysis methods comparison,BINF_4600_concepts_raw.json
+BINF_4600,concept,efficient data visualization techniques,Efficient Data Visualization Techniques,1,inferred,efficient data visualization techniques,BINF_4600_concepts_raw.json
+BINF_4600,concept,graphical representation of results,Graphical Representation of Results,1,inferred,graphical representation of results,BINF_4600_concepts_raw.json
+BINF_4600,concept,conceptual models and diagrams,Conceptual Models and Diagrams,1,inferred,conceptual models and diagrams,BINF_4600_concepts_raw.json
+BINF_4600,concept,research group presentations overview,Research Group Presentations Overview,1,inferred,research group presentations overview,BINF_4600_concepts_raw.json
+BINF_4600,concept,student questions and discussion,Student Questions and Discussion,1,inferred,student questions and discussion,BINF_4600_concepts_raw.json
+BINF_4600,concept,faculty mentorship and feedback,Faculty Mentorship and Feedback,1,inferred,faculty mentorship and feedback,BINF_4600_concepts_raw.json
+BINF_4600,concept,external research collaborations,External Research Collaborations,1,inferred,external research collaborations,BINF_4600_concepts_raw.json
+BINF_4600,concept,interdisciplinary approaches in bioinformatics,Interdisciplinary Approaches in Bioinformatics,1,inferred,interdisciplinary approaches in bioinformatics,BINF_4600_concepts_raw.json
+BINF_4600,concept,career paths in the field,Career Paths in the Field,1,inferred,career paths in the field,BINF_4600_concepts_raw.json

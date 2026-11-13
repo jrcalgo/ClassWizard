@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_3222,Planetary boundaries,concept,PREREQUISITE_OF,energy consumption patterns,concept,A taught first,,PHIL_3222_triples_raw.json
+PHIL_3222,Planetary boundaries,concept,PREREQUISITE_OF,biodiversity loss consequences,concept,A taught first,,PHIL_3222_triples_raw.json
+PHIL_3222,Planetary boundaries,concept,PREREQUISITE_OF,resource extraction impacts,concept,A taught first,,PHIL_3222_triples_raw.json
+PHIL_3222,Planetary boundaries,concept,PREREQUISITE_OF,carrying capacity concept,concept,A taught first,,PHIL_3222_triples_raw.json
+PHIL_3222,Planetary boundaries,concept,PREREQUISITE_OF,ecological footprint analysis,concept,A taught first,,PHIL_3222_triples_raw.json
+PHIL_3222,Planetary boundaries,concept,PREREQUISITE_OF,sustainability challenges,concept,A taught first,,PHIL_3222_triples_raw.json
+PHIL_3222,Planetary boundaries,concept,PART_OF,Planetary Boundaries and Limits,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,energy consumption patterns,concept,PART_OF,Frameworks for Understanding Nature,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,biodiversity loss consequences,concept,PART_OF,Frameworks for Understanding Nature,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,carrying capacity concept,concept,PART_OF,Planetary Boundaries and Limits,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,ecological footprint analysis,concept,PART_OF,Planetary Boundaries and Limits,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,sustainability challenges,concept,PART_OF,Planetary Boundaries and Limits,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,fossil fuel dependence issues,concept,PART_OF,"Energy, Resources, and Consumption",topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,renewable energy alternatives,concept,PART_OF,"Energy, Resources, and Consumption",topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,resource depletion risks,concept,PART_OF,"Energy, Resources, and Consumption",topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,ecosystem services importance,concept,PART_OF,Biodiversity Loss and Conservation,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,conservation strategies,concept,PART_OF,Biodiversity Loss and Conservation,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,environmental ethics theories,concept,PART_OF,Human Values and Environmental Ethics,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,advantages of different frameworks,concept,PART_OF,Comparing Frameworks and Approaches,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,framework evaluation criteria,concept,PART_OF,Comparing Frameworks and Approaches,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,innovative problem-solving strategies,concept,PART_OF,Creative Solutions to Environmental Predicament,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,sustainable development goals,concept,PART_OF,Creative Solutions to Environmental Predicament,topic,,,PHIL_3222_triples_raw.json
+PHIL_3222,ecological footprint analysis,concept,USED_FOR,sustainability challenges,concept,,,PHIL_3222_triples_raw.json

@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_8112,Modular and Structured Design,concept,PART_OF,Software Design Process,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Project Scope Definition,concept,PART_OF,Software Project Planning,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Software Requirements Gathering,concept,PART_OF,Software Project Planning,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Top-Down Design Methodology,concept,PART_OF,Software Design Process,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,User-Centered Design Approach,concept,PART_OF,Human Interface Aspects,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Human Computer Interaction,concept,PART_OF,Human Interface Aspects,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Documentation Standards and Guidelines,concept,PART_OF,Software Documentation,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Code of Conduct and Ethics,concept,PART_OF,Professional Ethics and Responsibilities,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Social Responsibility in Software Development,concept,PART_OF,Professional Ethics and Responsibilities,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Usability Testing Methods,method,USED_FOR,Human Interface Aspects,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Agile and Waterfall Methodologies,method,USED_FOR,Software Project Management,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Project Scheduling Techniques,method,USED_FOR,Software Project Management,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Resource Allocation Strategies,method,USED_FOR,Software Project Management,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Unit Testing and Integration,method,USED_FOR,Testing and Quality Assurance,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,System Testing and Validation,method,USED_FOR,Testing and Quality Assurance,topic,,,ITCS_8112_triples_raw.json
+ITCS_8112,Defect Tracking and Reporting,method,USED_FOR,Testing and Quality Assurance,topic,,,ITCS_8112_triples_raw.json

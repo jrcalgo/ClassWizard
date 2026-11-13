@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_5185,topic,Geometric Design of Highways,GEOMETRIC DESIGN OF HIGHWAYS,3,verified,Geometric Design of Highways,CEGR_5185_concepts_raw.json
+CEGR_5185,topic,Intersection Design Fundamentals,Intersection Design Fundamentals,1,inferred,Intersection Design Fundamentals,CEGR_5185_concepts_raw.json
+CEGR_5185,topic,Interchange Design Principles,Interchange Design Principles,1,inferred,Interchange Design Principles,CEGR_5185_concepts_raw.json
+CEGR_5185,topic,Parking Facility Design,Parking Facility Design,1,inferred,Parking Facility Design,CEGR_5185_concepts_raw.json
+CEGR_5185,topic,Drainage Facility Design,Drainage Facility Design,1,inferred,Drainage Facility Design,CEGR_5185_concepts_raw.json
+CEGR_5185,topic,Vehicle Performance and Highway Design,Vehicle Performance and Highway Design,1,inferred,Vehicle Performance and Highway Design,CEGR_5185_concepts_raw.json
+CEGR_5185,topic,Economic Considerations in Geometric Design,Economic Considerations in Geometric Design,1,inferred,Economic Considerations in Geometric Design,CEGR_5185_concepts_raw.json
+CEGR_5185,topic,Research and Presentation,Research and Presentation,1,inferred,Research and Presentation,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Geometric Design Principles,Geometric Design Principles,1,inferred,Geometric Design Principles,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Highway Safety Considerations,Highway Safety Considerations,1,inferred,Highway Safety Considerations,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Driver Ability Factors,Driver Ability Factors,1,inferred,Driver Ability Factors,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Intersection Types and Configurations,Intersection Types and Configurations,1,inferred,Intersection Types and Configurations,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Intersection Sight Distance Requirements,Intersection Sight Distance Requirements,1,inferred,Intersection Sight Distance Requirements,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Intersection Geometry Standards,Intersection Geometry Standards,1,inferred,Intersection Geometry Standards,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Ramp Interchange Design Elements,Ramp Interchange Design Elements,1,inferred,Ramp Interchange Design Elements,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Diamond Interchange Design Considerations,Diamond Interchange Design Considerations,1,inferred,Diamond Interchange Design Considerations,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Cloverleaf Interchange Design Factors,Cloverleaf Interchange Design Factors,1,inferred,Cloverleaf Interchange Design Factors,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Parking Lot Layout and Configuration,Parking Lot Layout and Configuration,1,inferred,Parking Lot Layout and Configuration,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Parking Space Dimensions and Spacing,Parking Space Dimensions and Spacing,1,inferred,Parking Space Dimensions and Spacing,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Accessible Parking Requirements,Accessible Parking Requirements,1,inferred,Accessible Parking Requirements,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Storm Drainage System Design Elements,Storm Drainage System Design Elements,1,inferred,Storm Drainage System Design Elements,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Culvert Design Considerations,Culvert Design Considerations,1,inferred,Culvert Design Considerations,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Flood Control Measures,Flood Control Measures,1,inferred,Flood Control Measures,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Vehicle Speed and Acceleration Factors,Vehicle Speed and Acceleration Factors,1,inferred,Vehicle Speed and Acceleration Factors,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Vehicle Turning Radius Requirements,Vehicle Turning Radius Requirements,1,inferred,Vehicle Turning Radius Requirements,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Highway Design for Vehicle Safety,Highway Design for Vehicle Safety,1,inferred,Highway Design for Vehicle Safety,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Cost-Benefit Analysis of Highway Design,Cost-Benefit Analysis of Highway Design,1,inferred,Cost-Benefit Analysis of Highway Design,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Design Life Cycle Cost Estimates,Design Life Cycle Cost Estimates,1,inferred,Design Life Cycle Cost Estimates,CEGR_5185_concepts_raw.json
+CEGR_5185,concept,Return on Investment (ROI) Analysis,Return on Investment (ROI) Analysis,1,inferred,Return on Investment (ROI) Analysis,CEGR_5185_concepts_raw.json

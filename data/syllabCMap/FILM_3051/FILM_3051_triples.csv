@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_3051,traditional drawing methods,concept,PREREQUISITE_OF,digital animation basics,concept,same unit,,FILM_3051_triples_raw.json
+FILM_3051,traditional drawing methods,concept,PREREQUISITE_OF,stop-motion principles,concept,A taught first,,FILM_3051_triples_raw.json
+FILM_3051,traditional drawing methods,concept,PREREQUISITE_OF,hand-drawn animation styles,concept,A taught first,,FILM_3051_triples_raw.json
+FILM_3051,traditional drawing methods,concept,PREREQUISITE_OF,cut-out animation techniques,concept,A taught first,,FILM_3051_triples_raw.json
+FILM_3051,computer software basics,concept,PREREQUISITE_OF,2D and 3D Animation Types,topic,same unit,,FILM_3051_triples_raw.json
+FILM_3051,computer software basics,concept,PREREQUISITE_OF,keyframe animation principles,concept,same unit,,FILM_3051_triples_raw.json
+FILM_3051,traditional drawing methods,concept,PART_OF,History of Animation Techniques,topic,,,FILM_3051_triples_raw.json
+FILM_3051,stop-motion principles,concept,PART_OF,analog animation techniques,concept,,,FILM_3051_triples_raw.json
+FILM_3051,hand-drawn animation styles,concept,PART_OF,analog animation techniques,concept,,,FILM_3051_triples_raw.json
+FILM_3051,cut-out animation techniques,concept,PART_OF,analog animation techniques,concept,,,FILM_3051_triples_raw.json

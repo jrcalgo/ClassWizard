@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_5080,topic,Design Detailing,Design Detailing,1,verified,Design Detailing,ARCH_5080_concepts_raw.json
+ARCH_5080,topic,Detailing,Detailing,4,verified,Introduction to Detailing,ARCH_5080_concepts_raw.json
+ARCH_5080,method,observation walks,Observation - walks,1,verified,observation walks,ARCH_5080_concepts_raw.json
+ARCH_5080,method,weekly drawing submissions,weekly drawing submissions,1,verified,weekly drawing submissions,ARCH_5080_concepts_raw.json
+ARCH_5080,tool,Revit,Revit,1,verified,Revit,ARCH_5080_concepts_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BUSN_3701,Formal Networks,concept,PREREQUISITE_OF,Informal Networks,concept,B mentioned first,,BUSN_3701_triples_raw.json
+BUSN_3701,Power and Influence in Organizations,concept,PREREQUISITE_OF,Networking for Career Advancement,concept,same unit,,BUSN_3701_triples_raw.json
+BUSN_3701,Effective Communication Techniques,concept,PREREQUISITE_OF,Building Rapport with Colleagues,concept,same unit,,BUSN_3701_triples_raw.json
+BUSN_3701,Active Listening and Asking Questions,concept,PREREQUISITE_OF,Building Rapport with Colleagues,concept,same unit,,BUSN_3701_triples_raw.json

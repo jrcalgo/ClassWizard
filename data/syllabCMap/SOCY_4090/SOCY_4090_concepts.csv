@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SOCY_4090,topic,Critical Engagement with AI,Critical Engagement with AI,1,verified,Critical Engagement with AI,SOCY_4090_concepts_raw.json
+SOCY_4090,topic,Artificial Intelligence,Artificial Intelligence,2,inferred,Artificial Intelligence,SOCY_4090_concepts_raw.json
+SOCY_4090,topic,Healthcare and AI,Healthcare and AI,1,inferred,Healthcare and AI,SOCY_4090_concepts_raw.json
+SOCY_4090,topic,Government and AI,Government and AI,1,inferred,Government and AI,SOCY_4090_concepts_raw.json
+SOCY_4090,topic,Creative Arts and AI,Creative Arts and AI,1,inferred,Creative Arts and AI,SOCY_4090_concepts_raw.json
+SOCY_4090,topic,Education and AI,Education and AI,1,inferred,Education and AI,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Artificial Intelligence Definition,Artificial Intelligence Definition,1,inferred,Artificial Intelligence Definition,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,AI Technology Types,AI Technology Types,1,inferred,AI Technology Types,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Human vs Machine Learning,Human vs Machine Learning,1,inferred,Human vs Machine Learning,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Medical Diagnosis with AI,Medical Diagnosis with AI,1,inferred,Medical Diagnosis with AI,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Personalized Medicine Algorithms,Personalized Medicine Algorithms,1,inferred,Personalized Medicine Algorithms,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Telemedicine and Virtual Care,Telemedicine and Virtual Care,1,inferred,Telemedicine and Virtual Care,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,AI in Public Policy Making,AI in Public Policy Making,1,inferred,AI in Public Policy Making,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Surveillance and Data Collection,Surveillance and Data Collection,1,inferred,Surveillance and Data Collection,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Bias in Algorithmic Decision,Bias in Algorithmic Decision,1,inferred,Bias in Algorithmic Decision,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Artificial Intelligence Art Forms,Artificial Intelligence Art Forms,1,inferred,Artificial Intelligence Art Forms,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Music Composition with Algorithms,Music Composition with Algorithms,1,inferred,Music Composition with Algorithms,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Virtual Reality Storytelling,Virtual Reality Storytelling,1,inferred,Virtual Reality Storytelling,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,AI-Powered Learning Platforms,AI-Powered Learning Platforms,1,inferred,AI-Powered Learning Platforms,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Intelligent Tutoring Systems,Intelligent Tutoring Systems,1,inferred,Intelligent Tutoring Systems,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Automated Grading Tools,Automated Grading Tools,1,inferred,Automated Grading Tools,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Vocabulary for AI Critique,Vocabulary for AI Critique,1,inferred,Vocabulary for AI Critique,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Analyzing AI Discourses,Analyzing AI Discourses,1,inferred,Analyzing AI Discourses,SOCY_4090_concepts_raw.json
+SOCY_4090,concept,Evaluating AI Ethics,Evaluating AI Ethics,1,inferred,Evaluating AI Ethics,SOCY_4090_concepts_raw.json

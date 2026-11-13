@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_3124,Estimating Principles and Practices,concept,PREREQUISITE_OF,Residential Sector Estimating,topic,A taught first,,CMET_3124_triples_raw.json
+CMET_3124,Estimating Principles and Practices,concept,PREREQUISITE_OF,Commercial Sector Estimating,topic,A taught first,,CMET_3124_triples_raw.json
+CMET_3124,Estimating Principles and Practices,concept,PREREQUISITE_OF,Industrial Sector Estimating,topic,A taught first,,CMET_3124_triples_raw.json
+CMET_3124,Estimating Principles and Practices,concept,PREREQUISITE_OF,Estimating Software and Tools,topic,A taught first,,CMET_3124_triples_raw.json
+CMET_3124,Estimating Principles and Practices,concept,PREREQUISITE_OF,Bidding Strategies and Tactics,topic,A taught first,,CMET_3124_triples_raw.json
+CMET_3124,Estimating Principles and Practices,concept,PART_OF,Cost Estimating II,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Residential Building Types and Costs,concept,PART_OF,Residential Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Site Preparation and Excavation,concept,PART_OF,Residential Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Foundation and Framing Estimation,concept,PART_OF,Residential Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Commercial Building Types and Costs,concept,PART_OF,Commercial Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Office Space and Retail Area Estimation,concept,PART_OF,Commercial Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Mechanical and Electrical Systems,concept,PART_OF,Commercial Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Road Construction and Maintenance,concept,PART_OF,Civil Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Bridge Building and Repair Estimation,concept,PART_OF,Civil Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Water and Sewer System Costs,concept,PART_OF,Civil Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Industrial Plant Design and Layout,concept,PART_OF,Industrial Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Process Equipment and Material Handling,concept,PART_OF,Industrial Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Facility Maintenance and Upgrades,concept,PART_OF,Industrial Sector Estimating,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Cost Data Management and Analysis,concept,PART_OF,Estimating Software and Tools,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Pricing and Markup Strategies,concept,PART_OF,Bidding Strategies and Tactics,topic,,,CMET_3124_triples_raw.json
+CMET_3124,Computer-Aided Estimating Systems,concept,USED_FOR,Cost Estimating Methods Comparison,concept,,,CMET_3124_triples_raw.json

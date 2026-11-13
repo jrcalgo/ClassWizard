@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FLED_4200,Interpretive,concept,SUBTYPE_OF,Communicative Proficiency,topic,,,FLED_4200_triples_raw.json
+FLED_4200,Interpersonal,concept,SUBTYPE_OF,Communicative Proficiency,topic,,,FLED_4200_triples_raw.json

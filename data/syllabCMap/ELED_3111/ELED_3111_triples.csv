@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_3111,cognitive,concept,PREREQUISITE_OF,psychomotor development,concept,same unit,,ELED_3111_triples_raw.json
+ELED_3111,affective,concept,PREREQUISITE_OF,psychomotor development,concept,same unit,,ELED_3111_triples_raw.json
+ELED_3111,social,concept,PREREQUISITE_OF,psychomotor development,concept,same unit,,ELED_3111_triples_raw.json
+ELED_3111,informal means of assessment,method,PART_OF,Assessment in Elementary Education,topic,,,ELED_3111_triples_raw.json
+ELED_3111,performance objectives,concept,PART_OF,Instructional Design,topic,,,ELED_3111_triples_raw.json
+ELED_3111,state instructional standards,concept,PART_OF,Instructional Design,topic,,,ELED_3111_triples_raw.json
+ELED_3111,instructional objectives and goals,concept,PART_OF,Instructional Design,topic,,,ELED_3111_triples_raw.json
+ELED_3111,cognitive,concept,PART_OF,psychomotor development,concept,,,ELED_3111_triples_raw.json
+ELED_3111,affective,concept,PART_OF,psychomotor development,concept,,,ELED_3111_triples_raw.json
+ELED_3111,social,concept,PART_OF,psychomotor development,concept,,,ELED_3111_triples_raw.json
+ELED_3111,informal means of assessment,method,USED_FOR,Assessment in Elementary Education,topic,,,ELED_3111_triples_raw.json
+ELED_3111,diagnostic measures,method,USED_FOR,Assessment in Elementary Education,topic,,,ELED_3111_triples_raw.json

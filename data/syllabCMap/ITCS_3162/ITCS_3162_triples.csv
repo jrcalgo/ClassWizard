@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_3162,Data Collection,topic,PREREQUISITE_OF,Feature Engineering,topic,A taught first,,ITCS_3162_triples_raw.json
+ITCS_3162,Data Preprocessing,topic,PREREQUISITE_OF,Prediction Model,topic,A taught first,,ITCS_3162_triples_raw.json
+ITCS_3162,data mining,concept,PREREQUISITE_OF,Anomaly Detection,topic,A taught first,,ITCS_3162_triples_raw.json
+ITCS_3162,data mining,concept,PREREQUISITE_OF,Text Mining and Social Media Analysis,topic,A taught first,,ITCS_3162_triples_raw.json
+ITCS_3162,data mining,concept,PREREQUISITE_OF,Graph/Network Analysis,topic,A taught first,,ITCS_3162_triples_raw.json
+ITCS_3162,Data Collection,topic,PART_OF,data mining,concept,,part is broader than whole - check direction,ITCS_3162_triples_raw.json
+ITCS_3162,Data Preprocessing,topic,PART_OF,data mining,concept,,part is broader than whole - check direction,ITCS_3162_triples_raw.json
+ITCS_3162,Feature Engineering,topic,PART_OF,data mining,concept,,part is broader than whole - check direction,ITCS_3162_triples_raw.json
+ITCS_3162,Prediction Model,topic,PART_OF,data mining,concept,,part is broader than whole - check direction,ITCS_3162_triples_raw.json
+ITCS_3162,Clustering,topic,PART_OF,data mining,concept,,part is broader than whole - check direction,ITCS_3162_triples_raw.json
+ITCS_3162,Association Analysis,topic,PART_OF,data mining,concept,,part is broader than whole - check direction,ITCS_3162_triples_raw.json
+ITCS_3162,Graph/Network Analysis,topic,PART_OF,data mining,concept,,part is broader than whole - check direction,ITCS_3162_triples_raw.json
+ITCS_3162,Text Mining and Social Media Analysis,topic,PART_OF,data mining,concept,,part is broader than whole - check direction,ITCS_3162_triples_raw.json
+ITCS_3162,Anomaly Detection,topic,PART_OF,data mining,concept,,part is broader than whole - check direction,ITCS_3162_triples_raw.json
+ITCS_3162,Python,tool,USED_FOR,data mining,concept,,,ITCS_3162_triples_raw.json

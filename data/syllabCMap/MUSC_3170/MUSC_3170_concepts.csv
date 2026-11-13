@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_3170,topic,History and Culture,History and Culture,1,verified,History and Culture,MUSC_3170_concepts_raw.json
+MUSC_3170,topic,Synthesis,Synthesis,1,verified,Synthesis,MUSC_3170_concepts_raw.json
+MUSC_3170,work,Classical Antiquity,Classical Antiquity,3,verified,Classical Antiquity,MUSC_3170_concepts_raw.json
+MUSC_3170,work,Western classical music,Western classical music,3,verified,Western classical music,MUSC_3170_concepts_raw.json
+MUSC_3170,work,Hellenistic Period,Hellenistic Period,1,inferred,Hellenistic Period,MUSC_3170_concepts_raw.json
+MUSC_3170,work,Roman Empire,Roman Empire,1,inferred,Roman Empire,MUSC_3170_concepts_raw.json
+MUSC_3170,work,Medieval Period,Medieval Period,1,inferred,Medieval Period,MUSC_3170_concepts_raw.json
+MUSC_3170,work,Renaissance and Baroque,Renaissance and Baroque,1,inferred,Renaissance and Baroque,MUSC_3170_concepts_raw.json

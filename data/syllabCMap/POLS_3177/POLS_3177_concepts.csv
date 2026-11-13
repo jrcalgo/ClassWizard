@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_3177,topic,Philosophy,Philosophy,1,verified,Philosophy,POLS_3177_concepts_raw.json
+POLS_3177,topic,Political Philosophy,Political Philosophy,1,verified,Political Philosophy,POLS_3177_concepts_raw.json
+POLS_3177,topic,Ancient Greek Thought,Ancient Greek Thought,1,inferred,Ancient Greek Thought,POLS_3177_concepts_raw.json
+POLS_3177,topic,Medieval and Renaissance Thinkers,Medieval and Renaissance Thinkers,1,inferred,Medieval and Renaissance Thinkers,POLS_3177_concepts_raw.json
+POLS_3177,topic,Modern Political Philosophy,Modern Political Philosophy,1,inferred,Modern Political Philosophy,POLS_3177_concepts_raw.json
+POLS_3177,topic,Utilitarianism,Utilitarianism,1,inferred,Utilitarianism,POLS_3177_concepts_raw.json
+POLS_3177,concept,Philosophy and Politics Connection,Philosophy and Politics Connection,1,inferred,Philosophy and Politics Connection,POLS_3177_concepts_raw.json
+POLS_3177,concept,Socrates' Method of Inquiry,Socrates' Method of Inquiry,1,inferred,Socrates' Method of Inquiry,POLS_3177_concepts_raw.json
+POLS_3177,concept,Plato's Theory of Forms,Plato's Theory of Forms,1,inferred,Plato's Theory of Forms,POLS_3177_concepts_raw.json
+POLS_3177,concept,Aristotle's Virtue Ethics,Aristotle's Virtue Ethics,1,inferred,Aristotle's Virtue Ethics,POLS_3177_concepts_raw.json
+POLS_3177,concept,Thomas Aquinas' Synthesis,Thomas Aquinas' Synthesis,1,inferred,Thomas Aquinas' Synthesis,POLS_3177_concepts_raw.json
+POLS_3177,concept,Machiavelli's Realism,Machiavelli's Realism,1,inferred,Machiavelli's Realism,POLS_3177_concepts_raw.json
+POLS_3177,concept,Erasmus' Humanism,Erasmus' Humanism,1,inferred,Erasmus' Humanism,POLS_3177_concepts_raw.json
+POLS_3177,concept,Locke's Social Contract Theory,Locke's Social Contract Theory,1,inferred,Locke's Social Contract Theory,POLS_3177_concepts_raw.json
+POLS_3177,concept,Rousseau's General Will,Rousseau's General Will,1,inferred,Rousseau's General Will,POLS_3177_concepts_raw.json
+POLS_3177,concept,Kant's Moral Imperative,Kant's Moral Imperative,1,inferred,Kant's Moral Imperative,POLS_3177_concepts_raw.json
+POLS_3177,concept,Bentham's Hedonistic Calculus,Bentham's Hedonistic Calculus,1,inferred,Bentham's Hedonistic Calculus,POLS_3177_concepts_raw.json
+POLS_3177,concept,Mill's Liberty Principle,Mill's Liberty Principle,1,inferred,Mill's Liberty Principle,POLS_3177_concepts_raw.json
+POLS_3177,concept,Rawls' Justice as Fairness,Rawls' Justice as Fairness,1,inferred,Rawls' Justice as Fairness,POLS_3177_concepts_raw.json

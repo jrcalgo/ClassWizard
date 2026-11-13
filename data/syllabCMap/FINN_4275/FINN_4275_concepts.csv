@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_4275,topic,Enterprise Risk Management,Enterprise Risk Management,1,verified,Enterprise Risk Management,FINN_4275_concepts_raw.json
+FINN_4275,topic,Principles of Risk Management and Insurance,Principles of Risk Management and Insurance,1,verified,Principles of Risk Management and Insurance,FINN_4275_concepts_raw.json
+FINN_4275,topic,Artificial Intelligence,Artificial Intelligence,1,verified,Introduction to Artificial Intelligence,FINN_4275_concepts_raw.json
+FINN_4275,concept,risk management,Risk Management,7,verified,risk management,FINN_4275_concepts_raw.json
+FINN_4275,concept,self-insurance,self-insurance,1,verified,self-insurance,FINN_4275_concepts_raw.json
+FINN_4275,concept,captives,captives,1,verified,captives,FINN_4275_concepts_raw.json
+FINN_4275,concept,financial instruments,financial instruments,1,verified,financial instruments,FINN_4275_concepts_raw.json
+FINN_4275,concept,retention,retention,1,verified,retention,FINN_4275_concepts_raw.json

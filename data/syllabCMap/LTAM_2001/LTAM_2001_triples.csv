@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_2001,Development as a Discourse,concept,PREREQUISITE_OF,Institutional Architectures of Development,topic,A taught first,,LTAM_2001_triples_raw.json
+LTAM_2001,Development as a Discourse,concept,PART_OF,Development,topic,,,LTAM_2001_triples_raw.json
+LTAM_2001,Institutional Architectures of Development,topic,PART_OF,Development,topic,,,LTAM_2001_triples_raw.json

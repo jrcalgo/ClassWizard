@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_3225,Theatrical Scenery,topic,PART_OF,Theatre Tech,topic,,,THEA_3225_triples_raw.json
+THEA_3225,Scenic Semester,topic,PART_OF,Theatre Tech,topic,,,THEA_3225_triples_raw.json

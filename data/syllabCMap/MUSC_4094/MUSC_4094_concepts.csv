@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_4094,topic,Instrumental Ensemble Techniques,Instrumental Ensemble Techniques,1,verified,Instrumental Ensemble Techniques,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,posture,posture,1,verified,posture,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,hand position,hand position,1,verified,hand position,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,breathing,breathing,1,verified,breathing,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,embouchure,embouchure,1,verified,embouchure,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,tone production,tone production,1,verified,tone production,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,articulation,articulation,1,verified,articulation,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,instrument assembly,instrument assembly,1,verified,instrument assembly,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,instrument care,instrument care,1,verified,instrument care,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,alternate fingerings,alternate fingerings,1,verified,alternate fingerings,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,slide positions,slide positions,1,verified,slide positions,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,intonation,intonation,1,verified,intonation,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,style,style,1,verified,style,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,expressive performance,expressive performance,1,verified,expressive performance,MUSC_4094_concepts_raw.json
+MUSC_4094,concept,performability,performability,1,verified,performability,MUSC_4094_concepts_raw.json

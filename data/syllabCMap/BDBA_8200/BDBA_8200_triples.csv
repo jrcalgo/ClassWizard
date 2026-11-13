@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BDBA_8200,quantitative vs qualitative research,concept,PREREQUISITE_OF,Creswell's research paradigms,concept,same unit,,BDBA_8200_triples_raw.json
+BDBA_8200,Creswell's research paradigms,concept,PREREQUISITE_OF,statistical analysis techniques,concept,A taught first,,BDBA_8200_triples_raw.json
+BDBA_8200,Creswell's research paradigms,concept,PREREQUISITE_OF,hypothesis testing procedures,concept,A taught first,,BDBA_8200_triples_raw.json
+BDBA_8200,Creswell's research paradigms,concept,PREREQUISITE_OF,regression analysis applications,concept,A taught first,,BDBA_8200_triples_raw.json
+BDBA_8200,quantitative vs qualitative research,concept,PREREQUISITE_OF,case study methodology,concept,A taught first,,BDBA_8200_triples_raw.json
+BDBA_8200,quantitative vs qualitative research,concept,PREREQUISITE_OF,phenomenological research approach,concept,A taught first,,BDBA_8200_triples_raw.json
+BDBA_8200,quantitative vs qualitative research,concept,PREREQUISITE_OF,grounded theory principles,concept,A taught first,,BDBA_8200_triples_raw.json
+BDBA_8200,Creswell's research paradigms,concept,PREREQUISITE_OF,survey design strategies,concept,A taught first,,BDBA_8200_triples_raw.json
+BDBA_8200,Creswell's research paradigms,concept,PREREQUISITE_OF,interview techniques and methods,concept,A taught first,,BDBA_8200_triples_raw.json
+BDBA_8200,Creswell's research paradigms,concept,PREREQUISITE_OF,content analysis procedures,concept,A taught first,,BDBA_8200_triples_raw.json
+BDBA_8200,quantitative vs qualitative research,concept,PART_OF,Research Methods,topic,,,BDBA_8200_triples_raw.json
+BDBA_8200,research design fundamentals,concept,PART_OF,Research Methods I,topic,,,BDBA_8200_triples_raw.json
+BDBA_8200,Creswell's research paradigms,concept,PART_OF,Research Methods,topic,,,BDBA_8200_triples_raw.json
+BDBA_8200,advanced statistical analyses,method,USED_FOR,regression analysis applications,concept,,,BDBA_8200_triples_raw.json
+BDBA_8200,computer software for advanced statistical analyses,method,USED_FOR,regression analysis applications,concept,,,BDBA_8200_triples_raw.json

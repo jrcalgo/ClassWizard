@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TRAN_3601,Role of Translator,concept,PART_OF,Translation,topic,,,TRAN_3601_triples_raw.json
+TRAN_3601,Importance of Context,concept,PART_OF,Translation,topic,,,TRAN_3601_triples_raw.json
+TRAN_3601,Equivalence Theory,concept,PART_OF,Theories of Translation,topic,,,TRAN_3601_triples_raw.json
+TRAN_3601,Linguistic Relativity,concept,PART_OF,Theories of Translation,topic,,,TRAN_3601_triples_raw.json
+TRAN_3601,Cultural Differences,concept,PART_OF,Theories of Translation,topic,,,TRAN_3601_triples_raw.json
+TRAN_3601,Terminology Management Systems,concept,PART_OF,Tools and Resources for Translators,topic,,,TRAN_3601_triples_raw.json
+TRAN_3601,Machine Translation Tools,concept,PART_OF,Tools and Resources for Translators,topic,,,TRAN_3601_triples_raw.json
+TRAN_3601,Continuing Education and Training,concept,PART_OF,Professional Development in Translation,topic,,,TRAN_3601_triples_raw.json
+TRAN_3601,Machine Translation Tools,concept,USED_FOR,Language Variation and Change,concept,,,TRAN_3601_triples_raw.json

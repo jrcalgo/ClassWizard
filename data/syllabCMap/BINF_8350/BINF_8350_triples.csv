@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_8350,Genomics,topic,PREREQUISITE_OF,Illumina Shotgun Sequencing,concept,A taught first,,BINF_8350_triples_raw.json
+BINF_8350,Genomics,topic,PREREQUISITE_OF,Experimental Design,method,A taught first,,BINF_8350_triples_raw.json
+BINF_8350,Genomics,topic,PREREQUISITE_OF,Statistical Analysis of data,method,A mentioned first,,BINF_8350_triples_raw.json
+BINF_8350,Genomics,topic,PREREQUISITE_OF,verbal presentation,method,A taught first,,BINF_8350_triples_raw.json

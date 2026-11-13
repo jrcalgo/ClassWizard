@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3380,Dominant Schools of Thought,concept,PREREQUISITE_OF,Intelligence,topic,B taught first,B is taught before A - check,POLS_3380_triples_raw.json
+POLS_3380,Examine,method,USED_FOR,Intelligence,topic,,,POLS_3380_triples_raw.json
+POLS_3380,Examine,method,USED_FOR,Intelligence in a Democratic Society,topic,,,POLS_3380_triples_raw.json
+POLS_3380,Analyze,method,USED_FOR,Intelligence,topic,,,POLS_3380_triples_raw.json
+POLS_3380,Analyze,method,USED_FOR,Intelligence in a Democratic Society,topic,,,POLS_3380_triples_raw.json
+POLS_3380,Apply,method,USED_FOR,Intelligence,topic,,,POLS_3380_triples_raw.json
+POLS_3380,Evaluate,method,USED_FOR,Intelligence,topic,,,POLS_3380_triples_raw.json
+POLS_3380,Evaluate,method,USED_FOR,Intelligence in a Democratic Society,topic,,,POLS_3380_triples_raw.json

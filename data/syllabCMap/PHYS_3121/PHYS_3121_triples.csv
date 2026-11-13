@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_3121,Kinematics,topic,PREREQUISITE_OF,Dynamics,topic,A taught first,,PHYS_3121_triples_raw.json
+PHYS_3121,Kinematics,topic,PREREQUISITE_OF,Energy Principles,topic,A taught first,,PHYS_3121_triples_raw.json
+PHYS_3121,Kinematics,topic,PREREQUISITE_OF,Rotational Motion,topic,A taught first,,PHYS_3121_triples_raw.json
+PHYS_3121,Kinematics,topic,PREREQUISITE_OF,Central Force Motion,topic,A taught first,,PHYS_3121_triples_raw.json
+PHYS_3121,Dynamics,topic,PREREQUISITE_OF,Energy Principles,topic,A taught first,,PHYS_3121_triples_raw.json
+PHYS_3121,Dynamics,topic,PREREQUISITE_OF,Rotational Motion,topic,A taught first,,PHYS_3121_triples_raw.json
+PHYS_3121,Dynamics,topic,PREREQUISITE_OF,Central Force Motion,topic,A taught first,,PHYS_3121_triples_raw.json
+PHYS_3121,Energy Principles,topic,PREREQUISITE_OF,Rotational Motion,topic,A taught first,,PHYS_3121_triples_raw.json
+PHYS_3121,Energy Principles,topic,PREREQUISITE_OF,Central Force Motion,topic,A taught first,,PHYS_3121_triples_raw.json
+PHYS_3121,Newton's Laws of Motion,concept,PART_OF,Mechanics,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Graphical Analysis,concept,PART_OF,Kinematics,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Work and Energy,concept,PART_OF,Dynamics,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Conservation of Energy,concept,PART_OF,Energy Principles,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Kinetic and Potential Energy,concept,PART_OF,Energy Principles,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Elastic and Inelastic Collisions,concept,PART_OF,Energy Principles,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Angular Kinematics,concept,PART_OF,Rotational Motion,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Moment of Inertia,concept,PART_OF,Rotational Motion,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Circular Motion and Orbits,concept,PART_OF,Central Force Motion,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Gravitational Potential Energy,concept,PART_OF,Central Force Motion,topic,,,PHYS_3121_triples_raw.json
+PHYS_3121,Kepler's Laws,concept,PART_OF,Central Force Motion,topic,,,PHYS_3121_triples_raw.json

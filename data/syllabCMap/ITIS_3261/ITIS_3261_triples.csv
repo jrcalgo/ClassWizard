@@ -1,0 +1,91 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_3261,Symmetric Encryption,concept,PREREQUISITE_OF,Key Exchange Protocols,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Symmetric Encryption,concept,PREREQUISITE_OF,Block Ciphers,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Symmetric Encryption,concept,PREREQUISITE_OF,Cipher Modes,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Symmetric Encryption,concept,PREREQUISITE_OF,Encryption Algorithms,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Service Models,concept,PREREQUISITE_OF,Deployment Strategies,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Service Models,concept,PREREQUISITE_OF,Resource Provisioning,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Service Models,concept,PREREQUISITE_OF,Cloud Security Measures,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Service Models,concept,PREREQUISITE_OF,Cloud Security Risks,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Service Models,concept,PREREQUISITE_OF,Virtualization Techniques,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Identity and Access Management,concept,PREREQUISITE_OF,Access Control Models,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Identity and Access Management,concept,PREREQUISITE_OF,Authentication Protocols,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Identity and Access Management,concept,PREREQUISITE_OF,Authorization Mechanisms,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Identity and Access Management,concept,PREREQUISITE_OF,Role-Based Access Control,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Load Balancing Techniques,concept,PREREQUISITE_OF,Horizontal Scaling,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Load Balancing Techniques,concept,PREREQUISITE_OF,Server Clustering,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Security Measures,concept,PREREQUISITE_OF,Cloud Networking Models,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Security Measures,concept,PREREQUISITE_OF,Network Topology Design,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Security Measures,concept,PREREQUISITE_OF,Cloud Computing Security,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Block Storage,concept,PREREQUISITE_OF,Object Storage,concept,B taught first,B is taught before A - check,ITIS_3261_triples_raw.json
+ITIS_3261,Block Storage,concept,PREREQUISITE_OF,EBS storage,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Dynamic website,concept,PREREQUISITE_OF,Relational database,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,HTTPS protocol,concept,PREREQUISITE_OF,Public key cryptography,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,HTTPS protocol,concept,PREREQUISITE_OF,Certificate authority,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,HTTPS protocol,concept,PREREQUISITE_OF,Digital certificates,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,HTTPS protocol,concept,PREREQUISITE_OF,Key exchange algorithms,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Cost Models,concept,PREREQUISITE_OF,Private Key Management,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Cost Models,concept,PREREQUISITE_OF,Passkey Billing Systems,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Cost Models,concept,PREREQUISITE_OF,Cloud Pricing Strategies,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Attribute-Based Access Control,concept,PREREQUISITE_OF,Claims-Based Identity,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Virtual Private Networks,concept,PREREQUISITE_OF,Data Center Interconnects,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,VPC Security Groups,concept,PREREQUISITE_OF,Route Table Settings,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,VPC Security Groups,concept,PREREQUISITE_OF,Network ACLs,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Storage Services,concept,PREREQUISITE_OF,Data Persistence Models,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Storage Services,concept,PREREQUISITE_OF,Storage Service Levels,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Storage Services,concept,PREREQUISITE_OF,Cloud Data Management,concept,same unit,,ITIS_3261_triples_raw.json
+ITIS_3261,Object Storage Systems,concept,PREREQUISITE_OF,S3 storage,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Object Storage Systems,concept,PREREQUISITE_OF,Static website,concept,A taught first,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Concept Overview,topic,PART_OF,Cloud Computing,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Economics,topic,PART_OF,Cloud Computing,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Infrastructure Overview,topic,PART_OF,Cloud Computing,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,DB,topic,PART_OF,Storage,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Load Balancing,topic,PART_OF,Networking,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,VPC,topic,PART_OF,Networking,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Autoscaling,topic,PART_OF,Compute,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,PKI,topic,PART_OF,Cloud Security,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Data at Rest,concept,PART_OF,Cloud Security,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Concept Overview,topic,PART_OF,Cloud Architecture,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Economics,topic,PART_OF,Cloud Architecture,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Infrastructure Overview,topic,PART_OF,Cloud Architecture,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Service Models,concept,SUBTYPE_OF,Cloud Computing Definition,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Deployment Strategies,concept,SUBTYPE_OF,Cloud Benefits and Risks,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Resource Provisioning,concept,SUBTYPE_OF,Cloud Benefits and Risks,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Security Measures,concept,SUBTYPE_OF,Cloud Benefits and Risks,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Security Risks,concept,SUBTYPE_OF,Cloud Benefits and Risks,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Virtualization Techniques,concept,SUBTYPE_OF,Cloud Benefits and Risks,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Identity Management,concept,SUBTYPE_OF,Identity and Access Management,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Access Control Models,concept,SUBTYPE_OF,Identity and Access Management,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Authentication Protocols,concept,SUBTYPE_OF,Identity and Access Management,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Authorization Mechanisms,concept,SUBTYPE_OF,Identity and Access Management,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Role-Based Access Control,concept,SUBTYPE_OF,Identity and Access Management,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Load Balancing Techniques,concept,SUBTYPE_OF,Cloud Security Risks,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Symmetric Encryption,concept,SUBTYPE_OF,Data at Rest,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Key Exchange Protocols,concept,SUBTYPE_OF,Symmetric Encryption,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Block Ciphers,concept,SUBTYPE_OF,Symmetric Encryption,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cipher Modes,concept,SUBTYPE_OF,Symmetric Encryption,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Encryption Algorithms,concept,SUBTYPE_OF,Symmetric Encryption,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,HTTPS protocol,concept,SUBTYPE_OF,Public key cryptography,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Certificate authority,concept,SUBTYPE_OF,HTTPS protocol,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Digital certificates,concept,SUBTYPE_OF,HTTPS protocol,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Key exchange algorithms,concept,SUBTYPE_OF,HTTPS protocol,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Cost Models,concept,SUBTYPE_OF,Cloud Benefits and Risks,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Private Key Management,concept,SUBTYPE_OF,Cloud Cost Models,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Passkey Billing Systems,concept,SUBTYPE_OF,Cloud Cost Models,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Pricing Strategies,concept,SUBTYPE_OF,Cloud Cost Models,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Claims-Based Identity,concept,SUBTYPE_OF,Attribute-Based Access Control,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Permission Systems,concept,SUBTYPE_OF,Attribute-Based Access Control,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,User Account Management,concept,SUBTYPE_OF,Attribute-Based Access Control,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Virtual Private Networks,concept,SUBTYPE_OF,Cloud Networking Models,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Data Center Interconnects,concept,SUBTYPE_OF,Virtual Private Networks,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,VPC Security Groups,concept,SUBTYPE_OF,Network Topology Design,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Subnet Configuration Options,concept,SUBTYPE_OF,VPC Security Groups,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Route Table Settings,concept,SUBTYPE_OF,VPC Security Groups,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Network ACLs,concept,SUBTYPE_OF,VPC Security Groups,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Storage Services,concept,SUBTYPE_OF,Storage,topic,,,ITIS_3261_triples_raw.json
+ITIS_3261,Data Persistence Models,concept,SUBTYPE_OF,Cloud Storage Services,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Storage Service Levels,concept,SUBTYPE_OF,Cloud Storage Services,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Cloud Data Management,concept,SUBTYPE_OF,Cloud Storage Services,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Object Storage Systems,concept,SUBTYPE_OF,Cloud Storage Services,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,S3 storage,concept,SUBTYPE_OF,Object Storage Systems,concept,,,ITIS_3261_triples_raw.json
+ITIS_3261,Static website,concept,SUBTYPE_OF,Dynamic website,concept,,,ITIS_3261_triples_raw.json

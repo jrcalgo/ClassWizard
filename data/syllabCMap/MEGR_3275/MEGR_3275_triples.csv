@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3275,project scope definition,concept,PART_OF,Team Formation,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,project progress monitoring,concept,PART_OF,Progress Evaluation,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,client satisfaction,concept,PART_OF,Progress Evaluation,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,design concept development,concept,PART_OF,Conceptual Design,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,feasibility analysis,concept,PART_OF,Conceptual Design,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,risk assessment,concept,PART_OF,Conceptual Design,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,design package preparation,concept,PART_OF,Preliminary Design Review,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,design iteration,concept,PART_OF,Preliminary Design Review,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,Project Planning,topic,PART_OF,Team Formation,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,time management techniques,concept,PART_OF,Project Planning,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,financial budgeting methods,concept,PART_OF,Project Planning,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,client expectations,concept,PART_OF,Project Planning,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,engineering design principles,concept,PART_OF,Conceptual Design,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,design standards application,concept,PART_OF,Conceptual Design,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,problem-solving strategies,concept,PART_OF,Conceptual Design,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,communication strategies,concept,PART_OF,Social Engineering,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,collaboration techniques,concept,PART_OF,Social Engineering,topic,,,MEGR_3275_triples_raw.json
+MEGR_3275,conflict resolution,concept,PART_OF,Social Engineering,topic,,,MEGR_3275_triples_raw.json

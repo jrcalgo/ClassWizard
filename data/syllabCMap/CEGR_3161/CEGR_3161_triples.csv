@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3161,transportation engineering basics,concept,PART_OF,Transportation Engineering,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,importance of transportation planning,concept,PART_OF,Transportation Engineering,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,types of transportation facilities,concept,PART_OF,Transportation Facilities Analysis,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,traffic flow characteristics,concept,PART_OF,Transportation Facilities Analysis,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,site selection criteria,concept,PART_OF,Location and Planning,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,land use planning and zoning,concept,PART_OF,Location and Planning,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,transportation infrastructure design,concept,PART_OF,Location and Planning,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,cost-benefit analysis in transportation,concept,PART_OF,Economic Considerations,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,funding sources for transportation projects,concept,PART_OF,Economic Considerations,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,return on investment (ROI) analysis,concept,PART_OF,Economic Considerations,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,transportation safety risks and hazards,concept,PART_OF,Safety Analysis and Design,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,designing safe roadways and intersections,concept,PART_OF,Safety Analysis and Design,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,crash data collection and analysis,concept,PART_OF,Safety Analysis and Design,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,geometric design of highways,concept,PART_OF,Highway Design and Operations,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,pavement design and materials,concept,PART_OF,Highway Design and Operations,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,traffic flow theory and models,concept,PART_OF,Traffic Analysis and Modeling,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,traffic simulation software and tools,concept,PART_OF,Traffic Analysis and Modeling,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,transportation network analysis,concept,PART_OF,Traffic Analysis and Modeling,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,transportation system performance metrics,concept,PART_OF,Systems Operations and Management,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,operations research techniques in transportation,concept,PART_OF,Systems Operations and Management,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,supply chain and logistics management,concept,PART_OF,Systems Operations and Management,topic,,,CEGR_3161_triples_raw.json
+CEGR_3161,traffic simulation software and tools,concept,USED_FOR,traffic flow theory and models,concept,,,CEGR_3161_triples_raw.json
+CEGR_3161,traffic simulation software and tools,concept,USED_FOR,Traffic Analysis and Modeling,topic,,,CEGR_3161_triples_raw.json

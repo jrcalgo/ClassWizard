@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_2111,Bash shell scripting basics,concept,PART_OF,Bash Shell Scripting,concept,,,BINF_2111_triples_raw.json
+BINF_2111,Python Control Flow,concept,PART_OF,programming in Python,topic,,,BINF_2111_triples_raw.json
+BINF_2111,systems programming in Rust for command-line bioinformatics tools,topic,PART_OF,Cargo Package Manager,concept,,part is broader than whole - check direction,BINF_2111_triples_raw.json
+BINF_2111,SLURM Job Submission,concept,PART_OF,job submission on a high performance computing cluster,tool,,part is broader than whole - check direction,BINF_2111_triples_raw.json
+BINF_2111,UNIX operating system,concept,USED_FOR,Unix command line interface,concept,,,BINF_2111_triples_raw.json
+BINF_2111,UNIX operating system,concept,USED_FOR,Bash Shell Scripting,concept,,,BINF_2111_triples_raw.json
+BINF_2111,UNIX operating system,concept,USED_FOR,programming in Python,topic,,,BINF_2111_triples_raw.json
+BINF_2111,Regular Expressions,concept,USED_FOR,standard utilities for inspecting and transforming text and sequence files,topic,,,BINF_2111_triples_raw.json
+BINF_2111,High performance computing cluster,concept,USED_FOR,job submission on a high performance computing cluster,tool,,,BINF_2111_triples_raw.json

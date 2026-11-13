@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECEI_3112,topic,Early Childhood,early childhood,1,verified,Early Childhood,ECEI_3112_concepts_raw.json
+ECEI_3112,topic,Role of the Caregiver,role of the caregiver,1,verified,Role of the Caregiver,ECEI_3112_concepts_raw.json
+ECEI_3112,topic,Assessment and Progress Monitoring,assessment and progress monitoring,2,verified,Assessment and Progress Monitoring,ECEI_3112_concepts_raw.json
+ECEI_3112,topic,Developmentally Appropriate Lesson Plans,developmentally appropriate lesson plan,1,verified,Developmentally Appropriate Lesson Plans,ECEI_3112_concepts_raw.json
+ECEI_3112,concept,Universal Design for Learning,universal design for learning,1,verified,Universal Design for Learning,ECEI_3112_concepts_raw.json
+ECEI_3112,concept,Multiple Tiered Systems of Support,multiple tiered systems of support,1,verified,Multiple Tiered Systems of Support,ECEI_3112_concepts_raw.json
+ECEI_3112,concept,Developmentally Appropriate Practice,developmentally appropriate practice,1,verified,Developmentally Appropriate Practice,ECEI_3112_concepts_raw.json

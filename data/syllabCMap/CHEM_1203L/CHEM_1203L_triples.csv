@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_1203L,Personal Protective Equipment,concept,PART_OF,Lab Safety Fundamentals,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Chemical Handling Procedures,concept,PART_OF,Lab Safety Fundamentals,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Emergency Response Protocols,concept,PART_OF,Lab Safety Fundamentals,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Balance Calibration Techniques,concept,PART_OF,Laboratory Equipment Familiarization,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Pipette Handling and Measurement,concept,PART_OF,Laboratory Equipment Familiarization,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Chemical Formula Notation Systems,concept,PART_OF,Chemical Terminology and Nomenclature,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Molecular Structure Representation,concept,PART_OF,Chemical Terminology and Nomenclature,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Questioning and Hypothesis Formation,concept,PART_OF,Scientific Inquiry and Observation,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Experimental Design Principles,concept,PART_OF,Scientific Inquiry and Observation,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Physical Properties of Compounds,concept,PART_OF,Inorganic Compound Characterization,topic,,,CHEM_1203L_triples_raw.json
+CHEM_1203L,Chemical Reactions and Stoichiometry,concept,PART_OF,Inorganic Compound Characterization,topic,,,CHEM_1203L_triples_raw.json

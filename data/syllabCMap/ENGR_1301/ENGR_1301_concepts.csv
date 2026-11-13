@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ENGR_1301,concept,Engineering Fundamentals,Engineering Fundamentals,1,inferred,Engineering Fundamentals,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Problem Solving Techniques,Problem Solving Techniques,1,inferred,Problem Solving Techniques,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Design Thinking Principles,Design Thinking Principles,1,inferred,Design Thinking Principles,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Algebraic Equations and Graphs,Algebraic Equations and Graphs,1,inferred,Algebraic Equations and Graphs,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Trigonometry and Analytic Geometry,Trigonometry and Analytic Geometry,1,inferred,Trigonometry and Analytic Geometry,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Calculus Basics,Calculus Basics,1,inferred,Calculus Basics,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Computer-Aided Design (CAD,Computer-Aided Design (CAD,1,inferred,Computer-Aided Design (CAD),ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Simulation and Modeling Techniques,Simulation and Modeling Techniques,1,inferred,Simulation and Modeling Techniques,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Programming Fundamentals,Programming Fundamentals,1,inferred,Programming Fundamentals,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Project Management Basics,Project Management Basics,1,inferred,Project Management Basics,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Collaboration and Communication,Collaboration and Communication,1,inferred,Collaboration and Communication,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Time and Resource Allocation,Time and Resource Allocation,1,inferred,Time and Resource Allocation,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Design Requirements and Specifications,Design Requirements and Specifications,1,inferred,Design Requirements and Specifications,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Prototyping and Testing Methods,Prototyping and Testing Methods,1,inferred,Prototyping and Testing Methods,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Iterative Design Cycles,Iterative Design Cycles,1,inferred,Iterative Design Cycles,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Force Vectors and Equilibrium,Force Vectors and Equilibrium,1,inferred,Force Vectors and Equilibrium,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Moments and Center of Gravity,Moments and Center of Gravity,1,inferred,Moments and Center of Gravity,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Material Properties and Behavior,Material Properties and Behavior,1,inferred,Material Properties and Behavior,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Energy Conversion and Conservation,Energy Conversion and Conservation,1,inferred,Energy Conversion and Conservation,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Heat Transfer Mechanisms and Rates,Heat Transfer Mechanisms and Rates,1,inferred,Heat Transfer Mechanisms and Rates,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Thermal Systems and Applications,Thermal Systems and Applications,1,inferred,Thermal Systems and Applications,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Fluid Properties and Behavior,Fluid Properties and Behavior,1,inferred,Fluid Properties and Behavior,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Pressure and Flow Rate Calculations,Pressure and Flow Rate Calculations,1,inferred,Pressure and Flow Rate Calculations,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Pumps and Pipe Systems,Pumps and Pipe Systems,1,inferred,Pumps and Pipe Systems,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Circuit Analysis and Design,Circuit Analysis and Design,1,inferred,Circuit Analysis and Design,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Electronic Components and Devices,Electronic Components and Devices,1,inferred,Electronic Components and Devices,ENGR_1301_concepts_raw.json
+ENGR_1301,concept,Digital Logic and Microcontrollers,Digital Logic and Microcontrollers,1,inferred,Digital Logic and Microcontrollers,ENGR_1301_concepts_raw.json

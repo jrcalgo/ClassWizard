@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3157,topic,ECE Junior Design,ECE Junior Design,1,verified,ECE Junior Design,ECGR_3157_concepts_raw.json
+ECGR_3157,topic,Design,Design,12,verified,Introduction to Design,ECGR_3157_concepts_raw.json
+ECGR_3157,concept,switching amplifier circuits,switching amplifier circuits,1,verified,switching amplifier circuits,ECGR_3157_concepts_raw.json
+ECGR_3157,method,CAD and layout design,CAD and Layout Design,1,verified,CAD and layout design,ECGR_3157_concepts_raw.json
+ECGR_3157,concept,conceptual design,conceptual design,1,verified,conceptual design,ECGR_3157_concepts_raw.json
+ECGR_3157,method,circuit design,circuit design,1,verified,circuit design,ECGR_3157_concepts_raw.json
+ECGR_3157,method,parameter sensitivity analysis,parameter sensitivity analysis,1,verified,parameter sensitivity analysis,ECGR_3157_concepts_raw.json
+ECGR_3157,method,interconnection compatibility design,interconnection compatibility design,1,verified,interconnection compatibility design,ECGR_3157_concepts_raw.json
+ECGR_3157,concept,signal-conditioning circuits,signal-conditioning circuits,1,verified,signal-conditioning circuits,ECGR_3157_concepts_raw.json
+ECGR_3157,concept,basic control-system design,Basic control-system design,1,verified,basic control-system design,ECGR_3157_concepts_raw.json
+ECGR_3157,concept,switching converters,switching converters,1,verified,switching converters,ECGR_3157_concepts_raw.json
+ECGR_3157,concept,printed circuit boards,printed circuit boards,1,verified,printed circuit boards,ECGR_3157_concepts_raw.json
+ECGR_3157,concept,application specific firmware structures,application specific firmware structures,1,verified,application specific firmware structures,ECGR_3157_concepts_raw.json
+ECGR_3157,method,control-system design,control-system design,1,verified,control-system design,ECGR_3157_concepts_raw.json

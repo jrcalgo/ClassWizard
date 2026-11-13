@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NUDN_8150,topic,Quality Improvement,Quality Improvement,4,verified,Quality Improvement,NUDN_8150_concepts_raw.json
+NUDN_8150,topic,Patient Safety,patient safety,1,verified,Patient Safety,NUDN_8150_concepts_raw.json
+NUDN_8150,topic,Quality Indicators,quality indicators,1,verified,Quality Indicators,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,healthcare quality indicators,Healthcare Quality Indicators,1,inferred,healthcare quality indicators,NUDN_8150_concepts_raw.json
+NUDN_8150,method,data interpretation,Data Interpretation,1,inferred,data interpretation,NUDN_8150_concepts_raw.json
+NUDN_8150,measure,outcome and process measures,Outcome and Process Measures,1,inferred,outcome and process measures,NUDN_8150_concepts_raw.json
+NUDN_8150,method,root cause analysis techniques,Root Cause Analysis Techniques,1,inferred,root cause analysis techniques,NUDN_8150_concepts_raw.json
+NUDN_8150,method,PDSA cycle application,PDSA Cycle Application,1,inferred,PDSA cycle application,NUDN_8150_concepts_raw.json
+NUDN_8150,topic,Population Health Focus,Population Health Focus,1,inferred,Population Health Focus,NUDN_8150_concepts_raw.json
+NUDN_8150,method,project planning and design,Project Planning and Design,1,inferred,project planning and design,NUDN_8150_concepts_raw.json
+NUDN_8150,method,resource allocation and management,Resource Allocation and Management,1,inferred,resource allocation and management,NUDN_8150_concepts_raw.json
+NUDN_8150,topic,Evaluating QI Success,Evaluating QI Success,1,inferred,Evaluating QI Success,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,quality improvement definition,Quality Improvement Definition,1,inferred,quality improvement definition,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,importance of patient safety,Importance of Patient Safety,1,inferred,importance of patient safety,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,identifying areas for improvement,Identifying Areas for Improvement,1,inferred,identifying areas for improvement,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,analyzing clinical data,Analyzing Clinical Data,1,inferred,analyzing clinical data,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,interpreting quality metrics,Interpreting Quality Metrics,1,inferred,interpreting quality metrics,NUDN_8150_concepts_raw.json
+NUDN_8150,measure,patient safety indicators,Patient Safety Indicators,1,inferred,patient safety indicators,NUDN_8150_concepts_raw.json
+NUDN_8150,measure,healthcare quality benchmarks,Healthcare Quality Benchmarks,1,inferred,healthcare quality benchmarks,NUDN_8150_concepts_raw.json
+NUDN_8150,method,quality improvement frameworks,Quality Improvement Frameworks,1,inferred,quality improvement frameworks,NUDN_8150_concepts_raw.json
+NUDN_8150,method,developing safety interventions,Developing Safety Interventions,1,inferred,developing safety interventions,NUDN_8150_concepts_raw.json
+NUDN_8150,method,implementing evidence-based practices,Implementing Evidence-Based Practices,1,inferred,implementing evidence-based practices,NUDN_8150_concepts_raw.json
+NUDN_8150,method,reducing medical errors,Reducing Medical Errors,1,inferred,reducing medical errors,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,health outcomes and disparities,Health Outcomes and Disparities,1,inferred,health outcomes and disparities,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,targeted quality improvement initiatives,Targeted Quality Improvement Initiatives,1,inferred,targeted quality improvement initiatives,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,community-based healthcare strategies,Community-Based Healthcare Strategies,1,inferred,community-based healthcare strategies,NUDN_8150_concepts_raw.json
+NUDN_8150,measure,measuring quality improvement outcomes,Measuring Quality Improvement Outcomes,1,inferred,measuring quality improvement outcomes,NUDN_8150_concepts_raw.json
+NUDN_8150,concept,assessing program effectiveness,Assessing Program Effectiveness,1,inferred,assessing program effectiveness,NUDN_8150_concepts_raw.json

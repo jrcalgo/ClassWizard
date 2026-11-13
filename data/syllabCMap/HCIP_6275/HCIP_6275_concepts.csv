@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HCIP_6275,topic,AI in Healthcare,AI in Healthcare,1,verified,AI in Healthcare,HCIP_6275_concepts_raw.json
+HCIP_6275,topic,Major AI Models and Methods,major AI models and methods,1,verified,Major AI Models and Methods,HCIP_6275_concepts_raw.json
+HCIP_6275,topic,Deep Learning in Healthcare,deep learning in healthcare,1,verified,Deep Learning in Healthcare,HCIP_6275_concepts_raw.json
+HCIP_6275,topic,Knowledge Representation and Other AI Methods,Knowledge representation and other AI methods,1,verified,Knowledge Representation and Other AI Methods,HCIP_6275_concepts_raw.json
+HCIP_6275,topic,"Rapid Learning, Transfer Learning, and Calibration","Rapid Learning, Transfer Learning, and Calibration",1,verified,"Rapid Learning, Transfer Learning, and Calibration",HCIP_6275_concepts_raw.json
+HCIP_6275,topic,Bias in AI Models and Methods,Bias in AI models and methods,1,verified,Bias in AI Models and Methods,HCIP_6275_concepts_raw.json
+HCIP_6275,concept,Artificial Intelligence,Artificial Intelligence,2,verified,Artificial Intelligence,HCIP_6275_concepts_raw.json
+HCIP_6275,concept,deep learning methods,deep learning methods,1,verified,deep learning methods,HCIP_6275_concepts_raw.json
+HCIP_6275,method,machine learning,machine learning,3,verified,machine learning,HCIP_6275_concepts_raw.json
+HCIP_6275,method,deep learning,deep learning,3,verified,deep learning,HCIP_6275_concepts_raw.json
+HCIP_6275,method,knowledge representation,Knowledge representation,1,verified,knowledge representation,HCIP_6275_concepts_raw.json
+HCIP_6275,method,error analysis,error analysis,1,verified,error analysis,HCIP_6275_concepts_raw.json
+HCIP_6275,method,transfer learning,transfer learning,1,verified,transfer learning,HCIP_6275_concepts_raw.json
+HCIP_6275,method,calibration,calibration,1,verified,calibration,HCIP_6275_concepts_raw.json

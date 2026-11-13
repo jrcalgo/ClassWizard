@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HSMT_3201,health system framework,concept,PREREQUISITE_OF,student personal leadership,concept,same unit,,HSMT_3201_triples_raw.json
+HSMT_3201,Leadership,topic,PREREQUISITE_OF,Communication,topic,A taught first,,HSMT_3201_triples_raw.json
+HSMT_3201,Public Health & Health Administration,topic,PREREQUISITE_OF,Inclusion,topic,B mentioned first,,HSMT_3201_triples_raw.json
+HSMT_3201,Inclusion,topic,PREREQUISITE_OF,Equity,topic,same unit,,HSMT_3201_triples_raw.json
+HSMT_3201,Teamwork,topic,PREREQUISITE_OF,health system framework,concept,B taught first,B is taught before A - check,HSMT_3201_triples_raw.json

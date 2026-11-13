@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4187,topic,Data Communications and Networking - II,Data Communications and Networking - II,1,verified,Data Communications and Networking - II,ECGR_4187_concepts_raw.json
+ECGR_4187,topic,Data & Computer Communications,Data & Computer Communications,1,verified,Data & Computer Communications,ECGR_4187_concepts_raw.json
+ECGR_4187,topic,Principles of data communication networks,Principles of data communication networks,1,verified,Principles of data communication networks,ECGR_4187_concepts_raw.json
+ECGR_4187,topic,computer communications network architecture,computer communications network architecture,1,verified,computer communications network architecture,ECGR_4187_concepts_raw.json
+ECGR_4187,topic,local area networks,local area networks,1,verified,local area networks,ECGR_4187_concepts_raw.json
+ECGR_4187,concept,medium access control,medium access control,3,verified,medium access control,ECGR_4187_concepts_raw.json
+ECGR_4187,concept,routing,routing,3,verified,routing,ECGR_4187_concepts_raw.json
+ECGR_4187,topic,data transport,data transport,1,verified,data transport,ECGR_4187_concepts_raw.json
+ECGR_4187,topic,Internet applications,Internet applications,1,verified,Internet applications,ECGR_4187_concepts_raw.json
+ECGR_4187,concept,data link control,data link control,2,verified,data link control,ECGR_4187_concepts_raw.json
+ECGR_4187,concept,transport,transport,4,verified,transport,ECGR_4187_concepts_raw.json

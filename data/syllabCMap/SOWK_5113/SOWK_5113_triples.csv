@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_5113,mental health definitions,concept,PREREQUISITE_OF,impact on society,concept,same unit,,SOWK_5113_triples_raw.json
+SOWK_5113,stigma surrounding mental illness,concept,PREREQUISITE_OF,professional values in practice,concept,same unit,,SOWK_5113_triples_raw.json
+SOWK_5113,stigma surrounding mental illness,concept,PREREQUISITE_OF,cultural influences on care,concept,same unit,,SOWK_5113_triples_raw.json
+SOWK_5113,client-centered care,concept,PREREQUISITE_OF,community-based interventions,concept,A taught first,,SOWK_5113_triples_raw.json
+SOWK_5113,mental health definitions,concept,PART_OF,Mental Health,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,Substance Use Disorders,topic,PART_OF,Mental Health & Substance Use,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,Societal Attitudes and Values,topic,PART_OF,Mental Health & Substance Use,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,Micro Practice Approaches,topic,PART_OF,Mental Health & Substance Use,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,Macro Practice Strategies,topic,PART_OF,Mental Health & Substance Use,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,Mental Health and Substance Abuse Comorbidity,topic,PART_OF,Mental Health & Substance Use,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,Professional Roles and Responsibilities,topic,PART_OF,Mental Health & Substance Use,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,Engaging as Agents of Change,topic,PART_OF,Mental Health & Substance Use,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,Case Studies and Applications,topic,PART_OF,Mental Health & Substance Use,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,Substance Abuse Overview,topic,SUBTYPE_OF,Substance Use Disorders,topic,,,SOWK_5113_triples_raw.json
+SOWK_5113,policy development and advocacy,concept,SUBTYPE_OF,Macro Practice Strategies,topic,,,SOWK_5113_triples_raw.json

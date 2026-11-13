@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5166,topic,backend development,backend development,1,verified,backend development,ITIS_5166_concepts_raw.json
+ITIS_5166,tool,Node.js Runtime Concepts,Node.js Runtime Concepts,1,verified,Node.js Runtime Concepts,ITIS_5166_concepts_raw.json
+ITIS_5166,concept,server-side applications,server-side applications,1,verified,server-side applications,ITIS_5166_concepts_raw.json
+ITIS_5166,concept,persistent database storage,persistent database storage,1,verified,persistent database storage,ITIS_5166_concepts_raw.json
+ITIS_5166,topic,Cloud Hosting Platforms,cloud hosting platforms,1,verified,Cloud Hosting Platforms,ITIS_5166_concepts_raw.json
+ITIS_5166,topic,Continuous Integration/Deployment,Continuous Integration/Deployment,1,verified,Continuous Integration/Deployment,ITIS_5166_concepts_raw.json
+ITIS_5166,concept,asynchronous JavaScript,asynchronous JavaScript,1,verified,asynchronous JavaScript,ITIS_5166_concepts_raw.json
+ITIS_5166,concept,core Node.js runtime concepts,core Node.js runtime concepts,1,verified,core Node.js runtime concepts,ITIS_5166_concepts_raw.json
+ITIS_5166,concept,RESTful APIs,RESTful APIs,2,verified,RESTful APIs,ITIS_5166_concepts_raw.json
+ITIS_5166,concept,secure user authentication and authorization mechanisms,secure user authentication and authorization mechanisms,1,verified,secure user authentication and authorization mechanisms,ITIS_5166_concepts_raw.json
+ITIS_5166,concept,client integration,client integration,1,verified,client integration,ITIS_5166_concepts_raw.json
+ITIS_5166,concept,continuous integration/deployment pipelines,continuous integration/deployment pipelines,1,verified,continuous integration/deployment pipelines,ITIS_5166_concepts_raw.json
+ITIS_5166,concept,containerization,containerization,1,verified,containerization,ITIS_5166_concepts_raw.json
+ITIS_5166,tool,Postman,Postman,1,verified,Postman,ITIS_5166_concepts_raw.json
+ITIS_5166,tool,Swagger (OpenAPI,Swagger (OpenAPI,1,verified,Swagger (OpenAPI),ITIS_5166_concepts_raw.json
+ITIS_5166,tool,JavaScript,JavaScript,1,verified,JavaScript,ITIS_5166_concepts_raw.json

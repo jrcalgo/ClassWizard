@@ -1,0 +1,35 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_1211,Paleolithic Art Origins,concept,PREREQUISITE_OF,Cave Painting Techniques,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Paleolithic Art Origins,concept,PREREQUISITE_OF,Early Human Expression,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Sumerian Temple Architecture,concept,PREREQUISITE_OF,Mesopotamian Relief Sculpture,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Sumerian Temple Architecture,concept,PREREQUISITE_OF,Ziggurat Symbolism,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Pyramid Construction Methods,concept,PREREQUISITE_OF,Egyptian Funerary Art,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Pyramid Construction Methods,concept,PREREQUISITE_OF,Hieroglyphic Writing System,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Greek Temple Design Principles,concept,PREREQUISITE_OF,Classical Greek Sculpture Styles,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Greek Temple Design Principles,concept,PREREQUISITE_OF,Athenian Acropolis Architecture,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Roman Forum Development,concept,PREREQUISITE_OF,Roman Mosaics Techniques,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Roman Forum Development,concept,PREREQUISITE_OF,Colosseum Engineering Feats,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Byzantine Mosaic Art,concept,PREREQUISITE_OF,Early Christian Iconography,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Byzantine Mosaic Art,concept,PREREQUISITE_OF,Medieval Church Architecture,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Gothic Cathedral Design,concept,PREREQUISITE_OF,Late Medieval Sculpture Styles,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Gothic Cathedral Design,concept,PREREQUISITE_OF,Medieval Illuminated Manuscripts,concept,same unit,,ARTH_1211_triples_raw.json
+ARTH_1211,Paleolithic Art Origins,concept,PART_OF,Prehistory Overview,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Cave Painting Techniques,concept,PART_OF,Prehistory Overview,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Early Human Expression,concept,PART_OF,Prehistory Overview,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Sumerian Temple Architecture,concept,PART_OF,Ancient Mesopotamia,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Mesopotamian Relief Sculpture,concept,PART_OF,Ancient Mesopotamia,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Ziggurat Symbolism,concept,PART_OF,Ancient Mesopotamia,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Pyramid Construction Methods,concept,PART_OF,Ancient Egypt,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Egyptian Funerary Art,concept,PART_OF,Ancient Egypt,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Hieroglyphic Writing System,concept,PART_OF,Ancient Egypt,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Greek Temple Design Principles,concept,PART_OF,Classical Greece,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Classical Greek Sculpture Styles,concept,PART_OF,Classical Greece,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Athenian Acropolis Architecture,concept,PART_OF,Classical Greece,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Roman Forum Development,concept,PART_OF,Roman Art and Architecture,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Roman Mosaics Techniques,concept,PART_OF,Roman Art and Architecture,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Byzantine Mosaic Art,concept,PART_OF,Early Christian Art,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Early Christian Iconography,concept,PART_OF,Early Christian Art,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Medieval Church Architecture,concept,PART_OF,Early Christian Art,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Gothic Cathedral Design,concept,PART_OF,Late Medieval Period,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Medieval Illuminated Manuscripts,concept,PART_OF,Late Medieval Period,topic,,,ARTH_1211_triples_raw.json
+ARTH_1211,Late Medieval Sculpture Styles,concept,PART_OF,Late Medieval Period,topic,,,ARTH_1211_triples_raw.json

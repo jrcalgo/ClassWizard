@@ -1,0 +1,97 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_8140,concept,Natural Selection,Natural Selection,4,verified,Natural Selection,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Species Variation,Species Variation,1,verified,Species Variation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Descent with Modification,Descent with Modification,1,verified,Descent with Modification,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Gradualism Theory,Gradualism Theory,1,verified,Gradualism Theory,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary Process,Evolutionary Process,1,verified,Evolutionary Process,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Natural Selection Process,Natural Selection Process,1,verified,Natural Selection Process,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Species Adaptation Mechanisms,Species Adaptation Mechanisms,1,verified,Species Adaptation Mechanisms,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary Change Drivers,Evolutionary Change Drivers,1,verified,Evolutionary Change Drivers,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Phylogenetic Tree Construction,Phylogenetic Tree Construction,1,verified,Phylogenetic Tree Construction,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Molecular Clock Theory,Molecular Clock Theory,1,verified,Molecular Clock Theory,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Thermodynamics of living systems,Thermodynamics of living systems,1,verified,Thermodynamics of living systems,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Quantum mechanics and biology,Quantum mechanics and biology,1,verified,Quantum mechanics and biology,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Entropy in biological processes,Entropy in biological processes,1,verified,Entropy in biological processes,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Information theory and life,Information theory and life,1,verified,Information theory and life,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Organic molecules and energy,Organic molecules and energy,1,verified,Organic molecules and energy,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Primordial soup hypothesis,Primordial soup hypothesis,1,verified,Primordial soup hypothesis,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Energy requirements for life,Energy requirements for life,1,verified,Energy requirements for life,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Chemical energy conversion,Chemical energy conversion,2,verified,Chemical energy conversion,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Autocatalytic reaction networks,Autocatalytic reaction networks,1,verified,Autocatalytic reaction networks,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Emergence of self-organization,Emergence of self-organization,1,verified,Emergence of self-organization,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Energy sources,Energy sources,1,verified,Energy sources,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Cell membrane formation,Cell membrane formation,1,verified,Cell membrane formation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Thermodynamic equilibrium,Thermodynamic equilibrium,1,verified,Thermodynamic equilibrium,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Emergence of cells,emergence of cells,2,verified,Emergence of cells,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Energy availability,Energy availability,1,verified,Energy availability,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Autotrophic efficiency,Autotrophic efficiency,1,verified,Autotrophic efficiency,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Endosymbiotic theory,Endosymbiotic theory,1,verified,Endosymbiotic theory,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Mitochondrial evolution,Mitochondrial evolution,1,verified,Mitochondrial evolution,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Oxidative phosphorylation,Oxidative phosphorylation,1,verified,Oxidative phosphorylation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Phylogenetic trees,Phylogenetic trees,4,verified,Phylogenetic trees,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Maximum likelihood estimation,Maximum likelihood estimation,1,verified,Maximum likelihood estimation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Bayesian inference methods,Bayesian inference methods,1,verified,Bayesian inference methods,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Model selection criteria,Model selection criteria,1,verified,Model selection criteria,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Tree topology comparison,Tree topology comparison,1,verified,Tree topology comparison,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Mutation Rate,Mutation Rate,1,verified,Mutation Rate,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Genetic Drift,Genetic Drift,3,verified,Genetic Drift,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Neutral Theory,Neutral Theory,3,verified,Neutral Theory,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Selection Pressure,Selection Pressure,2,verified,Selection Pressure,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary Change,Evolutionary Change,2,verified,Evolutionary Change,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Molecular Mutation,Molecular Mutation,1,verified,Molecular Mutation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Genotype Variation,Genotype Variation,1,verified,Genotype Variation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Migration patterns,Migration patterns,1,verified,Migration patterns,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Genetic drift process,Genetic drift process,1,verified,Genetic drift process,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Neutral theory concept,Neutral theory concept,1,verified,Neutral theory concept,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Random sampling error,Random sampling error,1,verified,Random sampling error,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Nonrandom mating types,Nonrandom mating types,1,verified,Nonrandom mating types,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Individual Phylogeny,Individual phylogeny,2,verified,Individual Phylogeny,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Class Phylogeny,Class phylogeny,3,verified,Class Phylogeny,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary Relationships,Evolutionary Relationships,1,verified,Evolutionary Relationships,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary variation,Evolutionary variation,1,verified,Evolutionary variation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Heritability estimates,Heritability estimates,1,verified,Heritability estimates,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Genetic correlation coefficients,Genetic correlation coefficients,1,verified,Genetic correlation coefficients,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Phenotypic selection gradients,Phenotypic selection gradients,1,verified,Phenotypic selection gradients,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Genome Evolution,Genome evolution,2,verified,Genome Evolution,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Molecular Evolution,Molecular Evolution,2,verified,Molecular Evolution,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Sequence Divergence,Sequence Divergence,1,verified,Sequence Divergence,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Gene Duplication,Gene Duplication,1,verified,Gene Duplication,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Horizontal Gene Transfer,Horizontal Gene Transfer,1,verified,Horizontal Gene Transfer,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Phylogenetic adaptation,Phylogenetic adaptation,1,verified,Phylogenetic adaptation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Adaptation mechanisms,Adaptation Mechanisms,3,verified,Adaptation mechanisms,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary trade-offs,Evolutionary trade-offs,1,verified,Evolutionary trade-offs,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Phylogeny reconstruction,Phylogeny reconstruction,1,verified,Phylogeny reconstruction,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Panglossian paradigm,Panglossian paradigm,2,verified,Panglossian paradigm,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Spandrels of San Marco,spandrels of San Marco,2,verified,Spandrels of San Marco,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Biological traits as byproducts,Biological traits as byproducts,1,verified,Biological traits as byproducts,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Gould and Lewontin's argument,Gould and Lewontin's argument,1,verified,Gould and Lewontin's argument,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Adaptationist vs. neutral views,Adaptationist vs. neutral views,1,verified,Adaptationist vs. neutral views,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary Optimization,Evolutionary Optimization,1,verified,Evolutionary Optimization,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Fitness Maximization,Fitness Maximization,1,verified,Fitness Maximization,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Genetic Variation,Genetic Variation,2,verified,Genetic Variation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Molecular clock,Molecular Clock,2,verified,Molecular clock,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Phylogenetic tree,Phylogenetic trees,4,verified,Phylogenetic tree,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Maximum likelihood,Maximum likelihood,2,verified,Maximum likelihood,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Price Equation,Price equation,3,verified,Price Equation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Eusociality Evolution,Eusociality Evolution,1,verified,Eusociality Evolution,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Kin Selection Theory,Kin Selection Theory,1,verified,Kin Selection Theory,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary Fitness,Evolutionary Fitness,1,verified,Evolutionary Fitness,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Genetic Drift Concept,Genetic Drift Concept,1,verified,Genetic Drift Concept,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Individuality Evolution,Individuality Evolution,1,verified,Individuality Evolution,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Unicellular Multicellular Transition,Unicellular Multicellular Transition,1,verified,Unicellular Multicellular Transition,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Cellular Differentiation,Cellular Differentiation,1,verified,Cellular Differentiation,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Multicellularity Emergence,Multicellularity Emergence,1,verified,Multicellularity Emergence,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolvability mechanisms,Evolvability mechanisms,1,verified,Evolvability mechanisms,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Genetic variation sources,Genetic variation sources,1,verified,Genetic variation sources,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Phylogenetic inertia concept,Phylogenetic inertia concept,1,verified,Phylogenetic inertia concept,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary innovation types,Evolutionary innovation types,1,verified,Evolutionary innovation types,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Assembly theory principles,Assembly theory principles,1,verified,Assembly theory principles,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary Individual,evolutionary individual,2,verified,Evolutionary Individual,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Emergence Theory,Emergence Theory,1,verified,Emergence Theory,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Complex Systems,Complex Systems,1,verified,Complex Systems,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Artificial Intelligence Evolution,Artificial Intelligence Evolution,2,verified,Artificial Intelligence Evolution,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Human-AI Interaction,Human-AI Interaction,1,verified,Human-AI Interaction,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Co-Evolution Concept,Co-Evolution Concept,1,verified,Co-Evolution Concept,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Self-Organization Process,Self-Organization Process,1,verified,Self-Organization Process,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Adaptive Complexity,Adaptive Complexity,1,verified,Adaptive Complexity,BIOL_8140_concepts_raw.json
+BIOL_8140,concept,Evolutionary Novelty,Evolutionary Novelty,1,verified,Evolutionary Novelty,BIOL_8140_concepts_raw.json

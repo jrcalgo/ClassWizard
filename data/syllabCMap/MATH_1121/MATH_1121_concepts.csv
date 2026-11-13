@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_1121,topic,limits,limits,2,verified,limits,MATH_1121_concepts_raw.json
+MATH_1121,topic,differentiation,differentiation,2,verified,differentiation,MATH_1121_concepts_raw.json
+MATH_1121,topic,curvilinear motion,curvilinear motion,2,verified,curvilinear motion,MATH_1121_concepts_raw.json
+MATH_1121,topic,related rates,related rates,2,verified,related rates,MATH_1121_concepts_raw.json
+MATH_1121,topic,optimization problems,optimization problems,2,verified,optimization problems,MATH_1121_concepts_raw.json
+MATH_1121,topic,transcendental functions,transcendental functions,2,verified,transcendental functions,MATH_1121_concepts_raw.json

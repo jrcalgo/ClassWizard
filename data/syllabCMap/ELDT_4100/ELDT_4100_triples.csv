@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_4100,Models of Technology Integration,topic,PART_OF,Technology Integration,topic,,,ELDT_4100_triples_raw.json
+ELDT_4100,Technology Integration,topic,PART_OF,leveraging technology to meet the needs of all learners,topic,,,ELDT_4100_triples_raw.json
+ELDT_4100,Instructional methods and technological tools for innovative and effective teaching and learning,topic,PART_OF,Technology Integration,topic,,,ELDT_4100_triples_raw.json
+ELDT_4100,Effective Teaching and Learning,concept,USED_FOR,Instructional methods and technological tools for innovative and effective teaching and learning,topic,,,ELDT_4100_triples_raw.json

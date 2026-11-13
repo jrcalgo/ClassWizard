@@ -1,0 +1,53 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_1501,environmental worldviews,concept,PART_OF,Environmental ethics and biophysical perspectives on sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,social science approaches,concept,PART_OF,Environmental justice,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,global environmental issues,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,global environmental issues,concept,PART_OF,Environmental ethics and biophysical perspectives on sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,human imprints on earth,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,human imprints on earth,concept,PART_OF,Environmental justice,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,human imprints on earth,concept,PART_OF,economics of sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,environmental degradation,concept,PART_OF,"Environment, Society, and Sustainability",topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,environmental protection strategies,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,cultural values and attitudes,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,cultural values and attitudes,concept,PART_OF,Environmental justice,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,cultural values and attitudes,concept,PART_OF,economics of sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,biophysical perspectives,concept,PART_OF,"Environment, Society, and Sustainability",topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,biophysical perspectives,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,biophysical perspectives,concept,PART_OF,Environmental ethics and biophysical perspectives on sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,environmental dispute resolution,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,environmental dispute resolution,concept,PART_OF,economics of sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,science policy interface,concept,PART_OF,"Environment, Society, and Sustainability",topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,science policy interface,concept,PART_OF,Introduction and defining sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,science policy interface,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,science policy interface,concept,PART_OF,Environmental ethics and biophysical perspectives on sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,environmental degradation processes,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,sustainable development,concept,PART_OF,"Environment, Society, and Sustainability",topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,sustainable development,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,sustainable development,concept,PART_OF,Environmental justice,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,sustainable development,concept,PART_OF,economics of sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,human impact,concept,PART_OF,"Environment, Society, and Sustainability",topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,human impact,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,environmental protection strategies,concept,PART_OF,"Environment, Society, and Sustainability",topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,cultural values and attitudes,concept,PART_OF,"Environment, Society, and Sustainability",topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,cultural values and attitudes,concept,PART_OF,Introduction and defining sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,environmental ethics,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,sustainable development goals,concept,PART_OF,"Environment, Society, and Sustainability",topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,sustainable development goals,concept,PART_OF,economics of sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,nexus approaches,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,urban systems,concept,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,urban systems,concept,PART_OF,economics of sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,"Oceans, Plastic, and Waste",topic,PART_OF,Introduction and defining sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,"Oceans, Plastic, and Waste",topic,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,"Oceans, Plastic, and Waste",topic,PART_OF,Environmental justice,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,"Oceans, Plastic, and Waste",topic,PART_OF,economics of sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,Indigenous sustainability,topic,PART_OF,Wicked problems and worldviews,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,Indigenous sustainability,topic,PART_OF,Environmental ethics and biophysical perspectives on sustainability,topic,,,ESCI_1501_triples_raw.json
+ESCI_1501,sustainability principles,concept,SUBTYPE_OF,sustainable development,concept,,,ESCI_1501_triples_raw.json
+ESCI_1501,wicked problems,concept,SUBTYPE_OF,global environmental issues,concept,,,ESCI_1501_triples_raw.json
+ESCI_1501,human impact factors,concept,SUBTYPE_OF,human impact,concept,,,ESCI_1501_triples_raw.json
+ESCI_1501,ecological footprint analysis,concept,SUBTYPE_OF,human impact,concept,,,ESCI_1501_triples_raw.json
+ESCI_1501,resource depletion rates,concept,SUBTYPE_OF,human impact,concept,,,ESCI_1501_triples_raw.json
+ESCI_1501,Climate change,topic,SUBTYPE_OF,global warming effects,concept,,,ESCI_1501_triples_raw.json
+ESCI_1501,crop rotation strategies,concept,SUBTYPE_OF,soil erosion prevention,concept,,,ESCI_1501_triples_raw.json
+ESCI_1501,organic farming methods,concept,SUBTYPE_OF,integrated pest management,concept,,,ESCI_1501_triples_raw.json
+ESCI_1501,climate change adaptation,concept,SUBTYPE_OF,ecosystem services loss,concept,,,ESCI_1501_triples_raw.json

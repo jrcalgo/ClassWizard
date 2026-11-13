@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_5072,Academic Expectations and Standards,concept,PREREQUISITE_OF,Course Objectives and Outcomes,concept,same unit,,ENGL_5072_triples_raw.json
+ENGL_5072,Postcolonialism,concept,PREREQUISITE_OF,Postcolonialism and Critical Discourse,topic,same unit,,ENGL_5072_triples_raw.json
+ENGL_5072,Close Reading Techniques,concept,PREREQUISITE_OF,Close Reading Techniques and Analysis,topic,same unit,,ENGL_5072_triples_raw.json
+ENGL_5072,Analyzing Symbolism,concept,PREREQUISITE_OF,Analyzing Symbolism and Imagery Devices,topic,same unit,,ENGL_5072_triples_raw.json
+ENGL_5072,Academic Expectations and Standards,concept,PART_OF,Course Objectives and Outcomes,concept,,,ENGL_5072_triples_raw.json
+ENGL_5072,Close Reading Techniques,concept,PART_OF,Close Reading Techniques and Analysis,topic,,,ENGL_5072_triples_raw.json
+ENGL_5072,Analyzing Symbolism,concept,PART_OF,Analyzing Symbolism and Imagery Devices,topic,,,ENGL_5072_triples_raw.json
+ENGL_5072,Feminist Literary Criticism Approaches,concept,PART_OF,Postcolonialism and Critical Discourse,topic,,,ENGL_5072_triples_raw.json
+ENGL_5072,Marxist Literary Analysis Techniques,concept,PART_OF,Postcolonialism and Critical Discourse,topic,,,ENGL_5072_triples_raw.json

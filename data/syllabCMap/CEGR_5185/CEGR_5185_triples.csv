@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5185,Geometric Design Principles,concept,PART_OF,Geometric Design of Highways,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Driver Ability Factors,concept,PART_OF,Geometric Design of Highways,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Intersection Types and Configurations,concept,PART_OF,Intersection Design Fundamentals,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Intersection Sight Distance Requirements,concept,PART_OF,Intersection Design Fundamentals,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Intersection Geometry Standards,concept,PART_OF,Intersection Design Fundamentals,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Ramp Interchange Design Elements,concept,PART_OF,Interchange Design Principles,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Diamond Interchange Design Considerations,concept,PART_OF,Interchange Design Principles,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Cloverleaf Interchange Design Factors,concept,PART_OF,Interchange Design Principles,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Parking Lot Layout and Configuration,concept,PART_OF,Parking Facility Design,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Storm Drainage System Design Elements,concept,PART_OF,Drainage Facility Design,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Culvert Design Considerations,concept,PART_OF,Drainage Facility Design,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Flood Control Measures,concept,PART_OF,Drainage Facility Design,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Vehicle Speed and Acceleration Factors,concept,PART_OF,Vehicle Performance and Highway Design,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Vehicle Turning Radius Requirements,concept,PART_OF,Vehicle Performance and Highway Design,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Highway Design for Vehicle Safety,concept,PART_OF,Vehicle Performance and Highway Design,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Cost-Benefit Analysis of Highway Design,concept,PART_OF,Economic Considerations in Geometric Design,topic,,,CEGR_5185_triples_raw.json
+CEGR_5185,Return on Investment (ROI) Analysis,concept,PART_OF,Economic Considerations in Geometric Design,topic,,,CEGR_5185_triples_raw.json

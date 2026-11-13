@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHNS_2201,Shopping,concept,PART_OF,Daily Life Situations,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Eating Out,concept,PART_OF,Daily Life Situations,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Asking Directions,concept,PART_OF,Daily Life Situations,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Flirting,concept,PART_OF,Dating and Relationships,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Dating Customs,concept,PART_OF,Dating and Relationships,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Romantic Gestures,concept,PART_OF,Dating and Relationships,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Apartment Hunting,concept,PART_OF,Renting an Apartment,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Lease Agreements,concept,PART_OF,Renting an Apartment,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Utilities,concept,PART_OF,Renting an Apartment,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Popular Sports,concept,PART_OF,Sports and Leisure,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Fitness Centers,concept,PART_OF,Sports and Leisure,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Hobbies,concept,PART_OF,Sports and Leisure,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Transportation,concept,PART_OF,Traveling in China,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Accommodations,concept,PART_OF,Traveling in China,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Cultural Etiquette,concept,PART_OF,Traveling in China,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Festivals,concept,PART_OF,Chinese Culture and Traditions,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Holidays,concept,PART_OF,Chinese Culture and Traditions,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Family Values,concept,PART_OF,Chinese Culture and Traditions,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Discourse Level Fluency,concept,PART_OF,Listening and Speaking Skills,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Accurate Pronunciation,concept,PART_OF,Listening and Speaking Skills,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Conversational Topics,concept,PART_OF,Listening and Speaking Skills,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Characters,concept,PART_OF,Reading and Writing Chinese,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Pinyin System,concept,PART_OF,Reading and Writing Chinese,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Basic Sentence Patterns,concept,PART_OF,Reading and Writing Chinese,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Cross-Cultural Communication,concept,PART_OF,Cultural Immersion and Integration,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Cultural Adaptation,concept,PART_OF,Cultural Immersion and Integration,topic,,,CHNS_2201_triples_raw.json
+CHNS_2201,Community Engagement,concept,PART_OF,Cultural Immersion and Integration,topic,,,CHNS_2201_triples_raw.json

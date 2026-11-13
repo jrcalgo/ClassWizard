@@ -1,0 +1,64 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_1103,Spatial Thinking Fundamentals,concept,PREREQUISITE_OF,Geographic Relationships,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Spatial Thinking Fundamentals,concept,PREREQUISITE_OF,Patterns and Trends,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Spatial Thinking Fundamentals,concept,PREREQUISITE_OF,Temporal Analysis,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Coordinate Systems,concept,PREREQUISITE_OF,Map Projections,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Spatial Reference Systems,concept,PREREQUISITE_OF,Geospatial Analysis,concept,A taught first,,GEOG_1103_triples_raw.json
+GEOG_1103,Geographic Relationships,concept,PREREQUISITE_OF,Location and Scale,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Geographic Relationships,concept,PREREQUISITE_OF,Patterns and Trends,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Geographic Relationships,concept,PREREQUISITE_OF,Temporal Analysis,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Location and Scale,concept,PREREQUISITE_OF,Patterns and Trends,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Location and Scale,concept,PREREQUISITE_OF,Temporal Analysis,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Patterns and Trends,concept,PREREQUISITE_OF,Temporal Analysis,concept,same unit,,GEOG_1103_triples_raw.json
+GEOG_1103,Spatial Thinking Fundamentals,concept,PART_OF,Spatial Thinking,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Geographic Relationships,concept,PART_OF,Spatial Thinking,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Location and Scale,concept,PART_OF,Spatial Thinking,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Patterns and Trends,concept,PART_OF,Spatial Thinking,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Temporal Analysis,concept,PART_OF,Spatial Thinking,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Coordinate Systems,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Map Projections,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Spatial Reference Systems,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,SQL queries,concept,PART_OF,Non-spatial data,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Query Language Syntax,concept,PART_OF,Geospatial Analysis,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Spatial Data Types,concept,PART_OF,Geospatial Analysis,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Site suitability analysis,concept,PART_OF,Geographic Information Systems,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Buffer Zones Creation,concept,PART_OF,Geographic Information Systems,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Distance Decay Concept,concept,PART_OF,Geographic Information Systems,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Map Scale,concept,PART_OF,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Cartographic Elements,concept,PART_OF,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Scale Distortion,concept,PART_OF,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Color Representation,concept,PART_OF,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Cartographic Scale,concept,PART_OF,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Geospatial Network Analysis,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Graph Theory Applications,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Spatial Autocorrelation Measures,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Geospatial Technology Basics,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Remote Sensing Principles,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Sensor Systems Classification,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Radiometric and Geometric Errors,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Pixel Size and Scale Issues,concept,PART_OF,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Coordinate Systems,concept,USED_FOR,Map Projections,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Map Projections,concept,USED_FOR,Geographic Coordinates,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Spatial Reference Systems,concept,USED_FOR,Geospatial Analysis,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Geographic Relationships,concept,USED_FOR,Location and Scale,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Geographic Relationships,concept,USED_FOR,Patterns and Trends,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Geographic Relationships,concept,USED_FOR,Temporal Analysis,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Location and Scale,concept,USED_FOR,Patterns and Trends,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Location and Scale,concept,USED_FOR,Temporal Analysis,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Query Language Syntax,concept,USED_FOR,Geospatial Analysis,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Spatial Data Types,concept,USED_FOR,Geospatial Analysis,concept,,,GEOG_1103_triples_raw.json
+GEOG_1103,Buffer Zones Creation,concept,USED_FOR,Geographic Information Systems,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Distance Decay Concept,concept,USED_FOR,Geographic Information Systems,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Map Scale,concept,USED_FOR,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Cartographic Elements,concept,USED_FOR,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Scale Distortion,concept,USED_FOR,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Color Representation,concept,USED_FOR,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Cartographic Scale,concept,USED_FOR,Cartographic Representation,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Geospatial Network Analysis,concept,USED_FOR,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Graph Theory Applications,concept,USED_FOR,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Node and Edge Properties,concept,USED_FOR,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Geospatial Technology Basics,concept,USED_FOR,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Remote Sensing Principles,concept,USED_FOR,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Sensor Systems Classification,concept,USED_FOR,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Radiometric and Geometric Errors,concept,USED_FOR,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json
+GEOG_1103,Digital Number Values Interpretation,concept,USED_FOR,Geospatial Technology,topic,,,GEOG_1103_triples_raw.json

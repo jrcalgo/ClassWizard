@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_8225,topic,linear systems theory,Linear Systems Theory,1,verified,linear systems theory,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,linear state-space equations,linear state-space equations,1,verified,linear state-space equations,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,robotic and mechatronic systems,robotic and mechatronic systems,1,verified,robotic and mechatronic systems,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,aerospace and ground vehicles,aerospace and ground vehicles,1,verified,aerospace and ground vehicles,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,circuits,circuits,1,verified,circuits,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,linear algebra,linear algebra,2,verified,linear algebra,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,linearization,linearization,2,verified,linearization,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,matrix transfer functions,matrix transfer functions,1,verified,matrix transfer functions,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,state equation solutions,state equation solutions,1,verified,state equation solutions,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,state transition matrices,state transition matrices,2,verified,state transition matrices,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,stability criteria,stability criteria,1,verified,stability criteria,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,observability,observability,5,verified,observability,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,controllability,controllability,5,verified,controllability,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,realizations,realizations,1,verified,realizations,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,similarity transforms,similarity transforms,1,verified,similarity transforms,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,canonical forms,canonical forms,5,verified,canonical forms,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,numerical simulations,numerical simulations,1,verified,numerical simulations,MEGR_8225_concepts_raw.json
+MEGR_8225,topic,controller implementation in MATLAB,controller implementation in MATLAB,1,verified,controller implementation in MATLAB,MEGR_8225_concepts_raw.json
+MEGR_8225,concept,state-space representations,state-space representations,2,verified,state-space representations,MEGR_8225_concepts_raw.json
+MEGR_8225,concept,eigenvalues and eigenvectors,Eigenvalues and eigenvectors,1,verified,eigenvalues and eigenvectors,MEGR_8225_concepts_raw.json
+MEGR_8225,concept,Popov-Belevitch-Hautus test,Popov-Belevitch-Hautus tests,1,verified,Popov-Belevitch-Hautus test,MEGR_8225_concepts_raw.json
+MEGR_8225,concept,pole placement techniques,pole - placement techniques,1,verified,pole placement techniques,MEGR_8225_concepts_raw.json
+MEGR_8225,concept,algebraic Riccati equation,algebraic Riccati equation,2,verified,algebraic Riccati equation,MEGR_8225_concepts_raw.json
+MEGR_8225,tool,MATLAB,MATLAB,1,verified,MATLAB,MEGR_8225_concepts_raw.json

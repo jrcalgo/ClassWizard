@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_4251,Nature of Science,concept,PREREQUISITE_OF,Interdisciplinary Aspects of Science,concept,same unit,,MDSK_4251_triples_raw.json
+MDSK_4251,Scientific Inquiry,topic,PREREQUISITE_OF,5E Model,topic,same unit,,MDSK_4251_triples_raw.json
+MDSK_4251,Data Collection,topic,PREREQUISITE_OF,Discourse,topic,same unit,,MDSK_4251_triples_raw.json
+MDSK_4251,5E Model,topic,USED_FOR,Teaching Science,topic,,topic used for something - check direction,MDSK_4251_triples_raw.json
+MDSK_4251,Discourse,topic,USED_FOR,Scientific Inquiry,topic,,topic used for something - check direction,MDSK_4251_triples_raw.json

@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITAI_4160,concept,databases and cloud for AI,Databases and Cloud for AI,3,verified,databases and cloud for AI,ITAI_4160_concepts_raw.json
+ITAI_4160,topic,Distributed Data Processing,distributed data processing,1,verified,Distributed Data Processing,ITAI_4160_concepts_raw.json
+ITAI_4160,topic,Cloud-Based Data Pipelines,cloud-based data pipelines,1,verified,Cloud-Based Data Pipelines,ITAI_4160_concepts_raw.json
+ITAI_4160,topic,End-to-End AI Data Architectures,end-to-end AI data architectures,1,verified,End-to-End AI Data Architectures,ITAI_4160_concepts_raw.json
+ITAI_4160,concept,artificial intelligence,artificial intelligence,1,verified,artificial intelligence,ITAI_4160_concepts_raw.json
+ITAI_4160,concept,machine learning,machine learning,2,verified,machine learning,ITAI_4160_concepts_raw.json
+ITAI_4160,concept,parallel query execution,parallel query execution,1,verified,parallel query execution,ITAI_4160_concepts_raw.json
+ITAI_4160,method,designing cloud-based data pipelines,designing cloud-based data pipelines,1,verified,designing cloud-based data pipelines,ITAI_4160_concepts_raw.json
+ITAI_4160,method,managing relational and NoSQL databases,managing relational and NoSQL databases,1,verified,managing relational and NoSQL databases,ITAI_4160_concepts_raw.json
+ITAI_4160,method,processing large-scale data,processing large-scale data,1,verified,processing large-scale data,ITAI_4160_concepts_raw.json

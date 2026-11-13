@@ -1,0 +1,71 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_1101L,concept,General Psychology,General Psychology,3,verified,General Psychology,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Debating Skills,Debating Skills,1,verified,Debating Skills,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Writing Techniques,Writing Techniques,1,verified,Writing Techniques,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Public Speaking,public speaking,17,verified,Public Speaking,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Experimental Design,Experimental Design,1,verified,Experimental Design,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Surveys and Questionnaires,Surveys and Questionnaires,1,verified,Surveys and Questionnaires,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Sampling Techniques,Sampling Techniques,1,verified,Sampling Techniques,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Data Analysis,Data Analysis,1,verified,Data Analysis,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Measurement Error,Measurement Error,1,verified,Measurement Error,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Reliability and Validity,Reliability and Validity,1,verified,Reliability and Validity,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Operational Definition,Operational Definition,1,verified,Operational Definition,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Article Structure,Article Structure,1,verified,Article Structure,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Main Idea Identification,Main Idea Identification,1,verified,Main Idea Identification,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Author's Purpose,Author's Purpose,1,verified,Author's Purpose,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Tone and Bias,Tone and Bias,1,verified,Tone and Bias,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Critical Thinking Skills,critical thinking skills,2,verified,Critical Thinking Skills,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Moral Principles,Moral Principles,1,verified,Moral Principles,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Ethical Theories,Ethical Theories,1,verified,Ethical Theories,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Psychological Ethics,Psychological Ethics,1,verified,Psychological Ethics,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Research Integrity,Research Integrity,1,verified,Research Integrity,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Deontological Theory,Deontological Theory,1,verified,Deontological Theory,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Types of Memory,Types of Memory,1,verified,Types of Memory,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Encoding Processes,Encoding Processes,1,verified,Encoding Processes,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Storage Capacity Limits,Storage Capacity Limits,1,verified,Storage Capacity Limits,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Retrieval Strategies Used,Retrieval Strategies Used,1,verified,Retrieval Strategies Used,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Memory Consolidation Stages,Memory Consolidation Stages,1,verified,Memory Consolidation Stages,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Personality Theories,Personality Theories,1,verified,Personality Theories,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Trait Psychology,Trait Psychology,1,verified,Trait Psychology,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Type Theory,Type Theory,1,verified,Type Theory,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Humanistic Personality,Humanistic Personality,1,verified,Humanistic Personality,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Psychodynamic Perspective,Psychodynamic Perspective,1,verified,Psychodynamic Perspective,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Stress Response System,Stress Response System,1,verified,Stress Response System,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Nervous System Functions,Nervous System Functions,1,verified,Nervous System Functions,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Fight or Flight Reaction,Fight or Flight Reaction,1,verified,Fight or Flight Reaction,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Hormonal Stress Mechanisms,Hormonal Stress Mechanisms,1,verified,Hormonal Stress Mechanisms,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Sympathetic Nervous System,Sympathetic Nervous System,1,verified,Sympathetic Nervous System,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Annotated Bibliography,Annotated Bibliography,1,verified,Annotated Bibliography,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Social Influence,Social Influence,1,verified,Social Influence,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Attitude Formation,Attitude Formation,1,verified,Attitude Formation,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Group Dynamics,Group Dynamics,1,verified,Group Dynamics,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Conformity Pressure,Conformity Pressure,1,verified,Conformity Pressure,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Deindividuation Theory,Deindividuation Theory,1,verified,Deindividuation Theory,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Altruism Motivation,Altruism Motivation,1,verified,Altruism Motivation,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Aggression Theories,Aggression Theories,1,verified,Aggression Theories,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Attribution Error,Attribution Error,1,verified,Attribution Error,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Self-Serving Bias,Self-Serving Bias,1,verified,Self-Serving Bias,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Psychopathology Definition,Psychopathology Definition,1,verified,Psychopathology Definition,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Abnormal Behavior Types,Abnormal Behavior Types,1,verified,Abnormal Behavior Types,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Mental Health Disorders,Mental Health Disorders,1,verified,Mental Health Disorders,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Symptomatology Explanation,Symptomatology Explanation,1,verified,Symptomatology Explanation,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Diagnostic Criteria Standards,Diagnostic Criteria Standards,1,verified,Diagnostic Criteria Standards,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Cognitive Development,Cognitive Development,1,verified,Cognitive Development,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Piaget's Theory,Piaget's Theory,1,verified,Piaget's Theory,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Erikson's Psychosocial,Erikson's Psychosocial,1,verified,Erikson's Psychosocial,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Child Cognitive Abilities,Child Cognitive Abilities,1,verified,Child Cognitive Abilities,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Social Learning Theory,Social Learning Theory,1,verified,Social Learning Theory,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Attachment Styles,Attachment Styles,1,verified,Attachment Styles,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Parenting Styles Influence,Parenting Styles Influence,1,verified,Parenting Styles Influence,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Childhood Emotional Development,Childhood Emotional Development,1,verified,Childhood Emotional Development,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Developmental Stages,Developmental Stages,1,verified,Developmental Stages,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Motivation,Motivation,3,verified,Motivation,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Maslow's Hierarchy,Maslow's Hierarchy,1,verified,Maslow's Hierarchy,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Drive Theory Basics,Drive Theory Basics,1,verified,Drive Theory Basics,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Intrinsic Motivation Factors,Intrinsic Motivation Factors,1,verified,Intrinsic Motivation Factors,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Extrinsic Reward Systems,Extrinsic Reward Systems,1,verified,Extrinsic Reward Systems,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Self-Efficacy Concept,Self-Efficacy Concept,1,verified,Self-Efficacy Concept,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Goal Setting Strategies,Goal Setting Strategies,1,verified,Goal Setting Strategies,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Motivational Theories Overview,Motivational Theories Overview,1,verified,Motivational Theories Overview,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Needs Satisfaction Levels,Needs Satisfaction Levels,1,verified,Needs Satisfaction Levels,PSYC_1101L_concepts_raw.json
+PSYC_1101L,concept,Human Needs Priorities,Human Needs Priorities,1,verified,Human Needs Priorities,PSYC_1101L_concepts_raw.json

@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4233,Parasitic Groups and Taxonomy,topic,PART_OF,Parasitology,topic,,,BIOL_4233_triples_raw.json
+BIOL_4233,Protozoan Parasites,topic,PART_OF,Parasitology,topic,,,BIOL_4233_triples_raw.json
+BIOL_4233,Helminth Parasites,topic,PART_OF,Parasitology,topic,,,BIOL_4233_triples_raw.json
+BIOL_4233,Arthropod Parasites,concept,PART_OF,Parasitology,topic,,,BIOL_4233_triples_raw.json
+BIOL_4233,Host Immune Responses,topic,PART_OF,Parasitology,topic,,,BIOL_4233_triples_raw.json
+BIOL_4233,Parasite Ecology and Evolution,topic,PART_OF,Parasitology,topic,,,BIOL_4233_triples_raw.json
+BIOL_4233,Medical Importance of Parasites,topic,PART_OF,Parasitology,topic,,,BIOL_4233_triples_raw.json
+BIOL_4233,Economic Impact of Parasites,topic,PART_OF,Parasitology,topic,,,BIOL_4233_triples_raw.json

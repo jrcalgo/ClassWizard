@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_3160,Real-World Applications,concept,PREREQUISITE_OF,Multivariate Data,topic,same unit,,STAT_3160_triples_raw.json
+STAT_3160,Exploratory data analysis,method,PART_OF,Applied Multivariate Analysis,topic,,,STAT_3160_triples_raw.json
+STAT_3160,Factor analysis,method,PART_OF,Applied Multivariate Analysis,topic,,,STAT_3160_triples_raw.json
+STAT_3160,Correspondence analysis,method,PART_OF,Applied Multivariate Analysis,topic,,,STAT_3160_triples_raw.json
+STAT_3160,Cluster analysis,method,PART_OF,Applied Multivariate Analysis,topic,,,STAT_3160_triples_raw.json
+STAT_3160,Multivariate analysis of variance (MANOVA,method,PART_OF,Applied Multivariate Analysis,topic,,,STAT_3160_triples_raw.json

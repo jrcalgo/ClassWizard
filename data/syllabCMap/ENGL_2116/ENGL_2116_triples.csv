@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_2116,secondary research and problem-solving,topic,PREREQUISITE_OF,integrating visual and oral elements,topic,A taught first,,ENGL_2116_triples_raw.json
+ENGL_2116,discovering writing processes,topic,PREREQUISITE_OF,rhetorical character of technical discourse,topic,A taught first,,ENGL_2116_triples_raw.json
+ENGL_2116,identifying writing styles,concept,PART_OF,discovering writing processes,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,analyzing writing strategies,concept,PART_OF,discovering writing processes,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,reflective writing practices,concept,PART_OF,discovering writing processes,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,conducting academic research,concept,PART_OF,secondary research and problem-solving,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,evaluating sources and evidence,concept,PART_OF,secondary research and problem-solving,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,solving complex problems,concept,PART_OF,secondary research and problem-solving,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,understanding multiple purposes,concept,PART_OF,rhetorical character of technical discourse,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,identifying target audiences,concept,PART_OF,rhetorical character of technical discourse,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,recognizing rhetorical devices,concept,PART_OF,rhetorical character of technical discourse,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,designing effective visuals,concept,PART_OF,integrating visual and oral elements,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,evaluating multimodal designs,concept,PART_OF,integrating visual and oral elements,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,technical vocabulary development,concept,PART_OF,developing field-specific vocabularies,topic,,,ENGL_2116_triples_raw.json
+ENGL_2116,field-specific communication styles,concept,PART_OF,developing field-specific vocabularies,topic,,,ENGL_2116_triples_raw.json

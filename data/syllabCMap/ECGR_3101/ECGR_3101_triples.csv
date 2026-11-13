@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_3101,STMicro,tool,USED_FOR,Cortex-M based Microcontrollers,tool,,,ECGR_3101_triples_raw.json

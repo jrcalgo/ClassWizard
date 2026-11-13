@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MGMT_3277,Opportunity Identification,concept,PREREQUISITE_OF,Business Plan Development,concept,A taught first,,MGMT_3277_triples_raw.json
+MGMT_3277,Idea Generation Process,concept,PREREQUISITE_OF,Business Model Development,concept,A taught first,,MGMT_3277_triples_raw.json
+MGMT_3277,Marketing for Entrepreneurs,topic,PREREQUISITE_OF,Target Market Segmentation,concept,same unit,,MGMT_3277_triples_raw.json
+MGMT_3277,Financial Planning,topic,PREREQUISITE_OF,Startup Funding Options,concept,same unit,,MGMT_3277_triples_raw.json
+MGMT_3277,Accounting for Entrepreneurs,topic,PREREQUISITE_OF,Financial Statement Analysis,concept,B taught first,B is taught before A - check,MGMT_3277_triples_raw.json
+MGMT_3277,Opportunity Identification,concept,PART_OF,Entrepreneurial Mindset,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Idea Generation Process,concept,PART_OF,Entrepreneurial Mindset,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Innovation and Risk Taking,concept,PART_OF,Entrepreneurial Mindset,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Business Model Development,concept,PART_OF,Strategic Management,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Competitive Advantage Creation,concept,PART_OF,Strategic Management,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Market Analysis Techniques,concept,PART_OF,Strategic Management,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Target Market Segmentation,concept,PART_OF,Marketing for Entrepreneurs,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Branding and Positioning Strategies,concept,PART_OF,Marketing for Entrepreneurs,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Marketing Mix Application,concept,PART_OF,Marketing for Entrepreneurs,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Startup Funding Options,concept,PART_OF,Financial Planning,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Cash Flow Management Techniques,concept,PART_OF,Financial Planning,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Financial Accounting Principles,concept,PART_OF,Accounting for Entrepreneurs,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Cost Accounting Methods,concept,PART_OF,Accounting for Entrepreneurs,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Budgeting and Forecasting,concept,PART_OF,Accounting for Entrepreneurs,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Idea Evaluation Criteria,concept,PART_OF,Venture Creation Process,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Business Plan Development,concept,PART_OF,Venture Creation Process,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Pitching and Presenting Ideas,concept,PART_OF,Venture Creation Process,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Communication Strategies,concept,PART_OF,Entrepreneurial Leadership,topic,,,MGMT_3277_triples_raw.json
+MGMT_3277,Entrepreneurial Mindset in the Workplace,concept,PART_OF,Applying Entrepreneurship to Career Goals,topic,,,MGMT_3277_triples_raw.json

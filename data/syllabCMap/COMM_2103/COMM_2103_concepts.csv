@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+COMM_2103,topic,Argumentation,Argumentation,5,verified,Argumentation,COMM_2103_concepts_raw.json
+COMM_2103,topic,Debate,debates,1,verified,Debate,COMM_2103_concepts_raw.json
+COMM_2103,topic,Argument Construction,argument construction,1,verified,Argument Construction,COMM_2103_concepts_raw.json
+COMM_2103,concept,Evidence,evidence,2,verified,Evidence,COMM_2103_concepts_raw.json
+COMM_2103,topic,Cross-Examination Techniques,Cross-Examination Techniques,1,inferred,Cross-Examination Techniques,COMM_2103_concepts_raw.json
+COMM_2103,topic,Debate Strategies and Tactics,Debate Strategies and Tactics,1,inferred,Debate Strategies and Tactics,COMM_2103_concepts_raw.json
+COMM_2103,topic,Ethics in Argumentation,Ethics in Argumentation,1,inferred,Ethics in Argumentation,COMM_2103_concepts_raw.json
+COMM_2103,concept,Fundamental Processes of Argumentation,Fundamental Processes of Argumentation,1,inferred,Fundamental Processes of Argumentation,COMM_2103_concepts_raw.json
+COMM_2103,concept,Assumptions in Argumentation,Assumptions in Argumentation,1,inferred,Assumptions in Argumentation,COMM_2103_concepts_raw.json
+COMM_2103,concept,Evidence and Reasoning,Evidence and Reasoning,1,inferred,Evidence and Reasoning,COMM_2103_concepts_raw.json
+COMM_2103,concept,Claim,Claim,1,inferred,Claim,COMM_2103_concepts_raw.json
+COMM_2103,concept,Warrant Structure,Warrant Structure,1,inferred,Warrant Structure,COMM_2103_concepts_raw.json
+COMM_2103,concept,Supporting Arguments with Evidence,Supporting Arguments with Evidence,1,inferred,Supporting Arguments with Evidence,COMM_2103_concepts_raw.json
+COMM_2103,concept,Counterarguments and Refutations,Counterarguments and Refutations,1,inferred,Counterarguments and Refutations,COMM_2103_concepts_raw.json
+COMM_2103,concept,Detecting Fallacious Reasoning,Detecting Fallacious Reasoning,1,inferred,Detecting Fallacious Reasoning,COMM_2103_concepts_raw.json
+COMM_2103,concept,Asking Effective Questions,Asking Effective Questions,1,inferred,Asking Effective Questions,COMM_2103_concepts_raw.json
+COMM_2103,concept,Analyzing Opposing Views,Analyzing Opposing Views,1,inferred,Analyzing Opposing Views,COMM_2103_concepts_raw.json
+COMM_2103,concept,Organizing Ideas for Debate,Organizing Ideas for Debate,1,inferred,Organizing Ideas for Debate,COMM_2103_concepts_raw.json
+COMM_2103,concept,Verbal Expression of Ideas,Verbal Expression of Ideas,1,inferred,Verbal Expression of Ideas,COMM_2103_concepts_raw.json
+COMM_2103,concept,Engaging in Reflective Thinking,Engaging in Reflective Thinking,1,inferred,Engaging in Reflective Thinking,COMM_2103_concepts_raw.json
+COMM_2103,concept,Value of Open-Mindedness and Fairness,Value of Open-Mindedness and Fairness,1,inferred,Value of Open-Mindedness and Fairness,COMM_2103_concepts_raw.json
+COMM_2103,concept,Tolerance for Opposing Viewpoints,Tolerance for Opposing Viewpoints,1,inferred,Tolerance for Opposing Viewpoints,COMM_2103_concepts_raw.json
+COMM_2103,concept,Importance of Evidence-Based Arguments,Importance of Evidence-Based Arguments,1,inferred,Importance of Evidence-Based Arguments,COMM_2103_concepts_raw.json

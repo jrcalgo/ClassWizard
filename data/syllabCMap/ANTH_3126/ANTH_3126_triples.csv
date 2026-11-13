@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_3126,vampires,topic,PREREQUISITE_OF,ghosts,topic,A taught first,,ANTH_3126_triples_raw.json

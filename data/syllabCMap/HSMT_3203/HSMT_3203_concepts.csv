@@ -1,0 +1,66 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HSMT_3203,topic,Healthcare Finance,Healthcare Finance,4,verified,Healthcare Finance,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Healthcare Business Basics,Healthcare Business Basics,2,verified,Healthcare Business Basics,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Paying for Health Services,Paying for Health Services,2,verified,Paying for Health Services,HSMT_3203_concepts_raw.json
+HSMT_3203,topic,Estimating Costs,Estimating Costs,1,verified,Estimating Costs,HSMT_3203_concepts_raw.json
+HSMT_3203,topic,Pricing Decisions and Profit Analysis,Pricing Decisions and Profit Analysis,1,verified,Pricing Decisions and Profit Analysis,HSMT_3203_concepts_raw.json
+HSMT_3203,topic,Planning and Budgeting,Planning and Budgeting,1,verified,Planning and Budgeting,HSMT_3203_concepts_raw.json
+HSMT_3203,topic,Managing Financial Operations,Managing Financial Operations,1,verified,Managing Financial Operations,HSMT_3203_concepts_raw.json
+HSMT_3203,topic,Business Financing and the Cost of Capital,Business Financing and the Cost of Capital,1,verified,Business Financing and the Cost of Capital,HSMT_3203_concepts_raw.json
+HSMT_3203,topic,Capital Investment Decision Basics,Capital Investment Decision Basics,1,verified,Capital Investment Decision Basics,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Reporting Profits,Reporting Profits,2,verified,Reporting Profits,HSMT_3203_concepts_raw.json
+HSMT_3203,topic,"Reporting Assets, Financing","Reporting Assets, Financing",1,verified,"Reporting Assets, Financing",HSMT_3203_concepts_raw.json
+HSMT_3203,topic,Assessing Financial Condition,Assessing Financial Condition,1,verified,Assessing Financial Condition,HSMT_3203_concepts_raw.json
+HSMT_3203,topic,Internal Control Over Financial Reporting & Effective Board Governance,Internal Control Over Financial Reporting & Effective Board Governance,1,verified,Internal Control Over Financial Reporting & Effective Board Governance,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Healthcare Finance Basics,Healthcare Finance Basics,1,verified,Healthcare Finance Basics,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Financial Management Principles,financial management principles,2,verified,Financial Management Principles,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Accounting Concepts in Healthcare,Accounting Concepts in Healthcare,1,verified,Accounting Concepts in Healthcare,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Financial Statements Attributes,Financial Statements Attributes,2,verified,Financial Statements Attributes,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Fundamental Financial Tools,Fundamental Financial Tools,1,verified,Fundamental Financial Tools,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Fundamental Financial Management,Fundamental financial management,2,verified,Fundamental Financial Management,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Accounting and Finance Principles,Accounting and Finance Principles,1,verified,Accounting and Finance Principles,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Department-Level Management,department-level management,2,verified,Department-Level Management,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Healthcare Cost Accounting,Healthcare Cost Accounting,1,verified,Healthcare Cost Accounting,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Revenue Streams in Healthcare,Revenue Streams in Healthcare,1,verified,Revenue Streams in Healthcare,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Cost-Benefit Analysis Techniques,Cost-Benefit Analysis Techniques,1,verified,Cost-Benefit Analysis Techniques,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Opportunity Cost Concept,Opportunity Cost Concept,1,verified,Opportunity Cost Concept,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Sunk Cost Principle,Sunk Cost Principle,1,verified,Sunk Cost Principle,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Marginal Analysis Method,Marginal Analysis Method,1,verified,Marginal Analysis Method,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Break-Even Point Calculation,Break-Even Point Calculation,2,verified,Break-Even Point Calculation,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Cost Volume Profit Relationship,Cost Volume Profit Relationship,1,verified,Cost Volume Profit Relationship,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Absorption Costing Approach,Absorption Costing Approach,1,verified,Absorption Costing Approach,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Activity-Based Costing Model,Activity-Based Costing Model,1,verified,Activity-Based Costing Model,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Pricing Decisions,Pricing Decisions,2,verified,Pricing Decisions,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Profit Analysis Techniques,Profit Analysis Techniques,1,verified,Profit Analysis Techniques,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Cost-Benefit Analysis,Cost-Benefit Analysis,4,verified,Cost-Benefit Analysis,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Revenue Streams Management,Revenue Streams Management,1,verified,Revenue Streams Management,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Budgeting Process,Budgeting Process,1,verified,Budgeting Process,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Financial Planning Models,Financial Planning Models,1,verified,Financial Planning Models,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Capital Budgeting Decisions,Capital Budgeting Decisions,1,verified,Capital Budgeting Decisions,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Weighted Average Cost of Capital,Weighted Average Cost of Capital,1,verified,Weighted Average Cost of Capital,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Capital Structure Decisions,Capital Structure Decisions,1,verified,Capital Structure Decisions,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Net Present Value Calculation,Net Present Value Calculation,1,verified,Net Present Value Calculation,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Internal Rate of Return Method,Internal Rate of Return Method,1,verified,Internal Rate of Return Method,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Payback Period Analysis,Payback Period Analysis,1,verified,Payback Period Analysis,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Financial Statements,financial statements,5,verified,Financial Statements,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Accounting Principles,Accounting Principles,3,verified,Accounting Principles,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Profit Recognition,Profit Recognition,1,verified,Profit Recognition,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Revenue Recognition,Revenue Recognition,1,verified,Revenue Recognition,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Asset Reporting,Asset Reporting,1,verified,Asset Reporting,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Financing Methods,Financing Methods,2,verified,Financing Methods,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Financial Attributes,Financial Attributes,1,verified,Financial Attributes,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Financial Condition Assessment,Financial Condition Assessment,1,verified,Financial Condition Assessment,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Ratios Analysis Techniques,Ratios Analysis Techniques,1,verified,Ratios Analysis Techniques,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Balance Sheet Components,Balance Sheet Components,1,verified,Balance Sheet Components,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Income Statement Attributes,Income Statement Attributes,1,verified,Income Statement Attributes,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Cash Flow Management Tools,Cash Flow Management Tools,1,verified,Cash Flow Management Tools,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Liquidity and Solvency Measures,Liquidity and Solvency Measures,1,verified,Liquidity and Solvency Measures,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Debt-to-Equity Ratios Calculation,Debt-to-Equity Ratios Calculation,1,verified,Debt-to-Equity Ratios Calculation,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Return on Investment Metrics,Return on Investment Metrics,1,verified,Return on Investment Metrics,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Break-Even Point Analysis,Break-Even Point Analysis,1,verified,Break-Even Point Analysis,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Internal Control,Internal Control,2,verified,Internal Control,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Effective Governance,Effective Governance,1,verified,Effective Governance,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Board Responsibilities,Board Responsibilities,1,verified,Board Responsibilities,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Risk Management,Risk Management,1,verified,Risk Management,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Compliance Requirements,Compliance Requirements,1,verified,Compliance Requirements,HSMT_3203_concepts_raw.json
+HSMT_3203,concept,Audit Procedures,Audit Procedures,1,verified,Audit Procedures,HSMT_3203_concepts_raw.json

@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_5153,topic,Artificial Intelligence,Artificial Intelligence,10,verified,Artificial Intelligence,ITCS_5153_concepts_raw.json
+ITCS_5153,topic,Future AI governance,Future AI governance,2,verified,Future AI governance,ITCS_5153_concepts_raw.json
+ITCS_5153,topic,Human oversight,human oversight,2,verified,Human oversight,ITCS_5153_concepts_raw.json
+ITCS_5153,topic,Career roadmap,career roadmap,2,verified,Career roadmap,ITCS_5153_concepts_raw.json
+ITCS_5153,topic,Leader / AI Solutions,Leader / AI Solutions,1,verified,Leader / AI Solutions,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Artificial Intelligence Solutions,Artificial Intelligence Solutions,1,verified,Artificial Intelligence Solutions,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Intelligent Agents,intelligent agents,4,verified,Intelligent Agents,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Problem Solving Methods,Problem Solving Methods,1,verified,Problem Solving Methods,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Knowledge Representation Techniques,Knowledge Representation Techniques,1,verified,Knowledge Representation Techniques,ITCS_5153_concepts_raw.json
+ITCS_5153,topic,Roadmap,roadmap,3,verified,Roadmap,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Artificial Intelligence Fundamentals,Artificial Intelligence Fundamentals,1,verified,Artificial Intelligence Fundamentals,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Machine Learning Basics,Machine Learning Basics,1,verified,Machine Learning Basics,ITCS_5153_concepts_raw.json
+ITCS_5153,topic,Architect,Architect,2,verified,Architect,ITCS_5153_concepts_raw.json
+ITCS_5153,topic,AI Portfolio Development,AI Portfolio Development,1,verified,AI Portfolio Development,ITCS_5153_concepts_raw.json
+ITCS_5153,topic,Professional AI Capstone Project,Professional AI Capstone Project,1,verified,Professional AI Capstone Project,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Prompt Engineering Techniques,Prompt Engineering Techniques,2,verified,Prompt Engineering Techniques,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Retrieval-Augmented Generation Methods,Retrieval-Augmented Generation Methods,1,verified,Retrieval-Augmented Generation Methods,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Explainability in AI,Explainability in AI,10,verified,Explainability in AI,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Fairness in AI,Fairness in AI,10,verified,Fairness in AI,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Responsible AI Practices,Responsible AI Practices,8,verified,Responsible AI Practices,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Large Language Models,large language models,3,verified,Large Language Models,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Foundation Models,foundation models,3,verified,Foundation Models,ITCS_5153_concepts_raw.json
+ITCS_5153,concept,Neural Network Architectures,Neural Network Architectures,1,verified,Neural Network Architectures,ITCS_5153_concepts_raw.json
+ITCS_5153,tool,Python,Python,3,verified,Python,ITCS_5153_concepts_raw.json
+ITCS_5153,tool,Google Colab,Google Colab,1,verified,Google Colab,ITCS_5153_concepts_raw.json
+ITCS_5153,tool,scikit-learn,scikit-learn,1,verified,scikit-learn,ITCS_5153_concepts_raw.json
+ITCS_5153,tool,Hugging Face,Hugging Face,1,verified,Hugging Face,ITCS_5153_concepts_raw.json
+ITCS_5153,tool,modern AI systems,modern AI systems,1,verified,modern AI systems,ITCS_5153_concepts_raw.json

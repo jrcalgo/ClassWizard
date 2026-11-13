@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MPAD_6332,concept,project knowledge areas,project knowledge areas,1,verified,project knowledge areas,MPAD_6332_concepts_raw.json
+MPAD_6332,topic,Program/Portfolio Structure,Program/Portfolio Structure,1,verified,Program/Portfolio Structure,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,temporary nature of projects,temporary nature of projects,1,verified,temporary nature of projects,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,integrated project performance measurement baseline,integrated project performance measurement baseline,1,verified,integrated project performance measurement baseline,MPAD_6332_concepts_raw.json
+MPAD_6332,topic,Project Management Fundamentals,Project Management Fundamentals,1,inferred,Project Management Fundamentals,MPAD_6332_concepts_raw.json
+MPAD_6332,topic,Project Planning and Scheduling,Project Planning and Scheduling,1,inferred,Project Planning and Scheduling,MPAD_6332_concepts_raw.json
+MPAD_6332,topic,Project Monitoring and Control,Project Monitoring and Control,1,inferred,Project Monitoring and Control,MPAD_6332_concepts_raw.json
+MPAD_6332,topic,Project Communication and Stakeholder Management,Project Communication and Stakeholder Management,1,inferred,Project Communication and Stakeholder Management,MPAD_6332_concepts_raw.json
+MPAD_6332,topic,Project Closure and Evaluation,Project Closure and Evaluation,1,inferred,Project Closure and Evaluation,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,project lifecycle phases,Project Lifecycle Phases,1,inferred,project lifecycle phases,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,integration management process,Integration Management Process,1,inferred,integration management process,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,scope management process,Scope Management Process,1,inferred,scope management process,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,time and cost estimation,Time and Cost Estimation,1,inferred,time and cost estimation,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,program vs. portfolio management,program vs. portfolio management,1,inferred,program vs. portfolio management,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,organizational project management office,Organizational Project Management Office,1,inferred,organizational project management office,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,enterprise project management,Enterprise Project Management,1,inferred,enterprise project management,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,work breakdown structure (WBS,work breakdown structure (WBS,1,inferred,work breakdown structure (WBS),MPAD_6332_concepts_raw.json
+MPAD_6332,concept,project schedule development,Project Schedule Development,1,inferred,project schedule development,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,resource allocation and levelling,Resource Allocation and Levelling,1,inferred,resource allocation and levelling,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,earned value management (EVM,earned value management (EVM,1,inferred,earned value management (EVM),MPAD_6332_concepts_raw.json
+MPAD_6332,concept,risk and issue management,Risk and Issue Management,1,inferred,risk and issue management,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,stakeholder identification and analysis,Stakeholder Identification and Analysis,1,inferred,stakeholder identification and analysis,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,communication planning and strategy,Communication Planning and Strategy,1,inferred,communication planning and strategy,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,progress reporting and updates,Progress Reporting and Updates,1,inferred,progress reporting and updates,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,lessons learned and best practices,Lessons Learned and Best Practices,1,inferred,lessons learned and best practices,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,project review and assessment,Project Review and Assessment,1,inferred,project review and assessment,MPAD_6332_concepts_raw.json
+MPAD_6332,concept,closure and post-implementation review,Closure and Post-Implementation Review,1,inferred,closure and post-implementation review,MPAD_6332_concepts_raw.json

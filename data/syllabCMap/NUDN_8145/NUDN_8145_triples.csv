@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUDN_8145,Strategic planning fundamentals,concept,PREREQUISITE_OF,Transformational leadership models,concept,A taught first,,NUDN_8145_triples_raw.json
+NUDN_8145,Risk identification techniques,concept,PREREQUISITE_OF,Risk assessment and prioritization,concept,same unit,,NUDN_8145_triples_raw.json
+NUDN_8145,Mitigation and contingency planning,concept,PREREQUISITE_OF,Issue resolution strategies,concept,A taught first,,NUDN_8145_triples_raw.json
+NUDN_8145,Progress tracking methods,concept,PREREQUISITE_OF,Performance metrics and indicators,concept,same unit,,NUDN_8145_triples_raw.json
+NUDN_8145,Team collaboration and communication,concept,PREREQUISITE_OF,Effective stakeholder engagement,concept,same unit,,NUDN_8145_triples_raw.json
+NUDN_8145,Project management basics,concept,PART_OF,Project Management,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Transformational leadership theories,concept,PART_OF,Leadership and Strategic Planning,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Transformational leadership models,concept,PART_OF,Leadership and Strategic Planning,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Healthcare setting challenges,concept,PART_OF,Case Studies in Healthcare Project Management,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Project scope definition,concept,PART_OF,Project Planning and Design,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Work breakdown structure creation,concept,PART_OF,Project Planning and Design,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Resource allocation strategies,concept,PART_OF,Project Planning and Design,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Risk identification techniques,concept,PART_OF,Risk Management and Mitigation,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Risk assessment and prioritization,concept,PART_OF,Risk Management and Mitigation,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Mitigation and contingency planning,concept,PART_OF,Risk Management and Mitigation,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Progress tracking methods,concept,PART_OF,Project Monitoring and Control,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Issue resolution strategies,concept,PART_OF,Project Monitoring and Control,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Real-world project examples,concept,PART_OF,Case Studies in Healthcare Project Management,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Lessons learned from case studies,concept,PART_OF,Case Studies in Healthcare Project Management,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Team collaboration and communication,concept,PART_OF,Group Project Planning and Execution,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Project management tools and software,concept,PART_OF,Group Project Planning and Execution,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Effective stakeholder engagement,concept,PART_OF,Group Project Planning and Execution,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Leadership styles and theories,concept,PART_OF,Transformational Leadership in Action,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Strategic planning for change,concept,PART_OF,Transformational Leadership in Action,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Influencing and motivating teams,concept,PART_OF,Transformational Leadership in Action,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Project success criteria and metrics,concept,PART_OF,Project Evaluation and Review,topic,,,NUDN_8145_triples_raw.json
+NUDN_8145,Continuous improvement strategies,concept,PART_OF,Project Evaluation and Review,topic,,,NUDN_8145_triples_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1285,major scale patterns on guitar,concept,PREREQUISITE_OF,pentatonic scale patterns on guitar,concept,same unit,,MUPF_1285_triples_raw.json
+MUPF_1285,major scale patterns on guitar,concept,PREREQUISITE_OF,arpeggio patterns for chords,concept,same unit,,MUPF_1285_triples_raw.json
+MUPF_1285,major scale patterns on guitar,concept,PART_OF,Scales and Arpeggios,topic,,,MUPF_1285_triples_raw.json
+MUPF_1285,pentatonic scale patterns on guitar,concept,PART_OF,Scales and Arpeggios,topic,,,MUPF_1285_triples_raw.json
+MUPF_1285,arpeggio patterns for chords,concept,PART_OF,Scales and Arpeggios,topic,,,MUPF_1285_triples_raw.json
+MUPF_1285,open chord shapes and fingerings,concept,PART_OF,Chord Progressions,topic,,,MUPF_1285_triples_raw.json
+MUPF_1285,basic chord progressions in music,concept,PART_OF,Chord Progressions,topic,,,MUPF_1285_triples_raw.json

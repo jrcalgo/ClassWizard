@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4236,topic,Artificial Intelligence for Games,Artificial Intelligence for Games,1,verified,Artificial Intelligence for Games,ITCS_4236_concepts_raw.json
+ITCS_4236,topic,AI,AI,1,verified,Introduction to AI,ITCS_4236_concepts_raw.json
+ITCS_4236,topic,Decision Trees and Behavior,Decision Trees and Behavior,1,verified,Decision Trees and Behavior,ITCS_4236_concepts_raw.json
+ITCS_4236,concept,procedural content generation,procedural content generation,1,verified,procedural content generation,ITCS_4236_concepts_raw.json
+ITCS_4236,concept,adaptive difficulty systems,adaptive difficulty systems,1,verified,adaptive difficulty systems,ITCS_4236_concepts_raw.json
+ITCS_4236,concept,artificial intelligence techniques,artificial intelligence techniques,1,verified,artificial intelligence techniques,ITCS_4236_concepts_raw.json
+ITCS_4236,concept,pathfinding,pathfinding,1,verified,pathfinding,ITCS_4236_concepts_raw.json
+ITCS_4236,concept,decision trees,decision trees,1,verified,decision trees,ITCS_4236_concepts_raw.json
+ITCS_4236,concept,behavior modeling,behavior modeling,1,verified,behavior modeling,ITCS_4236_concepts_raw.json

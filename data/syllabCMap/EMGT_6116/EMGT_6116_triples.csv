@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_6116,Stochastic System Analysis,topic,PREREQUISITE_OF,Optimal Control,topic,B mentioned first,,EMGT_6116_triples_raw.json
+EMGT_6116,Riccati equation,concept,PART_OF,Optimal Control,topic,,,EMGT_6116_triples_raw.json
+EMGT_6116,Kalman Filter,concept,PART_OF,Optimal Control,topic,,,EMGT_6116_triples_raw.json
+EMGT_6116,Neuro-dynamic Programming,concept,PART_OF,Optimal Control,topic,,,EMGT_6116_triples_raw.json
+EMGT_6116,Generative Adversarial Network,concept,PART_OF,Optimal Control,topic,,,EMGT_6116_triples_raw.json
+EMGT_6116,Riccati equation,concept,USED_FOR,Optimal Control,topic,,,EMGT_6116_triples_raw.json

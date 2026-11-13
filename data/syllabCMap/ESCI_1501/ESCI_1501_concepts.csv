@@ -1,0 +1,106 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_1501,topic,"Environment, Society, and Sustainability","Environment, Society, and Sustainability",2,verified,"Environment, Society, and Sustainability",ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Introduction and defining sustainability,Introduction and defining sustainability,1,verified,Introduction and defining sustainability,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Wicked problems and worldviews,Wicked problems and worldviews,1,verified,Wicked problems and worldviews,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Environmental ethics and biophysical perspectives on sustainability,Environmental ethics and biophysical perspectives on sustainability,1,verified,Environmental ethics and biophysical perspectives on sustainability,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Biophysical perspectives on sustainability continued,Biophysical perspectives on sustainability continued,1,verified,Biophysical perspectives on sustainability continued,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Population and consumption,Population and consumption,1,verified,Population and consumption,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Environmental justice,Environmental justice,1,verified,Environmental justice,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,economics of sustainability,economics of sustainability,1,verified,The economics of sustainability,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Climate change,Climate change,3,verified,Climate change,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Agriculture,Agriculture,2,verified,Agriculture,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Freshwater systems,Freshwater systems,1,verified,Freshwater systems,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Nexus approaches to sustainability,Nexus approaches to sustainability,1,verified,Nexus approaches to sustainability,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Urban systems and pollution,Urban systems and pollution,1,verified,Urban systems and pollution,ESCI_1501_concepts_raw.json
+ESCI_1501,topic,"Oceans, Plastic, and Waste","Oceans, Plastic, and Waste",1,verified,"Oceans, Plastic, and Waste",ESCI_1501_concepts_raw.json
+ESCI_1501,topic,Indigenous sustainability,Indigenous sustainability,1,verified,Indigenous sustainability,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainability definition,Sustainability definition,1,verified,sustainability definition,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental citizenship,Environmental citizenship,1,verified,environmental citizenship,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,global interconnectedness,Global interconnectedness,1,verified,global interconnectedness,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,human environmental impact,Human environmental impact,1,verified,human environmental impact,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,social science approaches,social science approaches,6,verified,social science approaches,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,wicked problems,Wicked problems,2,verified,wicked problems,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental worldviews,environmental worldviews,5,verified,environmental worldviews,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,global environmental issues,global environmental issues,6,verified,global environmental issues,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,human imprints on earth,Human imprints on earth,1,verified,human imprints on earth,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental degradation processes,Environmental degradation processes,3,verified,environmental degradation processes,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental protection strategies,Environmental protection strategies,2,verified,environmental protection strategies,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental dispute resolution,Environmental dispute resolution,2,verified,environmental dispute resolution,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,cultural values and attitudes,Cultural values and attitudes,2,verified,cultural values and attitudes,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental ethics,Environmental ethics,2,verified,environmental ethics,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,biophysical perspectives,biophysical perspectives,4,verified,biophysical perspectives,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainability theories,Sustainability Theories,1,verified,sustainability theories,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,human impact factors,Human Impact Factors,1,verified,human impact factors,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,ecological footprint analysis,Ecological Footprint Analysis,1,verified,ecological footprint analysis,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,science policy interface,Science Policy Interface,2,verified,science policy interface,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,population growth rate,Population growth rate,1,verified,population growth rate,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,consumption patterns vary,Consumption patterns vary,1,verified,consumption patterns vary,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental impact assessment,Environmental impact assessment,3,verified,environmental impact assessment,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,resource depletion rates,Resource depletion rates,1,verified,resource depletion rates,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainable consumption models,Sustainable consumption models,1,verified,sustainable consumption models,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainable development,Sustainable Development,3,verified,sustainable development,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,human impact,Human Impact,3,verified,human impact,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental degradation,environmental degradation,6,verified,environmental degradation,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental protection,environmental protection,4,verified,environmental protection,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainable development goals,Sustainable Development Goals,2,verified,sustainable development goals,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental economics principles,Environmental Economics Principles,1,verified,environmental economics principles,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,cost benefit analysis,Cost Benefit Analysis,1,verified,cost benefit analysis,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,economic indicators of sustainability,Economic Indicators of Sustainability,1,verified,economic indicators of sustainability,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,green accounting methods,Green Accounting Methods,1,verified,green accounting methods,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,ecological footprint calculations,Ecological Footprint Calculations,1,verified,ecological footprint calculations,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,resource depletion models,Resource Depletion Models,1,verified,resource depletion models,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental externalities concept,Environmental Externalities Concept,1,verified,environmental externalities concept,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,socioeconomic impact assessments,Socioeconomic Impact Assessments,1,verified,socioeconomic impact assessments,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,climate change impacts,Climate Change Impacts,1,verified,climate change impacts,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,greenhouse gas emissions,Greenhouse Gas Emissions,1,verified,greenhouse gas emissions,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,renewable energy sources,Renewable Energy Sources,1,verified,renewable energy sources,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,carbon footprint reduction,Carbon Footprint Reduction,1,verified,carbon footprint reduction,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,global warming effects,Global Warming Effects,1,verified,global warming effects,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,climate justice movement,Climate Justice Movement,1,verified,climate justice movement,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,ecosystem services loss,Ecosystem Services Loss,1,verified,ecosystem services loss,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,adaptation strategies implementation,Adaptation Strategies Implementation,1,verified,adaptation strategies implementation,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainable agriculture practices,Sustainable Agriculture Practices,1,verified,sustainable agriculture practices,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,food security challenges,Food Security Challenges,1,verified,food security challenges,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,agricultural water management,Agricultural Water Management,1,verified,agricultural water management,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,crop rotation strategies,Crop Rotation Strategies,1,verified,crop rotation strategies,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,soil erosion prevention,Soil Erosion Prevention,1,verified,soil erosion prevention,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,organic farming methods,Organic Farming Methods,1,verified,organic farming methods,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,integrated pest management,Integrated Pest Management,1,verified,integrated pest management,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,climate change adaptation,Climate Change Adaptation,1,verified,climate change adaptation,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,freshwater ecosystems,Freshwater Ecosystems,1,verified,freshwater ecosystems,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,water scarcity issues,Water Scarcity Issues,1,verified,water scarcity issues,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,river basin management,River Basin Management,1,verified,river basin management,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,groundwater depletion,Groundwater Depletion,1,verified,groundwater depletion,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,watershed conservation,Watershed Conservation,1,verified,watershed conservation,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,aquifer recharge methods,Aquifer Recharge Methods,1,verified,aquifer recharge methods,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,irrigation systems design,Irrigation Systems Design,1,verified,irrigation systems design,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,water pollution sources,Water Pollution Sources,1,verified,water pollution sources,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,freshwater biodiversity loss,Freshwater Biodiversity Loss,1,verified,freshwater biodiversity loss,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,nexus approaches,Nexus approaches,2,verified,nexus approaches,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainability principles,Sustainability principles,1,verified,sustainability principles,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,social science perspectives,Social science perspectives,1,verified,social science perspectives,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,institutional responses to sustainability,Institutional responses to sustainability,1,verified,institutional responses to sustainability,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,urban systems,Urban systems,2,verified,urban systems,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,air pollution sources,Air Pollution Sources,1,verified,air pollution sources,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,water pollution effects,Water Pollution Effects,1,verified,water pollution effects,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,waste management strategies,Waste Management Strategies,1,verified,waste management strategies,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainable urban planning,Sustainable Urban Planning,1,verified,sustainable urban planning,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,pollution control measures,Pollution Control Measures,1,verified,pollution control measures,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,urbanization consequences,Urbanization Consequences,1,verified,urbanization consequences,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,green infrastructure design,Green Infrastructure Design,1,verified,green infrastructure design,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,ocean pollution,Ocean Pollution,1,verified,ocean pollution,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,plastic waste management,Plastic Waste Management,1,verified,plastic waste management,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,marine ecosystems impact,Marine Ecosystems Impact,1,verified,marine ecosystems impact,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainable fishing practices,Sustainable Fishing Practices,1,verified,sustainable fishing practices,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,waste reduction strategies,Waste Reduction Strategies,1,verified,waste reduction strategies,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,environmental disasters consequences,Environmental Disasters Consequences,1,verified,environmental disasters consequences,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,human impact on oceans,Human Impact on Oceans,1,verified,human impact on oceans,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,global plastic pollution,Global Plastic Pollution,1,verified,global plastic pollution,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,ocean conservation efforts,Ocean Conservation Efforts,1,verified,ocean conservation efforts,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,traditional ecological knowledge,Traditional Ecological Knowledge,1,verified,traditional ecological knowledge,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,cultural worldviews,Cultural Worldviews,1,verified,cultural worldviews,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,sustainable livelihoods,Sustainable Livelihoods,1,verified,sustainable livelihoods,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,colonialism impact,Colonialism Impact,1,verified,colonialism impact,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,land rights issues,Land Rights Issues,1,verified,land rights issues,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,resource management,Resource Management,1,verified,resource management,ESCI_1501_concepts_raw.json
+ESCI_1501,concept,community empowerment,Community Empowerment,1,verified,community empowerment,ESCI_1501_concepts_raw.json

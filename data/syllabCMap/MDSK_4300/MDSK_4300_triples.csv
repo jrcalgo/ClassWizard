@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_4300,formative assessment strategies,concept,PREREQUISITE_OF,Evaluating Existing Assessments,topic,A taught first,,MDSK_4300_triples_raw.json
+MDSK_4300,culturally relevant assessments,concept,PREREQUISITE_OF,Creating Equitable Classrooms,topic,A taught first,,MDSK_4300_triples_raw.json
+MDSK_4300,Scoring and Analyzing Data,topic,PREREQUISITE_OF,Reflecting on Teaching Practices,topic,A taught first,,MDSK_4300_triples_raw.json
+MDSK_4300,content area standards alignment,concept,PREREQUISITE_OF,Designing Formative Assessments,topic,B taught first,B is taught before A - check,MDSK_4300_triples_raw.json
+MDSK_4300,summative assessments,method,PREREQUISITE_OF,Evaluating Existing Assessments,topic,B mentioned first,,MDSK_4300_triples_raw.json
+MDSK_4300,culturally relevant assessments,concept,PART_OF,Assessment,topic,,,MDSK_4300_triples_raw.json
+MDSK_4300,authentic learning experiences,concept,PART_OF,Assessment,topic,,,MDSK_4300_triples_raw.json
+MDSK_4300,formative assessment strategies,concept,PART_OF,Designing Formative Assessments,topic,,,MDSK_4300_triples_raw.json
+MDSK_4300,instructional design principles,concept,PART_OF,Creating Equitable Classrooms,topic,,,MDSK_4300_triples_raw.json
+MDSK_4300,data analysis for instructional decisions,concept,PART_OF,Scoring and Analyzing Data,topic,,,MDSK_4300_triples_raw.json
+MDSK_4300,inclusive classroom environments,concept,PART_OF,Creating Equitable Classrooms,topic,,,MDSK_4300_triples_raw.json
+MDSK_4300,designing,method,USED_FOR,Assessment,topic,,,MDSK_4300_triples_raw.json
+MDSK_4300,summative assessments,method,USED_FOR,Evaluating Existing Assessments,topic,,,MDSK_4300_triples_raw.json

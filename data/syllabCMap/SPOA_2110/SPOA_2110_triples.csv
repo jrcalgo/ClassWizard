@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPOA_2110,critical thinking ability,concept,PREREQUISITE_OF,Career Development and Competencies,topic,A taught first,,SPOA_2110_triples_raw.json
+SPOA_2110,data visualization tools,concept,USED_FOR,Sports Data Acquisition,topic,,,SPOA_2110_triples_raw.json
+SPOA_2110,methods of data collection,concept,USED_FOR,Sports Data Acquisition,topic,,,SPOA_2110_triples_raw.json

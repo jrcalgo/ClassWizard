@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_6145,Computer Architecture,topic,PREREQUISITE_OF,Algorithms,topic,B mentioned first,,ITCS_6145_triples_raw.json
+ITCS_6145,Computer Architecture,topic,PREREQUISITE_OF,Data Structures,topic,B mentioned first,,ITCS_6145_triples_raw.json
+ITCS_6145,Computer Architecture,topic,PREREQUISITE_OF,Operating Systems,topic,A mentioned first,,ITCS_6145_triples_raw.json
+ITCS_6145,Computer Architecture,topic,PREREQUISITE_OF,Concurrency Concepts,topic,A mentioned first,,ITCS_6145_triples_raw.json
+ITCS_6145,Computer Architecture,topic,PREREQUISITE_OF,Shared-Memory Programming Models,topic,B mentioned first,,ITCS_6145_triples_raw.json
+ITCS_6145,Algorithms,topic,PART_OF,Parallel Computing,topic,,,ITCS_6145_triples_raw.json
+ITCS_6145,Data Structures,topic,PART_OF,Parallel Computing,topic,,,ITCS_6145_triples_raw.json
+ITCS_6145,Computer Architecture,topic,PART_OF,Parallel Computing,topic,,,ITCS_6145_triples_raw.json
+ITCS_6145,Operating Systems,topic,PART_OF,Parallel Computing,topic,,,ITCS_6145_triples_raw.json
+ITCS_6145,Concurrency Concepts,topic,PART_OF,Parallel Computing,topic,,,ITCS_6145_triples_raw.json
+ITCS_6145,Linux Environment,topic,PART_OF,Parallel Computing,topic,,,ITCS_6145_triples_raw.json
+ITCS_6145,Git,topic,PART_OF,Parallel Computing,topic,,,ITCS_6145_triples_raw.json
+ITCS_6145,SSH/SCP,topic,PART_OF,Parallel Computing,topic,,,ITCS_6145_triples_raw.json
+ITCS_6145,Build Systems,topic,PART_OF,Parallel Computing,topic,,,ITCS_6145_triples_raw.json
+ITCS_6145,Shared-Memory Programming Models,topic,SUBTYPE_OF,parallel architectures,concept,,,ITCS_6145_triples_raw.json

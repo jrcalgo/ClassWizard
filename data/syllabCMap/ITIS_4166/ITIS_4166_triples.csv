@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4166,asynchronous JavaScript,concept,PART_OF,Node.js Runtime Concepts,concept,,,ITIS_4166_triples_raw.json
+ITIS_4166,asynchronous JavaScript,concept,PART_OF,Server-Side Applications,concept,,,ITIS_4166_triples_raw.json
+ITIS_4166,Node.js Runtime Concepts,concept,PART_OF,Node.js,topic,,,ITIS_4166_triples_raw.json
+ITIS_4166,Persistent Database Storage,concept,PART_OF,backend development,topic,,,ITIS_4166_triples_raw.json
+ITIS_4166,API development,method,PART_OF,backend development,topic,,,ITIS_4166_triples_raw.json
+ITIS_4166,secure authentication methods,method,PART_OF,backend development,topic,,,ITIS_4166_triples_raw.json

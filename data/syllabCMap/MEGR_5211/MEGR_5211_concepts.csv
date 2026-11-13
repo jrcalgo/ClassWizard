@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_5211,topic,Road Vehicle Dynamics,Road Vehicle Dynamics,1,verified,Road Vehicle Dynamics,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,Newton's second law,Newton's second law,1,verified,Newton's second law,MEGR_5211_concepts_raw.json
+MEGR_5211,topic,Dynamic Performance Criteria,dynamic performance criteria,1,verified,Dynamic Performance Criteria,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,acceleration and braking performance,Acceleration and braking performance,1,verified,acceleration and braking performance,MEGR_5211_concepts_raw.json
+MEGR_5211,topic,Suspension Components Modeling,Suspension Components Modeling,1,inferred,Suspension Components Modeling,MEGR_5211_concepts_raw.json
+MEGR_5211,topic,Steering System Dynamics,Steering System Dynamics,1,inferred,Steering System Dynamics,MEGR_5211_concepts_raw.json
+MEGR_5211,topic,Tire Behavior and Modeling,Tire Behavior and Modeling,1,inferred,Tire Behavior and Modeling,MEGR_5211_concepts_raw.json
+MEGR_5211,topic,Dynamic Analysis Application,Dynamic Analysis Application,1,inferred,Dynamic Analysis Application,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,vehicle system analysis,Vehicle System Analysis,1,inferred,vehicle system analysis,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,force and acceleration relationship,Force and Acceleration Relationship,1,inferred,force and acceleration relationship,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,spring and damper behavior,Spring and Damper Behavior,1,inferred,spring and damper behavior,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,suspension geometry and kinematics,Suspension Geometry and Kinematics,1,inferred,suspension geometry and kinematics,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,modeling suspension forces,Modeling Suspension Forces,1,inferred,modeling suspension forces,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,road load and tire interaction,Road Load and Tire Interaction,1,inferred,road load and tire interaction,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,steady-state cornering limits,Steady-State Cornering Limits,1,inferred,steady-state cornering limits,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,pneumatic and hydraulic steering systems,Pneumatic and Hydraulic Steering Systems,1,inferred,pneumatic and hydraulic steering systems,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,torque and power requirements,Torque and Power Requirements,1,inferred,torque and power requirements,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,steering system efficiency,Steering System Efficiency,1,inferred,steering system efficiency,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,tire tread and rubber properties,Tire Tread and Rubber Properties,1,inferred,tire tread and rubber properties,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,tire load and speed relationships,Tire Load and Speed Relationships,1,inferred,tire load and speed relationships,MEGR_5211_concepts_raw.json
+MEGR_5211,concept,tire model development and validation,Tire Model Development and Validation,1,inferred,tire model development and validation,MEGR_5211_concepts_raw.json

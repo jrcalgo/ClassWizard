@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HPSY_8200,stress,topic,PREREQUISITE_OF,psychoneuroimmunology,topic,A taught first,,HPSY_8200_triples_raw.json
+HPSY_8200,coping,topic,PREREQUISITE_OF,adherence to treatment,topic,same unit,,HPSY_8200_triples_raw.json
+HPSY_8200,pain,topic,PREREQUISITE_OF,chronic disease,topic,A taught first,,HPSY_8200_triples_raw.json
+HPSY_8200,stress,topic,PREREQUISITE_OF,health behavior changes,topic,A taught first,,HPSY_8200_triples_raw.json
+HPSY_8200,motivated behavior,topic,PREREQUISITE_OF,gutbrain axis,topic,A mentioned first,,HPSY_8200_triples_raw.json
+HPSY_8200,resilience,topic,PREREQUISITE_OF,epigenetics,topic,same unit,,HPSY_8200_triples_raw.json
+HPSY_8200,biopsychosocial framework,concept,PART_OF,complex adaptive systems,concept,,,HPSY_8200_triples_raw.json
+HPSY_8200,biological and physiological mechanisms,concept,USED_FOR,psychoneuroimmunology,topic,,,HPSY_8200_triples_raw.json
+HPSY_8200,biopsychosocial model,concept,USED_FOR,health behavior changes,topic,,,HPSY_8200_triples_raw.json
+HPSY_8200,critical evaluation of empirical research,method,USED_FOR,adherence to treatment,topic,,,HPSY_8200_triples_raw.json
+HPSY_8200,critical evaluation of empirical research,method,USED_FOR,chronic disease,topic,,,HPSY_8200_triples_raw.json
+HPSY_8200,critical evaluation of empirical research,method,USED_FOR,pain,topic,,,HPSY_8200_triples_raw.json
+HPSY_8200,critical evaluation of empirical research,method,USED_FOR,stress,topic,,,HPSY_8200_triples_raw.json

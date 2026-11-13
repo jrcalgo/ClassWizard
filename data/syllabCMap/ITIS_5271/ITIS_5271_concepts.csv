@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5271,topic,Secure and Trustworthy Artificial Intelligence,Secure and Trustworthy Artificial Intelligence,1,verified,Secure and Trustworthy Artificial Intelligence,ITIS_5271_concepts_raw.json
+ITIS_5271,tool,Hack the box,Hack the box,1,verified,Hack the box,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Machine Learning Basics,Machine Learning Basics,1,inferred,Machine Learning Basics,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,AI Security Challenges,AI Security Challenges,1,inferred,AI Security Challenges,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Trustworthy AI Principles,Trustworthy AI Principles,1,inferred,Trustworthy AI Principles,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Adversarial Examples Creation,Adversarial Examples Creation,1,inferred,Adversarial Examples Creation,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Attack Types and Techniques,Attack Types and Techniques,1,inferred,Attack Types and Techniques,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Defensive Mechanisms Overview,Defensive Mechanisms Overview,1,inferred,Defensive Mechanisms Overview,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Adversarial Training Methods,Adversarial Training Methods,1,inferred,Adversarial Training Methods,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Regularization Techniques Used,Regularization Techniques Used,1,inferred,Regularization Techniques Used,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Robustness Metrics and Evaluation,Robustness Metrics and Evaluation,1,inferred,Robustness Metrics and Evaluation,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Types of Data Poisoning Attacks,Types of Data Poisoning Attacks,1,inferred,Types of Data Poisoning Attacks,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Attack Vectors and Strategies,Attack Vectors and Strategies,1,inferred,Attack Vectors and Strategies,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Defenses Against Data Poisoning,Defenses Against Data Poisoning,1,inferred,Defenses Against Data Poisoning,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Privacy Threats in Machine Learning,Privacy Threats in Machine Learning,1,inferred,Privacy Threats in Machine Learning,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Data Protection Regulations Overview,Data Protection Regulations Overview,1,inferred,Data Protection Regulations Overview,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Anonymization and Pseudonymization,Anonymization and Pseudonymization,1,inferred,Anonymization and Pseudonymization,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Differential Privacy Techniques,Differential Privacy Techniques,1,inferred,Differential Privacy Techniques,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Homomorphic Encryption Methods,Homomorphic Encryption Methods,1,inferred,Homomorphic Encryption Methods,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Secure Multi-Party Computation,Secure Multi-Party Computation,1,inferred,Secure Multi-Party Computation,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Types of Bias in Machine Learning,Types of Bias in Machine Learning,1,inferred,Types of Bias in Machine Learning,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Bias Detection and Measurement Tools,Bias Detection and Measurement Tools,1,inferred,Bias Detection and Measurement Tools,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Fairness Metrics and Evaluation,Fairness Metrics and Evaluation,1,inferred,Fairness Metrics and Evaluation,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Model Interpretability Methods,Model Interpretability Methods,1,inferred,Model Interpretability Methods,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Feature Importance and Attribution,Feature Importance and Attribution,1,inferred,Feature Importance and Attribution,ITIS_5271_concepts_raw.json
+ITIS_5271,topic,Model-Agnostic Explanations,Model-Agnostic Explanations,1,inferred,Model-Agnostic Explanations,ITIS_5271_concepts_raw.json

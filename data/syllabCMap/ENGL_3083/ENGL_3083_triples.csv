@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3083,Literary Depictions of Women's Madness,topic,PART_OF,Madness in Literature,concept,,part is broader than whole - check direction,ENGL_3083_triples_raw.json
+ENGL_3083,Cultural Constructions of Madness,concept,PART_OF,Madness in Literature,concept,,,ENGL_3083_triples_raw.json
+ENGL_3083,Literary and Historical Constructions of Madness,concept,PART_OF,Madness in Literature,concept,,,ENGL_3083_triples_raw.json
+ENGL_3083,Women's Writings about Madness,topic,PART_OF,Women & Madness in Literature,topic,,,ENGL_3083_triples_raw.json

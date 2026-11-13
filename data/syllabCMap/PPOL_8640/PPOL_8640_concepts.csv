@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PPOL_8640,topic,Profit Maximization,profit maximization,1,verified,Profit Maximization,PPOL_8640_concepts_raw.json
+PPOL_8640,topic,Antitrust Regulation,antitrust regulation,1,verified,Antitrust Regulation,PPOL_8640_concepts_raw.json
+PPOL_8640,topic,Behavioral Interventions,behavioral interventions,1,verified,Behavioral Interventions,PPOL_8640_concepts_raw.json
+PPOL_8640,topic,Economic Theory Basics,Economic Theory Basics,1,inferred,Economic Theory Basics,PPOL_8640_concepts_raw.json
+PPOL_8640,topic,Consumer Behavior Models,Consumer Behavior Models,1,inferred,Consumer Behavior Models,PPOL_8640_concepts_raw.json
+PPOL_8640,topic,Market Failure Theories,Market Failure Theories,1,inferred,Market Failure Theories,PPOL_8640_concepts_raw.json
+PPOL_8640,topic,Policy Tools Analysis,Policy Tools Analysis,1,inferred,Policy Tools Analysis,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Scarcity and Choice,Scarcity and Choice,1,inferred,Scarcity and Choice,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Opportunity Cost Concept,Opportunity Cost Concept,1,inferred,Opportunity Cost Concept,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Marginal Benefit Analysis,Marginal Benefit Analysis,1,inferred,Marginal Benefit Analysis,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Utility Maximization Theory,Utility Maximization Theory,1,inferred,Utility Maximization Theory,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Budget Constraint Concept,Budget Constraint Concept,1,inferred,Budget Constraint Concept,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Indifference Curve Analysis,Indifference Curve Analysis,1,inferred,Indifference Curve Analysis,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Cost Minimization Strategy,Cost Minimization Strategy,1,inferred,Cost Minimization Strategy,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Revenue Maximization Goal,Revenue Maximization Goal,1,inferred,Revenue Maximization Goal,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Supply and Demand Equilibrium,Supply and Demand Equilibrium,1,inferred,Supply and Demand Equilibrium,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Externalities Concept Overview,Externalities Concept Overview,1,inferred,Externalities Concept Overview,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Public Goods Definition,Public Goods Definition,1,inferred,Public Goods Definition,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Information Asymmetry Problem,Information Asymmetry Problem,1,inferred,Information Asymmetry Problem,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Taxation and Revenue Effects,Taxation and Revenue Effects,1,inferred,Taxation and Revenue Effects,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Price Controls and Market Impact,Price Controls and Market Impact,1,inferred,Price Controls and Market Impact,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Tariffs and Quotas Consequences,Tariffs and Quotas Consequences,1,inferred,Tariffs and Quotas Consequences,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Monopoly Power Definition,Monopoly Power Definition,1,inferred,Monopoly Power Definition,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Competition Policy Objectives,Competition Policy Objectives,1,inferred,Competition Policy Objectives,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Merger and Acquisition Analysis,Merger and Acquisition Analysis,1,inferred,Merger and Acquisition Analysis,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Nudges and Choice Architecture,Nudges and Choice Architecture,1,inferred,Nudges and Choice Architecture,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Incentive Design Principles,Incentive Design Principles,1,inferred,Incentive Design Principles,PPOL_8640_concepts_raw.json
+PPOL_8640,concept,Behavioral Economics Applications,Behavioral Economics Applications,1,inferred,Behavioral Economics Applications,PPOL_8640_concepts_raw.json

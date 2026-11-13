@@ -1,0 +1,72 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETGR_2102,topic,Centroids and moments of inertia,Centroids and moments of inertia,2,verified,Centroids and moments of inertia,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,Stress and Strain,Stress and Strain,1,verified,Stress and Strain,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,Axial force,Axial force,5,verified,Axial force,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,Static indeterminacy,Static indeterminacy,1,verified,Static indeterminacy,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,superposition,superposition,1,verified,superposition,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,Analysis and design of beams,Analysis and design of beams,1,verified,Analysis and design of beams,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,Shear and bending stresses in beams,Shear and bending stresses in beams,1,verified,Shear and bending stresses in beams,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,Shear and bending moment diagram,Shear and bending moment diagram,1,verified,Shear and bending moment diagram,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,Combined loads and load effects,Combined loads and load effects,1,verified,Combined loads and load effects,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,Transformation of stress: Mohr's circle,Transformation of stress: Mohr's circle,1,verified,Transformation of stress: Mohr's circle,ETGR_2102_concepts_raw.json
+ETGR_2102,topic,Elastic instability and columns,Elastic instability and columns,1,verified,Elastic instability and columns,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Centroid of area,Centroid of area,1,verified,Centroid of area,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Moment of inertia,Moment of inertia,10,verified,Moment of inertia,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Parallel axis theorem,Parallel axis theorem,1,verified,Parallel axis theorem,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Area moment of inertia,Area moment of inertia,2,verified,Area moment of inertia,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Perpendicular axis theorem,Perpendicular axis theorem,1,verified,Perpendicular axis theorem,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Polar Moments of Inertia,Polar Moments of Inertia,4,verified,Polar Moments of Inertia,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Centroids and Moment Axes,Centroids and Moment Axes,1,verified,Centroids and Moment Axes,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Area Moments of Inertia,Area Moments of Inertia,1,verified,Area Moments of Inertia,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Second Moments of Area,Second Moments of Area,1,verified,Second Moments of Area,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Normal Stress,Normal Stress,8,verified,Normal Stress,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Shear Stress,Shear Stress,21,verified,Shear Stress,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Tensile Stress,Tensile Stress,3,verified,Tensile Stress,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Compressive Stress,Compressive Stress,2,verified,Compressive Stress,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Bending Moment,Bending Moments,3,verified,Bending Moment,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Direct Stress,Direct Stress,1,verified,Direct Stress,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Axial Load,Axial Load,1,verified,Axial Load,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Stress Transformation,Stress Transformation,7,verified,Stress Transformation,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Mohr Circle,Mohr Circle,1,verified,Mohr Circle,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Principal Stresses,Principal Stresses,8,verified,Principal Stresses,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Maximum Shear Stress,Maximum Shear Stress,6,verified,Maximum Shear Stress,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Plane Stress,Plane Stress,2,verified,Plane Stress,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Stress Tensor,Stress Tensor,1,verified,Stress Tensor,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Strain Definition,Strain Definition,1,verified,Strain Definition,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Normal Strains,Normal Strains,1,verified,Normal Strains,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Shear Strains,Shear Strains,1,verified,Shear Strains,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Principal Axes,Principal Axes,4,verified,Principal Axes,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Strain Transformation,Strain Transformation,2,verified,Strain Transformation,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Engineering Strain,Engineering Strain,1,verified,Engineering Strain,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,True Strain,True Strain,1,verified,True Strain,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Strain Tensor,Strain Tensor,1,verified,Strain Tensor,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Axial Force Formula,Axial Force Formula,1,verified,Axial Force Formula,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Column Buckling Theory,Column Buckling Theory,2,verified,Column Buckling Theory,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Euler's Critical Load,Euler's Critical Load,1,verified,Euler's Critical Load,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Longitudinal Strain,Longitudinal Strain,1,verified,Longitudinal Strain,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Tensile Stress Calculation,Tensile Stress Calculation,1,verified,Tensile Stress Calculation,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Bending Moment Diagrams,Bending Moment Diagrams,13,verified,Bending Moment Diagrams,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Shear Force Calculations,Shear Force Calculations,3,verified,Shear Force Calculations,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Deflection of Beams,Deflection of Beams,5,verified,Deflection of Beams,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Torsion Formulae,Torsion Formulae,4,verified,Torsion Formulae,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Polar Moment of Inertia,Polar Moment of Inertia,2,verified,Polar Moment of Inertia,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Torsional Stresses,Torsional Stresses,1,verified,Torsional Stresses,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Shear Stress Distribution,Shear Stress Distribution,1,verified,Shear Stress Distribution,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Torsional Rigidity,Torsional Rigidity,1,verified,Torsional Rigidity,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Angle of Twist,Angle of Twist,1,verified,Angle of Twist,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Torsional Capacity,Torsional Capacity,1,verified,Torsional Capacity,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Shaft Design Principles,Shaft Design Principles,1,verified,Shaft Design Principles,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Beam Deflection,Beam Deflection,8,verified,Beam Deflection,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Shear Force Diagrams,Shear Force Diagrams,10,verified,Shear Force Diagrams,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Support Reactions,Support Reactions,4,verified,Support Reactions,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Free Body Diagrams,Free Body Diagrams,5,verified,Free Body Diagrams,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Beam Loads Types,Beam Loads Types,2,verified,Beam Loads Types,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Area Moments Method,Area Moments Method,1,verified,Area Moments Method,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Combined stresses,Combined stresses,3,verified,Combined stresses,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Principal planes,Principal planes,2,verified,Principal planes,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Stress transformation matrices,Stress Transformation Matrices,2,verified,Stress transformation matrices,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Normal and Shear Stress Components,Normal and Shear Stress Components,1,verified,Normal and Shear Stress Components,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Transformation of Stress,Transformation of stress,4,verified,Transformation of Stress,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Mohr's Circle Method,Mohr's Circle Method,2,verified,Mohr's Circle Method,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Tangential Stress,Tangential Stress,2,verified,Tangential Stress,ETGR_2102_concepts_raw.json
+ETGR_2102,concept,Circumferential Stress,Circumferential Stress,2,verified,Circumferential Stress,ETGR_2102_concepts_raw.json

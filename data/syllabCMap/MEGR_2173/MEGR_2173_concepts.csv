@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2173,topic,mechatronics,mechatronics,1,verified,mechatronics,MEGR_2173_concepts_raw.json
+MEGR_2173,concept,linear systems theory,Linear systems theory,1,verified,linear systems theory,MEGR_2173_concepts_raw.json
+MEGR_2173,concept,pneumatic devices,pneumatic devices,1,verified,pneumatic devices,MEGR_2173_concepts_raw.json
+MEGR_2173,concept,active components,active components,1,verified,active components,MEGR_2173_concepts_raw.json
+MEGR_2173,concept,circuit simulation programs,circuit simulation programs,1,verified,circuit simulation programs,MEGR_2173_concepts_raw.json
+MEGR_2173,method,programming algorithms,Programming algorithms,1,verified,programming algorithms,MEGR_2173_concepts_raw.json
+MEGR_2173,method,data structures,data structures,1,verified,data structures,MEGR_2173_concepts_raw.json
+MEGR_2173,method,GUI and instrument front panel layouts,GUI and instrument front panel layouts,1,verified,GUI and instrument front panel layouts,MEGR_2173_concepts_raw.json
+MEGR_2173,method,graphical based programming,graphical based programming,1,verified,graphical based programming,MEGR_2173_concepts_raw.json
+MEGR_2173,method,circuit building blocks,circuit building blocks,1,verified,circuit building blocks,MEGR_2173_concepts_raw.json
+MEGR_2173,tool,Arduino,Arduino,1,verified,Arduino,MEGR_2173_concepts_raw.json
+MEGR_2173,tool,spreadsheet software,spreadsheet software,1,verified,spreadsheet software,MEGR_2173_concepts_raw.json

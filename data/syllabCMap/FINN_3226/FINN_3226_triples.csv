@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3226,working capital components,concept,PART_OF,Financial Analysis,topic,,,FINN_3226_triples_raw.json
+FINN_3226,working capital components,concept,PART_OF,Credit Analysis,topic,,,FINN_3226_triples_raw.json
+FINN_3226,working capital components,concept,PART_OF,Free Cash Flow,topic,,,FINN_3226_triples_raw.json
+FINN_3226,working capital components,concept,PART_OF,Weighted Average Cost of Capital,topic,,,FINN_3226_triples_raw.json
+FINN_3226,working capital components,concept,PART_OF,Project Evaluation,topic,,,FINN_3226_triples_raw.json
+FINN_3226,working capital components,concept,PART_OF,Firm Value,topic,,,FINN_3226_triples_raw.json

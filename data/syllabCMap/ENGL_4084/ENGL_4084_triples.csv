@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4084,Close Reading Skills,topic,PREREQUISITE_OF,Comparative Literature Approaches,topic,A taught first,,ENGL_4084_triples_raw.json
+ENGL_4084,Close Reading Skills,topic,PREREQUISITE_OF,Textual Analysis Fundamentals,topic,A taught first,,ENGL_4084_triples_raw.json
+ENGL_4084,Selected Contemporary Writers,topic,PREREQUISITE_OF,Comparative Analysis of Selected Works,topic,A taught first,,ENGL_4084_triples_raw.json
+ENGL_4084,Selected Contemporary Writers,topic,PREREQUISITE_OF,Gabriela Cabezón Cámara's Work,topic,B taught first,B is taught before A - check,ENGL_4084_triples_raw.json
+ENGL_4084,Comparative Literature Approaches,topic,PART_OF,Close Reading Skills,topic,,,ENGL_4084_triples_raw.json
+ENGL_4084,Textual Analysis Fundamentals,topic,PART_OF,Close Reading Skills,topic,,,ENGL_4084_triples_raw.json
+ENGL_4084,Comparative Analysis of Selected Works,topic,PART_OF,Selected Contemporary Writers,topic,,,ENGL_4084_triples_raw.json
+ENGL_4084,cultural context,concept,USED_FOR,Comparative Literature Approaches,topic,,,ENGL_4084_triples_raw.json
+ENGL_4084,cultural context,concept,USED_FOR,Textual Analysis Fundamentals,topic,,,ENGL_4084_triples_raw.json
+ENGL_4084,cross-cultural literary analysis,concept,USED_FOR,Comparative Literature Approaches,topic,,,ENGL_4084_triples_raw.json

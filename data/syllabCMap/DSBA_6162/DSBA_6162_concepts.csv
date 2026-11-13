@@ -1,0 +1,70 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6162,topic,Data Mining,Data Mining,6,verified,Data Mining,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,machine learning,Machine Learning,4,verified,machine learning,DSBA_6162_concepts_raw.json
+DSBA_6162,topic,Cluster Analysis,Cluster Analysis,1,verified,Cluster Analysis,DSBA_6162_concepts_raw.json
+DSBA_6162,topic,Word Association Mining,Word Association Mining,1,verified,Word Association Mining,DSBA_6162_concepts_raw.json
+DSBA_6162,topic,Topic Modeling,Topic Modeling,1,verified,Topic Modeling,DSBA_6162_concepts_raw.json
+DSBA_6162,topic,Deep Learning,deep learning,5,verified,Deep Learning,DSBA_6162_concepts_raw.json
+DSBA_6162,topic,RNN and CNN,RNN and CNN,1,verified,RNN and CNN,DSBA_6162_concepts_raw.json
+DSBA_6162,topic,Word Embedding,Word Embedding,1,verified,Word Embedding,DSBA_6162_concepts_raw.json
+DSBA_6162,topic,Deep Reinforcement Learning,Deep Reinforcement Learning,1,verified,Deep Reinforcement Learning,DSBA_6162_concepts_raw.json
+DSBA_6162,topic,Transformers and BERT,Transformers and BERT,1,verified,Transformers and BERT,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,large language models,large language models,8,verified,large language models,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,data preprocessing,data preprocessing,3,verified,data preprocessing,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,data profiling,Data Profiling,1,verified,data profiling,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,data cleaning,Data Cleaning,1,verified,data cleaning,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,data transformation,Data Transformation,1,verified,data transformation,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,data quality metrics,Data Quality Metrics,1,verified,data quality metrics,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,association rule mining,Association Rule Mining,2,verified,association rule mining,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,sequential pattern mining,Sequential Pattern Mining,1,verified,sequential pattern mining,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,clustering algorithms,Clustering Algorithms,1,verified,clustering algorithms,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,decision tree induction,Decision Tree Induction,1,verified,decision tree induction,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,Apriori algorithm,Apriori Algorithm,1,verified,Apriori algorithm,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,frequent itemset mining,Frequent Itemset Mining,1,verified,frequent itemset mining,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,sequence mining techniques,Sequence Mining Techniques,1,verified,sequence mining techniques,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,pattern discovery methods,Pattern Discovery Methods,1,verified,pattern discovery methods,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,supervised learning,Supervised Learning,1,verified,supervised learning,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,unsupervised learning,Unsupervised Learning,1,verified,unsupervised learning,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,decision trees,Decision Trees,1,verified,decision trees,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,random forests,Random Forests,1,verified,random forests,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,support vectors,Support Vectors,1,verified,support vectors,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,neural networks,Neural Networks,7,verified,neural networks,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,activation functions,Activation Functions,3,verified,activation functions,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,backpropagation,Backpropagation,2,verified,backpropagation,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,hierarchical clustering,Hierarchical Clustering,1,verified,hierarchical clustering,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,K-means algorithm,K-Means Algorithm,1,verified,K-means algorithm,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,DBSCAN algorithm,DBSCAN Algorithm,1,verified,DBSCAN algorithm,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,silhouette coefficient,Silhouette Coefficient,1,verified,silhouette coefficient,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,dendrogram analysis,Dendrogram Analysis,1,verified,dendrogram analysis,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,word association rules,Word Association Rules,1,verified,word association rules,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,text data preprocessing,Text Data Preprocessing,1,verified,text data preprocessing,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,term frequency analysis,Term Frequency Analysis,1,verified,term frequency analysis,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,document similarity measures,Document Similarity Measures,1,verified,document similarity measures,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,latent Dirichlet allocation,Latent Dirichlet Allocation,1,verified,latent Dirichlet allocation,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,probabilistic latent semantic analysis,Probabilistic Latent Semantic Analysis,1,verified,probabilistic latent semantic analysis,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,non-negative matrix factorization,Non-Negative Matrix Factorization,1,verified,non-negative matrix factorization,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,text representation,Text Representation,1,verified,text representation,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,document embeddings,Document Embeddings,1,verified,document embeddings,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,word co-occurrence,Word Co-occurrence,1,verified,word co-occurrence,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,term frequency-inverse document frequency,Term Frequency-Inverse Document Frequency,1,verified,term frequency-inverse document frequency,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,deep learning models,deep learning models,3,verified,deep learning models,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,recurrent neural networks,Recurrent Neural Networks,3,verified,recurrent neural networks,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,convolutional neural networks,Convolutional Neural Networks,3,verified,convolutional neural networks,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,BERT model architecture,BERT Model Architecture,1,verified,BERT model architecture,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,ChatGPT applications,ChatGPT Applications,2,verified,ChatGPT applications,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,deep learning techniques,Deep Learning Techniques,1,verified,deep learning techniques,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,neural network layers,Neural Network Layers,1,verified,neural network layers,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,long short-term memory,Long Short-Term Memory,1,verified,long short-term memory,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,gated recurrent units,Gated Recurrent Units,1,verified,gated recurrent units,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,Q-learning algorithm,Q-Learning Algorithm,1,verified,Q-learning algorithm,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,policy gradient methods,Policy Gradient Methods,1,verified,policy gradient methods,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,actor-critic models,Actor-Critic Models,1,verified,actor-critic models,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,value function estimation,Value Function Estimation,1,verified,value function estimation,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,exploration-exploitation tradeoff,Exploration-Exploitation Tradeoff,1,verified,exploration-exploitation tradeoff,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,reward functions design,Reward Functions Design,1,verified,reward functions design,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,Bellman equation derivation,Bellman Equation Derivation,1,verified,Bellman equation derivation,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,transformer architecture,Transformer Architecture,2,verified,transformer architecture,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,BERT model components,BERT Model Components,1,verified,BERT model components,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,self-attention mechanism,Self Attention Mechanism,1,verified,self-attention mechanism,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,encoder-decoder structure,Encoder Decoder Structure,1,verified,encoder-decoder structure,DSBA_6162_concepts_raw.json
+DSBA_6162,concept,masked language modeling,Masked Language Modeling,1,verified,masked language modeling,DSBA_6162_concepts_raw.json

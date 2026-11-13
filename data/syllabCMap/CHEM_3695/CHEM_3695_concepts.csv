@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_3695,topic,Chemistry Seminar I,Chemistry Seminar I,1,verified,Chemistry Seminar I,CHEM_3695_concepts_raw.json
+CHEM_3695,concept,Journal article format,journal article format,1,verified,Journal article format,CHEM_3695_concepts_raw.json
+CHEM_3695,method,Database query,database queries,1,verified,Database query,CHEM_3695_concepts_raw.json
+CHEM_3695,method,Writing a journal article format paper,writing a journal article format paper,1,verified,Writing a journal article format paper,CHEM_3695_concepts_raw.json
+CHEM_3695,method,Web of Science,Web of Science,1,verified,Using SciFindern and Web of Science,CHEM_3695_concepts_raw.json
+CHEM_3695,method,reaction schemes,reaction schemes,1,verified,"Drawing chemical structures, reaction schemes, and equations",CHEM_3695_concepts_raw.json
+CHEM_3695,method,equations,equations,1,verified,"Drawing chemical structures, reaction schemes, and equations",CHEM_3695_concepts_raw.json
+CHEM_3695,tool,EndNote,EndNote,1,verified,EndNote,CHEM_3695_concepts_raw.json
+CHEM_3695,tool,ChemDraw,ChemDraw,1,verified,ChemDraw,CHEM_3695_concepts_raw.json
+CHEM_3695,tool,PowerPoint,PowerPoint,1,verified,PowerPoint,CHEM_3695_concepts_raw.json
+CHEM_3695,tool,Google Docs,Google Docs,1,verified,Google Docs,CHEM_3695_concepts_raw.json
+CHEM_3695,tool,Canva,Canva,1,verified,Canva,CHEM_3695_concepts_raw.json

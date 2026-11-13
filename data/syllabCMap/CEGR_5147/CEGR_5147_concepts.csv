@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_5147,topic,Stormwater Management,Stormwater Management,2,verified,Stormwater Management,CEGR_5147_concepts_raw.json
+CEGR_5147,topic,Low Impact Design,low impact design,1,verified,Low Impact Design,CEGR_5147_concepts_raw.json
+CEGR_5147,method,numerical model,numerical model,1,verified,numerical model,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Urbanization Effects on Water Quality,Urbanization Effects on Water Quality,1,inferred,Urbanization Effects on Water Quality,CEGR_5147_concepts_raw.json
+CEGR_5147,topic,Numerical Modeling Fundamentals,Numerical Modeling Fundamentals,1,inferred,Numerical Modeling Fundamentals,CEGR_5147_concepts_raw.json
+CEGR_5147,topic,Best Management Practices (BMPs,Best Management Practices (BMPs,1,inferred,Best Management Practices (BMPs),CEGR_5147_concepts_raw.json
+CEGR_5147,topic,Mitigation Methods Evaluation,Mitigation Methods Evaluation,1,inferred,Mitigation Methods Evaluation,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Stormwater Management Principles,Stormwater Management Principles,1,inferred,Stormwater Management Principles,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Water Pollution Sources and Types,Water Pollution Sources and Types,1,inferred,Water Pollution Sources and Types,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Nutrient Loading and Eutrophication,Nutrient Loading and Eutrophication,1,inferred,Nutrient Loading and Eutrophication,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Sedimentation and Turbidity,Sedimentation and Turbidity,1,inferred,Sedimentation and Turbidity,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Bacteria and Viruses in Water,Bacteria and Viruses in Water,1,inferred,Bacteria and Viruses in Water,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Guiding Principles of LID,Guiding Principles of LID,1,inferred,Guiding Principles of LID,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Rainwater Harvesting Systems,Rainwater Harvesting Systems,1,inferred,Rainwater Harvesting Systems,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Green Infrastructure Design,Green Infrastructure Design,1,inferred,Green Infrastructure Design,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Types and Applications of BMPs,Types and Applications of BMPs,1,inferred,Types and Applications of BMPs,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Stormwater Detention and Retention,Stormwater Detention and Retention,1,inferred,Stormwater Detention and Retention,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Filter Media and Treatment Options,Filter Media and Treatment Options,1,inferred,Filter Media and Treatment Options,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Cost-Benefit Analysis of Mitigation,Cost-Benefit Analysis of Mitigation,1,inferred,Cost-Benefit Analysis of Mitigation,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Environmental Impact Assessments,Environmental Impact Assessments,1,inferred,Environmental Impact Assessments,CEGR_5147_concepts_raw.json
+CEGR_5147,concept,Community Engagement and Education,Community Engagement and Education,1,inferred,Community Engagement and Education,CEGR_5147_concepts_raw.json
+CEGR_5147,method,hydrologic cycle simulation,Hydrologic Cycle Simulation,1,inferred,hydrologic cycle simulation,CEGR_5147_concepts_raw.json
+CEGR_5147,method,water balance calculations,Water Balance Calculations,1,inferred,water balance calculations,CEGR_5147_concepts_raw.json

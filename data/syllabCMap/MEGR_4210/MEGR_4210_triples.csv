@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_4210,Internal Combustion Engine Definition,concept,PART_OF,Internal Combustion Engine Theory,topic,,,MEGR_4210_triples_raw.json
+MEGR_4210,Engine Classification and Types,concept,PART_OF,Internal Combustion Engine Theory,topic,,,MEGR_4210_triples_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTC_2171,interdependent formal and conceptual relationships,concept,PREREQUISITE_OF,conceptual relationships,method,same unit,,ARTC_2171_triples_raw.json
+ARTC_2171,conceptual relationships,method,PREREQUISITE_OF,organizing,method,A taught first,,ARTC_2171_triples_raw.json
+ARTC_2171,conceptual relationships,method,PREREQUISITE_OF,documenting,method,A taught first,,ARTC_2171_triples_raw.json

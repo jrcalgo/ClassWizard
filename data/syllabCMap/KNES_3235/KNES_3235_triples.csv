@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_3235,Competency Requirements,concept,PREREQUISITE_OF,Team Challenge Course Facilitator,concept,same unit,,KNES_3235_triples_raw.json
+KNES_3235,Competency Requirements,concept,PREREQUISITE_OF,High Team Challenge Course Monitor,concept,same unit,,KNES_3235_triples_raw.json
+KNES_3235,Briefing and Reflection Methods,concept,PART_OF,Facilitation Techniques,topic,,,KNES_3235_triples_raw.json
+KNES_3235,Transference of Learning Process,concept,PART_OF,Facilitation Techniques,topic,,,KNES_3235_triples_raw.json
+KNES_3235,Crisis Management Strategies,concept,PART_OF,Risk Management and Safety,topic,,,KNES_3235_triples_raw.json
+KNES_3235,Emotional Distress Management,concept,PART_OF,Scenario-Based Training,topic,,,KNES_3235_triples_raw.json
+KNES_3235,Critical Scenario Response Plan,concept,PART_OF,Scenario-Based Training,topic,,,KNES_3235_triples_raw.json

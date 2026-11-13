@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_5000,Conversion,topic,PREREQUISITE_OF,Theories of Conversion,topic,A taught first,,RELS_5000_triples_raw.json
+RELS_5000,Conversion,topic,PREREQUISITE_OF,Conversion in Different Religions,topic,A taught first,,RELS_5000_triples_raw.json
+RELS_5000,Conversion,topic,PREREQUISITE_OF,Deconversion and Apostasy,topic,A taught first,,RELS_5000_triples_raw.json
+RELS_5000,Conversion,topic,PREREQUISITE_OF,Comparative Studies of Conversion,topic,A taught first,,RELS_5000_triples_raw.json
+RELS_5000,Theories of Conversion,topic,PREREQUISITE_OF,Conversion in Different Religions,topic,A taught first,,RELS_5000_triples_raw.json
+RELS_5000,Theories of Conversion,topic,PREREQUISITE_OF,Deconversion and Apostasy,topic,A taught first,,RELS_5000_triples_raw.json
+RELS_5000,Theories of Conversion,topic,PREREQUISITE_OF,Comparative Studies of Conversion,topic,A taught first,,RELS_5000_triples_raw.json
+RELS_5000,Conversion as a Process,concept,PART_OF,Conversion,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Defining Religious Conversion,concept,PART_OF,Conversion,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Types of Conversion Experiences,concept,PART_OF,Conversion,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Psychological Theories of Conversion,concept,PART_OF,Theories of Conversion,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Sociological Theories of Conversion,concept,PART_OF,Theories of Conversion,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Anthropological Theories of Conversion,concept,PART_OF,Theories of Conversion,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Christian Conversion Narratives,concept,PART_OF,Conversion in Different Religions,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Islamic Conversion Stories,concept,PART_OF,Conversion in Different Religions,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Buddhist Conversion Experiences,concept,PART_OF,Conversion in Different Religions,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Defining Deconversion,concept,PART_OF,Deconversion and Apostasy,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Causes of Deconversion,concept,PART_OF,Deconversion and Apostasy,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Consequences of Deconversion,concept,PART_OF,Deconversion and Apostasy,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Cross-Cultural Comparison of Conversion,concept,PART_OF,Comparative Studies of Conversion,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Similarities and Differences in Conversion,concept,PART_OF,Comparative Studies of Conversion,topic,,,RELS_5000_triples_raw.json
+RELS_5000,Global Patterns of Conversion,concept,PART_OF,Comparative Studies of Conversion,topic,,,RELS_5000_triples_raw.json

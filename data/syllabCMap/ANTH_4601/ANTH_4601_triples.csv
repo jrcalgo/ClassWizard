@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_4601,library research,method,PREREQUISITE_OF,report writing,method,A taught first,,ANTH_4601_triples_raw.json
+ANTH_4601,Applied Anthropology,topic,PREREQUISITE_OF,library research,method,A taught first,,ANTH_4601_triples_raw.json

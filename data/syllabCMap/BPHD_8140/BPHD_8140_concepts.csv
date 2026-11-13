@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BPHD_8140,topic,Financial Economic Modeling,financial economic modeling,1,verified,Financial Economic Modeling,BPHD_8140_concepts_raw.json
+BPHD_8140,topic,Time Series Regression,time-series regression,1,verified,Time Series Regression,BPHD_8140_concepts_raw.json
+BPHD_8140,topic,Generalized Method of Moments,generalized method of moments,1,verified,Generalized Method of Moments,BPHD_8140_concepts_raw.json
+BPHD_8140,topic,Capital Asset Pricing Model,Capital Asset Pricing Model,1,verified,Capital Asset Pricing Model,BPHD_8140_concepts_raw.json
+BPHD_8140,topic,Fama-French Multi-Factor Models,Fama- French multi- factor models,1,verified,Fama-French Multi-Factor Models,BPHD_8140_concepts_raw.json
+BPHD_8140,concept,Time-Series Regression Models,time-series regression models,1,verified,Time-Series Regression Models,BPHD_8140_concepts_raw.json
+BPHD_8140,method,Analyze,analyze,1,verified,"Analyze and model time-varying volatility using ARCH, GARCH, and related specifications",BPHD_8140_concepts_raw.json
+BPHD_8140,method,model time-varying volatility using ARCH,model time-varying volatility using ARCH,1,verified,"Analyze and model time-varying volatility using ARCH, GARCH, and related specifications",BPHD_8140_concepts_raw.json
+BPHD_8140,method,GARCH,GARCH,1,verified,"Analyze and model time-varying volatility using ARCH, GARCH, and related specifications",BPHD_8140_concepts_raw.json
+BPHD_8140,method,related specifications,related specifications,1,verified,"Analyze and model time-varying volatility using ARCH, GARCH, and related specifications",BPHD_8140_concepts_raw.json
+BPHD_8140,method,Empirically test financial theories,empirically test financial theories,1,verified,Empirically test financial theories,BPHD_8140_concepts_raw.json
+BPHD_8140,method,Conduct and interpret tests of term structure models,Conduct and interpret tests of term structure models,1,verified,Conduct and interpret tests of term structure models,BPHD_8140_concepts_raw.json

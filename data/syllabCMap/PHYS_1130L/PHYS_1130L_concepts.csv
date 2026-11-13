@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_1130L,topic,Physics,physics,1,verified,Physics,PHYS_1130L_concepts_raw.json
+PHYS_1130L,topic,Laboratory,laboratories,1,verified,Laboratory,PHYS_1130L_concepts_raw.json
+PHYS_1130L,topic,Scientific Method,scientific method,1,verified,Scientific Method,PHYS_1130L_concepts_raw.json
+PHYS_1130L,topic,Experimental Apparatus,experimental apparatus,1,verified,Experimental Apparatus,PHYS_1130L_concepts_raw.json
+PHYS_1130L,topic,Data Collection,data collection,1,verified,Data Collection,PHYS_1130L_concepts_raw.json

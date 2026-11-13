@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_5300,entrepreneurial tasks,concept,PREREQUISITE_OF,entrepreneurial process,topic,A mentioned first,,MBAD_5300_triples_raw.json
+MBAD_5300,challenges and dilemmas,concept,PREREQUISITE_OF,solutions and implementation,concept,same unit,,MBAD_5300_triples_raw.json
+MBAD_5300,resource combination,concept,PREREQUISITE_OF,opportunity exploitation,concept,same unit,,MBAD_5300_triples_raw.json
+MBAD_5300,entrepreneurial team,concept,PREREQUISITE_OF,entrepreneurial venture,concept,same unit,,MBAD_5300_triples_raw.json
+MBAD_5300,entrepreneurial philosophy,concept,PART_OF,entrepreneurship,topic,,,MBAD_5300_triples_raw.json
+MBAD_5300,bootstrap financing,concept,PART_OF,capital raising strategies,concept,,,MBAD_5300_triples_raw.json
+MBAD_5300,venture capital options,concept,PART_OF,capital raising strategies,concept,,,MBAD_5300_triples_raw.json
+MBAD_5300,social entrepreneurship models,concept,PART_OF,social entrepreneurship,topic,,,MBAD_5300_triples_raw.json
+MBAD_5300,creative destruction process,concept,PART_OF,boom and bust cycles,topic,,,MBAD_5300_triples_raw.json
+MBAD_5300,high-growth ventures,topic,SUBTYPE_OF,entrepreneurial process,topic,,,MBAD_5300_triples_raw.json
+MBAD_5300,seasonal business,topic,SUBTYPE_OF,boom and bust cycles,topic,,,MBAD_5300_triples_raw.json
+MBAD_5300,creative destruction,concept,USED_FOR,opportunity exploitation,concept,,,MBAD_5300_triples_raw.json
+MBAD_5300,entrepreneurial team,concept,USED_FOR,entrepreneurial venture,concept,,,MBAD_5300_triples_raw.json
+MBAD_5300,solutions and implementation,concept,USED_FOR,challenges and dilemmas,concept,,,MBAD_5300_triples_raw.json
+MBAD_5300,opportunity exploitation,concept,USED_FOR,resource combination,concept,,,MBAD_5300_triples_raw.json
+MBAD_5300,venture capital options,concept,USED_FOR,capital raising strategies,concept,,,MBAD_5300_triples_raw.json
+MBAD_5300,artificial intelligence applications,concept,USED_FOR,business opportunity recognition,concept,,,MBAD_5300_triples_raw.json
+MBAD_5300,social entrepreneurship models,concept,USED_FOR,social entrepreneurship,topic,,,MBAD_5300_triples_raw.json
+MBAD_5300,creative destruction process,concept,USED_FOR,boom and bust cycles,topic,,,MBAD_5300_triples_raw.json

@@ -1,0 +1,55 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MSRE_6159,topic,Real Estate Development,Real Estate Development,9,verified,Real Estate Development,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,Real Estate,Real Estate,12,verified,An Introduction to Real Estate,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,Development,Development,31,verified,Development,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,residual valuation,Residual Valuation,4,verified,residual valuation,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,5 Rules,5 Rules,1,verified,The 5 Rules,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,of Modeling,of Modeling,1,verified,of Modeling,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,development cash flows,Development Cash Flows,4,verified,development cash flows,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,development financing,Development Financing,6,verified,development financing,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,Understanding Debt,Understanding Debt,1,verified,Understanding Debt,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,Mezzanine Debt,Mezzanine Debt,3,verified,Mezzanine Debt,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,Risk Analysis,Risk Analysis,6,verified,Risk Analysis,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,Sensitivity Analysis,Sensitivity Analysis,5,verified,Sensitivity Analysis,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,Scenario Analysis,Scenario Analysis,1,verified,Scenario Analysis,MSRE_6159_concepts_raw.json
+MSRE_6159,topic,Joint Ventures,Joint Ventures,1,verified,Joint Ventures,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,real estate development process,real estate development process,4,verified,real estate development process,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,market feasibility analysis,Market Feasibility Analysis,2,verified,market feasibility analysis,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,financial feasibility criteria,Financial Feasibility Criteria,1,verified,financial feasibility criteria,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,commercial real estate projects,commercial real estate projects,2,verified,commercial real estate projects,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,development costs estimation,Development Costs Estimation,1,verified,development costs estimation,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,market value additions,Market Value Additions,1,verified,market value additions,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,financial feasibility analysis,Financial Feasibility Analysis,8,verified,financial feasibility analysis,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,risk management strategies,Risk Management Strategies,10,verified,risk management strategies,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,capital structures options,Capital Structures Options,1,verified,capital structures options,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,financial feasibility metrics,Financial Feasibility Metrics,4,verified,financial feasibility metrics,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,capital structure models,Capital Structure Models,2,verified,capital structure models,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,land use regulations,Land Use Regulations,2,verified,land use regulations,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,project execution planning,Project Execution Planning,4,verified,project execution planning,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,cash flow projections,Cash Flow Projections,2,verified,cash flow projections,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,discounted cash flow models,Discounted Cash Flow Models,1,verified,discounted cash flow models,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,net present value calculations,Net Present Value Calculations,1,verified,net present value calculations,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,debt and equity options,Debt and Equity Options,2,verified,debt and equity options,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,value creation techniques,Value Creation Techniques,1,verified,value creation techniques,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,market dynamics analysis,Market Dynamics Analysis,1,verified,market dynamics analysis,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,regulatory environment impact,Regulatory Environment Impact,1,verified,regulatory environment impact,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,debt financing,Debt Financing,2,verified,debt financing,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,interest rates,Interest Rates,1,verified,interest rates,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,amortization schedules,Amortization Schedules,1,verified,amortization schedules,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,loan-to-value ratio,Loan-to-Value Ratio,1,verified,loan-to-value ratio,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,debt service coverage,Debt Service Coverage,1,verified,debt service coverage,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,mezzanine debt structure,Mezzanine Debt Structure,1,verified,mezzanine debt structure,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,subordinated debt financing,Subordinated Debt Financing,1,verified,subordinated debt financing,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,debt-to-equity ratio analysis,Debt-to-Equity Ratio Analysis,1,verified,debt-to-equity ratio analysis,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,senior and junior lien priority,Senior and Junior Lien Priority,1,verified,senior and junior lien priority,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,private placement of mezzanine debt,Private Placement of Mezzanine Debt,1,verified,private placement of mezzanine debt,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,risk analysis techniques,Risk Analysis Techniques,3,verified,risk analysis techniques,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,probability distributions models,Probability Distributions Models,3,verified,probability distributions models,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,sensitivity analysis methods,Sensitivity Analysis Methods,3,verified,sensitivity analysis methods,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,scenario planning frameworks,Scenario Planning Frameworks,3,verified,scenario planning frameworks,MSRE_6159_concepts_raw.json
+MSRE_6159,concept,uncertainty management strategies,Uncertainty Management Strategies,3,verified,uncertainty management strategies,MSRE_6159_concepts_raw.json
+MSRE_6159,method,lectures,lectures,1,verified,lectures,MSRE_6159_concepts_raw.json
+MSRE_6159,method,financial modeling exercises,financial modeling exercises,1,verified,financial modeling exercises,MSRE_6159_concepts_raw.json
+MSRE_6159,method,industry case studies,industry case studies,1,verified,industry case studies,MSRE_6159_concepts_raw.json
+MSRE_6159,method,guest speakers,guest speakers,1,verified,guest speakers,MSRE_6159_concepts_raw.json
+MSRE_6159,method,team-based projects,team-based projects,1,verified,team-based projects,MSRE_6159_concepts_raw.json

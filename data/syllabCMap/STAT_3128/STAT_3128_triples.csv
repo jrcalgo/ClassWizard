@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_3128,probability rules,concept,PREREQUISITE_OF,probability distributions,concept,A taught first,,STAT_3128_triples_raw.json
+STAT_3128,probability distributions,concept,PREREQUISITE_OF,ANOVA,method,A taught first,,STAT_3128_triples_raw.json
+STAT_3128,probability distributions,concept,PREREQUISITE_OF,regression,method,A taught first,,STAT_3128_triples_raw.json
+STAT_3128,probability rules,concept,PART_OF,Probability and Statistics for Engineers,topic,,,STAT_3128_triples_raw.json
+STAT_3128,probability distributions,concept,PART_OF,Probability and Statistics for Engineers,topic,,,STAT_3128_triples_raw.json
+STAT_3128,Point and Interval Estimates,topic,PART_OF,Probability and Statistics for Engineers,topic,,,STAT_3128_triples_raw.json
+STAT_3128,ANOVA,method,PART_OF,Probability and Statistics for Engineers,topic,,,STAT_3128_triples_raw.json
+STAT_3128,regression,method,PART_OF,Probability and Statistics for Engineers,topic,,,STAT_3128_triples_raw.json

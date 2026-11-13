@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FILM_4120,topic,Working with Actors,working with actors,1,verified,Working with Actors,FILM_4120_concepts_raw.json
+FILM_4120,topic,Film Production,Film Production,2,inferred,Film Production,FILM_4120_concepts_raw.json
+FILM_4120,topic,Script Analysis and Development,Script Analysis and Development,1,inferred,Script Analysis and Development,FILM_4120_concepts_raw.json
+FILM_4120,topic,Collaboration with Writers and Crew,Collaboration with Writers and Crew,1,inferred,Collaboration with Writers and Crew,FILM_4120_concepts_raw.json
+FILM_4120,topic,Visual Storytelling Fundamentals,Visual Storytelling Fundamentals,1,inferred,Visual Storytelling Fundamentals,FILM_4120_concepts_raw.json
+FILM_4120,topic,Storyboarding and Pre-Production Planning,Storyboarding and Pre-Production Planning,1,inferred,Storyboarding and Pre-Production Planning,FILM_4120_concepts_raw.json
+FILM_4120,topic,Shooting and Directing Techniques,Shooting and Directing Techniques,1,inferred,Shooting and Directing Techniques,FILM_4120_concepts_raw.json
+FILM_4120,topic,Post-Production and Editing,Post-Production and Editing,1,inferred,Post-Production and Editing,FILM_4120_concepts_raw.json
+FILM_4120,topic,Polishing the Final Product,Polishing the Final Product,1,inferred,Polishing the Final Product,FILM_4120_concepts_raw.json
+FILM_4120,topic,Project Delivery and Presentation,Project Delivery and Presentation,1,inferred,Project Delivery and Presentation,FILM_4120_concepts_raw.json
+FILM_4120,concept,film production process,Film Production Process,1,inferred,film production process,FILM_4120_concepts_raw.json
+FILM_4120,concept,team collaboration basics,Team Collaboration Basics,1,inferred,team collaboration basics,FILM_4120_concepts_raw.json
+FILM_4120,concept,project planning essentials,Project Planning Essentials,1,inferred,project planning essentials,FILM_4120_concepts_raw.json
+FILM_4120,concept,story structure fundamentals,Story Structure Fundamentals,1,inferred,story structure fundamentals,FILM_4120_concepts_raw.json
+FILM_4120,concept,character development techniques,Character Development Techniques,1,inferred,character development techniques,FILM_4120_concepts_raw.json
+FILM_4120,concept,dialogue writing principles,Dialogue Writing Principles,1,inferred,dialogue writing principles,FILM_4120_concepts_raw.json
+FILM_4120,concept,acting techniques for film,Acting Techniques for Film,1,inferred,acting techniques for film,FILM_4120_concepts_raw.json
+FILM_4120,concept,directing actor's performance,Directing Actor's Performance,1,inferred,directing actor's performance,FILM_4120_concepts_raw.json
+FILM_4120,concept,creating realistic character moments,Creating Realistic Character Moments,1,inferred,creating realistic character moments,FILM_4120_concepts_raw.json
+FILM_4120,concept,writer-director collaboration models,Writer-Director Collaboration Models,1,inferred,writer-director collaboration models,FILM_4120_concepts_raw.json
+FILM_4120,concept,crew management strategies,Crew Management Strategies,1,inferred,crew management strategies,FILM_4120_concepts_raw.json
+FILM_4120,concept,effective communication in teamwork,Effective Communication in Teamwork,1,inferred,effective communication in teamwork,FILM_4120_concepts_raw.json
+FILM_4120,concept,visual composition principles,Visual Composition Principles,1,inferred,visual composition principles,FILM_4120_concepts_raw.json
+FILM_4120,concept,lighting and camera techniques,Lighting and Camera Techniques,1,inferred,lighting and camera techniques,FILM_4120_concepts_raw.json
+FILM_4120,concept,pacing and timing essentials,Pacing and Timing Essentials,1,inferred,pacing and timing essentials,FILM_4120_concepts_raw.json
+FILM_4120,concept,storyboarding for film projects,Storyboarding for Film Projects,1,inferred,storyboarding for film projects,FILM_4120_concepts_raw.json
+FILM_4120,concept,pre-production planning checklist,Pre-Production Planning Checklist,1,inferred,pre-production planning checklist,FILM_4120_concepts_raw.json
+FILM_4120,concept,scheduling and budgeting basics,Scheduling and Budgeting Basics,1,inferred,scheduling and budgeting basics,FILM_4120_concepts_raw.json
+FILM_4120,concept,directing actors on set,Directing Actors on Set,1,inferred,directing actors on set,FILM_4120_concepts_raw.json
+FILM_4120,concept,camera angles and movement,Camera Angles and Movement,1,inferred,camera angles and movement,FILM_4120_concepts_raw.json
+FILM_4120,concept,lighting for emotional impact,Lighting for Emotional Impact,1,inferred,lighting for emotional impact,FILM_4120_concepts_raw.json
+FILM_4120,concept,film editing principles,Film Editing Principles,1,inferred,film editing principles,FILM_4120_concepts_raw.json
+FILM_4120,concept,sound design techniques,Sound Design Techniques,1,inferred,sound design techniques,FILM_4120_concepts_raw.json
+FILM_4120,concept,visual effects in film,Visual Effects in Film,1,inferred,visual effects in film,FILM_4120_concepts_raw.json
+FILM_4120,concept,final cut review and revision,Final Cut Review and Revision,1,inferred,final cut review and revision,FILM_4120_concepts_raw.json
+FILM_4120,concept,color correction and grading,Color Correction and Grading,1,inferred,color correction and grading,FILM_4120_concepts_raw.json
+FILM_4120,concept,sound mixing and mastering,Sound Mixing and Mastering,1,inferred,sound mixing and mastering,FILM_4120_concepts_raw.json

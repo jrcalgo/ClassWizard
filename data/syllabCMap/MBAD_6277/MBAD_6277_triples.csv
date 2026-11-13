@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6277,social media and network analytics,method,PREREQUISITE_OF,social metrics and regression analysis,method,B mentioned first,,MBAD_6277_triples_raw.json
+MBAD_6277,social metrics and regression analysis,method,PREREQUISITE_OF,social segmentation and cluster analysis,method,A taught first,,MBAD_6277_triples_raw.json
+MBAD_6277,Social listening and text analytics,method,PREREQUISITE_OF,social metrics and regression analysis,method,A taught first,,MBAD_6277_triples_raw.json
+MBAD_6277,Social listening and text analytics,method,PREREQUISITE_OF,social segmentation and cluster analysis,method,A taught first,,MBAD_6277_triples_raw.json
+MBAD_6277,Social listening and text analytics,method,USED_FOR,social metrics and regression analysis,method,,,MBAD_6277_triples_raw.json
+MBAD_6277,Social listening and text analytics,method,USED_FOR,social segmentation and cluster analysis,method,,,MBAD_6277_triples_raw.json

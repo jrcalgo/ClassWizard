@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_3246,topic,File Storage Services,file storage services,2,verified,File Storage Services,ITIS_3246_concepts_raw.json
+ITIS_3246,topic,Security,Security,2,inferred,Introduction to Security,ITIS_3246_concepts_raw.json
+ITIS_3246,topic,System Hardening Basics,System Hardening Basics,1,inferred,System Hardening Basics,ITIS_3246_concepts_raw.json
+ITIS_3246,topic,Secured Access Fundamentals,Secured Access Fundamentals,1,inferred,Secured Access Fundamentals,ITIS_3246_concepts_raw.json
+ITIS_3246,topic,Network Service Design,Network Service Design,1,inferred,Network Service Design,ITIS_3246_concepts_raw.json
+ITIS_3246,topic,Advanced Network Configuration,Advanced Network Configuration,1,inferred,Advanced Network Configuration,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Importance of IT Security,Importance of IT Security,1,inferred,Importance of IT Security,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Types of Cyber Threats,Types of Cyber Threats,1,inferred,Types of Cyber Threats,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Understanding System Configuration,Understanding System Configuration,1,inferred,Understanding System Configuration,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Best Practices for Hardening,Best Practices for Hardening,1,inferred,Best Practices for Hardening,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Authentication Methods and Protocols,Authentication Methods and Protocols,1,inferred,Authentication Methods and Protocols,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Authorization and Access Control,Authorization and Access Control,1,inferred,Authorization and Access Control,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Types of File Storage Systems,Types of File Storage Systems,1,inferred,Types of File Storage Systems,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Configuring File Sharing Permissions,Configuring File Sharing Permissions,1,inferred,Configuring File Sharing Permissions,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Understanding Network Topology,Understanding Network Topology,1,inferred,Understanding Network Topology,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Designing Secure Network Architecture,Designing Secure Network Architecture,1,inferred,Designing Secure Network Architecture,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Configuring Firewalls and VPNs,Configuring Firewalls and VPNs,1,inferred,Configuring Firewalls and VPNs,ITIS_3246_concepts_raw.json
+ITIS_3246,concept,Implementing Load Balancing Techniques,Implementing Load Balancing Techniques,1,inferred,Implementing Load Balancing Techniques,ITIS_3246_concepts_raw.json

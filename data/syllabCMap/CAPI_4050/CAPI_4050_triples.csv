@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CAPI_4050,surveillance capitalism definition,concept,PREREQUISITE_OF,techno-feudalism concept introduction,concept,same unit,,CAPI_4050_triples_raw.json
+CAPI_4050,data extraction and control,concept,PREREQUISITE_OF,surveillance capitalism definition,concept,same unit,,CAPI_4050_triples_raw.json

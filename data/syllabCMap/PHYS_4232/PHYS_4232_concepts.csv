@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_4232,topic,Electromagnetic Waves,electromagnetic waves,2,verified,Electromagnetic Waves,PHYS_4232_concepts_raw.json
+PHYS_4232,topic,Conservation Laws,Conservation Laws,1,inferred,Conservation Laws,PHYS_4232_concepts_raw.json
+PHYS_4232,topic,Electromagnetic Potentials,Electromagnetic Potentials,1,inferred,Electromagnetic Potentials,PHYS_4232_concepts_raw.json
+PHYS_4232,topic,Fields and Forces,Fields and Forces,1,inferred,Fields and Forces,PHYS_4232_concepts_raw.json
+PHYS_4232,topic,Electromagnetic Radiation,Electromagnetic Radiation,1,inferred,Electromagnetic Radiation,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Electromagnetic Wave Propagation,Electromagnetic Wave Propagation,1,inferred,Electromagnetic Wave Propagation,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Charge Conservation Law,Charge Conservation Law,1,inferred,Charge Conservation Law,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Energy Conservation Law,Energy Conservation Law,1,inferred,Energy Conservation Law,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Momentum Conservation Law,Momentum Conservation Law,1,inferred,Momentum Conservation Law,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Scalar Potential Definition,Scalar Potential Definition,1,inferred,Scalar Potential Definition,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Vector Potential Definition,Vector Potential Definition,1,inferred,Vector Potential Definition,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Gauge Invariance,Gauge Invariance,1,inferred,Gauge Invariance,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Electric Field Lines,Electric Field Lines,1,inferred,Electric Field Lines,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Magnetic Field Lines,Magnetic Field Lines,1,inferred,Magnetic Field Lines,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Lorentz Force Equation,Lorentz Force Equation,1,inferred,Lorentz Force Equation,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Radiation Power Formula,Radiation Power Formula,1,inferred,Radiation Power Formula,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Poynting Vector Definition,Poynting Vector Definition,1,inferred,Poynting Vector Definition,PHYS_4232_concepts_raw.json
+PHYS_4232,concept,Energy Momentum Tensor,Energy Momentum Tensor,1,inferred,Energy Momentum Tensor,PHYS_4232_concepts_raw.json

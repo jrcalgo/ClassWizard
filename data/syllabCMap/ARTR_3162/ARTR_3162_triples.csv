@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTR_3162,Large Format Printing,topic,PREREQUISITE_OF,large-scale public artworks,concept,A taught first,,ARTR_3162_triples_raw.json
+ARTR_3162,Formal and Conceptual Development,topic,PREREQUISITE_OF,large-scale public artworks,concept,B taught first,B is taught before A - check,ARTR_3162_triples_raw.json
+ARTR_3162,Large Format Printing & Mixed Media,topic,PREREQUISITE_OF,large-scale public artworks,concept,B mentioned first,,ARTR_3162_triples_raw.json
+ARTR_3162,Traditional and Non-Traditional Substrates,topic,PREREQUISITE_OF,large-scale public artworks,concept,B taught first,B is taught before A - check,ARTR_3162_triples_raw.json
+ARTR_3162,Large Format Printing,topic,PART_OF,Large Format Printing & Mixed Media,topic,,,ARTR_3162_triples_raw.json
+ARTR_3162,Formal and Conceptual Development,topic,PART_OF,Large Format Printing & Mixed Media,topic,,,ARTR_3162_triples_raw.json
+ARTR_3162,large-scale public artworks,concept,PART_OF,Large Format Printing & Mixed Media,topic,,,ARTR_3162_triples_raw.json
+ARTR_3162,Traditional and Non-Traditional Substrates,topic,PART_OF,Large Format Printing & Mixed Media,topic,,,ARTR_3162_triples_raw.json
+ARTR_3162,Large Format Printing,topic,USED_FOR,large-scale public artworks,concept,,topic used for something - check direction,ARTR_3162_triples_raw.json

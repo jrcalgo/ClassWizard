@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6112,topic,Software Design Process,software design process,1,verified,Software Design Process,ITCS_6112_concepts_raw.json
+ITCS_6112,topic,Human Interface Aspects,human interface aspects,1,verified,Human Interface Aspects,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Modular and Structured Design,modular and structured design,1,verified,Modular and Structured Design,ITCS_6112_concepts_raw.json
+ITCS_6112,topic,Software Project Planning,Software Project Planning,1,inferred,Software Project Planning,ITCS_6112_concepts_raw.json
+ITCS_6112,topic,Software Development Methodologies,Software Development Methodologies,1,inferred,Software Development Methodologies,ITCS_6112_concepts_raw.json
+ITCS_6112,topic,Testing and Quality Assurance,Testing and Quality Assurance,1,inferred,Testing and Quality Assurance,ITCS_6112_concepts_raw.json
+ITCS_6112,topic,Software Documentation and Communication,Software Documentation and Communication,1,inferred,Software Documentation and Communication,ITCS_6112_concepts_raw.json
+ITCS_6112,topic,Language Selection and Implementation,Language Selection and Implementation,1,inferred,Language Selection and Implementation,ITCS_6112_concepts_raw.json
+ITCS_6112,topic,Software Project Management,Software Project Management,1,inferred,Software Project Management,ITCS_6112_concepts_raw.json
+ITCS_6112,topic,Professional Ethics and Responsibilities,Professional Ethics and Responsibilities,1,inferred,Professional Ethics and Responsibilities,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Project Scope Definition,Project Scope Definition,1,inferred,Project Scope Definition,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Software Requirements Gathering,Software Requirements Gathering,1,inferred,Software Requirements Gathering,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Risk Management Strategies,Risk Management Strategies,1,inferred,Risk Management Strategies,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Top-Down Design Methodology,Top-Down Design Methodology,1,inferred,Top-Down Design Methodology,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Design Patterns and Principles,Design Patterns and Principles,1,inferred,Design Patterns and Principles,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,User-Centered Design Approach,User-Centered Design Approach,1,inferred,User-Centered Design Approach,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Human Computer Interaction,Human Computer Interaction,1,inferred,Human Computer Interaction,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Usability Testing Techniques,Usability Testing Techniques,1,inferred,Usability Testing Techniques,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Agile Software Development,Agile Software Development,1,inferred,Agile Software Development,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Waterfall and V-Model,Waterfall and V-Model,1,inferred,Waterfall and V-Model,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Iterative and Incremental Approaches,Iterative and Incremental Approaches,1,inferred,Iterative and Incremental Approaches,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Unit Testing and Integration,Unit Testing and Integration,1,inferred,Unit Testing and Integration,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,System Testing and Validation,System Testing and Validation,1,inferred,System Testing and Validation,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Test-Driven Development,Test-Driven Development,1,inferred,Test-Driven Development,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Documentation Standards and Guidelines,Documentation Standards and Guidelines,1,inferred,Documentation Standards and Guidelines,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Technical Writing Principles,Technical Writing Principles,1,inferred,Technical Writing Principles,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Effective Communication Strategies,Effective Communication Strategies,1,inferred,Effective Communication Strategies,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Programming Language Features,Programming Language Features,1,inferred,Programming Language Features,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Language Comparison and Evaluation,Language Comparison and Evaluation,1,inferred,Language Comparison and Evaluation,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Code Optimization Techniques,Code Optimization Techniques,1,inferred,Code Optimization Techniques,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Project Scheduling and Tracking,Project Scheduling and Tracking,1,inferred,Project Scheduling and Tracking,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Resource Allocation and Planning,Resource Allocation and Planning,1,inferred,Resource Allocation and Planning,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Team Leadership and Collaboration,Team Leadership and Collaboration,1,inferred,Team Leadership and Collaboration,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Code of Conduct and Ethics,Code of Conduct and Ethics,1,inferred,Code of Conduct and Ethics,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Intellectual Property Rights,Intellectual Property Rights,1,inferred,Intellectual Property Rights,ITCS_6112_concepts_raw.json
+ITCS_6112,concept,Social Responsibility in Software Development,Social Responsibility in Software Development,1,inferred,Social Responsibility in Software Development,ITCS_6112_concepts_raw.json

@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCIP_6156,machine learning methods,concept,PREREQUISITE_OF,Python For Data Science,topic,A mentioned first,,HCIP_6156_triples_raw.json
+HCIP_6156,machine learning methods,concept,PART_OF,Applied Machine Learning,topic,,,HCIP_6156_triples_raw.json
+HCIP_6156,Python,tool,PART_OF,Python For Data Science,topic,,,HCIP_6156_triples_raw.json
+HCIP_6156,TensorFlow,tool,PART_OF,Applied Machine Learning,topic,,,HCIP_6156_triples_raw.json
+HCIP_6156,declarative knowledge,concept,PART_OF,organization of knowledge,concept,,,HCIP_6156_triples_raw.json
+HCIP_6156,development of new skills,concept,PART_OF,organization of knowledge,concept,,,HCIP_6156_triples_raw.json
+HCIP_6156,discovery of new facts and theories,concept,PART_OF,organization of knowledge,concept,,,HCIP_6156_triples_raw.json
+HCIP_6156,Python,tool,USED_FOR,Python For Data Science,topic,,,HCIP_6156_triples_raw.json

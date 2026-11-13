@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2233,eigenvalues,topic,PREREQUISITE_OF,eigenvectors,topic,same unit,,MEGR_2233_triples_raw.json
+MEGR_2233,matrix algebra,topic,PREREQUISITE_OF,linear systems,topic,B mentioned first,,MEGR_2233_triples_raw.json
+MEGR_2233,chemical bonding,topic,PREREQUISITE_OF,electrochemistry,topic,A taught first,,MEGR_2233_triples_raw.json
+MEGR_2233,Gaussian Elimination,method,PART_OF,LU Decomposition,method,,,MEGR_2233_triples_raw.json
+MEGR_2233,LU Factorization,method,PART_OF,LU Decomposition,method,,,MEGR_2233_triples_raw.json

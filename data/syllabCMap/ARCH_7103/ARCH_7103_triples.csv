@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_7103,Translational Health,concept,PREREQUISITE_OF,Innovation Center Design,concept,same unit,,ARCH_7103_triples_raw.json
+ARCH_7103,Translational Health,concept,PREREQUISITE_OF,Public-Private Gradient,concept,same unit,,ARCH_7103_triples_raw.json
+ARCH_7103,User Experience,concept,PREREQUISITE_OF,High-Performance Environments,concept,A taught first,,ARCH_7103_triples_raw.json
+ARCH_7103,Embodied Carbon,concept,USED_FOR,High-Performance Environments,concept,,,ARCH_7103_triples_raw.json

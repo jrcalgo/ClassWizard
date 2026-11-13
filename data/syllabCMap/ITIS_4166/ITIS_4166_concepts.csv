@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_4166,topic,backend development,backend development,1,verified,backend development,ITIS_4166_concepts_raw.json
+ITIS_4166,topic,Node.js,Node.js,1,verified,Introduction to Node.js,ITIS_4166_concepts_raw.json
+ITIS_4166,topic,Secure Authentication,secure authentication,1,verified,Secure Authentication,ITIS_4166_concepts_raw.json
+ITIS_4166,concept,asynchronous JavaScript,asynchronous JavaScript,1,verified,asynchronous JavaScript,ITIS_4166_concepts_raw.json
+ITIS_4166,concept,Node.js Runtime Concepts,Node.js Runtime Concepts,1,verified,Node.js Runtime Concepts,ITIS_4166_concepts_raw.json
+ITIS_4166,concept,Server-Side Applications,server-side applications,1,verified,Server-Side Applications,ITIS_4166_concepts_raw.json
+ITIS_4166,concept,Persistent Database Storage,persistent database storage,1,verified,Persistent Database Storage,ITIS_4166_concepts_raw.json
+ITIS_4166,method,API development,API development,1,verified,API development,ITIS_4166_concepts_raw.json
+ITIS_4166,method,secure authentication methods,secure authentication methods,1,verified,secure authentication methods,ITIS_4166_concepts_raw.json
+ITIS_4166,method,deployment strategies using containerization and continuous integration/deployment pipelines,deployment strategies using containerization and continuous integration/deployment pipelines,1,verified,deployment strategies using containerization and continuous integration/deployment pipelines,ITIS_4166_concepts_raw.json
+ITIS_4166,tool,Postman,Postman,1,verified,Postman,ITIS_4166_concepts_raw.json
+ITIS_4166,tool,Swagger (OpenAPI,Swagger (OpenAPI,1,verified,Swagger (OpenAPI),ITIS_4166_concepts_raw.json

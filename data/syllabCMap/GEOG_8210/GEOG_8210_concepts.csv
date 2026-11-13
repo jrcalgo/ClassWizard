@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_8210,topic,Restructuring City,Restructuring City,1,verified,The Restructuring City,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Global and Local Changes,global and local changes,1,verified,Global and Local Changes,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Urban Transformation Processes,Urban Transformation Processes,1,inferred,Urban Transformation Processes,GEOG_8210_concepts_raw.json
+GEOG_8210,topic,"Economic, Social, State Factors","Economic, Social, State Factors",1,inferred,"Economic, Social, State Factors",GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Neoliberalism and Urbanization,Neoliberalism and Urbanization,1,inferred,Neoliberalism and Urbanization,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Post-Fordist Urban Development,Post-Fordist Urban Development,1,inferred,Post-Fordist Urban Development,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Global City Hypothesis,Global City Hypothesis,1,inferred,Global City Hypothesis,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Economic Downturn and Upturn,Economic Downturn and Upturn,1,inferred,Economic Downturn and Upturn,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,State Policy and Intervention,State Policy and Intervention,1,inferred,State Policy and Intervention,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Social Change and Migration,Social Change and Migration,1,inferred,Social Change and Migration,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Inequality and Social Exclusion,Inequality and Social Exclusion,1,inferred,Inequality and Social Exclusion,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Urban Fragmentation and Gentrification,Urban Fragmentation and Gentrification,1,inferred,Urban Fragmentation and Gentrification,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Environmental Degradation,Environmental Degradation,1,inferred,Environmental Degradation,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Sustainable Urban Development,Sustainable Urban Development,1,inferred,Sustainable Urban Development,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Equitable Access to Resources,Equitable Access to Resources,1,inferred,Equitable Access to Resources,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Participatory Governance Models,Participatory Governance Models,1,inferred,Participatory Governance Models,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Research Design and Methodology,Research Design and Methodology,1,inferred,Research Design and Methodology,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Critical Evaluation of Theories,Critical Evaluation of Theories,1,inferred,Critical Evaluation of Theories,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Writing for Academic Audiences,Writing for Academic Audiences,1,inferred,Writing for Academic Audiences,GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Economic,Economic,2,inferred,"Economic, Social, State Factors",GEOG_8210_concepts_raw.json
+GEOG_8210,concept,Social,Social,3,inferred,"Economic, Social, State Factors",GEOG_8210_concepts_raw.json
+GEOG_8210,concept,State Factors,State Factors,1,inferred,"Economic, Social, State Factors",GEOG_8210_concepts_raw.json

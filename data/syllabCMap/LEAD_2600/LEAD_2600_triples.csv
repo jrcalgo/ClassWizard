@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEAD_2600,Innovative Thinking Fundamentals,topic,PART_OF,LEADS Foundations,topic,,,LEAD_2600_triples_raw.json
+LEAD_2600,career skills development,concept,USED_FOR,self-assessment of strengths and weaknesses,concept,,,LEAD_2600_triples_raw.json
+LEAD_2600,career skills development,concept,USED_FOR,creating a personal development plan,concept,,,LEAD_2600_triples_raw.json
+LEAD_2600,solution-focused approach to problems,concept,USED_FOR,evidence-driven decision making,concept,,,LEAD_2600_triples_raw.json

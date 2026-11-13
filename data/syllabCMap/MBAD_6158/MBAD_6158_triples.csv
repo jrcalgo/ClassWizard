@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6158,real estate space and capital markets,concept,PART_OF,determining the financial feasibility of real estate development,topic,,,MBAD_6158_triples_raw.json
+MBAD_6158,techniques of financial analysis and valuation,concept,USED_FOR,determining the financial feasibility of real estate development,topic,,,MBAD_6158_triples_raw.json

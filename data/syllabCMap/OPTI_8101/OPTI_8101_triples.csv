@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPTI_8101,Mathematical Fundamentals,topic,PART_OF,Differential Equations,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Mathematical Fundamentals,topic,PART_OF,Linear Algebra Techniques,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Mathematical Fundamentals,topic,PART_OF,Vector Analysis,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Optical Physics Applications,topic,PART_OF,Vector Analysis,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Ordinary Differential Equations,concept,PART_OF,Differential Equations,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Partial Differential Equations,concept,PART_OF,Differential Equations,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Separable Differential Equations,concept,PART_OF,Differential Equations,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Eigenvalue Problems,concept,PART_OF,Linear Algebra Techniques,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Matrix Operations Review,concept,PART_OF,Linear Algebra Techniques,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Determinant Calculations,concept,PART_OF,Linear Algebra Techniques,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Gradient and Divergence Theorems,concept,PART_OF,Vector Analysis,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Vector Identities and Formulas,concept,PART_OF,Vector Analysis,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Wave Propagation Equations,concept,PART_OF,Optical Physics Applications,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Vector Calculus Basics,concept,USED_FOR,Vector Analysis,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Linear Algebra Review,concept,USED_FOR,Linear Algebra Techniques,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Ordinary Differential Equations,concept,USED_FOR,Differential Equations,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Partial Differential Equations,concept,USED_FOR,Differential Equations,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Separable Differential Equations,concept,USED_FOR,Differential Equations,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Eigenvalue Problems,concept,USED_FOR,Linear Algebra Techniques,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Matrix Operations Review,concept,USED_FOR,Linear Algebra Techniques,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Determinant Calculations,concept,USED_FOR,Linear Algebra Techniques,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Gradient and Divergence Theorems,concept,USED_FOR,Vector Analysis,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Vector Identities and Formulas,concept,USED_FOR,Vector Analysis,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Wave Propagation Equations,concept,USED_FOR,Optical Physics Applications,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Diffraction Theory Basics,concept,USED_FOR,Optical Physics Applications,topic,,,OPTI_8101_triples_raw.json
+OPTI_8101,Interference Patterns Analysis,concept,USED_FOR,Optical Physics Applications,topic,,,OPTI_8101_triples_raw.json

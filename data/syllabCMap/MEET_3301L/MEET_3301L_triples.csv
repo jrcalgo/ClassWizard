@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_3301L,brittle coating technique,concept,PART_OF,Materials Testing Equipment,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,photoelasticity principles,concept,PART_OF,Stress Analysis Laboratory,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,electrical-resistance strain gages,concept,PART_OF,Materials Testing Equipment,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,fracture analysis and interpretation,concept,PART_OF,Brittle Coating Experiment,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,results presentation and discussion,concept,PART_OF,Data Collection and Reduction,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,photoelasticity principles,concept,USED_FOR,Photoelasticity Experiment,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,electrical-resistance strain gages,concept,USED_FOR,Data Collection and Reduction,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,data acquisition techniques,concept,USED_FOR,Data Collection and Reduction,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,fracture analysis and interpretation,concept,USED_FOR,Brittle Coating Experiment,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,results presentation and discussion,concept,USED_FOR,Memo Reports and Analysis,topic,,,MEET_3301L_triples_raw.json
+MEET_3301L,memo report format and content,concept,USED_FOR,Memo Reports and Analysis,topic,,,MEET_3301L_triples_raw.json

@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TRAN_6601,Horace's Translation Theory,concept,PREREQUISITE_OF,Cicero's Rhetorical Approach,concept,same unit,,TRAN_6601_triples_raw.json
+TRAN_6601,Ancient Roots,topic,PREREQUISITE_OF,Medieval Period,topic,A taught first,,TRAN_6601_triples_raw.json
+TRAN_6601,Medieval Period,topic,PREREQUISITE_OF,Renaissance to Enlightenment,topic,A taught first,,TRAN_6601_triples_raw.json
+TRAN_6601,Renaissance to Enlightenment,topic,PREREQUISITE_OF,Romanticism and Beyond,topic,A taught first,,TRAN_6601_triples_raw.json
+TRAN_6601,Horace's Translation Theory,concept,PART_OF,Theories of translation from Horace and Cicero to the present,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,Thomas Aquinas' Views on Translation,concept,PART_OF,Medieval Period,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,William Tyndale's Bible Translations,concept,PART_OF,Renaissance to Enlightenment,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,John Locke's Empiricism and Translation,concept,PART_OF,Renaissance to Enlightenment,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,Friedrich Schleiermacher's Theory,concept,PART_OF,Romanticism and Beyond,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,Roman Jakobson's Structuralism,concept,PART_OF,Structuralism and Post-Structuralism,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,Foucault's Power Dynamics in Translation,concept,PART_OF,Structuralism and Post-Structuralism,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,Gideon Toury's Descriptive Approach,concept,PART_OF,Descriptive Translation Studies,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,Peter Newmark's Communicative Approach,concept,PART_OF,Skopos Theory and Beyond,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,Translation Quality Assessment Metrics,concept,PART_OF,Translation Technologies and Ethics,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,Gideon Toury's Descriptive Approach,concept,USED_FOR,Descriptive Translation Studies,topic,,,TRAN_6601_triples_raw.json
+TRAN_6601,Hans Vermeer's Skopos Theory,concept,USED_FOR,Skopos Theory and Beyond,topic,,,TRAN_6601_triples_raw.json

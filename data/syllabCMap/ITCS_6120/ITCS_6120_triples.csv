@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_6120,Vector,concept,PART_OF,vector and math operations,concept,,,ITCS_6120_triples_raw.json
+ITCS_6120,graphics applications,concept,PART_OF,Computer Graphics,topic,,,ITCS_6120_triples_raw.json
+ITCS_6120,Global Illumination Algorithms,topic,SUBTYPE_OF,global illumination model,concept,,,ITCS_6120_triples_raw.json

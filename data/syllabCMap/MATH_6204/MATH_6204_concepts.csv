@@ -1,0 +1,40 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_6204,concept,Financial Derivatives Pricing,Financial Derivatives Pricing,1,inferred,Financial Derivatives Pricing,MATH_6204_concepts_raw.json
+MATH_6204,topic,Numerical Methods,Numerical Methods,1,inferred,Numerical Methods,MATH_6204_concepts_raw.json
+MATH_6204,topic,Computational Finance Applications,Computational Finance Applications,1,inferred,Computational Finance Applications,MATH_6204_concepts_raw.json
+MATH_6204,concept,Finite Difference Schemes,Finite Difference Schemes,1,inferred,Finite Difference Schemes,MATH_6204_concepts_raw.json
+MATH_6204,concept,Boundary Conditions Treatment,Boundary Conditions Treatment,1,inferred,Boundary Conditions Treatment,MATH_6204_concepts_raw.json
+MATH_6204,concept,Stability and Convergence Analysis,Stability and Convergence Analysis,1,inferred,Stability and Convergence Analysis,MATH_6204_concepts_raw.json
+MATH_6204,concept,Random Number Generation,Random Number Generation,1,inferred,Random Number Generation,MATH_6204_concepts_raw.json
+MATH_6204,concept,Importance Sampling Techniques,Importance Sampling Techniques,1,inferred,Importance Sampling Techniques,MATH_6204_concepts_raw.json
+MATH_6204,concept,Variance Reduction Methods,Variance Reduction Methods,1,inferred,Variance Reduction Methods,MATH_6204_concepts_raw.json
+MATH_6204,topic,Weak Formulation Overview,Weak Formulation Overview,1,inferred,Weak Formulation Overview,MATH_6204_concepts_raw.json
+MATH_6204,concept,Galerkin Finite Elements,Galerkin Finite Elements,1,inferred,Galerkin Finite Elements,MATH_6204_concepts_raw.json
+MATH_6204,topic,Boundary Value Problems Solution,Boundary Value Problems Solution,1,inferred,Boundary Value Problems Solution,MATH_6204_concepts_raw.json
+MATH_6204,method,Black-Scholes Model Derivation,Black-Scholes Model Derivation,1,inferred,Black-Scholes Model Derivation,MATH_6204_concepts_raw.json
+MATH_6204,concept,Binomial Tree Model,Binomial Tree Model,1,inferred,Binomial Tree Model,MATH_6204_concepts_raw.json
+MATH_6204,method,American Option Pricing Methods,American Option Pricing Methods,1,inferred,American Option Pricing Methods,MATH_6204_concepts_raw.json
+MATH_6204,method,Value-at-Risk (VaR) Calculation,Value-at-Risk (VaR) Calculation,1,inferred,Value-at-Risk (VaR) Calculation,MATH_6204_concepts_raw.json
+MATH_6204,method,Expected Shortfall (ES) Estimation,Expected Shortfall (ES) Estimation,1,inferred,Expected Shortfall (ES) Estimation,MATH_6204_concepts_raw.json
+MATH_6204,method,Hedging Strategies Implementation,Hedging Strategies Implementation,1,inferred,Hedging Strategies Implementation,MATH_6204_concepts_raw.json
+MATH_6204,concept,Brownian Motion Properties,Brownian Motion Properties,1,inferred,Brownian Motion Properties,MATH_6204_concepts_raw.json
+MATH_6204,topic,Ito's Lemma Application,Ito's Lemma Application,1,inferred,Ito's Lemma Application,MATH_6204_concepts_raw.json
+MATH_6204,concept,Stochastic Differential Equations,Stochastic Differential Equations,1,inferred,Stochastic Differential Equations,MATH_6204_concepts_raw.json
+MATH_6204,method,Matrix Factorization Techniques,Matrix Factorization Techniques,1,inferred,Matrix Factorization Techniques,MATH_6204_concepts_raw.json
+MATH_6204,method,Eigenvalue and Eigenvector Computation,Eigenvalue and Eigenvector Computation,1,inferred,Eigenvalue and Eigenvector Computation,MATH_6204_concepts_raw.json
+MATH_6204,topic,Linear System Solvers Overview,Linear System Solvers Overview,1,inferred,Linear System Solvers Overview,MATH_6204_concepts_raw.json
+MATH_6204,topic,Programming Languages for Finance,Programming Languages for Finance,1,inferred,Programming Languages for Finance,MATH_6204_concepts_raw.json
+MATH_6204,topic,Numerical Library Usage,Numerical Library Usage,1,inferred,Numerical Library Usage,MATH_6204_concepts_raw.json
+MATH_6204,topic,Code Optimization Strategies,Code Optimization Strategies,1,inferred,Code Optimization Strategies,MATH_6204_concepts_raw.json
+MATH_6204,concept,Weak Formulation,Weak Formulation,1,inferred,Weak Formulation,MATH_6204_concepts_raw.json
+MATH_6204,concept,Black-Scholes Model,Black-Scholes Model,1,inferred,Black-Scholes Model,MATH_6204_concepts_raw.json
+MATH_6204,concept,American Option Pricing,American Option Pricing,1,inferred,American Option Pricing,MATH_6204_concepts_raw.json
+MATH_6204,concept,Value-at-Risk (VaR,Value-at-Risk (VaR,1,inferred,Value-at-Risk (VaR),MATH_6204_concepts_raw.json
+MATH_6204,concept,Expected Shortfall (ES,Expected Shortfall (ES,1,inferred,Expected Shortfall (ES),MATH_6204_concepts_raw.json
+MATH_6204,concept,Hedging Strategies,Hedging Strategies,1,inferred,Hedging Strategies,MATH_6204_concepts_raw.json
+MATH_6204,concept,Ito's Lemma,Ito's Lemma,1,inferred,Ito's Lemma,MATH_6204_concepts_raw.json
+MATH_6204,method,Finite Difference Methods,Finite Difference Methods,1,inferred,Finite Difference Methods,MATH_6204_concepts_raw.json
+MATH_6204,method,Monte Carlo Simulations,Monte Carlo Simulations,1,inferred,Monte Carlo Simulations,MATH_6204_concepts_raw.json
+MATH_6204,method,Finite Element Methods,Finite Element Methods,1,inferred,Finite Element Methods,MATH_6204_concepts_raw.json
+MATH_6204,method,Binomial Tree Model Overview,Binomial Tree Model Overview,1,inferred,Binomial Tree Model Overview,MATH_6204_concepts_raw.json
+MATH_6204,method,Linear System Solvers,Linear System Solvers,1,inferred,Linear System Solvers,MATH_6204_concepts_raw.json

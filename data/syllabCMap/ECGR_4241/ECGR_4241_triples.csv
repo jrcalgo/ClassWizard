@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4241,Team Formation Process,concept,PART_OF,Project Formation,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Client Project Briefing,concept,PART_OF,Project Formation,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Project Scope Definition,concept,PART_OF,Project Formation,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Engineering Design Principles,concept,PART_OF,Design Philosophy,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Design Standards and Guidelines,concept,PART_OF,Design Philosophy,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Research Methods for Engineers,concept,PART_OF,Design Philosophy,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Collaborative Problem Solving,concept,PART_OF,Team Problem-Solving,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Conflict Resolution Strategies,concept,PART_OF,Team Problem-Solving,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Effective Communication Skills,concept,PART_OF,Team Problem-Solving,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Time and Financial Planning,concept,PART_OF,Project Management,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Resource Allocation Techniques,concept,PART_OF,Project Management,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Risk Management Strategies,concept,PART_OF,Project Management,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Interpersonal Communication Skills,concept,PART_OF,Social Engineering,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Cultural Awareness and Sensitivity,concept,PART_OF,Social Engineering,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Team Building Activities,concept,PART_OF,Social Engineering,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Work Breakdown Structure,concept,PART_OF,Project Execution,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Task Scheduling Methods,concept,PART_OF,Project Execution,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Quality Control Procedures,concept,PART_OF,Project Execution,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Progress Monitoring Techniques,concept,PART_OF,Progress Evaluations,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Adjustment and Improvement Strategies,concept,PART_OF,Progress Evaluations,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Design Package Development,concept,PART_OF,Final Report Preparation,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Technical Writing Skills,concept,PART_OF,Final Report Preparation,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Presentation Techniques,concept,PART_OF,Expo Presentation,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Effective Communication Strategies,concept,PART_OF,Expo Presentation,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Visual Aids and Presentations,concept,PART_OF,Expo Presentation,topic,,,ECGR_4241_triples_raw.json
+ECGR_4241,Performance Metrics and Indicators,measure,USED_FOR,Project Management,topic,,,ECGR_4241_triples_raw.json

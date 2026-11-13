@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITLN_1202,Italian Culture Overview,topic,PREREQUISITE_OF,Listening Comprehension,topic,A taught first,,ITLN_1202_triples_raw.json
+ITLN_1202,Italian Culture Overview,topic,PREREQUISITE_OF,Building Vocabulary,topic,A taught first,,ITLN_1202_triples_raw.json
+ITLN_1202,Italian Culture Overview,topic,PREREQUISITE_OF,Speaking and Communication,topic,A taught first,,ITLN_1202_triples_raw.json
+ITLN_1202,Italian Culture Overview,topic,PREREQUISITE_OF,Reading Comprehension,topic,A taught first,,ITLN_1202_triples_raw.json
+ITLN_1202,Italian Culture Overview,topic,PREREQUISITE_OF,Writing Skills Development,topic,A taught first,,ITLN_1202_triples_raw.json
+ITLN_1202,Geography of Italy,concept,PART_OF,Modern Italian Culture,concept,,,ITLN_1202_triples_raw.json
+ITLN_1202,Basic Phrases and Expressions,concept,PART_OF,Building Vocabulary,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Common Verbs and Tenses,concept,PART_OF,Building Vocabulary,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Useful Idiomatic Language,concept,PART_OF,Building Vocabulary,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Understanding Main Ideas,concept,PART_OF,Listening Comprehension,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Grasping Contextual Meaning,concept,PART_OF,Listening Comprehension,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Recognizing Key Vocabulary,concept,PART_OF,Listening Comprehension,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Basic Conversation Skills,concept,PART_OF,Speaking and Communication,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Developing Fluency and Accuracy,concept,PART_OF,Speaking and Communication,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Understanding Written Texts,concept,PART_OF,Reading Comprehension,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Identifying Key Information,concept,PART_OF,Reading Comprehension,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Analyzing Contextual Meaning,concept,PART_OF,Reading Comprehension,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Basic Writing Techniques,concept,PART_OF,Writing Skills Development,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Developing Coherence and Clarity,concept,PART_OF,Writing Skills Development,topic,,,ITLN_1202_triples_raw.json
+ITLN_1202,Correct Grammar and Spelling,concept,PART_OF,Writing Skills Development,topic,,,ITLN_1202_triples_raw.json

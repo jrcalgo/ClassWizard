@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_6210,topic,Mathematical Fundamentals,Mathematical Fundamentals,1,inferred,Mathematical Fundamentals,PHYS_6210_concepts_raw.json
+PHYS_6210,topic,Differential Equations,Differential Equations,4,inferred,Differential Equations,PHYS_6210_concepts_raw.json
+PHYS_6210,topic,Linear Algebra Techniques,Linear Algebra Techniques,1,inferred,Linear Algebra Techniques,PHYS_6210_concepts_raw.json
+PHYS_6210,topic,Optical Physics Methods,Optical Physics Methods,1,inferred,Optical Physics Methods,PHYS_6210_concepts_raw.json
+PHYS_6210,topic,Integral Transforms,Integral Transforms,1,inferred,Integral Transforms,PHYS_6210_concepts_raw.json
+PHYS_6210,topic,Special Functions and Series,Special Functions and Series,1,inferred,Special Functions and Series,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Vector Calculus Basics,Vector Calculus Basics,1,inferred,Vector Calculus Basics,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Linear Algebra Review,Linear Algebra Review,1,inferred,Linear Algebra Review,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Calculus Notation Systems,Calculus Notation Systems,1,inferred,Calculus Notation Systems,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Ordinary Differential Equations,Ordinary Differential Equations,1,inferred,Ordinary Differential Equations,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Partial Differential Equations,Partial Differential Equations,1,inferred,Partial Differential Equations,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Separable Differential Equations,Separable Differential Equations,1,inferred,Separable Differential Equations,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Eigenvalue Problems,Eigenvalue Problems,1,inferred,Eigenvalue Problems,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Matrix Diagonalization,Matrix Diagonalization,1,inferred,Matrix Diagonalization,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Vector Space Operations,Vector Space Operations,1,inferred,Vector Space Operations,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Wave Equation Solutions,Wave Equation Solutions,1,inferred,Wave Equation Solutions,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Fourier Transform Applications,Fourier Transform Applications,1,inferred,Fourier Transform Applications,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Helmholtz Equation Derivations,Helmholtz Equation Derivations,1,inferred,Helmholtz Equation Derivations,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Laplace Transform Properties,Laplace Transform Properties,1,inferred,Laplace Transform Properties,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Fourier Integral Theorem,Fourier Integral Theorem,1,inferred,Fourier Integral Theorem,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Convolution Theorems,Convolution Theorems,1,inferred,Convolution Theorems,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Bessel Function Derivations,Bessel Function Derivations,1,inferred,Bessel Function Derivations,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Legendre Polynomial Expansions,Legendre Polynomial Expansions,1,inferred,Legendre Polynomial Expansions,PHYS_6210_concepts_raw.json
+PHYS_6210,concept,Taylor Series Convergence,Taylor Series Convergence,1,inferred,Taylor Series Convergence,PHYS_6210_concepts_raw.json

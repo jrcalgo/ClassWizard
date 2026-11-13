@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_1502,concept,interconnected world,interconnected world,1,verified,interconnected world,MUSC_1502_concepts_raw.json
+MUSC_1502,concept,social,social,1,verified,"social, cultural, political influences",MUSC_1502_concepts_raw.json
+MUSC_1502,concept,cultural,cultural,3,verified,"social, cultural, political influences",MUSC_1502_concepts_raw.json
+MUSC_1502,concept,global citizenship,Global Citizenship,1,inferred,global citizenship,MUSC_1502_concepts_raw.json
+MUSC_1502,concept,music and culture,Music and Culture,1,inferred,music and culture,MUSC_1502_concepts_raw.json
+MUSC_1502,concept,cultural contexts of music,Cultural Contexts of Music,1,inferred,cultural contexts of music,MUSC_1502_concepts_raw.json
+MUSC_1502,topic,"Social, Cultural, Political Influences","Social, Cultural, Political Influences",1,inferred,"Social, Cultural, Political Influences",MUSC_1502_concepts_raw.json
+MUSC_1502,concept,musical trends and styles,Musical Trends and Styles,1,inferred,musical trends and styles,MUSC_1502_concepts_raw.json
+MUSC_1502,concept,music shapes society,Music Shapes Society,1,inferred,music shapes society,MUSC_1502_concepts_raw.json
+MUSC_1502,concept,music reflects culture,Music Reflects Culture,1,inferred,music reflects culture,MUSC_1502_concepts_raw.json
+MUSC_1502,concept,music critiques society,Music Critiques Society,1,inferred,music critiques society,MUSC_1502_concepts_raw.json
+MUSC_1502,topic,Global Music Genres and Trends,Global Music Genres and Trends,1,inferred,Global Music Genres and Trends,MUSC_1502_concepts_raw.json
+MUSC_1502,topic,Musical Styles Across Cultures,Musical Styles Across Cultures,1,inferred,Musical Styles Across Cultures,MUSC_1502_concepts_raw.json
+MUSC_1502,topic,Historical Development of Music,Historical Development of Music,1,inferred,Historical Development of Music,MUSC_1502_concepts_raw.json
+MUSC_1502,topic,Sub-Cultural Musical Expression,Sub-Cultural Musical Expression,1,inferred,Sub-Cultural Musical Expression,MUSC_1502_concepts_raw.json
+MUSC_1502,concept,political influences,Political Influences,1,inferred,"social, cultural, political influences",MUSC_1502_concepts_raw.json
+MUSC_1502,concept,artists' perspectives on music,Artists' Perspectives on Music,1,inferred,artists' perspectives on music,MUSC_1502_concepts_raw.json
+MUSC_1502,concept,audience responses to music,Audience Responses to Music,1,inferred,audience responses to music,MUSC_1502_concepts_raw.json
+MUSC_1502,concept,community influences on music,Community Influences on Music,1,inferred,community influences on music,MUSC_1502_concepts_raw.json

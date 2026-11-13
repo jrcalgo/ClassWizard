@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_6230,policies,topic,PREREQUISITE_OF,techniques,topic,A taught first,,ITIS_6230_triples_raw.json
+ITIS_6230,processes and methodologies for risk assessment and management,topic,PREREQUISITE_OF,infrastructure reconnaissance and vulnerability analysis,topic,B mentioned first,,ITIS_6230_triples_raw.json
+ITIS_6230,Prevent-Detect-Response Strategy,concept,PART_OF,prevent-detect-response strategy for enterprise security,topic,,,ITIS_6230_triples_raw.json
+ITIS_6230,policies,topic,PART_OF,Information Infrastructure Protection,topic,,,ITIS_6230_triples_raw.json
+ITIS_6230,techniques,topic,PART_OF,Information Infrastructure Protection,topic,,,ITIS_6230_triples_raw.json
+ITIS_6230,processes and methodologies for risk assessment and management,topic,PART_OF,Information Infrastructure Protection,topic,,,ITIS_6230_triples_raw.json
+ITIS_6230,infrastructure reconnaissance and vulnerability analysis,topic,PART_OF,Information Infrastructure Protection,topic,,,ITIS_6230_triples_raw.json
+ITIS_6230,forensics,topic,PART_OF,Information Infrastructure Protection,topic,,,ITIS_6230_triples_raw.json
+ITIS_6230,methodologies for continuous operation and recovery from disasters,topic,PART_OF,Information Infrastructure Protection,topic,,,ITIS_6230_triples_raw.json

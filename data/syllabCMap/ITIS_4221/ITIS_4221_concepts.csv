@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_4221,topic,secure programming practices,secure-programming practices,1,verified,secure programming practices,ITIS_4221_concepts_raw.json
+ITIS_4221,method,static code analysis,static code analysis,2,verified,static code analysis,ITIS_4221_concepts_raw.json
+ITIS_4221,method,dynamic application security testing,dynamic application security testing,1,verified,dynamic application security testing,ITIS_4221_concepts_raw.json
+ITIS_4221,topic,defense in depth,defense in depth,1,verified,defense in depth,ITIS_4221_concepts_raw.json
+ITIS_4221,topic,ethical security assessments,ethical security assessments,1,verified,ethical security assessments,ITIS_4221_concepts_raw.json
+ITIS_4221,topic,logging and monitoring,logging and monitoring,1,verified,logging and monitoring,ITIS_4221_concepts_raw.json
+ITIS_4221,topic,remediation and validation,remediation and validation,1,verified,remediation and validation,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,cross-site scripting,cross-site scripting,1,verified,cross-site scripting,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,session attacks,session attacks,1,verified,session attacks,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,buffer overflows,buffer overflows,1,verified,buffer overflows,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,input validation,input validation,1,verified,input validation,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,context-appropriate output encoding,context-appropriate output encoding,1,verified,context-appropriate output encoding,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,data sanitization,data sanitization,1,verified,data sanitization,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,strong authentication,strong authentication,1,verified,strong authentication,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,access control,access-control,2,verified,access control,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,OWASP Top 10 vulnerability classes,OWASP Top 10 vulnerability classes,1,verified,OWASP Top 10 vulnerability classes,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,least privilege,least privilege,1,verified,least privilege,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,separation of domains,separation of domains,1,verified,separation of domains,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,threat modeling,threat modeling,1,verified,threat modeling,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,authorized HTB work,Authorized HTB work,1,verified,authorized HTB work,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,responsible disclosure practices,responsible-disclosure practices,1,verified,responsible disclosure practices,ITIS_4221_concepts_raw.json
+ITIS_4221,concept,security logging and monitoring,security logging and monitoring,1,verified,security logging and monitoring,ITIS_4221_concepts_raw.json
+ITIS_4221,method,penetration testing,penetration testing,2,verified,penetration testing,ITIS_4221_concepts_raw.json
+ITIS_4221,method,remediation,remediation,3,verified,remediation,ITIS_4221_concepts_raw.json
+ITIS_4221,method,validation,validation,2,verified,validation,ITIS_4221_concepts_raw.json
+ITIS_4221,method,reproducible evidence,reproducible evidence,1,verified,reproducible evidence,ITIS_4221_concepts_raw.json
+ITIS_4221,tool,Chromium-based browser,Chromium-based browser,1,verified,Chromium-based browser,ITIS_4221_concepts_raw.json
+ITIS_4221,tool,word processor,word processor,1,verified,word processor,ITIS_4221_concepts_raw.json
+ITIS_4221,tool,virtualization platform,virtualization platform,1,verified,virtualization platform,ITIS_4221_concepts_raw.json
+ITIS_4221,tool,Hack The Box (HTB) Academy,Hack The Box (HTB) Academy,1,verified,Hack The Box (HTB) Academy,ITIS_4221_concepts_raw.json

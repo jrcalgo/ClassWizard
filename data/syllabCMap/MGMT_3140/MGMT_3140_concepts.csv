@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MGMT_3140,topic,Management & Organizational Behavior,Management & Organizational Behavior,1,verified,Management & Organizational Behavior,MGMT_3140_concepts_raw.json
+MGMT_3140,topic,Management,Management,1,verified,Introduction to Management,MGMT_3140_concepts_raw.json
+MGMT_3140,topic,Organizational Behavior Theories,Organizational Behavior Theories,1,inferred,Organizational Behavior Theories,MGMT_3140_concepts_raw.json
+MGMT_3140,topic,Motivation and Job Satisfaction,Motivation and Job Satisfaction,1,inferred,Motivation and Job Satisfaction,MGMT_3140_concepts_raw.json
+MGMT_3140,topic,Leadership Styles and Traits,Leadership Styles and Traits,1,inferred,Leadership Styles and Traits,MGMT_3140_concepts_raw.json
+MGMT_3140,topic,Communication in Organizations,Communication in Organizations,1,inferred,Communication in Organizations,MGMT_3140_concepts_raw.json
+MGMT_3140,topic,Team Dynamics and Conflict,Team Dynamics and Conflict,1,inferred,Team Dynamics and Conflict,MGMT_3140_concepts_raw.json
+MGMT_3140,topic,Organizational Culture and Change,Organizational Culture and Change,1,inferred,Organizational Culture and Change,MGMT_3140_concepts_raw.json
+MGMT_3140,topic,Power and Politics in Organizations,Power and Politics in Organizations,1,inferred,Power and Politics in Organizations,MGMT_3140_concepts_raw.json
+MGMT_3140,topic,Ethics and Social Responsibility,Ethics and Social Responsibility,1,inferred,Ethics and Social Responsibility,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Management Definition and Scope,Management Definition and Scope,1,inferred,Management Definition and Scope,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Importance of Effective Management,Importance of Effective Management,1,inferred,Importance of Effective Management,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Managerial Roles and Responsibilities,Managerial Roles and Responsibilities,1,inferred,Managerial Roles and Responsibilities,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Classical Theory of Management,Classical Theory of Management,1,inferred,Classical Theory of Management,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Human Relations Approach Overview,Human Relations Approach Overview,1,inferred,Human Relations Approach Overview,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Contingency Theory Basics,Contingency Theory Basics,1,inferred,Contingency Theory Basics,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Maslow's Hierarchy of Needs,Maslow's Hierarchy of Needs,1,inferred,Maslow's Hierarchy of Needs,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,McClelland's Acquired Needs Theory,McClelland's Acquired Needs Theory,1,inferred,McClelland's Acquired Needs Theory,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Expectancy Theory Fundamentals,Expectancy Theory Fundamentals,1,inferred,Expectancy Theory Fundamentals,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Autocratic Leadership Characteristics,Autocratic Leadership Characteristics,1,inferred,Autocratic Leadership Characteristics,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Democratic Leadership Approaches,Democratic Leadership Approaches,1,inferred,Democratic Leadership Approaches,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Transformational Leadership Theories,Transformational Leadership Theories,1,inferred,Transformational Leadership Theories,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Verbal and Nonverbal Communication,Verbal and Nonverbal Communication,1,inferred,Verbal and Nonverbal Communication,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Barriers to Effective Communication,Barriers to Effective Communication,1,inferred,Barriers to Effective Communication,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Active Listening Techniques,Active Listening Techniques,1,inferred,Active Listening Techniques,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Group Formation and Development,Group Formation and Development,1,inferred,Group Formation and Development,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Conflict Resolution Strategies,Conflict Resolution Strategies,1,inferred,Conflict Resolution Strategies,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Collaborative Teamwork Principles,Collaborative Teamwork Principles,1,inferred,Collaborative Teamwork Principles,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Culture Definition and Importance,Culture Definition and Importance,1,inferred,Culture Definition and Importance,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Change Management Process Overview,Change Management Process Overview,1,inferred,Change Management Process Overview,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Resistance to Organizational Change,Resistance to Organizational Change,1,inferred,Resistance to Organizational Change,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Sources of Power in Organizations,Sources of Power in Organizations,1,inferred,Sources of Power in Organizations,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Types of Power Relationships,Types of Power Relationships,1,inferred,Types of Power Relationships,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Influence Tactics and Strategies,Influence Tactics and Strategies,1,inferred,Influence Tactics and Strategies,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Business Ethics Fundamentals,Business Ethics Fundamentals,1,inferred,Business Ethics Fundamentals,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Social Responsibility Theories,Social Responsibility Theories,1,inferred,Social Responsibility Theories,MGMT_3140_concepts_raw.json
+MGMT_3140,concept,Corporate Governance Best Practices,Corporate Governance Best Practices,1,inferred,Corporate Governance Best Practices,MGMT_3140_concepts_raw.json

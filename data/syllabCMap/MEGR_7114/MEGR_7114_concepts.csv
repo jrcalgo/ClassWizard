@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_7114,topic,Fluid Mechanics,Fluid Mechanics,1,verified,Fluid Mechanics,MEGR_7114_concepts_raw.json
+MEGR_7114,topic,Governing Equations,Governing Equations,1,inferred,Governing Equations,MEGR_7114_concepts_raw.json
+MEGR_7114,topic,Fluid Kinematics,Fluid Kinematics,1,inferred,Fluid Kinematics,MEGR_7114_concepts_raw.json
+MEGR_7114,topic,Dynamics of Fluids,Dynamics of Fluids,1,inferred,Dynamics of Fluids,MEGR_7114_concepts_raw.json
+MEGR_7114,topic,Boundary Layers and Separation,Boundary Layers and Separation,1,inferred,Boundary Layers and Separation,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Fluid Properties and Classification,Fluid Properties and Classification,1,inferred,Fluid Properties and Classification,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Types of Fluid Flows,Types of Fluid Flows,1,inferred,Types of Fluid Flows,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Continuity Equation Derivation,Continuity Equation Derivation,1,inferred,Continuity Equation Derivation,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Momentum Equation Formulation,Momentum Equation Formulation,1,inferred,Momentum Equation Formulation,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Energy Equation Development,Energy Equation Development,1,inferred,Energy Equation Development,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Velocity and Acceleration Vectors,Velocity and Acceleration Vectors,1,inferred,Velocity and Acceleration Vectors,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Streamlines and Pathlines,Streamlines and Pathlines,1,inferred,Streamlines and Pathlines,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Material Derivative Concept,Material Derivative Concept,1,inferred,Material Derivative Concept,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Force Balance on Control Volume,Force Balance on Control Volume,1,inferred,Force Balance on Control Volume,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Pressure Gradient and Shear Stress,Pressure Gradient and Shear Stress,1,inferred,Pressure Gradient and Shear Stress,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Bernoulli's Equation Application,Bernoulli's Equation Application,1,inferred,Bernoulli's Equation Application,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Laminar and Turbulent Boundary Layers,Laminar and Turbulent Boundary Layers,1,inferred,Laminar and Turbulent Boundary Layers,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Separation and Reattachment Phenomena,Separation and Reattachment Phenomena,1,inferred,Separation and Reattachment Phenomena,MEGR_7114_concepts_raw.json
+MEGR_7114,concept,Skin Friction Coefficient Concept,Skin Friction Coefficient Concept,1,inferred,Skin Friction Coefficient Concept,MEGR_7114_concepts_raw.json

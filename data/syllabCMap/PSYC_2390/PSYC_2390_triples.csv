@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2390,Importance of Psychology Major,concept,PREREQUISITE_OF,Career Paths for Psychology Majors,concept,A taught first,,PSYC_2390_triples_raw.json
+PSYC_2390,Biological Psychology Overview,concept,PART_OF,Sub-disciplines of Psychology,topic,,,PSYC_2390_triples_raw.json
+PSYC_2390,Cognitive Psychology Theories,concept,PART_OF,Sub-disciplines of Psychology,topic,,,PSYC_2390_triples_raw.json
+PSYC_2390,Research Design Types,concept,PART_OF,Research Methods,topic,,,PSYC_2390_triples_raw.json
+PSYC_2390,Data Collection Techniques,concept,PART_OF,Research Methods,topic,,,PSYC_2390_triples_raw.json
+PSYC_2390,Experimental Methodology,concept,PART_OF,Research Methods,topic,,,PSYC_2390_triples_raw.json

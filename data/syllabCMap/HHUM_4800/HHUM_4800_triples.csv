@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HHUM_4800,health issue,concept,PREREQUISITE_OF,Capstone Project,concept,same unit,,HHUM_4800_triples_raw.json
+HHUM_4800,Virus That Shook the World,work,PREREQUISITE_OF,Capstone Project,concept,B taught first,B is taught before A - check,HHUM_4800_triples_raw.json
+HHUM_4800,health issue,concept,PART_OF,Health and Humanities,topic,,,HHUM_4800_triples_raw.json
+HHUM_4800,Group Online Discussion,topic,PART_OF,Portfolio Capstone,topic,,,HHUM_4800_triples_raw.json
+HHUM_4800,Empirical Analysis of Data,topic,PART_OF,Capstone Project,concept,,part is broader than whole - check direction,HHUM_4800_triples_raw.json
+HHUM_4800,Virus That Shook the World,work,USED_FOR,Capstone Project,concept,,,HHUM_4800_triples_raw.json

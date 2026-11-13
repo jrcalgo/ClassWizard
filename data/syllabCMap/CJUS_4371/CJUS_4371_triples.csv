@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4371,Data Cleaning Techniques,concept,PART_OF,Management and Cleaning,topic,,,CJUS_4371_triples_raw.json
+CJUS_4371,data normalization,concept,PART_OF,query optimization,concept,,,CJUS_4371_triples_raw.json
+CJUS_4371,SQL syntax,concept,PART_OF,database schema,concept,,,CJUS_4371_triples_raw.json
+CJUS_4371,Pivot Tables Creation,concept,PART_OF,Excel Formulas,concept,,,CJUS_4371_triples_raw.json
+CJUS_4371,R Programming Language,concept,PART_OF,Visualization in R,topic,,,CJUS_4371_triples_raw.json
+CJUS_4371,duplicate data,concept,PART_OF,Duplicate & outlier data in R,topic,,,CJUS_4371_triples_raw.json
+CJUS_4371,outlier detection,concept,PART_OF,Duplicate & outlier data in R,topic,,,CJUS_4371_triples_raw.json
+CJUS_4371,R,tool,USED_FOR,Data wrangling in R,topic,,,CJUS_4371_triples_raw.json

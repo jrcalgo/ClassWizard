@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_3160,thermodynamics,concept,PREREQUISITE_OF,quantum mechanics,concept,A mentioned first,,PHYS_3160_triples_raw.json
+PHYS_3160,thermodynamics,concept,PREREQUISITE_OF,electromagnetism,concept,A mentioned first,,PHYS_3160_triples_raw.json
+PHYS_3160,quantum mechanics,concept,PREREQUISITE_OF,stellar spectra,concept,A mentioned first,,PHYS_3160_triples_raw.json
+PHYS_3160,quantum mechanics,concept,PREREQUISITE_OF,chemical compositions,concept,A mentioned first,,PHYS_3160_triples_raw.json
+PHYS_3160,quantum mechanics,concept,PREREQUISITE_OF,temperatures,concept,B mentioned first,,PHYS_3160_triples_raw.json
+PHYS_3160,quantum mechanics,concept,PREREQUISITE_OF,motions of stars,concept,A mentioned first,,PHYS_3160_triples_raw.json
+PHYS_3160,quantum mechanics,concept,PREREQUISITE_OF,nucleosynthetic pathways,concept,A mentioned first,,PHYS_3160_triples_raw.json
+PHYS_3160,quantum mechanics,concept,PREREQUISITE_OF,stellar lifespans,concept,A mentioned first,,PHYS_3160_triples_raw.json
+PHYS_3160,Observational Techniques,topic,PART_OF,Stellar Astrophysics,topic,,,PHYS_3160_triples_raw.json
+PHYS_3160,Interaction of Light and Matter,topic,PART_OF,Stellar Astrophysics,topic,,,PHYS_3160_triples_raw.json
+PHYS_3160,Spectral Classification,topic,PART_OF,Stellar Astrophysics,topic,,,PHYS_3160_triples_raw.json
+PHYS_3160,Stellar Structure and Energy Transport,topic,PART_OF,Stellar Astrophysics,topic,,,PHYS_3160_triples_raw.json
+PHYS_3160,Nuclear Energy Sources,topic,PART_OF,Stellar Astrophysics,topic,,,PHYS_3160_triples_raw.json
+PHYS_3160,Variable Stars,topic,PART_OF,Stellar Astrophysics,topic,,,PHYS_3160_triples_raw.json
+PHYS_3160,Stellar Remnants,topic,PART_OF,Stellar Astrophysics,topic,,,PHYS_3160_triples_raw.json
+PHYS_3160,thermodynamics,concept,USED_FOR,quantum mechanics,concept,,,PHYS_3160_triples_raw.json
+PHYS_3160,thermodynamics,concept,USED_FOR,electromagnetism,concept,,,PHYS_3160_triples_raw.json
+PHYS_3160,quantum mechanics,concept,USED_FOR,nucleosynthetic pathways,concept,,,PHYS_3160_triples_raw.json

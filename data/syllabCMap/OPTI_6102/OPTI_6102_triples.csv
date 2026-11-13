@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPTI_6102,Plane Surfaces,topic,PREREQUISITE_OF,Paraxial Imagery,topic,A taught first,,OPTI_6102_triples_raw.json
+OPTI_6102,Paraxial Imagery,topic,PREREQUISITE_OF,Lens Systems,topic,A taught first,,OPTI_6102_triples_raw.json
+OPTI_6102,Paraxial Radiometry,concept,USED_FOR,Paraxial Imagery,topic,,,OPTI_6102_triples_raw.json

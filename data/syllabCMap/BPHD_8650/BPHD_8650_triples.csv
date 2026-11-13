@@ -1,0 +1,39 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BPHD_8650,Behavioral Finance Overview,concept,PART_OF,BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Experimental Methods in Finance,concept,PART_OF,BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Financial Decision Making,concept,PART_OF,BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Cognitive Biases in Finance,concept,PART_OF,Investor Beliefs and Biases,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Social Influence on Investment,concept,PART_OF,Social Interactions in Finance,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Network Effects in Finance,concept,PART_OF,Social Interactions in Finance,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Herding Behavior in Markets,concept,PART_OF,Social Interactions in Finance,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Experimental Economics Models,concept,PART_OF,Theoretical Approaches to BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Regression Analysis in Finance,concept,PART_OF,Empirical Methods in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Time Series Analysis Techniques,concept,PART_OF,Empirical Methods in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Lab Experiments in Finance,concept,PART_OF,Experimental Design in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Field Experiments in Markets,concept,PART_OF,Experimental Design in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Survey Research Methods,concept,PART_OF,Experimental Design in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Machine Learning in Finance,concept,PART_OF,Recent Advances in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Big Data Analytics Techniques,concept,PART_OF,Recent Advances in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Quantitative Methods in BEF,concept,PART_OF,Recent Advances in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Research Question Development,concept,PART_OF,Formulating Original Research Questions,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Hypothesis Generation in Finance,concept,PART_OF,Formulating Original Research Questions,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Study Design Principles in Finance,concept,PART_OF,Designing Rigorous Studies in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Sampling Methods in BEF Studies,concept,PART_OF,Designing Rigorous Studies in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Data Analysis Techniques,concept,PART_OF,Designing Rigorous Studies in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Behavioral Finance Overview,concept,USED_FOR,BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Cognitive Biases in Finance,concept,USED_FOR,Investor Beliefs and Biases,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Belief Formation in Markets,concept,USED_FOR,Investor Beliefs and Biases,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Social Influence on Investment,concept,USED_FOR,Social Interactions in Finance,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Network Effects in Finance,concept,USED_FOR,Social Interactions in Finance,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Herding Behavior in Markets,concept,USED_FOR,Social Interactions in Finance,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Experimental Economics Models,concept,USED_FOR,Theoretical Approaches to BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Financial Market Equilibrium,concept,USED_FOR,Theoretical Approaches to BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Regression Analysis in Finance,concept,USED_FOR,Empirical Methods in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Field Experiments in Markets,concept,USED_FOR,Experimental Design in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Machine Learning in Finance,concept,USED_FOR,Recent Advances in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Big Data Analytics Techniques,concept,USED_FOR,Recent Advances in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Quantitative Methods in BEF,concept,USED_FOR,Recent Advances in BEF,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Research Question Development,concept,USED_FOR,Formulating Original Research Questions,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Literature Review in BEF,concept,USED_FOR,Formulating Original Research Questions,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Hypothesis Generation in Finance,concept,USED_FOR,Formulating Original Research Questions,topic,,,BPHD_8650_triples_raw.json
+BPHD_8650,Data Analysis Techniques,concept,USED_FOR,Designing Rigorous Studies in BEF,topic,,,BPHD_8650_triples_raw.json

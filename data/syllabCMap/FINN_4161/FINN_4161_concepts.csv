@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_4161,topic,Financial Modeling,Financial Modeling,2,verified,Financial Modeling,FINN_4161_concepts_raw.json
+FINN_4161,topic,Corporate Finance,Corporate Finance,2,verified,Corporate Finance,FINN_4161_concepts_raw.json
+FINN_4161,topic,Investments,Investments,2,verified,Investments,FINN_4161_concepts_raw.json
+FINN_4161,topic,Financial Statement Analysis,financial statement analysis,1,verified,Financial Statement Analysis,FINN_4161_concepts_raw.json
+FINN_4161,concept,time value of money,time value of money,2,verified,time value of money,FINN_4161_concepts_raw.json
+FINN_4161,topic,Security Valuation,security valuation,1,verified,Security Valuation,FINN_4161_concepts_raw.json
+FINN_4161,concept,financial ratios,financial ratios,1,verified,financial ratios,FINN_4161_concepts_raw.json
+FINN_4161,concept,cash budget project,cash budget project,1,verified,cash budget project,FINN_4161_concepts_raw.json
+FINN_4161,concept,what-if analysis,what -if analysis,1,verified,what-if analysis,FINN_4161_concepts_raw.json
+FINN_4161,concept,scenario manager,scenario manager,1,verified,scenario manager,FINN_4161_concepts_raw.json
+FINN_4161,concept,cost of capital,cost of capital,1,verified,cost of capital,FINN_4161_concepts_raw.json
+FINN_4161,concept,capital budgeting,capital budgeting,1,verified,capital budgeting,FINN_4161_concepts_raw.json
+FINN_4161,concept,efficient portfolios,efficient portfolios,1,verified,efficient portfolios,FINN_4161_concepts_raw.json
+FINN_4161,concept,mean,mean,1,verified,mean,FINN_4161_concepts_raw.json
+FINN_4161,concept,standard deviation,standard deviation,1,verified,standard deviation,FINN_4161_concepts_raw.json
+FINN_4161,concept,covariance,covariance,1,verified,covariance,FINN_4161_concepts_raw.json
+FINN_4161,concept,correlation,correlation,1,verified,correlation,FINN_4161_concepts_raw.json
+FINN_4161,concept,data table,Data table,1,verified,data table,FINN_4161_concepts_raw.json
+FINN_4161,tool,Excel,Excel,7,verified,Excel,FINN_4161_concepts_raw.json
+FINN_4161,tool,Microsoft Excel,Microsoft Excel,1,verified,Microsoft Excel,FINN_4161_concepts_raw.json

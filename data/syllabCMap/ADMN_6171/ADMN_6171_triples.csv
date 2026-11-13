@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_6171,Identity Formation Process,concept,PREREQUISITE_OF,Intellectual Development Stages,concept,same unit,,ADMN_6171_triples_raw.json
+ADMN_6171,Intersectionality,concept,PREREQUISITE_OF,Social Identity Theory,concept,B taught first,B is taught before A - check,ADMN_6171_triples_raw.json
+ADMN_6171,Diversity and Inclusion Strategies,concept,PREREQUISITE_OF,Student Success Measures for Diverse Students,concept,same unit,,ADMN_6171_triples_raw.json

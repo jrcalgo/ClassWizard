@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6165,topic,Artificial Intelligence,artificial intelligence,1,verified,Artificial Intelligence,DSBA_6165_concepts_raw.json
+DSBA_6165,topic,Deep Learning Architectures,deep learning architectures,1,verified,Deep Learning Architectures,DSBA_6165_concepts_raw.json
+DSBA_6165,topic,Knowledge Representation,knowledge representation,2,verified,Knowledge Representation,DSBA_6165_concepts_raw.json
+DSBA_6165,topic,Natural Language Processing,natural language processing,1,verified,Natural Language Processing,DSBA_6165_concepts_raw.json
+DSBA_6165,tool,Python,Python,2,verified,Python,DSBA_6165_concepts_raw.json
+DSBA_6165,tool,TensorFlow,TensorFlow,1,verified,TensorFlow,DSBA_6165_concepts_raw.json
+DSBA_6165,tool,Keras,Keras,1,verified,Keras,DSBA_6165_concepts_raw.json
+DSBA_6165,tool,PyTorch,PyTorch,1,verified,PyTorch,DSBA_6165_concepts_raw.json

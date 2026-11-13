@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_3120,topic,Geographic Information Systems,Geographic Information Systems,2,verified,Geographic Information Systems,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,spatial data types and uses,spatial data types and uses,3,verified,spatial data types and uses,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,coordinate systems and projections,coordinate systems and projections,3,verified,coordinate systems and projections,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Spatial Data Models,spatial data models,10,verified,Spatial Data Models,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,data acquisition and management,data acquisition and management,3,verified,data acquisition and management,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,data workflows,data workflows,3,verified,data workflows,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,basic spatial analysis techniques,basic spatial analysis techniques,3,verified,basic spatial analysis techniques,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,ArcGIS Pro interface,ArcGIS Pro interface,1,verified,ArcGIS Pro interface,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,Vector Data Model,Vector data model,2,verified,Vector Data Model,GEOG_3120_concepts_raw.json
+GEOG_3120,tool,FGDC Database Structure,FGDC Database Structure,1,verified,FGDC Database Structure,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,Cartography Principles,Cartography Principles,1,verified,Cartography Principles,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,Network Analysis Methods,Network Analysis Methods,1,verified,Network Analysis Methods,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,Raster Data Model,Raster data model,2,verified,Raster Data Model,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,Georeferencing Techniques,Georeferencing Techniques,1,verified,Georeferencing Techniques,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,Terrain Mapping,Terrain mapping,2,verified,Terrain Mapping,GEOG_3120_concepts_raw.json
+GEOG_3120,topic,Suitability analysis,Suitability analysis,2,verified,Suitability analysis,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Spatial Data Types,spatial data types,9,verified,Spatial Data Types,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Coordinate Systems,coordinate systems,11,verified,Coordinate Systems,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Data Acquisition Methods,Data Acquisition Methods,5,verified,Data Acquisition Methods,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Metadata Standards,Metadata Standards,1,verified,Metadata Standards,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Attribute Management,attribute management,2,verified,Attribute Management,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Coordinate Reference Systems,Coordinate Reference Systems,1,verified,Coordinate Reference Systems,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Geographic Metadata,Geographic Metadata,1,verified,Geographic Metadata,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Vector Data Analysis,Vector data analysis,2,verified,Vector Data Analysis,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Zonal Statistics,Zonal statistics,2,verified,Zonal Statistics,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Spatial Autocorrelation,Spatial Autocorrelation,1,verified,Spatial Autocorrelation,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Kernel Density Estimation,Kernel Density Estimation,1,verified,Kernel Density Estimation,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Buffer Analysis,Buffer Analysis,1,verified,Buffer Analysis,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Point Pattern Analysis,Point Pattern Analysis,1,verified,Point Pattern Analysis,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Nearest Neighbor Distance,Nearest Neighbor Distance,1,verified,Nearest Neighbor Distance,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Geometric Network Analysis,Geometric Network Analysis,1,verified,Geometric Network Analysis,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Geocoding Techniques,Geocoding Techniques,1,verified,Geocoding Techniques,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Raster Analysis Tools,Raster Analysis Tools,1,verified,Raster Analysis Tools,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Data Registration,Data Registration,1,verified,Data Registration,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Viewshed Analysis,Viewshed Analysis,1,verified,Viewshed Analysis,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Watershed Analysis,watershed analysis,2,verified,Watershed Analysis,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Spatial Interpolation,Spatial Interpolation,3,verified,Spatial Interpolation,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Inverse distance weighting,Inverse distance weighting,1,verified,Inverse distance weighting,GEOG_3120_concepts_raw.json
+GEOG_3120,concept,Kriging method,Kriging method,1,verified,Kriging method,GEOG_3120_concepts_raw.json
+GEOG_3120,tool,ArcGIS Pro,ArcGIS Pro,2,verified,ArcGIS Pro,GEOG_3120_concepts_raw.json

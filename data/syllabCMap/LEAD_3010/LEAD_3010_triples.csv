@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEAD_3010,Problem Identification Techniques,concept,PREREQUISITE_OF,Innovative Thinking Principles,concept,same unit,,LEAD_3010_triples_raw.json
+LEAD_3010,Problem Identification Techniques,concept,PREREQUISITE_OF,Collaboration and Teamwork,concept,same unit,,LEAD_3010_triples_raw.json
+LEAD_3010,Idea Generation Strategies,concept,PREREQUISITE_OF,Solution Design and Prototyping,concept,same unit,,LEAD_3010_triples_raw.json
+LEAD_3010,Goal Setting and Prioritization,concept,PREREQUISITE_OF,Action Plan Development,concept,same unit,,LEAD_3010_triples_raw.json
+LEAD_3010,Effective Communication and Conflict Resolution,concept,PREREQUISITE_OF,Constructive Feedback and Coaching,concept,same unit,,LEAD_3010_triples_raw.json
+LEAD_3010,Problem Identification Techniques,concept,PART_OF,Topics In Innovative Thinking,topic,,,LEAD_3010_triples_raw.json
+LEAD_3010,Problem Identification Techniques,concept,PART_OF,Innovation,topic,,,LEAD_3010_triples_raw.json
+LEAD_3010,Idea Generation Strategies,concept,PART_OF,Creative Solution Development,topic,,,LEAD_3010_triples_raw.json
+LEAD_3010,Goal Setting and Prioritization,concept,PART_OF,Project Planning and Execution,topic,,,LEAD_3010_triples_raw.json
+LEAD_3010,Effective Communication and Conflict Resolution,concept,PART_OF,Interdisciplinary Teamwork and Feedback,topic,,,LEAD_3010_triples_raw.json
+LEAD_3010,Personal Branding and Professional Development,concept,PART_OF,Professionalism and Self-Awareness,topic,,,LEAD_3010_triples_raw.json

@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+TRAN_6476,topic,Literary And Cultural Topics,Literary And Cultural Topics,1,verified,Literary And Cultural Topics,TRAN_6476_concepts_raw.json
+TRAN_6476,topic,Workshop On,Workshop On,1,verified,Workshop On,TRAN_6476_concepts_raw.json
+TRAN_6476,concept,critical idioms,critical idioms,2,verified,critical idioms,TRAN_6476_concepts_raw.json
+TRAN_6476,concept,institutional demands of translation,institutional demands of translation,1,verified,institutional demands of translation,TRAN_6476_concepts_raw.json
+TRAN_6476,concept,dictionary of untranslatables,Dictionary of Untranslatables,1,verified,dictionary of untranslatables,TRAN_6476_concepts_raw.json
+TRAN_6476,concept,translation of literary,translation of literary,1,verified,"translation of literary, cultural, and philosophical texts",TRAN_6476_concepts_raw.json
+TRAN_6476,concept,cultural,Cultural,2,verified,"translation of literary, cultural, and philosophical texts",TRAN_6476_concepts_raw.json
+TRAN_6476,concept,philosophical texts,philosophical texts,1,verified,"translation of literary, cultural, and philosophical texts",TRAN_6476_concepts_raw.json
+TRAN_6476,concept,editorial strategies,editorial strategies,1,verified,editorial strategies,TRAN_6476_concepts_raw.json

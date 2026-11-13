@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_2131L,topic,Organic Chemistry,Organic Chemistry,2,verified,Organic Chemistry,CHEM_2131L_concepts_raw.json
+CHEM_2131L,topic,Laboratory Techniques,Laboratory Techniques,1,verified,Laboratory Techniques,CHEM_2131L_concepts_raw.json
+CHEM_2131L,tool,Labflow,Labflow,1,verified,Labflow,CHEM_2131L_concepts_raw.json
+CHEM_2131L,topic,Purification Techniques,Purification Techniques,1,inferred,Purification Techniques,CHEM_2131L_concepts_raw.json
+CHEM_2131L,topic,Spectroscopy Fundamentals,Spectroscopy Fundamentals,1,inferred,Spectroscopy Fundamentals,CHEM_2131L_concepts_raw.json
+CHEM_2131L,topic,Functional Group Analysis,Functional Group Analysis,1,inferred,Functional Group Analysis,CHEM_2131L_concepts_raw.json
+CHEM_2131L,topic,Synthesis and Reaction,Synthesis and Reaction,1,inferred,Synthesis and Reaction,CHEM_2131L_concepts_raw.json
+CHEM_2131L,topic,Stereochemistry Basics,Stereochemistry Basics,1,inferred,Stereochemistry Basics,CHEM_2131L_concepts_raw.json
+CHEM_2131L,topic,Organic Compound Synthesis,Organic Compound Synthesis,1,inferred,Organic Compound Synthesis,CHEM_2131L_concepts_raw.json
+CHEM_2131L,topic,Advanced Spectroscopy Techniques,Advanced Spectroscopy Techniques,1,inferred,Advanced Spectroscopy Techniques,CHEM_2131L_concepts_raw.json
+CHEM_2131L,topic,Lab Report Writing and Presentation,Lab Report Writing and Presentation,1,inferred,Lab Report Writing and Presentation,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Lab Safety Protocols,Lab Safety Protocols,1,inferred,Lab Safety Protocols,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Crystallization Methods,Crystallization Methods,1,inferred,Crystallization Methods,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Distillation Principles,Distillation Principles,1,inferred,Distillation Principles,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Chromatography Basics,Chromatography Basics,1,inferred,Chromatography Basics,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,IR Spectroscopy Theory,IR Spectroscopy Theory,1,inferred,IR Spectroscopy Theory,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,NMR Spectroscopy Basics,NMR Spectroscopy Basics,1,inferred,NMR Spectroscopy Basics,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Mass Spectrometry Principles,Mass Spectrometry Principles,1,inferred,Mass Spectrometry Principles,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Alkane Functional Groups,Alkane Functional Groups,1,inferred,Alkane Functional Groups,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Alkene and Alkyne Identification,Alkene and Alkyne Identification,1,inferred,Alkene and Alkyne Identification,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Carbonyl Compound Recognition,Carbonyl Compound Recognition,1,inferred,Carbonyl Compound Recognition,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Substitution Reactions,Substitution Reactions,1,inferred,Substitution Reactions,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Elimination Reactions,Elimination Reactions,1,inferred,Elimination Reactions,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Addition Reactions Fundamentals,Addition Reactions Fundamentals,1,inferred,Addition Reactions Fundamentals,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Chirality and Enantiomers,Chirality and Enantiomers,1,inferred,Chirality and Enantiomers,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,R/S Configuration Notation,R/S Configuration Notation,1,inferred,R/S Configuration Notation,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Stereoisomerism Principles,Stereoisomerism Principles,1,inferred,Stereoisomerism Principles,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Synthetic Route Planning,Synthetic Route Planning,1,inferred,Synthetic Route Planning,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Reaction Conditions Optimization,Reaction Conditions Optimization,1,inferred,Reaction Conditions Optimization,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Yield Maximization Strategies,Yield Maximization Strategies,1,inferred,Yield Maximization Strategies,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,2D NMR Spectroscopy,2D NMR Spectroscopy,1,inferred,2D NMR Spectroscopy,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,Mass Spectrometry Fragmentation,Mass Spectrometry Fragmentation,1,inferred,Mass Spectrometry Fragmentation,CHEM_2131L_concepts_raw.json
+CHEM_2131L,concept,IR Spectroscopy Advanced Topics,IR Spectroscopy Advanced Topics,1,inferred,IR Spectroscopy Advanced Topics,CHEM_2131L_concepts_raw.json

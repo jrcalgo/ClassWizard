@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_4171,Track and Station Layout,concept,PREREQUISITE_OF,Signaling and Control Systems,concept,same unit,,CEGR_4171_triples_raw.json
+CEGR_4171,Track and Station Layout,concept,PREREQUISITE_OF,Rail Vehicle Maintenance,concept,same unit,,CEGR_4171_triples_raw.json
+CEGR_4171,Route Network Design,concept,PART_OF,Bus System Planning,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Frequency and Headway Management,concept,PART_OF,Bus System Planning,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Bus Fleet Sizing and Deployment,concept,PART_OF,Bus System Planning,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Track and Station Layout,concept,PART_OF,Rail System Planning,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Signaling and Control Systems,concept,PART_OF,Rail System Planning,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Rail Vehicle Maintenance,concept,PART_OF,Rail System Planning,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Cost-Benefit Analysis of Projects,concept,PART_OF,Funding and Finance,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Public-Private Partnerships in Transit,concept,PART_OF,Funding and Finance,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Transit Security Threats and Vulnerabilities,concept,PART_OF,Security and Emergency Planning,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Intelligence-Led Policing for Transit,concept,PART_OF,Security and Emergency Planning,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Human Resources Management in Transit,concept,PART_OF,Administrative Issues in Transit,topic,,,CEGR_4171_triples_raw.json
+CEGR_4171,Risk Management and Compliance,concept,PART_OF,Administrative Issues in Transit,topic,,,CEGR_4171_triples_raw.json

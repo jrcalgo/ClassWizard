@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_4121,IR,concept,USED_FOR,Instrumental Analysis Techniques,topic,,,CHEM_4121_triples_raw.json
+CHEM_4121,NMR,concept,USED_FOR,Instrumental Analysis Techniques,topic,,,CHEM_4121_triples_raw.json
+CHEM_4121,MS Spectroscopy,concept,USED_FOR,Instrumental Analysis Techniques,topic,,,CHEM_4121_triples_raw.json

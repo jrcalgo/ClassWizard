@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHIL_1502,topic,Human Nature,Human Nature,7,verified,Human Nature,PHIL_1502_concepts_raw.json
+PHIL_1502,topic,Philosophical Thinking,philosophical thinking,1,verified,Philosophical Thinking,PHIL_1502_concepts_raw.json
+PHIL_1502,topic,Defining Human Nature,Defining Human Nature,1,inferred,Defining Human Nature,PHIL_1502_concepts_raw.json
+PHIL_1502,topic,Theories of Human Nature,Theories of Human Nature,1,inferred,Theories of Human Nature,PHIL_1502_concepts_raw.json
+PHIL_1502,topic,Human Place in Nature,Human Place in Nature,1,inferred,Human Place in Nature,PHIL_1502_concepts_raw.json
+PHIL_1502,topic,Social Impact of Human Nature,Social Impact of Human Nature,1,inferred,Social Impact of Human Nature,PHIL_1502_concepts_raw.json
+PHIL_1502,topic,Constructing Identity,Constructing Identity,1,inferred,Constructing Identity,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,human nature concept,Human nature concept,2,inferred,human nature concept,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,philosophical perspectives on human nature,Philosophical perspectives on human nature,1,inferred,philosophical perspectives on human nature,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,social contract theory,Social contract theory,1,inferred,social contract theory,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,Hobbes vs. Rousseau,Hobbes vs. Rousseau,1,inferred,Hobbes vs. Rousseau,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,humanism and existentialism,Humanism and existentialism,1,inferred,humanism and existentialism,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,anthropocentrism vs. ecocentrism,anthropocentrism vs. ecocentrism,1,inferred,anthropocentrism vs. ecocentrism,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,humans as part of ecosystem,Humans as part of ecosystem,1,inferred,humans as part of ecosystem,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,environmental ethics,Environmental ethics,1,inferred,environmental ethics,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,stereotypes and prejudice,Stereotypes and prejudice,1,inferred,stereotypes and prejudice,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,cultural norms and values,Cultural norms and values,1,inferred,cultural norms and values,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,power dynamics in society,Power dynamics in society,1,inferred,power dynamics in society,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,self-concept and self-awareness,Self-concept and self-awareness,1,inferred,self-concept and self-awareness,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,understanding others' perspectives,Understanding others' perspectives,1,inferred,understanding others' perspectives,PHIL_1502_concepts_raw.json
+PHIL_1502,concept,empathy and compassion,Empathy and compassion,1,inferred,empathy and compassion,PHIL_1502_concepts_raw.json

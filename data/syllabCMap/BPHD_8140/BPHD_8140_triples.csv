@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BPHD_8140,Analyze,method,USED_FOR,Time Series Regression,topic,,,BPHD_8140_triples_raw.json

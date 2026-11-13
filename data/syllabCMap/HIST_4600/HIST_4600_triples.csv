@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_4600,racial inequality,concept,PREREQUISITE_OF,hypothesis formation,concept,A taught first,,HIST_4600_triples_raw.json
+HIST_4600,authenticity of sources,concept,PREREQUISITE_OF,argumentation with evidence,concept,A taught first,,HIST_4600_triples_raw.json
+HIST_4600,racial inequality in cities,concept,PREREQUISITE_OF,quantitative analysis of slavery,concept,A taught first,,HIST_4600_triples_raw.json
+HIST_4600,primary sources,concept,PREREQUISITE_OF,secondary sources,concept,same unit,,HIST_4600_triples_raw.json
+HIST_4600,racial dynamics in Latin America,concept,SUBTYPE_OF,racial inequality,concept,,,HIST_4600_triples_raw.json
+HIST_4600,postcolonial city configurations,concept,SUBTYPE_OF,postcolonial configuration,concept,,,HIST_4600_triples_raw.json
+HIST_4600,social movement sources,concept,SUBTYPE_OF,secondary sources,concept,,,HIST_4600_triples_raw.json
+HIST_4600,quantitative analysis of slavery,concept,USED_FOR,racial dynamics in Latin America,concept,,,HIST_4600_triples_raw.json
+HIST_4600,intellectual debates,concept,USED_FOR,disciplinary perspectives,concept,,,HIST_4600_triples_raw.json

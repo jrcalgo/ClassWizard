@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_5236,pathfinding,concept,PART_OF,Artificial Intelligence for Games,topic,,,ITCS_5236_triples_raw.json
+ITCS_5236,decision trees,concept,PART_OF,Decision Trees and Behavior,topic,,,ITCS_5236_triples_raw.json
+ITCS_5236,behavior modeling,concept,PART_OF,Decision Trees and Behavior,topic,,,ITCS_5236_triples_raw.json
+ITCS_5236,procedural content generation,concept,PART_OF,Artificial Intelligence for Games,topic,,,ITCS_5236_triples_raw.json
+ITCS_5236,adaptive difficulty systems,concept,PART_OF,Artificial Intelligence for Games,topic,,,ITCS_5236_triples_raw.json

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ECEI 3112 - Supporting Young Learners - Birth through Kindergarten: Introductory Methods - concept map</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:#222;background:#fff}
+ header{padding:12px 16px;border-bottom:1px solid #ddd}
+ h1{font-size:18px;margin:0 0 4px} .sub{color:#666;font-size:13px}
+ #map{height:72vh;border-bottom:1px solid #ddd}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;padding:8px 16px;font-size:12px}
+ .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+ .ln{display:inline-block;width:18px;height:3px;margin-right:5px;vertical-align:3px}
+ section{padding:8px 16px 24px} h2{font-size:15px;margin:16px 0 6px}
+ table{border-collapse:collapse;font-size:13px} td,th{border:1px solid #ddd;padding:3px 8px;text-align:left}
+ th{background:#f5f5f5} #err{display:none;padding:16px;color:#a00}
+</style></head><body>
+<header><h1>ECEI 3112 - Supporting Young Learners - Birth through Kindergarten: Introductory Methods</h1><div class="sub">7 concepts, 1 relations &middot; drag to move, scroll to zoom, hover for details</div></header>
+<div id="err">The interactive map needs internet access to load its drawing library (unpkg.com).
+Open ECEI_3112_graph.png instead; the tables below list the same content.</div>
+<div id="map"></div>
+<div class="legend"><span><span class='sw' style='background:#4C78A8'></span>topic</span><span><span class='sw' style='background:#59A14F'></span>concept</span><span><span class='ln' style='background:#FF7F0E'></span>USED_FOR</span><span class='sub'>dashed border = not verified in the syllabus text</span></div>
+<section><h2>Relations</h2><table><tr><th>subject</th><th>relation</th><th>object</th></tr><tr><td>Universal Design for Learning</td><td>USED_FOR</td><td>Developmentally Appropriate Lesson Plans</td></tr></table><h2>Concepts</h2><table><tr><th>concept</th><th>type</th><th>status</th><th>occurrences</th></tr><tr><td>Assessment and Progress Monitoring</td><td>topic</td><td>verified</td><td>2</td></tr><tr><td>Developmentally Appropriate Lesson Plans</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Early Childhood</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Role of the Caregiver</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Developmentally Appropriate Practice</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>Multiple Tiered Systems of Support</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>Universal Design for Learning</td><td>concept</td><td>verified</td><td>1</td></tr></table></section>
+<script>
+const DATA = {"nodes": [{"id": "early childhood", "label": "Early Childhood", "title": "Early Childhood\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 214.28571428571428, "y": 204.0}, {"id": "role of the caregiver", "label": "Role of the Caregiver", "title": "Role of the Caregiver\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 357.14285714285717, "y": 204.0}, {"id": "assessment and progress monitoring", "label": "Assessment and Progress Monitoring", "title": "Assessment and Progress Monitoring\ntype: topic\nstatus: verified\noccurrences in syllabus: 2", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 71.42857142857143, "y": 204.0}, {"id": "developmentally appropriate lesson plans", "label": "Developmentally Appropriate Lesson Plans", "title": "Developmentally Appropriate Lesson Plans\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 500.0, "y": -0.0}, {"id": "universal design for learning", "label": "Universal Design for Learning", "title": "Universal Design for Learning\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 500.0, "y": -170.0}, {"id": "multiple tiered systems of support", "label": "Multiple Tiered Systems of Support", "title": "Multiple Tiered Systems of Support\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 642.8571428571429, "y": 204.0}, {"id": "developmentally appropriate practice", "label": "Developmentally Appropriate Practice", "title": "Developmentally Appropriate Practice\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 500.0, "y": 204.0}, {"id": "__alone__", "label": "concepts with no relation:", "shape": "text", "font": {"color": "#666", "size": 13}, "x": 60.0, "y": 118.99999999999999, "fixed": true, "chosen": false}], "edges": [{"from": "universal design for learning", "to": "developmentally appropriate lesson plans", "label": "USED_FOR", "color": "#FF7F0E", "smooth": {"enabled": false}, "title": "Universal Design for Learning USED_FOR Developmentally Appropriate Lesson Plans"}]};
+if (typeof vis === "undefined") { document.getElementById("err").style.display = "block";
+  document.getElementById("map").style.display = "none"; }
+else {
+  const nodes = new vis.DataSet(DATA.nodes), edges = new vis.DataSet(DATA.edges);
+  const net = new vis.Network(document.getElementById("map"), {nodes, edges}, {
+    nodes: {shape: "box", margin: 8, font: {color: "#fff", size: 14}, widthConstraint: {maximum: 180}},
+    edges: {arrows: {to: {enabled: true, scaleFactor: 0.7}}, font: {size: 11, align: "middle",
+            background: "rgba(255,255,255,0.85)", multi: false}, width: 1.6},
+    physics: false,          // positions come from the same layered layout as the PNG
+    layout: {improvedLayout: false},
+    interaction: {hover: true, tooltipDelay: 120}
+  });
+  net.once("afterDrawing", () => net.fit());
+}
+</script></body></html>

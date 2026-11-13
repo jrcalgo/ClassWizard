@@ -1,0 +1,73 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_4250,topic,characteristics of digital storage media,characteristics of digital storage media,3,verified,characteristics of digital storage media,ITIS_4250_concepts_raw.json
+ITIS_4250,topic,data hiding,data hiding,6,verified,data hiding,ITIS_4250_concepts_raw.json
+ITIS_4250,topic,tracking users,tracking users,3,verified,tracking users,ITIS_4250_concepts_raw.json
+ITIS_4250,topic,investigating Windows computers and the criminal justice system,investigating Windows computers and the criminal justice system,2,verified,investigating Windows computers and the criminal justice system,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,digital forensics,Digital Forensics,4,verified,digital forensics,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,expectations,expectations,3,verified,expectations,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,forensic definition,Forensic Definition,1,verified,forensic definition,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,digital evidence handling,Digital Evidence Handling,4,verified,digital evidence handling,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,testimony preparation,Testimony Preparation,1,verified,testimony preparation,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,reporting requirements,Reporting Requirements,1,verified,reporting requirements,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,criminal justice system,criminal justice system,4,verified,criminal justice system,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,forensic testimony standards,Forensic Testimony Standards,1,verified,forensic testimony standards,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,FAT filesystem,FAT filesystem,1,verified,FAT filesystem,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,NTFS filesystem,NTFS filesystems,1,verified,NTFS filesystem,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,filesystem structure,Filesystem structure,1,verified,filesystem structure,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,cluster size,Cluster size,1,verified,cluster size,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,allocation tables,Allocation tables,1,verified,allocation tables,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,MFT records,MFT records,1,verified,MFT records,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,file slack space,File slack space,1,verified,file slack space,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,metadata analysis,Metadata analysis,1,verified,metadata analysis,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,Windows registry analysis,Windows Registry Analysis,2,verified,Windows registry analysis,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,digital evidence collection,Digital Evidence Collection,4,verified,digital evidence collection,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,Windows system investigation,Windows System Investigation,1,verified,Windows system investigation,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,registry key hierarchy,Registry Key Hierarchy,1,verified,registry key hierarchy,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,file system tracking,File System Tracking,1,verified,file system tracking,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,user activity monitoring,User Activity Monitoring,1,verified,user activity monitoring,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,event log analysis,Event Log Analysis,2,verified,event log analysis,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,system configuration files,System Configuration Files,1,verified,system configuration files,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,Windows artifact recovery,Windows Artifact Recovery,2,verified,Windows artifact recovery,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,forensic imaging,Forensic Imaging,2,verified,forensic imaging,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,disk analysis techniques,Disk Analysis Techniques,1,verified,disk analysis techniques,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,bitstream imaging,Bitstream Imaging,1,verified,bitstream imaging,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,logical vs physical disk,Logical vs Physical Disk,1,verified,logical vs physical disk,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,evidence acquisition methods,Evidence Acquisition Methods,1,verified,evidence acquisition methods,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,disk signature analysis,Disk Signature Analysis,1,verified,disk signature analysis,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,file system hierarchy,File System Hierarchy,1,verified,file system hierarchy,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,metadata extraction,Metadata Extraction,1,verified,metadata extraction,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,Windows 10-11 file system,Windows 10-11 File System,1,verified,Windows 10-11 file system,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,timeline creation,Timeline Creation,1,verified,timeline creation,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,file carving techniques,File Carving Techniques,1,verified,file carving techniques,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,data hiding methods,Data Hiding Methods,2,verified,data hiding methods,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,user tracking tools,User Tracking Tools,1,verified,user tracking tools,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,mobile device characteristics,Mobile Device Characteristics,1,verified,mobile device characteristics,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,device imaging techniques,Device Imaging Techniques,1,verified,device imaging techniques,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,user tracking on mobiles,User Tracking on Mobiles,1,verified,user tracking on mobiles,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,FTK Imager features,FTK Imager Features,1,verified,FTK Imager features,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,Arsenal Image Mounter,Arsenal Image Mounter,2,verified,Arsenal Image Mounter,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,Registry Explorer functions,Registry Explorer Functions,1,verified,Registry Explorer functions,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,memory forensics fundamentals,Memory Forensics Fundamentals,1,verified,memory forensics fundamentals,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,volatility analysis techniques,Volatility Analysis Techniques,1,verified,volatility analysis techniques,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,Windows memory acquisition,Windows Memory Acquisition,1,verified,Windows memory acquisition,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,process tracking methods,Process Tracking Methods,1,verified,process tracking methods,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,thread analysis tools,Thread Analysis Tools,1,verified,thread analysis tools,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,kernel mode data extraction,Kernel Mode Data Extraction,1,verified,kernel mode data extraction,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,driver signature verification,Driver Signature Verification,1,verified,driver signature verification,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,registry hives inspection,Registry Hives Inspection,1,verified,registry hives inspection,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,system calls monitoring,System Calls Monitoring,1,verified,system calls monitoring,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,digital forensics in incident response,Digital Forensics in Incident Response,2,verified,digital forensics in incident response,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,incident response process,Incident Response Process,1,verified,incident response process,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,evidence collection techniques,Evidence Collection Techniques,1,verified,evidence collection techniques,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,chain of custody,Chain of Custody,1,verified,chain of custody,ITIS_4250_concepts_raw.json
+ITIS_4250,concept,preservation of digital evidence,Preservation of Digital Evidence,1,verified,preservation of digital evidence,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,FTK Imager,FTK Imager,2,verified,FTK Imager,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,Registry Explorer,Registry Explorer,2,verified,Registry Explorer,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,SIFT,SIFT,1,verified,SIFT,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,Autopsy,Autopsy,1,verified,Autopsy,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,Sleuthkit,Sleuthkit,1,verified,Sleuthkit,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,HxD,HxD,1,verified,HxD,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,iLEAPP/aLEAPP,iLEAPP/aLEAPP,1,verified,iLEAPP/aLEAPP,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,Bulk Extractor,Bulk Extractor,1,verified,Bulk Extractor,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,dcode,dcode,1,verified,dcode,ITIS_4250_concepts_raw.json
+ITIS_4250,tool,KAPE,KAPE,1,verified,KAPE,ITIS_4250_concepts_raw.json

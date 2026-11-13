@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_3105,Strategies for Health Promotion,concept,PART_OF,Health Promotion,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Risk Reduction Techniques,concept,PART_OF,Health Promotion,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Disease Prevention Methods,concept,PART_OF,Health Promotion,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Physical Signs and Symptoms,concept,PART_OF,Assessment and Management,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Disease Assessment Strategies,concept,PART_OF,Assessment and Management,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Client-Centered Care Planning,concept,PART_OF,Care Coordination,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Interdisciplinary Collaboration,concept,PART_OF,Care Coordination,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Care Management Techniques,concept,PART_OF,Care Coordination,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Compassionate Nursing Practice,concept,PART_OF,Compassionate Care,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Sensitive Client Interactions,concept,PART_OF,Compassionate Care,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Competent Care Delivery,concept,PART_OF,Compassionate Care,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Respect for Diverse Values,concept,PART_OF,Ethical Practice,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Client Autonomy and Rights,concept,PART_OF,Ethical Practice,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Cultural Sensitivity in Care,concept,PART_OF,Ethical Practice,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Professional Nursing Ethics,concept,PART_OF,Professional Standards,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Legal Standards of Practice,concept,PART_OF,Professional Standards,topic,,,NURS_3105_triples_raw.json
+NURS_3105,Value-Based Care Delivery,concept,PART_OF,Professional Standards,topic,,,NURS_3105_triples_raw.json

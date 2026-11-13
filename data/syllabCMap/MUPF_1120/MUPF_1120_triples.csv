@@ -1,0 +1,49 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Choral Music Styles,concept,same unit,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Performance Anxiety Management,concept,same unit,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Minor Performances,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Solo Performance,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Small Ensemble,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Repertoire Selection,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Mixed Chorus Techniques,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Dress Rehearsal Preparation,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Winter Concert Performance,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Team Formation,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Choir Division,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Performance Scheduling,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Church Music Performance,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Performance Timing Management,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Choreography Execution,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Community Engagement,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Small Group Dynamics,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,PREREQUISITE_OF,Audience Interaction Techniques,concept,A taught first,,MUPF_1120_triples_raw.json
+MUPF_1120,Church Run-Out Performance,topic,PART_OF,Church Music Performance,concept,,part is broader than whole - check direction,MUPF_1120_triples_raw.json
+MUPF_1120,Departmental Collage Concert,concept,PART_OF,Mixed Chorus Techniques,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Minor Performances,concept,PART_OF,Community Engagement,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Uniform Requirements,concept,PART_OF,Music Performance Techniques,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Solo Performance,concept,PART_OF,Repertoire Selection,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Small Ensemble,concept,PART_OF,Mixed Chorus Techniques,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Dress Rehearsal Preparation,concept,PART_OF,Winter Concert Performance,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Team Formation,concept,PART_OF,Choir Division,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Performance Scheduling,concept,PART_OF,Departmental Collage Concert,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Audition Process Criteria,concept,PART_OF,Church Music Performance,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Church Music Performance,concept,PART_OF,Music Performance Techniques,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Stage Setup and Layout,concept,PART_OF,Choreography Execution,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Community Engagement,concept,PART_OF,Small Group Dynamics,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Audience Interaction Techniques,concept,PART_OF,Minor Performances,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Uniform Requirements,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Solo Performance,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Repertoire Selection,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Mixed Chorus Techniques,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Dress Rehearsal Preparation,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Winter Concert Performance,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Team Formation,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Choir Division,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Performance Scheduling,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Audition Process Criteria,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Performance Timing Management,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Stage Setup and Layout,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Choreography Execution,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Community Engagement,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Small Group Dynamics,concept,,,MUPF_1120_triples_raw.json
+MUPF_1120,Music Performance Techniques,concept,USED_FOR,Audience Interaction Techniques,concept,,,MUPF_1120_triples_raw.json

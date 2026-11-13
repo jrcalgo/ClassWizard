@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_1102L,topic,Laboratory,Laboratory,2,verified,Laboratory,PHYS_1102L_concepts_raw.json
+PHYS_1102L,topic,Computer Simulation,computer simulation,1,verified,Computer Simulation,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Scientific Method,scientific method,1,verified,Scientific Method,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Data Collection,data collection,1,verified,Data Collection,PHYS_1102L_concepts_raw.json
+PHYS_1102L,topic,Lab Safety,Lab Safety,1,inferred,Lab Safety,PHYS_1102L_concepts_raw.json
+PHYS_1102L,topic,Experimental Design,Experimental Design,1,inferred,Experimental Design,PHYS_1102L_concepts_raw.json
+PHYS_1102L,topic,Measuring Instruments,Measuring Instruments,1,inferred,Measuring Instruments,PHYS_1102L_concepts_raw.json
+PHYS_1102L,topic,Electricity Fundamentals,Electricity Fundamentals,1,inferred,Electricity Fundamentals,PHYS_1102L_concepts_raw.json
+PHYS_1102L,topic,Magnetism Basics,Magnetism Basics,1,inferred,Magnetism Basics,PHYS_1102L_concepts_raw.json
+PHYS_1102L,topic,Optics Introduction,Optics Introduction,1,inferred,Optics Introduction,PHYS_1102L_concepts_raw.json
+PHYS_1102L,topic,Lab Report Writing,Lab Report Writing,1,inferred,Lab Report Writing,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Safety Protocols,Safety Protocols,1,inferred,Safety Protocols,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Emergency Procedures,Emergency Procedures,1,inferred,Emergency Procedures,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Hypothesis Formulation,Hypothesis Formulation,1,inferred,Hypothesis Formulation,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Meter Calibration,Meter Calibration,1,inferred,Meter Calibration,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Sensor Types,Sensor Types,1,inferred,Sensor Types,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Measurement Uncertainty,Measurement Uncertainty,1,inferred,Measurement Uncertainty,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Charge and Current,Charge and Current,1,inferred,Charge and Current,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Voltage and Resistance,Voltage and Resistance,1,inferred,Voltage and Resistance,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Circuit Analysis,Circuit Analysis,1,inferred,Circuit Analysis,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Magnetic Fields,Magnetic Fields,1,inferred,Magnetic Fields,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Field Lines,Field Lines,1,inferred,Field Lines,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Magnetic Forces,Magnetic Forces,1,inferred,Magnetic Forces,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Wave Properties,Wave Properties,1,inferred,Wave Properties,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Reflection and Refraction,Reflection and Refraction,1,inferred,Reflection and Refraction,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Light Sources,Light Sources,1,inferred,Light Sources,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Simulation Software,Simulation Software,1,inferred,Simulation Software,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Data Analysis Tools,Data Analysis Tools,1,inferred,Data Analysis Tools,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Physics Modeling,Physics Modeling,1,inferred,Physics Modeling,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Report Structure,Report Structure,1,inferred,Report Structure,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Data Presentation,Data Presentation,1,inferred,Data Presentation,PHYS_1102L_concepts_raw.json
+PHYS_1102L,concept,Conclusion Writing,Conclusion Writing,1,inferred,Conclusion Writing,PHYS_1102L_concepts_raw.json

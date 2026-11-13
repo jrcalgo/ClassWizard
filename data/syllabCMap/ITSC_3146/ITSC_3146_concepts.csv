@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_3146,topic,Operating Systems,Operating Systems,3,verified,Operating Systems,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,Networking,Networking,3,verified,Networking,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,Processes,processes,2,verified,Processes,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,Threads,threads,2,verified,Threads,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,Scheduling,scheduling,2,verified,Scheduling,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,Cache,cache,2,verified,Cache,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,Memory Management,memory management,3,verified,Memory Management,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,File Systems,file systems,2,verified,File Systems,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,Interprocess Communication,interprocess communication,2,verified,Interprocess Communication,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,Network Architecture and Protocols,network architecture and protocols,2,verified,Network Architecture and Protocols,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,HTTP,https,1,verified,HTTP,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,MAC,MAC,3,verified,MAC,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,IP,IP,3,verified,IP,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,TCP/UDP,TCP/UDP,3,verified,TCP/UDP,ITSC_3146_concepts_raw.json
+ITSC_3146,topic,Internet Routing,internet routing,2,verified,Internet Routing,ITSC_3146_concepts_raw.json

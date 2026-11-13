@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_2181L,resistors,concept,PART_OF,Breadboards and Switches,topic,,,ECGR_2181L_triples_raw.json
+ECGR_2181L,capacitors,concept,PART_OF,Breadboards and Switches,topic,,,ECGR_2181L_triples_raw.json
+ECGR_2181L,simple digital combinational circuits,concept,PART_OF,Breadboards and Switches,topic,,,ECGR_2181L_triples_raw.json
+ECGR_2181L,digital sequential and combinational circuits,concept,PART_OF,Sequential and Combinational Circuits,topic,,,ECGR_2181L_triples_raw.json
+ECGR_2181L,field programmable gate array devices,concept,PART_OF,VHDL and FPGAs,topic,,,ECGR_2181L_triples_raw.json
+ECGR_2181L,digital sequential and combinational circuits,concept,SUBTYPE_OF,Sequential and Combinational Circuits,topic,,,ECGR_2181L_triples_raw.json

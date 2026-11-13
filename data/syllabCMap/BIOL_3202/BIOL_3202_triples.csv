@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_3202,Plant Identification,topic,PART_OF,Plant Structures and Functions,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Plant Physiology Basics,topic,PART_OF,Plant Structures and Functions,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Environmental Factors I,topic,PART_OF,Plant Physiology Basics,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Environmental Factors II,topic,PART_OF,Plant Physiology Basics,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Greenhouse Management,topic,PART_OF,Plant Physiology Basics,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Indoor Plant Maintenance,topic,PART_OF,Plant Physiology Basics,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Outdoor Plant Care,topic,PART_OF,Plant Physiology Basics,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Landscaping Principles,topic,PART_OF,Plant Physiology Basics,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Heating and Cooling Systems,concept,USED_FOR,Greenhouse Management,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Ventilation and Air Circulation,concept,USED_FOR,Greenhouse Management,topic,,,BIOL_3202_triples_raw.json
+BIOL_3202,Irrigation System Design,concept,USED_FOR,Greenhouse Management,topic,,,BIOL_3202_triples_raw.json

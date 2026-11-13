@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_8173,acids and bases,topic,PREREQUISITE_OF,buffering,topic,A taught first,,CEGR_8173_triples_raw.json
+CEGR_8173,acids and bases,topic,PREREQUISITE_OF,alkalinity,topic,A taught first,,CEGR_8173_triples_raw.json

@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4181,topic,Computer Architecture,Computer Architectures,1,verified,Computer Architecture,ECGR_4181_concepts_raw.json
+ECGR_4181,topic,"Multi-Core, Multi-Threaded, Pipelined Computer Architectures","Multi-Core, Multi-Threaded, Pipelined Computer Architectures",1,verified,"Multi-Core, Multi-Threaded, Pipelined Computer Architectures",ECGR_4181_concepts_raw.json
+ECGR_4181,topic,"ISA, ILP","ISA, ILP",1,verified,"ISA, ILP",ECGR_4181_concepts_raw.json
+ECGR_4181,topic,"Branch predictors, Memory hierarchy","Branch predictors, Memory hierarchy",1,verified,"Branch predictors, Memory hierarchy",ECGR_4181_concepts_raw.json
+ECGR_4181,concept,Processor Performance and Power,Processor Performance and Power,1,verified,Processor Performance and Power,ECGR_4181_concepts_raw.json
+ECGR_4181,concept,performance vs cost trade-off of design,performance vs cost trade-off of design,1,verified,performance vs cost trade-off of design,ECGR_4181_concepts_raw.json
+ECGR_4181,topic,Computer performance and power cost evaluation,Computer performance and power cost evaluation,1,verified,Computer performance and power cost evaluation,ECGR_4181_concepts_raw.json
+ECGR_4181,topic,Pipelining: Basic and intermediate concepts,Pipelining: Basic and intermediate concepts,1,verified,Pipelining: Basic and intermediate concepts,ECGR_4181_concepts_raw.json
+ECGR_4181,topic,Memory hierarchy design and coherency,Memory hierarchy design and coherency,1,verified,Memory hierarchy design and coherency,ECGR_4181_concepts_raw.json
+ECGR_4181,topic,Microprocessor design process and evaluation methodology,Microprocessor design process and evaluation methodology,1,verified,Microprocessor design process and evaluation methodology,ECGR_4181_concepts_raw.json
+ECGR_4181,topic,Modern processor frontend design and instruction pipelining,Modern processor frontend design and instruction pipelining,1,verified,Modern processor frontend design and instruction pipelining,ECGR_4181_concepts_raw.json
+ECGR_4181,concept,Multi-Core,Multi-Core,1,verified,"Multi-Core, Multi-Threaded, Pipelined Computer Architectures",ECGR_4181_concepts_raw.json
+ECGR_4181,concept,Multi-Threaded,Multi-Threaded,1,verified,"Multi-Core, Multi-Threaded, Pipelined Computer Architectures",ECGR_4181_concepts_raw.json
+ECGR_4181,concept,Pipelined Computer Architectures,Pipelined Computer Architectures,1,verified,"Multi-Core, Multi-Threaded, Pipelined Computer Architectures",ECGR_4181_concepts_raw.json
+ECGR_4181,concept,ISA,ISA,1,verified,"ISA, ILP",ECGR_4181_concepts_raw.json
+ECGR_4181,concept,ILP,ILP,1,verified,"ISA, ILP",ECGR_4181_concepts_raw.json
+ECGR_4181,concept,Branch predictors,Branch predictors,1,verified,Branch predictors,ECGR_4181_concepts_raw.json
+ECGR_4181,concept,Memory hierarchy,memory hierarchy,5,verified,Memory hierarchy,ECGR_4181_concepts_raw.json
+ECGR_4181,concept,Architecture Simulator Tools,architecture simulator tools,2,verified,Architecture Simulator Tools,ECGR_4181_concepts_raw.json
+ECGR_4181,concept,Instruction Level Parallelism,instruction-level parallelism,1,verified,Instruction Level Parallelism,ECGR_4181_concepts_raw.json

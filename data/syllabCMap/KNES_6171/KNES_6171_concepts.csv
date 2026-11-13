@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+KNES_6171,topic,Advanced Biomechanics,Advanced Biomechanics,1,verified,Advanced Biomechanics,KNES_6171_concepts_raw.json
+KNES_6171,topic,Mechanical Principles,mechanical principles,2,verified,Mechanical Principles,KNES_6171_concepts_raw.json
+KNES_6171,topic,Torques and Moments,Torques and Moments,1,verified,Torques and Moments,KNES_6171_concepts_raw.json
+KNES_6171,concept,angular kinematics,Angular Kinematics,2,verified,angular kinematics,KNES_6171_concepts_raw.json
+KNES_6171,concept,linear kinematics,Linear Kinematics,1,verified,linear kinematics,KNES_6171_concepts_raw.json
+KNES_6171,concept,linear kinetics,Linear Kinetics,1,verified,linear kinetics,KNES_6171_concepts_raw.json
+KNES_6171,concept,work,Work,1,verified,"work, power, and energy",KNES_6171_concepts_raw.json
+KNES_6171,concept,power,Power,1,verified,"work, power, and energy",KNES_6171_concepts_raw.json
+KNES_6171,concept,energy,Energy,1,verified,"work, power, and energy",KNES_6171_concepts_raw.json
+KNES_6171,concept,torques and moments of inertia,Torques and Moments of Inertia,1,verified,torques and moments of inertia,KNES_6171_concepts_raw.json
+KNES_6171,concept,angular kinetics,Angular Kinetics,1,verified,angular kinetics,KNES_6171_concepts_raw.json
+KNES_6171,concept,anatomical positions,anatomical positions,1,verified,anatomical positions,KNES_6171_concepts_raw.json
+KNES_6171,concept,motion action planes,motion action planes,1,verified,motion action planes,KNES_6171_concepts_raw.json
+KNES_6171,concept,performance and injury prevention,performance and injury prevention,1,verified,performance and injury prevention,KNES_6171_concepts_raw.json

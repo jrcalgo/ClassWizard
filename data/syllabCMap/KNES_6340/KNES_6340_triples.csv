@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_6340,Training Periodization,concept,PREREQUISITE_OF,Macrocycle Planning,concept,same unit,,KNES_6340_triples_raw.json
+KNES_6340,Microcycle Structure,concept,PREREQUISITE_OF,Macrocycle Planning,concept,same unit,,KNES_6340_triples_raw.json
+KNES_6340,Resistance Training Methods,concept,PREREQUISITE_OF,Progressive Overload Techniques,concept,same unit,,KNES_6340_triples_raw.json
+KNES_6340,Athlete Needs Identification,concept,PREREQUISITE_OF,Training Goal Setting,concept,same unit,,KNES_6340_triples_raw.json
+KNES_6340,Microcycle Structure,concept,PART_OF,Periodization Fundamentals,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Macrocycle Planning,concept,PART_OF,Periodization Fundamentals,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Resistance Training Methods,concept,PART_OF,Strength Training Principles,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Progressive Overload Techniques,concept,PART_OF,Strength Training Principles,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Recovery Strategies,concept,PART_OF,Strength Training Principles,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Training Goal Setting,concept,PART_OF,Needs Analysis and Assessment,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Performance Metrics Selection,concept,PART_OF,Needs Analysis and Assessment,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Periodized Annual Plan Creation,concept,PART_OF,Annual Training Plan Design,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Training Block Organization,concept,PART_OF,Annual Training Plan Design,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Long-Term Periodization Strategies,concept,PART_OF,Macrocycle Planning and Implementation,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Block Periodization Techniques,concept,PART_OF,Macrocycle Planning and Implementation,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Periodization of Competition Preparation,concept,PART_OF,Macrocycle Planning and Implementation,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Training Program Design Principles,concept,PART_OF,Programming and Progression,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Progressive Overload Implementation,concept,PART_OF,Programming and Progression,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Variability in Training Programs,concept,PART_OF,Programming and Progression,topic,,,KNES_6340_triples_raw.json
+KNES_6340,Block Periodization Techniques,concept,SUBTYPE_OF,Long-Term Periodization Strategies,concept,,,KNES_6340_triples_raw.json
+KNES_6340,Periodization of Competition Preparation,concept,SUBTYPE_OF,Long-Term Periodization Strategies,concept,,,KNES_6340_triples_raw.json

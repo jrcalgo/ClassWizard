@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_8090,Interconnect Design Goals,concept,PREREQUISITE_OF,router microarchitecture and implementation tradeoffs,topic,A taught first,,ECGR_8090_triples_raw.json
+ECGR_8090,Interconnect Design Goals,concept,PREREQUISITE_OF,congestion management and quality-of -service,topic,A taught first,,ECGR_8090_triples_raw.json
+ECGR_8090,topology design and analysis,topic,PREREQUISITE_OF,routing algorithms and protocols (including deadlock/livelock considerations,topic,A mentioned first,,ECGR_8090_triples_raw.json
+ECGR_8090,topology design and analysis,topic,PREREQUISITE_OF,switching and flow control,topic,A taught first,,ECGR_8090_triples_raw.json
+ECGR_8090,topology design and analysis,topic,PREREQUISITE_OF,router microarchitecture and implementation tradeoffs,topic,A taught first,,ECGR_8090_triples_raw.json
+ECGR_8090,topology design and analysis,topic,PREREQUISITE_OF,congestion management and quality-of -service,topic,A taught first,,ECGR_8090_triples_raw.json
+ECGR_8090,routing algorithms and protocols (including deadlock/livelock considerations,topic,PREREQUISITE_OF,congestion management and quality-of -service,topic,B mentioned first,,ECGR_8090_triples_raw.json
+ECGR_8090,switching and flow control,topic,PREREQUISITE_OF,router microarchitecture and implementation tradeoffs,topic,A taught first,,ECGR_8090_triples_raw.json
+ECGR_8090,switching and flow control,topic,PREREQUISITE_OF,congestion management and quality-of -service,topic,A taught first,,ECGR_8090_triples_raw.json
+ECGR_8090,Interconnect Design Goals,concept,PART_OF,interconnect design goals and metrics,topic,,,ECGR_8090_triples_raw.json
+ECGR_8090,BookSim,tool,USED_FOR,interconnect design goals and metrics,topic,,,ECGR_8090_triples_raw.json
+ECGR_8090,BookSim,tool,USED_FOR,topology design and analysis,topic,,,ECGR_8090_triples_raw.json
+ECGR_8090,BookSim,tool,USED_FOR,router microarchitecture and implementation tradeoffs,topic,,,ECGR_8090_triples_raw.json
+ECGR_8090,BookSim,tool,USED_FOR,congestion management and quality-of -service,topic,,,ECGR_8090_triples_raw.json
+ECGR_8090,GEM5,tool,USED_FOR,interconnect design goals and metrics,topic,,,ECGR_8090_triples_raw.json
+ECGR_8090,GEM5,tool,USED_FOR,topology design and analysis,topic,,,ECGR_8090_triples_raw.json
+ECGR_8090,GEM5,tool,USED_FOR,switching and flow control,topic,,,ECGR_8090_triples_raw.json
+ECGR_8090,GEM5,tool,USED_FOR,router microarchitecture and implementation tradeoffs,topic,,,ECGR_8090_triples_raw.json
+ECGR_8090,GEM5,tool,USED_FOR,congestion management and quality-of -service,topic,,,ECGR_8090_triples_raw.json

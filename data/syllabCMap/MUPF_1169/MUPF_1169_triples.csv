@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1169,rhythm,concept,PREREQUISITE_OF,melody,concept,A mentioned first,,MUPF_1169_triples_raw.json
+MUPF_1169,rhythm,concept,PREREQUISITE_OF,harmony,concept,A taught first,,MUPF_1169_triples_raw.json
+MUPF_1169,melody,concept,PREREQUISITE_OF,harmony,concept,B mentioned first,,MUPF_1169_triples_raw.json
+MUPF_1169,rhythm,concept,PREREQUISITE_OF,structure,concept,A taught first,,MUPF_1169_triples_raw.json
+MUPF_1169,melody,concept,PREREQUISITE_OF,structure,concept,B mentioned first,,MUPF_1169_triples_raw.json
+MUPF_1169,harmony,concept,PREREQUISITE_OF,structure,concept,same unit,,MUPF_1169_triples_raw.json
+MUPF_1169,timbre,concept,PREREQUISITE_OF,texture,concept,same unit,,MUPF_1169_triples_raw.json

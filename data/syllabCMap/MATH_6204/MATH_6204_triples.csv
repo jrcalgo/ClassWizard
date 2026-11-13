@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_6204,Numerical Methods,topic,PREREQUISITE_OF,Computational Finance Applications,topic,same unit,,MATH_6204_triples_raw.json
+MATH_6204,Finite Difference Schemes,concept,PREREQUISITE_OF,Boundary Conditions Treatment,concept,same unit,,MATH_6204_triples_raw.json
+MATH_6204,Random Number Generation,concept,PREREQUISITE_OF,Monte Carlo Simulations,method,same unit,,MATH_6204_triples_raw.json
+MATH_6204,Weak Formulation,concept,PREREQUISITE_OF,Galerkin Finite Elements,concept,same unit,,MATH_6204_triples_raw.json
+MATH_6204,Matrix Factorization Techniques,method,PREREQUISITE_OF,Eigenvalue and Eigenvector Computation,method,same unit,,MATH_6204_triples_raw.json
+MATH_6204,Finite Difference Schemes,concept,PART_OF,Numerical Methods,topic,,,MATH_6204_triples_raw.json
+MATH_6204,Boundary Conditions Treatment,concept,PART_OF,Finite Difference Methods,method,,part is broader than whole - check direction,MATH_6204_triples_raw.json
+MATH_6204,Stability and Convergence Analysis,concept,PART_OF,Finite Difference Methods,method,,part is broader than whole - check direction,MATH_6204_triples_raw.json
+MATH_6204,Random Number Generation,concept,PART_OF,Monte Carlo Simulations,method,,part is broader than whole - check direction,MATH_6204_triples_raw.json
+MATH_6204,Importance Sampling Techniques,concept,PART_OF,Monte Carlo Simulations,method,,part is broader than whole - check direction,MATH_6204_triples_raw.json
+MATH_6204,Variance Reduction Methods,concept,PART_OF,Monte Carlo Simulations,method,,part is broader than whole - check direction,MATH_6204_triples_raw.json
+MATH_6204,Galerkin Finite Elements,concept,PART_OF,Finite Element Methods,method,,part is broader than whole - check direction,MATH_6204_triples_raw.json
+MATH_6204,Black-Scholes Model Derivation,method,USED_FOR,Black-Scholes Model,concept,,,MATH_6204_triples_raw.json
+MATH_6204,American Option Pricing Methods,method,USED_FOR,American Option Pricing,concept,,,MATH_6204_triples_raw.json
+MATH_6204,Value-at-Risk (VaR) Calculation,method,USED_FOR,Value-at-Risk (VaR,concept,,,MATH_6204_triples_raw.json
+MATH_6204,Expected Shortfall (ES) Estimation,method,USED_FOR,Expected Shortfall (ES,concept,,,MATH_6204_triples_raw.json
+MATH_6204,Hedging Strategies Implementation,method,USED_FOR,Hedging Strategies,concept,,,MATH_6204_triples_raw.json
+MATH_6204,Matrix Factorization Techniques,method,USED_FOR,Eigenvalue and Eigenvector Computation,method,,,MATH_6204_triples_raw.json

@@ -1,0 +1,50 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_8112,topic,Bioinformatics Programming II,Bioinformatics Programming II,1,verified,Bioinformatics Programming II,BINF_8112_concepts_raw.json
+BINF_8112,method,writing maintainable and reusable code,writing maintainable and reusable code,2,verified,writing maintainable and reusable code,BINF_8112_concepts_raw.json
+BINF_8112,topic,advanced Python concepts and tools,advanced Python concepts and tools,2,verified,advanced Python concepts and tools,BINF_8112_concepts_raw.json
+BINF_8112,topic,Python modules for data analysis in the context of bioinformatics,Python modules for data analysis in the context of bioinformatics,2,verified,Python modules for data analysis in the context of bioinformatics,BINF_8112_concepts_raw.json
+BINF_8112,topic,object-oriented programming (OOP,object-oriented programming (OOP,2,verified,object-oriented programming (OOP),BINF_8112_concepts_raw.json
+BINF_8112,topic,Advanced Python Concepts,advanced Python concepts,2,verified,Advanced Python Concepts,BINF_8112_concepts_raw.json
+BINF_8112,method,object-oriented programming,object-oriented programming,4,verified,"procedural, functional, and object-oriented programming",BINF_8112_concepts_raw.json
+BINF_8112,method,version control with Git and GitHub,Version control with Git and GitHub,1,verified,version control with Git and GitHub,BINF_8112_concepts_raw.json
+BINF_8112,topic,"Testing, Debugging, and Profiling","Testing, Debugging, and Profiling",1,verified,"Testing, Debugging, and Profiling",BINF_8112_concepts_raw.json
+BINF_8112,topic,Ethical AI Use and Transparency,ethical AI use and transparency,1,verified,Ethical AI Use and Transparency,BINF_8112_concepts_raw.json
+BINF_8112,concept,reusable code,reusable code,2,verified,reusable code,BINF_8112_concepts_raw.json
+BINF_8112,concept,well-documented code,well-documented code,1,verified,well-documented code,BINF_8112_concepts_raw.json
+BINF_8112,concept,Python functions,Python functions,1,verified,Python functions,BINF_8112_concepts_raw.json
+BINF_8112,concept,comprehensions,comprehensions,2,verified,comprehensions,BINF_8112_concepts_raw.json
+BINF_8112,concept,lambda functions,lambda functions,2,verified,lambda functions,BINF_8112_concepts_raw.json
+BINF_8112,concept,inheritance,inheritance,2,verified,inheritance,BINF_8112_concepts_raw.json
+BINF_8112,concept,design for extensibility,design for extensibility,1,verified,design for extensibility,BINF_8112_concepts_raw.json
+BINF_8112,concept,NumPy,NumPy,2,verified,NumPy,BINF_8112_concepts_raw.json
+BINF_8112,concept,pandas,pandas,2,verified,pandas,BINF_8112_concepts_raw.json
+BINF_8112,concept,Git,Git,2,verified,Git,BINF_8112_concepts_raw.json
+BINF_8112,concept,GitHub workflows,GitHub workflows,1,verified,GitHub workflows,BINF_8112_concepts_raw.json
+BINF_8112,concept,command-line skills,command-line skills,1,verified,command-line skills,BINF_8112_concepts_raw.json
+BINF_8112,concept,scripting,scripting,1,verified,scripting,BINF_8112_concepts_raw.json
+BINF_8112,concept,automation,automation,1,verified,automation,BINF_8112_concepts_raw.json
+BINF_8112,concept,reproducibility,reproducibility,1,verified,reproducibility,BINF_8112_concepts_raw.json
+BINF_8112,concept,testing,testing,2,verified,testing,BINF_8112_concepts_raw.json
+BINF_8112,concept,debugging,debugging,1,verified,debugging,BINF_8112_concepts_raw.json
+BINF_8112,concept,profiling tools,profiling tools,1,verified,profiling tools,BINF_8112_concepts_raw.json
+BINF_8112,concept,responsible AI use,responsible AI use,1,verified,responsible AI use,BINF_8112_concepts_raw.json
+BINF_8112,concept,transparency in tool usage,transparency in tool usage,1,verified,transparency in tool usage,BINF_8112_concepts_raw.json
+BINF_8112,concept,strategies for maintaining academic integrity,strategies for maintaining academic integrity,1,verified,strategies for maintaining academic integrity,BINF_8112_concepts_raw.json
+BINF_8112,method,advanced problem-solving strategies,Advanced problem-solving strategies,1,verified,advanced problem-solving strategies,BINF_8112_concepts_raw.json
+BINF_8112,method,algorithmic thinking,algorithmic thinking,1,verified,algorithmic thinking,BINF_8112_concepts_raw.json
+BINF_8112,method,data structures,data structures,1,verified,data structures,BINF_8112_concepts_raw.json
+BINF_8112,method,programming paradigms,programming paradigms,1,verified,programming paradigms,BINF_8112_concepts_raw.json
+BINF_8112,method,procedural,procedural,1,verified,"procedural, functional, and object-oriented programming",BINF_8112_concepts_raw.json
+BINF_8112,method,functional,functional,1,verified,"procedural, functional, and object-oriented programming",BINF_8112_concepts_raw.json
+BINF_8112,method,argument parsing and validation,argument parsing and validation,1,verified,argument parsing and validation,BINF_8112_concepts_raw.json
+BINF_8112,method,returning multiple values,returning multiple values,1,verified,returning multiple values,BINF_8112_concepts_raw.json
+BINF_8112,method,keyword-only arguments,keyword-only arguments,1,verified,keyword-only arguments,BINF_8112_concepts_raw.json
+BINF_8112,method,anonymous functions,anonymous functions,1,verified,anonymous functions,BINF_8112_concepts_raw.json
+BINF_8112,method,decorators,decorators,1,verified,decorators,BINF_8112_concepts_raw.json
+BINF_8112,method,organizing functions into modules,organizing functions into modules,1,verified,organizing functions into modules,BINF_8112_concepts_raw.json
+BINF_8112,method,unit testing,unit testing,1,verified,unit testing,BINF_8112_concepts_raw.json
+BINF_8112,tool,Python,Python,9,verified,Python,BINF_8112_concepts_raw.json
+BINF_8112,tool,Biopython,Biopython,1,verified,Biopython,BINF_8112_concepts_raw.json
+BINF_8112,tool,PyPy,PyPy,1,verified,PyPy,BINF_8112_concepts_raw.json
+BINF_8112,tool,Conda,Conda,1,verified,Conda,BINF_8112_concepts_raw.json
+BINF_8112,tool,GitHub,GitHub,2,verified,GitHub,BINF_8112_concepts_raw.json

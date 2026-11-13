@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_2109,death-related terms,concept,PREREQUISITE_OF,Understanding Mortality,topic,B mentioned first,,RELS_2109_triples_raw.json
+RELS_2109,Understanding Mortality,topic,PREREQUISITE_OF,Religious Perspectives on Death,topic,same unit,,RELS_2109_triples_raw.json
+RELS_2109,death-related terms,concept,PREREQUISITE_OF,afterlife beliefs,concept,B mentioned first,,RELS_2109_triples_raw.json
+RELS_2109,death-related terms,concept,PREREQUISITE_OF,reincarnation,concept,B mentioned first,,RELS_2109_triples_raw.json
+RELS_2109,death-related terms,concept,PREREQUISITE_OF,karma,concept,B mentioned first,,RELS_2109_triples_raw.json
+RELS_2109,death-related terms,concept,PREREQUISITE_OF,resurrection,concept,B mentioned first,,RELS_2109_triples_raw.json
+RELS_2109,death-related terms,concept,PREREQUISITE_OF,hereafter,concept,B mentioned first,,RELS_2109_triples_raw.json
+RELS_2109,afterlife beliefs,concept,PREREQUISITE_OF,Hinduism and Reincarnation,topic,A taught first,,RELS_2109_triples_raw.json
+RELS_2109,afterlife beliefs,concept,PREREQUISITE_OF,Buddhism and Karma,topic,A taught first,,RELS_2109_triples_raw.json
+RELS_2109,Religious Perspectives on Death,topic,PREREQUISITE_OF,Christianity and Resurrection,topic,A taught first,,RELS_2109_triples_raw.json
+RELS_2109,Religious Perspectives on Death,topic,PREREQUISITE_OF,Islamic Views of the Hereafter,topic,A taught first,,RELS_2109_triples_raw.json
+RELS_2109,death-related terms,concept,PART_OF,Understanding Mortality,topic,,,RELS_2109_triples_raw.json
+RELS_2109,afterlife beliefs,concept,PART_OF,Egyptian Afterlife Beliefs,topic,,,RELS_2109_triples_raw.json
+RELS_2109,afterlife beliefs,concept,PART_OF,Hinduism and Reincarnation,topic,,,RELS_2109_triples_raw.json
+RELS_2109,afterlife beliefs,concept,PART_OF,Buddhism and Karma,topic,,,RELS_2109_triples_raw.json
+RELS_2109,afterlife beliefs,concept,PART_OF,Taoist and Confucian Views on Death,topic,,,RELS_2109_triples_raw.json
+RELS_2109,religious perspectives,concept,PART_OF,Christianity and Resurrection,topic,,,RELS_2109_triples_raw.json
+RELS_2109,mortality,concept,PART_OF,Understanding Mortality,topic,,,RELS_2109_triples_raw.json
+RELS_2109,karma,concept,PART_OF,Buddhism and Karma,topic,,,RELS_2109_triples_raw.json
+RELS_2109,secularization,concept,PART_OF,Secularization and Death,topic,,,RELS_2109_triples_raw.json

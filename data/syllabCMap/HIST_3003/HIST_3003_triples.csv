@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3003,French Colonial Era,topic,PREREQUISITE_OF,Viet Minh Formation and Goals,concept,A taught first,,HIST_3003_triples_raw.json
+HIST_3003,French Colonial Era,topic,PREREQUISITE_OF,First Indochina War Outbreak,concept,A taught first,,HIST_3003_triples_raw.json
+HIST_3003,French Colonial Era,topic,PREREQUISITE_OF,Geneva Accords and Division,concept,A taught first,,HIST_3003_triples_raw.json
+HIST_3003,French Colonial Era,topic,PREREQUISITE_OF,US Military Advisers Arrive,concept,A taught first,,HIST_3003_triples_raw.json
+HIST_3003,Indochinese Federation Establishment,concept,PREREQUISITE_OF,Viet Minh Formation and Goals,concept,A taught first,,HIST_3003_triples_raw.json
+HIST_3003,Indochinese Federation Establishment,concept,PREREQUISITE_OF,First Indochina War Outbreak,concept,A taught first,,HIST_3003_triples_raw.json
+HIST_3003,Viet Minh Formation and Goals,concept,PREREQUISITE_OF,Geneva Accords and Division,concept,A taught first,,HIST_3003_triples_raw.json
+HIST_3003,Viet Minh Formation and Goals,concept,PREREQUISITE_OF,US Military Advisers Arrive,concept,A taught first,,HIST_3003_triples_raw.json
+HIST_3003,First Indochina War Outbreak,concept,PREREQUISITE_OF,US Military Advisers Arrive,concept,A taught first,,HIST_3003_triples_raw.json
+HIST_3003,Vietnamese History Overview,concept,PART_OF,Vietnamese History,topic,,,HIST_3003_triples_raw.json
+HIST_3003,French Colonization of Vietnam,concept,PART_OF,French Colonial Era,topic,,,HIST_3003_triples_raw.json
+HIST_3003,US Support for French Colonization,concept,PART_OF,French Colonial Era,topic,,,HIST_3003_triples_raw.json
+HIST_3003,Viet Minh Formation and Goals,concept,PART_OF,Indochinese Federation Establishment,concept,,,HIST_3003_triples_raw.json
+HIST_3003,US-Vietnam War,topic,USED_FOR,Contested Memories and Representations,concept,,topic used for something - check direction,HIST_3003_triples_raw.json
+HIST_3003,Vietnamese History,topic,USED_FOR,Indochinese Federation Establishment,concept,,topic used for something - check direction,HIST_3003_triples_raw.json

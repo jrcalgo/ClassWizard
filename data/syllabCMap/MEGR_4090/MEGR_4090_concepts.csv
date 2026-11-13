@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_4090,topic,Nonlinear Systems,Nonlinear Systems,1,verified,Nonlinear Systems,MEGR_4090_concepts_raw.json
+MEGR_4090,topic,Mathematical Modeling,Mathematical Modeling,1,inferred,Mathematical Modeling,MEGR_4090_concepts_raw.json
+MEGR_4090,topic,Linearization and Approximation,Linearization and Approximation,1,inferred,Linearization and Approximation,MEGR_4090_concepts_raw.json
+MEGR_4090,topic,Stability Analysis,Stability Analysis,1,inferred,Stability Analysis,MEGR_4090_concepts_raw.json
+MEGR_4090,topic,Control Design Methods,Control Design Methods,1,inferred,Control Design Methods,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Linear vs. Nonlinear Systems,Linear vs. Nonlinear Systems,1,inferred,Linear vs. Nonlinear Systems,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Types of Nonlinearity,Types of Nonlinearity,1,inferred,Types of Nonlinearity,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,State-Space Representation,State-Space Representation,1,inferred,State-Space Representation,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Differential Equations,Differential Equations,1,inferred,Differential Equations,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Lyapunov Linearization Method,Lyapunov Linearization Method,1,inferred,Lyapunov Linearization Method,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Tangent Linearization Technique,Tangent Linearization Technique,1,inferred,Tangent Linearization Technique,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Approximation Error Analysis,Approximation Error Analysis,1,inferred,Approximation Error Analysis,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Lyapunov Stability Criteria,Lyapunov Stability Criteria,1,inferred,Lyapunov Stability Criteria,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,LaSalle's Invariance Principle,LaSalle's Invariance Principle,1,inferred,LaSalle's Invariance Principle,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Feedback Linearization Control,Feedback Linearization Control,1,inferred,Feedback Linearization Control,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Sliding Mode Control Techniques,Sliding Mode Control Techniques,1,inferred,Sliding Mode Control Techniques,MEGR_4090_concepts_raw.json
+MEGR_4090,concept,Adaptive Control Strategies,Adaptive Control Strategies,1,inferred,Adaptive Control Strategies,MEGR_4090_concepts_raw.json

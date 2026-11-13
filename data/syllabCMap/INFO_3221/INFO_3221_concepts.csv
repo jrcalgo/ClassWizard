@@ -1,0 +1,40 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+INFO_3221,topic,Business analytics,Business analytics,1,verified,Business analytics,INFO_3221_concepts_raw.json
+INFO_3221,topic,fundamental programming constructs,fundamental programming constructs,1,verified,fundamental programming constructs,INFO_3221_concepts_raw.json
+INFO_3221,topic,data analytics problems,data analytics problems,1,verified,data analytics problems,INFO_3221_concepts_raw.json
+INFO_3221,topic,structured and unstructured data,structured and unstructured data,1,verified,structured and unstructured data,INFO_3221_concepts_raw.json
+INFO_3221,topic,predictive models,predictive models,1,verified,predictive models,INFO_3221_concepts_raw.json
+INFO_3221,concept,Visualizations,visualizations,3,verified,Visualizations,INFO_3221_concepts_raw.json
+INFO_3221,topic,business decisions,business decisions,1,verified,business decisions,INFO_3221_concepts_raw.json
+INFO_3221,topic,actions,actions,1,verified,actions,INFO_3221_concepts_raw.json
+INFO_3221,concept,Data Representations,data representations,4,verified,Data Representations,INFO_3221_concepts_raw.json
+INFO_3221,concept,Data Types,data types,15,verified,Data Types,INFO_3221_concepts_raw.json
+INFO_3221,concept,Data Structures,Data Structures,9,verified,Data Structures,INFO_3221_concepts_raw.json
+INFO_3221,concept,Data Frames,data frames,11,verified,Data Frames,INFO_3221_concepts_raw.json
+INFO_3221,topic,programming logic,programming logic,4,verified,programming logic,INFO_3221_concepts_raw.json
+INFO_3221,topic,data-driven problems,data-driven problems,1,verified,data-driven problems,INFO_3221_concepts_raw.json
+INFO_3221,tool,Python3,Python3,12,verified,Python3,INFO_3221_concepts_raw.json
+INFO_3221,concept,NumPy,NumPy,5,verified,NumPy,INFO_3221_concepts_raw.json
+INFO_3221,tool,Matplotlib,Matplotlib,2,verified,Matplotlib,INFO_3221_concepts_raw.json
+INFO_3221,topic,Dictionaries,Dictionaries,5,verified,Dictionaries,INFO_3221_concepts_raw.json
+INFO_3221,topic,While Loop,While Loop,2,verified,While Loop,INFO_3221_concepts_raw.json
+INFO_3221,topic,Random Numbers,Random Numbers,4,verified,Random Numbers,INFO_3221_concepts_raw.json
+INFO_3221,topic,DataFrames,DataFrames,3,verified,DataFrames,INFO_3221_concepts_raw.json
+INFO_3221,tool,Pandas,Pandas,8,verified,Pandas,INFO_3221_concepts_raw.json
+INFO_3221,topic,Summary Statistics,Summary Statistics,3,verified,Summary Statistics,INFO_3221_concepts_raw.json
+INFO_3221,topic,Explicit Indexes,Explicit Indexes,1,verified,Explicit Indexes,INFO_3221_concepts_raw.json
+INFO_3221,concept,Python3 Functions,Python3 Functions,1,verified,Python3 Functions,INFO_3221_concepts_raw.json
+INFO_3221,concept,Importing Packages,Importing Packages,1,verified,Importing Packages,INFO_3221_concepts_raw.json
+INFO_3221,concept,Data Wrangling,data wrangling,15,verified,Data Wrangling,INFO_3221_concepts_raw.json
+INFO_3221,concept,Subset Data,Subset Data,3,verified,Subset Data,INFO_3221_concepts_raw.json
+INFO_3221,concept,Slice Data,Slice Data,4,verified,Slice Data,INFO_3221_concepts_raw.json
+INFO_3221,concept,Modify Data,modify data,4,verified,Modify Data,INFO_3221_concepts_raw.json
+INFO_3221,concept,Comparison Operators,Comparison Operators,2,verified,Comparison Operators,INFO_3221_concepts_raw.json
+INFO_3221,concept,Dictionary Data Structures,Dictionary Data Structures,1,verified,Dictionary Data Structures,INFO_3221_concepts_raw.json
+INFO_3221,concept,Data Frame Operations,Data Frame Operations,1,verified,Data Frame Operations,INFO_3221_concepts_raw.json
+INFO_3221,concept,Random Numbers Generation,Random Numbers Generation,1,verified,Random Numbers Generation,INFO_3221_concepts_raw.json
+INFO_3221,concept,Data Visualization Methods,Data Visualization Methods,1,verified,Data Visualization Methods,INFO_3221_concepts_raw.json
+INFO_3221,concept,Bar Charts,Bar Charts,1,verified,Bar Charts,INFO_3221_concepts_raw.json
+INFO_3221,concept,Scatter Plots,Scatter Plots,1,verified,Scatter Plots,INFO_3221_concepts_raw.json
+INFO_3221,concept,Histograms,Histograms,1,verified,Histograms,INFO_3221_concepts_raw.json
+INFO_3221,concept,Box Plots,Box Plots,1,verified,Box Plots,INFO_3221_concepts_raw.json

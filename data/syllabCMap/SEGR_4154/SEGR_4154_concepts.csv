@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_4154,topic,Bayesian Analysis,Bayesian Analysis,1,verified,Bayesian Analysis,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Human Decision,Human Decision,1,verified,Human Decision,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Discriminant Analysis,Discriminant analysis,1,verified,Discriminant Analysis,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,ROC Curve,ROC curve,1,verified,ROC Curve,SEGR_4154_concepts_raw.json
+SEGR_4154,concept,Expected Value Maximization,Expected value maximization,1,verified,Expected Value Maximization,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Decision Trees,decision trees,1,verified,Decision Trees,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Bayes' Theorem,Bayes' theorem,1,verified,Bayes' Theorem,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Utility Functions,utility functions,1,verified,Utility Functions,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Prospect Theory,prospect theory,1,verified,Prospect Theory,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Bayesian Networks,Bayesian networks,1,verified,Bayesian Networks,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Multi-Attribute Problems,multi-attribute problems,1,verified,Multi-Attribute Problems,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Data Envelopment Analysis,data envelopment analysis,1,verified,Data Envelopment Analysis,SEGR_4154_concepts_raw.json
+SEGR_4154,topic,Group Decisions,group decisions,1,verified,Group Decisions,SEGR_4154_concepts_raw.json
+SEGR_4154,concept,Axiomatic Utility Controversy,Axiomatic utility controversies,1,verified,Axiomatic Utility Controversy,SEGR_4154_concepts_raw.json

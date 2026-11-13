@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_6120,meeting needs of diverse students,concept,PREREQUISITE_OF,culturally responsive teaching practices,concept,same unit,,ADMN_6120_triples_raw.json
+ADMN_6120,curriculum experiences and outcomes,concept,PART_OF,Teaching Models and Theories,topic,,,ADMN_6120_triples_raw.json
+ADMN_6120,collaborative planning and problem solving,concept,PART_OF,Teaching Assistants and Staff Development,topic,,,ADMN_6120_triples_raw.json
+ADMN_6120,Brain-Based Learning and Instruction,topic,USED_FOR,best practices for student achievement,concept,,topic used for something - check direction,ADMN_6120_triples_raw.json

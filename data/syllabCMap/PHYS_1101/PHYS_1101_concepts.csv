@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_1101,topic,Rotational Motion,rotational motion,2,verified,Rotational Motion,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,equilibrium conditions,equilibrium conditions,2,verified,equilibrium conditions,PHYS_1101_concepts_raw.json
+PHYS_1101,topic,Kinematics Basics,Kinematics Basics,1,inferred,Kinematics Basics,PHYS_1101_concepts_raw.json
+PHYS_1101,topic,Kinematics 2D Motion,Kinematics 2D Motion,1,inferred,Kinematics 2D Motion,PHYS_1101_concepts_raw.json
+PHYS_1101,topic,Rotational Kinematics,Rotational Kinematics,2,inferred,Rotational Kinematics,PHYS_1101_concepts_raw.json
+PHYS_1101,topic,Newton's Laws 1D Motion,Newton's Laws 1D Motion,1,inferred,Newton's Laws 1D Motion,PHYS_1101_concepts_raw.json
+PHYS_1101,topic,Newton's Laws 2D Motion,Newton's Laws 2D Motion,1,inferred,Newton's Laws 2D Motion,PHYS_1101_concepts_raw.json
+PHYS_1101,topic,Energy Basics,Energy Basics,1,inferred,Energy Basics,PHYS_1101_concepts_raw.json
+PHYS_1101,topic,Momentum Conservation,Momentum Conservation,3,inferred,Momentum Conservation,PHYS_1101_concepts_raw.json
+PHYS_1101,topic,Review and Practice,Review and Practice,1,inferred,Review and Practice,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,translational motion in one dimension,Translational motion in one dimension,1,inferred,translational motion in one dimension,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,velocity and acceleration,Velocity and acceleration,1,inferred,velocity and acceleration,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,displacement and distance,Displacement and distance,1,inferred,displacement and distance,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,motion in two dimensions,Motion in two dimensions,1,inferred,motion in two dimensions,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,projectile motion,Projectile motion,1,inferred,projectile motion,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,relative motion,Relative motion,1,inferred,relative motion,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,angular displacement and velocity,Angular displacement and velocity,1,inferred,angular displacement and velocity,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,torque and rotational inertia,Torque and rotational inertia,1,inferred,torque and rotational inertia,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,rotational kinematic equations,Rotational kinematic equations,1,inferred,rotational kinematic equations,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,first law of motion,First law of motion,1,inferred,first law of motion,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,second law of motion,Second law of motion,1,inferred,second law of motion,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,kinetic energy and potential energy,Kinetic energy and potential energy,1,inferred,kinetic energy and potential energy,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,conservation of mechanical energy,Conservation of mechanical energy,1,inferred,conservation of mechanical energy,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,work and efficiency,Work and efficiency,1,inferred,work and efficiency,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,linear momentum and angular momentum,Linear momentum and angular momentum,1,inferred,linear momentum and angular momentum,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,conservation of linear momentum,Conservation of linear momentum,1,inferred,conservation of linear momentum,PHYS_1101_concepts_raw.json
+PHYS_1101,concept,impulse and momentum change,Impulse and momentum change,1,inferred,impulse and momentum change,PHYS_1101_concepts_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1102,diatonic scale recognition,topic,PREREQUISITE_OF,key signatures,topic,same unit,,MUSC_1102_triples_raw.json
+MUSC_1102,clef and pitch reading,concept,PREREQUISITE_OF,key signatures,topic,same unit,,MUSC_1102_triples_raw.json
+MUSC_1102,clef and pitch reading,concept,PREREQUISITE_OF,meter (time) signatures,topic,same unit,,MUSC_1102_triples_raw.json
+MUSC_1102,clef and pitch reading,concept,PREREQUISITE_OF,interval recognition and labeling,topic,A mentioned first,,MUSC_1102_triples_raw.json
+MUSC_1102,rudimentary concepts of compositional form in song structure,topic,PREREQUISITE_OF,basic Roman numeral and Figured Bass analysis of triads and seventh chords,topic,B mentioned first,,MUSC_1102_triples_raw.json
+MUSC_1102,interval recognition,concept,PART_OF,interval recognition and labeling,topic,,,MUSC_1102_triples_raw.json
+MUSC_1102,triad formation,concept,PART_OF,basic Roman numeral and Figured Bass analysis of triads and seventh chords,topic,,,MUSC_1102_triples_raw.json
+MUSC_1102,Solfège sight-singing,concept,PART_OF,aural skills,method,,part is broader than whole - check direction,MUSC_1102_triples_raw.json
+MUSC_1102,rhythm reading,method,PART_OF,aural skills,method,,,MUSC_1102_triples_raw.json
+MUSC_1102,rhythmic and melodic dictation through listening,method,PART_OF,aural skills,method,,,MUSC_1102_triples_raw.json

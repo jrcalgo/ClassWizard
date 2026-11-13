@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_7110,Criterion-Referenced Assessments,topic,PREREQUISITE_OF,Demonstration of Competencies,topic,A taught first,,CSLG_7110_triples_raw.json
+CSLG_7110,Individual Assessment,topic,PREREQUISITE_OF,Demonstration of Competencies,topic,B mentioned first,,CSLG_7110_triples_raw.json
+CSLG_7110,Criterion-Referenced Assessments,topic,PART_OF,Assessment,topic,,,CSLG_7110_triples_raw.json
+CSLG_7110,criterion-referenced assessment instruments,concept,PART_OF,Assessment Instruments,topic,,,CSLG_7110_triples_raw.json
+CSLG_7110,Demonstration of Competencies,topic,PART_OF,Individual Assessment,topic,,,CSLG_7110_triples_raw.json
+CSLG_7110,Assessment Instruments,topic,PART_OF,Assessment,topic,,,CSLG_7110_triples_raw.json
+CSLG_7110,Assessment Instruments,topic,USED_FOR,Criterion-Referenced Assessments,topic,,topic used for something - check direction,CSLG_7110_triples_raw.json

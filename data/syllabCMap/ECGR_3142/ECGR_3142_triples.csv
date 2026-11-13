@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_3142,Electromagnetic Devices,topic,PREREQUISITE_OF,Electric Machines,topic,A taught first,,ECGR_3142_triples_raw.json
+ECGR_3142,Electromagnetic Devices,topic,PREREQUISITE_OF,Photovoltaic Power Conversion,topic,A taught first,,ECGR_3142_triples_raw.json
+ECGR_3142,Electromechanical Torque Development,topic,PREREQUISITE_OF,Electric Machines,topic,B taught first,B is taught before A - check,ECGR_3142_triples_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HSMT_2101,Healthcare System Structure,topic,PREREQUISITE_OF,Healthcare Policy and Law,topic,A taught first,,HSMT_2101_triples_raw.json
+HSMT_2101,Healthcare Finance and Economics,topic,PREREQUISITE_OF,Quality Improvement and Patient Safety,topic,A taught first,,HSMT_2101_triples_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_5279,Cell Biology,topic,PREREQUISITE_OF,Neurobiology,topic,A mentioned first,,BIOL_5279_triples_raw.json
+BIOL_5279,Cell Biology,topic,PREREQUISITE_OF,Diseases of the Nervous System,topic,A taught first,,BIOL_5279_triples_raw.json
+BIOL_5279,Cell Biology,topic,PREREQUISITE_OF,Nervous System,topic,B taught first,B is taught before A - check,BIOL_5279_triples_raw.json

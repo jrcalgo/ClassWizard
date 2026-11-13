@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4600,Senior Seminar,topic,SUBTYPE_OF,Biology,topic,,,BIOL_4600_triples_raw.json
+BIOL_4600,scientific presentation,method,USED_FOR,Senior Seminar,topic,,,BIOL_4600_triples_raw.json
+BIOL_4600,peer review process,method,USED_FOR,Senior Seminar,topic,,,BIOL_4600_triples_raw.json

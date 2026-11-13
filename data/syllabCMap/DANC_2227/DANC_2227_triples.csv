@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Improvisation techniques,concept,A taught first,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Performance anxiety,concept,A taught first,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Physical practice requirements,concept,same unit,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Intellectual engagement expectations,concept,same unit,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Creative expression guidelines,concept,same unit,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Audition process,concept,A taught first,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Choreographic analysis,concept,A taught first,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Jazz dance history,concept,A taught first,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Distinguished alumni achievements,concept,A taught first,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Alumni networking strategies,concept,A taught first,,DANC_2227_triples_raw.json
+DANC_2227,Contemporary jazz styles,concept,PREREQUISITE_OF,Professional development opportunities,concept,A taught first,,DANC_2227_triples_raw.json
+DANC_2227,Physical practice requirements,concept,PART_OF,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Intellectual engagement expectations,concept,PART_OF,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Creative expression guidelines,concept,PART_OF,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Audition process,concept,PART_OF,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Choreographic analysis,concept,PART_OF,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Jazz dance history,concept,PART_OF,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Distinguished alumni achievements,concept,PART_OF,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Alumni networking strategies,concept,PART_OF,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Professional development opportunities,concept,PART_OF,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Physical practice requirements,concept,USED_FOR,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Intellectual engagement expectations,concept,USED_FOR,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Creative expression guidelines,concept,USED_FOR,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Audition process,concept,USED_FOR,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Choreographic analysis,concept,USED_FOR,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Jazz dance history,concept,USED_FOR,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Distinguished alumni achievements,concept,USED_FOR,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json
+DANC_2227,Professional development opportunities,concept,USED_FOR,Contemporary jazz styles,concept,,,DANC_2227_triples_raw.json

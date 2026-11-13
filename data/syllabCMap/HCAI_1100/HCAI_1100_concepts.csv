@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HCAI_1100,topic,AI Fundamentals,AI Fundamentals,1,verified,AI Fundamentals,HCAI_1100_concepts_raw.json
+HCAI_1100,topic,Literacy for All,Literacy for All,1,verified,Literacy for All,HCAI_1100_concepts_raw.json
+HCAI_1100,topic,AI,AI,12,verified,Introduction to AI,HCAI_1100_concepts_raw.json
+HCAI_1100,method,hallucination,hallucination,1,verified,"Assessing AI outputs for accuracy, hallucination, bias, and relevance",HCAI_1100_concepts_raw.json
+HCAI_1100,method,bias,bias,2,verified,"Assessing AI outputs for accuracy, hallucination, bias, and relevance",HCAI_1100_concepts_raw.json
+HCAI_1100,method,relevance,relevance,1,verified,"Assessing AI outputs for accuracy, hallucination, bias, and relevance",HCAI_1100_concepts_raw.json
+HCAI_1100,method,creative writing,creative writing,1,verified,"Utilizing AI as a partner for brainstorming, creative writing, visual arts, and research",HCAI_1100_concepts_raw.json
+HCAI_1100,method,visual arts,visual arts,1,verified,"Utilizing AI as a partner for brainstorming, creative writing, visual arts, and research",HCAI_1100_concepts_raw.json
+HCAI_1100,method,research,research,1,verified,"Utilizing AI as a partner for brainstorming, creative writing, visual arts, and research",HCAI_1100_concepts_raw.json
+HCAI_1100,method,social,social,1,verified,"Articulating the environmental, social, and privacy implications of AI infrastructure",HCAI_1100_concepts_raw.json
+HCAI_1100,method,privacy implications of AI infrastructure,privacy implications of AI infrastructure,1,verified,"Articulating the environmental, social, and privacy implications of AI infrastructure",HCAI_1100_concepts_raw.json
+HCAI_1100,method,prompts,prompts,2,verified,"Maintaining a transparent portfolio citing AI usage, prompts, and editing processes",HCAI_1100_concepts_raw.json
+HCAI_1100,method,editing processes,editing processes,1,verified,"Maintaining a transparent portfolio citing AI usage, prompts, and editing processes",HCAI_1100_concepts_raw.json
+HCAI_1100,tool,Gemini Gems,Gemini Gems,1,verified,Gemini Gems,HCAI_1100_concepts_raw.json

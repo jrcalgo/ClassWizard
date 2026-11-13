@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WRDS_3215,fact-checking and verification,concept,PREREQUISITE_OF,counter-narratives and counter-speech,concept,same unit,,WRDS_3215_triples_raw.json
+WRDS_3215,algorithmic composing,method,PREREQUISITE_OF,algorithmic composition methods,concept,B mentioned first,,WRDS_3215_triples_raw.json
+WRDS_3215,digital cultures and literacies,concept,PART_OF,Digital Rhetoric,topic,,,WRDS_3215_triples_raw.json
+WRDS_3215,algorithmic composing,method,USED_FOR,algorithmic composition methods,concept,,,WRDS_3215_triples_raw.json

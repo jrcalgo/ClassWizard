@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_6603,relevance,concept,PREREQUISITE_OF,rigor,concept,same unit,,NURS_6603_triples_raw.json
+NURS_6603,quality,concept,PREREQUISITE_OF,health sciences literature review,concept,B taught first,B is taught before A - check,NURS_6603_triples_raw.json
+NURS_6603,relevance,concept,PREREQUISITE_OF,implications for nursing practice,concept,A taught first,,NURS_6603_triples_raw.json
+NURS_6603,rigor,concept,PREREQUISITE_OF,patterns,concept,A taught first,,NURS_6603_triples_raw.json
+NURS_6603,transparent and ethically responsible methods,concept,USED_FOR,health sciences literature review,concept,,,NURS_6603_triples_raw.json
+NURS_6603,transparent and ethically responsible methods,concept,USED_FOR,reproducible search strategy,concept,,,NURS_6603_triples_raw.json

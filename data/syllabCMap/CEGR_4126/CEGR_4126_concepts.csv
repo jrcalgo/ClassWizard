@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_4126,topic,Codes,Codes,1,verified,Codes,CEGR_4126_concepts_raw.json
+CEGR_4126,topic,Loads and Nodes,Loads and Nodes,1,verified,Loads and Nodes,CEGR_4126_concepts_raw.json
+CEGR_4126,topic,Structural Load Determination,Structural Load Determination,1,verified,Structural Load Determination,CEGR_4126_concepts_raw.json
+CEGR_4126,topic,ASCE7,ASCE7,1,verified,ASCE7,CEGR_4126_concepts_raw.json
+CEGR_4126,topic,IBC,IBC,3,verified,IBC,CEGR_4126_concepts_raw.json
+CEGR_4126,topic,IRC,IRC,2,verified,IRC,CEGR_4126_concepts_raw.json
+CEGR_4126,tool,Revit,Revit,1,verified,Revit,CEGR_4126_concepts_raw.json
+CEGR_4126,tool,ETABS/SAP2000,ETABS/SAP2000,1,verified,ETABS/SAP2000,CEGR_4126_concepts_raw.json
+CEGR_4126,tool,RFEM6,RFEM6,1,verified,RFEM6,CEGR_4126_concepts_raw.json
+CEGR_4126,concept,load paths,load paths,7,verified,load paths,CEGR_4126_concepts_raw.json
+CEGR_4126,concept,lateral loads,lateral loads,3,verified,lateral loads,CEGR_4126_concepts_raw.json
+CEGR_4126,concept,governing load standards,governing load standards,1,verified,governing load standards,CEGR_4126_concepts_raw.json

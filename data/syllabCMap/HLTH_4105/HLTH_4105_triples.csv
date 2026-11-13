@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_4105,Needs Assessment Methods,concept,PREREQUISITE_OF,Goal Setting Strategies,concept,same unit,,HLTH_4105_triples_raw.json
+HLTH_4105,Needs Assessment Methods,concept,PREREQUISITE_OF,Outcome Evaluation Techniques,concept,same unit,,HLTH_4105_triples_raw.json
+HLTH_4105,Ecological Model Applications,concept,PREREQUISITE_OF,Social Determinants of Health,concept,same unit,,HLTH_4105_triples_raw.json
+HLTH_4105,Stakeholder Identification Techniques,concept,PREREQUISITE_OF,Partnership Building Methods,concept,same unit,,HLTH_4105_triples_raw.json
+HLTH_4105,Definition of Public Health,concept,PART_OF,Importance of Public Health,concept,,,HLTH_4105_triples_raw.json
+HLTH_4105,History of Public Health,concept,PART_OF,Importance of Public Health,concept,,,HLTH_4105_triples_raw.json
+HLTH_4105,Ecological Model Applications,concept,USED_FOR,Social Determinants of Health,concept,,,HLTH_4105_triples_raw.json

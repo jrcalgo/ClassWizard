@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_2101,DC and AC Circuits,topic,PART_OF,Circuits Fundamentals,topic,,,ETEM_2101_triples_raw.json
+ETEM_2101,AC circuits,concept,SUBTYPE_OF,DC and AC Circuits,topic,,,ETEM_2101_triples_raw.json

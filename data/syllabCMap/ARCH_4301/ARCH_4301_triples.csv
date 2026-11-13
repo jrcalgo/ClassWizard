@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_4301,Forces,topic,PREREQUISITE_OF,Structural Principles,topic,A taught first,,ARCH_4301_triples_raw.json
+ARCH_4301,Forces,topic,PART_OF,Structural Principles,topic,,,ARCH_4301_triples_raw.json
+ARCH_4301,building prototypes,method,USED_FOR,Structural Principles,topic,,,ARCH_4301_triples_raw.json
+ARCH_4301,hands-on experimentation,method,USED_FOR,Structural Principles,topic,,,ARCH_4301_triples_raw.json
+ARCH_4301,documenting,method,USED_FOR,Structural Principles,topic,,,ARCH_4301_triples_raw.json

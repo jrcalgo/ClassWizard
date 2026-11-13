@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_8671,Experimental Group Designs,concept,PREREQUISITE_OF,Quasi-Experimental Group Designs,concept,same unit,,SPED_8671_triples_raw.json
+SPED_8671,Experimental Group Designs,concept,PREREQUISITE_OF,Control Group Designs,concept,same unit,,SPED_8671_triples_raw.json
+SPED_8671,ABAB Design Basics,concept,PREREQUISITE_OF,Multiple Baseline Design,concept,same unit,,SPED_8671_triples_raw.json
+SPED_8671,ABAB Design Basics,concept,PREREQUISITE_OF,Changing Criterion Design,concept,same unit,,SPED_8671_triples_raw.json
+SPED_8671,Phenomenological Research Design,concept,PREREQUISITE_OF,Grounded Theory Basics,concept,same unit,,SPED_8671_triples_raw.json
+SPED_8671,Experimental Group Designs,concept,PART_OF,Group Designs,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Quasi-Experimental Group Designs,concept,PART_OF,Group Designs,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Control Group Designs,concept,PART_OF,Group Designs,topic,,,SPED_8671_triples_raw.json
+SPED_8671,ABAB Design Basics,concept,PART_OF,Single Subject Designs,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Multiple Baseline Design,concept,PART_OF,Single Subject Designs,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Changing Criterion Design,concept,PART_OF,Single Subject Designs,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Questionnaire Development,concept,PART_OF,Survey Research Methods,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Sampling Strategies Used,concept,PART_OF,Survey Research Methods,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Data Analysis Techniques,concept,PART_OF,Survey Research Methods,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Phenomenological Research Design,concept,PART_OF,Qualitative Research Approaches,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Grounded Theory Basics,concept,PART_OF,Qualitative Research Approaches,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Evaluation Purpose and Goals,concept,PART_OF,Program Evaluation Fundamentals,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Stakeholder Involvement Process,concept,PART_OF,Program Evaluation Fundamentals,topic,,,SPED_8671_triples_raw.json
+SPED_8671,Data Collection Methods Used,concept,PART_OF,Program Evaluation Fundamentals,topic,,,SPED_8671_triples_raw.json

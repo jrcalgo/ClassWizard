@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_6220,topic,Pharmacology Fundamentals,Pharmacology Fundamentals,1,inferred,Pharmacology Fundamentals,NURS_6220_concepts_raw.json
+NURS_6220,topic,Pathophysiology Review,Pathophysiology Review,1,inferred,Pathophysiology Review,NURS_6220_concepts_raw.json
+NURS_6220,topic,Pharmacotherapeutic Principles,Pharmacotherapeutic Principles,1,inferred,Pharmacotherapeutic Principles,NURS_6220_concepts_raw.json
+NURS_6220,topic,Prescriptive Authority and Law,Prescriptive Authority and Law,1,inferred,Prescriptive Authority and Law,NURS_6220_concepts_raw.json
+NURS_6220,topic,Common Medical Conditions,Common Medical Conditions,1,inferred,Common Medical Conditions,NURS_6220_concepts_raw.json
+NURS_6220,topic,Therapeutic Alternatives and Monitoring,Therapeutic Alternatives and Monitoring,1,inferred,Therapeutic Alternatives and Monitoring,NURS_6220_concepts_raw.json
+NURS_6220,topic,Clinical Resources and Information,Clinical Resources and Information,1,inferred,Clinical Resources and Information,NURS_6220_concepts_raw.json
+NURS_6220,concept,Drug Mechanism of Action,Drug Mechanism of Action,1,inferred,Drug Mechanism of Action,NURS_6220_concepts_raw.json
+NURS_6220,concept,Receptor Binding Theory,Receptor Binding Theory,1,inferred,Receptor Binding Theory,NURS_6220_concepts_raw.json
+NURS_6220,concept,Pharmacokinetic Processes,Pharmacokinetic Processes,1,inferred,Pharmacokinetic Processes,NURS_6220_concepts_raw.json
+NURS_6220,concept,Absorption and Distribution,Absorption and Distribution,1,inferred,Absorption and Distribution,NURS_6220_concepts_raw.json
+NURS_6220,concept,Metabolism and Excretion,Metabolism and Excretion,1,inferred,Metabolism and Excretion,NURS_6220_concepts_raw.json
+NURS_6220,concept,Chronic Disease Management,Chronic Disease Management,1,inferred,Chronic Disease Management,NURS_6220_concepts_raw.json
+NURS_6220,concept,Acute Inflammatory Response,Acute Inflammatory Response,1,inferred,Acute Inflammatory Response,NURS_6220_concepts_raw.json
+NURS_6220,concept,Cardiovascular System Pathology,Cardiovascular System Pathology,1,inferred,Cardiovascular System Pathology,NURS_6220_concepts_raw.json
+NURS_6220,concept,Neurological System Disorders,Neurological System Disorders,1,inferred,Neurological System Disorders,NURS_6220_concepts_raw.json
+NURS_6220,concept,Therapeutic Index and Ratio,Therapeutic Index and Ratio,1,inferred,Therapeutic Index and Ratio,NURS_6220_concepts_raw.json
+NURS_6220,concept,Drug Efficacy and Potency,Drug Efficacy and Potency,1,inferred,Drug Efficacy and Potency,NURS_6220_concepts_raw.json
+NURS_6220,concept,Pharmacokinetic-Pharmacodynamic Relationship,Pharmacokinetic-Pharmacodynamic Relationship,1,inferred,Pharmacokinetic-Pharmacodynamic Relationship,NURS_6220_concepts_raw.json
+NURS_6220,concept,Toxicity and Adverse Effects,Toxicity and Adverse Effects,1,inferred,Toxicity and Adverse Effects,NURS_6220_concepts_raw.json
+NURS_6220,concept,Nurse Practitioner Scope of Practice,Nurse Practitioner Scope of Practice,1,inferred,Nurse Practitioner Scope of Practice,NURS_6220_concepts_raw.json
+NURS_6220,concept,Prescription Writing Guidelines,Prescription Writing Guidelines,1,inferred,Prescription Writing Guidelines,NURS_6220_concepts_raw.json
+NURS_6220,concept,Medication Error Prevention Strategies,Medication Error Prevention Strategies,1,inferred,Medication Error Prevention Strategies,NURS_6220_concepts_raw.json
+NURS_6220,concept,Patient Confidentiality and Consent,Patient Confidentiality and Consent,1,inferred,Patient Confidentiality and Consent,NURS_6220_concepts_raw.json
+NURS_6220,concept,Diabetes Mellitus Management,Diabetes Mellitus Management,1,inferred,Diabetes Mellitus Management,NURS_6220_concepts_raw.json
+NURS_6220,concept,Hypertension Treatment Options,Hypertension Treatment Options,1,inferred,Hypertension Treatment Options,NURS_6220_concepts_raw.json
+NURS_6220,concept,Asthma Pathophysiology and Therapy,Asthma Pathophysiology and Therapy,1,inferred,Asthma Pathophysiology and Therapy,NURS_6220_concepts_raw.json
+NURS_6220,concept,Depression Pharmacotherapy Guidelines,Depression Pharmacotherapy Guidelines,1,inferred,Depression Pharmacotherapy Guidelines,NURS_6220_concepts_raw.json
+NURS_6220,concept,Evaluating Existing Plans of Care,Evaluating Existing Plans of Care,1,inferred,Evaluating Existing Plans of Care,NURS_6220_concepts_raw.json
+NURS_6220,concept,Determining Therapeutic Alternatives,Determining Therapeutic Alternatives,1,inferred,Determining Therapeutic Alternatives,NURS_6220_concepts_raw.json
+NURS_6220,concept,Monitoring Efficacy and Toxicity,Monitoring Efficacy and Toxicity,1,inferred,Monitoring Efficacy and Toxicity,NURS_6220_concepts_raw.json
+NURS_6220,concept,Adjusting Medication Regimens,Adjusting Medication Regimens,1,inferred,Adjusting Medication Regimens,NURS_6220_concepts_raw.json

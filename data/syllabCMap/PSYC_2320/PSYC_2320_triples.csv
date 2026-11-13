@@ -1,0 +1,48 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2320,industrial-organizational psychology,concept,PREREQUISITE_OF,work motivation theories,concept,same unit,,PSYC_2320_triples_raw.json
+PSYC_2320,industrial-organizational psychology,concept,PREREQUISITE_OF,leadership styles and skills,concept,same unit,,PSYC_2320_triples_raw.json
+PSYC_2320,industrial-organizational psychology,concept,PREREQUISITE_OF,organizational structure and design,concept,same unit,,PSYC_2320_triples_raw.json
+PSYC_2320,work motivation theories,concept,PREREQUISITE_OF,job satisfaction,concept,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,work motivation theories,concept,PREREQUISITE_OF,burnout prevention,concept,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,work motivation theories,concept,PREREQUISITE_OF,organizational commitment,concept,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,work motivation theories,concept,PREREQUISITE_OF,turnover intentions,concept,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,work motivation theories,concept,PREREQUISITE_OF,job engagement,concept,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,leadership styles and skills,concept,PREREQUISITE_OF,transformational leadership,concept,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,leadership styles and skills,concept,PREREQUISITE_OF,transactional leadership,concept,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,leadership styles and skills,concept,PREREQUISITE_OF,servant leadership,concept,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,leadership styles and skills,concept,PREREQUISITE_OF,authentic leadership,concept,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PREREQUISITE_OF,conflict resolution strategies,method,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PREREQUISITE_OF,work design principles,method,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PREREQUISITE_OF,socialization through training,method,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PREREQUISITE_OF,performance measurement,method,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PREREQUISITE_OF,job analysis techniques,method,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PREREQUISITE_OF,job design principles,method,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PREREQUISITE_OF,employee selection methods,method,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PREREQUISITE_OF,change management techniques,method,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PREREQUISITE_OF,training and development programs,method,A taught first,,PSYC_2320_triples_raw.json
+PSYC_2320,job satisfaction,concept,PART_OF,industrial-organizational psychology,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,work motivation theories,concept,PART_OF,industrial-organizational psychology,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,leadership styles and skills,concept,PART_OF,industrial-organizational psychology,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational structure and design,concept,PART_OF,industrial-organizational psychology,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,burnout prevention,concept,PART_OF,work motivation theories,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,organizational commitment,concept,PART_OF,work motivation theories,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,turnover intentions,concept,PART_OF,work motivation theories,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,job engagement,concept,PART_OF,work motivation theories,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,transactional leadership,concept,PART_OF,leadership styles and skills,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,servant leadership,concept,PART_OF,leadership styles and skills,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,authentic leadership,concept,PART_OF,leadership styles and skills,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,conflict resolution strategies,method,PART_OF,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,work design principles,method,PART_OF,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,socialization through training,method,PART_OF,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,performance measurement,method,PART_OF,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,measurement of individual contributions,method,PART_OF,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,job design principles,method,PART_OF,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,change management techniques,method,PART_OF,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,training and development programs,method,PART_OF,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,work design principles,method,USED_FOR,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,socialization through training,method,USED_FOR,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,performance measurement,method,USED_FOR,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,measurement of individual contributions,method,USED_FOR,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,job analysis techniques,method,USED_FOR,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,job design principles,method,USED_FOR,organizational structure and design,concept,,,PSYC_2320_triples_raw.json
+PSYC_2320,employee selection methods,method,USED_FOR,organizational structure and design,concept,,,PSYC_2320_triples_raw.json

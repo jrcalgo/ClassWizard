@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETFS_3144,Fixed Fire Suppression Systems,concept,PREREQUISITE_OF,Portable Fire Extinguishers,concept,same unit,,ETFS_3144_triples_raw.json
+ETFS_3144,Fixed Fire Suppression Systems,concept,PREREQUISITE_OF,Suppression System Components,concept,same unit,,ETFS_3144_triples_raw.json
+ETFS_3144,Portable Fire Extinguishers,concept,PREREQUISITE_OF,Suppression System Components,concept,same unit,,ETFS_3144_triples_raw.json
+ETFS_3144,Fire Suppression Agents Types,concept,PREREQUISITE_OF,Extinguishing Mechanisms Principles,concept,same unit,,ETFS_3144_triples_raw.json
+ETFS_3144,Agent Selection Criteria,concept,PREREQUISITE_OF,Extinguishing Mechanisms Principles,concept,same unit,,ETFS_3144_triples_raw.json
+ETFS_3144,Fire Detection Sensors Types,concept,PREREQUISITE_OF,Detection System Components,concept,same unit,,ETFS_3144_triples_raw.json
+ETFS_3144,Portable Fire Extinguishers,concept,PART_OF,Fire Suppression Systems,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Suppression System Components,concept,PART_OF,Fire Suppression Systems,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Fixed Fire Suppression Systems,concept,PART_OF,Fire Suppression Systems,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Fire Suppression Agents Types,concept,PART_OF,Fire Agents and Mechanisms,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Extinguishing Mechanisms Principles,concept,PART_OF,Fire Agents and Mechanisms,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Agent Selection Criteria,concept,PART_OF,Fire Agents and Mechanisms,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Detection System Components,concept,PART_OF,Fire Detection Devices,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Smoke Generation Principles,concept,PART_OF,Smoke Production and Movement,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Smoke Behavior Characteristics,concept,PART_OF,Smoke Production and Movement,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Ventilation Strategies,concept,PART_OF,Smoke Production and Movement,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Detection System Design Considerations,concept,PART_OF,Fire Protective Detection Systems,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Alarm Signal Processing,concept,PART_OF,Fire Protective Detection Systems,topic,,,ETFS_3144_triples_raw.json
+ETFS_3144,Notification Procedures,concept,PART_OF,Fire Protective Detection Systems,topic,,,ETFS_3144_triples_raw.json

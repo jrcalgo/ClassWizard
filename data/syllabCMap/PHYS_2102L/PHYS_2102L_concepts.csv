@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_2102L,topic,Electricity,Electricity,1,verified,Electricity,PHYS_2102L_concepts_raw.json
+PHYS_2102L,topic,Magnetism,Magnetism,1,verified,Magnetism,PHYS_2102L_concepts_raw.json
+PHYS_2102L,topic,Optics,Optics,1,verified,Optics,PHYS_2102L_concepts_raw.json
+PHYS_2102L,topic,Scientific Method,scientific method,1,verified,Scientific Method,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Experimental Apparatus Familiarization,Experimental Apparatus Familiarization,1,inferred,Experimental Apparatus Familiarization,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Electric Field Introduction,Electric Field Introduction,1,inferred,Electric Field Introduction,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Charge and Coulomb's Law,Charge and Coulomb's Law,1,inferred,Charge and Coulomb's Law,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Electric Potential Basics,Electric Potential Basics,1,inferred,Electric Potential Basics,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Magnetic Fields and Forces,Magnetic Fields and Forces,1,inferred,Magnetic Fields and Forces,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Magnetic Moment and Dipole,Magnetic Moment and Dipole,1,inferred,Magnetic Moment and Dipole,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Lorentz Force Equation,Lorentz Force Equation,1,inferred,Lorentz Force Equation,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Wave-Particle Duality,Wave-Particle Duality,1,inferred,Wave-Particle Duality,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Light Refraction Basics,Light Refraction Basics,1,inferred,Light Refraction Basics,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Snell's Law Introduction,Snell's Law Introduction,1,inferred,Snell's Law Introduction,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Data Collection Techniques,Data Collection Techniques,1,inferred,Data Collection Techniques,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Graphical Analysis Methods,Graphical Analysis Methods,1,inferred,Graphical Analysis Methods,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Error Analysis and Propagation,Error Analysis and Propagation,1,inferred,Error Analysis and Propagation,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Simulation Software Basics,Simulation Software Basics,1,inferred,Simulation Software Basics,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Electric Circuit Simulations,Electric Circuit Simulations,1,inferred,Electric Circuit Simulations,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Magnetic Field Simulations,Magnetic Field Simulations,1,inferred,Magnetic Field Simulations,PHYS_2102L_concepts_raw.json
+PHYS_2102L,topic,Lab Safety Protocols,Lab Safety Protocols,1,inferred,Lab Safety Protocols,PHYS_2102L_concepts_raw.json
+PHYS_2102L,topic,Ethical Conduct in Research,Ethical Conduct in Research,1,inferred,Ethical Conduct in Research,PHYS_2102L_concepts_raw.json
+PHYS_2102L,topic,Data Management and Record-Keeping,Data Management and Record-Keeping,1,inferred,Data Management and Record-Keeping,PHYS_2102L_concepts_raw.json
+PHYS_2102L,concept,Scientific Method Basics,Scientific Method Basics,1,inferred,Scientific Method Basics,PHYS_2102L_concepts_raw.json

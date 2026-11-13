@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_1102,electric force,concept,PREREQUISITE_OF,electric field,concept,same unit,,PHYS_1102_triples_raw.json
+PHYS_1102,electric field,concept,PREREQUISITE_OF,electric potential,concept,A taught first,,PHYS_1102_triples_raw.json
+PHYS_1102,electric charge,concept,PREREQUISITE_OF,electric force,concept,A taught first,,PHYS_1102_triples_raw.json
+PHYS_1102,electric circuits,concept,PREREQUISITE_OF,electromagnetic induction,concept,A taught first,,PHYS_1102_triples_raw.json
+PHYS_1102,electric force,concept,PREREQUISITE_OF,magnetic forces,concept,A taught first,,PHYS_1102_triples_raw.json
+PHYS_1102,electric charge,concept,PART_OF,Electric Force and Field,topic,,,PHYS_1102_triples_raw.json
+PHYS_1102,electric force,concept,PART_OF,Electric Force and Field,topic,,,PHYS_1102_triples_raw.json
+PHYS_1102,electric field,concept,PART_OF,Electric Force and Field,topic,,,PHYS_1102_triples_raw.json
+PHYS_1102,electric potential,concept,PART_OF,Electric Force and Field,topic,,,PHYS_1102_triples_raw.json
+PHYS_1102,electromagnetic waves,concept,PART_OF,Optics,topic,,,PHYS_1102_triples_raw.json
+PHYS_1102,Geometric Optics,topic,PART_OF,Optics,topic,,,PHYS_1102_triples_raw.json
+PHYS_1102,Polarization of Light,topic,PART_OF,Optics,topic,,,PHYS_1102_triples_raw.json

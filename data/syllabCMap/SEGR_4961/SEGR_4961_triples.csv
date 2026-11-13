@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_4961,Energy Types Overview,topic,PART_OF,Energy Generation Methods,topic,,,SEGR_4961_triples_raw.json
+SEGR_4961,Energy Generation Methods,topic,PART_OF,Energy Conversion Processes,topic,,,SEGR_4961_triples_raw.json
+SEGR_4961,Energy Storage and Transportation,topic,PART_OF,Energy Conversion Processes,topic,,,SEGR_4961_triples_raw.json
+SEGR_4961,Environmental Impacts Analysis,topic,PART_OF,Energy Generation Methods,topic,,,SEGR_4961_triples_raw.json
+SEGR_4961,Energy Efficiency Concepts and Metrics,topic,PART_OF,Energy Generation Methods,topic,,,SEGR_4961_triples_raw.json

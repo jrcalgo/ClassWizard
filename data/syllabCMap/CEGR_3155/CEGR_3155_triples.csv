@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3155,Technical Report Writing,method,USED_FOR,Technical Report Structure,concept,,,CEGR_3155_triples_raw.json
+CEGR_3155,Technical Report Writing,method,USED_FOR,Data Presentation Techniques,concept,,,CEGR_3155_triples_raw.json
+CEGR_3155,Technical Report Writing,method,USED_FOR,Results Interpretation Guidelines,concept,,,CEGR_3155_triples_raw.json

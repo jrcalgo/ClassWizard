@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_5302,occupational standards and regulations,topic,PREREQUISITE_OF,ionizing and non-ionizing radiation,topic,A mentioned first,,ETGR_5302_triples_raw.json
+ETGR_5302,occupational standards and regulations,topic,PREREQUISITE_OF,thermal stress,topic,A taught first,,ETGR_5302_triples_raw.json
+ETGR_5302,occupational standards and regulations,topic,PREREQUISITE_OF,personal protective equipment,topic,A taught first,,ETGR_5302_triples_raw.json
+ETGR_5302,industrial hygienist's role,concept,PART_OF,Industrial Hygiene,topic,,,ETGR_5302_triples_raw.json
+ETGR_5302,industrial hygienist's role,concept,PART_OF,occupational standards and regulations,topic,,,ETGR_5302_triples_raw.json
+ETGR_5302,industrial hygienist's role,concept,PART_OF,indoor air quality,topic,,,ETGR_5302_triples_raw.json
+ETGR_5302,industrial hygienist's role,concept,PART_OF,ionizing and non-ionizing radiation,topic,,,ETGR_5302_triples_raw.json
+ETGR_5302,industrial hygienist's role,concept,PART_OF,thermal stress,topic,,,ETGR_5302_triples_raw.json
+ETGR_5302,industrial hygienist's role,concept,PART_OF,personal protective equipment,topic,,,ETGR_5302_triples_raw.json
+ETGR_5302,industrial hygienist's role,concept,PART_OF,engineering controls,topic,,,ETGR_5302_triples_raw.json
+ETGR_5302,industrial hygienist's role,concept,PART_OF,program management,topic,,,ETGR_5302_triples_raw.json

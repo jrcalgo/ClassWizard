@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MPAD_6126,topic,Data Analysis for Decision Making,Data Analysis for Decision Making,1,verified,Data Analysis for Decision Making,MPAD_6126_concepts_raw.json
+MPAD_6126,topic,Hypothesis Tests,hypothesis tests,1,verified,Introduction to Hypothesis Tests,MPAD_6126_concepts_raw.json
+MPAD_6126,method,confidence intervals,confidence intervals,1,verified,confidence intervals,MPAD_6126_concepts_raw.json
+MPAD_6126,tool,Stata,Stata,1,verified,Stata,MPAD_6126_concepts_raw.json
+MPAD_6126,topic,Confidence Intervals for Means,Confidence Intervals for Means,1,inferred,Confidence Intervals for Means,MPAD_6126_concepts_raw.json
+MPAD_6126,topic,Multiple Linear Regression Basics,Multiple Linear Regression Basics,1,inferred,Multiple Linear Regression Basics,MPAD_6126_concepts_raw.json
+MPAD_6126,topic,Regression Analysis Limitations,Regression Analysis Limitations,1,inferred,Regression Analysis Limitations,MPAD_6126_concepts_raw.json
+MPAD_6126,topic,Advanced Regression Topics,Advanced Regression Topics,1,inferred,Advanced Regression Topics,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Null and Alternative Hypotheses,Null and Alternative Hypotheses,1,inferred,Null and Alternative Hypotheses,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Test Statistics and P-Values,Test Statistics and P-Values,1,inferred,Test Statistics and P-Values,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Type I and Type II Errors,Type I and Type II Errors,1,inferred,Type I and Type II Errors,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Margin of Error and Confidence Level,Margin of Error and Confidence Level,1,inferred,Margin of Error and Confidence Level,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Standard Error of the Mean,Standard Error of the Mean,1,inferred,Standard Error of the Mean,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Interval Estimation for Population Parameters,Interval Estimation for Population Parameters,1,inferred,Interval Estimation for Population Parameters,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Model Assumptions and Diagnostics,Model Assumptions and Diagnostics,1,inferred,Model Assumptions and Diagnostics,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Coefficient Estimates and Standard Errors,Coefficient Estimates and Standard Errors,1,inferred,Coefficient Estimates and Standard Errors,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Interpretation of Coefficient Values,Interpretation of Coefficient Values,1,inferred,Interpretation of Coefficient Values,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Assumption Violations and Remedies,Assumption Violations and Remedies,1,inferred,Assumption Violations and Remedies,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Omitted Variable Bias and Endogeneity,Omitted Variable Bias and Endogeneity,1,inferred,Omitted Variable Bias and Endogeneity,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Model Specification and Selection,Model Specification and Selection,1,inferred,Model Specification and Selection,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Interaction Terms and Non-Linear Effects,Interaction Terms and Non-Linear Effects,1,inferred,Interaction Terms and Non-Linear Effects,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Dummy Variables and Categorical Predictors,Dummy Variables and Categorical Predictors,1,inferred,Dummy Variables and Categorical Predictors,MPAD_6126_concepts_raw.json
+MPAD_6126,concept,Model Evaluation Metrics and Criteria,Model Evaluation Metrics and Criteria,1,inferred,Model Evaluation Metrics and Criteria,MPAD_6126_concepts_raw.json

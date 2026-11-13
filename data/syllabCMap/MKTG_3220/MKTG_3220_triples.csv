@@ -1,0 +1,65 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3220,Search Engine Optimization,concept,PREREQUISITE_OF,Digital Advertising,concept,same unit,,MKTG_3220_triples_raw.json
+MKTG_3220,Search Engine Optimization,concept,PREREQUISITE_OF,User Experience Design,concept,same unit,,MKTG_3220_triples_raw.json
+MKTG_3220,Search Engine Optimization,concept,PREREQUISITE_OF,Digital Marketing Strategy,concept,same unit,,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Advertising,concept,PREREQUISITE_OF,Social Media Marketing,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Advertising,concept,PREREQUISITE_OF,Website Development Principles,concept,same unit,,MKTG_3220_triples_raw.json
+MKTG_3220,User Experience Design,concept,PREREQUISITE_OF,Landing Page Design,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,User Experience Design,concept,PREREQUISITE_OF,Conversion Rate Optimization,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,User Experience Design,concept,PREREQUISITE_OF,Call-to-Action Strategies,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Search Engine Optimization,concept,PREREQUISITE_OF,Search Engine Marketing,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Advertising,concept,PREREQUISITE_OF,Paid Search Ads,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Website Development Principles,concept,PREREQUISITE_OF,Responsive Web Design,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Search Engine Marketing,concept,PREREQUISITE_OF,Search Engine Optimization Fundamentals,concept,B taught first,B is taught before A - check,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Marketing Strategy,concept,PREREQUISITE_OF,Target Market Segmentation,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Marketing Strategy,concept,PREREQUISITE_OF,Competitor Analysis Techniques,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Marketing Strategy,concept,PREREQUISITE_OF,Content Development Strategies,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,User Experience Design,concept,PREREQUISITE_OF,Wireframing Techniques,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,User Experience Design,concept,PREREQUISITE_OF,Prototyping Methods,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,User Experience Design,concept,PREREQUISITE_OF,Usability Testing,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Search Engine Optimization,concept,PREREQUISITE_OF,Keyword Research Techniques,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Advertising,concept,PREREQUISITE_OF,Cost Per Click,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Advertising,concept,PREREQUISITE_OF,Ad Positioning Strategies,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Advertising,concept,PREREQUISITE_OF,Targeted Online Advertising,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Search Engine Marketing,concept,PREREQUISITE_OF,Link Building Strategies,concept,B taught first,B is taught before A - check,MKTG_3220_triples_raw.json
+MKTG_3220,Search Engine Marketing,concept,PREREQUISITE_OF,Anchor Text Best Practices,concept,B taught first,B is taught before A - check,MKTG_3220_triples_raw.json
+MKTG_3220,Search Engine Marketing,concept,PREREQUISITE_OF,Header Tag Hierarchy,concept,B taught first,B is taught before A - check,MKTG_3220_triples_raw.json
+MKTG_3220,Search Engine Marketing,concept,PREREQUISITE_OF,Canonicalization Rules,concept,B taught first,B is taught before A - check,MKTG_3220_triples_raw.json
+MKTG_3220,Digital Marketing Strategy,concept,PREREQUISITE_OF,Client Needs Assessment,concept,A taught first,,MKTG_3220_triples_raw.json
+MKTG_3220,Wireframing Techniques,concept,PART_OF,User Experience Design,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Prototyping Methods,concept,PART_OF,User Experience Design,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Usability Testing,concept,PART_OF,User Experience Design,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Keyword Research Techniques,concept,PART_OF,Search Engine Optimization,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Meta Tags and Descriptions,concept,PART_OF,Search Engine Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Link Building Strategies,concept,PART_OF,Search Engine Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Content Quality Metrics,concept,PART_OF,Search Engine Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Anchor Text Best Practices,concept,PART_OF,Search Engine Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Canonicalization Rules,concept,PART_OF,Search Engine Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Client Needs Assessment,concept,PART_OF,Digital Marketing Strategy,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Influencer Marketing Strategy,concept,PART_OF,Social Media Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Paid Social Advertising,concept,PART_OF,Social Media Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Organic Reach Maximization,concept,PART_OF,Social Media Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Engagement Metrics Analysis,concept,PART_OF,Social Media Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Hashtag Campaign Optimization,concept,PART_OF,Social Media Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Brand Voice Consistency,concept,PART_OF,Social Media Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Audience Targeting Techniques,concept,PART_OF,Social Media Marketing,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Video Marketing Strategy,concept,PART_OF,Video Marketing,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,YouTube Advertising Options,concept,PART_OF,Video Marketing,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Influencer Video Campaigns,concept,PART_OF,Video Marketing,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Viral Video Content Creation,concept,PART_OF,Video Marketing,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Email Marketing Strategy,concept,PART_OF,Email Marketing,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Campaign Metrics Analysis,concept,PART_OF,Email Marketing,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Subject Line Optimization,concept,PART_OF,Email Marketing,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Personalization Techniques,concept,PART_OF,Email Marketing,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,List Segmentation Methods,concept,PART_OF,Email Marketing,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Targeted Online Advertising,concept,PART_OF,Digital Advertising,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Paid Search Ads,concept,SUBTYPE_OF,Digital Advertising,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Organic Search (SEO,topic,SUBTYPE_OF,Search Engine Optimization,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Video Marketing,topic,SUBTYPE_OF,Digital Marketing Method,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Email Marketing,topic,SUBTYPE_OF,Digital Marketing Method,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,E-commerce,topic,SUBTYPE_OF,Digital Marketing & Web Analytics,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Client Selection and Team Formation,topic,SUBTYPE_OF,Digital Marketing Strategical Planning,topic,,,MKTG_3220_triples_raw.json
+MKTG_3220,Google Analytics,concept,USED_FOR,Search Engine Optimization,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Google Analytics,concept,USED_FOR,Digital Advertising,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Google Analytics,concept,USED_FOR,User Experience Design,concept,,,MKTG_3220_triples_raw.json
+MKTG_3220,Google Analytics,concept,USED_FOR,Digital Marketing Strategy,concept,,,MKTG_3220_triples_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3082,Playwright's Purpose Identification,concept,PREREQUISITE_OF,Play Analysis Techniques,method,same unit,,ENGL_3082_triples_raw.json
+ENGL_3082,Artist's Intent Recognition,method,PREREQUISITE_OF,Constructive Criticism,method,B taught first,B is taught before A - check,ENGL_3082_triples_raw.json
+ENGL_3082,Dramatic Structure Elements,concept,PREREQUISITE_OF,Symbolism in Plays,concept,same unit,,ENGL_3082_triples_raw.json
+ENGL_3082,Character Development Methods,concept,PREREQUISITE_OF,Villainous Character Analysis,concept,A taught first,,ENGL_3082_triples_raw.json
+ENGL_3082,Symbolic Meaning Interpretation,concept,PREREQUISITE_OF,Dramatic Irony Recognition,concept,same unit,,ENGL_3082_triples_raw.json
+ENGL_3082,Playwright's Purpose Identification,concept,PART_OF,Play Analysis Techniques,method,,part is broader than whole - check direction,ENGL_3082_triples_raw.json
+ENGL_3082,Artist's Intent Recognition,method,PART_OF,Constructive Criticism,method,,,ENGL_3082_triples_raw.json
+ENGL_3082,Deconstruction Methods,method,PART_OF,Play Analysis Techniques,method,,,ENGL_3082_triples_raw.json
+ENGL_3082,Constructive Criticism Skills,method,PART_OF,Constructive Criticism,method,,,ENGL_3082_triples_raw.json
+ENGL_3082,Production Commentary,method,PART_OF,Play Analysis Techniques,method,,,ENGL_3082_triples_raw.json
+ENGL_3082,Play Analysis Techniques,method,USED_FOR,Playwright's Purpose Identification,concept,,,ENGL_3082_triples_raw.json
+ENGL_3082,Production Commentary,method,USED_FOR,Symbolic Meaning Interpretation,concept,,,ENGL_3082_triples_raw.json

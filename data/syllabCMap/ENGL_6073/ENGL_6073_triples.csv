@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_6073,Research,topic,PREREQUISITE_OF,Developing a Research Project,topic,A taught first,,ENGL_6073_triples_raw.json
+ENGL_6073,Research,topic,PREREQUISITE_OF,Revision and Reenvisioning,topic,A taught first,,ENGL_6073_triples_raw.json
+ENGL_6073,Creative Possibilities in Research,concept,PART_OF,Research,topic,,,ENGL_6073_triples_raw.json
+ENGL_6073,Poeic Forms and Structures,concept,PART_OF,Poetic Forms and Methods,topic,,,ENGL_6073_triples_raw.json
+ENGL_6073,Research-Driven Poetry Techniques,concept,PART_OF,Poetic Forms and Methods,topic,,,ENGL_6073_triples_raw.json
+ENGL_6073,Research Question and Hypothesis,concept,PART_OF,Developing a Research Project,topic,,,ENGL_6073_triples_raw.json
+ENGL_6073,Importance of Revision in Writing,concept,PART_OF,Revision and Reenvisioning,topic,,,ENGL_6073_triples_raw.json
+ENGL_6073,Reading Colleagues' Works-in-Progress,concept,PART_OF,Reader's Workshop,topic,,,ENGL_6073_triples_raw.json
+ENGL_6073,Crafting Poems on the Page,concept,PART_OF,Writerly Skills and Craft,topic,,,ENGL_6073_triples_raw.json
+ENGL_6073,Poetic Devices and Techniques,concept,PART_OF,Writerly Skills and Craft,topic,,,ENGL_6073_triples_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WGST_3140,coercive control,concept,PART_OF,domestic violence theories,concept,,,WGST_3140_triples_raw.json
+WGST_3140,coercive control,concept,PART_OF,structural violence,concept,,,WGST_3140_triples_raw.json
+WGST_3140,coercive control,concept,PART_OF,intimate partner violence,concept,,,WGST_3140_triples_raw.json
+WGST_3140,coercive control,concept,PART_OF,treatment approaches,concept,,,WGST_3140_triples_raw.json
+WGST_3140,coercive control,concept,PART_OF,intersectionality framework,concept,,,WGST_3140_triples_raw.json
+WGST_3140,coercion,concept,PART_OF,power,concept,,,WGST_3140_triples_raw.json
+WGST_3140,reproductive coercion,concept,PART_OF,intimate partner violence,concept,,,WGST_3140_triples_raw.json
+WGST_3140,carceral responses,concept,PART_OF,Domestic Violence Across the Lifespan,topic,,,WGST_3140_triples_raw.json
+WGST_3140,carceral responses,concept,PART_OF,IPV,topic,,,WGST_3140_triples_raw.json
+WGST_3140,carceral responses,concept,PART_OF,"Representations, Institutions & Responses",topic,,,WGST_3140_triples_raw.json
+WGST_3140,structural violence,concept,PART_OF,domestic violence theories,concept,,,WGST_3140_triples_raw.json
+WGST_3140,structural inequality,concept,PART_OF,intersectionality framework,concept,,,WGST_3140_triples_raw.json
+WGST_3140,coercive control mechanisms,concept,PART_OF,coercive control dynamics,concept,,,WGST_3140_triples_raw.json

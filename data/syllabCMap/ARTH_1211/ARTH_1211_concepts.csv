@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARTH_1211,topic,Art History Survey I,Art History Survey I,1,verified,Art History Survey I,ARTH_1211_concepts_raw.json
+ARTH_1211,topic,Late Medieval Period,Late Medieval period,1,verified,Late Medieval Period,ARTH_1211_concepts_raw.json
+ARTH_1211,topic,Prehistory Overview,Prehistory Overview,1,inferred,Prehistory Overview,ARTH_1211_concepts_raw.json
+ARTH_1211,topic,Ancient Mesopotamia,Ancient Mesopotamia,1,inferred,Ancient Mesopotamia,ARTH_1211_concepts_raw.json
+ARTH_1211,topic,Ancient Egypt,Ancient Egypt,1,inferred,Ancient Egypt,ARTH_1211_concepts_raw.json
+ARTH_1211,topic,Classical Greece,Classical Greece,1,inferred,Classical Greece,ARTH_1211_concepts_raw.json
+ARTH_1211,topic,Roman Art and Architecture,Roman Art and Architecture,1,inferred,Roman Art and Architecture,ARTH_1211_concepts_raw.json
+ARTH_1211,topic,Early Christian Art,Early Christian Art,1,inferred,Early Christian Art,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Paleolithic Art Origins,Paleolithic Art Origins,1,inferred,Paleolithic Art Origins,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Cave Painting Techniques,Cave Painting Techniques,1,inferred,Cave Painting Techniques,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Early Human Expression,Early Human Expression,1,inferred,Early Human Expression,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Sumerian Temple Architecture,Sumerian Temple Architecture,1,inferred,Sumerian Temple Architecture,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Mesopotamian Relief Sculpture,Mesopotamian Relief Sculpture,1,inferred,Mesopotamian Relief Sculpture,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Ziggurat Symbolism,Ziggurat Symbolism,1,inferred,Ziggurat Symbolism,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Pyramid Construction Methods,Pyramid Construction Methods,1,inferred,Pyramid Construction Methods,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Egyptian Funerary Art,Egyptian Funerary Art,1,inferred,Egyptian Funerary Art,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Hieroglyphic Writing System,Hieroglyphic Writing System,1,inferred,Hieroglyphic Writing System,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Greek Temple Design Principles,Greek Temple Design Principles,1,inferred,Greek Temple Design Principles,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Classical Greek Sculpture Styles,Classical Greek Sculpture Styles,1,inferred,Classical Greek Sculpture Styles,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Athenian Acropolis Architecture,Athenian Acropolis Architecture,1,inferred,Athenian Acropolis Architecture,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Roman Forum Development,Roman Forum Development,1,inferred,Roman Forum Development,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Roman Mosaics Techniques,Roman Mosaics Techniques,1,inferred,Roman Mosaics Techniques,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Colosseum Engineering Feats,Colosseum Engineering Feats,1,inferred,Colosseum Engineering Feats,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Byzantine Mosaic Art,Byzantine Mosaic Art,1,inferred,Byzantine Mosaic Art,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Early Christian Iconography,Early Christian Iconography,1,inferred,Early Christian Iconography,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Medieval Church Architecture,Medieval Church Architecture,1,inferred,Medieval Church Architecture,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Gothic Cathedral Design,Gothic Cathedral Design,1,inferred,Gothic Cathedral Design,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Medieval Illuminated Manuscripts,Medieval Illuminated Manuscripts,1,inferred,Medieval Illuminated Manuscripts,ARTH_1211_concepts_raw.json
+ARTH_1211,concept,Late Medieval Sculpture Styles,Late Medieval Sculpture Styles,1,inferred,Late Medieval Sculpture Styles,ARTH_1211_concepts_raw.json

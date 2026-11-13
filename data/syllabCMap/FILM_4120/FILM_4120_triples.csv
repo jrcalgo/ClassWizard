@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_4120,film production process,concept,PREREQUISITE_OF,Working with Actors,topic,A taught first,,FILM_4120_triples_raw.json
+FILM_4120,film production process,concept,PREREQUISITE_OF,Storyboarding and Pre-Production Planning,topic,A taught first,,FILM_4120_triples_raw.json
+FILM_4120,team collaboration basics,concept,PART_OF,film production process,concept,,,FILM_4120_triples_raw.json
+FILM_4120,project planning essentials,concept,PART_OF,film production process,concept,,,FILM_4120_triples_raw.json
+FILM_4120,character development techniques,concept,PART_OF,Script Analysis and Development,topic,,,FILM_4120_triples_raw.json
+FILM_4120,acting techniques for film,concept,PART_OF,Working with Actors,topic,,,FILM_4120_triples_raw.json
+FILM_4120,directing actor's performance,concept,PART_OF,Working with Actors,topic,,,FILM_4120_triples_raw.json
+FILM_4120,creating realistic character moments,concept,PART_OF,Working with Actors,topic,,,FILM_4120_triples_raw.json
+FILM_4120,writer-director collaboration models,concept,PART_OF,Collaboration with Writers and Crew,topic,,,FILM_4120_triples_raw.json
+FILM_4120,effective communication in teamwork,concept,PART_OF,Collaboration with Writers and Crew,topic,,,FILM_4120_triples_raw.json
+FILM_4120,visual composition principles,concept,PART_OF,Visual Storytelling Fundamentals,topic,,,FILM_4120_triples_raw.json
+FILM_4120,lighting and camera techniques,concept,PART_OF,Visual Storytelling Fundamentals,topic,,,FILM_4120_triples_raw.json
+FILM_4120,pacing and timing essentials,concept,PART_OF,Visual Storytelling Fundamentals,topic,,,FILM_4120_triples_raw.json
+FILM_4120,pre-production planning checklist,concept,PART_OF,Storyboarding and Pre-Production Planning,topic,,,FILM_4120_triples_raw.json
+FILM_4120,scheduling and budgeting basics,concept,PART_OF,Storyboarding and Pre-Production Planning,topic,,,FILM_4120_triples_raw.json
+FILM_4120,film editing principles,concept,PART_OF,Post-Production and Editing,topic,,,FILM_4120_triples_raw.json
+FILM_4120,sound design techniques,concept,PART_OF,Post-Production and Editing,topic,,,FILM_4120_triples_raw.json
+FILM_4120,visual effects in film,concept,PART_OF,Post-Production and Editing,topic,,,FILM_4120_triples_raw.json
+FILM_4120,final cut review and revision,concept,PART_OF,Polishing the Final Product,topic,,,FILM_4120_triples_raw.json
+FILM_4120,sound mixing and mastering,concept,PART_OF,Polishing the Final Product,topic,,,FILM_4120_triples_raw.json
+FILM_4120,pre-production planning checklist,concept,USED_FOR,Storyboarding and Pre-Production Planning,topic,,,FILM_4120_triples_raw.json
+FILM_4120,scheduling and budgeting basics,concept,USED_FOR,Storyboarding and Pre-Production Planning,topic,,,FILM_4120_triples_raw.json

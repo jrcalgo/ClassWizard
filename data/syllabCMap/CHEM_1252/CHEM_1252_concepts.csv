@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_1252,concept,Molecular structure and bonding,molecular structure and bonding,2,verified,Molecular structure and bonding,CHEM_1252_concepts_raw.json
+CHEM_1252,topic,Liquids and Solids,liquids and solids,2,verified,Liquids and Solids,CHEM_1252_concepts_raw.json
+CHEM_1252,topic,Solutions,solutions,2,verified,Solutions,CHEM_1252_concepts_raw.json
+CHEM_1252,topic,Chemical Kinetics,chemical kinetics,2,verified,Chemical Kinetics,CHEM_1252_concepts_raw.json
+CHEM_1252,topic,Chemical Equilibrium,chemical equilibrium,2,verified,Chemical Equilibrium,CHEM_1252_concepts_raw.json
+CHEM_1252,topic,Thermodynamics,thermodynamics,2,verified,Thermodynamics,CHEM_1252_concepts_raw.json
+CHEM_1252,topic,Electrochemistry,electrochemistry,2,verified,Electrochemistry,CHEM_1252_concepts_raw.json

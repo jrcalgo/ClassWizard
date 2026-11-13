@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+UCOL_1200,Business Analytics Basics,topic,PREREQUISITE_OF,Statistical Tools for Decision Making,concept,same unit,,UCOL_1200_triples_raw.json
+UCOL_1200,Business Analytics Basics,topic,PREREQUISITE_OF,Interpreting Business Data Results,concept,same unit,,UCOL_1200_triples_raw.json
+UCOL_1200,International Business Overview,topic,PREREQUISITE_OF,International Marketing Strategies,concept,same unit,,UCOL_1200_triples_raw.json
+UCOL_1200,Management Information Systems,topic,PREREQUISITE_OF,Enterprise Resource Planning Software,concept,same unit,,UCOL_1200_triples_raw.json
+UCOL_1200,Marketing Fundamentals,topic,PREREQUISITE_OF,Segmentation,concept,same unit,,UCOL_1200_triples_raw.json
+UCOL_1200,Marketing Fundamentals,topic,PREREQUISITE_OF,Targeting,concept,same unit,,UCOL_1200_triples_raw.json
+UCOL_1200,Marketing Fundamentals,topic,PREREQUISITE_OF,Branding and Advertising Principles,concept,same unit,,UCOL_1200_triples_raw.json
+UCOL_1200,Operations and Supply Chain Management,topic,PREREQUISITE_OF,Inventory Management and Control Systems,concept,same unit,,UCOL_1200_triples_raw.json
+UCOL_1200,Accounting Fundamentals,topic,PART_OF,business,topic,,,UCOL_1200_triples_raw.json
+UCOL_1200,Business Analytics Basics,topic,PART_OF,business,topic,,,UCOL_1200_triples_raw.json
+UCOL_1200,Finance Fundamentals,topic,PART_OF,business,topic,,,UCOL_1200_triples_raw.json
+UCOL_1200,International Business Overview,topic,PART_OF,business,topic,,,UCOL_1200_triples_raw.json
+UCOL_1200,Management Principles,topic,PART_OF,business,topic,,,UCOL_1200_triples_raw.json
+UCOL_1200,Marketing Fundamentals,topic,PART_OF,business,topic,,,UCOL_1200_triples_raw.json
+UCOL_1200,Operations and Supply Chain Management,topic,PART_OF,business,topic,,,UCOL_1200_triples_raw.json
+UCOL_1200,Inquiry Process and Goal Setting,topic,PART_OF,business,topic,,,UCOL_1200_triples_raw.json
+UCOL_1200,Business Analytics Basics,topic,USED_FOR,Statistical Tools for Decision Making,concept,,topic used for something - check direction,UCOL_1200_triples_raw.json
+UCOL_1200,Financial Statements Analysis,concept,USED_FOR,Financial Reporting Standards,concept,,,UCOL_1200_triples_raw.json
+UCOL_1200,Finance Fundamentals,topic,USED_FOR,Financial Statement Analysis Techniques,concept,,topic used for something - check direction,UCOL_1200_triples_raw.json
+UCOL_1200,Marketing Fundamentals,topic,USED_FOR,Market Research and Analysis Methods,concept,,topic used for something - check direction,UCOL_1200_triples_raw.json
+UCOL_1200,Marketing Fundamentals,topic,USED_FOR,Branding and Advertising Principles,concept,,topic used for something - check direction,UCOL_1200_triples_raw.json

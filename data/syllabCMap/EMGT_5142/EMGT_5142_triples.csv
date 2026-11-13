@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_5142,Bayesian Decision Making,concept,PART_OF,Bayesian Analysis,topic,,,EMGT_5142_triples_raw.json
+EMGT_5142,Probability Theory Basics,concept,PART_OF,Probability Theory,topic,,,EMGT_5142_triples_raw.json
+EMGT_5142,Risk Assessment Fundamentals,concept,PART_OF,Risk Assessment,topic,,,EMGT_5142_triples_raw.json
+EMGT_5142,Data Mining Techniques,method,PART_OF,Data Surveillance,topic,,,EMGT_5142_triples_raw.json
+EMGT_5142,Surveillance System Design,method,PART_OF,Data Surveillance,topic,,,EMGT_5142_triples_raw.json

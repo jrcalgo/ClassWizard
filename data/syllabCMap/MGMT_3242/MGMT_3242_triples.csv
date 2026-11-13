@@ -1,0 +1,34 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MGMT_3242,Strategic Human Resources,concept,PREREQUISITE_OF,Human Resource Management,concept,same unit,,MGMT_3242_triples_raw.json
+MGMT_3242,Strategic Human Resources,concept,PREREQUISITE_OF,Employee Evaluations,topic,A taught first,,MGMT_3242_triples_raw.json
+MGMT_3242,Strategic Human Resources,concept,PREREQUISITE_OF,Performance Management Metrics,topic,A taught first,,MGMT_3242_triples_raw.json
+MGMT_3242,Strategic Human Resources,concept,PREREQUISITE_OF,Perceptual Biases in Evaluation,topic,A taught first,,MGMT_3242_triples_raw.json
+MGMT_3242,Strategic Human Resources,concept,PREREQUISITE_OF,Employee Contributions,topic,A taught first,,MGMT_3242_triples_raw.json
+MGMT_3242,Strategic Human Resources,concept,PART_OF,Human Resource Management,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Performance Management,method,PART_OF,Human Resource Management,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Employee Development,method,PART_OF,Human Resource Management,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Behavioral Science Research Methods,method,PART_OF,Human Resource Management,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Retention,topic,PART_OF,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Employee Benefits,topic,PART_OF,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Training and Development,topic,PART_OF,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Compensation and Benefits,topic,PART_OF,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Performance Assessment,topic,PART_OF,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Involuntary Turnover,concept,PART_OF,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Voluntary Turnover,concept,PART_OF,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Employee Retention Strategies,concept,PART_OF,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Motivating Pay Programs,concept,PART_OF,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Business Goals Alignment,concept,PART_OF,Human Resource Management,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Goal Setting Theory,concept,PART_OF,Performance Management Metrics,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Motivation Theories,concept,PART_OF,Performance Management Metrics,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Job Satisfaction Measures,concept,PART_OF,Performance Management Metrics,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Coaching Techniques,concept,PART_OF,Employee Development,method,,part is broader than whole - check direction,MGMT_3242_triples_raw.json
+MGMT_3242,Formal Education Methods,concept,PART_OF,Employee Development,method,,part is broader than whole - check direction,MGMT_3242_triples_raw.json
+MGMT_3242,Strategic Human Resources,concept,SUBTYPE_OF,Human Resource Management,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Involuntary Turnover,concept,SUBTYPE_OF,Voluntary Turnover,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Motivating Pay Programs,concept,SUBTYPE_OF,Compensation and Benefits,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Business Goals Alignment,concept,SUBTYPE_OF,Strategic Human Resources,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Goal Setting Theory,concept,SUBTYPE_OF,Motivation Theories,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Coaching Techniques,concept,SUBTYPE_OF,Mentoring Programs,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Performance Management,method,USED_FOR,Employee Evaluations,topic,,,MGMT_3242_triples_raw.json
+MGMT_3242,Employee Development,method,USED_FOR,Human Resource Management,concept,,,MGMT_3242_triples_raw.json
+MGMT_3242,Behavioral Science Research Methods,method,USED_FOR,Human Resource Management,concept,,,MGMT_3242_triples_raw.json

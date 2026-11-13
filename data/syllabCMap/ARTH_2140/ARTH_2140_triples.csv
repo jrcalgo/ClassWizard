@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_2140,Byzantine Empire Rise,topic,PREREQUISITE_OF,Byzantine Art Developments,concept,same unit,,ARTH_2140_triples_raw.json
+ARTH_2140,Byzantine Empire Rise,topic,PREREQUISITE_OF,Eastern Orthodox Influence,concept,same unit,,ARTH_2140_triples_raw.json
+ARTH_2140,Byzantine Empire Rise,topic,PREREQUISITE_OF,Iconoclasm and Iconography,concept,same unit,,ARTH_2140_triples_raw.json
+ARTH_2140,Roman Empire Decline,topic,PREREQUISITE_OF,Fall of Roman Empire,concept,same unit,,ARTH_2140_triples_raw.json
+ARTH_2140,Roman Empire Decline,topic,PREREQUISITE_OF,End of Classical Period,concept,same unit,,ARTH_2140_triples_raw.json
+ARTH_2140,Roman Art Characteristics,concept,PART_OF,Medieval Art,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Byzantine Art Developments,concept,PART_OF,Byzantine Empire Rise,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Eastern Orthodox Influence,concept,PART_OF,Byzantine Empire Rise,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Merovingian and Carolingian Styles,concept,PART_OF,Early Medieval Art,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Insular Art Characteristics,concept,PART_OF,Early Medieval Art,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Viking Age Artistic Influences,concept,PART_OF,Early Medieval Art,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Romanesque Building Design,concept,PART_OF,Romanesque Architecture,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Gothic Revival Precursors,concept,PART_OF,Romanesque Architecture,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Medieval Stained Glass,concept,PART_OF,Romanesque Architecture,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Stained Glass Innovations,concept,PART_OF,Gothic Art and Architecture,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Manuscript Illumination Techniques,concept,PART_OF,Medieval Painting and Illumination,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Miniature Painting Styles,concept,PART_OF,Medieval Painting and Illumination,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Luxury Book Production,concept,PART_OF,Medieval Painting and Illumination,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Mosaic Artistic Techniques,concept,PART_OF,Mosaics and Stained Glass,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Stained Glass Composition,concept,PART_OF,Mosaics and Stained Glass,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Medieval Color Theory,concept,PART_OF,Mosaics and Stained Glass,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,International Gothic Style,concept,PART_OF,Late Medieval Art and Culture,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Devotional Art Characteristics,concept,PART_OF,Late Medieval Art and Culture,topic,,,ARTH_2140_triples_raw.json
+ARTH_2140,Medieval Art Patronage,concept,PART_OF,Late Medieval Art and Culture,topic,,,ARTH_2140_triples_raw.json

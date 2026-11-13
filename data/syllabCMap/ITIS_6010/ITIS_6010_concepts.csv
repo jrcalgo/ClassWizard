@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_6010,topic,Applied Machine Learning,Applied Machine Learning,1,verified,Applied Machine Learning,ITIS_6010_concepts_raw.json
+ITIS_6010,topic,Machine Learning Methods,machine learning methods,2,verified,Machine Learning Methods,ITIS_6010_concepts_raw.json
+ITIS_6010,topic,Scikit-Learn & TensorFlow,Scikit-Learn & TensorFlow,1,verified,Scikit-Learn & TensorFlow,ITIS_6010_concepts_raw.json
+ITIS_6010,tool,Python,Python,3,verified,Python,ITIS_6010_concepts_raw.json
+ITIS_6010,tool,Scikit-Learn,Scikit-Learn,1,verified,Scikit-Learn,ITIS_6010_concepts_raw.json
+ITIS_6010,tool,TensorFlow,TensorFlow,1,verified,TensorFlow,ITIS_6010_concepts_raw.json

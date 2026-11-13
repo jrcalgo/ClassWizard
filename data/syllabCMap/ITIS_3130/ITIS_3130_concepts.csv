@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_3130,topic,design principles,design principles,2,verified,design principles,ITIS_3130_concepts_raw.json
+ITIS_3130,topic,need finding,need finding,2,verified,need finding,ITIS_3130_concepts_raw.json
+ITIS_3130,topic,design prototypes,design prototypes,2,verified,design prototypes,ITIS_3130_concepts_raw.json
+ITIS_3130,concept,human-centered computing,Human-Centered Computing,2,verified,human-centered computing,ITIS_3130_concepts_raw.json
+ITIS_3130,concept,user experience,user experiences,1,verified,user experience,ITIS_3130_concepts_raw.json
+ITIS_3130,method,heuristic evaluation,Heuristic Evaluation,1,verified,heuristic evaluation,ITIS_3130_concepts_raw.json

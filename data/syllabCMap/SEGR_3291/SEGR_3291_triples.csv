@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_3291,Team Formation,topic,PART_OF,Team Problem-Solving,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Prototype Development,topic,PART_OF,Team Problem-Solving,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Progress Evaluations,topic,PART_OF,Team Problem-Solving,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Client Presentation,topic,PART_OF,Team Problem-Solving,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Final Report Preparation,topic,PART_OF,Team Problem-Solving,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Expo Presentation,topic,PART_OF,Team Problem-Solving,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Project Scope Definition,concept,PART_OF,Team Formation,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Discipline Allocation,concept,PART_OF,Team Formation,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Engineering Design Principles,concept,PART_OF,Design Philosophy,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Research and Implementation,concept,PART_OF,Design Philosophy,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Time Budgeting,concept,PART_OF,Project Management,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Financial Planning,concept,PART_OF,Project Management,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Client Satisfaction,concept,PART_OF,Project Management,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Collaborative Work Skills,concept,PART_OF,Team Problem-Solving,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Conflict Resolution Strategies,concept,PART_OF,Team Problem-Solving,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Effective Communication,concept,PART_OF,Team Problem-Solving,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Model Verification and Validation,concept,PART_OF,Prototype Development,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Project Status Review,concept,PART_OF,Progress Evaluations,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Progress Monitoring and Reporting,concept,PART_OF,Progress Evaluations,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Effective Communication with Clients,concept,PART_OF,Client Presentation,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Presentation Skills and Techniques,concept,PART_OF,Client Presentation,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Prototype/Model Demonstration,concept,PART_OF,Client Presentation,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Design Package Development,concept,PART_OF,Final Report Preparation,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Technical Writing and Documentation,concept,PART_OF,Final Report Preparation,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Project Evaluation and Lessons Learned,concept,PART_OF,Final Report Preparation,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Public Speaking and Presentation Skills,concept,PART_OF,Expo Presentation,topic,,,SEGR_3291_triples_raw.json
+SEGR_3291,Poster Design and Creation,concept,PART_OF,Expo Presentation,topic,,,SEGR_3291_triples_raw.json

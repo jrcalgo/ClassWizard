@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_1102L,weather and climate basics,concept,PART_OF,Meteorology,topic,,,METR_1102L_triples_raw.json
+METR_1102L,solar radiation principles,concept,PART_OF,Solar Radiation and Energy,topic,,,METR_1102L_triples_raw.json
+METR_1102L,global solar irradiance,concept,PART_OF,Solar Radiation and Energy,topic,,,METR_1102L_triples_raw.json
+METR_1102L,global wind patterns overview,concept,PART_OF,Atmospheric Circulation Patterns,topic,,,METR_1102L_triples_raw.json
+METR_1102L,high and low pressure systems,concept,PART_OF,Atmospheric Circulation Patterns,topic,,,METR_1102L_triples_raw.json
+METR_1102L,precipitation processes overview,concept,PART_OF,Cloud Formation and Precipitation,topic,,,METR_1102L_triples_raw.json
+METR_1102L,weather fronts and systems,concept,PART_OF,Cloud Formation and Precipitation,topic,,,METR_1102L_triples_raw.json
+METR_1102L,hurricane formation and tracking,concept,PART_OF,Severe Weather and Hurricanes,topic,,,METR_1102L_triples_raw.json
+METR_1102L,tropical cyclone basics,concept,PART_OF,Severe Weather and Hurricanes,topic,,,METR_1102L_triples_raw.json
+METR_1102L,climate change causes and effects,concept,PART_OF,Environmental Issues and Climate Change,topic,,,METR_1102L_triples_raw.json
+METR_1102L,greenhouse gases and emissions,concept,PART_OF,Environmental Issues and Climate Change,topic,,,METR_1102L_triples_raw.json
+METR_1102L,atmospheric pollution impact,concept,PART_OF,Environmental Issues and Climate Change,topic,,,METR_1102L_triples_raw.json
+METR_1102L,data sources and collection methods,concept,PART_OF,Analyzing Meteorological Data,topic,,,METR_1102L_triples_raw.json
+METR_1102L,weather forecasting techniques,concept,PART_OF,Analyzing Meteorological Data,topic,,,METR_1102L_triples_raw.json
+METR_1102L,map interpretation and analysis,concept,PART_OF,Analyzing Meteorological Data,topic,,,METR_1102L_triples_raw.json
+METR_1102L,cartography principles and practices,concept,PART_OF,Contoured Maps and Visualization,topic,,,METR_1102L_triples_raw.json
+METR_1102L,map creation and design,concept,PART_OF,Contoured Maps and Visualization,topic,,,METR_1102L_triples_raw.json
+METR_1102L,visualizing meteorological data,concept,PART_OF,Contoured Maps and Visualization,topic,,,METR_1102L_triples_raw.json
+METR_1102L,jet stream and weather,concept,USED_FOR,high and low pressure systems,concept,,,METR_1102L_triples_raw.json
+METR_1102L,cloud types and formation,concept,USED_FOR,precipitation processes overview,concept,,,METR_1102L_triples_raw.json
+METR_1102L,thunderstorms and tornadoes,concept,USED_FOR,Severe Weather and Hurricanes,topic,,,METR_1102L_triples_raw.json
+METR_1102L,hurricane formation and tracking,concept,USED_FOR,Severe Weather and Hurricanes,topic,,,METR_1102L_triples_raw.json
+METR_1102L,climate change causes and effects,concept,USED_FOR,Environmental Issues and Climate Change,topic,,,METR_1102L_triples_raw.json
+METR_1102L,atmospheric pollution impact,concept,USED_FOR,Environmental Issues and Climate Change,topic,,,METR_1102L_triples_raw.json
+METR_1102L,data sources and collection methods,concept,USED_FOR,Analyzing Meteorological Data,topic,,,METR_1102L_triples_raw.json
+METR_1102L,weather forecasting techniques,concept,USED_FOR,Analyzing Meteorological Data,topic,,,METR_1102L_triples_raw.json
+METR_1102L,map interpretation and analysis,concept,USED_FOR,Analyzing Meteorological Data,topic,,,METR_1102L_triples_raw.json
+METR_1102L,cartography principles and practices,concept,USED_FOR,Contoured Maps and Visualization,topic,,,METR_1102L_triples_raw.json
+METR_1102L,map creation and design,concept,USED_FOR,Contoured Maps and Visualization,topic,,,METR_1102L_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_2600,Religious Phenomena Across Cultures,concept,PART_OF,Religious Studies Discipline,concept,,,RELS_2600_triples_raw.json
+RELS_2600,Cultural Competence and Sensitivity,concept,PART_OF,Religious Studies Discipline,concept,,,RELS_2600_triples_raw.json
+RELS_2600,Globalization and Religion,concept,PART_OF,Religious Studies Discipline,concept,,,RELS_2600_triples_raw.json
+RELS_2600,Contemporary Issues in Religions,concept,PART_OF,Religious Studies Discipline,concept,,,RELS_2600_triples_raw.json

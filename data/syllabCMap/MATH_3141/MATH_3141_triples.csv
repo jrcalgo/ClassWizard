@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_3141,Limit of a function,concept,PART_OF,Limits and Continuity,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Continuity at a point,concept,PART_OF,Limits and Continuity,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Properties of limits,concept,PART_OF,Limits and Continuity,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Power rule for differentiation,concept,PART_OF,Differentiation Rules,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Product rule for differentiation,concept,PART_OF,Differentiation Rules,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Quotient rule for differentiation,concept,PART_OF,Differentiation Rules,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Maxima and minima problems,concept,PART_OF,Applications of Derivatives,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Optimization problems,concept,PART_OF,Applications of Derivatives,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Related rates problems,concept,PART_OF,Applications of Derivatives,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Definition of definite integral,concept,PART_OF,Integrals and Accumulation,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Properties of definite integrals,concept,PART_OF,Integrals and Accumulation,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Accumulation of change,concept,PART_OF,Integrals and Accumulation,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Substitution method for integration,concept,PART_OF,Integration Techniques,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Integration by parts,concept,PART_OF,Integration Techniques,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Integration by partial fractions,concept,PART_OF,Integration Techniques,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Definition of improper integral,concept,PART_OF,Improper Integrals and Series,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Convergence tests for series,concept,PART_OF,Improper Integrals and Series,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Power series representation,concept,PART_OF,Improper Integrals and Series,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Vector-valued functions and derivatives,concept,PART_OF,Vector-Valued Functions,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Arc length and curvature,concept,PART_OF,Vector-Valued Functions,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Motion along a curve,concept,PART_OF,Vector-Valued Functions,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Partial derivatives and gradients,concept,PART_OF,Multivariable Calculus Review,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Double and triple integrals,concept,PART_OF,Multivariable Calculus Review,topic,,,MATH_3141_triples_raw.json
+MATH_3141,Change of variables in multiple dimensions,concept,PART_OF,Multivariable Calculus Review,topic,,,MATH_3141_triples_raw.json

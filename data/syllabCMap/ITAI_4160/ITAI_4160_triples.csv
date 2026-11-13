@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITAI_4160,managing relational and NoSQL databases,method,USED_FOR,databases and cloud for AI,concept,,,ITAI_4160_triples_raw.json
+ITAI_4160,processing large-scale data,method,USED_FOR,machine learning,concept,,,ITAI_4160_triples_raw.json

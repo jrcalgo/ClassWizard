@@ -1,0 +1,73 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_1103,topic,Spatial Thinking,Spatial Thinking,9,verified,Spatial Thinking,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Geospatial Technology,Geospatial Technology,7,verified,Geospatial Technology,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Geographic Relationships,Geographic Relationships,2,verified,Geographic Relationships,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Location and Scale,Location and Scale,2,verified,Location and Scale,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Patterns and Trends,Patterns and Trends,2,verified,Patterns and Trends,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Temporal Analysis,Temporal Analysis,1,verified,Temporal Analysis,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Spatial Reference Systems,Spatial Reference Systems,8,verified,Spatial Reference Systems,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Coordinate Systems,Coordinate Systems,8,verified,Coordinate Systems,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Map Projections,Map Projections,5,verified,Map Projections,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Data Formats,Data Formats,2,verified,Data Formats,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,GIS Software,GIS Software,1,verified,GIS Software,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Geospatial Repositories,Geospatial Repositories,1,verified,Geospatial Repositories,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Spatial Data Sources,Spatial Data Sources,1,verified,Spatial Data Sources,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,GIS Databases,GIS Databases,1,verified,GIS Databases,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Data Formats GIS,Data Formats GIS,1,verified,Data Formats GIS,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,GPS Principles,GPS Principles,2,verified,GPS Principles,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Geographic Coordinates,Geographic Coordinates,2,verified,Geographic Coordinates,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Datum and Projection,Datum and Projection,2,verified,Datum and Projection,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Non-spatial data,Non-spatial data,2,verified,Non-spatial data,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,SQL queries,SQL queries,2,verified,SQL queries,GEOG_1103_concepts_raw.json
+GEOG_1103,method,Geographic Enquiry Techniques,Geographic Enquiry Techniques,4,verified,Geographic Enquiry Techniques,GEOG_1103_concepts_raw.json
+GEOG_1103,method,Spatial Analysis Methods,Spatial analysis methods,2,verified,Spatial Analysis Methods,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Geospatial Analysis,Geospatial Analysis,2,verified,Geospatial Analysis,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Query Language Syntax,Query Language Syntax,1,verified,Query Language Syntax,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Spatial Data Types,Spatial Data Types,1,verified,Spatial Data Types,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Site suitability analysis,Site suitability analysis,1,verified,Site suitability analysis,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Buffer Zones Creation,Buffer Zones Creation,1,verified,Buffer Zones Creation,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Distance Decay Concept,Distance Decay Concept,1,verified,Distance Decay Concept,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Map Scale,Map Scales,1,verified,Map Scale,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Cartographic Elements,Cartographic Elements,1,verified,Cartographic Elements,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Scale Distortion,Scale Distortion,1,verified,Scale Distortion,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Data Classification,Data classification,2,verified,Data Classification,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Map Symbology,Map Symbology,1,verified,Map Symbology,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Color Representation,Color Representation,1,verified,Color Representation,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Cartographic Scale,Cartographic Scale,1,verified,Cartographic Scale,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Geospatial Network Analysis,Geospatial Network Analysis,1,verified,Geospatial Network Analysis,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Graph Theory Applications,Graph Theory Applications,1,verified,Graph Theory Applications,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Spatial Autocorrelation Measures,Spatial Autocorrelation Measures,1,verified,Spatial Autocorrelation Measures,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Network Topology Concepts,Network Topology Concepts,1,verified,Network Topology Concepts,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Node and Edge Properties,Node and Edge Properties,1,verified,Node and Edge Properties,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,ArcGIS Survey123,ArcGIS Survey123,2,verified,ArcGIS Survey123,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Geospatial Technology Basics,Geospatial Technology Basics,1,verified,Geospatial Technology Basics,GEOG_1103_concepts_raw.json
+GEOG_1103,method,Survey Design Principles,Survey Design Principles,1,verified,Survey Design Principles,GEOG_1103_concepts_raw.json
+GEOG_1103,method,Data Collection Methods,Data Collection Methods,1,verified,Data Collection Methods,GEOG_1103_concepts_raw.json
+GEOG_1103,method,Spatial Data Analysis,Spatial Data Analysis,1,verified,Spatial Data Analysis,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Visual image interpretation,Visual image interpretation,1,verified,Visual image interpretation,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Geospatial Analysis Techniques,Geospatial Analysis Techniques,1,verified,Geospatial Analysis Techniques,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Spatial Pattern Recognition,Spatial Pattern Recognition,1,verified,Spatial Pattern Recognition,GEOG_1103_concepts_raw.json
+GEOG_1103,method,Map Symbolization Methods,Map Symbolization Methods,1,verified,Map Symbolization Methods,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Cartographic Representation,Cartographic Representation,1,verified,Cartographic Representation,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Remote Sensing Principles,Remote Sensing Principles,1,verified,Remote Sensing Principles,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Sensor Systems Classification,Sensor Systems Classification,1,verified,Sensor Systems Classification,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Radiometric and Geometric Errors,Radiometric and Geometric Errors,1,verified,Radiometric and Geometric Errors,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Digital Number Values Interpretation,Digital Number Values Interpretation,1,verified,Digital Number Values Interpretation,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Pixel Size and Scale Issues,Pixel Size and Scale Issues,1,verified,Pixel Size and Scale Issues,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Remotely Sensed Images,remotely sensed images,2,verified,Remotely Sensed Images,GEOG_1103_concepts_raw.json
+GEOG_1103,method,Image Display Techniques,Image Display Techniques,1,verified,Image Display Techniques,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Spatial Resolution Analysis,Spatial Resolution Analysis,1,verified,Spatial Resolution Analysis,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Color Infrared Imagery,Color Infrared Imagery,1,verified,Color Infrared Imagery,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Geographic Information Systems,Geographic Information Systems,2,verified,Geographic Information Systems,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Contours and topographic maps,Contours and topographic maps,1,verified,Contours and topographic maps,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Topographic Maps,topographic maps,2,verified,Topographic Maps,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Contour Lines,Contour Lines,1,verified,Contour Lines,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Map Scales,Map Scales,1,verified,Map Scales,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Elevation Data,Elevation Data,1,verified,Elevation Data,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Cartographic Symbols,Cartographic Symbols,1,verified,Cartographic Symbols,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Elevation profiles & 3D Visualization,Elevation profiles & 3D Visualization,2,verified,Elevation profiles & 3D Visualization,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,3D Modelling Techniques,3D Modelling Techniques,1,verified,3D Modelling Techniques,GEOG_1103_concepts_raw.json
+GEOG_1103,method,Geospatial Data Representation,Geospatial Data Representation,1,verified,Geospatial Data Representation,GEOG_1103_concepts_raw.json
+GEOG_1103,topic,Geographic Enquiry Principles,Geographic Enquiry Principles,1,verified,Geographic Enquiry Principles,GEOG_1103_concepts_raw.json
+GEOG_1103,method,Cartographic Visualization Tools,Cartographic Visualization Tools,1,verified,Cartographic Visualization Tools,GEOG_1103_concepts_raw.json
+GEOG_1103,concept,Spatial Thinking Fundamentals,spatial thinking fundamentals,3,verified,Spatial Thinking Fundamentals,GEOG_1103_concepts_raw.json

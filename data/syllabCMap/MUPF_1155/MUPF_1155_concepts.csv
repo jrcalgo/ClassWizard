@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUPF_1155,topic,Piano Ensemble,Piano Ensemble,1,verified,Piano Ensemble,MUPF_1155_concepts_raw.json
+MUPF_1155,topic,Baroque Period Study,Baroque Period Study,1,inferred,Baroque Period Study,MUPF_1155_concepts_raw.json
+MUPF_1155,topic,Classical Period Exploration,Classical Period Exploration,1,inferred,Classical Period Exploration,MUPF_1155_concepts_raw.json
+MUPF_1155,topic,Romantic and Impressionist Study,Romantic and Impressionist Study,1,inferred,Romantic and Impressionist Study,MUPF_1155_concepts_raw.json
+MUPF_1155,topic,20th Century Piano Repertoire,20th Century Piano Repertoire,1,inferred,20th Century Piano Repertoire,MUPF_1155_concepts_raw.json
+MUPF_1155,topic,Popular Idioms in Piano Music,Popular Idioms in Piano Music,1,inferred,Popular Idioms in Piano Music,MUPF_1155_concepts_raw.json
+MUPF_1155,topic,Two-Piano Repertoire Study,Two-Piano Repertoire Study,1,inferred,Two-Piano Repertoire Study,MUPF_1155_concepts_raw.json
+MUPF_1155,topic,Performance Preparation and Practice Strategies,Performance Preparation and Practice Strategies,1,inferred,Performance Preparation and Practice Strategies,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Collaborative Music Making,Collaborative Music Making,1,inferred,Collaborative Music Making,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Piano Duet Basics,Piano Duet Basics,1,inferred,Piano Duet Basics,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Communication Skills,Communication Skills,1,inferred,Communication Skills,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Harpsichord Techniques,Harpsichord Techniques,1,inferred,Harpsichord Techniques,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Counterpoint Principles,Counterpoint Principles,1,inferred,Counterpoint Principles,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Sonata Form Analysis,Sonata Form Analysis,1,inferred,Sonata Form Analysis,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Romantic Piano Style,Romantic Piano Style,1,inferred,Romantic Piano Style,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Chromaticism in Music,Chromaticism in Music,1,inferred,Chromaticism in Music,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Impressionist Harmonies,Impressionist Harmonies,1,inferred,Impressionist Harmonies,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Modern Harmony Techniques,Modern Harmony Techniques,1,inferred,Modern Harmony Techniques,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Serialism and Atonality,Serialism and Atonality,1,inferred,Serialism and Atonality,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Ragtime Rhythms and Harmonies,Ragtime Rhythms and Harmonies,1,inferred,Ragtime Rhythms and Harmonies,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Jazz Improvisation Techniques,Jazz Improvisation Techniques,1,inferred,Jazz Improvisation Techniques,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Blues and Swing Styles,Blues and Swing Styles,1,inferred,Blues and Swing Styles,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Piano Duo Techniques,Piano Duo Techniques,1,inferred,Piano Duo Techniques,MUPF_1155_concepts_raw.json
+MUPF_1155,concept,Score Reading Skills,Score Reading Skills,1,inferred,Score Reading Skills,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Bach,Bach,1,inferred,Bach,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Handel,Handel,1,inferred,Handel,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Mozart,Mozart,1,inferred,Mozart,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Beethoven,Beethoven,1,inferred,Beethoven,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Debussy,Debussy,1,inferred,Debussy,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Ravel,Ravel,1,inferred,Ravel,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Stravinsky,Stravinsky,1,inferred,Stravinsky,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Bartok,Bartok,1,inferred,Bartok,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Rachmaninoff,Rachmaninoff,1,inferred,Rachmaninoff,MUPF_1155_concepts_raw.json
+MUPF_1155,work,Shostakovich,Shostakovich,1,inferred,Shostakovich,MUPF_1155_concepts_raw.json

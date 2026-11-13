@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_4700,Research Proposal,topic,PREREQUISITE_OF,Research Methods,topic,A taught first,,ARTH_4700_triples_raw.json
+ARTH_4700,Research Methods,topic,PREREQUISITE_OF,Thesis Writing,topic,A taught first,,ARTH_4700_triples_raw.json
+ARTH_4700,Thesis Writing,topic,PREREQUISITE_OF,Oral Presentation Preparation,topic,A taught first,,ARTH_4700_triples_raw.json
+ARTH_4700,Oral Presentation Preparation,topic,PREREQUISITE_OF,Thesis Defense,topic,A taught first,,ARTH_4700_triples_raw.json
+ARTH_4700,Thesis Topic Selection,concept,PART_OF,Art History Honors Thesis,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Research Question Formulation,concept,PART_OF,Art History Honors Thesis,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Literature Review Overview,concept,PART_OF,Art History Honors Thesis,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Primary and Secondary Sources,concept,PART_OF,Research Methods,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Art Historical Research Techniques,concept,PART_OF,Research Methods,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Critical Thinking in Art History,concept,PART_OF,Research Methods,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Effective Argumentation Strategies,concept,PART_OF,Thesis Writing,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Visual Analysis Techniques,concept,PART_OF,Thesis Writing,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Public Speaking in Art History,concept,PART_OF,Oral Presentation Preparation,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Presentation Design Principles,concept,PART_OF,Oral Presentation Preparation,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Confidence Building Strategies,concept,PART_OF,Oral Presentation Preparation,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Effective Communication Skills,concept,PART_OF,Thesis Defense,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Question Answering Techniques,concept,PART_OF,Thesis Defense,topic,,,ARTH_4700_triples_raw.json
+ARTH_4700,Peer Review and Feedback,concept,PART_OF,Thesis Defense,topic,,,ARTH_4700_triples_raw.json

@@ -1,0 +1,45 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PROS_2303,topic,Human Resource Management,Human Resource Management,1,verified,Human Resource Management,PROS_2303_concepts_raw.json
+PROS_2303,topic,Change Management,change management,1,verified,Change Management,PROS_2303_concepts_raw.json
+PROS_2303,topic,Organization Development,organization development,1,verified,Organization Development,PROS_2303_concepts_raw.json
+PROS_2303,topic,Leadership and HRM,Leadership and HRM,1,inferred,Leadership and HRM,PROS_2303_concepts_raw.json
+PROS_2303,topic,Strategic HR Planning,Strategic HR Planning,1,inferred,Strategic HR Planning,PROS_2303_concepts_raw.json
+PROS_2303,topic,Employee Engagement and Motivation,Employee Engagement and Motivation,1,inferred,Employee Engagement and Motivation,PROS_2303_concepts_raw.json
+PROS_2303,topic,Performance Management Systems,Performance Management Systems,1,inferred,Performance Management Systems,PROS_2303_concepts_raw.json
+PROS_2303,topic,"Diversity, Equity, and Inclusion","Diversity, Equity, and Inclusion",1,inferred,"Diversity, Equity, and Inclusion",PROS_2303_concepts_raw.json
+PROS_2303,topic,Talent Acquisition and Management,Talent Acquisition and Management,1,inferred,Talent Acquisition and Management,PROS_2303_concepts_raw.json
+PROS_2303,topic,Employee Relations and Conflict Resolution,Employee Relations and Conflict Resolution,1,inferred,Employee Relations and Conflict Resolution,PROS_2303_concepts_raw.json
+PROS_2303,topic,HRM in a Global Context,HRM in a Global Context,1,inferred,HRM in a Global Context,PROS_2303_concepts_raw.json
+PROS_2303,concept,Human Resource Management Definition,Human Resource Management Definition,1,inferred,Human Resource Management Definition,PROS_2303_concepts_raw.json
+PROS_2303,concept,HR Role in Organization,HR Role in Organization,1,inferred,HR Role in Organization,PROS_2303_concepts_raw.json
+PROS_2303,concept,Importance of HR Functions,Importance of HR Functions,1,inferred,Importance of HR Functions,PROS_2303_concepts_raw.json
+PROS_2303,concept,Types of Organizational Change,Types of Organizational Change,1,inferred,Types of Organizational Change,PROS_2303_concepts_raw.json
+PROS_2303,concept,Change Management Process Steps,Change Management Process Steps,1,inferred,Change Management Process Steps,PROS_2303_concepts_raw.json
+PROS_2303,concept,Resistance to Change Strategies,Resistance to Change Strategies,1,inferred,Resistance to Change Strategies,PROS_2303_concepts_raw.json
+PROS_2303,concept,OD Theories and Models,OD Theories and Models,1,inferred,OD Theories and Models,PROS_2303_concepts_raw.json
+PROS_2303,concept,Intervention Techniques in OD,Intervention Techniques in OD,1,inferred,Intervention Techniques in OD,PROS_2303_concepts_raw.json
+PROS_2303,concept,Organizational Culture Analysis,Organizational Culture Analysis,1,inferred,Organizational Culture Analysis,PROS_2303_concepts_raw.json
+PROS_2303,concept,Transformational Leadership Style,Transformational Leadership Style,1,inferred,Transformational Leadership Style,PROS_2303_concepts_raw.json
+PROS_2303,concept,Servant Leadership Principles,Servant Leadership Principles,1,inferred,Servant Leadership Principles,PROS_2303_concepts_raw.json
+PROS_2303,concept,HR's Role in Leadership Development,HR's Role in Leadership Development,1,inferred,HR's Role in Leadership Development,PROS_2303_concepts_raw.json
+PROS_2303,concept,HR Strategic Planning Process,HR Strategic Planning Process,1,inferred,HR Strategic Planning Process,PROS_2303_concepts_raw.json
+PROS_2303,concept,Talent Management Strategies,Talent Management Strategies,1,inferred,Talent Management Strategies,PROS_2303_concepts_raw.json
+PROS_2303,concept,Succession Planning Techniques,Succession Planning Techniques,1,inferred,Succession Planning Techniques,PROS_2303_concepts_raw.json
+PROS_2303,concept,Theories of Employee Motivation,Theories of Employee Motivation,1,inferred,Theories of Employee Motivation,PROS_2303_concepts_raw.json
+PROS_2303,concept,Engagement Drivers and Barriers,Engagement Drivers and Barriers,1,inferred,Engagement Drivers and Barriers,PROS_2303_concepts_raw.json
+PROS_2303,concept,Recognition and Reward Systems,Recognition and Reward Systems,1,inferred,Recognition and Reward Systems,PROS_2303_concepts_raw.json
+PROS_2303,concept,Performance Management Process Steps,Performance Management Process Steps,1,inferred,Performance Management Process Steps,PROS_2303_concepts_raw.json
+PROS_2303,concept,Goal Setting Techniques,Goal Setting Techniques,1,inferred,Goal Setting Techniques,PROS_2303_concepts_raw.json
+PROS_2303,concept,Feedback and Coaching Strategies,Feedback and Coaching Strategies,1,inferred,Feedback and Coaching Strategies,PROS_2303_concepts_raw.json
+PROS_2303,concept,Diversity and Inclusion Definitions,Diversity and Inclusion Definitions,1,inferred,Diversity and Inclusion Definitions,PROS_2303_concepts_raw.json
+PROS_2303,concept,Cultural Competence in HRM,Cultural Competence in HRM,1,inferred,Cultural Competence in HRM,PROS_2303_concepts_raw.json
+PROS_2303,concept,Inclusive Workforce Planning Strategies,Inclusive Workforce Planning Strategies,1,inferred,Inclusive Workforce Planning Strategies,PROS_2303_concepts_raw.json
+PROS_2303,concept,Recruitment Strategies and Channels,Recruitment Strategies and Channels,1,inferred,Recruitment Strategies and Channels,PROS_2303_concepts_raw.json
+PROS_2303,concept,Selection Methods and Tools,Selection Methods and Tools,1,inferred,Selection Methods and Tools,PROS_2303_concepts_raw.json
+PROS_2303,concept,Onboarding and Integration Processes,Onboarding and Integration Processes,1,inferred,Onboarding and Integration Processes,PROS_2303_concepts_raw.json
+PROS_2303,concept,Employee Relations Theories and Models,Employee Relations Theories and Models,1,inferred,Employee Relations Theories and Models,PROS_2303_concepts_raw.json
+PROS_2303,concept,Conflict Resolution Techniques,Conflict Resolution Techniques,1,inferred,Conflict Resolution Techniques,PROS_2303_concepts_raw.json
+PROS_2303,concept,Disciplinary Action Procedures,Disciplinary Action Procedures,1,inferred,Disciplinary Action Procedures,PROS_2303_concepts_raw.json
+PROS_2303,concept,Globalization and HR Challenges,Globalization and HR Challenges,1,inferred,Globalization and HR Challenges,PROS_2303_concepts_raw.json
+PROS_2303,concept,Cultural Intelligence in HRM,Cultural Intelligence in HRM,1,inferred,Cultural Intelligence in HRM,PROS_2303_concepts_raw.json
+PROS_2303,concept,International Labor Laws and Regulations,International Labor Laws and Regulations,1,inferred,International Labor Laws and Regulations,PROS_2303_concepts_raw.json

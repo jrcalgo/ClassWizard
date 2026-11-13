@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_8220,Classical and Modern Test Theories,topic,PREREQUISITE_OF,Modern Test Theories,topic,B mentioned first,,RSCH_8220_triples_raw.json
+RSCH_8220,Classical and Modern Test Theories,topic,PREREQUISITE_OF,Classical Test Theory,topic,B mentioned first,,RSCH_8220_triples_raw.json
+RSCH_8220,Classical and Modern Test Theories,topic,PREREQUISITE_OF,Traditional Standardized Tests,topic,B mentioned first,,RSCH_8220_triples_raw.json
+RSCH_8220,Classical and Modern Test Theories,topic,PREREQUISITE_OF,Non-Traditional Assessments,topic,B mentioned first,,RSCH_8220_triples_raw.json
+RSCH_8220,Classical and Modern Test Theories,topic,PREREQUISITE_OF,Student Learning and Assessment,topic,B mentioned first,,RSCH_8220_triples_raw.json
+RSCH_8220,Classical and Modern Test Theories,topic,PREREQUISITE_OF,Reflection and Professional Development,topic,B mentioned first,,RSCH_8220_triples_raw.json
+RSCH_8220,Measurement,topic,PART_OF,Classical and Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Measurement,topic,PART_OF,Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Classical Test Theory,topic,PART_OF,Classical and Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Traditional Standardized Tests,topic,PART_OF,Classical and Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Test Construction and Development,topic,PART_OF,Classical and Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Interpreting Test Results,topic,PART_OF,Classical and Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Student Learning and Assessment,topic,PART_OF,Classical and Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Reflection and Professional Development,topic,PART_OF,Classical and Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Modern Test Theories,topic,SUBTYPE_OF,Classical and Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Traditional Standardized Tests,topic,SUBTYPE_OF,Non-Traditional Assessments,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Item Response Theory Basics,concept,USED_FOR,Classical Test Theory,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Item Response Theory Models,concept,USED_FOR,Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Latent Trait Measurement,concept,USED_FOR,Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Model Assumptions Evaluation,concept,USED_FOR,Modern Test Theories,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Test Selection Criteria,concept,USED_FOR,Traditional Standardized Tests,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Project-Based Assessment Methods,concept,USED_FOR,Non-Traditional Assessments,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Authenticity in Assessment,concept,USED_FOR,Non-Traditional Assessments,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Test Blueprinting Techniques,concept,USED_FOR,Test Construction and Development,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Pilot Testing Procedures,concept,USED_FOR,Test Construction and Development,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Data Analysis Methods Comparison,concept,USED_FOR,Interpreting Test Results,topic,,,RSCH_8220_triples_raw.json
+RSCH_8220,Inferential Statistics Applications,concept,USED_FOR,Interpreting Test Results,topic,,,RSCH_8220_triples_raw.json

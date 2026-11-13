@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HCIP_6156,topic,Applied Machine Learning,Applied Machine Learning,1,verified,Applied Machine Learning,HCIP_6156_concepts_raw.json
+HCIP_6156,topic,Python For Data Science,Python For Data Science,1,verified,Introduction to Python For Data Science,HCIP_6156_concepts_raw.json
+HCIP_6156,concept,machine learning methods,machine learning methods,2,verified,machine learning methods,HCIP_6156_concepts_raw.json
+HCIP_6156,concept,declarative knowledge,declarative knowledge,1,verified,declarative knowledge,HCIP_6156_concepts_raw.json
+HCIP_6156,concept,organization of knowledge,organization of knowledge,1,verified,organization of knowledge,HCIP_6156_concepts_raw.json
+HCIP_6156,concept,development of new skills,development of new skills,1,verified,development of new skills,HCIP_6156_concepts_raw.json
+HCIP_6156,concept,discovery of new facts and theories,discovery of new facts and theories,1,verified,discovery of new facts and theories,HCIP_6156_concepts_raw.json
+HCIP_6156,tool,Python,Python,3,verified,Python,HCIP_6156_concepts_raw.json
+HCIP_6156,tool,TensorFlow,TensorFlow,1,verified,TensorFlow,HCIP_6156_concepts_raw.json

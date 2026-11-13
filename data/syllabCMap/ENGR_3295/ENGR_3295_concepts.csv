@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ENGR_3295,topic,global,global,2,verified,global,ENGR_3295_concepts_raw.json
+ENGR_3295,topic,societal,societal,2,verified,societal,ENGR_3295_concepts_raw.json
+ENGR_3295,topic,contemporary issues of current interest,contemporary issues of current interest,2,verified,contemporary issues of current interest,ENGR_3295_concepts_raw.json
+ENGR_3295,topic,leadership,leadership,2,verified,leadership,ENGR_3295_concepts_raw.json
+ENGR_3295,topic,entrepreneurship,entrepreneurship,2,verified,entrepreneurship,ENGR_3295_concepts_raw.json
+ENGR_3295,topic,ethics,ethics,2,verified,ethics,ENGR_3295_concepts_raw.json
+ENGR_3295,topic,professional licensure,professional licensure,2,verified,professional licensure,ENGR_3295_concepts_raw.json
+ENGR_3295,concept,Engineering Profession,engineering profession,1,verified,Engineering Profession,ENGR_3295_concepts_raw.json
+ENGR_3295,concept,Professional Development,Professional Development,1,verified,Professional Development,ENGR_3295_concepts_raw.json

@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_3380,topic,organizational culture,organizational culture,1,verified,organizational culture,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,law enforcement,law enforcement,1,verified,law enforcement,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,police,police,1,verified,police and community relationship,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,importance of organizational culture,importance of organizational culture,1,verified,importance of organizational culture,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,policing culture,Policing Culture,2,inferred,policing culture,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,police subculture,Police Subculture,1,inferred,police subculture,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,collective behavior,Collective Behavior,1,inferred,collective behavior,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,cultural influences,Cultural Influences,1,inferred,cultural influences,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,decision making,Decision Making,2,inferred,decision making,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,officer roles,Officer Roles,1,inferred,officer roles,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,departmental culture,Departmental Culture,1,inferred,departmental culture,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,peer relationships,Peer Relationships,1,inferred,peer relationships,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,expectations,Expectations,1,inferred,expectations,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,accountability,Accountability,1,inferred,accountability,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,cultural norms,Cultural Norms,1,inferred,cultural norms,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,stress,Stress,1,inferred,stress,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,trauma,Trauma,1,inferred,trauma,CJUS_3380_concepts_raw.json
+CJUS_3380,topic,cultural competence,Cultural Competence,1,inferred,cultural competence,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,police subculture and norms,Police Subculture and Norms,1,inferred,police subculture and norms,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,individual and collective behavior,Individual and Collective Behavior,1,inferred,individual and collective behavior,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,cultural influences on decision making,Cultural Influences on Decision Making,1,inferred,cultural influences on decision making,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,role of police in society,Role of Police in Society,1,inferred,role of police in society,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,role of police in departmental culture,Role of Police in Departmental Culture,1,inferred,role of police in departmental culture,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,influence of peer relationships,Influence of Peer Relationships,1,inferred,influence of peer relationships,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,expectations and accountability,Expectations and Accountability,1,inferred,expectations and accountability,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,factors influencing police response,Factors Influencing Police Response,1,inferred,factors influencing police response,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,role of cultural norms in decision making,Role of Cultural Norms in Decision Making,1,inferred,role of cultural norms in decision making,CJUS_3380_concepts_raw.json
+CJUS_3380,concept,impact of stress and trauma on officers,Impact of Stress and Trauma on Officers,1,inferred,impact of stress and trauma on officers,CJUS_3380_concepts_raw.json

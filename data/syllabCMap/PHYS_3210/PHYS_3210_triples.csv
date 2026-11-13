@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_3210,Numerical integration techniques,topic,PREREQUISITE_OF,Solving ordinary differential equations,topic,same unit,,PHYS_3210_triples_raw.json
+PHYS_3210,Numerical integration techniques,topic,PREREQUISITE_OF,Energy conservation methods,topic,same unit,,PHYS_3210_triples_raw.json
+PHYS_3210,Particle-in-cell simulations,topic,PREREQUISITE_OF,Finite difference methods for PDEs,topic,same unit,,PHYS_3210_triples_raw.json
+PHYS_3210,Particle-in-cell simulations,topic,PREREQUISITE_OF,Boundary conditions and periodicity,topic,same unit,,PHYS_3210_triples_raw.json
+PHYS_3210,Error estimation and propagation,topic,PART_OF,Data fitting and curve analysis,topic,,,PHYS_3210_triples_raw.json
+PHYS_3210,Plotting techniques and customization,topic,PART_OF,Data fitting and curve analysis,topic,,,PHYS_3210_triples_raw.json
+PHYS_3210,Numerical integration techniques,topic,PART_OF,Solving ordinary differential equations,topic,,,PHYS_3210_triples_raw.json
+PHYS_3210,Energy conservation methods,topic,PART_OF,Solving ordinary differential equations,topic,,,PHYS_3210_triples_raw.json

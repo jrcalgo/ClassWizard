@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURN_3108,Health Assessment,topic,PREREQUISITE_OF,Health Assessment for RNs,topic,A mentioned first,,NURN_3108_triples_raw.json
+NURN_3108,professional and legal standards,concept,PREREQUISITE_OF,Ethical and Legal Responsibilities,topic,same unit,,NURN_3108_triples_raw.json

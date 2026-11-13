@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_8169,topic,Computer Vision,Computer Vision,5,verified,Computer Vision,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Advanced DNN,Advanced DNN,1,verified,Advanced DNN,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Convolutional Neural Networks,Convolutional Neural Networks,1,verified,Basics of Convolutional Neural Networks,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Recurrent Neural Networks,Recurrent Neural Networks,1,verified,Basics of Recurrent Neural Networks,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Vision Transformers,Vision Transformers,1,verified,Vision Transformers,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Learning Mechanisms,learning mechanisms,3,verified,Learning Mechanisms,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Generative Vision Models,Generative Vision Models,1,verified,Generative Vision Models,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Robotic Vision,robotic vision,4,verified,Robotic Vision,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Self-Supervised Learning,Self-supervised Learning,1,verified,Self-Supervised Learning,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Semi-Supervised Learning,Semi-supervised Learning,1,verified,Semi-Supervised Learning,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Contrastive Learning,Contrastive Learning,1,verified,Contrastive Learning,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Vision-Language Models,vision-language models,3,verified,Vision-Language Models,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Diffusion Models,diffusion models,2,verified,Diffusion Models,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Agentic Frameworks for Vision,Agentic Frameworks for Vision,1,verified,Agentic Frameworks for Vision,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Robotic Vision Fundamentals,Robotic Vision Fundamentals,1,verified,Robotic Vision Fundamentals,ITCS_8169_concepts_raw.json
+ITCS_8169,topic,Vision-Language-Action Models,vision-language-action models,2,verified,Vision-Language-Action Models,ITCS_8169_concepts_raw.json
+ITCS_8169,concept,Visual Reasoning and Generation,visual reasoning and generation,1,verified,Visual Reasoning and Generation,ITCS_8169_concepts_raw.json
+ITCS_8169,method,Implementing,implementing,1,verified,"Implementing and analyzing convolutional, recurrent, and transformer-based vision architectures",ITCS_8169_concepts_raw.json
+ITCS_8169,method,recurrent,recurrent,2,verified,"Implementing and analyzing convolutional, recurrent, and transformer-based vision architectures",ITCS_8169_concepts_raw.json
+ITCS_8169,method,transformer-based vision architectures,transformer-based vision architectures,1,verified,"Implementing and analyzing convolutional, recurrent, and transformer-based vision architectures",ITCS_8169_concepts_raw.json
+ITCS_8169,method,Modern supervised,Modern supervised,1,verified,"Modern supervised, self-supervised, semi-supervised, contrastive, and transfer-learning mechanisms",ITCS_8169_concepts_raw.json
+ITCS_8169,method,self-supervised,self-supervised,2,verified,"Modern supervised, self-supervised, semi-supervised, contrastive, and transfer-learning mechanisms",ITCS_8169_concepts_raw.json
+ITCS_8169,method,semi-supervised,semi-supervised,2,verified,"Modern supervised, self-supervised, semi-supervised, contrastive, and transfer-learning mechanisms",ITCS_8169_concepts_raw.json
+ITCS_8169,method,contrastive,contrastive,2,verified,"Modern supervised, self-supervised, semi-supervised, contrastive, and transfer-learning mechanisms",ITCS_8169_concepts_raw.json
+ITCS_8169,method,transfer-learning mechanisms,transfer-learning mechanisms,1,verified,"Modern supervised, self-supervised, semi-supervised, contrastive, and transfer-learning mechanisms",ITCS_8169_concepts_raw.json
+ITCS_8169,method,Developing,Develop,1,verified,Developing and evaluating robotic-vision solutions using vision-language-action models and world models,ITCS_8169_concepts_raw.json
+ITCS_8169,method,world models,world models,2,verified,Developing and evaluating robotic-vision solutions using vision-language-action models and world models,ITCS_8169_concepts_raw.json
+ITCS_8169,method,Analyzing,analyze,2,verified,Analyzing and designing a range of algorithms for computer vision,ITCS_8169_concepts_raw.json

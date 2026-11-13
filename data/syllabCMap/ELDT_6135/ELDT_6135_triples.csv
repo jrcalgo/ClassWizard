@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_6135,Learning Media,topic,PART_OF,Resources and Technology,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Theories of Learning,topic,PART_OF,Resources and Technology,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Instructional Design Models,topic,PART_OF,Resources and Technology,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Evaluating Instructional Resources,topic,PART_OF,Resources and Technology,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Effective Practices in ELDT,topic,PART_OF,Resources and Technology,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Professional Decision Making,topic,PART_OF,Resources and Technology,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Types of Learning Media,concept,PART_OF,Learning Media,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Media Characteristics Analysis,concept,PART_OF,Learning Media,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Media Selection Criteria,concept,PART_OF,Learning Media,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Emerging Technologies Overview,concept,PART_OF,Technological Innovations in ELDT,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Virtual Reality Applications,concept,PART_OF,Technological Innovations in ELDT,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Artificial Intelligence in Education,concept,PART_OF,Technological Innovations in ELDT,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Resource Evaluation Criteria,concept,PART_OF,Evaluating Instructional Resources,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Quality of Educational Resources,concept,PART_OF,Evaluating Instructional Resources,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Assessing Resource Effectiveness,concept,PART_OF,Evaluating Instructional Resources,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Best Practices in Instructional Design,concept,PART_OF,Effective Practices in ELDT,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Strategies for Engaging Learners,concept,PART_OF,Effective Practices in ELDT,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Decision Making Models in ELDT,concept,PART_OF,Professional Decision Making,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Risk Management in Educational Technology,concept,PART_OF,Professional Decision Making,topic,,,ELDT_6135_triples_raw.json
+ELDT_6135,Ethical Considerations in Instructional Design,concept,PART_OF,Professional Decision Making,topic,,,ELDT_6135_triples_raw.json

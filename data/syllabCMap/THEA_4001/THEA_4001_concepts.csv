@@ -1,0 +1,72 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+THEA_4001,topic,Comics,COMICS,54,verified,Comics,THEA_4001_concepts_raw.json
+THEA_4001,topic,Culture,cultures,2,verified,Culture,THEA_4001_concepts_raw.json
+THEA_4001,concept,Intercultural Communication,Intercultural Communication,1,verified,Intercultural Communication,THEA_4001_concepts_raw.json
+THEA_4001,concept,Global Comic Traditions,Global Comic Traditions,1,verified,Global Comic Traditions,THEA_4001_concepts_raw.json
+THEA_4001,concept,Visual Storytelling Elements,Visual Storytelling Elements,2,verified,Visual Storytelling Elements,THEA_4001_concepts_raw.json
+THEA_4001,topic,Panel Layout Techniques,Panel Layout Techniques,1,verified,Panel Layout Techniques,THEA_4001_concepts_raw.json
+THEA_4001,topic,Page Turn Dynamics,Page Turn Dynamics,1,verified,Page Turn Dynamics,THEA_4001_concepts_raw.json
+THEA_4001,topic,Sequential Art Principles,Sequential Art Principles,1,verified,Sequential Art Principles,THEA_4001_concepts_raw.json
+THEA_4001,concept,Line Art Techniques,Line Art Techniques,1,verified,Line Art Techniques,THEA_4001_concepts_raw.json
+THEA_4001,concept,Comic Strip Structure,Comic Strip Structure,1,verified,Comic Strip Structure,THEA_4001_concepts_raw.json
+THEA_4001,concept,Gutter function,Gutter function,1,verified,Gutter function,THEA_4001_concepts_raw.json
+THEA_4001,concept,Comics narrative structure,Comics narrative structure,1,verified,Comics narrative structure,THEA_4001_concepts_raw.json
+THEA_4001,topic,Cultural Identity,Cultural Identity,2,verified,Cultural Identity,THEA_4001_concepts_raw.json
+THEA_4001,topic,Self-Representation in Comics,Self-Representation in Comics,1,verified,Self-Representation in Comics,THEA_4001_concepts_raw.json
+THEA_4001,topic,Power Dynamics in Comics,Power Dynamics in Comics,1,verified,Power Dynamics in Comics,THEA_4001_concepts_raw.json
+THEA_4001,topic,Diversity and Inclusion in Comics,Diversity and Inclusion in Comics,1,verified,Diversity and Inclusion in Comics,THEA_4001_concepts_raw.json
+THEA_4001,topic,Representation of Marginalized Groups,Representation of Marginalized Groups,1,verified,Representation of Marginalized Groups,THEA_4001_concepts_raw.json
+THEA_4001,topic,Colonialism and Comics,Colonialism and Comics,1,verified,Colonialism and Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Postcolonial Theory,Postcolonial Theory,1,verified,Postcolonial Theory,THEA_4001_concepts_raw.json
+THEA_4001,concept,National Identity Formation,National Identity Formation,1,verified,National Identity Formation,THEA_4001_concepts_raw.json
+THEA_4001,concept,Cultural Exchange Dynamics,Cultural Exchange Dynamics,1,verified,Cultural Exchange Dynamics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Representations of Empire,Representations of Empire,1,verified,Representations of Empire,THEA_4001_concepts_raw.json
+THEA_4001,concept,Autobiographical Comics,Autobiographical Comics,1,verified,Autobiographical Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Biographical Narrative Structure,Biographical Narrative Structure,1,verified,Biographical Narrative Structure,THEA_4001_concepts_raw.json
+THEA_4001,concept,Life Storytelling Techniques,Life Storytelling Techniques,1,verified,Life Storytelling Techniques,THEA_4001_concepts_raw.json
+THEA_4001,concept,Immigration Experience,Immigration Experience,1,verified,Immigration Experience,THEA_4001_concepts_raw.json
+THEA_4001,concept,Migration and Belonging,Migration and Belonging,1,verified,Migration and Belonging,THEA_4001_concepts_raw.json
+THEA_4001,concept,Transnationalism and Comics,Transnationalism and Comics,1,verified,Transnationalism and Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Hybridity and Cultural Expression,Hybridity and Cultural Expression,1,verified,Hybridity and Cultural Expression,THEA_4001_concepts_raw.json
+THEA_4001,concept,Adaptation in Comics,Adaptation in Comics,1,verified,Adaptation in Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Intertextuality and Reference,Intertextuality and Reference,1,verified,Intertextuality and Reference,THEA_4001_concepts_raw.json
+THEA_4001,concept,Global Comic Book Industry,Global Comic Book Industry,1,verified,Global Comic Book Industry,THEA_4001_concepts_raw.json
+THEA_4001,concept,Sex in Comics,Sex in Comics,1,verified,Sex in Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Censorship and Comics,Censorship and Comics,1,verified,Censorship and Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Taboo Subjects in Comics,Taboo Subjects in Comics,1,verified,Taboo Subjects in Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Refugee Experience,Refugee Experience,1,verified,Refugee Experience,THEA_4001_concepts_raw.json
+THEA_4001,concept,Environmental Impact,Environmental Impact,1,verified,Environmental Impact,THEA_4001_concepts_raw.json
+THEA_4001,concept,Comic Book Structure,Comic Book Structure,1,verified,Comic Book Structure,THEA_4001_concepts_raw.json
+THEA_4001,concept,Grid Layout in Comics,Grid Layout in Comics,1,verified,Grid Layout in Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Cultural Representation,Cultural Representation,12,verified,Cultural Representation,THEA_4001_concepts_raw.json
+THEA_4001,concept,Comics as Cultural Artifact,Comics as Cultural Artifact,7,verified,Comics as Cultural Artifact,THEA_4001_concepts_raw.json
+THEA_4001,concept,Cultural Exchange through Comics,Cultural Exchange through Comics,2,verified,Cultural Exchange through Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Self-Reflection through Storytelling,Self-Reflection through Storytelling,1,verified,Self-Reflection through Storytelling,THEA_4001_concepts_raw.json
+THEA_4001,concept,Comic Book Analysis Techniques,Comic Book Analysis Techniques,1,verified,Comic Book Analysis Techniques,THEA_4001_concepts_raw.json
+THEA_4001,concept,Cross-Cultural Storytelling Methods,Cross-Cultural Storytelling Methods,1,verified,Cross-Cultural Storytelling Methods,THEA_4001_concepts_raw.json
+THEA_4001,concept,Cultural Representation in Comics,Cultural Representation in Comics,7,verified,Cultural Representation in Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Cross-Cultural Narrative Analysis,Cross-Cultural Narrative Analysis,2,verified,Cross-Cultural Narrative Analysis,THEA_4001_concepts_raw.json
+THEA_4001,concept,Panel layout principles,Panel layout principles,1,verified,Panel layout principles,THEA_4001_concepts_raw.json
+THEA_4001,concept,Visual storytelling techniques,Visual storytelling techniques,2,verified,Visual storytelling techniques,THEA_4001_concepts_raw.json
+THEA_4001,concept,Sequential art analysis,Sequential art analysis,1,verified,Sequential art analysis,THEA_4001_concepts_raw.json
+THEA_4001,concept,Comics as Cultural Expression,Comics as Cultural Expression,1,verified,Comics as Cultural Expression,THEA_4001_concepts_raw.json
+THEA_4001,concept,Visual Narrative Techniques,Visual Narrative Techniques,1,verified,Visual Narrative Techniques,THEA_4001_concepts_raw.json
+THEA_4001,concept,Global Comic Book Traditions,Global Comic Book Traditions,3,verified,Global Comic Book Traditions,THEA_4001_concepts_raw.json
+THEA_4001,concept,Comic Book Genre Analysis,Comic Book Genre Analysis,1,verified,Comic Book Genre Analysis,THEA_4001_concepts_raw.json
+THEA_4001,concept,Cultural Imperialism,Cultural Imperialism,1,verified,Cultural Imperialism,THEA_4001_concepts_raw.json
+THEA_4001,concept,Empire Building Strategies,Empire Building Strategies,1,verified,Empire Building Strategies,THEA_4001_concepts_raw.json
+THEA_4001,concept,Global Comic Culture,Global Comic Culture,1,verified,Global Comic Culture,THEA_4001_concepts_raw.json
+THEA_4001,concept,Power Relations in Comics,Power Relations in Comics,1,verified,Power Relations in Comics,THEA_4001_concepts_raw.json
+THEA_4001,concept,Comics as Memoir,Comics as Memoir,1,verified,Comics as Memoir,THEA_4001_concepts_raw.json
+THEA_4001,concept,Personal Identity Formation,Personal Identity Formation,1,verified,Personal Identity Formation,THEA_4001_concepts_raw.json
+THEA_4001,concept,Globalization and Identity,Globalization and Identity,1,verified,Globalization and Identity,THEA_4001_concepts_raw.json
+THEA_4001,concept,Diasporic Identity Formation,Diasporic Identity Formation,1,verified,Diasporic Identity Formation,THEA_4001_concepts_raw.json
+THEA_4001,concept,Sexual Identity Portrayal,Sexual Identity Portrayal,1,verified,Sexual Identity Portrayal,THEA_4001_concepts_raw.json
+THEA_4001,method,Critical socio-political contexts,critical socio-political contexts,1,verified,Critical socio-political contexts,THEA_4001_concepts_raw.json
+THEA_4001,method,Production work,production work,1,verified,Production work,THEA_4001_concepts_raw.json
+THEA_4001,method,Clear,clear,2,verified,Clear and expressive writing,THEA_4001_concepts_raw.json
+THEA_4001,method,Cogent writing,cogent writing,1,verified,Cogent writing,THEA_4001_concepts_raw.json
+THEA_4001,method,Community building,community building,2,verified,Community building,THEA_4001_concepts_raw.json
+THEA_4001,method,Engagement,engagement,2,verified,Engagement,THEA_4001_concepts_raw.json
+THEA_4001,method,Cultural competency,cultural competency,2,verified,Cultural competency,THEA_4001_concepts_raw.json
+THEA_4001,method,Sensitivity,sensitivity,1,verified,Sensitivity,THEA_4001_concepts_raw.json

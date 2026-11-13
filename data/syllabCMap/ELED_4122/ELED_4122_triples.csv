@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_4122,Management,topic,PREREQUISITE_OF,Instruction,topic,A taught first,,ELED_4122_triples_raw.json
+ELED_4122,Motivation,topic,PREREQUISITE_OF,Instruction,topic,B mentioned first,,ELED_4122_triples_raw.json
+ELED_4122,Classroom Management,topic,PREREQUISITE_OF,Instruction,topic,A taught first,,ELED_4122_triples_raw.json
+ELED_4122,Instruction,topic,PREREQUISITE_OF,Differentiation,topic,A mentioned first,,ELED_4122_triples_raw.json
+ELED_4122,Motivation,topic,PART_OF,Instruction,topic,,,ELED_4122_triples_raw.json
+ELED_4122,Classroom Management,topic,PART_OF,Instruction,topic,,,ELED_4122_triples_raw.json
+ELED_4122,Management,topic,PART_OF,Instruction,topic,,,ELED_4122_triples_raw.json
+ELED_4122,Differentiation,topic,PART_OF,Instruction,topic,,,ELED_4122_triples_raw.json

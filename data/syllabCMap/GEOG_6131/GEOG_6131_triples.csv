@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_6131,research process,concept,USED_FOR,evidence-based research,concept,,,GEOG_6131_triples_raw.json
+GEOG_6131,responsible conduct in research,concept,USED_FOR,research process,concept,,,GEOG_6131_triples_raw.json
+GEOG_6131,predictive modeling,method,USED_FOR,statistical data analysis,method,,,GEOG_6131_triples_raw.json
+GEOG_6131,critical reading,method,USED_FOR,creation of an effective research design,method,,,GEOG_6131_triples_raw.json
+GEOG_6131,writing,method,USED_FOR,creation of an effective research design,method,,,GEOG_6131_triples_raw.json
+GEOG_6131,creation of an effective research design,method,USED_FOR,argument and critique,method,,,GEOG_6131_triples_raw.json

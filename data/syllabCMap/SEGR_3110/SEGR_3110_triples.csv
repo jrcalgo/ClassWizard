@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_3110,R programming,method,USED_FOR,regression,concept,,,SEGR_3110_triples_raw.json
+SEGR_3110,R programming,method,USED_FOR,clustering,concept,,,SEGR_3110_triples_raw.json
+SEGR_3110,R programming,method,USED_FOR,classification,concept,,,SEGR_3110_triples_raw.json
+SEGR_3110,R programming,method,USED_FOR,forecasting,concept,,,SEGR_3110_triples_raw.json

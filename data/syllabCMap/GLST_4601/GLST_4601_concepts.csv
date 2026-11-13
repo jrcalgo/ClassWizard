@@ -1,0 +1,45 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GLST_4601,topic,International Studies,International Studies,2,verified,International Studies,GLST_4601_concepts_raw.json
+GLST_4601,method,Data Collection,data collection,1,verified,Data Collection,GLST_4601_concepts_raw.json
+GLST_4601,topic,Public Speaking,public speaking,1,verified,Public Speaking,GLST_4601_concepts_raw.json
+GLST_4601,topic,Topic Selection,Topic Selection,2,inferred,Topic Selection,GLST_4601_concepts_raw.json
+GLST_4601,topic,Research Methods,Research Methods,1,inferred,Research Methods,GLST_4601_concepts_raw.json
+GLST_4601,topic,Literature Review,Literature Review,1,inferred,Literature Review,GLST_4601_concepts_raw.json
+GLST_4601,topic,Data Analysis,Data Analysis,4,inferred,Data Analysis,GLST_4601_concepts_raw.json
+GLST_4601,topic,Theory Connection,Theory Connection,1,inferred,Theory Connection,GLST_4601_concepts_raw.json
+GLST_4601,topic,Writing Workshop,Writing Workshop,1,inferred,Writing Workshop,GLST_4601_concepts_raw.json
+GLST_4601,topic,Collaborative Project,Collaborative Project,1,inferred,Collaborative Project,GLST_4601_concepts_raw.json
+GLST_4601,topic,Synthesis and Reflection,Synthesis and Reflection,1,inferred,Synthesis and Reflection,GLST_4601_concepts_raw.json
+GLST_4601,concept,Focused Topic Selection,Focused Topic Selection,1,inferred,Focused Topic Selection,GLST_4601_concepts_raw.json
+GLST_4601,concept,International Studies Relevance,International Studies Relevance,1,inferred,International Studies Relevance,GLST_4601_concepts_raw.json
+GLST_4601,concept,Data Collection Techniques,Data Collection Techniques,1,inferred,Data Collection Techniques,GLST_4601_concepts_raw.json
+GLST_4601,method,Quantitative Data Analysis,Quantitative Data Analysis,1,inferred,Quantitative Data Analysis,GLST_4601_concepts_raw.json
+GLST_4601,method,Qualitative Data Analysis,Qualitative Data Analysis,1,inferred,Qualitative Data Analysis,GLST_4601_concepts_raw.json
+GLST_4601,concept,Theoretical Frameworks,Theoretical Frameworks,1,inferred,Theoretical Frameworks,GLST_4601_concepts_raw.json
+GLST_4601,concept,Conceptual Models Application,Conceptual Models Application,1,inferred,Conceptual Models Application,GLST_4601_concepts_raw.json
+GLST_4601,concept,Empirical Research Synthesis,Empirical Research Synthesis,1,inferred,Empirical Research Synthesis,GLST_4601_concepts_raw.json
+GLST_4601,concept,Survey Design Principles,Survey Design Principles,1,inferred,Survey Design Principles,GLST_4601_concepts_raw.json
+GLST_4601,method,Interview Protocol Development,Interview Protocol Development,1,inferred,Interview Protocol Development,GLST_4601_concepts_raw.json
+GLST_4601,method,Case Study Methodology,Case Study Methodology,1,inferred,Case Study Methodology,GLST_4601_concepts_raw.json
+GLST_4601,method,Statistical Data Analysis,Statistical Data Analysis,1,inferred,Statistical Data Analysis,GLST_4601_concepts_raw.json
+GLST_4601,method,Qualitative Data Coding,Qualitative Data Coding,1,inferred,Qualitative Data Coding,GLST_4601_concepts_raw.json
+GLST_4601,concept,Thematic Analysis Techniques,Thematic Analysis Techniques,1,inferred,Thematic Analysis Techniques,GLST_4601_concepts_raw.json
+GLST_4601,method,Theoretical Framework Application,Theoretical Framework Application,1,inferred,Theoretical Framework Application,GLST_4601_concepts_raw.json
+GLST_4601,method,Conceptual Model Development,Conceptual Model Development,1,inferred,Conceptual Model Development,GLST_4601_concepts_raw.json
+GLST_4601,method,Empirical Evidence Synthesis,Empirical Evidence Synthesis,1,inferred,Empirical Evidence Synthesis,GLST_4601_concepts_raw.json
+GLST_4601,concept,Clear Scholarly Writing Style,Clear Scholarly Writing Style,1,inferred,Clear Scholarly Writing Style,GLST_4601_concepts_raw.json
+GLST_4601,concept,Academic Tone and Voice,Academic Tone and Voice,1,inferred,Academic Tone and Voice,GLST_4601_concepts_raw.json
+GLST_4601,concept,Effective Argumentation Techniques,Effective Argumentation Techniques,1,inferred,Effective Argumentation Techniques,GLST_4601_concepts_raw.json
+GLST_4601,concept,Effective Presentation Delivery,Effective Presentation Delivery,1,inferred,Effective Presentation Delivery,GLST_4601_concepts_raw.json
+GLST_4601,concept,Audience Engagement Strategies,Audience Engagement Strategies,1,inferred,Audience Engagement Strategies,GLST_4601_concepts_raw.json
+GLST_4601,concept,Visual Aids Design Principles,Visual Aids Design Principles,1,inferred,Visual Aids Design Principles,GLST_4601_concepts_raw.json
+GLST_4601,concept,Teamwork and Communication Skills,Teamwork and Communication Skills,1,inferred,Teamwork and Communication Skills,GLST_4601_concepts_raw.json
+GLST_4601,concept,Conflict Resolution Strategies,Conflict Resolution Strategies,1,inferred,Conflict Resolution Strategies,GLST_4601_concepts_raw.json
+GLST_4601,concept,Project Management Techniques,Project Management Techniques,1,inferred,Project Management Techniques,GLST_4601_concepts_raw.json
+GLST_4601,concept,Course Material Synthesis,Course Material Synthesis,1,inferred,Course Material Synthesis,GLST_4601_concepts_raw.json
+GLST_4601,concept,Personal Learning Reflections,Personal Learning Reflections,1,inferred,Personal Learning Reflections,GLST_4601_concepts_raw.json
+GLST_4601,concept,Career Development Planning,Career Development Planning,1,inferred,Career Development Planning,GLST_4601_concepts_raw.json
+GLST_4601,method,Survey Design,Survey Design,1,inferred,Survey Design,GLST_4601_concepts_raw.json
+GLST_4601,method,Thematic Analysis,Thematic Analysis,1,inferred,Thematic Analysis,GLST_4601_concepts_raw.json
+GLST_4601,method,Effective Argumentation,Effective Argumentation,1,inferred,Effective Argumentation,GLST_4601_concepts_raw.json
+GLST_4601,method,Visual Aids Design,Visual Aids Design,1,inferred,Visual Aids Design,GLST_4601_concepts_raw.json

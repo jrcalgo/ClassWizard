@@ -1,0 +1,46 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HIST_4002,topic,gender,gender,19,verified,gender,HIST_4002_concepts_raw.json
+HIST_4002,topic,sexuality,sexuality,17,verified,sexuality,HIST_4002_concepts_raw.json
+HIST_4002,topic,race,race,6,verified,race,HIST_4002_concepts_raw.json
+HIST_4002,concept,Latin American history,Latin American history,13,verified,Latin American history,HIST_4002_concepts_raw.json
+HIST_4002,topic,historiography,historiography,13,verified,historiography,HIST_4002_concepts_raw.json
+HIST_4002,topic,power dynamics,Power Dynamics,14,verified,power dynamics,HIST_4002_concepts_raw.json
+HIST_4002,topic,emotions,emotions,8,verified,emotions,HIST_4002_concepts_raw.json
+HIST_4002,topic,culture,culture,5,verified,culture,HIST_4002_concepts_raw.json
+HIST_4002,topic,intersectionality,Intersectionality,4,verified,intersectionality,HIST_4002_concepts_raw.json
+HIST_4002,topic,state power,State Power,4,verified,state power,HIST_4002_concepts_raw.json
+HIST_4002,topic,law,Law,2,verified,law,HIST_4002_concepts_raw.json
+HIST_4002,topic,family,Family,3,verified,family,HIST_4002_concepts_raw.json
+HIST_4002,topic,masculinity,Masculinity,4,verified,masculinity,HIST_4002_concepts_raw.json
+HIST_4002,topic,queerness,Queerness,2,verified,queerness,HIST_4002_concepts_raw.json
+HIST_4002,topic,labor,Labor,6,verified,labor,HIST_4002_concepts_raw.json
+HIST_4002,method,emotional labor,Emotional Labor,2,verified,emotional labor,HIST_4002_concepts_raw.json
+HIST_4002,method,cultural norms,Cultural Norms,1,verified,cultural norms,HIST_4002_concepts_raw.json
+HIST_4002,method,critical theory approaches,Critical Theory Approaches,1,verified,critical theory approaches,HIST_4002_concepts_raw.json
+HIST_4002,concept,racial formation theory,Racial Formation Theory,7,verified,racial formation theory,HIST_4002_concepts_raw.json
+HIST_4002,topic,gender performativity,Gender Performativity,1,verified,gender performativity,HIST_4002_concepts_raw.json
+HIST_4002,topic,racialized identities,Racialized Identities,1,verified,racialized identities,HIST_4002_concepts_raw.json
+HIST_4002,method,graduate-level writing,Graduate-Level Writing,3,verified,graduate-level writing,HIST_4002_concepts_raw.json
+HIST_4002,method,research methods,Research Methods,2,verified,research methods,HIST_4002_concepts_raw.json
+HIST_4002,method,critical race theory,Critical Race Theory,1,verified,critical race theory,HIST_4002_concepts_raw.json
+HIST_4002,concept,gender and sexuality theories,Gender and Sexuality Theories,1,verified,gender and sexuality theories,HIST_4002_concepts_raw.json
+HIST_4002,concept,Latin American history context,Latin American History Context,2,verified,Latin American history context,HIST_4002_concepts_raw.json
+HIST_4002,concept,historiography evolution overview,Historiography Evolution Overview,1,verified,historiography evolution overview,HIST_4002_concepts_raw.json
+HIST_4002,concept,major theoretical frameworks,Major Theoretical Frameworks,1,verified,major theoretical frameworks,HIST_4002_concepts_raw.json
+HIST_4002,concept,power dynamics analysis,Power Dynamics Analysis,5,verified,power dynamics analysis,HIST_4002_concepts_raw.json
+HIST_4002,concept,gender and state power,Gender and State Power,1,verified,gender and state power,HIST_4002_concepts_raw.json
+HIST_4002,concept,sexual politics history,Sexual Politics History,1,verified,sexual politics history,HIST_4002_concepts_raw.json
+HIST_4002,concept,emotions in history,Emotions in History,3,verified,emotions in history,HIST_4002_concepts_raw.json
+HIST_4002,method,cultural studies approach,Cultural Studies Approach,2,verified,cultural studies approach,HIST_4002_concepts_raw.json
+HIST_4002,method,historical contextualization,Historical Contextualization,1,verified,historical contextualization,HIST_4002_concepts_raw.json
+HIST_4002,concept,theories of intersectionality,Theories of Intersectionality,1,verified,theories of intersectionality,HIST_4002_concepts_raw.json
+HIST_4002,concept,state power dynamics,State Power Dynamics,1,verified,state power dynamics,HIST_4002_concepts_raw.json
+HIST_4002,concept,gender and sexuality studies,Gender and Sexuality Studies,1,verified,gender and sexuality studies,HIST_4002_concepts_raw.json
+HIST_4002,method,historiography methods development,Historiography Methods Development,1,verified,historiography methods development,HIST_4002_concepts_raw.json
+HIST_4002,concept,emotions in historical analysis,Emotions in Historical Analysis,1,verified,emotions in historical analysis,HIST_4002_concepts_raw.json
+HIST_4002,concept,gender and sexuality,Gender and Sexuality,12,verified,gender and sexuality,HIST_4002_concepts_raw.json
+HIST_4002,concept,historiography methods,Historiography Methods,8,verified,historiography methods,HIST_4002_concepts_raw.json
+HIST_4002,concept,graduate writing skills,Graduate Writing Skills,3,verified,graduate writing skills,HIST_4002_concepts_raw.json
+HIST_4002,concept,research techniques,Research Techniques,3,verified,research techniques,HIST_4002_concepts_raw.json
+HIST_4002,method,intersectionality analysis,Intersectionality Analysis,1,verified,intersectionality analysis,HIST_4002_concepts_raw.json
+HIST_4002,method,historiography techniques,Historiography Techniques,2,verified,historiography techniques,HIST_4002_concepts_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WGST_6050,epistemologies of violence,concept,PART_OF,necropolitical memory practices,concept,,,WGST_6050_triples_raw.json
+WGST_6050,epistemologies of violence,concept,SUBTYPE_OF,necropolitical memory practices,concept,,,WGST_6050_triples_raw.json
+WGST_6050,Achille Mbembe,work,USED_FOR,necropolitics definition,concept,,,WGST_6050_triples_raw.json

@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_4201,topic,Deterministic System Analysis,Deterministic System Analysis,2,verified,Deterministic System Analysis,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Optimization,optimization,4,verified,Introduction to Optimization,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,deterministic optimization problems,deterministic optimization problems,2,verified,deterministic optimization problems,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,nonlinear systems,nonlinear systems,1,verified,nonlinear systems,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Linear Programming Basics,Linear Programming Basics,1,inferred,Linear Programming Basics,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Integer Programming Fundamentals,Integer Programming Fundamentals,1,inferred,Integer Programming Fundamentals,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Dynamic Programming Principles,Dynamic Programming Principles,1,inferred,Dynamic Programming Principles,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Nonlinear Optimization Techniques,Nonlinear Optimization Techniques,1,inferred,Nonlinear Optimization Techniques,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Exam 1 Review and Practice,Exam 1 Review and Practice,1,inferred,Exam 1 Review and Practice,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Integer Programming Applications,Integer Programming Applications,1,inferred,Integer Programming Applications,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Dynamic Programming Applications,Dynamic Programming Applications,1,inferred,Dynamic Programming Applications,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Nonlinear Optimization Applications,Nonlinear Optimization Applications,1,inferred,Nonlinear Optimization Applications,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Exam 2 Review and Practice,Exam 2 Review and Practice,1,inferred,Exam 2 Review and Practice,SEGR_4201_concepts_raw.json
+SEGR_4201,topic,Review of Optimization Methods,Review of Optimization Methods,1,inferred,Review of Optimization Methods,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,continuous optimization methods,Continuous optimization methods,1,inferred,continuous optimization methods,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,linear programming formulation,Linear programming formulation,1,inferred,linear programming formulation,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,objective function definition,Objective function definition,1,inferred,objective function definition,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,constraints and variables,Constraints and variables,1,inferred,constraints and variables,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,integer programming formulation,Integer programming formulation,1,inferred,integer programming formulation,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,branch and bound algorithm,Branch and bound algorithm,1,inferred,branch and bound algorithm,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,cutting plane method,Cutting plane method,1,inferred,cutting plane method,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,dynamic programming formulation,Dynamic programming formulation,1,inferred,dynamic programming formulation,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,Bellman's equation application,Bellman's equation application,1,inferred,Bellman's equation application,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,optimal substructure property,Optimal substructure property,1,inferred,optimal substructure property,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,nonlinear optimization methods,Nonlinear optimization methods,1,inferred,nonlinear optimization methods,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,gradient-based algorithms,Gradient-based algorithms,1,inferred,gradient-based algorithms,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,conjugate gradient method,Conjugate gradient method,1,inferred,conjugate gradient method,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,knapsack problem formulation,Knapsack problem formulation,1,inferred,knapsack problem formulation,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,cutting stock problem solution,Cutting stock problem solution,1,inferred,cutting stock problem solution,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,scheduling problems,Scheduling problems,1,inferred,scheduling problems,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,shortest path problem solution,Shortest path problem solution,1,inferred,shortest path problem solution,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,resource allocation problems,Resource allocation problems,1,inferred,resource allocation problems,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,unconstrained optimization methods,Unconstrained optimization methods,1,inferred,unconstrained optimization methods,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,constrained optimization techniques,Constrained optimization techniques,1,inferred,constrained optimization techniques,SEGR_4201_concepts_raw.json
+SEGR_4201,concept,multivariable function analysis,Multivariable function analysis,1,inferred,multivariable function analysis,SEGR_4201_concepts_raw.json

@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1151,percussion ensemble basics,concept,PREREQUISITE_OF,Ensemble Fundamentals,topic,same unit,,MUPF_1151_triples_raw.json
+MUPF_1151,diverse percussion instruments,concept,PREREQUISITE_OF,Instrument Familiarization,topic,same unit,,MUPF_1151_triples_raw.json
+MUPF_1151,reading music notation,concept,PREREQUISITE_OF,Music Notation Fundamentals,topic,same unit,,MUPF_1151_triples_raw.json
+MUPF_1151,chord progressions and harmonies,concept,PREREQUISITE_OF,Harmony and Structure,topic,same unit,,MUPF_1151_triples_raw.json
+MUPF_1151,percussion ensemble basics,concept,PART_OF,Percussion Ensemble,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,sectional leadership roles,concept,PART_OF,Percussion Ensemble,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,communication and collaboration,concept,PART_OF,Percussion Ensemble,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,diverse percussion instruments,concept,PART_OF,Percussion Ensemble,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,instrument care and maintenance,concept,PART_OF,Percussion Ensemble,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,instrument-specific techniques,concept,PART_OF,Percussion Ensemble,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,reading music notation,concept,PART_OF,Music Notation Fundamentals,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,understanding rhythm and meter,concept,PART_OF,Music Notation Fundamentals,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,chord progressions and harmonies,concept,PART_OF,Harmony and Structure,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,formal structures and analysis,concept,PART_OF,Harmony and Structure,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,timbre and texture exploration,concept,PART_OF,Harmony and Structure,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,performance practice and interpretation,concept,PART_OF,Repertoire Performance,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,collaborative rehearsal techniques,concept,PART_OF,Repertoire Performance,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,musicality and phrasing,concept,PART_OF,Artistry and Expression,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,dynamic range and control,concept,PART_OF,Artistry and Expression,topic,,,MUPF_1151_triples_raw.json
+MUPF_1151,expressive nuance and articulation,concept,PART_OF,Artistry and Expression,topic,,,MUPF_1151_triples_raw.json

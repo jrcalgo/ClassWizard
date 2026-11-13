@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PROS_3104,topic,Agile methodology,Agile methodology,1,verified,Agile methodology,PROS_3104_concepts_raw.json
+PROS_3104,topic,Scrum framework,Scrum framework,1,verified,Scrum framework,PROS_3104_concepts_raw.json
+PROS_3104,topic,User-Centered Design Principles,User-Centered Design Principles,1,inferred,User-Centered Design Principles,PROS_3104_concepts_raw.json
+PROS_3104,topic,Agile project management,Agile Project Management,1,inferred,Agile project management,PROS_3104_concepts_raw.json
+PROS_3104,topic,Agile team dynamics,Agile Team Dynamics,1,inferred,Agile team dynamics,PROS_3104_concepts_raw.json
+PROS_3104,topic,Agile project monitoring,Agile Project Monitoring,1,inferred,Agile project monitoring,PROS_3104_concepts_raw.json
+PROS_3104,topic,Agile project planning,Agile Project Planning,1,inferred,Agile project planning,PROS_3104_concepts_raw.json
+PROS_3104,concept,Sprint backlog prioritization,Sprint Backlog Prioritization,1,inferred,Sprint backlog prioritization,PROS_3104_concepts_raw.json
+PROS_3104,concept,Daily Scrum meeting objectives,Daily Scrum Meeting Objectives,1,inferred,Daily Scrum meeting objectives,PROS_3104_concepts_raw.json
+PROS_3104,concept,Release planning process steps,Release Planning Process Steps,1,inferred,Release planning process steps,PROS_3104_concepts_raw.json
+PROS_3104,concept,Sprint goal setting guidelines,Sprint Goal Setting Guidelines,1,inferred,Sprint goal setting guidelines,PROS_3104_concepts_raw.json
+PROS_3104,concept,Team collaboration strategies,Team Collaboration Strategies,1,inferred,Team collaboration strategies,PROS_3104_concepts_raw.json
+PROS_3104,concept,Conflict resolution techniques,Conflict Resolution Techniques,1,inferred,Conflict resolution techniques,PROS_3104_concepts_raw.json
+PROS_3104,concept,Burndown chart interpretation,Burndown Chart Interpretation,1,inferred,Burndown chart interpretation,PROS_3104_concepts_raw.json
+PROS_3104,concept,Velocity calculation formulas,Velocity Calculation Formulas,1,inferred,Velocity calculation formulas,PROS_3104_concepts_raw.json
+PROS_3104,concept,Agile methodology overview,Agile Methodology Overview,1,inferred,Agile methodology overview,PROS_3104_concepts_raw.json
+PROS_3104,concept,Benefits of agile adoption,Benefits of Agile Adoption,1,inferred,Benefits of agile adoption,PROS_3104_concepts_raw.json
+PROS_3104,concept,Scrum roles and responsibilities,Scrum Roles and Responsibilities,1,inferred,Scrum roles and responsibilities,PROS_3104_concepts_raw.json
+PROS_3104,concept,Sprint planning process steps,Sprint Planning Process Steps,1,inferred,Sprint planning process steps,PROS_3104_concepts_raw.json
+PROS_3104,concept,Empathy mapping techniques,Empathy Mapping Techniques,1,inferred,Empathy mapping techniques,PROS_3104_concepts_raw.json
+PROS_3104,concept,User story creation guidelines,User Story Creation Guidelines,1,inferred,User story creation guidelines,PROS_3104_concepts_raw.json

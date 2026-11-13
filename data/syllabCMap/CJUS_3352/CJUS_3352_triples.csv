@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_3352,Correctional Institutions,concept,PART_OF,Institutional Corrections,topic,,,CJUS_3352_triples_raw.json
+CJUS_3352,Prison Development History,topic,PART_OF,Institutional Corrections,topic,,,CJUS_3352_triples_raw.json
+CJUS_3352,Re-entry from prison back into the community,topic,PART_OF,Institutional Corrections,topic,,,CJUS_3352_triples_raw.json

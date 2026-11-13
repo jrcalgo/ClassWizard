@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_2112L,Standard Laboratory Instruments,concept,PART_OF,Networks Laboratory,topic,,,ECGR_2112L_triples_raw.json
+ECGR_2112L,Digital Multi-meters,concept,PART_OF,Standard Laboratory Instruments,concept,,,ECGR_2112L_triples_raw.json
+ECGR_2112L,Oscilloscopes,concept,PART_OF,Standard Laboratory Instruments,concept,,,ECGR_2112L_triples_raw.json
+ECGR_2112L,Power Supplies,concept,PART_OF,Standard Laboratory Instruments,concept,,,ECGR_2112L_triples_raw.json
+ECGR_2112L,Multimeters,concept,PART_OF,Standard Laboratory Instruments,concept,,,ECGR_2112L_triples_raw.json
+ECGR_2112L,Digital Multi-meters,concept,USED_FOR,Performance Characteristics,concept,,,ECGR_2112L_triples_raw.json
+ECGR_2112L,Oscilloscopes,concept,USED_FOR,AC Operation of RLC Networks,concept,,,ECGR_2112L_triples_raw.json
+ECGR_2112L,Power Supplies,concept,USED_FOR,Thevenin and Norton Circuits,topic,,,ECGR_2112L_triples_raw.json
+ECGR_2112L,Multimeters,concept,USED_FOR,Real and Complex Power,concept,,,ECGR_2112L_triples_raw.json

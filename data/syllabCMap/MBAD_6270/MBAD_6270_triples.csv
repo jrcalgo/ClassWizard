@@ -1,0 +1,83 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6270,Customer needs analysis,concept,PREREQUISITE_OF,Marketing DNA framework,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Competitor profiling techniques,concept,PREREQUISITE_OF,Customer needs analysis,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Market segmentation strategies,concept,PREREQUISITE_OF,Target market identification,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Customer Retention Strategies,concept,PREREQUISITE_OF,Customer Lifetime Value,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Customer Acquisition Costs,concept,PREREQUISITE_OF,Customer Retention Strategies,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Customer Loyalty Programs,concept,PREREQUISITE_OF,Customer Acquisition Costs,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Database Marketing Techniques,concept,PREREQUISITE_OF,Customer Loyalty Programs,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Competitor Analysis Techniques,concept,PREREQUISITE_OF,Traditional Marketing Mix,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Awareness Metrics,concept,PREREQUISITE_OF,Brand Image Formation,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Personality Traits,concept,PREREQUISITE_OF,Brand Awareness Metrics,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Loyalty Factors,concept,PREREQUISITE_OF,Brand Personality Traits,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Marketing Mix Strategies,concept,PREREQUISITE_OF,Marketing Objectives Strategy,concept,B taught first,B is taught before A - check,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Positioning Techniques,concept,PREREQUISITE_OF,Marketing Mix Strategies,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Advertising Media Planning,concept,PREREQUISITE_OF,Public Relations Tactics,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Message Consistency Principles,concept,PREREQUISITE_OF,Digital Marketing Channels,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Strategic Decision Making,concept,PREREQUISITE_OF,Competitive Advantage Analysis,concept,B taught first,B is taught before A - check,MBAD_6270_triples_raw.json
+MBAD_6270,Channel Selection Criteria,concept,PREREQUISITE_OF,Product Line Pricing,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Geographic Segmentation,concept,PREREQUISITE_OF,Channel Selection Criteria,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Market Coverage Decisions,concept,PREREQUISITE_OF,Geographic Segmentation,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Supply Chain Management,concept,PREREQUISITE_OF,Logistics and Fulfillment,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Strategic Reality,concept,PREREQUISITE_OF,Organizational Life Cycle,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Environmental Scanning,concept,PREREQUISITE_OF,Strategic Reality,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Exchange Process Perspective,concept,PREREQUISITE_OF,Buyer-Seller Relationship Dynamics,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Transaction Cost Economics,concept,PREREQUISITE_OF,Market Exchange Mechanisms,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Supply Chain Interdependencies,concept,PREREQUISITE_OF,Transaction Cost Economics,concept,same unit,,MBAD_6270_triples_raw.json
+MBAD_6270,Customer needs analysis,concept,PART_OF,Marketing DNA framework,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Competitor profiling techniques,concept,PART_OF,Customer needs analysis,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Target market identification,concept,PART_OF,Market segmentation strategies,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Relationship Marketing,concept,PART_OF,Customer Lifetime Value,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Customer Retention Strategies,concept,PART_OF,Customer Acquisition Costs,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Customer Loyalty Programs,concept,PART_OF,Database Marketing Techniques,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Competitor Analysis Techniques,concept,PART_OF,Traditional Marketing Mix,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Awareness Metrics,concept,PART_OF,Brand Image Formation,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Personality Traits,concept,PART_OF,Brand Awareness Metrics,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Loyalty Factors,concept,PART_OF,Brand Personality Traits,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Marketing Mix Strategies,concept,PART_OF,Marketing Objectives Strategy,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Positioning Techniques,concept,PART_OF,Marketing Mix Strategies,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Advertising Media Planning,concept,PART_OF,Public Relations Tactics,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Digital Marketing Channels,concept,PART_OF,Advertising Media Planning,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Message Consistency Principles,concept,PART_OF,Digital Marketing Channels,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Target Market Segmentation,concept,PART_OF,Promotional Budget Allocation,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Strategic Decision Making,concept,PART_OF,Competitive Advantage Analysis,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Market Structure Identification,concept,PART_OF,Industry Life Cycle Model,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,SWOT Analysis Framework,concept,PART_OF,Market Structure Identification,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Channel Selection Criteria,concept,PART_OF,Product Line Pricing,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Geographic Segmentation,concept,PART_OF,Channel Selection Criteria,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Market Coverage Decisions,concept,PART_OF,Geographic Segmentation,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Distribution Channel Types,concept,PART_OF,Market Coverage Decisions,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Logistics and Fulfillment,concept,PART_OF,Distribution Channel Types,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Supply Chain Management,concept,PART_OF,Logistics and Fulfillment,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Strategic Reality,concept,PART_OF,Organizational Life Cycle,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Environmental Scanning,concept,PART_OF,Strategic Reality,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Exchange Process Perspective,concept,PART_OF,Buyer-Seller Relationship Dynamics,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Market Exchange Mechanisms,concept,PART_OF,Exchange Process Perspective,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Transaction Cost Economics,concept,PART_OF,Market Exchange Mechanisms,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Supply Chain Interdependencies,concept,PART_OF,Transaction Cost Economics,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Customer needs analysis,concept,USED_FOR,Marketing DNA framework,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Competitor profiling techniques,concept,USED_FOR,Customer needs analysis,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Target market identification,concept,USED_FOR,Market segmentation strategies,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Relationship Marketing,concept,USED_FOR,Customer Lifetime Value,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Customer Retention Strategies,concept,USED_FOR,Customer Acquisition Costs,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Customer Loyalty Programs,concept,USED_FOR,Database Marketing Techniques,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Competitor Analysis Techniques,concept,USED_FOR,Traditional Marketing Mix,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Awareness Metrics,concept,USED_FOR,Brand Image Formation,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Personality Traits,concept,USED_FOR,Brand Awareness Metrics,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Brand Loyalty Factors,concept,USED_FOR,Brand Personality Traits,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Marketing Mix Strategies,concept,USED_FOR,Marketing Objectives Strategy,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Advertising Media Planning,concept,USED_FOR,Public Relations Tactics,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Digital Marketing Channels,concept,USED_FOR,Advertising Media Planning,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Strategic Decision Making,concept,USED_FOR,Competitive Advantage Analysis,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,SWOT Analysis Framework,concept,USED_FOR,Market Structure Identification,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Channel Selection Criteria,concept,USED_FOR,Product Line Pricing,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Geographic Segmentation,concept,USED_FOR,Channel Selection Criteria,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Market Coverage Decisions,concept,USED_FOR,Geographic Segmentation,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Distribution Channel Types,concept,USED_FOR,Market Coverage Decisions,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Logistics and Fulfillment,concept,USED_FOR,Distribution Channel Types,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Supply Chain Management,concept,USED_FOR,Logistics and Fulfillment,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Strategic Reality,concept,USED_FOR,Organizational Life Cycle,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Environmental Scanning,concept,USED_FOR,Strategic Reality,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Exchange Process Perspective,concept,USED_FOR,Buyer-Seller Relationship Dynamics,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Transaction Cost Economics,concept,USED_FOR,Market Exchange Mechanisms,concept,,,MBAD_6270_triples_raw.json
+MBAD_6270,Supply Chain Interdependencies,concept,USED_FOR,Transaction Cost Economics,concept,,,MBAD_6270_triples_raw.json

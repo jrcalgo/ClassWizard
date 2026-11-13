@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_3160,Database Design,topic,PART_OF,Database Organization,topic,,,ITSC_3160_triples_raw.json
+ITSC_3160,Data Models,topic,PART_OF,Database Design,topic,,,ITSC_3160_triples_raw.json
+ITSC_3160,Secondary Storage Considerations,topic,PART_OF,Database Organization,topic,,,ITSC_3160_triples_raw.json

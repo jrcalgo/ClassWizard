@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_4275,Principles of Risk Management and Insurance,topic,PREREQUISITE_OF,Enterprise Risk Management,topic,B mentioned first,,FINN_4275_triples_raw.json

@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_6000,machine learning basics,concept,PREREQUISITE_OF,artificial intelligence definition,concept,same unit,,CJUS_6000_triples_raw.json
+CJUS_6000,machine learning basics,concept,PREREQUISITE_OF,bias in AI systems,concept,A taught first,,CJUS_6000_triples_raw.json
+CJUS_6000,machine learning basics,concept,PREREQUISITE_OF,evidence analysis software,concept,A taught first,,CJUS_6000_triples_raw.json
+CJUS_6000,machine learning basics,concept,PREREQUISITE_OF,courtroom technology integration,concept,A taught first,,CJUS_6000_triples_raw.json
+CJUS_6000,machine learning basics,concept,PREREQUISITE_OF,inmate management systems,concept,A taught first,,CJUS_6000_triples_raw.json
+CJUS_6000,artificial intelligence definition,concept,PART_OF,AI,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,predictive policing tools,concept,PART_OF,AI in Policing,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,surveillance technologies,concept,PART_OF,AI in Policing,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,bias in AI systems,concept,PART_OF,AI in Policing,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,judicial decision support,concept,PART_OF,AI in Courts,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,evidence analysis software,concept,PART_OF,AI in Courts,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,courtroom technology integration,concept,PART_OF,AI in Courts,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,risk assessment algorithms,concept,PART_OF,AI in Corrections,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,inmate management systems,concept,PART_OF,AI in Corrections,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,rehabilitation program evaluation,concept,PART_OF,AI in Corrections,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,data visualization techniques,concept,PART_OF,Data Literacy and AI,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,interpreting AI outputs,concept,PART_OF,Data Literacy and AI,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,dataset analysis methods,concept,PART_OF,Data Literacy and AI,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,fairness in AI systems,concept,PART_OF,AI Ethics and Policy,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,ethical AI implementation guidelines,concept,PART_OF,AI Ethics and Policy,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,predictive policing tools,concept,USED_FOR,AI in Policing,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,surveillance technologies,concept,USED_FOR,AI in Policing,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,judicial decision support,concept,USED_FOR,AI in Courts,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,evidence analysis software,concept,USED_FOR,AI in Courts,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,courtroom technology integration,concept,USED_FOR,AI in Courts,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,risk assessment algorithms,concept,USED_FOR,AI in Corrections,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,inmate management systems,concept,USED_FOR,AI in Corrections,topic,,,CJUS_6000_triples_raw.json
+CJUS_6000,rehabilitation program evaluation,concept,USED_FOR,AI in Corrections,topic,,,CJUS_6000_triples_raw.json

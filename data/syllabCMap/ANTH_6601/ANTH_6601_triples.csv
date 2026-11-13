@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_6601,Anthropology,topic,PREREQUISITE_OF,History of Anthropology,topic,A mentioned first,,ANTH_6601_triples_raw.json
+ANTH_6601,University Development of Anthropology,topic,PREREQUISITE_OF,Fieldwork and Its Challenges,topic,A taught first,,ANTH_6601_triples_raw.json
+ANTH_6601,Theoretical Debates in Anthropology,topic,PREREQUISITE_OF,Modern Developments in Anthropology,topic,A taught first,,ANTH_6601_triples_raw.json
+ANTH_6601,Anthropology as a Discipline,concept,PART_OF,Anthropology,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,Founding Fathers of Anthropology,concept,PART_OF,History of Anthropology,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,Museum Origins in Europe,concept,PART_OF,Museums and Early Collections,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,Museums and Early Collections,topic,PART_OF,Colonialism and Collection Practices,concept,,part is broader than whole - check direction,ANTH_6601_triples_raw.json
+ANTH_6601,Institutionalization of the Discipline,concept,PART_OF,University Development of Anthropology,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,Academic Theories and Debates,concept,PART_OF,University Development of Anthropology,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,Cultural Relativism and Ethnographic Writing,concept,PART_OF,Fieldwork and Its Challenges,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,Fieldworker-Subject Relationships,concept,PART_OF,Fieldwork and Its Challenges,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,Anthropological Theories of Human Nature,concept,PART_OF,Theoretical Debates in Anthropology,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,"Colonialism, Imperialism, and Anthropology",topic,PART_OF,Anthropology's Role in Colonial Projects,concept,,part is broader than whole - check direction,ANTH_6601_triples_raw.json
+ANTH_6601,Postcolonial and Poststructuralist Theories,concept,PART_OF,Modern Developments in Anthropology,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,Globalization and Transnationalism Studies,concept,PART_OF,Modern Developments in Anthropology,topic,,,ANTH_6601_triples_raw.json
+ANTH_6601,New Directions in Ethnographic Research,concept,PART_OF,Modern Developments in Anthropology,topic,,,ANTH_6601_triples_raw.json

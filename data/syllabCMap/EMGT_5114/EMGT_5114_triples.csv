@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_5114,Production Planning,topic,PART_OF,Production Scheduling,topic,,,EMGT_5114_triples_raw.json
+EMGT_5114,Line Balancing,topic,PART_OF,Production Planning,topic,,,EMGT_5114_triples_raw.json
+EMGT_5114,Vehicle Routing Problem,topic,PART_OF,Production Planning,topic,,,EMGT_5114_triples_raw.json
+EMGT_5114,Single Machine System,topic,PART_OF,Production Planning,topic,,,EMGT_5114_triples_raw.json
+EMGT_5114,Two-Machine System,topic,PART_OF,Production Planning,topic,,,EMGT_5114_triples_raw.json
+EMGT_5114,Stochastic Models,topic,PART_OF,Production Planning,topic,,,EMGT_5114_triples_raw.json

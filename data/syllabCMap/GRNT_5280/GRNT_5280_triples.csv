@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_5280,Alzheimer's disease,concept,PREREQUISITE_OF,Dementia types,concept,same unit,,GRNT_5280_triples_raw.json
+GRNT_5280,Alzheimer's disease,concept,PREREQUISITE_OF,Neurological aspects,concept,A taught first,,GRNT_5280_triples_raw.json
+GRNT_5280,Alzheimer's disease,concept,PREREQUISITE_OF,Social implications,concept,same unit,,GRNT_5280_triples_raw.json
+GRNT_5280,Biological markers,concept,PREREQUISITE_OF,Dementia symptoms,concept,A taught first,,GRNT_5280_triples_raw.json
+GRNT_5280,Alzheimer's disease,concept,SUBTYPE_OF,Dementia types,concept,,,GRNT_5280_triples_raw.json
+GRNT_5280,Amyloid plaques formation,concept,SUBTYPE_OF,Neurodegenerative processes,concept,,,GRNT_5280_triples_raw.json

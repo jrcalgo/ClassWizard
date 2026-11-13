@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5272,soil classification systems,concept,PREREQUISITE_OF,slope stability analysis,concept,A taught first,,CEGR_5272_triples_raw.json
+CEGR_5272,soil classification systems,concept,PREREQUISITE_OF,drainage mechanisms in geosynthetics,concept,A taught first,,CEGR_5272_triples_raw.json
+CEGR_5272,geotextile separation mechanisms,concept,PART_OF,geocomposite separation systems,concept,,,CEGR_5272_triples_raw.json
+CEGR_5272,geosynthetic reinforced pavements,concept,PART_OF,Pavement Design Considerations,topic,,,CEGR_5272_triples_raw.json
+CEGR_5272,geosynthetic reinforcement systems,concept,PART_OF,Embankment Stability Issues,topic,,,CEGR_5272_triples_raw.json
+CEGR_5272,geosynthetic reinforcement systems,concept,PART_OF,slope stability analysis,concept,,,CEGR_5272_triples_raw.json
+CEGR_5272,Soil Stabilization Techniques,topic,PART_OF,geomaterials limitations,concept,,part is broader than whole - check direction,CEGR_5272_triples_raw.json

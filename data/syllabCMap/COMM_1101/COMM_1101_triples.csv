@@ -1,0 +1,114 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_1101,Nonverbal Communication,concept,PREREQUISITE_OF,Delivery Techniques,concept,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Delivery Methods Comparison,concept,PREREQUISITE_OF,Delivery Techniques,concept,A taught first,,COMM_1101_triples_raw.json
+COMM_1101,Speech Structure,concept,PREREQUISITE_OF,Body of the Speech,topic,A taught first,,COMM_1101_triples_raw.json
+COMM_1101,Speaker Credibility Factors,concept,PREREQUISITE_OF,Informative Speaking,topic,A taught first,,COMM_1101_triples_raw.json
+COMM_1101,Research Methods,concept,PREREQUISITE_OF,Persuasive Speaking,topic,A taught first,,COMM_1101_triples_raw.json
+COMM_1101,Argumentation Techniques,concept,PREREQUISITE_OF,Persuasive Speaking,topic,A taught first,,COMM_1101_triples_raw.json
+COMM_1101,Evidence Types,concept,PREREQUISITE_OF,Supporting Ideas,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,First Speech Structure,concept,PREREQUISITE_OF,First Speeches,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis Strategies,concept,PREREQUISITE_OF,Introductions & Conclusions,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Message Design,concept,PREREQUISITE_OF,Language,topic,A taught first,,COMM_1101_triples_raw.json
+COMM_1101,Public Speaking Importance,concept,PREREQUISITE_OF,Public Speaking Matters,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Ethical Principles,concept,PREREQUISITE_OF,Ethics,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Speaker Responsibility,concept,PREREQUISITE_OF,Ethics,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Truthfulness in Speech,concept,PREREQUISITE_OF,Ethics,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Body Language Awareness,concept,PREREQUISITE_OF,Speaking Confidently,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Vocal Variety Control,concept,PREREQUISITE_OF,Speaking Confidently,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Effective Listening,concept,PREREQUISITE_OF,Listening,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Active Listening Skills,concept,PREREQUISITE_OF,Listening,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Verbal and Nonverbal Cues,concept,PREREQUISITE_OF,Listening,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Message Reception Process,concept,PREREQUISITE_OF,Listening,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Purpose Statement Development,concept,PREREQUISITE_OF,Finding Purpose/ Selecting a Topic,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Rhetorical Situation Awareness,concept,PREREQUISITE_OF,Finding Purpose/ Selecting a Topic,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Reasoning Techniques,concept,PREREQUISITE_OF,Supporting Ideas,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Main Points Development,concept,PREREQUISITE_OF,Body of the Speech,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Credibility Sources,concept,PREREQUISITE_OF,Body of the Speech,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Effective Opening Sentences,concept,PREREQUISITE_OF,Introductions & Conclusions,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Speaker's Credibility Techniques,concept,PREREQUISITE_OF,Introductions & Conclusions,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Conclusion Structure Models,concept,PREREQUISITE_OF,Introductions & Conclusions,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Speaker's Tone Management,concept,PREREQUISITE_OF,Introductions & Conclusions,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Informative Speaking Purpose,concept,PREREQUISITE_OF,Informative Speaking,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Public Speaking Techniques,concept,PREREQUISITE_OF,Persuasive Speaking,topic,A taught first,,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis Skills,concept,PREREQUISITE_OF,Persuasive Speaking,topic,A taught first,,COMM_1101_triples_raw.json
+COMM_1101,Topic Sentences,concept,PREREQUISITE_OF,Outlining,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Main Ideas,concept,PREREQUISITE_OF,Outlining,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Outline Structure,concept,PREREQUISITE_OF,Outlining,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Indentation Rules,concept,PREREQUISITE_OF,Outlining,topic,same unit,,COMM_1101_triples_raw.json
+COMM_1101,Language Functions,concept,PREREQUISITE_OF,Language,topic,B taught first,B is taught before A - check,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis Techniques,concept,PART_OF,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Message Organization Strategies,concept,PART_OF,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Delivery Techniques,concept,PART_OF,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Nonverbal Communication,concept,PART_OF,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Rhetorical Devices,concept,PART_OF,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Speech Structure,concept,PART_OF,Body of the Speech,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Speaker Credibility Factors,concept,PART_OF,Informative Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Research Methods,concept,PART_OF,Persuasive Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Argumentation Techniques,concept,PART_OF,Persuasive Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Evidence Types,concept,PART_OF,Supporting Ideas,topic,,,COMM_1101_triples_raw.json
+COMM_1101,First Speech Structure,concept,PART_OF,First Speeches,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis Strategies,concept,PART_OF,Introductions & Conclusions,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Message Design,concept,PART_OF,Language,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Public Speaking Importance,concept,PART_OF,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Ethical Principles,concept,PART_OF,Ethics,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Speaker Responsibility,concept,PART_OF,Ethics,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Truthfulness in Speech,concept,PART_OF,Ethics,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Body Language Awareness,concept,PART_OF,Speaking Confidently,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Vocal Variety Control,concept,PART_OF,Speaking Confidently,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Effective Listening,concept,PART_OF,Listening,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Active Listening Skills,concept,PART_OF,Listening,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Verbal and Nonverbal Cues,concept,PART_OF,Listening,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Message Reception Process,concept,PART_OF,Listening,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Topic Selection Criteria,concept,PART_OF,Finding Purpose/ Selecting a Topic,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Purpose Statement Development,concept,PART_OF,Finding Purpose/ Selecting a Topic,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Rhetorical Situation Awareness,concept,PART_OF,Finding Purpose/ Selecting a Topic,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Reasoning Techniques,concept,PART_OF,Supporting Ideas,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Main Points Development,concept,PART_OF,Body of the Speech,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Credibility Sources,concept,PART_OF,Body of the Speech,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Effective Opening Sentences,concept,PART_OF,Introductions & Conclusions,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Speaker's Credibility Techniques,concept,PART_OF,Introductions & Conclusions,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Conclusion Structure Models,concept,PART_OF,Introductions & Conclusions,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Speaker's Tone Management,concept,PART_OF,Introductions & Conclusions,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Public Speaking Techniques,concept,PART_OF,Persuasive Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis Skills,concept,PART_OF,Persuasive Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Topic Sentences,concept,PART_OF,Outlining,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Main Ideas,concept,PART_OF,Outlining,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Outline Structure,concept,PART_OF,Outlining,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Indentation Rules,concept,PART_OF,Outlining,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Language,topic,PART_OF,Language Functions,concept,,part is broader than whole - check direction,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis,method,USED_FOR,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis,method,USED_FOR,Ethics,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis,method,USED_FOR,Informative Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis,method,USED_FOR,Persuasive Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Delivery Techniques,concept,USED_FOR,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Nonverbal Communication,concept,USED_FOR,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Rhetorical Devices,concept,USED_FOR,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Speech Structure,concept,USED_FOR,Body of the Speech,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Speaker Credibility Factors,concept,USED_FOR,Informative Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Research Methods,concept,USED_FOR,Persuasive Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Argumentation Techniques,concept,USED_FOR,Persuasive Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Evidence Types,concept,USED_FOR,Supporting Ideas,topic,,,COMM_1101_triples_raw.json
+COMM_1101,First Speech Structure,concept,USED_FOR,First Speeches,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis Strategies,concept,USED_FOR,Introductions & Conclusions,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Message Design,concept,USED_FOR,Language,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Public Speaking Importance,concept,USED_FOR,Public Speaking Matters,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Ethical Principles,concept,USED_FOR,Ethics,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Speaker Responsibility,concept,USED_FOR,Ethics,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Truthfulness in Speech,concept,USED_FOR,Ethics,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Body Language Awareness,concept,USED_FOR,Speaking Confidently,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Vocal Variety Control,concept,USED_FOR,Speaking Confidently,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Effective Listening,concept,USED_FOR,Listening,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Active Listening Skills,concept,USED_FOR,Listening,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Verbal and Nonverbal Cues,concept,USED_FOR,Listening,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Message Reception Process,concept,USED_FOR,Listening,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Reasoning Techniques,concept,USED_FOR,Supporting Ideas,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Main Points Development,concept,USED_FOR,Body of the Speech,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Credibility Sources,concept,USED_FOR,Body of the Speech,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Speaker's Credibility Techniques,concept,USED_FOR,Introductions & Conclusions,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Conclusion Structure Models,concept,USED_FOR,Introductions & Conclusions,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Public Speaking Techniques,concept,USED_FOR,Persuasive Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Audience Analysis Skills,concept,USED_FOR,Persuasive Speaking,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Topic Sentences,concept,USED_FOR,Outlining,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Main Ideas,concept,USED_FOR,Outlining,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Outline Structure,concept,USED_FOR,Outlining,topic,,,COMM_1101_triples_raw.json
+COMM_1101,Indentation Rules,concept,USED_FOR,Outlining,topic,,,COMM_1101_triples_raw.json

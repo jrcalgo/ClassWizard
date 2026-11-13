@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_2100,arguments,concept,PREREQUISITE_OF,argument components,concept,same unit,,PHIL_2100_triples_raw.json
+PHIL_2100,categorizing,method,USED_FOR,argument components,concept,,,PHIL_2100_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1112,individual technique,concept,PREREQUISITE_OF,Ensemble Skills,topic,A taught first,,MUPF_1112_triples_raw.json
+MUPF_1112,individual technique,concept,PREREQUISITE_OF,Professionalism and Preparation,topic,A taught first,,MUPF_1112_triples_raw.json
+MUPF_1112,individual technique,concept,PREREQUISITE_OF,Wind Ensemble,topic,A mentioned first,,MUPF_1112_triples_raw.json
+MUPF_1112,musicianship through preparation,concept,PREREQUISITE_OF,Ensemble Skills,topic,A taught first,,MUPF_1112_triples_raw.json
+MUPF_1112,individual technique,concept,PART_OF,Wind Ensemble,topic,,,MUPF_1112_triples_raw.json
+MUPF_1112,Ensemble Skills,topic,PART_OF,Wind Ensemble,topic,,,MUPF_1112_triples_raw.json
+MUPF_1112,musicianship through preparation,concept,PART_OF,Wind Ensemble,topic,,,MUPF_1112_triples_raw.json
+MUPF_1112,high degree of professionalism,concept,PART_OF,Professionalism and Preparation,topic,,,MUPF_1112_triples_raw.json
+MUPF_1112,Professionalism and Preparation,topic,PART_OF,Wind Ensemble,topic,,,MUPF_1112_triples_raw.json
+MUPF_1112,musicianship through preparation,concept,USED_FOR,Ensemble Skills,topic,,,MUPF_1112_triples_raw.json
+MUPF_1112,musicianship through preparation,concept,USED_FOR,Professionalism and Preparation,topic,,,MUPF_1112_triples_raw.json

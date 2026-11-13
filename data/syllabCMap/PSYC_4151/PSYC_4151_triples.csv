@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_4151,Psychoanalytic Theory,topic,PREREQUISITE_OF,Trait and Factor Theories,topic,A taught first,,PSYC_4151_triples_raw.json
+PSYC_4151,Psychoanalytic Theory,topic,PREREQUISITE_OF,Biological Influences on Personality,topic,A taught first,,PSYC_4151_triples_raw.json
+PSYC_4151,Trait and Factor Theories,topic,PREREQUISITE_OF,Measurement of Personality Traits,topic,A taught first,,PSYC_4151_triples_raw.json
+PSYC_4151,Trait and Factor Theories,topic,PREREQUISITE_OF,Research Methodology in Personality,topic,A taught first,,PSYC_4151_triples_raw.json
+PSYC_4151,Biological Influences on Personality,topic,PREREQUISITE_OF,Measurement of Personality Traits,topic,A taught first,,PSYC_4151_triples_raw.json
+PSYC_4151,Biological Influences on Personality,topic,PREREQUISITE_OF,Research Methodology in Personality,topic,A taught first,,PSYC_4151_triples_raw.json
+PSYC_4151,Personality Psychology Definition,concept,PART_OF,Current personality theories,topic,,,PSYC_4151_triples_raw.json
+PSYC_4151,Psychoanalytic Theory,topic,PART_OF,Current personality theories,topic,,,PSYC_4151_triples_raw.json
+PSYC_4151,Trait and Factor Theories,topic,PART_OF,Current personality theories,topic,,,PSYC_4151_triples_raw.json
+PSYC_4151,Biological Influences on Personality,topic,PART_OF,Current personality theories,topic,,,PSYC_4151_triples_raw.json
+PSYC_4151,Research Methodology in Personality,topic,PART_OF,Current personality theories,topic,,,PSYC_4151_triples_raw.json
+PSYC_4151,Measurement of Personality Traits,topic,PART_OF,Current personality theories,topic,,,PSYC_4151_triples_raw.json

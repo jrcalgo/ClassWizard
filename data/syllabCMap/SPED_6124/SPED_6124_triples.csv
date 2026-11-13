@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_6124,heterogeneous classrooms,concept,PREREQUISITE_OF,comprehensive curriculum design,concept,B taught first,B is taught before A - check,SPED_6124_triples_raw.json
+SPED_6124,Bloom's taxonomy,concept,PREREQUISITE_OF,Renzulli's enrichment model,concept,same unit,,SPED_6124_triples_raw.json
+SPED_6124,Bruner's discovery learning,concept,PREREQUISITE_OF,Maker's learning model,concept,same unit,,SPED_6124_triples_raw.json
+SPED_6124,heterogeneous classrooms,concept,PART_OF,Gifted Education,topic,,,SPED_6124_triples_raw.json
+SPED_6124,comprehensive curriculum design,concept,PART_OF,Gifted Education,topic,,,SPED_6124_triples_raw.json
+SPED_6124,differentiation principles,concept,PART_OF,Gifted Education,topic,,,SPED_6124_triples_raw.json
+SPED_6124,heterogeneous classrooms,concept,SUBTYPE_OF,Gifted Education,topic,,,SPED_6124_triples_raw.json
+SPED_6124,comprehensive curriculum design,concept,SUBTYPE_OF,Gifted Education,topic,,,SPED_6124_triples_raw.json
+SPED_6124,differentiation principles,concept,SUBTYPE_OF,Gifted Education,topic,,,SPED_6124_triples_raw.json
+SPED_6124,Bloom's taxonomy,concept,USED_FOR,Renzulli's enrichment model,concept,,,SPED_6124_triples_raw.json
+SPED_6124,Bruner's discovery learning,concept,USED_FOR,Maker's learning model,concept,,,SPED_6124_triples_raw.json

@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_2206,Pre-contact civilizations,concept,PREREQUISITE_OF,Spanish conquest methods,concept,same unit,,HIST_2206_triples_raw.json
+HIST_2206,Pre-contact civilizations,concept,PREREQUISITE_OF,Portuguese colonization strategies,concept,same unit,,HIST_2206_triples_raw.json
+HIST_2206,Indigenous resistance movements,concept,PREREQUISITE_OF,Colonial Power Dynamics,concept,A taught first,,HIST_2206_triples_raw.json
+HIST_2206,Indigenous resistance movements,concept,PREREQUISITE_OF,Cultural Imperialism Dynamics,concept,A taught first,,HIST_2206_triples_raw.json
+HIST_2206,Indigenous resistance movements,concept,PREREQUISITE_OF,Economic Exploitation Methods,concept,A taught first,,HIST_2206_triples_raw.json
+HIST_2206,Indigenous resistance movements,concept,PREREQUISITE_OF,Resistance Leadership Roles,concept,A taught first,,HIST_2206_triples_raw.json
+HIST_2206,European contact impact,concept,PREREQUISITE_OF,Colonial Administration,concept,A taught first,,HIST_2206_triples_raw.json
+HIST_2206,Portuguese colonization strategies,concept,PREREQUISITE_OF,Empire Consolidation,concept,A taught first,,HIST_2206_triples_raw.json
+HIST_2206,European contact impact,concept,PREREQUISITE_OF,Socio-Cultural Impact,concept,A taught first,,HIST_2206_triples_raw.json
+HIST_2206,Indigenous resistance movements,concept,PREREQUISITE_OF,Social Hierarchy Formation,concept,A taught first,,HIST_2206_triples_raw.json
+HIST_2206,Pre-contact civilizations,concept,PREREQUISITE_OF,Conquistador Tactics,concept,A taught first,,HIST_2206_triples_raw.json
+HIST_2206,Pre-contact civilizations,concept,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Mesoamerican Cultures,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,South American Societies,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Initial Conquest,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,ESTABLISHING COLONIAL SYSTEMS,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Defense,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,MID-COLONIAL PERIOD,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Religion,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Gender and Family,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Living in the Empire,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,DECLINE OF IMPERIAL RULE,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Bourbon Reforms,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Age of Revolutions,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Independence,topic,PART_OF,Colonial Latin America,topic,,,HIST_2206_triples_raw.json
+HIST_2206,Colonial Administration,concept,USED_FOR,Empire Consolidation,concept,,,HIST_2206_triples_raw.json
+HIST_2206,Conquest and Contact,topic,USED_FOR,Colonial Administration,concept,,topic used for something - check direction,HIST_2206_triples_raw.json
+HIST_2206,Transculturation Process,concept,USED_FOR,Social Hierarchy Formation,concept,,,HIST_2206_triples_raw.json
+HIST_2206,Cultural Imperialism Dynamics,concept,USED_FOR,Resistance Leadership Roles,concept,,,HIST_2206_triples_raw.json
+HIST_2206,Extraction Methods,concept,USED_FOR,Colonial Economy,concept,,,HIST_2206_triples_raw.json
+HIST_2206,Transatlantic Slave Trade,concept,USED_FOR,Slavery Laws and Codes,concept,,,HIST_2206_triples_raw.json

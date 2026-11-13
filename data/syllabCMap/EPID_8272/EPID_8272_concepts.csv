@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EPID_8272,topic,Survival Analysis,Survival Analysis,7,verified,Survival Analysis,EPID_8272_concepts_raw.json
+EPID_8272,topic,Applied Biostatistics Regression,Applied Biostatistics Regression,1,verified,Applied Biostatistics Regression,EPID_8272_concepts_raw.json
+EPID_8272,topic,Epidemiologic Research,epidemiologic research,1,verified,Epidemiologic Research,EPID_8272_concepts_raw.json
+EPID_8272,concept,time-to-event data,time-to-event data,4,verified,time-to-event data,EPID_8272_concepts_raw.json
+EPID_8272,concept,Kaplan-Meier methods,Kaplan-Meier methods,2,verified,Kaplan-Meier methods,EPID_8272_concepts_raw.json
+EPID_8272,concept,Cox proportional hazards model,Cox proportional hazards models,1,verified,Cox proportional hazards model,EPID_8272_concepts_raw.json
+EPID_8272,concept,model diagnostics,model diagnostics,2,verified,model diagnostics,EPID_8272_concepts_raw.json
+EPID_8272,concept,associated computational approaches,associated computational approaches,2,verified,associated computational approaches,EPID_8272_concepts_raw.json
+EPID_8272,method,descriptive analysis for censored data,descriptive analysis for censored data,2,verified,descriptive analysis for censored data,EPID_8272_concepts_raw.json
+EPID_8272,method,log-rank tests for group comparisons,log-rank tests for group comparisons,2,verified,log-rank tests for group comparisons,EPID_8272_concepts_raw.json
+EPID_8272,tool,R,R,2,verified,R,EPID_8272_concepts_raw.json

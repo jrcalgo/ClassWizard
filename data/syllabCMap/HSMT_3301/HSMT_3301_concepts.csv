@@ -1,0 +1,91 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HSMT_3301,concept,Health insurance design,Health insurance design,29,verified,Health insurance design,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Managed care regulation,Managed care regulation,1,verified,Managed care regulation,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Fee-for-Service,Fee-For-Service,4,verified,Fee-for-Service,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,HMO,HMO,1,verified,HMO,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,managed care,Managed Care,47,verified,managed care,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,medical home,medical home,1,verified,medical home,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,private insurers,private insurers,1,verified,private insurers,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,inclusion,inclusion,1,verified,"inclusion, access, and equity related to health insurance and managed care",HSMT_3301_concepts_raw.json
+HSMT_3301,concept,access,access,4,verified,"inclusion, access, and equity related to health insurance and managed care",HSMT_3301_concepts_raw.json
+HSMT_3301,concept,equity related to health insurance,equity related to health insurance,1,verified,"inclusion, access, and equity related to health insurance and managed care",HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Affordable Care Act,Affordable Care Act,3,verified,Affordable Care Act,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health Insurance Marketplaces,Health Insurance Marketplaces,1,verified,Health Insurance Marketplaces,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Exchange Plans,Exchange Plans,1,verified,Exchange Plans,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Subsidies and Tax Credits,Subsidies and Tax Credits,2,verified,Subsidies and Tax Credits,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Mandated Benefits and Coverage,Mandated Benefits and Coverage,1,verified,Mandated Benefits and Coverage,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Essential Health Benefits Package,Essential Health Benefits Package,1,verified,Essential Health Benefits Package,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Risk Pooling Mechanisms,Risk Pooling Mechanisms,2,verified,Risk Pooling Mechanisms,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Actuarial Tables,Actuarial Tables,3,verified,Actuarial Tables,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Premium Pricing Models,Premium Pricing Models,2,verified,Premium Pricing Models,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Insurance Risk Management,Insurance Risk Management,1,verified,Insurance Risk Management,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health Insurance System,health insurance system,2,verified,Health Insurance System,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Managed Care Organizations,managed care organizations,41,verified,Managed Care Organizations,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Insurance Regulation Agencies,Insurance Regulation Agencies,1,verified,Insurance Regulation Agencies,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Healthcare Delivery Settings,Healthcare Delivery Settings,28,verified,Healthcare Delivery Settings,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Personnel Resources Management,Personnel Resources Management,6,verified,Personnel Resources Management,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Public Health Insurance,Public Health Insurance,2,verified,Public Health Insurance,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Private Health Insurance,Private Health Insurance,2,verified,Private Health Insurance,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Regulatory Agencies,Regulatory Agencies,1,verified,Regulatory Agencies,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Healthcare Personnel Roles,Healthcare Personnel Roles,1,verified,Healthcare Personnel Roles,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Financial Resources Management,Financial Resources Management,2,verified,Financial Resources Management,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health Insurance Reimbursement,Health Insurance Reimbursement,1,verified,Health Insurance Reimbursement,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Medicare Eligibility Criteria,Medicare Eligibility Criteria,1,verified,Medicare Eligibility Criteria,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Private Health Insurance Plans,Private Health Insurance Plans,1,verified,Private Health Insurance Plans,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Group Health Insurance Options,Group Health Insurance Options,1,verified,Group Health Insurance Options,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Individual Health Insurance Market,Individual Health Insurance Market,1,verified,Individual Health Insurance Market,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Medicaid Eligibility Criteria,Medicaid Eligibility Criteria,2,verified,Medicaid Eligibility Criteria,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Healthcare Reform Laws,Healthcare Reform Laws,1,verified,Healthcare Reform Laws,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Insurance Market Regulations,Insurance Market Regulations,1,verified,Insurance Market Regulations,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health Maintenance Organizations,Health Maintenance Organizations,1,verified,Health Maintenance Organizations,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Preferred Provider Networks,Preferred Provider Networks,1,verified,Preferred Provider Networks,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Covered Benefits,Covered Benefits,3,verified,Covered Benefits,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health Insurance Plans,Health Insurance Plans,4,verified,Health Insurance Plans,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Managed Care Models,Managed Care Models,2,verified,Managed Care Models,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Benefit Packages,Benefit Packages,2,verified,Benefit Packages,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Insurance Reimbursement,Insurance Reimbursement,3,verified,Insurance Reimbursement,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Provider Networks,Provider Networks,3,verified,Provider Networks,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Preventive Services,Preventive Services,1,verified,Preventive Services,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Mandatory Coverage,Mandatory Coverage,1,verified,Mandatory Coverage,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Optional Riders,Optional Riders,1,verified,Optional Riders,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Consumer Financial Literacy,Consumer Financial Literacy,1,verified,Consumer Financial Literacy,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health Insurance Options,Health Insurance Options,2,verified,Health Insurance Options,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Financial Planning Strategies,Financial Planning Strategies,1,verified,Financial Planning Strategies,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Insurance Premium Calculation,Insurance Premium Calculation,1,verified,Insurance Premium Calculation,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Out-of-Pocket Expenses,Out-of-Pocket Expenses,3,verified,Out-of-Pocket Expenses,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Healthcare responsibility,Healthcare responsibility,1,verified,Healthcare responsibility,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health insurance regulation,Health Insurance Regulations,2,verified,Health insurance regulation,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Consumer Financial Responsibility,Consumer Financial Responsibility,2,verified,Consumer Financial Responsibility,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health Care Costs,Health Care Costs,1,verified,Health Care Costs,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Insurance Premiums,Insurance Premiums,1,verified,Insurance Premiums,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Co-payments and Deductibles,Co-payments and Deductibles,1,verified,Co-payments and Deductibles,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Consumer Protection Laws,Consumer Protection Laws,1,verified,Consumer Protection Laws,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health Insurance Regulations,Health Insurance Regulations,2,verified,Health Insurance Regulations,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Patient Rights Act,Patient Rights Act,1,verified,Patient Rights Act,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Insurance Company Liability,Insurance Company Liability,2,verified,Insurance Company Liability,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Payer Provider Relationships,Payer Provider Relationships,1,verified,Payer Provider Relationships,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Regulation of Healthcare,Regulation of Healthcare,3,verified,Regulation of Healthcare,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Delivery Settings Variance,Delivery Settings Variance,1,verified,Delivery Settings Variance,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Financial Resource Allocation,Financial Resource Allocation,3,verified,Financial Resource Allocation,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Historical Development Trends,Historical Development Trends,1,verified,Historical Development Trends,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Future Growth Directions,Future Growth Directions,13,verified,Future Growth Directions,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Payment Mechanism Design,Payment Mechanism Design,1,verified,Payment Mechanism Design,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Reimbursement Models,Reimbursement Models,3,verified,Reimbursement Models,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Fee-for-Service Systems,Fee-for-Service Systems,2,verified,Fee-for-Service Systems,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Capitation Payments,Capitation Payments,2,verified,Capitation Payments,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Risk Adjustment Methods,Risk Adjustment Methods,2,verified,Risk Adjustment Methods,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Premium Subsidies,Premium Subsidies,1,verified,Premium Subsidies,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Claims Processing,Claims Processing,2,verified,Claims Processing,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Health Insurance Claims,Health Insurance Claims,1,verified,Health Insurance Claims,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Insurance Company Operations,Insurance Company Operations,1,verified,Insurance Company Operations,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Reimbursement Methods,Reimbursement Methods,2,verified,Reimbursement Methods,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Provider Reimbursement Models,Provider Reimbursement Models,1,verified,Provider Reimbursement Models,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Fee-for-Service Payments,Fee-for-Service Payments,1,verified,Fee-for-Service Payments,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Capitation Payment Plans,Capitation Payment Plans,1,verified,Capitation Payment Plans,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Risk Adjustment Factors,Risk Adjustment Factors,1,verified,Risk Adjustment Factors,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Disability Insurance,Disability Insurance,1,verified,Disability Insurance,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Healthcare Access Barriers,Healthcare Access Barriers,3,verified,Healthcare Access Barriers,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Insurance Coverage Gaps,Insurance Coverage Gaps,3,verified,Insurance Coverage Gaps,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Patient Protection Act,Patient Protection Act,1,verified,Patient Protection Act,HSMT_3301_concepts_raw.json
+HSMT_3301,concept,Special Needs Plans,Special Needs Plans,1,verified,Special Needs Plans,HSMT_3301_concepts_raw.json
+HSMT_3301,work,Navigating Health Insurance,Navigating Health Insurance,11,verified,Navigating Health Insurance,HSMT_3301_concepts_raw.json

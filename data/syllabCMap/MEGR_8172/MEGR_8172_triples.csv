@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_8172,open methods,method,PART_OF,Nonlinear Equations,topic,,,MEGR_8172_triples_raw.json
+MEGR_8172,finite-difference stencils,method,PART_OF,Finite-Difference Approximation,topic,,,MEGR_8172_triples_raw.json
+MEGR_8172,order of accuracy,concept,PART_OF,Finite-Difference Approximation,topic,,,MEGR_8172_triples_raw.json
+MEGR_8172,Newton-Cotes rules,method,PART_OF,Numerical Integration,topic,,,MEGR_8172_triples_raw.json
+MEGR_8172,Romberg integration,method,PART_OF,Numerical Integration,topic,,,MEGR_8172_triples_raw.json
+MEGR_8172,Gaussian quadrature,method,PART_OF,Numerical Integration,topic,,,MEGR_8172_triples_raw.json
+MEGR_8172,power method,method,PART_OF,Eigenvalue Problems,topic,,,MEGR_8172_triples_raw.json
+MEGR_8172,principal component analysis,concept,PART_OF,Eigenvalue Problems,topic,,,MEGR_8172_triples_raw.json
+MEGR_8172,finite-difference schemes,concept,PART_OF,Partial Differential Equations,topic,,,MEGR_8172_triples_raw.json

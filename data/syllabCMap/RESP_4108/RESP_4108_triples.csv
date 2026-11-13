@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_4108,Quality Improvement Process,concept,PREREQUISITE_OF,Continuous Quality Improvement,concept,A taught first,,RESP_4108_triples_raw.json
+RESP_4108,Root Cause Analysis,concept,PREREQUISITE_OF,Data-Driven Decision Making,concept,same unit,,RESP_4108_triples_raw.json
+RESP_4108,Project Planning and Design,concept,PREREQUISITE_OF,Implementing the QI Plan,concept,A taught first,,RESP_4108_triples_raw.json
+RESP_4108,Setting Goals and Objectives,concept,PREREQUISITE_OF,Developing a Quality Improvement Plan,concept,same unit,,RESP_4108_triples_raw.json
+RESP_4108,Quality Improvement Process,concept,PART_OF,QM,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Continuous Quality Improvement,concept,PART_OF,QM,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Root Cause Analysis,concept,PART_OF,QI Fundamentals,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Data-Driven Decision Making,concept,PART_OF,QI Fundamentals,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Project Planning and Design,concept,PART_OF,QI Project Phase I,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Setting Goals and Objectives,concept,PART_OF,QI Project Phase I,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Developing a Quality Improvement Plan,concept,PART_OF,QI Project Phase I,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Implementing the QI Plan,concept,PART_OF,QI Project Phase II,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Monitoring Progress and Outcomes,concept,PART_OF,QI Project Phase II,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Addressing Barriers to Change,concept,PART_OF,QI Project Phase II,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Evaluating the Effectiveness of QI,concept,PART_OF,QI Project Phase III,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Sustaining Quality Improvement,concept,PART_OF,QI Project Phase III,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Lessons Learned from QI Projects,concept,PART_OF,QI Project Phase III,topic,,,RESP_4108_triples_raw.json
+RESP_4108,Data Analysis in QM,concept,USED_FOR,Evidence-Based Practice,concept,,,RESP_4108_triples_raw.json

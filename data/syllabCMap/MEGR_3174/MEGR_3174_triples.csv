@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3174,printmaking techniques,concept,PREREQUISITE_OF,paper selection criteria,concept,A taught first,,MEGR_3174_triples_raw.json
+MEGR_3174,printmaking techniques,concept,PREREQUISITE_OF,surface preparation methods,concept,A taught first,,MEGR_3174_triples_raw.json
+MEGR_3174,ink application procedures,concept,PREREQUISITE_OF,intaglio printmaking explained,concept,A taught first,,MEGR_3174_triples_raw.json
+MEGR_3174,color theory fundamentals,concept,PREREQUISITE_OF,pigment mixing techniques,concept,same unit,,MEGR_3174_triples_raw.json
+MEGR_3174,paper selection criteria,concept,PART_OF,Paper Preparation Techniques,topic,,,MEGR_3174_triples_raw.json
+MEGR_3174,etching press operation,concept,PART_OF,Basic Printmaking Tools,topic,,,MEGR_3174_triples_raw.json
+MEGR_3174,intaglio printmaking explained,concept,PART_OF,Printmaking Processes Explained,topic,,,MEGR_3174_triples_raw.json
+MEGR_3174,color theory fundamentals,concept,PART_OF,Color Theory and Mixing,topic,,,MEGR_3174_triples_raw.json
+MEGR_3174,pigment mixing techniques,concept,PART_OF,Color Theory and Mixing,topic,,,MEGR_3174_triples_raw.json
+MEGR_3174,chemical handling procedures,concept,PART_OF,Printmaking Safety Precautions,topic,,,MEGR_3174_triples_raw.json
+MEGR_3174,time management strategies,concept,PART_OF,Printmaking Studio Practice,topic,,,MEGR_3174_triples_raw.json
+MEGR_3174,printmaking techniques,concept,USED_FOR,relief printing process,concept,,,MEGR_3174_triples_raw.json
+MEGR_3174,printmaking techniques,concept,USED_FOR,intaglio printmaking explained,concept,,,MEGR_3174_triples_raw.json
+MEGR_3174,ink application procedures,concept,USED_FOR,intaglio printmaking explained,concept,,,MEGR_3174_triples_raw.json

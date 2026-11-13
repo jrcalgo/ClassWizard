@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_4141,Manufacturing Process Evaluation,topic,PART_OF,Manufacturing,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,Additive Manufacturing Workflow,topic,PART_OF,Digital Manufacturing Methods,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,Subtractive Manufacturing Workflow,topic,PART_OF,Digital Manufacturing Methods,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,Case Studies in Digital Manufacturing,topic,PART_OF,Digital Manufacturing Methods,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,Manufacturing,topic,PART_OF,Digital Manufacturing Methods,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,Additive Manufacturing Fundamentals,topic,PART_OF,Digital Manufacturing Methods,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,Subtractive Manufacturing Techniques,topic,PART_OF,Digital Manufacturing Methods,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,3D printing technologies,concept,USED_FOR,Additive Manufacturing Workflow,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,milling machine operations,concept,USED_FOR,Subtractive Manufacturing Techniques,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,laser cutting principles,concept,USED_FOR,Subtractive Manufacturing Techniques,topic,,,ETEM_4141_triples_raw.json
+ETEM_4141,drilling and tapping methods,concept,USED_FOR,Subtractive Manufacturing Techniques,topic,,,ETEM_4141_triples_raw.json

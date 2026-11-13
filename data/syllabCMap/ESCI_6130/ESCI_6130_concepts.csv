@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_6130,topic,Geoscience,geosciences,1,verified,Geoscience,ESCI_6130_concepts_raw.json
+ESCI_6130,topic,Classroom Exercises and Interventions,classroom exercises and interventions,1,verified,Classroom Exercises and Interventions,ESCI_6130_concepts_raw.json
+ESCI_6130,topic,Motivation and Self-Regulation,motivation and self-regulation,1,verified,Motivation and Self-Regulation,ESCI_6130_concepts_raw.json
+ESCI_6130,topic,Research-Validated Pedagogy,research-validated pedagogy,1,verified,Research-Validated Pedagogy,ESCI_6130_concepts_raw.json
+ESCI_6130,topic,Barriers to Student Learning,Barriers to Student Learning,1,inferred,Barriers to Student Learning,ESCI_6130_concepts_raw.json
+ESCI_6130,topic,Supporting All Students,Supporting All Students,1,inferred,Supporting All Students,ESCI_6130_concepts_raw.json
+ESCI_6130,topic,Assessment Design and Implementation,Assessment Design and Implementation,1,inferred,Assessment Design and Implementation,ESCI_6130_concepts_raw.json
+ESCI_6130,topic,Course Design and Alignment,Course Design and Alignment,1,inferred,Course Design and Alignment,ESCI_6130_concepts_raw.json
+ESCI_6130,topic,Teaching Philosophy Development,Teaching Philosophy Development,1,inferred,Teaching Philosophy Development,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,geoscience discipline overview,Geoscience Discipline Overview,1,inferred,geoscience discipline overview,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,learning in geosciences,Learning in Geosciences,1,inferred,learning in geosciences,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,science disciplines comparison,Science Disciplines Comparison,1,inferred,science disciplines comparison,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,factors contributing to minimal learning,Factors Contributing to Minimal Learning,1,inferred,factors contributing to minimal learning,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,student learning barriers identification,Student Learning Barriers Identification,1,inferred,student learning barriers identification,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,conditions necessary for learning support,Conditions Necessary for Learning Support,1,inferred,conditions necessary for learning support,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,inclusive classroom environment,Inclusive Classroom Environment,1,inferred,inclusive classroom environment,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,exercises supporting student learning,Exercises Supporting Student Learning,1,inferred,exercises supporting student learning,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,interventions to enhance learning,Interventions to Enhance Learning,1,inferred,interventions to enhance learning,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,aligning assessments with learning goals,Aligning Assessments with Learning Goals,1,inferred,aligning assessments with learning goals,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,student work evaluation criteria,Student Work Evaluation Criteria,1,inferred,student work evaluation criteria,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,supporting student motivation strategies,Supporting Student Motivation Strategies,1,inferred,supporting student motivation strategies,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,self-regulation techniques for learning,Self-Regulation Techniques for Learning,1,inferred,self-regulation techniques for learning,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,research-based teaching methods,Research-Based Teaching Methods,1,inferred,research-based teaching methods,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,pedagogy design and implementation,Pedagogy Design and Implementation,1,inferred,pedagogy design and implementation,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,learning goals and objectives alignment,Learning Goals and Objectives Alignment,1,inferred,learning goals and objectives alignment,ESCI_6130_concepts_raw.json
+ESCI_6130,concept,instructional activities and assessments,Instructional Activities and Assessments,1,inferred,instructional activities and assessments,ESCI_6130_concepts_raw.json

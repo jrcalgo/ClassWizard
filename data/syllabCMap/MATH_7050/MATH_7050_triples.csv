@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_7050,Properties of Ordinals,concept,PART_OF,Ordinal Numbers and Cardinals,topic,,,MATH_7050_triples_raw.json
+MATH_7050,Cardinality of Sets,concept,PART_OF,Ordinal Numbers and Cardinals,topic,,,MATH_7050_triples_raw.json
+MATH_7050,Definition of Forcing,concept,PART_OF,Forcing Basics,topic,,,MATH_7050_triples_raw.json
+MATH_7050,Generic Extensions,concept,PART_OF,Forcing Basics,topic,,,MATH_7050_triples_raw.json
+MATH_7050,Partial Order Relations,concept,PART_OF,Partial Orders and Boolean Algebras,topic,,,MATH_7050_triples_raw.json
+MATH_7050,Boolean Algebra Basics,concept,PART_OF,Partial Orders and Boolean Algebras,topic,,,MATH_7050_triples_raw.json
+MATH_7050,Forcing Extensions Theorem,concept,PART_OF,Forcing Extensions and Generic Models,topic,,,MATH_7050_triples_raw.json
+MATH_7050,Generic Models of ZFC,concept,PART_OF,Forcing Extensions and Generic Models,topic,,,MATH_7050_triples_raw.json

@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4230,topic,game history and genres,game history and genres,2,verified,game history and genres,ITCS_4230_concepts_raw.json
+ITCS_4230,topic,game design teams and processes,game design teams and processes,2,verified,game design teams and processes,ITCS_4230_concepts_raw.json
+ITCS_4230,topic,what makes a game fun,what makes a game fun,2,verified,what makes a game fun,ITCS_4230_concepts_raw.json
+ITCS_4230,topic,level and model design,level and model design,2,verified,level and model design,ITCS_4230_concepts_raw.json
+ITCS_4230,topic,game scripting and programming,game scripting and programming,2,verified,game scripting and programming,ITCS_4230_concepts_raw.json
+ITCS_4230,topic,computer graphics,computer graphics,2,verified,computer graphics,ITCS_4230_concepts_raw.json
+ITCS_4230,topic,animation,animation,2,verified,animation,ITCS_4230_concepts_raw.json
+ITCS_4230,topic,artificial intelligence,artificial intelligence,2,verified,artificial intelligence,ITCS_4230_concepts_raw.json
+ITCS_4230,topic,industry issues,industry issues,2,verified,industry issues,ITCS_4230_concepts_raw.json
+ITCS_4230,topic,gender and games,gender and games,2,verified,gender and games,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,emergent systems,emergent systems,1,verified,emergent systems,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,rules,Rules,5,verified,rules and uncertainty,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,uncertainty,uncertainty,1,verified,rules and uncertainty,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,manipulation,manipulation,1,verified,conflict creation and manipulation,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,meaningful play,meaningful play,1,verified,meaningful play,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,simulation and play,simulation and play,1,verified,simulation and play,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,narrative and social play,narrative and social play,1,verified,narrative and social play,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,cultural representations,cultural representations,1,verified,cultural representations,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,socio-cultural issues,socio-cultural issues,1,verified,socio-cultural issues,ITCS_4230_concepts_raw.json
+ITCS_4230,concept,ethical systems,ethical systems,1,verified,ethical systems,ITCS_4230_concepts_raw.json
+ITCS_4230,method,writing specifications,Writing specifications,1,verified,writing specifications,ITCS_4230_concepts_raw.json
+ITCS_4230,method,using storyboards and flowcharts,Using storyboards and flowcharts,1,verified,using storyboards and flowcharts,ITCS_4230_concepts_raw.json
+ITCS_4230,method,specifying algorithms,Specifying algorithms,1,verified,specifying algorithms,ITCS_4230_concepts_raw.json
+ITCS_4230,method,using game engine functionality and programming constructs,Using game engine functionality and programming constructs,1,verified,using game engine functionality and programming constructs,ITCS_4230_concepts_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_1265,critical thinking,method,PREREQUISITE_OF,problem-solving skills,method,A mentioned first,,THEA_1265_triples_raw.json
+THEA_1265,critical thinking,method,PREREQUISITE_OF,community building and cultural competency,method,A taught first,,THEA_1265_triples_raw.json
+THEA_1265,Positionality in Community Building,topic,PREREQUISITE_OF,community building and cultural competency,method,same unit,,THEA_1265_triples_raw.json

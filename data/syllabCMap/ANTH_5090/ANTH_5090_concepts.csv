@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ANTH_5090,topic,Critical Engagement with AI,Critical Engagement with AI,1,verified,Critical Engagement with AI,ANTH_5090_concepts_raw.json
+ANTH_5090,topic,Artificial Intelligence,Artificial Intelligence,2,inferred,Artificial Intelligence,ANTH_5090_concepts_raw.json
+ANTH_5090,topic,Healthcare and AI,Healthcare and AI,1,inferred,Healthcare and AI,ANTH_5090_concepts_raw.json
+ANTH_5090,topic,Government and AI,Government and AI,1,inferred,Government and AI,ANTH_5090_concepts_raw.json
+ANTH_5090,topic,Creative Arts and AI,Creative Arts and AI,1,inferred,Creative Arts and AI,ANTH_5090_concepts_raw.json
+ANTH_5090,topic,Education and AI,Education and AI,1,inferred,Education and AI,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Artificial Intelligence Definition,Artificial Intelligence Definition,1,inferred,Artificial Intelligence Definition,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,AI Technology Types,AI Technology Types,1,inferred,AI Technology Types,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Human vs Machine Learning,Human vs Machine Learning,1,inferred,Human vs Machine Learning,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Medical Diagnosis with AI,Medical Diagnosis with AI,1,inferred,Medical Diagnosis with AI,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Electronic Health Records,Electronic Health Records,1,inferred,Electronic Health Records,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Telemedicine and AI Integration,Telemedicine and AI Integration,1,inferred,Telemedicine and AI Integration,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,AI in Public Policy Making,AI in Public Policy Making,1,inferred,AI in Public Policy Making,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Data Collection and Surveillance,Data Collection and Surveillance,1,inferred,Data Collection and Surveillance,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Algorithmic Decision-Making,Algorithmic Decision-Making,1,inferred,Algorithmic Decision-Making,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Artificial Intelligence Art Forms,Artificial Intelligence Art Forms,1,inferred,Artificial Intelligence Art Forms,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Music Composition with AI,Music Composition with AI,1,inferred,Music Composition with AI,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Virtual Reality and AI,Virtual Reality and AI,1,inferred,Virtual Reality and AI,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Personalized Learning with AI,Personalized Learning with AI,1,inferred,Personalized Learning with AI,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Intelligent Tutoring Systems,Intelligent Tutoring Systems,1,inferred,Intelligent Tutoring Systems,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,AI-Powered Educational Tools,AI-Powered Educational Tools,1,inferred,AI-Powered Educational Tools,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Vocabulary for AI Critique,Vocabulary for AI Critique,1,inferred,Vocabulary for AI Critique,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Bias and Fairness in AI,Bias and Fairness in AI,1,inferred,Bias and Fairness in AI,ANTH_5090_concepts_raw.json
+ANTH_5090,concept,Ethics of AI Development,Ethics of AI Development,1,inferred,Ethics of AI Development,ANTH_5090_concepts_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_4141,Taguchi Parameter Design,topic,PART_OF,Engineering Experimental Design,topic,,,SEGR_4141_triples_raw.json
+SEGR_4141,Fractional Factorial Designs,method,PART_OF,Design of Experiments (DOE,method,,,SEGR_4141_triples_raw.json
+SEGR_4141,Fractional Factorial Designs,method,SUBTYPE_OF,Design of Experiments (DOE,method,,,SEGR_4141_triples_raw.json
+SEGR_4141,Design of Experiments (DOE,method,USED_FOR,Engineering Experimental Design,topic,,,SEGR_4141_triples_raw.json

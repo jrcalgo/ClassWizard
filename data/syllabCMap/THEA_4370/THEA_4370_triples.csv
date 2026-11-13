@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_4370,curriculum design principles,concept,PREREQUISITE_OF,Lesson Planning and Design,topic,A taught first,,THEA_4370_triples_raw.json
+THEA_4370,theatre education philosophy,concept,PREREQUISITE_OF,curriculum design principles,concept,same unit,,THEA_4370_triples_raw.json
+THEA_4370,learning objectives development,concept,PREREQUISITE_OF,instructional methods comparison,concept,same unit,,THEA_4370_triples_raw.json
+THEA_4370,unit plan organization,concept,PREREQUISITE_OF,inquiry-based learning approaches,concept,A taught first,,THEA_4370_triples_raw.json
+THEA_4370,classroom management strategies,concept,PREREQUISITE_OF,professionalism in the classroom,concept,same unit,,THEA_4370_triples_raw.json
+THEA_4370,theatre education philosophy,concept,PART_OF,Theatre/Drama Curriculum and Methods K-12,topic,,,THEA_4370_triples_raw.json
+THEA_4370,assessment strategies,concept,PART_OF,Assessment and Evaluation Methods,topic,,,THEA_4370_triples_raw.json
+THEA_4370,unit plan organization,concept,PART_OF,Lesson Planning and Design,topic,,,THEA_4370_triples_raw.json
+THEA_4370,drama in the classroom,concept,PART_OF,Theatre Pedagogy and Practice,topic,,,THEA_4370_triples_raw.json
+THEA_4370,formative and summative assessment,concept,PART_OF,Assessment and Evaluation Methods,topic,,,THEA_4370_triples_raw.json
+THEA_4370,rubric development techniques,concept,PART_OF,Assessment and Evaluation Methods,topic,,,THEA_4370_triples_raw.json
+THEA_4370,data-driven instruction,concept,PART_OF,Assessment and Evaluation Methods,topic,,,THEA_4370_triples_raw.json
+THEA_4370,classroom management strategies,concept,PART_OF,Student Teaching Internship Preparation,topic,,,THEA_4370_triples_raw.json
+THEA_4370,professionalism in the classroom,concept,PART_OF,Student Teaching Internship Preparation,topic,,,THEA_4370_triples_raw.json

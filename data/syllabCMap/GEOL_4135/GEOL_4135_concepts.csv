@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOL_4135,topic,Earth's Interior,Earth's interior,2,verified,Earth's Interior,GEOL_4135_concepts_raw.json
+GEOL_4135,topic,Supercontinent Cycle,supercontinent cycle,2,verified,Supercontinent Cycle,GEOL_4135_concepts_raw.json
+GEOL_4135,topic,Oceanic Spreading Centers,oceanic spreading centers,2,verified,Oceanic Spreading Centers,GEOL_4135_concepts_raw.json
+GEOL_4135,topic,Transform Faults,transform faults,2,verified,Transform Faults,GEOL_4135_concepts_raw.json
+GEOL_4135,topic,Subduction Zones,subduction zones,2,verified,Subduction Zones,GEOL_4135_concepts_raw.json
+GEOL_4135,topic,Convergent Zones,convergent zones,2,verified,Convergent Zones,GEOL_4135_concepts_raw.json
+GEOL_4135,topic,Regional Tectonic Systems,regional tectonic systems,2,verified,Regional Tectonic Systems,GEOL_4135_concepts_raw.json
+GEOL_4135,method,Geochronology,geochronology,1,verified,Geochronology,GEOL_4135_concepts_raw.json
+GEOL_4135,method,Low-Temperature Thermochronology,low-temperature thermochronology,1,verified,Low-Temperature Thermochronology,GEOL_4135_concepts_raw.json
+GEOL_4135,method,Stable Isotope-Based Paleoaltimetry,stable isotope-based paleoaltimetry,1,verified,Stable Isotope-Based Paleoaltimetry,GEOL_4135_concepts_raw.json

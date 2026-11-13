@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4364,aging population demographics,concept,PREREQUISITE_OF,physical health needs,concept,A taught first,,CJUS_4364_triples_raw.json
+CJUS_4364,aging population demographics,concept,PREREQUISITE_OF,crime against seniors,concept,A taught first,,CJUS_4364_triples_raw.json
+CJUS_4364,aging population demographics,concept,PREREQUISITE_OF,geriatric victimology,concept,A taught first,,CJUS_4364_triples_raw.json
+CJUS_4364,aging population demographics,concept,PREREQUISITE_OF,abuse of elderly,concept,A taught first,,CJUS_4364_triples_raw.json
+CJUS_4364,aging population demographics,concept,PREREQUISITE_OF,geriatric offender needs,concept,A taught first,,CJUS_4364_triples_raw.json
+CJUS_4364,aging population demographics,concept,PREREQUISITE_OF,elder abuse sentencing,concept,A taught first,,CJUS_4364_triples_raw.json
+CJUS_4364,aging population demographics,concept,PREREQUISITE_OF,physical health and aging,concept,A taught first,,CJUS_4364_triples_raw.json
+CJUS_4364,aging population demographics,concept,PREREQUISITE_OF,aging prisoner support,concept,A taught first,,CJUS_4364_triples_raw.json
+CJUS_4364,aging population trends,concept,PART_OF,aging population demographics,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,cognitive decline effects,concept,PART_OF,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,mental health concerns,concept,PART_OF,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,crime against seniors,concept,PART_OF,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,geriatric victimology,concept,PART_OF,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,abuse of elderly,concept,PART_OF,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,geriatric offender needs,concept,PART_OF,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,elder abuse sentencing,concept,PART_OF,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,physical health and aging,concept,PART_OF,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,aging prisoner support,concept,PART_OF,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,cognitive decline effects,concept,USED_FOR,victimization of seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,cognitive decline effects,concept,USED_FOR,crime against seniors,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,cognitive decline effects,concept,USED_FOR,geriatric victimology,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,cognitive decline effects,concept,USED_FOR,abuse of elderly,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,cognitive decline effects,concept,USED_FOR,ageism in CJ system,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,cognitive decline effects,concept,USED_FOR,geriatric offender needs,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,cognitive decline effects,concept,USED_FOR,elder abuse sentencing,concept,,,CJUS_4364_triples_raw.json
+CJUS_4364,cognitive decline effects,concept,USED_FOR,physical health and aging,concept,,,CJUS_4364_triples_raw.json

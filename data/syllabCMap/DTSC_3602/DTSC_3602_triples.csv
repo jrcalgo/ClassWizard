@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DTSC_3602,Supervised vs Unsupervised Learning,concept,PREREQUISITE_OF,Machine Learning Fundamentals,concept,same unit,,DTSC_3602_triples_raw.json
+DTSC_3602,Task Development Fundamentals,concept,PREREQUISITE_OF,Model Training Pipelines,concept,same unit,,DTSC_3602_triples_raw.json
+DTSC_3602,SQL Queries,concept,PREREQUISITE_OF,Database Design,concept,same unit,,DTSC_3602_triples_raw.json
+DTSC_3602,Relations basics,concept,PREREQUISITE_OF,Ordinary least squares,concept,same unit,,DTSC_3602_triples_raw.json
+DTSC_3602,Ordinary least squares,concept,PART_OF,relations,topic,,,DTSC_3602_triples_raw.json
+DTSC_3602,Database queries,concept,PART_OF,relations,topic,,,DTSC_3602_triples_raw.json
+DTSC_3602,API Design Principles,concept,PART_OF,Data Extraction Methods,concept,,,DTSC_3602_triples_raw.json
+DTSC_3602,Remote Data Access,concept,PART_OF,Data Extraction Methods,concept,,,DTSC_3602_triples_raw.json
+DTSC_3602,Jailbreaking limitations,concept,SUBTYPE_OF,LLM Limitations,concept,,,DTSC_3602_triples_raw.json
+DTSC_3602,Artificial hivemind effect,concept,SUBTYPE_OF,LLM Limitations,concept,,,DTSC_3602_triples_raw.json
+DTSC_3602,Novel solution generation,concept,SUBTYPE_OF,LLM Limitations,concept,,,DTSC_3602_triples_raw.json
+DTSC_3602,SQL,tool,USED_FOR,Database Design,concept,,,DTSC_3602_triples_raw.json
+DTSC_3602,AWS,tool,USED_FOR,Cloud Storage,concept,,,DTSC_3602_triples_raw.json
+DTSC_3602,Docker,tool,USED_FOR,Serverless Functions,concept,,,DTSC_3602_triples_raw.json

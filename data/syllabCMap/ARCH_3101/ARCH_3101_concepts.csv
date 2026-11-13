@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_3101,topic,Architecture Studio V,Architecture Studio V,1,verified,Architecture Studio V,ARCH_3101_concepts_raw.json
+ARCH_3101,topic,Precedent Building Study,precedent building study,1,verified,Precedent Building Study,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,conceptual design ideas,conceptual design ideas,1,verified,conceptual design ideas,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,material and structural clarity,material and structural clarity,1,verified,material and structural clarity,ARCH_3101_concepts_raw.json
+ARCH_3101,topic,Design Foundations,Design Foundations,1,inferred,Design Foundations,ARCH_3101_concepts_raw.json
+ARCH_3101,topic,Site Analysis Techniques,Site Analysis Techniques,1,inferred,Site Analysis Techniques,ARCH_3101_concepts_raw.json
+ARCH_3101,topic,Iterative Design Methods,Iterative Design Methods,1,inferred,Iterative Design Methods,ARCH_3101_concepts_raw.json
+ARCH_3101,topic,Building Systems Integration,Building Systems Integration,1,inferred,Building Systems Integration,ARCH_3101_concepts_raw.json
+ARCH_3101,topic,Collaborative Studio Environment,Collaborative Studio Environment,1,inferred,Collaborative Studio Environment,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,contextual considerations,Contextual Considerations,1,inferred,contextual considerations,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,programmatic requirements,Programmatic Requirements,1,inferred,programmatic requirements,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,comprehensive precedent analysis,Comprehensive Precedent Analysis,1,inferred,comprehensive precedent analysis,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,building typology classification,Building Typology Classification,1,inferred,building typology classification,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,design influence identification,Design Influence Identification,1,inferred,design influence identification,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,rigorous iterative process,Rigorous Iterative Process,1,inferred,rigorous iterative process,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,spatial organization principles,Spatial Organization Principles,1,inferred,spatial organization principles,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,structural system design,Structural System Design,1,inferred,structural system design,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,enclosure system optimization,Enclosure System Optimization,1,inferred,enclosure system optimization,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,building performance metrics,Building Performance Metrics,1,inferred,building performance metrics,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,open exchange and feedback,Open Exchange and Feedback,1,inferred,open exchange and feedback,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,respectful communication protocols,Respectful Communication Protocols,1,inferred,respectful communication protocols,ARCH_3101_concepts_raw.json
+ARCH_3101,concept,collaborative problem-solving,Collaborative Problem-Solving,1,inferred,collaborative problem-solving,ARCH_3101_concepts_raw.json

@@ -1,0 +1,34 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_3115,present value,topic,PART_OF,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,present value,topic,PART_OF,interest rate determination,topic,,,ECON_3115_triples_raw.json
+ECON_3115,liquidity preference,concept,PART_OF,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,indirect finance,concept,PART_OF,Financial markets overview,topic,,,ECON_3115_triples_raw.json
+ECON_3115,quantity theory,concept,PART_OF,monetary policy tools,topic,,,ECON_3115_triples_raw.json
+ECON_3115,portfolio choice theories of money demand,concept,PART_OF,monetary policy tools,topic,,,ECON_3115_triples_raw.json
+ECON_3115,yields to maturity,concept,PART_OF,interest rate determination,topic,,,ECON_3115_triples_raw.json
+ECON_3115,rates of return,concept,PART_OF,interest rate determination,topic,,,ECON_3115_triples_raw.json
+ECON_3115,nominal interest rates,concept,PART_OF,interest rate determination,topic,,,ECON_3115_triples_raw.json
+ECON_3115,bond market,concept,PART_OF,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,efficient market hypothesis,concept,PART_OF,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,rational expectations,concept,PART_OF,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,arbitrage,concept,PART_OF,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,Gordon growth model,concept,PART_OF,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,adverse selection,concept,PART_OF,banking system structure,topic,,,ECON_3115_triples_raw.json
+ECON_3115,moral hazard,concept,PART_OF,banking system structure,topic,,,ECON_3115_triples_raw.json
+ECON_3115,T-accounts,concept,PART_OF,banking system structure,topic,,,ECON_3115_triples_raw.json
+ECON_3115,gap and duration analysis,concept,PART_OF,banking system structure,topic,,,ECON_3115_triples_raw.json
+ECON_3115,present value,topic,USED_FOR,interest rate determination,topic,,topic used for something - check direction,ECON_3115_triples_raw.json
+ECON_3115,present value,topic,USED_FOR,financial market efficiency,topic,,topic used for something - check direction,ECON_3115_triples_raw.json
+ECON_3115,indirect finance,concept,USED_FOR,Financial markets overview,topic,,,ECON_3115_triples_raw.json
+ECON_3115,quantity theory,concept,USED_FOR,monetary policy tools,topic,,,ECON_3115_triples_raw.json
+ECON_3115,portfolio choice theories of money demand,concept,USED_FOR,monetary policy tools,topic,,,ECON_3115_triples_raw.json
+ECON_3115,yields to maturity,concept,USED_FOR,interest rate determination,topic,,,ECON_3115_triples_raw.json
+ECON_3115,rates of return,concept,USED_FOR,interest rate determination,topic,,,ECON_3115_triples_raw.json
+ECON_3115,nominal interest rates,concept,USED_FOR,interest rate determination,topic,,,ECON_3115_triples_raw.json
+ECON_3115,bond market,concept,USED_FOR,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,efficient market hypothesis,concept,USED_FOR,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,arbitrage,concept,USED_FOR,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,Gordon growth model,concept,USED_FOR,financial market efficiency,topic,,,ECON_3115_triples_raw.json
+ECON_3115,asymmetric information,topic,USED_FOR,banking system structure,topic,,topic used for something - check direction,ECON_3115_triples_raw.json
+ECON_3115,T-accounts,concept,USED_FOR,banking system structure,topic,,,ECON_3115_triples_raw.json
+ECON_3115,gap and duration analysis,concept,USED_FOR,banking system structure,topic,,,ECON_3115_triples_raw.json

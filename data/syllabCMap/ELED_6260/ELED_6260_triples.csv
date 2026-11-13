@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_6260,Historical Events Shaping Society,concept,PREREQUISITE_OF,Psychological Theories Influencing History,concept,same unit,,ELED_6260_triples_raw.json
+ELED_6260,Implicit Bias Consequences,concept,PREREQUISITE_OF,Inclusive Teaching Practices,concept,A taught first,,ELED_6260_triples_raw.json
+ELED_6260,Stereotype Threat Mechanisms,concept,PREREQUISITE_OF,Social Justice Education Principles,concept,A taught first,,ELED_6260_triples_raw.json
+ELED_6260,Social Structures Formation,concept,PART_OF,Historical Influences,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Human Behavior Patterns,concept,PART_OF,Historical Influences,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Bias and Prejudice Effects,concept,PART_OF,Psychological Theories,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Stereotype Threat Mechanisms,concept,PART_OF,Psychological Theories,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Implicit Bias Consequences,concept,PART_OF,Psychological Theories,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Historical Events Shaping Society,concept,PART_OF,Interplay Between History,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Psychological Theories,topic,PART_OF,Interplay Between History,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Social Change Drivers,concept,PART_OF,Societal Change Over Time,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Educational Systems and Bias,concept,PART_OF,Case Studies in Education,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Social Justice Education Principles,concept,PART_OF,Case Studies in Education,topic,,,ELED_6260_triples_raw.json
+ELED_6260,Inclusive Teaching Practices,concept,PART_OF,Case Studies in Education,topic,,,ELED_6260_triples_raw.json

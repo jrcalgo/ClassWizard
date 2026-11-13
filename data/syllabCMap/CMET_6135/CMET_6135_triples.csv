@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_6135,Construction Planning Process,topic,PREREQUISITE_OF,Contract Management Fundamentals,topic,B taught first,B is taught before A - check,CMET_6135_triples_raw.json
+CMET_6135,Construction Planning Process,topic,PREREQUISITE_OF,Risk Management in Construction,topic,A taught first,,CMET_6135_triples_raw.json
+CMET_6135,Construction Planning Process,topic,PREREQUISITE_OF,Contract Administration and Management,topic,A taught first,,CMET_6135_triples_raw.json
+CMET_6135,Construction Planning Process,topic,PREREQUISITE_OF,Advanced Construction Planning Topics,topic,A taught first,,CMET_6135_triples_raw.json
+CMET_6135,Project Initiation and Definition,concept,PART_OF,Construction Planning Process,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Scope Statement Development,concept,PART_OF,Construction Planning Process,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Work Breakdown Structure Creation,concept,PART_OF,Construction Planning Process,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Critical Path Method (CPM,concept,PART_OF,Scheduling Techniques and Tools,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Program Evaluation and Review Technique (PERT,concept,PART_OF,Scheduling Techniques and Tools,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Resource Planning and Allocation,concept,PART_OF,Resource Allocation and Estimation,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Labor Productivity and Efficiency,concept,PART_OF,Resource Allocation and Estimation,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Identifying and Assessing Risks,concept,PART_OF,Risk Management in Construction,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Developing Risk Mitigation Strategies,concept,PART_OF,Risk Management in Construction,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Contract Administration Roles,concept,PART_OF,Contract Administration and Management,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Claims and Dispute Resolution Processes,concept,PART_OF,Contract Administration and Management,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Contract Closeout Procedures,concept,PART_OF,Contract Administration and Management,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Performance Metrics and Indicators,concept,PART_OF,Project Control and Monitoring,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Progress Measurement and Reporting,concept,PART_OF,Project Control and Monitoring,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Issue Identification and Resolution,concept,PART_OF,Project Control and Monitoring,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Lean Construction Principles and Practices,concept,PART_OF,Advanced Construction Planning Topics,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Integrated Project Delivery (IPD,concept,PART_OF,Advanced Construction Planning Topics,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Building Information Modeling (BIM,concept,PART_OF,Advanced Construction Planning Topics,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Critical Path Method (CPM,concept,USED_FOR,Construction Planning Process,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Program Evaluation and Review Technique (PERT,concept,USED_FOR,Construction Planning Process,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Resource Planning and Allocation,concept,USED_FOR,Resource Allocation and Estimation,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Labor Productivity and Efficiency,concept,USED_FOR,Resource Allocation and Estimation,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Risk Monitoring and Review,concept,USED_FOR,Risk Management in Construction,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Contract Administration Roles,concept,USED_FOR,Contract Administration and Management,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Performance Metrics and Indicators,concept,USED_FOR,Project Control and Monitoring,topic,,,CMET_6135_triples_raw.json
+CMET_6135,Issue Identification and Resolution,concept,USED_FOR,Project Control and Monitoring,topic,,,CMET_6135_triples_raw.json

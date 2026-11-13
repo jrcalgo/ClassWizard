@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_6115,Research Design Principles,concept,PREREQUISITE_OF,Statistical Significance Testing,topic,A taught first,,RESP_6115_triples_raw.json
+RESP_6115,Ordinary Least Squares Regression,topic,PREREQUISITE_OF,Statistical Significance Testing,topic,same unit,,RESP_6115_triples_raw.json
+RESP_6115,Critical thinking exercises,method,PREREQUISITE_OF,Data Analysis Techniques,concept,same unit,,RESP_6115_triples_raw.json
+RESP_6115,Group/team collaboration,method,PREREQUISITE_OF,Peer-teaching,method,A mentioned first,,RESP_6115_triples_raw.json
+RESP_6115,Mixed-Methods Approach,concept,PART_OF,Mixed-Methods Research,concept,,,RESP_6115_triples_raw.json
+RESP_6115,Qualitative Research Methods,concept,PART_OF,Mixed-Methods Approach,concept,,,RESP_6115_triples_raw.json
+RESP_6115,Quantitative Research Design,concept,PART_OF,Mixed-Methods Approach,concept,,,RESP_6115_triples_raw.json
+RESP_6115,Ordinary Least Squares Regression,topic,PART_OF,Statistical Significance Testing,topic,,,RESP_6115_triples_raw.json
+RESP_6115,Selection of Appropriate Statistics,concept,PART_OF,Data Analysis Techniques,concept,,,RESP_6115_triples_raw.json
+RESP_6115,Critical thinking exercises,method,PART_OF,Data Analysis Techniques,concept,,,RESP_6115_triples_raw.json
+RESP_6115,Mixed-Methods Research,concept,SUBTYPE_OF,Mixed-Methods Approach,concept,,,RESP_6115_triples_raw.json
+RESP_6115,Quantitative Research Methods,concept,SUBTYPE_OF,Quantitative Research Design,concept,,,RESP_6115_triples_raw.json
+RESP_6115,Peer-teaching,method,SUBTYPE_OF,Group/team collaboration,method,,,RESP_6115_triples_raw.json
+RESP_6115,Problem solving,method,USED_FOR,Critical thinking exercises,method,,,RESP_6115_triples_raw.json
+RESP_6115,Analysis of case studies,method,USED_FOR,Critical thinking exercises,method,,,RESP_6115_triples_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_8160,database design,topic,PREREQUISITE_OF,Relational DBMS,topic,A mentioned first,,ITCS_8160_triples_raw.json
+ITCS_8160,database design,topic,PREREQUISITE_OF,SQL query languages,topic,B taught first,B is taught before A - check,ITCS_8160_triples_raw.json
+ITCS_8160,Relational DBMS,topic,PREREQUISITE_OF,data warehousing,topic,B mentioned first,,ITCS_8160_triples_raw.json
+ITCS_8160,Relational DBMS,topic,PREREQUISITE_OF,domain applications,topic,B mentioned first,,ITCS_8160_triples_raw.json
+ITCS_8160,Conceptual Database Design,concept,PART_OF,database design,topic,,,ITCS_8160_triples_raw.json
+ITCS_8160,Online Analytical Processing (OLAP,concept,PART_OF,data warehousing,topic,,,ITCS_8160_triples_raw.json
+ITCS_8160,Conceptual Database Design,concept,PART_OF,Relational DBMS,topic,,,ITCS_8160_triples_raw.json
+ITCS_8160,domain applications,topic,PART_OF,Relational DBMS,topic,,,ITCS_8160_triples_raw.json
+ITCS_8160,Relational DBMS,topic,USED_FOR,database design,topic,,topic used for something - check direction,ITCS_8160_triples_raw.json

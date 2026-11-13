@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITLN_2202,Conversational Structures,topic,PREREQUISITE_OF,Intermediate Italian II,topic,B mentioned first,,ITLN_2202_triples_raw.json
+ITLN_2202,gerund,concept,USED_FOR,progressive tense,concept,,,ITLN_2202_triples_raw.json

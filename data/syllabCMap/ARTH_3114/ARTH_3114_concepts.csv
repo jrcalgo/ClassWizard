@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARTH_3114,topic,Art History Methods,Art History Methods,1,verified,Art History Methods,ARTH_3114_concepts_raw.json
+ARTH_3114,topic,Art History,Art History,2,verified,Introduction to Art History,ARTH_3114_concepts_raw.json
+ARTH_3114,topic,Postmodern and Contemporary Theory,Postmodern and Contemporary Theory,1,verified,Postmodern and Contemporary Theory,ARTH_3114_concepts_raw.json
+ARTH_3114,concept,formalism,formalism,1,verified,formalism,ARTH_3114_concepts_raw.json
+ARTH_3114,concept,iconography,iconography,1,verified,iconography,ARTH_3114_concepts_raw.json
+ARTH_3114,concept,connoisseurship,connoisseurship,1,verified,connoisseurship,ARTH_3114_concepts_raw.json
+ARTH_3114,concept,biography,biography,1,verified,biography,ARTH_3114_concepts_raw.json
+ARTH_3114,concept,social history,social history,1,verified,social history,ARTH_3114_concepts_raw.json
+ARTH_3114,concept,Marxism,Marxism,1,verified,Marxism,ARTH_3114_concepts_raw.json
+ARTH_3114,concept,feminism,feminism,1,verified,feminism,ARTH_3114_concepts_raw.json
+ARTH_3114,concept,postmodern,postmodern,1,verified,postmodern,ARTH_3114_concepts_raw.json
+ARTH_3114,concept,contemporary theory,contemporary theory,1,verified,contemporary theory,ARTH_3114_concepts_raw.json

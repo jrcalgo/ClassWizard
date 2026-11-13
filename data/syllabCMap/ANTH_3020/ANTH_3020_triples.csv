@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_3020,Global Issues,topic,PREREQUISITE_OF,Marxist Social Theory,topic,A taught first,,ANTH_3020_triples_raw.json
+ANTH_3020,Global Issues,topic,PREREQUISITE_OF,Foucauldian Power Dynamics,topic,A taught first,,ANTH_3020_triples_raw.json
+ANTH_3020,Global Issues,topic,PREREQUISITE_OF,Global Justice and Human Rights,topic,A taught first,,ANTH_3020_triples_raw.json
+ANTH_3020,globalization and inequality,concept,PART_OF,Global Issues,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,climate change impact,concept,PART_OF,Global Issues,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,sustainable development goals,concept,PART_OF,Global Issues,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,class struggle and conflict,concept,PART_OF,Marxist Social Theory,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,capitalism critique,concept,PART_OF,Marxist Social Theory,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,resistance and subversion,concept,PART_OF,Foucauldian Power Dynamics,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,colonialism and imperialism legacy,concept,PART_OF,Postcolonial Theory and Critique,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,cultural hybridity and identity,concept,PART_OF,Postcolonial Theory and Critique,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,decolonization and resistance,concept,PART_OF,Postcolonial Theory and Critique,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,universal human rights principles,concept,PART_OF,Global Justice and Human Rights,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,environmental degradation and crisis,concept,PART_OF,Ecological Thinking and Sustainability,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,sustainable practices and lifestyles,concept,PART_OF,Ecological Thinking and Sustainability,topic,,,ANTH_3020_triples_raw.json
+ANTH_3020,ecological citizenship and responsibility,concept,PART_OF,Ecological Thinking and Sustainability,topic,,,ANTH_3020_triples_raw.json

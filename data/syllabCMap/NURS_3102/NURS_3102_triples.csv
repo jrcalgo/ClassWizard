@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_3102,autonomy,concept,PREREQUISITE_OF,fidelity,concept,same unit,,NURS_3102_triples_raw.json
+NURS_3102,autonomy,concept,PREREQUISITE_OF,confidentiality,concept,same unit,,NURS_3102_triples_raw.json
+NURS_3102,autonomy,concept,PREREQUISITE_OF,veracity,concept,same unit,,NURS_3102_triples_raw.json
+NURS_3102,beneficence,concept,PREREQUISITE_OF,confidentiality,concept,same unit,,NURS_3102_triples_raw.json
+NURS_3102,beneficence,concept,PREREQUISITE_OF,veracity,concept,same unit,,NURS_3102_triples_raw.json
+NURS_3102,beneficence,concept,PREREQUISITE_OF,fidelity,concept,same unit,,NURS_3102_triples_raw.json
+NURS_3102,confidentiality,concept,PREREQUISITE_OF,veracity,concept,same unit,,NURS_3102_triples_raw.json
+NURS_3102,confidentiality,concept,PREREQUISITE_OF,fidelity,concept,same unit,,NURS_3102_triples_raw.json
+NURS_3102,veracity,concept,PREREQUISITE_OF,fidelity,concept,same unit,,NURS_3102_triples_raw.json
+NURS_3102,evidence-based practice,concept,PART_OF,Scholarship for Evidence Based Practice,topic,,,NURS_3102_triples_raw.json
+NURS_3102,Professionalism & Professional values,topic,PART_OF,Liberal Education for Baccalaureate Generalist,topic,,,NURS_3102_triples_raw.json
+NURS_3102,Interprofessional Communication,topic,PART_OF,Liberal Education for Baccalaureate Generalist,topic,,,NURS_3102_triples_raw.json
+NURS_3102,evidence-based practice,concept,USED_FOR,Nursing Science,topic,,,NURS_3102_triples_raw.json

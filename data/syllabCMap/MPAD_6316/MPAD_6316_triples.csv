@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6316,organizational structure,concept,PREREQUISITE_OF,operating models,concept,same unit,,MPAD_6316_triples_raw.json
+MPAD_6316,federal arts agencies,concept,PREREQUISITE_OF,Cultural Policy,topic,same unit,,MPAD_6316_triples_raw.json
+MPAD_6316,arts nonprofit organizations,concept,PART_OF,Arts Administration,topic,,,MPAD_6316_triples_raw.json
+MPAD_6316,Strategic Planning,topic,PART_OF,Arts Administration,topic,,,MPAD_6316_triples_raw.json
+MPAD_6316,Community Engagement,topic,PART_OF,Arts Administration,topic,,,MPAD_6316_triples_raw.json
+MPAD_6316,governance issues,concept,PART_OF,Arts Administration,topic,,,MPAD_6316_triples_raw.json
+MPAD_6316,organizational structure,concept,PART_OF,Arts Administration,topic,,,MPAD_6316_triples_raw.json
+MPAD_6316,operating models,concept,PART_OF,Arts Administration,topic,,,MPAD_6316_triples_raw.json
+MPAD_6316,federal arts agencies,concept,PART_OF,Cultural Policy,topic,,,MPAD_6316_triples_raw.json

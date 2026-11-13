@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INFO_3221,Data Frames,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Data Structures,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Data Types,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,NumPy,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Importing Packages,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Dictionaries,topic,PART_OF,Data Structures,concept,,part is broader than whole - check direction,INFO_3221_triples_raw.json
+INFO_3221,Data Frame Operations,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Random Numbers Generation,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Data Visualization Methods,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Bar Charts,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Scatter Plots,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Histograms,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Box Plots,concept,PART_OF,Data Wrangling,concept,,,INFO_3221_triples_raw.json
+INFO_3221,Python3,tool,USED_FOR,Data Wrangling,concept,,,INFO_3221_triples_raw.json

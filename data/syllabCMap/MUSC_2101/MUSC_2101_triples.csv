@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_2101,marketing,topic,PREREQUISITE_OF,promotion,topic,same unit,,MUSC_2101_triples_raw.json
+MUSC_2101,marketing,topic,PREREQUISITE_OF,administration,topic,A mentioned first,,MUSC_2101_triples_raw.json
+MUSC_2101,marketing,topic,PREREQUISITE_OF,social media,topic,same unit,,MUSC_2101_triples_raw.json
+MUSC_2101,promotion,topic,PREREQUISITE_OF,online presence,topic,B taught first,B is taught before A - check,MUSC_2101_triples_raw.json
+MUSC_2101,promotion,topic,PREREQUISITE_OF,project management,topic,A taught first,,MUSC_2101_triples_raw.json
+MUSC_2101,promotion,topic,PREREQUISITE_OF,entrepreneurship,topic,A taught first,,MUSC_2101_triples_raw.json
+MUSC_2101,intellectual property,topic,PREREQUISITE_OF,royalties,topic,same unit,,MUSC_2101_triples_raw.json
+MUSC_2101,recording agreements,topic,PREREQUISITE_OF,licensing,method,B taught first,B is taught before A - check,MUSC_2101_triples_raw.json
+MUSC_2101,communication,concept,PREREQUISITE_OF,collaboration,measure,A mentioned first,,MUSC_2101_triples_raw.json
+MUSC_2101,practical decision-making,concept,PREREQUISITE_OF,transferable skills,concept,B mentioned first,,MUSC_2101_triples_raw.json
+MUSC_2101,streaming platforms,concept,PREREQUISITE_OF,digital distribution,concept,A mentioned first,,MUSC_2101_triples_raw.json
+MUSC_2101,decision making,concept,PREREQUISITE_OF,success,concept,A mentioned first,,MUSC_2101_triples_raw.json
+MUSC_2101,financial literacy,method,USED_FOR,accounting,topic,,,MUSC_2101_triples_raw.json

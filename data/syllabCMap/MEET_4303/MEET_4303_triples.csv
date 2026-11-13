@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_4303,Review of Machine Elements,topic,PART_OF,Machine Design II,topic,,,MEET_4303_triples_raw.json
+MEET_4303,Gear Design and Analysis,topic,PART_OF,Machine Design II,topic,,,MEET_4303_triples_raw.json
+MEET_4303,Shaft and Bearing Design,topic,PART_OF,Machine Design II,topic,,,MEET_4303_triples_raw.json
+MEET_4303,Linkage and Chain Systems,topic,PART_OF,Machine Design II,topic,,,MEET_4303_triples_raw.json
+MEET_4303,Cam Design and Analysis,topic,PART_OF,Machine Design II,topic,,,MEET_4303_triples_raw.json
+MEET_4303,Mechanical Advantage Devices,topic,PART_OF,Machine Design II,topic,,,MEET_4303_triples_raw.json
+MEET_4303,Machine System Optimization,topic,PART_OF,Machine Design II,topic,,,MEET_4303_triples_raw.json
+MEET_4303,Case Studies and Applications,topic,PART_OF,Machine Design II,topic,,,MEET_4303_triples_raw.json
+MEET_4303,Machine Elements in Mechanical Design,topic,USED_FOR,Machine Design II,topic,,topic used for something - check direction,MEET_4303_triples_raw.json

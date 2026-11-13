@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HCIP_6102,topic,health informatics,Health Informatics,1,verified,health informatics,HCIP_6102_concepts_raw.json
+HCIP_6102,topic,biostatistics,Biostatistics,3,verified,biostatistics,HCIP_6102_concepts_raw.json
+HCIP_6102,concept,public health,public health,9,verified,public health,HCIP_6102_concepts_raw.json
+HCIP_6102,concept,healthcare sciences,healthcare sciences,1,verified,healthcare sciences,HCIP_6102_concepts_raw.json
+HCIP_6102,topic,data analysis in medicine and health,Data Analysis in Medicine and Health,1,verified,data analysis in medicine and health,HCIP_6102_concepts_raw.json
+HCIP_6102,concept,qualitative methods,qualitative methods,2,verified,qualitative methods,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,Data Security Awareness Training,Data Security Awareness Training,1,verified,Data Security Awareness Training,HCIP_6102_concepts_raw.json
+HCIP_6102,topic,data sharing agreements and IRB approval,data sharing agreements and IRB approval,1,verified,data sharing agreements and IRB approval,HCIP_6102_concepts_raw.json
+HCIP_6102,concept,medicine,Medicine,2,verified,medicine,HCIP_6102_concepts_raw.json
+HCIP_6102,concept,application of legal and ethical precepts,application of legal and ethical precepts,2,verified,application of legal and ethical precepts,HCIP_6102_concepts_raw.json
+HCIP_6102,method,data analytics team project,data analytics team project,1,verified,data analytics team project,HCIP_6102_concepts_raw.json
+HCIP_6102,method,data profiling,data profiling,1,verified,data profiling,HCIP_6102_concepts_raw.json
+HCIP_6102,method,imputation,imputation,1,verified,imputation,HCIP_6102_concepts_raw.json
+HCIP_6102,method,data integration,data integration,1,verified,data integration,HCIP_6102_concepts_raw.json
+HCIP_6102,method,open-source tools,open-source tools,1,verified,open-source tools,HCIP_6102_concepts_raw.json
+HCIP_6102,method,proprietary tools for visualization,proprietary tools for visualization,1,verified,proprietary tools for visualization,HCIP_6102_concepts_raw.json
+HCIP_6102,measure,population health,population health,4,verified,population health,HCIP_6102_concepts_raw.json
+HCIP_6102,measure,health disparities,health disparities,1,verified,health disparities,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,R/RStudio,R/RStudio,2,verified,R/RStudio,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,SAS,SAS,4,verified,SAS,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,Python,Python,2,verified,Python,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,SPSS,SPSS,1,verified,SPSS,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,Stata,Stata,1,verified,Stata,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,Tableau,Tableau,1,verified,Tableau,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,Power BI,Power BI,1,verified,Power BI,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,SQL,SQL,1,verified,SQL,HCIP_6102_concepts_raw.json
+HCIP_6102,tool,textbooks,TEXTBOOKS,1,verified,textbooks,HCIP_6102_concepts_raw.json

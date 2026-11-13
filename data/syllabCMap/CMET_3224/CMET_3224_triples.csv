@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_3224,project management processes,topic,PREREQUISITE_OF,project delivery methods,concept,B mentioned first,,CMET_3224_triples_raw.json
+CMET_3224,project management processes,topic,PREREQUISITE_OF,engineering and construction contracts,concept,B mentioned first,,CMET_3224_triples_raw.json
+CMET_3224,project management processes,topic,PREREQUISITE_OF,dispute resolution mechanisms,concept,B mentioned first,,CMET_3224_triples_raw.json
+CMET_3224,project delivery methods,concept,PART_OF,project management processes,topic,,,CMET_3224_triples_raw.json
+CMET_3224,project control and documentation,concept,PART_OF,project management processes,topic,,,CMET_3224_triples_raw.json
+CMET_3224,dispute resolution mechanisms,concept,PART_OF,project management processes,topic,,,CMET_3224_triples_raw.json
+CMET_3224,Contractual Obligations,concept,PART_OF,engineering and construction contracts,concept,,,CMET_3224_triples_raw.json
+CMET_3224,Work Breakdown Structure,concept,PART_OF,project control and documentation,concept,,,CMET_3224_triples_raw.json

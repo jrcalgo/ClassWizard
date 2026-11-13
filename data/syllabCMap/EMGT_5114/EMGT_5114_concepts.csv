@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EMGT_5114,topic,Production Scheduling,production scheduling,1,verified,Production Scheduling,EMGT_5114_concepts_raw.json
+EMGT_5114,topic,Line Balancing,line balancing,1,verified,Line Balancing,EMGT_5114_concepts_raw.json
+EMGT_5114,topic,Production Planning,production planning,2,verified,Production Planning,EMGT_5114_concepts_raw.json
+EMGT_5114,concept,minimum cost network flow problem,minimum cost network flow problem,1,verified,minimum cost network flow problem,EMGT_5114_concepts_raw.json
+EMGT_5114,topic,Vehicle Routing Problem,vehicle routing problem,1,verified,Vehicle Routing Problem,EMGT_5114_concepts_raw.json
+EMGT_5114,topic,Single Machine System,single machine system,1,verified,Single Machine System,EMGT_5114_concepts_raw.json
+EMGT_5114,topic,Two-Machine System,two-machine system,1,verified,Two-Machine System,EMGT_5114_concepts_raw.json
+EMGT_5114,topic,Stochastic Models,stochastic models,1,verified,Stochastic Models,EMGT_5114_concepts_raw.json
+EMGT_5114,method,smoothing models,smoothing models,1,verified,smoothing models,EMGT_5114_concepts_raw.json

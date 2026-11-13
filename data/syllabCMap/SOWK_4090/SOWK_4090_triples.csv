@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_4090,neuroanatomy in infancy,concept,PREREQUISITE_OF,social emotional growth,concept,same unit,,SOWK_4090_triples_raw.json
+SOWK_4090,Brain Development Basics,topic,PREREQUISITE_OF,Resilience Factors,topic,A taught first,,SOWK_4090_triples_raw.json
+SOWK_4090,Brain Development Basics,topic,PREREQUISITE_OF,Early Childhood Mental Health,topic,A taught first,,SOWK_4090_triples_raw.json
+SOWK_4090,Adverse Childhood Experiences,topic,PREREQUISITE_OF,Resilience Factors,topic,A taught first,,SOWK_4090_triples_raw.json
+SOWK_4090,Adverse Childhood Experiences,topic,PREREQUISITE_OF,Early Childhood Mental Health,topic,A taught first,,SOWK_4090_triples_raw.json
+SOWK_4090,neuroanatomy in infancy,concept,PART_OF,Brain Development Basics,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,synaptic pruning process,concept,PART_OF,Brain Development Basics,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,social emotional growth,concept,PART_OF,Brain Development Basics,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,impact on vulnerable populations,concept,PART_OF,Adverse Childhood Experiences,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,trauma and stress response,concept,PART_OF,Adverse Childhood Experiences,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,long-term consequences,concept,PART_OF,Adverse Childhood Experiences,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,promoting positive relationships,concept,PART_OF,Resilience Factors,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,supportive caregiving environments,concept,PART_OF,Resilience Factors,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,coping mechanisms development,concept,PART_OF,Resilience Factors,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,mental health in young children,concept,PART_OF,Early Childhood Mental Health,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,parent-child relationship dynamics,concept,PART_OF,Early Childhood Mental Health,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,prevention programs for infants,concept,PART_OF,Evidence-Based Interventions,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,early intervention strategies,concept,PART_OF,Evidence-Based Interventions,topic,,,SOWK_4090_triples_raw.json
+SOWK_4090,culturally sensitive practice,concept,PART_OF,Evidence-Based Interventions,topic,,,SOWK_4090_triples_raw.json

@@ -1,0 +1,39 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_1121,limits,topic,PREREQUISITE_OF,differentiation,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,PREREQUISITE_OF,curvilinear motion,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,PREREQUISITE_OF,related rates,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,PREREQUISITE_OF,optimization problems,topic,A mentioned first,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,PREREQUISITE_OF,transcendental functions,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,PREREQUISITE_OF,curvilinear motion,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,PREREQUISITE_OF,related rates,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,PREREQUISITE_OF,optimization problems,topic,A mentioned first,,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,PREREQUISITE_OF,transcendental functions,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,curvilinear motion,topic,PREREQUISITE_OF,related rates,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,curvilinear motion,topic,PREREQUISITE_OF,optimization problems,topic,A mentioned first,,MATH_1121_triples_raw.json
+MATH_1121,curvilinear motion,topic,PREREQUISITE_OF,transcendental functions,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,related rates,topic,PREREQUISITE_OF,optimization problems,topic,A mentioned first,,MATH_1121_triples_raw.json
+MATH_1121,related rates,topic,PREREQUISITE_OF,transcendental functions,topic,A taught first,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,PART_OF,differentiation,topic,,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,PART_OF,curvilinear motion,topic,,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,PART_OF,related rates,topic,,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,PART_OF,optimization problems,topic,,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,PART_OF,transcendental functions,topic,,,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,PART_OF,curvilinear motion,topic,,,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,PART_OF,related rates,topic,,,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,PART_OF,optimization problems,topic,,,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,PART_OF,transcendental functions,topic,,,MATH_1121_triples_raw.json
+MATH_1121,curvilinear motion,topic,PART_OF,related rates,topic,,,MATH_1121_triples_raw.json
+MATH_1121,curvilinear motion,topic,PART_OF,optimization problems,topic,,,MATH_1121_triples_raw.json
+MATH_1121,curvilinear motion,topic,PART_OF,transcendental functions,topic,,,MATH_1121_triples_raw.json
+MATH_1121,related rates,topic,PART_OF,optimization problems,topic,,,MATH_1121_triples_raw.json
+MATH_1121,related rates,topic,PART_OF,transcendental functions,topic,,,MATH_1121_triples_raw.json
+MATH_1121,optimization problems,topic,PART_OF,transcendental functions,topic,,,MATH_1121_triples_raw.json
+MATH_1121,limits,topic,USED_FOR,curvilinear motion,topic,,topic used for something - check direction,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,USED_FOR,curvilinear motion,topic,,topic used for something - check direction,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,USED_FOR,related rates,topic,,topic used for something - check direction,MATH_1121_triples_raw.json
+MATH_1121,differentiation,topic,USED_FOR,transcendental functions,topic,,topic used for something - check direction,MATH_1121_triples_raw.json
+MATH_1121,curvilinear motion,topic,USED_FOR,related rates,topic,,topic used for something - check direction,MATH_1121_triples_raw.json
+MATH_1121,curvilinear motion,topic,USED_FOR,optimization problems,topic,,topic used for something - check direction,MATH_1121_triples_raw.json
+MATH_1121,curvilinear motion,topic,USED_FOR,transcendental functions,topic,,topic used for something - check direction,MATH_1121_triples_raw.json
+MATH_1121,related rates,topic,USED_FOR,optimization problems,topic,,topic used for something - check direction,MATH_1121_triples_raw.json
+MATH_1121,related rates,topic,USED_FOR,transcendental functions,topic,,topic used for something - check direction,MATH_1121_triples_raw.json

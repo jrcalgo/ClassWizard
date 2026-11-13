@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ATRN_6104,topic,Clinical Evaluation,Clinical Evaluation,1,verified,Clinical Evaluation,ATRN_6104_concepts_raw.json
+ATRN_6104,topic,Diagnosis of the Lower Extremity,Diagnosis of the Lower Extremity,1,verified,Diagnosis of the Lower Extremity,ATRN_6104_concepts_raw.json
+ATRN_6104,topic,Medical History,medical history,1,verified,Medical History,ATRN_6104_concepts_raw.json
+ATRN_6104,topic,"Eyes, Ears, Nose, Throat, Mouth, and Teeth","Eyes, Ears, Nose, Throat, Mouth, and Teeth",1,verified,"Eyes, Ears, Nose, Throat, Mouth, and Teeth",ATRN_6104_concepts_raw.json
+ATRN_6104,method,obtaining a medical history,Obtaining a medical history,1,verified,obtaining a medical history,ATRN_6104_concepts_raw.json
+ATRN_6104,concept,comorbidities,comorbidities,1,verified,comorbidities,ATRN_6104_concepts_raw.json
+ATRN_6104,method,identifying comorbidities,Identifying comorbidities,1,verified,identifying comorbidities and complex conditions,ATRN_6104_concepts_raw.json
+ATRN_6104,method,assessing function (including gait,assessing function (including gait,1,verified,assessing function (including gait),ATRN_6104_concepts_raw.json
+ATRN_6104,method,selecting and using tests and measures,Selecting and using tests and measures,1,verified,selecting and using tests and measures,ATRN_6104_concepts_raw.json

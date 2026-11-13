@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3255,Team Formation Process,concept,PART_OF,Project Formation,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Team Formation Process,concept,PART_OF,Project Planning,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Engineering Design Principles,concept,PART_OF,Conceptual Design,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Standards and Regulations,concept,PART_OF,Conceptual Design,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Problem-Solving Strategies,concept,PART_OF,Conceptual Design,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Time Management Techniques,concept,PART_OF,Project Planning,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Budgeting and Cost Estimation,concept,PART_OF,Project Planning,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Risk Assessment Methods,concept,PART_OF,Project Planning,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Design Concept Development,concept,PART_OF,Conceptual Design,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Feasibility Studies,concept,PART_OF,Conceptual Design,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Alternative Solutions Evaluation,concept,PART_OF,Conceptual Design,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Design Review Process,concept,PART_OF,Preliminary Design Review,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Design Iteration Strategies,concept,PART_OF,Preliminary Design Review,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Project Progress Monitoring,concept,PART_OF,Progress Evaluations,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Team Performance Evaluation,concept,PART_OF,Progress Evaluations,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Adjustment of Project Plan,concept,PART_OF,Progress Evaluations,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Design Completion and Submission,concept,PART_OF,Final Design Package,topic,,,MEGR_3255_triples_raw.json
+MEGR_3255,Documentation and Reporting,concept,PART_OF,Final Design Package,topic,,,MEGR_3255_triples_raw.json

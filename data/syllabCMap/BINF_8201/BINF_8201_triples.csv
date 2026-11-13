@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_8201,sequence searching,method,USED_FOR,Multiple Sequence Alignments,topic,,,BINF_8201_triples_raw.json
+BINF_8201,sequence alignment,method,USED_FOR,Multiple Sequence Alignments,topic,,,BINF_8201_triples_raw.json

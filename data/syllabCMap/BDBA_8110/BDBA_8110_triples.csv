@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BDBA_8110,Literature Streams in Management,concept,PREREQUISITE_OF,Management Theories and Models,topic,A taught first,,BDBA_8110_triples_raw.json
+BDBA_8110,Classical Management Theories,concept,PREREQUISITE_OF,Behavioral Science Theories,concept,same unit,,BDBA_8110_triples_raw.json
+BDBA_8110,Consumer Behavior and Decision Making,concept,PREREQUISITE_OF,Segmentation,concept,same unit,,BDBA_8110_triples_raw.json
+BDBA_8110,Classical Management Theories,concept,PART_OF,Management Theories and Models,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Behavioral Science Theories,concept,PART_OF,Management Theories and Models,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Contingency Theories of Management,concept,PART_OF,Management Theories and Models,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Segmentation,concept,PART_OF,Marketing Theories and Concepts,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Targeting,concept,PART_OF,Marketing Theories and Concepts,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Positioning,concept,PART_OF,Marketing Theories and Concepts,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Information Systems Planning and Design,concept,PART_OF,Information Systems Theories and Models,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Human-Computer Interaction,concept,PART_OF,Information Systems Theories and Models,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Quantitative and Qualitative Research,concept,PART_OF,Research Methods in Management,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Survey Research and Data Analysis,concept,PART_OF,Research Methods in Management,topic,,,BDBA_8110_triples_raw.json
+BDBA_8110,Case Study Methodology,concept,PART_OF,Research Methods in Management,topic,,,BDBA_8110_triples_raw.json

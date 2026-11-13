@@ -1,0 +1,130 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SOCY_2171,topic,Social Problems,Social Problems,7,verified,Social Problems,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Understanding Social Problems,Understanding Social Problems,2,verified,Understanding Social Problems,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Poverty and Economic Inequality,Poverty and Economic Inequality,2,verified,Poverty and Economic Inequality,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Racial and Ethnic Inequality,Racial and Ethnic Inequality,2,verified,Racial and Ethnic Inequality,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Gender Inequality,Gender Inequality,2,verified,Gender Inequality,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,"Sexual Orientation, Gender Identity, and Inequality","Sexual Orientation, Gender Identity, and Inequality",2,verified,"Sexual Orientation, Gender Identity, and Inequality",SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Aging and Ageism,Aging and Ageism,2,verified,Aging and Ageism,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Alcohol and Other Drugs,Alcohol and Other Drugs,2,verified,Alcohol and Other Drugs,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Crime and Criminal Justice,Crime and Criminal Justice,2,verified,Crime and Criminal Justice,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Sexual Behavior,Sexual Behavior,3,verified,Sexual Behavior,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Changing Family,Changing Family,3,verified,The Changing Family,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Schools and Education,Schools and Education,2,verified,Schools and Education,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Economy and Politics,Economy and Politics,2,verified,Economy and Politics,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Health and Health Care,Health and Health Care,2,verified,Health and Health Care,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Urban and Rural Problems,Urban and Rural Problems,2,verified,Urban and Rural Problems,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,Population and the Environment,Population and the Environment,2,verified,Population and the Environment,SOCY_2171_concepts_raw.json
+SOCY_2171,topic,War and Terrorism,War and Terrorism,2,verified,War and Terrorism,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Social Problem Continuity,Social Problem Continuity,1,verified,Social Problem Continuity,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Social Change Process,Social Change Process,1,verified,Social Change Process,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Poverty Measurement,Poverty Measurement,1,verified,Poverty Measurement,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Income Inequality,Income Inequality,1,verified,Income Inequality,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Wealth Disparity,Wealth Disparity,1,verified,Wealth Disparity,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Economic Stratification,Economic Stratification,1,verified,Economic Stratification,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Social Mobility,Social Mobility,1,verified,Social Mobility,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Relative Poverty,Relative Poverty,1,verified,Relative Poverty,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Absolute Poverty,Absolute Poverty,1,verified,Absolute Poverty,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Poverty Thresholds,Poverty Thresholds,1,verified,Poverty Thresholds,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Stereotype Threat Theory,Stereotype Threat Theory,1,verified,Stereotype Threat Theory,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Colorblind Racism,Colorblind Racism,1,verified,Colorblind Racism,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Systemic Racism,Systemic Racism,1,verified,Systemic Racism,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Affirmative Action Policy,Affirmative Action Policy,1,verified,Affirmative Action Policy,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Discrimination Types,Discrimination Types,1,verified,Discrimination Types,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Institutionalized Bias,Institutionalized Bias,1,verified,Institutionalized Bias,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Microaggressions Impact,Microaggressions Impact,1,verified,Microaggressions Impact,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Cultural Competence Model,Cultural Competence Model,1,verified,Cultural Competence Model,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Patriarchy Theory,Patriarchy Theory,1,verified,Patriarchy Theory,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Sexism Definition,Sexism Definition,1,verified,Sexism Definition,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Masculinity Norms,Masculinity Norms,1,verified,Masculinity Norms,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Feminist Perspective,Feminist Perspective,1,verified,Feminist Perspective,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Intersectionality Concept,Intersectionality Concept,1,verified,Intersectionality Concept,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Stereotype Threat,Stereotype Threat,2,verified,Stereotype Threat,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Glass Ceiling Effect,Glass Ceiling Effect,1,verified,Glass Ceiling Effect,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Pay Equity Gap,Pay Equity Gap,1,verified,Pay Equity Gap,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Sexual Orientation,Sexual Orientation,4,verified,Sexual Orientation,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Gender Identity,Gender Identity,3,verified,Gender Identity,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Inequality and Discrimination,Inequality and Discrimination,1,verified,Inequality and Discrimination,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Heteronormativity,Heteronormativity,1,verified,Heteronormativity,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Homophobia and Biphobia,Homophobia and Biphobia,1,verified,Homophobia and Biphobia,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Transphobia and Transmisogyny,Transphobia and Transmisogyny,1,verified,Transphobia and Transmisogyny,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,LGBTQ+ Rights Movement,LGBTQ+ Rights Movement,1,verified,LGBTQ+ Rights Movement,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Social Injustice and Change,Social Injustice and Change,1,verified,Social Injustice and Change,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Age Discrimination Laws,Age Discrimination Laws,1,verified,Age Discrimination Laws,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Gerontology Theories,Gerontology Theories,1,verified,Gerontology Theories,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Social Isolation Effects,Social Isolation Effects,1,verified,Social Isolation Effects,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Elder Abuse Prevention,Elder Abuse Prevention,1,verified,Elder Abuse Prevention,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Cognitive Decline Stages,Cognitive Decline Stages,1,verified,Cognitive Decline Stages,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Mental Health Issues,Mental Health Issues,2,verified,Mental Health Issues,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Stereotypes and Prejudice,Stereotypes and Prejudice,1,verified,Stereotypes and Prejudice,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Intergenerational Relationships,Intergenerational Relationships,1,verified,Intergenerational Relationships,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Alcohol Use Patterns,Alcohol Use Patterns,1,verified,Alcohol Use Patterns,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Substance Abuse Consequences,Substance Abuse Consequences,1,verified,Substance Abuse Consequences,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Drug Addiction Stages,Drug Addiction Stages,1,verified,Drug Addiction Stages,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Illicit Drug Trade Impact,Illicit Drug Trade Impact,1,verified,Illicit Drug Trade Impact,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Social Learning Theory,Social Learning Theory,1,verified,Social Learning Theory,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Addiction Treatment Options,Addiction Treatment Options,1,verified,Addiction Treatment Options,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Rehabilitation Program Effectiveness,Rehabilitation Program Effectiveness,1,verified,Rehabilitation Program Effectiveness,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Cultural Norms Influence,Cultural Norms Influence,1,verified,Cultural Norms Influence,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Stigma and Shame Effects,Stigma and Shame Effects,1,verified,Stigma and Shame Effects,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Crime Rates,Crime Rates,1,verified,Crime Rates,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Criminal Justice System,Criminal Justice System,1,verified,Criminal Justice System,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,White-Collar Crime,White-Collar Crime,1,verified,White-Collar Crime,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Street Crime,Street Crime,1,verified,Street Crime,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Juvenile Delinquency,Juvenile Delinquency,1,verified,Juvenile Delinquency,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Recidivism Rate,Recidivism Rate,1,verified,Recidivism Rate,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Prison Overcrowding,Prison Overcrowding,1,verified,Prison Overcrowding,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Restorative Justice,Restorative Justice,1,verified,Restorative Justice,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Victimology,Victimology,1,verified,Victimology,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Sexual Behavior Patterns,Sexual Behavior Patterns,1,verified,Sexual Behavior Patterns,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Social Norms and Sexuality,Social Norms and Sexuality,1,verified,Social Norms and Sexuality,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Sexual Orientation Identity,Sexual Orientation Identity,1,verified,Sexual Orientation Identity,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Sex Work and Exploitation,Sex Work and Exploitation,1,verified,Sex Work and Exploitation,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Consent and Coercion Dynamics,Consent and Coercion Dynamics,1,verified,Consent and Coercion Dynamics,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Changing Family Structure,Changing Family Structure,1,verified,Changing Family Structure,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Nuclear Family Decline,Nuclear Family Decline,1,verified,Nuclear Family Decline,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Single Parent Households,Single Parent Households,1,verified,Single Parent Households,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Cohabitation Trends,Cohabitation Trends,1,verified,Cohabitation Trends,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Family Diversity Increase,Family Diversity Increase,1,verified,Family Diversity Increase,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,School Performance Gaps,School Performance Gaps,1,verified,School Performance Gaps,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Standardized Testing Effects,Standardized Testing Effects,1,verified,Standardized Testing Effects,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Educational Inequality Issues,Educational Inequality Issues,1,verified,Educational Inequality Issues,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Teacher Shortage Causes,Teacher Shortage Causes,1,verified,Teacher Shortage Causes,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Bilingual Education Models,Bilingual Education Models,1,verified,Bilingual Education Models,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Economic Inequality,Economic Inequality,3,verified,Economic Inequality,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Government Intervention,Government Intervention,1,verified,Government Intervention,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Market Failure Theories,Market Failure Theories,1,verified,Market Failure Theories,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Regulatory Policies,Regulatory Policies,1,verified,Regulatory Policies,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Public Policy Making,Public Policy Making,1,verified,Public Policy Making,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Health Disparities,Health Disparities,1,verified,Health Disparities,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Access to Healthcare,Access to Healthcare,1,verified,Access to Healthcare,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Substance Abuse Problems,Substance Abuse Problems,1,verified,Substance Abuse Problems,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Healthcare System Inequity,Healthcare System Inequity,1,verified,Healthcare System Inequity,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Medical Insurance Options,Medical Insurance Options,1,verified,Medical Insurance Options,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Public Health Policy,Public Health Policy,1,verified,Public Health Policy,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Healthcare Access Barriers,Healthcare Access Barriers,1,verified,Healthcare Access Barriers,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Social Determinants of Health,Social Determinants of Health,1,verified,Social Determinants of Health,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Urbanization,Urbanization,1,verified,Urbanization,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Rural Poverty,Rural Poverty,1,verified,Rural Poverty,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Suburban Sprawl,Suburban Sprawl,1,verified,Suburban Sprawl,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Gentrification Process,Gentrification Process,1,verified,Gentrification Process,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Urban Displacement,Urban Displacement,1,verified,Urban Displacement,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Rural Decline,Rural Decline,1,verified,Rural Decline,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Urban-Rural Divide,Urban-Rural Divide,1,verified,Urban-Rural Divide,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Socioeconomic Inequality,Socioeconomic Inequality,1,verified,Socioeconomic Inequality,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Community Development,Community Development,1,verified,Community Development,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Population Growth Rate,Population Growth Rate,1,verified,Population Growth Rate,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Environmental Degradation Causes,Environmental Degradation Causes,1,verified,Environmental Degradation Causes,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Sustainable Resource Management,Sustainable Resource Management,1,verified,Sustainable Resource Management,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Human Impact on Ecosystems,Human Impact on Ecosystems,1,verified,Human Impact on Ecosystems,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Ecological Footprint Analysis,Ecological Footprint Analysis,1,verified,Ecological Footprint Analysis,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Resource Depletion Consequences,Resource Depletion Consequences,1,verified,Resource Depletion Consequences,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Overpopulation Effects on Environment,Overpopulation Effects on Environment,1,verified,Overpopulation Effects on Environment,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Conservation Efforts Strategies,Conservation Efforts Strategies,1,verified,Conservation Efforts Strategies,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Terrorism Motivations,Terrorism Motivations,1,verified,Terrorism Motivations,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Global Security Threats,Global Security Threats,1,verified,Global Security Threats,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Civilian Casualties,Civilian Casualties,1,verified,Civilian Casualties,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Military Interventions,Military Interventions,1,verified,Military Interventions,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Counterterrorism Strategies,Counterterrorism Strategies,1,verified,Counterterrorism Strategies,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Radicalization Processes,Radicalization Processes,1,verified,Radicalization Processes,SOCY_2171_concepts_raw.json
+SOCY_2171,concept,Conflict Resolution Models,Conflict Resolution Models,1,verified,Conflict Resolution Models,SOCY_2171_concepts_raw.json

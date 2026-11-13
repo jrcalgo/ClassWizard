@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_6600,topic,Bioinformatics,bioinformatics,4,verified,Bioinformatics,BINF_6600_concepts_raw.json
+BINF_6600,topic,Genomics Research,genomics research,1,verified,Genomics Research,BINF_6600_concepts_raw.json
+BINF_6600,topic,Presentation Skills,presentation skills,1,verified,Presentation Skills,BINF_6600_concepts_raw.json
+BINF_6600,topic,Bioinformatics Tools,Bioinformatics Tools,1,inferred,Bioinformatics Tools,BINF_6600_concepts_raw.json
+BINF_6600,concept,sequence alignment algorithms,Sequence Alignment Algorithms,1,inferred,sequence alignment algorithms,BINF_6600_concepts_raw.json
+BINF_6600,concept,computational biology techniques,Computational Biology Techniques,1,inferred,computational biology techniques,BINF_6600_concepts_raw.json
+BINF_6600,concept,formal critique writing skills,Formal Critique Writing Skills,1,inferred,formal critique writing skills,BINF_6600_concepts_raw.json
+BINF_6600,concept,peer review process overview,Peer Review Process Overview,1,inferred,peer review process overview,BINF_6600_concepts_raw.json
+BINF_6600,concept,constructive feedback strategies,Constructive Feedback Strategies,1,inferred,constructive feedback strategies,BINF_6600_concepts_raw.json
+BINF_6600,topic,Effective Collaboration Techniques,Effective Collaboration Techniques,1,inferred,Effective Collaboration Techniques,BINF_6600_concepts_raw.json
+BINF_6600,topic,Communication with Experts from Other Fields,Communication with Experts from Other Fields,1,inferred,Communication with Experts from Other Fields,BINF_6600_concepts_raw.json
+BINF_6600,concept,bioinformatics and genomics overview,Bioinformatics and Genomics Overview,1,inferred,bioinformatics and genomics overview,BINF_6600_concepts_raw.json
+BINF_6600,concept,research in bioinformatics field,Research in Bioinformatics Field,1,inferred,research in bioinformatics field,BINF_6600_concepts_raw.json
+BINF_6600,concept,importance of bioinformatics,Importance of Bioinformatics,1,inferred,importance of bioinformatics,BINF_6600_concepts_raw.json
+BINF_6600,concept,effective communication techniques,Effective Communication Techniques,1,inferred,effective communication techniques,BINF_6600_concepts_raw.json
+BINF_6600,concept,public speaking strategies,Public Speaking Strategies,1,inferred,public speaking strategies,BINF_6600_concepts_raw.json
+BINF_6600,concept,confidence building exercises,Confidence Building Exercises,1,inferred,confidence building exercises,BINF_6600_concepts_raw.json
+BINF_6600,concept,genomic data analysis software,Genomic Data Analysis Software,1,inferred,genomic data analysis software,BINF_6600_concepts_raw.json
+BINF_6600,concept,connecting presented work to course material,Connecting Presented Work to Course Material,1,inferred,connecting presented work to course material,BINF_6600_concepts_raw.json
+BINF_6600,concept,applying bioinformatics concepts to research,Applying Bioinformatics Concepts to Research,1,inferred,applying bioinformatics concepts to research,BINF_6600_concepts_raw.json
+BINF_6600,concept,integrating multiple disciplines in research,Integrating Multiple Disciplines in Research,1,inferred,integrating multiple disciplines in research,BINF_6600_concepts_raw.json

@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_8214,concept,usable security,Usable Security,2,verified,usable security,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,human factors in security,Human Factors in Security,1,inferred,human factors in security,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,usability and security trade-offs,Usability and Security Trade-Offs,1,inferred,usability and security trade-offs,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,digital security mental models,Digital Security Mental Models,1,inferred,digital security mental models,ITIS_8214_concepts_raw.json
+ITIS_8214,topic,Human Behavior in Security Contexts,Human Behavior in Security Contexts,1,inferred,Human Behavior in Security Contexts,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,password management best practices,Password Management Best Practices,1,inferred,password management best practices,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,biometric security issues,Biometric Security Issues,1,inferred,biometric security issues,ITIS_8214_concepts_raw.json
+ITIS_8214,topic,Designing for Human Limitations,Designing for Human Limitations,1,inferred,Designing for Human Limitations,ITIS_8214_concepts_raw.json
+ITIS_8214,topic,Interdisciplinary Research Methods in Usable Security,Interdisciplinary Research Methods in Usable Security,1,inferred,Interdisciplinary Research Methods in Usable Security,ITIS_8214_concepts_raw.json
+ITIS_8214,topic,Identifying Research Questions in Usable Security,Identifying Research Questions in Usable Security,1,inferred,Identifying Research Questions in Usable Security,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,common misconceptions about security,Common Misconceptions about Security,1,inferred,common misconceptions about security,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,human error in security systems,Human Error in Security Systems,1,inferred,human error in security systems,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,social engineering techniques,Social Engineering Techniques,1,inferred,social engineering techniques,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,two-factor authentication challenges,Two-Factor Authentication Challenges,1,inferred,two-factor authentication challenges,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,security and usability trade-offs in design,Security and Usability Trade-Offs in Design,1,inferred,security and usability trade-offs in design,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,human-centered design principles,Human-Centered Design Principles,1,inferred,human-centered design principles,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,usable security features in software,Usable Security Features in Software,1,inferred,usable security features in software,ITIS_8214_concepts_raw.json
+ITIS_8214,concept,security and usability metrics,Security and Usability Metrics,1,inferred,security and usability metrics,ITIS_8214_concepts_raw.json
+ITIS_8214,method,human-computer interaction research methods,Human-Computer Interaction Research Methods,1,inferred,human-computer interaction research methods,ITIS_8214_concepts_raw.json
+ITIS_8214,method,psychological factors in security design,Psychological Factors in Security Design,1,inferred,psychological factors in security design,ITIS_8214_concepts_raw.json
+ITIS_8214,method,social science approaches to usable security,Social Science Approaches to Usable Security,1,inferred,social science approaches to usable security,ITIS_8214_concepts_raw.json

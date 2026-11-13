@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETME_3100L,Documentation generation,method,PART_OF,Report Style Writing,concept,,,ETME_3100L_triples_raw.json
+ETME_3100L,Documentation generation,method,USED_FOR,Report Style Writing,concept,,,ETME_3100L_triples_raw.json

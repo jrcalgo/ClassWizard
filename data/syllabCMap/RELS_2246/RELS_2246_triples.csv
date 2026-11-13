@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_2246,Jesus Films,topic,PREREQUISITE_OF,Jesus in Ancient Sources,topic,A taught first,,RELS_2246_triples_raw.json
+RELS_2246,Jesus in Ancient Sources,topic,PREREQUISITE_OF,Early Film Representations,topic,A taught first,,RELS_2246_triples_raw.json
+RELS_2246,Jesus in Hollywood Cinema,topic,PREREQUISITE_OF,Jesus and Politics,topic,A taught first,,RELS_2246_triples_raw.json
+RELS_2246,Jesus and Politics,topic,PREREQUISITE_OF,Jesus in Contemporary Cinema,topic,A taught first,,RELS_2246_triples_raw.json

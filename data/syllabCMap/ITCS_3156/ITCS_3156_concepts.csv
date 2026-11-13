@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_3156,topic,Machine Learning,Machine Learning,9,verified,Machine Learning,ITCS_3156_concepts_raw.json
+ITCS_3156,topic,Probability and Statistics,Probability and Statistics,1,verified,Probability and Statistics,ITCS_3156_concepts_raw.json
+ITCS_3156,topic,Calculus,Calculus,2,verified,Calculus,ITCS_3156_concepts_raw.json
+ITCS_3156,topic,Linear Algebra,Linear Algebra,2,verified,Linear Algebra,ITCS_3156_concepts_raw.json
+ITCS_3156,topic,Data Preprocessing,data preprocessing,1,verified,Data Preprocessing,ITCS_3156_concepts_raw.json
+ITCS_3156,topic,Supervised Learning,supervised learning,1,verified,Supervised Learning,ITCS_3156_concepts_raw.json
+ITCS_3156,topic,Unsupervised Learning,unsupervised learning,1,verified,Unsupervised Learning,ITCS_3156_concepts_raw.json
+ITCS_3156,topic,Reinforcement Learning,reinforcement learning,1,verified,Reinforcement Learning,ITCS_3156_concepts_raw.json
+ITCS_3156,concept,natural language processing,natural language processing,1,verified,natural language processing,ITCS_3156_concepts_raw.json
+ITCS_3156,tool,Python,Python,2,verified,Python,ITCS_3156_concepts_raw.json
+ITCS_3156,tool,Scikit-Learn,Scikit-Learn,1,verified,Scikit-Learn,ITCS_3156_concepts_raw.json
+ITCS_3156,tool,TensorFlow,TensorFlow,1,verified,TensorFlow,ITCS_3156_concepts_raw.json
+ITCS_3156,tool,GitHub,GitHub,1,verified,GitHub,ITCS_3156_concepts_raw.json

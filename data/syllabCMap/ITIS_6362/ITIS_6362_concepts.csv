@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_6362,topic,Information Technology Ethics,Information Technology Ethics,1,verified,Information Technology Ethics,ITIS_6362_concepts_raw.json
+ITIS_6362,topic,Policy,Policy,3,verified,Policy,ITIS_6362_concepts_raw.json
+ITIS_6362,topic,Security,Security,1,verified,Security,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Utilitarianism Frameworks,Utilitarianism Frameworks,1,inferred,Utilitarianism Frameworks,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Deontological Ethics Principles,Deontological Ethics Principles,1,inferred,Deontological Ethics Principles,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Virtue Ethics Approach,Virtue Ethics Approach,1,inferred,Virtue Ethics Approach,ITIS_6362_concepts_raw.json
+ITIS_6362,topic,Bias in Algorithmic Systems,Bias in Algorithmic Systems,1,inferred,Bias in Algorithmic Systems,ITIS_6362_concepts_raw.json
+ITIS_6362,topic,Data Encoding and Representation,Data Encoding and Representation,1,inferred,Data Encoding and Representation,ITIS_6362_concepts_raw.json
+ITIS_6362,measure,Fairness and Transparency Metrics,Fairness and Transparency Metrics,1,inferred,Fairness and Transparency Metrics,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Intellectual Property Laws,Intellectual Property Laws,1,inferred,Intellectual Property Laws,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Platform Liability Frameworks,Platform Liability Frameworks,1,inferred,Platform Liability Frameworks,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Artificial Intelligence Governance,Artificial Intelligence Governance,1,inferred,Artificial Intelligence Governance,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Data Ownership Rights and Responsibilities,Data Ownership Rights and Responsibilities,1,inferred,Data Ownership Rights and Responsibilities,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Surveillance State Implications,Surveillance State Implications,1,inferred,Surveillance State Implications,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Consent and Transparency in Data Collection,Consent and Transparency in Data Collection,1,inferred,Consent and Transparency in Data Collection,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Whistleblowing and Collective Refusal,Whistleblowing and Collective Refusal,1,inferred,Whistleblowing and Collective Refusal,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Complicity and Moral Responsibility,Complicity and Moral Responsibility,1,inferred,Complicity and Moral Responsibility,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Ethics of Information Technology Professionals,Ethics of Information Technology Professionals,1,inferred,Ethics of Information Technology Professionals,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Information Technology Impact on Privacy,Information Technology Impact on Privacy,1,inferred,Information Technology Impact on Privacy,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Surveillance and Data Collection Practices,Surveillance and Data Collection Practices,1,inferred,Surveillance and Data Collection Practices,ITIS_6362_concepts_raw.json
+ITIS_6362,topic,Balancing Security and Individual Rights,Balancing Security and Individual Rights,1,inferred,Balancing Security and Individual Rights,ITIS_6362_concepts_raw.json
+ITIS_6362,topic,Effective Public Speaking Techniques,Effective Public Speaking Techniques,1,inferred,Effective Public Speaking Techniques,ITIS_6362_concepts_raw.json
+ITIS_6362,topic,Presentation Skills for Technical Topics,Presentation Skills for Technical Topics,1,inferred,Presentation Skills for Technical Topics,ITIS_6362_concepts_raw.json
+ITIS_6362,topic,Engaged Conversation Style Principles,Engaged Conversation Style Principles,1,inferred,Engaged Conversation Style Principles,ITIS_6362_concepts_raw.json
+ITIS_6362,concept,Algorithmic Bias Mitigation Strategies,Algorithmic Bias Mitigation Strategies,1,inferred,Algorithmic Bias Mitigation Strategies,ITIS_6362_concepts_raw.json

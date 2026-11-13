@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3111,topic,Signals and Systems,Signals and Systems,5,verified,Signals and Systems,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,linear time-invariant systems,linear time-invariant systems,2,verified,linear time-invariant systems,ECGR_3111_concepts_raw.json
+ECGR_3111,topic,Discrete-Time Signals,discrete-time signals,1,verified,Discrete-Time Signals,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,elementary signals,elementary signals,1,verified,elementary signals,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,discrete-time exponentials signals,discrete-time exponentials signals,1,verified,discrete-time exponentials signals,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,convolution sum,convolution sum,2,verified,convolution sum,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,convolution integral,convolution integral,1,verified,convolution integral,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,impulse response,Impulse response,1,verified,impulse response,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,step response,step response,1,verified,step response,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,signal power,Signal power,1,verified,signal power,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,differential equations,Differential equations,1,verified,differential equations,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,difference equations,difference equations,1,verified,difference equations,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,complex exponentials,complex exponentials,1,verified,complex exponentials,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,Fourier analysis,Fourier analysis,2,verified,Fourier analysis,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,frequency domain descriptions,Frequency domain descriptions,1,verified,frequency domain descriptions,ECGR_3111_concepts_raw.json
+ECGR_3111,concept,Discrete Fourier Transform,Discrete Fourier Transform,2,verified,Discrete Fourier Transform,ECGR_3111_concepts_raw.json
+ECGR_3111,method,manipulate elementary signals,Manipulate elementary signals,1,verified,manipulate elementary signals,ECGR_3111_concepts_raw.json
+ECGR_3111,method,study continuous-time and discrete-time exponentials signals,Study continuous-time and discrete-time exponentials signals,1,verified,study continuous-time and discrete-time exponentials signals,ECGR_3111_concepts_raw.json
+ECGR_3111,method,evaluate convolution sum and integral,Evaluate convolution sum and integral,1,verified,evaluate convolution sum and integral,ECGR_3111_concepts_raw.json
+ECGR_3111,method,analyse continuous-time and discrete-time Fourier series,Analyse continuous-time and discrete-time Fourier series,1,verified,analyse continuous-time and discrete-time Fourier series,ECGR_3111_concepts_raw.json
+ECGR_3111,method,analyse continuous-time and discrete-time Fourier transforms,Analyse continuous-time and discrete-time Fourier transforms,1,verified,analyse continuous-time and discrete-time Fourier transforms,ECGR_3111_concepts_raw.json
+ECGR_3111,method,evaluate signals and systems in the frequency domain,Evaluate signals and systems in the frequency domain,1,verified,evaluate signals and systems in the frequency domain,ECGR_3111_concepts_raw.json

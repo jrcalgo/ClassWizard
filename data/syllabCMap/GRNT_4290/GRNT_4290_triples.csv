@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_4290,loneliness epidemic definition,concept,PART_OF,social isolation vs. loneliness,concept,,,GRNT_4290_triples_raw.json
+GRNT_4290,chronic loneliness characteristics,concept,PART_OF,social isolation vs. loneliness,concept,,,GRNT_4290_triples_raw.json
+GRNT_4290,lonely and isolated individuals,concept,PART_OF,social isolation vs. loneliness,concept,,,GRNT_4290_triples_raw.json
+GRNT_4290,social isolation theories,concept,PART_OF,social isolation vs. loneliness,concept,,,GRNT_4290_triples_raw.json
+GRNT_4290,loneliness measurement tools,concept,PART_OF,social isolation vs. loneliness,concept,,,GRNT_4290_triples_raw.json
+GRNT_4290,real-world applications of theory,concept,PART_OF,social isolation vs. loneliness,concept,,,GRNT_4290_triples_raw.json
+GRNT_4290,qualitative research methods,concept,PART_OF,critique of research studies,concept,,,GRNT_4290_triples_raw.json
+GRNT_4290,quantitative research findings,concept,PART_OF,critique of research studies,concept,,,GRNT_4290_triples_raw.json
+GRNT_4290,designing surveys and tools,method,USED_FOR,loneliness measurement tools,concept,,,GRNT_4290_triples_raw.json
+GRNT_4290,presenting findings and recommendations,method,USED_FOR,critique of research studies,concept,,,GRNT_4290_triples_raw.json

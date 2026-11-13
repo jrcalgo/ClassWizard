@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGR_1300,self-directed learning,concept,PREREQUISITE_OF,engineering design process,concept,same unit,,ENGR_1300_triples_raw.json
+ENGR_1300,brainstorming,method,PART_OF,researching,method,,,ENGR_1300_triples_raw.json
+ENGR_1300,brainstorming,method,USED_FOR,researching,method,,,ENGR_1300_triples_raw.json

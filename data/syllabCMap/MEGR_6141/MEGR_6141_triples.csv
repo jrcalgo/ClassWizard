@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_6141,linear elastic materials,concept,PREREQUISITE_OF,Elastic Constitutive Equations,topic,same unit,,MEGR_6141_triples_raw.json
+MEGR_6141,linear elastic materials,concept,PREREQUISITE_OF,Boundary-Value Problems,topic,A taught first,,MEGR_6141_triples_raw.json
+MEGR_6141,linear elastic materials,concept,PREREQUISITE_OF,Energy Methods in Elasticity,topic,A taught first,,MEGR_6141_triples_raw.json
+MEGR_6141,linear elastic materials,concept,PART_OF,Elastic Constitutive Equations,topic,,,MEGR_6141_triples_raw.json

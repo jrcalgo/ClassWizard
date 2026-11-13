@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_6600,Gerontology,topic,PREREQUISITE_OF,Current Issues in Aging,topic,A mentioned first,,GRNT_6600_triples_raw.json
+GRNT_6600,Gerontology,topic,PREREQUISITE_OF,Aging Across the Lifecourse,topic,A taught first,,GRNT_6600_triples_raw.json
+GRNT_6600,Gerontology,topic,PREREQUISITE_OF,Ageism and Age Bias,topic,A taught first,,GRNT_6600_triples_raw.json
+GRNT_6600,Gerontology,topic,PREREQUISITE_OF,Gerontological Theories and Models,topic,A taught first,,GRNT_6600_triples_raw.json
+GRNT_6600,Gerontology,topic,PREREQUISITE_OF,Policy Proposals for Aging Population,topic,A taught first,,GRNT_6600_triples_raw.json
+GRNT_6600,Gerontology,topic,PREREQUISITE_OF,Quality of Life for Older Adults,topic,A taught first,,GRNT_6600_triples_raw.json
+GRNT_6600,Gerontology,topic,PREREQUISITE_OF,Gerontology in Practice,topic,A taught first,,GRNT_6600_triples_raw.json
+GRNT_6600,Gerontological Imagination Framework,concept,USED_FOR,Multidisciplinary Approach to Aging,concept,,,GRNT_6600_triples_raw.json
+GRNT_6600,Gerontological Imagination Framework,concept,USED_FOR,Interdisciplinary Study of Aging,concept,,,GRNT_6600_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_4281,Physical Improv,topic,PART_OF,Physical Approach to Theatre,topic,,,THEA_4281_triples_raw.json
+THEA_4281,Commedia stock characters,topic,PART_OF,Commedia dell'Arte,topic,,,THEA_4281_triples_raw.json
+THEA_4281,Masks,topic,PART_OF,Commedia dell'Arte,topic,,,THEA_4281_triples_raw.json
+THEA_4281,Commedia in performance/tour at the Carolina Renaissance Festival,topic,PART_OF,Commedia dell'Arte,topic,,,THEA_4281_triples_raw.json
+THEA_4281,Lazzi,topic,USED_FOR,Devising short Commedia pieces,topic,,topic used for something - check direction,THEA_4281_triples_raw.json

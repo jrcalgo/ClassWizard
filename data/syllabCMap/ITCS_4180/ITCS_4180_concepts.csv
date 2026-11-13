@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4180,topic,Mobile Application Development,mobile application development,2,verified,Mobile Application Development,ITCS_4180_concepts_raw.json
+ITCS_4180,topic,Mobile Applications,mobile applications,2,verified,Mobile Applications,ITCS_4180_concepts_raw.json
+ITCS_4180,topic,Web-based to Native,Web-based to Native,1,verified,Web-based to Native,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Software Engineering,software engineering,2,verified,Software Engineering,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,System Requirements,System Requirements,1,verified,System Requirements,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Use Cases,Use Cases,1,verified,Use Cases,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Class Diagrams,Class Diagrams,1,verified,Class Diagrams,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,In Class Evaluation,In Class Evaluation,7,verified,In Class Evaluation,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Student Participation,Student Participation,1,verified,Student Participation,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Regression Analysis,Regression Analysis,2,verified,Regression Analysis,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Multiple Linear Regression,Multiple Linear Regression,2,verified,Multiple Linear Regression,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Model Evaluation Metrics,Model Evaluation Metrics,2,verified,Model Evaluation Metrics,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Coefficient of Determination,Coefficient of Determination,1,verified,Coefficient of Determination,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Data Preprocessing,Data Preprocessing,2,verified,Data Preprocessing,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Feature Selection Techniques,Feature Selection Techniques,1,verified,Feature Selection Techniques,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Decision Tree Algorithm,Decision Tree Algorithm,2,verified,Decision Tree Algorithm,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Random Forest Classifier,Random Forest Classifier,2,verified,Random Forest Classifier,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Excused Absence,Excused Absence,1,verified,Excused Absence,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Attendance Policy,Attendance Policy,1,verified,Attendance Policy,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Academic Accommodation,academic accommodation,3,verified,Academic Accommodation,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Student Absence Policy,Student Absence Policy,1,verified,Student Absence Policy,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Late Submission Guidelines,Late Submission Guidelines,1,verified,Late Submission Guidelines,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Excuse Procedure,Excuse Procedure,1,verified,Excuse Procedure,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Student Data Management,Student Data Management,1,verified,Student Data Management,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Database Query Optimization,Database Query Optimization,1,verified,Database Query Optimization,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Data Security Measures,Data Security Measures,1,verified,Data Security Measures,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,User Authentication Protocols,User Authentication Protocols,1,verified,User Authentication Protocols,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Machine Learning,Machine Learning,1,verified,Machine Learning,ITCS_4180_concepts_raw.json
+ITCS_4180,concept,Support Vector Machines,Support Vector Machines,2,verified,Support Vector Machines,ITCS_4180_concepts_raw.json

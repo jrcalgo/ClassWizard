@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6115,statistical learning principles,concept,PREREQUISITE_OF,classical linear methods,concept,A taught first,,DSBA_6115_triples_raw.json
+DSBA_6115,statistical learning principles,concept,PREREQUISITE_OF,Modern Linear Techniques,topic,A taught first,,DSBA_6115_triples_raw.json
+DSBA_6115,statistical learning principles,concept,PREREQUISITE_OF,Non-Linear Approaches,topic,A taught first,,DSBA_6115_triples_raw.json
+DSBA_6115,statistical learning principles,concept,PREREQUISITE_OF,Support Vector Machines,topic,A taught first,,DSBA_6115_triples_raw.json
+DSBA_6115,statistical learning principles,concept,PREREQUISITE_OF,Unsupervised Learning,topic,A taught first,,DSBA_6115_triples_raw.json
+DSBA_6115,cross-validation,concept,PART_OF,classical linear methods,concept,,,DSBA_6115_triples_raw.json
+DSBA_6115,Bootstrap Methods,topic,PART_OF,classical linear methods,concept,,part is broader than whole - check direction,DSBA_6115_triples_raw.json
+DSBA_6115,Modern Linear Techniques,topic,PART_OF,classical linear methods,concept,,part is broader than whole - check direction,DSBA_6115_triples_raw.json
+DSBA_6115,Non-Linear Approaches,topic,PART_OF,classical linear methods,concept,,part is broader than whole - check direction,DSBA_6115_triples_raw.json
+DSBA_6115,Tree-Based Models,topic,PART_OF,classical linear methods,concept,,part is broader than whole - check direction,DSBA_6115_triples_raw.json
+DSBA_6115,Support Vector Machines,topic,PART_OF,classical linear methods,concept,,part is broader than whole - check direction,DSBA_6115_triples_raw.json
+DSBA_6115,Unsupervised Learning,topic,PART_OF,classical linear methods,concept,,part is broader than whole - check direction,DSBA_6115_triples_raw.json
+DSBA_6115,R,tool,USED_FOR,statistical learning principles,concept,,,DSBA_6115_triples_raw.json
+DSBA_6115,Data Camp Introduction to R,tool,USED_FOR,statistical learning principles,concept,,,DSBA_6115_triples_raw.json

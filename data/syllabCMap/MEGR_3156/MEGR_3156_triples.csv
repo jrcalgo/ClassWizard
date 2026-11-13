@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3156,Machining,topic,PREREQUISITE_OF,Manufacturing Process Selection and Planning,topic,same unit,,MEGR_3156_triples_raw.json
+MEGR_3156,stress and strain principles,concept,PART_OF,Solid Mechanics,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,failure theories,concept,PART_OF,Solid Mechanics,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,Material Properties and Behavior,topic,PART_OF,Solid Mechanics,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,Force Vectors and Equilibrium,topic,PART_OF,Statics,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,Moment of Forces and Torque,topic,PART_OF,Statics,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,Kinematics and Kinetics Fundamentals,topic,PART_OF,Dynamics,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,Machine Tool Operations and Safety,topic,PART_OF,Machining,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,Material Removal Processes and Techniques,topic,PART_OF,Machining,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,Manufacturing Process Selection and Planning,topic,PART_OF,Machining,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,Project Scope and Objectives Definition,topic,PART_OF,Design Process Overview,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,Design Requirements and Specifications,topic,PART_OF,Design Process Overview,topic,,,MEGR_3156_triples_raw.json
+MEGR_3156,stress and strain principles,concept,USED_FOR,failure theories,concept,,,MEGR_3156_triples_raw.json
+MEGR_3156,Force Vectors and Equilibrium,topic,USED_FOR,Moment of Forces and Torque,topic,,topic used for something - check direction,MEGR_3156_triples_raw.json
+MEGR_3156,Kinematics and Kinetics Fundamentals,topic,USED_FOR,Dynamics,topic,,topic used for something - check direction,MEGR_3156_triples_raw.json
+MEGR_3156,Machining,topic,USED_FOR,Manufacturing Process Selection and Planning,topic,,topic used for something - check direction,MEGR_3156_triples_raw.json

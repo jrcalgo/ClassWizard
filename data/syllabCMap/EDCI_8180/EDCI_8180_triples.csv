@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8180,poverty,topic,PREREQUISITE_OF,immigration,topic,B taught first,B is taught before A - check,EDCI_8180_triples_raw.json
+EDCI_8180,No Child Left Behind,topic,PREREQUISITE_OF,Every Student Succeeds Act (ESSA,topic,A mentioned first,,EDCI_8180_triples_raw.json
+EDCI_8180,structural inequality,topic,PREREQUISITE_OF,immigration,topic,A taught first,,EDCI_8180_triples_raw.json
+EDCI_8180,Race to the Top legislation,topic,SUBTYPE_OF,No Child Left Behind,topic,,,EDCI_8180_triples_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4164,electron microscopy,method,USED_FOR,DNA isolation,method,,,BIOL_4164_triples_raw.json
+BIOL_4164,computational programs,method,USED_FOR,genomics platform,method,,,BIOL_4164_triples_raw.json

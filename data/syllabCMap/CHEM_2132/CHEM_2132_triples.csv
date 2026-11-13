@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_2132,Bonding Review,topic,PART_OF,Organic Chemistry II,topic,,,CHEM_2132_triples_raw.json
+CHEM_2132,Alkene Chemistry,topic,PART_OF,Organic Chemistry II,topic,,,CHEM_2132_triples_raw.json
+CHEM_2132,Alkyne Chemistry,topic,PART_OF,Organic Chemistry II,topic,,,CHEM_2132_triples_raw.json
+CHEM_2132,Aromaticity Fundamentals,topic,PART_OF,Organic Chemistry II,topic,,,CHEM_2132_triples_raw.json
+CHEM_2132,Alkyl Halide Reactions,topic,PART_OF,Organic Chemistry II,topic,,,CHEM_2132_triples_raw.json
+CHEM_2132,Carbonyl Chemistry Basics,topic,PART_OF,Organic Chemistry II,topic,,,CHEM_2132_triples_raw.json
+CHEM_2132,Spectroscopy Fundamentals,topic,PART_OF,Organic Chemistry II,topic,,,CHEM_2132_triples_raw.json

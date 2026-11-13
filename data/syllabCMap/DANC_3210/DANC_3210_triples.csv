@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_3210,alignment,topic,PART_OF,classical ballet technique,topic,,,DANC_3210_triples_raw.json
+DANC_3210,external rotation,concept,PART_OF,classical ballet technique,topic,,,DANC_3210_triples_raw.json
+DANC_3210,jumping concepts,topic,PART_OF,classical ballet technique,topic,,,DANC_3210_triples_raw.json
+DANC_3210,turning concepts,topic,PART_OF,classical ballet technique,topic,,,DANC_3210_triples_raw.json
+DANC_3210,musicality,topic,PART_OF,classical ballet technique,topic,,,DANC_3210_triples_raw.json
+DANC_3210,artistry,topic,PART_OF,classical ballet technique,topic,,,DANC_3210_triples_raw.json
+DANC_3210,shift of weight,concept,PART_OF,classical ballet technique,topic,,,DANC_3210_triples_raw.json
+DANC_3210,shift of weight,concept,PART_OF,alignment,topic,,,DANC_3210_triples_raw.json
+DANC_3210,external rotation,concept,PART_OF,alignment,topic,,,DANC_3210_triples_raw.json

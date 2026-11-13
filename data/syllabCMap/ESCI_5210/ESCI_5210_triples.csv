@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_5210,Soil Genesis Basics,topic,PREREQUISITE_OF,Surficial Processes Overview,topic,A taught first,,ESCI_5210_triples_raw.json
+ESCI_5210,Soil Taxonomy Fundamentals,topic,PREREQUISITE_OF,Soil Morphology Essentials,topic,A taught first,,ESCI_5210_triples_raw.json
+ESCI_5210,soil formation processes,concept,PART_OF,Soil Genesis Basics,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,pedogenesis overview,concept,PART_OF,Soil Genesis Basics,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,weathering and erosion,concept,PART_OF,Soil Genesis Basics,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,soil parent material,concept,PART_OF,Soil Genesis Basics,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,order,concept,PART_OF,Soil Taxonomy Fundamentals,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,suborder,concept,PART_OF,Soil Taxonomy Fundamentals,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,great group,concept,PART_OF,Soil Taxonomy Fundamentals,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,family,concept,PART_OF,Soil Taxonomy Fundamentals,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,series concepts,concept,PART_OF,Soil Taxonomy Fundamentals,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,soil horizon descriptions,concept,PART_OF,Soil Morphology Essentials,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,morphological features identified,concept,PART_OF,Soil Morphology Essentials,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,color and pattern recognition,concept,PART_OF,Soil Morphology Essentials,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,geomorphic processes defined,concept,PART_OF,Surficial Processes Overview,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,deposition,concept,PART_OF,Surficial Processes Overview,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,transport,concept,PART_OF,Surficial Processes Overview,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,landform evolution models,concept,PART_OF,Surficial Processes Overview,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,soil-landscape relationships,concept,PART_OF,Surficial Processes Overview,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,map reading and scale use,concept,PART_OF,Topographic Interpretation,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,topographic features identified,concept,PART_OF,Topographic Interpretation,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,relief and aspect analysis,concept,PART_OF,Topographic Interpretation,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,slope and drainage patterns,concept,PART_OF,Topographic Interpretation,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,geomorphic processes impacting soils,concept,PART_OF,Soil-Geomorphology Connections,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,landform evolution and soil development,concept,PART_OF,Soil-Geomorphology Connections,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,soil morphology and geomorphology interactions,concept,PART_OF,Soil-Geomorphology Connections,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,scientific literature search strategies,concept,PART_OF,Literature Review Fundamentals,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,critical evaluation of research methods,concept,PART_OF,Literature Review Fundamentals,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,current trends in soil science,concept,PART_OF,Literature Review Fundamentals,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,field equipment and safety precautions,concept,PART_OF,Field Techniques and Safety,topic,,,ESCI_5210_triples_raw.json
+ESCI_5210,map reading and navigation skills,concept,PART_OF,Field Techniques and Safety,topic,,,ESCI_5210_triples_raw.json

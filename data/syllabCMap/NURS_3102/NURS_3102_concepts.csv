@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_3102,topic,Nursing Science,Nursing Science,1,verified,Nursing Science,NURS_3102_concepts_raw.json
+NURS_3102,topic,Liberal Education for Baccalaureate Generalist,Liberal Education for Baccalaureate Generalist,1,verified,Liberal Education for Baccalaureate Generalist,NURS_3102_concepts_raw.json
+NURS_3102,topic,Scholarship for Evidence Based Practice,Scholarship for Evidence Based Practice,2,verified,Scholarship for Evidence Based Practice,NURS_3102_concepts_raw.json
+NURS_3102,topic,Professionalism & Professional values,Professionalism & Professional values,3,verified,Professionalism & Professional values,NURS_3102_concepts_raw.json
+NURS_3102,topic,Basic Organizational and Systems Leadership,Basic Organizational and Systems Leadership,1,verified,Basic Organizational and Systems Leadership,NURS_3102_concepts_raw.json
+NURS_3102,topic,Clinical Prevention and Population Health,Clinical Prevention and Population Health,1,verified,Clinical Prevention and Population Health,NURS_3102_concepts_raw.json
+NURS_3102,topic,Value-Based Objectives Essentials of Baccalaureate Education,Value-Based Objectives Essentials of Baccalaureate Education,1,verified,Value-Based Objectives Essentials of Baccalaureate Education,NURS_3102_concepts_raw.json
+NURS_3102,topic,Interprofessional Communication,Interprofessional Communication,2,verified,Interprofessional Communication and Collaboration for Improving Patient Health Outcomes,NURS_3102_concepts_raw.json
+NURS_3102,concept,autonomy,autonomy,1,verified,autonomy,NURS_3102_concepts_raw.json
+NURS_3102,concept,beneficence,beneficence,1,verified,beneficence,NURS_3102_concepts_raw.json
+NURS_3102,concept,nonmaleficence,nonmaleficence,1,verified,nonmaleficence,NURS_3102_concepts_raw.json
+NURS_3102,concept,confidentiality,confidentiality,1,verified,confidentiality,NURS_3102_concepts_raw.json
+NURS_3102,concept,veracity,veracity,1,verified,veracity,NURS_3102_concepts_raw.json
+NURS_3102,concept,fidelity,fidelity,1,verified,fidelity,NURS_3102_concepts_raw.json
+NURS_3102,concept,evidence-based practice,Evidence Based Practice,2,verified,evidence-based practice,NURS_3102_concepts_raw.json
+NURS_3102,concept,health promotion strategies,Health promotion strategies,1,verified,health promotion strategies,NURS_3102_concepts_raw.json
+NURS_3102,concept,cultural competence,cultural competence,1,verified,cultural competence,NURS_3102_concepts_raw.json
+NURS_3102,concept,quality care,Quality Care,1,verified,quality care,NURS_3102_concepts_raw.json
+NURS_3102,concept,patient safety,Patient Safety,1,verified,patient safety,NURS_3102_concepts_raw.json

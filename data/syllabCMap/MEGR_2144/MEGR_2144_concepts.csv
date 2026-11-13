@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2144,concept,indeterminate systems,indeterminate systems,1,verified,indeterminate systems,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,nonlinear material behavior,nonlinear material behavior,1,verified,nonlinear material behavior,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,Mohr's circle for stress,Mohr's circle for stress,1,verified,Mohr's circle for stress,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,deformable solids,deformable solids,1,verified,deformable solids,MEGR_2144_concepts_raw.json
+MEGR_2144,topic,Deformable Solids Engineering Theory,Deformable Solids Engineering Theory,1,inferred,Deformable Solids Engineering Theory,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,statically determinate systems,Statically Determinate Systems,1,inferred,statically determinate systems,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,axial loading stresses,Axial Loading Stresses,1,inferred,axial loading stresses,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,pure bending stresses,Pure Bending Stresses,1,inferred,pure bending stresses,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,transverse shear stresses,Transverse Shear Stresses,1,inferred,transverse shear stresses,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,torsion stresses,Torsion Stresses,1,inferred,torsion stresses,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,linear material behavior,Linear Material Behavior,1,inferred,linear material behavior,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,stress strain relationships,Stress Strain Relationships,1,inferred,stress strain relationships,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,pressure vessel design,Pressure Vessel Design,1,inferred,pressure vessel design,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,thin walled cylinders,Thin Walled Cylinders,1,inferred,thin walled cylinders,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,hoop stresses and longitudinal stresses,Hoop Stresses and Longitudinal Stresses,1,inferred,hoop stresses and longitudinal stresses,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,beam deflection formulas,Beam Deflection Formulas,1,inferred,beam deflection formulas,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,torsional moment diagrams,Torsional Moment Diagrams,1,inferred,torsional moment diagrams,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,bending moment diagrams,Bending Moment Diagrams,1,inferred,bending moment diagrams,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,column buckling modes,Column Buckling Modes,1,inferred,column buckling modes,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,critical load of buckling,Critical Load of Buckling,1,inferred,critical load of buckling,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,boundary conditions for columns,Boundary Conditions for Columns,1,inferred,boundary conditions for columns,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,principal stresses calculation,Principal Stresses Calculation,1,inferred,principal stresses calculation,MEGR_2144_concepts_raw.json
+MEGR_2144,concept,maximum shear stress calculation,Maximum Shear Stress Calculation,1,inferred,maximum shear stress calculation,MEGR_2144_concepts_raw.json

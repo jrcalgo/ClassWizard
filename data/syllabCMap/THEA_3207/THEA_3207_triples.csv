@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_3207,Musical Theatre Genre Overview,concept,PREREQUISITE_OF,Performance Techniques for Musicals,topic,A taught first,,THEA_3207_triples_raw.json
+THEA_3207,Musical Theatre Genre Overview,concept,PART_OF,Musical Theatre,topic,,,THEA_3207_triples_raw.json
+THEA_3207,Acting Techniques for Musicals,topic,PART_OF,Acting for the Musical Theatre,topic,,,THEA_3207_triples_raw.json
+THEA_3207,Script Analysis and Interpretation,topic,PART_OF,Acting for the Musical Theatre,topic,,,THEA_3207_triples_raw.json
+THEA_3207,Researching and Selecting Musicals,topic,PART_OF,Acting for the Musical Theatre,topic,,,THEA_3207_triples_raw.json
+THEA_3207,Multicultural Influences and Social Values,topic,PART_OF,Acting for the Musical Theatre,topic,,,THEA_3207_triples_raw.json
+THEA_3207,Performance Techniques for Musicals,topic,PART_OF,Acting for the Musical Theatre,topic,,,THEA_3207_triples_raw.json
+THEA_3207,Writing and Reflection,topic,PART_OF,Acting for the Musical Theatre,topic,,,THEA_3207_triples_raw.json

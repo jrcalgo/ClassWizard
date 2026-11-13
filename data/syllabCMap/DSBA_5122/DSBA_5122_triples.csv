@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_5122,Visual Reasoning,topic,PART_OF,Data Visualization,topic,,,DSBA_5122_triples_raw.json
+DSBA_5122,principles of interaction,concept,PART_OF,Data Visualization,topic,,,DSBA_5122_triples_raw.json
+DSBA_5122,Information Graphics,topic,PART_OF,Statistical Analysis,topic,,,DSBA_5122_triples_raw.json
+DSBA_5122,Modern Tools,topic,PART_OF,Data Visualization,topic,,,DSBA_5122_triples_raw.json
+DSBA_5122,Developing Effective Visualizations,topic,PART_OF,Data Visualization,topic,,,DSBA_5122_triples_raw.json
+DSBA_5122,Visual Analytics,topic,PART_OF,Data Visualization,topic,,,DSBA_5122_triples_raw.json

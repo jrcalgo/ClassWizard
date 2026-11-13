@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_6102,p-value interpretation,concept,PREREQUISITE_OF,Hypothesis Testing Basics,topic,same unit,,GRAD_6102_triples_raw.json
+GRAD_6102,chi-squared test assumptions,concept,PREREQUISITE_OF,Categorical Data Analysis,topic,same unit,,GRAD_6102_triples_raw.json
+GRAD_6102,categorical data definition,concept,PART_OF,Categorical Data,topic,,,GRAD_6102_triples_raw.json
+GRAD_6102,types of categorical variables,concept,PART_OF,Categorical Data,topic,,,GRAD_6102_triples_raw.json
+GRAD_6102,nominal vs ordinal data,concept,PART_OF,Categorical Data,topic,,,GRAD_6102_triples_raw.json
+GRAD_6102,Bernoulli distribution properties,concept,PART_OF,Probability Distributions,topic,,,GRAD_6102_triples_raw.json
+GRAD_6102,logistic regression model definition,concept,PART_OF,Logistic Regression Fundamentals,topic,,,GRAD_6102_triples_raw.json
+GRAD_6102,chi-squared test assumptions,concept,USED_FOR,Categorical Data Analysis,topic,,,GRAD_6102_triples_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_6240,informed consent,concept,PART_OF,Research Ethics,topic,,,PHIL_6240_triples_raw.json
+PHIL_6240,risk-benefit assessments,concept,PART_OF,Research Ethics,topic,,,PHIL_6240_triples_raw.json
+PHIL_6240,informed consent,concept,USED_FOR,risk-benefit assessments,concept,,,PHIL_6240_triples_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NANO_8001,chemistry research methods,concept,PREREQUISITE_OF,faculty research expertise,concept,A taught first,,NANO_8001_triples_raw.json
+NANO_8001,chemistry research methods,concept,PREREQUISITE_OF,research funding opportunities,concept,A taught first,,NANO_8001_triples_raw.json
+NANO_8001,nanoscience research approaches,concept,PREREQUISITE_OF,dissertation research topics,concept,A taught first,,NANO_8001_triples_raw.json
+NANO_8001,nanoscale science definition,concept,PART_OF,Nanoscale Science,topic,,,NANO_8001_triples_raw.json
+NANO_8001,importance of nanotechnology,concept,PART_OF,Nanoscale Science,topic,,,NANO_8001_triples_raw.json
+NANO_8001,applications in chemistry,concept,PART_OF,Nanoscale Science,topic,,,NANO_8001_triples_raw.json
+NANO_8001,Chemistry and Nanoscale Science,topic,PART_OF,Nanoscale Science,topic,,,NANO_8001_triples_raw.json
+NANO_8001,Selecting a Research Advisor,topic,PART_OF,Chemistry and Nanoscale Science,topic,,,NANO_8001_triples_raw.json
+NANO_8001,Research Opportunities in Chemistry,topic,PART_OF,Chemistry and Nanoscale Science,topic,,,NANO_8001_triples_raw.json
+NANO_8001,Nanoscale Science and Chemistry,topic,PART_OF,Nanoscale Science,topic,,,NANO_8001_triples_raw.json
+NANO_8001,chemical properties at nanoscale,concept,PART_OF,Nanoscale Science and Chemistry,topic,,,NANO_8001_triples_raw.json
+NANO_8001,nanostructured materials synthesis,concept,PART_OF,Nanoscale Science and Chemistry,topic,,,NANO_8001_triples_raw.json
+NANO_8001,nanoparticle characterization methods,concept,PART_OF,Nanoscale Science and Chemistry,topic,,,NANO_8001_triples_raw.json

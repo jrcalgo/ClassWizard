@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_6110,data processing,topic,PART_OF,data analysis,method,,part is broader than whole - check direction,RSCH_6110_triples_raw.json
+RSCH_6110,research methods,topic,PART_OF,data analysis,method,,part is broader than whole - check direction,RSCH_6110_triples_raw.json
+RSCH_6110,central tendency and variability,topic,PART_OF,descriptive statistics,measure,,part is broader than whole - check direction,RSCH_6110_triples_raw.json
+RSCH_6110,frequency distributions,topic,PART_OF,descriptive statistics,measure,,part is broader than whole - check direction,RSCH_6110_triples_raw.json
+RSCH_6110,probability theory,concept,PART_OF,inferential statistics,measure,,part is broader than whole - check direction,RSCH_6110_triples_raw.json
+RSCH_6110,sampling distributions,concept,PART_OF,inferential statistics,measure,,part is broader than whole - check direction,RSCH_6110_triples_raw.json
+RSCH_6110,random variables,concept,PART_OF,inferential statistics,measure,,part is broader than whole - check direction,RSCH_6110_triples_raw.json
+RSCH_6110,hypothesis testing,method,PART_OF,inferential statistics,measure,,,RSCH_6110_triples_raw.json
+RSCH_6110,contingency tables,measure,PART_OF,inferential statistics,measure,,,RSCH_6110_triples_raw.json
+RSCH_6110,correlations,measure,PART_OF,inferential statistics,measure,,,RSCH_6110_triples_raw.json
+RSCH_6110,descriptive statistics,measure,PART_OF,data analysis,method,,,RSCH_6110_triples_raw.json
+RSCH_6110,confidence interval estimation,measure,PART_OF,inferential statistics,measure,,,RSCH_6110_triples_raw.json
+RSCH_6110,simple linear regression,measure,PART_OF,inferential statistics,measure,,,RSCH_6110_triples_raw.json
+RSCH_6110,inferential statistics,measure,SUBTYPE_OF,statistical procedures,method,,,RSCH_6110_triples_raw.json
+RSCH_6110,contingency tables,measure,SUBTYPE_OF,statistical procedures,method,,,RSCH_6110_triples_raw.json
+RSCH_6110,correlations,measure,SUBTYPE_OF,statistical procedures,method,,,RSCH_6110_triples_raw.json
+RSCH_6110,descriptive statistics,measure,SUBTYPE_OF,statistical procedures,method,,,RSCH_6110_triples_raw.json
+RSCH_6110,confidence interval estimation,measure,SUBTYPE_OF,statistical procedures,method,,,RSCH_6110_triples_raw.json
+RSCH_6110,simple linear regression,measure,SUBTYPE_OF,statistical procedures,method,,,RSCH_6110_triples_raw.json
+RSCH_6110,SPSS,method,USED_FOR,data analysis,method,,,RSCH_6110_triples_raw.json

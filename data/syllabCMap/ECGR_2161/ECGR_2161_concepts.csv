@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_2161,topic,Basic Electrical Engineering I,Basic Electrical Engineering I,1,verified,Basic Electrical Engineering I,ECGR_2161_concepts_raw.json
+ECGR_2161,topic,Mechatronics,Mechatronics,1,verified,Mechatronics,ECGR_2161_concepts_raw.json
+ECGR_2161,topic,A.C. Circuits,AC circuits,1,verified,A.C. Circuits,ECGR_2161_concepts_raw.json
+ECGR_2161,topic,Electronic Devices,electronic devices,1,verified,Electronic Devices,ECGR_2161_concepts_raw.json
+ECGR_2161,topic,Signal Conditioning,signal conditioning,1,verified,Signal Conditioning,ECGR_2161_concepts_raw.json
+ECGR_2161,topic,Control of Actuators,control of actuators,1,verified,Control of Actuators,ECGR_2161_concepts_raw.json
+ECGR_2161,topic,DC and AC Circuits,DC and AC circuits,1,verified,DC and AC Circuits,ECGR_2161_concepts_raw.json
+ECGR_2161,topic,Analog and Digital Information,analog and digital information,1,verified,Analog and Digital Information,ECGR_2161_concepts_raw.json
+ECGR_2161,concept,Voltage-Current Relationships,voltage-current relationships,1,verified,Voltage-Current Relationships,ECGR_2161_concepts_raw.json
+ECGR_2161,concept,Power and Energy Losses,Power and Energy Losses,1,verified,Power and Energy Losses,ECGR_2161_concepts_raw.json
+ECGR_2161,concept,Basic Programming Concepts,basic programming concepts,1,verified,Basic Programming Concepts,ECGR_2161_concepts_raw.json
+ECGR_2161,concept,Labview,Labview,1,verified,Labview,ECGR_2161_concepts_raw.json
+ECGR_2161,concept,Arduino,Arduino,1,verified,Arduino,ECGR_2161_concepts_raw.json
+ECGR_2161,tool,Matlab,Matlab,1,verified,Matlab,ECGR_2161_concepts_raw.json
+ECGR_2161,tool,Power Supplies,power supplies,1,verified,Power Supplies,ECGR_2161_concepts_raw.json
+ECGR_2161,tool,Oscilloscopes,oscilloscopes,1,verified,Oscilloscopes,ECGR_2161_concepts_raw.json
+ECGR_2161,tool,Digital Multimeters,digital multimeters,1,verified,Digital Multimeters,ECGR_2161_concepts_raw.json
+ECGR_2161,tool,Function Generators,function generators,1,verified,Function Generators,ECGR_2161_concepts_raw.json

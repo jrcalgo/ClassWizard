@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EMGT_5203,topic,Engineering Management,Engineering Management,2,verified,Engineering Management,EMGT_5203_concepts_raw.json
+EMGT_5203,topic,Engineering Economics,Engineering Economics,3,verified,Engineering Economics,EMGT_5203_concepts_raw.json
+EMGT_5203,topic,Decision and Bayesian Analysis,Decision and Bayesian analysis,1,verified,Decision and Bayesian Analysis,EMGT_5203_concepts_raw.json
+EMGT_5203,topic,Game Theory,Game theory,1,verified,Game Theory,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,opportunity cost definition,Opportunity Cost Definition,1,inferred,opportunity cost definition,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,time value of money,Time Value of Money,1,inferred,time value of money,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,discounted cash flow,Discounted Cash Flow,1,inferred,discounted cash flow,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,break-even point calculation,Break-Even Point Calculation,1,inferred,break-even point calculation,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,payback period method,Payback Period Method,1,inferred,payback period method,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,net present value,Net Present Value,1,inferred,net present value,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,probability distributions overview,Probability Distributions Overview,1,inferred,probability distributions overview,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,Bayes' theorem application,Bayes' Theorem Application,1,inferred,Bayes' theorem application,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,decision trees,Decision Trees,1,inferred,decision trees,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,strategic decision making,Strategic Decision Making,1,inferred,strategic decision making,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,Nash equilibrium concept,Nash Equilibrium Concept,1,inferred,Nash equilibrium concept,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,zero-sum games,Zero-Sum Games,1,inferred,zero-sum games,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,cooperative game theory,Cooperative Game Theory,2,inferred,cooperative game theory,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,non-cooperative game theory,Non-Cooperative Game Theory,1,inferred,non-cooperative game theory,EMGT_5203_concepts_raw.json
+EMGT_5203,concept,Pareto optimality,Pareto Optimality,1,inferred,Pareto optimality,EMGT_5203_concepts_raw.json

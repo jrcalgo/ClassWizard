@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DTSC_8601,research methods in data science,concept,PREREQUISITE_OF,case study methodology in research,concept,A taught first,,DTSC_8601_triples_raw.json
+DTSC_8601,research methods in data science,concept,PREREQUISITE_OF,critical thinking in research,concept,same unit,,DTSC_8601_triples_raw.json
+DTSC_8601,literature analysis techniques,concept,PREREQUISITE_OF,critical thinking in research,concept,same unit,,DTSC_8601_triples_raw.json
+DTSC_8601,data science applications in industry,concept,PART_OF,domain-specific data science challenges,concept,,,DTSC_8601_triples_raw.json
+DTSC_8601,emerging trends in data science,concept,PART_OF,future directions for data science research,concept,,,DTSC_8601_triples_raw.json
+DTSC_8601,innovative applications of data science,concept,PART_OF,future directions for data science research,concept,,,DTSC_8601_triples_raw.json

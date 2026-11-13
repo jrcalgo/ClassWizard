@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSMG_6140,Management Information Systems,concept,PREREQUISITE_OF,Data and Business Intelligence,topic,A taught first,,MSMG_6140_triples_raw.json
+MSMG_6140,Management Information Systems,concept,PREREQUISITE_OF,Protecting Information Resources,topic,A taught first,,MSMG_6140_triples_raw.json
+MSMG_6140,Business Driven MIS,concept,SUBTYPE_OF,Management Information Systems,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,Business Intelligence Tools,concept,SUBTYPE_OF,Data and Business Intelligence,topic,,,MSMG_6140_triples_raw.json
+MSMG_6140,OLAP Cubes,concept,SUBTYPE_OF,Data Warehousing,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,Wired and Wireless Networks,concept,SUBTYPE_OF,Network Topology,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,Internet marketing strategies,concept,SUBTYPE_OF,E-commerce models,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,ERP Implementation,concept,SUBTYPE_OF,Enterprise Systems,topic,,,MSMG_6140_triples_raw.json
+MSMG_6140,Data Mining Techniques,concept,USED_FOR,Data Warehousing,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,Protocols and Standards,concept,USED_FOR,Data Communication,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,Client-Server Model,concept,USED_FOR,Data Communication,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,Error Detection Methods,concept,USED_FOR,Data Communication,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,Bandwidth Management,concept,USED_FOR,Data Communication,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,E-commerce models,concept,USED_FOR,Business Driven MIS,concept,,,MSMG_6140_triples_raw.json
+MSMG_6140,Supply Chain Management,concept,USED_FOR,Enterprise Systems,topic,,,MSMG_6140_triples_raw.json
+MSMG_6140,System Integration,concept,USED_FOR,Enterprise Systems,topic,,,MSMG_6140_triples_raw.json

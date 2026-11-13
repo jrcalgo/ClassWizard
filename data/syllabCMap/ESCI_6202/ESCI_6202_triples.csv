@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_6202,Global Elemental Cycles,concept,PART_OF,Earth Systems Analysis Biogeochemical,topic,,,ESCI_6202_triples_raw.json
+ESCI_6202,Major Crustal Elements,topic,PART_OF,Global Elemental Cycles,concept,,part is broader than whole - check direction,ESCI_6202_triples_raw.json
+ESCI_6202,Atmospheric Oxidizing Capacity,topic,PART_OF,Biogeochemistry,topic,,,ESCI_6202_triples_raw.json

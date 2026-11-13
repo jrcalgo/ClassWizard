@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUPF_1285,topic,Music Notation,music notation,1,verified,Music Notation,MUPF_1285_concepts_raw.json
+MUPF_1285,topic,Guitar Basics,Guitar Basics,1,inferred,Guitar Basics,MUPF_1285_concepts_raw.json
+MUPF_1285,topic,Scales and Arpeggios,Scales and Arpeggios,1,inferred,Scales and Arpeggios,MUPF_1285_concepts_raw.json
+MUPF_1285,topic,Chord Progressions,Chord Progressions,2,inferred,Chord Progressions,MUPF_1285_concepts_raw.json
+MUPF_1285,topic,Music Theory Fundamentals,Music Theory Fundamentals,1,inferred,Music Theory Fundamentals,MUPF_1285_concepts_raw.json
+MUPF_1285,topic,Playing in Ensembles,Playing in Ensembles,1,inferred,Playing in Ensembles,MUPF_1285_concepts_raw.json
+MUPF_1285,concept,major scale patterns on guitar,Major scale patterns on guitar,1,inferred,major scale patterns on guitar,MUPF_1285_concepts_raw.json
+MUPF_1285,concept,pentatonic scale patterns on guitar,Pentatonic scale patterns on guitar,1,inferred,pentatonic scale patterns on guitar,MUPF_1285_concepts_raw.json
+MUPF_1285,concept,arpeggio patterns for chords,Arpeggio patterns for chords,1,inferred,arpeggio patterns for chords,MUPF_1285_concepts_raw.json
+MUPF_1285,concept,open chord shapes and fingerings,Open chord shapes and fingerings,1,inferred,open chord shapes and fingerings,MUPF_1285_concepts_raw.json
+MUPF_1285,concept,basic chord progressions in music,Basic chord progressions in music,1,inferred,basic chord progressions in music,MUPF_1285_concepts_raw.json
+MUPF_1285,concept,strumming and picking techniques,Strumming and picking techniques,1,inferred,strumming and picking techniques,MUPF_1285_concepts_raw.json
+MUPF_1285,concept,key signatures and signatures,key signatures and signatures,1,inferred,key signatures and signatures,MUPF_1285_concepts_raw.json
+MUPF_1285,concept,chord functions and relationships,Chord functions and relationships,1,inferred,chord functions and relationships,MUPF_1285_concepts_raw.json
+MUPF_1285,concept,basic harmony concepts,Basic harmony concepts,1,inferred,basic harmony concepts,MUPF_1285_concepts_raw.json

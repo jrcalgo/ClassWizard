@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_4613,Key Contemporary Issues,concept,PREREQUISITE_OF,Heritage Studies Discipline,concept,same unit,,ARCH_4613_triples_raw.json
+ARCH_4613,Theories of Representation,concept,PREREQUISITE_OF,Commodification of Heritage,concept,same unit,,ARCH_4613_triples_raw.json
+ARCH_4613,Theories of Representation,concept,PREREQUISITE_OF,Valuation of Cultural Assets,concept,same unit,,ARCH_4613_triples_raw.json
+ARCH_4613,Economic Value of Heritage,concept,PREREQUISITE_OF,Cultural Capital Theory,concept,same unit,,ARCH_4613_triples_raw.json
+ARCH_4613,Conservation of Cultural Landmarks,concept,PREREQUISITE_OF,Interpretation of Cultural Practices,concept,same unit,,ARCH_4613_triples_raw.json
+ARCH_4613,Key Contemporary Issues,concept,PART_OF,Heritage,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Heritage Studies Discipline,concept,PART_OF,Heritage,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Interdisciplinary Approaches,concept,PART_OF,Heritage,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Theories of Representation,concept,PART_OF,Representation of the Past,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Commodification of Heritage,concept,PART_OF,Heritage,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Valuation of Cultural Assets,concept,PART_OF,Representation of the Past,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Cultural Capital Theory,concept,PART_OF,Heritage and Commodification,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Tourism and Heritage,concept,PART_OF,Heritage and Commodification,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Conservation of Cultural Landmarks,concept,PART_OF,Tangible vs. Intangible Heritage,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Interpretation of Cultural Practices,concept,PART_OF,Tangible vs. Intangible Heritage,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Materiality and Immateriality,concept,PART_OF,Tangible vs. Intangible Heritage,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Anthropological Perspectives on Heritage,concept,PART_OF,Expertise in Heritage Studies,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Comparative Analysis of Cultural Practices,concept,PART_OF,Analyzing and Comparing Heritage,topic,,,ARCH_4613_triples_raw.json
+ARCH_4613,Describing and Analyzing Heritage Sites,concept,PART_OF,Analyzing and Comparing Heritage,topic,,,ARCH_4613_triples_raw.json

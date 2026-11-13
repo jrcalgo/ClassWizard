@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_3160,topic,Database Design,Database Design,2,verified,Database Design,ITSC_3160_concepts_raw.json
+ITSC_3160,topic,Database Organization,database organization,1,verified,Database Organization,ITSC_3160_concepts_raw.json
+ITSC_3160,topic,Data Models,data models,1,verified,Data Models,ITSC_3160_concepts_raw.json
+ITSC_3160,topic,Secondary Storage Considerations,secondary storage considerations,1,verified,Secondary Storage Considerations,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,database management systems,Database Management Systems,1,inferred,database management systems,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,data models and schemas,Data Models and Schemas,1,inferred,data models and schemas,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,database design principles,Database Design Principles,1,inferred,database design principles,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,SQL syntax and semantics,SQL Syntax and Semantics,1,inferred,SQL syntax and semantics,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,table relationships and constraints,Table Relationships and Constraints,1,inferred,table relationships and constraints,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,indexing and query optimization,Indexing and Query Optimization,1,inferred,indexing and query optimization,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,OODBMS architecture and design,OODBMS Architecture and Design,1,inferred,OODBMS architecture and design,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,class-instance relationship modeling,Class-Instance Relationship Modeling,1,inferred,class-instance relationship modeling,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,inheritance and polymorphism in OODBMS,Inheritance and Polymorphism in OODBMS,1,inferred,inheritance and polymorphism in OODBMS,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,non-relational data storage models,Non-Relational Data Storage Models,1,inferred,non-relational data storage models,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,key-value stores and document-oriented databases,Key-Value Stores and Document-Oriented Databases,1,inferred,key-value stores and document-oriented databases,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,graph and column-family stores,Graph and Column-Family Stores,1,inferred,graph and column-family stores,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,data normalization and denormalization,Data Normalization and Denormalization,1,inferred,data normalization and denormalization,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,entity-relationship modeling techniques,Entity-Relationship Modeling Techniques,1,inferred,entity-relationship modeling techniques,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,database schema evolution strategies,Database Schema Evolution Strategies,1,inferred,database schema evolution strategies,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,storage devices and file systems,Storage Devices and File Systems,1,inferred,storage devices and file systems,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,indexing and clustering techniques,Indexing and Clustering Techniques,1,inferred,indexing and clustering techniques,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,query optimization and execution plans,Query Optimization and Execution Plans,1,inferred,query optimization and execution plans,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,data backup and recovery strategies,Data Backup and Recovery Strategies,1,inferred,data backup and recovery strategies,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,database replication and partitioning,Database Replication and Partitioning,1,inferred,database replication and partitioning,ITSC_3160_concepts_raw.json
+ITSC_3160,concept,storage resource management and monitoring,Storage Resource Management and Monitoring,1,inferred,storage resource management and monitoring,ITSC_3160_concepts_raw.json

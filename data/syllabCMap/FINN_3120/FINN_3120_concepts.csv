@@ -1,0 +1,50 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_3120,topic,Financial Management,Financial management,4,verified,Financial Management,FINN_3120_concepts_raw.json
+FINN_3120,concept,Time Value of Money,time value of money,22,verified,Time Value of Money,FINN_3120_concepts_raw.json
+FINN_3120,concept,Financial Statement Analysis,financial statement analysis,19,verified,Financial Statement Analysis,FINN_3120_concepts_raw.json
+FINN_3120,concept,Working Capital Management,working capital management,18,verified,Working Capital Management,FINN_3120_concepts_raw.json
+FINN_3120,concept,Pricing Risks,Pricing Risks,1,verified,Pricing Risks,FINN_3120_concepts_raw.json
+FINN_3120,concept,Financial Statements,Financial Statements,2,verified,Financial Statements,FINN_3120_concepts_raw.json
+FINN_3120,concept,Ratio Analysis Techniques,Ratio Analysis Techniques,1,verified,Ratio Analysis Techniques,FINN_3120_concepts_raw.json
+FINN_3120,concept,Balance Sheet Components,Balance Sheet Components,1,verified,Balance Sheet Components,FINN_3120_concepts_raw.json
+FINN_3120,concept,Income Statement Analysis,Income Statement Analysis,1,verified,Income Statement Analysis,FINN_3120_concepts_raw.json
+FINN_3120,concept,Cash Flow Statements,Cash Flow Statements,1,verified,Cash Flow Statements,FINN_3120_concepts_raw.json
+FINN_3120,concept,Accounting Equation Basics,Accounting Equation Basics,1,verified,Accounting Equation Basics,FINN_3120_concepts_raw.json
+FINN_3120,concept,Financial Statement Interpretation,Financial Statement Interpretation,1,verified,Financial Statement Interpretation,FINN_3120_concepts_raw.json
+FINN_3120,concept,Common Size Statements,Common Size Statements,1,verified,Common Size Statements,FINN_3120_concepts_raw.json
+FINN_3120,concept,Trend Analysis Methods,Trend Analysis Methods,1,verified,Trend Analysis Methods,FINN_3120_concepts_raw.json
+FINN_3120,concept,Present Value Formula,Present Value Formula,3,verified,Present Value Formula,FINN_3120_concepts_raw.json
+FINN_3120,concept,Future Value Calculation,Future Value Calculations,1,verified,Future Value Calculation,FINN_3120_concepts_raw.json
+FINN_3120,concept,Discount Rate Concept,Discount Rate Concept,1,verified,Discount Rate Concept,FINN_3120_concepts_raw.json
+FINN_3120,concept,Net Present Value,Net Present Value,2,verified,Net Present Value,FINN_3120_concepts_raw.json
+FINN_3120,concept,Internal Rate of Return,Internal Rate of Return,1,verified,Internal Rate of Return,FINN_3120_concepts_raw.json
+FINN_3120,concept,Cash Flow Patterns,Cash Flow Patterns,1,verified,Cash Flow Patterns,FINN_3120_concepts_raw.json
+FINN_3120,concept,Annuity Types and Schedules,Annuity Types and Schedules,1,verified,Annuity Types and Schedules,FINN_3120_concepts_raw.json
+FINN_3120,concept,Perpetuity Valuation,Perpetuity Valuation,1,verified,Perpetuity Valuation,FINN_3120_concepts_raw.json
+FINN_3120,concept,Equity Market,Equity Market,2,verified,Equity Market,FINN_3120_concepts_raw.json
+FINN_3120,concept,Stock Valuation Models,Stock Valuation Models,1,verified,Stock Valuation Models,FINN_3120_concepts_raw.json
+FINN_3120,concept,Dividend Discount Model,Dividend Discount Model,1,verified,Dividend Discount Model,FINN_3120_concepts_raw.json
+FINN_3120,concept,Capital Asset Pricing,Capital Asset Pricing,4,verified,Capital Asset Pricing,FINN_3120_concepts_raw.json
+FINN_3120,concept,Beta Coefficient Calculation,Beta Coefficient Calculation,2,verified,Beta Coefficient Calculation,FINN_3120_concepts_raw.json
+FINN_3120,concept,Efficient Market Hypothesis,Efficient Market Hypothesis,1,verified,Efficient Market Hypothesis,FINN_3120_concepts_raw.json
+FINN_3120,concept,Risk Premium Estimation,Risk Premium Estimation,1,verified,Risk Premium Estimation,FINN_3120_concepts_raw.json
+FINN_3120,concept,Gordon Growth Model,Gordon Growth Model,1,verified,Gordon Growth Model,FINN_3120_concepts_raw.json
+FINN_3120,concept,Required Rate of Return,Required Rate of Return,1,verified,Required Rate of Return,FINN_3120_concepts_raw.json
+FINN_3120,concept,Interest Rates and Bond Valuation,Interest Rates and Bond Valuation,1,verified,Interest Rates and Bond Valuation,FINN_3120_concepts_raw.json
+FINN_3120,concept,Yield Curve Analysis,Yield Curve Analysis,1,verified,Yield Curve Analysis,FINN_3120_concepts_raw.json
+FINN_3120,concept,Zero-Coupon Bonds,Zero-Coupon Bonds,1,verified,Zero-Coupon Bonds,FINN_3120_concepts_raw.json
+FINN_3120,concept,Coupon Payments,Coupon Payments,1,verified,Coupon Payments,FINN_3120_concepts_raw.json
+FINN_3120,concept,NPV,NPV,1,verified,NPV,FINN_3120_concepts_raw.json
+FINN_3120,topic,Capital Market History,Capital Market History,1,verified,Capital Market History,FINN_3120_concepts_raw.json
+FINN_3120,concept,Arbitrage Pricing Model,Arbitrage Pricing Model,1,verified,Arbitrage Pricing Model,FINN_3120_concepts_raw.json
+FINN_3120,concept,Capital Asset Pricing Model,Capital Asset Pricing Model,3,verified,Capital Asset Pricing Model,FINN_3120_concepts_raw.json
+FINN_3120,concept,Risk and Return Tradeoff,Risk and Return Tradeoff,1,verified,Risk and Return Tradeoff,FINN_3120_concepts_raw.json
+FINN_3120,concept,Systematic Risk Definition,Systematic Risk Definition,1,verified,Systematic Risk Definition,FINN_3120_concepts_raw.json
+FINN_3120,concept,Portfolio Diversification Theory,Portfolio Diversification Theory,1,verified,Portfolio Diversification Theory,FINN_3120_concepts_raw.json
+FINN_3120,concept,Security Market Line Concept,Security Market Line Concept,1,verified,Security Market Line Concept,FINN_3120_concepts_raw.json
+FINN_3120,concept,Market Risk Premium Estimate,Market Risk Premium Estimate,1,verified,Market Risk Premium Estimate,FINN_3120_concepts_raw.json
+FINN_3120,concept,Cost of Capital,Cost of Capital,1,verified,Cost of Capital,FINN_3120_concepts_raw.json
+FINN_3120,concept,Weighted Average Cost,Weighted Average Cost,1,verified,Weighted Average Cost,FINN_3120_concepts_raw.json
+FINN_3120,concept,Capital Structure Theory,Capital Structure Theory,1,verified,Capital Structure Theory,FINN_3120_concepts_raw.json
+FINN_3120,concept,Risk Premium Calculation,Risk Premium Calculation,1,verified,Risk Premium Calculation,FINN_3120_concepts_raw.json
+FINN_3120,concept,Discount Rate Estimation,Discount Rate Estimation,1,verified,Discount Rate Estimation,FINN_3120_concepts_raw.json

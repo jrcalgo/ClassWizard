@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITAI_5160,NoSQL databases,concept,PREREQUISITE_OF,building AI workflows,method,A taught first,,ITAI_5160_triples_raw.json
+ITAI_5160,AI data lifecycle,concept,PART_OF,Databases and Cloud for AI,topic,,,ITAI_5160_triples_raw.json
+ITAI_5160,Cloud-Based Data Pipelines,topic,PART_OF,Databases and Cloud for AI,topic,,,ITAI_5160_triples_raw.json
+ITAI_5160,End-to-End AI Data Architectures,topic,PART_OF,Databases and Cloud for AI,topic,,,ITAI_5160_triples_raw.json
+ITAI_5160,ETL pipelines,concept,PART_OF,Distributed Data Processing,topic,,,ITAI_5160_triples_raw.json

@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AFRS_3290,Literature discovery,method,PREREQUISITE_OF,Research design,method,A taught first,,AFRS_3290_triples_raw.json
+AFRS_3290,Research design,method,PREREQUISITE_OF,Data organization,method,A mentioned first,,AFRS_3290_triples_raw.json
+AFRS_3290,Data organization,method,PREREQUISITE_OF,Preliminary qualitative analysis,method,A mentioned first,,AFRS_3290_triples_raw.json
+AFRS_3290,Preliminary qualitative analysis,method,PREREQUISITE_OF,Independent research,method,B mentioned first,,AFRS_3290_triples_raw.json
+AFRS_3290,AI tools,tool,USED_FOR,Literature discovery,method,,,AFRS_3290_triples_raw.json
+AFRS_3290,AI tools,tool,USED_FOR,Research design,method,,,AFRS_3290_triples_raw.json
+AFRS_3290,AI tools,tool,USED_FOR,Data organization,method,,,AFRS_3290_triples_raw.json
+AFRS_3290,AI tools,tool,USED_FOR,Preliminary qualitative analysis,method,,,AFRS_3290_triples_raw.json

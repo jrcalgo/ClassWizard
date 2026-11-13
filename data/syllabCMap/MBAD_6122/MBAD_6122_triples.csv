@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6122,Linear Programming,topic,PREREQUISITE_OF,Nonlinear Programming,topic,A taught first,,MBAD_6122_triples_raw.json
+MBAD_6122,Linear Programming,topic,PREREQUISITE_OF,Integer Programming,topic,A taught first,,MBAD_6122_triples_raw.json
+MBAD_6122,Linear Programming,topic,PREREQUISITE_OF,Goal Programming,topic,A taught first,,MBAD_6122_triples_raw.json
+MBAD_6122,Nonlinear Programming,topic,PREREQUISITE_OF,Integer Programming,topic,A taught first,,MBAD_6122_triples_raw.json
+MBAD_6122,Nonlinear Programming,topic,PREREQUISITE_OF,Goal Programming,topic,A taught first,,MBAD_6122_triples_raw.json
+MBAD_6122,Integer Programming,topic,PREREQUISITE_OF,Goal Programming,topic,same unit,,MBAD_6122_triples_raw.json
+MBAD_6122,Linear Programming,topic,PART_OF,Decision Modeling and Analysis,topic,,,MBAD_6122_triples_raw.json
+MBAD_6122,Nonlinear Programming,topic,PART_OF,Decision Modeling and Analysis,topic,,,MBAD_6122_triples_raw.json
+MBAD_6122,Integer Programming,topic,PART_OF,Decision Modeling and Analysis,topic,,,MBAD_6122_triples_raw.json
+MBAD_6122,Goal Programming,topic,PART_OF,Decision Modeling and Analysis,topic,,,MBAD_6122_triples_raw.json
+MBAD_6122,Multi-Criteria Decision Making,topic,PART_OF,Decision Modeling and Analysis,topic,,,MBAD_6122_triples_raw.json
+MBAD_6122,Sensitivity Analysis,topic,PART_OF,Model Interpretation,topic,,,MBAD_6122_triples_raw.json

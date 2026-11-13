@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_3141,roles and functions of clinical psychologists,concept,PREREQUISITE_OF,evidence-based practice,method,A taught first,,PSYC_3141_triples_raw.json
+PSYC_3141,clinical observation,method,PART_OF,Clinical Psychology,topic,,,PSYC_3141_triples_raw.json
+PSYC_3141,diagnostic reasoning,method,PART_OF,Clinical Psychology,topic,,,PSYC_3141_triples_raw.json
+PSYC_3141,evidence-based practice,method,PART_OF,Clinical Psychology,topic,,,PSYC_3141_triples_raw.json
+PSYC_3141,biopsychosocial case conceptualization,method,PART_OF,Clinical Psychology,topic,,,PSYC_3141_triples_raw.json
+PSYC_3141,clinical observation,method,USED_FOR,diagnostic reasoning,method,,,PSYC_3141_triples_raw.json
+PSYC_3141,clinical observation,method,USED_FOR,biopsychosocial case conceptualization,method,,,PSYC_3141_triples_raw.json
+PSYC_3141,diagnostic reasoning,method,USED_FOR,biopsychosocial case conceptualization,method,,,PSYC_3141_triples_raw.json

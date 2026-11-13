@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_8284,topic,Advanced Surface Metrology,Advanced Surface Metrology,1,verified,Advanced Surface Metrology,MEGR_8284_concepts_raw.json
+MEGR_8284,topic,Transforms for Filtering,transforms for filtering,1,verified,Transforms for Filtering,MEGR_8284_concepts_raw.json
+MEGR_8284,topic,Surface Texture as Fingerprint,surface texture as fingerprint,1,verified,Surface Texture as Fingerprint,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,random process analysis techniques,Random process analysis techniques,1,verified,random process analysis techniques,MEGR_8284_concepts_raw.json
+MEGR_8284,topic,Surface Metrology Fundamentals,Surface Metrology Fundamentals,1,inferred,Surface Metrology Fundamentals,MEGR_8284_concepts_raw.json
+MEGR_8284,topic,Advanced Surface Metrology Methods,Advanced Surface Metrology Methods,1,inferred,Advanced Surface Metrology Methods,MEGR_8284_concepts_raw.json
+MEGR_8284,topic,Surface Texture Analysis,Surface Texture Analysis,1,inferred,Surface Texture Analysis,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,surface texture constituents,Surface Texture Constituents,1,inferred,surface texture constituents,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,stylus measurement principles,Stylus Measurement Principles,1,inferred,stylus measurement principles,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,optical microscope basics,Optical Microscope Basics,1,inferred,optical microscope basics,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,atomic force microscopy,Atomic Force Microscopy,1,inferred,atomic force microscopy,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,two-dimensional measurements,Two-Dimensional Measurements,1,inferred,two-dimensional measurements,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,separation of form and roughness,Separation of Form and Roughness,1,inferred,separation of form and roughness,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,waviness and roughness analysis,Waviness and Roughness Analysis,1,inferred,waviness and roughness analysis,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,use of transforms in metrology,Use of Transforms in Metrology,1,inferred,use of transforms in metrology,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,filtering surface texture data,Filtering Surface Texture Data,1,inferred,filtering surface texture data,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,numerical evaluation methods,Numerical Evaluation Methods,1,inferred,numerical evaluation methods,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,process identification through texture,Process Identification through Texture,1,inferred,process identification through texture,MEGR_8284_concepts_raw.json
+MEGR_8284,concept,relationship between function and texture,Relationship between Function and Texture,1,inferred,relationship between function and texture,MEGR_8284_concepts_raw.json

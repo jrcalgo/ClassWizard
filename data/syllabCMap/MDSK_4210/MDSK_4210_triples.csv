@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_4210,school discipline practices,concept,PREREQUISITE_OF,effective classroom management principles,concept,A taught first,,MDSK_4210_triples_raw.json
+MDSK_4210,school discipline practices,concept,PREREQUISITE_OF,misconceptions about school discipline disportionality,concept,A taught first,,MDSK_4210_triples_raw.json
+MDSK_4210,critically reflecting,method,USED_FOR,Classroom Management,topic,,,MDSK_4210_triples_raw.json
+MDSK_4210,identifying,method,USED_FOR,effective classroom management principles,concept,,,MDSK_4210_triples_raw.json
+MDSK_4210,creating a Professional and Classroom Leadership plan,method,USED_FOR,professional and classroom leadership,concept,,,MDSK_4210_triples_raw.json

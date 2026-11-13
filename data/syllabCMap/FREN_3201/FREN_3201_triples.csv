@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FREN_3201,Conditional mood,concept,PREREQUISITE_OF,Passive voice,concept,same unit,,FREN_3201_triples_raw.json
+FREN_3201,Subjunctive mood,concept,PART_OF,Grammar Review 2,topic,,,FREN_3201_triples_raw.json
+FREN_3201,Conditional mood,concept,PART_OF,Grammar Review 2,topic,,,FREN_3201_triples_raw.json
+FREN_3201,Passive voice,concept,PART_OF,Grammar Review 3,topic,,,FREN_3201_triples_raw.json
+FREN_3201,Phonetics and pronunciation,concept,PART_OF,French Spoken Language,topic,,,FREN_3201_triples_raw.json
+FREN_3201,Spoken language characteristics,concept,PART_OF,French Spoken Language,topic,,,FREN_3201_triples_raw.json
+FREN_3201,Film analysis techniques,concept,PART_OF,Analyzing French Films,topic,,,FREN_3201_triples_raw.json
+FREN_3201,Thematic vocabulary,concept,PART_OF,Vocabulary Building 1,topic,,,FREN_3201_triples_raw.json
+FREN_3201,Idiomatic expressions,concept,PART_OF,Vocabulary Building 2,topic,,,FREN_3201_triples_raw.json
+FREN_3201,Figurative language,concept,PART_OF,Vocabulary Building 3,topic,,,FREN_3201_triples_raw.json

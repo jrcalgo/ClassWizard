@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_8300,design principles,concept,PART_OF,Human-Centered Design,topic,,,ITIS_8300_triples_raw.json
+ITIS_8300,need finding,concept,PART_OF,Human-Centered Design,topic,,,ITIS_8300_triples_raw.json
+ITIS_8300,design prototypes,concept,PART_OF,Human-Centered Design,topic,,,ITIS_8300_triples_raw.json
+ITIS_8300,usability,topic,PART_OF,user experience,topic,,,ITIS_8300_triples_raw.json
+ITIS_8300,user experience,topic,PART_OF,human-computer interaction,topic,,,ITIS_8300_triples_raw.json
+ITIS_8300,design principles,concept,USED_FOR,Human-Centered Design,topic,,,ITIS_8300_triples_raw.json
+ITIS_8300,need finding,concept,USED_FOR,Human-Centered Design,topic,,,ITIS_8300_triples_raw.json
+ITIS_8300,design prototypes,concept,USED_FOR,Human-Centered Design,topic,,,ITIS_8300_triples_raw.json

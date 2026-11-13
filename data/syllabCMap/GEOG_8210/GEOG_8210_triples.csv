@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_8210,Global and Local Changes,concept,PREREQUISITE_OF,Global City Hypothesis,concept,A taught first,,GEOG_8210_triples_raw.json
+GEOG_8210,Social Change and Migration,concept,PREREQUISITE_OF,Inequality and Social Exclusion,concept,A taught first,,GEOG_8210_triples_raw.json
+GEOG_8210,Urban Transformation Processes,concept,PART_OF,Restructuring City,topic,,,GEOG_8210_triples_raw.json
+GEOG_8210,Post-Fordist Urban Development,concept,PART_OF,"Economic, Social, State Factors",topic,,,GEOG_8210_triples_raw.json
+GEOG_8210,Global City Hypothesis,concept,PART_OF,"Economic, Social, State Factors",topic,,,GEOG_8210_triples_raw.json
+GEOG_8210,Economic Downturn and Upturn,concept,PART_OF,"Economic, Social, State Factors",topic,,,GEOG_8210_triples_raw.json
+GEOG_8210,State Policy and Intervention,concept,PART_OF,"Economic, Social, State Factors",topic,,,GEOG_8210_triples_raw.json
+GEOG_8210,Social Change and Migration,concept,PART_OF,"Economic, Social, State Factors",topic,,,GEOG_8210_triples_raw.json

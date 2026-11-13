@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHIL_3222,topic,Geog 3000,Geog 3000,2,verified,Geog 3000,PHIL_3222_concepts_raw.json
+PHIL_3222,topic,Environmental Predicament,environmental predicament,3,verified,Introduction to Environmental Predicament,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,Planetary boundaries,planetary boundaries,1,verified,Planetary boundaries,PHIL_3222_concepts_raw.json
+PHIL_3222,topic,Frameworks for Understanding Nature,Frameworks for Understanding Nature,1,inferred,Frameworks for Understanding Nature,PHIL_3222_concepts_raw.json
+PHIL_3222,topic,Planetary Boundaries and Limits,Planetary Boundaries and Limits,1,inferred,Planetary Boundaries and Limits,PHIL_3222_concepts_raw.json
+PHIL_3222,topic,"Energy, Resources, and Consumption","Energy, Resources, and Consumption",1,inferred,"Energy, Resources, and Consumption",PHIL_3222_concepts_raw.json
+PHIL_3222,topic,Biodiversity Loss and Conservation,Biodiversity Loss and Conservation,1,inferred,Biodiversity Loss and Conservation,PHIL_3222_concepts_raw.json
+PHIL_3222,topic,Human Values and Environmental Ethics,Human Values and Environmental Ethics,1,inferred,Human Values and Environmental Ethics,PHIL_3222_concepts_raw.json
+PHIL_3222,topic,Comparing Frameworks and Approaches,Comparing Frameworks and Approaches,1,inferred,Comparing Frameworks and Approaches,PHIL_3222_concepts_raw.json
+PHIL_3222,topic,Creative Solutions to Environmental Predicament,Creative Solutions to Environmental Predicament,1,inferred,Creative Solutions to Environmental Predicament,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,energy consumption patterns,Energy Consumption Patterns,1,inferred,energy consumption patterns,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,biodiversity loss consequences,Biodiversity Loss Consequences,1,inferred,biodiversity loss consequences,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,resource extraction impacts,Resource Extraction Impacts,1,inferred,resource extraction impacts,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,carrying capacity concept,Carrying Capacity Concept,1,inferred,carrying capacity concept,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,ecological footprint analysis,Ecological Footprint Analysis,1,inferred,ecological footprint analysis,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,sustainability challenges,Sustainability Challenges,1,inferred,sustainability challenges,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,fossil fuel dependence issues,Fossil Fuel Dependence Issues,1,inferred,fossil fuel dependence issues,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,renewable energy alternatives,Renewable Energy Alternatives,1,inferred,renewable energy alternatives,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,resource depletion risks,Resource Depletion Risks,1,inferred,resource depletion risks,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,species extinction consequences,Species Extinction Consequences,1,inferred,species extinction consequences,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,ecosystem services importance,Ecosystem Services Importance,1,inferred,ecosystem services importance,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,conservation strategies,Conservation Strategies,1,inferred,conservation strategies,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,environmental ethics theories,Environmental Ethics Theories,1,inferred,environmental ethics theories,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,human-nature relationship models,Human-Nature Relationship Models,1,inferred,human-nature relationship models,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,value-based decision making,Value-Based Decision Making,1,inferred,value-based decision making,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,advantages of different frameworks,Advantages of Different Frameworks,1,inferred,advantages of different frameworks,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,disadvantages of each approach,Disadvantages of Each Approach,1,inferred,disadvantages of each approach,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,framework evaluation criteria,Framework Evaluation Criteria,1,inferred,framework evaluation criteria,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,innovative problem-solving strategies,Innovative Problem-Solving Strategies,1,inferred,innovative problem-solving strategies,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,sustainable development goals,Sustainable Development Goals,1,inferred,sustainable development goals,PHIL_3222_concepts_raw.json
+PHIL_3222,concept,environmental stewardship practices,Environmental Stewardship Practices,1,inferred,environmental stewardship practices,PHIL_3222_concepts_raw.json

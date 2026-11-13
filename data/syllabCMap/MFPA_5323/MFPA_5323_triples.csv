@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MFPA_5323,customer service,topic,PREREQUISITE_OF,emergency services administration,topic,A mentioned first,,MFPA_5323_triples_raw.json
+MFPA_5323,ethics,topic,PREREQUISITE_OF,emergency services administration,topic,A mentioned first,,MFPA_5323_triples_raw.json
+MFPA_5323,public policy,topic,PREREQUISITE_OF,emergency services administration,topic,A mentioned first,,MFPA_5323_triples_raw.json

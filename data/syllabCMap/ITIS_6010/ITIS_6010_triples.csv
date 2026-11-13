@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_6010,Python,tool,PREREQUISITE_OF,Machine Learning Methods,topic,A taught first,,ITIS_6010_triples_raw.json
+ITIS_6010,Python,tool,PART_OF,Machine Learning Methods,topic,,,ITIS_6010_triples_raw.json
+ITIS_6010,Scikit-Learn,tool,PART_OF,Applied Machine Learning,topic,,,ITIS_6010_triples_raw.json
+ITIS_6010,TensorFlow,tool,PART_OF,Applied Machine Learning,topic,,,ITIS_6010_triples_raw.json
+ITIS_6010,Scikit-Learn,tool,USED_FOR,Machine Learning Methods,topic,,,ITIS_6010_triples_raw.json

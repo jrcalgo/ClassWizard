@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ANTH 2141 - Introduction to Biological Anthropology - concept map</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:#222;background:#fff}
+ header{padding:12px 16px;border-bottom:1px solid #ddd}
+ h1{font-size:18px;margin:0 0 4px} .sub{color:#666;font-size:13px}
+ #map{height:72vh;border-bottom:1px solid #ddd}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;padding:8px 16px;font-size:12px}
+ .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+ .ln{display:inline-block;width:18px;height:3px;margin-right:5px;vertical-align:3px}
+ section{padding:8px 16px 24px} h2{font-size:15px;margin:16px 0 6px}
+ table{border-collapse:collapse;font-size:13px} td,th{border:1px solid #ddd;padding:3px 8px;text-align:left}
+ th{background:#f5f5f5} #err{display:none;padding:16px;color:#a00}
+</style></head><body>
+<header><h1>ANTH 2141 - Introduction to Biological Anthropology</h1><div class="sub">7 concepts, 6 relations &middot; drag to move, scroll to zoom, hover for details</div></header>
+<div id="err">The interactive map needs internet access to load its drawing library (unpkg.com).
+Open ANTH_2141_graph.png instead; the tables below list the same content.</div>
+<div id="map"></div>
+<div class="legend"><span><span class='sw' style='background:#4C78A8'></span>topic</span><span><span class='ln' style='background:#D62728'></span>PREREQUISITE_OF</span><span class='sub'>dashed border = not verified in the syllabus text</span></div>
+<section><h2>Relations</h2><table><tr><th>subject</th><th>relation</th><th>object</th></tr><tr><td>Evolutionary theory</td><td>PREREQUISITE_OF</td><td>primate and human evolution</td></tr><tr><td>Evolutionary theory</td><td>PREREQUISITE_OF</td><td>population genetics</td></tr><tr><td>Evolutionary theory</td><td>PREREQUISITE_OF</td><td>human variation</td></tr><tr><td>Evolutionary theory</td><td>PREREQUISITE_OF</td><td>bioethics</td></tr><tr><td>primates</td><td>PREREQUISITE_OF</td><td>primate and human evolution</td></tr><tr><td>primates</td><td>PREREQUISITE_OF</td><td>osteology</td></tr></table><h2>Concepts</h2><table><tr><th>concept</th><th>type</th><th>status</th><th>occurrences</th></tr><tr><td>bioethics</td><td>topic</td><td>verified</td><td>2</td></tr><tr><td>Evolutionary theory</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>human variation</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>osteology</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>population genetics</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>primate and human evolution</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>primates</td><td>topic</td><td>verified</td><td>2</td></tr></table></section>
+<script>
+const DATA = {"nodes": [{"id": "evolutionary theory", "label": "Evolutionary theory", "title": "Evolutionary theory\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 599.9999999999999, "y": -170.0}, {"id": "primates", "label": "primates", "title": "primates\ntype: topic\nstatus: verified\noccurrences in syllabus: 2", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 300.0, "y": -170.0}, {"id": "primate and human evolution", "label": "primate and human evolution", "title": "primate and human evolution\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 500.0, "y": -0.0}, {"id": "bioethics", "label": "bioethics", "title": "bioethics\ntype: topic\nstatus: verified\noccurrences in syllabus: 2", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 300.0, "y": -0.0}, {"id": "population genetics", "label": "population genetics", "title": "population genetics\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 900.0, "y": -0.0}, {"id": "human variation", "label": "human variation", "title": "human variation\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 700.0, "y": -0.0}, {"id": "osteology", "label": "osteology", "title": "osteology\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 100.0, "y": -0.0}], "edges": [{"from": "evolutionary theory", "to": "primate and human evolution", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": false}, "title": "Evolutionary theory PREREQUISITE_OF primate and human evolution"}, {"from": "evolutionary theory", "to": "population genetics", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": false}, "title": "Evolutionary theory PREREQUISITE_OF population genetics"}, {"from": "evolutionary theory", "to": "human variation", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": false}, "title": "Evolutionary theory PREREQUISITE_OF human variation"}, {"from": "evolutionary theory", "to": "bioethics", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": false}, "title": "Evolutionary theory PREREQUISITE_OF bioethics"}, {"from": "primates", "to": "primate and human evolution", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": false}, "title": "primates PREREQUISITE_OF primate and human evolution"}, {"from": "primates", "to": "osteology", "label": "PREREQUISITE_OF", "color": "#D62728", "smooth": {"enabled": false}, "title": "primates PREREQUISITE_OF osteology"}]};
+if (typeof vis === "undefined") { document.getElementById("err").style.display = "block";
+  document.getElementById("map").style.display = "none"; }
+else {
+  const nodes = new vis.DataSet(DATA.nodes), edges = new vis.DataSet(DATA.edges);
+  const net = new vis.Network(document.getElementById("map"), {nodes, edges}, {
+    nodes: {shape: "box", margin: 8, font: {color: "#fff", size: 14}, widthConstraint: {maximum: 180}},
+    edges: {arrows: {to: {enabled: true, scaleFactor: 0.7}}, font: {size: 11, align: "middle",
+            background: "rgba(255,255,255,0.85)", multi: false}, width: 1.6},
+    physics: false,          // positions come from the same layered layout as the PNG
+    layout: {improvedLayout: false},
+    interaction: {hover: true, tooltipDelay: 120}
+  });
+  net.once("afterDrawing", () => net.fit());
+}
+</script></body></html>

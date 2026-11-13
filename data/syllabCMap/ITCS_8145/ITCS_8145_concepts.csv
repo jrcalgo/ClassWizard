@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_8145,topic,Parallel Computing,Parallel Computing,5,verified,Parallel Computing,ITCS_8145_concepts_raw.json
+ITCS_8145,topic,Shared-Memory Programming Models,shared-memory programming models,1,verified,Shared-Memory Programming Models,ITCS_8145_concepts_raw.json
+ITCS_8145,topic,Performance Optimization Strategies,performance optimization strategies,1,verified,Performance Optimization Strategies,ITCS_8145_concepts_raw.json
+ITCS_8145,concept,parallel architectures,parallel architectures,1,verified,parallel architectures,ITCS_8145_concepts_raw.json
+ITCS_8145,concept,concurrency,concurrency,2,verified,concurrency,ITCS_8145_concepts_raw.json
+ITCS_8145,concept,synchronization,synchronization,1,verified,synchronization,ITCS_8145_concepts_raw.json
+ITCS_8145,concept,performance analysis,performance analysis,1,verified,performance analysis,ITCS_8145_concepts_raw.json
+ITCS_8145,tool,C/C++,C/C++,1,verified,C/C++,ITCS_8145_concepts_raw.json
+ITCS_8145,tool,Linux environment,Linux environment,1,verified,Linux environment,ITCS_8145_concepts_raw.json
+ITCS_8145,tool,git,git,1,verified,git,ITCS_8145_concepts_raw.json
+ITCS_8145,tool,ssh/scp,ssh/scp,1,verified,ssh/scp,ITCS_8145_concepts_raw.json
+ITCS_8145,tool,build systems,build systems,1,verified,build systems,ITCS_8145_concepts_raw.json
+ITCS_8145,tool,Parallel Programming in C with MPI,Parallel Programming in C with MPI,1,verified,Parallel Programming in C with MPI and OpenMP (book),ITCS_8145_concepts_raw.json

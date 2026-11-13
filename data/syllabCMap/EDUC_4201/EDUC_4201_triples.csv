@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDUC_4201,Behaviorist Perspective,concept,PREREQUISITE_OF,Cognitive Development,concept,same unit,,EDUC_4201_triples_raw.json
+EDUC_4201,Behaviorist Perspective,concept,PREREQUISITE_OF,Social Constructivism,concept,same unit,,EDUC_4201_triples_raw.json
+EDUC_4201,Physical Growth Stages,concept,PREREQUISITE_OF,Cognitive Abilities Formation,concept,same unit,,EDUC_4201_triples_raw.json
+EDUC_4201,Formative Assessment Methods,concept,PREREQUISITE_OF,Summative Evaluation Criteria,concept,same unit,,EDUC_4201_triples_raw.json
+EDUC_4201,Role of Educators,concept,PART_OF,Educational Philosophy,topic,,,EDUC_4201_triples_raw.json
+EDUC_4201,Importance of Learning,concept,PART_OF,Educational Philosophy,topic,,,EDUC_4201_triples_raw.json

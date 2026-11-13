@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HSMT_2104,Healthcare disparities reduction,topic,PREREQUISITE_OF,Health equity,concept,B taught first,B is taught before A - check,HSMT_2104_triples_raw.json
+HSMT_2104,Population health,concept,PREREQUISITE_OF,Vulnerable populations,concept,same unit,,HSMT_2104_triples_raw.json
+HSMT_2104,Socioeconomic factors,concept,PREREQUISITE_OF,Cultural competence,concept,same unit,,HSMT_2104_triples_raw.json
+HSMT_2104,Community health needs,concept,PREREQUISITE_OF,Healthcare workforce roles,concept,same unit,,HSMT_2104_triples_raw.json
+HSMT_2104,Patient autonomy,concept,PREREQUISITE_OF,Health beliefs,concept,same unit,,HSMT_2104_triples_raw.json
+HSMT_2104,Healthcare access barriers,topic,PART_OF,Healthcare disparities reduction,topic,,,HSMT_2104_triples_raw.json
+HSMT_2104,Value-based care models,topic,PART_OF,Quality metrics development,topic,,,HSMT_2104_triples_raw.json
+HSMT_2104,Health equity,concept,PART_OF,Patient autonomy,concept,,,HSMT_2104_triples_raw.json
+HSMT_2104,Vulnerable populations,concept,PART_OF,Population health,concept,,,HSMT_2104_triples_raw.json
+HSMT_2104,Cultural competence,concept,PART_OF,Socioeconomic factors,concept,,,HSMT_2104_triples_raw.json
+HSMT_2104,Community health needs,concept,PART_OF,Healthcare workforce roles,concept,,,HSMT_2104_triples_raw.json
+HSMT_2104,Long term care settings,concept,PART_OF,Healthcare settings,concept,,,HSMT_2104_triples_raw.json
+HSMT_2104,Inpatient care settings,concept,PART_OF,Healthcare settings,concept,,,HSMT_2104_triples_raw.json
+HSMT_2104,Outpatient Settings,topic,PART_OF,Healthcare settings,concept,,part is broader than whole - check direction,HSMT_2104_triples_raw.json
+HSMT_2104,Health maintenance organizations,concept,USED_FOR,Ambulatory care models,concept,,,HSMT_2104_triples_raw.json
+HSMT_2104,Insurance reimbursement systems,concept,USED_FOR,Cost containment strategies,concept,,,HSMT_2104_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_7196,Research Design Principles,concept,PREREQUISITE_OF,Quantitative vs Qualitative Research,concept,A taught first,,RSCH_7196_triples_raw.json
+RSCH_7196,Research Question Development,concept,PREREQUISITE_OF,Methodological Approaches Comparison,concept,A taught first,,RSCH_7196_triples_raw.json
+RSCH_7196,Search Engine Techniques,concept,PREREQUISITE_OF,Database Selection Criteria,concept,same unit,,RSCH_7196_triples_raw.json
+RSCH_7196,Statistical Analysis Software,concept,PREREQUISITE_OF,Qualitative Data Coding Strategies,concept,same unit,,RSCH_7196_triples_raw.json
+RSCH_7196,Statistical Analysis Software,concept,USED_FOR,Qualitative Data Coding Strategies,concept,,,RSCH_7196_triples_raw.json

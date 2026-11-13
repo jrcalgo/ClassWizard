@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_5090,topic,Geographic Information Systems,Geographic Information Systems,1,verified,Geographic Information Systems,CEGR_5090_concepts_raw.json
+CEGR_5090,topic,GIS,GIS,4,verified,Introduction to GIS,CEGR_5090_concepts_raw.json
+CEGR_5090,method,creating,creating,1,verified,"creating, managing, analyzing, communicating geographic information",CEGR_5090_concepts_raw.json
+CEGR_5090,method,managing,managing,1,verified,"creating, managing, analyzing, communicating geographic information",CEGR_5090_concepts_raw.json
+CEGR_5090,method,analyzing,analyzing,2,verified,"creating, managing, analyzing, communicating geographic information",CEGR_5090_concepts_raw.json
+CEGR_5090,method,communicating geographic information,communicating geographic information,1,verified,"creating, managing, analyzing, communicating geographic information",CEGR_5090_concepts_raw.json
+CEGR_5090,method,raster analyses,raster analyses,1,verified,performing common vector and raster analyses,CEGR_5090_concepts_raw.json
+CEGR_5090,tool,ArcGIS Pro 3.4,ArcGIS Pro 3.4,1,verified,ArcGIS Pro 3.4,CEGR_5090_concepts_raw.json

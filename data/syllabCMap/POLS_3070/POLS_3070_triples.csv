@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3070,Cold War Era Intelligence Operations,concept,PREREQUISITE_OF,Post-9/11 Intelligence Reforms,concept,same unit,,POLS_3070_triples_raw.json
+POLS_3070,Cold War Era Intelligence Operations,concept,PREREQUISITE_OF,Human Rights and Intelligence,concept,same unit,,POLS_3070_triples_raw.json
+POLS_3070,Intelligence Cycle Stages,concept,PART_OF,Ethical Intelligence,topic,,,POLS_3070_triples_raw.json
+POLS_3070,Democratic Government Responsibilities,concept,PART_OF,Ethical Intelligence,topic,,,POLS_3070_triples_raw.json

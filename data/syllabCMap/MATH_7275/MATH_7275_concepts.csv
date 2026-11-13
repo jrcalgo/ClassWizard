@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_7275,topic,Dynamical Systems,Dynamical Systems,3,verified,Dynamical Systems,MATH_7275_concepts_raw.json
+MATH_7275,topic,Topological Dynamical Systems,topological dynamical systems,1,verified,Topological Dynamical Systems,MATH_7275_concepts_raw.json
+MATH_7275,topic,Measure-Preserving Systems,measure-preserving systems,1,verified,Measure-Preserving Systems,MATH_7275_concepts_raw.json
+MATH_7275,topic,Symbolic Dynamics I,Symbolic Dynamics I,1,inferred,Symbolic Dynamics I,MATH_7275_concepts_raw.json
+MATH_7275,topic,Symbolic Dynamics II,Symbolic Dynamics II,1,inferred,Symbolic Dynamics II,MATH_7275_concepts_raw.json
+MATH_7275,concept,Definition of Dynamical System,Definition of Dynamical System,1,inferred,Definition of Dynamical System,MATH_7275_concepts_raw.json
+MATH_7275,concept,Types of Dynamical Systems,Types of Dynamical Systems,1,inferred,Types of Dynamical Systems,MATH_7275_concepts_raw.json
+MATH_7275,concept,Basic Properties and Examples,Basic Properties and Examples,1,inferred,Basic Properties and Examples,MATH_7275_concepts_raw.json
+MATH_7275,concept,Compact Metric Spaces,Compact Metric Spaces,1,inferred,Compact Metric Spaces,MATH_7275_concepts_raw.json
+MATH_7275,concept,Continuous Functions and Maps,Continuous Functions and Maps,1,inferred,Continuous Functions and Maps,MATH_7275_concepts_raw.json
+MATH_7275,concept,Equicontinuity and Convergence,Equicontinuity and Convergence,1,inferred,Equicontinuity and Convergence,MATH_7275_concepts_raw.json
+MATH_7275,concept,Shift Spaces and Invariant Sets,Shift Spaces and Invariant Sets,1,inferred,Shift Spaces and Invariant Sets,MATH_7275_concepts_raw.json
+MATH_7275,concept,Topological Entropy and Complexity,Topological Entropy and Complexity,1,inferred,Topological Entropy and Complexity,MATH_7275_concepts_raw.json
+MATH_7275,concept,Subshifts of Finite Type,Subshifts of Finite Type,1,inferred,Subshifts of Finite Type,MATH_7275_concepts_raw.json
+MATH_7275,concept,Measures on Metric Spaces,Measures on Metric Spaces,1,inferred,Measures on Metric Spaces,MATH_7275_concepts_raw.json
+MATH_7275,concept,Invariance and Ergodicity,Invariance and Ergodicity,1,inferred,Invariance and Ergodicity,MATH_7275_concepts_raw.json
+MATH_7275,concept,Kolmogorov-Sinai Entropy,Kolmogorov-Sinai Entropy,1,inferred,Kolmogorov-Sinai Entropy,MATH_7275_concepts_raw.json
+MATH_7275,concept,Topological Equivalence and Conjugacy,Topological Equivalence and Conjugacy,1,inferred,Topological Equivalence and Conjugacy,MATH_7275_concepts_raw.json
+MATH_7275,concept,Entropy and Complexity in Symbolic Systems,Entropy and Complexity in Symbolic Systems,1,inferred,Entropy and Complexity in Symbolic Systems,MATH_7275_concepts_raw.json

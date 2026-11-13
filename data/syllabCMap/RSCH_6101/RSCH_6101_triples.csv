@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_6101,Null Hypothesis,concept,PREREQUISITE_OF,Alternative Hypothesis,concept,same unit,,RSCH_6101_triples_raw.json
+RSCH_6101,Empirical Research Design,concept,PREREQUISITE_OF,Experimental Research,concept,A taught first,,RSCH_6101_triples_raw.json
+RSCH_6101,Randomized Controlled Trial,concept,PREREQUISITE_OF,Multisite Study,concept,same unit,,RSCH_6101_triples_raw.json
+RSCH_6101,Random Sampling,concept,PREREQUISITE_OF,Nonprobability Sampling,concept,same unit,,RSCH_6101_triples_raw.json
+RSCH_6101,Randomized Controlled Trial,concept,SUBTYPE_OF,Multisite Study,concept,,,RSCH_6101_triples_raw.json
+RSCH_6101,BARR Model Implementation,concept,SUBTYPE_OF,BARR Model,concept,,,RSCH_6101_triples_raw.json
+RSCH_6101,Ex post facto design,concept,SUBTYPE_OF,Non-experimental research,concept,,,RSCH_6101_triples_raw.json
+RSCH_6101,Retrospective study,concept,SUBTYPE_OF,Non-experimental research,concept,,,RSCH_6101_triples_raw.json
+RSCH_6101,Correlational analysis,concept,SUBTYPE_OF,Non-experimental research,concept,,,RSCH_6101_triples_raw.json
+RSCH_6101,Quasi-Experiments,concept,SUBTYPE_OF,Experimental Research,concept,,,RSCH_6101_triples_raw.json

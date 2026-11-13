@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_3131,k-mers,concept,PART_OF,sequence analysis,concept,,,BINF_3131_triples_raw.json
+BINF_3131,frequent itemset,concept,PART_OF,sequence analysis,concept,,,BINF_3131_triples_raw.json
+BINF_3131,algorithmic efficiency,concept,PART_OF,computational problem formulation,concept,,,BINF_3131_triples_raw.json
+BINF_3131,De Bruijn Graphs,concept,PART_OF,Genome Assembling Methods,concept,,,BINF_3131_triples_raw.json
+BINF_3131,Overlap-Layout-Consensus Method,concept,PART_OF,Sequence Assembly Algorithms,concept,,,BINF_3131_triples_raw.json
+BINF_3131,Brute Force Algorithms,concept,SUBTYPE_OF,Combinatory Algorithm,concept,,,BINF_3131_triples_raw.json
+BINF_3131,Branch and Bound Algorithm,concept,SUBTYPE_OF,Dynamic Programming Techniques,concept,,,BINF_3131_triples_raw.json
+BINF_3131,Viterbi Algorithm Application,concept,USED_FOR,Hidden Markov models,topic,,,BINF_3131_triples_raw.json
+BINF_3131,Smith Waterman Algorithm,concept,USED_FOR,Sequence Alignment Algorithms,concept,,,BINF_3131_triples_raw.json
+BINF_3131,Burrows Wheeler Transform,concept,USED_FOR,Short Read Mapping,concept,,,BINF_3131_triples_raw.json

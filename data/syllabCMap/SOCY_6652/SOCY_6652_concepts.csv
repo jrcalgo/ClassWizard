@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SOCY_6652,topic,scientific research methods,scientific research methods,1,verified,scientific research methods,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,social sciences,social sciences,1,verified,social sciences,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,sociology,sociology,1,verified,sociology,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,research,research,2,verified,introduction to research,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,designing a study,Designing a Study,1,inferred,designing a study,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,assessing study soundness,Assessing Study Soundness,1,inferred,assessing study soundness,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,research paradigms and theories,Research Paradigms and Theories,1,inferred,research paradigms and theories,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,data collection methods,Data Collection Methods,2,inferred,data collection methods,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,quantitative data analysis,Quantitative Data Analysis,1,inferred,quantitative data analysis,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,qualitative data analysis,Qualitative Data Analysis,1,inferred,qualitative data analysis,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,research ethics and bias,Research Ethics and Bias,1,inferred,research ethics and bias,SOCY_6652_concepts_raw.json
+SOCY_6652,topic,publishing research findings,Publishing Research Findings,1,inferred,publishing research findings,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,research questions and hypotheses,Research Questions and Hypotheses,1,inferred,research questions and hypotheses,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,sampling strategies and techniques,Sampling Strategies and Techniques,1,inferred,sampling strategies and techniques,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,data collection methods overview,Data Collection Methods Overview,1,inferred,data collection methods overview,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,critical thinking in research evaluation,Critical Thinking in Research Evaluation,1,inferred,critical thinking in research evaluation,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,study design and methodological flaws,Study Design and Methodological Flaws,1,inferred,study design and methodological flaws,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,ethics in social science research,Ethics in Social Science Research,1,inferred,ethics in social science research,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,positivism vs. interpretivism debate,positivism vs. interpretivism debate,1,inferred,positivism vs. interpretivism debate,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,theoretical frameworks in sociology,Theoretical Frameworks in Sociology,1,inferred,theoretical frameworks in sociology,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,paradigm shifts in social research,Paradigm Shifts in Social Research,1,inferred,paradigm shifts in social research,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,surveys and questionnaire design,Surveys and Questionnaire Design,1,inferred,surveys and questionnaire design,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,interviews and focus groups techniques,Interviews and Focus Groups Techniques,1,inferred,interviews and focus groups techniques,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,observational methods overview,Observational Methods Overview,1,inferred,observational methods overview,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,statistical analysis software overview,Statistical Analysis Software Overview,1,inferred,statistical analysis software overview,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,descriptive statistics and measures,Descriptive Statistics and Measures,1,inferred,descriptive statistics and measures,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,inferential statistics and hypothesis testing,Inferential Statistics and Hypothesis Testing,1,inferred,inferential statistics and hypothesis testing,SOCY_6652_concepts_raw.json
+SOCY_6652,method,coding and thematic analysis techniques,Coding and Thematic Analysis Techniques,1,inferred,coding and thematic analysis techniques,SOCY_6652_concepts_raw.json
+SOCY_6652,method,narrative analysis and case studies,Narrative Analysis and Case Studies,1,inferred,narrative analysis and case studies,SOCY_6652_concepts_raw.json
+SOCY_6652,method,triangulation in qualitative research,Triangulation in Qualitative Research,1,inferred,triangulation in qualitative research,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,informed consent and confidentiality,Informed Consent and Confidentiality,1,inferred,informed consent and confidentiality,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,avoiding sampling biases and errors,Avoiding Sampling Biases and Errors,1,inferred,avoiding sampling biases and errors,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,addressing cultural and social biases,Addressing Cultural and Social Biases,1,inferred,addressing cultural and social biases,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,writing for academic journals overview,Writing for Academic Journals Overview,1,inferred,writing for academic journals overview,SOCY_6652_concepts_raw.json
+SOCY_6652,concept,peer review process and feedback,Peer Review Process and Feedback,1,inferred,peer review process and feedback,SOCY_6652_concepts_raw.json
+SOCY_6652,method,hypothesis testing,Hypothesis Testing,1,inferred,hypothesis testing,SOCY_6652_concepts_raw.json

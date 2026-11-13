@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_6203,topic,Stochastic Calculus,Stochastic Calculus,1,verified,Stochastic Calculus,MATH_6203_concepts_raw.json
+MATH_6203,topic,Stochastic Processes,Stochastic Processes,4,inferred,Stochastic Processes,MATH_6203_concepts_raw.json
+MATH_6203,topic,Brownian Motion,Brownian Motion,2,inferred,Brownian Motion,MATH_6203_concepts_raw.json
+MATH_6203,topic,Wiener Process,Wiener Process,3,inferred,Wiener Process,MATH_6203_concepts_raw.json
+MATH_6203,topic,Martingale Theory,Martingale Theory,1,inferred,Martingale Theory,MATH_6203_concepts_raw.json
+MATH_6203,topic,Stochastic Differential Equations,Stochastic Differential Equations,1,inferred,Stochastic Differential Equations,MATH_6203_concepts_raw.json
+MATH_6203,topic,Option Pricing,Option Pricing,2,inferred,Option Pricing,MATH_6203_concepts_raw.json
+MATH_6203,topic,Risk Management,Risk Management,1,inferred,Risk Management,MATH_6203_concepts_raw.json
+MATH_6203,concept,stochastic process definition,Stochastic Process Definition,1,inferred,stochastic process definition,MATH_6203_concepts_raw.json
+MATH_6203,concept,types of stochastic processes,Types of Stochastic Processes,1,inferred,types of stochastic processes,MATH_6203_concepts_raw.json
+MATH_6203,concept,properties of stochastic processes,Properties of Stochastic Processes,1,inferred,properties of stochastic processes,MATH_6203_concepts_raw.json
+MATH_6203,concept,wiener process properties,Wiener Process Properties,1,inferred,wiener process properties,MATH_6203_concepts_raw.json
+MATH_6203,concept,brownian motion characteristics,Brownian Motion Characteristics,1,inferred,brownian motion characteristics,MATH_6203_concepts_raw.json
+MATH_6203,concept,wiener process distribution,Wiener Process Distribution,1,inferred,wiener process distribution,MATH_6203_concepts_raw.json
+MATH_6203,concept,ito's lemma statement,Ito's Lemma Statement,1,inferred,ito's lemma statement,MATH_6203_concepts_raw.json
+MATH_6203,concept,stochastic integral definition,Stochastic Integral Definition,1,inferred,stochastic integral definition,MATH_6203_concepts_raw.json
+MATH_6203,concept,ito's formula derivation,Ito's Formula Derivation,1,inferred,ito's formula derivation,MATH_6203_concepts_raw.json
+MATH_6203,concept,martingale definition properties,Martingale Definition Properties,1,inferred,martingale definition properties,MATH_6203_concepts_raw.json
+MATH_6203,concept,martingale convergence theorem,Martingale Convergence Theorem,1,inferred,martingale convergence theorem,MATH_6203_concepts_raw.json
+MATH_6203,concept,martingale stopping time,Martingale Stopping Time,1,inferred,martingale stopping time,MATH_6203_concepts_raw.json
+MATH_6203,concept,sde definition and types,SDE Definition and Types,1,inferred,sde definition and types,MATH_6203_concepts_raw.json
+MATH_6203,concept,sde solution methods,SDE Solution Methods,1,inferred,sde solution methods,MATH_6203_concepts_raw.json
+MATH_6203,concept,black-scholes model overview,Black-Scholes Model Overview,1,inferred,black-scholes model overview,MATH_6203_concepts_raw.json
+MATH_6203,concept,stochastic volatility models,Stochastic Volatility Models,1,inferred,stochastic volatility models,MATH_6203_concepts_raw.json
+MATH_6203,concept,option pricing formulas,Option Pricing Formulas,1,inferred,option pricing formulas,MATH_6203_concepts_raw.json
+MATH_6203,work,Black-Scholes Model,Black-Scholes Model,1,inferred,Black-Scholes Model,MATH_6203_concepts_raw.json

@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MPAD_6290,topic,Emergency Management,Emergency Management,3,verified,Emergency Management,MPAD_6290_concepts_raw.json
+MPAD_6290,topic,Emergency Operations Center,Emergency Operations Center,1,verified,Emergency Operations Center,MPAD_6290_concepts_raw.json
+MPAD_6290,topic,EM,EM,1,inferred,Introduction to EM,MPAD_6290_concepts_raw.json
+MPAD_6290,topic,Disaster Types and Risks,Disaster Types and Risks,1,inferred,Disaster Types and Risks,MPAD_6290_concepts_raw.json
+MPAD_6290,topic,Preparedness Planning,Preparedness Planning,1,inferred,Preparedness Planning,MPAD_6290_concepts_raw.json
+MPAD_6290,topic,Response and Recovery,Response and Recovery,2,inferred,Response and Recovery,MPAD_6290_concepts_raw.json
+MPAD_6290,topic,Local Government Role,Local Government Role,1,inferred,Local Government Role,MPAD_6290_concepts_raw.json
+MPAD_6290,topic,Agencies and Partnerships,Agencies and Partnerships,1,inferred,Agencies and Partnerships,MPAD_6290_concepts_raw.json
+MPAD_6290,topic,Case Studies and Analysis,Case Studies and Analysis,1,inferred,Case Studies and Analysis,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Emergency Management Definition,Emergency Management Definition,1,inferred,Emergency Management Definition,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,History of Emergency Management,History of Emergency Management,1,inferred,History of Emergency Management,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Importance of Emergency Management,Importance of Emergency Management,1,inferred,Importance of Emergency Management,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Natural Disaster Types,Natural Disaster Types,1,inferred,Natural Disaster Types,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Human-Caused Disasters,Human-Caused Disasters,1,inferred,Human-Caused Disasters,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Risk Assessment Methods,Risk Assessment Methods,1,inferred,Risk Assessment Methods,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Emergency Operations Plan,Emergency Operations Plan,1,inferred,Emergency Operations Plan,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Hazard Mitigation Strategies,Hazard Mitigation Strategies,1,inferred,Hazard Mitigation Strategies,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Community Preparedness,Community Preparedness,1,inferred,Community Preparedness,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Incident Command System,Incident Command System,1,inferred,Incident Command System,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Emergency Response Procedures,Emergency Response Procedures,1,inferred,Emergency Response Procedures,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Recovery Phase Management,Recovery Phase Management,1,inferred,Recovery Phase Management,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Emergency Management Agency,Emergency Management Agency,3,inferred,Emergency Management Agency,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Local Government Infrastructure,Local Government Infrastructure,1,inferred,Local Government Infrastructure,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Community Emergency Planning,Community Emergency Planning,1,inferred,Community Emergency Planning,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Federal Emergency Management Agency,Federal Emergency Management Agency,1,inferred,Federal Emergency Management Agency,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,State Emergency Management Agency,State Emergency Management Agency,1,inferred,State Emergency Management Agency,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Non-Profit Organization Roles,Non-Profit Organization Roles,1,inferred,Non-Profit Organization Roles,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,EOC Functions and Responsibilities,EOC Functions and Responsibilities,1,inferred,EOC Functions and Responsibilities,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Communication Systems,Communication Systems,1,inferred,Communication Systems,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Situation Room Operations,Situation Room Operations,1,inferred,Situation Room Operations,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Real-World Disaster Case Studies,Real-World Disaster Case Studies,1,inferred,Real-World Disaster Case Studies,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Disaster Response and Recovery Lessons,Disaster Response and Recovery Lessons,1,inferred,Disaster Response and Recovery Lessons,MPAD_6290_concepts_raw.json
+MPAD_6290,concept,Best Practices in Emergency Management,Best Practices in Emergency Management,1,inferred,Best Practices in Emergency Management,MPAD_6290_concepts_raw.json

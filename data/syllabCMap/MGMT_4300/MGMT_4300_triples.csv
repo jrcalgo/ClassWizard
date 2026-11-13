@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MGMT_4300,entrepreneurial decisions,topic,PREREQUISITE_OF,entrepreneurial process,topic,A mentioned first,,MGMT_4300_triples_raw.json
+MGMT_4300,entrepreneurial tasks,concept,PREREQUISITE_OF,opportunity exploitation,concept,B taught first,B is taught before A - check,MGMT_4300_triples_raw.json
+MGMT_4300,creative destruction,concept,PREREQUISITE_OF,entrepreneurial philosophy,concept,same unit,,MGMT_4300_triples_raw.json
+MGMT_4300,challenges and dilemmas,concept,PREREQUISITE_OF,solutions and implementation,concept,same unit,,MGMT_4300_triples_raw.json
+MGMT_4300,entrepreneurial team,topic,PART_OF,entrepreneurial venture,concept,,part is broader than whole - check direction,MGMT_4300_triples_raw.json
+MGMT_4300,entrepreneurial tasks,concept,PART_OF,entrepreneurial process,topic,,,MGMT_4300_triples_raw.json
+MGMT_4300,opportunity exploitation,concept,PART_OF,entrepreneurial venture,concept,,,MGMT_4300_triples_raw.json
+MGMT_4300,entrepreneurial career paths,topic,PART_OF,entrepreneurial philosophy,concept,,part is broader than whole - check direction,MGMT_4300_triples_raw.json
+MGMT_4300,seasonal business,topic,PART_OF,entrepreneurial milieu,topic,,,MGMT_4300_triples_raw.json
+MGMT_4300,boom and bust cycles,topic,PART_OF,entrepreneurial milieu,topic,,,MGMT_4300_triples_raw.json
+MGMT_4300,high-growth ventures,concept,SUBTYPE_OF,entrepreneurial venture,concept,,,MGMT_4300_triples_raw.json
+MGMT_4300,venture growth,concept,SUBTYPE_OF,entrepreneurial venture,concept,,,MGMT_4300_triples_raw.json
+MGMT_4300,entrepreneurial exit strategies,concept,SUBTYPE_OF,entrepreneurial career paths,topic,,,MGMT_4300_triples_raw.json
+MGMT_4300,bootstrap financing,concept,SUBTYPE_OF,capital raising strategies,concept,,,MGMT_4300_triples_raw.json
+MGMT_4300,artificial intelligence applications,concept,SUBTYPE_OF,business model innovation,concept,,,MGMT_4300_triples_raw.json
+MGMT_4300,entrepreneurial philosophy,concept,USED_FOR,entrepreneurial milieu,topic,,,MGMT_4300_triples_raw.json
+MGMT_4300,decision making process,concept,USED_FOR,entrepreneurial tasks,concept,,,MGMT_4300_triples_raw.json
+MGMT_4300,entrepreneurial mindset shift,concept,USED_FOR,pivoting in entrepreneurship,concept,,,MGMT_4300_triples_raw.json

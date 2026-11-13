@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_6111,topic,Linear Systems Theory,Linear Systems Theory,1,verified,Linear Systems Theory,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,Review of linear algebra,Review of linear algebra,1,verified,Review of linear algebra,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,LTI state-space models,LTI state-space models,1,verified,LTI state-space models,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,matrix transfer functions,matrix transfer functions,1,verified,matrix transfer functions,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,Linearization,Linearization,2,verified,Linearization,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,state equation solutions,state equation solutions,1,verified,state equation solutions,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,state transition matrices,state transition matrices,2,verified,state transition matrices,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,stability criteria,stability criteria,1,verified,stability criteria,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,observability,observability,5,verified,observability,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,controllability,controllability,5,verified,controllability,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,realizations,realizations,1,verified,realizations,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,similarity transforms,similarity transforms,1,verified,similarity transforms,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,canonical forms,canonical forms,5,verified,canonical forms,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,state feedback by eigenvalue - placement,state feedback by eigenvalue - placement,1,verified,state feedback by eigenvalue - placement,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,observer design,observer design,2,verified,observer design,ECGR_6111_concepts_raw.json
+ECGR_6111,topic,State-Space,state-space,3,verified,Introduction to State-Space,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,linear approximations of nonlinear systems,linear approximations of nonlinear systems,1,verified,linear approximations of nonlinear systems,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,existence and uniqueness of solutions,Existence and uniqueness of solutions,1,verified,existence and uniqueness of solutions,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,Lyapunov stability theorems,Lyapunov stability theorems,2,verified,Lyapunov stability theorems,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,matrix exponential and state-transition matrices,Matrix exponential and state-transition matrices,1,verified,matrix exponential and state-transition matrices,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,Kalman controllability and observability rank tests,Kalman controllability and observability rank tests,1,verified,Kalman controllability and observability rank tests,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,controllable and observable canonical forms,Controllable and observable canonical forms,1,verified,controllable and observable canonical forms,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,state-space representations,state-space representations,2,verified,state-space representations,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,eigenvalues and eigenvectors,Eigenvalues and eigenvectors,1,verified,eigenvalues and eigenvectors,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,change of basis and diagonalization,Change of basis and diagonalization,1,verified,change of basis and diagonalization,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,uniform,uniform,2,verified,"uniform, asymptotic, exponential stability",ECGR_6111_concepts_raw.json
+ECGR_6111,concept,asymptotic,asymptotic,2,verified,"uniform, asymptotic, exponential stability",ECGR_6111_concepts_raw.json
+ECGR_6111,concept,exponential stability,exponential stability,2,verified,"uniform, asymptotic, exponential stability",ECGR_6111_concepts_raw.json
+ECGR_6111,concept,pole placement techniques,pole - placement techniques,1,verified,pole placement techniques,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,Luenberger observer design,Luenberger observer design,1,verified,Luenberger observer design,ECGR_6111_concepts_raw.json
+ECGR_6111,concept,algebraic Riccati equation,algebraic Riccati equation,2,verified,algebraic Riccati equation,ECGR_6111_concepts_raw.json

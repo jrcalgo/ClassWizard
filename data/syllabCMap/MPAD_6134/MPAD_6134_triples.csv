@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6134,Public Service Perspective,topic,PREREQUISITE_OF,Job Evaluation and Compensation,topic,A taught first,,MPAD_6134_triples_raw.json
+MPAD_6134,Public Service Perspective,topic,PREREQUISITE_OF,Employee Rights and Responsibilities,topic,A taught first,,MPAD_6134_triples_raw.json
+MPAD_6134,Public Service Perspective,topic,PREREQUISITE_OF,Equal Opportunity and Diversity,topic,A taught first,,MPAD_6134_triples_raw.json
+MPAD_6134,Public Service Perspective,topic,PREREQUISITE_OF,Health and Safety Regulations,topic,A taught first,,MPAD_6134_triples_raw.json
+MPAD_6134,Public Service Perspective,topic,PREREQUISITE_OF,Collective Bargaining and Negotiations,topic,A taught first,,MPAD_6134_triples_raw.json
+MPAD_6134,Public Service Perspective,topic,PREREQUISITE_OF,Government Productivity and Efficiency,topic,A taught first,,MPAD_6134_triples_raw.json
+MPAD_6134,public service values,concept,PART_OF,Public Service Perspective,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,administrative ethics,concept,PART_OF,Public Service Perspective,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,social responsibility,concept,PART_OF,Public Service Perspective,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,compensation systems,concept,PART_OF,Job Evaluation and Compensation,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,job classification,concept,PART_OF,Job Evaluation and Compensation,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,pay equity,concept,PART_OF,Job Evaluation and Compensation,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,labor laws and regulations,concept,PART_OF,Employee Rights and Responsibilities,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,employee benefits,concept,PART_OF,Employee Rights and Responsibilities,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,diversity management,concept,PART_OF,Equal Opportunity and Diversity,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,inclusive workplace culture,concept,PART_OF,Equal Opportunity and Diversity,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,disability accommodations,concept,PART_OF,Equal Opportunity and Diversity,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,occupational health and safety,concept,PART_OF,Health and Safety Regulations,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,employee wellness programs,concept,PART_OF,Health and Safety Regulations,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,labor relations theory,concept,PART_OF,Collective Bargaining and Negotiations,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,negotiation strategies,concept,PART_OF,Collective Bargaining and Negotiations,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,contract administration,concept,PART_OF,Collective Bargaining and Negotiations,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,performance measurement,concept,PART_OF,Government Productivity and Efficiency,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,process improvement,concept,PART_OF,Government Productivity and Efficiency,topic,,,MPAD_6134_triples_raw.json
+MPAD_6134,cost-benefit analysis,concept,PART_OF,Government Productivity and Efficiency,topic,,,MPAD_6134_triples_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_3102,Human Ecological Dynamics,concept,PREREQUISITE_OF,peopling of new landscapes,topic,A taught first,,GEOG_3102_triples_raw.json
+GEOG_3102,Human Ecological Dynamics,concept,PREREQUISITE_OF,anthropogenic vegetation change,topic,A taught first,,GEOG_3102_triples_raw.json
+GEOG_3102,Human Ecological Dynamics,concept,PREREQUISITE_OF,extinctions,concept,A taught first,,GEOG_3102_triples_raw.json
+GEOG_3102,Human Ecological Dynamics,concept,PREREQUISITE_OF,desertification,topic,A taught first,,GEOG_3102_triples_raw.json
+GEOG_3102,Human Ecological Dynamics,concept,PREREQUISITE_OF,invasive species interactions,topic,A taught first,,GEOG_3102_triples_raw.json
+GEOG_3102,Human Ecological Dynamics,concept,PREREQUISITE_OF,changes in human subsistence,topic,A taught first,,GEOG_3102_triples_raw.json
+GEOG_3102,extinctions,concept,PART_OF,environmental change and its impacts on biological systems,topic,,,GEOG_3102_triples_raw.json
+GEOG_3102,desertification,topic,PART_OF,environmental change and its impacts on biological systems,topic,,,GEOG_3102_triples_raw.json
+GEOG_3102,invasive species interactions,topic,PART_OF,environmental change and its impacts on biological systems,topic,,,GEOG_3102_triples_raw.json
+GEOG_3102,changes in human subsistence,topic,PART_OF,environmental change and its impacts on biological systems,topic,,,GEOG_3102_triples_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_5201,Climatological water cycle processes,concept,PART_OF,Hydroclimatology,topic,,,ESCI_5201_triples_raw.json
+ESCI_5201,Transpiration processes,concept,PART_OF,Evaporation and Transpiration Processes,topic,,,ESCI_5201_triples_raw.json

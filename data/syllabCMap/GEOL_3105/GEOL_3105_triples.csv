@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOL_3105,ore deposit formation processes,concept,PREREQUISITE_OF,types of ore deposits formed,concept,same unit,,GEOL_3105_triples_raw.json
+GEOL_3105,mineral resource importance,concept,PART_OF,Mineral Resources,topic,,,GEOL_3105_triples_raw.json
+GEOL_3105,expected lifespans of common resources,concept,PART_OF,Sustainability of Mineral Resources,topic,,,GEOL_3105_triples_raw.json
+GEOL_3105,types of ore deposits formed,concept,PART_OF,Formation of Ore Deposits,topic,,,GEOL_3105_triples_raw.json
+GEOL_3105,coal and oil formation,concept,PART_OF,Fossil Fuel Formation,topic,,,GEOL_3105_triples_raw.json
+GEOL_3105,open pit mining techniques,concept,PART_OF,Mineral Resource Extraction Methods,topic,,,GEOL_3105_triples_raw.json
+GEOL_3105,hazardous waste disposal methods,concept,PART_OF,Waste Disposal and Management,topic,,,GEOL_3105_triples_raw.json

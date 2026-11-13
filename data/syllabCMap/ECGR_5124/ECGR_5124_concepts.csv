@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5124,topic,Digital Signal Processing,Digital Signal Processing,3,verified,Digital Signal Processing,ECGR_5124_concepts_raw.json
+ECGR_5124,topic,Discrete-Time Systems,discrete-time systems,1,verified,Discrete-Time Systems,ECGR_5124_concepts_raw.json
+ECGR_5124,topic,Fourier Transform,Fourier transforms,1,verified,Fourier Transform,ECGR_5124_concepts_raw.json
+ECGR_5124,topic,Infinite Impulse Response,Infinite impulse response,1,verified,Infinite Impulse Response,ECGR_5124_concepts_raw.json
+ECGR_5124,topic,Finite Impulse Response,Finite impulse response,1,verified,Finite Impulse Response,ECGR_5124_concepts_raw.json
+ECGR_5124,topic,Modern Digital Filters,modern digital filters,1,verified,Modern Digital Filters,ECGR_5124_concepts_raw.json
+ECGR_5124,topic,Hands-on Experience,Hands-on experience,1,verified,Hands-on Experience,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,sampling and aliasing,Sampling and aliasing,1,verified,sampling and aliasing,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,discrete-time system stability,Discrete-time system stability,1,verified,discrete-time system stability,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,discrete-time Fourier transform,Discrete-time Fourier transform,1,verified,discrete-time Fourier transform,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,z-transform,z-transform,2,verified,z-transform,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,region of convergence,region of convergence,1,verified,region of convergence,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,z-plane poles,Z-plane poles,1,verified,z-plane poles,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,infinite impulse response systems,Infinite impulse response systems,1,verified,infinite impulse response systems,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,finite impulse response systems,Finite impulse response systems,1,verified,finite impulse response systems,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,basic discrete-time signals,basic discrete-time signals,1,verified,basic discrete-time signals,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,difference equations,difference equations,1,verified,difference equations,ECGR_5124_concepts_raw.json
+ECGR_5124,concept,convolution,convolution,2,verified,convolution,ECGR_5124_concepts_raw.json
+ECGR_5124,method,design and analyze basic discrete-time systems,design and analyze basic discrete-time systems,1,verified,design and analyze basic discrete-time systems,ECGR_5124_concepts_raw.json
+ECGR_5124,method,design and analyze modern digital filters,design and analyze modern digital filters,1,verified,design and analyze modern digital filters,ECGR_5124_concepts_raw.json
+ECGR_5124,method,testing discrete-time digital signal processing systems,testing discrete-time digital signal processing systems,1,verified,hands-on experience with computer tools for implementing and testing discrete-time digital signal processing systems,ECGR_5124_concepts_raw.json

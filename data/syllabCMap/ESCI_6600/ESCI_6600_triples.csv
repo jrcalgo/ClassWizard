@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_6600,Graduate Student Expectations,concept,PREREQUISITE_OF,Graduate Seminar,topic,A mentioned first,,ESCI_6600_triples_raw.json
+ESCI_6600,Graduate Seminar,topic,PREREQUISITE_OF,MS Earth Sciences Graduate Seminar,topic,A mentioned first,,ESCI_6600_triples_raw.json
+ESCI_6600,Graduate Student Expectations,concept,PART_OF,Graduate Seminar,topic,,,ESCI_6600_triples_raw.json
+ESCI_6600,Seminar Format and Rules,concept,PART_OF,Graduate Seminar,topic,,,ESCI_6600_triples_raw.json
+ESCI_6600,Peer Feedback Process,concept,PART_OF,Graduate Seminar,topic,,,ESCI_6600_triples_raw.json
+ESCI_6600,Research Presentation Structure,concept,PART_OF,Graduate Seminar,topic,,,ESCI_6600_triples_raw.json
+ESCI_6600,Effective Communication Techniques,concept,PART_OF,Graduate Seminar,topic,,,ESCI_6600_triples_raw.json
+ESCI_6600,Audience Engagement Strategies,concept,PART_OF,Graduate Seminar,topic,,,ESCI_6600_triples_raw.json
+ESCI_6600,Constructive Criticism Skills,concept,PART_OF,Graduate Seminar,topic,,,ESCI_6600_triples_raw.json
+ESCI_6600,Active Listening and Response,concept,PART_OF,Graduate Seminar,topic,,,ESCI_6600_triples_raw.json
+ESCI_6600,Graduate Student Roles and Responsibilities,concept,PART_OF,MS Earth Sciences Graduate Seminar,topic,,,ESCI_6600_triples_raw.json
+ESCI_6600,Time Management Strategies for Grad Students,concept,PART_OF,MS Earth Sciences Graduate Seminar,topic,,,ESCI_6600_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_2135,Building Information Modeling,concept,PREREQUISITE_OF,Design Coordination,concept,same unit,,CMET_2135_triples_raw.json
+CMET_2135,Building Information Modeling,concept,PREREQUISITE_OF,Construction Management,concept,same unit,,CMET_2135_triples_raw.json
+CMET_2135,Building Information Modeling,concept,PREREQUISITE_OF,Integrated Practice,concept,same unit,,CMET_2135_triples_raw.json
+CMET_2135,BIM Technologies,concept,PREREQUISITE_OF,Design Coordination,concept,same unit,,CMET_2135_triples_raw.json
+CMET_2135,BIM Technologies,concept,PREREQUISITE_OF,Construction Management,concept,same unit,,CMET_2135_triples_raw.json
+CMET_2135,BIM Technologies,concept,PREREQUISITE_OF,Project Delivery Systems,concept,same unit,,CMET_2135_triples_raw.json
+CMET_2135,BIM Technologies,concept,PREREQUISITE_OF,Integrated Practice,concept,same unit,,CMET_2135_triples_raw.json
+CMET_2135,BIM Software Basics,concept,PART_OF,Building Information Modeling,concept,,,CMET_2135_triples_raw.json
+CMET_2135,User Interface Elements,concept,PART_OF,Autodesk Revit,tool,,part is broader than whole - check direction,CMET_2135_triples_raw.json
+CMET_2135,Model-based cost estimation,method,PART_OF,Building Information Modeling,concept,,,CMET_2135_triples_raw.json
+CMET_2135,Revit,tool,USED_FOR,Building Information Modeling,concept,,,CMET_2135_triples_raw.json

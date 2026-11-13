@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_6150,logic,concept,PREREQUISITE_OF,Bayesian&decisionnetworks,concept,A mentioned first,,ITCS_6150_triples_raw.json
+ITCS_6150,Agent models,concept,PREREQUISITE_OF,game playing,concept,same unit,,ITCS_6150_triples_raw.json
+ITCS_6150,Agent models,concept,PREREQUISITE_OF,constraint satisfaction problems,concept,A mentioned first,,ITCS_6150_triples_raw.json
+ITCS_6150,search algorithms,concept,PART_OF,AI,topic,,,ITCS_6150_triples_raw.json
+ITCS_6150,game playing,concept,PART_OF,AI,topic,,,ITCS_6150_triples_raw.json
+ITCS_6150,constraint satisfaction problems,concept,PART_OF,AI,topic,,,ITCS_6150_triples_raw.json
+ITCS_6150,logic,concept,PART_OF,AI,topic,,,ITCS_6150_triples_raw.json
+ITCS_6150,sampling,concept,PART_OF,AI,topic,,,ITCS_6150_triples_raw.json
+ITCS_6150,algorithms,method,USED_FOR,design,method,,,ITCS_6150_triples_raw.json
+ITCS_6150,research,method,USED_FOR,techniques,method,,,ITCS_6150_triples_raw.json

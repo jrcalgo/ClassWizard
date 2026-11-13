@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOL_4135,Geochronology,method,PREREQUISITE_OF,Subduction Zones,topic,B taught first,B is taught before A - check,GEOL_4135_triples_raw.json
+GEOL_4135,Geochronology,method,PREREQUISITE_OF,Transform Faults,topic,B taught first,B is taught before A - check,GEOL_4135_triples_raw.json
+GEOL_4135,Geochronology,method,PREREQUISITE_OF,Convergent Zones,topic,B taught first,B is taught before A - check,GEOL_4135_triples_raw.json
+GEOL_4135,Low-Temperature Thermochronology,method,PREREQUISITE_OF,Subduction Zones,topic,B mentioned first,,GEOL_4135_triples_raw.json
+GEOL_4135,Low-Temperature Thermochronology,method,PREREQUISITE_OF,Transform Faults,topic,B mentioned first,,GEOL_4135_triples_raw.json
+GEOL_4135,Low-Temperature Thermochronology,method,PREREQUISITE_OF,Convergent Zones,topic,B mentioned first,,GEOL_4135_triples_raw.json
+GEOL_4135,Stable Isotope-Based Paleoaltimetry,method,PREREQUISITE_OF,Subduction Zones,topic,B mentioned first,,GEOL_4135_triples_raw.json
+GEOL_4135,Stable Isotope-Based Paleoaltimetry,method,PREREQUISITE_OF,Transform Faults,topic,B mentioned first,,GEOL_4135_triples_raw.json
+GEOL_4135,Stable Isotope-Based Paleoaltimetry,method,PREREQUISITE_OF,Convergent Zones,topic,B mentioned first,,GEOL_4135_triples_raw.json
+GEOL_4135,Supercontinent Cycle,topic,PART_OF,Earth's Interior,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Oceanic Spreading Centers,topic,PART_OF,Earth's Interior,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Transform Faults,topic,PART_OF,Earth's Interior,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Subduction Zones,topic,PART_OF,Earth's Interior,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Convergent Zones,topic,PART_OF,Earth's Interior,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Regional Tectonic Systems,topic,PART_OF,Earth's Interior,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Low-Temperature Thermochronology,method,USED_FOR,Subduction Zones,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Low-Temperature Thermochronology,method,USED_FOR,Transform Faults,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Low-Temperature Thermochronology,method,USED_FOR,Convergent Zones,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Stable Isotope-Based Paleoaltimetry,method,USED_FOR,Subduction Zones,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Stable Isotope-Based Paleoaltimetry,method,USED_FOR,Transform Faults,topic,,,GEOL_4135_triples_raw.json
+GEOL_4135,Stable Isotope-Based Paleoaltimetry,method,USED_FOR,Convergent Zones,topic,,,GEOL_4135_triples_raw.json

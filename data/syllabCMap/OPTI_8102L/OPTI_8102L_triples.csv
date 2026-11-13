@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPTI_8102L,Index Measurement,topic,PREREQUISITE_OF,Geometrical Optics Lab,topic,A mentioned first,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Thin Lenses,topic,PREREQUISITE_OF,Imaging Systems,topic,A taught first,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Fiber Optics Basics,topic,PREREQUISITE_OF,Fringe Projection Profilometry,topic,A taught first,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Refraction Index Measurement,concept,PART_OF,Index Measurement,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Light Path Deviation,concept,PART_OF,Geometrical Optics Lab,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Mirror Focal Length Formula,concept,PART_OF,Spherical Mirrors,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Image Formation with Mirrors,concept,PART_OF,Spherical Mirrors,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Concave Mirror Properties,concept,PART_OF,Spherical Mirrors,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Lensmaker's Equation Derivation,concept,PART_OF,Thin Lenses,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Focal Length Calculation Method,concept,PART_OF,Thin Lenses,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Thin Lens Imaging Behavior,concept,PART_OF,Thin Lenses,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Optical System Alignment,concept,PART_OF,Imaging Systems,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Image Formation Principles,concept,PART_OF,Imaging Systems,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,System Resolution Limitations,concept,PART_OF,Imaging Systems,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Seidel Aberration Types,concept,PART_OF,Aberration Correction,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Spherical Aberration Reduction,concept,PART_OF,Aberration Correction,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Fiber Optic Transmission Principle,concept,PART_OF,Fiber Optics Basics,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Light Propagation in Fibers,concept,PART_OF,Fiber Optics Basics,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Attenuation and Dispersion Effects,concept,PART_OF,Fiber Optics Basics,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Interference Pattern Analysis,concept,PART_OF,Fringe Projection Profilometry,topic,,,OPTI_8102L_triples_raw.json
+OPTI_8102L,Profiling with Fringe Patterns,concept,PART_OF,Fringe Projection Profilometry,topic,,,OPTI_8102L_triples_raw.json

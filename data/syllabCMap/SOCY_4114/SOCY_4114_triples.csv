@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4114,Career Development,topic,PREREQUISITE_OF,Career Portfolio Importance,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Career Development,topic,PREREQUISITE_OF,Sociology Career Paths,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Interviewing Strategies and Techniques,topic,PREREQUISITE_OF,Effective Interview Questions,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Resume Writing and Design,topic,PREREQUISITE_OF,Curriculum Vitae vs Resume,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Resume Writing and Design,topic,PREREQUISITE_OF,Action Verbs and Keywords,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Resume Writing and Design,topic,PREREQUISITE_OF,Tailoring Resumes to Jobs,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Cover Letter Writing and Tips,topic,PREREQUISITE_OF,Introduction and Hook Statements,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Cover Letter Writing and Tips,topic,PREREQUISITE_OF,Summary of Qualifications,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Cover Letter Writing and Tips,topic,PREREQUISITE_OF,Closing and Signature Block,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Salary Negotiation and Confidence,topic,PREREQUISITE_OF,Researching Market Rates,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Salary Negotiation and Confidence,topic,PREREQUISITE_OF,Assertive Communication Skills,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Salary Negotiation and Confidence,topic,PREREQUISITE_OF,Negotiating Salary and Benefits,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Highlighting Transferable Skills,topic,PREREQUISITE_OF,Critical Thinking and Analysis,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Highlighting Transferable Skills,topic,PREREQUISITE_OF,Problem-Solving and Adaptability,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Highlighting Transferable Skills,topic,PREREQUISITE_OF,Leadership and Teamwork Experience,concept,same unit,,SOCY_4114_triples_raw.json
+SOCY_4114,Career Portfolio Importance,concept,PART_OF,Career Development,topic,,,SOCY_4114_triples_raw.json
+SOCY_4114,Professionalism in Academia,concept,PART_OF,Career Development,topic,,,SOCY_4114_triples_raw.json
+SOCY_4114,Sociology Career Paths,concept,PART_OF,Career Development,topic,,,SOCY_4114_triples_raw.json
+SOCY_4114,Tailoring Resumes to Jobs,concept,PART_OF,Resume Writing and Design,topic,,,SOCY_4114_triples_raw.json
+SOCY_4114,Introduction and Hook Statements,concept,PART_OF,Cover Letter Writing and Tips,topic,,,SOCY_4114_triples_raw.json
+SOCY_4114,Researching Market Rates,concept,PART_OF,Salary Negotiation and Confidence,topic,,,SOCY_4114_triples_raw.json
+SOCY_4114,Assertive Communication Skills,concept,PART_OF,Salary Negotiation and Confidence,topic,,,SOCY_4114_triples_raw.json
+SOCY_4114,Negotiating Salary and Benefits,concept,PART_OF,Salary Negotiation and Confidence,topic,,,SOCY_4114_triples_raw.json
+SOCY_4114,Critical Thinking and Analysis,concept,PART_OF,Highlighting Transferable Skills,topic,,,SOCY_4114_triples_raw.json
+SOCY_4114,Leadership and Teamwork Experience,concept,PART_OF,Highlighting Transferable Skills,topic,,,SOCY_4114_triples_raw.json

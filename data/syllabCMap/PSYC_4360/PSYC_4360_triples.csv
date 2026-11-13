@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_4360,Health Psychology,topic,PREREQUISITE_OF,Stress and Coping,topic,A taught first,,PSYC_4360_triples_raw.json
+PSYC_4360,Health Psychology,topic,PREREQUISITE_OF,Health-Related Behaviors,topic,A taught first,,PSYC_4360_triples_raw.json
+PSYC_4360,Health Psychology,topic,PREREQUISITE_OF,Health Care Delivery,topic,A taught first,,PSYC_4360_triples_raw.json
+PSYC_4360,Health Psychology,topic,PART_OF,Health Care Delivery,topic,,,PSYC_4360_triples_raw.json
+PSYC_4360,Health-Related Behaviors,topic,PART_OF,Health Psychology,topic,,,PSYC_4360_triples_raw.json
+PSYC_4360,Stress and Coping,topic,PART_OF,Health Psychology,topic,,,PSYC_4360_triples_raw.json
+PSYC_4360,Mental Health Disorders and Treatments,topic,PART_OF,Health Psychology,topic,,,PSYC_4360_triples_raw.json

@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_1221,mean and median calculation,concept,PART_OF,Descriptive Statistics,topic,,,STAT_1221_triples_raw.json
+STAT_1221,variance and standard deviation,concept,PART_OF,Descriptive Statistics,topic,,,STAT_1221_triples_raw.json
+STAT_1221,interpreting histograms,concept,PART_OF,Descriptive Statistics,topic,,,STAT_1221_triples_raw.json
+STAT_1221,rule of probability addition,concept,PART_OF,Probability Basics,topic,,,STAT_1221_triples_raw.json
+STAT_1221,independent events,concept,PART_OF,Probability Basics,topic,,,STAT_1221_triples_raw.json
+STAT_1221,conditional probability,concept,PART_OF,Probability Basics,topic,,,STAT_1221_triples_raw.json
+STAT_1221,binomial distribution formula,concept,PART_OF,Discrete Random Variables,topic,,,STAT_1221_triples_raw.json
+STAT_1221,geometric distribution,concept,PART_OF,Discrete Random Variables,topic,,,STAT_1221_triples_raw.json
+STAT_1221,normal distribution properties,concept,PART_OF,Continuous Random Variables,topic,,,STAT_1221_triples_raw.json
+STAT_1221,z-scores and percentiles,concept,PART_OF,Continuous Random Variables,topic,,,STAT_1221_triples_raw.json
+STAT_1221,central limit theorem statement,concept,PART_OF,Sampling Distribution,topic,,,STAT_1221_triples_raw.json
+STAT_1221,sampling distribution shape,concept,PART_OF,Sampling Distribution,topic,,,STAT_1221_triples_raw.json
+STAT_1221,point estimators and interval estimators,concept,PART_OF,Estimation and Confidence Intervals,topic,,,STAT_1221_triples_raw.json
+STAT_1221,margin of error calculation,concept,PART_OF,Estimation and Confidence Intervals,topic,,,STAT_1221_triples_raw.json
+STAT_1221,null and alternative hypotheses,concept,PART_OF,Hypothesis Testing,topic,,,STAT_1221_triples_raw.json
+STAT_1221,test statistics and p-values,concept,PART_OF,Hypothesis Testing,topic,,,STAT_1221_triples_raw.json
+STAT_1221,type I and type II errors,concept,PART_OF,Hypothesis Testing,topic,,,STAT_1221_triples_raw.json
+STAT_1221,simple linear regression model,concept,PART_OF,Linear Regression Basics,topic,,,STAT_1221_triples_raw.json
+STAT_1221,coefficient of determination,concept,PART_OF,Linear Regression Basics,topic,,,STAT_1221_triples_raw.json
+STAT_1221,residual plots and analysis,concept,PART_OF,Linear Regression Basics,topic,,,STAT_1221_triples_raw.json

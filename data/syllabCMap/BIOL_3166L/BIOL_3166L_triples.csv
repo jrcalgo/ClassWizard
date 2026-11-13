@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_3166L,lab safety protocols,concept,PART_OF,Genetics Laboratory,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,equipment usage guidelines,concept,PART_OF,Genetics Laboratory,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,double helix model,concept,PART_OF,DNA Structure and Function,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,base pairing rules,concept,PART_OF,DNA Structure and Function,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,nucleotide composition,concept,PART_OF,DNA Structure and Function,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,genotype vs phenotype,concept,PART_OF,Mendelian Genetics,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,dominant and recessive traits,concept,PART_OF,Mendelian Genetics,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,Punnett square analysis,concept,PART_OF,Mendelian Genetics,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,autosomes and sex chromosomes,concept,PART_OF,Chromosomal Inheritance,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,karyotyping techniques,concept,PART_OF,Chromosomal Inheritance,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,chromosomal mutations,concept,PART_OF,Chromosomal Inheritance,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,DNA extraction methods,concept,PART_OF,Molecular Genetics Techniques,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,PCR amplification process,concept,PART_OF,Molecular Genetics Techniques,topic,,,BIOL_3166L_triples_raw.json
+BIOL_3166L,gel electrophoresis,concept,PART_OF,Molecular Genetics Techniques,topic,,,BIOL_3166L_triples_raw.json

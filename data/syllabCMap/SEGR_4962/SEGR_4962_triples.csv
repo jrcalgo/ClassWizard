@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_4962,supply and demand dynamics,concept,PREREQUISITE_OF,marginal cost,concept,same unit,,SEGR_4962_triples_raw.json
+SEGR_4962,supply and demand dynamics,concept,PREREQUISITE_OF,constrained optimization problems,concept,A taught first,,SEGR_4962_triples_raw.json
+SEGR_4962,marginal cost,concept,PREREQUISITE_OF,electricity market economics,concept,A taught first,,SEGR_4962_triples_raw.json
+SEGR_4962,marginal cost,concept,PREREQUISITE_OF,locational marginal price,concept,A taught first,,SEGR_4962_triples_raw.json
+SEGR_4962,locational marginal price,concept,PART_OF,Market Clearing Mechanisms,topic,,,SEGR_4962_triples_raw.json
+SEGR_4962,constrained optimization problems,concept,PART_OF,Market Clearing Mechanisms,topic,,,SEGR_4962_triples_raw.json

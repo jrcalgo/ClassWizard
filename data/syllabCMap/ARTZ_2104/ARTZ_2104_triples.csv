@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTZ_2104,Domain-Specific Research and Theory,concept,PREREQUISITE_OF,Using Digital Presentation Tools,concept,B taught first,B is taught before A - check,ARTZ_2104_triples_raw.json
+ARTZ_2104,Definition of Installation Art,concept,PART_OF,Installation Art,topic,,,ARTZ_2104_triples_raw.json

@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_8119,Probability Theory,topic,PREREQUISITE_OF,Bayesian Estimation,concept,same unit,,ECGR_8119_triples_raw.json
+ECGR_8119,Probability Theory,topic,PREREQUISITE_OF,Decision Making,concept,same unit,,ECGR_8119_triples_raw.json
+ECGR_8119,Pattern Recognition and Machine Learning,topic,PREREQUISITE_OF,Deep Learning Frameworks,topic,B mentioned first,,ECGR_8119_triples_raw.json
+ECGR_8119,Pattern Recognition and Machine Learning,topic,PREREQUISITE_OF,Object Detection and Segmentation,topic,B mentioned first,,ECGR_8119_triples_raw.json
+ECGR_8119,Bayesian Estimation,concept,PART_OF,Probability Theory,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,Multi-Dimensional Gaussian Distribution,concept,PART_OF,Probability Theory,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,Decision Making,concept,PART_OF,Probability Theory,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,CNN Basics,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,Optimizers,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,Loss Functions,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,Object Detection,concept,PART_OF,Machine Vision,concept,,,ECGR_8119_triples_raw.json
+ECGR_8119,Segmentation,concept,PART_OF,Machine Vision,concept,,,ECGR_8119_triples_raw.json
+ECGR_8119,Convolutional Neural Networks,concept,PART_OF,Advance DL frameworks,concept,,,ECGR_8119_triples_raw.json
+ECGR_8119,Representation Learning,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,Multi-Task Learning,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,Recurrent Neural Network,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,LSTM,concept,PART_OF,Recurrent Neural Network,concept,,,ECGR_8119_triples_raw.json
+ECGR_8119,Transformers,concept,PART_OF,Deep Learning Frameworks,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,Autoencoders,concept,PART_OF,Advance DL frameworks,concept,,,ECGR_8119_triples_raw.json
+ECGR_8119,GANs,concept,PART_OF,Advance DL frameworks,concept,,,ECGR_8119_triples_raw.json
+ECGR_8119,MATLAB,tool,USED_FOR,Pattern Recognition and Machine Learning,topic,,,ECGR_8119_triples_raw.json
+ECGR_8119,Python,tool,USED_FOR,Pattern Recognition and Machine Learning,topic,,,ECGR_8119_triples_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AAHP_3790,honors capstone project,concept,PREREQUISITE_OF,Oral Presentation Preparation,topic,A taught first,,AAHP_3790_triples_raw.json
+AAHP_3790,Studio-Based Workplan Development,topic,PREREQUISITE_OF,thesis statement development,concept,A taught first,,AAHP_3790_triples_raw.json
+AAHP_3790,Writing a Research-Based Thesis,topic,PREREQUISITE_OF,effective oral communication skills,concept,A taught first,,AAHP_3790_triples_raw.json
+AAHP_3790,Proposal Drafting and Revisions,topic,PART_OF,Honors Candidacy,topic,,,AAHP_3790_triples_raw.json
+AAHP_3790,proposal structure and content,concept,PART_OF,Proposal Drafting and Revisions,topic,,,AAHP_3790_triples_raw.json
+AAHP_3790,revising and editing techniques,concept,PART_OF,Proposal Drafting and Revisions,topic,,,AAHP_3790_triples_raw.json
+AAHP_3790,literature review basics,concept,PART_OF,conducting research effectively,concept,,,AAHP_3790_triples_raw.json
+AAHP_3790,studio-based project planning,concept,PART_OF,Studio-Based Workplan Development,topic,,,AAHP_3790_triples_raw.json
+AAHP_3790,thesis statement development,concept,PART_OF,Writing a Research-Based Thesis,topic,,,AAHP_3790_triples_raw.json
+AAHP_3790,proposal structure and content,concept,USED_FOR,Proposal Drafting and Revisions,topic,,,AAHP_3790_triples_raw.json

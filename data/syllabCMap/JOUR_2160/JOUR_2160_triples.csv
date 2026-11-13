@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JOUR_2160,News Reporting,topic,PREREQUISITE_OF,Feature Writing,topic,A mentioned first,,JOUR_2160_triples_raw.json
+JOUR_2160,News Reporting,topic,PREREQUISITE_OF,Ethical Decision-Making,topic,A mentioned first,,JOUR_2160_triples_raw.json
+JOUR_2160,News Reporting,topic,PREREQUISITE_OF,Information Gathering,topic,A taught first,,JOUR_2160_triples_raw.json
+JOUR_2160,News Reporting,topic,PREREQUISITE_OF,Editing,topic,A mentioned first,,JOUR_2160_triples_raw.json
+JOUR_2160,News Reporting,topic,PREREQUISITE_OF,Associated Press (AP) style,tool,A mentioned first,,JOUR_2160_triples_raw.json
+JOUR_2160,basic reporting techniques,concept,PART_OF,Information Gathering,topic,,,JOUR_2160_triples_raw.json

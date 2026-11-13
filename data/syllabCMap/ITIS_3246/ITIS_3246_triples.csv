@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_3246,Authorization and Access Control,concept,PART_OF,Secured Access Fundamentals,topic,,,ITIS_3246_triples_raw.json
+ITIS_3246,Types of File Storage Systems,concept,PART_OF,File Storage Services,topic,,,ITIS_3246_triples_raw.json
+ITIS_3246,Configuring File Sharing Permissions,concept,PART_OF,File Storage Services,topic,,,ITIS_3246_triples_raw.json
+ITIS_3246,Understanding Network Topology,concept,PART_OF,Network Service Design,topic,,,ITIS_3246_triples_raw.json
+ITIS_3246,Designing Secure Network Architecture,concept,PART_OF,Network Service Design,topic,,,ITIS_3246_triples_raw.json
+ITIS_3246,Configuring Firewalls and VPNs,concept,PART_OF,Advanced Network Configuration,topic,,,ITIS_3246_triples_raw.json
+ITIS_3246,Implementing Load Balancing Techniques,concept,PART_OF,Advanced Network Configuration,topic,,,ITIS_3246_triples_raw.json

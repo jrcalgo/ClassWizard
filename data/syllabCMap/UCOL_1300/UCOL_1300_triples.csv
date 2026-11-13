@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+UCOL_1300,Academic Success Goals,concept,PART_OF,Academic Success Seminar,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,College Expectations,concept,PART_OF,Academic Success Seminar,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Student Responsibilities,concept,PART_OF,Academic Success Seminar,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Note Taking Methods,concept,PART_OF,Effective Study Strategies,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Library Services Overview,concept,PART_OF,Resource Utilization,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Tutoring and Support Options,concept,PART_OF,Resource Utilization,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Campus Resources Directory,concept,PART_OF,Resource Utilization,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Learning Style Identification,concept,PART_OF,Learning Preferences,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Personalized Learning Plans,concept,PART_OF,Learning Preferences,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Academic Strengths Assessment,concept,PART_OF,Learning Preferences,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Short-Term Goal Setting,concept,PART_OF,Goal Setting and Planning,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Long-Term Academic Planning,concept,PART_OF,Goal Setting and Planning,topic,,,UCOL_1300_triples_raw.json
+UCOL_1300,Action Plan Development,concept,PART_OF,Goal Setting and Planning,topic,,,UCOL_1300_triples_raw.json

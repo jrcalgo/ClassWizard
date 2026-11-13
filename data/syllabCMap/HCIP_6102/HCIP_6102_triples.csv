@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCIP_6102,healthcare sciences,concept,PREREQUISITE_OF,data analysis in medicine and health,topic,A mentioned first,,HCIP_6102_triples_raw.json
+HCIP_6102,public health,concept,PREREQUISITE_OF,healthcare sciences,concept,same unit,,HCIP_6102_triples_raw.json
+HCIP_6102,biostatistics,topic,PREREQUISITE_OF,data analysis in medicine and health,topic,A mentioned first,,HCIP_6102_triples_raw.json
+HCIP_6102,SAS,tool,PREREQUISITE_OF,data analytics team project,method,A taught first,,HCIP_6102_triples_raw.json
+HCIP_6102,R/RStudio,tool,PREREQUISITE_OF,data analytics team project,method,B mentioned first,,HCIP_6102_triples_raw.json
+HCIP_6102,Python,tool,PREREQUISITE_OF,data analytics team project,method,B mentioned first,,HCIP_6102_triples_raw.json
+HCIP_6102,SPSS,tool,PREREQUISITE_OF,data analytics team project,method,B mentioned first,,HCIP_6102_triples_raw.json
+HCIP_6102,Stata,tool,PREREQUISITE_OF,data analytics team project,method,B mentioned first,,HCIP_6102_triples_raw.json
+HCIP_6102,data analysis in medicine and health,topic,PART_OF,healthcare sciences,concept,,part is broader than whole - check direction,HCIP_6102_triples_raw.json
+HCIP_6102,public health,concept,PART_OF,healthcare sciences,concept,,,HCIP_6102_triples_raw.json
+HCIP_6102,biostatistics,topic,PART_OF,healthcare sciences,concept,,part is broader than whole - check direction,HCIP_6102_triples_raw.json
+HCIP_6102,health informatics,topic,PART_OF,healthcare sciences,concept,,part is broader than whole - check direction,HCIP_6102_triples_raw.json
+HCIP_6102,data profiling,method,PART_OF,data integration,method,,,HCIP_6102_triples_raw.json
+HCIP_6102,imputation,method,PART_OF,data integration,method,,,HCIP_6102_triples_raw.json
+HCIP_6102,data integration,method,PART_OF,data analytics team project,method,,,HCIP_6102_triples_raw.json
+HCIP_6102,population health,measure,SUBTYPE_OF,public health,concept,,,HCIP_6102_triples_raw.json
+HCIP_6102,health disparities,measure,SUBTYPE_OF,public health,concept,,,HCIP_6102_triples_raw.json
+HCIP_6102,SAS,tool,USED_FOR,data analytics team project,method,,,HCIP_6102_triples_raw.json
+HCIP_6102,R/RStudio,tool,USED_FOR,data analytics team project,method,,,HCIP_6102_triples_raw.json
+HCIP_6102,Python,tool,USED_FOR,data analytics team project,method,,,HCIP_6102_triples_raw.json
+HCIP_6102,SPSS,tool,USED_FOR,data analytics team project,method,,,HCIP_6102_triples_raw.json
+HCIP_6102,Stata,tool,USED_FOR,data analytics team project,method,,,HCIP_6102_triples_raw.json
+HCIP_6102,SQL,tool,USED_FOR,data integration,method,,,HCIP_6102_triples_raw.json

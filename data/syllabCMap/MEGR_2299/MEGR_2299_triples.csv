@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2299,personal protective equipment,concept,PREREQUISITE_OF,fire extinguisher procedures,concept,same unit,,MEGR_2299_triples_raw.json
+MEGR_2299,machine shop equipment operation,concept,PREREQUISITE_OF,measurement tools and instruments,concept,same unit,,MEGR_2299_triples_raw.json
+MEGR_2299,mathematical modeling techniques,concept,PREREQUISITE_OF,problem solving strategies,concept,same unit,,MEGR_2299_triples_raw.json
+MEGR_2299,motorsports engineering fields,concept,PART_OF,Motorsports Engineering,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,lab safety protocols,concept,PART_OF,Lab Safety and Equipment,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,personal protective equipment,concept,PART_OF,Lab Safety and Equipment,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,fire extinguisher procedures,concept,PART_OF,Lab Safety and Equipment,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,metalworking processes,concept,PART_OF,Motorsports Fabrication Techniques,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,fabrication tools and equipment,concept,PART_OF,Motorsports Fabrication Techniques,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,material selection and properties,concept,PART_OF,Motorsports Fabrication Techniques,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,component assembly procedures,concept,PART_OF,Assembly and Project Management,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,quality control measures,concept,PART_OF,Assembly and Project Management,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,mathematical modeling techniques,concept,PART_OF,Analytical Problem Solving,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,critical thinking and analysis,concept,PART_OF,Analytical Problem Solving,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,iterative design process,concept,PART_OF,Motorsports Project Development,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,prototyping and testing procedures,concept,PART_OF,Motorsports Project Development,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,mathematical modeling techniques,concept,USED_FOR,Analytical Problem Solving,topic,,,MEGR_2299_triples_raw.json
+MEGR_2299,machine shop equipment operation,concept,USED_FOR,Motorsports Lab Equipment Familiarization,topic,,,MEGR_2299_triples_raw.json

@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPOA_2110,topic,Sports Business Analytics,Sports Business Analytics,1,verified,Sports Business Analytics,SPOA_2110_concepts_raw.json
+SPOA_2110,topic,Sports Data Acquisition,sports data acquisition,1,verified,Sports Data Acquisition,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,critical thinking ability,critical thinking ability,1,verified,critical thinking ability,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,basic statistical concepts,basic statistical concepts,1,verified,basic statistical concepts,SPOA_2110_concepts_raw.json
+SPOA_2110,topic,SBA,SBA,2,inferred,Introduction to SBA,SPOA_2110_concepts_raw.json
+SPOA_2110,topic,Statistical Concepts in Sports,Statistical Concepts in Sports,1,inferred,Statistical Concepts in Sports,SPOA_2110_concepts_raw.json
+SPOA_2110,topic,Sports Business Decision Making,Sports Business Decision Making,1,inferred,Sports Business Decision Making,SPOA_2110_concepts_raw.json
+SPOA_2110,topic,Case Studies: Professional Sports Franchises,Case Studies: Professional Sports Franchises,1,inferred,Case Studies: Professional Sports Franchises,SPOA_2110_concepts_raw.json
+SPOA_2110,topic,Guest Speaker Projects,Guest Speaker Projects,1,inferred,Guest Speaker Projects,SPOA_2110_concepts_raw.json
+SPOA_2110,topic,Case Studies: Individual Decision Makers,Case Studies: Individual Decision Makers,1,inferred,Case Studies: Individual Decision Makers,SPOA_2110_concepts_raw.json
+SPOA_2110,topic,Career Development and Competencies,Career Development and Competencies,1,inferred,Career Development and Competencies,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,problem solving skills,Problem Solving Skills,1,inferred,problem solving skills,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,applications in sports world,Applications in Sports World,1,inferred,applications in sports world,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,data analysis techniques,Data Analysis Techniques,1,inferred,data analysis techniques,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,methods of data collection,Methods of Data Collection,1,inferred,methods of data collection,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,data processing and cleaning,Data Processing and Cleaning,1,inferred,data processing and cleaning,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,data visualization tools,Data Visualization Tools,1,inferred,data visualization tools,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,decision-making process in sports,Decision-Making Process in Sports,1,inferred,decision-making process in sports,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,recognizing opportunities and threats,Recognizing Opportunities and Threats,1,inferred,recognizing opportunities and threats,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,formulating and analyzing decisions,Formulating and Analyzing Decisions,1,inferred,formulating and analyzing decisions,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,business performance metrics,Business Performance Metrics,1,inferred,business performance metrics,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,identifying areas for improvement,Identifying Areas for Improvement,1,inferred,identifying areas for improvement,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,developing strategic plans,Developing Strategic Plans,1,inferred,developing strategic plans,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,industry insights and trends,Industry Insights and Trends,1,inferred,industry insights and trends,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,best practices in SBA,Best Practices in SBA,1,inferred,best practices in SBA,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,networking opportunities,Networking Opportunities,1,inferred,networking opportunities,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,personal decision-making styles,Personal Decision-Making Styles,1,inferred,personal decision-making styles,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,identifying biases and assumptions,Identifying Biases and Assumptions,1,inferred,identifying biases and assumptions,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,effective communication skills,Effective Communication Skills,1,inferred,effective communication skills,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,career goals and objectives,Career Goals and Objectives,1,inferred,career goals and objectives,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,essential soft skills,Essential Soft Skills,1,inferred,essential soft skills,SPOA_2110_concepts_raw.json
+SPOA_2110,concept,creating a professional network,Creating a Professional Network,1,inferred,creating a professional network,SPOA_2110_concepts_raw.json

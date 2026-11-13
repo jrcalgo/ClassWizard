@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_2112L,topic,Networks Laboratory,Networks Laboratory,1,verified,Networks Laboratory,ECGR_2112L_concepts_raw.json
+ECGR_2112L,topic,Series and Parallel Circuits,Series and Parallel Circuits,2,verified,Series and Parallel Circuits,ECGR_2112L_concepts_raw.json
+ECGR_2112L,topic,Thevenin and Norton Circuits,Thevenin and Norton Circuits,1,verified,Thevenin and Norton Circuits,ECGR_2112L_concepts_raw.json
+ECGR_2112L,topic,Circuit Analysis Methods,circuit analysis methods,1,verified,Circuit Analysis Methods,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Standard Laboratory Instruments,standard laboratory instruments,1,verified,Standard Laboratory Instruments,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Digital Multi-meters,digital multi-meters,1,verified,Digital Multi-meters,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Oscilloscopes,oscilloscopes,2,verified,Oscilloscopes,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Power Supplies,power supplies,2,verified,Power Supplies,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Multimeters,multimeters,1,verified,Multimeters,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Common Electrical Components,common electrical components,2,verified,Common Electrical Components,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Performance Characteristics,Performance characteristics,1,verified,Performance Characteristics,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Basic Schematic Diagrams,basic schematic diagrams,1,verified,Basic Schematic Diagrams,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Parallel Circuits,Parallel Circuits,2,verified,Parallel Circuits,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Norton Theorem,Norton theorems,1,verified,Norton Theorem,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Time Constant of RC Networks,Time Constant of RC Network,1,verified,Time Constant of RC Networks,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,AC Operation of RLC Networks,AC Operation of RLC Networks,1,verified,AC Operation of RLC Networks,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Resonance in Series and Parallel RLC Networks,Resonance in Series and Parallel RLC Networks,1,verified,Resonance in Series and Parallel RLC Networks,ECGR_2112L_concepts_raw.json
+ECGR_2112L,concept,Real and Complex Power,real and complex power,1,verified,Real and Complex Power,ECGR_2112L_concepts_raw.json
+ECGR_2112L,method,Circuit debugging techniques,Circuit debugging techniques,1,verified,Circuit debugging techniques,ECGR_2112L_concepts_raw.json
+ECGR_2112L,tool,Signal generators,signal generators,1,verified,Signal generators,ECGR_2112L_concepts_raw.json

@@ -1,0 +1,78 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PPOL_8101,descriptive statistics,concept,PREREQUISITE_OF,sampling distributions,concept,same unit,,PPOL_8101_triples_raw.json
+PPOL_8101,probability theory,concept,PREREQUISITE_OF,hypothesis testing,method,A taught first,,PPOL_8101_triples_raw.json
+PPOL_8101,conceptualization,concept,PREREQUISITE_OF,operationalization,concept,same unit,,PPOL_8101_triples_raw.json
+PPOL_8101,point estimation,concept,PREREQUISITE_OF,confidence intervals,concept,same unit,,PPOL_8101_triples_raw.json
+PPOL_8101,descriptive statistics,concept,PREREQUISITE_OF,Correlation,topic,A taught first,,PPOL_8101_triples_raw.json
+PPOL_8101,descriptive statistics,concept,PREREQUISITE_OF,Estimation,topic,A taught first,,PPOL_8101_triples_raw.json
+PPOL_8101,descriptive statistics,concept,PREREQUISITE_OF,Standardization,topic,A taught first,,PPOL_8101_triples_raw.json
+PPOL_8101,descriptive statistics,concept,PART_OF,Statistics Refresher I,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,sampling distributions,concept,PART_OF,Statistics Refresher I,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,confidence intervals,concept,PART_OF,Point Estimates & Confidence Intervals,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,outliers,concept,PART_OF,distribution shape,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,point estimation,concept,PART_OF,estimation techniques,method,,part is broader than whole - check direction,PPOL_8101_triples_raw.json
+PPOL_8101,dispersion,concept,PART_OF,distribution shape,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,central tendency,concept,PART_OF,descriptive statistics,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,kurtosis,concept,PART_OF,distribution shape,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,index construction,concept,PART_OF,Conceptualization and Operationalization of Variables,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,null hypothesis,concept,PART_OF,hypothesis testing,method,,part is broader than whole - check direction,PPOL_8101_triples_raw.json
+PPOL_8101,alternative hypothesis,concept,PART_OF,hypothesis testing,method,,part is broader than whole - check direction,PPOL_8101_triples_raw.json
+PPOL_8101,confounding variables,concept,PART_OF,spurious correlation,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,correlation matrices,concept,PART_OF,Measuring Association,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,candidate predictors,concept,PART_OF,Simple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,ordinary least squares,concept,PART_OF,Simple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,slope coefficient,concept,PART_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,omitted variable bias,concept,PART_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,multicollinearity,concept,PART_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,dummy variables,concept,PART_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,mean value,concept,PART_OF,descriptive statistics,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,median value,concept,PART_OF,descriptive statistics,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,nominal scale,concept,PART_OF,levels of measurement,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,ordinal scale,concept,PART_OF,levels of measurement,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,interval scale,concept,PART_OF,levels of measurement,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,ratio scale,concept,PART_OF,levels of measurement,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,test statistic,concept,PART_OF,hypothesis testing,method,,part is broader than whole - check direction,PPOL_8101_triples_raw.json
+PPOL_8101,p-value calculation,concept,PART_OF,hypothesis testing,method,,part is broader than whole - check direction,PPOL_8101_triples_raw.json
+PPOL_8101,spearman rank order,concept,PART_OF,Measuring Association,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,pearson product moment,concept,PART_OF,Measuring Association,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,coefficient of determination,concept,PART_OF,Correlation,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,intercept coefficient,concept,PART_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,linearity assumption,concept,PART_OF,classical assumptions,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,independence assumption,concept,PART_OF,classical assumptions,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,homoscedasticity assumption,concept,PART_OF,classical assumptions,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,outliers,concept,SUBTYPE_OF,distribution shape,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,conceptualization,concept,SUBTYPE_OF,Conceptualization and Operationalization of Variables,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,levels of measurement,concept,SUBTYPE_OF,Conceptualization and Operationalization of Variables,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,point estimation,concept,SUBTYPE_OF,estimation techniques,method,,,PPOL_8101_triples_raw.json
+PPOL_8101,dispersion,concept,SUBTYPE_OF,distribution shape,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,central tendency,concept,SUBTYPE_OF,descriptive statistics,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,symmetry,concept,SUBTYPE_OF,distribution shape,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,skewness,concept,SUBTYPE_OF,distribution shape,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,kurtosis,concept,SUBTYPE_OF,distribution shape,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,index construction,concept,SUBTYPE_OF,Conceptualization and Operationalization of Variables,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,null hypothesis,concept,SUBTYPE_OF,hypothesis testing,method,,,PPOL_8101_triples_raw.json
+PPOL_8101,alternative hypothesis,concept,SUBTYPE_OF,hypothesis testing,method,,,PPOL_8101_triples_raw.json
+PPOL_8101,confounding variables,concept,SUBTYPE_OF,spurious correlation,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,correlation matrices,concept,SUBTYPE_OF,Measuring Association,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,candidate predictors,concept,SUBTYPE_OF,Simple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,ordinary least squares,concept,SUBTYPE_OF,Simple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,slope coefficient,concept,SUBTYPE_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,omitted variable bias,concept,SUBTYPE_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,multicollinearity,concept,SUBTYPE_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,dummy variables,concept,SUBTYPE_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,mean value,concept,SUBTYPE_OF,descriptive statistics,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,median value,concept,SUBTYPE_OF,descriptive statistics,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,nominal scale,concept,SUBTYPE_OF,levels of measurement,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,ordinal scale,concept,SUBTYPE_OF,levels of measurement,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,interval scale,concept,SUBTYPE_OF,levels of measurement,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,ratio scale,concept,SUBTYPE_OF,levels of measurement,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,reliability vs. validity of a measure,concept,SUBTYPE_OF,Conceptualization and Operationalization of Variables,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,test statistic,concept,SUBTYPE_OF,hypothesis testing,method,,,PPOL_8101_triples_raw.json
+PPOL_8101,p-value calculation,concept,SUBTYPE_OF,hypothesis testing,method,,,PPOL_8101_triples_raw.json
+PPOL_8101,spearman rank order,concept,SUBTYPE_OF,Measuring Association,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,pearson product moment,concept,SUBTYPE_OF,Measuring Association,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,coefficient of determination,concept,SUBTYPE_OF,Correlation,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,intercept coefficient,concept,SUBTYPE_OF,Multiple Linear Regression,topic,,,PPOL_8101_triples_raw.json
+PPOL_8101,linearity assumption,concept,SUBTYPE_OF,classical assumptions,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,independence assumption,concept,SUBTYPE_OF,classical assumptions,concept,,,PPOL_8101_triples_raw.json
+PPOL_8101,homoscedasticity assumption,concept,SUBTYPE_OF,classical assumptions,concept,,,PPOL_8101_triples_raw.json

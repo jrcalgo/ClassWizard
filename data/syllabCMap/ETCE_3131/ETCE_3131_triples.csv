@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETCE_3131,soil weight and volume relationships,concept,PART_OF,soil mechanics,topic,,,ETCE_3131_triples_raw.json
+ETCE_3131,Unified Soil Classification system,concept,PART_OF,soil classification,topic,,,ETCE_3131_triples_raw.json
+ETCE_3131,soil compaction characteristics,concept,PART_OF,soil compaction,topic,,,ETCE_3131_triples_raw.json
+ETCE_3131,soil exploration,topic,PART_OF,soil mechanics,topic,,,ETCE_3131_triples_raw.json

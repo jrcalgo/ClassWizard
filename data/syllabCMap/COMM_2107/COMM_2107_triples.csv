@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_2107,Cultural Differences,concept,PREREQUISITE_OF,Gender Roles,concept,A taught first,,COMM_2107_triples_raw.json
+COMM_2107,Metacommunication,topic,PREREQUISITE_OF,Analysis Techniques,concept,same unit,,COMM_2107_triples_raw.json
+COMM_2107,Effective Communication Skills,topic,PART_OF,Interpersonal Communication,concept,,part is broader than whole - check direction,COMM_2107_triples_raw.json
+COMM_2107,Self-Presentation,topic,PART_OF,Personal Identity,topic,,,COMM_2107_triples_raw.json
+COMM_2107,Academic Goals,topic,PART_OF,Professional Aspirations,topic,,,COMM_2107_triples_raw.json
+COMM_2107,Social Media Presence,topic,PART_OF,Interpersonal Communication,concept,,part is broader than whole - check direction,COMM_2107_triples_raw.json
+COMM_2107,Power Dynamics,topic,PART_OF,Interpersonal Communication,concept,,part is broader than whole - check direction,COMM_2107_triples_raw.json
+COMM_2107,Maslow's Hierarchy of Needs,concept,USED_FOR,Levels of Meaning,concept,,,COMM_2107_triples_raw.json
+COMM_2107,Inferences,concept,USED_FOR,Attribution Theory,concept,,,COMM_2107_triples_raw.json
+COMM_2107,Fundamental Attribution Error,concept,USED_FOR,Attribution Theory,concept,,,COMM_2107_triples_raw.json

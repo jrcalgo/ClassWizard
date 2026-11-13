@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+INFO_3130,topic,Information Systems,Information Systems,3,verified,Information Systems,INFO_3130_concepts_raw.json
+INFO_3130,topic,Emerging Technologies,emerging technologies,1,verified,Emerging Technologies,INFO_3130_concepts_raw.json
+INFO_3130,topic,IS Fundamentals,IS Fundamentals,1,inferred,IS Fundamentals,INFO_3130_concepts_raw.json
+INFO_3130,topic,IS Components and Users,IS Components and Users,1,inferred,IS Components and Users,INFO_3130_concepts_raw.json
+INFO_3130,topic,Conventional Technologies,Conventional Technologies,1,inferred,Conventional Technologies,INFO_3130_concepts_raw.json
+INFO_3130,topic,IS Privacy and Security,IS Privacy and Security,1,inferred,IS Privacy and Security,INFO_3130_concepts_raw.json
+INFO_3130,topic,Applying IS to Business,Applying IS to Business,1,inferred,Applying IS to Business,INFO_3130_concepts_raw.json
+INFO_3130,topic,Critical Thinking with IS,Critical Thinking with IS,1,inferred,Critical Thinking with IS,INFO_3130_concepts_raw.json
+INFO_3130,topic,Transferring Knowledge to New Technologies,Transferring Knowledge to New Technologies,1,inferred,Transferring Knowledge to New Technologies,INFO_3130_concepts_raw.json
+INFO_3130,concept,Information Systems Definition,Information Systems Definition,1,inferred,Information Systems Definition,INFO_3130_concepts_raw.json
+INFO_3130,concept,IS Terminology and Concepts,IS Terminology and Concepts,1,inferred,IS Terminology and Concepts,INFO_3130_concepts_raw.json
+INFO_3130,concept,Business Use of IS,Business Use of IS,1,inferred,Business Use of IS,INFO_3130_concepts_raw.json
+INFO_3130,concept,IS Components and Structure,IS Components and Structure,1,inferred,IS Components and Structure,INFO_3130_concepts_raw.json
+INFO_3130,concept,Types of IS Users,Types of IS Users,1,inferred,Types of IS Users,INFO_3130_concepts_raw.json
+INFO_3130,concept,IS Mission and Capabilities,IS Mission and Capabilities,1,inferred,IS Mission and Capabilities,INFO_3130_concepts_raw.json
+INFO_3130,concept,Database Management Systems,Database Management Systems,1,inferred,Database Management Systems,INFO_3130_concepts_raw.json
+INFO_3130,concept,Spreadsheets and Data Manipulation,Spreadsheets and Data Manipulation,1,inferred,Spreadsheets and Data Manipulation,INFO_3130_concepts_raw.json
+INFO_3130,concept,Word Processing Software,Word Processing Software,1,inferred,Word Processing Software,INFO_3130_concepts_raw.json
+INFO_3130,concept,Cloud Computing and Storage,Cloud Computing and Storage,1,inferred,Cloud Computing and Storage,INFO_3130_concepts_raw.json
+INFO_3130,concept,Artificial Intelligence and Machine Learning,Artificial Intelligence and Machine Learning,1,inferred,Artificial Intelligence and Machine Learning,INFO_3130_concepts_raw.json
+INFO_3130,concept,Internet of Things (IoT,Internet of Things (IoT,1,inferred,Internet of Things (IoT),INFO_3130_concepts_raw.json
+INFO_3130,concept,Data Protection and Confidentiality,Data Protection and Confidentiality,1,inferred,Data Protection and Confidentiality,INFO_3130_concepts_raw.json
+INFO_3130,concept,Network Security Measures,Network Security Measures,1,inferred,Network Security Measures,INFO_3130_concepts_raw.json
+INFO_3130,concept,Cybersecurity Threats and Risks,Cybersecurity Threats and Risks,1,inferred,Cybersecurity Threats and Risks,INFO_3130_concepts_raw.json
+INFO_3130,concept,Decision Support Systems,Decision Support Systems,1,inferred,Decision Support Systems,INFO_3130_concepts_raw.json
+INFO_3130,concept,Business Intelligence and Analytics,Business Intelligence and Analytics,1,inferred,Business Intelligence and Analytics,INFO_3130_concepts_raw.json
+INFO_3130,concept,IS for Competitive Advantage,IS for Competitive Advantage,1,inferred,IS for Competitive Advantage,INFO_3130_concepts_raw.json
+INFO_3130,concept,Problem Solving with IS Tools,Problem Solving with IS Tools,1,inferred,Problem Solving with IS Tools,INFO_3130_concepts_raw.json
+INFO_3130,concept,Analyzing Business Problems with IS,Analyzing Business Problems with IS,1,inferred,Analyzing Business Problems with IS,INFO_3130_concepts_raw.json
+INFO_3130,concept,Evaluating IS Solutions,Evaluating IS Solutions,1,inferred,Evaluating IS Solutions,INFO_3130_concepts_raw.json
+INFO_3130,concept,Technology Transfer and Adoption,Technology Transfer and Adoption,1,inferred,Technology Transfer and Adoption,INFO_3130_concepts_raw.json
+INFO_3130,concept,IS Training and Development,IS Training and Development,1,inferred,IS Training and Development,INFO_3130_concepts_raw.json

@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DTSC_2302,topic,Data Science,data science,1,verified,Data Science,DTSC_2302_concepts_raw.json
+DTSC_2302,topic,Relational Databases,relational databases,1,verified,Relational Databases,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,socially relevant challenges,socially relevant challenges,1,verified,socially relevant challenges,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,data science approach,data science approach,1,verified,data science approach,DTSC_2302_concepts_raw.json
+DTSC_2302,topic,Statistical Methods and Tools,Statistical Methods and Tools,1,inferred,Statistical Methods and Tools,DTSC_2302_concepts_raw.json
+DTSC_2302,topic,Data Collection and Ethics,Data Collection and Ethics,1,inferred,Data Collection and Ethics,DTSC_2302_concepts_raw.json
+DTSC_2302,topic,Querying Relational Databases,Querying Relational Databases,1,inferred,Querying Relational Databases,DTSC_2302_concepts_raw.json
+DTSC_2302,topic,Exploratory Data Analysis,Exploratory Data Analysis,1,inferred,Exploratory Data Analysis,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,data science definition,Data Science Definition,1,inferred,data science definition,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,database structure,Database Structure,1,inferred,database structure,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,query languages overview,Query Languages Overview,1,inferred,query languages overview,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,SQL basics,SQL Basics,1,inferred,SQL basics,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,descriptive statistics,Descriptive Statistics,1,inferred,descriptive statistics,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,inferential statistics,Inferential Statistics,1,inferred,inferential statistics,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,data visualization techniques,Data Visualization Techniques,1,inferred,data visualization techniques,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,data privacy concerns,Data Privacy Concerns,1,inferred,data privacy concerns,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,ethical data collection,Ethical Data Collection,1,inferred,ethical data collection,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,data source evaluation,Data Source Evaluation,1,inferred,data source evaluation,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,SQL query writing,SQL Query Writing,1,inferred,SQL query writing,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,database query optimization,Database Query Optimization,1,inferred,database query optimization,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,data retrieval techniques,Data Retrieval Techniques,1,inferred,data retrieval techniques,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,data cleaning and preprocessing,Data Cleaning and Preprocessing,1,inferred,data cleaning and preprocessing,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,data visualization best practices,Data Visualization Best Practices,1,inferred,data visualization best practices,DTSC_2302_concepts_raw.json
+DTSC_2302,concept,insight generation strategies,Insight Generation Strategies,1,inferred,insight generation strategies,DTSC_2302_concepts_raw.json

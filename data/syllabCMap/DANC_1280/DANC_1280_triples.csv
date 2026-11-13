@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_1280,Elements of Dance,topic,PREREQUISITE_OF,Improvisational Strategies,topic,A taught first,,DANC_1280_triples_raw.json
+DANC_1280,Improvisation,topic,PREREQUISITE_OF,Critical Thinking in Dance,topic,A taught first,,DANC_1280_triples_raw.json
+DANC_1280,Improvisation,topic,PREREQUISITE_OF,Elements of Dance,topic,A taught first,,DANC_1280_triples_raw.json
+DANC_1280,improvisational dance skills,concept,PART_OF,Improvisation,topic,,,DANC_1280_triples_raw.json
+DANC_1280,performance practices of improvisation,concept,PART_OF,Extended Improvisation,topic,,,DANC_1280_triples_raw.json
+DANC_1280,spontaneity and imagination,concept,PART_OF,Extended Improvisation,topic,,,DANC_1280_triples_raw.json
+DANC_1280,generating and elaborating movement,method,USED_FOR,Improvisational Strategies,topic,,,DANC_1280_triples_raw.json

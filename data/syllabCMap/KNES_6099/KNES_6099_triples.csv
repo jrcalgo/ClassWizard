@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_6099,Current Research Topics,concept,PREREQUISITE_OF,Emerging Practices in Kinesiology,concept,same unit,,KNES_6099_triples_raw.json
+KNES_6099,Critical Thinking Skills,concept,PREREQUISITE_OF,Scholarly Perspectives and Debates,topic,A taught first,,KNES_6099_triples_raw.json
+KNES_6099,Multiple Theoretical Frameworks,concept,PREREQUISITE_OF,Debate Strategies and Tactics,concept,same unit,,KNES_6099_triples_raw.json
+KNES_6099,Critical Thinking Skills,concept,PART_OF,Scholarly Perspectives and Debates,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Current Research Topics,concept,PART_OF,Kinesiology Trends and Issues,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Global Health Concerns,concept,PART_OF,Kinesiology Trends and Issues,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Multiple Theoretical Frameworks,concept,PART_OF,Scholarly Perspectives and Debates,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Critical Analysis Techniques,concept,PART_OF,Scholarly Perspectives and Debates,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Debate Strategies and Tactics,concept,PART_OF,Scholarly Perspectives and Debates,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Professional Development Opportunities,concept,PART_OF,"Institutes, Workshops, and Seminars",topic,,,KNES_6099_triples_raw.json
+KNES_6099,Best Practices for Presentations,concept,PART_OF,"Institutes, Workshops, and Seminars",topic,,,KNES_6099_triples_raw.json
+KNES_6099,Research Design and Methodology,concept,PART_OF,Independent Studies and Projects,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Data Collection and Analysis Techniques,concept,PART_OF,Independent Studies and Projects,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Project Management Strategies,concept,PART_OF,Independent Studies and Projects,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Self-Assessment and Reflection,concept,PART_OF,Midterm Evaluation and Feedback,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Peer Review and Feedback,concept,PART_OF,Midterm Evaluation and Feedback,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Instructor Guidance and Support,concept,PART_OF,Midterm Evaluation and Feedback,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Effective Communication Skills,concept,PART_OF,Student Showcase and Presentations,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Presentation Techniques and Strategies,concept,PART_OF,Student Showcase and Presentations,topic,,,KNES_6099_triples_raw.json
+KNES_6099,Confidence Building and Public Speaking,concept,PART_OF,Student Showcase and Presentations,topic,,,KNES_6099_triples_raw.json

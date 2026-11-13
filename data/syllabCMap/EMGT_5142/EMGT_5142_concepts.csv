@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EMGT_5142,topic,Bayesian Analysis,Bayesian Analysis,1,verified,Bayesian Analysis,EMGT_5142_concepts_raw.json
+EMGT_5142,topic,Human Decision,Human Decision,1,verified,Human Decision,EMGT_5142_concepts_raw.json
+EMGT_5142,topic,Data Surveillance,data surveillance,1,verified,Data Surveillance,EMGT_5142_concepts_raw.json
+EMGT_5142,topic,Probability Theory,Probability Theory,1,inferred,Probability Theory,EMGT_5142_concepts_raw.json
+EMGT_5142,topic,Risk Assessment,Risk Assessment,1,inferred,Risk Assessment,EMGT_5142_concepts_raw.json
+EMGT_5142,topic,Cognitive Biases,Cognitive Biases,1,inferred,Cognitive Biases,EMGT_5142_concepts_raw.json
+EMGT_5142,topic,Systemic Inequality,Systemic Inequality,1,inferred,Systemic Inequality,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Bias Mitigation Strategies,Bias Mitigation Strategies,1,inferred,Bias Mitigation Strategies,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Complex Risk Dependency Modeling,Complex Risk Dependency Modeling,1,inferred,Complex Risk Dependency Modeling,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Threat Aggregation Techniques,Threat Aggregation Techniques,1,inferred,Threat Aggregation Techniques,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Risk Matrix Development,Risk Matrix Development,1,inferred,Risk Matrix Development,EMGT_5142_concepts_raw.json
+EMGT_5142,method,Case Study Analysis Methods,Case Study Analysis Methods,1,inferred,Case Study Analysis Methods,EMGT_5142_concepts_raw.json
+EMGT_5142,topic,Bayesian Decision Support Systems,Bayesian Decision Support Systems,1,inferred,Bayesian Decision Support Systems,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Bayesian Decision Making,Bayesian Decision Making,1,inferred,Bayesian Decision Making,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Probability Theory Basics,Probability Theory Basics,1,inferred,Probability Theory Basics,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Risk Assessment Fundamentals,Risk Assessment Fundamentals,1,inferred,Risk Assessment Fundamentals,EMGT_5142_concepts_raw.json
+EMGT_5142,method,Data Mining Techniques,Data Mining Techniques,1,inferred,Data Mining Techniques,EMGT_5142_concepts_raw.json
+EMGT_5142,method,Surveillance System Design,Surveillance System Design,1,inferred,Surveillance System Design,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Data Quality Control Measures,Data Quality Control Measures,1,inferred,Data Quality Control Measures,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Alternative Hypothesis Formulation,Alternative Hypothesis Formulation,1,inferred,Alternative Hypothesis Formulation,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Probability Distribution Modeling,Probability Distribution Modeling,1,inferred,Probability Distribution Modeling,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Decision Tree Analysis,Decision Tree Analysis,1,inferred,Decision Tree Analysis,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Cognitive Biases in Decision Making,Cognitive Biases in Decision Making,1,inferred,Cognitive Biases in Decision Making,EMGT_5142_concepts_raw.json
+EMGT_5142,concept,Systemic Inequality Awareness,Systemic Inequality Awareness,1,inferred,Systemic Inequality Awareness,EMGT_5142_concepts_raw.json

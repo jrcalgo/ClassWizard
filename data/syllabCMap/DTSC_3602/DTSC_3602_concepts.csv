@@ -1,0 +1,111 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DTSC_3602,topic,Data Science Studio,Data Science Studio,1,verified,Data Science Studio,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,machine learning,machine learning,3,verified,Introduction to machine learning,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Start Work Plan,Start Work Plan,1,verified,Start Work Plan,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Databases and SQL,Databases and SQL,1,verified,Databases and SQL,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,relations,relations,3,verified,Basics of relations,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,APIs and Data Access,APIs and Data Access,1,verified,APIs and Data Access,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Start Literature,Start Literature,1,verified,Start Literature,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,HTTP requests (REST,HTTP requests (REST,1,verified,HTTP requests (REST),DTSC_3602_concepts_raw.json
+DTSC_3602,topic,JSON,JSON,2,verified,JSON,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,authentication,authentication,2,verified,authentication,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,documentation,documentation,2,verified,documentation,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Work Plan,Work Plan,2,verified,Work Plan,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Data Governance/Risk,Data Governance/Risk,2,verified,Data Governance/Risk,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Start Outline,Start Outline,1,verified,Start Outline,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Literature Review,Literature Review,1,verified,Literature Review,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Sensitive data,Sensitive data,2,verified,Sensitive data,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,human review,human review,2,verified,human review,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Professional Software Practices,Professional Software Practices,1,verified,Professional Software Practices,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Cloud Storage,Cloud storage,2,verified,Cloud Storage,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Serverless Functions,serverless functions,2,verified,Serverless Functions,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,containers,Containers,3,verified,containers,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,AWS,AWS,2,verified,AWS,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Cloud and Model Interpretation,Cloud and Model Interpretation,1,verified,Cloud and Model Interpretation,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Feature importance,Feature importance,2,verified,Feature importance,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,AI explainability,AI explainability,2,verified,AI explainability,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,context,context,4,verified,context,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,AI Literacy for Data Professionals,AI Literacy for Data Professionals,1,verified,AI Literacy for Data Professionals,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Review Peer Draft,Review Peer Draft,1,verified,Review Peer Draft,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,In-context learning,In-context learning,2,verified,In-context learning,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,reasoning,reasoning,2,verified,reasoning,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,LLM uses,LLM uses,2,verified,LLM uses,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,AI agents,AI agents,12,verified,AI agents,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,LLM risks,LLM risks,2,verified,LLM risks,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,controlling AI agents,controlling AI agents,1,verified,controlling AI agents,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Stakeholder Communication,Stakeholder Communication,2,verified,Stakeholder Communication,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Clarity to stakeholders,Clarity to stakeholders,1,verified,Clarity to stakeholders,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Finalize,Finalize,1,verified,Finalize,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Peer Review,Peer Review,2,verified,Peer Review,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,How to communicate to clients,How to communicate to clients,1,verified,How to communicate to clients,DTSC_3602_concepts_raw.json
+DTSC_3602,topic,Presenting projects,Presenting projects,1,verified,Presenting projects,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Machine Learning Fundamentals,Machine Learning Fundamentals,1,verified,Machine Learning Fundamentals,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Supervised vs Unsupervised Learning,Supervised vs Unsupervised Learning,1,verified,Supervised vs Unsupervised Learning,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Model Evaluation Metrics,Model Evaluation Metrics,1,verified,Model Evaluation Metrics,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Overfitting and Underfitting,Overfitting and Underfitting,1,verified,Overfitting and Underfitting,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Serverless End-to-End Pipelines,Serverless End-to-End Pipelines,9,verified,Serverless End-to-End Pipelines,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Model Training Pipelines,model training pipelines,4,verified,Model Training Pipelines,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Task Development Fundamentals,Task Development Fundamentals,1,verified,Task Development Fundamentals,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Data Extraction from APIs,Data Extraction from APIs,1,verified,Data Extraction from APIs,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Database Design,Database Design,1,verified,Database Design,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,SQL Queries,SQL Queries,1,verified,SQL Queries,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Data Modeling,Data Modeling,1,verified,Data Modeling,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Entity Relationship,Entity Relationship,1,verified,Entity Relationship,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Table Relationships,Table Relationships,1,verified,Table Relationships,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Relations basics,Relations basics,1,verified,Relations basics,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Ordinary least squares,Ordinary least squares,1,verified,Ordinary least squares,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Data relations,Data relations,1,verified,Data relations,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Database queries,Database queries,1,verified,Database queries,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Table joins,Table joins,1,verified,Table joins,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Indexing tables,Indexing tables,1,verified,Indexing tables,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,API Design Principles,API Design Principles,1,verified,API Design Principles,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Data Extraction Methods,Data Extraction Methods,1,verified,Data Extraction Methods,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Remote Data Access,Remote Data Access,1,verified,Remote Data Access,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Serverless Architecture,Serverless Architecture,2,verified,Serverless Architecture,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,LLM Limitations,LLM Limitations,10,verified,LLM Limitations,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Hallucination Prevention,Hallucination Prevention,1,verified,Hallucination Prevention,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Jailbreaking Techniques,Jailbreaking Techniques,1,verified,Jailbreaking Techniques,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Artificial Hivemind Avoidance,Artificial Hivemind Avoidance,1,verified,Artificial Hivemind Avoidance,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,HTTP Request,HTTP requests,1,verified,HTTP Request,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,REST API,REST API,1,verified,REST API,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,JSON Data Format,JSON Data Format,1,verified,JSON Data Format,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Authentication Methods,Authentication Methods,1,verified,Authentication Methods,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,API Documentation,API Documentation,1,verified,API Documentation,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Data Governance,Data Governance,2,verified,Data Governance,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Risk Management,Risk Management,1,verified,Risk Management,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Model Deployment,Model Deployment,1,verified,Model Deployment,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,API Integration,API Integration,2,verified,API Integration,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Serverless Pipelines,Serverless Pipelines,1,verified,Serverless Pipelines,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Research Design,Research Design,1,verified,Research Design,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Data Sources,Data Sources,1,verified,Data Sources,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Methodological Limitations,Methodological Limitations,1,verified,Methodological Limitations,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Sensitive Data Handling,Sensitive Data Handling,1,verified,Sensitive Data Handling,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Human Review Process,Human Review Process,1,verified,Human Review Process,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Data Anonymization Techniques,Data Anonymization Techniques,1,verified,Data Anonymization Techniques,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Privacy Preserving Methods,Privacy Preserving Methods,1,verified,Privacy Preserving Methods,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Containerization,Containerization,1,verified,Containerization,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,AWS Services,AWS Services,1,verified,AWS Services,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Function as a Service,Function as a Service,1,verified,Function as a Service,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Object Storage,Object Storage,1,verified,Object Storage,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Docker Containers,Docker Containers,1,verified,Docker Containers,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Lambda Functions,Lambda Functions,1,verified,Lambda Functions,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Model Interpretability,Model Interpretability,2,verified,Model Interpretability,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Explainable AI Techniques,Explainable AI Techniques,1,verified,Explainable AI Techniques,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Feature Selection Methods,Feature Selection Methods,1,verified,Feature Selection Methods,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,LLM-based AI agents,LLM-based AI agents,2,verified,LLM-based AI agents,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Hallucinations in LLMs,Hallucinations in LLMs,10,verified,Hallucinations in LLMs,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Jailbreaking limitations,Jailbreaking limitations,2,verified,Jailbreaking limitations,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Artificial hivemind effect,Artificial hivemind effect,2,verified,Artificial hivemind effect,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Response heterogeneity,response heterogeneity,4,verified,Response heterogeneity,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Reasoning techniques,Reasoning techniques,1,verified,Reasoning techniques,DTSC_3602_concepts_raw.json
+DTSC_3602,concept,Novel solution generation,Novel solution generation,2,verified,Novel solution generation,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,Python,Python,1,verified,Python,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,matplotlib,matplotlib,1,verified,matplotlib,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,pandas,pandas,1,verified,pandas,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,numpy,numpy,1,verified,numpy,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,scikit-learn,scikit-learn,1,verified,scikit-learn,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,scipy,scipy,1,verified,scipy,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,SQL,SQL,7,verified,SQL,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,Docker,Docker,2,verified,Docker,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,K8s,K8s,1,verified,K8s,DTSC_3602_concepts_raw.json
+DTSC_3602,tool,s3,s3,1,verified,s3,DTSC_3602_concepts_raw.json

@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_3181,Microcontrollers,topic,PREREQUISITE_OF,Electromechanical Devices Interface,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Microcontrollers,topic,PREREQUISITE_OF,Algorithm Development for Embedded Systems,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Microcontrollers,topic,PREREQUISITE_OF,Microcontroller Programming Fundamentals,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Microcontrollers,topic,PREREQUISITE_OF,Intelligent Embedded System Design,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Electromechanical Devices Interface,topic,PREREQUISITE_OF,Algorithm Development for Embedded Systems,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Electromechanical Devices Interface,topic,PREREQUISITE_OF,Microcontroller Programming Fundamentals,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Electromechanical Devices Interface,topic,PREREQUISITE_OF,Intelligent Embedded System Design,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Algorithm Development for Embedded Systems,topic,PREREQUISITE_OF,Microcontroller Programming Fundamentals,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Algorithm Development for Embedded Systems,topic,PREREQUISITE_OF,Intelligent Embedded System Design,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Microcontroller Programming Fundamentals,topic,PREREQUISITE_OF,Intelligent Embedded System Design,topic,A taught first,,ETEM_3181_triples_raw.json
+ETEM_3181,Microcontroller Basics,concept,PART_OF,Microcontrollers,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Programming Languages Overview,concept,PART_OF,Electromechanical Devices Interface,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Sensor Types and Applications,concept,PART_OF,Electromechanical Devices Interface,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Actuator Control Methods,concept,PART_OF,Electromechanical Devices Interface,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,State Machine Design Principles,concept,PART_OF,Algorithm Development for Embedded Systems,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Algorithms for Real-Time Systems,concept,PART_OF,Algorithm Development for Embedded Systems,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,C Programming Language Basics,concept,PART_OF,Microcontroller Programming Fundamentals,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Interrupt Handling Techniques,concept,PART_OF,Microcontroller Programming Fundamentals,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,System-on-Chip (SoC) Architecture,concept,PART_OF,Intelligent Embedded System Design,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Real-Time Operating Systems,concept,PART_OF,Intelligent Embedded System Design,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,State Machine Design Principles,concept,USED_FOR,Algorithm Development for Embedded Systems,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Finite State Machines,concept,USED_FOR,Algorithm Development for Embedded Systems,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Algorithms for Real-Time Systems,concept,USED_FOR,Algorithm Development for Embedded Systems,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Microcontroller Registers and Memory,concept,USED_FOR,Microcontroller Programming Fundamentals,topic,,,ETEM_3181_triples_raw.json
+ETEM_3181,Real-Time Operating Systems,concept,USED_FOR,Intelligent Embedded System Design,topic,,,ETEM_3181_triples_raw.json

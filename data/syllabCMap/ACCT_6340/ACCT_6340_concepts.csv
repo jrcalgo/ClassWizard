@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ACCT_6340,topic,Data Analytics for Accounting,Data Analytics for Accounting,1,verified,Data Analytics for Accounting,ACCT_6340_concepts_raw.json
+ACCT_6340,topic,Analytics,Analytics,4,verified,Introduction to Analytics,ACCT_6340_concepts_raw.json
+ACCT_6340,topic,Relational Databases,relational databases,1,verified,Relational Databases,ACCT_6340_concepts_raw.json
+ACCT_6340,topic,Data Extraction and Transformation,Data Extraction and Transformation,1,inferred,Data Extraction and Transformation,ACCT_6340_concepts_raw.json
+ACCT_6340,topic,Loading Data into Databases,Loading Data into Databases,1,inferred,Loading Data into Databases,ACCT_6340_concepts_raw.json
+ACCT_6340,topic,Analyzing Accounting Data,Analyzing Accounting Data,1,inferred,Analyzing Accounting Data,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,descriptive analytics basics,Descriptive Analytics Basics,1,inferred,descriptive analytics basics,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,diagnostic analytics overview,Diagnostic Analytics Overview,1,inferred,diagnostic analytics overview,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,ETL process fundamentals,ETL Process Fundamentals,1,inferred,ETL process fundamentals,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,database design principles,Database Design Principles,1,inferred,database design principles,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,data modeling techniques,Data Modeling Techniques,1,inferred,data modeling techniques,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,SQL querying basics,SQL Querying Basics,1,inferred,SQL querying basics,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,ETL process steps,ETL Process Steps,1,inferred,ETL process steps,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,data cleaning methods,Data Cleaning Methods,1,inferred,data cleaning methods,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,data standardization,Data Standardization,1,inferred,data standardization,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,database loading techniques,Database Loading Techniques,1,inferred,database loading techniques,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,data integration strategies,Data Integration Strategies,1,inferred,data integration strategies,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,data quality control,Data Quality Control,1,inferred,data quality control,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,descriptive analytics applications,Descriptive Analytics Applications,1,inferred,descriptive analytics applications,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,diagnostic analytics tools,Diagnostic Analytics Tools,1,inferred,diagnostic analytics tools,ACCT_6340_concepts_raw.json
+ACCT_6340,concept,accounting data visualization,Accounting Data Visualization,1,inferred,accounting data visualization,ACCT_6340_concepts_raw.json

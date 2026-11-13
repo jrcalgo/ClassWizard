@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BPHD_8200,discrete-time models,concept,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,mean variance analysis,topic,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,risk management principle,topic,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,capital asset pricing model (CAPM,topic,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,linear factor model,topic,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,arbitrage pricing theory,concept,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,consumption-based CAPM,topic,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,multi-period consumption and portfolio choice,topic,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,market equilibrium,topic,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,contingent claim pricing,topic,PART_OF,Financial Economic Theory,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,discrete-time models,concept,USED_FOR,mean variance analysis,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,discrete-time models,concept,USED_FOR,risk management principle,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,discrete-time models,concept,USED_FOR,capital asset pricing model (CAPM,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,discrete-time models,concept,USED_FOR,linear factor model,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,discrete-time models,concept,USED_FOR,arbitrage pricing theory,concept,,,BPHD_8200_triples_raw.json
+BPHD_8200,discrete-time models,concept,USED_FOR,consumption-based CAPM,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,discrete-time models,concept,USED_FOR,multi-period consumption and portfolio choice,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,discrete-time models,concept,USED_FOR,market equilibrium,topic,,,BPHD_8200_triples_raw.json
+BPHD_8200,discrete-time models,concept,USED_FOR,contingent claim pricing,topic,,,BPHD_8200_triples_raw.json

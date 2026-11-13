@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_3790,literature review,method,PART_OF,research methodologies,concept,,,ITSC_3790_triples_raw.json
+ITSC_3790,research ethics,concept,PART_OF,research methodologies,concept,,,ITSC_3790_triples_raw.json
+ITSC_3790,peer review,method,PART_OF,research methodologies,concept,,,ITSC_3790_triples_raw.json
+ITSC_3790,equity,concept,PART_OF,research methodologies,concept,,,ITSC_3790_triples_raw.json

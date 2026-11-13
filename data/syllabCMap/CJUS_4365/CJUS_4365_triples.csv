@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4365,race,concept,PREREQUISITE_OF,crime,concept,B mentioned first,,CJUS_4365_triples_raw.json
+CJUS_4365,race,concept,PREREQUISITE_OF,gender,concept,B mentioned first,,CJUS_4365_triples_raw.json
+CJUS_4365,gender,concept,PREREQUISITE_OF,crime,concept,A taught first,,CJUS_4365_triples_raw.json

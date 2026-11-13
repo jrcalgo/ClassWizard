@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4370,inferential statistics,concept,PREREQUISITE_OF,Hypothesis Testing,topic,same unit,,CJUS_4370_triples_raw.json
+CJUS_4370,null hypothesis,concept,PREREQUISITE_OF,Analysis of Variance (ANOVA,topic,A taught first,,CJUS_4370_triples_raw.json
+CJUS_4370,null hypothesis,concept,PREREQUISITE_OF,Chi-Square,topic,A taught first,,CJUS_4370_triples_raw.json
+CJUS_4370,control variables,concept,PREREQUISITE_OF,Calculating z-scores,topic,B mentioned first,,CJUS_4370_triples_raw.json
+CJUS_4370,null hypothesis,concept,PART_OF,Hypothesis Testing,topic,,,CJUS_4370_triples_raw.json
+CJUS_4370,alternative hypothesis,concept,PART_OF,Hypothesis Testing,topic,,,CJUS_4370_triples_raw.json
+CJUS_4370,control variables,concept,PART_OF,Calculating z-scores,topic,,,CJUS_4370_triples_raw.json
+CJUS_4370,descriptive statistics,concept,PART_OF,Organizing Data/Cross Tabulations/Graphs,topic,,,CJUS_4370_triples_raw.json
+CJUS_4370,f-statistic calculation,concept,PART_OF,Analysis of Variance (ANOVA,topic,,,CJUS_4370_triples_raw.json
+CJUS_4370,homogeneity of variances,concept,PART_OF,Analysis of Variance (ANOVA,topic,,,CJUS_4370_triples_raw.json
+CJUS_4370,chi-square test,concept,PART_OF,Bivariate and Partial Correlation,topic,,,CJUS_4370_triples_raw.json
+CJUS_4370,bivariate correlation,concept,PART_OF,Bivariate and Partial Correlation,topic,,,CJUS_4370_triples_raw.json
+CJUS_4370,data normalization techniques,method,USED_FOR,Calculating z-scores,topic,,,CJUS_4370_triples_raw.json

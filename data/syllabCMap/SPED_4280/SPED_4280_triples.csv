@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_4280,Intellectual Disability,topic,PREREQUISITE_OF,Sensory Disabilities,topic,A mentioned first,,SPED_4280_triples_raw.json
+SPED_4280,Collaborative Service Delivery,method,PREREQUISITE_OF,Field-Based Clinical Assignment,topic,A taught first,,SPED_4280_triples_raw.json
+SPED_4280,Collaborative Service Delivery,method,USED_FOR,Instructional Methods and Procedures,topic,,,SPED_4280_triples_raw.json

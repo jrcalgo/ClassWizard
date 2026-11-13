@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPOA_1120,roles of sports analyst,concept,PART_OF,Sports Performance Team,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,physiological principles overview,concept,PART_OF,Foundations of Kinesiology,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,energy systems in exercise,concept,PART_OF,Foundations of Kinesiology,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,anxiety and stress management,concept,PART_OF,Psychological Considerations,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,goal setting strategies,concept,PART_OF,Psychological Considerations,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,heart rate and blood pressure,concept,PART_OF,Cardiovascular System,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,cardiac output and stroke volume,concept,PART_OF,Cardiovascular System,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,vascular resistance and compliance,concept,PART_OF,Cardiovascular System,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,breathing mechanics and control,concept,PART_OF,Pulmonary System Overview,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,gas exchange and transport,concept,PART_OF,Pulmonary System Overview,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,nerve conduction and transmission,concept,PART_OF,Neuromuscular Controls,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,motor unit recruitment patterns,concept,PART_OF,Neuromuscular Controls,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,recovery strategies for athletes,concept,PART_OF,Detraining and Recovery,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,periodization and training cycles,concept,PART_OF,Detraining and Recovery,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,efficacy and safety concerns,concept,PART_OF,Supplement Use and Performance,topic,,,SPOA_1120_triples_raw.json
+SPOA_1120,regulatory guidelines and compliance,concept,PART_OF,Supplement Use and Performance,topic,,,SPOA_1120_triples_raw.json

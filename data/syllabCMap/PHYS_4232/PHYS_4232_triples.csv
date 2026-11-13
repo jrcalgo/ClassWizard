@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_4232,Electromagnetic Wave Propagation,concept,PREREQUISITE_OF,Electromagnetic Waves,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Charge Conservation Law,concept,PREREQUISITE_OF,Conservation Laws,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Energy Conservation Law,concept,PREREQUISITE_OF,Conservation Laws,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Momentum Conservation Law,concept,PREREQUISITE_OF,Conservation Laws,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Scalar Potential Definition,concept,PREREQUISITE_OF,Electromagnetic Potentials,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Vector Potential Definition,concept,PREREQUISITE_OF,Electromagnetic Potentials,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Electric Field Lines,concept,PREREQUISITE_OF,Fields and Forces,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Magnetic Field Lines,concept,PREREQUISITE_OF,Fields and Forces,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Lorentz Force Equation,concept,PREREQUISITE_OF,Fields and Forces,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Radiation Power Formula,concept,PREREQUISITE_OF,Electromagnetic Radiation,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Poynting Vector Definition,concept,PREREQUISITE_OF,Electromagnetic Radiation,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Energy Momentum Tensor,concept,PREREQUISITE_OF,Electromagnetic Radiation,topic,same unit,,PHYS_4232_triples_raw.json
+PHYS_4232,Electromagnetic Wave Propagation,concept,PART_OF,Electromagnetic Waves,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Charge Conservation Law,concept,PART_OF,Conservation Laws,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Energy Conservation Law,concept,PART_OF,Conservation Laws,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Momentum Conservation Law,concept,PART_OF,Conservation Laws,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Scalar Potential Definition,concept,PART_OF,Electromagnetic Potentials,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Vector Potential Definition,concept,PART_OF,Electromagnetic Potentials,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Electric Field Lines,concept,PART_OF,Fields and Forces,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Magnetic Field Lines,concept,PART_OF,Fields and Forces,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Lorentz Force Equation,concept,PART_OF,Fields and Forces,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Radiation Power Formula,concept,PART_OF,Electromagnetic Radiation,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Poynting Vector Definition,concept,PART_OF,Electromagnetic Radiation,topic,,,PHYS_4232_triples_raw.json
+PHYS_4232,Energy Momentum Tensor,concept,PART_OF,Electromagnetic Radiation,topic,,,PHYS_4232_triples_raw.json

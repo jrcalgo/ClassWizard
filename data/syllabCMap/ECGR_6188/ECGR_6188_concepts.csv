@@ -1,0 +1,43 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_6188,concept,wireless local area networks,wireless local area networks,1,verified,wireless local area networks,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,mobile ad hoc networks,mobile ad hoc networks,4,verified,mobile ad hoc networks,ECGR_6188_concepts_raw.json
+ECGR_6188,method,wireless network simulation,wireless network simulation,1,verified,wireless network simulation,ECGR_6188_concepts_raw.json
+ECGR_6188,method,testing and assessing networking protocols,testing and assessing networking protocols,1,verified,testing and assessing networking protocols,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,Cellular Network Fundamentals,Cellular Network Fundamentals,1,inferred,Cellular Network Fundamentals,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,WLAN Fundamentals,WLAN Fundamentals,1,inferred,WLAN Fundamentals,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,Ad Hoc Networking Basics,Ad Hoc Networking Basics,1,inferred,Ad Hoc Networking Basics,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,Mobile Internet Fundamentals,Mobile Internet Fundamentals,1,inferred,Mobile Internet Fundamentals,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,MAC Protocol Analysis,MAC Protocol Analysis,1,inferred,MAC Protocol Analysis,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,Routing Protocols in Wireless Networks,Routing Protocols in Wireless Networks,1,inferred,Routing Protocols in Wireless Networks,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,Reliable Transport in Wireless Networks,Reliable Transport in Wireless Networks,1,inferred,Reliable Transport in Wireless Networks,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,Emerging Wireless Technologies,Emerging Wireless Technologies,1,inferred,Emerging Wireless Technologies,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,Redesigned Networking Protocols,Redesigned Networking Protocols,1,inferred,Redesigned Networking Protocols,ECGR_6188_concepts_raw.json
+ECGR_6188,topic,Wireless Network Simulation and Testing,Wireless Network Simulation and Testing,1,inferred,Wireless Network Simulation and Testing,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,cellular network architecture,Cellular Network Architecture,1,inferred,cellular network architecture,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,base station operations,Base Station Operations,1,inferred,base station operations,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,handover mechanisms,Handover Mechanisms,1,inferred,handover mechanisms,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,cellular network protocols,Cellular Network Protocols,1,inferred,cellular network protocols,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,IEEE 802.11 standards,IEEE 802.11 standards,1,inferred,IEEE 802.11 standards,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,MAC protocol designs,MAC Protocol Designs,1,inferred,MAC protocol designs,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,WLAN network topology,WLAN Network Topology,1,inferred,WLAN network topology,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,network formation mechanisms,Network Formation Mechanisms,1,inferred,network formation mechanisms,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,routing protocols overview,Routing Protocols Overview,2,inferred,routing protocols overview,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,ad hoc network security,Ad Hoc Network Security,1,inferred,ad hoc network security,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,mobile internet architecture,Mobile Internet Architecture,1,inferred,mobile internet architecture,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,IP addressing in mobiles,IP Addressing in Mobiles,1,inferred,IP addressing in mobiles,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,mobility management protocols,Mobility Management Protocols,1,inferred,mobility management protocols,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,quality of service,Quality of Service,1,inferred,quality of service,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,medium access control protocols,Medium Access Control Protocols,1,inferred,medium access control protocols,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,WLAN MAC designs comparison,WLAN MAC Designs Comparison,1,inferred,WLAN MAC designs comparison,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,ad hoc network MAC protocols,Ad Hoc Network MAC Protocols,1,inferred,ad hoc network MAC protocols,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,MAC layer security,MAC Layer Security,1,inferred,MAC layer security,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,wireless routing protocols overview,Wireless Routing Protocols Overview,1,inferred,wireless routing protocols overview,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,mobile ad hoc routing protocols,Mobile Ad Hoc Routing Protocols,1,inferred,mobile ad hoc routing protocols,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,WLAN routing protocols comparison,WLAN Routing Protocols Comparison,1,inferred,WLAN routing protocols comparison,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,routing protocol optimization,Routing Protocol Optimization,1,inferred,routing protocol optimization,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,transport layer protocols overview,Transport Layer Protocols Overview,1,inferred,transport layer protocols overview,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,wireless reliable transport protocols,Wireless Reliable Transport Protocols,1,inferred,wireless reliable transport protocols,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,mobile ad hoc network transport,Mobile Ad Hoc Network Transport,1,inferred,mobile ad hoc network transport,ECGR_6188_concepts_raw.json
+ECGR_6188,concept,transport layer security,Transport Layer Security,1,inferred,transport layer security,ECGR_6188_concepts_raw.json
+ECGR_6188,method,hands-on experience with simulation tools,Hands-on Experience with Simulation Tools,1,inferred,hands-on experience with simulation tools,ECGR_6188_concepts_raw.json
+ECGR_6188,method,protocol optimization through simulation,Protocol Optimization through Simulation,1,inferred,protocol optimization through simulation,ECGR_6188_concepts_raw.json

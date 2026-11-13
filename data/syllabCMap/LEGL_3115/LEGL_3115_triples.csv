@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_3115,US Constitution Structure,concept,PREREQUISITE_OF,Separation of Powers,concept,same unit,,LEGL_3115_triples_raw.json
+LEGL_3115,First Amendment Rights,concept,PREREQUISITE_OF,Due Process Clause,concept,same unit,,LEGL_3115_triples_raw.json
+LEGL_3115,Second Amendment Rights,concept,PREREQUISITE_OF,Due Process Clause,concept,same unit,,LEGL_3115_triples_raw.json
+LEGL_3115,Free Speech Protections,concept,PREREQUISITE_OF,Freedom of Assembly,concept,same unit,,LEGL_3115_triples_raw.json
+LEGL_3115,Marbury v Madison Ruling,concept,PREREQUISITE_OF,McCulloch v Maryland Decision,concept,same unit,,LEGL_3115_triples_raw.json
+LEGL_3115,Brown v Board of Education,concept,PREREQUISITE_OF,Racial Equality Protections,concept,A taught first,,LEGL_3115_triples_raw.json
+LEGL_3115,US Constitution Structure,concept,PART_OF,Constitutional Law,topic,,,LEGL_3115_triples_raw.json
+LEGL_3115,Separation of Powers,concept,PART_OF,US Constitution,work,,part is broader than whole - check direction,LEGL_3115_triples_raw.json
+LEGL_3115,Checks and Balances,concept,PART_OF,US Constitution Structure,concept,,,LEGL_3115_triples_raw.json
+LEGL_3115,First Amendment Rights,concept,PART_OF,Bill of Rights Overview,topic,,,LEGL_3115_triples_raw.json
+LEGL_3115,Second Amendment Rights,concept,PART_OF,Bill of Rights Overview,topic,,,LEGL_3115_triples_raw.json
+LEGL_3115,Free Speech Protections,concept,PART_OF,Civil Liberties Development,topic,,,LEGL_3115_triples_raw.json
+LEGL_3115,Equal Protection Clause,concept,PART_OF,Civil Liberties Development,topic,,,LEGL_3115_triples_raw.json
+LEGL_3115,Marbury v Madison Ruling,concept,PART_OF,US Supreme Court Cases,topic,,,LEGL_3115_triples_raw.json
+LEGL_3115,McCulloch v Maryland Decision,concept,PART_OF,US Supreme Court Cases,topic,,,LEGL_3115_triples_raw.json
+LEGL_3115,Brown v Board of Education,concept,PART_OF,US Supreme Court Cases,topic,,,LEGL_3115_triples_raw.json
+LEGL_3115,Racial Equality Protections,concept,PART_OF,Civil Rights and Liberties,topic,,,LEGL_3115_triples_raw.json
+LEGL_3115,Sexual Orientation Rights,concept,PART_OF,Civil Rights and Liberties,topic,,,LEGL_3115_triples_raw.json

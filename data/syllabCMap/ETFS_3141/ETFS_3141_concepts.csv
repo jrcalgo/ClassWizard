@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETFS_3141,topic,Structural Materials,structural materials,3,verified,Structural Materials,ETFS_3141_concepts_raw.json
+ETFS_3141,topic,Fire Behavior and Smoke,fire behavior and smoke,1,verified,Fire Behavior and Smoke,ETFS_3141_concepts_raw.json
+ETFS_3141,topic,Active Fire Protection,active fire protection,1,verified,Active Fire Protection,ETFS_3141_concepts_raw.json
+ETFS_3141,topic,Human Behavior in Fires,human behavior in fire,1,verified,Human Behavior in Fires,ETFS_3141_concepts_raw.json
+ETFS_3141,topic,Fire Department Response,fire department response,1,verified,Fire Department Response,ETFS_3141_concepts_raw.json
+ETFS_3141,topic,Performance-Based Design,performance-based design,2,verified,Performance-Based Design,ETFS_3141_concepts_raw.json
+ETFS_3141,concept,structural materials and assemblies,structural materials and assemblies,2,verified,structural materials and assemblies,ETFS_3141_concepts_raw.json
+ETFS_3141,topic,prescriptive and performance-based design in both new and existing structures,prescriptive and performance-based design in both new and existing structures,2,verified,prescriptive and performance-based design in both new and existing structures,ETFS_3141_concepts_raw.json
+ETFS_3141,concept,prescriptive and performance-based design,prescriptive and performance-based design,2,verified,prescriptive and performance-based design,ETFS_3141_concepts_raw.json
+ETFS_3141,concept,engineering design practices,engineering design practices,1,verified,engineering design practices,ETFS_3141_concepts_raw.json
+ETFS_3141,concept,fire safety analysis,fire safety analysis,2,verified,fire safety analysis,ETFS_3141_concepts_raw.json
+ETFS_3141,concept,role of fire department response,role of fire department response,1,verified,role of fire department response,ETFS_3141_concepts_raw.json

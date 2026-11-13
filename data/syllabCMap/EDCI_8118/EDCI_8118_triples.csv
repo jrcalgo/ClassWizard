@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8118,Coordinate Systems,topic,PREREQUISITE_OF,Graphing Linear Equations,topic,same unit,,EDCI_8118_triples_raw.json
+EDCI_8118,Analytical Geometry,topic,PREREQUISITE_OF,Non-Euclidean Geometries,topic,A taught first,,EDCI_8118_triples_raw.json
+EDCI_8118,Analytical Geometry,topic,PREREQUISITE_OF,Transformational Geometry,topic,A taught first,,EDCI_8118_triples_raw.json
+EDCI_8118,Coordinate Systems Overview,concept,PREREQUISITE_OF,Distance and Midpoint Formulas,concept,same unit,,EDCI_8118_triples_raw.json
+EDCI_8118,Angles and Measurement,concept,PART_OF,Euclidean Geometry Basics,concept,,,EDCI_8118_triples_raw.json
+EDCI_8118,Hyperbolic and Elliptic Geometries,concept,PART_OF,Non-Euclidean Geometries,topic,,,EDCI_8118_triples_raw.json

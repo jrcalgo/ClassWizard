@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECON_4141,topic,Health Economics,health economics,1,verified,Health Economics,ECON_4141_concepts_raw.json
+ECON_4141,topic,Cost-benefit Analysis,costbenefit analysis,1,inferred,Cost-benefit Analysis,ECON_4141_concepts_raw.json
+ECON_4141,concept,production function for health capital,Production function for health capital,1,inferred,production function for health capital,ECON_4141_concepts_raw.json
+ECON_4141,concept,consumer behavior in healthcare,Consumer behavior in healthcare,1,inferred,consumer behavior in healthcare,ECON_4141_concepts_raw.json
+ECON_4141,concept,types of health insurance plans,Types of health insurance plans,1,inferred,types of health insurance plans,ECON_4141_concepts_raw.json
+ECON_4141,concept,regulatory frameworks and policies,Regulatory frameworks and policies,1,inferred,regulatory frameworks and policies,ECON_4141_concepts_raw.json
+ECON_4141,topic,Global Health Care Systems,Global Health Care Systems,1,inferred,Global Health Care Systems,ECON_4141_concepts_raw.json
+ECON_4141,topic,Healthcare Reform and Policy,Healthcare Reform and Policy,1,inferred,Healthcare Reform and Policy,ECON_4141_concepts_raw.json
+ECON_4141,concept,health economics definition,Health economics definition,1,inferred,health economics definition,ECON_4141_concepts_raw.json
+ECON_4141,concept,cost-benefit analysis basics,Cost-benefit analysis basics,1,inferred,cost-benefit analysis basics,ECON_4141_concepts_raw.json
+ECON_4141,concept,economic principles in healthcare,Economic principles in healthcare,1,inferred,economic principles in healthcare,ECON_4141_concepts_raw.json
+ECON_4141,concept,determinants of health production,Determinants of health production,1,inferred,determinants of health production,ECON_4141_concepts_raw.json
+ECON_4141,concept,efficiency and effectiveness measures,Efficiency and effectiveness measures,1,inferred,efficiency and effectiveness measures,ECON_4141_concepts_raw.json
+ECON_4141,concept,healthcare demand determinants,Healthcare demand determinants,1,inferred,healthcare demand determinants,ECON_4141_concepts_raw.json
+ECON_4141,concept,price elasticity of demand,Price elasticity of demand,1,inferred,price elasticity of demand,ECON_4141_concepts_raw.json
+ECON_4141,concept,risk pooling and risk sharing,Risk pooling and risk sharing,1,inferred,risk pooling and risk sharing,ECON_4141_concepts_raw.json
+ECON_4141,concept,actuarial tables and rates,Actuarial tables and rates,1,inferred,actuarial tables and rates,ECON_4141_concepts_raw.json
+ECON_4141,concept,reasons for government intervention,Reasons for government intervention,1,inferred,reasons for government intervention,ECON_4141_concepts_raw.json
+ECON_4141,concept,extent of government involvement,Extent of government involvement,1,inferred,extent of government involvement,ECON_4141_concepts_raw.json
+ECON_4141,concept,challenges in healthcare reform,Challenges in healthcare reform,1,inferred,challenges in healthcare reform,ECON_4141_concepts_raw.json
+ECON_4141,concept,policy options for improving access,Policy options for improving access,1,inferred,policy options for improving access,ECON_4141_concepts_raw.json
+ECON_4141,measure,effectiveness measures,effectiveness measures,1,inferred,effectiveness measures,ECON_4141_concepts_raw.json

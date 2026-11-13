@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6167,Artificial Intelligence,topic,PREREQUISITE_OF,Ethics,topic,A taught first,,MBAD_6167_triples_raw.json
+MBAD_6167,Artificial Intelligence,topic,PREREQUISITE_OF,Tortious Liability,topic,A taught first,,MBAD_6167_triples_raw.json
+MBAD_6167,Artificial Intelligence,topic,PREREQUISITE_OF,Law,topic,A taught first,,MBAD_6167_triples_raw.json
+MBAD_6167,Artificial Intelligence,topic,PREREQUISITE_OF,Criminal Culpability,topic,A taught first,,MBAD_6167_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AFRS_2103,Cultural Dynamics,concept,PREREQUISITE_OF,Theoretical Frameworks,topic,A taught first,,AFRS_2103_triples_raw.json
+AFRS_2103,Cultural Dynamics,concept,PREREQUISITE_OF,Hip Hop,topic,same unit,,AFRS_2103_triples_raw.json
+AFRS_2103,African American Studies,concept,PREREQUISITE_OF,Cultural Dynamics,concept,B taught first,B is taught before A - check,AFRS_2103_triples_raw.json
+AFRS_2103,Pseudo-Authenticity,concept,PREREQUISITE_OF,Black Nationalism,concept,A taught first,,AFRS_2103_triples_raw.json
+AFRS_2103,Cultural Studies,concept,PREREQUISITE_OF,Cultural Dynamics,concept,B taught first,B is taught before A - check,AFRS_2103_triples_raw.json

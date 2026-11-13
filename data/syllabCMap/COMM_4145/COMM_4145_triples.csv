@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_4145,Communication Process,concept,PREREQUISITE_OF,Communication Process Overview,topic,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Communication Process,concept,PREREQUISITE_OF,Importance of Effective Communication,concept,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Communication Process,concept,PREREQUISITE_OF,Types of Communication Channels,concept,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Verbal Message,concept,PREREQUISITE_OF,Verbal Message Components,topic,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Nonverbal Cues,concept,PREREQUISITE_OF,Nonverbal Cues and Feedback,topic,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Linear Model,concept,PREREQUISITE_OF,Linear Model of Communication,topic,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Transactional Model,concept,PREREQUISITE_OF,Transactional Model of Communication,topic,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Active Listening,concept,PREREQUISITE_OF,Active Listening Techniques,topic,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Conflict Resolution,concept,PREREQUISITE_OF,Conflict Resolution Strategies,topic,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Group Formation,concept,PREREQUISITE_OF,Group Formation and Roles,topic,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Group Decision-Making,concept,PREREQUISITE_OF,Group Decision-Making Processes,topic,same unit,,COMM_4145_triples_raw.json
+COMM_4145,Communication Process,concept,PART_OF,Communication Process Overview,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Verbal Message,concept,PART_OF,Verbal Message Components,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Nonverbal Cues,concept,PART_OF,Nonverbal Cues and Feedback,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Linear Model,concept,PART_OF,Linear Model of Communication,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Transactional Model,concept,PART_OF,Transactional Model of Communication,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Active Listening,concept,PART_OF,Active Listening Techniques,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Conflict Resolution,concept,PART_OF,Conflict Resolution Strategies,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Group Formation,concept,PART_OF,Group Formation and Roles,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Group Decision-Making,concept,PART_OF,Group Decision-Making Processes,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Importance of Effective Communication,concept,USED_FOR,Communication Process Overview,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Verbal Message,concept,USED_FOR,Verbal Message Components,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Nonverbal Cues,concept,USED_FOR,Nonverbal Cues and Feedback,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Linear Model,concept,USED_FOR,Linear Model of Communication,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Transactional Model,concept,USED_FOR,Transactional Model of Communication,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Active Listening,concept,USED_FOR,Active Listening Techniques,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Conflict Resolution,concept,USED_FOR,Conflict Resolution Strategies,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Empathy,concept,USED_FOR,Active Listening Techniques,topic,,,COMM_4145_triples_raw.json
+COMM_4145,Emotional Intelligence,concept,USED_FOR,Active Listening Techniques,topic,,,COMM_4145_triples_raw.json

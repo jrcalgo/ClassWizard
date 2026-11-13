@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_5370,functional behavior assessment,method,PREREQUISITE_OF,positive behavioral supports,concept,B taught first,B is taught before A - check,SPED_5370_triples_raw.json
+SPED_5370,individualized education programs,concept,PREREQUISITE_OF,positive behavioral supports,concept,same unit,,SPED_5370_triples_raw.json
+SPED_5370,classroom management,method,PREREQUISITE_OF,conflict resolution,method,A taught first,,SPED_5370_triples_raw.json
+SPED_5370,data collection and analysis,concept,PART_OF,progress monitoring,method,,part is broader than whole - check direction,SPED_5370_triples_raw.json
+SPED_5370,self-management strategies,concept,PART_OF,positive behavioral supports,concept,,,SPED_5370_triples_raw.json
+SPED_5370,individualized education programs,concept,PART_OF,positive behavioral supports,concept,,,SPED_5370_triples_raw.json
+SPED_5370,classroom management principles,concept,PART_OF,Culturally Responsive Classrooms,topic,,,SPED_5370_triples_raw.json
+SPED_5370,functional behavior assessment,method,PART_OF,positive behavioral supports,concept,,,SPED_5370_triples_raw.json
+SPED_5370,classroom management,method,PART_OF,conflict resolution,method,,,SPED_5370_triples_raw.json
+SPED_5370,data collection and analysis,concept,USED_FOR,progress monitoring,method,,,SPED_5370_triples_raw.json
+SPED_5370,classroom management,method,USED_FOR,conflict resolution,method,,,SPED_5370_triples_raw.json

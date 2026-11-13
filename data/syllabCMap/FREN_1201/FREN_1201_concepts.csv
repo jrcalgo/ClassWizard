@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FREN_1201,topic,Français 1201,Français 1201,1,verified,Français 1201,FREN_1201_concepts_raw.json
+FREN_1201,concept,novice-high to intermediate-low language proficiency,novice-high to intermediate-low language proficiency,1,verified,novice-high to intermediate-low language proficiency,FREN_1201_concepts_raw.json
+FREN_1201,concept,accurate foundational structures,accurate foundational structures,1,verified,accurate foundational structures,FREN_1201_concepts_raw.json
+FREN_1201,topic,Greetings & Introductions,Greetings & Introductions,1,inferred,Greetings & Introductions,FREN_1201_concepts_raw.json
+FREN_1201,topic,Asking Questions,Asking Questions,1,inferred,Asking Questions,FREN_1201_concepts_raw.json
+FREN_1201,topic,Food & Beverages,Food & Beverages,1,inferred,Food & Beverages,FREN_1201_concepts_raw.json
+FREN_1201,topic,Reading Comprehension,Reading Comprehension,1,inferred,Reading Comprehension,FREN_1201_concepts_raw.json
+FREN_1201,topic,Writing Descriptions,Writing Descriptions,1,inferred,Writing Descriptions,FREN_1201_concepts_raw.json
+FREN_1201,topic,Basic Conversations,Basic Conversations,2,inferred,Basic Conversations,FREN_1201_concepts_raw.json
+FREN_1201,concept,basic greetings in French,Basic greetings in French,1,inferred,basic greetings in French,FREN_1201_concepts_raw.json
+FREN_1201,concept,introducing oneself in French,Introducing oneself in French,1,inferred,introducing oneself in French,FREN_1201_concepts_raw.json
+FREN_1201,concept,describing personal traits,Describing personal traits,1,inferred,describing personal traits,FREN_1201_concepts_raw.json
+FREN_1201,concept,asking and responding to questions,Asking and responding to questions,1,inferred,asking and responding to questions,FREN_1201_concepts_raw.json
+FREN_1201,concept,expressing negation in French,Expressing negation in French,1,inferred,expressing negation in French,FREN_1201_concepts_raw.json
+FREN_1201,concept,describing plans (future,describing plans (future,1,inferred,describing plans (future),FREN_1201_concepts_raw.json
+FREN_1201,concept,ordering food and beverages,Ordering food and beverages,1,inferred,ordering food and beverages,FREN_1201_concepts_raw.json
+FREN_1201,concept,using vocabulary for food and drinks,Using vocabulary for food and drinks,1,inferred,using vocabulary for food and drinks,FREN_1201_concepts_raw.json
+FREN_1201,concept,reading short French texts,Reading short French texts,1,inferred,reading short French texts,FREN_1201_concepts_raw.json
+FREN_1201,concept,comprehending core meaning of texts,Comprehending core meaning of texts,1,inferred,comprehending core meaning of texts,FREN_1201_concepts_raw.json
+FREN_1201,concept,answering target questions,Answering target questions,1,inferred,answering target questions,FREN_1201_concepts_raw.json
+FREN_1201,concept,composing descriptive texts in French,Composing descriptive texts in French,1,inferred,composing descriptive texts in French,FREN_1201_concepts_raw.json

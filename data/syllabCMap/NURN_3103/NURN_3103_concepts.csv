@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURN_3103,topic,Professional Nursing,Professional Nursing,4,verified,Professional Nursing,NURN_3103_concepts_raw.json
+NURN_3103,topic,Health Promotion and Disease Prevention,health promotion and disease prevention,1,verified,Health Promotion and Disease Prevention,NURN_3103_concepts_raw.json
+NURN_3103,topic,Critical Thinking and Clinical Reasoning,critical thinking and clinical reasoning,1,verified,Critical Thinking and Clinical Reasoning,NURN_3103_concepts_raw.json
+NURN_3103,concept,nursing taxonomies,nursing taxonomies,1,verified,nursing taxonomies,NURN_3103_concepts_raw.json
+NURN_3103,concept,regulatory systems impact,regulatory systems impact,1,verified,regulatory systems impact,NURN_3103_concepts_raw.json
+NURN_3103,concept,concepts of health,concepts of health,1,verified,concepts of health,NURN_3103_concepts_raw.json
+NURN_3103,method,wellness,wellness,1,verified,"differentiating concepts of health, wellness, and illness",NURN_3103_concepts_raw.json
+NURN_3103,method,illness,illness,1,verified,"differentiating concepts of health, wellness, and illness",NURN_3103_concepts_raw.json
+NURN_3103,concept,regulatory frameworks,regulatory frameworks,1,verified,regulatory frameworks,NURN_3103_concepts_raw.json
+NURN_3103,concept,safe,safe,1,verified,"safe, coordinated person-centered care",NURN_3103_concepts_raw.json
+NURN_3103,concept,coordinated person-centered care,coordinated person-centered care,1,verified,"safe, coordinated person-centered care",NURN_3103_concepts_raw.json
+NURN_3103,method,self-directed learning,self-directed learning,1,verified,incorporating principles of adult and self-directed learning,NURN_3103_concepts_raw.json
+NURN_3103,method,clinical reasoning,clinical reasoning,1,verified,using critical thinking and clinical reasoning,NURN_3103_concepts_raw.json

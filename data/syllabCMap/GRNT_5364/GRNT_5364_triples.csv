@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_5364,Aging Population Demographics,concept,PREREQUISITE_OF,Sentencing Older Adults Ethically,concept,A taught first,,GRNT_5364_triples_raw.json
+GRNT_5364,Cognitive Decline in Older Adults,concept,PREREQUISITE_OF,Victimization of Seniors,concept,A taught first,,GRNT_5364_triples_raw.json
+GRNT_5364,Cognitive Decline in Older Adults,concept,PREREQUISITE_OF,Elder Abuse and Fraud,concept,B taught first,B is taught before A - check,GRNT_5364_triples_raw.json
+GRNT_5364,Cognitive Decline in Older Adults,concept,PREREQUISITE_OF,Sentencing Older Adults Ethically,concept,B taught first,B is taught before A - check,GRNT_5364_triples_raw.json
+GRNT_5364,Cognitive Decline in Older Adults,concept,PREREQUISITE_OF,Treatment of Older Victims,concept,B taught first,B is taught before A - check,GRNT_5364_triples_raw.json
+GRNT_5364,Geriatric Offenders,concept,PREREQUISITE_OF,Sentencing Guidelines,concept,same unit,,GRNT_5364_triples_raw.json
+GRNT_5364,Geriatric Offenders,concept,PREREQUISITE_OF,Elder Abuse Prevention,concept,same unit,,GRNT_5364_triples_raw.json
+GRNT_5364,Physical and Mental Health Changes,concept,PREREQUISITE_OF,Social Isolation in Aging,concept,same unit,,GRNT_5364_triples_raw.json
+GRNT_5364,Cognitive Decline in Older Adults,concept,PREREQUISITE_OF,Crime Against Seniors,concept,A taught first,,GRNT_5364_triples_raw.json
+GRNT_5364,Geriatric-Specific Healthcare Needs,concept,PREREQUISITE_OF,Elder Abuse and Neglect,concept,same unit,,GRNT_5364_triples_raw.json
+GRNT_5364,Trauma and Resilience in Aging,concept,PREREQUISITE_OF,Support for Aging Victims,concept,A taught first,,GRNT_5364_triples_raw.json
+GRNT_5364,Aging Population Demographics,concept,PART_OF,Interdisciplinary Understanding of Aging,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Interdisciplinary Understanding of Aging,concept,PART_OF,Trauma and Resilience in Prisoners,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Sentencing Older Adults Ethically,concept,PART_OF,Elder Abuse Prevention,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Treatment of Older Victims,concept,PART_OF,Support for Aging Victims,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Age and Competency,concept,PART_OF,Criminal Responsibility,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Geriatric Offenders,concept,PART_OF,Sentencing Guidelines,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Cognitive Decline in Older Adults,concept,PART_OF,Crime Against Seniors,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Elder Abuse Prevention,concept,USED_FOR,Victimization of Seniors,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Elder Abuse Prevention,concept,USED_FOR,Treatment of Older Victims,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Restorative Justice Principles,concept,USED_FOR,Aging Offenders Rehabilitation,concept,,,GRNT_5364_triples_raw.json
+GRNT_5364,Victim Support Services,concept,USED_FOR,Support for Aging Victims,concept,,,GRNT_5364_triples_raw.json

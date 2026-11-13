@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECON_5141,topic,Health Economics,health economics,1,verified,Health Economics,ECON_5141_concepts_raw.json
+ECON_5141,topic,Demand for Health Capital,demand for health capital,1,verified,Demand for Health Capital,ECON_5141_concepts_raw.json
+ECON_5141,topic,Insurance Theory,insurance theory,1,verified,Insurance Theory,ECON_5141_concepts_raw.json
+ECON_5141,topic,Cost-Benefit Analysis,costbenefit analysis,1,inferred,Cost-Benefit Analysis,ECON_5141_concepts_raw.json
+ECON_5141,topic,Government Intervention in Healthcare,Government Intervention in Healthcare,1,inferred,Government Intervention in Healthcare,ECON_5141_concepts_raw.json
+ECON_5141,topic,Global Health Systems and Reform,Global Health Systems and Reform,1,inferred,Global Health Systems and Reform,ECON_5141_concepts_raw.json
+ECON_5141,concept,health economics definition,Health Economics Definition,1,inferred,health economics definition,ECON_5141_concepts_raw.json
+ECON_5141,concept,cost-benefit analysis basics,Cost-Benefit Analysis Basics,1,inferred,cost-benefit analysis basics,ECON_5141_concepts_raw.json
+ECON_5141,concept,economic evaluation methods,Economic Evaluation Methods,1,inferred,economic evaluation methods,ECON_5141_concepts_raw.json
+ECON_5141,concept,production function models,Production Function Models,1,inferred,production function models,ECON_5141_concepts_raw.json
+ECON_5141,concept,health capital accumulation,Health Capital Accumulation,1,inferred,health capital accumulation,ECON_5141_concepts_raw.json
+ECON_5141,concept,human capital investment,Human Capital Investment,1,inferred,human capital investment,ECON_5141_concepts_raw.json
+ECON_5141,concept,consumer behavior in healthcare,Consumer Behavior in Healthcare,1,inferred,consumer behavior in healthcare,ECON_5141_concepts_raw.json
+ECON_5141,concept,healthcare demand elasticity,Healthcare Demand Elasticity,1,inferred,healthcare demand elasticity,ECON_5141_concepts_raw.json
+ECON_5141,concept,health status measurement,Health Status Measurement,1,inferred,health status measurement,ECON_5141_concepts_raw.json
+ECON_5141,concept,risk aversion and insurance,Risk Aversion and Insurance,1,inferred,risk aversion and insurance,ECON_5141_concepts_raw.json
+ECON_5141,concept,actuarial tables and rates,Actuarial Tables and Rates,1,inferred,actuarial tables and rates,ECON_5141_concepts_raw.json
+ECON_5141,concept,moral hazard and adverse selection,Moral Hazard and Adverse Selection,1,inferred,moral hazard and adverse selection,ECON_5141_concepts_raw.json
+ECON_5141,concept,regulatory frameworks and policies,Regulatory Frameworks and Policies,1,inferred,regulatory frameworks and policies,ECON_5141_concepts_raw.json
+ECON_5141,concept,public-private partnerships models,Public-Private Partnerships Models,1,inferred,public-private partnerships models,ECON_5141_concepts_raw.json
+ECON_5141,concept,healthcare system financing mechanisms,Healthcare System Financing Mechanisms,1,inferred,healthcare system financing mechanisms,ECON_5141_concepts_raw.json
+ECON_5141,concept,single-payer vs. multi-payer systems,single-payer vs. multi-payer systems,1,inferred,single-payer vs. multi-payer systems,ECON_5141_concepts_raw.json
+ECON_5141,concept,universal healthcare coverage models,Universal Healthcare Coverage Models,1,inferred,universal healthcare coverage models,ECON_5141_concepts_raw.json
+ECON_5141,concept,healthcare system performance metrics,Healthcare System Performance Metrics,1,inferred,healthcare system performance metrics,ECON_5141_concepts_raw.json

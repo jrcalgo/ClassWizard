@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_6100,Educational Administration,topic,PREREQUISITE_OF,Leadership Theories,topic,A taught first,,ADMN_6100_triples_raw.json
+ADMN_6100,Restructuring Reform,topic,PREREQUISITE_OF,Urban School Leadership,topic,A taught first,,ADMN_6100_triples_raw.json
+ADMN_6100,American Schools,topic,PREREQUISITE_OF,Effective School Leadership Practices,topic,B mentioned first,,ADMN_6100_triples_raw.json
+ADMN_6100,Education Law and Policy,concept,PREREQUISITE_OF,Special Education Laws and Regulations,concept,same unit,,ADMN_6100_triples_raw.json
+ADMN_6100,Transactional Leadership Approach,concept,SUBTYPE_OF,Leadership Theories,topic,,,ADMN_6100_triples_raw.json

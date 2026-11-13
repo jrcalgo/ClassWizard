@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+KNES_2233,topic,Personal Awareness,personal awareness,1,verified,Personal Awareness,KNES_2233_concepts_raw.json
+KNES_2233,topic,Group Culture,group culture,1,verified,Group Culture,KNES_2233_concepts_raw.json
+KNES_2233,topic,Leadership Development,leadership development,1,verified,Leadership Development,KNES_2233_concepts_raw.json
+KNES_2233,concept,Fostering Effective Teamwork,fostering effective teamwork,1,verified,Fostering Effective Teamwork,KNES_2233_concepts_raw.json
+KNES_2233,topic,Group Dynamics,Group Dynamics,1,inferred,Group Dynamics,KNES_2233_concepts_raw.json
+KNES_2233,topic,Bias Recognition,Bias Recognition,1,inferred,Bias Recognition,KNES_2233_concepts_raw.json
+KNES_2233,concept,Implicit Barriers to Participation,Implicit Barriers to Participation,1,inferred,Implicit Barriers to Participation,KNES_2233_concepts_raw.json
+KNES_2233,concept,Explicit Barriers to Inclusion,Explicit Barriers to Inclusion,1,inferred,Explicit Barriers to Inclusion,KNES_2233_concepts_raw.json
+KNES_2233,topic,Risk Management Strategies,Risk Management Strategies,1,inferred,Risk Management Strategies,KNES_2233_concepts_raw.json
+KNES_2233,topic,Climbing Techniques and Safety,Climbing Techniques and Safety,1,inferred,Climbing Techniques and Safety,KNES_2233_concepts_raw.json
+KNES_2233,topic,Equipment Use and Maintenance,Equipment Use and Maintenance,1,inferred,Equipment Use and Maintenance,KNES_2233_concepts_raw.json
+KNES_2233,concept,Personal Strengths and Weaknesses,Personal Strengths and Weaknesses,1,inferred,Personal Strengths and Weaknesses,KNES_2233_concepts_raw.json
+KNES_2233,concept,Initiative in Reducing Barriers,Initiative in Reducing Barriers,1,inferred,Initiative in Reducing Barriers,KNES_2233_concepts_raw.json
+KNES_2233,concept,Leadership Development Principles,Leadership Development Principles,1,inferred,Leadership Development Principles,KNES_2233_concepts_raw.json
+KNES_2233,concept,Character Development Principles,Character Development Principles,1,inferred,Character Development Principles,KNES_2233_concepts_raw.json
+KNES_2233,concept,Leadership Skills in Action,Leadership Skills in Action,1,inferred,Leadership Skills in Action,KNES_2233_concepts_raw.json

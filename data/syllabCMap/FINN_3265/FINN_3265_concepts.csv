@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_3265,topic,Real Estate Asset and Property Management,Real Estate Asset and Property Management,1,verified,Real Estate Asset and Property Management,FINN_3265_concepts_raw.json
+FINN_3265,concept,property managers,property managers,1,verified,property managers,FINN_3265_concepts_raw.json
+FINN_3265,topic,Types of Real Estate Assets,Types of Real Estate Assets,1,inferred,Types of Real Estate Assets,FINN_3265_concepts_raw.json
+FINN_3265,topic,Impact on Asset Value,Impact on Asset Value,1,inferred,Impact on Asset Value,FINN_3265_concepts_raw.json
+FINN_3265,topic,Property Classification Systems,Property Classification Systems,1,inferred,Property Classification Systems,FINN_3265_concepts_raw.json
+FINN_3265,topic,Roles and Responsibilities,Roles and Responsibilities,1,inferred,Roles and Responsibilities,FINN_3265_concepts_raw.json
+FINN_3265,topic,Differences between Asset Managers,Differences between Asset Managers,1,inferred,Differences between Asset Managers,FINN_3265_concepts_raw.json
+FINN_3265,topic,Property Manager's Role in Economy,Property Manager's Role in Economy,1,inferred,Property Manager's Role in Economy,FINN_3265_concepts_raw.json
+FINN_3265,concept,physical characteristics impact,Physical Characteristics Impact,1,inferred,physical characteristics impact,FINN_3265_concepts_raw.json
+FINN_3265,concept,location and accessibility factors,Location and Accessibility Factors,1,inferred,location and accessibility factors,FINN_3265_concepts_raw.json
+FINN_3265,concept,market demand and supply dynamics,Market Demand and Supply Dynamics,1,inferred,market demand and supply dynamics,FINN_3265_concepts_raw.json
+FINN_3265,concept,appraisal methods and techniques,Appraisal Methods and Techniques,1,inferred,appraisal methods and techniques,FINN_3265_concepts_raw.json
+FINN_3265,concept,discounted cash flow analysis,Discounted Cash Flow Analysis,1,inferred,discounted cash flow analysis,FINN_3265_concepts_raw.json
+FINN_3265,concept,capitalization rate calculation,Capitalization Rate Calculation,1,inferred,capitalization rate calculation,FINN_3265_concepts_raw.json
+FINN_3265,concept,asset value,Asset Value,1,inferred,asset value,FINN_3265_concepts_raw.json
+FINN_3265,concept,asset managers,Asset Managers,1,inferred,asset managers,FINN_3265_concepts_raw.json

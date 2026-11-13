@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3104,Close Reading,method,PREREQUISITE_OF,Literary Analysis Techniques,method,B taught first,B is taught before A - check,ENGL_3104_triples_raw.json
+ENGL_3104,Chesapeake Tillerman Novels,topic,PREREQUISITE_OF,Contemporary Queer/Southern YA Novel,topic,A mentioned first,,ENGL_3104_triples_raw.json
+ENGL_3104,Literary Analysis Techniques,method,PART_OF,Close Reading,method,,,ENGL_3104_triples_raw.json
+ENGL_3104,Fantasy World-Building Elements,method,PART_OF,Postwar Fantasy,topic,,,ENGL_3104_triples_raw.json
+ENGL_3104,Author's Purpose and Intent,concept,PART_OF,Adolescent-Literature Texts,topic,,,ENGL_3104_triples_raw.json
+ENGL_3104,Cultural Imagining in Literature,concept,PART_OF,Chesapeake Tillerman Novels,topic,,,ENGL_3104_triples_raw.json
+ENGL_3104,Ethics of Storytelling,concept,PART_OF,American Criminal Justice System,topic,,,ENGL_3104_triples_raw.json
+ENGL_3104,Protection vs Control,concept,PART_OF,Contemporary Queer/Southern YA Novel,topic,,,ENGL_3104_triples_raw.json
+ENGL_3104,Postwar Fantasy,topic,SUBTYPE_OF,Fantasy World-Building Techniques,concept,,,ENGL_3104_triples_raw.json
+ENGL_3104,Contemporary Queer/Southern YA Novel,topic,SUBTYPE_OF,Adolescent-Literature Texts,topic,,,ENGL_3104_triples_raw.json
+ENGL_3104,Chesapeake Tillerman Novels,topic,USED_FOR,Contemporary Queer/Southern YA Novel,topic,,topic used for something - check direction,ENGL_3104_triples_raw.json

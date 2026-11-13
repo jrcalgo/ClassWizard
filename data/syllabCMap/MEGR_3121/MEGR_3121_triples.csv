@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3121,Kinematics Review,topic,PART_OF,Particle Dynamics,topic,,,MEGR_3121_triples_raw.json
+MEGR_3121,Kinematics of Mechanisms,topic,PART_OF,Rigid Body Kinematics,topic,,,MEGR_3121_triples_raw.json
+MEGR_3121,Work-Energy Principle,topic,PART_OF,Impulse-Momentum Principle,topic,,,MEGR_3121_triples_raw.json
+MEGR_3121,Kinetic Energy of Rigid Bodies,concept,PART_OF,Work-Energy Principle,topic,,,MEGR_3121_triples_raw.json
+MEGR_3121,Conservation of Mechanical Energy,concept,PART_OF,Work-Energy Principle,topic,,,MEGR_3121_triples_raw.json
+MEGR_3121,Impulse-Momentum Equations for Rigid Bodies,concept,USED_FOR,Impulse-Momentum Principle,topic,,,MEGR_3121_triples_raw.json
+MEGR_3121,Collision Dynamics Analysis,concept,USED_FOR,Impulse-Momentum Principle,topic,,,MEGR_3121_triples_raw.json

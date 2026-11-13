@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3222,exploratory research design,concept,PREREQUISITE_OF,descriptive research design,concept,same unit,,MKTG_3222_triples_raw.json
+MKTG_3222,exploratory research design,concept,PREREQUISITE_OF,causal research design,concept,same unit,,MKTG_3222_triples_raw.json
+MKTG_3222,exploratory research design,concept,PREREQUISITE_OF,research objectives formulation,concept,same unit,,MKTG_3222_triples_raw.json
+MKTG_3222,exploratory research design,concept,PREREQUISITE_OF,market research process,concept,same unit,,MKTG_3222_triples_raw.json
+MKTG_3222,descriptive research design,concept,PREREQUISITE_OF,causal research design,concept,same unit,,MKTG_3222_triples_raw.json
+MKTG_3222,descriptive research design,concept,PREREQUISITE_OF,research objectives formulation,concept,same unit,,MKTG_3222_triples_raw.json
+MKTG_3222,descriptive research design,concept,PREREQUISITE_OF,market research process,concept,same unit,,MKTG_3222_triples_raw.json
+MKTG_3222,causal research design,concept,PREREQUISITE_OF,research objectives formulation,concept,same unit,,MKTG_3222_triples_raw.json
+MKTG_3222,causal research design,concept,PREREQUISITE_OF,market research process,concept,same unit,,MKTG_3222_triples_raw.json
+MKTG_3222,market research process,concept,PART_OF,marketing research,topic,,,MKTG_3222_triples_raw.json
+MKTG_3222,exploratory research design,concept,PART_OF,market research process,concept,,,MKTG_3222_triples_raw.json
+MKTG_3222,descriptive research design,concept,PART_OF,market research process,concept,,,MKTG_3222_triples_raw.json
+MKTG_3222,causal research design,concept,PART_OF,market research process,concept,,,MKTG_3222_triples_raw.json
+MKTG_3222,survey construction,topic,PART_OF,market research process,concept,,part is broader than whole - check direction,MKTG_3222_triples_raw.json
+MKTG_3222,data collection methods,topic,PART_OF,market research process,concept,,part is broader than whole - check direction,MKTG_3222_triples_raw.json
+MKTG_3222,research objectives formulation,concept,PART_OF,market research process,concept,,,MKTG_3222_triples_raw.json

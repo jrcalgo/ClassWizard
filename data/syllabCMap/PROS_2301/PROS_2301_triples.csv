@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_2301,Workforce Planning,topic,PREREQUISITE_OF,Employee Performance Management,topic,A taught first,,PROS_2301_triples_raw.json
+PROS_2301,Human Resource Needs Analysis,concept,PREREQUISITE_OF,Job Description and Specification,concept,same unit,,PROS_2301_triples_raw.json
+PROS_2301,Training Needs Assessment Process,concept,PREREQUISITE_OF,Learning and Development Strategies,concept,same unit,,PROS_2301_triples_raw.json
+PROS_2301,Performance Management Systems Design,concept,PREREQUISITE_OF,Performance Metrics and Evaluation Criteria,concept,A taught first,,PROS_2301_triples_raw.json
+PROS_2301,Human Resource Needs Analysis,concept,PART_OF,Workforce Planning,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Job Description and Specification,concept,PART_OF,Workforce Planning,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Workforce Forecasting Techniques,concept,PART_OF,Workforce Planning,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Sourcing Methods for Talent Acquisition,concept,PART_OF,Recruitment Strategies,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Diversity and Inclusion in Hiring,concept,PART_OF,Recruitment Strategies,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Training Needs Assessment Process,concept,PART_OF,Human Resource Development,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Learning and Development Strategies,concept,PART_OF,Human Resource Development,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Performance Management Systems Design,concept,PART_OF,Employee Performance Management,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Goal Setting and Achievement Planning,concept,PART_OF,Employee Performance Management,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Coaching and Feedback Techniques,concept,PART_OF,Employee Performance Management,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Succession Planning and Leadership Development,concept,PART_OF,Talent Management and Retention,topic,,,PROS_2301_triples_raw.json
+PROS_2301,Turnover Reduction and Retention Initiatives,concept,PART_OF,Talent Management and Retention,topic,,,PROS_2301_triples_raw.json

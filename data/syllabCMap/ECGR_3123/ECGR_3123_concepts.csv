@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3123,topic,Data Communications,Data Communications,4,verified,Data Communications,ECGR_3123_concepts_raw.json
+ECGR_3123,topic,Transmission Media,transmission media,1,verified,Transmission Media,ECGR_3123_concepts_raw.json
+ECGR_3123,topic,Signal Encoding,signal encoding,2,verified,Signal Encoding,ECGR_3123_concepts_raw.json
+ECGR_3123,topic,Flow Control,flow control,1,verified,Flow Control,ECGR_3123_concepts_raw.json
+ECGR_3123,topic,Network Protocols,network protocols,1,verified,Network Protocols,ECGR_3123_concepts_raw.json
+ECGR_3123,topic,Wireless Networks,wireless networks,1,verified,Wireless Networks,ECGR_3123_concepts_raw.json
+ECGR_3123,concept,network protocol architecture,network protocol architecture,1,verified,network protocol architecture,ECGR_3123_concepts_raw.json

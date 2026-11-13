@@ -1,0 +1,43 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,cranium and face bones,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,anatomical landmarks of skull,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,vertebrae structure and function,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,spinal curvatures and abnormalities,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,scapula,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,humerus,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,radius,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,ulna,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,carpals and metacarpals,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,phalanges of hand,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,ilium,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,ischium,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,pubis bones,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,femur,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,patella,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,tibia,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,fibula,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,tarsals and metatarsals,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,dental anatomy and structure,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,tooth development and eruption,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,human skeleton,concept,PREREQUISITE_OF,jaw bones and muscles,concept,A taught first,,ANTH_3141_triples_raw.json
+ANTH_3141,cranium and face bones,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,skull sutures and foramina,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,anatomical landmarks of skull,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,vertebrae structure and function,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,spinal curvatures and abnormalities,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,scapula,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,humerus,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,radius,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,ulna,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,phalanges of hand,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,ilium,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,ischium,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,pubis bones,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,femur,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,patella,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,tibia,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,fibula,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,dental anatomy and structure,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,tooth development and eruption,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,jaw bones and muscles,concept,PART_OF,human skeleton,concept,,,ANTH_3141_triples_raw.json
+ANTH_3141,Osteology,topic,USED_FOR,Human Osteology,topic,,topic used for something - check direction,ANTH_3141_triples_raw.json

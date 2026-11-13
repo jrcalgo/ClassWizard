@@ -1,0 +1,83 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6188,topic,Text Mining & Information Retrieval,Text Mining & Information Retrieval,1,verified,Text Mining & Information Retrieval,DSBA_6188_concepts_raw.json
+DSBA_6188,topic,Applied Machine Learning,Applied Machine Learning,1,verified,Applied Machine Learning,DSBA_6188_concepts_raw.json
+DSBA_6188,topic,Artificial Intelligence and Deep Learning and AI,Artificial Intelligence and Deep Learning and AI,1,verified,Artificial Intelligence and Deep Learning and AI,DSBA_6188_concepts_raw.json
+DSBA_6188,topic,Database Systems for Data Scientist,Database Systems for Data Scientist,1,verified,Database Systems for Data Scientist,DSBA_6188_concepts_raw.json
+DSBA_6188,topic,Special Topics in DSBA - Applied LLM,Special Topics in DSBA - Applied LLM,1,verified,Special Topics in DSBA - Applied LLM,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Text Mining Pipeline,text mining pipeline,9,verified,Text Mining Pipeline,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Natural Language Processing,natural language processing,25,verified,Natural Language Processing,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Large Language Models,Large Language Models,24,verified,Large Language Models,DSBA_6188_concepts_raw.json
+DSBA_6188,topic,Text Classification,text classification,18,verified,Text Classification,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Sentiment Analysis,sentiment analysis,23,verified,Sentiment Analysis,DSBA_6188_concepts_raw.json
+DSBA_6188,method,topic modeling,topic modeling,16,verified,"Utilize LLMs for tasks such as sentiment analysis, summarization, topic modeling, and NER",DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Document Summarization,document summarization,2,verified,Document Summarization,DSBA_6188_concepts_raw.json
+DSBA_6188,topic,Named Entity Recognition (NER,Named Entity Recognition (NER,1,verified,Named Entity Recognition (NER),DSBA_6188_concepts_raw.json
+DSBA_6188,topic,Document Search,document search,2,verified,Document Search,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Retrieval-Augmented Generation,Retrieval-Augmented Generation,3,verified,Retrieval-Augmented Generation,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Knowledge Graph,knowledge graphs,1,verified,Knowledge Graph,DSBA_6188_concepts_raw.json
+DSBA_6188,topic,GraphRAG,GraphRAG,5,verified,GraphRAG,DSBA_6188_concepts_raw.json
+DSBA_6188,topic,Chatbots,chatbots,1,verified,Chatbots,DSBA_6188_concepts_raw.json
+DSBA_6188,method,automated data processing pipelines,automated data processing pipelines,1,verified,"Build practical text-mining solutions, including chatbots and automated data processing pipelines",DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Data Acquisition Methods,Data Acquisition Methods,1,verified,Data Acquisition Methods,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Preprocessing Techniques,Preprocessing Techniques,6,verified,Preprocessing Techniques,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Tokenization,tokenization,2,verified,Tokenization,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Stemming,stemming,2,verified,Stemming,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Stopwords,stopwords,2,verified,Stopwords,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Lemmatization,lemmatization,2,verified,Lemmatization,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,POS Tagging,POS tagging,2,verified,POS Tagging,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Named Entities,Named Entities,1,verified,Named Entities,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Part-of-Speech,Part-of-Speech,1,verified,Part-of-Speech,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Bag of Words,Bag of Words,1,verified,Bag of Words,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Term Frequency-Inverse Document Frequency,Term Frequency-Inverse Document Frequency,1,verified,Term Frequency-Inverse Document Frequency,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Word Embeddings,Word Embeddings,2,verified,Word Embeddings,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Text Representation,Text Representations,1,verified,Text Representation,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,BoW Model,BoW Model,1,verified,BoW Model,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,TF-IDF Vector,TF-IDF Vector,1,verified,TF-IDF Vector,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Vectorization Techniques,Vectorization Techniques,1,verified,Vectorization Techniques,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Semantic Similarity,Semantic Similarity,1,verified,Semantic Similarity,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Cosine Similarity,Cosine Similarity,1,verified,Cosine Similarity,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Text Vector Spaces,Text Vector Spaces,1,verified,Text Vector Spaces,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Dimensionality Reduction,Dimensionality Reduction,1,verified,Dimensionality Reduction,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Feature Extraction Methods,Feature Extraction Methods,1,verified,Feature Extraction Methods,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Basic LLM Architecture,Basic LLM Architecture,1,verified,Basic LLM Architecture,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,LLM Training Methods,LLM Training Methods,1,verified,LLM Training Methods,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,LLM Evaluation Metrics,LLM Evaluation Metrics,1,verified,LLM Evaluation Metrics,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Ollama Features,Ollama Features,1,verified,Ollama Features,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Snowflake Cortex Integration,Snowflake Cortex Integration,2,verified,Snowflake Cortex Integration,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,n8n Workflow Design,n8n Workflow Design,2,verified,n8n Workflow Design,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Text Classification Models,Text Classification Models,1,verified,Text Classification Models,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Emotion Detection Techniques,Emotion Detection Techniques,1,verified,Emotion Detection Techniques,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Polarity Analysis Methods,Polarity Analysis Methods,1,verified,Polarity Analysis Methods,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Subjectivity Detection,Subjectivity Detection,1,verified,Subjectivity Detection,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Extractive Summarization Techniques,Extractive Summarization Techniques,1,verified,Extractive Summarization Techniques,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Abstractive Summarization Methods,Abstractive Summarization Methods,1,verified,Abstractive Summarization Methods,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Summary Evaluation Metrics,Summary Evaluation Metrics,1,verified,Summary Evaluation Metrics,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Latent Dirichlet Allocation,Latent Dirichlet Allocation,1,verified,Latent Dirichlet Allocation,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Probabilistic Topic Models,Probabilistic Topic Models,1,verified,Probabilistic Topic Models,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Non-Negative Matrix Factorization,Non-Negative Matrix Factorization,1,verified,Non-Negative Matrix Factorization,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Text Representation Learning,Text Representation Learning,1,verified,Text Representation Learning,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Named Entity Recognition,named entity recognition,2,verified,Named Entity Recognition,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Langextract Algorithm,Langextract Algorithm,1,verified,Langextract Algorithm,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Entity Extraction Techniques,Entity Extraction Techniques,1,verified,Entity Extraction Techniques,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Text Retrieval Models,Text Retrieval Models,2,verified,Text Retrieval Models,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Language Model Augmentation,Language Model Augmentation,1,verified,Language Model Augmentation,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Generative Retrieval Systems,Generative Retrieval Systems,1,verified,Generative Retrieval Systems,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Graph Embeddings,Graph Embeddings,1,verified,Graph Embeddings,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Node Representation,Node Representation,1,verified,Node Representation,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Edge Weighting,Edge Weighting,1,verified,Edge Weighting,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Graph Neural Networks,Graph Neural Networks,2,verified,Graph Neural Networks,DSBA_6188_concepts_raw.json
+DSBA_6188,concept,Graph Convolutional Layers,Graph Convolutional Layers,1,verified,Graph Convolutional Layers,DSBA_6188_concepts_raw.json
+DSBA_6188,method,Utilize LLMs for tasks such as sentiment analysis,Utilize LLMs for tasks such as sentiment analysis,1,verified,"Utilize LLMs for tasks such as sentiment analysis, summarization, topic modeling, and NER",DSBA_6188_concepts_raw.json
+DSBA_6188,method,summarization,summarization,5,verified,"Utilize LLMs for tasks such as sentiment analysis, summarization, topic modeling, and NER",DSBA_6188_concepts_raw.json
+DSBA_6188,method,NER,NER,2,verified,"Utilize LLMs for tasks such as sentiment analysis, summarization, topic modeling, and NER",DSBA_6188_concepts_raw.json
+DSBA_6188,method,Implement Retrieval-Augmented Generation (RAG) for enhanced information retrieval,Implement Retrieval-Augmented Generation (RAG) for enhanced information retrieval,1,verified,Implement Retrieval-Augmented Generation (RAG) for enhanced information retrieval,DSBA_6188_concepts_raw.json
+DSBA_6188,method,Build practical text-mining solutions,Build practical text-mining solutions,1,verified,"Build practical text-mining solutions, including chatbots and automated data processing pipelines",DSBA_6188_concepts_raw.json
+DSBA_6188,method,including chatbots,including chatbots,1,verified,"Build practical text-mining solutions, including chatbots and automated data processing pipelines",DSBA_6188_concepts_raw.json
+DSBA_6188,tool,Python,Python,1,verified,Python,DSBA_6188_concepts_raw.json
+DSBA_6188,tool,VS,VS,1,verified,VS,DSBA_6188_concepts_raw.json
+DSBA_6188,tool,Ollama,Ollama,10,verified,Ollama,DSBA_6188_concepts_raw.json
+DSBA_6188,tool,n8n,n8n,10,verified,n8n,DSBA_6188_concepts_raw.json
+DSBA_6188,tool,Colab,Colab,1,verified,Colab,DSBA_6188_concepts_raw.json
+DSBA_6188,tool,Snowflake account,Snowflake account,1,verified,Snowflake account,DSBA_6188_concepts_raw.json
+DSBA_6188,tool,Streamlit,Streamlit,3,verified,Streamlit,DSBA_6188_concepts_raw.json
+DSBA_6188,tool,LM Studio,LM Studio,2,verified,LM Studio,DSBA_6188_concepts_raw.json

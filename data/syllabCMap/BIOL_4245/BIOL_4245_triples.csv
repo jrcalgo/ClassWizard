@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4245,marine ecosystems overview,concept,PREREQUISITE_OF,importance of marine life,concept,same unit,,BIOL_4245_triples_raw.json
+BIOL_4245,marine ecosystems overview,concept,PREREQUISITE_OF,human impact on oceans,concept,same unit,,BIOL_4245_triples_raw.json
+BIOL_4245,water cycle and oceans,concept,PREREQUISITE_OF,nutrient cycles in oceans,concept,same unit,,BIOL_4245_triples_raw.json
+BIOL_4245,bacteria and archaea diversity,concept,PREREQUISITE_OF,phytoplankton and zooplankton,concept,same unit,,BIOL_4245_triples_raw.json
+BIOL_4245,marine fungi and viruses,concept,PREREQUISITE_OF,phytoplankton and zooplankton,concept,same unit,,BIOL_4245_triples_raw.json
+BIOL_4245,fish and invertebrate diversity,concept,PREREQUISITE_OF,reproduction methods in marine animals,concept,same unit,,BIOL_4245_triples_raw.json
+BIOL_4245,taxonomy of marine organisms,concept,PREREQUISITE_OF,endemic and extinct species,concept,same unit,,BIOL_4245_triples_raw.json
+BIOL_4245,marine ecosystems overview,concept,PART_OF,Marine Biology,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,importance of marine life,concept,PART_OF,Marine Biology,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,human impact on oceans,concept,PART_OF,Marine Biology,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,ocean currents and circulation,concept,PART_OF,Physical Oceanography,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,tides and waves formation,concept,PART_OF,Physical Oceanography,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,water cycle and oceans,concept,PART_OF,Marine Chemistry,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,nutrient cycles in oceans,concept,PART_OF,Marine Chemistry,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,pH and oxygen levels,concept,PART_OF,Marine Chemistry,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,bacteria and archaea diversity,concept,PART_OF,Microorganisms in Marine Ecosystems,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,fish and invertebrate diversity,concept,PART_OF,Macro-Organisms in Marine Ecosystems,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,reproduction methods in marine animals,concept,PART_OF,Macro-Organisms in Marine Ecosystems,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,migration patterns and behaviors,concept,PART_OF,Macro-Organisms in Marine Ecosystems,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,taxonomy of marine organisms,concept,PART_OF,Marine Species Diversity,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,endemic and extinct species,concept,PART_OF,Marine Species Diversity,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,adaptation to marine environments,concept,PART_OF,Marine Species Diversity,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,predator-prey relationships,concept,PART_OF,Marine Ecosystems Interactions,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,symbiotic relationships in oceans,concept,PART_OF,Marine Ecosystems Interactions,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,pollution effects on marine life,concept,PART_OF,Human Impact on Marine Ecosystems,topic,,,BIOL_4245_triples_raw.json
+BIOL_4245,climate change impacts on oceans,concept,PART_OF,Human Impact on Marine Ecosystems,topic,,,BIOL_4245_triples_raw.json

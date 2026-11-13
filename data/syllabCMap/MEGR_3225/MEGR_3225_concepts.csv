@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3225,topic,Finite Element Analysis,Finite Element Analysis,3,verified,Finite Element Analysis,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,Solid Mechanics,Solid Mechanics,1,verified,Solid Mechanics,MEGR_3225_concepts_raw.json
+MEGR_3225,tool,MATLAB,MATLAB,1,verified,MATLAB,MEGR_3225_concepts_raw.json
+MEGR_3225,tool,Abaqus,Abaqus,1,verified,Abaqus,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,FEM,FEM,2,inferred,Introduction to FEM,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,Element Formulation,Element Formulation,2,inferred,Element Formulation,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,Galerkin Weighted Residuals,Galerkin Weighted Residuals,1,inferred,Galerkin Weighted Residuals,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,Assembly and Boundary Conditions,Assembly and Boundary Conditions,1,inferred,Assembly and Boundary Conditions,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,Solution Strategies and Algorithms,Solution Strategies and Algorithms,1,inferred,Solution Strategies and Algorithms,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,Numerical Integration and Quadrature,Numerical Integration and Quadrature,1,inferred,Numerical Integration and Quadrature,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,Isoparametric Mapping and Transformation,Isoparametric Mapping and Transformation,1,inferred,Isoparametric Mapping and Transformation,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,2D and 3D Element Formulation,2D and 3D Element Formulation,1,inferred,2D and 3D Element Formulation,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,Nonlinear Analysis and Material Models,Nonlinear Analysis and Material Models,1,inferred,Nonlinear Analysis and Material Models,MEGR_3225_concepts_raw.json
+MEGR_3225,topic,Dynamic Analysis and Time Integration,Dynamic Analysis and Time Integration,1,inferred,Dynamic Analysis and Time Integration,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Finite Element Method Basics,Finite Element Method Basics,1,inferred,Finite Element Method Basics,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Governing Equations Overview,Governing Equations Overview,1,inferred,Governing Equations Overview,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Problem Types and Applications,Problem Types and Applications,1,inferred,Problem Types and Applications,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Shape Functions and Interpolation,Shape Functions and Interpolation,2,inferred,Shape Functions and Interpolation,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Stiffness Matrix Derivation,Stiffness Matrix Derivation,1,inferred,Stiffness Matrix Derivation,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Mass Matrix Calculation,Mass Matrix Calculation,1,inferred,Mass Matrix Calculation,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Weak Form of Governing Equations,Weak Form of Governing Equations,1,inferred,Weak Form of Governing Equations,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Weighted Residual Method Overview,Weighted Residual Method Overview,1,inferred,Weighted Residual Method Overview,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Discretized System Equations,Discretized System Equations,1,inferred,Discretized System Equations,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Global Stiffness Matrix Assembly,Global Stiffness Matrix Assembly,1,inferred,Global Stiffness Matrix Assembly,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Boundary Condition Enforcement Methods,Boundary Condition Enforcement Methods,1,inferred,Boundary Condition Enforcement Methods,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Matrix Partitioning Techniques,Matrix Partitioning Techniques,1,inferred,Matrix Partitioning Techniques,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Direct Solution Methods Overview,Direct Solution Methods Overview,1,inferred,Direct Solution Methods Overview,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Iterative Solution Methods Overview,Iterative Solution Methods Overview,1,inferred,Iterative Solution Methods Overview,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Linear System Solvers Comparison,Linear System Solvers Comparison,1,inferred,Linear System Solvers Comparison,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Numerical Integration Techniques Overview,Numerical Integration Techniques Overview,1,inferred,Numerical Integration Techniques Overview,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Quadrature Rules for 1D Elements,Quadrature Rules for 1D Elements,1,inferred,Quadrature Rules for 1D Elements,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Higher-Dimensional Numerical Integration,Higher-Dimensional Numerical Integration,1,inferred,Higher-Dimensional Numerical Integration,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Element Coordinate Systems Overview,Element Coordinate Systems Overview,1,inferred,Element Coordinate Systems Overview,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Isoparametric Mapping Basics,Isoparametric Mapping Basics,1,inferred,Isoparametric Mapping Basics,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Transformation Matrices Derivation,Transformation Matrices Derivation,1,inferred,Transformation Matrices Derivation,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Material Nonlinearity Basics,Material Nonlinearity Basics,1,inferred,Material Nonlinearity Basics,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Geometric Nonlinearity Overview,Geometric Nonlinearity Overview,1,inferred,Geometric Nonlinearity Overview,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Transient Dynamic Response Overview,Transient Dynamic Response Overview,1,inferred,Transient Dynamic Response Overview,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Time Integration Methods Overview,Time Integration Methods Overview,1,inferred,Time Integration Methods Overview,MEGR_3225_concepts_raw.json
+MEGR_3225,concept,Implicit vs. Explicit Time Integration,Implicit vs. Explicit Time Integration,1,inferred,Implicit vs. Explicit Time Integration,MEGR_3225_concepts_raw.json

@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_6220,Drug Mechanism of Action,concept,PREREQUISITE_OF,Receptor Binding Theory,concept,same unit,,NURS_6220_triples_raw.json
+NURS_6220,Drug Mechanism of Action,concept,PREREQUISITE_OF,Pharmacokinetic Processes,concept,same unit,,NURS_6220_triples_raw.json
+NURS_6220,Drug Mechanism of Action,concept,PREREQUISITE_OF,Absorption and Distribution,concept,same unit,,NURS_6220_triples_raw.json
+NURS_6220,Drug Mechanism of Action,concept,PREREQUISITE_OF,Metabolism and Excretion,concept,same unit,,NURS_6220_triples_raw.json
+NURS_6220,Drug Mechanism of Action,concept,PART_OF,Pharmacology Fundamentals,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Receptor Binding Theory,concept,PART_OF,Pharmacology Fundamentals,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Pharmacokinetic Processes,concept,PART_OF,Pharmacology Fundamentals,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Absorption and Distribution,concept,PART_OF,Pharmacology Fundamentals,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Metabolism and Excretion,concept,PART_OF,Pharmacology Fundamentals,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Chronic Disease Management,concept,PART_OF,Pathophysiology Review,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Acute Inflammatory Response,concept,PART_OF,Pathophysiology Review,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Cardiovascular System Pathology,concept,PART_OF,Pathophysiology Review,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Neurological System Disorders,concept,PART_OF,Pathophysiology Review,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Therapeutic Index and Ratio,concept,PART_OF,Pharmacotherapeutic Principles,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Drug Efficacy and Potency,concept,PART_OF,Pharmacotherapeutic Principles,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Pharmacokinetic-Pharmacodynamic Relationship,concept,PART_OF,Pharmacotherapeutic Principles,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Medication Error Prevention Strategies,concept,PART_OF,Prescriptive Authority and Law,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Diabetes Mellitus Management,concept,PART_OF,Common Medical Conditions,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Depression Pharmacotherapy Guidelines,concept,PART_OF,Common Medical Conditions,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Evaluating Existing Plans of Care,concept,PART_OF,Therapeutic Alternatives and Monitoring,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Determining Therapeutic Alternatives,concept,PART_OF,Therapeutic Alternatives and Monitoring,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Monitoring Efficacy and Toxicity,concept,PART_OF,Therapeutic Alternatives and Monitoring,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Adjusting Medication Regimens,concept,PART_OF,Therapeutic Alternatives and Monitoring,topic,,,NURS_6220_triples_raw.json
+NURS_6220,Pharmacokinetic Processes,concept,USED_FOR,Drug Mechanism of Action,concept,,,NURS_6220_triples_raw.json
+NURS_6220,Absorption and Distribution,concept,USED_FOR,Drug Mechanism of Action,concept,,,NURS_6220_triples_raw.json
+NURS_6220,Metabolism and Excretion,concept,USED_FOR,Drug Mechanism of Action,concept,,,NURS_6220_triples_raw.json

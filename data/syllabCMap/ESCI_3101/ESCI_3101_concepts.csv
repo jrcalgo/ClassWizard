@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_3101,topic,Global Environmental Change,Global Environmental Change,1,verified,Global Environmental Change,ESCI_3101_concepts_raw.json
+ESCI_3101,topic,Societal and Environmental Impacts,societal and environmental impacts,1,verified,Societal and Environmental Impacts,ESCI_3101_concepts_raw.json
+ESCI_3101,topic,Climate Fundamentals,Climate Fundamentals,1,inferred,Climate Fundamentals,ESCI_3101_concepts_raw.json
+ESCI_3101,topic,Global Warming Trends,Global Warming Trends,1,inferred,Global Warming Trends,ESCI_3101_concepts_raw.json
+ESCI_3101,topic,Causes of Global Warming,Causes of Global Warming,1,inferred,Causes of Global Warming,ESCI_3101_concepts_raw.json
+ESCI_3101,topic,Climate Change Impacts,Climate Change Impacts,1,inferred,Climate Change Impacts,ESCI_3101_concepts_raw.json
+ESCI_3101,topic,Climate Change Mitigation Strategies,Climate Change Mitigation Strategies,1,inferred,Climate Change Mitigation Strategies,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Greenhouse Effect Basics,Greenhouse Effect Basics,1,inferred,Greenhouse Effect Basics,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Radiative Forcing Mechanisms,Radiative Forcing Mechanisms,1,inferred,Radiative Forcing Mechanisms,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Atmospheric Composition,Atmospheric Composition,1,inferred,Atmospheric Composition,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Temperature Increase Patterns,Temperature Increase Patterns,1,inferred,Temperature Increase Patterns,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Sea Level Rise Projections,Sea Level Rise Projections,1,inferred,Sea Level Rise Projections,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Arctic Ice Melting Rates,Arctic Ice Melting Rates,1,inferred,Arctic Ice Melting Rates,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Greenhouse Gas Emissions Sources,Greenhouse Gas Emissions Sources,1,inferred,Greenhouse Gas Emissions Sources,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Fossil Fuel Combustion Impact,Fossil Fuel Combustion Impact,1,inferred,Fossil Fuel Combustion Impact,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Natural Climate Variability,Natural Climate Variability,1,inferred,Natural Climate Variability,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Weather Extremes Intensification,Weather Extremes Intensification,1,inferred,Weather Extremes Intensification,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Water Cycle Disruptions Effects,Water Cycle Disruptions Effects,1,inferred,Water Cycle Disruptions Effects,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Sea Level Rise Consequences,Sea Level Rise Consequences,1,inferred,Sea Level Rise Consequences,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Economic Losses from Climate Change,Economic Losses from Climate Change,1,inferred,Economic Losses from Climate Change,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Human Migration Patterns Changes,Human Migration Patterns Changes,1,inferred,Human Migration Patterns Changes,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Biodiversity Loss Risks,Biodiversity Loss Risks,1,inferred,Biodiversity Loss Risks,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Renewable Energy Transition Options,Renewable Energy Transition Options,1,inferred,Renewable Energy Transition Options,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Carbon Capture and Storage Methods,Carbon Capture and Storage Methods,1,inferred,Carbon Capture and Storage Methods,ESCI_3101_concepts_raw.json
+ESCI_3101,concept,Sustainable Land Use Practices,Sustainable Land Use Practices,1,inferred,Sustainable Land Use Practices,ESCI_3101_concepts_raw.json

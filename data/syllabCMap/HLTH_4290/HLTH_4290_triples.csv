@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_4290,Public Health Data Systems,concept,PREREQUISITE_OF,Health Information Exchange (HIE,concept,same unit,,HLTH_4290_triples_raw.json
+HLTH_4290,Billing Practices,concept,PREREQUISITE_OF,Diagnostic Codes,concept,same unit,,HLTH_4290_triples_raw.json
+HLTH_4290,Team Environments,concept,PREREQUISITE_OF,Quality of Work,concept,same unit,,HLTH_4290_triples_raw.json
+HLTH_4290,Effective Health Information Management,concept,PART_OF,Decision Support Strategies,concept,,,HLTH_4290_triples_raw.json
+HLTH_4290,Public Health Data Systems,concept,PART_OF,Health Information Exchange,topic,,,HLTH_4290_triples_raw.json

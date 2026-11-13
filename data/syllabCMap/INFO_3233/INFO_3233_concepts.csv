@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+INFO_3233,concept,Database Management Systems,Database Management Systems,1,inferred,Database Management Systems,INFO_3233_concepts_raw.json
+INFO_3233,topic,Data Storage and Retrieval,Data Storage and Retrieval,1,inferred,Data Storage and Retrieval,INFO_3233_concepts_raw.json
+INFO_3233,topic,Business Applications of Databases,Business Applications of Databases,1,inferred,Business Applications of Databases,INFO_3233_concepts_raw.json
+INFO_3233,concept,Entity Relationship Modeling,Entity Relationship Modeling,1,inferred,Entity Relationship Modeling,INFO_3233_concepts_raw.json
+INFO_3233,concept,Normalization Techniques,Normalization Techniques,1,inferred,Normalization Techniques,INFO_3233_concepts_raw.json
+INFO_3233,topic,Database Schema Design,Database Schema Design,1,inferred,Database Schema Design,INFO_3233_concepts_raw.json
+INFO_3233,concept,SQL Syntax and Semantics,SQL Syntax and Semantics,1,inferred,SQL Syntax and Semantics,INFO_3233_concepts_raw.json
+INFO_3233,concept,Querying Database Tables,Querying Database Tables,1,inferred,Querying Database Tables,INFO_3233_concepts_raw.json
+INFO_3233,concept,Data Manipulation with SQL,Data Manipulation with SQL,1,inferred,Data Manipulation with SQL,INFO_3233_concepts_raw.json
+INFO_3233,topic,Database Creation with SQL,Database Creation with SQL,1,inferred,Database Creation with SQL,INFO_3233_concepts_raw.json
+INFO_3233,concept,Table Structure and Constraints,Table Structure and Constraints,1,inferred,Table Structure and Constraints,INFO_3233_concepts_raw.json
+INFO_3233,concept,Indexing and Optimization,Indexing and Optimization,1,inferred,Indexing and Optimization,INFO_3233_concepts_raw.json
+INFO_3233,topic,"Inserting, Updating, Deleting Data","Inserting, Updating, Deleting Data",1,inferred,"Inserting, Updating, Deleting Data",INFO_3233_concepts_raw.json
+INFO_3233,concept,Data Validation and Integrity,Data Validation and Integrity,1,inferred,Data Validation and Integrity,INFO_3233_concepts_raw.json
+INFO_3233,concept,Transaction Management,Transaction Management,1,inferred,Transaction Management,INFO_3233_concepts_raw.json
+INFO_3233,concept,User Authentication and Authorization,User Authentication and Authorization,1,inferred,User Authentication and Authorization,INFO_3233_concepts_raw.json
+INFO_3233,concept,Data Encryption and Access Control,Data Encryption and Access Control,1,inferred,Data Encryption and Access Control,INFO_3233_concepts_raw.json
+INFO_3233,topic,Security Threats and Vulnerabilities,Security Threats and Vulnerabilities,1,inferred,Security Threats and Vulnerabilities,INFO_3233_concepts_raw.json
+INFO_3233,topic,Backup and Recovery Strategies,Backup and Recovery Strategies,1,inferred,Backup and Recovery Strategies,INFO_3233_concepts_raw.json
+INFO_3233,topic,Performance Tuning and Optimization,Performance Tuning and Optimization,1,inferred,Performance Tuning and Optimization,INFO_3233_concepts_raw.json
+INFO_3233,topic,Database Maintenance and Monitoring,Database Maintenance and Monitoring,1,inferred,Database Maintenance and Monitoring,INFO_3233_concepts_raw.json
+INFO_3233,concept,Inserting,Inserting,1,inferred,"Inserting, Updating, Deleting Data",INFO_3233_concepts_raw.json
+INFO_3233,concept,Updating,Updating,1,inferred,"Inserting, Updating, Deleting Data",INFO_3233_concepts_raw.json
+INFO_3233,concept,Deleting Data,Deleting Data,1,inferred,"Inserting, Updating, Deleting Data",INFO_3233_concepts_raw.json

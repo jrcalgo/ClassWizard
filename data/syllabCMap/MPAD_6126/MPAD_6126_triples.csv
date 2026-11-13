@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6126,Hypothesis Tests,topic,PREREQUISITE_OF,Multiple Linear Regression Basics,topic,A taught first,,MPAD_6126_triples_raw.json
+MPAD_6126,Hypothesis Tests,topic,PREREQUISITE_OF,Confidence Intervals for Means,topic,A taught first,,MPAD_6126_triples_raw.json
+MPAD_6126,Hypothesis Tests,topic,PREREQUISITE_OF,Advanced Regression Topics,topic,A taught first,,MPAD_6126_triples_raw.json
+MPAD_6126,Multiple Linear Regression Basics,topic,PREREQUISITE_OF,Regression Analysis Limitations,topic,A taught first,,MPAD_6126_triples_raw.json
+MPAD_6126,Null and Alternative Hypotheses,concept,PART_OF,Hypothesis Tests,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,Test Statistics and P-Values,concept,PART_OF,Hypothesis Tests,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,Type I and Type II Errors,concept,PART_OF,Hypothesis Tests,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,Standard Error of the Mean,concept,PART_OF,Confidence Intervals for Means,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,Interval Estimation for Population Parameters,concept,PART_OF,Confidence Intervals for Means,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,Model Assumptions and Diagnostics,concept,PART_OF,Multiple Linear Regression Basics,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,Interpretation of Coefficient Values,concept,PART_OF,Multiple Linear Regression Basics,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,Assumption Violations and Remedies,concept,PART_OF,Regression Analysis Limitations,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,Model Evaluation Metrics and Criteria,concept,PART_OF,Advanced Regression Topics,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,confidence intervals,method,USED_FOR,Hypothesis Tests,topic,,,MPAD_6126_triples_raw.json
+MPAD_6126,Stata,tool,USED_FOR,Multiple Linear Regression Basics,topic,,,MPAD_6126_triples_raw.json

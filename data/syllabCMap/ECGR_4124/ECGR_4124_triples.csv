@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4124,discrete-time system stability,concept,PREREQUISITE_OF,z-transform,concept,A taught first,,ECGR_4124_triples_raw.json
+ECGR_4124,discrete-time system stability,concept,PREREQUISITE_OF,discrete-time Fourier transform,concept,A taught first,,ECGR_4124_triples_raw.json
+ECGR_4124,discrete-time system stability,concept,PREREQUISITE_OF,region of convergence,concept,A taught first,,ECGR_4124_triples_raw.json
+ECGR_4124,discrete-time system stability,concept,PREREQUISITE_OF,infinite impulse response systems,concept,A taught first,,ECGR_4124_triples_raw.json
+ECGR_4124,discrete-time system stability,concept,PREREQUISITE_OF,finite impulse response systems,concept,A taught first,,ECGR_4124_triples_raw.json
+ECGR_4124,discrete-time system stability,concept,PREREQUISITE_OF,basic discrete-time signals,concept,A mentioned first,,ECGR_4124_triples_raw.json
+ECGR_4124,Discrete-Time Systems,topic,PART_OF,Digital Signal Processing,topic,,,ECGR_4124_triples_raw.json
+ECGR_4124,Fourier Transform,topic,PART_OF,Digital Signal Processing,topic,,,ECGR_4124_triples_raw.json
+ECGR_4124,z-transform,concept,PART_OF,Discrete-Time Systems,topic,,,ECGR_4124_triples_raw.json
+ECGR_4124,convolution,concept,PART_OF,Discrete-Time Systems,topic,,,ECGR_4124_triples_raw.json
+ECGR_4124,discrete-time system stability,concept,PART_OF,Discrete-Time Systems,topic,,,ECGR_4124_triples_raw.json
+ECGR_4124,discrete-time Fourier transform,concept,PART_OF,Fourier Transform,topic,,,ECGR_4124_triples_raw.json
+ECGR_4124,region of convergence,concept,PART_OF,z-transform,concept,,,ECGR_4124_triples_raw.json
+ECGR_4124,infinite impulse response systems,concept,PART_OF,digital filters,concept,,,ECGR_4124_triples_raw.json
+ECGR_4124,finite impulse response systems,concept,PART_OF,digital filters,concept,,,ECGR_4124_triples_raw.json
+ECGR_4124,basic discrete-time signals,concept,PART_OF,Discrete-Time Systems,topic,,,ECGR_4124_triples_raw.json
+ECGR_4124,difference equations,concept,PART_OF,Discrete-Time Systems,topic,,,ECGR_4124_triples_raw.json
+ECGR_4124,digital filters,concept,PART_OF,Digital Signal Processing,topic,,,ECGR_4124_triples_raw.json
+ECGR_4124,finite impulse response systems,concept,SUBTYPE_OF,digital filters,concept,,,ECGR_4124_triples_raw.json
+ECGR_4124,infinite impulse response systems,concept,SUBTYPE_OF,digital filters,concept,,,ECGR_4124_triples_raw.json

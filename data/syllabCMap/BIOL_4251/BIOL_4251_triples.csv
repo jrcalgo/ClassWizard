@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4251,MHC Class I Molecules,concept,PREREQUISITE_OF,Peptide Binding Motifs,concept,same unit,,BIOL_4251_triples_raw.json
+BIOL_4251,T Cell Recognition Mechanisms,concept,PREREQUISITE_OF,Antigen Presentation Pathway,concept,B taught first,B is taught before A - check,BIOL_4251_triples_raw.json
+BIOL_4251,Variable Region Diversity,concept,PREREQUISITE_OF,T-cell Receptor Structure,concept,same unit,,BIOL_4251_triples_raw.json
+BIOL_4251,Positive selection,concept,PREREQUISITE_OF,Thymic selection,concept,same unit,,BIOL_4251_triples_raw.json
+BIOL_4251,Negative selection,concept,PREREQUISITE_OF,Central tolerance,concept,same unit,,BIOL_4251_triples_raw.json
+BIOL_4251,Antigen Presentation Pathway,concept,PART_OF,Immune Response Mechanisms,concept,,,BIOL_4251_triples_raw.json
+BIOL_4251,Antigen Recognition Mechanism,concept,PART_OF,T Cell Recognition Mechanisms,concept,,,BIOL_4251_triples_raw.json
+BIOL_4251,Cytokine signaling,concept,PART_OF,T-cell maturation,concept,,,BIOL_4251_triples_raw.json
+BIOL_4251,Co-stimulatory signals,concept,PART_OF,T-cell differentiation,concept,,,BIOL_4251_triples_raw.json
+BIOL_4251,Immunoglobulin Structure and Function,concept,PART_OF,Cellular Immune Processes,concept,,,BIOL_4251_triples_raw.json
+BIOL_4251,Antibody-Antigen Interactions,concept,USED_FOR,Antigen Presentation Pathway,concept,,,BIOL_4251_triples_raw.json
+BIOL_4251,MHC Class I Molecules,concept,USED_FOR,Peptide Binding Motifs,concept,,,BIOL_4251_triples_raw.json
+BIOL_4251,MHC Class II Molecules,concept,USED_FOR,Peptide Binding Motifs,concept,,,BIOL_4251_triples_raw.json

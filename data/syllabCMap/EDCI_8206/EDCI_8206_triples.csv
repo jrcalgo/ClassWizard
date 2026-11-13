@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8206,Globalization and Education,concept,PART_OF,Globalization,topic,,,EDCI_8206_triples_raw.json
+EDCI_8206,Immigrant Identities,concept,PART_OF,Globalization,topic,,,EDCI_8206_triples_raw.json
+EDCI_8206,Professional Subjectivities,concept,PART_OF,Globalization,topic,,,EDCI_8206_triples_raw.json

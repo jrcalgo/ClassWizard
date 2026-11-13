@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_5141,consumer behavior in healthcare,concept,PART_OF,Demand for Health Capital,topic,,,ECON_5141_triples_raw.json
+ECON_5141,healthcare demand elasticity,concept,PART_OF,Demand for Health Capital,topic,,,ECON_5141_triples_raw.json
+ECON_5141,health status measurement,concept,PART_OF,Demand for Health Capital,topic,,,ECON_5141_triples_raw.json
+ECON_5141,actuarial tables and rates,concept,PART_OF,Insurance Theory,topic,,,ECON_5141_triples_raw.json
+ECON_5141,regulatory frameworks and policies,concept,PART_OF,Government Intervention in Healthcare,topic,,,ECON_5141_triples_raw.json
+ECON_5141,public-private partnerships models,concept,PART_OF,Government Intervention in Healthcare,topic,,,ECON_5141_triples_raw.json
+ECON_5141,healthcare system financing mechanisms,concept,PART_OF,Government Intervention in Healthcare,topic,,,ECON_5141_triples_raw.json
+ECON_5141,single-payer vs. multi-payer systems,concept,PART_OF,Global Health Systems and Reform,topic,,,ECON_5141_triples_raw.json
+ECON_5141,universal healthcare coverage models,concept,PART_OF,Global Health Systems and Reform,topic,,,ECON_5141_triples_raw.json
+ECON_5141,healthcare system performance metrics,concept,PART_OF,Global Health Systems and Reform,topic,,,ECON_5141_triples_raw.json

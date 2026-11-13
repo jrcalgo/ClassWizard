@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_5211,laws/policies,concept,PREREQUISITE_OF,current research findings,concept,B mentioned first,,SPED_5211_triples_raw.json
+SPED_5211,identification procedures,concept,PREREQUISITE_OF,instructional options,concept,A mentioned first,,SPED_5211_triples_raw.json
+SPED_5211,intelligence,concept,PREREQUISITE_OF,creativity,concept,same unit,,SPED_5211_triples_raw.json
+SPED_5211,giftedness,concept,PREREQUISITE_OF,socio-emotional needs,concept,same unit,,SPED_5211_triples_raw.json
+SPED_5211,identification procedures,concept,PART_OF,gifted education standards,topic,,,SPED_5211_triples_raw.json
+SPED_5211,assessment instruments,topic,PART_OF,service delivery options,topic,,,SPED_5211_triples_raw.json
+SPED_5211,laws/policies,concept,PART_OF,current research findings,concept,,,SPED_5211_triples_raw.json
+SPED_5211,instructional options,concept,PART_OF,service delivery options,topic,,,SPED_5211_triples_raw.json
+SPED_5211,intelligence,concept,PART_OF,creativity,concept,,,SPED_5211_triples_raw.json
+SPED_5211,giftedness,concept,PART_OF,socio-emotional needs,concept,,,SPED_5211_triples_raw.json
+SPED_5211,current research findings,concept,USED_FOR,laws/policies,concept,,,SPED_5211_triples_raw.json

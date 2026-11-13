@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUED_2241,Piaget's Cognitive Theory,concept,PREREQUISITE_OF,Erikson's Psychosocial Stages,concept,same unit,,MUED_2241_triples_raw.json
+MUED_2241,Vygotsky's Social Learning,concept,PREREQUISITE_OF,Erikson's Psychosocial Stages,concept,same unit,,MUED_2241_triples_raw.json
+MUED_2241,Piaget's Cognitive Theory,concept,PART_OF,Human Development Theories,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Vygotsky's Social Learning,concept,PART_OF,Human Development Theories,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Erikson's Psychosocial Stages,concept,PART_OF,Human Development Theories,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Cognitive Development through Music,concept,PART_OF,Musical Learning Functions,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Assessment of Musical Learning,concept,PART_OF,Teaching Musical Skills,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Differentiated Instruction Methods,concept,PART_OF,Teaching Musical Skills,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Observing Teaching Methods,concept,PART_OF,Clinical Experience 1,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Assessing Classroom Environments,concept,PART_OF,Clinical Experience 1,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Reflecting on Personal Practice,concept,PART_OF,Clinical Experience 1,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Impact of AI on Music Education,concept,PART_OF,Artificial Intelligence in Music,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Using AI in Assignments,concept,PART_OF,Artificial Intelligence in Music,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Piaget's Cognitive Theory,concept,USED_FOR,Human Development Theories,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Vygotsky's Social Learning,concept,USED_FOR,Human Development Theories,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Erikson's Psychosocial Stages,concept,USED_FOR,Human Development Theories,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Effective Teaching Strategies,concept,USED_FOR,Teaching Musical Skills,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Assessment of Musical Learning,concept,USED_FOR,Teaching Musical Skills,topic,,,MUED_2241_triples_raw.json
+MUED_2241,Assessing Classroom Environments,concept,USED_FOR,Clinical Experience 1,topic,,,MUED_2241_triples_raw.json

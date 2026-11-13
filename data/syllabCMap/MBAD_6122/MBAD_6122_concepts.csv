@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MBAD_6122,topic,Decision Modeling and Analysis,Decision Modeling and Analysis,1,verified,Decision Modeling and Analysis,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Business Analytics,Business Analytics,1,verified,Business Analytics,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Operations,operations,2,verified,Operations,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Supply Chain Management,supply chain management,2,verified,Supply Chain Management,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Finance,finance,1,verified,Finance,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Accounting,accounting,1,verified,Accounting,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Marketing,marketing,1,verified,Marketing,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Linear Programming,linear programming,2,verified,Linear Programming,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Nonlinear Programming,nonlinear programming,2,verified,Nonlinear Programming,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Integer Programming,integer programming,2,verified,Integer Programming,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Goal Programming,goal programming,2,verified,Goal Programming,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Multi-Objective Optimization,multi-objective optimization,2,verified,Multi-Objective Optimization,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Multi-Criteria Decision Making,multi-criteria decision making,2,verified,Multi-Criteria Decision Making,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Sensitivity Analysis,sensitivity analysis,1,verified,Sensitivity Analysis,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Model Interpretation,model interpretation,1,verified,Model Interpretation,MBAD_6122_concepts_raw.json
+MBAD_6122,topic,Managerial Recommendations,managerial recommendations,2,verified,Managerial Recommendations,MBAD_6122_concepts_raw.json
+MBAD_6122,concept,decision making process,decision making process,1,verified,decision making process,MBAD_6122_concepts_raw.json
+MBAD_6122,tool,Microsoft Excel,Microsoft Excel,1,verified,Microsoft Excel,MBAD_6122_concepts_raw.json
+MBAD_6122,tool,Solver,Solver,2,verified,Solver,MBAD_6122_concepts_raw.json

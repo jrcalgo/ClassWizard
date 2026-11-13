@@ -1,0 +1,40 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_6101,European Colonialism,concept,PREREQUISITE_OF,Economic Factors,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,European Colonialism,concept,PREREQUISITE_OF,Social and Cultural Changes,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,Technological Advancements,concept,PREREQUISITE_OF,Scramble for Africa,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,Economic Factors,concept,PREREQUISITE_OF,Colonial Administration,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,Social and Cultural Changes,concept,PREREQUISITE_OF,Resistance Movements,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,Opium Wars and Treaties,concept,PREREQUISITE_OF,British Raj and Empire,concept,same unit,,HIST_6101_triples_raw.json
+HIST_6101,Opium Wars and Treaties,concept,PREREQUISITE_OF,Japanese Imperialism,concept,same unit,,HIST_6101_triples_raw.json
+HIST_6101,European Colonialism,concept,PREREQUISITE_OF,Marxist Interpretations,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,European Colonialism,concept,PREREQUISITE_OF,Liberal Perspectives,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,European Colonialism,concept,PREREQUISITE_OF,Postcolonial Critiques,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,Economic Factors,concept,PREREQUISITE_OF,Social and Cultural Impact,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,Scramble for Africa,concept,PREREQUISITE_OF,Resistance and Revolt,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,British Raj and Empire,concept,PREREQUISITE_OF,Comparison of Imperial Systems,concept,A taught first,,HIST_6101_triples_raw.json
+HIST_6101,Japanese Imperialism,concept,PREREQUISITE_OF,Historical Context,concept,B taught first,B is taught before A - check,HIST_6101_triples_raw.json
+HIST_6101,European Colonialism,concept,PREREQUISITE_OF,Imperial Motivations,concept,same unit,,HIST_6101_triples_raw.json
+HIST_6101,Historical Context,concept,PART_OF,Nineteenth Century European History,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Imperial Motivations,concept,PART_OF,Nineteenth Century European History,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Technological Advancements,concept,PART_OF,Nineteenth Century European History,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Economic Factors,concept,PART_OF,Nineteenth Century European History,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Social and Cultural Changes,concept,PART_OF,Nineteenth Century European History,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Scramble for Africa,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Resistance Movements,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Opium Wars and Treaties,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,British Raj and Empire,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Japanese Imperialism,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Marxist Interpretations,concept,PART_OF,Nineteenth Century European History,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Liberal Perspectives,concept,PART_OF,Nineteenth Century European History,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Postcolonial Critiques,concept,PART_OF,Nineteenth Century European History,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Colonial Economy and Politics,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Social and Cultural Impact,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Resistance and Revolt,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,British Colonization of North America,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Latin American Independence Movements,concept,PART_OF,Global Impact of European Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Japanese Imperialism,concept,SUBTYPE_OF,Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,British Raj and Empire,concept,SUBTYPE_OF,Imperialism,topic,,,HIST_6101_triples_raw.json
+HIST_6101,Marxist Interpretations,concept,SUBTYPE_OF,Postcolonial Critiques,concept,,,HIST_6101_triples_raw.json
+HIST_6101,Liberal Perspectives,concept,SUBTYPE_OF,Postcolonial Critiques,concept,,,HIST_6101_triples_raw.json
+HIST_6101,Historical Context,concept,USED_FOR,European Colonialism,concept,,,HIST_6101_triples_raw.json
+HIST_6101,Imperial Motivations,concept,USED_FOR,European Colonialism,concept,,,HIST_6101_triples_raw.json

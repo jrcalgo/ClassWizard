@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_6274,topic,Neurological Conditions,neurological conditions,1,verified,Neurological Conditions,NURS_6274_concepts_raw.json
+NURS_6274,topic,Clinical Manifestations,clinical manifestations,2,verified,Clinical Manifestations,NURS_6274_concepts_raw.json
+NURS_6274,topic,Treatment and Management,treatment and management,1,verified,Treatment and Management,NURS_6274_concepts_raw.json
+NURS_6274,topic,Complex Pathophysiological Scenarios,complex pathophysiological scenarios,1,verified,Complex Pathophysiological Scenarios,NURS_6274_concepts_raw.json
+NURS_6274,topic,Cellular Pathophysiology,Cellular Pathophysiology,1,inferred,Cellular Pathophysiology,NURS_6274_concepts_raw.json
+NURS_6274,topic,Etiological Factors,Etiological Factors,1,inferred,Etiological Factors,NURS_6274_concepts_raw.json
+NURS_6274,topic,Cardiovascular Pathophysiology,Cardiovascular Pathophysiology,1,inferred,Cardiovascular Pathophysiology,NURS_6274_concepts_raw.json
+NURS_6274,topic,Respiratory System Disorders,Respiratory System Disorders,1,inferred,Respiratory System Disorders,NURS_6274_concepts_raw.json
+NURS_6274,topic,Endocrine System Disorders,Endocrine System Disorders,1,inferred,Endocrine System Disorders,NURS_6274_concepts_raw.json
+NURS_6274,concept,cellular structure and function,Cellular Structure and Function,1,inferred,cellular structure and function,NURS_6274_concepts_raw.json
+NURS_6274,concept,molecular mechanisms of disease,Molecular Mechanisms of Disease,1,inferred,molecular mechanisms of disease,NURS_6274_concepts_raw.json
+NURS_6274,concept,genetic mutations and expression,Genetic Mutations and Expression,1,inferred,genetic mutations and expression,NURS_6274_concepts_raw.json
+NURS_6274,concept,environmental risk factors,Environmental Risk Factors,1,inferred,environmental risk factors,NURS_6274_concepts_raw.json
+NURS_6274,concept,lifestyle choices and disease,Lifestyle Choices and Disease,1,inferred,lifestyle choices and disease,NURS_6274_concepts_raw.json
+NURS_6274,concept,genetic predisposition to disease,Genetic Predisposition to Disease,1,inferred,genetic predisposition to disease,NURS_6274_concepts_raw.json
+NURS_6274,concept,hypertension and vascular disease,Hypertension and Vascular Disease,1,inferred,hypertension and vascular disease,NURS_6274_concepts_raw.json
+NURS_6274,concept,myocardial infarction and ischemia,Myocardial Infarction and Ischemia,1,inferred,myocardial infarction and ischemia,NURS_6274_concepts_raw.json
+NURS_6274,concept,heart failure and cardiac output,Heart Failure and Cardiac Output,1,inferred,heart failure and cardiac output,NURS_6274_concepts_raw.json
+NURS_6274,concept,chronic obstructive pulmonary disease,Chronic Obstructive Pulmonary Disease,1,inferred,chronic obstructive pulmonary disease,NURS_6274_concepts_raw.json
+NURS_6274,concept,asthma pathophysiology and management,Asthma Pathophysiology and Management,1,inferred,asthma pathophysiology and management,NURS_6274_concepts_raw.json
+NURS_6274,concept,pulmonary embolism and infarction,Pulmonary Embolism and Infarction,1,inferred,pulmonary embolism and infarction,NURS_6274_concepts_raw.json
+NURS_6274,concept,diabetes mellitus pathophysiology,Diabetes Mellitus Pathophysiology,1,inferred,diabetes mellitus pathophysiology,NURS_6274_concepts_raw.json
+NURS_6274,concept,hypothyroidism and hyperthyroidism,Hypothyroidism and Hyperthyroidism,1,inferred,hypothyroidism and hyperthyroidism,NURS_6274_concepts_raw.json
+NURS_6274,concept,adrenal insufficiency and excess,Adrenal Insufficiency and Excess,1,inferred,adrenal insufficiency and excess,NURS_6274_concepts_raw.json
+NURS_6274,concept,stroke and cerebrovascular disease,Stroke and Cerebrovascular Disease,1,inferred,stroke and cerebrovascular disease,NURS_6274_concepts_raw.json
+NURS_6274,concept,multiple sclerosis pathophysiology,Multiple Sclerosis Pathophysiology,1,inferred,multiple sclerosis pathophysiology,NURS_6274_concepts_raw.json
+NURS_6274,concept,Parkinson's disease and neurodegeneration,Parkinson's Disease and Neurodegeneration,1,inferred,Parkinson's disease and neurodegeneration,NURS_6274_concepts_raw.json
+NURS_6274,concept,pharmacological interventions and therapy,Pharmacological Interventions and Therapy,1,inferred,pharmacological interventions and therapy,NURS_6274_concepts_raw.json
+NURS_6274,concept,non-pharmacological approaches to disease,Non-Pharmacological Approaches to Disease,1,inferred,non-pharmacological approaches to disease,NURS_6274_concepts_raw.json
+NURS_6274,concept,evidence-based practice guidelines,Evidence-Based Practice Guidelines,1,inferred,evidence-based practice guidelines,NURS_6274_concepts_raw.json

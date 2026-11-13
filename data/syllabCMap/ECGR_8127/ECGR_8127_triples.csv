@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_8127,ultrasound,topic,PART_OF,Medical Imaging Modalities,topic,,,ECGR_8127_triples_raw.json
+ECGR_8127,planar x-ray,topic,PART_OF,Medical Imaging Modalities,topic,,,ECGR_8127_triples_raw.json
+ECGR_8127,magnetic resonance imaging,topic,PART_OF,Medical Imaging Modalities,topic,,,ECGR_8127_triples_raw.json
+ECGR_8127,basic image processing,concept,PART_OF,multi-dimensional signal processing concepts,concept,,,ECGR_8127_triples_raw.json
+ECGR_8127,ultrasound signal processing,concept,PART_OF,multi-dimensional signal processing concepts,concept,,,ECGR_8127_triples_raw.json
+ECGR_8127,Fourier methods,method,USED_FOR,Fourier methods of medical signal processing,topic,,,ECGR_8127_triples_raw.json
+ECGR_8127,signal processing techniques,method,USED_FOR,image reconstruction,method,,,ECGR_8127_triples_raw.json
+ECGR_8127,segmentation,method,USED_FOR,classification,method,,,ECGR_8127_triples_raw.json
+ECGR_8127,registration,method,USED_FOR,multimodal fusion,method,,,ECGR_8127_triples_raw.json

@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_4228,topic,Life Insurance Mathema,Life Insurance Mathema,1,verified,Life Insurance Mathema,MATH_4228_concepts_raw.json
+MATH_4228,topic,cs,cs,1,verified,cs,MATH_4228_concepts_raw.json
+MATH_4228,concept,approved calculator list,approved calculator list,2,verified,approved calculator list,MATH_4228_concepts_raw.json
+MATH_4228,tool,Texas Instruments BA II Plus,Texas Instruments BA II Plus,1,verified,Texas Instruments BA II Plus,MATH_4228_concepts_raw.json
+MATH_4228,tool,TI-30Xa,TI-30Xa,1,verified,TI-30Xa,MATH_4228_concepts_raw.json
+MATH_4228,tool,TI-30X II,TI-30X IIS,1,verified,TI-30X II,MATH_4228_concepts_raw.json
+MATH_4228,tool,TI-30X IIS,TI-30X IIS,1,verified,TI-30X IIS,MATH_4228_concepts_raw.json
+MATH_4228,tool,TI-30X IIB,TI-30X IIB,1,verified,TI-30X IIB,MATH_4228_concepts_raw.json
+MATH_4228,tool,TI-30XS MultiView,TI-30XS MultiView,1,verified,TI-30XS MultiView,MATH_4228_concepts_raw.json
+MATH_4228,tool,TI-30XB,TI-30XB,1,verified,TI-30XB,MATH_4228_concepts_raw.json

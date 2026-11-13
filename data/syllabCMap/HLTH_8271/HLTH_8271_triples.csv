@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_8271,Multivariable Linear Regression,concept,PREREQUISITE_OF,Logistic Regression,concept,A taught first,,HLTH_8271_triples_raw.json
+HLTH_8271,Multivariable Linear Regression,concept,PREREQUISITE_OF,Multilevel modeling,method,B taught first,B is taught before A - check,HLTH_8271_triples_raw.json
+HLTH_8271,Multivariable Linear Regression,concept,PREREQUISITE_OF,Principal component analysis,method,A taught first,,HLTH_8271_triples_raw.json
+HLTH_8271,Multivariate Data Analysis,concept,PREREQUISITE_OF,Factor analysis,method,same unit,,HLTH_8271_triples_raw.json
+HLTH_8271,Multivariate Data Analysis,concept,PREREQUISITE_OF,Log-linear models for contingency tables,method,A taught first,,HLTH_8271_triples_raw.json
+HLTH_8271,Multivariate Data Analysis,concept,PREREQUISITE_OF,Regression Methods for Multivariate Dependent Data,concept,same unit,,HLTH_8271_triples_raw.json
+HLTH_8271,Multivariate Data Analysis,concept,PREREQUISITE_OF,Time series analysis,method,A taught first,,HLTH_8271_triples_raw.json
+HLTH_8271,Multivariate Data Analysis,concept,PREREQUISITE_OF,Spatial data analysis,method,A taught first,,HLTH_8271_triples_raw.json
+HLTH_8271,Multivariable Linear Regression,concept,PART_OF,Multivariate Statistical Methods,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Logistic Regression,concept,PART_OF,Multivariate Statistical Methods,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Discriminant analysis,method,PART_OF,Multivariate Data Analysis,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Factor analysis,method,PART_OF,Multivariate Data Analysis,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Log-linear models for contingency tables,method,PART_OF,Multivariate Data Analysis,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Time series analysis,method,PART_OF,Multivariate Data Analysis,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Spatial data analysis,method,PART_OF,Multivariate Data Analysis,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Multivariable Linear Regression,concept,SUBTYPE_OF,Regression Methods for Multivariate Dependent Data,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Discriminant analysis,method,SUBTYPE_OF,Multivariate Data Analysis,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Factor analysis,method,SUBTYPE_OF,Multivariate Data Analysis,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Time series analysis,method,SUBTYPE_OF,Multivariate Data Analysis,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,Spatial data analysis,method,SUBTYPE_OF,Multivariate Data Analysis,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,R,tool,USED_FOR,Multivariable Linear Regression,concept,,,HLTH_8271_triples_raw.json
+HLTH_8271,SAS,tool,USED_FOR,Multivariable Linear Regression,concept,,,HLTH_8271_triples_raw.json

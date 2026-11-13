@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6277,Social listening,method,PART_OF,Text analytics,method,,,DSBA_6277_triples_raw.json
+DSBA_6277,Text analytics,method,USED_FOR,Social listening,method,,,DSBA_6277_triples_raw.json

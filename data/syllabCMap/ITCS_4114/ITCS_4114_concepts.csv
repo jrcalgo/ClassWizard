@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4114,topic,Sorting,sorting,1,verified,Sorting,ITCS_4114_concepts_raw.json
+ITCS_4114,topic,Searching,searching,1,verified,Searching,ITCS_4114_concepts_raw.json
+ITCS_4114,topic,Graph Algorithms,graph algorithms,1,verified,Graph Algorithms,ITCS_4114_concepts_raw.json
+ITCS_4114,topic,Algorithm Analysis,Algorithm Analysis,2,verified,Algorithm Analysis,ITCS_4114_concepts_raw.json
+ITCS_4114,topic,Dynamic Programming Approach,dynamic programming approach,1,verified,Dynamic Programming Approach,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,search structures in algorithms,search structures in algorithms,1,verified,search structures in algorithms,ITCS_4114_concepts_raw.json
+ITCS_4114,topic,Geometric and Graph Algorithms,geometric and graph algorithms,1,verified,Geometric and Graph Algorithms,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,complexity measures of algorithms,complexity measures of algorithms,1,verified,complexity measures of algorithms,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,mathematical concepts used in algorithm analysis,mathematical concepts used in algorithm analysis,1,verified,mathematical concepts used in algorithm analysis,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,DFS traversal algorithm,DFS traversal algorithms,1,verified,DFS traversal algorithm,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,adjacency list representation,adjacency list representations,1,verified,adjacency list representation,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,greedy approach to algorithm design,Greedy approach to algorithm design,1,verified,greedy approach to algorithm design,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,dynamic programming approach to algorithm design,dynamic programming approach to algorithm design,1,verified,dynamic programming approach to algorithm design,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,tree structures,tree structures,2,verified,tree structures,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,binary search trees,binary search trees,1,verified,binary search trees,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,quadtrees,quadtrees,1,verified,quadtrees,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,K-d trees,K-d trees,1,verified,K-d trees,ITCS_4114_concepts_raw.json
+ITCS_4114,concept,convex hull problem,convex hull problems,1,verified,convex hull problem,ITCS_4114_concepts_raw.json
+ITCS_4114,method,algorithm implementation,Algorithm implementation,1,verified,algorithm implementation,ITCS_4114_concepts_raw.json
+ITCS_4114,tool,BRIDGES API,BRIDGES API,1,verified,BRIDGES API,ITCS_4114_concepts_raw.json
+ITCS_4114,tool,Python,Python,1,verified,Python,ITCS_4114_concepts_raw.json
+ITCS_4114,tool,Java,Java,1,verified,Java,ITCS_4114_concepts_raw.json
+ITCS_4114,tool,C++,C++,1,verified,C++,ITCS_4114_concepts_raw.json

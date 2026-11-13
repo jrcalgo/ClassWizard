@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+AEEE_6120,topic,Energy Generation & Conversion,Energy Generation & Conversion,2,verified,Energy Generation & Conversion,AEEE_6120_concepts_raw.json
+AEEE_6120,topic,Fossil fuel resources and energy conversion,Fossil fuel resources and energy conversion,1,verified,Fossil fuel resources and energy conversion,AEEE_6120_concepts_raw.json
+AEEE_6120,topic,Solar energy principles,Solar energy principles,1,verified,Solar energy principles,AEEE_6120_concepts_raw.json
+AEEE_6120,topic,Wind energy and wind turbines,Wind energy and wind turbines,1,verified,Wind energy and wind turbines,AEEE_6120_concepts_raw.json
+AEEE_6120,topic,Nuclear energy principles,Nuclear energy principles,1,verified,Nuclear energy principles,AEEE_6120_concepts_raw.json
+AEEE_6120,topic,Geothermal and Hydraulic energy conversion,Geothermal and Hydraulic energy conversion,1,verified,Geothermal and Hydraulic energy conversion,AEEE_6120_concepts_raw.json
+AEEE_6120,topic,Hydrogen energy,Hydrogen energy,1,verified,Hydrogen energy,AEEE_6120_concepts_raw.json
+AEEE_6120,topic,Fuel cell,fuel cell,2,verified,Fuel cell,AEEE_6120_concepts_raw.json
+AEEE_6120,topic,Geothermal and Hydraulic Energy,Geothermal and Hydraulic energy,1,verified,Geothermal and Hydraulic Energy,AEEE_6120_concepts_raw.json
+AEEE_6120,concept,fossil fuel resources,Fossil fuel resources,1,verified,fossil fuel resources,AEEE_6120_concepts_raw.json
+AEEE_6120,concept,hydraulic energy conversion,Hydraulic energy conversion,1,verified,hydraulic energy conversion,AEEE_6120_concepts_raw.json
+AEEE_6120,method,back of the envelope calculations,back of the envelope calculations,1,verified,back of the envelope calculations,AEEE_6120_concepts_raw.json
+AEEE_6120,method,basic calculations related to energy storage and conversion,basic calculations related to energy storage and conversion,1,verified,basic calculations related to energy storage and conversion,AEEE_6120_concepts_raw.json
+AEEE_6120,method,conversion,Conversion,7,verified,"comparison of energy generation, conversion, and storage technologies based on efficiencies and economics",AEEE_6120_concepts_raw.json
+AEEE_6120,method,storage technologies based on efficiencies,storage technologies based on efficiencies,1,verified,"comparison of energy generation, conversion, and storage technologies based on efficiencies and economics",AEEE_6120_concepts_raw.json
+AEEE_6120,method,economics,economics,1,verified,"comparison of energy generation, conversion, and storage technologies based on efficiencies and economics",AEEE_6120_concepts_raw.json

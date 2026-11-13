@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6010,Data Privacy Primer,topic,PART_OF,Private Machine Learning,topic,,,DSBA_6010_triples_raw.json
+DSBA_6010,De-identification,topic,PART_OF,Data Privacy Primer,topic,,,DSBA_6010_triples_raw.json
+DSBA_6010,Anonymization,topic,PART_OF,Data Privacy Primer,topic,,,DSBA_6010_triples_raw.json
+DSBA_6010,Privacy-Enhanced Domain Applications,topic,PART_OF,Private Machine Learning Research,topic,,,DSBA_6010_triples_raw.json
+DSBA_6010,Local Differential Privacy,topic,PART_OF,Differential Privacy,topic,,,DSBA_6010_triples_raw.json
+DSBA_6010,Private Machine Learning Research,topic,PART_OF,Private Machine Learning,topic,,,DSBA_6010_triples_raw.json
+DSBA_6010,Differential Privacy,topic,USED_FOR,De-identification,topic,,topic used for something - check direction,DSBA_6010_triples_raw.json
+DSBA_6010,Differential Privacy,topic,USED_FOR,Anonymization,topic,,topic used for something - check direction,DSBA_6010_triples_raw.json

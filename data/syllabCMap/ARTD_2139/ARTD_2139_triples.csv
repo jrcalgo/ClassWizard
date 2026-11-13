@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTD_2139,Studio Practice,topic,PART_OF,Drawing II,topic,,,ARTD_2139_triples_raw.json
+ARTD_2139,Domain-Specific Research and Theory,topic,PART_OF,Drawing II,topic,,,ARTD_2139_triples_raw.json
+ARTD_2139,perceptual skills,concept,PART_OF,Studio Practice,topic,,,ARTD_2139_triples_raw.json
+ARTD_2139,conceptual issues,concept,PART_OF,Studio Practice,topic,,,ARTD_2139_triples_raw.json

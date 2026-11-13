@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_3220,topic,vectors and matrices,vectors and matrices,2,verified,vectors and matrices,PHYS_3220_concepts_raw.json
+PHYS_3220,topic,systems of linear equations,systems of linear equations,2,verified,systems of linear equations,PHYS_3220_concepts_raw.json
+PHYS_3220,concept,determinants,determinants,2,verified,determinants,PHYS_3220_concepts_raw.json
+PHYS_3220,topic,matrix inverses,matrix inverses,2,verified,matrix inverses,PHYS_3220_concepts_raw.json
+PHYS_3220,concept,eigenvalue problems,eigenvalue problems,2,verified,eigenvalue problems,PHYS_3220_concepts_raw.json
+PHYS_3220,topic,matrix diagonalization,matrix diagonalization,2,verified,matrix diagonalization,PHYS_3220_concepts_raw.json
+PHYS_3220,topic,Fourier analysis,Fourier analysis,2,verified,Fourier analysis,PHYS_3220_concepts_raw.json
+PHYS_3220,topic,partial differential equations,Partial differential equations,2,verified,partial differential equations,PHYS_3220_concepts_raw.json
+PHYS_3220,method,separation of variables,separation of variables,1,verified,separation of variables,PHYS_3220_concepts_raw.json
+PHYS_3220,method,Fourier series,Fourier series,2,verified,Fourier series,PHYS_3220_concepts_raw.json
+PHYS_3220,method,analytical techniques,analytical techniques,1,verified,analytical techniques,PHYS_3220_concepts_raw.json

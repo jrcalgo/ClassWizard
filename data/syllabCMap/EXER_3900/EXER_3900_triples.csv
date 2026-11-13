@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_3900,Exercise Science Knowledge Integration,concept,PREREQUISITE_OF,Thesis Project Foundation,concept,same unit,,EXER_3900_triples_raw.json
+EXER_3900,Exercise Science Knowledge Integration,concept,PREREQUISITE_OF,Research Question Formulation,concept,same unit,,EXER_3900_triples_raw.json
+EXER_3900,Exercise Science Knowledge Integration,concept,PREREQUISITE_OF,Literature Review Fundamentals,topic,A taught first,,EXER_3900_triples_raw.json
+EXER_3900,Exercise Science Knowledge Integration,concept,PREREQUISITE_OF,Introduction Writing Workshop,topic,A taught first,,EXER_3900_triples_raw.json
+EXER_3900,Exercise Science Knowledge Integration,concept,PREREQUISITE_OF,Literature Review Integration,topic,A taught first,,EXER_3900_triples_raw.json
+EXER_3900,Scientific Source Evaluation,concept,PART_OF,Literature Review Fundamentals,topic,,,EXER_3900_triples_raw.json
+EXER_3900,Theme Identification,concept,PART_OF,Literature Review Fundamentals,topic,,,EXER_3900_triples_raw.json
+EXER_3900,Guiding Purpose Clarification,concept,PART_OF,Introduction Writing Workshop,topic,,,EXER_3900_triples_raw.json
+EXER_3900,Academic Introduction Writing,concept,PART_OF,Introduction Writing Workshop,topic,,,EXER_3900_triples_raw.json
+EXER_3900,Study Design Specification,concept,PART_OF,Methods Section Development,topic,,,EXER_3900_triples_raw.json

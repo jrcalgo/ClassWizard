@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARTB_1204,topic,Digital Foundations,Digital Foundations,1,verified,Digital Foundations,ARTB_1204_concepts_raw.json
+ARTB_1204,topic,Digital Literacy Fundamentals,Digital Literacy Fundamentals,1,inferred,Digital Literacy Fundamentals,ARTB_1204_concepts_raw.json
+ARTB_1204,topic,Photoshop Essentials,Photoshop Essentials,1,inferred,Photoshop Essentials,ARTB_1204_concepts_raw.json
+ARTB_1204,topic,Illustrator Fundamentals,Illustrator Fundamentals,1,inferred,Illustrator Fundamentals,ARTB_1204_concepts_raw.json
+ARTB_1204,topic,After Effects Introduction,After Effects Introduction,1,inferred,After Effects Introduction,ARTB_1204_concepts_raw.json
+ARTB_1204,topic,Blender Fundamentals,Blender Fundamentals,1,inferred,Blender Fundamentals,ARTB_1204_concepts_raw.json
+ARTB_1204,topic,Digital Art Best Practices,Digital Art Best Practices,1,inferred,Digital Art Best Practices,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Computer Hardware Basics,Computer Hardware Basics,1,inferred,Computer Hardware Basics,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Software Installation Process,Software Installation Process,1,inferred,Software Installation Process,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Operating System Overview,Operating System Overview,1,inferred,Operating System Overview,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Interface Navigation Techniques,Interface Navigation Techniques,1,inferred,Interface Navigation Techniques,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Layer Management Strategies,Layer Management Strategies,1,inferred,Layer Management Strategies,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Color Mode Understanding,Color Mode Understanding,1,inferred,Color Mode Understanding,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Vector Graphics Basics,Vector Graphics Basics,1,inferred,Vector Graphics Basics,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Shape and Path Creation,Shape and Path Creation,1,inferred,Shape and Path Creation,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Stroke and Fill Properties,Stroke and Fill Properties,1,inferred,Stroke and Fill Properties,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Motion Graphics Principles,Motion Graphics Principles,1,inferred,Motion Graphics Principles,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Timeline Editing Techniques,Timeline Editing Techniques,1,inferred,Timeline Editing Techniques,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Keyframe Animation Basics,Keyframe Animation Basics,1,inferred,Keyframe Animation Basics,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,3D Modeling Concepts,3D Modeling Concepts,1,inferred,3D Modeling Concepts,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Scene Navigation Controls,Scene Navigation Controls,1,inferred,Scene Navigation Controls,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Material and Texture Properties,Material and Texture Properties,1,inferred,Material and Texture Properties,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,File Management Strategies,File Management Strategies,1,inferred,File Management Strategies,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Resolution and Aspect Ratio,Resolution and Aspect Ratio,1,inferred,Resolution and Aspect Ratio,ARTB_1204_concepts_raw.json
+ARTB_1204,concept,Color Mode Conversion,Color Mode Conversion,1,inferred,Color Mode Conversion,ARTB_1204_concepts_raw.json

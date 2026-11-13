@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ANTH_1511,topic,Urban Landscape,URBAN LANDSCAPE,1,verified,The Urban Landscape,ANTH_1511_concepts_raw.json
+ANTH_1511,concept,natural,natural,4,verified,natural,ANTH_1511_concepts_raw.json
+ANTH_1511,concept,urban,URBAN,2,verified,urban,ANTH_1511_concepts_raw.json
+ANTH_1511,concept,city,city,2,verified,city,ANTH_1511_concepts_raw.json
+ANTH_1511,concept,landscape,LANDSCAPE,3,verified,landscape,ANTH_1511_concepts_raw.json
+ANTH_1511,concept,cross-cultural values,cross-cultural values,1,verified,cross-cultural values,ANTH_1511_concepts_raw.json

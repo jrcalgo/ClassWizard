@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_3250,manometry,topic,PREREQUISITE_OF,buoyancy,topic,same unit,,MEET_3250_triples_raw.json
+MEET_3250,manometry,topic,PREREQUISITE_OF,forces on submerged bodies,topic,A taught first,,MEET_3250_triples_raw.json
+MEET_3250,manometry,topic,PREREQUISITE_OF,boundary layers,topic,A taught first,,MEET_3250_triples_raw.json
+MEET_3250,buoyancy,topic,PREREQUISITE_OF,forces on submerged bodies,topic,A taught first,,MEET_3250_triples_raw.json
+MEET_3250,buoyancy,topic,PREREQUISITE_OF,boundary layers,topic,A taught first,,MEET_3250_triples_raw.json
+MEET_3250,forces on submerged bodies,topic,PREREQUISITE_OF,boundary layers,topic,same unit,,MEET_3250_triples_raw.json
+MEET_3250,boundary layers,topic,PREREQUISITE_OF,flow over surfaces,topic,A taught first,,MEET_3250_triples_raw.json
+MEET_3250,boundary layers,topic,PREREQUISITE_OF,Bernoulli's equation with applications,topic,A taught first,,MEET_3250_triples_raw.json
+MEET_3250,boundary layers,topic,PREREQUISITE_OF,orifices,topic,A taught first,,MEET_3250_triples_raw.json
+MEET_3250,boundary layers,topic,PREREQUISITE_OF,pipe losses,topic,A taught first,,MEET_3250_triples_raw.json
+MEET_3250,boundary layers,topic,PREREQUISITE_OF,hydrodynamics,topic,A taught first,,MEET_3250_triples_raw.json
+MEET_3250,Bernoulli's equation with applications,topic,PART_OF,flow over surfaces,topic,,,MEET_3250_triples_raw.json

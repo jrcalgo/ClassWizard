@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_4246,energy resource assessment,concept,PREREQUISITE_OF,Transportation Energy Systems,topic,A taught first,,CEGR_4246_triples_raw.json
+CEGR_4246,Energy Conversion Technologies,topic,PREREQUISITE_OF,Transportation Energy Systems,topic,A taught first,,CEGR_4246_triples_raw.json
+CEGR_4246,energy storage,concept,PREREQUISITE_OF,Economic and Policy Analysis,topic,A mentioned first,,CEGR_4246_triples_raw.json
+CEGR_4246,Renewable Energy Sources,concept,PREREQUISITE_OF,Environmental and Societal Implications of Energy Production and Use,topic,A mentioned first,,CEGR_4246_triples_raw.json
+CEGR_4246,energy resource assessment,concept,PART_OF,Energy Conversion Technologies,topic,,,CEGR_4246_triples_raw.json
+CEGR_4246,energy storage,concept,PART_OF,Transportation Energy Systems,topic,,,CEGR_4246_triples_raw.json
+CEGR_4246,Renewable Energy Sources,concept,PART_OF,Transportation Energy Systems,topic,,,CEGR_4246_triples_raw.json
+CEGR_4246,Renewable Energy Sources,concept,PART_OF,Energy Conversion Technologies,topic,,,CEGR_4246_triples_raw.json

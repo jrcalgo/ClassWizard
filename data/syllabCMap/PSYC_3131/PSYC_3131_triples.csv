@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_3131,Learning Theories Overview,concept,PREREQUISITE_OF,Types of Learning Processes,concept,same unit,,PSYC_3131_triples_raw.json
+PSYC_3131,Types of Learning Processes,concept,PREREQUISITE_OF,Brain Areas Involved,concept,same unit,,PSYC_3131_triples_raw.json
+PSYC_3131,Pavlov's Classical Conditioning,concept,PREREQUISITE_OF,Conditioning Process Stages,concept,same unit,,PSYC_3131_triples_raw.json
+PSYC_3131,Skinner's Operant Conditioning,concept,PREREQUISITE_OF,Reinforcement Schedules Types,concept,same unit,,PSYC_3131_triples_raw.json
+PSYC_3131,Short-Term vs. Long-Term Memory,concept,PREREQUISITE_OF,Working Memory Functions,concept,same unit,,PSYC_3131_triples_raw.json
+PSYC_3131,Episodic Memory Formation,concept,PREREQUISITE_OF,Consolidation Process Stages,concept,A taught first,,PSYC_3131_triples_raw.json
+PSYC_3131,Learning Theories Overview,concept,PART_OF,Learning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Pavlov's Classical Conditioning,concept,PART_OF,Classical Conditioning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Skinner's Operant Conditioning,concept,PART_OF,Operant Conditioning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Sensory Memory Formation,concept,PART_OF,Sensory and Motor Learning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Motor Skill Acquisition,concept,PART_OF,Sensory and Motor Learning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Brain Areas Activated,concept,PART_OF,Classical Conditioning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Reinforcement Schedules Types,concept,PART_OF,Operant Conditioning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Behavioral Adaptation Mechanisms,concept,PART_OF,Operant Conditioning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Working Memory Functions,concept,PART_OF,Memory Systems and Processes,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Episodic Memory Formation,concept,PART_OF,Memory Systems and Processes,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Brain Regions Involved,concept,PART_OF,Neural Basis of Learning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Synaptic Plasticity Mechanisms,concept,PART_OF,Neural Basis of Learning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Neurotransmitter Roles,concept,PART_OF,Neural Basis of Learning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Strategies for Effective Learning,concept,PART_OF,Improving Learning and Memory,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Pavlov's Classical Conditioning,concept,USED_FOR,Classical Conditioning,topic,,,PSYC_3131_triples_raw.json
+PSYC_3131,Skinner's Operant Conditioning,concept,USED_FOR,Operant Conditioning,topic,,,PSYC_3131_triples_raw.json

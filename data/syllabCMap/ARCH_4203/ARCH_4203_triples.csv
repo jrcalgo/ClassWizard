@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_4203,International Style,concept,PREREQUISITE_OF,Brutalism and Expressionism,topic,same unit,,ARCH_4203_triples_raw.json
+ARCH_4203,Marxist and Feminist Critiques,topic,PREREQUISITE_OF,Social and Cultural Contexts,topic,same unit,,ARCH_4203_triples_raw.json
+ARCH_4203,Digital Architecture,concept,PREREQUISITE_OF,Parametric Design and Complexity,topic,same unit,,ARCH_4203_triples_raw.json
+ARCH_4203,Green Building,concept,PREREQUISITE_OF,Biomimicry and Biophilic Design,topic,same unit,,ARCH_4203_triples_raw.json
+ARCH_4203,Brutalism,concept,PART_OF,Brutalism and Expressionism,topic,,,ARCH_4203_triples_raw.json
+ARCH_4203,Organic,concept,PART_OF,Organic and Deconstructivism,topic,,,ARCH_4203_triples_raw.json
+ARCH_4203,Postmodernism,concept,PART_OF,Postmodernism and Deconstruction,topic,,,ARCH_4203_triples_raw.json
+ARCH_4203,Digital Architecture,concept,PART_OF,Digital Architecture and Simulation,topic,,,ARCH_4203_triples_raw.json
+ARCH_4203,Parametric Design,concept,PART_OF,Parametric Design and Complexity,topic,,,ARCH_4203_triples_raw.json
+ARCH_4203,Green Building,concept,PART_OF,Green Building and LEED,topic,,,ARCH_4203_triples_raw.json
+ARCH_4203,Biomimicry,concept,PART_OF,Biomimicry and Biophilic Design,topic,,,ARCH_4203_triples_raw.json
+ARCH_4203,Brutalism,concept,SUBTYPE_OF,International Style,concept,,,ARCH_4203_triples_raw.json
+ARCH_4203,Expressionism,concept,SUBTYPE_OF,International Style,concept,,,ARCH_4203_triples_raw.json
+ARCH_4203,Deconstructivism,concept,SUBTYPE_OF,Organic,concept,,,ARCH_4203_triples_raw.json
+ARCH_4203,Postmodernism,concept,SUBTYPE_OF,Architectural Theoretical Frameworks,concept,,,ARCH_4203_triples_raw.json
+ARCH_4203,Digital Architecture,concept,SUBTYPE_OF,Simulation,concept,,,ARCH_4203_triples_raw.json
+ARCH_4203,Parametric Design,concept,SUBTYPE_OF,Complexity,concept,,,ARCH_4203_triples_raw.json
+ARCH_4203,Deconstructivist Manifesto,concept,USED_FOR,Deconstructivism,concept,,,ARCH_4203_triples_raw.json
+ARCH_4203,LEED,concept,USED_FOR,Green Building,concept,,,ARCH_4203_triples_raw.json
+ARCH_4203,Biomimicry,concept,USED_FOR,Biophilic Design,concept,,,ARCH_4203_triples_raw.json

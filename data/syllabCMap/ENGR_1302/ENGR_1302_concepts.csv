@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ENGR_1302,topic,Logic and Computational Problem Solving,Logic and Computational Problem Solving,1,verified,Logic and Computational Problem Solving,ENGR_1302_concepts_raw.json
+ENGR_1302,topic,Problem Solving,Problem Solving,2,verified,Introduction to Problem Solving,ENGR_1302_concepts_raw.json
+ENGR_1302,topic,Code Organization and Documentation,code organization and documentation,1,verified,Code Organization and Documentation,ENGR_1302_concepts_raw.json
+ENGR_1302,topic,Real-World Engineering Problems,real -world engineering problems,1,verified,Real-World Engineering Problems,ENGR_1302_concepts_raw.json
+ENGR_1302,concept,problem solving frameworks,problem-solving frameworks,1,verified,problem solving frameworks,ENGR_1302_concepts_raw.json
+ENGR_1302,concept,logical decision making,logical decision-making,1,verified,logical decision making,ENGR_1302_concepts_raw.json
+ENGR_1302,concept,surface-level symptoms,surface-level symptoms,1,verified,surface-level symptoms,ENGR_1302_concepts_raw.json
+ENGR_1302,concept,proficiency in coding,proficiency in code,1,verified,proficiency in coding,ENGR_1302_concepts_raw.json
+ENGR_1302,tool,Raspberry Pi Starter Kit,Raspberry Pi Starter Kit,1,verified,Raspberry Pi Starter Kit,ENGR_1302_concepts_raw.json
+ENGR_1302,tool,zyBooks eBook Subscription,zyBooks eBook Subscription,1,verified,zyBooks eBook Subscription,ENGR_1302_concepts_raw.json

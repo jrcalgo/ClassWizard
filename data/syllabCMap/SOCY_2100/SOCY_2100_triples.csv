@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_2100,Aging Process Overview,concept,PREREQUISITE_OF,Life Course Perspective,concept,same unit,,SOCY_2100_triples_raw.json
+SOCY_2100,Disengagement Theory,concept,PREREQUISITE_OF,Activity Theory,concept,same unit,,SOCY_2100_triples_raw.json
+SOCY_2100,Disengagement Theory,concept,PREREQUISITE_OF,Continuity Theory,concept,same unit,,SOCY_2100_triples_raw.json
+SOCY_2100,Pension Systems Overview,concept,PREREQUISITE_OF,Healthcare Access Issues,concept,same unit,,SOCY_2100_triples_raw.json
+SOCY_2100,Pension Systems Overview,concept,PREREQUISITE_OF,Housing Options for Seniors,concept,same unit,,SOCY_2100_triples_raw.json
+SOCY_2100,Aging Process Overview,concept,PART_OF,Aging And The Life Course,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Disengagement Theory,concept,PART_OF,Theories of Aging,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Activity Theory,concept,PART_OF,Theories of Aging,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Continuity Theory,concept,PART_OF,Theories of Aging,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Aging Population Growth,concept,PART_OF,Demographic Changes,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Changing Family Structures,concept,PART_OF,Demographic Changes,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Pension Systems Overview,concept,PART_OF,Social Policies and Aging,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Healthcare Access Issues,concept,PART_OF,Social Policies and Aging,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Housing Options for Seniors,concept,PART_OF,Social Policies and Aging,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Aging vs. Chronic Conditions,concept,PART_OF,Normal Aging vs. Disease,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Disease Management Strategies,concept,PART_OF,Normal Aging vs. Disease,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Healthy Aging Practices,concept,PART_OF,Normal Aging vs. Disease,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Communication with Seniors,concept,PART_OF,Service Learning and Interactions,topic,,,SOCY_2100_triples_raw.json
+SOCY_2100,Stereotype Debunking Techniques,concept,PART_OF,Service Learning and Interactions,topic,,,SOCY_2100_triples_raw.json

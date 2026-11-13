@@ -1,0 +1,80 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Algebraic Equations and Graphs,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Calculus Basics,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Computer-Aided Design (CAD,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Programming Fundamentals,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Project Management Basics,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Collaboration and Communication,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Time and Resource Allocation,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Design Requirements and Specifications,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Prototyping and Testing Methods,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Algebraic Equations and Graphs,concept,PREREQUISITE_OF,Calculus Basics,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Algebraic Equations and Graphs,concept,PREREQUISITE_OF,Simulation and Modeling Techniques,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Algebraic Equations and Graphs,concept,PREREQUISITE_OF,Programming Fundamentals,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Algebraic Equations and Graphs,concept,PREREQUISITE_OF,Project Management Basics,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Algebraic Equations and Graphs,concept,PREREQUISITE_OF,Collaboration and Communication,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Algebraic Equations and Graphs,concept,PREREQUISITE_OF,Time and Resource Allocation,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Algebraic Equations and Graphs,concept,PREREQUISITE_OF,Design Requirements and Specifications,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Algebraic Equations and Graphs,concept,PREREQUISITE_OF,Prototyping and Testing Methods,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Algebraic Equations and Graphs,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,PREREQUISITE_OF,Computer-Aided Design (CAD,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,PREREQUISITE_OF,Simulation and Modeling Techniques,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,PREREQUISITE_OF,Programming Fundamentals,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,PREREQUISITE_OF,Project Management Basics,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,PREREQUISITE_OF,Collaboration and Communication,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,PREREQUISITE_OF,Time and Resource Allocation,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,PREREQUISITE_OF,Design Requirements and Specifications,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,PREREQUISITE_OF,Prototyping and Testing Methods,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,PREREQUISITE_OF,Simulation and Modeling Techniques,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,PREREQUISITE_OF,Programming Fundamentals,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,PREREQUISITE_OF,Project Management Basics,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,PREREQUISITE_OF,Collaboration and Communication,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,PREREQUISITE_OF,Time and Resource Allocation,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,PREREQUISITE_OF,Design Requirements and Specifications,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,PREREQUISITE_OF,Prototyping and Testing Methods,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Simulation and Modeling Techniques,concept,PREREQUISITE_OF,Programming Fundamentals,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Simulation and Modeling Techniques,concept,PREREQUISITE_OF,Project Management Basics,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Simulation and Modeling Techniques,concept,PREREQUISITE_OF,Collaboration and Communication,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Simulation and Modeling Techniques,concept,PREREQUISITE_OF,Time and Resource Allocation,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Simulation and Modeling Techniques,concept,PREREQUISITE_OF,Design Requirements and Specifications,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Simulation and Modeling Techniques,concept,PREREQUISITE_OF,Prototyping and Testing Methods,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Simulation and Modeling Techniques,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Programming Fundamentals,concept,PREREQUISITE_OF,Project Management Basics,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Programming Fundamentals,concept,PREREQUISITE_OF,Collaboration and Communication,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Programming Fundamentals,concept,PREREQUISITE_OF,Time and Resource Allocation,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Programming Fundamentals,concept,PREREQUISITE_OF,Design Requirements and Specifications,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Programming Fundamentals,concept,PREREQUISITE_OF,Prototyping and Testing Methods,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Programming Fundamentals,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Project Management Basics,concept,PREREQUISITE_OF,Collaboration and Communication,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Project Management Basics,concept,PREREQUISITE_OF,Time and Resource Allocation,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Project Management Basics,concept,PREREQUISITE_OF,Design Requirements and Specifications,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Project Management Basics,concept,PREREQUISITE_OF,Prototyping and Testing Methods,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Project Management Basics,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Collaboration and Communication,concept,PREREQUISITE_OF,Time and Resource Allocation,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Collaboration and Communication,concept,PREREQUISITE_OF,Design Requirements and Specifications,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Time and Resource Allocation,concept,PREREQUISITE_OF,Design Requirements and Specifications,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Time and Resource Allocation,concept,PREREQUISITE_OF,Prototyping and Testing Methods,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Time and Resource Allocation,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,A taught first,,ENGR_1301_triples_raw.json
+ENGR_1301,Design Requirements and Specifications,concept,PREREQUISITE_OF,Prototyping and Testing Methods,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Design Requirements and Specifications,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Prototyping and Testing Methods,concept,PREREQUISITE_OF,Iterative Design Cycles,concept,same unit,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,USED_FOR,Problem Solving Techniques,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Engineering Fundamentals,concept,USED_FOR,Design Thinking Principles,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Calculus Basics,concept,USED_FOR,Simulation and Modeling Techniques,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,USED_FOR,Project Management Basics,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Computer-Aided Design (CAD,concept,USED_FOR,Collaboration and Communication,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Simulation and Modeling Techniques,concept,USED_FOR,Project Management Basics,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Programming Fundamentals,concept,USED_FOR,Collaboration and Communication,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Programming Fundamentals,concept,USED_FOR,Time and Resource Allocation,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Project Management Basics,concept,USED_FOR,Prototyping and Testing Methods,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Project Management Basics,concept,USED_FOR,Iterative Design Cycles,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Collaboration and Communication,concept,USED_FOR,Time and Resource Allocation,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Time and Resource Allocation,concept,USED_FOR,Design Requirements and Specifications,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Time and Resource Allocation,concept,USED_FOR,Prototyping and Testing Methods,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Time and Resource Allocation,concept,USED_FOR,Iterative Design Cycles,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Design Requirements and Specifications,concept,USED_FOR,Prototyping and Testing Methods,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Design Requirements and Specifications,concept,USED_FOR,Iterative Design Cycles,concept,,,ENGR_1301_triples_raw.json
+ENGR_1301,Prototyping and Testing Methods,concept,USED_FOR,Iterative Design Cycles,concept,,,ENGR_1301_triples_raw.json

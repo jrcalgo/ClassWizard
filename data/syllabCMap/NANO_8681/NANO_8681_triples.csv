@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NANO_8681,Interdisciplinary Methodologies,topic,PART_OF,Nanoscale Science Seminar,topic,,,NANO_8681_triples_raw.json
+NANO_8681,Emerging Trends in Nanoscience,topic,PART_OF,Nanoscale Science Seminar,topic,,,NANO_8681_triples_raw.json
+NANO_8681,Critical Evaluation of Data,topic,PART_OF,Nanoscale Science Seminar,topic,,,NANO_8681_triples_raw.json
+NANO_8681,Research Directions in Chemistry,topic,PART_OF,Nanoscale Science Seminar,topic,,,NANO_8681_triples_raw.json
+NANO_8681,Case Studies in Nanoscale Science,topic,PART_OF,Nanoscale Science Seminar,topic,,,NANO_8681_triples_raw.json
+NANO_8681,Computational Modeling Techniques,concept,USED_FOR,Emerging Trends in Nanoscience,topic,,,NANO_8681_triples_raw.json

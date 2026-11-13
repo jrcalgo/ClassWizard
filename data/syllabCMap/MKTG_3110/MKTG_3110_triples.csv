@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3110,Marketing Concept,topic,PREREQUISITE_OF,Marketing-Environment Interaction,topic,A taught first,,MKTG_3110_triples_raw.json
+MKTG_3110,Marketing Concept,topic,PREREQUISITE_OF,Marketing and Other Functional Areas,topic,A taught first,,MKTG_3110_triples_raw.json
+MKTG_3110,Marketing Concept,topic,PREREQUISITE_OF,Marketing in Business Organizations,topic,A taught first,,MKTG_3110_triples_raw.json
+MKTG_3110,External Environment Interface,topic,PREREQUISITE_OF,Marketing-Environment Interaction,topic,A taught first,,MKTG_3110_triples_raw.json
+MKTG_3110,External Environment Interface,topic,PREREQUISITE_OF,Marketing in Business Organizations,topic,A taught first,,MKTG_3110_triples_raw.json
+MKTG_3110,Marketing-Environment Interaction,topic,PREREQUISITE_OF,Marketing and Other Functional Areas,topic,A taught first,,MKTG_3110_triples_raw.json
+MKTG_3110,Marketing-Environment Interaction,topic,PREREQUISITE_OF,Marketing in Business Organizations,topic,A taught first,,MKTG_3110_triples_raw.json
+MKTG_3110,Marketing and Other Functional Areas,topic,PREREQUISITE_OF,Marketing in Business Organizations,topic,A taught first,,MKTG_3110_triples_raw.json
+MKTG_3110,marketing mix variables,concept,PART_OF,Marketing Concept,topic,,,MKTG_3110_triples_raw.json
+MKTG_3110,customer needs focus,concept,PART_OF,Marketing Concept,topic,,,MKTG_3110_triples_raw.json
+MKTG_3110,marketing orientation,concept,PART_OF,Marketing Concept,topic,,,MKTG_3110_triples_raw.json
+MKTG_3110,marketing mix adaptation,concept,PART_OF,Marketing-Environment Interaction,topic,,,MKTG_3110_triples_raw.json
+MKTG_3110,interdepartmental coordination,concept,PART_OF,Marketing and Other Functional Areas,topic,,,MKTG_3110_triples_raw.json
+MKTG_3110,marketing's role in strategy,concept,PART_OF,Marketing in Business Organizations,topic,,,MKTG_3110_triples_raw.json
+MKTG_3110,marketing's contribution to profit,concept,PART_OF,Marketing in Business Organizations,topic,,,MKTG_3110_triples_raw.json
+MKTG_3110,marketing's impact on society,concept,PART_OF,Marketing in Business Organizations,topic,,,MKTG_3110_triples_raw.json

@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4101,topic,Embedded System Design,embedded system design,1,verified,Embedded System Design,ECGR_4101_concepts_raw.json
+ECGR_4101,topic,Real-Time Operating Systems,real-time operating system,1,verified,Real-Time Operating Systems,ECGR_4101_concepts_raw.json
+ECGR_4101,tool,Mastering STM32,Mastering STM32,1,verified,"Mastering STM32, logic analyzer, hardware design tools",ECGR_4101_concepts_raw.json
+ECGR_4101,tool,logic analyzer,logic analyzer,1,verified,"Mastering STM32, logic analyzer, hardware design tools",ECGR_4101_concepts_raw.json
+ECGR_4101,tool,hardware design tools,hardware design tools,1,verified,"Mastering STM32, logic analyzer, hardware design tools",ECGR_4101_concepts_raw.json

@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BUSN_2100,goal setting,topic,PREREQUISITE_OF,understanding the inquiry process,topic,A taught first,,BUSN_2100_triples_raw.json
+BUSN_2100,goal setting,topic,PREREQUISITE_OF,cultural awareness,topic,A taught first,,BUSN_2100_triples_raw.json
+BUSN_2100,Specific and Realistic Goals,concept,PART_OF,goal setting,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Charlotte Campus Resources,concept,PART_OF,Campus Orientation,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Student Engagement Opportunities,concept,PART_OF,Campus Orientation,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Learning Beyond Classroom,concept,PART_OF,Campus Orientation,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Strategies for Achieving Goals,concept,PART_OF,Goal Setting Strategies,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Making Changes in Experience,concept,PART_OF,Goal Setting Strategies,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Open-Ended Inquiry Process,concept,PART_OF,understanding the inquiry process,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Exploring Evidence and Approaches,concept,PART_OF,understanding the inquiry process,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Generating Ideas and Conclusions,concept,PART_OF,understanding the inquiry process,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Cultural Awareness in Business,concept,PART_OF,cultural awareness,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Sensitivity to Diverse Perspectives,concept,PART_OF,cultural awareness,topic,,,BUSN_2100_triples_raw.json
+BUSN_2100,Global Business Environment,concept,PART_OF,cultural awareness,topic,,,BUSN_2100_triples_raw.json

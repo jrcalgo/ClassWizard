@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5226,Material Properties,concept,PART_OF,Reinforced Concrete Basics,concept,,,CEGR_5226_triples_raw.json
+CEGR_5226,Design Considerations,concept,PART_OF,Reinforced Concrete Basics,concept,,,CEGR_5226_triples_raw.json

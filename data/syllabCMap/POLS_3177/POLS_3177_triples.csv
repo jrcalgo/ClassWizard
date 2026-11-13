@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3177,Philosophy,topic,PREREQUISITE_OF,Political Philosophy,topic,A taught first,,POLS_3177_triples_raw.json
+POLS_3177,Ancient Greek Thought,topic,PREREQUISITE_OF,Medieval and Renaissance Thinkers,topic,A taught first,,POLS_3177_triples_raw.json
+POLS_3177,Socrates' Method of Inquiry,concept,PART_OF,Ancient Greek Thought,topic,,,POLS_3177_triples_raw.json
+POLS_3177,Plato's Theory of Forms,concept,PART_OF,Ancient Greek Thought,topic,,,POLS_3177_triples_raw.json
+POLS_3177,Aristotle's Virtue Ethics,concept,PART_OF,Ancient Greek Thought,topic,,,POLS_3177_triples_raw.json
+POLS_3177,Machiavelli's Realism,concept,PART_OF,Medieval and Renaissance Thinkers,topic,,,POLS_3177_triples_raw.json
+POLS_3177,Locke's Social Contract Theory,concept,PART_OF,Modern Political Philosophy,topic,,,POLS_3177_triples_raw.json
+POLS_3177,Rousseau's General Will,concept,PART_OF,Modern Political Philosophy,topic,,,POLS_3177_triples_raw.json
+POLS_3177,Kant's Moral Imperative,concept,PART_OF,Modern Political Philosophy,topic,,,POLS_3177_triples_raw.json

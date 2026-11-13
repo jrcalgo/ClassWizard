@@ -1,0 +1,40 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_8326,topic,Network Science,Network Science,2,verified,Network Science,ITIS_8326_concepts_raw.json
+ITIS_8326,topic,Network Structures and Properties,network structures and properties,1,verified,Network Structures and Properties,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,social network analysis,social network analysis,1,verified,social network analysis,ITIS_8326_concepts_raw.json
+ITIS_8326,topic,Basic Principles of Networks,Basic Principles of Networks,1,inferred,Basic Principles of Networks,ITIS_8326_concepts_raw.json
+ITIS_8326,topic,Measuring Network Performance,Measuring Network Performance,1,inferred,Measuring Network Performance,ITIS_8326_concepts_raw.json
+ITIS_8326,topic,Network-Based System Evaluation,Network-Based System Evaluation,1,inferred,Network-Based System Evaluation,ITIS_8326_concepts_raw.json
+ITIS_8326,topic,"Emergence, Epidemics, and Synchrony","Emergence, Epidemics, and Synchrony",1,inferred,"Emergence, Epidemics, and Synchrony",ITIS_8326_concepts_raw.json
+ITIS_8326,topic,Network Design and Optimization,Network Design and Optimization,1,inferred,Network Design and Optimization,ITIS_8326_concepts_raw.json
+ITIS_8326,topic,Social Interactions and Influence,Social Interactions and Influence,1,inferred,Social Interactions and Influence,ITIS_8326_concepts_raw.json
+ITIS_8326,topic,Network Science Applications,Network Science Applications,1,inferred,Network Science Applications,ITIS_8326_concepts_raw.json
+ITIS_8326,topic,Tools for Network Analysis,Tools for Network Analysis,1,inferred,Tools for Network Analysis,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,network definition and types,Network Definition and Types,1,inferred,network definition and types,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,importance of network analysis,Importance of Network Analysis,1,inferred,importance of network analysis,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,nodes and edges,Nodes and Edges,1,inferred,nodes and edges,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,degree distribution,Degree Distribution,1,inferred,degree distribution,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,clustering coefficient,Clustering Coefficient,1,inferred,clustering coefficient,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,small-world networks,Small-World Networks,1,inferred,small-world networks,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,scale-free networks,Scale-Free Networks,1,inferred,scale-free networks,ITIS_8326_concepts_raw.json
+ITIS_8326,measure,centrality measures,Centrality Measures,1,inferred,centrality measures,ITIS_8326_concepts_raw.json
+ITIS_8326,measure,betweenness centrality,Betweenness Centrality,1,inferred,betweenness centrality,ITIS_8326_concepts_raw.json
+ITIS_8326,measure,closeness centrality,Closeness Centrality,1,inferred,closeness centrality,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,network efficiency and effectiveness,Network Efficiency and Effectiveness,1,inferred,network efficiency and effectiveness,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,system resilience and robustness,System Resilience and Robustness,1,inferred,system resilience and robustness,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,risk analysis and management,Risk Analysis and Management,1,inferred,risk analysis and management,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,emergent behavior in networks,Emergent Behavior in Networks,1,inferred,emergent behavior in networks,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,epidemic spreading dynamics,Epidemic Spreading Dynamics,1,inferred,epidemic spreading dynamics,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,synchronization phenomena,Synchronization Phenomena,1,inferred,synchronization phenomena,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,optimization techniques for networks,Optimization Techniques for Networks,1,inferred,optimization techniques for networks,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,designing resilient communication networks,Designing Resilient Communication Networks,1,inferred,designing resilient communication networks,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,infrastructure system revision,Infrastructure System Revision,1,inferred,infrastructure system revision,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,influence maximization in social networks,Influence Maximization in Social Networks,1,inferred,influence maximization in social networks,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,opinion dynamics and diffusion,Opinion Dynamics and Diffusion,1,inferred,opinion dynamics and diffusion,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,social network visualization,Social Network Visualization,1,inferred,social network visualization,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,biological systems modeling,Biological Systems Modeling,1,inferred,biological systems modeling,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,market dynamics and analysis,Market Dynamics and Analysis,1,inferred,market dynamics and analysis,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,marketing strategy development,Marketing Strategy Development,1,inferred,marketing strategy development,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,graph theory and algorithms,Graph Theory and Algorithms,1,inferred,graph theory and algorithms,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,visualization software and tools,Visualization Software and Tools,1,inferred,visualization software and tools,ITIS_8326_concepts_raw.json
+ITIS_8326,concept,network data collection and processing,Network Data Collection and Processing,1,inferred,network data collection and processing,ITIS_8326_concepts_raw.json

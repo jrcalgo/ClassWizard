@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_6170,Systemic View,concept,PREREQUISITE_OF,Human Performance Improvement,concept,same unit,,ELDT_6170_triples_raw.json
+ELDT_6170,Systemic View,concept,PREREQUISITE_OF,Value Added Solutions,concept,A taught first,,ELDT_6170_triples_raw.json
+ELDT_6170,Systemic View,concept,PREREQUISITE_OF,Partnership with Clients,concept,A taught first,,ELDT_6170_triples_raw.json
+ELDT_6170,Systemic View,concept,PREREQUISITE_OF,Root Cause Analysis,concept,A taught first,,ELDT_6170_triples_raw.json
+ELDT_6170,Human Performance Improvement,concept,SUBTYPE_OF,Human Performance,topic,,,ELDT_6170_triples_raw.json
+ELDT_6170,Value Added Solutions,concept,SUBTYPE_OF,Value Addition,concept,,,ELDT_6170_triples_raw.json
+ELDT_6170,Partnership with Clients,concept,SUBTYPE_OF,Client Stakeholder Partnerships,concept,,,ELDT_6170_triples_raw.json
+ELDT_6170,Root Cause Analysis,concept,SUBTYPE_OF,Cause Analysis Techniques,concept,,,ELDT_6170_triples_raw.json
+ELDT_6170,Solution Design Implementation,concept,SUBTYPE_OF,Solution Deployment,concept,,,ELDT_6170_triples_raw.json
+ELDT_6170,Systemic View,concept,USED_FOR,Systemic View Perspective,concept,,,ELDT_6170_triples_raw.json
+ELDT_6170,Systemic View,concept,USED_FOR,Systemic View Analysis,concept,,,ELDT_6170_triples_raw.json
+ELDT_6170,Performance Improvement Process,concept,USED_FOR,Human Performance Improvement Consulting,topic,,,ELDT_6170_triples_raw.json
+ELDT_6170,Value Added Solutions,concept,USED_FOR,Performance Interventions,concept,,,ELDT_6170_triples_raw.json
+ELDT_6170,Root Cause Analysis,concept,USED_FOR,Cause Analysis Techniques,concept,,,ELDT_6170_triples_raw.json
+ELDT_6170,Solution Design Implementation,concept,USED_FOR,Solution Deployment,concept,,,ELDT_6170_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_6156,American Educational System,concept,PART_OF,"Curriculum, Teaching, and Contemporary Issues in Education",topic,,,MDSK_6156_triples_raw.json
+MDSK_6156,Teacher Leadership,topic,PART_OF,"Curriculum, Teaching, and Contemporary Issues in Education",topic,,,MDSK_6156_triples_raw.json
+MDSK_6156,Literature Review,topic,PART_OF,"Curriculum, Teaching, and Contemporary Issues in Education",topic,,,MDSK_6156_triples_raw.json
+MDSK_6156,Multiple Perspectives,concept,USED_FOR,American Educational System,concept,,,MDSK_6156_triples_raw.json

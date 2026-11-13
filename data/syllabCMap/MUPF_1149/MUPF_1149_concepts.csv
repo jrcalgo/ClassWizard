@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUPF_1149,topic,Brass Chamber Music,Brass Chamber Music,1,verified,Brass Chamber Music,MUPF_1149_concepts_raw.json
+MUPF_1149,concept,rhythm,rhythm,1,verified,rhythm,MUPF_1149_concepts_raw.json
+MUPF_1149,concept,melody,melody,1,verified,melody,MUPF_1149_concepts_raw.json
+MUPF_1149,concept,harmony,harmony,1,verified,harmony,MUPF_1149_concepts_raw.json
+MUPF_1149,concept,structure,structure,1,verified,structure,MUPF_1149_concepts_raw.json
+MUPF_1149,concept,timbre,timbre,1,verified,timbre,MUPF_1149_concepts_raw.json
+MUPF_1149,concept,texture,texture,1,verified,texture,MUPF_1149_concepts_raw.json

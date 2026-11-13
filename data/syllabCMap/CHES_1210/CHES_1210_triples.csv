@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHES_1210,Self-Efficacy,concept,PREREQUISITE_OF,Grit Development,concept,same unit,,CHES_1210_triples_raw.json
+CHES_1210,Self-Efficacy,concept,PREREQUISITE_OF,Resilience Building,concept,B taught first,B is taught before A - check,CHES_1210_triples_raw.json
+CHES_1210,Self-Efficacy,concept,PREREQUISITE_OF,Academic Success Skills,concept,same unit,,CHES_1210_triples_raw.json
+CHES_1210,Grit Development,concept,PREREQUISITE_OF,Passion Maintenance,concept,A taught first,,CHES_1210_triples_raw.json
+CHES_1210,Analytical Reading Techniques,concept,PREREQUISITE_OF,Effective Note Taking Methods,concept,same unit,,CHES_1210_triples_raw.json
+CHES_1210,College Reading Strategies,concept,PREREQUISITE_OF,Text Analysis Techniques,concept,same unit,,CHES_1210_triples_raw.json
+CHES_1210,Critical Thinking Skills,concept,PREREQUISITE_OF,Reading Comprehension Methods,concept,same unit,,CHES_1210_triples_raw.json
+CHES_1210,Student Engagement Strategies,concept,PREREQUISITE_OF,Grit and Resilience Building,concept,same unit,,CHES_1210_triples_raw.json
+CHES_1210,Prioritizing Wellness,concept,PART_OF,Importance of Mental Health and Well,topic,,,CHES_1210_triples_raw.json
+CHES_1210,Becoming an Academic Reader,topic,PART_OF,College-based Reading,topic,,,CHES_1210_triples_raw.json
+CHES_1210,Reading and Note-Taking,topic,PART_OF,College-based Reading,topic,,,CHES_1210_triples_raw.json
+CHES_1210,Community Member,topic,PART_OF,Student Engagement,topic,,,CHES_1210_triples_raw.json
+CHES_1210,Grit Development,concept,SUBTYPE_OF,Resilience Building,concept,,,CHES_1210_triples_raw.json
+CHES_1210,Perseverance Strategies,concept,SUBTYPE_OF,Grit Development,concept,,,CHES_1210_triples_raw.json
+CHES_1210,College Reading Strategies,concept,SUBTYPE_OF,Text Analysis Techniques,concept,,,CHES_1210_triples_raw.json
+CHES_1210,Time Management Strategies,concept,USED_FOR,Prioritization Techniques,concept,,,CHES_1210_triples_raw.json
+CHES_1210,Time Management Strategies,concept,USED_FOR,Goal Setting Methods,concept,,,CHES_1210_triples_raw.json
+CHES_1210,Grit Development,concept,USED_FOR,Passion Maintenance,concept,,,CHES_1210_triples_raw.json
+CHES_1210,Academic Reading Skills,concept,USED_FOR,Critical Thinking Strategies,concept,,,CHES_1210_triples_raw.json
+CHES_1210,Analytical Reading Techniques,concept,USED_FOR,Effective Note Taking Methods,concept,,,CHES_1210_triples_raw.json
+CHES_1210,College Reading Strategies,concept,USED_FOR,Text Analysis Techniques,concept,,,CHES_1210_triples_raw.json
+CHES_1210,Critical Thinking Skills,concept,USED_FOR,Reading Comprehension Methods,concept,,,CHES_1210_triples_raw.json

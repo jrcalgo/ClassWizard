@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETFS_2230L,tool,Emergency Response Guidebook,Emergency Response Guidebook,2,verified,Emergency Response Guidebook,ETFS_2230L_concepts_raw.json
+ETFS_2230L,tool,NIOSH Pocket Guide to Chemical Hazards,NIOSH Pocket Guide to Chemical Hazards,1,verified,NIOSH Pocket Guide to Chemical Hazards,ETFS_2230L_concepts_raw.json
+ETFS_2230L,topic,ERG,ERG,1,verified,Introduction to ERG,ETFS_2230L_concepts_raw.json
+ETFS_2230L,topic,Hazardous Materials Classification,hazardous materials classification,1,verified,Hazardous Materials Classification,ETFS_2230L_concepts_raw.json
+ETFS_2230L,topic,Testing/Monitoring Equipment,Testing/Monitoring Equipment,1,verified,Testing/Monitoring Equipment,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,IDLH,IDLH,1,verified,IDLH,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,TWA,TWA,1,verified,TWA,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,STEL,STEL,1,verified,STEL,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,C,C,1,verified,C,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,PEL,PEL,1,verified,PEL,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,REL's,REL's,1,verified,REL's,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,Personal Protective Equipment,Personal Protective Equipment,1,verified,Personal Protective Equipment,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,Proper Hazardous Materials Classification,proper hazardous materials classification,1,verified,Proper Hazardous Materials Classification,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,Workplace or Emergency Scene,workplace or emergency scene,1,verified,Workplace or Emergency Scene,ETFS_2230L_concepts_raw.json
+ETFS_2230L,concept,ERG and NIOSH Pocket Guide,ERG and NIOSH Pocket Guide,1,verified,ERG and NIOSH Pocket Guide,ETFS_2230L_concepts_raw.json

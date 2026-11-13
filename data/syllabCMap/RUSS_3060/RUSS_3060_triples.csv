@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RUSS_3060,cultural and political changes,concept,PREREQUISITE_OF,Contemporary Russian Cinema,topic,A taught first,,RUSS_3060_triples_raw.json
+RUSS_3060,film discussions,method,USED_FOR,Russian Film,topic,,,RUSS_3060_triples_raw.json
+RUSS_3060,analysis,method,USED_FOR,Russian Film,topic,,,RUSS_3060_triples_raw.json
+RUSS_3060,practical filmmaking exercises,method,USED_FOR,Russian Film,topic,,,RUSS_3060_triples_raw.json

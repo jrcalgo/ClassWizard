@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_4370,topic,Data Analytics and Crime,Data Analytics and Crime,1,verified,Data Analytics and Crime,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,levels of measurement,levels of measurement,2,verified,levels of measurement,CJUS_4370_concepts_raw.json
+CJUS_4370,topic,Organizing Data/Cross Tabulations/Graphs,Organizing Data/Cross Tabulations/Graphs,1,verified,Organizing Data/Cross Tabulations/Graphs,CJUS_4370_concepts_raw.json
+CJUS_4370,topic,Measures of Central Tendency and Variability,Measures of Central Tendency and Variability,1,verified,Measures of Central Tendency and Variability,CJUS_4370_concepts_raw.json
+CJUS_4370,topic,Calculating z-scores,Calculating z-scores,1,verified,Calculating z-scores,CJUS_4370_concepts_raw.json
+CJUS_4370,topic,Calculating Confidence Intervals,Calculating Confidence Intervals,1,verified,Calculating Confidence Intervals,CJUS_4370_concepts_raw.json
+CJUS_4370,topic,Hypothesis Testing,Hypothesis Testing,3,verified,Hypothesis Testing,CJUS_4370_concepts_raw.json
+CJUS_4370,topic,Analysis of Variance (ANOVA,Analysis of Variance (ANOVA,1,verified,Analysis of Variance (ANOVA),CJUS_4370_concepts_raw.json
+CJUS_4370,topic,Chi-Square,Chi-Square,2,verified,Chi-Square,CJUS_4370_concepts_raw.json
+CJUS_4370,topic,Bivariate and Partial Correlation,Bivariate and Partial Correlation,1,verified,Bivariate and Partial Correlation,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,control variables,control variables,1,verified,control variables,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,descriptive statistics,Descriptive Statistics,1,verified,descriptive statistics,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,inferential statistics,inferential statistics,2,verified,inferential statistics,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,null hypothesis,Null Hypothesis,5,verified,null hypothesis,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,alternative hypothesis,Alternative Hypothesis,5,verified,alternative hypothesis,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,p-value calculation,P-Value Calculation,2,verified,p-value calculation,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,analysis of variance,Analysis of Variance,2,verified,analysis of variance,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,f-statistic calculation,F-statistic Calculation,1,verified,f-statistic calculation,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,homogeneity of variances,Homogeneity of Variances,1,verified,homogeneity of variances,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,chi-square test,Chi-Square Test,1,verified,chi-square test,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,bivariate correlation,Bivariate Correlation,1,verified,bivariate correlation,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,partial correlation coefficient,Partial Correlation Coefficient,1,verified,partial correlation coefficient,CJUS_4370_concepts_raw.json
+CJUS_4370,concept,multiple regression assumptions,Multiple Regression Assumptions,1,verified,multiple regression assumptions,CJUS_4370_concepts_raw.json
+CJUS_4370,method,manipulation,manipulation,2,verified,manipulation,CJUS_4370_concepts_raw.json
+CJUS_4370,method,analysis,analysis,8,verified,analysis,CJUS_4370_concepts_raw.json
+CJUS_4370,method,interpretation,interpretation,3,verified,interpretation,CJUS_4370_concepts_raw.json
+CJUS_4370,method,data normalization techniques,Data normalization techniques,1,verified,data normalization techniques,CJUS_4370_concepts_raw.json
+CJUS_4370,method,interval estimation,Interval Estimation,1,verified,interval estimation,CJUS_4370_concepts_raw.json
+CJUS_4370,method,post-hoc analysis,Post-Hoc Analysis,1,verified,post-hoc analysis,CJUS_4370_concepts_raw.json

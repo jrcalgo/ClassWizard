@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_4170,Artificial Intelligence Architecture,concept,PREREQUISITE_OF,Change Detection,topic,A taught first,,ESCI_4170_triples_raw.json
+ESCI_4170,Artificial Intelligence Architecture,concept,PREREQUISITE_OF,Accuracy Assessment,topic,A taught first,,ESCI_4170_triples_raw.json
+ESCI_4170,Artificial Intelligence Architecture,concept,PREREQUISITE_OF,Google AlphaEarth Foundations in GEE,topic,A taught first,,ESCI_4170_triples_raw.json
+ESCI_4170,Artificial Intelligence Architecture,concept,PREREQUISITE_OF,Ethics in Remote Sensing,topic,A taught first,,ESCI_4170_triples_raw.json
+ESCI_4170,Digital Image Processing,concept,PART_OF,Sensor Platform Architectures,concept,,,ESCI_4170_triples_raw.json
+ESCI_4170,Digital Image Processing,concept,PART_OF,Automated Feature Extraction,concept,,,ESCI_4170_triples_raw.json
+ESCI_4170,Geospatial Workflows,concept,PART_OF,Change Detection,topic,,,ESCI_4170_triples_raw.json
+ESCI_4170,Semantic Segmentation Techniques,concept,PART_OF,Object Detection Algorithms,concept,,,ESCI_4170_triples_raw.json
+ESCI_4170,Predictive Modeling Approaches,concept,PART_OF,Accuracy Assessment,topic,,,ESCI_4170_triples_raw.json
+ESCI_4170,Atmospheric Interference Effects,concept,PART_OF,Radiative Transfer Theory,concept,,,ESCI_4170_triples_raw.json
+ESCI_4170,Blackbody Radiation Law,concept,PART_OF,Spectral Reflectance Properties,concept,,,ESCI_4170_triples_raw.json
+ESCI_4170,Fourier Transform,concept,PART_OF,Image Filtering Techniques,concept,,,ESCI_4170_triples_raw.json
+ESCI_4170,ENVI (software tool,tool,USED_FOR,Analysis in ENVI,topic,,,ESCI_4170_triples_raw.json

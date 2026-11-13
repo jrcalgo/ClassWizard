@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_3155,Requirements Gathering,topic,PREREQUISITE_OF,Software Development Methodologies,topic,A taught first,,ITSC_3155_triples_raw.json
+ITSC_3155,Software Design Principles,topic,PREREQUISITE_OF,Object-Oriented Programming,topic,A taught first,,ITSC_3155_triples_raw.json
+ITSC_3155,Agile and Waterfall Methodologies,concept,PREREQUISITE_OF,Iterative and Incremental Development,concept,same unit,,ITSC_3155_triples_raw.json
+ITSC_3155,Software Engineering Definition,concept,PART_OF,SE,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,SE Process Overview,concept,PART_OF,SE,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Requirements Elicitation Techniques,concept,PART_OF,Requirements Gathering,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Requirements Documentation Formats,concept,PART_OF,Requirements Gathering,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,User Story Creation,concept,PART_OF,Requirements Gathering,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Design Patterns and Paradigms,concept,PART_OF,Software Design Principles,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Coupling and Cohesion Metrics,concept,PART_OF,Software Design Principles,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Abstraction and Encapsulation,concept,PART_OF,Software Design Principles,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Agile and Waterfall Methodologies,concept,PART_OF,Software Development Methodologies,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Iterative and Incremental Development,concept,PART_OF,Software Development Methodologies,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Unit Testing and Integration,concept,PART_OF,Testing and Validation,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,System Testing and Acceptance,concept,PART_OF,Testing and Validation,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Test-Driven Development,concept,PART_OF,Testing and Validation,topic,,,ITSC_3155_triples_raw.json
+ITSC_3155,Project Planning and Scheduling,concept,PART_OF,Software Project Management,topic,,,ITSC_3155_triples_raw.json

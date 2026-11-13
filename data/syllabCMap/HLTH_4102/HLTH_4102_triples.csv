@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_4102,Administrative Support Systems,concept,PART_OF,Administrative Infrastructure,topic,,,HLTH_4102_triples_raw.json
+HLTH_4102,Lawmaking Procedures,concept,PART_OF,Governmental Processes,topic,,,HLTH_4102_triples_raw.json
+HLTH_4102,Policy Development Process,concept,PART_OF,Legislative Processes,topic,,,HLTH_4102_triples_raw.json
+HLTH_4102,Transformational Leadership Theories,concept,PART_OF,Leadership Styles,topic,,,HLTH_4102_triples_raw.json
+HLTH_4102,Transactional Leadership Models,concept,PART_OF,Leadership Styles,topic,,,HLTH_4102_triples_raw.json
+HLTH_4102,Servant Leadership Principles,concept,PART_OF,Leadership Styles,topic,,,HLTH_4102_triples_raw.json
+HLTH_4102,Collaborative Leadership Approaches,concept,PART_OF,Leadership Styles,topic,,,HLTH_4102_triples_raw.json
+HLTH_4102,Effective Leadership Traits,concept,PART_OF,Public Health Leadership,topic,,,HLTH_4102_triples_raw.json
+HLTH_4102,Regulatory Frameworks,concept,PART_OF,Governmental Processes,topic,,,HLTH_4102_triples_raw.json
+HLTH_4102,Program Evaluation Methods,concept,USED_FOR,Policy Development Process,concept,,,HLTH_4102_triples_raw.json

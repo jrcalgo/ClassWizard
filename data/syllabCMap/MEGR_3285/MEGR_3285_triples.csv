@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3285,Project Scope Definition,concept,PART_OF,Team Formation,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Engineering Design Principles,concept,PART_OF,Design Philosophy,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Standards and Regulations,concept,PART_OF,Design Philosophy,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Client Requirements,concept,PART_OF,Design Philosophy,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Time Management,concept,PART_OF,Project Planning,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Budgeting and Cost Estimation,concept,PART_OF,Project Planning,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Risk Assessment,concept,PART_OF,Project Planning,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Prototyping Techniques,concept,PART_OF,Prototype Development,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Testing and Validation,concept,PART_OF,Prototype Development,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Project Status Review,concept,PART_OF,Progress Evaluations,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Progress Monitoring,concept,PART_OF,Progress Evaluations,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Feedback and Adjustment,concept,PART_OF,Progress Evaluations,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Communication Skills,concept,PART_OF,Social Engineering,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Team Dynamics,concept,PART_OF,Social Engineering,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Client Relationships,concept,PART_OF,Social Engineering,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Financial Planning,concept,PART_OF,Budgeting and Finance,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Expense Tracking,concept,PART_OF,Budgeting and Finance,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Return on Investment,concept,PART_OF,Budgeting and Finance,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Scheduling and Coordination,concept,PART_OF,Project Management,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Resource Allocation,concept,PART_OF,Project Management,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Quality Control,concept,PART_OF,Project Management,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Final Design Review,concept,PART_OF,Prototype Completion,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Prototype Testing,concept,PART_OF,Prototype Completion,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Verification and Validation,concept,PART_OF,Prototype Completion,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Presentation Skills,concept,PART_OF,Expo Presentation,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Poster Design,concept,PART_OF,Expo Presentation,topic,,,MEGR_3285_triples_raw.json
+MEGR_3285,Project Showcase,concept,PART_OF,Expo Presentation,topic,,,MEGR_3285_triples_raw.json

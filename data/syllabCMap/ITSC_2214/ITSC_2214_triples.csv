@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_2214,Trees,topic,PREREQUISITE_OF,Graphs,topic,same unit,,ITSC_2214_triples_raw.json
+ITSC_2214,Trees,topic,PREREQUISITE_OF,Sets,topic,A taught first,,ITSC_2214_triples_raw.json
+ITSC_2214,Hierarchical or interconnected data representations,topic,PART_OF,Data Structures & Algorithms,topic,,,ITSC_2214_triples_raw.json
+ITSC_2214,Recursion,topic,PART_OF,Data Structures & Algorithms,topic,,,ITSC_2214_triples_raw.json
+ITSC_2214,Traversal techniques,topic,PART_OF,Data Structures & Algorithms,topic,,,ITSC_2214_triples_raw.json
+ITSC_2214,Searching and sorting algorithms,topic,PART_OF,Data Structures & Algorithms,topic,,,ITSC_2214_triples_raw.json
+ITSC_2214,Performance analysis,topic,PART_OF,Data Structures & Algorithms,topic,,,ITSC_2214_triples_raw.json
+ITSC_2214,Professional programming practices,topic,PART_OF,Data Structures & Algorithms,topic,,,ITSC_2214_triples_raw.json
+ITSC_2214,Graphs,topic,USED_FOR,Hierarchical or interconnected data representations,topic,,topic used for something - check direction,ITSC_2214_triples_raw.json
+ITSC_2214,Sets,topic,USED_FOR,Hierarchical or interconnected data representations,topic,,topic used for something - check direction,ITSC_2214_triples_raw.json

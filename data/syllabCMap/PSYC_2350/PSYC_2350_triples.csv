@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2350,Social Influence Processes,concept,PREREQUISITE_OF,Research Approaches,topic,A taught first,,PSYC_2350_triples_raw.json
+PSYC_2350,Social Influence Processes,concept,PREREQUISITE_OF,Attitude Change,topic,same unit,,PSYC_2350_triples_raw.json
+PSYC_2350,Social Influence Processes,concept,PREREQUISITE_OF,Social Perception,topic,A taught first,,PSYC_2350_triples_raw.json
+PSYC_2350,Social Influence Processes,concept,PREREQUISITE_OF,Social Interaction,topic,A taught first,,PSYC_2350_triples_raw.json
+PSYC_2350,Social Influence Processes,concept,PREREQUISITE_OF,Social Conflict,topic,A taught first,,PSYC_2350_triples_raw.json
+PSYC_2350,Social Influence Processes,concept,PART_OF,Attitude Change,topic,,,PSYC_2350_triples_raw.json
+PSYC_2350,Social Influence Processes,concept,PART_OF,Social Perception,topic,,,PSYC_2350_triples_raw.json
+PSYC_2350,Social Influence Processes,concept,PART_OF,Social Interaction,topic,,,PSYC_2350_triples_raw.json
+PSYC_2350,Social Influence Processes,concept,PART_OF,Social Conflict,topic,,,PSYC_2350_triples_raw.json

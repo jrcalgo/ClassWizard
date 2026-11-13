@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6171,scalable data pipelines,concept,PART_OF,Data Pipelines,topic,,,DSBA_6171_triples_raw.json
+DSBA_6171,verifiable source evidence,concept,PART_OF,Rule-Based Retrieval Mechanisms,topic,,,DSBA_6171_triples_raw.json
+DSBA_6171,integrated testing and version control,concept,PART_OF,Software Engineering Practices,topic,,,DSBA_6171_triples_raw.json
+DSBA_6171,professional delivery practices,concept,PART_OF,Software Engineering Practices,topic,,,DSBA_6171_triples_raw.json

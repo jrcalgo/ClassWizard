@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6273,infectious disease epidemiology,concept,USED_FOR,infectious diseases,topic,,,HLTH_6273_triples_raw.json
+HLTH_6273,infectious disease epidemiology,concept,USED_FOR,emerging and re-emerging infectious diseases,topic,,,HLTH_6273_triples_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5271,Machine Learning Basics,topic,PREREQUISITE_OF,Regularization Techniques Used,topic,A taught first,,ITIS_5271_triples_raw.json
+ITIS_5271,Machine Learning Basics,topic,PREREQUISITE_OF,Defenses Against Data Poisoning,topic,A taught first,,ITIS_5271_triples_raw.json
+ITIS_5271,Machine Learning Basics,topic,PREREQUISITE_OF,Privacy Threats in Machine Learning,topic,A taught first,,ITIS_5271_triples_raw.json
+ITIS_5271,Machine Learning Basics,topic,PREREQUISITE_OF,Anonymization and Pseudonymization,topic,A taught first,,ITIS_5271_triples_raw.json
+ITIS_5271,Machine Learning Basics,topic,PREREQUISITE_OF,Secure Multi-Party Computation,topic,A taught first,,ITIS_5271_triples_raw.json
+ITIS_5271,Machine Learning Basics,topic,PREREQUISITE_OF,Model Interpretability Methods,topic,A taught first,,ITIS_5271_triples_raw.json
+ITIS_5271,Machine Learning Basics,topic,PREREQUISITE_OF,Model-Agnostic Explanations,topic,A taught first,,ITIS_5271_triples_raw.json

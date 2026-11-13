@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_2241,topic,Multivariable Functions,Multivariable Functions,1,inferred,Multivariable Functions,MATH_2241_concepts_raw.json
+MATH_2241,topic,Partial Derivatives,Partial Derivatives,2,inferred,Partial Derivatives,MATH_2241_concepts_raw.json
+MATH_2241,topic,Multiple Integrals,Multiple Integrals,1,inferred,Multiple Integrals,MATH_2241_concepts_raw.json
+MATH_2241,topic,Vector Calculus,Vector Calculus,1,inferred,Vector Calculus,MATH_2241_concepts_raw.json
+MATH_2241,topic,Surface Integrals,Surface Integrals,1,inferred,Surface Integrals,MATH_2241_concepts_raw.json
+MATH_2241,concept,Vector-valued functions,Vector-valued functions,1,inferred,Vector-valued functions,MATH_2241_concepts_raw.json
+MATH_2241,concept,Domain and range,Domain and range,1,inferred,Domain and range,MATH_2241_concepts_raw.json
+MATH_2241,concept,Graphing techniques,Graphing techniques,1,inferred,Graphing techniques,MATH_2241_concepts_raw.json
+MATH_2241,concept,Partial derivative notation,Partial derivative notation,1,inferred,Partial derivative notation,MATH_2241_concepts_raw.json
+MATH_2241,concept,Higher-order partial derivatives,Higher-order partial derivatives,1,inferred,Higher-order partial derivatives,MATH_2241_concepts_raw.json
+MATH_2241,concept,Clairaut's theorem,Clairaut's theorem,1,inferred,Clairaut's theorem,MATH_2241_concepts_raw.json
+MATH_2241,concept,Iterated integrals,Iterated integrals,1,inferred,Iterated integrals,MATH_2241_concepts_raw.json
+MATH_2241,concept,Change of variables,Change of variables,1,inferred,Change of variables,MATH_2241_concepts_raw.json
+MATH_2241,concept,Gradient vector field,Gradient vector field,1,inferred,Gradient vector field,MATH_2241_concepts_raw.json
+MATH_2241,concept,Divergence theorem,Divergence theorem,1,inferred,Divergence theorem,MATH_2241_concepts_raw.json
+MATH_2241,concept,Curl of a vector field,Curl of a vector field,1,inferred,Curl of a vector field,MATH_2241_concepts_raw.json
+MATH_2241,concept,Surface area and normal vectors,Surface area and normal vectors,1,inferred,Surface area and normal vectors,MATH_2241_concepts_raw.json
+MATH_2241,concept,Stokes' theorem,Stokes' theorem,1,inferred,Stokes' theorem,MATH_2241_concepts_raw.json
+MATH_2241,concept,Gauss-Ostrogradsky theorem,Gauss-Ostrogradsky theorem,1,inferred,Gauss-Ostrogradsky theorem,MATH_2241_concepts_raw.json

@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_4165,topic,Principles of Biochemistry,Principles of Biochemistry,3,verified,Principles of Biochemistry,CHEM_4165_concepts_raw.json
+CHEM_4165,topic,Biochemistry,Biochemistry,3,verified,Introduction to Biochemistry,CHEM_4165_concepts_raw.json
+CHEM_4165,concept,major biological molecules,major biological molecules,1,verified,major biological molecules,CHEM_4165_concepts_raw.json
+CHEM_4165,concept,thermodynamics,thermodynamics,1,verified,thermodynamics,CHEM_4165_concepts_raw.json
+CHEM_4165,concept,kinetics,kinetics,1,verified,kinetics,CHEM_4165_concepts_raw.json

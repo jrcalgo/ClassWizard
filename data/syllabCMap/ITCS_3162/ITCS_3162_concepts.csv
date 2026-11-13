@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_3162,topic,Data Collection,Data Collection,1,verified,Data Collection,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Data Preprocessing,Data Preprocessing,1,verified,Data Preprocessing,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Data Exploration,Data Exploration,2,verified,Data Exploration,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Feature Engineering,Feature Engineering,1,verified,Feature Engineering,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Prediction Model,Prediction Model,1,verified,Prediction Model,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Clustering,Clustering,1,verified,Clustering,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Association Analysis,Association Analysis,1,verified,Association Analysis,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Graph/Network Analysis,Graph/Network Analysis,1,verified,Graph/Network Analysis,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Text Mining and Social Media Analysis,Text Mining and Social Media Analysis,1,verified,Text Mining and Social Media Analysis,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Anomaly Detection,Anomaly Detection,1,verified,Anomaly Detection,ITCS_3162_concepts_raw.json
+ITCS_3162,topic,Data Exploration and Visualization,data exploration and visualization,1,verified,Data Exploration and Visualization,ITCS_3162_concepts_raw.json
+ITCS_3162,concept,data mining,data mining,2,verified,data mining,ITCS_3162_concepts_raw.json
+ITCS_3162,concept,end-to-end data mining pipelines,end-to-end data mining pipelines,1,verified,end-to-end data mining pipelines,ITCS_3162_concepts_raw.json
+ITCS_3162,concept,real-world analytical problems,real-world analytical problems,1,verified,real-world analytical problems,ITCS_3162_concepts_raw.json
+ITCS_3162,method,formulate and execute end-to-end data mining pipelines,Formulate and execute end-to-end data mining pipelines,1,verified,formulate and execute end-to-end data mining pipelines,ITCS_3162_concepts_raw.json
+ITCS_3162,method,apply data exploration and visualization techniques,Apply data exploration and visualization techniques,1,verified,apply data exploration and visualization techniques,ITCS_3162_concepts_raw.json
+ITCS_3162,method,evaluate diverse machine learning algorithms,Evaluate diverse machine learning algorithms,1,verified,evaluate diverse machine learning algorithms,ITCS_3162_concepts_raw.json
+ITCS_3162,method,domain specific tasks,domain specific tasks,1,verified,implement appropriate models across varied datasets and domain specific tasks,ITCS_3162_concepts_raw.json
+ITCS_3162,method,extract,Extract,1,verified,"extract, interpret, and communicate actionable insights effectively",ITCS_3162_concepts_raw.json
+ITCS_3162,method,interpret,interpret,1,verified,"extract, interpret, and communicate actionable insights effectively",ITCS_3162_concepts_raw.json
+ITCS_3162,tool,Python,Python,1,verified,Python,ITCS_3162_concepts_raw.json

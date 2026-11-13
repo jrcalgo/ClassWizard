@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6160,topic,Database Systems,Database Systems,1,verified,Database Systems,ITCS_6160_concepts_raw.json
+ITCS_6160,concept,Relational DBMS,Relational DBMS,2,verified,Relational DBMS,ITCS_6160_concepts_raw.json
+ITCS_6160,concept,Relational Model,Relational Model,1,verified,Relational Model,ITCS_6160_concepts_raw.json
+ITCS_6160,concept,SQL query languages,SQL query languages,2,verified,SQL query languages,ITCS_6160_concepts_raw.json
+ITCS_6160,concept,Authorization,Authorization,1,verified,Authorization,ITCS_6160_concepts_raw.json
+ITCS_6160,tool,MySQL,MySQL,1,verified,MySQL,ITCS_6160_concepts_raw.json

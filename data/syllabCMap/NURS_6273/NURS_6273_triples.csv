@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_6273,Cellular Physiology,topic,PREREQUISITE_OF,Endocrine System,topic,B taught first,B is taught before A - check,NURS_6273_triples_raw.json
+NURS_6273,Cellular Physiology,topic,PREREQUISITE_OF,Disease and Intervention,topic,A taught first,,NURS_6273_triples_raw.json
+NURS_6273,Cellular Physiology,topic,PREREQUISITE_OF,Physiological Integration,topic,A taught first,,NURS_6273_triples_raw.json
+NURS_6273,Cardiovascular System,topic,PREREQUISITE_OF,Respiratory System,topic,A taught first,,NURS_6273_triples_raw.json
+NURS_6273,Cardiovascular System,topic,PREREQUISITE_OF,Renal System,topic,A taught first,,NURS_6273_triples_raw.json
+NURS_6273,Cardiovascular System,topic,PREREQUISITE_OF,Nervous System,topic,A taught first,,NURS_6273_triples_raw.json
+NURS_6273,Respiratory System,topic,PREREQUISITE_OF,Renal System,topic,A taught first,,NURS_6273_triples_raw.json
+NURS_6273,Respiratory System,topic,PREREQUISITE_OF,Nervous System,topic,A taught first,,NURS_6273_triples_raw.json
+NURS_6273,Renal System,topic,PREREQUISITE_OF,Nervous System,topic,A taught first,,NURS_6273_triples_raw.json
+NURS_6273,Heart Structure and Function,concept,PART_OF,Cardiovascular System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Blood Pressure Regulation,concept,PART_OF,Cardiovascular System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Vascular Resistance Control,concept,PART_OF,Cardiovascular System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Lung Anatomy and Physiology,concept,PART_OF,Respiratory System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Gas Exchange Mechanisms,concept,PART_OF,Respiratory System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Breathing Control Systems,concept,PART_OF,Respiratory System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Kidney Structure and Function,concept,PART_OF,Renal System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Fluid Balance Regulation,concept,PART_OF,Renal System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Electrolyte Balance Control,concept,PART_OF,Renal System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Neuron Structure and Function,concept,PART_OF,Nervous System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Synaptic Transmission Mechanisms,concept,PART_OF,Nervous System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Brain-Body Communication Systems,concept,PART_OF,Nervous System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Hormone Production and Regulation,concept,PART_OF,Endocrine System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Feedback Loops in Hormone Control,concept,PART_OF,Endocrine System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Hormonal Influence on Metabolism,concept,PART_OF,Endocrine System,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Cell Membrane Structure and Function,concept,PART_OF,Cellular Physiology,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Ion Channel Mechanisms,concept,PART_OF,Cellular Physiology,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Signal Transduction Pathways,concept,PART_OF,Cellular Physiology,topic,,,NURS_6273_triples_raw.json
+NURS_6273,System Interactions and Feedback Loops,concept,PART_OF,Physiological Integration,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Homeostatic Control Mechanisms,concept,PART_OF,Physiological Integration,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Adaptation to Stress and Disease,concept,PART_OF,Physiological Integration,topic,,,NURS_6273_triples_raw.json
+NURS_6273,Pharmacological Agent Effects on Systems,concept,PART_OF,Disease and Intervention,topic,,,NURS_6273_triples_raw.json

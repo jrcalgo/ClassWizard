@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4250,Bacterial Domains and Kingdoms,concept,PART_OF,Microbial Diversity,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Archaea Characteristics,concept,PART_OF,Microbial Diversity,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Fungal Types and Classification,concept,PART_OF,Microbial Diversity,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Cell Membrane Components,concept,PART_OF,Cell Structure and Function,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Cytoplasmic Streaming Mechanisms,concept,PART_OF,Cell Structure and Function,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Chromosomal Replication Processes,concept,PART_OF,Cell Structure and Function,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Aerobic Respiration Pathways,concept,PART_OF,Metabolism and Physiology,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Anaerobic Metabolic Processes,concept,PART_OF,Metabolism and Physiology,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Microbial Nutrient Acquisition,concept,PART_OF,Metabolism and Physiology,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Host-Pathogen Relationships,concept,PART_OF,Human-Microbe Interactions,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Commensal Microbiota Functions,concept,PART_OF,Human-Microbe Interactions,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Experimental Design Principles,concept,PART_OF,Scientific Data Analysis,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Statistical Inference Methods,concept,PART_OF,Scientific Data Analysis,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Public Health Microbiology,concept,PART_OF,Real-World Applications,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Environmental Microbiome Roles,concept,PART_OF,Real-World Applications,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Creative Problem-Solving Strategies,concept,PART_OF,Critical Thinking and Problem-Solving,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Evidence-Based Decision Making,concept,PART_OF,Critical Thinking and Problem-Solving,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Peer-Reviewed Journal Articles,concept,PART_OF,Source Evaluation and Critical Literacy,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Scientific Evidence vs. Claims,concept,PART_OF,Source Evaluation and Critical Literacy,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Critical Thinking in Media Sources,concept,PART_OF,Source Evaluation and Critical Literacy,topic,,,BIOL_4250_triples_raw.json
+BIOL_4250,Peer-Reviewed Journal Articles,concept,USED_FOR,Source Evaluation and Critical Literacy,topic,,,BIOL_4250_triples_raw.json

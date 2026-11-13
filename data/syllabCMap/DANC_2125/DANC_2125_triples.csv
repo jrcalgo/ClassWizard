@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_2125,fundamental movements,concept,PREREQUISITE_OF,dynamic alignment,concept,B mentioned first,,DANC_2125_triples_raw.json
+DANC_2125,fundamental movements,concept,PREREQUISITE_OF,torso pitched forward at the waist,concept,A mentioned first,,DANC_2125_triples_raw.json
+DANC_2125,fundamental movements,concept,PREREQUISITE_OF,toe-knee-hip alignment,concept,A mentioned first,,DANC_2125_triples_raw.json
+DANC_2125,fundamental movements,concept,PREREQUISITE_OF,knees bent,concept,A mentioned first,,DANC_2125_triples_raw.json
+DANC_2125,polycentrism,concept,PREREQUISITE_OF,polyrhythm,concept,A mentioned first,,DANC_2125_triples_raw.json
+DANC_2125,expression,concept,PREREQUISITE_OF,improvisation,concept,A mentioned first,,DANC_2125_triples_raw.json
+DANC_2125,fundamental movements,concept,PART_OF,African Dance Class,topic,,,DANC_2125_triples_raw.json
+DANC_2125,dynamic alignment,concept,PART_OF,African Dance Class,topic,,,DANC_2125_triples_raw.json
+DANC_2125,torso pitched forward at the waist,concept,PART_OF,fundamental movements,concept,,,DANC_2125_triples_raw.json
+DANC_2125,toe-knee-hip alignment,concept,PART_OF,fundamental movements,concept,,,DANC_2125_triples_raw.json
+DANC_2125,vertical bounce in the body,concept,PART_OF,fundamental movements,concept,,,DANC_2125_triples_raw.json
+DANC_2125,polycentrism,concept,PART_OF,African Dance Class,topic,,,DANC_2125_triples_raw.json
+DANC_2125,polyrhythm,concept,PART_OF,African Dance Class,topic,,,DANC_2125_triples_raw.json
+DANC_2125,expression,concept,PART_OF,improvisation,concept,,,DANC_2125_triples_raw.json
+DANC_2125,improvisation,concept,PART_OF,African Dance Class,topic,,,DANC_2125_triples_raw.json
+DANC_2125,spatial awareness,concept,PART_OF,African Dance Class,topic,,,DANC_2125_triples_raw.json
+DANC_2125,orientation to the earth,concept,PART_OF,fundamental movements,concept,,,DANC_2125_triples_raw.json
+DANC_2125,body isolations,concept,PART_OF,fundamental movements,concept,,,DANC_2125_triples_raw.json

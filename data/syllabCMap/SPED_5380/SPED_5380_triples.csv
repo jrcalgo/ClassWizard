@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_5380,severe disabilities,concept,PREREQUISITE_OF,program effectiveness evaluation,method,same unit,,SPED_5380_triples_raw.json
+SPED_5380,severe disabilities,concept,PREREQUISITE_OF,assistive technology strategies,method,A taught first,,SPED_5380_triples_raw.json
+SPED_5380,severe disabilities,concept,PREREQUISITE_OF,positive behavioral supports,method,A taught first,,SPED_5380_triples_raw.json
+SPED_5380,severe disabilities,concept,PREREQUISITE_OF,functional assessment techniques,method,A taught first,,SPED_5380_triples_raw.json
+SPED_5380,instructional program design,method,PART_OF,Multiple Disabilities and Systematic Instruction,topic,,,SPED_5380_triples_raw.json
+SPED_5380,systematic instruction principles,method,PART_OF,Multiple Disabilities and Systematic Instruction,topic,,,SPED_5380_triples_raw.json
+SPED_5380,program effectiveness evaluation,method,PART_OF,Multiple Disabilities and Systematic Instruction,topic,,,SPED_5380_triples_raw.json
+SPED_5380,advocacy for students with disabilities,method,PART_OF,Multiple Disabilities and Systematic Instruction,topic,,,SPED_5380_triples_raw.json
+SPED_5380,assistive technology strategies,method,PART_OF,Multiple Disabilities and Systematic Instruction,topic,,,SPED_5380_triples_raw.json
+SPED_5380,positive behavioral supports,method,PART_OF,Multiple Disabilities and Systematic Instruction,topic,,,SPED_5380_triples_raw.json
+SPED_5380,instructional program design,method,USED_FOR,severe disabilities,concept,,,SPED_5380_triples_raw.json
+SPED_5380,systematic instruction principles,method,USED_FOR,severe disabilities,concept,,,SPED_5380_triples_raw.json
+SPED_5380,program effectiveness evaluation,method,USED_FOR,severe disabilities,concept,,,SPED_5380_triples_raw.json
+SPED_5380,assistive technology strategies,method,USED_FOR,severe disabilities,concept,,,SPED_5380_triples_raw.json

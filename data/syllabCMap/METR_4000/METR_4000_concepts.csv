@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+METR_4000,topic,Broadcast meteorology,Broadcast meteorology,2,verified,Broadcast meteorology,METR_4000_concepts_raw.json
+METR_4000,concept,Baron Lynx graphic system,Baron Lynx graphic system,1,verified,Baron Lynx graphic system,METR_4000_concepts_raw.json
+METR_4000,method,Designing,design,2,verified,Designing and animating professional weather graphics,METR_4000_concepts_raw.json
+METR_4000,topic,Numerical Model Analysis,Numerical Model Analysis,1,inferred,Numerical Model Analysis,METR_4000_concepts_raw.json
+METR_4000,topic,Graphic Design Fundamentals,Graphic Design Fundamentals,1,inferred,Graphic Design Fundamentals,METR_4000_concepts_raw.json
+METR_4000,topic,On-Camera Presentation Skills,On-Camera Presentation Skills,1,inferred,On-Camera Presentation Skills,METR_4000_concepts_raw.json
+METR_4000,topic,Social Media in Meteorology,Social Media in Meteorology,1,inferred,Social Media in Meteorology,METR_4000_concepts_raw.json
+METR_4000,topic,Ethical Weather Reporting,Ethical Weather Reporting,1,inferred,Ethical Weather Reporting,METR_4000_concepts_raw.json
+METR_4000,topic,Team-Based Broadcast Simulations,Team-Based Broadcast Simulations,1,inferred,Team-Based Broadcast Simulations,METR_4000_concepts_raw.json
+METR_4000,concept,GFS model interpretation,GFS model interpretation,1,inferred,GFS model interpretation,METR_4000_concepts_raw.json
+METR_4000,concept,ECMWF model analysis,ECMWF model analysis,1,inferred,ECMWF model analysis,METR_4000_concepts_raw.json
+METR_4000,measure,Forecast accuracy metrics,Forecast accuracy metrics,1,inferred,Forecast accuracy metrics,METR_4000_concepts_raw.json
+METR_4000,concept,Radar overlay creation,Radar overlay creation,1,inferred,Radar overlay creation,METR_4000_concepts_raw.json
+METR_4000,concept,Severe weather alert design,Severe weather alert design,1,inferred,Severe weather alert design,METR_4000_concepts_raw.json
+METR_4000,concept,Chroma key wall techniques,Chroma key wall techniques,1,inferred,Chroma key wall techniques,METR_4000_concepts_raw.json
+METR_4000,concept,Video monitor integration,Video monitor integration,1,inferred,Video monitor integration,METR_4000_concepts_raw.json
+METR_4000,concept,Audience engagement strategies,Audience engagement strategies,1,inferred,Audience engagement strategies,METR_4000_concepts_raw.json
+METR_4000,concept,X/Twitter graphic uploads,X/Twitter graphic uploads,1,inferred,X/Twitter graphic uploads,METR_4000_concepts_raw.json
+METR_4000,concept,Instagram video sharing,Instagram video sharing,1,inferred,Instagram video sharing,METR_4000_concepts_raw.json
+METR_4000,concept,YouTube channel management,YouTube channel management,1,inferred,YouTube channel management,METR_4000_concepts_raw.json
+METR_4000,concept,Uncertainty handling protocols,Uncertainty handling protocols,1,inferred,Uncertainty handling protocols,METR_4000_concepts_raw.json
+METR_4000,concept,Public safety messaging guidelines,Public safety messaging guidelines,1,inferred,Public safety messaging guidelines,METR_4000_concepts_raw.json
+METR_4000,concept,Misinformation avoidance strategies,Misinformation avoidance strategies,1,inferred,Misinformation avoidance strategies,METR_4000_concepts_raw.json

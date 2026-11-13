@@ -1,0 +1,37 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_4210,Soil Taxonomy Fundamentals,topic,PREREQUISITE_OF,Soil Morphology Essentials,topic,A taught first,,ESCI_4210_triples_raw.json
+ESCI_4210,Soil Genesis Basics,topic,PREREQUISITE_OF,Surficial Processes Overview,topic,A taught first,,ESCI_4210_triples_raw.json
+ESCI_4210,Soil Morphology Essentials,topic,PREREQUISITE_OF,Soil-Geomorphology Relationships,topic,A taught first,,ESCI_4210_triples_raw.json
+ESCI_4210,Soil Genesis Basics,topic,PREREQUISITE_OF,Soil Taxonomy Fundamentals,topic,A taught first,,ESCI_4210_triples_raw.json
+ESCI_4210,soil formation processes,concept,PART_OF,Soil Genesis Basics,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,pedogenesis overview,concept,PART_OF,Soil Genesis Basics,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,weathering and erosion,concept,PART_OF,Soil Genesis Basics,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil parent material,concept,PART_OF,Soil Genesis Basics,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil family descriptions,concept,PART_OF,Soil Taxonomy Fundamentals,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil horizon description,concept,PART_OF,Soil Morphology Essentials,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,morphological features,concept,PART_OF,Soil Morphology Essentials,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil color and pattern,concept,PART_OF,Soil Morphology Essentials,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,geomorphic landscapes formation,concept,PART_OF,Surficial Processes Overview,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,sediment transport mechanisms,concept,PART_OF,Surficial Processes Overview,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,landform evolution models,concept,PART_OF,Surficial Processes Overview,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,map reading techniques,concept,PART_OF,Topographic Interpretation,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,topographic map symbols,concept,PART_OF,Topographic Interpretation,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,drainage patterns analysis,concept,PART_OF,Topographic Interpretation,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,pedogenic and geomorphic cycles,concept,PART_OF,Soil-Geomorphology Relationships,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,critical evaluation techniques,concept,PART_OF,Literature Review Fundamentals,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,research paper writing guidelines,concept,PART_OF,Literature Review Fundamentals,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,field measurement tools,concept,PART_OF,Field Methods and Techniques,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,topographic mapping exercises,concept,PART_OF,Field Methods and Techniques,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil classification system,concept,USED_FOR,Soil Taxonomy Fundamentals,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,taxonomic soil orders,concept,USED_FOR,Soil Taxonomy Fundamentals,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil family descriptions,concept,USED_FOR,Soil Taxonomy Fundamentals,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil horizon description,concept,USED_FOR,Soil Morphology Essentials,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,morphological features,concept,USED_FOR,Soil Morphology Essentials,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil texture and structure,concept,USED_FOR,Soil Morphology Essentials,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil color and pattern,concept,USED_FOR,Soil Morphology Essentials,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,sediment transport mechanisms,concept,USED_FOR,Surficial Processes Overview,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,landform evolution models,concept,USED_FOR,Surficial Processes Overview,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,map reading techniques,concept,USED_FOR,Topographic Interpretation,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,relief and elevation features,concept,USED_FOR,Topographic Interpretation,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,soil sampling strategies,concept,USED_FOR,Field Methods and Techniques,topic,,,ESCI_4210_triples_raw.json
+ESCI_4210,field measurement tools,concept,USED_FOR,Field Methods and Techniques,topic,,,ESCI_4210_triples_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4085,Imagery in Poetry,concept,PART_OF,Poetic Devices,topic,,,ENGL_4085_triples_raw.json
+ENGL_4085,Plot Development,concept,PART_OF,Narrative Structure,topic,,,ENGL_4085_triples_raw.json
+ENGL_4085,Characterization Methods,concept,PART_OF,Narrative Structure,topic,,,ENGL_4085_triples_raw.json
+ENGL_4085,Point of View,concept,PART_OF,Narrative Structure,topic,,,ENGL_4085_triples_raw.json
+ENGL_4085,Close Reading Techniques,concept,PART_OF,Literary Analysis,topic,,,ENGL_4085_triples_raw.json
+ENGL_4085,Analyzing Authorial Intent,concept,PART_OF,Literary Analysis,topic,,,ENGL_4085_triples_raw.json
+ENGL_4085,Critique of Literary Works,concept,PART_OF,Literary Analysis,topic,,,ENGL_4085_triples_raw.json
+ENGL_4085,Research Methods in English,concept,PART_OF,Research Methods,topic,,,ENGL_4085_triples_raw.json
+ENGL_4085,Evidence-Based Claims,concept,PART_OF,Argumentative Essay,topic,,,ENGL_4085_triples_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_6225,Civil Engineering System Failures,topic,PREREQUISITE_OF,Geotechnical System Failures,topic,A taught first,,CEGR_6225_triples_raw.json
+CEGR_6225,Civil Engineering System Failures,topic,PREREQUISITE_OF,Case Studies in Failure Analysis,topic,A taught first,,CEGR_6225_triples_raw.json
+CEGR_6225,Civil Engineering System Failures,topic,PREREQUISITE_OF,Application of Failure Analysis,topic,A taught first,,CEGR_6225_triples_raw.json
+CEGR_6225,Material Properties and Behavior,concept,PART_OF,Structural System Failures,topic,,,CEGR_6225_triples_raw.json
+CEGR_6225,Failure Modes in Structures,concept,PART_OF,Structural System Failures,topic,,,CEGR_6225_triples_raw.json
+CEGR_6225,HVAC,concept,PART_OF,Building Systems and Failures,topic,,,CEGR_6225_triples_raw.json
+CEGR_6225,Plumbing,concept,PART_OF,Building Systems and Failures,topic,,,CEGR_6225_triples_raw.json
+CEGR_6225,Fire Safety and Protection,concept,PART_OF,Building Systems and Failures,topic,,,CEGR_6225_triples_raw.json
+CEGR_6225,Soil Mechanics and Properties,concept,PART_OF,Geotechnical System Failures,topic,,,CEGR_6225_triples_raw.json
+CEGR_6225,Landslide and Slope Stability,concept,PART_OF,Geotechnical System Failures,topic,,,CEGR_6225_triples_raw.json
+CEGR_6225,Evidence Collection and Preservation,concept,PART_OF,Forensic Investigation Techniques,topic,,,CEGR_6225_triples_raw.json
+CEGR_6225,Witness Interviews and Statements,concept,PART_OF,Forensic Investigation Techniques,topic,,,CEGR_6225_triples_raw.json

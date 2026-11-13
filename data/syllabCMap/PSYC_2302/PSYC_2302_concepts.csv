@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_2302,topic,Positive Psychology,Positive Psychology,1,verified,Positive Psychology,PSYC_2302_concepts_raw.json
+PSYC_2302,topic,Positive Emotions and Well-being,Positive Emotions and Well-being,1,inferred,Positive Emotions and Well-being,PSYC_2302_concepts_raw.json
+PSYC_2302,topic,Flow and Engagement,Flow and Engagement,1,inferred,Flow and Engagement,PSYC_2302_concepts_raw.json
+PSYC_2302,topic,Positive Relationships and Social Connections,Positive Relationships and Social Connections,1,inferred,Positive Relationships and Social Connections,PSYC_2302_concepts_raw.json
+PSYC_2302,topic,Resilience and Post-Traumatic Growth,Resilience and Post-Traumatic Growth,1,inferred,Resilience and Post-Traumatic Growth,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Definition of Positive Psychology,Definition of Positive Psychology,1,inferred,Definition of Positive Psychology,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,History of Positive Psychology,History of Positive Psychology,1,inferred,History of Positive Psychology,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Key Principles and Theories,Key Principles and Theories,1,inferred,Key Principles and Theories,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Types of Positive Emotions,Types of Positive Emotions,1,inferred,Types of Positive Emotions,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Benefits of Positive Emotions,Benefits of Positive Emotions,1,inferred,Benefits of Positive Emotions,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Measuring Positive Emotions,Measuring Positive Emotions,1,inferred,Measuring Positive Emotions,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Definition of Flow State,Definition of Flow State,1,inferred,Definition of Flow State,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Characteristics of Flow Experience,Characteristics of Flow Experience,1,inferred,Characteristics of Flow Experience,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Benefits of Flow State,Benefits of Flow State,1,inferred,Benefits of Flow State,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Importance of Social Support,Importance of Social Support,1,inferred,Importance of Social Support,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Types of Positive Relationships,Types of Positive Relationships,1,inferred,Types of Positive Relationships,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Building Stronger Relationships,Building Stronger Relationships,1,inferred,Building Stronger Relationships,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Definition of Resilience,Definition of Resilience,1,inferred,Definition of Resilience,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Factors Influencing Resilience,Factors Influencing Resilience,1,inferred,Factors Influencing Resilience,PSYC_2302_concepts_raw.json
+PSYC_2302,concept,Post-Traumatic Growth Theories,Post-Traumatic Growth Theories,1,inferred,Post-Traumatic Growth Theories,PSYC_2302_concepts_raw.json

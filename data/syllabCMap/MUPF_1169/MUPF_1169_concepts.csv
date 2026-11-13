@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUPF_1169,topic,String Chamber Music,string chamber music,3,verified,String Chamber Music,MUPF_1169_concepts_raw.json
+MUPF_1169,topic,Chamber Music,Chamber Music,7,verified,Introduction to Chamber Music,MUPF_1169_concepts_raw.json
+MUPF_1169,topic,Collaborative Competence,collaborative competence,1,verified,Collaborative Competence,MUPF_1169_concepts_raw.json
+MUPF_1169,concept,rhythm,rhythm,1,verified,"rhythm, melody, harmony, structure, timbre, texture",MUPF_1169_concepts_raw.json
+MUPF_1169,concept,melody,melody,1,verified,"rhythm, melody, harmony, structure, timbre, texture",MUPF_1169_concepts_raw.json
+MUPF_1169,concept,harmony,harmony,1,verified,"rhythm, melody, harmony, structure, timbre, texture",MUPF_1169_concepts_raw.json
+MUPF_1169,concept,structure,structure,1,verified,"rhythm, melody, harmony, structure, timbre, texture",MUPF_1169_concepts_raw.json
+MUPF_1169,concept,timbre,timbre,1,verified,"rhythm, melody, harmony, structure, timbre, texture",MUPF_1169_concepts_raw.json
+MUPF_1169,concept,texture,texture,1,verified,"rhythm, melody, harmony, structure, timbre, texture",MUPF_1169_concepts_raw.json
+MUPF_1169,concept,String Chamber Music Repertoire,string chamber music repertoire,1,verified,String Chamber Music Repertoire,MUPF_1169_concepts_raw.json

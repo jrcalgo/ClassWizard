@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_1512,Nature of Death,concept,PREREQUISITE_OF,Personal Identity,concept,same unit,,PHIL_1512_triples_raw.json
+PHIL_1512,Nature of Death,concept,PART_OF,Death and Dying,topic,,,PHIL_1512_triples_raw.json
+PHIL_1512,Personal Identity,concept,PART_OF,Death and Dying,topic,,,PHIL_1512_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTE_2121,Differentiated Instruction,method,PREREQUISITE_OF,Cross-Curricular Connections in Art,concept,A taught first,,ARTE_2121_triples_raw.json
+ARTE_2121,Differentiated Instruction,method,PREREQUISITE_OF,Meaningful Integration of Content and Skills,concept,A taught first,,ARTE_2121_triples_raw.json
+ARTE_2121,Differentiated Instruction,method,PREREQUISITE_OF,Accommodating Special Needs Students,concept,same unit,,ARTE_2121_triples_raw.json
+ARTE_2121,Differentiated Instruction,method,PREREQUISITE_OF,Fostering Student Creativity in Art,concept,A taught first,,ARTE_2121_triples_raw.json
+ARTE_2121,Differentiated Instruction,method,PREREQUISITE_OF,Encouraging Self-Expression through Art,concept,A taught first,,ARTE_2121_triples_raw.json

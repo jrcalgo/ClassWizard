@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3121,topic,Coordinate Systems,coordinate systems,1,verified,Coordinate Systems,MEGR_3121_concepts_raw.json
+MEGR_3121,topic,Impulse-Momentum Principle,impulse-momentum principles,1,verified,Impulse-Momentum Principle,MEGR_3121_concepts_raw.json
+MEGR_3121,topic,Kinematics of Mechanisms,kinematics of mechanisms,1,verified,Kinematics of Mechanisms,MEGR_3121_concepts_raw.json
+MEGR_3121,topic,Kinematics Review,Kinematics Review,1,inferred,Kinematics Review,MEGR_3121_concepts_raw.json
+MEGR_3121,topic,Particle Dynamics,Particle Dynamics,1,inferred,Particle Dynamics,MEGR_3121_concepts_raw.json
+MEGR_3121,topic,Rigid Body Kinematics,Rigid Body Kinematics,1,inferred,Rigid Body Kinematics,MEGR_3121_concepts_raw.json
+MEGR_3121,topic,Work-Energy Principle,Work-Energy Principle,2,inferred,Work-Energy Principle,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Position and Velocity Vectors,Position and Velocity Vectors,1,inferred,Position and Velocity Vectors,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Acceleration in Rectangular Coordinates,Acceleration in Rectangular Coordinates,1,inferred,Acceleration in Rectangular Coordinates,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Relative Motion Analysis,Relative Motion Analysis,1,inferred,Relative Motion Analysis,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Newton's Second Law for Particles,Newton's Second Law for Particles,1,inferred,Newton's Second Law for Particles,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Work-Energy Principle for Particles,Work-Energy Principle for Particles,1,inferred,Work-Energy Principle for Particles,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Impulse-Momentum Principle for Particles,Impulse-Momentum Principle for Particles,1,inferred,Impulse-Momentum Principle for Particles,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Rectangular and Polar Coordinate Systems,Rectangular and Polar Coordinate Systems,1,inferred,Rectangular and Polar Coordinate Systems,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Cylindrical and Spherical Coordinate Systems,Cylindrical and Spherical Coordinate Systems,1,inferred,Cylindrical and Spherical Coordinate Systems,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Change of Basis in Coordinate Systems,Change of Basis in Coordinate Systems,1,inferred,Change of Basis in Coordinate Systems,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Translation and Rotation Matrices,Translation and Rotation Matrices,1,inferred,Translation and Rotation Matrices,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Angular Velocity and Acceleration,Angular Velocity and Acceleration,1,inferred,Angular Velocity and Acceleration,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Kinematic Equations for Rigid Bodies,Kinematic Equations for Rigid Bodies,1,inferred,Kinematic Equations for Rigid Bodies,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Kinetic Energy of Rigid Bodies,Kinetic Energy of Rigid Bodies,1,inferred,Kinetic Energy of Rigid Bodies,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Potential Energy of Rigid Bodies,Potential Energy of Rigid Bodies,1,inferred,Potential Energy of Rigid Bodies,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Conservation of Mechanical Energy,Conservation of Mechanical Energy,1,inferred,Conservation of Mechanical Energy,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Linear and Angular Momentum Principles,Linear and Angular Momentum Principles,1,inferred,Linear and Angular Momentum Principles,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Impulse-Momentum Equations for Rigid Bodies,Impulse-Momentum Equations for Rigid Bodies,1,inferred,Impulse-Momentum Equations for Rigid Bodies,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Collision Dynamics Analysis,Collision Dynamics Analysis,1,inferred,Collision Dynamics Analysis,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Linkage Kinematics and Dynamics,Linkage Kinematics and Dynamics,1,inferred,Linkage Kinematics and Dynamics,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Gear Trains and Cam Follower Systems,Gear Trains and Cam Follower Systems,1,inferred,Gear Trains and Cam Follower Systems,MEGR_3121_concepts_raw.json
+MEGR_3121,concept,Planar and Spatial Linkages,Planar and Spatial Linkages,1,inferred,Planar and Spatial Linkages,MEGR_3121_concepts_raw.json

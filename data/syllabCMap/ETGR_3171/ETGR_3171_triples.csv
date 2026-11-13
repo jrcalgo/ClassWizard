@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_3171,double integrals,concept,PART_OF,Engineering Analysis,topic,,,ETGR_3171_triples_raw.json
+ETGR_3171,higher-order linear differential equations,concept,PART_OF,Engineering Analysis,topic,,,ETGR_3171_triples_raw.json
+ETGR_3171,Laplace transforms,concept,PART_OF,Engineering Analysis,topic,,,ETGR_3171_triples_raw.json
+ETGR_3171,Matrices and Systems,topic,PART_OF,Engineering Analysis,topic,,,ETGR_3171_triples_raw.json

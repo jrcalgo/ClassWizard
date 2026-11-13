@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_1213,topic,Programming,programming,1,verified,Introduction to Programming,ITSC_1213_concepts_raw.json
+ITSC_1213,topic,Loops and Conditional Statements,Loops and Conditional Statements,1,inferred,Loops and Conditional Statements,ITSC_1213_concepts_raw.json
+ITSC_1213,topic,Arrays and Lists,Arrays and Lists,1,inferred,Arrays and Lists,ITSC_1213_concepts_raw.json
+ITSC_1213,topic,Object-Oriented Programming,Object-Oriented Programming,1,inferred,Object-Oriented Programming,ITSC_1213_concepts_raw.json
+ITSC_1213,topic,File Input/Output and Persistence,File Input/Output and Persistence,1,inferred,File Input/Output and Persistence,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Variables and Data Types,Variables and Data Types,1,inferred,Variables and Data Types,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Control Structures Basics,Control Structures Basics,1,inferred,Control Structures Basics,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Functions and Modules,Functions and Modules,1,inferred,Functions and Modules,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,For Loops and While Loops,For Loops and While Loops,1,inferred,For Loops and While Loops,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,If-Else Statements and Switches,If-Else Statements and Switches,1,inferred,If-Else Statements and Switches,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Loop Control and Breaks,Loop Control and Breaks,1,inferred,Loop Control and Breaks,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Array Initialization and Access,Array Initialization and Access,1,inferred,Array Initialization and Access,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,List Operations and Methods,List Operations and Methods,1,inferred,List Operations and Methods,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Indexing and Slicing,Indexing and Slicing,1,inferred,Indexing and Slicing,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Classes and Objects Basics,Classes and Objects Basics,1,inferred,Classes and Objects Basics,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Inheritance and Polymorphism,Inheritance and Polymorphism,1,inferred,Inheritance and Polymorphism,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Encapsulation and Abstraction,Encapsulation and Abstraction,1,inferred,Encapsulation and Abstraction,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Reading and Writing Files,Reading and Writing Files,1,inferred,Reading and Writing Files,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Serialization and Deserialization,Serialization and Deserialization,1,inferred,Serialization and Deserialization,ITSC_1213_concepts_raw.json
+ITSC_1213,concept,Data Storage and Retrieval,Data Storage and Retrieval,1,inferred,Data Storage and Retrieval,ITSC_1213_concepts_raw.json

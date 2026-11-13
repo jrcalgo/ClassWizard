@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_6162,topic,Data Preprocessing,Data Preprocessing,2,verified,Data Preprocessing,ITIS_6162_concepts_raw.json
+ITIS_6162,topic,Data Semantics,Data Semantics,2,verified,Data Semantics,ITIS_6162_concepts_raw.json
+ITIS_6162,topic,Granular Computing,Granular Computing,2,verified,Granular Computing,ITIS_6162_concepts_raw.json
+ITIS_6162,topic,Data Operations,Data Operations,2,verified,Data Operations,ITIS_6162_concepts_raw.json
+ITIS_6162,topic,Association/Representative Rules,Association/Representative Rules,2,verified,Association/Representative Rules,ITIS_6162_concepts_raw.json
+ITIS_6162,topic,Clustering,Clustering,2,verified,Clustering,ITIS_6162_concepts_raw.json
+ITIS_6162,topic,High Dimensional & Distributed Data Mining,High Dimensional & Distributed Data Mining,2,verified,High Dimensional & Distributed Data Mining,ITIS_6162_concepts_raw.json
+ITIS_6162,topic,Mining Incomplete Data,Mining Incomplete Data,2,verified,Mining Incomplete Data,ITIS_6162_concepts_raw.json
+ITIS_6162,topic,Dimensionality Reduction,Dimensionality Reduction,2,verified,Dimensionality Reduction,ITIS_6162_concepts_raw.json
+ITIS_6162,topic,Actionability,Actionability,2,verified,Actionability,ITIS_6162_concepts_raw.json

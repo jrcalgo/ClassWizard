@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5161,driver behavior patterns,concept,PREREQUISITE_OF,driver demographics analysis,concept,same unit,,CEGR_5161_triples_raw.json
+CEGR_5161,driver behavior patterns,concept,PREREQUISITE_OF,driver fatigue factors,concept,same unit,,CEGR_5161_triples_raw.json
+CEGR_5161,vehicle types and sizes,concept,PREREQUISITE_OF,vehicle emissions impact,concept,same unit,,CEGR_5161_triples_raw.json
+CEGR_5161,vehicle types and sizes,concept,PREREQUISITE_OF,vehicle safety features,concept,same unit,,CEGR_5161_triples_raw.json
+CEGR_5161,road geometry design,concept,PREREQUISITE_OF,road surface conditions,concept,same unit,,CEGR_5161_triples_raw.json
+CEGR_5161,road geometry design,concept,PREREQUISITE_OF,road capacity analysis,concept,same unit,,CEGR_5161_triples_raw.json
+CEGR_5161,intersection types and designs,concept,PREREQUISITE_OF,roundabout design considerations,concept,B taught first,B is taught before A - check,CEGR_5161_triples_raw.json
+CEGR_5161,intersection types and designs,concept,PREREQUISITE_OF,traffic signal timing optimization,concept,B taught first,B is taught before A - check,CEGR_5161_triples_raw.json
+CEGR_5161,driver behavior patterns,concept,PART_OF,Driver Characteristics,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,driver demographics analysis,concept,PART_OF,Driver Characteristics,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,driver fatigue factors,concept,PART_OF,Driver Characteristics,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,vehicle types and sizes,concept,PART_OF,Vehicle Characteristics,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,vehicle safety features,concept,PART_OF,Vehicle Characteristics,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,road geometry design,concept,PART_OF,Roadway Characteristics,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,road surface conditions,concept,PART_OF,Roadway Characteristics,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,road capacity analysis,concept,PART_OF,Roadway Characteristics,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,volume and density calculations,concept,PART_OF,Stream Flow Elements,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,speed distribution analysis,concept,PART_OF,Stream Flow Elements,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,flow rate measurements,concept,PART_OF,Stream Flow Elements,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,investigation techniques used,concept,PART_OF,Traffic Engineering Measurements,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,intersection capacity calculations,concept,PART_OF,Capacity Analysis,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,roundabout design considerations,concept,PART_OF,Capacity Analysis,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,traffic signal timing optimization,concept,PART_OF,Capacity Analysis,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,intersection types and designs,concept,PART_OF,Intersections and Accidents,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,accident causes and prevention,concept,PART_OF,Intersections and Accidents,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,safety countermeasures implemented,concept,PART_OF,Intersections and Accidents,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,parking demand and supply analysis,concept,PART_OF,Parking and Traffic Management,topic,,,CEGR_5161_triples_raw.json
+CEGR_5161,transportation system planning,concept,PART_OF,Parking and Traffic Management,topic,,,CEGR_5161_triples_raw.json

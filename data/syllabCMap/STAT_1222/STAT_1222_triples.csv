@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_1222,discrete and continuous random variables,topic,PREREQUISITE_OF,binomial,topic,B mentioned first,,STAT_1222_triples_raw.json
+STAT_1222,descriptive statistics,concept,PREREQUISITE_OF,estimation,topic,A taught first,,STAT_1222_triples_raw.json
+STAT_1222,descriptive statistics,concept,PREREQUISITE_OF,sampling,topic,A taught first,,STAT_1222_triples_raw.json
+STAT_1222,descriptive statistics,concept,PREREQUISITE_OF,data summarization,topic,A taught first,,STAT_1222_triples_raw.json
+STAT_1222,descriptive statistics,concept,PREREQUISITE_OF,confidence intervals,topic,A taught first,,STAT_1222_triples_raw.json
+STAT_1222,descriptive statistics,concept,PREREQUISITE_OF,testing hypotheses,topic,A mentioned first,,STAT_1222_triples_raw.json
+STAT_1222,Microsoft Excel,tool,USED_FOR,median,method,,,STAT_1222_triples_raw.json
+STAT_1222,Microsoft Excel,tool,USED_FOR,mode,method,,,STAT_1222_triples_raw.json
+STAT_1222,Microsoft Excel,tool,USED_FOR,standard deviation,method,,,STAT_1222_triples_raw.json

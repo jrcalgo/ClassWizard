@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4102,Alice's Adventures in Wonderland by Lewis Carroll,work,USED_FOR,American Children's literature,topic,,,ENGL_4102_triples_raw.json
+ENGL_4102,Wind in the Willows by Kenneth Grahame,work,USED_FOR,American Children's literature,topic,,,ENGL_4102_triples_raw.json
+ENGL_4102,Hobbit by J.R.R. Tolkien,work,USED_FOR,American Children's literature,topic,,,ENGL_4102_triples_raw.json
+ENGL_4102,Harry Potter and the Sorcerer's Stone by J.K. Rowling,work,USED_FOR,American Children's literature,topic,,,ENGL_4102_triples_raw.json

@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_4100,Team Formation Process,concept,PART_OF,Project Formation,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Client Expectations,concept,PART_OF,Project Formation,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Project Scope Definition,concept,PART_OF,Project Formation,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Engineering Design Principles,concept,PART_OF,Design Philosophy,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Standards and Regulations,concept,PART_OF,Design Philosophy,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Problem-Solving Strategies,concept,PART_OF,Design Philosophy,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Time Management Techniques,concept,PART_OF,Project Planning,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Budgeting and Cost Estimation,concept,PART_OF,Project Planning,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Risk Assessment Methods,concept,PART_OF,Project Planning,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Design Concept Development,concept,PART_OF,Conceptual Design,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Feasibility Studies,concept,PART_OF,Conceptual Design,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Alternative Solutions Evaluation,concept,PART_OF,Conceptual Design,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Design Package Preparation,concept,PART_OF,Preliminary Design Review,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Design Iteration Strategies,concept,PART_OF,Preliminary Design Review,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Project Progress Monitoring,concept,PART_OF,Progress Evaluations,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Performance Metrics Development,concept,PART_OF,Progress Evaluations,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Adjustment to Project Plan,concept,PART_OF,Progress Evaluations,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Design Package Completion,concept,PART_OF,Final Report Preparation,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Documentation and Reporting,concept,PART_OF,Final Report Preparation,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Presentation Techniques,concept,PART_OF,Final Report Preparation,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Communication Skills Development,concept,PART_OF,Expo Presentation,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Project Showcase Strategies,concept,PART_OF,Expo Presentation,topic,,,ETGR_4100_triples_raw.json
+ETGR_4100,Professional Networking Opportunities,concept,PART_OF,Expo Presentation,topic,,,ETGR_4100_triples_raw.json

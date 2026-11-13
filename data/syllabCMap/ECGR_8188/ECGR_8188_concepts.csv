@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_8188,topic,Wireless Network Simulation Tools,wireless network simulation tools,1,verified,Wireless Network Simulation Tools,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,wireless local area networks,wireless local area networks,1,verified,wireless local area networks,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,mobile ad hoc network,mobile ad hoc networks,4,verified,mobile ad hoc network,ECGR_8188_concepts_raw.json
+ECGR_8188,topic,Cellular Networks Fundamentals,Cellular Networks Fundamentals,1,inferred,Cellular Networks Fundamentals,ECGR_8188_concepts_raw.json
+ECGR_8188,topic,WLAN Fundamentals and Operations,WLAN Fundamentals and Operations,1,inferred,WLAN Fundamentals and Operations,ECGR_8188_concepts_raw.json
+ECGR_8188,topic,Ad Hoc Networking Basics,Ad Hoc Networking Basics,1,inferred,Ad Hoc Networking Basics,ECGR_8188_concepts_raw.json
+ECGR_8188,topic,Mobile Internet Fundamentals,Mobile Internet Fundamentals,1,inferred,Mobile Internet Fundamentals,ECGR_8188_concepts_raw.json
+ECGR_8188,topic,MAC Protocols for WLANs and MANETs,MAC Protocols for WLANs and MANETs,1,inferred,MAC Protocols for WLANs and MANETs,ECGR_8188_concepts_raw.json
+ECGR_8188,topic,Routing in Wireless Networks,Routing in Wireless Networks,1,inferred,Routing in Wireless Networks,ECGR_8188_concepts_raw.json
+ECGR_8188,topic,Reliable Transport in MANETs,Reliable Transport in MANETs,1,inferred,Reliable Transport in MANETs,ECGR_8188_concepts_raw.json
+ECGR_8188,topic,Emerging Wireless Technologies,Emerging Wireless Technologies,1,inferred,Emerging Wireless Technologies,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,cellular network basics,Cellular Network Basics,1,inferred,cellular network basics,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,network architecture overview,Network Architecture Overview,1,inferred,network architecture overview,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,wireless communication principles,Wireless Communication Principles,1,inferred,wireless communication principles,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,IEEE 802.11 standards,IEEE 802.11 standards,1,inferred,IEEE 802.11 standards,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,MAC protocol design principles,MAC Protocol Design Principles,1,inferred,MAC protocol design principles,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,network topology overview,Network Topology Overview,1,inferred,network topology overview,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,routing in ad hoc networks,Routing in Ad Hoc Networks,1,inferred,routing in ad hoc networks,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,mobile internet architecture,Mobile Internet Architecture,1,inferred,mobile internet architecture,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,wireless communication protocols,Wireless Communication Protocols,1,inferred,wireless communication protocols,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,internet access technologies,Internet Access Technologies,1,inferred,internet access technologies,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,IEEE 802.11 MAC design,IEEE 802.11 MAC design,1,inferred,IEEE 802.11 MAC design,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,MANET MAC protocol overview,MANET MAC Protocol Overview,1,inferred,MANET MAC protocol overview,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,collision avoidance techniques,Collision Avoidance Techniques,1,inferred,collision avoidance techniques,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,wireless routing protocols,Wireless Routing Protocols,1,inferred,wireless routing protocols,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,MANET routing algorithms,MANET Routing Algorithms,1,inferred,MANET routing algorithms,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,mobility management techniques,Mobility Management Techniques,1,inferred,mobility management techniques,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,transport layer protocols,Transport Layer Protocols,1,inferred,transport layer protocols,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,error detection and correction,Error Detection and Correction,1,inferred,error detection and correction,ECGR_8188_concepts_raw.json
+ECGR_8188,concept,flow control mechanisms,Flow Control Mechanisms,1,inferred,flow control mechanisms,ECGR_8188_concepts_raw.json

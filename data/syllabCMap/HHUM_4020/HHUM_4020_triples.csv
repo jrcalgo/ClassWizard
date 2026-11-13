@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HHUM_4020,Dementia,topic,PREREQUISITE_OF,Alzheimer's disease definition,concept,same unit,,HHUM_4020_triples_raw.json
+HHUM_4020,Dementia,topic,PREREQUISITE_OF,Prevalence of dementia worldwide,concept,same unit,,HHUM_4020_triples_raw.json
+HHUM_4020,Neurotransmitter imbalance theory,concept,PREREQUISITE_OF,Amyloid plaque formation process,concept,same unit,,HHUM_4020_triples_raw.json
+HHUM_4020,Neurotransmitter imbalance theory,concept,PREREQUISITE_OF,Tau protein aggregation mechanism,concept,same unit,,HHUM_4020_triples_raw.json
+HHUM_4020,Dementia types and causes,concept,PREREQUISITE_OF,Prevalence of dementia worldwide,concept,same unit,,HHUM_4020_triples_raw.json

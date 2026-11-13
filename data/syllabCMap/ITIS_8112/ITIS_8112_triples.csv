@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_8112,Project Scope Definition,concept,PART_OF,Software Project Planning,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Software Requirements Gathering,concept,PART_OF,Software Project Planning,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Risk Management Strategies,concept,PART_OF,Software Project Planning,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Design Patterns and Principles,concept,PART_OF,Software Design Process,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Human Computer Interaction,concept,PART_OF,Human Interface Aspects,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Usability Testing Techniques,concept,PART_OF,Human Interface Aspects,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Technical Writing Principles,concept,PART_OF,Software Documentation and Communication,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Effective Communication Strategies,concept,PART_OF,Software Documentation and Communication,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Programming Language Features,concept,PART_OF,Language Selection and Implementation,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Language Comparison and Evaluation,concept,PART_OF,Language Selection and Implementation,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Project Scheduling and Tracking,concept,PART_OF,Software Project Management,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Resource Allocation and Planning,concept,PART_OF,Software Project Management,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Team Leadership and Collaboration,concept,PART_OF,Software Project Management,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Code of Conduct and Ethics,concept,PART_OF,Professional Ethics and Responsibilities,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Modular and Structured Design,method,USED_FOR,Software Design Process,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Top-Down Design Methodology,method,USED_FOR,Software Design Process,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,User-Centered Design Approach,method,USED_FOR,Human Interface Aspects,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Agile Software Development,method,USED_FOR,Software Development Methodologies,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Iterative and Incremental Approaches,method,USED_FOR,Software Development Methodologies,topic,,,ITIS_8112_triples_raw.json
+ITIS_8112,Unit Testing and Integration,method,USED_FOR,Testing and Quality Assurance,topic,,,ITIS_8112_triples_raw.json

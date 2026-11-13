@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CTCM_2530,Alan Turing's Contributions,concept,PREREQUISITE_OF,Machine Learning Fundamentals,concept,same unit,,CTCM_2530_triples_raw.json
+CTCM_2530,Alan Turing's Contributions,concept,PREREQUISITE_OF,Neural Networks Basics,concept,same unit,,CTCM_2530_triples_raw.json
+CTCM_2530,History of AI Development,concept,PREREQUISITE_OF,AI Applications and Impact,concept,same unit,,CTCM_2530_triples_raw.json
+CTCM_2530,Machine Learning Fundamentals,concept,PREREQUISITE_OF,Bias in AI Systems,concept,A taught first,,CTCM_2530_triples_raw.json
+CTCM_2530,Machine Learning Fundamentals,concept,PREREQUISITE_OF,Ethics in AI Development,concept,A taught first,,CTCM_2530_triples_raw.json
+CTCM_2530,Machine Learning Fundamentals,concept,PREREQUISITE_OF,Philosophy of AI Existence,concept,A taught first,,CTCM_2530_triples_raw.json
+CTCM_2530,Artificial Intelligence,topic,PART_OF,AI in Film and Literature,concept,,part is broader than whole - check direction,CTCM_2530_triples_raw.json
+CTCM_2530,Artificial Intelligence,topic,PART_OF,AI in Music and Art,concept,,part is broader than whole - check direction,CTCM_2530_triples_raw.json
+CTCM_2530,Artificial Intelligence,topic,PART_OF,AI in Popular Culture,concept,,part is broader than whole - check direction,CTCM_2530_triples_raw.json
+CTCM_2530,Artificial Intelligence,topic,PART_OF,AI in Healthcare and Medicine,concept,,part is broader than whole - check direction,CTCM_2530_triples_raw.json
+CTCM_2530,Artificial Intelligence,topic,PART_OF,AI in Education and Learning,concept,,part is broader than whole - check direction,CTCM_2530_triples_raw.json
+CTCM_2530,Artificial Intelligence,topic,PART_OF,AI in Business and Economy,concept,,part is broader than whole - check direction,CTCM_2530_triples_raw.json

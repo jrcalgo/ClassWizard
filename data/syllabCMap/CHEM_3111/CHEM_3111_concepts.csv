@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_3111,topic,Quantitative Analysis,Quantitative Analysis,2,verified,Quantitative Analysis,CHEM_3111_concepts_raw.json
+CHEM_3111,concept,safe laboratory practices,safe laboratory practices,1,verified,safe laboratory practices,CHEM_3111_concepts_raw.json
+CHEM_3111,concept,clean laboratory glassware,clean laboratory glassware,1,verified,clean laboratory glassware,CHEM_3111_concepts_raw.json
+CHEM_3111,concept,partial drops from burets,partial drops from burets,1,verified,partial drops from burets,CHEM_3111_concepts_raw.json
+CHEM_3111,concept,sources of experimental uncertainty,sources of experimental uncertainty,1,verified,sources of experimental uncertainty,CHEM_3111_concepts_raw.json
+CHEM_3111,method,diluting solutions,diluting solutions,1,verified,diluting solutions,CHEM_3111_concepts_raw.json
+CHEM_3111,method,correcting concentrations for thermal expansion,correcting concentrations for thermal expansion,1,verified,correcting concentrations for thermal expansion,CHEM_3111_concepts_raw.json
+CHEM_3111,method,delivering partial drops from burets,delivering partial drops from burets,1,verified,delivering partial drops from burets,CHEM_3111_concepts_raw.json
+CHEM_3111,method,using spreadsheets for routine calculations,Using spreadsheets for routine calculations,1,verified,using spreadsheets for routine calculations,CHEM_3111_concepts_raw.json
+CHEM_3111,method,statistical data analysis,statistical data analysis,1,verified,statistical data analysis,CHEM_3111_concepts_raw.json
+CHEM_3111,tool,analytical balances,analytical balances,1,verified,analytical balances,CHEM_3111_concepts_raw.json
+CHEM_3111,tool,transfer pipets,transfer pipets,1,verified,transfer pipets,CHEM_3111_concepts_raw.json
+CHEM_3111,tool,volumetric flasks,volumetric flasks,1,verified,volumetric flasks,CHEM_3111_concepts_raw.json
+CHEM_3111,tool,pH electrodes,pH electrodes,1,verified,pH electrodes,CHEM_3111_concepts_raw.json
+CHEM_3111,tool,UV-Vis spectrophotometer,UV-Vis spectrophotometer,1,verified,UV-Vis spectrophotometer,CHEM_3111_concepts_raw.json

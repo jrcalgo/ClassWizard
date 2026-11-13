@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2289,hand gages,tool,PART_OF,surface instruments,tool,,,MEGR_2289_triples_raw.json
+MEGR_2289,structured light scanners,tool,USED_FOR,Precision Engineering and Metrology,topic,,,MEGR_2289_triples_raw.json
+MEGR_2289,hand gages,tool,USED_FOR,Precision Engineering and Metrology,topic,,,MEGR_2289_triples_raw.json
+MEGR_2289,surface instruments,tool,USED_FOR,Precision Engineering and Metrology,topic,,,MEGR_2289_triples_raw.json

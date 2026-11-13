@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+READ_3224,Foundational Literacy Skills,topic,PREREQUISITE_OF,Code-Based Reading Processes,topic,same unit,,READ_3224_triples_raw.json
+READ_3224,Foundational Literacy Skills,topic,PREREQUISITE_OF,Concepts About Print,topic,A taught first,,READ_3224_triples_raw.json
+READ_3224,Foundational Literacy Skills,topic,PREREQUISITE_OF,Alphabetic Principles,topic,A taught first,,READ_3224_triples_raw.json
+READ_3224,Foundational Literacy Skills,topic,PREREQUISITE_OF,Phonics and Spelling,topic,A taught first,,READ_3224_triples_raw.json
+READ_3224,Foundational Literacy Skills,topic,PREREQUISITE_OF,High Frequency Words,topic,A taught first,,READ_3224_triples_raw.json
+READ_3224,Foundational Literacy Skills,topic,PREREQUISITE_OF,Assessment-Based Instruction,topic,A taught first,,READ_3224_triples_raw.json
+READ_3224,Foundational Literacy Skills,topic,PREREQUISITE_OF,Meeting the Needs of All Learners,topic,A taught first,,READ_3224_triples_raw.json
+READ_3224,Concepts About Print,topic,PART_OF,Code-Based Reading Processes,topic,,,READ_3224_triples_raw.json
+READ_3224,Alphabetic Principles,topic,PART_OF,Code-Based Reading Processes,topic,,,READ_3224_triples_raw.json
+READ_3224,Phonics and Spelling,topic,PART_OF,Code-Based Reading Processes,topic,,,READ_3224_triples_raw.json
+READ_3224,High Frequency Words,topic,PART_OF,Code-Based Reading Processes,topic,,,READ_3224_triples_raw.json
+READ_3224,Assessment-Based Instruction,topic,PART_OF,Code-Based Reading Processes,topic,,,READ_3224_triples_raw.json
+READ_3224,Meeting the Needs of All Learners,topic,PART_OF,Code-Based Reading Processes,topic,,,READ_3224_triples_raw.json

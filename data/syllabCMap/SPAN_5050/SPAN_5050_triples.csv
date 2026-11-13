@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_5050,Spanish Critical Linguistics,topic,PREREQUISITE_OF,Linguistic Hierarchies in Latin America,topic,A taught first,,SPAN_5050_triples_raw.json
+SPAN_5050,Spanish in Contact with Sign Languages,concept,PREREQUISITE_OF,Linguistic Hierarchies in Latin America,topic,same unit,,SPAN_5050_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TESL_6206,Communities,topic,PART_OF,Globalization,topic,,,TESL_6206_triples_raw.json
+TESL_6206,Schools,topic,PART_OF,Globalization,topic,,,TESL_6206_triples_raw.json
+TESL_6206,Immigration,topic,PART_OF,Globalization,topic,,,TESL_6206_triples_raw.json
+TESL_6206,Transnationalism,topic,PART_OF,Globalization,topic,,,TESL_6206_triples_raw.json
+TESL_6206,Globalization and Education,concept,PART_OF,Globalization,topic,,,TESL_6206_triples_raw.json

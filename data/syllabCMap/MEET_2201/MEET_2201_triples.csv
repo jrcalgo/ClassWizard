@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_2201,Material Treatments,topic,PART_OF,Applied Engineering Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,material surface modification,concept,PART_OF,Material Treatments,topic,,,MEET_2201_triples_raw.json
+MEET_2201,composite material testing methods,concept,PART_OF,Composite Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,plastic material testing methods,concept,PART_OF,Plastic Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,ceramic processing techniques,concept,PART_OF,Ceramic Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,heat treatment processes,concept,PART_OF,Material Treatments,topic,,,MEET_2201_triples_raw.json
+MEET_2201,surface coating techniques,concept,PART_OF,Material Treatments,topic,,,MEET_2201_triples_raw.json
+MEET_2201,tensile testing and results,concept,PART_OF,Material Testing Methods,topic,,,MEET_2201_triples_raw.json
+MEET_2201,hardness testing and applications,concept,PART_OF,Material Testing Methods,topic,,,MEET_2201_triples_raw.json
+MEET_2201,impact testing and analysis,concept,PART_OF,Material Testing Methods,topic,,,MEET_2201_triples_raw.json
+MEET_2201,material properties importance,concept,USED_FOR,Applied Engineering Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,steel properties and applications,concept,USED_FOR,Metallic Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,ceramic material properties,concept,USED_FOR,Ceramic Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,alumina and silica applications,concept,USED_FOR,Ceramic Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,fiber reinforced polymers,concept,USED_FOR,Composite Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,matrix material selection criteria,concept,USED_FOR,Composite Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,composite material testing methods,concept,USED_FOR,Composite Materials,topic,,,MEET_2201_triples_raw.json
+MEET_2201,hardness testing and applications,concept,USED_FOR,Material Testing Methods,topic,,,MEET_2201_triples_raw.json
+MEET_2201,impact testing and analysis,concept,USED_FOR,Material Testing Methods,topic,,,MEET_2201_triples_raw.json

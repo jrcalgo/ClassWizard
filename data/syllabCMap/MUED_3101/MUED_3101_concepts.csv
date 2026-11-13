@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUED_3101,topic,Computer-Aided Instruction,computer-aided instruction,1,verified,Computer-Aided Instruction,MUED_3101_concepts_raw.json
+MUED_3101,topic,Music Tech,Music Tech,1,inferred,Music Tech,MUED_3101_concepts_raw.json
+MUED_3101,topic,Digital Audio Processes,Digital Audio Processes,1,inferred,Digital Audio Processes,MUED_3101_concepts_raw.json
+MUED_3101,topic,MIDI and Music Technology,MIDI and Music Technology,1,inferred,MIDI and Music Technology,MUED_3101_concepts_raw.json
+MUED_3101,topic,Music Notation Software,Music Notation Software,1,inferred,Music Notation Software,MUED_3101_concepts_raw.json
+MUED_3101,topic,World Musics and Digital Resources,World Musics and Digital Resources,1,inferred,World Musics and Digital Resources,MUED_3101_concepts_raw.json
+MUED_3101,topic,Artificial Intelligence in Music,Artificial Intelligence in Music,1,inferred,Artificial Intelligence in Music,MUED_3101_concepts_raw.json
+MUED_3101,topic,Technology Integration Strategies,Technology Integration Strategies,1,inferred,Technology Integration Strategies,MUED_3101_concepts_raw.json
+MUED_3101,topic,Praxis Exam Preparation,Praxis Exam Preparation,1,inferred,Praxis Exam Preparation,MUED_3101_concepts_raw.json
+MUED_3101,topic,Project Development and Implementation,Project Development and Implementation,1,inferred,Project Development and Implementation,MUED_3101_concepts_raw.json
+MUED_3101,concept,sound properties and teaching,Sound Properties and Teaching,1,inferred,sound properties and teaching,MUED_3101_concepts_raw.json
+MUED_3101,concept,digital audio basics,Digital Audio Basics,1,inferred,digital audio basics,MUED_3101_concepts_raw.json
+MUED_3101,concept,music notation fundamentals,Music Notation Fundamentals,1,inferred,music notation fundamentals,MUED_3101_concepts_raw.json
+MUED_3101,concept,recording and editing techniques,Recording and Editing Techniques,1,inferred,recording and editing techniques,MUED_3101_concepts_raw.json
+MUED_3101,concept,audio effects and processing,Audio Effects and Processing,1,inferred,audio effects and processing,MUED_3101_concepts_raw.json
+MUED_3101,concept,multitrack recording methods,Multitrack Recording Methods,1,inferred,multitrack recording methods,MUED_3101_concepts_raw.json
+MUED_3101,concept,MIDI basics and applications,MIDI Basics and Applications,1,inferred,MIDI basics and applications,MUED_3101_concepts_raw.json
+MUED_3101,concept,sequencing software overview,Sequencing Software Overview,1,inferred,sequencing software overview,MUED_3101_concepts_raw.json
+MUED_3101,concept,controller and interface options,Controller and Interface Options,1,inferred,controller and interface options,MUED_3101_concepts_raw.json
+MUED_3101,concept,notation software features,Notation Software Features,1,inferred,notation software features,MUED_3101_concepts_raw.json
+MUED_3101,concept,score editing techniques,Score Editing Techniques,1,inferred,score editing techniques,MUED_3101_concepts_raw.json
+MUED_3101,concept,part extraction methods,Part Extraction Methods,1,inferred,part extraction methods,MUED_3101_concepts_raw.json
+MUED_3101,concept,interactive music lessons,Interactive Music Lessons,1,inferred,interactive music lessons,MUED_3101_concepts_raw.json
+MUED_3101,concept,assessment and feedback tools,Assessment and Feedback Tools,1,inferred,assessment and feedback tools,MUED_3101_concepts_raw.json
+MUED_3101,concept,student engagement strategies,Student Engagement Strategies,1,inferred,student engagement strategies,MUED_3101_concepts_raw.json
+MUED_3101,concept,digital resources for world musics,Digital Resources for World Musics,1,inferred,digital resources for world musics,MUED_3101_concepts_raw.json
+MUED_3101,concept,cultural context and understanding,Cultural Context and Understanding,1,inferred,cultural context and understanding,MUED_3101_concepts_raw.json
+MUED_3101,concept,presentation techniques and ideas,Presentation Techniques and Ideas,1,inferred,presentation techniques and ideas,MUED_3101_concepts_raw.json
+MUED_3101,concept,AI music generation tools,AI Music Generation Tools,1,inferred,AI music generation tools,MUED_3101_concepts_raw.json
+MUED_3101,concept,music analysis and composition,Music Analysis and Composition,1,inferred,music analysis and composition,MUED_3101_concepts_raw.json
+MUED_3101,concept,integrating AI into lesson plans,Integrating AI into Lesson Plans,1,inferred,integrating AI into lesson plans,MUED_3101_concepts_raw.json
+MUED_3101,concept,effective technology use in classrooms,Effective Technology Use in Classrooms,1,inferred,effective technology use in classrooms,MUED_3101_concepts_raw.json
+MUED_3101,concept,student-centered learning approaches,Student-Centered Learning Approaches,1,inferred,student-centered learning approaches,MUED_3101_concepts_raw.json
+MUED_3101,concept,assessment and feedback methods,Assessment and Feedback Methods,1,inferred,assessment and feedback methods,MUED_3101_concepts_raw.json

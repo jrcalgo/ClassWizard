@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HPSY_8107,ethics,concept,PREREQUISITE_OF,APA ethical code for Psychologists,concept,A mentioned first,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,PREREQUISITE_OF,supervision,concept,A taught first,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,PREREQUISITE_OF,cultural humility and curiosity,concept,A taught first,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,PREREQUISITE_OF,data management,concept,A taught first,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,PREREQUISITE_OF,dual relationships,concept,A taught first,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,PREREQUISITE_OF,conflicts of interest,concept,A taught first,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,PREREQUISITE_OF,peer review,concept,A taught first,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,PREREQUISITE_OF,collaboration,concept,A taught first,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,PREREQUISITE_OF,research misconduct,concept,A taught first,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,USED_FOR,APA ethical code for Psychologists,concept,,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,USED_FOR,supervision,concept,,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,USED_FOR,cultural humility and curiosity,concept,,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,USED_FOR,data management,concept,,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,USED_FOR,dual relationships,concept,,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,USED_FOR,conflicts of interest,concept,,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,USED_FOR,peer review,concept,,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,USED_FOR,collaboration,concept,,,HPSY_8107_triples_raw.json
+HPSY_8107,ethics,concept,USED_FOR,research misconduct,concept,,,HPSY_8107_triples_raw.json

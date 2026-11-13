@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_2372,regression analysis,method,USED_FOR,Causal Inference,concept,,,GRNT_2372_triples_raw.json
+GRNT_2372,regression analysis,method,USED_FOR,Random sampling,concept,,,GRNT_2372_triples_raw.json

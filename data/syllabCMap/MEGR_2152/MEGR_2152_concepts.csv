@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2152,topic,CAD for Mechanical Engineers,CAD for Mechanical Engineers,1,verified,CAD for Mechanical Engineers,MEGR_2152_concepts_raw.json
+MEGR_2152,topic,CAD,CAD,1,verified,Introduction to CAD,MEGR_2152_concepts_raw.json
+MEGR_2152,topic,2D Sketching Fundamentals,2D Sketching Fundamentals,1,inferred,2D Sketching Fundamentals,MEGR_2152_concepts_raw.json
+MEGR_2152,topic,2D Drawing Techniques,2D Drawing Techniques,1,inferred,2D Drawing Techniques,MEGR_2152_concepts_raw.json
+MEGR_2152,topic,3D Modeling Basics,3D Modeling Basics,1,inferred,3D Modeling Basics,MEGR_2152_concepts_raw.json
+MEGR_2152,topic,Assembly and Part Design,Assembly and Part Design,1,inferred,Assembly and Part Design,MEGR_2152_concepts_raw.json
+MEGR_2152,topic,Mechanical Drawing Standards,Mechanical Drawing Standards,1,inferred,Mechanical Drawing Standards,MEGR_2152_concepts_raw.json
+MEGR_2152,topic,Advanced CAD Techniques,Advanced CAD Techniques,1,inferred,Advanced CAD Techniques,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,CAD software overview,CAD software overview,1,inferred,CAD software overview,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Geometric constraints and relations,Geometric constraints and relations,1,inferred,Geometric constraints and relations,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Dimensioning and tolerancing,Dimensioning and tolerancing,2,inferred,Dimensioning and tolerancing,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Sketch entities and operations,Sketch entities and operations,1,inferred,Sketch entities and operations,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Drawing views and projections,Drawing views and projections,1,inferred,Drawing views and projections,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Section views and details,Section views and details,1,inferred,Section views and details,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Annotation and labeling,Annotation and labeling,1,inferred,Annotation and labeling,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Creating 3D sketches and solids,Creating 3D sketches and solids,1,inferred,Creating 3D sketches and solids,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Extrusions and sweeps,Extrusions and sweeps,1,inferred,Extrusions and sweeps,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Lofting and blending,Lofting and blending,1,inferred,Lofting and blending,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Assembling parts and components,Assembling parts and components,1,inferred,Assembling parts and components,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Design for manufacturability,Design for manufacturability,1,inferred,Design for manufacturability,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Material properties and selection,Material properties and selection,1,inferred,Material properties and selection,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,ANSI Y14.5 drawing standards,ANSI Y14.5 drawing standards,1,inferred,ANSI Y14.5 drawing standards,MEGR_2152_concepts_raw.json
+MEGR_2152,method,Parametric modeling and design,Parametric modeling and design,1,inferred,Parametric modeling and design,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Kinematic and dynamic analysis,Kinematic and dynamic analysis,1,inferred,Kinematic and dynamic analysis,MEGR_2152_concepts_raw.json
+MEGR_2152,concept,Simulation and analysis tools,Simulation and analysis tools,1,inferred,Simulation and analysis tools,MEGR_2152_concepts_raw.json
+MEGR_2152,method,Importing and exporting files,Importing and exporting files,1,inferred,Importing and exporting files,MEGR_2152_concepts_raw.json
+MEGR_2152,method,Basic navigation techniques,Basic navigation techniques,1,inferred,Basic navigation techniques,MEGR_2152_concepts_raw.json
+MEGR_2152,method,Dimensioning and tolerancing practices,Dimensioning and tolerancing practices,1,inferred,Dimensioning and tolerancing practices,MEGR_2152_concepts_raw.json
+MEGR_2152,method,Drawing notation and symbols,Drawing notation and symbols,1,inferred,Drawing notation and symbols,MEGR_2152_concepts_raw.json

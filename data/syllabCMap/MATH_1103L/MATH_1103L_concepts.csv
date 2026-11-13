@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_1103L,topic,Algebraic Expressions,algebraic expressions,3,verified,Algebraic Expressions,MATH_1103L_concepts_raw.json
+MATH_1103L,topic,Interval Notation,interval notation,1,verified,Interval Notation,MATH_1103L_concepts_raw.json
+MATH_1103L,topic,Function Notation,function notation,1,verified,Function Notation,MATH_1103L_concepts_raw.json
+MATH_1103L,topic,Rational Expressions,rational expressions,1,verified,Rational Expressions,MATH_1103L_concepts_raw.json
+MATH_1103L,concept,Classify numbers and polynomials,Classify numbers and polynomials,1,verified,Classify numbers and polynomials,MATH_1103L_concepts_raw.json
+MATH_1103L,concept,Use correct terminology to describe algebraic expressions,use correct terminology to describe algebraic expressions,1,verified,Use correct terminology to describe algebraic expressions,MATH_1103L_concepts_raw.json
+MATH_1103L,concept,Use interval notation to de scribe domains,Use interval notation to de scribe domains,1,verified,Use interval notation to de scribe domains,MATH_1103L_concepts_raw.json
+MATH_1103L,concept,Use laws of exponents to simplify algebraic expressions,Use laws of exponents to simplify algebraic expressions,1,verified,Use laws of exponents to simplify algebraic expressions,MATH_1103L_concepts_raw.json
+MATH_1103L,concept,Properly add,Properly add,1,verified,"Properly add, subtract and multiply polynomials",MATH_1103L_concepts_raw.json
+MATH_1103L,concept,subtract,subtract,1,verified,"Properly add, subtract and multiply polynomials",MATH_1103L_concepts_raw.json
+MATH_1103L,concept,multiply polynomials,multiply polynomials,1,verified,"Properly add, subtract and multiply polynomials",MATH_1103L_concepts_raw.json
+MATH_1103L,concept,Factor algebraic expressions by greatest common factor,Factor algebraic expressions by greatest common factor,1,verified,Factor algebraic expressions by greatest common factor,MATH_1103L_concepts_raw.json
+MATH_1103L,concept,Read and use function notation,Read and use function notation,1,verified,Read and use function notation,MATH_1103L_concepts_raw.json
+MATH_1103L,concept,Simplify rational expressions,Simplify rational expressions,1,verified,Simplify rational expressions,MATH_1103L_concepts_raw.json

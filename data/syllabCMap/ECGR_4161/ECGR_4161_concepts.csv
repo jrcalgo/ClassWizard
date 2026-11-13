@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4161,topic,Robotics,Robotics,2,verified,Introduction to Robotics,ECGR_4161_concepts_raw.json
+ECGR_4161,topic,Motion Trajectory Planning,motion trajectory planning,1,verified,Motion Trajectory Planning,ECGR_4161_concepts_raw.json
+ECGR_4161,topic,Autonomy and Control,Autonomy and Control,1,verified,Autonomy and Control,ECGR_4161_concepts_raw.json
+ECGR_4161,topic,Low-Level Robot Control,Low-Level Robot Control,1,verified,Low-Level Robot Control,ECGR_4161_concepts_raw.json
+ECGR_4161,topic,Software Architectures,Software Architectures,1,verified,Software Architectures,ECGR_4161_concepts_raw.json
+ECGR_4161,concept,General Concepts of System Engineering,general Concepts of System Engineering,1,verified,General Concepts of System Engineering,ECGR_4161_concepts_raw.json
+ECGR_4161,method,servos,servos,1,verified,"Designing motion sub-systems (DC motors, servos, steppers, linear actuators) and integrating them in a robot",ECGR_4161_concepts_raw.json
+ECGR_4161,method,steppers,steppers,1,verified,"Designing motion sub-systems (DC motors, servos, steppers, linear actuators) and integrating them in a robot",ECGR_4161_concepts_raw.json
+ECGR_4161,method,linear actuators,linear actuators,1,verified,"Designing motion sub-systems (DC motors, servos, steppers, linear actuators) and integrating them in a robot",ECGR_4161_concepts_raw.json
+ECGR_4161,concept,Autonomy and Control in Animals and Robots,Autonomy and Control in Animals and Robots,1,verified,Autonomy and Control in Animals and Robots,ECGR_4161_concepts_raw.json
+ECGR_4161,concept,Control and Regulation in Biological Systems,Control and Regulation in Biological Systems,1,verified,Control and Regulation in Biological Systems,ECGR_4161_concepts_raw.json
+ECGR_4161,concept,Software Architectures for Autonomous Robots,Software Architectures for Autonomous Robots,1,verified,Software Architectures for Autonomous Robots,ECGR_4161_concepts_raw.json

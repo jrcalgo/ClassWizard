@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_3140,design thinking process,concept,PART_OF,User Experience Methods,topic,,,ITIS_3140_triples_raw.json
+ITIS_3140,design thinking process,concept,PART_OF,UX Design,topic,,,ITIS_3140_triples_raw.json
+ITIS_3140,heuristic evaluations,method,USED_FOR,usability testing,method,,,ITIS_3140_triples_raw.json

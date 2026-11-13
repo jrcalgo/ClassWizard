@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETGR_4200,topic,Engineering major or minor,Engineering major or minor,1,verified,Engineering major or minor,ETGR_4200_concepts_raw.json
+ETGR_4200,topic,Design Philosophy,design philosophies,1,verified,Design Philosophy,ETGR_4200_concepts_raw.json
+ETGR_4200,topic,Project Management,project management,1,verified,Project Management,ETGR_4200_concepts_raw.json
+ETGR_4200,topic,Team Problem-Solving,team problem-solving,1,verified,Team Problem-Solving,ETGR_4200_concepts_raw.json
+ETGR_4200,topic,Team Formation,Team Formation,1,inferred,Team Formation,ETGR_4200_concepts_raw.json
+ETGR_4200,topic,Prototype Development,Prototype Development,1,inferred,Prototype Development,ETGR_4200_concepts_raw.json
+ETGR_4200,topic,Progress Evaluations,Progress Evaluations,1,inferred,Progress Evaluations,ETGR_4200_concepts_raw.json
+ETGR_4200,topic,Final Report Preparation,Final Report Preparation,1,inferred,Final Report Preparation,ETGR_4200_concepts_raw.json
+ETGR_4200,topic,Prototype Completion,Prototype Completion,1,inferred,Prototype Completion,ETGR_4200_concepts_raw.json
+ETGR_4200,topic,Expo Preparation,Expo Preparation,1,inferred,Expo Preparation,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Project Scope Definition,Project Scope Definition,1,inferred,Project Scope Definition,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Team Size Determination,Team Size Determination,1,inferred,Team Size Determination,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Discipline Allocation,Discipline Allocation,1,inferred,Discipline Allocation,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Engineering Design Principles,Engineering Design Principles,1,inferred,Engineering Design Principles,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Appropriate Standards Application,Appropriate Standards Application,1,inferred,Appropriate Standards Application,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Research and Implementation,Research and Implementation,1,inferred,Research and Implementation,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Time Budgeting,Time Budgeting,1,inferred,Time Budgeting,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Financial Planning,Financial Planning,1,inferred,Financial Planning,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Client Satisfaction,Client Satisfaction,1,inferred,Client Satisfaction,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Collaborative Work Skills,Collaborative Work Skills,1,inferred,Collaborative Work Skills,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Conflict Resolution Strategies,Conflict Resolution Strategies,1,inferred,Conflict Resolution Strategies,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Effective Communication,Effective Communication,1,inferred,Effective Communication,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Design Iteration and Refinement,Design Iteration and Refinement,1,inferred,Design Iteration and Refinement,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Prototyping Techniques and Tools,Prototyping Techniques and Tools,1,inferred,Prototyping Techniques and Tools,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Model Verification and Testing,Model Verification and Testing,1,inferred,Model Verification and Testing,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Project Status Review,Project Status Review,1,inferred,Project Status Review,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Progress Monitoring and Reporting,Progress Monitoring and Reporting,1,inferred,Progress Monitoring and Reporting,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Client Feedback and Expectations,Client Feedback and Expectations,1,inferred,Client Feedback and Expectations,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Design Package Development,Design Package Development,1,inferred,Design Package Development,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Technical Writing and Documentation,Technical Writing and Documentation,1,inferred,Technical Writing and Documentation,ETGR_4200_concepts_raw.json
+ETGR_4200,concept,Presentation Skills and Delivery,Presentation Skills and Delivery,2,inferred,Presentation Skills and Delivery,ETGR_4200_concepts_raw.json

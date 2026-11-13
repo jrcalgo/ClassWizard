@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3219,Media and AI Integration,concept,PART_OF,Retail and AI Strategies,concept,,,MKTG_3219_triples_raw.json
+MKTG_3219,Social Media and AI,concept,PART_OF,Retail and AI Strategies,concept,,,MKTG_3219_triples_raw.json
+MKTG_3219,Customer Understanding with AI,concept,PART_OF,Marketing Positioning with AI,concept,,,MKTG_3219_triples_raw.json

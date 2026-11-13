@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ADMN_6100,topic,Educational Administration,educational administration,1,verified,Educational Administration,ADMN_6100_concepts_raw.json
+ADMN_6100,topic,American Schools,American schools,1,verified,American Schools,ADMN_6100_concepts_raw.json
+ADMN_6100,topic,Leadership Theories,leadership theory,2,verified,Leadership Theories,ADMN_6100_concepts_raw.json
+ADMN_6100,topic,Restructuring Reform,Restructuring Reform,1,inferred,Restructuring Reform,ADMN_6100_concepts_raw.json
+ADMN_6100,concept,Organizational Change Management,Organizational Change Management,1,inferred,Organizational Change Management,ADMN_6100_concepts_raw.json
+ADMN_6100,concept,Education Law and Policy,Education Law and Policy,1,inferred,Education Law and Policy,ADMN_6100_concepts_raw.json
+ADMN_6100,concept,Special Education Laws and Regulations,Special Education Laws and Regulations,1,inferred,Special Education Laws and Regulations,ADMN_6100_concepts_raw.json
+ADMN_6100,topic,Ethics in Educational Leadership,Ethics in Educational Leadership,1,inferred,Ethics in Educational Leadership,ADMN_6100_concepts_raw.json
+ADMN_6100,concept,Social Justice in Education,Social Justice in Education,1,inferred,Social Justice in Education,ADMN_6100_concepts_raw.json
+ADMN_6100,topic,Effective School Leadership Practices,Effective School Leadership Practices,1,inferred,Effective School Leadership Practices,ADMN_6100_concepts_raw.json
+ADMN_6100,topic,Urban School Leadership,Urban School Leadership,1,inferred,Urban School Leadership,ADMN_6100_concepts_raw.json
+ADMN_6100,concept,Transformational Leadership Style,Transformational Leadership Style,1,inferred,Transformational Leadership Style,ADMN_6100_concepts_raw.json
+ADMN_6100,concept,Transactional Leadership Approach,Transactional Leadership Approach,1,inferred,Transactional Leadership Approach,ADMN_6100_concepts_raw.json
+ADMN_6100,concept,Bureaucratic vs. Democratic Schools,Bureaucratic vs. Democratic Schools,1,inferred,Bureaucratic vs. Democratic Schools,ADMN_6100_concepts_raw.json
+ADMN_6100,concept,Civil Rights in Education,Civil Rights in Education,1,inferred,Civil Rights in Education,ADMN_6100_concepts_raw.json
+ADMN_6100,concept,Moral Principles in Decision Making,Moral Principles in Decision Making,1,inferred,Moral Principles in Decision Making,ADMN_6100_concepts_raw.json

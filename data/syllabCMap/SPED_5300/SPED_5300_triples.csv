@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_5300,History of Special Education,topic,PREREQUISITE_OF,Diversity of Students with Disabilities,topic,A taught first,,SPED_5300_triples_raw.json
+SPED_5300,History of Special Education,topic,PREREQUISITE_OF,Personal Philosophy of Special Education,topic,A taught first,,SPED_5300_triples_raw.json

@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_2171,topic,Algorithms and Programming,Algorithms and Programming,1,verified,Algorithms and Programming,ETEM_2171_concepts_raw.json
+ETEM_2171,topic,Logic and Computational Problem Solving,Logic and Computational Problem Solving,1,verified,Logic and Computational Problem Solving,ETEM_2171_concepts_raw.json
+ETEM_2171,topic,Programming,Programming,4,verified,Introduction to Programming,ETEM_2171_concepts_raw.json
+ETEM_2171,topic,Algorithms Fundamentals,Algorithms Fundamentals,1,inferred,Algorithms Fundamentals,ETEM_2171_concepts_raw.json
+ETEM_2171,topic,Data Structures and Abstraction,Data Structures and Abstraction,1,inferred,Data Structures and Abstraction,ETEM_2171_concepts_raw.json
+ETEM_2171,topic,Sorting and Searching Algorithms,Sorting and Searching Algorithms,1,inferred,Sorting and Searching Algorithms,ETEM_2171_concepts_raw.json
+ETEM_2171,topic,Graphs and Trees Data Structures,Graphs and Trees Data Structures,1,inferred,Graphs and Trees Data Structures,ETEM_2171_concepts_raw.json
+ETEM_2171,topic,Recursion and Dynamic Programming,Recursion and Dynamic Programming,1,inferred,Recursion and Dynamic Programming,ETEM_2171_concepts_raw.json
+ETEM_2171,topic,Object-Oriented Programming,Object-Oriented Programming,1,inferred,Object-Oriented Programming,ETEM_2171_concepts_raw.json
+ETEM_2171,topic,Algorithm Analysis and Complexity,Algorithm Analysis and Complexity,1,inferred,Algorithm Analysis and Complexity,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Variables and Data Types,Variables and Data Types,1,inferred,Variables and Data Types,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Basic Operators and Control Flow,Basic Operators and Control Flow,1,inferred,Basic Operators and Control Flow,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Input/Output Operations,Input/Output Operations,1,inferred,Input/Output Operations,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Algorithm Design Principles,Algorithm Design Principles,1,inferred,Algorithm Design Principles,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Problem-Solving Strategies,Problem-Solving Strategies,1,inferred,Problem-Solving Strategies,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Pseudocode Notation,Pseudocode Notation,1,inferred,Pseudocode Notation,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Arrays and Linked Lists,Arrays and Linked Lists,1,inferred,Arrays and Linked Lists,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Stacks and Queues Data Structure,Stacks and Queues Data Structure,1,inferred,Stacks and Queues Data Structure,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Abstract Data Types,Abstract Data Types,1,inferred,Abstract Data Types,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Bubble Sort Algorithm,Bubble Sort Algorithm,1,inferred,Bubble Sort Algorithm,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Selection Sort Algorithm,Selection Sort Algorithm,1,inferred,Selection Sort Algorithm,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Binary Search Algorithm,Binary Search Algorithm,1,inferred,Binary Search Algorithm,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Graph Traversal Methods,Graph Traversal Methods,1,inferred,Graph Traversal Methods,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Tree Data Structure Properties,Tree Data Structure Properties,1,inferred,Tree Data Structure Properties,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Graph Algorithms Overview,Graph Algorithms Overview,1,inferred,Graph Algorithms Overview,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Recursive Algorithm Design,Recursive Algorithm Design,1,inferred,Recursive Algorithm Design,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Dynamic Programming Principles,Dynamic Programming Principles,1,inferred,Dynamic Programming Principles,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Memoization Technique,Memoization Technique,1,inferred,Memoization Technique,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Class and Object Concepts,Class and Object Concepts,1,inferred,Class and Object Concepts,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Inheritance and Polymorphism,Inheritance and Polymorphism,1,inferred,Inheritance and Polymorphism,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Encapsulation Principle,Encapsulation Principle,1,inferred,Encapsulation Principle,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Time and Space Complexity,Time and Space Complexity,1,inferred,Time and Space Complexity,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Big O Notation Overview,Big O Notation Overview,1,inferred,Big O Notation Overview,ETEM_2171_concepts_raw.json
+ETEM_2171,concept,Algorithm Efficiency Metrics,Algorithm Efficiency Metrics,1,inferred,Algorithm Efficiency Metrics,ETEM_2171_concepts_raw.json

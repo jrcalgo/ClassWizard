@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPER_3100,concept,operations management,Operations Management,2,verified,operations management,OPER_3100_concepts_raw.json
+OPER_3100,concept,supply chain management,Supply Chain Management,2,verified,supply chain management,OPER_3100_concepts_raw.json
+OPER_3100,concept,decision-making process,decision-making process,1,verified,decision-making process,OPER_3100_concepts_raw.json
+OPER_3100,concept,production processes,production processes,1,verified,production processes,OPER_3100_concepts_raw.json
+OPER_3100,concept,service systems,service systems,1,verified,service systems,OPER_3100_concepts_raw.json

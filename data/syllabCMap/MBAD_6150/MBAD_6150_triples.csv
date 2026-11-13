@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6150,Decision Tree Models,concept,USED_FOR,AI and Machine Learning,topic,,,MBAD_6150_triples_raw.json
+MBAD_6150,Transformer-Based AI Technologies,concept,USED_FOR,AI and Machine Learning,topic,,,MBAD_6150_triples_raw.json

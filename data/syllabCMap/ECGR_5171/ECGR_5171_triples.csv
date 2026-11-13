@@ -1,0 +1,33 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5171,Federal and State Regulations,topic,PREREQUISITE_OF,Smart Grid Technologies,topic,B taught first,B is taught before A - check,ECGR_5171_triples_raw.json
+ECGR_5171,Federal and State Regulations,topic,PREREQUISITE_OF,Energy Efficiency Concepts,topic,B taught first,B is taught before A - check,ECGR_5171_triples_raw.json
+ECGR_5171,Energy Types Overview,topic,PREREQUISITE_OF,Energy Generation Methods,topic,A taught first,,ECGR_5171_triples_raw.json
+ECGR_5171,Energy Types Overview,topic,PREREQUISITE_OF,Energy Conversion Processes,topic,A taught first,,ECGR_5171_triples_raw.json
+ECGR_5171,Energy Types Overview,topic,PREREQUISITE_OF,Energy Storage and Transportation,topic,A taught first,,ECGR_5171_triples_raw.json
+ECGR_5171,Energy Generation Methods,topic,PREREQUISITE_OF,Energy Conversion Processes,topic,A taught first,,ECGR_5171_triples_raw.json
+ECGR_5171,Energy Generation Methods,topic,PREREQUISITE_OF,Energy Storage and Transportation,topic,A taught first,,ECGR_5171_triples_raw.json
+ECGR_5171,Energy Conversion Processes,topic,PREREQUISITE_OF,Energy Storage and Transportation,topic,A taught first,,ECGR_5171_triples_raw.json
+ECGR_5171,Energy Conversion Processes,topic,PREREQUISITE_OF,Renewable Energy Technologies,topic,A taught first,,ECGR_5171_triples_raw.json
+ECGR_5171,Energy Storage and Transportation,topic,PREREQUISITE_OF,Renewable Energy Technologies,topic,A taught first,,ECGR_5171_triples_raw.json
+ECGR_5171,Fossil Fuel Energy Sources,concept,PART_OF,Energy Types Overview,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Renewable Energy Options,concept,PART_OF,Energy Types Overview,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Nuclear Energy Basics,concept,PART_OF,Energy Types Overview,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Thermal Power Plant Operations,concept,PART_OF,Energy Generation Methods,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Electrical Power Generation Techniques,concept,PART_OF,Energy Generation Methods,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Nuclear Reactor Principles,concept,PART_OF,Energy Generation Methods,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Heat Transfer Mechanisms,concept,PART_OF,Energy Conversion Processes,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Mechanical Energy Conversion,concept,PART_OF,Energy Conversion Processes,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Electrical Energy Conversion,concept,PART_OF,Energy Conversion Processes,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Battery Energy Storage Systems,concept,PART_OF,Energy Storage and Transportation,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Pipeline Transportation Basics,concept,PART_OF,Energy Storage and Transportation,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Solar Panel Efficiency Metrics,concept,PART_OF,Renewable Energy Technologies,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Wind Turbine Design Principles,concept,PART_OF,Renewable Energy Technologies,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Life Cycle Assessment Techniques,concept,PART_OF,Environmental Impacts Analysis,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Energy Efficiency Metrics Overview,concept,PART_OF,Environmental Impacts Analysis,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Carbon Footprint Calculations,concept,PART_OF,Environmental Impacts Analysis,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Smart Metering Systems Overview,concept,PART_OF,Smart Grid Technologies,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Demand Response Management,concept,PART_OF,Smart Grid Technologies,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Building Energy Efficiency Metrics,concept,PART_OF,Energy Efficiency Concepts,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Transportation Energy Efficiency,concept,PART_OF,Energy Efficiency Concepts,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Life Cycle Assessment Techniques,concept,USED_FOR,Environmental Impacts Analysis,topic,,,ECGR_5171_triples_raw.json
+ECGR_5171,Carbon Footprint Calculations,concept,USED_FOR,Environmental Impacts Analysis,topic,,,ECGR_5171_triples_raw.json

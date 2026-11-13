@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_8225,Failure Modes in Structures,concept,PART_OF,Structural System Failures,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,HVAC,concept,PART_OF,Building Systems and Failures,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Plumbing,concept,PART_OF,Building Systems and Failures,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Electrical Systems,concept,PART_OF,Building Systems and Failures,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Fire Safety and Protection,concept,PART_OF,Building Systems and Failures,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Life Safety Code Compliance,concept,PART_OF,Building Systems and Failures,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Soil Mechanics and Properties,concept,PART_OF,Geotechnical System Failures,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Foundation Design and Construction,concept,PART_OF,Geotechnical System Failures,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Stability of Slopes and Embankments,concept,PART_OF,Geotechnical System Failures,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Data Collection and Analysis Techniques,concept,PART_OF,Forensic Investigation Methods,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Field and Laboratory Testing Procedures,concept,PART_OF,Forensic Investigation Methods,topic,,,CEGR_8225_triples_raw.json
+CEGR_8225,Documentation and Reporting Requirements,concept,PART_OF,Forensic Investigation Methods,topic,,,CEGR_8225_triples_raw.json

@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_3227,mathematical theory of interest,concept,PREREQUISITE_OF,annuity calculations and applications,concept,A taught first,,MATH_3227_triples_raw.json
+MATH_3227,mathematical theory of interest,concept,PREREQUISITE_OF,loan amortization schedule creation,concept,A taught first,,MATH_3227_triples_raw.json
+MATH_3227,mathematical theory of interest,concept,PREREQUISITE_OF,sinking fund calculations for businesses,concept,A taught first,,MATH_3227_triples_raw.json
+MATH_3227,time value of money concepts,concept,PREREQUISITE_OF,loan amortization schedule creation,concept,A taught first,,MATH_3227_triples_raw.json
+MATH_3227,time value of money concepts,concept,PREREQUISITE_OF,sinking fund calculations for businesses,concept,A taught first,,MATH_3227_triples_raw.json
+MATH_3227,time value of money concepts,concept,PART_OF,mathematical theory of interest,concept,,,MATH_3227_triples_raw.json
+MATH_3227,loan amortization schedule creation,concept,PART_OF,mathematical theory of interest,concept,,,MATH_3227_triples_raw.json
+MATH_3227,sinking fund calculations for businesses,concept,PART_OF,mathematical theory of interest,concept,,,MATH_3227_triples_raw.json
+MATH_3227,importance of calculators in finance,concept,PART_OF,Calculator Selection and Use,topic,,,MATH_3227_triples_raw.json
+MATH_3227,BA II Plus Professional calculator options,concept,PART_OF,Calculator Selection and Use,topic,,,MATH_3227_triples_raw.json
+MATH_3227,BA-35 calculator requirements,concept,PART_OF,Calculator Selection and Use,topic,,,MATH_3227_triples_raw.json
+MATH_3227,compound interest formula derivation,concept,PART_OF,mathematical theory of interest,concept,,,MATH_3227_triples_raw.json
+MATH_3227,BA II Plus Professional calculator options,concept,USED_FOR,annuity calculations and applications,concept,,,MATH_3227_triples_raw.json
+MATH_3227,BA II Plus Professional calculator options,concept,USED_FOR,loan amortization schedule creation,concept,,,MATH_3227_triples_raw.json
+MATH_3227,BA II Plus Professional calculator options,concept,USED_FOR,sinking fund calculations for businesses,concept,,,MATH_3227_triples_raw.json

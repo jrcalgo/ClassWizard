@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_4180,topic,Mobile Application Development,mobile application development,2,verified,Mobile Application Development,ITIS_4180_concepts_raw.json
+ITIS_4180,topic,Mobile Applications,mobile applications,2,verified,Mobile Applications,ITIS_4180_concepts_raw.json
+ITIS_4180,topic,Web-based to Native,Web-based to Native,1,verified,Web-based to Native,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Software Engineering,software engineering,2,verified,Software Engineering,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,System Requirements,System Requirements,1,verified,System Requirements,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Use Cases,Use Cases,1,verified,Use Cases,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Class Diagrams,Class Diagrams,1,verified,Class Diagrams,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,In Class Evaluation,In Class Evaluation,7,verified,In Class Evaluation,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Student Participation,Student Participation,1,verified,Student Participation,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Regression Analysis,Regression Analysis,2,verified,Regression Analysis,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Linear Regression Model,Linear Regression Model,2,verified,Linear Regression Model,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Coefficient of Determination,Coefficient of Determination,1,verified,Coefficient of Determination,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Residual Plots Interpretation,Residual Plots Interpretation,1,verified,Residual Plots Interpretation,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Data Preprocessing,Data Preprocessing,2,verified,Data Preprocessing,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Feature Selection Methods,Feature Selection Methods,2,verified,Feature Selection Methods,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Decision Tree Algorithm,Decision Tree Algorithm,2,verified,Decision Tree Algorithm,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Random Forest Classifier,Random Forest Classifier,2,verified,Random Forest Classifier,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Model Evaluation Metrics,Model Evaluation Metrics,1,verified,Model Evaluation Metrics,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Excused Absence,Excused Absence,1,verified,Excused Absence,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Attendance Policy,Attendance Policy,1,verified,Attendance Policy,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Academic Accommodation,academic accommodation,3,verified,Academic Accommodation,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Student Absence Policy,Student Absence Policy,1,verified,Student Absence Policy,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Late Submission Guidelines,Late Submission Guidelines,1,verified,Late Submission Guidelines,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Excuse Procedure,Excuse Procedure,1,verified,Excuse Procedure,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Student Data Management,Student Data Management,1,verified,Student Data Management,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Database Query Optimization,Database Query Optimization,1,verified,Database Query Optimization,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Data Security Measures,Data Security Measures,1,verified,Data Security Measures,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,User Authentication Protocols,User Authentication Protocols,1,verified,User Authentication Protocols,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Machine Learning,Machine Learning,1,verified,Machine Learning,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Decision Trees,Decision Trees,1,verified,Decision Trees,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Random Forests,Random Forests,1,verified,Random Forests,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Gradient Boosting,Gradient Boosting,1,verified,Gradient Boosting,ITIS_4180_concepts_raw.json
+ITIS_4180,concept,Support Vector Machines,Support Vector Machines,2,verified,Support Vector Machines,ITIS_4180_concepts_raw.json

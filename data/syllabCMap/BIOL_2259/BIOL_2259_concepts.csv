@@ -1,0 +1,113 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_2259,topic,Microbiology,Microbiology,6,verified,Fundamentals of Microbiology,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Prokaryotes,Prokaryotes,1,verified,An Introduction to Prokaryotes,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microbial Structure,Microbial Structure,15,verified,Microbial Structure,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Cell Wall Function,Cell Wall Function,19,verified,Cell Wall Function,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Metabolism,Bacterial Metabolism,17,verified,Bacterial Metabolism,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Fermentation Process,Fermentation Process,24,verified,Fermentation Process,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Glycolysis Pathway,Glycolysis Pathway,11,verified,Glycolysis Pathway,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Viral Replication Cycle,Viral Replication Cycle,5,verified,Viral Replication Cycle,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Prions and Prion Diseases,Prions and Prion Diseases,6,verified,Prions and Prion Diseases,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Antimicrobial Resistance Mechanisms,Antimicrobial Resistance Mechanisms,32,verified,Antimicrobial Resistance Mechanisms,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Fungal Infections in Humans,Fungal Infections in Humans,30,verified,Fungal Infections in Humans,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Immunity and Vaccines,Immunity and Vaccines,1,verified,Immunity and Vaccines,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Skin and Eye Infections,Skin and Eye Infection,1,verified,Skin and Eye Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Nervous System Infections,Nervous System Infections,2,verified,Nervous System Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Cardiovascular and Lymphatic Infections,Cardiovascular and Lymphatic Infections,1,verified,Cardiovascular and Lymphatic Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Respiratory Infections,Respiratory Infections,2,verified,Respiratory Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Digestive System Infections,Digestive System Infections,1,verified,Digestive System Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,topic,Urinary and Reproductive System Infections,Urinary and Reproductive System Infections,1,verified,Urinary and Reproductive System Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Prokaryotic Cell Structure,Prokaryotic Cell Structure,2,verified,Prokaryotic Cell Structure,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Cell Wall Components,Bacterial Cell Wall Components,1,verified,Bacterial Cell Wall Components,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Gram Staining Procedure,Gram Staining Procedure,1,verified,Gram Staining Procedure,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Endospore Formation Process,Endospore Formation Process,12,verified,Endospore Formation Process,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Metabolic Pathways,Bacterial Metabolic Pathways,1,verified,Bacterial Metabolic Pathways,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microbial Metabolism,Microbial Metabolism,32,verified,Microbial Metabolism,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Cell Wall,Bacterial Cell Wall,3,verified,Bacterial Cell Wall,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Prokaryotic Reproduction,Prokaryotic Reproduction,1,verified,Prokaryotic Reproduction,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Genetic Variation,Genetic Variation,2,verified,Genetic Variation,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Cell Wall Components,Cell Wall Components,23,verified,Cell Wall Components,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Cell Types,Bacterial Cell Types,1,verified,Bacterial Cell Types,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microbial Metabolism Overview,Microbial Metabolism Overview,25,verified,Microbial Metabolism Overview,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Nutrient Acquisition Methods,Nutrient Acquisition Methods,1,verified,Nutrient Acquisition Methods,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Cell Structure,Bacterial Cell Structure,71,verified,Bacterial Cell Structure,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microbial Metabolic Pathways,Microbial Metabolic Pathways,35,verified,Microbial Metabolic Pathways,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Host-Pathogen Interactions,Host-Pathogen Interactions,1,verified,Host-Pathogen Interactions,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Fimbriae Function,Fimbriae Function,3,verified,Fimbriae Function,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Capsule Formation,Capsule Formation,3,verified,Capsule Formation,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Peptidoglycan Layer Function,Peptidoglycan Layer Function,1,verified,Peptidoglycan Layer Function,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Membrane Components,Bacterial Membrane Components,1,verified,Bacterial Membrane Components,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Plasma Membrane Permeability,Plasma Membrane Permeability,1,verified,Plasma Membrane Permeability,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microbial Morphology,Microbial Morphology,2,verified,Microbial Morphology,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Cell Wall Structure,Cell Wall Structure,5,verified,Cell Wall Structure,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Glycolysis Pathway Steps,Glycolysis Pathway Steps,4,verified,Glycolysis Pathway Steps,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Antimicrobial Mechanisms,Antimicrobial Mechanisms,1,verified,Antimicrobial Mechanisms,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Resistance Patterns,Bacterial Resistance Patterns,1,verified,Bacterial Resistance Patterns,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Antibiotic Spectrum Activity,Antibiotic Spectrum Activity,1,verified,Antibiotic Spectrum Activity,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Mechanisms of Action,Mechanisms of Action,1,verified,Mechanisms of Action,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Antifungal Agents Types,Antifungal Agents Types,1,verified,Antifungal Agents Types,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Antiviral Drug Classes,Antiviral Drug Classes,1,verified,Antiviral Drug Classes,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Selective Pressure Effects,Selective Pressure Effects,1,verified,Selective Pressure Effects,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microbial Susceptibility Testing,Microbial Susceptibility Testing,1,verified,Microbial Susceptibility Testing,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Domain Specific Microbes,Domain Specific Microbes,1,verified,Domain Specific Microbes,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Species Identification Methods,Species Identification Methods,1,verified,Species Identification Methods,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microbial Classification Systems,Microbial Classification Systems,1,verified,Microbial Classification Systems,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,DSM Classification,DSM Classification,1,verified,DSM Classification,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microbial Identification,Microbial Identification,2,verified,Microbial Identification,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Morphology,Bacterial Morphology,10,verified,Bacterial Morphology,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Gram Staining Results,Gram Staining Results,3,verified,Gram Staining Results,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microscopic Observation,Microscopic Observation,1,verified,Microscopic Observation,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Pathogen Characteristics,Pathogen Characteristics,1,verified,Pathogen Characteristics,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Host Defense Mechanisms,Host Defense Mechanisms,1,verified,Host Defense Mechanisms,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Immune System Response,Immune System Response,2,verified,Immune System Response,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Antibiotic Resistance,Antibiotic Resistance,5,verified,Antibiotic Resistance,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Vaccine Development Process,Vaccine Development Process,1,verified,Vaccine Development Process,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Host-Microbe Interactions,Host-Microbe Interactions,2,verified,Host-Microbe Interactions,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Pathogen Recognition Mechanisms,Pathogen Recognition Mechanisms,1,verified,Pathogen Recognition Mechanisms,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Inflammatory Reactions Initiation,Inflammatory Reactions Initiation,1,verified,Inflammatory Reactions Initiation,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Microbial Adhesion Processes,Microbial Adhesion Processes,1,verified,Microbial Adhesion Processes,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Invasion Strategies,Bacterial Invasion Strategies,1,verified,Bacterial Invasion Strategies,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Toxin Production and Action,Toxin Production and Action,1,verified,Toxin Production and Action,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Active Immunity,Active Immunity,1,verified,Active Immunity,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Passive Immunity,Passive Immunity,1,verified,Passive Immunity,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Vaccine Types,Vaccine Types,1,verified,Vaccine Types,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Antibody Response,Antibody Response,1,verified,Antibody Response,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Immune System Cells,Immune System Cells,1,verified,Immune System Cells,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Cell Mediated Immunity,Cell Mediated Immunity,2,verified,Cell Mediated Immunity,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Humoral Immunity,Humoral Immunity,2,verified,Humoral Immunity,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Immunoglobulins Function,Immunoglobulins Function,1,verified,Immunoglobulins Function,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Viral Vaccination Methods,Viral Vaccination Methods,1,verified,Viral Vaccination Methods,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Cardiovascular Infections,Cardiovascular Infections,1,verified,Cardiovascular Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Lymphatic System Function,Lymphatic System Function,1,verified,Lymphatic System Function,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Endocarditis Causes,Bacterial Endocarditis Causes,1,verified,Bacterial Endocarditis Causes,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Endocarditis Symptoms and Signs,Endocarditis Symptoms and Signs,1,verified,Endocarditis Symptoms and Signs,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Infective Endocarditis Diagnosis,Infective Endocarditis Diagnosis,1,verified,Infective Endocarditis Diagnosis,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Cardiac Valve Infection Types,Cardiac Valve Infection Types,1,verified,Cardiac Valve Infection Types,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bloodstream Infections Pathways,Bloodstream Infections Pathways,1,verified,Bloodstream Infections Pathways,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Sepsis and Septic Shock,Sepsis and Septic Shock,1,verified,Sepsis and Septic Shock,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Antibiotic Resistance Mechanisms,Antibiotic Resistance Mechanisms,3,verified,Antibiotic Resistance Mechanisms,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Topical Antibiotics Efficacy,Topical Antibiotics Efficacy,1,verified,Topical Antibiotics Efficacy,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Ocular Surface Anatomy,Ocular Surface Anatomy,1,verified,Ocular Surface Anatomy,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Corneal Epithelial Defects,Corneal Epithelial Defects,1,verified,Corneal Epithelial Defects,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Neurological manifestations,Neurological manifestations,1,verified,Neurological manifestations,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Central nervous system infections,Central nervous system infections,1,verified,Central nervous system infections,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Meningitis pathogenesis,Meningitis pathogenesis,2,verified,Meningitis pathogenesis,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Encephalitis symptoms,Encephalitis symptoms,1,verified,Encephalitis symptoms,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Viral meningitis,Viral meningitis,1,verified,Viral meningitis,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial meningitis,Bacterial meningitis,1,verified,Bacterial meningitis,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Fungal meningitis,Fungal meningitis,1,verified,Fungal meningitis,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Tuberculous meningitis,Tuberculous meningitis,1,verified,Tuberculous meningitis,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Cerebrospinal fluid analysis,Cerebrospinal fluid analysis,1,verified,Cerebrospinal fluid analysis,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Respiratory Tract Infections,Respiratory Tract Infections,1,verified,Respiratory Tract Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Pathogens in Respiratory Tract,Pathogens in Respiratory Tract,1,verified,Pathogens in Respiratory Tract,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Pneumonia Causes,Bacterial Pneumonia Causes,1,verified,Bacterial Pneumonia Causes,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Viral Pneumonias Types,Viral Pneumonias Types,1,verified,Viral Pneumonias Types,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Fungal Respiratory Infections,Fungal Respiratory Infections,1,verified,Fungal Respiratory Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Urinary Tract Infections,Urinary Tract Infections,1,verified,Urinary Tract Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Reproductive System Pathogens,Reproductive System Pathogens,1,verified,Reproductive System Pathogens,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Bacterial Urethritis Causes,Bacterial Urethritis Causes,1,verified,Bacterial Urethritis Causes,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Vaginal Yeast Infections,Vaginal Yeast Infections,1,verified,Vaginal Yeast Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Kidney Infection Symptoms,Kidney Infection Symptoms,1,verified,Kidney Infection Symptoms,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Sexually Transmitted Infections,Sexually Transmitted Infections,1,verified,Sexually Transmitted Infections,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Urine Culture Techniques,Urine Culture Techniques,1,verified,Urine Culture Techniques,BIOL_2259_concepts_raw.json
+BIOL_2259,concept,Urinary Tract Infection Prevention,Urinary Tract Infection Prevention,1,verified,Urinary Tract Infection Prevention,BIOL_2259_concepts_raw.json

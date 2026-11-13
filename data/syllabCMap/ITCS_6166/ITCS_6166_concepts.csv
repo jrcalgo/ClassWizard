@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6166,topic,Internet Architecture,Internet architecture,1,verified,Internet Architecture,ITCS_6166_concepts_raw.json
+ITCS_6166,topic,Wireless Networking,wireless networking,2,verified,Wireless Networking,ITCS_6166_concepts_raw.json
+ITCS_6166,concept,OSI Layered Architectures,OSI layered architectures,1,verified,OSI Layered Architectures,ITCS_6166_concepts_raw.json
+ITCS_6166,concept,Next-Generation Wireless Networks,next-generation wireless networks,1,verified,Next-Generation Wireless Networks,ITCS_6166_concepts_raw.json
+ITCS_6166,method,laboratory exercises,laboratory exercises,1,verified,Implementing networking concepts in programming and laboratory exercises,ITCS_6166_concepts_raw.json
+ITCS_6166,method,protocols,protocols,6,verified,"Analyzing network designs, protocols, and performance tradeoffs qualitatively and quantitatively",ITCS_6166_concepts_raw.json
+ITCS_6166,method,quantitatively,quantitatively,1,verified,"Analyzing network designs, protocols, and performance tradeoffs qualitatively and quantitatively",ITCS_6166_concepts_raw.json
+ITCS_6166,method,AI-native networking techniques,AI-native networking techniques,1,verified,Evaluating AI-enabled and AI-native networking techniques and emerging networked applications,ITCS_6166_concepts_raw.json
+ITCS_6166,method,emerging networked applications,emerging networked applications,1,verified,Evaluating AI-enabled and AI-native networking techniques and emerging networked applications,ITCS_6166_concepts_raw.json
+ITCS_6166,method,substantial project,substantial project,1,verified,Communicating technical findings through a research presentation and a substantial project,ITCS_6166_concepts_raw.json

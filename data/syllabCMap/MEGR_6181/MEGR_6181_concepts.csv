@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_6181,topic,Metrology,Metrology,3,verified,Metrology,MEGR_6181_concepts_raw.json
+MEGR_6181,topic,Robot Accuracy and Calibration,robot accuracy and calibration,1,verified,Robot Accuracy and Calibration,MEGR_6181_concepts_raw.json
+MEGR_6181,topic,Design of Precision Instruments,design of precision instruments,1,verified,Design of Precision Instruments,MEGR_6181_concepts_raw.json
+MEGR_6181,topic,Uncertainty and Precision,Uncertainty and Precision,1,inferred,Uncertainty and Precision,MEGR_6181_concepts_raw.json
+MEGR_6181,topic,Size and Form Measurement,Size and Form Measurement,1,inferred,Size and Form Measurement,MEGR_6181_concepts_raw.json
+MEGR_6181,topic,Form Measurement Methods,Form Measurement Methods,1,inferred,Form Measurement Methods,MEGR_6181_concepts_raw.json
+MEGR_6181,topic,Surface Texture and Roundness,Surface Texture and Roundness,1,inferred,Surface Texture and Roundness,MEGR_6181_concepts_raw.json
+MEGR_6181,topic,Machine Tool Calibration,Machine Tool Calibration,1,inferred,Machine Tool Calibration,MEGR_6181_concepts_raw.json
+MEGR_6181,topic,Gear and Screw Thread Measurement,Gear and Screw Thread Measurement,1,inferred,Gear and Screw Thread Measurement,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Metrology Definition,Metrology Definition,1,inferred,Metrology Definition,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Importance of Metrology,Importance of Metrology,1,inferred,Importance of Metrology,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Measurement Standards,Measurement Standards,1,inferred,Measurement Standards,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Uncertainty in Measurement,Uncertainty in Measurement,1,inferred,Uncertainty in Measurement,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Precision vs Accuracy,Precision vs Accuracy,1,inferred,Precision vs Accuracy,MEGR_6181_concepts_raw.json
+MEGR_6181,method,Error Analysis Methods,Error Analysis Methods,1,inferred,Error Analysis Methods,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Measurement of Length,Measurement of Length,1,inferred,Measurement of Length,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Measurement of Angle,Measurement of Angle,1,inferred,Measurement of Angle,MEGR_6181_concepts_raw.json
+MEGR_6181,method,Computational Geometry,Computational Geometry,1,inferred,Computational Geometry,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Coordinate Metrology,Coordinate Metrology,1,inferred,Coordinate Metrology,MEGR_6181_concepts_raw.json
+MEGR_6181,method,3D Scanning Techniques,3D Scanning Techniques,1,inferred,3D Scanning Techniques,MEGR_6181_concepts_raw.json
+MEGR_6181,method,Reverse Engineering,Reverse Engineering,1,inferred,Reverse Engineering,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Surface Roughness Measurement,Surface Roughness Measurement,1,inferred,Surface Roughness Measurement,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Roundness Measurement Methods,Roundness Measurement Methods,1,inferred,Roundness Measurement Methods,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Form Error Analysis,Form Error Analysis,1,inferred,Form Error Analysis,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Machine Tool Accuracy,Machine Tool Accuracy,1,inferred,Machine Tool Accuracy,MEGR_6181_concepts_raw.json
+MEGR_6181,method,Calibration Techniques,Calibration Techniques,1,inferred,Calibration Techniques,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Metrology Software Tools,Metrology Software Tools,1,inferred,Metrology Software Tools,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Robot Metrology Applications,Robot Metrology Applications,1,inferred,Robot Metrology Applications,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Accuracy Requirements,Accuracy Requirements,1,inferred,Accuracy Requirements,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Calibration Procedures,Calibration Procedures,1,inferred,Calibration Procedures,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Gear Metrology Techniques,Gear Metrology Techniques,1,inferred,Gear Metrology Techniques,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Screw Thread Measurement,Screw Thread Measurement,2,inferred,Screw Thread Measurement,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Pitch Diameter Calculation,Pitch Diameter Calculation,1,inferred,Pitch Diameter Calculation,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Instrument Design Principles,Instrument Design Principles,1,inferred,Instrument Design Principles,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Metrology in Instrumentation,Metrology in Instrumentation,1,inferred,Metrology in Instrumentation,MEGR_6181_concepts_raw.json
+MEGR_6181,concept,Precision Engineering,Precision Engineering,1,inferred,Precision Engineering,MEGR_6181_concepts_raw.json

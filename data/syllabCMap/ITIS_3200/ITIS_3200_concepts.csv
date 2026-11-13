@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_3200,topic,security concepts and mechanisms,security concepts and mechanisms,2,verified,security concepts and mechanisms,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,security technologies,security technologies,2,verified,security technologies,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,authentication mechanisms,authentication mechanisms,2,verified,authentication mechanisms,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,mandatory and discretionary controls,mandatory and discretionary controls,2,verified,mandatory and discretionary controls,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,basic cryptography and its applications,basic cryptography and its applications,2,verified,basic cryptography and its applications,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,intrusion detection and prevention,intrusion detection and prevention,2,verified,intrusion detection and prevention,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,information systems assurance,information systems assurance,2,verified,information systems assurance,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,malicious logic,malicious logic,2,verified,malicious logic,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,network security,network security,2,verified,network security,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,firewalls,firewalls,2,verified,firewalls,ITIS_3200_concepts_raw.json
+ITIS_3200,topic,anonymity and privacy issues for information systems,anonymity and privacy issues for information systems,2,verified,anonymity and privacy issues for information systems,ITIS_3200_concepts_raw.json

@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_6112,topic,Bioinformatics Programming II,Bioinformatics Programming II,1,verified,Bioinformatics Programming II,BINF_6112_concepts_raw.json
+BINF_6112,topic,Bioinformatics Programming I,Bioinformatics Programming I,1,verified,Bioinformatics Programming I,BINF_6112_concepts_raw.json
+BINF_6112,method,writing maintainable and reusable code,writing maintainable and reusable code,2,verified,writing maintainable and reusable code,BINF_6112_concepts_raw.json
+BINF_6112,method,advanced Python concepts and tools,advanced Python concepts and tools,2,verified,advanced Python concepts and tools,BINF_6112_concepts_raw.json
+BINF_6112,topic,Python modules for data analysis in the context of bioinformatics,Python modules for data analysis in the context of bioinformatics,2,verified,Python modules for data analysis in the context of bioinformatics,BINF_6112_concepts_raw.json
+BINF_6112,method,object-oriented programming (OOP,object-oriented programming (OOP,2,verified,object-oriented programming (OOP),BINF_6112_concepts_raw.json
+BINF_6112,topic,Advanced Python Concepts,advanced Python concepts,2,verified,Advanced Python Concepts,BINF_6112_concepts_raw.json
+BINF_6112,method,version control with Git and GitHub,Version control with Git and GitHub,1,verified,version control with Git and GitHub,BINF_6112_concepts_raw.json
+BINF_6112,topic,"Testing, Debugging, and Profiling","Testing, Debugging, and Profiling",1,verified,"Testing, Debugging, and Profiling",BINF_6112_concepts_raw.json
+BINF_6112,topic,Ethical AI Use and Transparency,ethical AI use and transparency,1,verified,Ethical AI Use and Transparency,BINF_6112_concepts_raw.json
+BINF_6112,concept,file input and output,file input and output,1,verified,file input and output,BINF_6112_concepts_raw.json
+BINF_6112,concept,local file management,local file management,1,verified,local file management,BINF_6112_concepts_raw.json
+BINF_6112,concept,transparency in tool usage,transparency in tool usage,1,verified,transparency in tool usage,BINF_6112_concepts_raw.json
+BINF_6112,method,testing,testing,2,verified,"testing, debugging, and profiling",BINF_6112_concepts_raw.json
+BINF_6112,method,debugging,debugging,1,verified,"testing, debugging, and profiling",BINF_6112_concepts_raw.json
+BINF_6112,method,profiling,profiling,1,verified,"testing, debugging, and profiling",BINF_6112_concepts_raw.json
+BINF_6112,method,scientific visualization,scientific visualization,1,verified,scientific visualization,BINF_6112_concepts_raw.json
+BINF_6112,method,scripting,scripting,1,verified,"scripting, automation, and reproducibility",BINF_6112_concepts_raw.json
+BINF_6112,method,automation,automation,1,verified,"scripting, automation, and reproducibility",BINF_6112_concepts_raw.json
+BINF_6112,method,reproducibility,reproducibility,1,verified,"scripting, automation, and reproducibility",BINF_6112_concepts_raw.json
+BINF_6112,tool,Python,Python,9,verified,Python,BINF_6112_concepts_raw.json
+BINF_6112,tool,NumPy,NumPy,2,verified,NumPy,BINF_6112_concepts_raw.json
+BINF_6112,tool,pandas,pandas,2,verified,pandas,BINF_6112_concepts_raw.json
+BINF_6112,tool,Biopython,Biopython,1,verified,Biopython,BINF_6112_concepts_raw.json
+BINF_6112,tool,PyPy,PyPy,1,verified,PyPy,BINF_6112_concepts_raw.json
+BINF_6112,tool,Git,Git,2,verified,Git,BINF_6112_concepts_raw.json
+BINF_6112,tool,GitHub,GitHub,2,verified,GitHub,BINF_6112_concepts_raw.json
+BINF_6112,tool,Conda,Conda,1,verified,Conda,BINF_6112_concepts_raw.json
+BINF_6112,tool,virtual environments,virtual environments,1,verified,virtual environments,BINF_6112_concepts_raw.json

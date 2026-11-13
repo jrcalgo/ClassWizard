@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+AEEE_4010,topic,PV Systems,PV Systems,3,verified,PV Systems,AEEE_4010_concepts_raw.json
+AEEE_4010,topic,Operations and Maintenance,Operations and Maintenance,1,verified,Operations and Maintenance,AEEE_4010_concepts_raw.json
+AEEE_4010,concept,solar photovoltaic (PV) systems,solar photovoltaic (PV) systems,1,verified,solar photovoltaic (PV) systems,AEEE_4010_concepts_raw.json
+AEEE_4010,topic,Commissioning,commissioning,1,verified,Commissioning,AEEE_4010_concepts_raw.json
+AEEE_4010,topic,Performance Verification,performance verification,1,verified,Performance Verification,AEEE_4010_concepts_raw.json
+AEEE_4010,topic,Troubleshooting,troubleshooting,1,verified,Troubleshooting,AEEE_4010_concepts_raw.json
+AEEE_4010,topic,PV Reliability Issues,PV reliability issues,1,verified,PV Reliability Issues,AEEE_4010_concepts_raw.json
+AEEE_4010,concept,griddirect PV systems,griddirect PV systems,1,verified,griddirect PV systems,AEEE_4010_concepts_raw.json
+AEEE_4010,concept,I-V curve tracing,I-V curve tracing,1,verified,I-V curve tracing,AEEE_4010_concepts_raw.json
+AEEE_4010,concept,thermal imaging,thermal imaging,1,verified,thermal imaging,AEEE_4010_concepts_raw.json
+AEEE_4010,concept,electroluminescence imaging,electroluminescence imaging,1,verified,electroluminescence imaging,AEEE_4010_concepts_raw.json
+AEEE_4010,concept,data analysis techniques,Data analysis techniques,1,verified,data analysis techniques,AEEE_4010_concepts_raw.json

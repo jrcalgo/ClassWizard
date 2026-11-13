@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEAD_3000,Power Requirements for Computing,concept,PREREQUISITE_OF,Data Center Energy Usage,concept,same unit,,LEAD_3000_triples_raw.json
+LEAD_3000,Mining for Rare Earth Metals,concept,PREREQUISITE_OF,Environmental Impact of Mining,concept,same unit,,LEAD_3000_triples_raw.json

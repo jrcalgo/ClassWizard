@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_3153,topic,Artificial Intelligence,Artificial Intelligence,3,verified,Artificial Intelligence,ITCS_3153_concepts_raw.json
+ITCS_3153,topic,defining the problem as a state space search,defining the problem as a state space search,3,verified,defining the problem as a state space search,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,production systems,production systems,7,verified,production systems,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,heuristic search,heuristic search,7,verified,heuristic search,ITCS_3153_concepts_raw.json
+ITCS_3153,topic,basic problem-solving methods,basic problem-solving methods,3,verified,basic problem-solving methods,ITCS_3153_concepts_raw.json
+ITCS_3153,topic,game playing,game playing,3,verified,game playing,ITCS_3153_concepts_raw.json
+ITCS_3153,topic,knowledge representation using predicate logic,knowledge representation using predicate logic,3,verified,knowledge representation using predicate logic,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,semantic nets,semantic nets,6,verified,semantic nets,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,frames,frames,6,verified,frames,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,scripts,scripts,6,verified,scripts,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,non-monotonic reasoning,non-monotonic reasoning,6,verified,non-monotonic reasoning,ITCS_3153_concepts_raw.json
+ITCS_3153,topic,statistical and probabilistic reasoning,statistical and probabilistic reasoning,3,verified,statistical and probabilistic reasoning,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,state space search,state space search,7,verified,state space search,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,problem solving methods,problem-solving methods,4,verified,problem solving methods,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,predicate logic,predicate logic,6,verified,predicate logic,ITCS_3153_concepts_raw.json
+ITCS_3153,concept,probabilistic reasoning,probabilistic reasoning,3,verified,probabilistic reasoning,ITCS_3153_concepts_raw.json

@@ -1,0 +1,121 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ATRN_6119,topic,General Medicine and Diagnostic Procedures,General Medicine and Diagnostic Procedures,1,verified,General Medicine and Diagnostic Procedures,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Pharmacology Review,Pharmacology Review,1,verified,Pharmacology Review,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Wound Care/suturing,Wound Care/suturing,1,verified,Wound Care/suturing,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Respiratory Review/Cardiovascular review,Respiratory Review/Cardiovascular review,1,verified,Respiratory Review/Cardiovascular review,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Cardiovascular Review,Cardiovascular review,2,verified,Cardiovascular Review,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Gastrointestinal Review,Gastrointestinal Review,1,verified,Gastrointestinal Review,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,non-orthopedic medical conditions,non-orthopedic medical conditions,11,verified,non-orthopedic medical conditions,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Imaging techniques in sports medicine,Imaging techniques in sports medicine,7,verified,Imaging techniques in sports medicine,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Diagnostic procedures in sports medicine,Diagnostic procedures in sports medicine,7,verified,Diagnostic procedures in sports medicine,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Systemic disorders,Systemic disorders,1,verified,Systemic disorders,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Infectious diseases,Infectious diseases,5,verified,Infectious diseases,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,endocrine disorders,Endocrine disorders,2,verified,endocrine disorders,ATRN_6119_concepts_raw.json
+ATRN_6119,topic,Dermatological conditions,Dermatological conditions,3,verified,Dermatological conditions,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,pharmacokinetics,Pharmacokinetics,1,verified,pharmacokinetics,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,medication interactions,Medication Interactions,1,verified,medication interactions,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,adverse reactions,Adverse Reactions,1,verified,adverse reactions,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,therapeutic doses,Therapeutic Doses,1,verified,therapeutic doses,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,drug side effects,Drug Side Effects,1,verified,drug side effects,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,wound care principles,Wound Care Principles,1,verified,wound care principles,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,suturing techniques,Suturing Techniques,1,verified,suturing techniques,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,debridement methods,Debridement Methods,1,verified,debridement methods,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,wound closure options,Wound Closure Options,1,verified,wound closure options,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,infection control measures,Infection Control Measures,1,verified,infection control measures,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,respiratory system anatomy,Respiratory System Anatomy,1,verified,respiratory system anatomy,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,cardiovascular disease diagnosis,Cardiovascular Disease Diagnosis,1,verified,cardiovascular disease diagnosis,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,pulmonary function tests,Pulmonary Function Tests,1,verified,pulmonary function tests,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,cardiac imaging techniques,Cardiac Imaging Techniques,1,verified,cardiac imaging techniques,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,respiratory medications used,Respiratory Medications Used,1,verified,respiratory medications used,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,cardiovascular risk factors,Cardiovascular Risk Factors,1,verified,cardiovascular risk factors,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,chronic obstructive pulmonary disease,Chronic Obstructive Pulmonary Disease,1,verified,chronic obstructive pulmonary disease,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,coronary artery disease symptoms,Coronary Artery Disease Symptoms,1,verified,coronary artery disease symptoms,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,cardiovascular conditions,Cardiovascular Conditions,1,verified,cardiovascular conditions,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,electrocardiogram interpretation,Electrocardiogram Interpretation,1,verified,electrocardiogram interpretation,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,echocardiography techniques,Echocardiography Techniques,1,verified,echocardiography techniques,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,myocardial infarction diagnosis,Myocardial Infarction Diagnosis,1,verified,myocardial infarction diagnosis,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,congestive heart failure treatment,Congestive Heart Failure Treatment,1,verified,congestive heart failure treatment,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,gastrointestinal disorders,Gastrointestinal Disorders,1,verified,gastrointestinal disorders,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,common gastrointestinal symptoms,Common Gastrointestinal Symptoms,1,verified,common gastrointestinal symptoms,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,peptic ulcer disease,Peptic Ulcer Disease,1,verified,peptic ulcer disease,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,inflammatory bowel disease,Inflammatory Bowel Disease,1,verified,inflammatory bowel disease,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,gastroesophageal reflux disease,Gastroesophageal Reflux Disease,1,verified,gastroesophageal reflux disease,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,abdominal pain causes,Abdominal Pain Causes,1,verified,abdominal pain causes,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,gastrointestinal medications,Gastrointestinal Medications,1,verified,gastrointestinal medications,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,endoscopy procedure,Endoscopy Procedure,1,verified,endoscopy procedure,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,colonoscopy technique,Colonoscopy Technique,1,verified,colonoscopy technique,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,diagnostic imaging techniques,Diagnostic imaging techniques,4,verified,diagnostic imaging techniques,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,medications for non-orthopedic conditions,Medications for non-orthopedic conditions,10,verified,medications for non-orthopedic conditions,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,X-Ray diagnostic procedures,X-Ray diagnostic procedures,2,verified,X-Ray diagnostic procedures,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,CT Scan diagnostic procedures,CT Scan diagnostic procedures,2,verified,CT Scan diagnostic procedures,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,MRI diagnostic procedures,MRI diagnostic procedures,2,verified,MRI diagnostic procedures,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,bone scan diagnostic procedures,Bone scan diagnostic procedures,2,verified,bone scan diagnostic procedures,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,fluoroscopy diagnostic procedures,Fluoroscopy diagnostic procedures,2,verified,fluoroscopy diagnostic procedures,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,PET diagnostic procedures,PET diagnostic procedures,2,verified,PET diagnostic procedures,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,genitourinary conditions,Genitourinary conditions,1,verified,genitourinary conditions,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,gynecological disorders,Gynecological disorders,1,verified,gynecological disorders,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,urinary tract infections,Urinary tract infections,1,verified,urinary tract infections,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,kidney stones formation,Kidney stones formation,1,verified,kidney stones formation,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,female reproductive system,Female reproductive system,1,verified,female reproductive system,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,male reproductive system,Male reproductive system,1,verified,male reproductive system,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,hormonal imbalances symptoms,Hormonal imbalances symptoms,1,verified,hormonal imbalances symptoms,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,infertility causes and treatment,Infertility causes and treatment,1,verified,infertility causes and treatment,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,pregnancy complications in athletes,Pregnancy complications in athletes,1,verified,pregnancy complications in athletes,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,neurological system disorders,Neurological System Disorders,1,verified,neurological system disorders,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,cerebral concussions diagnosis,Cerebral Concussions Diagnosis,1,verified,cerebral concussions diagnosis,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,traumatic brain injury,Traumatic brain injury,2,verified,traumatic brain injury,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,spinal cord injuries,Spinal Cord Injuries,1,verified,spinal cord injuries,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,migraines and headaches,Migraines and Headaches,1,verified,migraines and headaches,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,stroke symptoms recognition,Stroke Symptoms Recognition,1,verified,stroke symptoms recognition,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,seizure types classification,Seizure Types Classification,1,verified,seizure types classification,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,neuropathy causes treatment,Neuropathy Causes Treatment,1,verified,neuropathy causes treatment,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,multiple sclerosis overview,Multiple Sclerosis Overview,1,verified,multiple sclerosis overview,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,imaging techniques,imaging techniques,20,verified,imaging techniques,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,diagnostic procedures,Diagnostic Procedures,25,verified,diagnostic procedures,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,medication management,Medication Management,4,verified,medication management,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,ocular trauma,Ocular Trauma,1,verified,ocular trauma,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,visual acuity,Visual Acuity,1,verified,visual acuity,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,refraction errors,Refraction Errors,1,verified,refraction errors,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,conjunctivitis symptoms,Conjunctivitis Symptoms,1,verified,conjunctivitis symptoms,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,ham muscle anatomy,Ham Muscle Anatomy,2,verified,ham muscle anatomy,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,ham diagnostic criteria,Ham Diagnostic Criteria,2,verified,ham diagnostic criteria,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,imaging techniques in sports,Imaging Techniques in Sports,8,verified,imaging techniques in sports,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,bone scan procedure,Bone Scan Procedure,1,verified,bone scan procedure,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,fluoroscopy uses and risks,Fluoroscopy Uses and Risks,1,verified,fluoroscopy uses and risks,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,MRI applications in medicine,MRI Applications in Medicine,1,verified,MRI applications in medicine,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,CT Scan interpretation,CT Scan Interpretation,1,verified,CT Scan interpretation,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,PET Scan indications,PET Scan Indications,2,verified,PET Scan indications,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,X-Ray limitations and alternatives,X-Ray Limitations and Alternatives,1,verified,X-Ray limitations and alternatives,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,cardiovascular disease,Cardiovascular Disease,2,verified,cardiovascular disease,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,respiratory conditions,Respiratory conditions,1,verified,respiratory conditions,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,neurological symptoms,Neurological symptoms,1,verified,neurological symptoms,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,gastrointestinal issues,Gastrointestinal issues,1,verified,gastrointestinal issues,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,medication side effects,Medication side effects,1,verified,medication side effects,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,imaging techniques comparison,Imaging techniques comparison,1,verified,imaging techniques comparison,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,diagnostic procedure selection,Diagnostic procedure selection,1,verified,diagnostic procedure selection,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,infectious disease transmission,Infectious disease transmission,1,verified,infectious disease transmission,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,common infectious diseases in athletes,Common infectious diseases in athletes,1,verified,common infectious diseases in athletes,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,viral and bacterial infections,Viral and bacterial infections,1,verified,viral and bacterial infections,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,fungal and parasitic infections,Fungal and parasitic infections,1,verified,fungal and parasitic infections,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,symptoms of infectious diseases,Symptoms of infectious diseases,1,verified,symptoms of infectious diseases,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,diagnosis of infectious diseases,Diagnosis of infectious diseases,1,verified,diagnosis of infectious diseases,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,treatment of infectious diseases,Treatment of infectious diseases,1,verified,treatment of infectious diseases,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,antibiotic resistance mechanisms,Antibiotic resistance mechanisms,1,verified,antibiotic resistance mechanisms,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,immunosuppression in athletes,Immunosuppression in athletes,1,verified,immunosuppression in athletes,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,endocrine system function,Endocrine System Function,1,verified,endocrine system function,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,hormonal imbalance causes,Hormonal Imbalance Causes,1,verified,hormonal imbalance causes,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,diabetes mellitus symptoms,Diabetes Mellitus Symptoms,1,verified,diabetes mellitus symptoms,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,adrenal insufficiency treatment,Adrenal Insufficiency Treatment,1,verified,adrenal insufficiency treatment,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,thyroid disorders diagnosis,Thyroid Disorders Diagnosis,1,verified,thyroid disorders diagnosis,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,pituitary gland dysfunction,Pituitary Gland Dysfunction,1,verified,pituitary gland dysfunction,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,insulin resistance mechanisms,Insulin Resistance Mechanisms,1,verified,insulin resistance mechanisms,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,glucocorticoid replacement therapy,Glucocorticoid Replacement Therapy,1,verified,glucocorticoid replacement therapy,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,hyperthyroidism medications,Hyperthyroidism Medications,1,verified,hyperthyroidism medications,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,skin infections,Skin Infections,2,verified,skin infections,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,eczema symptoms,Eczema Symptoms,2,verified,eczema symptoms,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,psoriasis treatment,Psoriasis Treatment,2,verified,psoriasis treatment,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,acne pathophysiology,Acne Pathophysiology,1,verified,acne pathophysiology,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,warts diagnosis,Warts Diagnosis,1,verified,warts diagnosis,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,moles characteristics,Moles Characteristics,1,verified,moles characteristics,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,skin cancer types,Skin Cancer Types,1,verified,skin cancer types,ATRN_6119_concepts_raw.json
+ATRN_6119,concept,rash identification,Rash Identification,1,verified,rash identification,ATRN_6119_concepts_raw.json

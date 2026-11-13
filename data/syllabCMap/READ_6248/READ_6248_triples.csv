@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+READ_6248,cognitive science,topic,PREREQUISITE_OF,literacy development,topic,A taught first,,READ_6248_triples_raw.json
+READ_6248,neuroscience,topic,PREREQUISITE_OF,reading brain,topic,same unit,,READ_6248_triples_raw.json
+READ_6248,developmental science,topic,PREREQUISITE_OF,literacy development,topic,B mentioned first,,READ_6248_triples_raw.json
+READ_6248,education,topic,PREREQUISITE_OF,effective literacy instruction,topic,B mentioned first,,READ_6248_triples_raw.json
+READ_6248,cognitive science,topic,USED_FOR,literacy development,topic,,topic used for something - check direction,READ_6248_triples_raw.json
+READ_6248,developmental science,topic,USED_FOR,literacy development,topic,,topic used for something - check direction,READ_6248_triples_raw.json
+READ_6248,education,topic,USED_FOR,effective literacy instruction,topic,,topic used for something - check direction,READ_6248_triples_raw.json

@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_5232,topic,Electromagnetic Waves in Vacuum,electromagnetic waves in vacuum,1,verified,Electromagnetic Waves in Vacuum,PHYS_5232_concepts_raw.json
+PHYS_5232,topic,Potentials and Fields,potentials and fields,1,verified,Potentials and Fields,PHYS_5232_concepts_raw.json
+PHYS_5232,topic,Energy and Momentum in Electromagnetism,energy and momentum in electromagnetism,1,verified,Energy and Momentum in Electromagnetism,PHYS_5232_concepts_raw.json
+PHYS_5232,topic,Electrodynamics Basics,Electrodynamics Basics,1,inferred,Electrodynamics Basics,PHYS_5232_concepts_raw.json
+PHYS_5232,topic,Electromagnetic Waves in Media,Electromagnetic Waves in Media,1,inferred,Electromagnetic Waves in Media,PHYS_5232_concepts_raw.json
+PHYS_5232,topic,Electromagnetic Wave Radiation,Electromagnetic Wave Radiation,1,inferred,Electromagnetic Wave Radiation,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Lorentz Force Equation,Lorentz Force Equation,1,inferred,Lorentz Force Equation,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Charge Conservation Law,Charge Conservation Law,1,inferred,Charge Conservation Law,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Gauss's Law for Electric Field,Gauss's Law for Electric Field,1,inferred,Gauss's Law for Electric Field,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Wave Propagation Speed,Wave Propagation Speed,1,inferred,Wave Propagation Speed,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Poynting Vector Definition,Poynting Vector Definition,1,inferred,Poynting Vector Definition,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Refraction Index Definition,Refraction Index Definition,1,inferred,Refraction Index Definition,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Snell's Law Application,Snell's Law Application,1,inferred,Snell's Law Application,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Total Internal Reflection,Total Internal Reflection,1,inferred,Total Internal Reflection,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Scalar Potential Definition,Scalar Potential Definition,1,inferred,Scalar Potential Definition,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Vector Potential Definition,Vector Potential Definition,1,inferred,Vector Potential Definition,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Gauge Invariance Principle,Gauge Invariance Principle,1,inferred,Gauge Invariance Principle,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Poynting Vector Energy Density,Poynting Vector Energy Density,1,inferred,Poynting Vector Energy Density,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Momentum Conservation Law,Momentum Conservation Law,1,inferred,Momentum Conservation Law,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Radiation Pressure Concept,Radiation Pressure Concept,1,inferred,Radiation Pressure Concept,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Dipole Radiation Pattern,Dipole Radiation Pattern,1,inferred,Dipole Radiation Pattern,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Multipole Radiation Expansion,Multipole Radiation Expansion,1,inferred,Multipole Radiation Expansion,PHYS_5232_concepts_raw.json
+PHYS_5232,concept,Larmor Formula Derivation,Larmor Formula Derivation,1,inferred,Larmor Formula Derivation,PHYS_5232_concepts_raw.json

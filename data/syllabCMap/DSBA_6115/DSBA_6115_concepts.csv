@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6115,concept,statistical learning principles,statistical learning principles,2,verified,statistical learning principles,DSBA_6115_concepts_raw.json
+DSBA_6115,topic,Classical Linear Methods for Regression and Classification,classical linear methods for regression and classification,2,verified,Classical Linear Methods for Regression and Classification,DSBA_6115_concepts_raw.json
+DSBA_6115,concept,cross-validation,cross-validation,2,verified,cross-validation,DSBA_6115_concepts_raw.json
+DSBA_6115,topic,Bootstrap Methods,bootstrap methods,2,verified,Bootstrap Methods,DSBA_6115_concepts_raw.json
+DSBA_6115,topic,Modern Linear Techniques,modern linear techniques,2,verified,Modern Linear Techniques,DSBA_6115_concepts_raw.json
+DSBA_6115,topic,Non-Linear Approaches,non-linear approaches,2,verified,Non-Linear Approaches,DSBA_6115_concepts_raw.json
+DSBA_6115,topic,Tree-Based Models,tree-based models,2,verified,Tree-Based Models,DSBA_6115_concepts_raw.json
+DSBA_6115,topic,Support Vector Machines,support vector machines,2,verified,Support Vector Machines,DSBA_6115_concepts_raw.json
+DSBA_6115,topic,Unsupervised Learning,unsupervised learning,2,verified,Unsupervised Learning,DSBA_6115_concepts_raw.json
+DSBA_6115,concept,classical linear methods,classical linear methods,2,verified,classical linear methods,DSBA_6115_concepts_raw.json
+DSBA_6115,tool,R,R,4,verified,R,DSBA_6115_concepts_raw.json
+DSBA_6115,tool,Data Camp Introduction to R,Data Camp Introduction to R,1,verified,Data Camp Introduction to R,DSBA_6115_concepts_raw.json

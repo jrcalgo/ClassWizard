@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_3321,topic,Criminal Justice System,criminal justice system,1,verified,Criminal Justice System,CJUS_3321_concepts_raw.json
+CJUS_3321,topic,Arrest and Detention,Arrest and Detention,1,inferred,Arrest and Detention,CJUS_3321_concepts_raw.json
+CJUS_3321,topic,Search and Seizure Laws,Search and Seizure Laws,1,inferred,Search and Seizure Laws,CJUS_3321_concepts_raw.json
+CJUS_3321,topic,Charges and Prosecution,Charges and Prosecution,1,inferred,Charges and Prosecution,CJUS_3321_concepts_raw.json
+CJUS_3321,topic,Pre-Trial Procedures,Pre-Trial Procedures,1,inferred,Pre-Trial Procedures,CJUS_3321_concepts_raw.json
+CJUS_3321,topic,Trial Process and Evidence,Trial Process and Evidence,1,inferred,Trial Process and Evidence,CJUS_3321_concepts_raw.json
+CJUS_3321,topic,Sentencing and Punishment,Sentencing and Punishment,1,inferred,Sentencing and Punishment,CJUS_3321_concepts_raw.json
+CJUS_3321,topic,Appeals and Post-Conviction,Appeals and Post-Conviction,1,inferred,Appeals and Post-Conviction,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Criminal Justice System Overview,Criminal Justice System Overview,1,inferred,Criminal Justice System Overview,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Role of Law Enforcement,Role of Law Enforcement,1,inferred,Role of Law Enforcement,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Justice System Structure,Justice System Structure,1,inferred,Justice System Structure,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Warrantless Arrests,Warrantless Arrests,1,inferred,Warrantless Arrests,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Probable Cause Requirements,Probable Cause Requirements,1,inferred,Probable Cause Requirements,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Miranda Rights Explained,Miranda Rights Explained,1,inferred,Miranda Rights Explained,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Reasonable Search Standards,Reasonable Search Standards,1,inferred,Reasonable Search Standards,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Exigent Circumstances Exceptions,Exigent Circumstances Exceptions,1,inferred,Exigent Circumstances Exceptions,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Fourth Amendment Protections,Fourth Amendment Protections,1,inferred,Fourth Amendment Protections,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Felony vs Misdemeanor Charges,Felony vs Misdemeanor Charges,1,inferred,Felony vs Misdemeanor Charges,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Grand Jury Process Explained,Grand Jury Process Explained,1,inferred,Grand Jury Process Explained,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Prosecutorial Discretion,Prosecutorial Discretion,1,inferred,Prosecutorial Discretion,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Bail and Bond Systems,Bail and Bond Systems,1,inferred,Bail and Bond Systems,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Plea Bargaining Negotiations,Plea Bargaining Negotiations,1,inferred,Plea Bargaining Negotiations,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Discovery Rules Applied,Discovery Rules Applied,1,inferred,Discovery Rules Applied,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Burden of Proof Requirements,Burden of Proof Requirements,1,inferred,Burden of Proof Requirements,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Types of Evidence Admitted,Types of Evidence Admitted,1,inferred,Types of Evidence Admitted,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Witness Testimony Standards,Witness Testimony Standards,1,inferred,Witness Testimony Standards,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Determinate vs Indeterminate Sentences,Determinate vs Indeterminate Sentences,1,inferred,Determinate vs Indeterminate Sentences,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Parole and Probation Systems,Parole and Probation Systems,1,inferred,Parole and Probation Systems,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Punitive vs Rehabilitative Goals,Punitive vs Rehabilitative Goals,1,inferred,Punitive vs Rehabilitative Goals,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Direct Appeal Process Explained,Direct Appeal Process Explained,1,inferred,Direct Appeal Process Explained,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Post-Conviction Relief Options,Post-Conviction Relief Options,1,inferred,Post-Conviction Relief Options,CJUS_3321_concepts_raw.json
+CJUS_3321,concept,Habeas Corpus Petitions Filed,Habeas Corpus Petitions Filed,1,inferred,Habeas Corpus Petitions Filed,CJUS_3321_concepts_raw.json

@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PROS_2302,topic,Human Resource Management,Human Resource Management,1,verified,Human Resource Management,PROS_2302_concepts_raw.json
+PROS_2302,topic,Employee Engagement,employee engagement,1,verified,Employee Engagement,PROS_2302_concepts_raw.json
+PROS_2302,topic,Employee Relations,employee relations,1,verified,Employee Relations,PROS_2302_concepts_raw.json
+PROS_2302,topic,Compensation Planning,Compensation Planning,1,inferred,Compensation Planning,PROS_2302_concepts_raw.json
+PROS_2302,concept,Labor Laws and Regulations Compliance,Labor Laws and Regulations Compliance,1,inferred,Labor Laws and Regulations Compliance,PROS_2302_concepts_raw.json
+PROS_2302,topic,Conflict Resolution,Conflict Resolution,1,inferred,Conflict Resolution,PROS_2302_concepts_raw.json
+PROS_2302,topic,Effective Communication,Effective Communication,1,inferred,Effective Communication,PROS_2302_concepts_raw.json
+PROS_2302,concept,Fair Market Value and Equity,Fair Market Value and Equity,1,inferred,Fair Market Value and Equity,PROS_2302_concepts_raw.json
+PROS_2302,concept,Salary Structure and Incentives,Salary Structure and Incentives,1,inferred,Salary Structure and Incentives,PROS_2302_concepts_raw.json
+PROS_2302,concept,Benefits and Perks Administration,Benefits and Perks Administration,1,inferred,Benefits and Perks Administration,PROS_2302_concepts_raw.json
+PROS_2302,concept,Globalization and Its Impact on HRM,Globalization and Its Impact on HRM,1,inferred,Globalization and Its Impact on HRM,PROS_2302_concepts_raw.json
+PROS_2302,concept,Technological Advancements in HRM,Technological Advancements in HRM,1,inferred,Technological Advancements in HRM,PROS_2302_concepts_raw.json
+PROS_2302,topic,"Diversity, Equity, and Inclusion","Diversity, Equity, and Inclusion",1,inferred,"Diversity, Equity, and Inclusion",PROS_2302_concepts_raw.json
+PROS_2302,concept,Human Resource Management Definition,Human Resource Management Definition,1,inferred,Human Resource Management Definition,PROS_2302_concepts_raw.json
+PROS_2302,concept,Importance of HRM in Organizations,Importance of HRM in Organizations,1,inferred,Importance of HRM in Organizations,PROS_2302_concepts_raw.json
+PROS_2302,concept,Motivating Employees through Recognition,Motivating Employees through Recognition,1,inferred,Motivating Employees through Recognition,PROS_2302_concepts_raw.json
+PROS_2302,concept,Creating a Positive Work Environment,Creating a Positive Work Environment,1,inferred,Creating a Positive Work Environment,PROS_2302_concepts_raw.json
+PROS_2302,concept,Employee Empowerment and Autonomy,Employee Empowerment and Autonomy,1,inferred,Employee Empowerment and Autonomy,PROS_2302_concepts_raw.json
+PROS_2302,concept,Conflict Resolution in the Workplace,Conflict Resolution in the Workplace,1,inferred,Conflict Resolution in the Workplace,PROS_2302_concepts_raw.json
+PROS_2302,concept,Effective Communication with Employees,Effective Communication with Employees,1,inferred,Effective Communication with Employees,PROS_2302_concepts_raw.json
+PROS_2302,concept,Diversity,Diversity,1,inferred,"Diversity, Equity, and Inclusion in the Workplace",PROS_2302_concepts_raw.json
+PROS_2302,concept,Equity,Equity,2,inferred,"Diversity, Equity, and Inclusion in the Workplace",PROS_2302_concepts_raw.json
+PROS_2302,concept,Inclusion in the Workplace,Inclusion in the Workplace,1,inferred,"Diversity, Equity, and Inclusion in the Workplace",PROS_2302_concepts_raw.json

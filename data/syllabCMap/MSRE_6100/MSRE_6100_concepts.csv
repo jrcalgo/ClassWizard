@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MSRE_6100,method,ARGUS,ARGUS,1,verified,ARGUS,MSRE_6100_concepts_raw.json
+MSRE_6100,topic,Communication Skills,communication skills,1,verified,Communication Skills,MSRE_6100_concepts_raw.json
+MSRE_6100,topic,Alumni and Industry Connections,alumni and industry connections,1,verified,Alumni and Industry Connections,MSRE_6100_concepts_raw.json
+MSRE_6100,concept,Ethical Business Practices,ethical business practices,1,verified,Ethical Business Practices,MSRE_6100_concepts_raw.json
+MSRE_6100,method,Excel,Excel,1,verified,Excel,MSRE_6100_concepts_raw.json

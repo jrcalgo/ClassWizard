@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_1203L,topic,Chemistry,Chemistry,1,verified,Chemistry,CHEM_1203L_concepts_raw.json
+CHEM_1203L,topic,Lab Safety Fundamentals,Lab Safety Fundamentals,1,inferred,Lab Safety Fundamentals,CHEM_1203L_concepts_raw.json
+CHEM_1203L,topic,Laboratory Equipment Familiarization,Laboratory Equipment Familiarization,1,inferred,Laboratory Equipment Familiarization,CHEM_1203L_concepts_raw.json
+CHEM_1203L,topic,Chemical Terminology and Nomenclature,Chemical Terminology and Nomenclature,1,inferred,Chemical Terminology and Nomenclature,CHEM_1203L_concepts_raw.json
+CHEM_1203L,topic,Scientific Inquiry and Observation,Scientific Inquiry and Observation,1,inferred,Scientific Inquiry and Observation,CHEM_1203L_concepts_raw.json
+CHEM_1203L,topic,Inorganic Compound Characterization,Inorganic Compound Characterization,1,inferred,Inorganic Compound Characterization,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Personal Protective Equipment,Personal Protective Equipment,1,inferred,Personal Protective Equipment,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Chemical Handling Procedures,Chemical Handling Procedures,1,inferred,Chemical Handling Procedures,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Emergency Response Protocols,Emergency Response Protocols,1,inferred,Emergency Response Protocols,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Microscope Use and Care,Microscope Use and Care,1,inferred,Microscope Use and Care,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Balance Calibration Techniques,Balance Calibration Techniques,1,inferred,Balance Calibration Techniques,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Pipette Handling and Measurement,Pipette Handling and Measurement,1,inferred,Pipette Handling and Measurement,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,IUPAC Naming Conventions,IUPAC Naming Conventions,1,inferred,IUPAC Naming Conventions,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Chemical Formula Notation Systems,Chemical Formula Notation Systems,1,inferred,Chemical Formula Notation Systems,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Molecular Structure Representation,Molecular Structure Representation,1,inferred,Molecular Structure Representation,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Questioning and Hypothesis Formation,Questioning and Hypothesis Formation,1,inferred,Questioning and Hypothesis Formation,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Experimental Design Principles,Experimental Design Principles,1,inferred,Experimental Design Principles,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Data Collection and Recording Methods,Data Collection and Recording Methods,1,inferred,Data Collection and Recording Methods,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Physical Properties of Compounds,Physical Properties of Compounds,1,inferred,Physical Properties of Compounds,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Chemical Reactions and Stoichiometry,Chemical Reactions and Stoichiometry,1,inferred,Chemical Reactions and Stoichiometry,CHEM_1203L_concepts_raw.json
+CHEM_1203L,concept,Spectroscopic Analysis Techniques,Spectroscopic Analysis Techniques,1,inferred,Spectroscopic Analysis Techniques,CHEM_1203L_concepts_raw.json

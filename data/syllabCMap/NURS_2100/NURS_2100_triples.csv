@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_2100,Macronutrients and Energy,concept,PART_OF,Nutrition Fundamentals,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Water and Electrolytes Balance,concept,PART_OF,Nutrition Fundamentals,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Infant and Toddler Nutrition,concept,PART_OF,Life Cycle Nutrition,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Childhood and Adolescent Nutrition,concept,PART_OF,Life Cycle Nutrition,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Diet History Collection Methods,concept,PART_OF,Nutrition Assessment,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Anthropometric Measurements Techniques,concept,PART_OF,Nutrition Assessment,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Lab Values and Interpretation,concept,PART_OF,Nutrition Assessment,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Cultural Influences on Nutrition,concept,PART_OF,Behavioral Aspects,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Registered Dietitian Responsibilities,concept,PART_OF,Health Team Roles,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Nutrition Support in Hospitals,concept,PART_OF,Health Team Roles,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Community Health Worker Involvement,concept,PART_OF,Health Team Roles,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Study Design and Methodology,concept,PART_OF,Research and Evidence,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Global Food Security Issues,concept,PART_OF,Population Nutrition,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Food Insecurity and Poverty,concept,PART_OF,Population Nutrition,topic,,,NURS_2100_triples_raw.json
+NURS_2100,Nutrition Policy and Advocacy,concept,PART_OF,Population Nutrition,topic,,,NURS_2100_triples_raw.json

@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_4797,Analyzing Secondary Sources,topic,PREREQUISITE_OF,Bibliographical Analysis Techniques,concept,same unit,,HIST_4797_triples_raw.json
+HIST_4797,Thesis Proposal Development,topic,PREREQUISITE_OF,Draft Honors Thesis Preparation,topic,A taught first,,HIST_4797_triples_raw.json
+HIST_4797,Bibliographical Analysis Techniques,concept,PART_OF,Analyzing Secondary Sources,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Analyzing Secondary Sources,topic,PART_OF,Source Use and Evaluation,concept,,part is broader than whole - check direction,HIST_4797_triples_raw.json
+HIST_4797,Historical Criticism Principles,concept,PART_OF,Analyzing Secondary Sources,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Historiographical Debates Overview,concept,PART_OF,Methodological Approaches,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Research Methodologies Comparison,concept,PART_OF,Methodological Approaches,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Theoretical Frameworks Application,concept,PART_OF,Methodological Approaches,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Effective Oral Communication Skills,concept,PART_OF,Oral Communication and Presentation,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Presentation Structure and Delivery,concept,PART_OF,Oral Communication and Presentation,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Question Answering Strategies,concept,PART_OF,Oral Communication and Presentation,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Research Design and Implementation,concept,PART_OF,Historiographical Research Findings,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Data Analysis and Interpretation,concept,PART_OF,Historiographical Research Findings,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Conclusion Writing Techniques,concept,PART_OF,Historiographical Research Findings,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Research Question Refining,concept,PART_OF,Thesis Proposal Development,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Literature Review Organization,concept,PART_OF,Thesis Proposal Development,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Argumentation and Evidence,concept,PART_OF,Thesis Proposal Development,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Historical Contextualization Techniques,concept,PART_OF,Draft Honors Thesis Preparation,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Evidence-Based Argumentation,concept,PART_OF,Draft Honors Thesis Preparation,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Source Use and Evaluation,concept,USED_FOR,Analyzing Secondary Sources,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Historiographical Debates Overview,concept,USED_FOR,Methodological Approaches,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Theoretical Frameworks Application,concept,USED_FOR,Methodological Approaches,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Effective Oral Communication Skills,concept,USED_FOR,Oral Communication and Presentation,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Presentation Structure and Delivery,concept,USED_FOR,Oral Communication and Presentation,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Question Answering Strategies,concept,USED_FOR,Oral Communication and Presentation,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Research Design and Implementation,concept,USED_FOR,Historiographical Research Findings,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Data Analysis and Interpretation,concept,USED_FOR,Historiographical Research Findings,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Conclusion Writing Techniques,concept,USED_FOR,Historiographical Research Findings,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Argumentation and Evidence,concept,USED_FOR,Thesis Proposal Development,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Literature Review Organization,concept,USED_FOR,Thesis Proposal Development,topic,,,HIST_4797_triples_raw.json
+HIST_4797,Writing Style and Conventions,concept,USED_FOR,Draft Honors Thesis Preparation,topic,,,HIST_4797_triples_raw.json

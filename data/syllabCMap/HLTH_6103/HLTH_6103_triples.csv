@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6103,Women's Reproductive Rights,concept,PREREQUISITE_OF,Family Planning Programs,concept,same unit,,HLTH_6103_triples_raw.json
+HLTH_6103,Maternal and Child Health Overview,concept,PART_OF,Maternal and Child Health Systems,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Historical Context of MCH,concept,PART_OF,Maternal and Child Health Systems,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Social Determinants of Health,concept,PART_OF,Maternal and Child Health Systems,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Federally Funded Programs for Women,concept,PART_OF,State Health System Structure,concept,,,HLTH_6103_triples_raw.json
+HLTH_6103,Infant and Children's Programs,concept,PART_OF,State Health System Structure,concept,,,HLTH_6103_triples_raw.json
+HLTH_6103,Programmatic Supports for MCH,concept,PART_OF,State Health System Structure,concept,,,HLTH_6103_triples_raw.json
+HLTH_6103,Local Level Service Delivery,concept,PART_OF,State Health System Structure,concept,,,HLTH_6103_triples_raw.json
+HLTH_6103,Human Development Theories,concept,PART_OF,Life Course Perspective,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Health Behavior Models,concept,PART_OF,Life Course Perspective,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Communication Strategies,concept,PART_OF,Life Course Perspective,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Women's Reproductive Rights,concept,PART_OF,Reproductive Health Services,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Infant and Child Health Care,concept,PART_OF,Reproductive Health Services,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Family Planning Programs,concept,PART_OF,Reproductive Health Services,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Role of Advocacy in MCH,concept,PART_OF,Advocacy and Policy,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Public Policy Impact on MCH,concept,PART_OF,Advocacy and Policy,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Societal Costs and Benefits,concept,PART_OF,Advocacy and Policy,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,MCH Program Evaluation Methods,concept,PART_OF,Case Studies and Analysis,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Case Study Design and Implementation,concept,PART_OF,Case Studies and Analysis,topic,,,HLTH_6103_triples_raw.json
+HLTH_6103,Data Analysis for MCH Decision-Making,concept,PART_OF,Case Studies and Analysis,topic,,,HLTH_6103_triples_raw.json

@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTL_4981,Research Methods in Art,concept,PREREQUISITE_OF,Project Conceptualization,topic,same unit,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,PREREQUISITE_OF,Digital Portfolio Development,topic,A taught first,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,PREREQUISITE_OF,Self-Promotion Strategies,topic,A taught first,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,PREREQUISITE_OF,Project Proposal Development,topic,A taught first,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,PREREQUISITE_OF,Midterm Critique Preparation,topic,A taught first,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,PREREQUISITE_OF,Digital Presentation Skills,topic,A taught first,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,PREREQUISITE_OF,Installation and Exhibition Preparation,topic,A taught first,,ARTL_4981_triples_raw.json
+ARTL_4981,Project Conceptualization,topic,PART_OF,Illustration Projects,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Digital Portfolio Development,topic,PART_OF,Illustration Projects,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Self-Promotion Strategies,topic,PART_OF,Illustration Projects,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Project Proposal Development,topic,PART_OF,Illustration Projects,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Midterm Critique Preparation,topic,PART_OF,Illustration Projects,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Digital Presentation Skills,topic,PART_OF,Illustration Projects,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Project Implementation and Progress,topic,PART_OF,Illustration Projects,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Project Reviews and Feedback,topic,PART_OF,Illustration Projects,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Installation and Exhibition Preparation,topic,PART_OF,Illustration Projects,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,USED_FOR,Project Conceptualization,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,USED_FOR,Self-Promotion Strategies,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,USED_FOR,Project Proposal Development,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,USED_FOR,Midterm Critique Preparation,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,USED_FOR,Digital Presentation Skills,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,USED_FOR,Project Implementation and Progress,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,USED_FOR,Project Reviews and Feedback,topic,,,ARTL_4981_triples_raw.json
+ARTL_4981,Research Methods in Art,concept,USED_FOR,Installation and Exhibition Preparation,topic,,,ARTL_4981_triples_raw.json

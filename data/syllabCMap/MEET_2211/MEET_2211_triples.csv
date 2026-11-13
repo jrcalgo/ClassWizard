@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_2211,Graphics Communication Basics,concept,PART_OF,Graphics Communication,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Computer-Aided Design Overview,concept,PART_OF,Computer-Aided Design,topic,,,MEET_2211_triples_raw.json
+MEET_2211,SOLIDWORKS User Interface Elements,concept,PART_OF,SOLIDWORKS Interface,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Navigation and Selection Techniques,concept,PART_OF,SOLIDWORKS Interface,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Basic Modeling Tools Introduction,concept,PART_OF,3D Modeling Essentials,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Constraints and Dimensions Basics,concept,PART_OF,2D Sketching Fundamentals,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Sketch Modification Techniques,concept,PART_OF,2D Sketching Fundamentals,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Solid Modeling Concepts Overview,concept,PART_OF,3D Modeling Essentials,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Mates and Assemblies Basics,concept,PART_OF,Assembly Modeling Fundamentals,topic,,,MEET_2211_triples_raw.json
+MEET_2211,View and Projection Control,concept,PART_OF,SOLIDWORKS Drawing Tools,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Annotation and Dimensioning Techniques,concept,PART_OF,SOLIDWORKS Drawing Tools,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Assembly Design Principles Overview,concept,PART_OF,Assembly Modeling Fundamentals,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Component and Mate Management,concept,PART_OF,Assembly Modeling Fundamentals,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Sheet Metal and Weldments Introduction,concept,PART_OF,Advanced SOLIDWORKS Topics,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Advanced Assembly Techniques,concept,PART_OF,Advanced SOLIDWORKS Topics,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Manufacturing Process Overview,concept,PART_OF,Design for Manufacturing,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Design for Assembly and Disassembly,concept,PART_OF,Design for Manufacturing,topic,,,MEET_2211_triples_raw.json
+MEET_2211,Material Selection and Properties,concept,PART_OF,Design for Manufacturing,topic,,,MEET_2211_triples_raw.json
+MEET_2211,SOLIDWORKS,tool,USED_FOR,Assembly Modeling Fundamentals,topic,,,MEET_2211_triples_raw.json
+MEET_2211,SOLIDWORKS,tool,USED_FOR,Advanced SOLIDWORKS Topics,topic,,,MEET_2211_triples_raw.json

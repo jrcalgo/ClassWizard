@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_4165,major biological molecules,concept,PREREQUISITE_OF,Principles of Biochemistry,topic,B mentioned first,,CHEM_4165_triples_raw.json
+CHEM_4165,thermodynamics,concept,PREREQUISITE_OF,kinetics,concept,A taught first,,CHEM_4165_triples_raw.json

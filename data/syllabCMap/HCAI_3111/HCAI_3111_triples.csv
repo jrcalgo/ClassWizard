@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCAI_3111,Medieval Roots,topic,PREREQUISITE_OF,History of Public Health,topic,A mentioned first,,HCAI_3111_triples_raw.json
+HCAI_3111,Pre-Revolutionary Era,topic,PREREQUISITE_OF,Jacksonian Period,topic,A taught first,,HCAI_3111_triples_raw.json
+HCAI_3111,Progressive Era,topic,PREREQUISITE_OF,Great Depression and Beyond,topic,A taught first,,HCAI_3111_triples_raw.json

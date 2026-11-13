@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6208,Push/pull views,concept,PREREQUISITE_OF,Macro processes,concept,same unit,,MBAD_6208_triples_raw.json
+MBAD_6208,Components of a demand forecast,concept,PREREQUISITE_OF,Different inventory models,concept,A taught first,,MBAD_6208_triples_raw.json
+MBAD_6208,Key financial measures,measure,PREREQUISITE_OF,Significant drivers of supply chain performance,measure,same unit,,MBAD_6208_triples_raw.json
+MBAD_6208,Supply chain decision phases,concept,PART_OF,Supply Chain Management,topic,,,MBAD_6208_triples_raw.json
+MBAD_6208,Goal of a supply chain,concept,PART_OF,Supply Chain Management,topic,,,MBAD_6208_triples_raw.json
+MBAD_6208,Push/pull views,concept,PART_OF,Macro processes,concept,,,MBAD_6208_triples_raw.json

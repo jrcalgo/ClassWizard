@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTC_3171,formal and conceptual relationships,concept,PREREQUISITE_OF,Sculptural Techniques and Processes,topic,A taught first,,ARTC_3171_triples_raw.json
+ARTC_3171,formal and conceptual relationships,concept,PREREQUISITE_OF,Design Principles in Sculpture,topic,A taught first,,ARTC_3171_triples_raw.json
+ARTC_3171,interdisciplinary research approaches,concept,PREREQUISITE_OF,domain-specific research methods,concept,A taught first,,ARTC_3171_triples_raw.json
+ARTC_3171,contextualizing artwork and ideas,concept,PREREQUISITE_OF,assessment and reflection strategies,concept,A taught first,,ARTC_3171_triples_raw.json
+ARTC_3171,studio practice fundamentals,concept,PART_OF,Ceramic Sculpture,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,ceramic materials properties,concept,PART_OF,Ceramic Sculpture,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,hand-building and throwing techniques,concept,PART_OF,Sculptural Techniques and Processes,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,surface decoration methods,concept,PART_OF,Sculptural Techniques and Processes,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,firing and glazing procedures,concept,PART_OF,Sculptural Techniques and Processes,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,line,concept,PART_OF,Design Principles in Sculpture,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,shape,concept,PART_OF,Design Principles in Sculpture,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,value,concept,PART_OF,Design Principles in Sculpture,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,space,concept,PART_OF,Design Principles in Sculpture,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,domain-specific research methods,concept,PART_OF,Art Education Applications,topic,,,ARTC_3171_triples_raw.json
+ARTC_3171,theory-based instructional design,concept,PART_OF,Art Education Applications,topic,,,ARTC_3171_triples_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_1512,Colonialism and Theatre History,concept,PREREQUISITE_OF,Decolonizing the Stage,concept,same unit,,THEA_1512_triples_raw.json
+THEA_1512,Transnational Cultural Exchange Models,concept,PREREQUISITE_OF,Comparative Analysis of Theatres/Films,concept,same unit,,THEA_1512_triples_raw.json
+THEA_1512,Transnational Cultural Exchange Models,concept,PART_OF,Global Contexts in US Theatre/Film,topic,,,THEA_1512_triples_raw.json

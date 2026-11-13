@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_3215,Stakeholder Engagement Methods,concept,PREREQUISITE_OF,Stakeholder Analysis Techniques,topic,A taught first,,GEOG_3215_triples_raw.json
+GEOG_3215,Green Plans Strategy,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Green Plans Principles,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Community Engagement Strategies,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Stakeholder Engagement Methods,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Stakeholder Engagement Techniques,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Sustainable Communities,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Regional Planning Strategies,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Community Participation Models,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Community Engagement Process,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Green Plans Implementation,concept,PART_OF,Environmental Planning Process,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Green Plans Strategy,concept,SUBTYPE_OF,Green Plans Principles,concept,,,GEOG_3215_triples_raw.json
+GEOG_3215,Stakeholder Engagement Techniques,concept,SUBTYPE_OF,Stakeholder Engagement Methods,concept,,,GEOG_3215_triples_raw.json

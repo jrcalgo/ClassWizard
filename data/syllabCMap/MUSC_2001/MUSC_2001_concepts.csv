@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_2001,topic,Console Operations,console operations,1,verified,Console Operations,MUSC_2001_concepts_raw.json
+MUSC_2001,topic,Digital Audio Workstations,digital audio workstations,2,verified,Digital Audio Workstations,MUSC_2001_concepts_raw.json
+MUSC_2001,topic,Field Recording,field recording,1,verified,Field Recording,MUSC_2001_concepts_raw.json
+MUSC_2001,topic,Studio Fundamentals,Studio Fundamentals,1,inferred,Studio Fundamentals,MUSC_2001_concepts_raw.json
+MUSC_2001,topic,Microphone Techniques,Microphone Techniques,1,inferred,Microphone Techniques,MUSC_2001_concepts_raw.json
+MUSC_2001,topic,Effects Processing,Effects Processing,1,inferred,Effects Processing,MUSC_2001_concepts_raw.json
+MUSC_2001,topic,Mixing Techniques,Mixing Techniques,1,inferred,Mixing Techniques,MUSC_2001_concepts_raw.json
+MUSC_2001,topic,Final Project Preparation,Final Project Preparation,1,inferred,Final Project Preparation,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,microphone selection process,Microphone Selection Process,1,inferred,microphone selection process,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,equipment selection criteria,Equipment Selection Criteria,1,inferred,equipment selection criteria,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,studio signal flow basics,Studio Signal Flow Basics,1,inferred,studio signal flow basics,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,microphone placement strategies,Microphone Placement Strategies,1,inferred,microphone placement strategies,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,polar patterns and applications,Polar Patterns and Applications,1,inferred,polar patterns and applications,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,microphone types and characteristics,Microphone Types and Characteristics,1,inferred,microphone types and characteristics,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,recording console layouts,Recording Console Layouts,1,inferred,recording console layouts,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,signal routing and patching,Signal Routing and Patching,1,inferred,signal routing and patching,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,gain staging techniques,Gain Staging Techniques,1,inferred,gain staging techniques,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,DAW software fundamentals,DAW Software Fundamentals,1,inferred,DAW software fundamentals,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,project setup and organization,Project Setup and Organization,1,inferred,project setup and organization,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,file formats and compatibility,File Formats and Compatibility,1,inferred,file formats and compatibility,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,reverb and delay techniques,Reverb and Delay Techniques,1,inferred,reverb and delay techniques,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,compression and limiting basics,Compression and Limiting Basics,1,inferred,compression and limiting basics,MUSC_2001_concepts_raw.json
+MUSC_2001,concept,EQ and filtering applications,EQ and Filtering Applications,1,inferred,EQ and filtering applications,MUSC_2001_concepts_raw.json

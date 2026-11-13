@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3231,business principles,concept,PREREQUISITE_OF,land development industry practices,topic,A mentioned first,,CEGR_3231_triples_raw.json
+CEGR_3231,business principles,concept,PREREQUISITE_OF,practical engineering solutions,concept,A mentioned first,,CEGR_3231_triples_raw.json
+CEGR_3231,land forms,concept,PART_OF,land development industry practices,topic,,,CEGR_3231_triples_raw.json
+CEGR_3231,environmental factors,topic,PART_OF,land development industry practices,topic,,,CEGR_3231_triples_raw.json
+CEGR_3231,basic business principals,topic,PART_OF,land development industry practices,topic,,,CEGR_3231_triples_raw.json
+CEGR_3231,practical engineering solutions,concept,PART_OF,land development industry practices,topic,,,CEGR_3231_triples_raw.json

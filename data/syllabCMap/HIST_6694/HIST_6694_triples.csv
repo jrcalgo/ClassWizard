@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_6694,Historical Writing,topic,PART_OF,Seminar in Historical Writing,topic,,,HIST_6694_triples_raw.json
+HIST_6694,historiographical awareness,concept,PART_OF,Historical Writing,topic,,,HIST_6694_triples_raw.json
+HIST_6694,conventions of historical writing,concept,PART_OF,Historical Writing,topic,,,HIST_6694_triples_raw.json

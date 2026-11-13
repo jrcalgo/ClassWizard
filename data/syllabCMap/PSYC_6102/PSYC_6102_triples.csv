@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_6102,quasiexperiments,concept,PREREQUISITE_OF,longitudinal designs,method,B mentioned first,,PSYC_6102_triples_raw.json
+PSYC_6102,quasiexperiments,concept,PREREQUISITE_OF,qualitative designs,method,A mentioned first,,PSYC_6102_triples_raw.json
+PSYC_6102,external validity,concept,PREREQUISITE_OF,reliability,concept,same unit,,PSYC_6102_triples_raw.json
+PSYC_6102,observation,method,PART_OF,research design,method,,,PSYC_6102_triples_raw.json
+PSYC_6102,surveys,method,PART_OF,research design,method,,,PSYC_6102_triples_raw.json
+PSYC_6102,longitudinal designs,method,PART_OF,research design,method,,,PSYC_6102_triples_raw.json
+PSYC_6102,qualitative designs,method,PART_OF,research design,method,,,PSYC_6102_triples_raw.json
+PSYC_6102,statistical methods,method,PART_OF,research design,method,,,PSYC_6102_triples_raw.json

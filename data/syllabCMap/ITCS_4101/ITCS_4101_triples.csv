@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_4101,Machine Learning,topic,PREREQUISITE_OF,Natural Language Processing,topic,B mentioned first,,ITCS_4101_triples_raw.json
+ITCS_4101,tokenization,concept,PART_OF,Linguistic Analysis Tasks,topic,,,ITCS_4101_triples_raw.json
+ITCS_4101,syntactic parsing,concept,PART_OF,Linguistic Analysis Tasks,topic,,,ITCS_4101_triples_raw.json
+ITCS_4101,semantic parsing,concept,PART_OF,Linguistic Analysis Tasks,topic,,,ITCS_4101_triples_raw.json
+ITCS_4101,coreference resolution,concept,PART_OF,Linguistic Analysis Tasks,topic,,,ITCS_4101_triples_raw.json
+ITCS_4101,bag-of-words model,concept,PART_OF,Vector Based Representations of Text,topic,,,ITCS_4101_triples_raw.json
+ITCS_4101,TF-IDF model,concept,PART_OF,Vector Based Representations of Text,topic,,,ITCS_4101_triples_raw.json
+ITCS_4101,neural word embeddings,concept,PART_OF,Vector Based Representations of Text,topic,,,ITCS_4101_triples_raw.json
+ITCS_4101,attention,concept,USED_FOR,Machine Learning Models and Techniques,topic,,,ITCS_4101_triples_raw.json

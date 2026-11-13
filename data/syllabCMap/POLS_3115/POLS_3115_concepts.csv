@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_3115,topic,United States Constitutional Law,United States Constitutional Law,1,verified,United States Constitutional Law,POLS_3115_concepts_raw.json
+POLS_3115,topic,Constitutional Law,Constitutional Law,2,verified,Introduction to Constitutional Law,POLS_3115_concepts_raw.json
+POLS_3115,topic,Bill of Rights Overview,Bill of Rights Overview,1,inferred,Bill of Rights Overview,POLS_3115_concepts_raw.json
+POLS_3115,topic,Civil Liberties Development,Civil Liberties Development,1,inferred,Civil Liberties Development,POLS_3115_concepts_raw.json
+POLS_3115,topic,US Supreme Court Cases,US Supreme Court Cases,1,inferred,US Supreme Court Cases,POLS_3115_concepts_raw.json
+POLS_3115,topic,Civil Rights Expansion,Civil Rights Expansion,1,inferred,Civil Rights Expansion,POLS_3115_concepts_raw.json
+POLS_3115,topic,Constitutional Law and Policy,Constitutional Law and Policy,1,inferred,Constitutional Law and Policy,POLS_3115_concepts_raw.json
+POLS_3115,concept,US Constitution Structure,US Constitution Structure,1,inferred,US Constitution Structure,POLS_3115_concepts_raw.json
+POLS_3115,concept,Separation of Powers,Separation of Powers,1,inferred,Separation of Powers,POLS_3115_concepts_raw.json
+POLS_3115,concept,Checks and Balances,Checks and Balances,1,inferred,Checks and Balances,POLS_3115_concepts_raw.json
+POLS_3115,concept,First Amendment Rights,First Amendment Rights,1,inferred,First Amendment Rights,POLS_3115_concepts_raw.json
+POLS_3115,concept,Second Amendment Rights,Second Amendment Rights,1,inferred,Second Amendment Rights,POLS_3115_concepts_raw.json
+POLS_3115,concept,Due Process Clause,Due Process Clause,1,inferred,Due Process Clause,POLS_3115_concepts_raw.json
+POLS_3115,concept,Free Speech Protections,Free Speech Protections,1,inferred,Free Speech Protections,POLS_3115_concepts_raw.json
+POLS_3115,concept,Freedom of Assembly,Freedom of Assembly,1,inferred,Freedom of Assembly,POLS_3115_concepts_raw.json
+POLS_3115,concept,Equal Protection Clause,Equal Protection Clause,1,inferred,Equal Protection Clause,POLS_3115_concepts_raw.json
+POLS_3115,concept,Marbury v Madison Significance,Marbury v Madison Significance,1,inferred,Marbury v Madison Significance,POLS_3115_concepts_raw.json
+POLS_3115,concept,McCulloch v Maryland Impact,McCulloch v Maryland Impact,1,inferred,McCulloch v Maryland Impact,POLS_3115_concepts_raw.json
+POLS_3115,concept,Brown v Board Legacy,Brown v Board Legacy,1,inferred,Brown v Board Legacy,POLS_3115_concepts_raw.json
+POLS_3115,concept,Voting Rights Act of 1965,Voting Rights Act of 1965,1,inferred,Voting Rights Act of 1965,POLS_3115_concepts_raw.json
+POLS_3115,concept,Civil Rights Act of 1964,Civil Rights Act of 1964,1,inferred,Civil Rights Act of 1964,POLS_3115_concepts_raw.json
+POLS_3115,concept,Affirmative Action Debate,Affirmative Action Debate,1,inferred,Affirmative Action Debate,POLS_3115_concepts_raw.json
+POLS_3115,concept,Judicial Review Authority,Judicial Review Authority,1,inferred,Judicial Review Authority,POLS_3115_concepts_raw.json
+POLS_3115,concept,Separation of Church State,Separation of Church State,1,inferred,Separation of Church State,POLS_3115_concepts_raw.json
+POLS_3115,concept,Gun Control Regulations,Gun Control Regulations,1,inferred,Gun Control Regulations,POLS_3115_concepts_raw.json
+POLS_3115,work,US Constitution,US Constitution,1,inferred,US Constitution,POLS_3115_concepts_raw.json
+POLS_3115,work,Marbury v Madison,Marbury v Madison,1,inferred,Marbury v Madison,POLS_3115_concepts_raw.json
+POLS_3115,work,McCulloch v Maryland,McCulloch v Maryland,1,inferred,McCulloch v Maryland,POLS_3115_concepts_raw.json

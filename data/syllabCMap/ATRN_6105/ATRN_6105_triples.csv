@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ATRN_6105,Soft tissue techniques,concept,PART_OF,Therapeutic Modalities,topic,,,ATRN_6105_triples_raw.json
+ATRN_6105,Joint mobilization and manipulation,concept,PART_OF,Therapeutic Modalities,topic,,,ATRN_6105_triples_raw.json
+ATRN_6105,Task-specific functional training,concept,PART_OF,Therapeutic Modalities,topic,,,ATRN_6105_triples_raw.json

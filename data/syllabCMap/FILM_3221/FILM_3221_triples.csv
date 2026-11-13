@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_3221,story structure,concept,PREREQUISITE_OF,script formatting,concept,same unit,,FILM_3221_triples_raw.json
+FILM_3221,story structure,concept,PREREQUISITE_OF,conflict resolution,concept,same unit,,FILM_3221_triples_raw.json
+FILM_3221,story structure,concept,PREREQUISITE_OF,three-act structure,concept,A mentioned first,,FILM_3221_triples_raw.json
+FILM_3221,story structure,concept,PREREQUISITE_OF,inciting incidents,concept,A mentioned first,,FILM_3221_triples_raw.json
+FILM_3221,story structure,concept,PREREQUISITE_OF,plot points,concept,A mentioned first,,FILM_3221_triples_raw.json
+FILM_3221,story structure,concept,PREREQUISITE_OF,climax and resolution,concept,A mentioned first,,FILM_3221_triples_raw.json
+FILM_3221,script formatting,concept,PREREQUISITE_OF,scene headings,concept,same unit,,FILM_3221_triples_raw.json
+FILM_3221,script formatting,concept,PREREQUISITE_OF,dialogue writing,concept,same unit,,FILM_3221_triples_raw.json
+FILM_3221,premise development,concept,PART_OF,story structure,concept,,,FILM_3221_triples_raw.json
+FILM_3221,theme identification,concept,PART_OF,story structure,concept,,,FILM_3221_triples_raw.json
+FILM_3221,character arcs,concept,PART_OF,story structure,concept,,,FILM_3221_triples_raw.json
+FILM_3221,plot twists,concept,PART_OF,story structure,concept,,,FILM_3221_triples_raw.json
+FILM_3221,conflict resolution,concept,PART_OF,story structure,concept,,,FILM_3221_triples_raw.json
+FILM_3221,three-act structure,concept,PART_OF,story structure,concept,,,FILM_3221_triples_raw.json
+FILM_3221,inciting incidents,concept,PART_OF,story structure,concept,,,FILM_3221_triples_raw.json
+FILM_3221,plot points,concept,PART_OF,story structure,concept,,,FILM_3221_triples_raw.json
+FILM_3221,scene headings,concept,PART_OF,script formatting,concept,,,FILM_3221_triples_raw.json
+FILM_3221,dialogue writing,concept,PART_OF,script formatting,concept,,,FILM_3221_triples_raw.json
+FILM_3221,scene headings,concept,USED_FOR,script formatting,concept,,,FILM_3221_triples_raw.json
+FILM_3221,dialogue writing,concept,USED_FOR,script formatting,concept,,,FILM_3221_triples_raw.json

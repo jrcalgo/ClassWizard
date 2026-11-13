@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETCE_3131L,topic,Consolidation Settlement,consolidation settlement,1,verified,Consolidation Settlement,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,soil/moisture relationships,soil/moisture relationships,1,verified,soil/moisture relationships,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,field compaction percentages,field compaction percentages,1,verified,field compaction percentages,ETCE_3131L_concepts_raw.json
+ETCE_3131L,topic,Soil Classification,Soil Classification,1,inferred,Soil Classification,ETCE_3131L_concepts_raw.json
+ETCE_3131L,topic,Moisture Content Testing,Moisture Content Testing,1,inferred,Moisture Content Testing,ETCE_3131L_concepts_raw.json
+ETCE_3131L,topic,Proctor Curve Analysis,Proctor Curve Analysis,1,inferred,Proctor Curve Analysis,ETCE_3131L_concepts_raw.json
+ETCE_3131L,topic,Shear Strength Testing,Shear Strength Testing,1,inferred,Shear Strength Testing,ETCE_3131L_concepts_raw.json
+ETCE_3131L,topic,Bearing Ratio Calculations,Bearing Ratio Calculations,1,inferred,Bearing Ratio Calculations,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,soil origin classification,Soil Origin Classification,1,inferred,soil origin classification,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,soil consistency types,Soil Consistency Types,1,inferred,soil consistency types,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,soil color characteristics,Soil Color Characteristics,1,inferred,soil color characteristics,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,moisture content determination,Moisture Content Determination,1,inferred,moisture content determination,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,plastic limit measurement,Plastic Limit Measurement,1,inferred,plastic limit measurement,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,liquid limit calculation,Liquid Limit Calculation,1,inferred,liquid limit calculation,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,proctor curve interpretation,Proctor Curve Interpretation,1,inferred,proctor curve interpretation,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,settlement prediction techniques,Settlement Prediction Techniques,1,inferred,settlement prediction techniques,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,foundation load calculations,Foundation Load Calculations,1,inferred,foundation load calculations,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,consolidation settlement factors,Consolidation Settlement Factors,1,inferred,consolidation settlement factors,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,shear strength measurement,Shear Strength Measurement,1,inferred,shear strength measurement,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,soil shear resistance,Soil Shear Resistance,1,inferred,soil shear resistance,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,triaxial test procedures,Triaxial Test Procedures,1,inferred,triaxial test procedures,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,bearing ratio determination,Bearing Ratio Determination,1,inferred,bearing ratio determination,ETCE_3131L_concepts_raw.json
+ETCE_3131L,concept,soil suitability assessments,Soil Suitability Assessments,1,inferred,soil suitability assessments,ETCE_3131L_concepts_raw.json

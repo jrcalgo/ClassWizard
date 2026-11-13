@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_6200,topic,Statistics and Data Analysis for Microarrays Using R and Bioconductor,Statistics and Data Analysis for Microarrays Using R and Bioconductor,1,verified,Statistics and Data Analysis for Microarrays Using R and Bioconductor,BINF_6200_concepts_raw.json
+BINF_6200,topic,Biostatistics,Biostatistics,1,verified,Biostatistics,BINF_6200_concepts_raw.json
+BINF_6200,topic,Statistical Methods and Data Analysis,Statistical Methods and Data Analysis,1,verified,Statistical Methods and Data Analysis,BINF_6200_concepts_raw.json
+BINF_6200,topic,Probability,probability,4,verified,Introduction to Probability,BINF_6200_concepts_raw.json
+BINF_6200,topic,Continuous Probability Distributions,continuous probability distributions,1,verified,Continuous Probability Distributions,BINF_6200_concepts_raw.json
+BINF_6200,topic,Linear Regression and Correlation Analysis,linear regression and correlation analysis,1,verified,Linear Regression and Correlation Analysis,BINF_6200_concepts_raw.json
+BINF_6200,concept,Bayes' theorem,Bayes' theorem,1,verified,Bayes' theorem,BINF_6200_concepts_raw.json
+BINF_6200,method,Central Limit Theorem,Central Limit Theorem,1,verified,Central Limit Theorem,BINF_6200_concepts_raw.json
+BINF_6200,method,hypothesis testing,hypothesis testing,2,verified,hypothesis testing,BINF_6200_concepts_raw.json
+BINF_6200,method,confidence intervals,confidence intervals,1,verified,confidence intervals,BINF_6200_concepts_raw.json
+BINF_6200,method,statistical inference,statistical inference,1,verified,statistical inference,BINF_6200_concepts_raw.json
+BINF_6200,method,sampling distributions of a statistic,sampling distributions of a statistic,1,verified,sampling distributions of a statistic,BINF_6200_concepts_raw.json
+BINF_6200,method,linear regression,linear regression,1,verified,linear regression,BINF_6200_concepts_raw.json
+BINF_6200,method,correlation analysis,correlation analysis,1,verified,correlation analysis,BINF_6200_concepts_raw.json
+BINF_6200,method,R programming,R programming,1,verified,R programming,BINF_6200_concepts_raw.json
+BINF_6200,tool,R,R,6,verified,R,BINF_6200_concepts_raw.json
+BINF_6200,tool,Bioconductor,Bioconductor,1,verified,Bioconductor,BINF_6200_concepts_raw.json

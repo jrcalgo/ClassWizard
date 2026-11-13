@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_1511,natural,concept,PREREQUISITE_OF,urban,concept,same unit,,ANTH_1511_triples_raw.json
+ANTH_1511,natural,concept,PREREQUISITE_OF,landscape,concept,same unit,,ANTH_1511_triples_raw.json
+ANTH_1511,natural,concept,PREREQUISITE_OF,city,concept,same unit,,ANTH_1511_triples_raw.json
+ANTH_1511,natural,concept,PART_OF,Urban Landscape,topic,,,ANTH_1511_triples_raw.json
+ANTH_1511,urban,concept,PART_OF,Urban Landscape,topic,,,ANTH_1511_triples_raw.json
+ANTH_1511,landscape,concept,PART_OF,Urban Landscape,topic,,,ANTH_1511_triples_raw.json
+ANTH_1511,city,concept,PART_OF,Urban Landscape,topic,,,ANTH_1511_triples_raw.json

@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_3107,topic,Pathophysiology,Pathophysiology,2,verified,Pathophysiology,NURS_3107_concepts_raw.json
+NURS_3107,topic,Clinical Concepts of Illness and Disease,Clinical Concepts of Illness and Disease,1,verified,Clinical Concepts of Illness and Disease,NURS_3107_concepts_raw.json
+NURS_3107,concept,normal physiological functioning,normal physiological functioning,1,verified,normal physiological functioning,NURS_3107_concepts_raw.json
+NURS_3107,concept,disruption I,disruption I,1,verified,disruption I,NURS_3107_concepts_raw.json
+NURS_3107,concept,liberal education for baccalaureate generalist,Liberal Education for Baccalaureate Generalist,8,verified,liberal education for baccalaureate generalist,NURS_3107_concepts_raw.json

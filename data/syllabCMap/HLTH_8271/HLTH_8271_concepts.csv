@@ -1,0 +1,56 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_8271,concept,Multivariate Statistical Methods,Multivariate Statistical Methods,2,verified,Multivariate Statistical Methods,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Articles∗ [1] and [2,Articles∗ [1] and [2,1,verified,Articles∗ [1] and [2],HLTH_8271_concepts_raw.json
+HLTH_8271,topic,On campus and Multivariable Linear Regression,On campus and Multivariable Linear Regression,1,verified,On campus and Multivariable Linear Regression,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Variable,variables,5,verified,Variable,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Logistic Regression and Composite,Logistic Regression and Composite,1,verified,Logistic Regression and Composite,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Variable and Chapter 9 (9 .3,Variable and Chapter 9 (9 .3,1,verified,Variable and Chapter 9 (9 .3),HLTH_8271_concepts_raw.json
+HLTH_8271,method,Principal component analysis,principal component analysis,2,verified,Principal component analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,"Article [7], [8] and [9], On campus","Article [7], [8] and [9], On campus",1,verified,"Article [7], [8] and [9], On campus",HLTH_8271_concepts_raw.json
+HLTH_8271,method,Factor analysis,factor analysis,20,verified,Factor analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,On campus,On campus,5,verified,On campus,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Multilevel Modeling and Hierarchical Linear,Multilevel Modeling and Hierarchical Linear,1,verified,Multilevel Modeling and Hierarchical Linear,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Articles [10,Articles [10,1,verified,Articles [10,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Model,models,30,verified,Model,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Reviewing previous lectures,Reviewing previous lectures,1,verified,Reviewing previous lectures,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Repeated Measure Analysis,Repeated Measure Analysis,1,verified,Repeated Measure Analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,"Article [14, 15], Chapter 10","Article [14, 15], Chapter 10",1,verified,"Article [14, 15], Chapter 10",HLTH_8271_concepts_raw.json
+HLTH_8271,topic,DiƯerence in DiƯerence Methods- Imputation,DiƯerence in DiƯerence Methods- Imputation,1,verified,DiƯerence in DiƯerence Methods- Imputation,HLTH_8271_concepts_raw.json
+HLTH_8271,topic,"Article [16, 17","Article [16, 17",1,verified,"Article [16, 17]",HLTH_8271_concepts_raw.json
+HLTH_8271,topic,Multiple Imputation,Multiple Imputation,2,verified,Multiple Imputation,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Descriptive Statistics,Descriptive Statistics,2,verified,Descriptive Statistics,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Inferential Statistics,Inferential Statistics,2,verified,Inferential Statistics,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Data Analysis Software,Data Analysis Software,1,verified,Data Analysis Software,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Statistical Significance,Statistical Significance,1,verified,Statistical Significance,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Multivariate Data Analysis,Multivariate Data Analysis,1,verified,Multivariate Data Analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Correlation Methods,Correlation Methods,1,verified,Correlation Methods,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Discriminant analysis,discriminant analysis,20,verified,Discriminant analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Log-Linear Models,log-linear models,23,verified,Log-Linear Models,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Multilevel modeling,multilevel modeling,23,verified,Multilevel modeling,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Comorbidity and Competing Risks,comorbidity and competing risks,22,verified,Comorbidity and Competing Risks,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Regression Methods for Multivariate Dependent Data,regression methods for multivariate dependent data,13,verified,Regression Methods for Multivariate Dependent Data,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Multivariable Linear Regression,Multivariable Linear Regression,5,verified,Multivariable Linear Regression,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Ordinary Least Squares,Ordinary Least Squares,2,verified,Ordinary Least Squares,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Coefficient Estimation,Coefficient Estimation,2,verified,Coefficient Estimation,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Hypothesis testing,Hypothesis Testing,1,verified,Hypothesis testing,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Confidence intervals,Confidence Intervals,1,verified,Confidence intervals,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Composite Variables,Composite Variables,2,verified,Composite Variables,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Correlation analysis,Correlation Analysis,2,verified,Correlation analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Logistic Regression,logistic regression,3,verified,Logistic Regression,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Multivariate Analysis of Variance,multivariate analysis of variance,14,verified,Multivariate Analysis of Variance,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Log-linear models for contingency tables,log-linear models for contingency tables,14,verified,Log-linear models for contingency tables,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Time series analysis,Time Series Analysis,10,verified,Time series analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Spatial data analysis,Spatial Data Analysis,10,verified,Spatial data analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Component Extraction Methods,Component Extraction Methods,1,verified,Component Extraction Methods,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Eigenvalues and Eigenvectors,Eigenvalues and Eigenvectors,2,verified,Eigenvalues and Eigenvectors,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Factor Loading Matrix,Factor Loading Matrix,1,verified,Factor Loading Matrix,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Scree Plot Interpretation,Scree Plot Interpretation,2,verified,Scree Plot Interpretation,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Difference in Difference Methods,Difference in Difference Methods,1,verified,Difference in Difference Methods,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Imputation Techniques,Imputation Techniques,1,verified,Imputation Techniques,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Multivariate Survival Analysis,Multivariate survival analysis,2,verified,Multivariate Survival Analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,concept,Competing Risks Models,Competing Risks Models,1,verified,Competing Risks Models,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Multivariate analysis,multivariate analysis,24,verified,Multivariate analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Applying multivariate analysis,applying multivariate analysis,1,verified,Applying multivariate analysis,HLTH_8271_concepts_raw.json
+HLTH_8271,method,Comorbidity and competing risks regression methods,Comorbidity and competing risks regression methods,20,verified,Comorbidity and competing risks regression methods,HLTH_8271_concepts_raw.json
+HLTH_8271,tool,SAS,SAS,1,verified,SAS,HLTH_8271_concepts_raw.json
+HLTH_8271,tool,R,R,5,verified,R,HLTH_8271_concepts_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6165,Python,tool,PREREQUISITE_OF,Deep Learning Architectures,topic,B mentioned first,,DSBA_6165_triples_raw.json
+DSBA_6165,Python,tool,PREREQUISITE_OF,Knowledge Representation,topic,B mentioned first,,DSBA_6165_triples_raw.json
+DSBA_6165,Keras,tool,USED_FOR,Deep Learning Architectures,topic,,,DSBA_6165_triples_raw.json

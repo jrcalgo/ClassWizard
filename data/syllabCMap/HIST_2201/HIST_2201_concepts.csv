@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HIST_2201,topic,History of Modern Asia,History of Modern Asia,1,verified,History of Modern Asia,HIST_2201_concepts_raw.json
+HIST_2201,topic,Modern Asia,Modern Asia,1,verified,Introduction to Modern Asia,HIST_2201_concepts_raw.json
+HIST_2201,topic,Socialism and Democracy,Socialism and Democracy,1,verified,Socialism and Democracy,HIST_2201_concepts_raw.json
+HIST_2201,topic,Early 17th Century Background,Early 17th Century Background,1,inferred,Early 17th Century Background,HIST_2201_concepts_raw.json
+HIST_2201,topic,Imperialism and Colonialism,Imperialism and Colonialism,1,inferred,Imperialism and Colonialism,HIST_2201_concepts_raw.json
+HIST_2201,topic,Modernization and Reform,Modernization and Reform,1,inferred,Modernization and Reform,HIST_2201_concepts_raw.json
+HIST_2201,topic,World War II and Its Impact,World War II and Its Impact,1,inferred,World War II and Its Impact,HIST_2201_concepts_raw.json
+HIST_2201,topic,Cold War Politics in Asia,Cold War Politics in Asia,1,inferred,Cold War Politics in Asia,HIST_2201_concepts_raw.json
+HIST_2201,topic,East Asian Relations Today,East Asian Relations Today,1,inferred,East Asian Relations Today,HIST_2201_concepts_raw.json
+HIST_2201,concept,East Asian societies evolution,East Asian societies evolution,1,inferred,East Asian societies evolution,HIST_2201_concepts_raw.json
+HIST_2201,concept,modernization and imperialism,Modernization and imperialism,1,inferred,modernization and imperialism,HIST_2201_concepts_raw.json
+HIST_2201,concept,nationalism in East Asia,Nationalism in East Asia,1,inferred,nationalism in East Asia,HIST_2201_concepts_raw.json
+HIST_2201,concept,Shogunate Japan and China,Shogunate Japan and China,1,inferred,Shogunate Japan and China,HIST_2201_concepts_raw.json
+HIST_2201,concept,Korean Joseon Dynasty,Korean Joseon Dynasty,1,inferred,Korean Joseon Dynasty,HIST_2201_concepts_raw.json
+HIST_2201,concept,Ming-Qing transition,Ming-Qing transition,1,inferred,Ming-Qing transition,HIST_2201_concepts_raw.json
+HIST_2201,concept,Western imperialism in Asia,Western imperialism in Asia,1,inferred,Western imperialism in Asia,HIST_2201_concepts_raw.json
+HIST_2201,concept,Japanese expansionism,Japanese expansionism,1,inferred,Japanese expansionism,HIST_2201_concepts_raw.json
+HIST_2201,concept,Chinese resistance movements,Chinese resistance movements,1,inferred,Chinese resistance movements,HIST_2201_concepts_raw.json
+HIST_2201,concept,Meiji Restoration in Japan,Meiji Restoration in Japan,1,inferred,Meiji Restoration in Japan,HIST_2201_concepts_raw.json
+HIST_2201,concept,Taiping Rebellion in China,Taiping Rebellion in China,1,inferred,Taiping Rebellion in China,HIST_2201_concepts_raw.json
+HIST_2201,concept,Korean modernization efforts,Korean modernization efforts,1,inferred,Korean modernization efforts,HIST_2201_concepts_raw.json
+HIST_2201,concept,Japanese aggression and invasion,Japanese aggression and invasion,1,inferred,Japanese aggression and invasion,HIST_2201_concepts_raw.json
+HIST_2201,concept,Chinese resistance during WWII,Chinese resistance during WWII,1,inferred,Chinese resistance during WWII,HIST_2201_concepts_raw.json
+HIST_2201,concept,Korean experiences under Japanese rule,Korean experiences under Japanese rule,1,inferred,Korean experiences under Japanese rule,HIST_2201_concepts_raw.json
+HIST_2201,concept,US-Soviet rivalry in Asia,US-Soviet rivalry in Asia,1,inferred,US-Soviet rivalry in Asia,HIST_2201_concepts_raw.json
+HIST_2201,concept,Communist movements in China,Communist movements in China,1,inferred,Communist movements in China,HIST_2201_concepts_raw.json
+HIST_2201,concept,South Korean democracy movement,South Korean democracy movement,1,inferred,South Korean democracy movement,HIST_2201_concepts_raw.json
+HIST_2201,concept,Chinese Communist Party rise,Chinese Communist Party rise,1,inferred,Chinese Communist Party rise,HIST_2201_concepts_raw.json
+HIST_2201,concept,Japanese post-war occupation,Japanese post-war occupation,1,inferred,Japanese post-war occupation,HIST_2201_concepts_raw.json
+HIST_2201,concept,Korean democratization efforts,Korean democratization efforts,1,inferred,Korean democratization efforts,HIST_2201_concepts_raw.json
+HIST_2201,concept,China-Japan-Korea relations,China-Japan-Korea relations,1,inferred,China-Japan-Korea relations,HIST_2201_concepts_raw.json
+HIST_2201,concept,regional economic integration,Regional economic integration,1,inferred,regional economic integration,HIST_2201_concepts_raw.json
+HIST_2201,concept,global governance and Asia,Global governance and Asia,1,inferred,global governance and Asia,HIST_2201_concepts_raw.json

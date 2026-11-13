@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_3190,concept,cloud architecture,cloud architectures,1,verified,cloud architecture,ITCS_3190_concepts_raw.json
+ITCS_3190,concept,service models (IaaS,service models (IaaS,1,verified,"service models (IaaS, PaaS, SaaS)",ITCS_3190_concepts_raw.json
+ITCS_3190,concept,PaaS,PaaS,1,verified,"service models (IaaS, PaaS, SaaS)",ITCS_3190_concepts_raw.json
+ITCS_3190,concept,SaaS,SaaS,1,verified,"service models (IaaS, PaaS, SaaS)",ITCS_3190_concepts_raw.json
+ITCS_3190,concept,deployment models (public,deployment models (public,1,verified,"deployment models (public, private, hybrid, and community clouds)",ITCS_3190_concepts_raw.json
+ITCS_3190,concept,private,private,1,verified,"deployment models (public, private, hybrid, and community clouds)",ITCS_3190_concepts_raw.json
+ITCS_3190,concept,hybrid,hybrid,1,verified,"deployment models (public, private, hybrid, and community clouds)",ITCS_3190_concepts_raw.json
+ITCS_3190,concept,community clouds,community clouds,1,verified,"deployment models (public, private, hybrid, and community clouds)",ITCS_3190_concepts_raw.json
+ITCS_3190,concept,economics of cloud computing,economics of cloud computing,1,verified,economics of cloud computing,ITCS_3190_concepts_raw.json
+ITCS_3190,tool,Apache Hadoop,Apache Hadoop,2,verified,Apache Hadoop,ITCS_3190_concepts_raw.json
+ITCS_3190,tool,Apache Spark,Apache Spark,1,verified,Apache Spark,ITCS_3190_concepts_raw.json

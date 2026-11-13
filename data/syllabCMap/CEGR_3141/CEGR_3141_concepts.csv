@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3141,topic,Environmental Engineering,Environmental Engineering,3,verified,Environmental Engineering,CEGR_3141_concepts_raw.json
+CEGR_3141,topic,Stream Pollution Analysis,stream pollution analysis,1,verified,Stream Pollution Analysis,CEGR_3141_concepts_raw.json
+CEGR_3141,topic,Water and Wastewater Treatment Processes,water and wastewater treatment processes,1,verified,Water and Wastewater Treatment Processes,CEGR_3141_concepts_raw.json
+CEGR_3141,topic,Solid and Hazardous Waste Management Practices,solid and hazardous waste management practices,1,verified,Solid and Hazardous Waste Management Practices,CEGR_3141_concepts_raw.json
+CEGR_3141,topic,Pollution Problems and Controls,pollution problems and controls,1,verified,Pollution Problems and Controls,CEGR_3141_concepts_raw.json
+CEGR_3141,concept,mass balance analyses,mass balance analyses,1,verified,mass balance analyses,CEGR_3141_concepts_raw.json
+CEGR_3141,topic,Legislation,legislation,1,verified,Legislation,CEGR_3141_concepts_raw.json
+CEGR_3141,concept,sustainability,sustainability,1,verified,sustainability,CEGR_3141_concepts_raw.json
+CEGR_3141,concept,second order reactions,second order reactions,1,verified,second order reactions,CEGR_3141_concepts_raw.json
+CEGR_3141,concept,unmixed reactors,unmixed reactors,1,verified,unmixed reactors,CEGR_3141_concepts_raw.json
+CEGR_3141,concept,reactor performance,reactor performance,1,verified,reactor performance,CEGR_3141_concepts_raw.json
+CEGR_3141,concept,air treatment systems,air treatment systems,1,verified,air treatment systems,CEGR_3141_concepts_raw.json
+CEGR_3141,concept,unit conversions,unit conversions,1,verified,unit conversions,CEGR_3141_concepts_raw.json
+CEGR_3141,method,toxicity calculations,toxicity calculations,1,verified,performing basic risk assessment and toxicity calculations,CEGR_3141_concepts_raw.json
+CEGR_3141,tool,FE Reference Handbook,FE Reference Handbook,1,verified,FE Reference Handbook,CEGR_3141_concepts_raw.json

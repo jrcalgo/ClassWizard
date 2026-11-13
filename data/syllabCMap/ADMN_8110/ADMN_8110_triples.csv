@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_8110,Organizational Behavior,topic,PREREQUISITE_OF,Systems Theory,topic,A taught first,,ADMN_8110_triples_raw.json
+ADMN_8110,Organizational Behavior,topic,PREREQUISITE_OF,Decision-Making,topic,A taught first,,ADMN_8110_triples_raw.json
+ADMN_8110,Organizational Behavior,topic,PREREQUISITE_OF,Organizational Change,topic,A taught first,,ADMN_8110_triples_raw.json
+ADMN_8110,Organizational Behavior,topic,PREREQUISITE_OF,Organizational Culture,topic,A taught first,,ADMN_8110_triples_raw.json
+ADMN_8110,Organizational Behavior,topic,PREREQUISITE_OF,Organizational Climate,topic,A taught first,,ADMN_8110_triples_raw.json
+ADMN_8110,Research Methods,topic,PREREQUISITE_OF,Organizational Change,topic,B taught first,B is taught before A - check,ADMN_8110_triples_raw.json
+ADMN_8110,Research Methods,topic,PREREQUISITE_OF,Organizational Culture,topic,B taught first,B is taught before A - check,ADMN_8110_triples_raw.json
+ADMN_8110,Research Methods,topic,PREREQUISITE_OF,Organizational Climate,topic,B taught first,B is taught before A - check,ADMN_8110_triples_raw.json
+ADMN_8110,Research Methods,topic,USED_FOR,Organizational Theory,topic,,topic used for something - check direction,ADMN_8110_triples_raw.json
+ADMN_8110,Research Methods,topic,USED_FOR,Organizational Behavior,topic,,topic used for something - check direction,ADMN_8110_triples_raw.json

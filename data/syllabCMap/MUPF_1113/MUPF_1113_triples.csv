@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1113,understanding,concept,PREREQUISITE_OF,musicianship,concept,B taught first,B is taught before A - check,MUPF_1113_triples_raw.json
+MUPF_1113,understanding,concept,PREREQUISITE_OF,aural musical traditions,concept,B taught first,B is taught before A - check,MUPF_1113_triples_raw.json
+MUPF_1113,understanding,concept,PREREQUISITE_OF,professionalism,concept,same unit,,MUPF_1113_triples_raw.json
+MUPF_1113,understanding,concept,PREREQUISITE_OF,patience,concept,same unit,,MUPF_1113_triples_raw.json
+MUPF_1113,understanding,concept,PREREQUISITE_OF,kindness,concept,same unit,,MUPF_1113_triples_raw.json
+MUPF_1113,understanding,concept,PREREQUISITE_OF,respect,concept,same unit,,MUPF_1113_triples_raw.json
+MUPF_1113,Individual Technique,topic,PART_OF,Symphonic Band,topic,,,MUPF_1113_triples_raw.json
+MUPF_1113,Ensemble Skills,topic,PART_OF,Symphonic Band,topic,,,MUPF_1113_triples_raw.json
+MUPF_1113,Professionalism and Preparation,topic,PART_OF,Symphonic Band,topic,,,MUPF_1113_triples_raw.json
+MUPF_1113,understanding,concept,USED_FOR,musicianship,concept,,,MUPF_1113_triples_raw.json
+MUPF_1113,understanding,concept,USED_FOR,aural musical traditions,concept,,,MUPF_1113_triples_raw.json
+MUPF_1113,understanding,concept,USED_FOR,professionalism,concept,,,MUPF_1113_triples_raw.json
+MUPF_1113,understanding,concept,USED_FOR,respect,concept,,,MUPF_1113_triples_raw.json

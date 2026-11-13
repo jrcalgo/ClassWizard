@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6112,topic,Econometric Theory,econometric theory,1,verified,Econometric Theory,DSBA_6112_concepts_raw.json
+DSBA_6112,topic,Derivation of Least Squares Estimators,derivation of least squares estimators,2,verified,Derivation of Least Squares Estimators,DSBA_6112_concepts_raw.json
+DSBA_6112,concept,maximum likelihood estimation,maximum likelihood estimation,2,verified,maximum likelihood estimation,DSBA_6112_concepts_raw.json
+DSBA_6112,concept,instrumental variables,instrumental variables,2,verified,instrumental variables,DSBA_6112_concepts_raw.json
+DSBA_6112,concept,multicollinearity,multicollinearity,2,verified,multicollinearity,DSBA_6112_concepts_raw.json
+DSBA_6112,concept,heteroskedasticity,heteroskedasticity,2,verified,heteroskedasticity,DSBA_6112_concepts_raw.json
+DSBA_6112,concept,autocorrelation,autocorrelation,2,verified,autocorrelation,DSBA_6112_concepts_raw.json
+DSBA_6112,concept,least squares estimators,least squares estimators,2,verified,least squares estimators,DSBA_6112_concepts_raw.json

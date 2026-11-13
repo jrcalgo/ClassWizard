@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDUC_5100,21st Century Learners Needs,concept,PREREQUISITE_OF,Urban School Contexts,concept,same unit,,EDUC_5100_triples_raw.json
+EDUC_5100,Culturally Responsive Teaching,concept,PREREQUISITE_OF,Family Engagement Strategies,concept,same unit,,EDUC_5100_triples_raw.json
+EDUC_5100,Sociocultural Theories,concept,PREREQUISITE_OF,Critical Pedagogy Principles,concept,same unit,,EDUC_5100_triples_raw.json
+EDUC_5100,Research Methods,concept,PREREQUISITE_OF,Evidence-Based Practices for Success,topic,same unit,,EDUC_5100_triples_raw.json
+EDUC_5100,Urban School Contexts,concept,PART_OF,21st Century Learners Needs,concept,,,EDUC_5100_triples_raw.json
+EDUC_5100,Educator Roles and Responsibilities,concept,PART_OF,21st Century Learners Needs,concept,,,EDUC_5100_triples_raw.json
+EDUC_5100,Mutual Respect in Classrooms,concept,PART_OF,Culturally Responsive Teaching,concept,,,EDUC_5100_triples_raw.json
+EDUC_5100,Family Engagement Strategies,concept,PART_OF,Culturally Responsive Teaching,concept,,,EDUC_5100_triples_raw.json
+EDUC_5100,Positive Behavioral Interventions,concept,PART_OF,Engagement Frameworks for Success,concept,,,EDUC_5100_triples_raw.json
+EDUC_5100,Critical Pedagogy Principles,concept,PART_OF,Sociocultural Theories in Practice,topic,,,EDUC_5100_triples_raw.json
+EDUC_5100,Social Justice in Education,concept,PART_OF,Sociocultural Theories in Practice,topic,,,EDUC_5100_triples_raw.json
+EDUC_5100,Data-Driven Decision Making,concept,PART_OF,Research Methods for Urban Educators,topic,,,EDUC_5100_triples_raw.json
+EDUC_5100,Evidence-Based Practices,concept,PART_OF,Evidence-Based Practices for Success,topic,,,EDUC_5100_triples_raw.json

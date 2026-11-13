@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RELS_5000,topic,Religious Studies,Religious Studies,1,verified,Religious Studies,RELS_5000_concepts_raw.json
+RELS_5000,topic,Joining and Leaving Religions,Joining and Leaving Religions,1,verified,Joining and Leaving Religions,RELS_5000_concepts_raw.json
+RELS_5000,topic,Scholarship on Conversion and Deconversion,Scholarship on Conversion and Deconversion,1,verified,Scholarship on Conversion and Deconversion,RELS_5000_concepts_raw.json
+RELS_5000,topic,Conversion,Conversion,2,verified,Introduction to Conversion,RELS_5000_concepts_raw.json
+RELS_5000,topic,Theories of Conversion,Theories of Conversion,4,inferred,Theories of Conversion,RELS_5000_concepts_raw.json
+RELS_5000,topic,Conversion in Different Religions,Conversion in Different Religions,1,inferred,Conversion in Different Religions,RELS_5000_concepts_raw.json
+RELS_5000,topic,Deconversion and Apostasy,Deconversion and Apostasy,1,inferred,Deconversion and Apostasy,RELS_5000_concepts_raw.json
+RELS_5000,topic,Comparative Studies of Conversion,Comparative Studies of Conversion,1,inferred,Comparative Studies of Conversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Conversion as a Process,Conversion as a Process,1,inferred,Conversion as a Process,RELS_5000_concepts_raw.json
+RELS_5000,concept,Defining Religious Conversion,Defining Religious Conversion,1,inferred,Defining Religious Conversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Types of Conversion Experiences,Types of Conversion Experiences,1,inferred,Types of Conversion Experiences,RELS_5000_concepts_raw.json
+RELS_5000,concept,Psychological Theories of Conversion,Psychological Theories of Conversion,1,inferred,Psychological Theories of Conversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Sociological Theories of Conversion,Sociological Theories of Conversion,1,inferred,Sociological Theories of Conversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Anthropological Theories of Conversion,Anthropological Theories of Conversion,1,inferred,Anthropological Theories of Conversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Christian Conversion Narratives,Christian Conversion Narratives,1,inferred,Christian Conversion Narratives,RELS_5000_concepts_raw.json
+RELS_5000,concept,Islamic Conversion Stories,Islamic Conversion Stories,1,inferred,Islamic Conversion Stories,RELS_5000_concepts_raw.json
+RELS_5000,concept,Buddhist Conversion Experiences,Buddhist Conversion Experiences,1,inferred,Buddhist Conversion Experiences,RELS_5000_concepts_raw.json
+RELS_5000,concept,Defining Deconversion,Defining Deconversion,1,inferred,Defining Deconversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Causes of Deconversion,Causes of Deconversion,1,inferred,Causes of Deconversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Consequences of Deconversion,Consequences of Deconversion,1,inferred,Consequences of Deconversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Cross-Cultural Comparison of Conversion,Cross-Cultural Comparison of Conversion,1,inferred,Cross-Cultural Comparison of Conversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Similarities and Differences in Conversion,Similarities and Differences in Conversion,1,inferred,Similarities and Differences in Conversion,RELS_5000_concepts_raw.json
+RELS_5000,concept,Global Patterns of Conversion,Global Patterns of Conversion,1,inferred,Global Patterns of Conversion,RELS_5000_concepts_raw.json

@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_6000,topic,Artificial Intelligence in Criminal Justice,Artificial Intelligence in Criminal Justice,1,verified,Artificial Intelligence in Criminal Justice,CJUS_6000_concepts_raw.json
+CJUS_6000,topic,AI,AI,9,verified,Introduction to AI,CJUS_6000_concepts_raw.json
+CJUS_6000,topic,AI in Policing,AI in Policing,1,inferred,AI in Policing,CJUS_6000_concepts_raw.json
+CJUS_6000,topic,AI in Courts,AI in Courts,1,inferred,AI in Courts,CJUS_6000_concepts_raw.json
+CJUS_6000,topic,AI in Corrections,AI in Corrections,1,inferred,AI in Corrections,CJUS_6000_concepts_raw.json
+CJUS_6000,topic,Data Literacy and AI,Data Literacy and AI,1,inferred,Data Literacy and AI,CJUS_6000_concepts_raw.json
+CJUS_6000,topic,AI Ethics and Policy,AI Ethics and Policy,1,inferred,AI Ethics and Policy,CJUS_6000_concepts_raw.json
+CJUS_6000,topic,Case Studies and Applications,Case Studies and Applications,1,inferred,Case Studies and Applications,CJUS_6000_concepts_raw.json
+CJUS_6000,topic,Capstone Project Preparation,Capstone Project Preparation,1,inferred,Capstone Project Preparation,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,artificial intelligence definition,Artificial Intelligence Definition,1,inferred,artificial intelligence definition,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,machine learning basics,Machine Learning Basics,1,inferred,machine learning basics,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,predictive policing tools,Predictive Policing Tools,1,inferred,predictive policing tools,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,surveillance technologies,Surveillance Technologies,1,inferred,surveillance technologies,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,bias in AI systems,Bias in AI Systems,1,inferred,bias in AI systems,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,judicial decision support,Judicial Decision Support,1,inferred,judicial decision support,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,evidence analysis software,Evidence Analysis Software,1,inferred,evidence analysis software,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,courtroom technology integration,Courtroom Technology Integration,1,inferred,courtroom technology integration,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,risk assessment algorithms,Risk Assessment Algorithms,1,inferred,risk assessment algorithms,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,inmate management systems,Inmate Management Systems,1,inferred,inmate management systems,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,rehabilitation program evaluation,Rehabilitation Program Evaluation,1,inferred,rehabilitation program evaluation,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,data visualization techniques,Data Visualization Techniques,1,inferred,data visualization techniques,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,interpreting AI outputs,Interpreting AI Outputs,1,inferred,interpreting AI outputs,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,dataset analysis methods,Dataset Analysis Methods,1,inferred,dataset analysis methods,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,fairness in AI systems,Fairness in AI Systems,1,inferred,fairness in AI systems,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,transparency in AI decision-making,Transparency in AI Decision-Making,1,inferred,transparency in AI decision-making,CJUS_6000_concepts_raw.json
+CJUS_6000,concept,ethical AI implementation guidelines,Ethical AI Implementation Guidelines,1,inferred,ethical AI implementation guidelines,CJUS_6000_concepts_raw.json

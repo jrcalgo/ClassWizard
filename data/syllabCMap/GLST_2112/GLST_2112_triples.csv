@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_2112,migration and immigration,concept,PREREQUISITE_OF,refugee resettlement issues,concept,same unit,,GLST_2112_triples_raw.json
+GLST_2112,refugee resettlement issues,concept,PREREQUISITE_OF,human rights concerns,concept,same unit,,GLST_2112_triples_raw.json
+GLST_2112,global trade agreements,concept,PREREQUISITE_OF,international economic institutions,concept,same unit,,GLST_2112_triples_raw.json
+GLST_2112,international economic institutions,concept,PREREQUISITE_OF,neoliberal economic policies,concept,same unit,,GLST_2112_triples_raw.json
+GLST_2112,poverty reduction strategies,concept,PREREQUISITE_OF,climate change mitigation,concept,same unit,,GLST_2112_triples_raw.json
+GLST_2112,climate change mitigation,concept,PREREQUISITE_OF,human trafficking prevention,concept,same unit,,GLST_2112_triples_raw.json
+GLST_2112,globalization theories,concept,PART_OF,Globalization,topic,,,GLST_2112_triples_raw.json
+GLST_2112,scholars' perspectives,concept,PART_OF,Globalization,topic,,,GLST_2112_triples_raw.json
+GLST_2112,key concepts and terms,concept,PART_OF,Defining Globalization,topic,,,GLST_2112_triples_raw.json
+GLST_2112,global culture formation,concept,PART_OF,Cultural Impact of Globalization,topic,,,GLST_2112_triples_raw.json
+GLST_2112,local cultural resistance,concept,PART_OF,Cultural Impact of Globalization,topic,,,GLST_2112_triples_raw.json
+GLST_2112,global trade agreements,concept,PART_OF,Economic Mechanisms of Change,topic,,,GLST_2112_triples_raw.json
+GLST_2112,international economic institutions,concept,PART_OF,Economic Mechanisms of Change,topic,,,GLST_2112_triples_raw.json
+GLST_2112,neoliberal economic policies,concept,PART_OF,Economic Mechanisms of Change,topic,,,GLST_2112_triples_raw.json
+GLST_2112,migration and immigration,concept,PART_OF,Social and Political Impact,topic,,,GLST_2112_triples_raw.json
+GLST_2112,refugee resettlement issues,concept,PART_OF,Social and Political Impact,topic,,,GLST_2112_triples_raw.json
+GLST_2112,human rights concerns,concept,PART_OF,Social and Political Impact,topic,,,GLST_2112_triples_raw.json
+GLST_2112,United Nations role,concept,PART_OF,Global Governance and Institutions,topic,,,GLST_2112_triples_raw.json
+GLST_2112,international law framework,concept,PART_OF,Global Governance and Institutions,topic,,,GLST_2112_triples_raw.json
+GLST_2112,global economic governance,concept,PART_OF,Global Governance and Institutions,topic,,,GLST_2112_triples_raw.json
+GLST_2112,poverty reduction strategies,concept,PART_OF,Addressing Global Problems,topic,,,GLST_2112_triples_raw.json
+GLST_2112,climate change mitigation,concept,PART_OF,Addressing Global Problems,topic,,,GLST_2112_triples_raw.json
+GLST_2112,human trafficking prevention,concept,PART_OF,Addressing Global Problems,topic,,,GLST_2112_triples_raw.json

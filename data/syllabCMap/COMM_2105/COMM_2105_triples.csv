@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_2105,small group research methods,concept,PREREQUISITE_OF,group communication theories,concept,same unit,,COMM_2105_triples_raw.json
+COMM_2105,strategic online communication,concept,PREREQUISITE_OF,ethical online behavior,concept,same unit,,COMM_2105_triples_raw.json
+COMM_2105,self-assessment of small group skills,concept,PREREQUISITE_OF,identifying strengths and challenges,concept,same unit,,COMM_2105_triples_raw.json
+COMM_2105,small group research methods,concept,PART_OF,Small Group Communication,topic,,,COMM_2105_triples_raw.json
+COMM_2105,group communication theories,concept,PART_OF,Small Group Communication,topic,,,COMM_2105_triples_raw.json
+COMM_2105,strategic online communication,concept,PART_OF,Online Communication Strategies,topic,,,COMM_2105_triples_raw.json
+COMM_2105,ethical online behavior,concept,PART_OF,Online Communication Strategies,topic,,,COMM_2105_triples_raw.json
+COMM_2105,digital citizenship,concept,PART_OF,Online Communication Strategies,topic,,,COMM_2105_triples_raw.json
+COMM_2105,building relationships in groups,concept,PART_OF,Group Management Techniques,topic,,,COMM_2105_triples_raw.json
+COMM_2105,self-assessment of small group skills,concept,PART_OF,Personal Growth and Development,topic,,,COMM_2105_triples_raw.json
+COMM_2105,identifying strengths and challenges,concept,PART_OF,Personal Growth and Development,topic,,,COMM_2105_triples_raw.json
+COMM_2105,improving personal communication style,concept,PART_OF,Personal Growth and Development,topic,,,COMM_2105_triples_raw.json
+COMM_2105,project management techniques,concept,PART_OF,Problem Solving and Teamwork,topic,,,COMM_2105_triples_raw.json
+COMM_2105,creative problem solving methods,concept,PART_OF,Problem Solving and Teamwork,topic,,,COMM_2105_triples_raw.json

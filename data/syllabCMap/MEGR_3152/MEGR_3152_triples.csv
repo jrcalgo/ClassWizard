@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3152,Instron Tensile Machine,concept,USED_FOR,Tensile Testing,topic,,,MEGR_3152_triples_raw.json
+MEGR_3152,Displacement Extensometers,concept,USED_FOR,Tensile Testing,topic,,,MEGR_3152_triples_raw.json

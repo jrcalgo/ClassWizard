@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4146,topic,FPGA Architecture,FPGA architecture,1,verified,FPGA Architecture,ECGR_4146_concepts_raw.json
+ECGR_4146,concept,VHDL design flow,VHDL design flow,1,verified,VHDL design flow,ECGR_4146_concepts_raw.json
+ECGR_4146,topic,Digital Design Components,digital -design components,1,verified,Digital Design Components,ECGR_4146_concepts_raw.json
+ECGR_4146,topic,Hands-on FPGA Laboratory,hands-on FPGA laboratory,1,verified,Hands-on FPGA Laboratory,ECGR_4146_concepts_raw.json
+ECGR_4146,concept,field-programmable gate arrays (FPGAs,field-programmable gate arrays (FPGAs,1,verified,field-programmable gate arrays (FPGAs),ECGR_4146_concepts_raw.json
+ECGR_4146,concept,synthesis,synthesis,1,verified,synthesis,ECGR_4146_concepts_raw.json
+ECGR_4146,concept,placement and routing,placement and routing,1,verified,placement and routing,ECGR_4146_concepts_raw.json
+ECGR_4146,method,hands-on experience,hands -on experience,1,verified,hands-on experience,ECGR_4146_concepts_raw.json
+ECGR_4146,method,FPGA laboratory projects,FPGA laboratory projects,1,verified,FPGA laboratory projects,ECGR_4146_concepts_raw.json
+ECGR_4146,tool,VHDL,VHDL,4,verified,VHDL,ECGR_4146_concepts_raw.json
+ECGR_4146,tool,Xilinx Vivado/SDK FPGA development tools,Xilinx Vivado/SDK FPGA development tools,1,verified,Xilinx Vivado/SDK FPGA development tools,ECGR_4146_concepts_raw.json

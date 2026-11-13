@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_4236,pathfinding,concept,PREREQUISITE_OF,adaptive difficulty systems,concept,A taught first,,ITCS_4236_triples_raw.json
+ITCS_4236,pathfinding,concept,PREREQUISITE_OF,procedural content generation,concept,A taught first,,ITCS_4236_triples_raw.json
+ITCS_4236,decision trees,concept,PREREQUISITE_OF,adaptive difficulty systems,concept,A taught first,,ITCS_4236_triples_raw.json
+ITCS_4236,decision trees,concept,PREREQUISITE_OF,behavior modeling,concept,same unit,,ITCS_4236_triples_raw.json
+ITCS_4236,artificial intelligence techniques,concept,PREREQUISITE_OF,adaptive difficulty systems,concept,A taught first,,ITCS_4236_triples_raw.json
+ITCS_4236,artificial intelligence techniques,concept,PREREQUISITE_OF,pathfinding,concept,A taught first,,ITCS_4236_triples_raw.json
+ITCS_4236,artificial intelligence techniques,concept,PREREQUISITE_OF,procedural content generation,concept,A taught first,,ITCS_4236_triples_raw.json
+ITCS_4236,pathfinding,concept,PART_OF,Artificial Intelligence for Games,topic,,,ITCS_4236_triples_raw.json
+ITCS_4236,decision trees,concept,PART_OF,Decision Trees and Behavior,topic,,,ITCS_4236_triples_raw.json
+ITCS_4236,adaptive difficulty systems,concept,PART_OF,Artificial Intelligence for Games,topic,,,ITCS_4236_triples_raw.json
+ITCS_4236,behavior modeling,concept,PART_OF,Decision Trees and Behavior,topic,,,ITCS_4236_triples_raw.json
+ITCS_4236,procedural content generation,concept,PART_OF,Artificial Intelligence for Games,topic,,,ITCS_4236_triples_raw.json

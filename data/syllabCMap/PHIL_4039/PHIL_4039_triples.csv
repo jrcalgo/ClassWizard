@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_4039,Sexual Violence,topic,PREREQUISITE_OF,race,concept,A taught first,,PHIL_4039_triples_raw.json
+PHIL_4039,Sexual Violence,topic,PREREQUISITE_OF,gender,concept,A taught first,,PHIL_4039_triples_raw.json

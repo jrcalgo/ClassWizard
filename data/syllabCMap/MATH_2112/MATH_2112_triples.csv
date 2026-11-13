@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_2112,Systems of Linear Equations,concept,PART_OF,Linear Equations,topic,,,MATH_2112_triples_raw.json
+MATH_2112,Matrix Operations,concept,PART_OF,Vector Spaces,topic,,,MATH_2112_triples_raw.json
+MATH_2112,Eigenvalue/Eigenvector,concept,PART_OF,Vector Spaces,topic,,,MATH_2112_triples_raw.json
+MATH_2112,Sample Space,concept,PART_OF,Probability Distributions,concept,,,MATH_2112_triples_raw.json
+MATH_2112,Conditional Probability,concept,PART_OF,Probability Distributions,concept,,,MATH_2112_triples_raw.json
+MATH_2112,Bayes' Theorem,concept,PART_OF,Probability Distributions,concept,,,MATH_2112_triples_raw.json
+MATH_2112,Central Limit Theorem,concept,PART_OF,Probability Distributions,concept,,,MATH_2112_triples_raw.json

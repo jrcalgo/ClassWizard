@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NANO_8103,topic,nanoscale materials,Nanoscale Materials,2,verified,nanoscale materials,NANO_8103_concepts_raw.json
+NANO_8103,topic,quantum dots,quantum dots,2,verified,quantum dots,NANO_8103_concepts_raw.json
+NANO_8103,topic,metallic nanoparticles,metallic nanoparticles,2,verified,metallic nanoparticles,NANO_8103_concepts_raw.json
+NANO_8103,topic,carbon nanostructured materials and nanotubes,carbon nanostructured materials and nanotubes,2,verified,carbon nanostructured materials and nanotubes,NANO_8103_concepts_raw.json
+NANO_8103,topic,zeolites,zeolites,2,verified,zeolites,NANO_8103_concepts_raw.json
+NANO_8103,topic,organic inorganic polymers,organic inorganic polymers,2,verified,organic inorganic polymers,NANO_8103_concepts_raw.json
+NANO_8103,topic,composite materials,composite materials,2,verified,composite materials,NANO_8103_concepts_raw.json
+NANO_8103,topic,solution-phase colloids,solution-phase colloids,2,verified,solution-phase colloids,NANO_8103_concepts_raw.json
+NANO_8103,method,sol-gel process,sol-gel process,2,verified,sol-gel process,NANO_8103_concepts_raw.json
+NANO_8103,topic,silica spheres,silica spheres,2,verified,silica spheres,NANO_8103_concepts_raw.json
+NANO_8103,topic,porous silicon,porous silicon,2,verified,porous silicon,NANO_8103_concepts_raw.json
+NANO_8103,topic,photonic crystals,photonic crystals,3,verified,photonic crystals,NANO_8103_concepts_raw.json
+NANO_8103,method,nanoparticle synthesis,nanoparticle synthesis,1,verified,nanoparticle synthesis,NANO_8103_concepts_raw.json
+NANO_8103,concept,nanomaterial assemblies,nanomaterial assemblies,1,verified,nanomaterial assemblies,NANO_8103_concepts_raw.json
+NANO_8103,concept,hierarchical design features,hierarchical design features,1,verified,hierarchical design features,NANO_8103_concepts_raw.json
+NANO_8103,measure,BET isotherms,BET isotherms,1,verified,BET isotherms,NANO_8103_concepts_raw.json
+NANO_8103,measure,JV curves,JV curves,1,verified,JV curves,NANO_8103_concepts_raw.json
+NANO_8103,measure,DLS/zeta-potential data,DLS/zeta-potential data,1,verified,DLS/zeta-potential data,NANO_8103_concepts_raw.json

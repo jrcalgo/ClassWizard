@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3163,public speaking,method,PREREQUISITE_OF,negotiation,method,A taught first,,POLS_3163_triples_raw.json
+POLS_3163,public speaking,method,PREREQUISITE_OF,diplomacy,method,A taught first,,POLS_3163_triples_raw.json
+POLS_3163,public speaking,method,PREREQUISITE_OF,policy writing,method,A mentioned first,,POLS_3163_triples_raw.json
+POLS_3163,negotiation,method,PREREQUISITE_OF,diplomacy,method,same unit,,POLS_3163_triples_raw.json
+POLS_3163,negotiation,method,PREREQUISITE_OF,policy writing,method,A mentioned first,,POLS_3163_triples_raw.json
+POLS_3163,diplomacy,method,PREREQUISITE_OF,policy writing,method,A mentioned first,,POLS_3163_triples_raw.json
+POLS_3163,Role-Playing Delegates,concept,PART_OF,Model UN,topic,,,POLS_3163_triples_raw.json
+POLS_3163,Role-Playing Delegates,concept,PART_OF,Model United Nations,topic,,,POLS_3163_triples_raw.json
+POLS_3163,role-playing,method,PART_OF,Role-Playing Delegates,concept,,,POLS_3163_triples_raw.json
+POLS_3163,public speaking,method,USED_FOR,negotiation,method,,,POLS_3163_triples_raw.json
+POLS_3163,public speaking,method,USED_FOR,diplomacy,method,,,POLS_3163_triples_raw.json
+POLS_3163,public speaking,method,USED_FOR,policy writing,method,,,POLS_3163_triples_raw.json
+POLS_3163,negotiation,method,USED_FOR,diplomacy,method,,,POLS_3163_triples_raw.json
+POLS_3163,negotiation,method,USED_FOR,policy writing,method,,,POLS_3163_triples_raw.json
+POLS_3163,diplomacy,method,USED_FOR,policy writing,method,,,POLS_3163_triples_raw.json

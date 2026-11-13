@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RESP_6110,topic,Cardiopulmonary Disease Management,Cardiopulmonary Disease Management,10,verified,Cardiopulmonary Disease Management,RESP_6110_concepts_raw.json
+RESP_6110,topic,Assigned Articles,Assigned Articles,5,verified,Assigned Articles,RESP_6110_concepts_raw.json
+RESP_6110,topic,Clinical Assessment and Decision Making,Clinical Assessment and Decision Making,1,verified,Clinical Assessment and Decision Making,RESP_6110_concepts_raw.json
+RESP_6110,topic,Airway Diseases,Airway Diseases,1,verified,Airway Diseases,RESP_6110_concepts_raw.json
+RESP_6110,concept,pulmonary vascular diseases,Pulmonary Vascular Diseases,1,verified,pulmonary vascular diseases,RESP_6110_concepts_raw.json
+RESP_6110,topic,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease,3,verified,Chronic Obstructive Pulmonary Disease,RESP_6110_concepts_raw.json
+RESP_6110,topic,Acute Respiratory Distress Syndrome,Acute Respiratory Distress Syndrome,2,verified,Acute Respiratory Distress Syndrome,RESP_6110_concepts_raw.json
+RESP_6110,concept,cardiopulmonary insufficiency,Cardiopulmonary Insufficiency,1,verified,cardiopulmonary insufficiency,RESP_6110_concepts_raw.json
+RESP_6110,topic,Pulmonary Hypertension,Pulmonary Hypertension,1,verified,Pulmonary Hypertension,RESP_6110_concepts_raw.json
+RESP_6110,topic,Right Heart Failure,Right Heart Failure,1,verified,Right Heart Failure,RESP_6110_concepts_raw.json
+RESP_6110,topic,Left Heart Failure,Left Heart Failure,1,verified,Left Heart Failure,RESP_6110_concepts_raw.json
+RESP_6110,topic,Cor Pulmonale,Cor Pulmonale,1,verified,Cor Pulmonale,RESP_6110_concepts_raw.json
+RESP_6110,topic,Respiratory Failure,Respiratory Failure,2,verified,Respiratory Failure,RESP_6110_concepts_raw.json
+RESP_6110,topic,Oxygen Therapy,Oxygen Therapy,1,verified,Oxygen Therapy,RESP_6110_concepts_raw.json
+RESP_6110,topic,Mechanical Ventilation,Mechanical Ventilation,1,verified,Mechanical Ventilation,RESP_6110_concepts_raw.json
+RESP_6110,concept,evidence-based care plans,evidence-based care plans,1,verified,evidence-based care plans,RESP_6110_concepts_raw.json
+RESP_6110,concept,pathophysiology of cardiac diseases,Pathophysiology of Cardiac Diseases,9,verified,pathophysiology of cardiac diseases,RESP_6110_concepts_raw.json
+RESP_6110,concept,diagnosis and treatment options,Diagnosis and Treatment Options,9,verified,diagnosis and treatment options,RESP_6110_concepts_raw.json
+RESP_6110,concept,respiratory disease management,Respiratory Disease Management,19,verified,respiratory disease management,RESP_6110_concepts_raw.json
+RESP_6110,concept,comprehensive respiratory diseases,comprehensive respiratory diseases,18,verified,comprehensive respiratory diseases,RESP_6110_concepts_raw.json
+RESP_6110,concept,cardiopulmonary disease pathophysiology,Cardiopulmonary Disease Pathophysiology,2,verified,cardiopulmonary disease pathophysiology,RESP_6110_concepts_raw.json
+RESP_6110,concept,clinical assessment techniques,Clinical Assessment Techniques,1,verified,clinical assessment techniques,RESP_6110_concepts_raw.json
+RESP_6110,concept,decision making strategies,Decision Making Strategies,1,verified,decision making strategies,RESP_6110_concepts_raw.json
+RESP_6110,concept,respiratory system anatomy,Respiratory System Anatomy,1,verified,respiratory system anatomy,RESP_6110_concepts_raw.json
+RESP_6110,concept,pulmonary function tests,Pulmonary Function Tests,1,verified,pulmonary function tests,RESP_6110_concepts_raw.json
+RESP_6110,concept,disease management approaches,Disease Management Approaches,1,verified,disease management approaches,RESP_6110_concepts_raw.json
+RESP_6110,concept,evidence based practice guidelines,Evidence Based Practice Guidelines,1,verified,evidence based practice guidelines,RESP_6110_concepts_raw.json
+RESP_6110,concept,patient assessment protocols,Patient Assessment Protocols,1,verified,patient assessment protocols,RESP_6110_concepts_raw.json
+RESP_6110,concept,diagnostic test interpretation,Diagnostic Test Interpretation,1,verified,diagnostic test interpretation,RESP_6110_concepts_raw.json
+RESP_6110,concept,airway obstruction,Airway Obstruction,1,verified,airway obstruction,RESP_6110_concepts_raw.json
+RESP_6110,concept,asthma pathophysiology,Asthma Pathophysiology,1,verified,asthma pathophysiology,RESP_6110_concepts_raw.json
+RESP_6110,concept,chronic bronchitis,Chronic Bronchitis,1,verified,chronic bronchitis,RESP_6110_concepts_raw.json
+RESP_6110,concept,COPD management,COPD Management,1,verified,COPD management,RESP_6110_concepts_raw.json
+RESP_6110,concept,pulmonary fibrosis,Pulmonary Fibrosis,1,verified,pulmonary fibrosis,RESP_6110_concepts_raw.json
+RESP_6110,method,writing skills,Writing Skills,1,verified,writing skills,RESP_6110_concepts_raw.json
+RESP_6110,method,writing quality,writing quality,1,verified,writing quality,RESP_6110_concepts_raw.json
+RESP_6110,method,written communication skills,written communication skills,1,verified,written communication skills,RESP_6110_concepts_raw.json
+RESP_6110,method,close communication by phone or e-mail,close communication by phone or e-mail,1,verified,close communication by phone or e-mail,RESP_6110_concepts_raw.json
+RESP_6110,method,online contact,online contact,1,verified,online contact,RESP_6110_concepts_raw.json
+RESP_6110,tool,UNC Charlotte email,UNC-Charlotte email,2,verified,UNC Charlotte email,RESP_6110_concepts_raw.json

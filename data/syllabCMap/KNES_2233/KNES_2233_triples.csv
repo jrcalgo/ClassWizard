@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_2233,Implicit Barriers to Participation,concept,PREREQUISITE_OF,Bias Recognition,topic,B taught first,B is taught before A - check,KNES_2233_triples_raw.json
+KNES_2233,Explicit Barriers to Inclusion,concept,PREREQUISITE_OF,Bias Recognition,topic,B taught first,B is taught before A - check,KNES_2233_triples_raw.json
+KNES_2233,Group Dynamics,topic,PREREQUISITE_OF,Fostering Effective Teamwork,concept,A taught first,,KNES_2233_triples_raw.json
+KNES_2233,Group Dynamics,topic,PART_OF,Group Culture,topic,,,KNES_2233_triples_raw.json
+KNES_2233,Implicit Barriers to Participation,concept,SUBTYPE_OF,Bias Recognition,topic,,,KNES_2233_triples_raw.json
+KNES_2233,Explicit Barriers to Inclusion,concept,SUBTYPE_OF,Bias Recognition,topic,,,KNES_2233_triples_raw.json
+KNES_2233,Initiative in Reducing Barriers,concept,SUBTYPE_OF,Fostering Effective Teamwork,concept,,,KNES_2233_triples_raw.json
+KNES_2233,Leadership Development Principles,concept,SUBTYPE_OF,Leadership Skills in Action,concept,,,KNES_2233_triples_raw.json
+KNES_2233,Bias Recognition,topic,USED_FOR,Implicit Barriers to Participation,concept,,topic used for something - check direction,KNES_2233_triples_raw.json
+KNES_2233,Bias Recognition,topic,USED_FOR,Explicit Barriers to Inclusion,concept,,topic used for something - check direction,KNES_2233_triples_raw.json

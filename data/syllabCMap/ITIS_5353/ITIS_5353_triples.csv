@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5353,Cutting-Edge Work,topic,PREREQUISITE_OF,Human-Centered AI,topic,B taught first,B is taught before A - check,ITIS_5353_triples_raw.json
+ITIS_5353,Cutting-Edge Work,topic,PREREQUISITE_OF,Social Data Traces,topic,B taught first,B is taught before A - check,ITIS_5353_triples_raw.json
+ITIS_5353,User Experience,topic,PREREQUISITE_OF,Human-Centered Computing,topic,same unit,,ITIS_5353_triples_raw.json
+ITIS_5353,User Experience,topic,PREREQUISITE_OF,Human-Centered AI,topic,A taught first,,ITIS_5353_triples_raw.json
+ITIS_5353,User Experience,topic,PREREQUISITE_OF,Social Data Traces,topic,A taught first,,ITIS_5353_triples_raw.json
+ITIS_5353,Human-Centered Computing,topic,PREREQUISITE_OF,Human-Centered AI,topic,A taught first,,ITIS_5353_triples_raw.json
+ITIS_5353,Human-Centered Computing,topic,PREREQUISITE_OF,Social Data Traces,topic,A taught first,,ITIS_5353_triples_raw.json
+ITIS_5353,Human-Centered AI,topic,PREREQUISITE_OF,Social Data Traces,topic,B taught first,B is taught before A - check,ITIS_5353_triples_raw.json

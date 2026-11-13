@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ACCT_3325,topic,Financial Reporting,financial reporting,1,verified,Financial Reporting,ACCT_3325_concepts_raw.json
+ACCT_3325,topic,Accounting Changes,accounting changes,1,verified,Accounting Changes,ACCT_3325_concepts_raw.json
+ACCT_3325,topic,Statement of Cash Flows,statement of cash flows,1,verified,Statement of Cash Flows,ACCT_3325_concepts_raw.json
+ACCT_3325,topic,Lease Accounting,Lease Accounting,1,inferred,Lease Accounting,ACCT_3325_concepts_raw.json
+ACCT_3325,topic,Income Tax Accounting,Income Tax Accounting,1,inferred,Income Tax Accounting,ACCT_3325_concepts_raw.json
+ACCT_3325,topic,Equity Accounting,Equity Accounting,1,inferred,Equity Accounting,ACCT_3325_concepts_raw.json
+ACCT_3325,topic,Earnings Per Share,Earnings Per Share,1,inferred,Earnings Per Share,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Lessee Lease Obligations,Lessee Lease Obligations,1,inferred,Lessee Lease Obligations,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Lessor Lease Income,Lessor Lease Income,1,inferred,Lessor Lease Income,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Operating vs Capital Leases,Operating vs Capital Leases,1,inferred,Operating vs Capital Leases,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Deferred Taxes Assets Liabilities,Deferred Taxes Assets Liabilities,1,inferred,Deferred Taxes Assets Liabilities,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Taxable Temporary Differences,Taxable Temporary Differences,1,inferred,Taxable Temporary Differences,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Current vs Noncurrent Taxes,Current vs Noncurrent Taxes,1,inferred,Current vs Noncurrent Taxes,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Stock Dividends Stock Splits,Stock Dividends Stock Splits,1,inferred,Stock Dividends Stock Splits,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Treasury Stock Transactions,Treasury Stock Transactions,1,inferred,Treasury Stock Transactions,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Retained Earnings Adjustments,Retained Earnings Adjustments,1,inferred,Retained Earnings Adjustments,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Basic EPS Calculation Formula,Basic EPS Calculation Formula,1,inferred,Basic EPS Calculation Formula,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Diluted EPS Calculation Formula,Diluted EPS Calculation Formula,1,inferred,Diluted EPS Calculation Formula,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,EPS Disclosure Requirements,EPS Disclosure Requirements,1,inferred,EPS Disclosure Requirements,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Retrospective vs Prospective Adjustments,Retrospective vs Prospective Adjustments,1,inferred,Retrospective vs Prospective Adjustments,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Change in Accounting Principle,Change in Accounting Principle,1,inferred,Change in Accounting Principle,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Error Correction and Prior Period Adjustments,Error Correction and Prior Period Adjustments,1,inferred,Error Correction and Prior Period Adjustments,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Direct vs Indirect Method,Direct vs Indirect Method,1,inferred,Direct vs Indirect Method,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Cash Flow Classification Categories,Cash Flow Classification Categories,1,inferred,Cash Flow Classification Categories,ACCT_3325_concepts_raw.json
+ACCT_3325,concept,Operating Investing Financing Activities,Operating Investing Financing Activities,1,inferred,Operating Investing Financing Activities,ACCT_3325_concepts_raw.json

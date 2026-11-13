@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5196,Microcontrollers,topic,PREREQUISITE_OF,Robotic Power Sub-Systems,topic,same unit,,ECGR_5196_triples_raw.json
+ECGR_5196,Microcontrollers,topic,PREREQUISITE_OF,Sensors,topic,A taught first,,ECGR_5196_triples_raw.json
+ECGR_5196,Microcontrollers,topic,PREREQUISITE_OF,Motion Sub-Systems,topic,A taught first,,ECGR_5196_triples_raw.json
+ECGR_5196,Microcontrollers,topic,PREREQUISITE_OF,DC Motors,topic,A taught first,,ECGR_5196_triples_raw.json
+ECGR_5196,Microcontrollers,topic,PREREQUISITE_OF,Servos,topic,A taught first,,ECGR_5196_triples_raw.json
+ECGR_5196,Microcontrollers,topic,PREREQUISITE_OF,Steppers,topic,A taught first,,ECGR_5196_triples_raw.json
+ECGR_5196,Microcontrollers,topic,PREREQUISITE_OF,Linear Actuators,topic,A taught first,,ECGR_5196_triples_raw.json
+ECGR_5196,General Concepts of System Engineering,concept,PART_OF,System Engineering,topic,,,ECGR_5196_triples_raw.json
+ECGR_5196,Robot Learning,topic,PART_OF,Robotics,topic,,,ECGR_5196_triples_raw.json
+ECGR_5196,Locomotion,topic,PART_OF,Robotics,topic,,,ECGR_5196_triples_raw.json
+ECGR_5196,Localization,topic,PART_OF,Robotics,topic,,,ECGR_5196_triples_raw.json
+ECGR_5196,Navigation,topic,PART_OF,Robotics,topic,,,ECGR_5196_triples_raw.json
+ECGR_5196,Mapping,topic,PART_OF,Robotics,topic,,,ECGR_5196_triples_raw.json
+ECGR_5196,Autonomy and Control in Animals and Robots,concept,PART_OF,Robotics,topic,,,ECGR_5196_triples_raw.json
+ECGR_5196,Autonomous Vehicles,topic,SUBTYPE_OF,Industrial Assembly Robots,topic,,,ECGR_5196_triples_raw.json
+ECGR_5196,Entertainment Robots,topic,SUBTYPE_OF,Industrial Assembly Robots,topic,,,ECGR_5196_triples_raw.json
+ECGR_5196,C,tool,USED_FOR,Microcontrollers,topic,,,ECGR_5196_triples_raw.json

@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPAN_3202,topic,Advanced Conversation,Advanced Conversation,1,verified,Advanced Conversation,SPAN_3202_concepts_raw.json
+SPAN_3202,topic,Composition,Composition,1,verified,Composition,SPAN_3202_concepts_raw.json
+SPAN_3202,topic,Critical Thinking & Analytical Problem-Solving,Critical Thinking & Analytical Problem-Solving,1,verified,Critical Thinking & Analytical Problem-Solving,SPAN_3202_concepts_raw.json
+SPAN_3202,topic,Interpersonal Communication & Collaborative Dynamics,Interpersonal Communication & Collaborative Dynamics,1,verified,Interpersonal Communication & Collaborative Dynamics,SPAN_3202_concepts_raw.json
+SPAN_3202,topic,Technological Integration & Digital Literacy,Technological Integration & Digital Literacy,1,verified,Technological Integration & Digital Literacy,SPAN_3202_concepts_raw.json
+SPAN_3202,topic,"Leadership, Professionalism, & Metacognitive Development","Leadership, Professionalism, & Metacognitive Development",1,verified,"Leadership, Professionalism, & Metacognitive Development",SPAN_3202_concepts_raw.json
+SPAN_3202,concept,socio-cultural contexts,socio-cultural contexts,1,verified,socio-cultural contexts,SPAN_3202_concepts_raw.json
+SPAN_3202,concept,collaborative dynamics,Collaborative Dynamics,1,verified,collaborative dynamics,SPAN_3202_concepts_raw.json
+SPAN_3202,concept,contemporary digital platforms,contemporary digital platforms,1,verified,contemporary digital platforms,SPAN_3202_concepts_raw.json
+SPAN_3202,concept,educational technologies,educational technologies,1,verified,educational technologies,SPAN_3202_concepts_raw.json
+SPAN_3202,concept,professional efficacy,professional efficacy,1,verified,professional efficacy,SPAN_3202_concepts_raw.json
+SPAN_3202,tool,BOOMALANG,BOOMALANG,2,verified,BOOMALANG,SPAN_3202_concepts_raw.json

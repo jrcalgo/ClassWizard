@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_3273,topic,Property & Liability Insurer Operations,Property & Liability Insurer Operations,1,verified,Property & Liability Insurer Operations,FINN_3273_concepts_raw.json
+FINN_3273,topic,Regulatory Environment,regulatory environment,1,verified,Regulatory Environment,FINN_3273_concepts_raw.json
+FINN_3273,topic,Insurer Operations Overview,Insurer Operations Overview,1,inferred,Insurer Operations Overview,FINN_3273_concepts_raw.json
+FINN_3273,topic,Property Insurance Lines,Property Insurance Lines,1,inferred,Property Insurance Lines,FINN_3273_concepts_raw.json
+FINN_3273,topic,Liability Insurance Lines,Liability Insurance Lines,1,inferred,Liability Insurance Lines,FINN_3273_concepts_raw.json
+FINN_3273,topic,Financial Statements Analysis,Financial Statements Analysis,1,inferred,Financial Statements Analysis,FINN_3273_concepts_raw.json
+FINN_3273,topic,Risk Management Strategies,Risk Management Strategies,1,inferred,Risk Management Strategies,FINN_3273_concepts_raw.json
+FINN_3273,concept,core insurer functions,Core insurer functions,1,inferred,core insurer functions,FINN_3273_concepts_raw.json
+FINN_3273,concept,supporting insurer functions,Supporting insurer functions,1,inferred,supporting insurer functions,FINN_3273_concepts_raw.json
+FINN_3273,concept,interactions between functions,Interactions between functions,1,inferred,interactions between functions,FINN_3273_concepts_raw.json
+FINN_3273,concept,insurance regulations and laws,Insurance regulations and laws,1,inferred,insurance regulations and laws,FINN_3273_concepts_raw.json
+FINN_3273,concept,global regulatory framework,Global regulatory framework,1,inferred,global regulatory framework,FINN_3273_concepts_raw.json
+FINN_3273,concept,restrictions on insurer operations,Restrictions on insurer operations,1,inferred,restrictions on insurer operations,FINN_3273_concepts_raw.json
+FINN_3273,concept,types of property insurance,Types of property insurance,1,inferred,types of property insurance,FINN_3273_concepts_raw.json
+FINN_3273,concept,limitations of property coverage,Limitations of property coverage,1,inferred,limitations of property coverage,FINN_3273_concepts_raw.json
+FINN_3273,concept,exclusions in property policies,Exclusions in property policies,1,inferred,exclusions in property policies,FINN_3273_concepts_raw.json
+FINN_3273,concept,types of liability insurance,Types of liability insurance,1,inferred,types of liability insurance,FINN_3273_concepts_raw.json
+FINN_3273,concept,limitations of liability coverage,Limitations of liability coverage,1,inferred,limitations of liability coverage,FINN_3273_concepts_raw.json
+FINN_3273,concept,exclusions in liability policies,Exclusions in liability policies,1,inferred,exclusions in liability policies,FINN_3273_concepts_raw.json
+FINN_3273,concept,insurer financial statement components,Insurer financial statement components,1,inferred,insurer financial statement components,FINN_3273_concepts_raw.json
+FINN_3273,concept,interpreting insurer financial data,Interpreting insurer financial data,1,inferred,interpreting insurer financial data,FINN_3273_concepts_raw.json
+FINN_3273,concept,using financial statements for decision-making,Using financial statements for decision-making,1,inferred,using financial statements for decision-making,FINN_3273_concepts_raw.json
+FINN_3273,concept,identifying emerging risks,Identifying emerging risks,1,inferred,identifying emerging risks,FINN_3273_concepts_raw.json
+FINN_3273,concept,assessing catastrophic risk impact,Assessing catastrophic risk impact,1,inferred,assessing catastrophic risk impact,FINN_3273_concepts_raw.json
+FINN_3273,concept,managing global and technological risks,Managing global and technological risks,1,inferred,managing global and technological risks,FINN_3273_concepts_raw.json

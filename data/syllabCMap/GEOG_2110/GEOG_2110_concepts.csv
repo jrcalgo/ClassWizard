@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_2110,topic,Geographic Research,Geographic Research,2,verified,Geographic Research,GEOG_2110_concepts_raw.json
+GEOG_2110,topic,Quantitative Techniques,quantitative techniques,1,verified,Quantitative Techniques,GEOG_2110_concepts_raw.json
+GEOG_2110,topic,Statistical Problem Solving,Statistical Problem Solving,1,verified,Statistical Problem Solving,GEOG_2110_concepts_raw.json
+GEOG_2110,topic,Summary Statistics,summary statistics,1,verified,Summary Statistics,GEOG_2110_concepts_raw.json
+GEOG_2110,method,Spatial applications in summary statistics,spatial applications in summary statistics,1,verified,Spatial applications in summary statistics,GEOG_2110_concepts_raw.json
+GEOG_2110,method,Spatial summaries,spatial summaries,1,verified,Spatial summaries,GEOG_2110_concepts_raw.json
+GEOG_2110,method,Statistical hypothesis testing,statistical hypothesis testing,1,verified,Statistical hypothesis testing,GEOG_2110_concepts_raw.json
+GEOG_2110,method,Sampling and estimation,sampling and estimation,1,verified,Sampling and estimation,GEOG_2110_concepts_raw.json
+GEOG_2110,method,Association and correlation,association and correlation,1,verified,Association and correlation,GEOG_2110_concepts_raw.json

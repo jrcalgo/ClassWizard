@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BUSN_2701,topic,Industry Norms,industry norms,2,verified,Industry Norms,BUSN_2701_concepts_raw.json
+BUSN_2701,topic,Professionalism,Professionalism,2,verified,Professionalism,BUSN_2701_concepts_raw.json
+BUSN_2701,topic,Service Learning,service learning,1,verified,Service Learning,BUSN_2701_concepts_raw.json
+BUSN_2701,topic,Volunteerism,volunteerism,1,verified,Volunteerism,BUSN_2701_concepts_raw.json
+BUSN_2701,topic,Leadership Styles,Leadership Styles,1,inferred,Leadership Styles,BUSN_2701_concepts_raw.json
+BUSN_2701,topic,Decision Making,Decision Making,1,inferred,Decision Making,BUSN_2701_concepts_raw.json
+BUSN_2701,topic,Problem Solving,Problem Solving,1,inferred,Problem Solving,BUSN_2701_concepts_raw.json
+BUSN_2701,topic,Code of Conduct,Code of Conduct,1,inferred,Code of Conduct,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,compliance with industry regulations,Compliance with Industry Regulations,1,inferred,compliance with industry regulations,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,industry norms and expectations,Industry Norms and Expectations,1,inferred,industry norms and expectations,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,professional values and ethics,Professional Values and Ethics,1,inferred,professional values and ethics,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,benefits of service learning,Benefits of Service Learning,1,inferred,benefits of service learning,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,volunteerism in the workplace,Volunteerism in the Workplace,1,inferred,volunteerism in the workplace,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,oral presentation techniques,Oral Presentation Techniques,1,inferred,oral presentation techniques,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,written communication strategies,Written Communication Strategies,1,inferred,written communication strategies,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,leadership styles and theories,Leadership Styles and Theories,1,inferred,leadership styles and theories,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,decision making and problem solving,Decision Making and Problem Solving,1,inferred,decision making and problem solving,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,project management fundamentals,Project Management Fundamentals,1,inferred,project management fundamentals,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,collaboration and teamwork skills,Collaboration and Teamwork Skills,1,inferred,collaboration and teamwork skills,BUSN_2701_concepts_raw.json
+BUSN_2701,concept,code of conduct and ethics,Code of Conduct and Ethics,1,inferred,code of conduct and ethics,BUSN_2701_concepts_raw.json

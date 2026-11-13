@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_5050,health communication,topic,PREREQUISITE_OF,gendered health,topic,A taught first,,GRNT_5050_triples_raw.json
+GRNT_5050,health communication,topic,PREREQUISITE_OF,public discourse,topic,A taught first,,GRNT_5050_triples_raw.json
+GRNT_5050,health communication,topic,PREREQUISITE_OF,narrative,topic,A taught first,,GRNT_5050_triples_raw.json
+GRNT_5050,health communication,topic,PREREQUISITE_OF,social support,topic,A taught first,,GRNT_5050_triples_raw.json
+GRNT_5050,health communication,topic,PREREQUISITE_OF,prostate cancer,topic,A mentioned first,,GRNT_5050_triples_raw.json
+GRNT_5050,health communication,topic,PREREQUISITE_OF,pregnancy/fertility,topic,A mentioned first,,GRNT_5050_triples_raw.json
+GRNT_5050,health communication,topic,PREREQUISITE_OF,eating disorders,topic,A mentioned first,,GRNT_5050_triples_raw.json
+GRNT_5050,health communication,topic,PART_OF,gerontology,topic,,,GRNT_5050_triples_raw.json
+GRNT_5050,health communication,topic,PART_OF,gendered health,topic,,,GRNT_5050_triples_raw.json
+GRNT_5050,public discourse,topic,PART_OF,health communication,topic,,,GRNT_5050_triples_raw.json
+GRNT_5050,narrative,topic,PART_OF,health communication,topic,,,GRNT_5050_triples_raw.json
+GRNT_5050,social support,topic,PART_OF,health communication,topic,,,GRNT_5050_triples_raw.json
+GRNT_5050,prostate cancer,topic,PART_OF,health communication,topic,,,GRNT_5050_triples_raw.json
+GRNT_5050,pregnancy/fertility,topic,PART_OF,health communication,topic,,,GRNT_5050_triples_raw.json
+GRNT_5050,eating disorders,topic,PART_OF,health communication,topic,,,GRNT_5050_triples_raw.json
+GRNT_5050,critical and creative research skills,method,USED_FOR,health communication,topic,,,GRNT_5050_triples_raw.json

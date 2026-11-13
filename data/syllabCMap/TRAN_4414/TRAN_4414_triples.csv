@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TRAN_4414,translation skills development,concept,PART_OF,translator's role and responsibilities,concept,,,TRAN_4414_triples_raw.json
+TRAN_4414,strategic decision making in translation,concept,PART_OF,Translation,topic,,,TRAN_4414_triples_raw.json
+TRAN_4414,contextual understanding of source texts,concept,PART_OF,Translation,topic,,,TRAN_4414_triples_raw.json
+TRAN_4414,language peculiarities and idioms,concept,PART_OF,German to English Translation Fundamentals,topic,,,TRAN_4414_triples_raw.json

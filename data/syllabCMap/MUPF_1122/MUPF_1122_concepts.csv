@@ -1,0 +1,53 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUPF_1122,topic,Choral Collage Concert,Choral Collage Concert,1,verified,Choral Collage Concert,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Dress Rehearsal,Dress Rehearsal,4,verified,Dress Rehearsal,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Call Time Management,Call Time Management,2,verified,Call Time Management,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Men's Choir Concert,Men's Choir Concert,2,verified,Men's Choir Concert,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Concert Performance,Concert Performance,1,verified,Concert Performance,MUPF_1122_concepts_raw.json
+MUPF_1122,topic,Time series analysis,Time series analysis,1,verified,Time series analysis,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Autocorrelation function,Autocorrelation function,1,verified,Autocorrelation function,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Stationarity assumption,Stationarity assumption,1,verified,Stationarity assumption,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,ARIMA model components,ARIMA model components,1,verified,ARIMA model components,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,General Performance,General Performance,2,verified,General Performance,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Concert Attendance,Concert Attendance,1,verified,Concert Attendance,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Performance Evaluation,Performance Evaluation,1,verified,Performance Evaluation,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Scheduled concerts,Scheduled concerts,1,verified,Scheduled concerts,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Concert additions,Concert additions,1,verified,Concert additions,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Choral Performance,choral performance,3,verified,Choral Performance,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Community Engagement,Community Engagement,1,verified,Community Engagement,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Approval Process,Approval Process,1,verified,Approval Process,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Regulatory Frameworks,Regulatory Frameworks,1,verified,Regulatory Frameworks,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Risk Management Strategies,Risk Management Strategies,1,verified,Risk Management Strategies,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Compliance Requirements,Compliance Requirements,1,verified,Compliance Requirements,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Personal Planner,personal planner,2,verified,Personal Planner,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Date Management,Date Management,1,verified,Date Management,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Gospel Music History,Gospel Music History,1,verified,Gospel Music History,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Choir Leadership Techniques,Choir Leadership Techniques,1,verified,Choir Leadership Techniques,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Vocal Harmonization Methods,Vocal Harmonization Methods,1,verified,Vocal Harmonization Methods,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Music Ministry Principles,Music Ministry Principles,1,verified,Music Ministry Principles,MUPF_1122_concepts_raw.json
+MUPF_1122,topic,University Chorale,University Chorale,2,verified,University Chorale,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Belk Methodology,Belk Methodology,1,verified,Belk Methodology,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Vector Spaces,Vector Spaces,1,verified,Vector Spaces,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Linear Transformations,Linear Transformations,1,verified,Linear Transformations,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Matrix Operations,Matrix Operations,1,verified,Matrix Operations,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Eigenvalues and Eigenvectors,Eigenvalues and Eigenvectors,1,verified,Eigenvalues and Eigenvectors,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Formal Attire,Formal Attire,2,verified,Formal Attire,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Business Dress Code,Business Dress Code,1,verified,Business Dress Code,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Workplace Etiquette,Workplace Etiquette,1,verified,Workplace Etiquette,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Professional Appearance,Professional Appearance,1,verified,Professional Appearance,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Dress for Success,Dress for Success,1,verified,Dress for Success,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Concert Tuxedo Requirements,Concert Tuxedo Requirements,1,verified,Concert Tuxedo Requirements,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Performance Attire Standards,Performance Attire Standards,1,verified,Performance Attire Standards,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Accreditation Criteria,ACCREDITATION CRITERIA,2,verified,Accreditation Criteria,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,NASM Standards,NASM Standards,1,verified,NASM Standards,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Music Department Accreditation,Music Department Accreditation,1,verified,Music Department Accreditation,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Muscle Fiber Types,Muscle Fiber Types,1,verified,Muscle Fiber Types,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Exercise Selection Principles,Exercise Selection Principles,1,verified,Exercise Selection Principles,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Progressive Overload Techniques,Progressive Overload Techniques,1,verified,Progressive Overload Techniques,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Resistance Training Methods,Resistance Training Methods,1,verified,Resistance Training Methods,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Dress Rehearsal Process,Dress Rehearsal Process,1,verified,Dress Rehearsal Process,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Rehearsal Stage Management,Rehearsal Stage Management,1,verified,Rehearsal Stage Management,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Time Zone Conversion,Time Zone Conversion,2,verified,Time Zone Conversion,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Telecommunications Protocols,Telecommunications Protocols,1,verified,Telecommunications Protocols,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Network Scheduling Algorithms,Network Scheduling Algorithms,1,verified,Network Scheduling Algorithms,MUPF_1122_concepts_raw.json
+MUPF_1122,concept,Rehearsal Preparation,Rehearsal Preparation,1,verified,Rehearsal Preparation,MUPF_1122_concepts_raw.json

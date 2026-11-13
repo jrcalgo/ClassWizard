@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3101L,topic,Embedded Systems Laboratory,Embedded Systems Laboratory,1,verified,Embedded Systems Laboratory,ECGR_3101L_concepts_raw.json
+ECGR_3101L,topic,Embedded Systems,Embedded Systems,3,verified,Introduction to Embedded Systems,ECGR_3101L_concepts_raw.json
+ECGR_3101L,topic,Interrupts and Switch Debouncing,Interrupts and Switch debouncing,1,verified,Interrupts and Switch Debouncing,ECGR_3101L_concepts_raw.json
+ECGR_3101L,topic,Software State Machines,Software state machines,1,verified,Software State Machines,ECGR_3101L_concepts_raw.json
+ECGR_3101L,concept,Basic IDE features,Basic IDE features,1,verified,Basic IDE features,ECGR_3101L_concepts_raw.json
+ECGR_3101L,concept,typical microcontroller peripherals,typical microcontroller peripherals,1,verified,typical microcontroller peripherals,ECGR_3101L_concepts_raw.json
+ECGR_3101L,concept,GPIO input and output,GPIO input and output,1,verified,GPIO input and output,ECGR_3101L_concepts_raw.json
+ECGR_3101L,concept,switch debouncing using software,Switch debouncing using software,1,verified,switch debouncing using software,ECGR_3101L_concepts_raw.json
+ECGR_3101L,tool,C language,C language,1,verified,C language,ECGR_3101L_concepts_raw.json
+ECGR_3101L,tool,microcontrollers,microcontrollers,1,verified,microcontrollers,ECGR_3101L_concepts_raw.json
+ECGR_3101L,tool,debugging tools,debugging tools,1,verified,debugging tools,ECGR_3101L_concepts_raw.json

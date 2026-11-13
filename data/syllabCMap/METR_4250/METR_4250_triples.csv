@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_4250,Midlatitude Synoptic Meteorology,topic,PREREQUISITE_OF,atmospheric phenomena,concept,B mentioned first,,METR_4250_triples_raw.json
+METR_4250,rotation,concept,PREREQUISITE_OF,atmospheric phenomena,concept,same unit,,METR_4250_triples_raw.json
+METR_4250,stratification,concept,PREREQUISITE_OF,atmospheric phenomena,concept,same unit,,METR_4250_triples_raw.json
+METR_4250,equations of motion,concept,PART_OF,quasi-geostrophic framework,concept,,,METR_4250_triples_raw.json
+METR_4250,rotation,concept,PART_OF,Midlatitude Synoptic Meteorology,topic,,,METR_4250_triples_raw.json
+METR_4250,stratification,concept,PART_OF,Midlatitude Synoptic Meteorology,topic,,,METR_4250_triples_raw.json

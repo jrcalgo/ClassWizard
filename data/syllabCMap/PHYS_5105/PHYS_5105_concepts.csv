@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_5105,topic,Physics Teaching,Physics Teaching,2,verified,Fundamentals of Physics Teaching,PHYS_5105_concepts_raw.json
+PHYS_5105,topic,Equitable Teaching Methods,equitable teaching methods,1,verified,Equitable Teaching Methods,PHYS_5105_concepts_raw.json
+PHYS_5105,topic,TA Roles,TA Roles,1,inferred,Introduction to TA Roles,PHYS_5105_concepts_raw.json
+PHYS_5105,topic,Addressing Student Misconceptions,Addressing Student Misconceptions,1,inferred,Addressing Student Misconceptions,PHYS_5105_concepts_raw.json
+PHYS_5105,topic,Teaching Philosophy and Ethics,Teaching Philosophy and Ethics,1,inferred,Teaching Philosophy and Ethics,PHYS_5105_concepts_raw.json
+PHYS_5105,topic,Classroom Engagement Strategies,Classroom Engagement Strategies,1,inferred,Classroom Engagement Strategies,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Teaching Assistant Responsibilities,Teaching Assistant Responsibilities,1,inferred,Teaching Assistant Responsibilities,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Inclusive Learning Environments,Inclusive Learning Environments,1,inferred,Inclusive Learning Environments,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Culturally Responsive Teaching,Culturally Responsive Teaching,1,inferred,Culturally Responsive Teaching,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Student-Centered Instructional Design,Student-Centered Instructional Design,1,inferred,Student-Centered Instructional Design,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Misconception Identification Strategies,Misconception Identification Strategies,1,inferred,Misconception Identification Strategies,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Conceptual Understanding Development,Conceptual Understanding Development,1,inferred,Conceptual Understanding Development,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Formative Assessment Techniques,Formative Assessment Techniques,1,inferred,Formative Assessment Techniques,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Personal Teaching Philosophy Statement,Personal Teaching Philosophy Statement,1,inferred,Personal Teaching Philosophy Statement,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Ethical Use of Technology in Education,Ethical Use of Technology in Education,1,inferred,Ethical Use of Technology in Education,PHYS_5105_concepts_raw.json
+PHYS_5105,concept,Responsible AI Integration in Instruction,Responsible AI Integration in Instruction,1,inferred,Responsible AI Integration in Instruction,PHYS_5105_concepts_raw.json

@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3282,topic,MEGR 3282 - Data,MEGR 3282 - Data,1,verified,MEGR 3282 - Data,MEGR_3282_concepts_raw.json
+MEGR_3282,topic,Confidence Intervals,confidence intervals,1,verified,Confidence Intervals,MEGR_3282_concepts_raw.json
+MEGR_3282,topic,Control Charts for Attributes,control charts for attributes,2,verified,Control Charts for Attributes,MEGR_3282_concepts_raw.json
+MEGR_3282,concept,acceptance sampling,acceptance sampling,1,verified,acceptance sampling,MEGR_3282_concepts_raw.json
+MEGR_3282,concept,analysis of variance,analysis of variance,1,verified,analysis of variance,MEGR_3282_concepts_raw.json
+MEGR_3282,topic,Measurement Uncertainty,measurement uncertainty,1,verified,Measurement Uncertainty,MEGR_3282_concepts_raw.json
+MEGR_3282,topic,Tolerance Stack-Up Analysis,tolerance stack-up analysis,1,verified,Tolerance Stack-Up Analysis,MEGR_3282_concepts_raw.json
+MEGR_3282,concept,process capability estimation,process capability estimation,1,verified,process capability estimation,MEGR_3282_concepts_raw.json
+MEGR_3282,topic,Gage Repeatability and Reproducibility,Gage repeatability and reproducibility,1,verified,Gage Repeatability and Reproducibility,MEGR_3282_concepts_raw.json
+MEGR_3282,concept,probability distributions,probability distributions,1,verified,probability distributions,MEGR_3282_concepts_raw.json
+MEGR_3282,concept,coverage intervals,coverage intervals,1,verified,coverage intervals,MEGR_3282_concepts_raw.json
+MEGR_3282,method,hypothesis testing,hypothesis testing,2,verified,hypothesis testing,MEGR_3282_concepts_raw.json
+MEGR_3282,concept,control charts for attributes and variables,control charts for attributes and variables,1,verified,control charts for attributes and variables,MEGR_3282_concepts_raw.json
+MEGR_3282,concept,estimation of measurement uncertainty,estimation of measurement uncertainty,1,verified,estimation of measurement uncertainty,MEGR_3282_concepts_raw.json
+MEGR_3282,concept,gage repeatability and reproducibility studies,Gage repeatability and reproducibility studies,1,verified,gage repeatability and reproducibility studies,MEGR_3282_concepts_raw.json
+MEGR_3282,concept,Type II errors,Type II errors,1,verified,Type II errors,MEGR_3282_concepts_raw.json

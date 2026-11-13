@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PROS_2203,topic,Leadership Essentials,Leadership Essentials,1,verified,Leadership Essentials,PROS_2203_concepts_raw.json
+PROS_2203,topic,Leadership,Leadership,2,verified,Introduction to Leadership,PROS_2203_concepts_raw.json
+PROS_2203,topic,Emotional Intelligence,emotional intelligence,1,verified,Emotional Intelligence,PROS_2203_concepts_raw.json
+PROS_2203,topic,Creating a High-Performance Culture,creating a high-performance culture,1,verified,Creating a High-Performance Culture,PROS_2203_concepts_raw.json
+PROS_2203,topic,Leadership Styles and Theories,Leadership Styles and Theories,1,inferred,Leadership Styles and Theories,PROS_2203_concepts_raw.json
+PROS_2203,topic,Communication and Feedback,Communication and Feedback,1,inferred,Communication and Feedback,PROS_2203_concepts_raw.json
+PROS_2203,topic,Decision Making and Problem Solving,Decision Making and Problem Solving,1,inferred,Decision Making and Problem Solving,PROS_2203_concepts_raw.json
+PROS_2203,topic,Leading Change and Innovation,Leading Change and Innovation,1,inferred,Leading Change and Innovation,PROS_2203_concepts_raw.json
+PROS_2203,topic,Coaching and Mentoring,Coaching and Mentoring,1,inferred,Coaching and Mentoring,PROS_2203_concepts_raw.json
+PROS_2203,topic,Leading in a Global Context,Leading in a Global Context,1,inferred,Leading in a Global Context,PROS_2203_concepts_raw.json
+PROS_2203,topic,Leadership Ethics and Responsibility,Leadership Ethics and Responsibility,1,inferred,Leadership Ethics and Responsibility,PROS_2203_concepts_raw.json
+PROS_2203,concept,Transformational Leadership Model,Transformational Leadership Model,1,inferred,Transformational Leadership Model,PROS_2203_concepts_raw.json
+PROS_2203,concept,Servant Leadership Principles,Servant Leadership Principles,1,inferred,Servant Leadership Principles,PROS_2203_concepts_raw.json
+PROS_2203,concept,Self-Awareness and Self-Regulation,Self-Awareness and Self-Regulation,1,inferred,Self-Awareness and Self-Regulation,PROS_2203_concepts_raw.json
+PROS_2203,concept,Motivation and Empathy Development,Motivation and Empathy Development,1,inferred,Motivation and Empathy Development,PROS_2203_concepts_raw.json
+PROS_2203,concept,Team Building and Collaboration,Team Building and Collaboration,1,inferred,Team Building and Collaboration,PROS_2203_concepts_raw.json
+PROS_2203,concept,Goal Setting and Achievement,Goal Setting and Achievement,1,inferred,Goal Setting and Achievement,PROS_2203_concepts_raw.json
+PROS_2203,concept,Effective Communication Strategies,Effective Communication Strategies,1,inferred,Effective Communication Strategies,PROS_2203_concepts_raw.json
+PROS_2203,concept,Active Listening and Conflict Resolution,Active Listening and Conflict Resolution,1,inferred,Active Listening and Conflict Resolution,PROS_2203_concepts_raw.json
+PROS_2203,concept,Critical Thinking and Analysis,Critical Thinking and Analysis,1,inferred,Critical Thinking and Analysis,PROS_2203_concepts_raw.json
+PROS_2203,concept,Risk Management and Mitigation,Risk Management and Mitigation,1,inferred,Risk Management and Mitigation,PROS_2203_concepts_raw.json
+PROS_2203,concept,Change Management Strategies,Change Management Strategies,1,inferred,Change Management Strategies,PROS_2203_concepts_raw.json
+PROS_2203,concept,Innovation and Entrepreneurship,Innovation and Entrepreneurship,1,inferred,Innovation and Entrepreneurship,PROS_2203_concepts_raw.json
+PROS_2203,concept,Coaching Models and Techniques,Coaching Models and Techniques,1,inferred,Coaching Models and Techniques,PROS_2203_concepts_raw.json
+PROS_2203,concept,Mentorship and Role Modeling,Mentorship and Role Modeling,1,inferred,Mentorship and Role Modeling,PROS_2203_concepts_raw.json
+PROS_2203,concept,Cultural Competence and Awareness,Cultural Competence and Awareness,1,inferred,Cultural Competence and Awareness,PROS_2203_concepts_raw.json
+PROS_2203,concept,Global Leadership Challenges,Global Leadership Challenges,1,inferred,Global Leadership Challenges,PROS_2203_concepts_raw.json
+PROS_2203,concept,Ethical Decision Making Frameworks,Ethical Decision Making Frameworks,1,inferred,Ethical Decision Making Frameworks,PROS_2203_concepts_raw.json
+PROS_2203,concept,Social Responsibility and Sustainability,Social Responsibility and Sustainability,1,inferred,Social Responsibility and Sustainability,PROS_2203_concepts_raw.json

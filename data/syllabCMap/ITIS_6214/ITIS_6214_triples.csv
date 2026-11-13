@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_6214,structured group activities,method,PART_OF,project work time,method,,,ITIS_6214_triples_raw.json
+ITIS_6214,small or large group discussions,method,PART_OF,structured group activities,method,,,ITIS_6214_triples_raw.json

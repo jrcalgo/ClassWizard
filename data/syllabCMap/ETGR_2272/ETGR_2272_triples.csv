@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_2272,integration,topic,PART_OF,multivariable calculus,topic,,,ETGR_2272_triples_raw.json
+ETGR_2272,areas,topic,PART_OF,integration,topic,,,ETGR_2272_triples_raw.json
+ETGR_2272,volumes,topic,PART_OF,integration,topic,,,ETGR_2272_triples_raw.json
+ETGR_2272,partial derivatives,topic,PART_OF,multivariable calculus,topic,,,ETGR_2272_triples_raw.json
+ETGR_2272,double integration,topic,PART_OF,multivariable calculus,topic,,,ETGR_2272_triples_raw.json

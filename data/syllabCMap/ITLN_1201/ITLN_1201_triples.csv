@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Everyday Italian Vocabulary,topic,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Building Vocabulary and Communication Skills,topic,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Listening Comprehension,topic,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Italian Culture and Geography,topic,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Greetings and Introductions,concept,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Basic Phrases for Shopping,concept,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Food and Drink Vocabulary,concept,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Understanding Main Ideas,concept,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Identifying Key Information,concept,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Grasping Everyday Conversations,concept,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Regional Differences in Italy,concept,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Famous Italian Landmarks,concept,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PREREQUISITE_OF,Cultural Traditions and Customs,concept,A taught first,,ITLN_1201_triples_raw.json
+ITLN_1201,Italian Language Basics,concept,PART_OF,Italian Language and Culture,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Cultural Overview of Italy,concept,PART_OF,Italian Language and Culture,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Importance of Language Learning,concept,PART_OF,Italian Language and Culture,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Greetings and Introductions,concept,PART_OF,Everyday Italian Vocabulary,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Basic Phrases for Shopping,concept,PART_OF,Everyday Italian Vocabulary,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Understanding Main Ideas,concept,PART_OF,Listening Comprehension,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Identifying Key Information,concept,PART_OF,Listening Comprehension,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Grasping Everyday Conversations,concept,PART_OF,Listening Comprehension,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Regional Differences in Italy,concept,PART_OF,Italian Culture and Geography,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Cultural Traditions and Customs,concept,PART_OF,Italian Culture and Geography,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Word Formation and Derivatives,concept,PART_OF,Building Vocabulary and Communication Skills,topic,,,ITLN_1201_triples_raw.json
+ITLN_1201,Effective Communication Strategies,concept,PART_OF,Building Vocabulary and Communication Skills,topic,,,ITLN_1201_triples_raw.json

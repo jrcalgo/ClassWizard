@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+UCOL_1307,topic,Academic Progress,academic progress,1,verified,Academic Progress,UCOL_1307_concepts_raw.json
+UCOL_1307,topic,Support Services,support services,1,verified,Support Services,UCOL_1307_concepts_raw.json
+UCOL_1307,topic,Self-Awareness,self-awareness,2,verified,Self-Awareness,UCOL_1307_concepts_raw.json
+UCOL_1307,topic,Goal Setting,Goal Setting,2,inferred,Goal Setting,UCOL_1307_concepts_raw.json
+UCOL_1307,topic,Campus Engagement,Campus Engagement,1,inferred,Campus Engagement,UCOL_1307_concepts_raw.json

@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_6113,heteroscedasticity,topic,PREREQUISITE_OF,Heteroskedasticity-Robust Standard Error,concept,A taught first,,ECON_6113_triples_raw.json
+ECON_6113,heteroscedasticity,topic,PREREQUISITE_OF,Generalized Least Squares,concept,A taught first,,ECON_6113_triples_raw.json
+ECON_6113,heteroscedasticity,topic,PREREQUISITE_OF,Weighted Least Squares,concept,A taught first,,ECON_6113_triples_raw.json
+ECON_6113,autocorrelation,topic,PREREQUISITE_OF,ARIMA models,method,A taught first,,ECON_6113_triples_raw.json
+ECON_6113,multicollinearity,topic,PREREQUISITE_OF,Instrumental Variables Method,concept,same unit,,ECON_6113_triples_raw.json
+ECON_6113,Heteroscedasticity Problem,concept,PART_OF,Regression Assumptions Violation,concept,,,ECON_6113_triples_raw.json
+ECON_6113,Multicollinearity Issue,concept,PART_OF,Regression Assumptions Violation,concept,,,ECON_6113_triples_raw.json
+ECON_6113,White's Test,concept,PART_OF,Heteroskedasticity-Robust Standard Error,concept,,,ECON_6113_triples_raw.json
+ECON_6113,Robust Standard Errors,concept,PART_OF,Heteroskedasticity-Robust Standard Error,concept,,,ECON_6113_triples_raw.json
+ECON_6113,Homoscedasticity Assumption,concept,PART_OF,Generalized Least Squares,concept,,,ECON_6113_triples_raw.json
+ECON_6113,Homoscedasticity Assumption,concept,PART_OF,Weighted Least Squares,concept,,,ECON_6113_triples_raw.json
+ECON_6113,maximum likelihood estimation,method,PART_OF,Instrumental Variables Method,concept,,,ECON_6113_triples_raw.json
+ECON_6113,ARIMA models,method,PART_OF,time-series estimation,topic,,,ECON_6113_triples_raw.json
+ECON_6113,Generalized Least Squares,concept,SUBTYPE_OF,Weighted Least Squares,concept,,,ECON_6113_triples_raw.json
+ECON_6113,basic forecasting tools,method,USED_FOR,time-series estimation,topic,,,ECON_6113_triples_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WRDS_1104,Writing,topic,PREREQUISITE_OF,Understanding Rhetoric,topic,A taught first,,WRDS_1104_triples_raw.json
+WRDS_1104,Understanding Rhetoric,topic,PREREQUISITE_OF,Analyzing Texts,topic,A taught first,,WRDS_1104_triples_raw.json
+WRDS_1104,Analyzing Texts,topic,PREREQUISITE_OF,Argumentation and Persuasion,topic,A taught first,,WRDS_1104_triples_raw.json
+WRDS_1104,Writing,topic,PREREQUISITE_OF,Writing Styles,topic,A taught first,,WRDS_1104_triples_raw.json
+WRDS_1104,Writing Process,concept,PART_OF,Writing,topic,,,WRDS_1104_triples_raw.json
+WRDS_1104,Rhetorical Devices,concept,PART_OF,Understanding Rhetoric,topic,,,WRDS_1104_triples_raw.json
+WRDS_1104,Literary Analysis,concept,PART_OF,Analyzing Texts,topic,,,WRDS_1104_triples_raw.json
+WRDS_1104,Author's Purpose,concept,PART_OF,Analyzing Texts,topic,,,WRDS_1104_triples_raw.json
+WRDS_1104,Narrative Writing,concept,PART_OF,Writing Styles,topic,,,WRDS_1104_triples_raw.json
+WRDS_1104,Descriptive Writing,concept,PART_OF,Writing Styles,topic,,,WRDS_1104_triples_raw.json
+WRDS_1104,Claim and Evidence,concept,PART_OF,Argumentation and Persuasion,topic,,,WRDS_1104_triples_raw.json
+WRDS_1104,Counterargument,concept,PART_OF,Argumentation and Persuasion,topic,,,WRDS_1104_triples_raw.json

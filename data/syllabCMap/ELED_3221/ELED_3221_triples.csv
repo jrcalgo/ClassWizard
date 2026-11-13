@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_3221,Science Curriculum Frameworks,concept,PART_OF,Science,topic,,,ELED_3221_triples_raw.json
+ELED_3221,Inquiry-Based Learning Approach,concept,PART_OF,Science,topic,,,ELED_3221_triples_raw.json
+ELED_3221,Hands-On Teaching Methods,concept,PART_OF,Science,topic,,,ELED_3221_triples_raw.json
+ELED_3221,Questioning and Hypothesis Formation,concept,PART_OF,Scientific Inquiry Process,topic,,,ELED_3221_triples_raw.json
+ELED_3221,Designing Experiments and Procedures,concept,PART_OF,Scientific Inquiry Process,topic,,,ELED_3221_triples_raw.json
+ELED_3221,Integrated Learning Across Disciplines,concept,PART_OF,Science in Elementary Grades,topic,,,ELED_3221_triples_raw.json
+ELED_3221,Differentiated Instruction Strategies,concept,PART_OF,Science in Elementary Grades,topic,,,ELED_3221_triples_raw.json
+ELED_3221,Classroom Management for Science Lessons,concept,PART_OF,Teaching Science Methods,topic,,,ELED_3221_triples_raw.json
+ELED_3221,Assessment Techniques in Science Education,concept,PART_OF,Teaching Science Methods,topic,,,ELED_3221_triples_raw.json
+ELED_3221,Technology Integration in Science Teaching,concept,PART_OF,Teaching Science Methods,topic,,,ELED_3221_triples_raw.json

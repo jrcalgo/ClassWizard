@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDUC_5150,Foundations of Coaching,topic,PREREQUISITE_OF,Planning Coaching Conversations,topic,A taught first,,EDUC_5150_triples_raw.json
+EDUC_5150,objective-focused professional learning,concept,PART_OF,Professional Learning Communities,topic,,,EDUC_5150_triples_raw.json
+EDUC_5150,objective-focused professional learning,concept,PART_OF,EDUC 5150 - Principles of Coaching I,topic,,,EDUC_5150_triples_raw.json
+EDUC_5150,objective-focused professional learning,concept,PART_OF,Foundations of Coaching,topic,,,EDUC_5150_triples_raw.json
+EDUC_5150,objective-focused professional learning,concept,PART_OF,Planning Coaching Conversations,topic,,,EDUC_5150_triples_raw.json
+EDUC_5150,EDUC 5150 - Principles of Coaching I,topic,PART_OF,reading-intensive,method,,part is broader than whole - check direction,EDUC_5150_triples_raw.json
+EDUC_5150,task-completion,method,PART_OF,EDUC 5150 - Principles of Coaching I,topic,,,EDUC_5150_triples_raw.json
+EDUC_5150,discussion-based,method,PART_OF,EDUC 5150 - Principles of Coaching I,topic,,,EDUC_5150_triples_raw.json
+EDUC_5150,reading-intensive,method,USED_FOR,EDUC 5150 - Principles of Coaching I,topic,,,EDUC_5150_triples_raw.json
+EDUC_5150,task-completion,method,USED_FOR,EDUC 5150 - Principles of Coaching I,topic,,,EDUC_5150_triples_raw.json
+EDUC_5150,discussion-based,method,USED_FOR,EDUC 5150 - Principles of Coaching I,topic,,,EDUC_5150_triples_raw.json

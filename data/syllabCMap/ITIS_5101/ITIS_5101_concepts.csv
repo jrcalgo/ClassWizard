@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5101,topic,programming,programming,5,verified,programming,ITIS_5101_concepts_raw.json
+ITIS_5101,topic,computational thinking,Computational Thinking,1,verified,computational thinking,ITIS_5101_concepts_raw.json
+ITIS_5101,topic,career competencies,career competencies,1,verified,career competencies,ITIS_5101_concepts_raw.json
+ITIS_5101,topic,equity & inclusion,equity & inclusion,1,verified,equity & inclusion,ITIS_5101_concepts_raw.json
+ITIS_5101,topic,professionalism,Professionalism,1,verified,professionalism,ITIS_5101_concepts_raw.json
+ITIS_5101,topic,critical thinking,Critical Thinking,2,verified,critical thinking,ITIS_5101_concepts_raw.json
+ITIS_5101,topic,communication,Communication,1,verified,communication,ITIS_5101_concepts_raw.json
+ITIS_5101,topic,technology,Technology,1,verified,technology,ITIS_5101_concepts_raw.json
+ITIS_5101,topic,self-development,Self-Development,2,verified,self-development,ITIS_5101_concepts_raw.json
+ITIS_5101,topic,scholarly perspectives,Scholarly Perspectives,2,verified,scholarly perspectives,ITIS_5101_concepts_raw.json
+ITIS_5101,concept,primitive data types,primitive data types,1,verified,primitive data types,ITIS_5101_concepts_raw.json
+ITIS_5101,concept,conditional statements,conditional statements,1,verified,conditional statements,ITIS_5101_concepts_raw.json
+ITIS_5101,concept,creating exceptions,creating exceptions,1,verified,creating exceptions,ITIS_5101_concepts_raw.json
+ITIS_5101,concept,throwing exceptions,throwing exceptions,1,verified,throwing exceptions,ITIS_5101_concepts_raw.json
+ITIS_5101,concept,stacks and queues,stacks and queues,1,verified,stacks and queues,ITIS_5101_concepts_raw.json
+ITIS_5101,concept,trees and heaps,trees and heaps,1,verified,trees and heaps,ITIS_5101_concepts_raw.json
+ITIS_5101,concept,abstract data types,Abstract Data Types,1,verified,abstract data types,ITIS_5101_concepts_raw.json
+ITIS_5101,concept,inheritance and polymorphism,Inheritance and Polymorphism,1,verified,inheritance and polymorphism,ITIS_5101_concepts_raw.json
+ITIS_5101,concept,abstract classes and interfaces,Abstract Classes and Interfaces,1,verified,abstract classes and interfaces,ITIS_5101_concepts_raw.json
+ITIS_5101,method,algorithmic solution,algorithmic solution,1,verified,algorithmic solution,ITIS_5101_concepts_raw.json
+ITIS_5101,method,data structures,data structures,1,verified,data structures,ITIS_5101_concepts_raw.json
+ITIS_5101,method,exception handling,Exception Handling,1,verified,exception handling,ITIS_5101_concepts_raw.json
+ITIS_5101,method,test cases,test cases,1,verified,test cases,ITIS_5101_concepts_raw.json
+ITIS_5101,method,Big-O analysis,Big-O Analysis,1,verified,Big-O analysis,ITIS_5101_concepts_raw.json
+ITIS_5101,method,problem-solving approaches,problem-solving approaches,1,verified,problem-solving approaches,ITIS_5101_concepts_raw.json
+ITIS_5101,method,debugging,debugging,1,verified,debugging,ITIS_5101_concepts_raw.json
+ITIS_5101,method,code review,code review,1,verified,code review,ITIS_5101_concepts_raw.json
+ITIS_5101,method,testing,testing,1,verified,testing,ITIS_5101_concepts_raw.json

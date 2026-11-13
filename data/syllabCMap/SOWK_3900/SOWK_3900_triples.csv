@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_3900,analyzing models of assessment,method,USED_FOR,evaluation,method,,,SOWK_3900_triples_raw.json
+SOWK_3900,prevention,method,USED_FOR,intervention,method,,,SOWK_3900_triples_raw.json

@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3116,conduction,concept,PREREQUISITE_OF,Heat Transfer,topic,B taught first,B is taught before A - check,MEGR_3116_triples_raw.json
+MEGR_3116,convection,concept,PREREQUISITE_OF,Heat Transfer,topic,B taught first,B is taught before A - check,MEGR_3116_triples_raw.json
+MEGR_3116,radiation,concept,PREREQUISITE_OF,Heat Transfer,topic,B taught first,B is taught before A - check,MEGR_3116_triples_raw.json
+MEGR_3116,conduction,concept,PART_OF,Modes of heat transfer,topic,,,MEGR_3116_triples_raw.json
+MEGR_3116,convection,concept,PART_OF,Modes of heat transfer,topic,,,MEGR_3116_triples_raw.json
+MEGR_3116,radiation,concept,PART_OF,Modes of heat transfer,topic,,,MEGR_3116_triples_raw.json

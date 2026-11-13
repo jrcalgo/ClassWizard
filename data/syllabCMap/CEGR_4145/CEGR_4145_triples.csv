@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_4145,river-aquifer interactions,topic,PART_OF,hydrological processes,topic,,,CEGR_4145_triples_raw.json
+CEGR_4145,aquifer types,topic,PART_OF,hydrological processes,topic,,,CEGR_4145_triples_raw.json
+CEGR_4145,well hydraulics,topic,PART_OF,hydrological processes,topic,,,CEGR_4145_triples_raw.json
+CEGR_4145,groundwater flow principles,topic,PART_OF,hydrological processes,topic,,,CEGR_4145_triples_raw.json
+CEGR_4145,field methods for estimating hydraulic conductivity,topic,PART_OF,hydrological processes,topic,,,CEGR_4145_triples_raw.json
+CEGR_4145,soil moisture dynamics,topic,PART_OF,hydrological processes,topic,,,CEGR_4145_triples_raw.json
+CEGR_4145,contaminant fate and transport processes,topic,PART_OF,hydrological processes,topic,,,CEGR_4145_triples_raw.json
+CEGR_4145,applications of groundwater modeling for water resources analysis,topic,PART_OF,hydrological processes,topic,,,CEGR_4145_triples_raw.json

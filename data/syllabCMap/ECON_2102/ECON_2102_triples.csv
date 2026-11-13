@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_2102,Consumer Behavior,topic,PART_OF,Principles of Microeconomics,topic,,,ECON_2102_triples_raw.json
+ECON_2102,Production and Costs,topic,PART_OF,Principles of Microeconomics,topic,,,ECON_2102_triples_raw.json
+ECON_2102,Market Structures,topic,PART_OF,Principles of Microeconomics,topic,,,ECON_2102_triples_raw.json
+ECON_2102,Public Sector Economics,topic,PART_OF,Principles of Microeconomics,topic,,,ECON_2102_triples_raw.json
+ECON_2102,Industrial Organization,topic,PART_OF,Principles of Microeconomics,topic,,,ECON_2102_triples_raw.json

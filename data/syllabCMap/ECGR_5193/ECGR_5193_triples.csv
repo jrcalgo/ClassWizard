@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5193,Transmission Line Parameters,topic,PART_OF,Power System Analysis I,topic,,,ECGR_5193_triples_raw.json
+ECGR_5193,Synchronous Generators,topic,PART_OF,Power System Analysis I,topic,,,ECGR_5193_triples_raw.json
+ECGR_5193,Power Transformers,topic,PART_OF,Power System Analysis I,topic,,,ECGR_5193_triples_raw.json
+ECGR_5193,Per Unit Systems,topic,PART_OF,Power System Analysis I,topic,,,ECGR_5193_triples_raw.json
+ECGR_5193,reactive power transfer,concept,PART_OF,three-phase systems,concept,,,ECGR_5193_triples_raw.json
+ECGR_5193,three-phase systems,concept,PART_OF,Transmission Line Parameters,topic,,,ECGR_5193_triples_raw.json
+ECGR_5193,power flow analysis,method,USED_FOR,system-level modeling,method,,,ECGR_5193_triples_raw.json

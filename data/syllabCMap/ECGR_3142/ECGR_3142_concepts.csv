@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3142,topic,Electrical Energy Conversion,Electrical Energy Conversion,1,verified,Electrical Energy Conversion,ECGR_3142_concepts_raw.json
+ECGR_3142,topic,Electromagnetic Devices,electromagnetic devices,1,verified,Electromagnetic Devices,ECGR_3142_concepts_raw.json
+ECGR_3142,topic,Electric Machines,electric machines,1,verified,Electric Machines,ECGR_3142_concepts_raw.json
+ECGR_3142,topic,Photovoltaic Power Conversion,Photovoltaic power conversion,1,verified,Photovoltaic Power Conversion,ECGR_3142_concepts_raw.json
+ECGR_3142,topic,Electromechanical Torque Development,Electromechanical torque development,1,verified,Electromechanical Torque Development,ECGR_3142_concepts_raw.json
+ECGR_3142,concept,Steady State Operation,steady state operation,1,verified,Steady State Operation,ECGR_3142_concepts_raw.json

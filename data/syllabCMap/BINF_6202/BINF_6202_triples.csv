@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_6202,protein structure comparison,concept,PART_OF,Computational Structural Biology,topic,,,BINF_6202_triples_raw.json
+BINF_6202,structural databases,concept,PART_OF,Computational Structural Biology,topic,,,BINF_6202_triples_raw.json

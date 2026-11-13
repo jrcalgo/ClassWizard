@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_2136L,Lab Safety Protocols,topic,PART_OF,Organic Chemistry,topic,,,CHEM_2136L_triples_raw.json
+CHEM_2136L,Experimental Design Principles,topic,PART_OF,Organic Chemistry,topic,,,CHEM_2136L_triples_raw.json

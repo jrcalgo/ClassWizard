@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHIL_2100,topic,Logic,Logic,2,verified,Logic,PHIL_2100_concepts_raw.json
+PHIL_2100,concept,arguments,arguments,3,verified,arguments,PHIL_2100_concepts_raw.json
+PHIL_2100,concept,argument components,argument components,1,verified,argument components,PHIL_2100_concepts_raw.json
+PHIL_2100,concept,informal fallacies,informal fallacies,1,verified,informal fallacies,PHIL_2100_concepts_raw.json
+PHIL_2100,method,categorizing,Categorize,1,verified,categorizing and evaluating arguments,PHIL_2100_concepts_raw.json

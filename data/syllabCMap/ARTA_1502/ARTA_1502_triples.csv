@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTA_1502,Global Citizenship,concept,PREREQUISITE_OF,Global Art,topic,same unit,,ARTA_1502_triples_raw.json
+ARTA_1502,Global Citizenship,concept,PREREQUISITE_OF,Human Experience in Art,topic,A taught first,,ARTA_1502_triples_raw.json
+ARTA_1502,Global Citizenship,concept,PREREQUISITE_OF,Identity and Culture,topic,A taught first,,ARTA_1502_triples_raw.json
+ARTA_1502,Global Citizenship,concept,PREREQUISITE_OF,Power and Politics,topic,A taught first,,ARTA_1502_triples_raw.json
+ARTA_1502,Global Citizenship,concept,PREREQUISITE_OF,Spirituality and Belief,topic,A taught first,,ARTA_1502_triples_raw.json
+ARTA_1502,Global Citizenship,concept,PART_OF,Global Art,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Cultural Exchange and Understanding,concept,PART_OF,Global Art,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Storytelling through Visual Arts,concept,PART_OF,Human Experience in Art,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Symbolism and Metaphor in Art,concept,PART_OF,Human Experience in Art,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Art and Environmental Awareness,concept,PART_OF,Nature and the Environment,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Ecological Themes in Art,concept,PART_OF,Nature and the Environment,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Cultural Identity and Expression,concept,PART_OF,Identity and Culture,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Diversity and Inclusion in Art,concept,PART_OF,Identity and Culture,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Art as a Tool for Social Change,concept,PART_OF,Power and Politics,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Politics and Propaganda in Art,concept,PART_OF,Power and Politics,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Resistance and Rebellion through Art,concept,PART_OF,Power and Politics,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Religion and Spirituality in Art,concept,PART_OF,Spirituality and Belief,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Symbolism and Iconography,concept,PART_OF,Spirituality and Belief,topic,,,ARTA_1502_triples_raw.json
+ARTA_1502,Impact of Technology on Art,concept,PART_OF,Globalization and Technology,topic,,,ARTA_1502_triples_raw.json

@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_3111L,topic,Cell Biology Laboratory,Cell Biology Laboratory,1,verified,Cell Biology Laboratory,BIOL_3111L_concepts_raw.json
+BIOL_3111L,topic,Cellular Structure,Cellular Structure,1,inferred,Cellular Structure,BIOL_3111L_concepts_raw.json
+BIOL_3111L,topic,Biomolecular Interactions,Biomolecular Interactions,1,inferred,Biomolecular Interactions,BIOL_3111L_concepts_raw.json
+BIOL_3111L,topic,Laboratory Techniques I,Laboratory Techniques I,1,inferred,Laboratory Techniques I,BIOL_3111L_concepts_raw.json
+BIOL_3111L,topic,Data Collection and Analysis,Data Collection and Analysis,1,inferred,Data Collection and Analysis,BIOL_3111L_concepts_raw.json
+BIOL_3111L,topic,Scientific Communication I,Scientific Communication I,1,inferred,Scientific Communication I,BIOL_3111L_concepts_raw.json
+BIOL_3111L,concept,cell membrane structure,Cell membrane structure,1,inferred,cell membrane structure,BIOL_3111L_concepts_raw.json
+BIOL_3111L,concept,cytoplasmic organelles function,Cytoplasmic organelles function,1,inferred,cytoplasmic organelles function,BIOL_3111L_concepts_raw.json
+BIOL_3111L,concept,nucleus composition and role,Nucleus composition and role,1,inferred,nucleus composition and role,BIOL_3111L_concepts_raw.json
+BIOL_3111L,concept,protein-ligand binding mechanisms,Protein-ligand binding mechanisms,1,inferred,protein-ligand binding mechanisms,BIOL_3111L_concepts_raw.json
+BIOL_3111L,concept,membrane protein interactions,Membrane protein interactions,1,inferred,membrane protein interactions,BIOL_3111L_concepts_raw.json
+BIOL_3111L,concept,nucleic acid structure and function,Nucleic acid structure and function,1,inferred,nucleic acid structure and function,BIOL_3111L_concepts_raw.json

@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_8140,Multivariate Stats,topic,PREREQUISITE_OF,Review of Univariate Stats,topic,A taught first,,RSCH_8140_triples_raw.json
+RSCH_8140,Multivariate Data Types,topic,PREREQUISITE_OF,Multivariate Distributions,topic,A taught first,,RSCH_8140_triples_raw.json
+RSCH_8140,Multivariate Distributions,topic,PREREQUISITE_OF,Multivariate Hypothesis Testing,topic,A taught first,,RSCH_8140_triples_raw.json
+RSCH_8140,Multivariate Regression Analysis,topic,PREREQUISITE_OF,Principal Component Analysis,topic,A taught first,,RSCH_8140_triples_raw.json
+RSCH_8140,Multivariate Statistics Definition,concept,PART_OF,Multivariate Stats,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Importance of Multivariate Analysis,concept,PART_OF,Multivariate Stats,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Inferential Statistics Review,concept,PART_OF,Review of Univariate Stats,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Hypothesis Testing Review,concept,PART_OF,Review of Univariate Stats,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Continuous Multivariate Variables,concept,PART_OF,Multivariate Data Types,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Discrete Multivariate Variables,concept,PART_OF,Multivariate Data Types,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Mixed Multivariate Variables,concept,PART_OF,Multivariate Data Types,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Multivariate T-Distribution,concept,PART_OF,Multivariate Distributions,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Non-Normal Multivariate Distributions,concept,PART_OF,Multivariate Distributions,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Hotelling's T-Square Test,concept,PART_OF,Multivariate Hypothesis Testing,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Wilks' Lambda Test,concept,PART_OF,Multivariate Hypothesis Testing,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Roy's Largest Root Test,concept,PART_OF,Multivariate Hypothesis Testing,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Multiple Linear Regression Model,concept,PART_OF,Multivariate Regression Analysis,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Multivariate Generalized Linear Model,concept,PART_OF,Multivariate Regression Analysis,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Model Selection Criteria,concept,PART_OF,Multivariate Regression Analysis,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Component Extraction Methods,concept,PART_OF,Principal Component Analysis,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,Hierarchical Clustering Algorithms,concept,PART_OF,Cluster Analysis and Classification,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,K-Means Clustering Algorithm,concept,PART_OF,Cluster Analysis and Classification,topic,,,RSCH_8140_triples_raw.json
+RSCH_8140,ARIMA Model for Multivariate TS,concept,PART_OF,Multivariate Time Series Analysis,topic,,,RSCH_8140_triples_raw.json

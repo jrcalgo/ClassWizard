@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_5165,topic,Numerical Linear Algebra,Numerical Linear Algebra,1,verified,Numerical Linear Algebra,MATH_5165_concepts_raw.json
+MATH_5165,topic,Vector Spaces and Operations,Vector Spaces and Operations,1,inferred,Vector Spaces and Operations,MATH_5165_concepts_raw.json
+MATH_5165,topic,Matrix Representation of Linear Transformations,Matrix Representation of Linear Transformations,1,inferred,Matrix Representation of Linear Transformations,MATH_5165_concepts_raw.json
+MATH_5165,topic,Linear Independence and Dependence,Linear Independence and Dependence,1,inferred,Linear Independence and Dependence,MATH_5165_concepts_raw.json
+MATH_5165,concept,Normed Vector Spaces,Normed Vector Spaces,1,inferred,Normed Vector Spaces,MATH_5165_concepts_raw.json
+MATH_5165,concept,Inner Product Spaces,Inner Product Spaces,1,inferred,Inner Product Spaces,MATH_5165_concepts_raw.json
+MATH_5165,topic,Orthogonality and Orthonormality,Orthogonality and Orthonormality,1,inferred,Orthogonality and Orthonormality,MATH_5165_concepts_raw.json
+MATH_5165,topic,Gaussian Elimination Method,Gaussian Elimination Method,1,inferred,Gaussian Elimination Method,MATH_5165_concepts_raw.json
+MATH_5165,topic,LU Decomposition and Factorization,LU Decomposition and Factorization,1,inferred,LU Decomposition and Factorization,MATH_5165_concepts_raw.json
+MATH_5165,topic,Matrix Inverse and Determinant,Matrix Inverse and Determinant,1,inferred,Matrix Inverse and Determinant,MATH_5165_concepts_raw.json
+MATH_5165,topic,Eigenvalue Problem and Its Solution,Eigenvalue Problem and Its Solution,1,inferred,Eigenvalue Problem and Its Solution,MATH_5165_concepts_raw.json
+MATH_5165,topic,Eigenspaces and Eigenvalues,Eigenspaces and Eigenvalues,1,inferred,Eigenspaces and Eigenvalues,MATH_5165_concepts_raw.json
+MATH_5165,topic,Diagonalization of Matrices,Diagonalization of Matrices,1,inferred,Diagonalization of Matrices,MATH_5165_concepts_raw.json
+MATH_5165,topic,Jacobi Iteration Method,Jacobi Iteration Method,1,inferred,Jacobi Iteration Method,MATH_5165_concepts_raw.json
+MATH_5165,topic,Gauss-Seidel Iteration Method,Gauss-Seidel Iteration Method,1,inferred,Gauss-Seidel Iteration Method,MATH_5165_concepts_raw.json
+MATH_5165,concept,Vector Spaces,Vector Spaces,2,inferred,Vector Spaces,MATH_5165_concepts_raw.json
+MATH_5165,concept,Linear Transformations,Linear Transformations,1,inferred,Linear Transformations,MATH_5165_concepts_raw.json
+MATH_5165,concept,Linear Independence,Linear Independence,1,inferred,Linear Independence,MATH_5165_concepts_raw.json
+MATH_5165,concept,Orthogonality,Orthogonality,1,inferred,Orthogonality,MATH_5165_concepts_raw.json
+MATH_5165,concept,Orthonormality,Orthonormality,1,inferred,Orthonormality,MATH_5165_concepts_raw.json
+MATH_5165,concept,Gaussian Elimination,Gaussian Elimination,1,inferred,Gaussian Elimination,MATH_5165_concepts_raw.json
+MATH_5165,concept,LU Decomposition,LU Decomposition,1,inferred,LU Decomposition,MATH_5165_concepts_raw.json
+MATH_5165,concept,Matrix Inverse,Matrix Inverse,1,inferred,Matrix Inverse,MATH_5165_concepts_raw.json
+MATH_5165,concept,Determinant,Determinant,1,inferred,Determinant,MATH_5165_concepts_raw.json
+MATH_5165,concept,Eigenvalue Problem,Eigenvalue Problem,1,inferred,Eigenvalue Problem,MATH_5165_concepts_raw.json
+MATH_5165,concept,Eigenspaces,Eigenspaces,1,inferred,Eigenspaces,MATH_5165_concepts_raw.json
+MATH_5165,concept,Eigenvalues,Eigenvalues,2,inferred,Eigenvalues,MATH_5165_concepts_raw.json
+MATH_5165,concept,Diagonalization,Diagonalization,1,inferred,Diagonalization,MATH_5165_concepts_raw.json

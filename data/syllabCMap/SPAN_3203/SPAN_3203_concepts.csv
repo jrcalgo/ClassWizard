@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPAN_3203,topic,history,history,2,verified,history,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,literature,literature,2,verified,literature,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,culture,culture,2,verified,culture,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,linguistics of the Spanish-speaking world,linguistics of the Spanish-speaking world,2,verified,linguistics of the Spanish-speaking world,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,Spanish-Speaking World Overview,Spanish-Speaking World Overview,1,inferred,Spanish-Speaking World Overview,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,Linguistics Fundamentals,Linguistics Fundamentals,1,inferred,Linguistics Fundamentals,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,Literary Movements in Spain,Literary Movements in Spain,1,inferred,Literary Movements in Spain,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,Latin American Literature,Latin American Literature,2,inferred,Latin American Literature,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,Cultural and Historical Contexts,Cultural and Historical Contexts,1,inferred,Cultural and Historical Contexts,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,Register and Formal Writing,Register and Formal Writing,1,inferred,Register and Formal Writing,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,Grammar Review and Practice,Grammar Review and Practice,1,inferred,Grammar Review and Practice,SPAN_3203_concepts_raw.json
+SPAN_3203,topic,Vocabulary Building,Vocabulary Building,1,inferred,Vocabulary Building,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Geography of Spanish-speaking countries,Geography of Spanish-speaking countries,1,inferred,Geography of Spanish-speaking countries,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,History of the Spanish language,History of the Spanish language,1,inferred,History of the Spanish language,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Cultural diversity in Latin America,Cultural diversity in Latin America,1,inferred,Cultural diversity in Latin America,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Phonetics and phonology of Spanish,Phonetics and phonology of Spanish,1,inferred,Phonetics and phonology of Spanish,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Morphology and syntax of Spanish,Morphology and syntax of Spanish,1,inferred,Morphology and syntax of Spanish,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Spanish language variations and dialects,Spanish language variations and dialects,1,inferred,Spanish language variations and dialects,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Golden Age literature in Spain,Golden Age literature in Spain,1,inferred,Golden Age literature in Spain,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Romanticism and Realism in Spanish literature,Romanticism and Realism in Spanish literature,1,inferred,Romanticism and Realism in Spanish literature,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Modernismo and Vanguardia in Spanish poetry,Modernismo and Vanguardia in Spanish poetry,1,inferred,Modernismo and Vanguardia in Spanish poetry,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Magical Realism in Latin America,Magical Realism in Latin America,1,inferred,Magical Realism in Latin America,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Boom of the 1960s in Latin American literature,Boom of the 1960s in Latin American literature,1,inferred,Boom of the 1960s in Latin American literature,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Colonialism and its impact on Spanish-speaking world,Colonialism and its impact on Spanish-speaking world,1,inferred,Colonialism and its impact on Spanish-speaking world,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Independence movements in Latin America,Independence movements in Latin America,1,inferred,Independence movements in Latin America,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Social and economic issues in the Spanish-speaking world,Social and economic issues in the Spanish-speaking world,1,inferred,Social and economic issues in the Spanish-speaking world,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Formal writing styles in Spanish,Formal writing styles in Spanish,1,inferred,Formal writing styles in Spanish,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Academic register in Spanish language,Academic register in Spanish language,1,inferred,Academic register in Spanish language,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Professional communication in Spanish,Professional communication in Spanish,1,inferred,Professional communication in Spanish,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Verb conjugation in Spanish,Verb conjugation in Spanish,1,inferred,Verb conjugation in Spanish,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Tenses and moods in Spanish grammar,Tenses and moods in Spanish grammar,1,inferred,Tenses and moods in Spanish grammar,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Subjunctive mood in Spanish,Subjunctive mood in Spanish,1,inferred,Subjunctive mood in Spanish,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Domain-specific vocabulary in Spanish,Domain-specific vocabulary in Spanish,1,inferred,Domain-specific vocabulary in Spanish,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Idiomatic expressions in Spanish language,Idiomatic expressions in Spanish language,1,inferred,Idiomatic expressions in Spanish language,SPAN_3203_concepts_raw.json
+SPAN_3203,concept,Cultural references in Spanish vocabulary,Cultural references in Spanish vocabulary,1,inferred,Cultural references in Spanish vocabulary,SPAN_3203_concepts_raw.json

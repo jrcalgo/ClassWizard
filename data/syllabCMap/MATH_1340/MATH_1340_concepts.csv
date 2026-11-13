@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_1340,topic,Mathematics for Elementary Teachers I,Mathematics for Elementary Teachers I,1,verified,Mathematics for Elementary Teachers I,MATH_1340_concepts_raw.json
+MATH_1340,topic,Proportional Relationships,proportional relationships,1,verified,Proportional Relationships,MATH_1340_concepts_raw.json
+MATH_1340,concept,place value,place value,1,verified,place value,MATH_1340_concepts_raw.json
+MATH_1340,concept,alternative base numeration systems,alternative base numeration systems,1,verified,alternative base numeration systems,MATH_1340_concepts_raw.json
+MATH_1340,concept,estimation,estimation,1,verified,estimation,MATH_1340_concepts_raw.json
+MATH_1340,concept,divisibility,divisibility,1,verified,divisibility,MATH_1340_concepts_raw.json
+MATH_1340,concept,fundamental theorem of arithmetic,fundamental theorem of arithmetic,1,verified,fundamental theorem of arithmetic,MATH_1340_concepts_raw.json
+MATH_1340,tool,Mylabmath,Mylabmath,1,verified,Mylabmath,MATH_1340_concepts_raw.json

@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_2131L,Lab Safety Protocols,concept,PART_OF,Laboratory Techniques,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Crystallization Methods,concept,PART_OF,Purification Techniques,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Distillation Principles,concept,PART_OF,Purification Techniques,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Chromatography Basics,concept,PART_OF,Purification Techniques,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,IR Spectroscopy Theory,concept,PART_OF,Spectroscopy Fundamentals,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,NMR Spectroscopy Basics,concept,PART_OF,Spectroscopy Fundamentals,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Mass Spectrometry Principles,concept,PART_OF,Spectroscopy Fundamentals,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Alkane Functional Groups,concept,PART_OF,Functional Group Analysis,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Alkene and Alkyne Identification,concept,PART_OF,Functional Group Analysis,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Carbonyl Compound Recognition,concept,PART_OF,Functional Group Analysis,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Substitution Reactions,concept,PART_OF,Synthesis and Reaction,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Elimination Reactions,concept,PART_OF,Synthesis and Reaction,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Addition Reactions Fundamentals,concept,PART_OF,Synthesis and Reaction,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,R/S Configuration Notation,concept,PART_OF,Stereochemistry Basics,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Stereoisomerism Principles,concept,PART_OF,Stereochemistry Basics,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Synthetic Route Planning,concept,PART_OF,Organic Compound Synthesis,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Reaction Conditions Optimization,concept,PART_OF,Organic Compound Synthesis,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Yield Maximization Strategies,concept,PART_OF,Organic Compound Synthesis,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,2D NMR Spectroscopy,concept,PART_OF,Advanced Spectroscopy Techniques,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,Mass Spectrometry Fragmentation,concept,PART_OF,Advanced Spectroscopy Techniques,topic,,,CHEM_2131L_triples_raw.json
+CHEM_2131L,IR Spectroscopy Advanced Topics,concept,PART_OF,Advanced Spectroscopy Techniques,topic,,,CHEM_2131L_triples_raw.json

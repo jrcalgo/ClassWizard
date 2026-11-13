@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_3101,Respiratory Therapy Profession History,concept,PREREQUISITE_OF,Trends in Respiratory Care,topic,same unit,,RESP_3101_triples_raw.json
+RESP_3101,Career Goal Setting,concept,PREREQUISITE_OF,Resume Writing for RTs,concept,same unit,,RESP_3101_triples_raw.json
+RESP_3101,Career Goal Setting,concept,PREREQUISITE_OF,Cover Letter Writing Techniques,concept,same unit,,RESP_3101_triples_raw.json
+RESP_3101,Respiratory Therapy Profession History,concept,PART_OF,Leadership Practices,topic,,,RESP_3101_triples_raw.json
+RESP_3101,Trends in Respiratory Care,topic,PART_OF,Leadership Practices,topic,,,RESP_3101_triples_raw.json
+RESP_3101,Leadership Roles and Responsibilities,concept,PART_OF,Leadership Practices,topic,,,RESP_3101_triples_raw.json
+RESP_3101,Health Disparities in Communities,concept,PART_OF,Professional Writing For RTs,topic,,,RESP_3101_triples_raw.json
+RESP_3101,Facilitating Change in Respiratory Care,concept,PART_OF,Professional Writing For RTs,topic,,,RESP_3101_triples_raw.json
+RESP_3101,Addressing Unmet Health Needs,concept,PART_OF,Professional Writing For RTs,topic,,,RESP_3101_triples_raw.json
+RESP_3101,APA Citation Style,concept,PART_OF,Professional Writing For RTs,topic,,,RESP_3101_triples_raw.json
+RESP_3101,Thesis Statement Development,concept,PART_OF,Professional Writing For RTs,topic,,,RESP_3101_triples_raw.json
+RESP_3101,Effective Communication Techniques,concept,PART_OF,Professional Writing For RTs,topic,,,RESP_3101_triples_raw.json
+RESP_3101,Thesis Statement Development,concept,USED_FOR,Professional Writing For RTs,topic,,,RESP_3101_triples_raw.json
+RESP_3101,Effective Communication Techniques,concept,USED_FOR,Professional Writing For RTs,topic,,,RESP_3101_triples_raw.json

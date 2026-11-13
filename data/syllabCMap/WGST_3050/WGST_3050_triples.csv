@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WGST_3050,US Constitution Structure,concept,PREREQUISITE_OF,Federalism Principles,concept,same unit,,WGST_3050_triples_raw.json
+WGST_3050,US Constitution Structure,concept,PREREQUISITE_OF,Separation of Powers,concept,same unit,,WGST_3050_triples_raw.json
+WGST_3050,American Government,topic,PREREQUISITE_OF,Women and Politics,topic,A mentioned first,,WGST_3050_triples_raw.json
+WGST_3050,Female Representation History,concept,PREREQUISITE_OF,Voting Rights Milestones,concept,same unit,,WGST_3050_triples_raw.json
+WGST_3050,US Constitution Structure,concept,PART_OF,American Government,topic,,,WGST_3050_triples_raw.json
+WGST_3050,Federalism Principles,concept,PART_OF,American Government,topic,,,WGST_3050_triples_raw.json
+WGST_3050,Separation of Powers,concept,PART_OF,American Government,topic,,,WGST_3050_triples_raw.json
+WGST_3050,Women's Suffrage Movement,concept,PART_OF,Women and Politics,topic,,,WGST_3050_triples_raw.json
+WGST_3050,Liberal Feminism Overview,topic,SUBTYPE_OF,Liberal Feminism,concept,,,WGST_3050_triples_raw.json

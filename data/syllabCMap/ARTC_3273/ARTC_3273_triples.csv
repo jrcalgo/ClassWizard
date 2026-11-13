@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTC_3273,formal and conceptual relationships,concept,PREREQUISITE_OF,studio practice development,concept,same unit,,ARTC_3273_triples_raw.json
+ARTC_3273,formal and conceptual relationships,concept,PREREQUISITE_OF,artistic research techniques,concept,same unit,,ARTC_3273_triples_raw.json
+ARTC_3273,digital presentation tools,concept,PREREQUISITE_OF,effective public speaking,concept,same unit,,ARTC_3273_triples_raw.json
+ARTC_3273,digital presentation tools,concept,PREREQUISITE_OF,arts-related communication,concept,same unit,,ARTC_3273_triples_raw.json
+ARTC_3273,studio practice development,concept,PREREQUISITE_OF,contextualizing studio work,concept,A taught first,,ARTC_3273_triples_raw.json
+ARTC_3273,studio practice development,concept,PART_OF,Intermediate Ceramics,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,Research Methods,topic,PART_OF,Intermediate Ceramics,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,Digital Portfolio Creation,topic,PART_OF,Intermediate Ceramics,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,Presentation Skills,topic,PART_OF,Intermediate Ceramics,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,Studio Practice Analysis,topic,PART_OF,Intermediate Ceramics,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,Domain-Specific Research,topic,PART_OF,Intermediate Ceramics,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,formal and conceptual relationships,concept,PART_OF,studio practice development,concept,,,ARTC_3273_triples_raw.json
+ARTC_3273,artistic research techniques,concept,PART_OF,studio practice development,concept,,,ARTC_3273_triples_raw.json
+ARTC_3273,organizing artwork digitally,concept,PART_OF,Digital Portfolio Creation,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,labeling artwork effectively,concept,PART_OF,Digital Portfolio Creation,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,effective public speaking,concept,PART_OF,Presentation Skills,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,arts-related communication,concept,PART_OF,Presentation Skills,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,connections to larger context,concept,PART_OF,Studio Practice Analysis,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,contextualizing studio work,concept,PART_OF,Studio Practice Analysis,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,theory in art education,concept,PART_OF,Domain-Specific Research,topic,,,ARTC_3273_triples_raw.json
+ARTC_3273,student learning design,concept,PART_OF,Domain-Specific Research,topic,,,ARTC_3273_triples_raw.json

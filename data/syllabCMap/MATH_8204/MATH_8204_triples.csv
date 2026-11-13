@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_8204,Finite Difference Schemes,concept,PREREQUISITE_OF,Galerkin Finite Elements,concept,A taught first,,MATH_8204_triples_raw.json
+MATH_8204,Black-Scholes Model Derivation,method,PREREQUISITE_OF,American Option Pricing Methods,method,same unit,,MATH_8204_triples_raw.json
+MATH_8204,Value-at-Risk (VaR) Calculation,method,PREREQUISITE_OF,Expected Shortfall (ES) Estimation,method,same unit,,MATH_8204_triples_raw.json
+MATH_8204,Ito's Lemma,concept,PREREQUISITE_OF,Stochastic Differential Equations,concept,same unit,,MATH_8204_triples_raw.json
+MATH_8204,Finite Difference Schemes,concept,PART_OF,Numerical Methods,topic,,,MATH_8204_triples_raw.json
+MATH_8204,Monte Carlo Simulations,method,PART_OF,Computational Finance Applications,topic,,,MATH_8204_triples_raw.json
+MATH_8204,Finite Element Methods,method,PART_OF,Weak Formulation Overview,topic,,,MATH_8204_triples_raw.json
+MATH_8204,Black-Scholes Model Derivation,method,PART_OF,Financial Derivatives Pricing,concept,,,MATH_8204_triples_raw.json
+MATH_8204,American Option Pricing Methods,method,PART_OF,Financial Derivatives Pricing,concept,,,MATH_8204_triples_raw.json

@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_8111,concept,linear systems theory,Linear Systems Theory,1,verified,linear systems theory,ECGR_8111_concepts_raw.json
+ECGR_8111,topic,Linearization,Linearization,2,verified,Linearization,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,LTI state-space models,LTI state-space models,1,verified,LTI state-space models,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,matrix transfer functions,matrix transfer functions,1,verified,matrix transfer functions,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,state equation solutions,state equation solutions,1,verified,state equation solutions,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,state transition matrices,state transition matrices,2,verified,state transition matrices,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,stability criteria,stability criteria,1,verified,stability criteria,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,observability,observability,5,verified,observability,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,controllability,controllability,5,verified,controllability,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,realizations,realizations,1,verified,realizations,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,similarity transforms,similarity transforms,1,verified,similarity transforms,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,canonical forms,canonical forms,5,verified,canonical forms,ECGR_8111_concepts_raw.json
+ECGR_8111,topic,observer design,observer design,2,verified,observer design,ECGR_8111_concepts_raw.json
+ECGR_8111,topic,State-Space,state-space,3,verified,Introduction to State-Space,ECGR_8111_concepts_raw.json
+ECGR_8111,topic,Review of linear algebra,Review of linear algebra,1,verified,Review of linear algebra,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,pole placement techniques,pole - placement techniques,1,verified,pole placement techniques,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,Kalman rank and Popov-Belevitch-Hautus tests,Kalman rank and Popov-Belevitch-Hautus tests,1,verified,Kalman rank and Popov-Belevitch-Hautus tests,ECGR_8111_concepts_raw.json
+ECGR_8111,concept,algebraic Riccati equation,algebraic Riccati equation,2,verified,algebraic Riccati equation,ECGR_8111_concepts_raw.json

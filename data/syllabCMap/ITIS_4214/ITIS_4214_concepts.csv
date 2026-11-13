@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_4214,topic,Usable Security,Usable Security,1,verified,Usable Security,ITIS_4214_concepts_raw.json
+ITIS_4214,topic,Security and Privacy Technologies,security and privacy technologies,1,verified,Security and Privacy Technologies,ITIS_4214_concepts_raw.json
+ITIS_4214,topic,Understanding User Behavior,Understanding User Behavior,1,inferred,Understanding User Behavior,ITIS_4214_concepts_raw.json
+ITIS_4214,topic,Usability Design Principles,Usability Design Principles,1,inferred,Usability Design Principles,ITIS_4214_concepts_raw.json
+ITIS_4214,topic,Assessing Security and Privacy,Assessing Security and Privacy,1,inferred,Assessing Security and Privacy,ITIS_4214_concepts_raw.json
+ITIS_4214,topic,Designing Secure Systems,Designing Secure Systems,2,inferred,Designing Secure Systems,ITIS_4214_concepts_raw.json
+ITIS_4214,topic,User Study Methods and Tools,User Study Methods and Tools,1,inferred,User Study Methods and Tools,ITIS_4214_concepts_raw.json
+ITIS_4214,topic,Case Studies in Usable Security,Case Studies in Usable Security,1,inferred,Case Studies in Usable Security,ITIS_4214_concepts_raw.json
+ITIS_4214,topic,Small Projects and Presentations,Small Projects and Presentations,1,inferred,Small Projects and Presentations,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Security and Privacy Challenges,Security and Privacy Challenges,1,inferred,Security and Privacy Challenges,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Human Factors in Security,Human Factors in Security,1,inferred,Human Factors in Security,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Usability and Security Trade-offs,Usability and Security Trade-offs,1,inferred,Usability and Security Trade-offs,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,User Interaction with Applications,User Interaction with Applications,1,inferred,User Interaction with Applications,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Behavioral Patterns in Security,Behavioral Patterns in Security,1,inferred,Behavioral Patterns in Security,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Privacy Implications of User Actions,Privacy Implications of User Actions,1,inferred,Privacy Implications of User Actions,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Authentication Methods and Biometrics,Authentication Methods and Biometrics,1,inferred,Authentication Methods and Biometrics,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Encryption Techniques and Algorithms,Encryption Techniques and Algorithms,1,inferred,Encryption Techniques and Algorithms,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Access Control Systems and Protocols,Access Control Systems and Protocols,1,inferred,Access Control Systems and Protocols,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,User-Centered Design in Security,User-Centered Design in Security,1,inferred,User-Centered Design in Security,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Security and Usability Guidelines,Security and Usability Guidelines,1,inferred,Security and Usability Guidelines,ITIS_4214_concepts_raw.json
+ITIS_4214,method,Designing secure interfaces,Designing Secure Interfaces,1,inferred,Designing secure interfaces,ITIS_4214_concepts_raw.json
+ITIS_4214,method,Risk assessment and mitigation,Risk Assessment and Mitigation,1,inferred,Risk assessment and mitigation,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Vulnerability Analysis and Penetration Testing,Vulnerability Analysis and Penetration Testing,1,inferred,Vulnerability Analysis and Penetration Testing,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Security Auditing and Compliance,Security Auditing and Compliance,1,inferred,Security Auditing and Compliance,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Secure System Design Principles,Secure System Design Principles,1,inferred,Secure System Design Principles,ITIS_4214_concepts_raw.json
+ITIS_4214,method,Threat modeling and risk management,Threat Modeling and Risk Management,1,inferred,Threat modeling and risk management,ITIS_4214_concepts_raw.json
+ITIS_4214,method,Secure coding practices,Secure Coding Practices,1,inferred,Secure coding practices,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,User Research Methods in Security,User Research Methods in Security,1,inferred,User Research Methods in Security,ITIS_4214_concepts_raw.json
+ITIS_4214,method,Usability testing and evaluation,Usability Testing and Evaluation,1,inferred,Usability testing and evaluation,ITIS_4214_concepts_raw.json
+ITIS_4214,method,User study design and analysis,User Study Design and Analysis,1,inferred,User study design and analysis,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Real-World Examples of Usable Security,Real-World Examples of Usable Security,1,inferred,Real-World Examples of Usable Security,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Security and Privacy Failures and Successes,Security and Privacy Failures and Successes,1,inferred,Security and Privacy Failures and Successes,ITIS_4214_concepts_raw.json
+ITIS_4214,concept,Lessons Learned from Case Studies,Lessons Learned from Case Studies,1,inferred,Lessons Learned from Case Studies,ITIS_4214_concepts_raw.json
+ITIS_4214,method,User study methods,User Study Methods,1,inferred,User study methods,ITIS_4214_concepts_raw.json
+ITIS_4214,method,Penetration testing,Penetration Testing,1,inferred,Penetration testing,ITIS_4214_concepts_raw.json
+ITIS_4214,method,Vulnerability analysis,Vulnerability Analysis,1,inferred,Vulnerability analysis,ITIS_4214_concepts_raw.json
+ITIS_4214,method,Applying usable security principles,Applying Usable Security Principles,1,inferred,Applying usable security principles,ITIS_4214_concepts_raw.json
+ITIS_4214,method,Presenting findings and recommendations,Presenting Findings and Recommendations,1,inferred,Presenting findings and recommendations,ITIS_4214_concepts_raw.json

@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_8114,Fluid Properties and Classification,concept,PREREQUISITE_OF,Types of Fluid Flows,concept,same unit,,MEGR_8114_triples_raw.json
+MEGR_8114,Fluid Properties and Classification,concept,PREREQUISITE_OF,Continuity Equation Derivation,concept,A taught first,,MEGR_8114_triples_raw.json
+MEGR_8114,Velocity and Acceleration Vectors,concept,PREREQUISITE_OF,Streamlines and Pathlines,concept,same unit,,MEGR_8114_triples_raw.json
+MEGR_8114,Force Balance on Control Volume,concept,PREREQUISITE_OF,Pressure Gradient and Shear Stress,concept,same unit,,MEGR_8114_triples_raw.json
+MEGR_8114,Force Balance on Control Volume,concept,PREREQUISITE_OF,Bernoulli's Equation Application,concept,same unit,,MEGR_8114_triples_raw.json
+MEGR_8114,Fluid Properties and Classification,concept,PART_OF,Fluid Mechanics,topic,,,MEGR_8114_triples_raw.json
+MEGR_8114,Types of Fluid Flows,concept,PART_OF,Fluid Mechanics,topic,,,MEGR_8114_triples_raw.json
+MEGR_8114,Continuity Equation Derivation,concept,PART_OF,Governing Equations,topic,,,MEGR_8114_triples_raw.json
+MEGR_8114,Momentum Equation Formulation,concept,PART_OF,Governing Equations,topic,,,MEGR_8114_triples_raw.json
+MEGR_8114,Energy Equation Development,concept,PART_OF,Governing Equations,topic,,,MEGR_8114_triples_raw.json
+MEGR_8114,Velocity and Acceleration Vectors,concept,PART_OF,Fluid Kinematics,topic,,,MEGR_8114_triples_raw.json
+MEGR_8114,Pressure Gradient and Shear Stress,concept,PART_OF,Dynamics of Fluids,topic,,,MEGR_8114_triples_raw.json
+MEGR_8114,Bernoulli's Equation Application,concept,PART_OF,Dynamics of Fluids,topic,,,MEGR_8114_triples_raw.json
+MEGR_8114,Laminar and Turbulent Boundary Layers,concept,PART_OF,Boundary Layers and Separation,topic,,,MEGR_8114_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_2302,Labor Laws and Regulations Compliance,concept,PART_OF,Employee Relations,topic,,,PROS_2302_triples_raw.json
+PROS_2302,Diversity,concept,PART_OF,"Diversity, Equity, and Inclusion",topic,,,PROS_2302_triples_raw.json
+PROS_2302,Effective Communication with Employees,concept,PART_OF,Employee Relations,topic,,,PROS_2302_triples_raw.json
+PROS_2302,Human Resource Management Definition,concept,USED_FOR,Human Resource Management,topic,,,PROS_2302_triples_raw.json
+PROS_2302,Importance of HRM in Organizations,concept,USED_FOR,Human Resource Management,topic,,,PROS_2302_triples_raw.json
+PROS_2302,Motivating Employees through Recognition,concept,USED_FOR,Employee Engagement,topic,,,PROS_2302_triples_raw.json
+PROS_2302,Creating a Positive Work Environment,concept,USED_FOR,Employee Engagement,topic,,,PROS_2302_triples_raw.json
+PROS_2302,Employee Empowerment and Autonomy,concept,USED_FOR,Employee Engagement,topic,,,PROS_2302_triples_raw.json
+PROS_2302,Labor Laws and Regulations Compliance,concept,USED_FOR,Employee Relations,topic,,,PROS_2302_triples_raw.json
+PROS_2302,Effective Communication with Employees,concept,USED_FOR,Employee Relations,topic,,,PROS_2302_triples_raw.json
+PROS_2302,Globalization and Its Impact on HRM,concept,USED_FOR,Human Resource Management,topic,,,PROS_2302_triples_raw.json

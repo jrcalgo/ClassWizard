@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6188,Data Collection and Description,topic,PART_OF,Research Applications in Public Administration,topic,,,MPAD_6188_triples_raw.json
+MPAD_6188,Draft Research Paper Preparation,topic,PART_OF,Research Applications in Public Administration,topic,,,MPAD_6188_triples_raw.json
+MPAD_6188,Peer Review and Feedback,topic,PART_OF,Research Applications in Public Administration,topic,,,MPAD_6188_triples_raw.json
+MPAD_6188,Empirical Research Methods,concept,USED_FOR,Literature Review and Hypotheses,topic,,,MPAD_6188_triples_raw.json

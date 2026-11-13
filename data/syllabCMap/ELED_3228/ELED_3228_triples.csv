@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_3228,Literacy Development,topic,PREREQUISITE_OF,Communication Processes,topic,B taught first,B is taught before A - check,ELED_3228_triples_raw.json
+ELED_3228,Language Acquisition,topic,PREREQUISITE_OF,Literacy Development,topic,A taught first,,ELED_3228_triples_raw.json
+ELED_3228,Language Acquisition,topic,PREREQUISITE_OF,Classroom Environment,topic,A taught first,,ELED_3228_triples_raw.json
+ELED_3228,Communication Processes,topic,PREREQUISITE_OF,Classroom Environment,topic,A taught first,,ELED_3228_triples_raw.json
+ELED_3228,text structure,concept,PART_OF,writing,concept,,,ELED_3228_triples_raw.json
+ELED_3228,punctuation,concept,PART_OF,writing,concept,,,ELED_3228_triples_raw.json
+ELED_3228,spelling,concept,PART_OF,writing,concept,,,ELED_3228_triples_raw.json
+ELED_3228,creative thinking and expression,concept,PART_OF,reading,concept,,,ELED_3228_triples_raw.json
+ELED_3228,listening,concept,PART_OF,Communication Processes,topic,,,ELED_3228_triples_raw.json
+ELED_3228,speaking,concept,PART_OF,Communication Processes,topic,,,ELED_3228_triples_raw.json
+ELED_3228,reading,concept,PART_OF,Communication Processes,topic,,,ELED_3228_triples_raw.json
+ELED_3228,writing,concept,PART_OF,Communication Processes,topic,,,ELED_3228_triples_raw.json
+ELED_3228,varying speech patterns,concept,PART_OF,Language Acquisition,topic,,,ELED_3228_triples_raw.json
+ELED_3228,cognitive and linguistic foundations,concept,PART_OF,Literacy Development,topic,,,ELED_3228_triples_raw.json
+ELED_3228,text structure,concept,USED_FOR,writing,concept,,,ELED_3228_triples_raw.json
+ELED_3228,punctuation,concept,USED_FOR,writing,concept,,,ELED_3228_triples_raw.json
+ELED_3228,spelling,concept,USED_FOR,writing,concept,,,ELED_3228_triples_raw.json

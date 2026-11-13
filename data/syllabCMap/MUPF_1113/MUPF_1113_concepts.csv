@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUPF_1113,topic,Symphonic Band,Symphonic Band,3,verified,Symphonic Band,MUPF_1113_concepts_raw.json
+MUPF_1113,topic,Individual Technique,individual technique,1,verified,Individual Technique,MUPF_1113_concepts_raw.json
+MUPF_1113,topic,Ensemble Skills,ensemble skills,1,verified,Ensemble Skills,MUPF_1113_concepts_raw.json
+MUPF_1113,topic,Professionalism and Preparation,professionalism and preparation,1,verified,Professionalism and Preparation,MUPF_1113_concepts_raw.json
+MUPF_1113,concept,musicianship,musicianship,1,verified,musicianship,MUPF_1113_concepts_raw.json
+MUPF_1113,concept,aural musical traditions,aural musical traditions,1,verified,aural musical traditions,MUPF_1113_concepts_raw.json
+MUPF_1113,concept,professionalism,professionalism,1,verified,professionalism,MUPF_1113_concepts_raw.json
+MUPF_1113,concept,patience,patience,1,verified,"patience, kindness, respect, understanding",MUPF_1113_concepts_raw.json
+MUPF_1113,concept,kindness,kindness,1,verified,"patience, kindness, respect, understanding",MUPF_1113_concepts_raw.json
+MUPF_1113,concept,respect,respect,1,verified,"patience, kindness, respect, understanding",MUPF_1113_concepts_raw.json
+MUPF_1113,concept,understanding,understanding,2,verified,"patience, kindness, respect, understanding",MUPF_1113_concepts_raw.json

@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,Bioinformatics Programming II,topic,B mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,advanced Python concepts and tools,method,B mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,object-oriented programming (OOP,method,B mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,testing,method,B mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,version control with Git and GitHub,method,B mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,debugging,method,B mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,profiling,method,B mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,scientific visualization,method,A mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,scripting,method,A mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,automation,method,A mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,Bioinformatics Programming I,topic,PREREQUISITE_OF,reproducibility,method,A mentioned first,,BINF_6112_triples_raw.json
+BINF_6112,testing,method,PART_OF,"Testing, Debugging, and Profiling",topic,,,BINF_6112_triples_raw.json
+BINF_6112,debugging,method,PART_OF,"Testing, Debugging, and Profiling",topic,,,BINF_6112_triples_raw.json
+BINF_6112,profiling,method,PART_OF,"Testing, Debugging, and Profiling",topic,,,BINF_6112_triples_raw.json
+BINF_6112,scripting,method,PART_OF,"Testing, Debugging, and Profiling",topic,,,BINF_6112_triples_raw.json
+BINF_6112,automation,method,PART_OF,"Testing, Debugging, and Profiling",topic,,,BINF_6112_triples_raw.json
+BINF_6112,reproducibility,method,PART_OF,"Testing, Debugging, and Profiling",topic,,,BINF_6112_triples_raw.json
+BINF_6112,Python,tool,USED_FOR,writing maintainable and reusable code,method,,,BINF_6112_triples_raw.json
+BINF_6112,Python,tool,USED_FOR,advanced Python concepts and tools,method,,,BINF_6112_triples_raw.json
+BINF_6112,Python,tool,USED_FOR,object-oriented programming (OOP,method,,,BINF_6112_triples_raw.json
+BINF_6112,Python,tool,USED_FOR,version control with Git and GitHub,method,,,BINF_6112_triples_raw.json
+BINF_6112,GitHub,tool,USED_FOR,version control with Git and GitHub,method,,,BINF_6112_triples_raw.json

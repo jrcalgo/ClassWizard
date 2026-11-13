@@ -1,0 +1,40 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_4252,topic,Thermal Fluids Laboratory,Thermal Fluids Laboratory,1,verified,Thermal Fluids Laboratory,MEET_4252_concepts_raw.json
+MEET_4252,tool,Excel,Excel,1,verified,Excel,MEET_4252_concepts_raw.json
+MEET_4252,tool,Engineering Equation Solver (EES,Engineering Equation Solver (EES,1,verified,Engineering Equation Solver (EES),MEET_4252_concepts_raw.json
+MEET_4252,topic,Lab Safety and Equipment,Lab Safety and Equipment,1,inferred,Lab Safety and Equipment,MEET_4252_concepts_raw.json
+MEET_4252,topic,Fluid Mechanics Experiments,Fluid Mechanics Experiments,1,inferred,Fluid Mechanics Experiments,MEET_4252_concepts_raw.json
+MEET_4252,topic,Heat Transfer Fundamentals,Heat Transfer Fundamentals,1,inferred,Heat Transfer Fundamentals,MEET_4252_concepts_raw.json
+MEET_4252,topic,Thermodynamics Experiments,Thermodynamics Experiments,1,inferred,Thermodynamics Experiments,MEET_4252_concepts_raw.json
+MEET_4252,topic,Data Analysis with Excel,Data Analysis with Excel,1,inferred,Data Analysis with Excel,MEET_4252_concepts_raw.json
+MEET_4252,topic,EES Software Training,EES Software Training,1,inferred,EES Software Training,MEET_4252_concepts_raw.json
+MEET_4252,topic,Experimental Design and Planning,Experimental Design and Planning,1,inferred,Experimental Design and Planning,MEET_4252_concepts_raw.json
+MEET_4252,topic,Technical Report Writing,Technical Report Writing,1,inferred,Technical Report Writing,MEET_4252_concepts_raw.json
+MEET_4252,topic,Oral Presentation Skills,Oral Presentation Skills,1,inferred,Oral Presentation Skills,MEET_4252_concepts_raw.json
+MEET_4252,concept,lab safety protocols,Lab safety protocols,1,inferred,lab safety protocols,MEET_4252_concepts_raw.json
+MEET_4252,concept,equipment operation procedures,Equipment operation procedures,1,inferred,equipment operation procedures,MEET_4252_concepts_raw.json
+MEET_4252,concept,flow meter calibration,Flow meter calibration,1,inferred,flow meter calibration,MEET_4252_concepts_raw.json
+MEET_4252,concept,pressure measurement techniques,Pressure measurement techniques,1,inferred,pressure measurement techniques,MEET_4252_concepts_raw.json
+MEET_4252,concept,flow rate calculations,Flow rate calculations,1,inferred,flow rate calculations,MEET_4252_concepts_raw.json
+MEET_4252,concept,Bernoulli's principle application,Bernoulli's principle application,1,inferred,Bernoulli's principle application,MEET_4252_concepts_raw.json
+MEET_4252,concept,conduction heat transfer,Conduction heat transfer,1,inferred,conduction heat transfer,MEET_4252_concepts_raw.json
+MEET_4252,concept,convective heat transfer,Convective heat transfer,1,inferred,convective heat transfer,MEET_4252_concepts_raw.json
+MEET_4252,concept,radiative heat transfer,Radiative heat transfer,1,inferred,radiative heat transfer,MEET_4252_concepts_raw.json
+MEET_4252,concept,ideal gas law application,Ideal gas law application,1,inferred,ideal gas law application,MEET_4252_concepts_raw.json
+MEET_4252,concept,entropy calculations,Entropy calculations,1,inferred,entropy calculations,MEET_4252_concepts_raw.json
+MEET_4252,concept,Carnot cycle analysis,Carnot cycle analysis,1,inferred,Carnot cycle analysis,MEET_4252_concepts_raw.json
+MEET_4252,concept,Excel data manipulation,Excel data manipulation,1,inferred,Excel data manipulation,MEET_4252_concepts_raw.json
+MEET_4252,concept,graphical representation techniques,Graphical representation techniques,1,inferred,graphical representation techniques,MEET_4252_concepts_raw.json
+MEET_4252,concept,statistical analysis methods,Statistical analysis methods,1,inferred,statistical analysis methods,MEET_4252_concepts_raw.json
+MEET_4252,concept,Engineering Equation Solver basics,Engineering Equation Solver basics,1,inferred,Engineering Equation Solver basics,MEET_4252_concepts_raw.json
+MEET_4252,concept,complex calculation execution,Complex calculation execution,1,inferred,complex calculation execution,MEET_4252_concepts_raw.json
+MEET_4252,concept,error handling procedures,Error handling procedures,1,inferred,error handling procedures,MEET_4252_concepts_raw.json
+MEET_4252,concept,hypothesis testing techniques,Hypothesis testing techniques,1,inferred,hypothesis testing techniques,MEET_4252_concepts_raw.json
+MEET_4252,concept,experiment design principles,Experiment design principles,1,inferred,experiment design principles,MEET_4252_concepts_raw.json
+MEET_4252,concept,data collection strategies,Data collection strategies,1,inferred,data collection strategies,MEET_4252_concepts_raw.json
+MEET_4252,concept,report structure guidelines,Report structure guidelines,1,inferred,report structure guidelines,MEET_4252_concepts_raw.json
+MEET_4252,concept,quantitative data presentation,Quantitative data presentation,1,inferred,quantitative data presentation,MEET_4252_concepts_raw.json
+MEET_4252,concept,conclusion writing techniques,Conclusion writing techniques,1,inferred,conclusion writing techniques,MEET_4252_concepts_raw.json
+MEET_4252,concept,effective communication strategies,Effective communication strategies,1,inferred,effective communication strategies,MEET_4252_concepts_raw.json
+MEET_4252,concept,presentation delivery techniques,Presentation delivery techniques,1,inferred,presentation delivery techniques,MEET_4252_concepts_raw.json
+MEET_4252,concept,peer review processes,Peer review processes,1,inferred,peer review processes,MEET_4252_concepts_raw.json

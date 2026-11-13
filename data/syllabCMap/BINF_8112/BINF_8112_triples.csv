@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_8112,writing maintainable and reusable code,method,PART_OF,Bioinformatics Programming II,topic,,,BINF_8112_triples_raw.json
+BINF_8112,advanced Python concepts and tools,topic,PART_OF,Bioinformatics Programming II,topic,,,BINF_8112_triples_raw.json
+BINF_8112,object-oriented programming (OOP,topic,PART_OF,Bioinformatics Programming II,topic,,,BINF_8112_triples_raw.json
+BINF_8112,testing,concept,PART_OF,Bioinformatics Programming II,topic,,,BINF_8112_triples_raw.json
+BINF_8112,Ethical AI Use and Transparency,topic,PART_OF,Bioinformatics Programming II,topic,,,BINF_8112_triples_raw.json
+BINF_8112,procedural,method,SUBTYPE_OF,programming paradigms,method,,,BINF_8112_triples_raw.json
+BINF_8112,functional,method,SUBTYPE_OF,programming paradigms,method,,,BINF_8112_triples_raw.json
+BINF_8112,Python,tool,USED_FOR,writing maintainable and reusable code,method,,,BINF_8112_triples_raw.json
+BINF_8112,Git,concept,USED_FOR,GitHub,tool,,,BINF_8112_triples_raw.json

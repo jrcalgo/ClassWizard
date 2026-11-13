@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_5375,CBM,topic,PREREQUISITE_OF,Foundations of Literacy for Students with Diverse Learning Needs,topic,A mentioned first,,SPED_5375_triples_raw.json
+SPED_5375,ABCs of CBM,topic,PREREQUISITE_OF,Foundations of Literacy for Students with Diverse Learning Needs,topic,B mentioned first,,SPED_5375_triples_raw.json
+SPED_5375,Interpreting reading assessment data,topic,PREREQUISITE_OF,Foundations of Literacy for Students with Diverse Learning Needs,topic,B mentioned first,,SPED_5375_triples_raw.json
+SPED_5375,Tiered model for differentiation,concept,PART_OF,Foundations of Literacy for Students with Diverse Learning Needs,topic,,,SPED_5375_triples_raw.json
+SPED_5375,Tiered model for differentiation,concept,PART_OF,School-Wide RTI Model in Reading,topic,,,SPED_5375_triples_raw.json
+SPED_5375,Curriculum-based assessment,method,PART_OF,Foundations of Literacy for Students with Diverse Learning Needs,topic,,,SPED_5375_triples_raw.json

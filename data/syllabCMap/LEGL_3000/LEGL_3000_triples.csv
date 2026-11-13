@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_3000,Components of a Trial,concept,PREREQUISITE_OF,Trial Structure Basics,topic,same unit,,LEGL_3000_triples_raw.json
+LEGL_3000,Pre-Trial Procedures,concept,PREREQUISITE_OF,Components of a Trial,concept,same unit,,LEGL_3000_triples_raw.json
+LEGL_3000,Jury Selection Process,concept,PREREQUISITE_OF,Components of a Trial,concept,same unit,,LEGL_3000_triples_raw.json
+LEGL_3000,Hearsay Exceptions,concept,PREREQUISITE_OF,Exclusionary Rules,concept,same unit,,LEGL_3000_triples_raw.json
+LEGL_3000,Pre-Trial Procedures,concept,PART_OF,Trial Structure Basics,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Jury Selection Process,concept,PART_OF,Trial Structure Basics,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Opening Statements,concept,PART_OF,Trial Advocacy Techniques,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Direct Examination,concept,PART_OF,Trial Advocacy Techniques,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Cross-Examination,concept,PART_OF,Trial Advocacy Techniques,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Case Analysis and Strategy,concept,PART_OF,Mock Trial Preparation,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Witness Preparation,concept,PART_OF,Mock Trial Preparation,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Evidence Organization,concept,PART_OF,Mock Trial Preparation,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Trial Conduct and Etiquette,concept,PART_OF,Mock Trial Execution,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Time Management and Pacing,concept,PART_OF,Mock Trial Execution,topic,,,LEGL_3000_triples_raw.json
+LEGL_3000,Teamwork and Communication,concept,PART_OF,Mock Trial Execution,topic,,,LEGL_3000_triples_raw.json

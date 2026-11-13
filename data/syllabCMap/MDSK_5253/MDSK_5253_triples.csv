@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_5253,culturally responsive teaching practices,concept,PREREQUISITE_OF,differentiated instruction strategies,concept,same unit,,MDSK_5253_triples_raw.json
+MDSK_5253,resource selection and evaluation criteria,concept,PREREQUISITE_OF,authentic assessment strategies,concept,A taught first,,MDSK_5253_triples_raw.json
+MDSK_5253,inquiry-based instructional methods,concept,PART_OF,Diverse Learners and Instruction,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,culturally responsive teaching practices,concept,PART_OF,Diverse Learners and Instruction,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,differentiated instruction strategies,concept,PART_OF,Diverse Learners and Instruction,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,universal design for learning principles,concept,PART_OF,Diverse Learners and Instruction,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,digital technology integration in social studies,concept,PART_OF,Inquiry-Based Social Studies Instruction,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,resource selection and evaluation criteria,concept,PART_OF,Assessment and Evaluation in Social Studies,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,authentic assessment strategies,concept,PART_OF,Assessment and Evaluation in Social Studies,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,formative and summative assessment techniques,concept,PART_OF,Assessment and Evaluation in Social Studies,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,cultural relevance of assessments,concept,PART_OF,Assessment and Evaluation in Social Studies,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,multicultural curriculum design principles,concept,PART_OF,Curriculum Design for Diverse Classrooms,topic,,,MDSK_5253_triples_raw.json
+MDSK_5253,digital technology integration in social studies,concept,USED_FOR,Inquiry-Based Social Studies Instruction,topic,,,MDSK_5253_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6226,qualitative and quantitative methods,concept,PREREQUISITE_OF,community health issues,concept,same unit,,HLTH_6226_triples_raw.json
+HLTH_6226,human subjects research protocols,method,PREREQUISITE_OF,collecting and analyzing data,method,A taught first,,HLTH_6226_triples_raw.json
+HLTH_6226,in-depth interviewing,method,PREREQUISITE_OF,survey sampling,method,B taught first,B is taught before A - check,HLTH_6226_triples_raw.json
+HLTH_6226,evidence-based public health,concept,PART_OF,Community Health Methods,topic,,,HLTH_6226_triples_raw.json
+HLTH_6226,community health issues,concept,PART_OF,Community Health Methods,topic,,,HLTH_6226_triples_raw.json

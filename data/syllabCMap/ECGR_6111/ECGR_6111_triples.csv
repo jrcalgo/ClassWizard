@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_6111,linear approximations of nonlinear systems,concept,PREREQUISITE_OF,state-space representations,concept,B taught first,B is taught before A - check,ECGR_6111_triples_raw.json
+ECGR_6111,state transition matrices,topic,PART_OF,Linear Systems Theory,topic,,,ECGR_6111_triples_raw.json
+ECGR_6111,observer design,topic,PART_OF,state feedback by eigenvalue - placement,concept,,part is broader than whole - check direction,ECGR_6111_triples_raw.json
+ECGR_6111,LTI state-space models,topic,PART_OF,Linear Systems Theory,topic,,,ECGR_6111_triples_raw.json
+ECGR_6111,realizations,topic,PART_OF,Linear Systems Theory,topic,,,ECGR_6111_triples_raw.json
+ECGR_6111,similarity transforms,topic,PART_OF,Linear Systems Theory,topic,,,ECGR_6111_triples_raw.json
+ECGR_6111,matrix transfer functions,topic,PART_OF,Linear Systems Theory,topic,,,ECGR_6111_triples_raw.json
+ECGR_6111,state equation solutions,topic,PART_OF,Linear Systems Theory,topic,,,ECGR_6111_triples_raw.json
+ECGR_6111,Lyapunov stability theorems,concept,USED_FOR,stability criteria,topic,,,ECGR_6111_triples_raw.json
+ECGR_6111,Luenberger observer design,concept,USED_FOR,state feedback by eigenvalue - placement,concept,,,ECGR_6111_triples_raw.json

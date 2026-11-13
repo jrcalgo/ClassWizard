@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RESP_4208,topic,neonatal,neonatal,2,verified,neonatal,RESP_4208_concepts_raw.json
+RESP_4208,topic,pediatric,pediatric,2,verified,pediatric,RESP_4208_concepts_raw.json
+RESP_4208,topic,adult disease processes,adult disease processes,1,verified,adult disease processes,RESP_4208_concepts_raw.json
+RESP_4208,topic,critical illness,critical illness,2,verified,critical illness,RESP_4208_concepts_raw.json
+RESP_4208,topic,fetal development,fetal development,1,verified,fetal development,RESP_4208_concepts_raw.json
+RESP_4208,topic,gas exchange,gas exchange,1,verified,gas exchange,RESP_4208_concepts_raw.json
+RESP_4208,topic,circulation,circulation,1,verified,circulation,RESP_4208_concepts_raw.json
+RESP_4208,topic,cardiopulmonary derangements,cardiopulmonary derangements,1,verified,cardiopulmonary derangements,RESP_4208_concepts_raw.json
+RESP_4208,topic,intensive care unit,intensive care unit,1,verified,intensive care unit,RESP_4208_concepts_raw.json
+RESP_4208,topic,respiratory therapist,respiratory therapist,1,verified,respiratory therapist,RESP_4208_concepts_raw.json
+RESP_4208,topic,NRP,NRP,1,verified,NRP,RESP_4208_concepts_raw.json
+RESP_4208,topic,PALS,PALS,1,verified,PALS,RESP_4208_concepts_raw.json
+RESP_4208,topic,ACLS,ACLS,1,verified,ACLS,RESP_4208_concepts_raw.json
+RESP_4208,topic,high-risk situations,high-risk situations,1,verified,high-risk situations,RESP_4208_concepts_raw.json
+RESP_4208,method,patient assessment,patient assessment,1,verified,patient assessment,RESP_4208_concepts_raw.json
+RESP_4208,method,laboratory studies,laboratory studies,1,verified,laboratory studies,RESP_4208_concepts_raw.json
+RESP_4208,method,auxiliary measurements,auxiliary measurements,1,verified,auxiliary measurements,RESP_4208_concepts_raw.json
+RESP_4208,method,interventions,interventions,1,verified,interventions,RESP_4208_concepts_raw.json
+RESP_4208,topic,cardiopulmonary,cardiopulmonary,1,verified,cardiopulmonary,RESP_4208_concepts_raw.json
+RESP_4208,topic,pathophysiology,pathophysiology,1,verified,pathophysiology,RESP_4208_concepts_raw.json
+RESP_4208,topic,treatment options,treatment options,1,verified,treatment options,RESP_4208_concepts_raw.json
+RESP_4208,topic,critically ill patients,critically ill patients,3,verified,critically ill patients,RESP_4208_concepts_raw.json
+RESP_4208,topic,critical care assessment,critical care assessment,1,verified,critical care assessment,RESP_4208_concepts_raw.json
+RESP_4208,topic,management and treatment,management and treatment,1,verified,management and treatment,RESP_4208_concepts_raw.json

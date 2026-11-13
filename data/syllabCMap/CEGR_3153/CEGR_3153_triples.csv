@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3153,Traffic Flow Principles,concept,PART_OF,Traffic Engineering,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Transportation System Design,concept,PART_OF,Traffic Engineering,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Geometric Design Elements,concept,PART_OF,Roadway Design Principles,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Data Collection Techniques,concept,PART_OF,Data Collection Methods,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Turning Movement Count Methodology,concept,PART_OF,Turning Movement Count Analysis,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Travel Time Measurement Methods,concept,PART_OF,Travel Time Study Techniques,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Collision Diagram Creation Methods,concept,PART_OF,Collision Diagrams and Analysis,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Roadway Geometric Design Elements,concept,PART_OF,Roadway Design Principles,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Pavement Design and Materials,concept,PART_OF,Roadway Design Principles,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Drainage System Design Requirements,concept,PART_OF,Roadway Design Principles,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Technical Communication Principles,concept,PART_OF,Technical Report Writing,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Report Writing Format Guidelines,concept,PART_OF,Technical Report Writing,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Effective Technical Presentation,concept,PART_OF,Technical Report Writing,topic,,,CEGR_3153_triples_raw.json
+CEGR_3153,Traffic Signal Control Systems,concept,USED_FOR,Traffic Volume Measurement,concept,,,CEGR_3153_triples_raw.json

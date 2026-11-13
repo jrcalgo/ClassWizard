@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_6169,Convolutional Neural Networks,topic,PREREQUISITE_OF,Recurrent Neural Networks,topic,A taught first,,ITCS_6169_triples_raw.json
+ITCS_6169,Convolutional Neural Networks,topic,PREREQUISITE_OF,Vision Transformers,topic,A taught first,,ITCS_6169_triples_raw.json
+ITCS_6169,Contrastive Learning,topic,PREREQUISITE_OF,transfer-learning mechanisms,method,A mentioned first,,ITCS_6169_triples_raw.json
+ITCS_6169,Self-Supervised Learning,topic,SUBTYPE_OF,Learning Mechanisms,topic,,,ITCS_6169_triples_raw.json
+ITCS_6169,Semi-Supervised Learning,topic,SUBTYPE_OF,Learning Mechanisms,topic,,,ITCS_6169_triples_raw.json
+ITCS_6169,Contrastive Learning,topic,SUBTYPE_OF,transfer-learning mechanisms,method,,,ITCS_6169_triples_raw.json
+ITCS_6169,Agentic Frameworks for Vision,topic,SUBTYPE_OF,Generative Vision Models,topic,,,ITCS_6169_triples_raw.json

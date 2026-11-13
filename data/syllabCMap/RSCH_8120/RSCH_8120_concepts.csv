@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RSCH_8120,topic,Advanced Statistics,Advanced Statistics,1,verified,Advanced Statistics,RSCH_8120_concepts_raw.json
+RSCH_8120,topic,Probability Theory Fundamentals,Probability Theory Fundamentals,1,inferred,Probability Theory Fundamentals,RSCH_8120_concepts_raw.json
+RSCH_8120,topic,Hypothesis Testing Basics,Hypothesis Testing Basics,1,inferred,Hypothesis Testing Basics,RSCH_8120_concepts_raw.json
+RSCH_8120,topic,Confidence Intervals and Estimation,Confidence Intervals and Estimation,1,inferred,Confidence Intervals and Estimation,RSCH_8120_concepts_raw.json
+RSCH_8120,topic,Regression Analysis Fundamentals,Regression Analysis Fundamentals,1,inferred,Regression Analysis Fundamentals,RSCH_8120_concepts_raw.json
+RSCH_8120,topic,Non-Parametric Tests and Methods,Non-Parametric Tests and Methods,1,inferred,Non-Parametric Tests and Methods,RSCH_8120_concepts_raw.json
+RSCH_8120,topic,Time Series Analysis Techniques,Time Series Analysis Techniques,1,inferred,Time Series Analysis Techniques,RSCH_8120_concepts_raw.json
+RSCH_8120,topic,Bayesian Statistics Fundamentals,Bayesian Statistics Fundamentals,1,inferred,Bayesian Statistics Fundamentals,RSCH_8120_concepts_raw.json
+RSCH_8120,topic,Advanced Statistical Modeling,Advanced Statistical Modeling,1,inferred,Advanced Statistical Modeling,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Importance of Statistical Analysis,Importance of Statistical Analysis,1,inferred,Importance of Statistical Analysis,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Types of Data Distributions,Types of Data Distributions,1,inferred,Types of Data Distributions,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Descriptive Statistics Overview,Descriptive Statistics Overview,1,inferred,Descriptive Statistics Overview,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Random Variables and Distributions,Random Variables and Distributions,1,inferred,Random Variables and Distributions,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Conditional Probability Formulas,Conditional Probability Formulas,1,inferred,Conditional Probability Formulas,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Independence and Dependence,Independence and Dependence,1,inferred,Independence and Dependence,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Null and Alternative Hypotheses,Null and Alternative Hypotheses,1,inferred,Null and Alternative Hypotheses,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Test Statistics and P-Values,Test Statistics and P-Values,1,inferred,Test Statistics and P-Values,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Type I and Type II Errors,Type I and Type II Errors,1,inferred,Type I and Type II Errors,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Point Estimates and Interval Estimates,Point Estimates and Interval Estimates,1,inferred,Point Estimates and Interval Estimates,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Standard Error Calculations,Standard Error Calculations,1,inferred,Standard Error Calculations,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Margin of Error Formulas,Margin of Error Formulas,1,inferred,Margin of Error Formulas,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Simple Linear Regression Model,Simple Linear Regression Model,1,inferred,Simple Linear Regression Model,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Multiple Linear Regression Assumptions,Multiple Linear Regression Assumptions,1,inferred,Multiple Linear Regression Assumptions,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Coefficient Interpretation,Coefficient Interpretation,1,inferred,Coefficient Interpretation,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Rank-Based Test Statistics,Rank-Based Test Statistics,1,inferred,Rank-Based Test Statistics,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Wilcoxon Signed-Rank Test,Wilcoxon Signed-Rank Test,1,inferred,Wilcoxon Signed-Rank Test,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Kruskal-Wallis H-Test,Kruskal-Wallis H-Test,1,inferred,Kruskal-Wallis H-Test,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Autocorrelation and Partial Autocorrelation,Autocorrelation and Partial Autocorrelation,1,inferred,Autocorrelation and Partial Autocorrelation,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,ARIMA Model Components,ARIMA Model Components,1,inferred,ARIMA Model Components,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Seasonal Decomposition Methods,Seasonal Decomposition Methods,1,inferred,Seasonal Decomposition Methods,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Prior and Posterior Distributions,Prior and Posterior Distributions,1,inferred,Prior and Posterior Distributions,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Bayes' Theorem Application,Bayes' Theorem Application,1,inferred,Bayes' Theorem Application,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Bayesian Estimation Methods,Bayesian Estimation Methods,1,inferred,Bayesian Estimation Methods,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Generalized Linear Mixed Models,Generalized Linear Mixed Models,1,inferred,Generalized Linear Mixed Models,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Generalized Additive Models,Generalized Additive Models,1,inferred,Generalized Additive Models,RSCH_8120_concepts_raw.json
+RSCH_8120,concept,Machine Learning Algorithms,Machine Learning Algorithms,1,inferred,Machine Learning Algorithms,RSCH_8120_concepts_raw.json

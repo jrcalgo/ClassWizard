@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_3120,personal biases,concept,PREREQUISITE_OF,Diversity,topic,same unit,,SOWK_3120_triples_raw.json
+SOWK_3120,individual,concept,SUBTYPE_OF,systemic,concept,,,SOWK_3120_triples_raw.json
+SOWK_3120,ideological factors,concept,SUBTYPE_OF,systemic,concept,,,SOWK_3120_triples_raw.json

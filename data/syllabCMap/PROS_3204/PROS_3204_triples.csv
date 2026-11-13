@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_3204,Transformational Leadership Style,concept,PART_OF,Leadership Styles,topic,,,PROS_3204_triples_raw.json
+PROS_3204,Transactional Leadership Style,concept,PART_OF,Leadership Styles,topic,,,PROS_3204_triples_raw.json
+PROS_3204,Servant Leadership Theory,concept,PART_OF,Leadership Styles,topic,,,PROS_3204_triples_raw.json
+PROS_3204,Company Culture and Values,concept,PART_OF,Organizational Design,topic,,,PROS_3204_triples_raw.json
+PROS_3204,Organizational Structure and Design,concept,PART_OF,Organizational Design,topic,,,PROS_3204_triples_raw.json
+PROS_3204,Change Management and Implementation,concept,PART_OF,Change Management,topic,,,PROS_3204_triples_raw.json
+PROS_3204,Effective Communication Skills,topic,USED_FOR,Effective Group Decision Making,topic,,topic used for something - check direction,PROS_3204_triples_raw.json

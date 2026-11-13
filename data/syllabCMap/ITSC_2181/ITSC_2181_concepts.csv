@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_2181,topic,computer and processor architecture,computer and processor architecture,2,verified,computer and processor architecture,ITSC_2181_concepts_raw.json
+ITSC_2181,topic,instruction set architecture and introduction to assembly language,instruction set architecture and introduction to assembly language,2,verified,instruction set architecture and introduction to assembly language,ITSC_2181_concepts_raw.json
+ITSC_2181,topic,C programming,C programming,5,verified,C programming,ITSC_2181_concepts_raw.json
+ITSC_2181,topic,system calls,system calls,4,verified,system calls,ITSC_2181_concepts_raw.json
+ITSC_2181,topic,processes and process memory layout,processes and process memory layout,2,verified,processes and process memory layout,ITSC_2181_concepts_raw.json
+ITSC_2181,topic,interfaces for memory allocation and file systems,interfaces for memory allocation and file systems,2,verified,interfaces for memory allocation and file systems,ITSC_2181_concepts_raw.json
+ITSC_2181,topic,file and directory management via the command line,file and directory management via the command line,2,verified,file and directory management via the command line,ITSC_2181_concepts_raw.json
+ITSC_2181,topic,"network architecture and protocols (such as HTTP, MAC, IP, DNS","network architecture and protocols (such as HTTP, MAC, IP, DNS",2,verified,"network architecture and protocols (such as HTTP, MAC, IP, DNS)",ITSC_2181_concepts_raw.json
+ITSC_2181,concept,Von-Neumann architecture,Von-Neumann architecture,1,verified,Von-Neumann architecture,ITSC_2181_concepts_raw.json
+ITSC_2181,concept,Component of a computer system,Component of a computer system,1,verified,Component of a computer system,ITSC_2181_concepts_raw.json
+ITSC_2181,concept,Performance aspect of program execution on computers,performance aspect of program execution on computers,1,verified,Performance aspect of program execution on computers,ITSC_2181_concepts_raw.json
+ITSC_2181,concept,abstractions for using and designing computer systems,abstractions for using and designing computer systems,1,verified,abstractions for using and designing computer systems,ITSC_2181_concepts_raw.json
+ITSC_2181,concept,Moore's Law,Moore's Law,1,verified,Moore's Law,ITSC_2181_concepts_raw.json
+ITSC_2181,concept,C programming basics,C programming basics,2,verified,C programming basics,ITSC_2181_concepts_raw.json
+ITSC_2181,concept,variables and memory address (pointers,variables and memory address (pointers,1,verified,variables and memory address (pointers),ITSC_2181_concepts_raw.json
+ITSC_2181,concept,relationship between arrays,relationship between arrays,1,verified,"relationship between arrays, pointers, and memory in C programming",ITSC_2181_concepts_raw.json
+ITSC_2181,concept,pointers,pointers,2,verified,"relationship between arrays, pointers, and memory in C programming",ITSC_2181_concepts_raw.json
+ITSC_2181,concept,memory in C programming,memory in C programming,1,verified,"relationship between arrays, pointers, and memory in C programming",ITSC_2181_concepts_raw.json
+ITSC_2181,concept,numbers (binary,numbers (binary,1,verified,"numbers (binary, decimal, and hex)",ITSC_2181_concepts_raw.json
+ITSC_2181,concept,decimal,decimal,2,verified,"numbers (binary, decimal, and hex)",ITSC_2181_concepts_raw.json
+ITSC_2181,concept,hex,hex,1,verified,"numbers (binary, decimal, and hex)",ITSC_2181_concepts_raw.json
+ITSC_2181,method,writing,Write,1,verified,"writing, building and executing C programs",ITSC_2181_concepts_raw.json
+ITSC_2181,method,building,build,1,verified,"writing, building and executing C programs",ITSC_2181_concepts_raw.json
+ITSC_2181,method,directory management,directory management,4,verified,using the Unix command line for file & directory management,ITSC_2181_concepts_raw.json
+ITSC_2181,tool,Unix command line,Unix command line,1,verified,Unix command line,ITSC_2181_concepts_raw.json
+ITSC_2181,tool,RISC-V ISA,RISC-V ISA,1,verified,RISC-V ISA,ITSC_2181_concepts_raw.json

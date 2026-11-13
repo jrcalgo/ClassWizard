@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+WRDS_2101,topic,Advanced Writing,Advanced Writing,1,verified,Advanced Writing,WRDS_2101_concepts_raw.json
+WRDS_2101,topic,Research Strategies,research strategies,1,verified,Research Strategies,WRDS_2101_concepts_raw.json
+WRDS_2101,topic,Critical Analysis,critical analysis,1,verified,Critical Analysis,WRDS_2101_concepts_raw.json
+WRDS_2101,topic,Academic Argumentation,Academic Argumentation,1,inferred,Academic Argumentation,WRDS_2101_concepts_raw.json
+WRDS_2101,topic,Entering the Conversation Essay,Entering the Conversation Essay,1,inferred,Entering the Conversation Essay,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,academic writing strategies,Academic writing strategies,1,inferred,academic writing strategies,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,professional writing expectations,Professional writing expectations,1,inferred,professional writing expectations,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,advanced research techniques,Advanced research techniques,1,inferred,advanced research techniques,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,credible evidence gathering,Credible evidence gathering,1,inferred,credible evidence gathering,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,source evaluation criteria,Source evaluation criteria,1,inferred,source evaluation criteria,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,analyzing academic arguments,Analyzing academic arguments,1,inferred,analyzing academic arguments,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,evaluating evidence and claims,Evaluating evidence and claims,1,inferred,evaluating evidence and claims,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,identifying biases and assumptions,Identifying biases and assumptions,1,inferred,identifying biases and assumptions,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,supporting arguments with evidence,Supporting arguments with evidence,1,inferred,supporting arguments with evidence,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,citing sources correctly,Citing sources correctly,1,inferred,citing sources correctly,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,using academic language effectively,Using academic language effectively,1,inferred,using academic language effectively,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,grammar and punctuation rules,Grammar and punctuation rules,1,inferred,grammar and punctuation rules,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,textual conventions for media,Textual conventions for media,1,inferred,textual conventions for media,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,style guides and citation formats,Style guides and citation formats,1,inferred,style guides and citation formats,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,writing in academic voice,Writing in academic voice,1,inferred,writing in academic voice,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,engaging with professional materials,Engaging with professional materials,1,inferred,engaging with professional materials,WRDS_2101_concepts_raw.json
+WRDS_2101,concept,developing a clear thesis statement,Developing a clear thesis statement,1,inferred,developing a clear thesis statement,WRDS_2101_concepts_raw.json

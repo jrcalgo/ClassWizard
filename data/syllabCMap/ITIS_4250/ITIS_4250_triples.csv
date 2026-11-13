@@ -1,0 +1,47 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4250,digital forensics,concept,PREREQUISITE_OF,digital evidence handling,concept,A taught first,,ITIS_4250_triples_raw.json
+ITIS_4250,digital evidence handling,concept,PREREQUISITE_OF,digital evidence collection,concept,A taught first,,ITIS_4250_triples_raw.json
+ITIS_4250,digital evidence collection,concept,PREREQUISITE_OF,forensic imaging,concept,A taught first,,ITIS_4250_triples_raw.json
+ITIS_4250,digital evidence handling,concept,PREREQUISITE_OF,forensic testimony standards,concept,same unit,,ITIS_4250_triples_raw.json
+ITIS_4250,digital forensics,concept,PREREQUISITE_OF,digital forensics in incident response,concept,A taught first,,ITIS_4250_triples_raw.json
+ITIS_4250,data hiding,topic,PART_OF,tracking users,topic,,,ITIS_4250_triples_raw.json
+ITIS_4250,criminal justice system,concept,PART_OF,investigating Windows computers and the criminal justice system,topic,,,ITIS_4250_triples_raw.json
+ITIS_4250,filesystem structure,concept,PART_OF,FAT filesystem,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,filesystem structure,concept,PART_OF,NTFS filesystem,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,metadata analysis,concept,PART_OF,filesystem structure,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,event log analysis,concept,PART_OF,Windows system investigation,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,system configuration files,concept,PART_OF,Windows system investigation,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,Windows artifact recovery,concept,PART_OF,Windows system investigation,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,disk signature analysis,concept,PART_OF,disk analysis techniques,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,file system hierarchy,concept,PART_OF,disk analysis techniques,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,metadata extraction,concept,PART_OF,disk analysis techniques,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,timeline creation,concept,PART_OF,Windows 10-11 file system,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,file carving techniques,concept,PART_OF,Windows 10-11 file system,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,user tracking tools,concept,PART_OF,Windows 10-11 file system,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,data hiding methods,concept,PART_OF,mobile device characteristics,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,user tracking on mobiles,concept,PART_OF,mobile device characteristics,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,FTK Imager,tool,PART_OF,forensic imaging,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,Registry Explorer functions,concept,PART_OF,Windows registry analysis,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,NTFS filesystem,concept,SUBTYPE_OF,filesystem structure,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,event log analysis,concept,SUBTYPE_OF,Windows system investigation,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,Windows artifact recovery,concept,SUBTYPE_OF,Windows system investigation,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,disk analysis techniques,concept,SUBTYPE_OF,forensic imaging,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,bitstream imaging,concept,SUBTYPE_OF,disk analysis techniques,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,logical vs physical disk,concept,SUBTYPE_OF,disk analysis techniques,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,evidence acquisition methods,concept,SUBTYPE_OF,forensic imaging,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,file system hierarchy,concept,SUBTYPE_OF,disk analysis techniques,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,metadata extraction,concept,SUBTYPE_OF,disk analysis techniques,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,Windows 10-11 file system,concept,SUBTYPE_OF,filesystem structure,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,timeline creation,concept,SUBTYPE_OF,Windows 10-11 file system,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,file carving techniques,concept,SUBTYPE_OF,Windows 10-11 file system,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,user tracking tools,concept,SUBTYPE_OF,Windows 10-11 file system,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,mobile device characteristics,concept,SUBTYPE_OF,tracking users,topic,,,ITIS_4250_triples_raw.json
+ITIS_4250,data hiding methods,concept,SUBTYPE_OF,mobile device characteristics,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,FTK Imager,tool,USED_FOR,forensic imaging,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,Registry Explorer,tool,USED_FOR,Windows registry analysis,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,SIFT,tool,USED_FOR,digital evidence collection,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,Autopsy,tool,USED_FOR,digital evidence collection,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,Sleuthkit,tool,USED_FOR,disk analysis techniques,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,HxD,tool,USED_FOR,metadata extraction,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,dcode,tool,USED_FOR,data hiding methods,concept,,,ITIS_4250_triples_raw.json
+ITIS_4250,KAPE,tool,USED_FOR,device imaging techniques,concept,,,ITIS_4250_triples_raw.json

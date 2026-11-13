@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_3360,Major Art Movements,topic,PREREQUISITE_OF,Major Art Works,topic,A taught first,,ARTH_3360_triples_raw.json
+ARTH_3360,Major Art Movements,topic,PREREQUISITE_OF,Northern Baroque Art,topic,A mentioned first,,ARTH_3360_triples_raw.json
+ARTH_3360,Major Art Movements,topic,PREREQUISITE_OF,Northern Baroque,topic,B taught first,B is taught before A - check,ARTH_3360_triples_raw.json
+ARTH_3360,Oral Presentations,topic,PREREQUISITE_OF,Major Art Works,topic,A taught first,,ARTH_3360_triples_raw.json
+ARTH_3360,Oral Presentations,topic,PREREQUISITE_OF,Northern Baroque Art,topic,A mentioned first,,ARTH_3360_triples_raw.json
+ARTH_3360,Oral Presentations,topic,PREREQUISITE_OF,Northern Baroque,topic,B taught first,B is taught before A - check,ARTH_3360_triples_raw.json
+ARTH_3360,Northern Baroque,topic,PART_OF,Northern Baroque Art,topic,,,ARTH_3360_triples_raw.json
+ARTH_3360,Northern Baroque,topic,PART_OF,Major Art Movements,topic,,,ARTH_3360_triples_raw.json
+ARTH_3360,Oral Presentations,topic,PART_OF,Major Art Works,topic,,,ARTH_3360_triples_raw.json
+ARTH_3360,Oral Presentations,topic,PART_OF,Northern Baroque Art,topic,,,ARTH_3360_triples_raw.json
+ARTH_3360,Oral Presentations,topic,PART_OF,Northern Baroque,topic,,,ARTH_3360_triples_raw.json
+ARTH_3360,Major Art Works,topic,PART_OF,Major Art Movements,topic,,,ARTH_3360_triples_raw.json
+ARTH_3360,Major Art Works,topic,PART_OF,Northern Baroque Art,topic,,,ARTH_3360_triples_raw.json
+ARTH_3360,Major Art Works,topic,PART_OF,Northern Baroque,topic,,,ARTH_3360_triples_raw.json

@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+METR_1102L,topic,Meteorology,Meteorology,3,verified,Introduction to Meteorology,METR_1102L_concepts_raw.json
+METR_1102L,concept,atmospheric phenomena,atmospheric phenomena,1,verified,atmospheric phenomena,METR_1102L_concepts_raw.json
+METR_1102L,topic,Solar Radiation and Energy,Solar Radiation and Energy,1,inferred,Solar Radiation and Energy,METR_1102L_concepts_raw.json
+METR_1102L,topic,Atmospheric Circulation Patterns,Atmospheric Circulation Patterns,1,inferred,Atmospheric Circulation Patterns,METR_1102L_concepts_raw.json
+METR_1102L,topic,Cloud Formation and Precipitation,Cloud Formation and Precipitation,1,inferred,Cloud Formation and Precipitation,METR_1102L_concepts_raw.json
+METR_1102L,topic,Severe Weather and Hurricanes,Severe Weather and Hurricanes,1,inferred,Severe Weather and Hurricanes,METR_1102L_concepts_raw.json
+METR_1102L,topic,Environmental Issues and Climate Change,Environmental Issues and Climate Change,1,inferred,Environmental Issues and Climate Change,METR_1102L_concepts_raw.json
+METR_1102L,topic,Analyzing Meteorological Data,Analyzing Meteorological Data,1,inferred,Analyzing Meteorological Data,METR_1102L_concepts_raw.json
+METR_1102L,topic,Contoured Maps and Visualization,Contoured Maps and Visualization,1,inferred,Contoured Maps and Visualization,METR_1102L_concepts_raw.json
+METR_1102L,concept,weather and climate basics,Weather and Climate Basics,1,inferred,weather and climate basics,METR_1102L_concepts_raw.json
+METR_1102L,concept,meteorological data sources,Meteorological Data Sources,1,inferred,meteorological data sources,METR_1102L_concepts_raw.json
+METR_1102L,concept,solar radiation principles,Solar Radiation Principles,1,inferred,solar radiation principles,METR_1102L_concepts_raw.json
+METR_1102L,concept,energy balance in atmosphere,Energy Balance in Atmosphere,1,inferred,energy balance in atmosphere,METR_1102L_concepts_raw.json
+METR_1102L,concept,global solar irradiance,Global Solar Irradiance,1,inferred,global solar irradiance,METR_1102L_concepts_raw.json
+METR_1102L,concept,global wind patterns overview,Global Wind Patterns Overview,1,inferred,global wind patterns overview,METR_1102L_concepts_raw.json
+METR_1102L,concept,high and low pressure systems,High and Low Pressure Systems,1,inferred,high and low pressure systems,METR_1102L_concepts_raw.json
+METR_1102L,concept,jet stream and weather,Jet Stream and Weather,1,inferred,jet stream and weather,METR_1102L_concepts_raw.json
+METR_1102L,concept,cloud types and formation,Cloud Types and Formation,1,inferred,cloud types and formation,METR_1102L_concepts_raw.json
+METR_1102L,concept,precipitation processes overview,Precipitation Processes Overview,1,inferred,precipitation processes overview,METR_1102L_concepts_raw.json
+METR_1102L,concept,weather fronts and systems,Weather Fronts and Systems,1,inferred,weather fronts and systems,METR_1102L_concepts_raw.json
+METR_1102L,concept,thunderstorms and tornadoes,Thunderstorms and Tornadoes,1,inferred,thunderstorms and tornadoes,METR_1102L_concepts_raw.json
+METR_1102L,concept,hurricane formation and tracking,Hurricane Formation and Tracking,1,inferred,hurricane formation and tracking,METR_1102L_concepts_raw.json
+METR_1102L,concept,tropical cyclone basics,Tropical Cyclone Basics,1,inferred,tropical cyclone basics,METR_1102L_concepts_raw.json
+METR_1102L,concept,climate change causes and effects,Climate Change Causes and Effects,1,inferred,climate change causes and effects,METR_1102L_concepts_raw.json
+METR_1102L,concept,greenhouse gases and emissions,Greenhouse Gases and Emissions,1,inferred,greenhouse gases and emissions,METR_1102L_concepts_raw.json
+METR_1102L,concept,atmospheric pollution impact,Atmospheric Pollution Impact,1,inferred,atmospheric pollution impact,METR_1102L_concepts_raw.json
+METR_1102L,concept,data sources and collection methods,Data Sources and Collection Methods,1,inferred,data sources and collection methods,METR_1102L_concepts_raw.json
+METR_1102L,concept,weather forecasting techniques,Weather Forecasting Techniques,1,inferred,weather forecasting techniques,METR_1102L_concepts_raw.json
+METR_1102L,concept,map interpretation and analysis,Map Interpretation and Analysis,1,inferred,map interpretation and analysis,METR_1102L_concepts_raw.json
+METR_1102L,concept,cartography principles and practices,Cartography Principles and Practices,1,inferred,cartography principles and practices,METR_1102L_concepts_raw.json
+METR_1102L,concept,map creation and design,Map Creation and Design,1,inferred,map creation and design,METR_1102L_concepts_raw.json
+METR_1102L,concept,visualizing meteorological data,Visualizing Meteorological Data,1,inferred,visualizing meteorological data,METR_1102L_concepts_raw.json

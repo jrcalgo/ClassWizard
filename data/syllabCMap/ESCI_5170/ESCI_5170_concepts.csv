@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_5170,topic,Remote Sensing,Remote Sensing,10,verified,Remote Sensing,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Foundations of Remote Sensing,Foundations of Remote Sensing,1,verified,Foundations of Remote Sensing,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Electromagnetic Radiation Principles,electromagnetic radiation principles,8,verified,Electromagnetic Radiation Principles,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Sensor Systems,Sensor Systems,2,verified,Sensor Systems,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Analysis in ENVI,Analysis in ENVI,1,verified,Analysis in ENVI,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Principles of Active Sensors (LiDAR & SAR,Principles of Active Sensors (LiDAR & SAR,1,verified,Principles of Active Sensors (LiDAR & SAR),ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Principles of Thermal Infrared Sensors,Principles of Thermal Infrared Sensors,1,verified,Principles of Thermal Infrared Sensors,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Accuracy Assessment,Accuracy Assessment,1,verified,Accuracy Assessment,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Deep Learning & Advanced AI,Deep Learning & Advanced AI,2,verified,Deep Learning & Advanced AI,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Change Detection,change detection,5,verified,Change Detection,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Google AlphaEarth Foundations in GEE,Google AlphaEarth Foundations in GEE,1,verified,Google AlphaEarth Foundations in GEE,ESCI_5170_concepts_raw.json
+ESCI_5170,topic,Ethics in Remote Sensing,Ethics in Remote Sensing,1,verified,Ethics in Remote Sensing,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Electromagnetic Radiation,electromagnetic radiation,49,verified,Electromagnetic Radiation,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Sensor Platform Architectures,sensor platform architectures,42,verified,Sensor Platform Architectures,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Digital Image Processing,digital image processing,49,verified,Digital Image Processing,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Artificial Intelligence Architecture,Artificial Intelligence Architecture,50,verified,Artificial Intelligence Architecture,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Automated Feature Extraction,automated feature extraction,39,verified,Automated Feature Extraction,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Semantic Segmentation Techniques,Semantic Segmentation Techniques,12,verified,Semantic Segmentation Techniques,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Object Detection Algorithms,Object Detection Algorithms,5,verified,Object Detection Algorithms,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Geospatial Workflows,geospatial workflows,16,verified,Geospatial Workflows,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Predictive Modeling Approaches,Predictive Modeling Approaches,5,verified,Predictive Modeling Approaches,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Radiative Transfer Theory,Radiative Transfer Theory,2,verified,Radiative Transfer Theory,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Blackbody Radiation Law,Blackbody Radiation Law,2,verified,Blackbody Radiation Law,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Spectral Reflectance Properties,Spectral Reflectance Properties,2,verified,Spectral Reflectance Properties,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Atmospheric Interference Effects,Atmospheric Interference Effects,3,verified,Atmospheric Interference Effects,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Fourier Transform,Fourier Transform,2,verified,Fourier Transform,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Discrete Cosine Transform,Discrete Cosine Transform,2,verified,Discrete Cosine Transform,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Image Filtering Techniques,Image Filtering Techniques,2,verified,Image Filtering Techniques,ESCI_5170_concepts_raw.json
+ESCI_5170,concept,Convolutional Neural Networks,Convolutional Neural Networks,4,verified,Convolutional Neural Networks,ESCI_5170_concepts_raw.json
+ESCI_5170,measure,Accuracy Metrics,Accuracy Metrics,1,verified,Accuracy Metrics,ESCI_5170_concepts_raw.json
+ESCI_5170,measure,Error Types,Error Types,1,verified,Error Types,ESCI_5170_concepts_raw.json
+ESCI_5170,measure,Confusion Matrix,Confusion Matrix,1,verified,Confusion Matrix,ESCI_5170_concepts_raw.json
+ESCI_5170,measure,Precision Calculation,Precision Calculation,1,verified,Precision Calculation,ESCI_5170_concepts_raw.json
+ESCI_5170,measure,Recall Measurement,Recall Measurement,1,verified,Recall Measurement,ESCI_5170_concepts_raw.json
+ESCI_5170,measure,F1 Score Formula,F1 Score Formula,1,verified,F1 Score Formula,ESCI_5170_concepts_raw.json
+ESCI_5170,measure,Kappa Coefficient,Kappa Coefficient,1,verified,Kappa Coefficient,ESCI_5170_concepts_raw.json
+ESCI_5170,measure,Bias Variance Tradeoff,Bias Variance Tradeoff,1,verified,Bias Variance Tradeoff,ESCI_5170_concepts_raw.json
+ESCI_5170,tool,ENVI (software tool,ENVI Software Tools,1,verified,ENVI (software tool),ESCI_5170_concepts_raw.json

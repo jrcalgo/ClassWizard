@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6211,data mining principles,concept,PREREQUISITE_OF,operational efficiency improvement,concept,A taught first,,DSBA_6211_triples_raw.json
+DSBA_6211,Data Mining Fundamentals,topic,PART_OF,data mining principles,concept,,part is broader than whole - check direction,DSBA_6211_triples_raw.json
+DSBA_6211,Predictive Modeling Basics,topic,PART_OF,predictive modeling techniques,concept,,part is broader than whole - check direction,DSBA_6211_triples_raw.json
+DSBA_6211,Survival Analysis Techniques,topic,PART_OF,survival function estimation,concept,,part is broader than whole - check direction,DSBA_6211_triples_raw.json
+DSBA_6211,Text Mining Fundamentals,topic,PART_OF,text preprocessing methods,concept,,part is broader than whole - check direction,DSBA_6211_triples_raw.json
+DSBA_6211,Forecasting and Time Series,topic,PART_OF,time series decomposition,concept,,part is broader than whole - check direction,DSBA_6211_triples_raw.json
+DSBA_6211,Business Analytics Applications,topic,PART_OF,analytics in marketing strategy,concept,,part is broader than whole - check direction,DSBA_6211_triples_raw.json
+DSBA_6211,Evaluating Analytics Utility,topic,PART_OF,return on investment analysis,concept,,part is broader than whole - check direction,DSBA_6211_triples_raw.json
+DSBA_6211,confidence interval estimation,method,USED_FOR,experimental design principles,concept,,,DSBA_6211_triples_raw.json
+DSBA_6211,ARIMA model formulation,method,USED_FOR,time series decomposition,concept,,,DSBA_6211_triples_raw.json
+DSBA_6211,exponential smoothing,method,USED_FOR,time series decomposition,concept,,,DSBA_6211_triples_raw.json

@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECON_3122,topic,microeconomics,Microeconomics,3,verified,microeconomics,ECON_3122_concepts_raw.json
+ECON_3122,topic,consumer preferences,consumer preferences,66,verified,consumer preferences,ECON_3122_concepts_raw.json
+ECON_3122,concept,utility maximization,Utility Maximization,53,verified,utility maximization,ECON_3122_concepts_raw.json
+ECON_3122,concept,opportunity cost,Opportunity Cost,62,verified,opportunity cost,ECON_3122_concepts_raw.json
+ECON_3122,concept,production function,Production Function,51,verified,production function,ECON_3122_concepts_raw.json
+ECON_3122,concept,market structures,market structures,53,verified,market structures,ECON_3122_concepts_raw.json
+ECON_3122,concept,perfect competition,Perfect Competition,44,verified,perfect competition,ECON_3122_concepts_raw.json
+ECON_3122,concept,monopoly power,Monopoly Power,44,verified,monopoly power,ECON_3122_concepts_raw.json
+ECON_3122,concept,supply and demand,supply and demand,51,verified,supply and demand,ECON_3122_concepts_raw.json
+ECON_3122,concept,elasticity of demand,Elasticity of Demand,4,verified,elasticity of demand,ECON_3122_concepts_raw.json
+ECON_3122,concept,indifference curves,Indifference Curves,4,verified,indifference curves,ECON_3122_concepts_raw.json
+ECON_3122,concept,marginal utility,Marginal Utility,14,verified,marginal utility,ECON_3122_concepts_raw.json
+ECON_3122,concept,budget constraint,Budget Constraint,10,verified,budget constraint,ECON_3122_concepts_raw.json
+ECON_3122,concept,law of diminishing marginal utility,Law of Diminishing Marginal Utility,2,verified,law of diminishing marginal utility,ECON_3122_concepts_raw.json
+ECON_3122,concept,general equilibrium,general equilibrium,1,verified,general equilibrium,ECON_3122_concepts_raw.json
+ECON_3122,concept,consumer surplus,Consumer Surplus,47,verified,consumer surplus,ECON_3122_concepts_raw.json
+ECON_3122,concept,producer surplus,Producer Surplus,6,verified,producer surplus,ECON_3122_concepts_raw.json

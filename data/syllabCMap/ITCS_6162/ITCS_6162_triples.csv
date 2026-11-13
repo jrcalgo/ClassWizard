@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_6162,Data Preprocessing,topic,PREREQUISITE_OF,Data Semantics,topic,A taught first,,ITCS_6162_triples_raw.json
+ITCS_6162,Data Semantics,topic,PREREQUISITE_OF,Granular Computing,topic,A taught first,,ITCS_6162_triples_raw.json
+ITCS_6162,Data Operations,topic,PREREQUISITE_OF,Clustering,topic,A taught first,,ITCS_6162_triples_raw.json
+ITCS_6162,Association/Representative Rules,concept,PREREQUISITE_OF,Actionability,topic,A taught first,,ITCS_6162_triples_raw.json
+ITCS_6162,Data Preprocessing,topic,PART_OF,Data Operations,topic,,,ITCS_6162_triples_raw.json
+ITCS_6162,Data Semantics,topic,PART_OF,Data Operations,topic,,,ITCS_6162_triples_raw.json
+ITCS_6162,Granular Computing,topic,PART_OF,Data Operations,topic,,,ITCS_6162_triples_raw.json
+ITCS_6162,Association/Representative Rules,concept,PART_OF,Data Operations,topic,,,ITCS_6162_triples_raw.json
+ITCS_6162,Clustering,topic,PART_OF,High Dimensional & Distributed Data Mining,topic,,,ITCS_6162_triples_raw.json
+ITCS_6162,Mining Incomplete Data,topic,PART_OF,High Dimensional & Distributed Data Mining,topic,,,ITCS_6162_triples_raw.json
+ITCS_6162,Actionability,topic,PART_OF,Data Operations,topic,,,ITCS_6162_triples_raw.json
+ITCS_6162,Data Preprocessing,topic,USED_FOR,Association/Representative Rules,concept,,topic used for something - check direction,ITCS_6162_triples_raw.json
+ITCS_6162,Data Semantics,topic,USED_FOR,Granular Computing,topic,,topic used for something - check direction,ITCS_6162_triples_raw.json
+ITCS_6162,Data Operations,topic,USED_FOR,Dimensionality Reduction,topic,,topic used for something - check direction,ITCS_6162_triples_raw.json
+ITCS_6162,High Dimensional & Distributed Data Mining,topic,USED_FOR,Mining Incomplete Data,topic,,topic used for something - check direction,ITCS_6162_triples_raw.json

@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_2120,method,conduct,conduct,1,verified,"Apply the scientific process to design, conduct, analyze, and communicate biological research",BIOL_2120_concepts_raw.json
+BIOL_2120,method,analyze,analyze,1,verified,"Apply the scientific process to design, conduct, analyze, and communicate biological research",BIOL_2120_concepts_raw.json
+BIOL_2120,method,communicate biological research,communicate biological research,1,verified,"Apply the scientific process to design, conduct, analyze, and communicate biological research",BIOL_2120_concepts_raw.json
+BIOL_2120,method,Interpret data presented in the primary biological literature,Interpret data presented in the primary biological literature,1,verified,Interpret data presented in the primary biological literature,BIOL_2120_concepts_raw.json
+BIOL_2120,topic,Cell Structure and Function,Cell Structure and Function,1,inferred,Cell Structure and Function,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Cell Membrane Transport Mechanisms,Cell Membrane Transport Mechanisms,1,inferred,Cell Membrane Transport Mechanisms,BIOL_2120_concepts_raw.json
+BIOL_2120,topic,Cellular Energetics Overview,Cellular Energetics Overview,1,inferred,Cellular Energetics Overview,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,DNA Structure and Replication,DNA Structure and Replication,1,inferred,DNA Structure and Replication,BIOL_2120_concepts_raw.json
+BIOL_2120,topic,Gene Expression Basics,Gene Expression Basics,1,inferred,Gene Expression Basics,BIOL_2120_concepts_raw.json
+BIOL_2120,topic,Genetic Variation Overview,Genetic Variation Overview,1,inferred,Genetic Variation Overview,BIOL_2120_concepts_raw.json
+BIOL_2120,topic,Early Earth Environment,Early Earth Environment,1,inferred,Early Earth Environment,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Primordial Soup Hypothesis,Primordial Soup Hypothesis,1,inferred,Primordial Soup Hypothesis,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Emergence of Life Forms,Emergence of Life Forms,1,inferred,Emergence of Life Forms,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Cell Division and Cycle,Cell Division and Cycle,1,inferred,Cell Division and Cycle,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Cell Signaling Pathways,Cell Signaling Pathways,1,inferred,Cell Signaling Pathways,BIOL_2120_concepts_raw.json
+BIOL_2120,topic,Cellular Differentiation Overview,Cellular Differentiation Overview,1,inferred,Cellular Differentiation Overview,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Scientific Method Basics,Scientific Method Basics,1,inferred,Scientific Method Basics,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Biological Research Process,Biological Research Process,1,inferred,Biological Research Process,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Critical Thinking Skills,Critical Thinking Skills,1,inferred,Critical Thinking Skills,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Atomic Structure Basics,Atomic Structure Basics,1,inferred,Atomic Structure Basics,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Molecular Bonding Fundamentals,Molecular Bonding Fundamentals,1,inferred,Molecular Bonding Fundamentals,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Chemical Reactions Overview,Chemical Reactions Overview,1,inferred,Chemical Reactions Overview,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Cell Structure,Cell Structure,1,inferred,Cell Structure,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Cellular Energetics,Cellular Energetics,1,inferred,Cellular Energetics,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Gene Expression,Gene Expression,1,inferred,Gene Expression,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Genetic Variation,Genetic Variation,1,inferred,Genetic Variation,BIOL_2120_concepts_raw.json
+BIOL_2120,concept,Cellular Differentiation,Cellular Differentiation,1,inferred,Cellular Differentiation,BIOL_2120_concepts_raw.json

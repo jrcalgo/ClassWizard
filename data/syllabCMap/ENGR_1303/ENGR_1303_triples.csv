@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGR_1303,sketching,method,PREREQUISITE_OF,parametric modeling,method,A taught first,,ENGR_1303_triples_raw.json
+ENGR_1303,data analysis,method,PREREQUISITE_OF,decision-making,method,same unit,,ENGR_1303_triples_raw.json
+ENGR_1303,importance of visualization,concept,PART_OF,Graphical Communication,topic,,,ENGR_1303_triples_raw.json
+ENGR_1303,parametric modeling,method,PART_OF,3D CAD software,concept,,,ENGR_1303_triples_raw.json
+ENGR_1303,sketching,method,PART_OF,Visualization,topic,,,ENGR_1303_triples_raw.json
+ENGR_1303,drawing,method,PART_OF,Graphical Communication,topic,,,ENGR_1303_triples_raw.json
+ENGR_1303,data analysis,method,PART_OF,Engineering Visualization,topic,,,ENGR_1303_triples_raw.json
+ENGR_1303,decision-making,method,PART_OF,Engineering Visualization,topic,,,ENGR_1303_triples_raw.json
+ENGR_1303,Autodesk Fusion,tool,PART_OF,3D CAD software,concept,,,ENGR_1303_triples_raw.json

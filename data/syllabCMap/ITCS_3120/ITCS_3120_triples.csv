@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_3120,Raster Algorithms,concept,PART_OF,Computer Graphics,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,Event-based programming,concept,PART_OF,Computer Graphics,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,Shader programming,concept,PART_OF,Computer Graphics,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,Anti-aliasing methods,concept,PART_OF,Computer Graphics,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,Matrix algebra,concept,PART_OF,Computer Graphics,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,Change of coordinates,concept,PART_OF,Geometric transformations,concept,,,ITCS_3120_triples_raw.json
+ITCS_3120,Geometric transformations,concept,PART_OF,Computer Graphics,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,2D/3D viewing transformation and clipping,concept,PART_OF,Computer Graphics,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,2D curves,concept,PART_OF,Computer Graphics,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,2D splines,concept,PART_OF,Computer Graphics,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,HTML,tool,USED_FOR,Event-based programming,concept,,,ITCS_3120_triples_raw.json
+ITCS_3120,JavaScript,tool,USED_FOR,Event-based programming,concept,,,ITCS_3120_triples_raw.json
+ITCS_3120,OpenGL View Transform.msi,tool,USED_FOR,OpenGL View Transform,topic,,,ITCS_3120_triples_raw.json
+ITCS_3120,OpenGL View Transform.pdf,tool,USED_FOR,OpenGL View Transform,topic,,,ITCS_3120_triples_raw.json

@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_3301L,topic,Stress Analysis Laboratory,Stress Analysis Laboratory,1,verified,Stress Analysis Laboratory,MEET_3301L_concepts_raw.json
+MEET_3301L,topic,Stress Analysis,Stress Analysis,3,verified,Introduction to Stress Analysis,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,electrical-resistance strain gages,electrical-resistance strain gages,1,verified,electrical-resistance strain gages,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,stress-strain relationships,stress-strain relationships,1,verified,stress-strain relationships,MEET_3301L_concepts_raw.json
+MEET_3301L,topic,Materials Testing Equipment,Materials Testing Equipment,1,inferred,Materials Testing Equipment,MEET_3301L_concepts_raw.json
+MEET_3301L,topic,Data Collection and Reduction,Data Collection and Reduction,2,inferred,Data Collection and Reduction,MEET_3301L_concepts_raw.json
+MEET_3301L,topic,Brittle Coating Experiment,Brittle Coating Experiment,1,inferred,Brittle Coating Experiment,MEET_3301L_concepts_raw.json
+MEET_3301L,topic,Photoelasticity Experiment,Photoelasticity Experiment,1,inferred,Photoelasticity Experiment,MEET_3301L_concepts_raw.json
+MEET_3301L,topic,Technical Report Writing,Technical Report Writing,1,inferred,Technical Report Writing,MEET_3301L_concepts_raw.json
+MEET_3301L,topic,Informal Reports and Feedback,Informal Reports and Feedback,1,inferred,Informal Reports and Feedback,MEET_3301L_concepts_raw.json
+MEET_3301L,topic,Memo Reports and Analysis,Memo Reports and Analysis,1,inferred,Memo Reports and Analysis,MEET_3301L_concepts_raw.json
+MEET_3301L,topic,Formal Report Preparation,Formal Report Preparation,1,inferred,Formal Report Preparation,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,brittle coating technique,Brittle coating technique,1,inferred,brittle coating technique,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,photoelasticity principles,Photoelasticity principles,2,inferred,photoelasticity principles,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,data acquisition techniques,Data acquisition techniques,1,inferred,data acquisition techniques,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,strain measurement methods,Strain measurement methods,1,inferred,strain measurement methods,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,fracture analysis and interpretation,Fracture analysis and interpretation,1,inferred,fracture analysis and interpretation,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,results presentation and discussion,Results presentation and discussion,3,inferred,results presentation and discussion,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,report structure and organization,Report structure and organization,1,inferred,report structure and organization,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,clear writing and communication,Clear writing and communication,1,inferred,clear writing and communication,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,effective data presentation,Effective data presentation,1,inferred,effective data presentation,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,informal report requirements,Informal report requirements,1,inferred,informal report requirements,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,peer review and feedback process,Peer review and feedback process,1,inferred,peer review and feedback process,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,revision and improvement strategies,Revision and improvement strategies,1,inferred,revision and improvement strategies,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,memo report format and content,Memo report format and content,1,inferred,memo report format and content,MEET_3301L_concepts_raw.json
+MEET_3301L,concept,data analysis and interpretation,Data analysis and interpretation,1,inferred,data analysis and interpretation,MEET_3301L_concepts_raw.json

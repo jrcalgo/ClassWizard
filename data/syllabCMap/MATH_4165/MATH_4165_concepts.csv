@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_4165,topic,Numerical linear algebra,Numerical linear algebra,4,verified,Numerical linear algebra,MATH_4165_concepts_raw.json
+MATH_4165,topic,Matrix norms and condition numbers,Matrix norms and condition numbers,2,verified,Matrix norms and condition numbers,MATH_4165_concepts_raw.json
+MATH_4165,topic,Direct methods for linear systems,Direct methods for linear systems,1,verified,Direct methods for linear systems,MATH_4165_concepts_raw.json
+MATH_4165,topic,Iterative methods for large sparse linear systems,Iterative methods for large sparse linear systems,1,verified,Iterative methods for large sparse linear systems,MATH_4165_concepts_raw.json
+MATH_4165,topic,Least squares methods,Least squares methods,1,verified,Least squares methods,MATH_4165_concepts_raw.json
+MATH_4165,topic,Matrix Decompositions,Matrix Decompositions,1,verified,Matrix Decompositions,MATH_4165_concepts_raw.json
+MATH_4165,topic,Efficient matrix multiplication methods,Efficient matrix multiplication methods,1,verified,Efficient matrix multiplication methods,MATH_4165_concepts_raw.json
+MATH_4165,topic,Matrix approximations,Matrix approximations,1,verified,Matrix approximations,MATH_4165_concepts_raw.json
+MATH_4165,topic,Matrix phylogeny,Matrix phylogeny,1,verified,Matrix phylogeny,MATH_4165_concepts_raw.json
+MATH_4165,topic,Examples of numerical linear algebra in machine learning,Examples of numerical linear algebra in machine learning,1,verified,Examples of numerical linear algebra in machine learning,MATH_4165_concepts_raw.json
+MATH_4165,concept,Eigendecomposition and Diagonalization,Eigendecomposition and Diagonalization,1,verified,Eigendecomposition and Diagonalization,MATH_4165_concepts_raw.json
+MATH_4165,concept,Singular Value Decomposition,Singular Value Decomposition,1,verified,Singular Value Decomposition,MATH_4165_concepts_raw.json

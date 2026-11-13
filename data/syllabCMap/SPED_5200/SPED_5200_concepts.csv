@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPED_5200,topic,Applied Behavior Analysis,Applied behavior analysis,3,verified,Applied Behavior Analysis,SPED_5200_concepts_raw.json
+SPED_5200,concept,reinforcement schedules,reinforcement schedules,1,verified,reinforcement schedules,SPED_5200_concepts_raw.json
+SPED_5200,concept,programming for generalization,programming for generalization,1,verified,programming for generalization,SPED_5200_concepts_raw.json
+SPED_5200,concept,negative reinforcement,negative reinforcement,1,verified,negative reinforcement,SPED_5200_concepts_raw.json
+SPED_5200,concept,extinction,extinction,1,verified,extinction,SPED_5200_concepts_raw.json
+SPED_5200,concept,discrimination,discrimination,1,verified,discrimination,SPED_5200_concepts_raw.json
+SPED_5200,concept,stimulus control,stimulus control,1,verified,stimulus control,SPED_5200_concepts_raw.json
+SPED_5200,concept,prompting,prompting,1,verified,prompting,SPED_5200_concepts_raw.json
+SPED_5200,concept,fading,fading,1,verified,fading,SPED_5200_concepts_raw.json
+SPED_5200,concept,shaping,shaping,1,verified,shaping,SPED_5200_concepts_raw.json
+SPED_5200,concept,chaining,chaining,1,verified,chaining,SPED_5200_concepts_raw.json

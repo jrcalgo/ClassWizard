@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_1400,Construction Management Overview,concept,USED_FOR,Construction Phase,topic,,,CMET_1400_triples_raw.json
+CMET_1400,Environmental Impact Assessment,concept,USED_FOR,Construction Phase,topic,,,CMET_1400_triples_raw.json

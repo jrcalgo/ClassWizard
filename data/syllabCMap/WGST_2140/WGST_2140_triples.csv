@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WGST_2140,Women's Participation in Sports,concept,PREREQUISITE_OF,Men's Dominance in Sports,concept,same unit,,WGST_2140_triples_raw.json
+WGST_2140,Women's Participation in Sports,concept,PREREQUISITE_OF,Early Feminist Movements,concept,same unit,,WGST_2140_triples_raw.json
+WGST_2140,Early Feminist Movements,concept,PREREQUISITE_OF,Intersectionality in Sports,concept,A taught first,,WGST_2140_triples_raw.json
+WGST_2140,Intersectionality in Sports,concept,PREREQUISITE_OF,LGBTQ+ Representation in Sports,concept,A taught first,,WGST_2140_triples_raw.json
+WGST_2140,Feminine and Masculine Images,concept,PART_OF,Media Representation,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Body Image and Beauty Standards,concept,PART_OF,Media Representation,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Racialized Bodies in Sports,concept,PART_OF,Race and Ethnicity in Sports,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Intersectionality in Sports,concept,PART_OF,Race and Ethnicity in Sports,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Traditional Masculine Norms,concept,PART_OF,Masculinity in Sports,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Emotional Expression in Men,concept,PART_OF,Masculinity in Sports,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Heteronormativity in Sports,concept,PART_OF,Sexuality and Sports,topic,,,WGST_2140_triples_raw.json
+WGST_2140,LGBTQ+ Representation in Sports,concept,PART_OF,Sexuality and Sports,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Queer Theory and Sport,concept,PART_OF,Sexuality and Sports,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Body Politics in Sports,concept,PART_OF,Physicality and Power,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Feminist Perspectives on Physicality,concept,PART_OF,Physicality and Power,topic,,,WGST_2140_triples_raw.json
+WGST_2140,Feminist Sport Studies,concept,USED_FOR,Gender and Sports,topic,,,WGST_2140_triples_raw.json

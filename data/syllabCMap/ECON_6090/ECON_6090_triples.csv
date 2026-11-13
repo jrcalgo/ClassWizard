@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_6090,Consumer Choice Models,concept,PREREQUISITE_OF,Profit Maximization Assumptions,concept,same unit,,ECON_6090_triples_raw.json
+ECON_6090,Consumer Choice Models,concept,PREREQUISITE_OF,Supply and Demand Equilibrium,concept,same unit,,ECON_6090_triples_raw.json
+ECON_6090,Externalities Explanation,concept,PREREQUISITE_OF,Market Power Consequences,concept,same unit,,ECON_6090_triples_raw.json
+ECON_6090,Public Goods Definition,concept,PREREQUISITE_OF,Market Failure Conditions,topic,same unit,,ECON_6090_triples_raw.json
+ECON_6090,Opportunity Cost Definition,concept,PART_OF,Economic Theory Fundamentals,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Consumer Choice Models,concept,PART_OF,Economic Theory Fundamentals,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Profit Maximization Assumptions,concept,PART_OF,Economic Theory Fundamentals,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Externalities Explanation,concept,PART_OF,Market Failure Conditions,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Public Goods Definition,concept,PART_OF,Market Failure Conditions,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Information Asymmetry Effects,concept,PART_OF,Market Failure Conditions,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Market Power Consequences,concept,PART_OF,Market Failure Conditions,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Antitrust Regulation Rationale,concept,PART_OF,Policy Tools and Economic Theory,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Incentives and Motivation Effects,concept,PART_OF,Behavioral Interventions and Economics,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Tradeoff Analysis Techniques,concept,PART_OF,Economic Theory and Policy Application,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Policy Tool Selection Criteria,concept,PART_OF,Economic Theory and Policy Application,topic,,,ECON_6090_triples_raw.json
+ECON_6090,Economic Theory Limitations,concept,PART_OF,Economic Theory and Policy Application,topic,,,ECON_6090_triples_raw.json

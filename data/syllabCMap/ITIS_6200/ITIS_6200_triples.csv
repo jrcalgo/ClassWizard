@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_6200,cryptography,topic,PREREQUISITE_OF,system,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,cryptography,topic,PREREQUISITE_OF,network,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,cryptography,topic,PREREQUISITE_OF,web,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,cryptography,topic,PREREQUISITE_OF,software security,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,cryptography,topic,PREREQUISITE_OF,privacy,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,system,topic,PREREQUISITE_OF,network,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,system,topic,PREREQUISITE_OF,web,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,system,topic,PREREQUISITE_OF,software security,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,system,topic,PREREQUISITE_OF,authentication and access control,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,system,topic,PREREQUISITE_OF,privacy,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,network,topic,PREREQUISITE_OF,web,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,network,topic,PREREQUISITE_OF,software security,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,network,topic,PREREQUISITE_OF,authentication and access control,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,network,topic,PREREQUISITE_OF,privacy,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,web,topic,PREREQUISITE_OF,software security,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,web,topic,PREREQUISITE_OF,authentication and access control,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,web,topic,PREREQUISITE_OF,privacy,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,software security,topic,PREREQUISITE_OF,privacy,topic,A taught first,,ITIS_6200_triples_raw.json
+ITIS_6200,cryptography,topic,USED_FOR,software security,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json
+ITIS_6200,cryptography,topic,USED_FOR,authentication and access control,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json
+ITIS_6200,system,topic,USED_FOR,software security,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json
+ITIS_6200,system,topic,USED_FOR,authentication and access control,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json
+ITIS_6200,network,topic,USED_FOR,web,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json
+ITIS_6200,network,topic,USED_FOR,software security,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json
+ITIS_6200,network,topic,USED_FOR,authentication and access control,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json
+ITIS_6200,web,topic,USED_FOR,software security,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json
+ITIS_6200,web,topic,USED_FOR,authentication and access control,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json
+ITIS_6200,software security,topic,USED_FOR,authentication and access control,topic,,topic used for something - check direction,ITIS_6200_triples_raw.json

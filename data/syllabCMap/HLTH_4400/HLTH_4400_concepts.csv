@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_4400,topic,Public Health,Public Health,5,verified,Public Health,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,determinants of health and illness,determinants of health and illness,1,verified,determinants of health and illness,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,health promotion and disease prevention,health promotion and disease prevention,1,verified,health promotion and disease prevention,HLTH_4400_concepts_raw.json
+HLTH_4400,topic,Assessing Population Health,Assessing Population Health,1,inferred,Assessing Population Health,HLTH_4400_concepts_raw.json
+HLTH_4400,topic,Management Functions in Public Health,Management Functions in Public Health,1,inferred,Management Functions in Public Health,HLTH_4400_concepts_raw.json
+HLTH_4400,topic,Professional Responsibilities and Ethics,Professional Responsibilities and Ethics,1,inferred,Professional Responsibilities and Ethics,HLTH_4400_concepts_raw.json
+HLTH_4400,topic,Cultural Competence in Practice,Cultural Competence in Practice,1,inferred,Cultural Competence in Practice,HLTH_4400_concepts_raw.json
+HLTH_4400,topic,Effective Communication in Public Health,Effective Communication in Public Health,1,inferred,Effective Communication in Public Health,HLTH_4400_concepts_raw.json
+HLTH_4400,topic,Presenting Data and Information,Presenting Data and Information,1,inferred,Presenting Data and Information,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,population-focused approach,Population-Focused Approach,1,inferred,population-focused approach,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,community-oriented practice,Community-Oriented Practice,1,inferred,community-oriented practice,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,factors contributing to health status,Factors Contributing to Health Status,1,inferred,factors contributing to health status,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,planning in public health,Planning in Public Health,1,inferred,planning in public health,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,organizing in public health,Organizing in Public Health,1,inferred,organizing in public health,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,leading in public health,Leading in Public Health,1,inferred,leading in public health,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,controlling in public health,Controlling in Public Health,1,inferred,controlling in public health,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,ethical obligations in public health,Ethical Obligations in Public Health,1,inferred,ethical obligations in public health,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,professional responsibilities in public health,Professional Responsibilities in Public Health,1,inferred,professional responsibilities in public health,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,data collection and use,Data Collection and Use,1,inferred,data collection and use,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,interacting with diverse populations,Interacting with Diverse Populations,1,inferred,interacting with diverse populations,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,sensitivity and effectiveness in communication,Sensitivity and Effectiveness in Communication,1,inferred,sensitivity and effectiveness in communication,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,professionalism in interpersonal relationships,Professionalism in Interpersonal Relationships,1,inferred,professionalism in interpersonal relationships,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,writing for professional audiences,Writing for Professional Audiences,1,inferred,writing for professional audiences,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,oral presentation skills,Oral Presentation Skills,1,inferred,oral presentation skills,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,communicating with lay audiences,Communicating with Lay Audiences,1,inferred,communicating with lay audiences,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,demographic data analysis,Demographic Data Analysis,1,inferred,demographic data analysis,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,statistical data interpretation,Statistical Data Interpretation,1,inferred,statistical data interpretation,HLTH_4400_concepts_raw.json
+HLTH_4400,concept,scientific information communication,Scientific Information Communication,1,inferred,scientific information communication,HLTH_4400_concepts_raw.json

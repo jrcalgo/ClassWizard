@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_8110,theoretical frameworks and models of counseling supervision,concept,PREREQUISITE_OF,roles and relationships related to counseling supervision,concept,A mentioned first,,CSLG_8110_triples_raw.json
+CSLG_8110,theoretical frameworks and models of counseling supervision,concept,PREREQUISITE_OF,individual,concept,B mentioned first,,CSLG_8110_triples_raw.json
+CSLG_8110,theoretical frameworks and models of counseling supervision,concept,PREREQUISITE_OF,triadic,concept,B mentioned first,,CSLG_8110_triples_raw.json
+CSLG_8110,theoretical frameworks and models of counseling supervision,concept,PREREQUISITE_OF,group supervision,concept,B mentioned first,,CSLG_8110_triples_raw.json
+CSLG_8110,theoretical frameworks and models of counseling supervision,concept,PREREQUISITE_OF,technology in counseling supervision,concept,B mentioned first,,CSLG_8110_triples_raw.json
+CSLG_8110,theoretical frameworks and models of counseling supervision,concept,PREREQUISITE_OF,administrative procedures and responsibilities,concept,B mentioned first,,CSLG_8110_triples_raw.json
+CSLG_8110,theoretical frameworks and models of counseling supervision,concept,PREREQUISITE_OF,gatekeeping in counseling supervision,concept,B mentioned first,,CSLG_8110_triples_raw.json
+CSLG_8110,purposes of counseling supervision,concept,PART_OF,Supervision,topic,,,CSLG_8110_triples_raw.json
+CSLG_8110,individual,concept,PART_OF,group supervision,concept,,,CSLG_8110_triples_raw.json
+CSLG_8110,triadic,concept,PART_OF,group supervision,concept,,,CSLG_8110_triples_raw.json
+CSLG_8110,technology in counseling supervision,concept,PART_OF,Clinical Supervision in Counseling,topic,,,CSLG_8110_triples_raw.json
+CSLG_8110,administrative procedures and responsibilities,concept,PART_OF,Clinical Supervision in Counseling,topic,,,CSLG_8110_triples_raw.json
+CSLG_8110,triadic,concept,SUBTYPE_OF,group supervision,concept,,,CSLG_8110_triples_raw.json
+CSLG_8110,seminar discussions,method,USED_FOR,purposes of counseling supervision,concept,,,CSLG_8110_triples_raw.json
+CSLG_8110,application via supervising master's level students,method,USED_FOR,roles and relationships related to counseling supervision,concept,,,CSLG_8110_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4115,convex sets,concept,PREREQUISITE_OF,convex functions,concept,A taught first,,ECGR_4115_triples_raw.json
+ECGR_4115,convex functions,concept,PREREQUISITE_OF,convex optimization problems,concept,same unit,,ECGR_4115_triples_raw.json
+ECGR_4115,Linear Algebra Review,topic,PREREQUISITE_OF,duality theory,concept,A taught first,,ECGR_4115_triples_raw.json
+ECGR_4115,convex sets,concept,PART_OF,convex optimization problems,concept,,,ECGR_4115_triples_raw.json
+ECGR_4115,duality theory,concept,PART_OF,optimality conditions,concept,,,ECGR_4115_triples_raw.json
+ECGR_4115,Karush-Kuhn-Tucker conditions,concept,PART_OF,optimality conditions,concept,,,ECGR_4115_triples_raw.json
+ECGR_4115,Newton's method,concept,PART_OF,Algorithms for Solving Convex Problems,topic,,,ECGR_4115_triples_raw.json
+ECGR_4115,primal-dual approaches,concept,PART_OF,Algorithms for Solving Convex Problems,topic,,,ECGR_4115_triples_raw.json
+ECGR_4115,Linear Algebra Review,topic,PART_OF,Optimization,topic,,,ECGR_4115_triples_raw.json
+ECGR_4115,MATLAB,tool,USED_FOR,Convex Optimization and AI Applications,topic,,,ECGR_4115_triples_raw.json
+ECGR_4115,Python,tool,USED_FOR,Convex Optimization and AI Applications,topic,,,ECGR_4115_triples_raw.json

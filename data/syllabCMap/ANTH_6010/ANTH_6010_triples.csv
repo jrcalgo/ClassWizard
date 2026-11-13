@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_6010,Research Ethics,topic,PART_OF,Anth 6010,topic,,,ANTH_6010_triples_raw.json
+ANTH_6010,Research Ethics,topic,PART_OF,Grad 6240,topic,,,ANTH_6010_triples_raw.json
+ANTH_6010,Research Ethics,topic,PART_OF,Grad 8240,topic,,,ANTH_6010_triples_raw.json
+ANTH_6010,Conflicts of Interest and Data Management,topic,PART_OF,Research Ethics,topic,,,ANTH_6010_triples_raw.json
+ANTH_6010,Politics of Research,topic,PART_OF,Research Ethics,topic,,,ANTH_6010_triples_raw.json
+ANTH_6010,Risk-Benefit Assessments,concept,SUBTYPE_OF,Research Ethics,topic,,,ANTH_6010_triples_raw.json

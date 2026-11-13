@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUDN_8150,quality improvement definition,concept,PREREQUISITE_OF,Patient Safety,topic,same unit,,NUDN_8150_triples_raw.json
+NUDN_8150,Quality Indicators,topic,PREREQUISITE_OF,Population Health Focus,topic,A taught first,,NUDN_8150_triples_raw.json
+NUDN_8150,data interpretation,method,PREREQUISITE_OF,analyzing clinical data,concept,same unit,,NUDN_8150_triples_raw.json
+NUDN_8150,importance of patient safety,concept,PREREQUISITE_OF,identifying areas for improvement,concept,A taught first,,NUDN_8150_triples_raw.json
+NUDN_8150,quality improvement definition,concept,PART_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,Patient Safety,topic,PART_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,Population Health Focus,topic,PART_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,healthcare quality indicators,concept,PART_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,outcome and process measures,measure,PART_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,patient safety indicators,measure,PART_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,targeted quality improvement initiatives,concept,PART_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,importance of patient safety,concept,PART_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,assessing program effectiveness,concept,PART_OF,Evaluating QI Success,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,outcome and process measures,measure,SUBTYPE_OF,Quality Indicators,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,patient safety indicators,measure,SUBTYPE_OF,Quality Indicators,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,healthcare quality benchmarks,measure,SUBTYPE_OF,Quality Indicators,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,targeted quality improvement initiatives,concept,SUBTYPE_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,importance of patient safety,concept,SUBTYPE_OF,Quality Improvement,topic,,,NUDN_8150_triples_raw.json
+NUDN_8150,data interpretation,method,USED_FOR,analyzing clinical data,concept,,,NUDN_8150_triples_raw.json
+NUDN_8150,root cause analysis techniques,method,USED_FOR,identifying areas for improvement,concept,,,NUDN_8150_triples_raw.json
+NUDN_8150,PDSA cycle application,method,USED_FOR,implementing evidence-based practices,method,,,NUDN_8150_triples_raw.json
+NUDN_8150,project planning and design,method,USED_FOR,targeted quality improvement initiatives,concept,,,NUDN_8150_triples_raw.json
+NUDN_8150,resource allocation and management,method,USED_FOR,community-based healthcare strategies,concept,,,NUDN_8150_triples_raw.json
+NUDN_8150,quality improvement frameworks,method,USED_FOR,assessing program effectiveness,concept,,,NUDN_8150_triples_raw.json

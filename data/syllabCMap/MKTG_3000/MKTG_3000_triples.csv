@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3000,consumer behavior,concept,PREREQUISITE_OF,strategic planning,concept,same unit,,MKTG_3000_triples_raw.json
+MKTG_3000,critical thinking,method,PREREQUISITE_OF,integrated business knowledge,method,A mentioned first,,MKTG_3000_triples_raw.json
+MKTG_3000,marketing mix,concept,PART_OF,Sport Marketing Environment,topic,,,MKTG_3000_triples_raw.json
+MKTG_3000,consumer behavior,concept,PART_OF,Sport Marketing Environment,topic,,,MKTG_3000_triples_raw.json
+MKTG_3000,strategic planning,concept,PART_OF,Sport Marketing Environment,topic,,,MKTG_3000_triples_raw.json
+MKTG_3000,critical thinking,method,PART_OF,integrated business knowledge,method,,,MKTG_3000_triples_raw.json
+MKTG_3000,critical thinking,method,USED_FOR,integrated business knowledge,method,,,MKTG_3000_triples_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_6105,Statutory,concept,PREREQUISITE_OF,Case Law,concept,A taught first,,ADMN_6105_triples_raw.json
+ADMN_6105,Legal Research Tools and Resources,concept,USED_FOR,Citing Constitutional,concept,,,ADMN_6105_triples_raw.json

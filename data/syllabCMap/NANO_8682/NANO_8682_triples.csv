@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NANO_8682,current research trends,concept,PREREQUISITE_OF,Research Methods in Nanoscience,topic,A taught first,,NANO_8682_triples_raw.json
+NANO_8682,current research trends,concept,PREREQUISITE_OF,Applications of Nanotechnology,topic,A taught first,,NANO_8682_triples_raw.json
+NANO_8682,current research trends,concept,PREREQUISITE_OF,Current Research in Nanoscale Science,topic,A taught first,,NANO_8682_triples_raw.json
+NANO_8682,experimental techniques overview,concept,PREREQUISITE_OF,data analysis methods,concept,same unit,,NANO_8682_triples_raw.json
+NANO_8682,theoretical modeling approaches,concept,PREREQUISITE_OF,data analysis methods,concept,same unit,,NANO_8682_triples_raw.json
+NANO_8682,nanoscale science definition,concept,PART_OF,Nanoscale Science,topic,,,NANO_8682_triples_raw.json
+NANO_8682,history of nanotechnology development,concept,PART_OF,Nanoscale Science,topic,,,NANO_8682_triples_raw.json
+NANO_8682,current research trends,concept,PART_OF,Nanoscale Science,topic,,,NANO_8682_triples_raw.json
+NANO_8682,experimental techniques overview,concept,PART_OF,Research Methods in Nanoscience,topic,,,NANO_8682_triples_raw.json
+NANO_8682,theoretical modeling approaches,concept,PART_OF,Research Methods in Nanoscience,topic,,,NANO_8682_triples_raw.json
+NANO_8682,data analysis methods,concept,PART_OF,Research Methods in Nanoscience,topic,,,NANO_8682_triples_raw.json
+NANO_8682,energy storage and conversion,concept,PART_OF,Applications of Nanotechnology,topic,,,NANO_8682_triples_raw.json
+NANO_8682,biomedical applications overview,concept,PART_OF,Applications of Nanotechnology,topic,,,NANO_8682_triples_raw.json
+NANO_8682,environmental remediation,concept,PART_OF,Applications of Nanotechnology,topic,,,NANO_8682_triples_raw.json
+NANO_8682,emerging research areas discussion,concept,PART_OF,Current Research in Nanoscale Science,topic,,,NANO_8682_triples_raw.json
+NANO_8682,future directions and challenges,concept,PART_OF,Current Research in Nanoscale Science,topic,,,NANO_8682_triples_raw.json

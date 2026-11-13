@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_1170,government and society,concept,PART_OF,political philosophy basics,concept,,,POLS_1170_triples_raw.json
+POLS_1170,Plato's Republic,work,PART_OF,classical greek contributions,concept,,,POLS_1170_triples_raw.json
+POLS_1170,aristotle's politics summary,concept,PART_OF,classical greek contributions,concept,,,POLS_1170_triples_raw.json
+POLS_1170,Plato's Republic,work,USED_FOR,politics and human nature,concept,,,POLS_1170_triples_raw.json
+POLS_1170,Aristotle's Politics,work,USED_FOR,government and society,concept,,,POLS_1170_triples_raw.json

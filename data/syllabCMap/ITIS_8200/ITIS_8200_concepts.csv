@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_8200,topic,cryptography,Cryptography,3,verified,cryptography,ITIS_8200_concepts_raw.json
+ITIS_8200,topic,system,system,2,verified,system,ITIS_8200_concepts_raw.json
+ITIS_8200,topic,network,network,2,verified,network,ITIS_8200_concepts_raw.json
+ITIS_8200,topic,web,web,2,verified,web,ITIS_8200_concepts_raw.json
+ITIS_8200,topic,software security,software security,2,verified,software security,ITIS_8200_concepts_raw.json
+ITIS_8200,topic,authentication and access control,authentication and access control,2,verified,authentication and access control,ITIS_8200_concepts_raw.json
+ITIS_8200,topic,privacy,Privacy,4,verified,privacy,ITIS_8200_concepts_raw.json
+ITIS_8200,topic,emerging security challenges,emerging security challenges,2,verified,emerging security challenges,ITIS_8200_concepts_raw.json

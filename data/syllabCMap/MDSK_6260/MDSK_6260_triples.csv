@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_6260,teacher-leader positionality,concept,PART_OF,teacher leadership,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,K-12 school culture,concept,PART_OF,K-12 schools,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,andragogy principles,concept,PART_OF,adult learning,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,self-directed learning,concept,PART_OF,adult learning,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,expert knowledge development,concept,PART_OF,adult learning,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,NBCT process overview,concept,PART_OF,National Boards Certification,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,continuous improvement cycle,concept,PART_OF,National Boards Certification,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,research methods in education,concept,PART_OF,scholarly inquiry in teaching,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,teaching and learning theories,concept,PART_OF,scholarly inquiry in teaching,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,critical pedagogy frameworks,concept,PART_OF,scholarly inquiry in teaching,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,positionality in teacher leadership,concept,PART_OF,teacher leadership,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,cultural competence in schools,concept,PART_OF,K-12 schools,topic,,,MDSK_6260_triples_raw.json
+MDSK_6260,social justice in education,concept,PART_OF,K-12 schools,topic,,,MDSK_6260_triples_raw.json

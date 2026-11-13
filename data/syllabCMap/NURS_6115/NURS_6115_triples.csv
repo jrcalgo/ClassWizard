@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_6115,Federal Healthcare Policy Role,concept,USED_FOR,Healthcare Policy,topic,,,NURS_6115_triples_raw.json
+NURS_6115,Federal Healthcare Policy Role,concept,USED_FOR,Contemporary Practice Models,concept,,,NURS_6115_triples_raw.json
+NURS_6115,Planning and Sociopolitical Processes,concept,USED_FOR,Health Policy Implementation,concept,,,NURS_6115_triples_raw.json
+NURS_6115,Legislative Processes Involvement,concept,USED_FOR,Health Policy Implementation,concept,,,NURS_6115_triples_raw.json
+NURS_6115,Current Research Impact Analysis,concept,USED_FOR,Evidence-Based Practice Application,concept,,,NURS_6115_triples_raw.json

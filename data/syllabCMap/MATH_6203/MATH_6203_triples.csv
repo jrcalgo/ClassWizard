@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_6203,martingale convergence theorem,concept,PREREQUISITE_OF,martingale stopping time,concept,same unit,,MATH_6203_triples_raw.json
+MATH_6203,stochastic integral definition,concept,PREREQUISITE_OF,ito's formula derivation,concept,same unit,,MATH_6203_triples_raw.json
+MATH_6203,wiener process distribution,concept,PREREQUISITE_OF,brownian motion characteristics,concept,same unit,,MATH_6203_triples_raw.json
+MATH_6203,wiener process properties,concept,PREREQUISITE_OF,stochastic process definition,concept,B taught first,B is taught before A - check,MATH_6203_triples_raw.json
+MATH_6203,martingale stopping time,concept,PART_OF,Martingale Theory,topic,,,MATH_6203_triples_raw.json
+MATH_6203,brownian motion characteristics,concept,PART_OF,Wiener Process,topic,,,MATH_6203_triples_raw.json
+MATH_6203,properties of stochastic processes,concept,PART_OF,Stochastic Processes,topic,,,MATH_6203_triples_raw.json
+MATH_6203,wiener process distribution,concept,PART_OF,Wiener Process,topic,,,MATH_6203_triples_raw.json
+MATH_6203,types of stochastic processes,concept,PART_OF,Stochastic Processes,topic,,,MATH_6203_triples_raw.json
+MATH_6203,martingale convergence theorem,concept,PART_OF,Martingale Theory,topic,,,MATH_6203_triples_raw.json
+MATH_6203,wiener process properties,concept,PART_OF,Stochastic Processes,topic,,,MATH_6203_triples_raw.json
+MATH_6203,stochastic process definition,concept,PART_OF,Stochastic Processes,topic,,,MATH_6203_triples_raw.json

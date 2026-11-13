@@ -1,0 +1,42 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EXER_2169,topic,Human Anatomy and Physiology for Health Professions II,Human Anatomy and Physiology for Health Professions II,1,verified,Human Anatomy and Physiology for Health Professions II,EXER_2169_concepts_raw.json
+EXER_2169,topic,Circulatory System,Circulatory System,1,inferred,Circulatory System,EXER_2169_concepts_raw.json
+EXER_2169,topic,Respiratory System,Respiratory System,1,inferred,Respiratory System,EXER_2169_concepts_raw.json
+EXER_2169,topic,Nervous System I,Nervous System I,1,inferred,Nervous System I,EXER_2169_concepts_raw.json
+EXER_2169,topic,Sensory Systems,Sensory Systems,1,inferred,Sensory Systems,EXER_2169_concepts_raw.json
+EXER_2169,topic,Endocrine System,Endocrine System,1,inferred,Endocrine System,EXER_2169_concepts_raw.json
+EXER_2169,topic,Muscular System I,Muscular System I,1,inferred,Muscular System I,EXER_2169_concepts_raw.json
+EXER_2169,topic,Integumentary System,Integumentary System,1,inferred,Integumentary System,EXER_2169_concepts_raw.json
+EXER_2169,topic,Digestive System I,Digestive System I,1,inferred,Digestive System I,EXER_2169_concepts_raw.json
+EXER_2169,topic,Urinary System,Urinary System,1,inferred,Urinary System,EXER_2169_concepts_raw.json
+EXER_2169,topic,Reproductive Systems I,Reproductive Systems I,1,inferred,Reproductive Systems I,EXER_2169_concepts_raw.json
+EXER_2169,concept,Heart Structure and Function,Heart Structure and Function,1,inferred,Heart Structure and Function,EXER_2169_concepts_raw.json
+EXER_2169,concept,Blood Vessel Types and Functions,Blood Vessel Types and Functions,1,inferred,Blood Vessel Types and Functions,EXER_2169_concepts_raw.json
+EXER_2169,concept,Cardiovascular Regulation,Cardiovascular Regulation,1,inferred,Cardiovascular Regulation,EXER_2169_concepts_raw.json
+EXER_2169,concept,Lung Anatomy and Physiology,Lung Anatomy and Physiology,1,inferred,Lung Anatomy and Physiology,EXER_2169_concepts_raw.json
+EXER_2169,concept,Breathing Mechanisms and Control,Breathing Mechanisms and Control,1,inferred,Breathing Mechanisms and Control,EXER_2169_concepts_raw.json
+EXER_2169,concept,Gas Exchange Processes,Gas Exchange Processes,1,inferred,Gas Exchange Processes,EXER_2169_concepts_raw.json
+EXER_2169,concept,Brain Structure and Function,Brain Structure and Function,1,inferred,Brain Structure and Function,EXER_2169_concepts_raw.json
+EXER_2169,concept,Spinal Cord Functions and Pathways,Spinal Cord Functions and Pathways,1,inferred,Spinal Cord Functions and Pathways,EXER_2169_concepts_raw.json
+EXER_2169,concept,Neurotransmitter Roles,Neurotransmitter Roles,1,inferred,Neurotransmitter Roles,EXER_2169_concepts_raw.json
+EXER_2169,concept,Eye Anatomy and Vision Process,Eye Anatomy and Vision Process,1,inferred,Eye Anatomy and Vision Process,EXER_2169_concepts_raw.json
+EXER_2169,concept,Hearing Mechanisms and Pathways,Hearing Mechanisms and Pathways,1,inferred,Hearing Mechanisms and Pathways,EXER_2169_concepts_raw.json
+EXER_2169,concept,Taste and Smell Functions,Taste and Smell Functions,1,inferred,Taste and Smell Functions,EXER_2169_concepts_raw.json
+EXER_2169,concept,Hormone Production and Regulation,Hormone Production and Regulation,1,inferred,Hormone Production and Regulation,EXER_2169_concepts_raw.json
+EXER_2169,concept,Pituitary Gland Functions and Control,Pituitary Gland Functions and Control,1,inferred,Pituitary Gland Functions and Control,EXER_2169_concepts_raw.json
+EXER_2169,concept,Thyroid and Adrenal Glands,Thyroid and Adrenal Glands,1,inferred,Thyroid and Adrenal Glands,EXER_2169_concepts_raw.json
+EXER_2169,concept,Skeletal Muscle Anatomy and Physiology,Skeletal Muscle Anatomy and Physiology,1,inferred,Skeletal Muscle Anatomy and Physiology,EXER_2169_concepts_raw.json
+EXER_2169,concept,Smooth Muscle Types and Functions,Smooth Muscle Types and Functions,1,inferred,Smooth Muscle Types and Functions,EXER_2169_concepts_raw.json
+EXER_2169,concept,Muscle Regulation and Control,Muscle Regulation and Control,1,inferred,Muscle Regulation and Control,EXER_2169_concepts_raw.json
+EXER_2169,concept,Skin Structure and Function,Skin Structure and Function,1,inferred,Skin Structure and Function,EXER_2169_concepts_raw.json
+EXER_2169,concept,Hair and Nails Growth and Development,Hair and Nails Growth and Development,1,inferred,Hair and Nails Growth and Development,EXER_2169_concepts_raw.json
+EXER_2169,concept,Sweat Gland Functions,Sweat Gland Functions,1,inferred,Sweat Gland Functions,EXER_2169_concepts_raw.json
+EXER_2169,concept,Mouth and Esophagus Anatomy and Physiology,Mouth and Esophagus Anatomy and Physiology,1,inferred,Mouth and Esophagus Anatomy and Physiology,EXER_2169_concepts_raw.json
+EXER_2169,concept,Stomach and Small Intestine Functions,Stomach and Small Intestine Functions,1,inferred,Stomach and Small Intestine Functions,EXER_2169_concepts_raw.json
+EXER_2169,concept,Pancreas and Liver Roles,Pancreas and Liver Roles,1,inferred,Pancreas and Liver Roles,EXER_2169_concepts_raw.json
+EXER_2169,concept,Kidney Structure and Function,Kidney Structure and Function,1,inferred,Kidney Structure and Function,EXER_2169_concepts_raw.json
+EXER_2169,concept,Ureter and Urinary Bladder Functions,Ureter and Urinary Bladder Functions,1,inferred,Ureter and Urinary Bladder Functions,EXER_2169_concepts_raw.json
+EXER_2169,concept,Nephron Processes,Nephron Processes,1,inferred,Nephron Processes,EXER_2169_concepts_raw.json
+EXER_2169,concept,Male Reproductive Anatomy and Physiology,Male Reproductive Anatomy and Physiology,1,inferred,Male Reproductive Anatomy and Physiology,EXER_2169_concepts_raw.json
+EXER_2169,concept,Female Reproductive Anatomy and Physiology,Female Reproductive Anatomy and Physiology,1,inferred,Female Reproductive Anatomy and Physiology,EXER_2169_concepts_raw.json
+EXER_2169,concept,Fertilization and Implantation,Fertilization and Implantation,1,inferred,Fertilization and Implantation,EXER_2169_concepts_raw.json

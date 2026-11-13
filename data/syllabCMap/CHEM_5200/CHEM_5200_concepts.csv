@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_5200,topic,Computational Chemistry,Computational Chemistry,4,verified,Computational Chemistry,CHEM_5200_concepts_raw.json
+CHEM_5200,concept,parameterizing model Hamiltonians,parameterizing model Hamiltonians,1,verified,parameterizing model Hamiltonians,CHEM_5200_concepts_raw.json
+CHEM_5200,concept,computational methods,computational methods,1,verified,computational methods,CHEM_5200_concepts_raw.json
+CHEM_5200,concept,quantum chemistry models,quantum chemistry models,1,verified,quantum chemistry models,CHEM_5200_concepts_raw.json
+CHEM_5200,tool,Python,python,1,verified,Python,CHEM_5200_concepts_raw.json

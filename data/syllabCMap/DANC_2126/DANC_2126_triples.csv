@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_2126,improvisation,concept,PREREQUISITE_OF,collaboration,concept,same unit,,DANC_2126_triples_raw.json
+DANC_2126,tap dance technique,concept,PART_OF,Tap,topic,,,DANC_2126_triples_raw.json
+DANC_2126,improvisation,concept,PART_OF,Improvisation and Collaboration,topic,,,DANC_2126_triples_raw.json
+DANC_2126,collaboration,concept,PART_OF,Improvisation and Collaboration,topic,,,DANC_2126_triples_raw.json

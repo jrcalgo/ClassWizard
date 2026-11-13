@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4090,AI Technology Types,concept,PART_OF,Artificial Intelligence,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Human vs Machine Learning,concept,PART_OF,Artificial Intelligence,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Medical Diagnosis with AI,concept,PART_OF,Healthcare and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Personalized Medicine Algorithms,concept,PART_OF,Healthcare and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Telemedicine and Virtual Care,concept,PART_OF,Healthcare and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,AI in Public Policy Making,concept,PART_OF,Government and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Surveillance and Data Collection,concept,PART_OF,Government and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Music Composition with Algorithms,concept,PART_OF,Creative Arts and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Virtual Reality Storytelling,concept,PART_OF,Creative Arts and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,AI-Powered Learning Platforms,concept,PART_OF,Education and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Intelligent Tutoring Systems,concept,PART_OF,Education and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Automated Grading Tools,concept,PART_OF,Education and AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Vocabulary for AI Critique,concept,PART_OF,Critical Engagement with AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Analyzing AI Discourses,concept,PART_OF,Critical Engagement with AI,topic,,,SOCY_4090_triples_raw.json
+SOCY_4090,Evaluating AI Ethics,concept,PART_OF,Critical Engagement with AI,topic,,,SOCY_4090_triples_raw.json

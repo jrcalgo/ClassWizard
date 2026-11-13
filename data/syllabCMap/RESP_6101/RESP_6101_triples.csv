@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_6101,leadership theories,concept,PREREQUISITE_OF,evidence-based practice concepts,concept,same unit,,RESP_6101_triples_raw.json
+RESP_6101,leadership theories,concept,PREREQUISITE_OF,scholarship in leadership,concept,same unit,,RESP_6101_triples_raw.json
+RESP_6101,effective communication strategies,concept,PREREQUISITE_OF,culturally competent interactions,concept,same unit,,RESP_6101_triples_raw.json
+RESP_6101,decision-making processes,concept,PREREQUISITE_OF,using evidence in decisions,concept,A taught first,,RESP_6101_triples_raw.json
+RESP_6101,leadership styles and traits,concept,PART_OF,Leading People and Teams,topic,,,RESP_6101_triples_raw.json
+RESP_6101,team building and development,concept,PART_OF,Leading People and Teams,topic,,,RESP_6101_triples_raw.json
+RESP_6101,motivating and empowering,concept,PART_OF,Leading People and Teams,topic,,,RESP_6101_triples_raw.json
+RESP_6101,resource allocation and management,concept,PART_OF,Managing Resources and Change,topic,,,RESP_6101_triples_raw.json
+RESP_6101,change management strategies,concept,PART_OF,Managing Resources and Change,topic,,,RESP_6101_triples_raw.json
+RESP_6101,evidence-based practice concepts,concept,USED_FOR,using evidence in decisions,concept,,,RESP_6101_triples_raw.json

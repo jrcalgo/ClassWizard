@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_2101,topic,Circuits Fundamentals,Circuits Fundamentals,1,verified,Circuits Fundamentals,ETEM_2101_concepts_raw.json
+ETEM_2101,topic,DC and AC Circuits,DC and AC circuits,2,verified,DC and AC Circuits,ETEM_2101_concepts_raw.json
+ETEM_2101,concept,AC circuits,AC circuits,2,verified,AC circuits,ETEM_2101_concepts_raw.json
+ETEM_2101,method,circuit simulation,circuit simulations,1,verified,circuit simulation,ETEM_2101_concepts_raw.json
+ETEM_2101,method,circuit analysis,Circuit Analysis,2,verified,circuit analysis,ETEM_2101_concepts_raw.json

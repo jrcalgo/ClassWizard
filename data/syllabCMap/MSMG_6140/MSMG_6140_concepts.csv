@@ -1,0 +1,83 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MSMG_6140,concept,Information Systems Management,Information Systems Management,2,verified,Information Systems Management,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Let's Talk AI,Let's Talk AI,1,verified,Let's Talk AI,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Management Information Systems: Business Driven MIS,Management Information Systems: Business Driven MIS,3,verified,Management Information Systems: Business Driven MIS,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Data and Business Intelligence,Data and Business Intelligence,2,verified,Data and Business Intelligence,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Designing Databases,Designing Databases,1,verified,Designing Databases,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Data Communication: De livering Information Anywhere and Anytime,Data Communication: De livering Information Anywhere and Anytime,2,verified,Data Communication: De livering Information Anywhere and Anytime,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Connected World,Connected World,3,verified,A Connected World,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,E-Commerce,E-Commerce,3,verified,E-Commerce,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Enterprise Systems,Enterprise Systems,2,verified,Enterprise Systems,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Data Visualization,Data Visualization,1,verified,Data Visualization,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Protecting Information Resources,Protecting Information Resources,2,verified,Protecting Information Resources,MSMG_6140_concepts_raw.json
+MSMG_6140,topic,"Personal, Legal, Ethical","Personal, Legal, Ethical",2,verified,"Personal, Legal, Ethical",MSMG_6140_concepts_raw.json
+MSMG_6140,topic,and Organization Issues,and Organization Issues,1,verified,", and Organization Issues",MSMG_6140_concepts_raw.json
+MSMG_6140,topic,Artificial Intelligence and Automation,Artificial Intelligence and Automation,2,verified,Artificial Intelligence and Automation,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Artificial Intelligence,Artificial Intelligence,4,verified,Artificial Intelligence,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Machine Learning Basics,Machine Learning Basics,1,verified,Machine Learning Basics,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Science Fundamentals,Data Science Fundamentals,1,verified,Data Science Fundamentals,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Business Applications Software,business applications software,3,verified,Business Applications Software,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Management Information Systems,Management Information Systems,4,verified,Management Information Systems,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Business Driven MIS,Business Driven MIS,3,verified,Business Driven MIS,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Information Resources Management,Information Resources Management,2,verified,Information Resources Management,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Conceptual Foundations,conceptual foundations,2,verified,Conceptual Foundations,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,MIS Applications Software,MIS Applications Software,1,verified,MIS Applications Software,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Warehousing,Data Warehousing,2,verified,Data Warehousing,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Business Intelligence Tools,Business Intelligence Tools,2,verified,Business Intelligence Tools,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Mining Techniques,Data Mining Techniques,1,verified,Data Mining Techniques,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,OLAP Cubes,OLAP Cubes,1,verified,OLAP Cubes,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Marts,Data Marts,1,verified,Data Marts,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,ETL Process,ETL Process,1,verified,ETL Process,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Quality Metrics,Data Quality Metrics,1,verified,Data Quality Metrics,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Governance Models,Data Governance Models,1,verified,Data Governance Models,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Database Design,Database Design,1,verified,Database Design,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Entity Relationship Model,Entity Relationship Model,1,verified,Entity Relationship Model,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Normalization Techniques,Data Normalization Techniques,1,verified,Data Normalization Techniques,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Database Schema,Database Schema,1,verified,Database Schema,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Table Relationships,Table Relationships,1,verified,Table Relationships,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Primary Key Constraints,Primary Key Constraints,1,verified,Primary Key Constraints,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Foreign Key References,Foreign Key References,1,verified,Foreign Key References,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Indexing Strategies,Indexing Strategies,1,verified,Indexing Strategies,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Communication,Data Communication,3,verified,Data Communication,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Network Topology,Network Topology,1,verified,Network Topology,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Protocols and Standards,Protocols and Standards,1,verified,Protocols and Standards,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Wired and Wireless Networks,Wired and Wireless Networks,1,verified,Wired and Wireless Networks,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Internet Architecture,Internet Architecture,1,verified,Internet Architecture,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Client-Server Model,Client-Server Model,1,verified,Client-Server Model,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Compression Algorithms,Data Compression Algorithms,1,verified,Data Compression Algorithms,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Error Detection Methods,Error Detection Methods,1,verified,Error Detection Methods,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Bandwidth Management,Bandwidth Management,1,verified,Bandwidth Management,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Connected World Concept,Connected World Concept,1,verified,Connected World Concept,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Global Economy Impact,Global Economy Impact,2,verified,Global Economy Impact,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,E-commerce models,E-commerce models,1,verified,E-commerce models,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Electronic payment systems,Electronic payment systems,1,verified,Electronic payment systems,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Online transaction security,Online transaction security,1,verified,Online transaction security,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Web-based business applications,Web-based business applications,1,verified,Web-based business applications,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Internet marketing strategies,Internet marketing strategies,1,verified,Internet marketing strategies,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,ERP Implementation,ERP Implementation,1,verified,ERP Implementation,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Supply Chain Management,Supply Chain Management,1,verified,Supply Chain Management,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Business Process Reengineering,Business Process Reengineering,1,verified,Business Process Reengineering,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,System Integration,System Integration,1,verified,System Integration,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Scalability and Flexibility,Scalability and Flexibility,1,verified,Scalability and Flexibility,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Information Density,Information Density,1,verified,Information Density,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Chart Types,Chart Types,1,verified,Chart Types,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Graphical Displays,Graphical Displays,1,verified,Graphical Displays,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Interactive Dashboards,Interactive Dashboards,1,verified,Interactive Dashboards,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Information Security,Information Security,1,verified,Information Security,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Data Protection Methods,Data Protection Methods,1,verified,Data Protection Methods,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Risk Management Strategies,Risk Management Strategies,1,verified,Risk Management Strategies,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Vulnerability Assessment Techniques,Vulnerability Assessment Techniques,1,verified,Vulnerability Assessment Techniques,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Threat Detection Mechanisms,Threat Detection Mechanisms,1,verified,Threat Detection Mechanisms,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Personal Data Protection,Personal Data Protection,1,verified,Personal Data Protection,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Computer Ethics Principles,Computer Ethics Principles,1,verified,Computer Ethics Principles,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Legal Liability Issues,Legal Liability Issues,1,verified,Legal Liability Issues,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Ethical Decision Making,Ethical Decision Making,1,verified,Ethical Decision Making,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Privacy Laws Compliance,Privacy Laws Compliance,1,verified,Privacy Laws Compliance,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Machine Learning Algorithms,Machine Learning Algorithms,1,verified,Machine Learning Algorithms,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Natural Language Processing,Natural Language Processing,1,verified,Natural Language Processing,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Expert Systems Design,Expert Systems Design,1,verified,Expert Systems Design,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Rule-Based Reasoning,Rule-Based Reasoning,1,verified,Rule-Based Reasoning,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Decision Support Systems,Decision Support Systems,1,verified,Decision Support Systems,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Automated Decision Making,Automated Decision Making,1,verified,Automated Decision Making,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Intelligent Agents Theory,Intelligent Agents Theory,1,verified,Intelligent Agents Theory,MSMG_6140_concepts_raw.json
+MSMG_6140,concept,Knowledge Representation Models,Knowledge Representation Models,1,verified,Knowledge Representation Models,MSMG_6140_concepts_raw.json

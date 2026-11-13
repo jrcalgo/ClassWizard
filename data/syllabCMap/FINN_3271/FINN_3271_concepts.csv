@@ -1,0 +1,116 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_3271,topic,Risk Management & Insurance,Risk Management & Insurance,1,verified,Risk Management & Insurance,FINN_3271_concepts_raw.json
+FINN_3271,concept,Nonspeculative Risks,nonspeculative risks,5,verified,Nonspeculative Risks,FINN_3271_concepts_raw.json
+FINN_3271,method,Risk Treatment Options,Risk Treatment Options,1,verified,Risk Treatment Options,FINN_3271_concepts_raw.json
+FINN_3271,method,Personal Risk Register,Personal Risk Register,2,verified,Personal Risk Register,FINN_3271_concepts_raw.json
+FINN_3271,topic,Liability Risk,Liability Risk,2,verified,Liability Risk,FINN_3271_concepts_raw.json
+FINN_3271,topic,Common Policy Provisions,Common Policy Provisions,1,verified,Common Policy Provisions,FINN_3271_concepts_raw.json
+FINN_3271,concept,Personal Auto Liability,Personal Auto Liability,3,verified,Personal Auto Liability,FINN_3271_concepts_raw.json
+FINN_3271,topic,"Pay, UM & UIM","Pay, UM & UIM",1,verified,"Pay, UM & UIM",FINN_3271_concepts_raw.json
+FINN_3271,topic,Auto Physical Damage PAP Rating & Shoppers Guide,Auto Physical Damage PAP Rating & Shoppers Guide,1,verified,Auto Physical Damage PAP Rating & Shoppers Guide,FINN_3271_concepts_raw.json
+FINN_3271,topic,Residual Auto markets,Residual Auto markets,1,verified,Residual Auto markets,FINN_3271_concepts_raw.json
+FINN_3271,topic,"Property Values, Coinsurance and Deductible","Property Values, Coinsurance and Deductible",1,verified,"Property Values, Coinsurance and Deductible",FINN_3271_concepts_raw.json
+FINN_3271,topic,Homeowners Property,Homeowners Property,2,verified,Homeowners Property,FINN_3271_concepts_raw.json
+FINN_3271,topic,Homeowners Liability,Homeowners Liability,1,verified,Homeowners Liability,FINN_3271_concepts_raw.json
+FINN_3271,topic,Flood Insurance,Flood Insurance,4,verified,Flood Insurance,FINN_3271_concepts_raw.json
+FINN_3271,topic,NC Wind Pool & Beach Plan,NC Wind Pool & Beach Plan,2,verified,NC Wind Pool & Beach Plan,FINN_3271_concepts_raw.json
+FINN_3271,topic,Personal Umbrella,Personal Umbrella,2,verified,Personal Umbrella,FINN_3271_concepts_raw.json
+FINN_3271,topic,Life Insurance,Life Insurance,6,verified,Life Insurance,FINN_3271_concepts_raw.json
+FINN_3271,topic,Health Insurance,Health Insurance,6,verified,Health Insurance,FINN_3271_concepts_raw.json
+FINN_3271,topic,Disability Income Long Term Care,Disability Income Long Term Care,1,verified,Disability Income Long Term Care,FINN_3271_concepts_raw.json
+FINN_3271,topic,Personal Financial Planning,Personal Financial Planning,1,verified,Personal Financial Planning,FINN_3271_concepts_raw.json
+FINN_3271,concept,Risk Assessment Methods,Risk Assessment Methods,3,verified,Risk Assessment Methods,FINN_3271_concepts_raw.json
+FINN_3271,concept,Nonspeculative Risks Types,Nonspeculative Risks Types,1,verified,Nonspeculative Risks Types,FINN_3271_concepts_raw.json
+FINN_3271,concept,Life Contracts,Life Contracts,2,verified,Life Contracts,FINN_3271_concepts_raw.json
+FINN_3271,concept,Health Contracts,Health Contracts,3,verified,Health Contracts,FINN_3271_concepts_raw.json
+FINN_3271,concept,Property Contracts,Property Contracts,2,verified,Property Contracts,FINN_3271_concepts_raw.json
+FINN_3271,concept,Casualty Contracts,Casualty Contracts,2,verified,Casualty Contracts,FINN_3271_concepts_raw.json
+FINN_3271,concept,Liability Contracts,liability contracts,4,verified,Liability Contracts,FINN_3271_concepts_raw.json
+FINN_3271,concept,Negligence Liability,Negligence Liability,1,verified,Negligence Liability,FINN_3271_concepts_raw.json
+FINN_3271,concept,Premises Liability,Premises Liability,2,verified,Premises Liability,FINN_3271_concepts_raw.json
+FINN_3271,concept,Product Liability,Product Liability,1,verified,Product Liability,FINN_3271_concepts_raw.json
+FINN_3271,concept,Professional Liability,Professional Liability,1,verified,Professional Liability,FINN_3271_concepts_raw.json
+FINN_3271,concept,Umbrella Policy,Umbrella Policy,2,verified,Umbrella Policy,FINN_3271_concepts_raw.json
+FINN_3271,concept,Excess Liability Coverage,Excess Liability Coverage,2,verified,Excess Liability Coverage,FINN_3271_concepts_raw.json
+FINN_3271,concept,Ordinary Life Insurance,Ordinary Life Insurance,1,verified,Ordinary Life Insurance,FINN_3271_concepts_raw.json
+FINN_3271,concept,Health Insurance Policies,Health Insurance Policies,2,verified,Health Insurance Policies,FINN_3271_concepts_raw.json
+FINN_3271,concept,Property Damage Coverage,Property Damage Coverage,2,verified,Property Damage Coverage,FINN_3271_concepts_raw.json
+FINN_3271,concept,Casualty Insurance Contracts,Casualty Insurance Contracts,2,verified,Casualty Insurance Contracts,FINN_3271_concepts_raw.json
+FINN_3271,concept,Liability Insurance Types,Liability Insurance Types,1,verified,Liability Insurance Types,FINN_3271_concepts_raw.json
+FINN_3271,concept,Policy Exclusions Clauses,Policy Exclusions Clauses,1,verified,Policy Exclusions Clauses,FINN_3271_concepts_raw.json
+FINN_3271,concept,Policy Limitations Endorsements,Policy Limitations Endorsements,1,verified,Policy Limitations Endorsements,FINN_3271_concepts_raw.json
+FINN_3271,concept,Bodily Injury Liability Limits,Bodily Injury Liability Limits,2,verified,Bodily Injury Liability Limits,FINN_3271_concepts_raw.json
+FINN_3271,concept,Property Damage Liability Limits,Property Damage Liability Limits,1,verified,Property Damage Liability Limits,FINN_3271_concepts_raw.json
+FINN_3271,concept,Uninsured Motorist Coverage,Uninsured Motorist Coverage,2,verified,Uninsured Motorist Coverage,FINN_3271_concepts_raw.json
+FINN_3271,concept,Underinsured Motorist Coverage,Underinsured Motorist Coverage,2,verified,Underinsured Motorist Coverage,FINN_3271_concepts_raw.json
+FINN_3271,concept,Collision Insurance Deductible,Collision Insurance Deductible,1,verified,Collision Insurance Deductible,FINN_3271_concepts_raw.json
+FINN_3271,concept,Comprehensive Insurance Deductible,Comprehensive Insurance Deductible,1,verified,Comprehensive Insurance Deductible,FINN_3271_concepts_raw.json
+FINN_3271,concept,PAP Med Coverage,PAP Med Coverage,1,verified,PAP Med Coverage,FINN_3271_concepts_raw.json
+FINN_3271,concept,Financial Services Career,Financial Services Career,3,verified,Financial Services Career,FINN_3271_concepts_raw.json
+FINN_3271,concept,Liability Insurance Contracts,Liability Insurance Contracts,2,verified,Liability Insurance Contracts,FINN_3271_concepts_raw.json
+FINN_3271,concept,Risk Management Methods,Risk Management Methods,3,verified,Risk Management Methods,FINN_3271_concepts_raw.json
+FINN_3271,concept,Life and Health Contracts,Life and Health Contracts,1,verified,Life and Health Contracts,FINN_3271_concepts_raw.json
+FINN_3271,concept,Property and Casualty Risks,Property and Casualty Risks,1,verified,Property and Casualty Risks,FINN_3271_concepts_raw.json
+FINN_3271,concept,Auto Physical Damage,Auto Physical Damage,2,verified,Auto Physical Damage,FINN_3271_concepts_raw.json
+FINN_3271,concept,PAP Rating System,PAP Rating System,1,verified,PAP Rating System,FINN_3271_concepts_raw.json
+FINN_3271,concept,Shoppers Guide Principles,Shoppers Guide Principles,1,verified,Shoppers Guide Principles,FINN_3271_concepts_raw.json
+FINN_3271,concept,Assigned Risk Pooling,Assigned Risk Pooling,1,verified,Assigned Risk Pooling,FINN_3271_concepts_raw.json
+FINN_3271,concept,Surplus Lines Insurance,Surplus Lines Insurance,1,verified,Surplus Lines Insurance,FINN_3271_concepts_raw.json
+FINN_3271,concept,Nonadmitted Insurance,Nonadmitted Insurance,1,verified,Nonadmitted Insurance,FINN_3271_concepts_raw.json
+FINN_3271,concept,Excess and Surplus Lines,Excess and Surplus Lines,1,verified,Excess and Surplus Lines,FINN_3271_concepts_raw.json
+FINN_3271,concept,Coinsurance Clause,Coinsurance Clause,1,verified,Coinsurance Clause,FINN_3271_concepts_raw.json
+FINN_3271,concept,Deductible Amounts,Deductible Amounts,1,verified,Deductible Amounts,FINN_3271_concepts_raw.json
+FINN_3271,concept,Property Values,Property Values,2,verified,Property Values,FINN_3271_concepts_raw.json
+FINN_3271,concept,Actual Cash Value,Actual Cash Value,2,verified,Actual Cash Value,FINN_3271_concepts_raw.json
+FINN_3271,concept,Replacement Cost Value,Replacement Cost Value,1,verified,Replacement Cost Value,FINN_3271_concepts_raw.json
+FINN_3271,concept,Homeowners Property Insurance,Homeowners Property Insurance,1,verified,Homeowners Property Insurance,FINN_3271_concepts_raw.json
+FINN_3271,concept,Perils Covered by Policy,Perils Covered by Policy,1,verified,Perils Covered by Policy,FINN_3271_concepts_raw.json
+FINN_3271,concept,Deductible and Coinsurance,Deductible and Coinsurance,2,verified,Deductible and Coinsurance,FINN_3271_concepts_raw.json
+FINN_3271,concept,Actual Cash Value Clause,Actual Cash Value Clause,1,verified,Actual Cash Value Clause,FINN_3271_concepts_raw.json
+FINN_3271,concept,Replacement Cost Valuation,Replacement Cost Valuation,1,verified,Replacement Cost Valuation,FINN_3271_concepts_raw.json
+FINN_3271,concept,Named Peril vs. Open Peril,Named Peril vs. Open Peril,1,verified,Named Peril vs. Open Peril,FINN_3271_concepts_raw.json
+FINN_3271,concept,Exclusions from Coverage,Exclusions from Coverage,1,verified,Exclusions from Coverage,FINN_3271_concepts_raw.json
+FINN_3271,concept,Policy Limits and Maximums,Policy Limits and Maximums,1,verified,Policy Limits and Maximums,FINN_3271_concepts_raw.json
+FINN_3271,concept,Personal Injury Claims,Personal Injury Claims,1,verified,Personal Injury Claims,FINN_3271_concepts_raw.json
+FINN_3271,concept,Premises Liability Laws,Premises Liability Laws,1,verified,Premises Liability Laws,FINN_3271_concepts_raw.json
+FINN_3271,concept,Duty of Care Owed,Duty of Care Owed,1,verified,Duty of Care Owed,FINN_3271_concepts_raw.json
+FINN_3271,concept,Breach of Duty Proved,Breach of Duty Proved,1,verified,Breach of Duty Proved,FINN_3271_concepts_raw.json
+FINN_3271,concept,Causation and Damages,Causation and Damages,1,verified,Causation and Damages,FINN_3271_concepts_raw.json
+FINN_3271,concept,Defenses to Liability,Defenses to Liability,1,verified,Defenses to Liability,FINN_3271_concepts_raw.json
+FINN_3271,concept,Flood Insurance Basics,Flood Insurance Basics,1,verified,Flood Insurance Basics,FINN_3271_concepts_raw.json
+FINN_3271,concept,National Flood Insurance Program,National Flood Insurance Program,1,verified,National Flood Insurance Program,FINN_3271_concepts_raw.json
+FINN_3271,concept,Standard Flood Hazard Determination Form,Standard Flood Hazard Determination Form,1,verified,Standard Flood Hazard Determination Form,FINN_3271_concepts_raw.json
+FINN_3271,concept,Special Flood Hazard Area,Special Flood Hazard Area,1,verified,Special Flood Hazard Area,FINN_3271_concepts_raw.json
+FINN_3271,concept,Flood Zone Designations,Flood Zone Designations,1,verified,Flood Zone Designations,FINN_3271_concepts_raw.json
+FINN_3271,concept,NC Wind Pool,NC Wind Pool,2,verified,NC Wind Pool,FINN_3271_concepts_raw.json
+FINN_3271,concept,Beach Plan,Beach Plan,2,verified,Beach Plan,FINN_3271_concepts_raw.json
+FINN_3271,concept,Personal Umbrella Policy,Personal Umbrella Policy,1,verified,Personal Umbrella Policy,FINN_3271_concepts_raw.json
+FINN_3271,concept,Umbrella Insurance Limits,Umbrella Insurance Limits,1,verified,Umbrella Insurance Limits,FINN_3271_concepts_raw.json
+FINN_3271,concept,Underinsured Motorist Protection,Underinsured Motorist Protection,1,verified,Underinsured Motorist Protection,FINN_3271_concepts_raw.json
+FINN_3271,concept,Life Insurance Policies,Life Insurance Policies,1,verified,Life Insurance Policies,FINN_3271_concepts_raw.json
+FINN_3271,concept,Mortality Tables Analysis,Mortality Tables Analysis,1,verified,Mortality Tables Analysis,FINN_3271_concepts_raw.json
+FINN_3271,concept,Insurance Company Operations,Insurance Company Operations,1,verified,Insurance Company Operations,FINN_3271_concepts_raw.json
+FINN_3271,concept,Policyholder Benefits Administration,Policyholder Benefits Administration,1,verified,Policyholder Benefits Administration,FINN_3271_concepts_raw.json
+FINN_3271,concept,Annuity Contracts Explanation,Annuity Contracts Explanation,1,verified,Annuity Contracts Explanation,FINN_3271_concepts_raw.json
+FINN_3271,concept,Investment Options for Policyholders,Investment Options for Policyholders,1,verified,Investment Options for Policyholders,FINN_3271_concepts_raw.json
+FINN_3271,concept,Policy Lapse and Surrender,Policy Lapse and Surrender,1,verified,Policy Lapse and Surrender,FINN_3271_concepts_raw.json
+FINN_3271,concept,Insurer's Reserve Requirements,Insurer's Reserve Requirements,1,verified,Insurer's Reserve Requirements,FINN_3271_concepts_raw.json
+FINN_3271,concept,Health Insurance Plans,Health Insurance Plans,1,verified,Health Insurance Plans,FINN_3271_concepts_raw.json
+FINN_3271,concept,Pre-existing Conditions Clause,Pre-existing Conditions Clause,1,verified,Pre-existing Conditions Clause,FINN_3271_concepts_raw.json
+FINN_3271,concept,Maximum Out-of-Pocket Costs,Maximum Out-of-Pocket Costs,1,verified,Maximum Out-of-Pocket Costs,FINN_3271_concepts_raw.json
+FINN_3271,concept,Premium Subsidies Program,Premium Subsidies Program,1,verified,Premium Subsidies Program,FINN_3271_concepts_raw.json
+FINN_3271,concept,Disability Income Insurance,Disability Income Insurance,1,verified,Disability Income Insurance,FINN_3271_concepts_raw.json
+FINN_3271,concept,Long Term Care Insurance,Long Term Care Insurance,1,verified,Long Term Care Insurance,FINN_3271_concepts_raw.json
+FINN_3271,concept,Risk Management Strategies,Risk Management Strategies,2,verified,Risk Management Strategies,FINN_3271_concepts_raw.json
+FINN_3271,concept,Casualty Insurance Policies,Casualty Insurance Policies,1,verified,Casualty Insurance Policies,FINN_3271_concepts_raw.json
+FINN_3271,concept,Property Damage Claims,Property Damage Claims,1,verified,Property Damage Claims,FINN_3271_concepts_raw.json
+FINN_3271,concept,Health Insurance Benefits,Health Insurance Benefits,1,verified,Health Insurance Benefits,FINN_3271_concepts_raw.json
+FINN_3271,concept,Life Insurance Settlements,Life Insurance Settlements,1,verified,Life Insurance Settlements,FINN_3271_concepts_raw.json
+FINN_3271,method,Risk Management Process,Risk Management Process,1,verified,Risk Management Process,FINN_3271_concepts_raw.json
+FINN_3271,method,Risk Financing Methods,Risk Financing Methods,1,verified,Risk Financing Methods,FINN_3271_concepts_raw.json
+FINN_3271,method,Financial Services Career Fair,Financial Services Career Fair,2,verified,Financial Services Career Fair,FINN_3271_concepts_raw.json
+FINN_3271,work,Arthur Family,Arthur Family,1,verified,Arthur Family,FINN_3271_concepts_raw.json
+FINN_3271,work,Christine Zivica,Christine Zivica,1,verified,Christine Zivica,FINN_3271_concepts_raw.json
+FINN_3271,work,Brighthouse Financial,Brighthouse Financial,1,verified,Brighthouse Financial,FINN_3271_concepts_raw.json
+FINN_3271,work,Aubi Knight,Aubi Knight,1,verified,Aubi Knight,FINN_3271_concepts_raw.json
+FINN_3271,work,IIANC,IIANC,1,verified,IIANC,FINN_3271_concepts_raw.json

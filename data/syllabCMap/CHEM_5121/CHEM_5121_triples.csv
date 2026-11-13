@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_5121,Ionic Bonding and Electrostatics,concept,PREREQUISITE_OF,Covalent Bonding and Molecular Geometry,concept,same unit,,CHEM_5121_triples_raw.json
+CHEM_5121,Ionic Bonding and Electrostatics,concept,PREREQUISITE_OF,Metallic Bonding and Electron Sea,concept,same unit,,CHEM_5121_triples_raw.json
+CHEM_5121,Group 1-2 Element Properties,concept,PREREQUISITE_OF,Group 13-14 Element Chemistry,concept,same unit,,CHEM_5121_triples_raw.json
+CHEM_5121,Group 1-2 Element Properties,concept,PREREQUISITE_OF,Halogens and Noble Gases,concept,same unit,,CHEM_5121_triples_raw.json
+CHEM_5121,d-Orbital Hybridization and Geometry,concept,PREREQUISITE_OF,Coordination Numbers and Geometries,concept,same unit,,CHEM_5121_triples_raw.json
+CHEM_5121,Electron Configuration Basics,concept,PART_OF,Atomic Structure Review,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Atomic Orbitals and Shapes,concept,PART_OF,Atomic Structure Review,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Quantum Numbers and Rules,concept,PART_OF,Atomic Structure Review,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Ionic Bonding and Electrostatics,concept,PART_OF,Chemical Bonding Fundamentals,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Covalent Bonding and Molecular Geometry,concept,PART_OF,Chemical Bonding Fundamentals,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Metallic Bonding and Electron Sea,concept,PART_OF,Chemical Bonding Fundamentals,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Crystal Field Theory and Ligand Fields,concept,PART_OF,Transition Metal Chemistry,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Coordination Numbers and Geometries,concept,PART_OF,Transition Metal Chemistry,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Metal-Carbon Bonding and Stability,concept,PART_OF,Organometallic Chemistry Basics,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Catalysis and Applications,concept,PART_OF,Organometallic Chemistry Basics,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Sol-Gel Processing and Methods,concept,PART_OF,Inorganic Synthesis Techniques,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Precipitation and Crystallization,concept,PART_OF,Inorganic Synthesis Techniques,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,High-Temperature Synthesis,concept,PART_OF,Inorganic Synthesis Techniques,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,IR,concept,PART_OF,Instrumental Analysis Techniques,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,NMR,concept,PART_OF,Instrumental Analysis Techniques,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,MS Spectroscopy,concept,PART_OF,Instrumental Analysis Techniques,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,X-Ray Diffraction and Crystallography,concept,PART_OF,Instrumental Analysis Techniques,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Electrochemical Methods and Sensors,concept,PART_OF,Instrumental Analysis Techniques,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Fertilizer Production and Synthesis,concept,PART_OF,Industrial Processes and Applications,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Battery Materials and Electrochemistry,concept,PART_OF,Industrial Processes and Applications,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,Catalytic Converters and Emissions Control,concept,PART_OF,Industrial Processes and Applications,topic,,,CHEM_5121_triples_raw.json
+CHEM_5121,IR,concept,USED_FOR,MS Spectroscopy,concept,,,CHEM_5121_triples_raw.json
+CHEM_5121,NMR,concept,USED_FOR,MS Spectroscopy,concept,,,CHEM_5121_triples_raw.json

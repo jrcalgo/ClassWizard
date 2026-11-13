@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_2050,Empathy Building,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Student Leadership,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Career Preparation,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Student Leadership Development,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Fractured World,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Community Building Strategies,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Public Citizenship,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Citizenship Anchors,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,War for Kindness,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,University Resources and Services,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Goal Setting Strategies,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Motivated Students,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Time Management Techniques,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Career Planning,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Goal Setting Principles,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Study Habits Development,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Productivity Tools Utilization,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Academic Success Strategies,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Leadership Potential,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Cultural Competency Frameworks,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Citizenship Responsibilities,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Hate & Stories,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Kindness War,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Balance and Joy,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,Self Empowerment,topic,PART_OF,Department culture and community,concept,,part is broader than whole - check direction,COMM_2050_triples_raw.json
+COMM_2050,War for Kindness,topic,USED_FOR,Fractured World Analysis,concept,,topic used for something - check direction,COMM_2050_triples_raw.json
