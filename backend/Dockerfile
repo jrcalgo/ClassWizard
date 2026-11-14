@@ -44,8 +44,15 @@ ENV HF_HOME=/opt/hf \
     SENTENCE_TRANSFORMERS_HOME=/opt/sentence-transformers
 RUN python3 -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
 
+# Spark for spark_jobs/: PySpark needs Java, and its launch script calls ps (procps).
+RUN apt-get update \
+ && apt-get install -y --no-install-recommends openjdk-17-jre-headless procps \
+ && rm -rf /var/lib/apt/lists/*
+RUN pip3 install --no-cache-dir --break-system-packages "pyspark==3.5.0"
+
 COPY backend /app/backend
 COPY ai /app/ai
+COPY spark_jobs /app/spark_jobs
 COPY data/__init__.py /app/data/__init__.py
 COPY data/degreeworks /app/data/degreeworks
 COPY data/uncc-courses/catalog/pyproject.toml /tmp/catalog/pyproject.toml

@@ -753,6 +753,7 @@ def print_counts(conn) -> None:
         "skill_terms",
         "text_chunks",
         "syllabus_triples",
+        "course_career_scores",
     )
     for table in tables:
         count = conn.execute(f"SELECT count(*) FROM {table}").fetchone()[0]

@@ -25,6 +25,15 @@ Postgres stores courses, requisite links, programs, and O*NET occupations and sk
 
 The API is at http://127.0.0.1:8000/health. The Streamlit page is at http://127.0.0.1:8501.
 
+## Chatbot (RAG)
+
+The chat panel answers from retrieved evidence instead of the model's memory. Questions and stored text are embedded with `all-MiniLM-L6-v2` (384 dimensions) and searched in pgvector by cosine similarity (HNSW index). `CHAT_MODE` in `.env` picks one of two paths:
+
+- `explain` (default): `/explain` retrieves catalog courses, O*NET careers, and the student's ranked recommendations, then a local Ollama model (`EXPLAIN_MODEL`) answers in at most four sentences and cites evidence IDs in brackets, such as `[ITSC 3160]`. Every citation is checked against the retrieved evidence, and the sources are shown under the answer. When the evidence does not answer the question, the reply is "not found in the data". This path needs Ollama running on the host with the model pulled.
+- `chat`: `/chat` retrieves the five closest syllabus triples and answers through the provider set by `LLM_MODE` and `LLM_MODEL`.
+
+Student names, IDs, and advisor names are removed when the DegreeWorks PDF is parsed, so they never reach either model.
+
 ## Restore the database
 
 See [database_dump/README.MD](database_dump/README.MD). 
