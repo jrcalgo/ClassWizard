@@ -65,16 +65,25 @@ services:
       # /explain: local Ollama only (separate from LLM_MODEL, which /chat uses)
       EXPLAIN_MODEL: ${EXPLAIN_MODEL:-ollama_chat/qwen3:8b}
       OLLAMA_URL: ${OLLAMA_URL:-http://host.docker.internal:11434}
+      # spark_jobs: Parquet lake path and Spark driver memory
+      LAKE_DIR: /data/lake
+      SPARK_DRIVER_MEMORY: ${SPARK_DRIVER_MEMORY:-2g}
     extra_hosts:
       # Lets Linux Docker resolve host.docker.internal (Docker Desktop already does)
       - "host.docker.internal:host-gateway"
     ports:
       - "8000:8000"
+      # Spark UI while spark_jobs runs
+      - "${SPARK_UI_PORT:-4041}:4040"
     volumes:
+      # Drop graduate-catalog-YYYY-YYYY.zip next to the undergraduate zip to
+      # load both catalogs.
       - ${CATALOG_DATASET_DIR:-./data/_datasets/uncc-courses/catalog/dataset}:/data/dataset:ro
       - ./data/_datasets/onet:/data/onet:ro
       - ./data/catalog_out:/data/out
       - ./data/uncc-courses/syllabi:/data/syllabi:ro
+      # Parquet tables written by spark_jobs
+      - ./data/lake:/data/lake
       - ${CLAUDE_HOME:-${HOME}/.claude}:/opt/claude:ro
       - ${CODEX_HOME:-${HOME}/.codex}:/opt/codex
       - ${GITHUB_COPILOT_TOKEN_DIR:-./data/copilot-token}:/opt/copilot-token

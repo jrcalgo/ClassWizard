@@ -9,7 +9,7 @@
 # O*NET CSVs are mounted at /data/onet. First boot unzips the catalog, builds
 # JSON under data/catalog_out, and loads Postgres. Later boots skip the catalog,
 # O*NET, and programs when each source's SHA-256 is already stored in ingest_runs.
-# Syllabi are loaded again on every boot.
+# Syllabi reload only when SYLLABI_RELEASE changes; vectors fill in for new rows.
 #
 #   docker build -t classwizard .
 #   docker run --rm \

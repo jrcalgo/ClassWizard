@@ -160,3 +160,14 @@ CREATE INDEX IF NOT EXISTS syllabus_triples_filename_idx
 
 CREATE INDEX IF NOT EXISTS syllabus_triples_embedding_hnsw
   ON syllabus_triples USING hnsw (embedding vector_cosine_ops);
+
+
+-- Career x course scores written by spark_jobs (ALS). Empty until the pipeline runs.
+-- als_score is the ALS prediction; hybrid_rating is the 0-5 rating it was trained on.
+CREATE TABLE IF NOT EXISTS course_career_scores (
+  soc_code text NOT NULL,
+  course_code text NOT NULL,
+  als_score real NOT NULL,
+  hybrid_rating real NOT NULL,
+  PRIMARY KEY (soc_code, course_code)
+);

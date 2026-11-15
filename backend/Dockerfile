@@ -54,17 +54,33 @@ RUN --mount=type=cache,target=/opt/mamba-root/pkgs,sharing=locked \
 
 COPY --from=ghcr.io/astral-sh/uv:0.13.7 /uv /usr/local/bin/uv
 
+# Java 17 for PySpark (spark_jobs/). procps: the Spark launch script calls ps.
+# Installed before the lock and app layers so code changes don't rebuild it.
+RUN --mount=type=cache,target=/var/cache/apt,sharing=locked \
+    apt-get update \
+ && apt-get install -y --no-install-recommends openjdk-17-jre-headless procps \
+ && rm -rf /var/lib/apt/lists/*
+
 WORKDIR /app
 
-# CPU torch is pinned in the lock (torch==…+cpu). The lock's indexes keep
-# a later resolve from replacing it with the CUDA wheel on PyPI.
-COPY backend/requirements.lock /tmp/requirements.lock
+# CPU torch is pinned in each lock (torch==…+cpu). The lock's indexes keep
+# a later resolve from replacing it with the CUDA wheel on PyPI. One lock per
+# architecture; TARGETARCH picks the file (see backend/requirements.in).
+COPY backend/requirements.linux-64.lock /tmp/requirements.linux-64.lock
+COPY backend/requirements.linux-aarch64.lock /tmp/requirements.linux-aarch64.lock
 RUN --mount=type=cache,target=/root/.cache/uv \
-    uv pip install --system \
+    set -eu \
+ && case "$TARGETARCH" in \
+      amd64) lock=linux-64 ;; \
+      arm64) lock=linux-aarch64 ;; \
+      *) echo "unsupported architecture: $TARGETARCH" >&2; exit 1 ;; \
+    esac \
+ && uv pip install --system \
       --index-url https://download.pytorch.org/whl/cpu \
       --extra-index-url https://pypi.org/simple \
       --index-strategy unsafe-best-match \
-      -r /tmp/requirements.lock
+      -r "/tmp/requirements.${lock}.lock" \
+ && rm -f /tmp/requirements.linux-64.lock /tmp/requirements.linux-aarch64.lock
 
 ENV HF_HOME=/opt/hf \
     SENTENCE_TRANSFORMERS_HOME=/opt/sentence-transformers
@@ -72,6 +88,7 @@ RUN python3 -c "from sentence_transformers import SentenceTransformer; SentenceT
 
 COPY backend /app/backend
 COPY ai /app/ai
+COPY spark_jobs /app/spark_jobs
 COPY data/__init__.py /app/data/__init__.py
 COPY data/degreeworks /app/data/degreeworks
 COPY data/uncc-courses/catalog/pyproject.toml /tmp/catalog/pyproject.toml
