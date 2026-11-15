@@ -150,11 +150,8 @@ def _load_recommendation(prefs: dict) -> None:
             BACKEND_URL, st.session_state.session_id, _soc_codes(prefs), RECOMMEND_LIMIT
         )
     except recommend.BackendFailed as exc:
-        if exc.status == 422 and "graduate" in str(exc):
-            message = (
-                "Recommendations cover undergraduate audits only for now: "
-                "the graduate catalog is not loaded yet."
-            )
+        if exc.status == 422 and "catalog" in str(exc):
+            message = f"Recommendations are unavailable for this audit: {exc}."
         elif exc.status == 404:
             message = "The audit expired. Upload it again."
         elif exc.status == 409:

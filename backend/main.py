@@ -136,10 +136,9 @@ def post_recommend(body: RecommendRequest):
     try:
         with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
             result = recommend(conn, audit, soc_codes, body.limit)
-    except UnsupportedAudit:
-        return JSONResponse(
-            {"detail": "graduate audits are not supported yet"}, status_code=422
-        )
+    except UnsupportedAudit as exc:
+        # e.g. "the Graduate 2026-2027 catalog is not loaded yet"
+        return JSONResponse({"detail": str(exc)}, status_code=422)
     except MissingVectors as exc:
         return JSONResponse({"detail": str(exc)}, status_code=409)
     except psycopg.Error:
@@ -203,10 +202,8 @@ def post_explain(body: ExplainRequest):
         with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
             recommendation = recommend(conn, audit, soc_codes, _MAX_LIMIT)
             evidence = retrieve_evidence(conn, question, audit, recommendation, soc_codes)
-    except UnsupportedAudit:
-        return JSONResponse(
-            {"detail": "graduate audits are not supported yet"}, status_code=422
-        )
+    except UnsupportedAudit as exc:
+        return JSONResponse({"detail": str(exc)}, status_code=422)
     except MissingVectors as exc:
         return JSONResponse({"detail": str(exc)}, status_code=409)
     except psycopg.Error:

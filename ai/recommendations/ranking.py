@@ -12,8 +12,10 @@ Decisions taken (Nov 6, defaults from the spec):
     rules, so it cannot decide eligibility on its own.
   * Elective pools ("3 Credits in ITSC 4@") are not expanded yet: the parser
     returns no codes for them. Planned as a separate parser change.
-  * Only undergraduate audits are supported: only the undergraduate catalog
-    is loaded, so graduate courses have no rows and no vectors.
+  * Each audit is ranked against the catalog for its level: undergraduate
+    audits against "Undergraduate 2026-2027", graduate audits against
+    "Graduate 2026-2027". A level whose catalog zip was not supplied raises
+    UnsupportedAudit with a message saying which catalog is missing.
 
 Student data: only course codes, requirement blocks and the audit's level
 are read. Nothing from the audit is logged or returned beyond course codes.
@@ -26,20 +28,45 @@ from __future__ import annotations
 
 from ai.nlp.embeddings.sentence_transformer import MODEL_NAME
 
-CATALOG = "Undergraduate 2026-2027"
+CATALOG_YEAR = "2026-2027"
+CATALOG = f"Undergraduate {CATALOG_YEAR}"  # default for callers with no audit
 
 
 class UnsupportedAudit(ValueError):
-    """The audit's level has no loaded catalog (e.g. a graduate audit)."""
+    """The audit's level is unknown, or its catalog is not loaded."""
 
 
 class MissingVectors(RuntimeError):
     """Occupation or course vectors are missing: the embedding step has not run."""
 
 
+def audit_level(audit: dict) -> str | None:
+    """'Undergraduate' or 'Graduate' from the audit's Level field, else None.
+
+    "undergrad" is checked first because "Undergraduate" also contains "grad".
+    """
+    level = (audit.get("level") or "").lower()
+    if "undergrad" in level:
+        return "Undergraduate"
+    if any(word in level for word in ("grad", "master", "doctor")):
+        return "Graduate"
+    return None
+
+
+def catalog_for(audit: dict) -> str | None:
+    """Catalog name for the audit's level, e.g. 'Graduate 2026-2027'."""
+    level = audit_level(audit)
+    return f"{level} {CATALOG_YEAR}" if level else None
+
+
 def is_supported(audit: dict) -> bool:
-    """True for undergraduate audits, the only level with a loaded catalog."""
-    return "undergrad" in (audit.get("level") or "").lower()
+    """True when the audit's level maps to a catalog (whether or not it is loaded)."""
+    return catalog_for(audit) is not None
+
+
+def catalog_loaded(conn, catalog: str) -> bool:
+    row = conn.execute("SELECT 1 FROM courses WHERE catalog_name = %s LIMIT 1", (catalog,)).fetchone()
+    return row is not None
 
 
 def taken_codes(audit: dict) -> set[str]:
@@ -81,10 +108,13 @@ def _credits(credit_min, credit_max, credit_raw):
     return credit_raw
 
 
-def recommend(conn, audit: dict, soc_codes: list[str], limit: int = 10, catalog: str = CATALOG) -> dict:
+def recommend(conn, audit: dict, soc_codes: list[str], limit: int = 10, catalog: str | None = None) -> dict:
     """Return still-needed courses ranked by best match to the chosen careers."""
-    if not is_supported(audit):
-        raise UnsupportedAudit("only undergraduate audits are supported")
+    catalog = catalog or catalog_for(audit)
+    if catalog is None:
+        raise UnsupportedAudit(f"audit level {audit.get('level')!r} is not recognised")
+    if not catalog_loaded(conn, catalog):
+        raise UnsupportedAudit(f"the {catalog} catalog is not loaded yet")
 
     occupations = conn.execute(
         "SELECT soc_code, title FROM occupations WHERE soc_code = ANY(%s)",

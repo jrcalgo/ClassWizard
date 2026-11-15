@@ -12,6 +12,10 @@ venv
 env
 project_docs
 out
-Major&courses
 app
 data/_datasets
+frontend
+data/catalog_out
+data/uncc-courses/syllabi
+data/catalog_pdfs
+data/copilot-token

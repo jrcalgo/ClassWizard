@@ -1,0 +1,4 @@
+# Frontend image dependency. Compile for Linux CPython 3.12:
+#   uv pip compile frontend/requirements.in --python-version 3.12 -o frontend/requirements.lock
+
+streamlit
