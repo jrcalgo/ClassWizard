@@ -5,7 +5,7 @@ AI-Assisted Class Suggestor
 * Scott Do (Reshlynt)
 * Jackson Redman (jrcalgo)
 * Caleb Richardson (CalebRichardson0307)
-* Akshat Kumar
+* Akshat Kumar (akshuoo7)
 
 # Overview
 With the diverse classes offered at the university, college students struggle to find which classes best align with their career goals. Current tools like DegreeWorks track graduation requirements, but fail to guide students on which electives best align with their career path. Classwizard provides a solution through a career-aware, prerequisite-focused planning system. It achieves measurable business impact by improving student job readiness by suggesting the classes that teach the career-specific skills.
