@@ -1,14 +1,59 @@
 services:
-  backend:
-    build:
-      context: .
-      dockerfile: backend/Dockerfile
+  postgres:
+    image: pgvector/pgvector:pg16
     environment:
       POSTGRES_USER: ${POSTGRES_USER:-classwizard}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-classwizard}
       POSTGRES_DB: ${POSTGRES_DB:-classwizard}
-      DATABASE_URL: postgresql://${POSTGRES_USER:-classwizard}:${POSTGRES_PASSWORD:-classwizard}@127.0.0.1:5432/${POSTGRES_DB:-classwizard}
-      REDIS_URL: ${REDIS_URL:-redis://127.0.0.1:6379/0}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/10-vector.sql:ro
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          'pg_isready -U "$$POSTGRES_USER" -d "$$POSTGRES_DB" && psql -U "$$POSTGRES_USER" -d "$$POSTGRES_DB" -tAc "SELECT 1 FROM pg_extension WHERE extname = ''vector''" | grep -q 1',
+        ]
+      interval: 2s
+      timeout: 5s
+      retries: 30
+      start_period: 10s
+
+  redis:
+    image: redis:7-alpine
+    command:
+      [
+        "redis-server",
+        "--save",
+        "",
+        "--appendonly",
+        "no",
+        "--bind",
+        "0.0.0.0",
+        "--protected-mode",
+        "no",
+      ]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 2s
+      timeout: 3s
+      retries: 20
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-classwizard}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-classwizard}
+      POSTGRES_DB: ${POSTGRES_DB:-classwizard}
+      DATABASE_URL: postgresql://${POSTGRES_USER:-classwizard}:${POSTGRES_PASSWORD:-classwizard}@postgres:5432/${POSTGRES_DB:-classwizard}
+      REDIS_URL: ${REDIS_URL:-redis://redis:6379/0}
       LLM_MODE: ${LLM_MODE:-api}
       LLM_SUBSCRIPTION: ${LLM_SUBSCRIPTION:-}
       LLM_MODEL: ${LLM_MODEL:-openai/gpt-4o-mini}
@@ -20,24 +65,33 @@ services:
       # /explain: local Ollama only (separate from LLM_MODEL, which /chat uses)
       EXPLAIN_MODEL: ${EXPLAIN_MODEL:-ollama_chat/qwen3:8b}
       OLLAMA_URL: ${OLLAMA_URL:-http://host.docker.internal:11434}
+      # spark_jobs: Parquet lake path and Spark driver memory
+      LAKE_DIR: /data/lake
+      SPARK_DRIVER_MEMORY: ${SPARK_DRIVER_MEMORY:-2g}
     extra_hosts:
       # Lets Linux Docker resolve host.docker.internal (Docker Desktop already does)
       - "host.docker.internal:host-gateway"
     ports:
       - "8000:8000"
+      # Spark UI while spark_jobs runs
+      - "${SPARK_UI_PORT:-4041}:4040"
     volumes:
+      # Drop graduate-catalog-YYYY-YYYY.zip next to the undergraduate zip to
+      # load both catalogs.
       - ${CATALOG_DATASET_DIR:-./data/_datasets/uncc-courses/catalog/dataset}:/data/dataset:ro
       - ./data/_datasets/onet:/data/onet:ro
       - ./data/catalog_out:/data/out
       - ./data/uncc-courses/syllabi:/data/syllabi:ro
+      # Parquet tables written by spark_jobs
+      - ./data/lake:/data/lake
       - ${CLAUDE_HOME:-${HOME}/.claude}:/opt/claude:ro
       - ${CODEX_HOME:-${HOME}/.codex}:/opt/codex
       - ${GITHUB_COPILOT_TOKEN_DIR:-./data/copilot-token}:/opt/copilot-token
 
   frontend:
     build:
-      context: .
-      dockerfile: frontend/Dockerfile
+      context: ./frontend
+      dockerfile: Dockerfile
     environment:
       BACKEND_URL: http://backend:8000
       # explain = cited answers via /explain (local Ollama); chat = syllabus chat via /chat
@@ -47,3 +101,5 @@ services:
     volumes:
       - ./frontend/src:/app
 
+volumes:
+  pgdata:

@@ -11,18 +11,30 @@ from typing import List, Optional, Tuple, Union
 import pdfplumber
 
 
+# Undergraduate rows print a bare credit number ("A 4 Fall 2025"). Registered
+# rows print parentheses ("*REG (4) Fall 2026"). Numbers may be a lab ("2120L")
+# or a transfer placeholder ("1ELE").
+_COURSE_NUM = r"(?:\d{4}[A-Z]?|\dELE)"
+_GRADE = r"(?:\*[A-Z]+|T[A-F][+-]?|TP|[A-F][+-]?|S|P|CR|TR)"
 _COURSE_RE = re.compile(
-    r"\b([A-Z]{2,5})\s+(\d{4})\s+"
-    r"((?:(?![A-Z]{2,5}\s+\d{4}\b)(?!Still needed\b).)+?)\s+"
-    r"(\*[A-Z]+|[A-F][+-]?|S|P|CR|TR)\s+"
-    r"\((\d+(?:\.\d+)?)\)\s+"
-    r"((?:Fall|Spring|Summer|Winter)\s+\d{4})"
+    rf"\b([A-Z]{{2,5}})\s+({_COURSE_NUM})\s+"
+    rf"((?:(?![A-Z]{{2,5}}\s+{_COURSE_NUM}\b)(?!Still needed\b).)+?)\s+"
+    rf"({_GRADE})\s+"
+    rf"\(?(\d+(?:\.\d+)?)\)?\s+"
+    rf"((?:Fall|Spring|Summer|Winter)\s+\d{{4}})"
 )
 _REQ_KIND = re.compile(r"\b(?:Classes in|Class in|Credits in)\b")
 _CODE_TOKEN = re.compile(r"[A-Z]{2,5}|@|\d{4}")
 _IN_PROGRESS = {"*IP", "IP"}
-_PREREGISTERED = {"*REG", "REG", "*PR", "PR"}
-_COMPLETED = re.compile(r"[A-F][+-]?|S|P|CR|TR")
+_PREREGISTERED = {"*PR", "PR"}
+# DegreeWorks prints *REG for both. The audit legend splits them by term:
+# registered in the current term is in progress; a later term is preregistered.
+_REGISTERED = {"*REG", "REG"}
+_COMPLETED = re.compile(r"T[A-F][+-]?|TP|[A-F][+-]?|S|P|CR|TR")
+_TERM = re.compile(r"(Fall|Spring|Summer|Winter)\s+(\d{4})")
+_AUDIT_DATE = re.compile(r"(\d{1,2})/\d{1,2}/(\d{4})")
+# Winter, then Spring, Summer, Fall. A date has no winter term of its own.
+_SEASON = {"Winter": 0, "Spring": 1, "Summer": 2, "Fall": 3}
 
 
 @dataclass
@@ -79,7 +91,9 @@ def parse_audit(source: Union[str, Path, bytes]) -> Audit:
     flat = _flatten(raw)
     header = _header(flat)
     credits_required, credits_applied = _credits(flat)
-    completed, in_progress, preregistered = _classify(_courses(flat))
+    completed, in_progress, preregistered = _classify(
+        _courses(flat), header["audit_date"]
+    )
     return Audit(
         degree=header["degree"],
         audit_date=header["audit_date"],
@@ -186,8 +200,45 @@ def _courses(flat: str) -> List[Course]:
     return found
 
 
+def _term_key(term: str) -> Optional[Tuple[int, int]]:
+    """(year, season) so a later term compares greater than an earlier one."""
+    match = _TERM.fullmatch(term.strip())
+    if match is None:
+        return None
+    return int(match.group(2)), _SEASON[match.group(1)]
+
+
+def _audit_term(audit_date: str) -> Optional[Tuple[int, int]]:
+    """Term that contains the audit date. That term is the current term.
+
+    January through April is Spring, May through July is Summer, and August
+    through December is Fall.
+    """
+    match = _AUDIT_DATE.search(audit_date)
+    if match is None:
+        return None
+    month = int(match.group(1))
+    year = int(match.group(2))
+    if month <= 4:
+        season = _SEASON["Spring"]
+    elif month <= 7:
+        season = _SEASON["Summer"]
+    else:
+        season = _SEASON["Fall"]
+    return year, season
+
+
+def _is_future_term(term: str, audit_date: str) -> bool:
+    course_term = _term_key(term)
+    current_term = _audit_term(audit_date)
+    if course_term is None or current_term is None:
+        return False
+    return course_term > current_term
+
+
 def _classify(
     courses: List[Course],
+    audit_date: str,
 ) -> Tuple[List[Course], List[Course], List[Course]]:
     completed: List[Course] = []
     in_progress: List[Course] = []
@@ -198,6 +249,11 @@ def _classify(
             in_progress.append(course)
         elif grade in _PREREGISTERED:
             preregistered.append(course)
+        elif grade in _REGISTERED:
+            if _is_future_term(course.term, audit_date):
+                preregistered.append(course)
+            else:
+                in_progress.append(course)
         elif _COMPLETED.fullmatch(grade):
             completed.append(course)
     return completed, in_progress, preregistered

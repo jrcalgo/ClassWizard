@@ -56,6 +56,23 @@ def encode(texts: Sequence[str], batch_size: int = 64) -> list[list[float]]:
     return vectors.tolist()
 
 
+def triple_embed_text(subject: str, predicate: str, obj: str, evidence: str = "") -> str:
+    """Text embedded for one syllabus_triples row.
+
+    "subject predicate object", plus the evidence sentence when it says more.
+    The loader (postgres.py) and the offline export (embed_triples.py) both
+    call this, so a row embeds the same way on either path.
+    """
+    subject = (subject or "").strip()
+    predicate = (predicate or "").strip().replace("_", " ")
+    obj = (obj or "").strip()
+    evidence = (evidence or "").strip()
+    sentence = f"{subject} {predicate} {obj}"
+    if evidence and evidence.lower() != sentence.lower():
+        return f"{sentence}. {evidence}"
+    return sentence
+
+
 def to_pgvector(vector: Sequence[float]) -> str:
     """Format a vector as pgvector's text input, e.g. '[0.1,-0.2,...]'."""
     return "[" + ",".join(repr(float(x)) for x in vector) + "]"
