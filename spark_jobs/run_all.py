@@ -1,13 +1,17 @@
 """Run the Spark pipeline: Bronze, Silver, Gold, Spark SQL, ALS, publish.
 
-Run inside the backend container, saving the output for the report:
+The backend runs it in the background on boot whenever the scores are missing
+or older than the loaded data (see backend/start.sh). To run it by hand:
     docker compose exec backend sh -c "python3 -m spark_jobs.run_all | tee /data/lake/sprint4_results.txt"
 
 Run only some steps:
     docker compose exec backend python3 -m spark_jobs.run_all --steps gold,queries
+
+--check exits 0 when a run is needed and 1 when the scores are current.
 """
 
 import argparse
+import sys
 import time
 
 from spark_jobs import bronze, gold, model, publish, queries, silver
@@ -33,7 +37,13 @@ STEPS = {
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--steps", default=",".join(STEPS), help="comma-separated: " + ", ".join(STEPS))
-    chosen = parser.parse_args().steps.split(",")
+    parser.add_argument("--check", action="store_true", help="exit 0 if a run is needed, 1 if scores are current")
+    args = parser.parse_args()
+    if args.check:
+        current = publish.is_current()
+        print("spark scores are current" if current else "spark scores missing or out of date")
+        sys.exit(1 if current else 0)
+    chosen = args.steps.split(",")
 
     spark = get_spark()
     print("Spark session started.")

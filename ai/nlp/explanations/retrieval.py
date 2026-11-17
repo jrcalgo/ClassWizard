@@ -8,7 +8,8 @@ spec. Evidence comes from two kinds of lookups:
                    career descriptions, top O*NET skills and technologies
   by meaning:      the question is embedded with the shared encoder and
                    compared with the recommended courses (to pick which ones
-                   the question is about) and with the whole catalog (for
+                   the question is about), with syllabus summaries and
+                   learning objectives, and with the whole catalog (for
                    open questions such as "is there an elective on ML?")
 
 Every item is {"id", "kind", "text"}. The id is what the answer must cite:
@@ -29,8 +30,12 @@ from ai.recommendations.ranking import CATALOG, candidate_courses, satisfied_cod
 
 MAX_ITEMS = 10          # cap on evidence items per answer (prompt budget)
 FOCUS_COURSES = 3       # recommended courses kept, chosen by closeness to the question
+MIN_FOCUS_SIMILARITY = 0.35  # a recommended course less related than this is left out
 OPEN_SEARCH = 2         # extra catalog courses found by searching the question
 MIN_OPEN_SIMILARITY = 0.30  # below this an open-search hit is noise, not evidence
+SYLLABUS_SEARCH = 3     # courses found through their syllabus text and objectives
+MIN_SYLLABUS_SIMILARITY = 0.35
+OBJECTIVES_PER_COURSE = 3
 MAX_TEXT = 600          # characters kept from a long description
 
 # Course codes as students type them: "ITSC 3160", "itsc3160", "ECGR 2112L".
@@ -182,6 +187,62 @@ def _ranked_by_question(conn, vector: str, codes: list[str], catalog: str) -> li
     ).fetchall()
 
 
+def _syllabus_search(conn, vector: str, level: str, exclude: set[str], limit: int) -> list[tuple[str, float]]:
+    """Courses whose syllabus summary or objectives are closest to the question."""
+    rows = conn.execute(
+        """
+        SELECT metadata->>'code', max(1 - (embedding <=> %s::vector)) AS similarity
+        FROM text_chunks
+        WHERE source_type IN ('syllabus_course', 'syllabus_objective') AND embedding IS NOT NULL
+          AND metadata->>'level' = %s
+        GROUP BY 1
+        ORDER BY similarity DESC
+        LIMIT %s
+        """,
+        (vector, level, limit + len(exclude) + 10),
+    ).fetchall()
+    hits = [(code, sim) for code, sim in rows if code not in exclude and sim >= MIN_SYLLABUS_SIMILARITY]
+    return hits[:limit]
+
+
+def _syllabus_rows(conn, codes: list[str]) -> dict[str, tuple]:
+    if not codes:
+        return {}
+    rows = conn.execute(
+        "SELECT course_code, title, description FROM syllabus_courses WHERE course_code = ANY(%s)",
+        (codes,),
+    ).fetchall()
+    return {row[0]: row[1:] for row in rows}
+
+
+def _objectives(conn, vector: str, codes: list[str]) -> dict[str, list[str]]:
+    """Each course's syllabus objectives, closest to the question first."""
+    found: dict[str, list[str]] = {}
+    if not codes:
+        return found
+    for code, text in conn.execute(
+        """
+        SELECT o.course_code, o.text
+        FROM syllabus_objectives o
+        JOIN text_chunks t ON t.source_type = 'syllabus_objective'
+         AND t.source_key = o.course_code || '#' || o.objective_id
+        WHERE o.course_code = ANY(%s) AND t.embedding IS NOT NULL
+        ORDER BY o.course_code, t.embedding <=> %s::vector
+        """,
+        (codes, vector),
+    ).fetchall():
+        found.setdefault(code, [])
+        if len(found[code]) < OBJECTIVES_PER_COURSE:
+            found[code].append(_clip(text))
+    return found
+
+
+def _with_objectives(item: dict, objectives: list[str]) -> dict:
+    if objectives:
+        item["text"] += " Syllabus learning objectives: " + "; ".join(objectives) + "."
+    return item
+
+
 def _open_search(conn, vector: str, exclude: set[str], limit: int, catalog: str) -> list[tuple[str, float]]:
     """Search the student's catalog, over-fetching so excluded courses don't empty the list (D4)."""
     rows = conn.execute(
@@ -230,16 +291,24 @@ def retrieve_evidence(
             ).fetchall()
         }
         named = [code for code in named if code.split()[0] in subjects]
-    # 2. Recommended courses closest to the question.
-    focus = [code for code, _ in _ranked_by_question(conn, vector, list(recommended), catalog)]
-    focus = [code for code in focus if code not in named][:FOCUS_COURSES]
-    # 3. Catalog courses matching an open question, never already-taken ones.
+    # 2. Recommended courses that are actually related to the question.
+    focus = [
+        code for code, sim in _ranked_by_question(conn, vector, list(recommended), catalog)
+        if code not in named and sim >= MIN_FOCUS_SIMILARITY
+    ][:FOCUS_COURSES]
+    # 3. Courses matching the question through their syllabus, then the catalog,
+    #    never already-taken ones.
     exclude = set(named) | set(focus) | taken_codes(audit)
-    found = _open_search(conn, vector, exclude, OPEN_SEARCH, catalog)
+    level = "graduate" if catalog.startswith("Graduate") else "undergraduate"
+    by_syllabus = _syllabus_search(conn, vector, level, exclude, SYLLABUS_SEARCH)
+    found = _open_search(conn, vector, exclude | {code for code, _ in by_syllabus}, OPEN_SEARCH, catalog)
+    matched = [code for code, _ in by_syllabus] + [code for code, _ in found]
 
-    wanted = named + focus + [code for code, _ in found]
+    wanted = named + matched + focus
     rows = _course_rows(conn, wanted, catalog)
     prereqs = _prerequisites(conn, wanted, catalog)
+    syllabi = _syllabus_rows(conn, wanted)
+    objectives = _objectives(conn, vector, wanted)
 
     items: list[dict] = []
     for code in named:
@@ -253,30 +322,39 @@ def retrieve_evidence(
             )
             continue
         rec = recommended.get(code, {})
-        items.append(
+        items.append(_with_objectives(
             _course_item(
                 code, rows[code], audit, blocks_by_code.get(code, []), prereqs.get(code, []),
                 rec.get("similarity_by_occupation", {}), titles, None,
-            )
+            ),
+            objectives.get(code, []),
+        ))
+    for code in matched:
+        origin = "Matches the question" + (
+            "; part of the student's remaining requirements." if code in blocks_by_code
+            else "; not part of the student's listed remaining requirements."
         )
+        if code in rows:
+            item = _course_item(
+                code, rows[code], audit, blocks_by_code.get(code, []), prereqs.get(code, []),
+                recommended.get(code, {}).get("similarity_by_occupation", {}), titles, origin,
+            )
+        elif code in syllabi:
+            title, description = syllabi[code]
+            item = {"id": code, "kind": "course",
+                    "text": f"{code} {title or ''}. {_clip(description)} {origin}".replace(" . ", ". ")}
+        else:
+            continue
+        items.append(_with_objectives(item, objectives.get(code, [])))
     for code in focus:
         rec = recommended[code]
-        items.append(
+        items.append(_with_objectives(
             _course_item(
                 code, rows[code], audit, rec.get("requirement_blocks", []), prereqs.get(code, []),
                 rec.get("similarity_by_occupation", {}), titles,
                 f"Recommended for the student's chosen careers (rank {list(recommended).index(code) + 1}).",
-            )
-        )
+            ),
+            objectives.get(code, []),
+        ))
     items.extend(_career_items(conn, soc_codes))
-    for code, _ in found:
-        if code in rows:
-            items.append(
-                _course_item(
-                    code, rows[code], audit, blocks_by_code.get(code, []), prereqs.get(code, []),
-                    {}, titles,
-                    "Found by searching the catalog for the question; not part of the "
-                    "student's listed remaining requirements.",
-                )
-            )
     return items[:MAX_ITEMS]

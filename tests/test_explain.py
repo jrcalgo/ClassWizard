@@ -75,6 +75,27 @@ def test_prompt_holds_evidence_ids_and_no_student_identifiers():
     assert NOT_FOUND in messages[0]["content"]
 
 
-def test_generate_refuses_non_local_models():
+def test_generate_refuses_non_local_models(monkeypatch):
+    monkeypatch.delenv("EXPLAIN_ALLOW_REMOTE", raising=False)
     with pytest.raises(ValueError):
         generate([{"role": "user", "content": "hi"}], model="gpt-4o")
+
+
+def test_generate_allows_hosted_model_when_opted_in(monkeypatch):
+    calls = {}
+
+    class FakeLiteLLM:
+        @staticmethod
+        def completion(**kwargs):
+            calls.update(kwargs)
+            message = type("M", (), {"content": "answer [ITSC 3160]"})
+            choice = type("C", (), {"message": message})
+            return type("R", (), {"choices": [choice]})
+
+    monkeypatch.setitem(__import__("sys").modules, "litellm", FakeLiteLLM)
+    monkeypatch.setenv("EXPLAIN_ALLOW_REMOTE", "1")
+    monkeypatch.setenv("LLM_API_KEY", "test-key")
+    model = "openrouter/meta-llama/llama-3.1-70b-instruct"
+    assert generate([{"role": "user", "content": "hi"}], model=model) == "answer [ITSC 3160]"
+    assert calls["model"] == model and calls["api_key"] == "test-key"
+    assert "api_base" not in calls  # the Ollama URL is only used for Ollama models

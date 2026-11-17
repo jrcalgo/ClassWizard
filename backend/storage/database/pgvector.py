@@ -73,6 +73,7 @@ def search_syllabus_triples(
     top_k: int = 5,
     predicate: Optional[str] = None,
     filename: Optional[str] = None,
+    level: Optional[str] = None,
 ) -> list[dict[str, Any]]:
     """Search syllabus_triples using cosine distance with pgvector.
 
@@ -88,6 +89,8 @@ def search_syllabus_triples(
         Filter by predicate, e.g. 'covers', 'prerequisite_for', 'has_objective'.
     filename : str, optional
         Filter by source PDF filename.
+    level : str, optional
+        'undergraduate' (course numbers below 5000) or 'graduate', read from the filename.
     """
     vec_str = str(query_vector) if isinstance(query_vector, list) else query_vector
     conditions = ["embedding IS NOT NULL"]
@@ -99,6 +102,9 @@ def search_syllabus_triples(
     if filename:
         conditions.append("filename = %s")
         params.append(filename)
+    if level in ("undergraduate", "graduate"):
+        conditions.append("filename ~ %s")
+        params.append(r"_[0-4]\d{3}" if level == "undergraduate" else r"_[5-9]\d{3}")
 
     where_clause = " AND ".join(conditions)
     params.extend([vec_str, top_k])

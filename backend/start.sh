@@ -45,4 +45,12 @@ PY
 
 cd /app
 python3 -m backend.storage.database.postgres
+
+# Spark pipeline: runs in the background on first boot and whenever its input
+# data changed, so the API starts right away. Output also goes to the lake.
+if python3 -m spark_jobs.run_all --check; then
+  mkdir -p "${LAKE_DIR:-/data/lake}"
+  (python3 -m spark_jobs.run_all 2>&1 | tee "${LAKE_DIR:-/data/lake}/sprint4_results.txt") &
+fi
+
 exec uvicorn backend.main:app --host 0.0.0.0 --port 8000

@@ -16,6 +16,7 @@ BACKEND_URL = os.environ.get("BACKEND_URL", "http://127.0.0.1:8000")
 # "chat": chat answers come from /chat (syllabus triples, LLM_MODEL provider).
 CHAT_MODE = os.environ.get("CHAT_MODE", "explain").strip().lower()
 RECOMMEND_LIMIT = 10
+FALLBACK_SOURCES = 3  # sources shown when the model's answer is unavailable
 
 CURRENT_COURSES = ["ITSC 1212", "STAT 1220", "WRDS 1103"]
 NEEDED_COURSES = ["ITSC 3160", "STAT 2122", "COMM 2100"]
@@ -237,8 +238,11 @@ def _explain_message(prefs: dict, prompt: str) -> dict:
         if exc.status == 503 and exc.body.get("evidence"):
             return {
                 "role": "assistant",
-                "content": "The language model is unavailable, so here are the facts found for your question.",
-                "sources": exc.body["evidence"],
+                "content": (
+                    "The language model is unavailable (start Ollama, or set EXPLAIN_MODEL in .env), "
+                    "so here are the facts that best match your question."
+                ),
+                "sources": exc.body["evidence"][:FALLBACK_SOURCES],
             }
         if str(exc) == "timed out":
             return {"role": "assistant", "content": "The reply timed out."}
@@ -249,9 +253,9 @@ def _explain_message(prefs: dict, prompt: str) -> dict:
     if not payload.get("grounded", False):
         content = (
             "This answer could not be checked against its sources, so here are the "
-            "facts found for your question instead."
+            "facts that best match your question instead."
         )
-        cited = list(evidence.values())
+        cited = list(evidence.values())[:FALLBACK_SOURCES]
     return {"role": "assistant", "content": content, "sources": cited}
 
 

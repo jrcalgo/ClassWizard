@@ -44,6 +44,9 @@ SCHEMA_SQL = Path(__file__).resolve().parents[2] / "schema.sql"
 SYLLABI_RELEASE = "v3"
 SYLLABI_DIR = Path(os.environ.get("SYLLABI_DIR", "/data/syllabi"))
 SYLLABI_CSV = "valid_triples_for_postgres.csv"
+SYLLABUS_RECORDS_ZIP = Path(
+    os.environ.get("SYLLABUS_RECORDS_ZIP", "/data/syllabus_records/syllabus-records.zip")
+)
 
 
 @dataclass(frozen=True)
@@ -99,6 +102,10 @@ def main() -> None:
             load_syllabi(conn)
         except psycopg.Error as exc:
             print(f"syllabi load failed, continuing without triples: {exc}", file=sys.stderr)
+        try:
+            load_syllabus_records(conn)
+        except (psycopg.Error, OSError, zipfile.BadZipFile) as exc:
+            print(f"syllabus records load failed, continuing without them: {exc}", file=sys.stderr)
         # Embeddings power semantic search, but relational queries (courses,
         # prerequisites, programs, O*NET) still work without them. A failure
         # here is reported loudly and the API still starts; the next boot
@@ -716,6 +723,56 @@ def load_syllabi(conn) -> None:
     print(f"loaded syllabi {SYLLABI_RELEASE}: {len(rows)} triples (vectors pending)")
 
 
+def load_syllabus_records(conn) -> None:
+    """Structured syllabus records: courses, units, concepts, objectives.
+
+    Reloaded when the zip's SHA-256 changes. Their text chunks are embedded
+    afterwards by embed_text_chunks.
+    """
+    if not SYLLABUS_RECORDS_ZIP.is_file():
+        print(f"{SYLLABUS_RECORDS_ZIP.name} not found, skipping syllabus records")
+        return
+    digest = file_fingerprint(SYLLABUS_RECORDS_ZIP)
+    if already_loaded(conn, "syllabus_records", digest):
+        print(f"syllabus records unchanged ({digest[:12]})")
+        return
+    from backend.storage.database.syllabus_records import read_zip
+
+    records = read_zip(SYLLABUS_RECORDS_ZIP)
+    rows = {key: [row for r in records for row in r[key]]
+            for key in ("units", "concepts", "objectives", "prerequisites", "chunks")}
+    with conn.transaction():
+        conn.execute(
+            "DELETE FROM text_chunks WHERE source_type IN ('syllabus_course', 'syllabus_objective')"
+        )
+        for table in ("syllabus_prerequisites", "syllabus_objectives", "syllabus_concepts",
+                      "syllabus_units", "syllabus_courses"):
+            conn.execute(f"DELETE FROM {table}")
+        copy_rows(
+            conn,
+            """
+            COPY syllabus_courses (course_code, title, description, level, prerequisites,
+                                   cross_listed, source_file) FROM STDIN
+            """,
+            [r["course"] for r in records],
+        )
+        copy_rows(conn, "COPY syllabus_units (course_code, unit_number, title, inferred) FROM STDIN",
+                  rows["units"])
+        copy_rows(conn, "COPY syllabus_concepts (course_code, unit_number, label) FROM STDIN",
+                  rows["concepts"])
+        copy_rows(conn, "COPY syllabus_objectives (course_code, objective_id, text, bloom) FROM STDIN",
+                  rows["objectives"])
+        copy_rows(conn, "COPY syllabus_prerequisites (course_code, target_code) FROM STDIN",
+                  rows["prerequisites"])
+        copy_rows(conn, "COPY text_chunks (source_type, source_key, chunk_text, metadata) FROM STDIN",
+                  rows["chunks"])
+        replace_ingest_run(conn, "syllabus_records", digest)
+    print(
+        f"loaded syllabus records: {len(records)} courses, {len(rows['units'])} units, "
+        f"{len(rows['objectives'])} objectives (vectors pending)"
+    )
+
+
 EMBED_BATCH_SIZE = 256
 
 
@@ -805,6 +862,8 @@ def print_counts(conn) -> None:
         "skill_terms",
         "text_chunks",
         "syllabus_triples",
+        "syllabus_courses",
+        "syllabus_objectives",
         "course_career_scores",
     )
     for table in tables:
