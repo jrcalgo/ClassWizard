@@ -21,7 +21,9 @@ The API is at http://127.0.0.1:8000/health. The Streamlit page is at http://127.
 
 The first boot unzips every catalog zip in `data/_datasets/uncc-courses/catalog/dataset/`, builds catalog JSON, and loads PostgreSQL. Zips are named `undergraduate-catalog-YYYY-YYYY.zip` and `graduate-catalog-YYYY-YYYY.zip`; each becomes its own catalog (`Undergraduate 2026-2027`, `Graduate 2026-2027`), and each DegreeWorks audit is ranked against the catalog for its level. Only the undergraduate zip is in the repo today, so graduate audits get a "Graduate 2026-2027 catalog is not loaded yet" message until a graduate zip is added. The directory inside that zip is spelled `undegraduate-catalog-2026-2027` (missing an r). Extracted PDFs and JSON stay in `data/catalog_out` and are not committed.
 
-The first boot also embeds the syllabus triples from `data/uncc-courses/syllabi/valid_triples_for_postgres.csv`, which takes a few minutes on CPU.
+The first boot also embeds the syllabus triples from `data/uncc-courses/syllabi/valid_triples_for_postgres.csv` and loads the structured syllabus records from `data/_datasets/uncc-courses/syllabi/syllabus-records.zip` (course summaries, units, concepts, and learning objectives). Embedding both takes several minutes on CPU, and the whole first boot can take 15-20 minutes. The syllabus records reload when the zip's SHA-256 changes.
+
+After loading, the backend starts the Spark pipeline in the background (see below), so the API is usable right away and the career-course scores arrive about 7-10 minutes later. The frontend waits until the backend reports healthy.
 
 Postgres and Redis run in their own containers. The database is kept in the `pgdata` Docker volume: `docker compose down` keeps it, and `docker compose down -v` drops it so the next boot loads everything again. A later boot skips the catalog, O*NET, and programs when each source's SHA-256 is already stored in `ingest_runs`. Syllabi reload only when `SYLLABI_RELEASE` in `backend/storage/database/postgres.py` changes, and only rows without a vector are embedded. Redis is empty until a student uploads a PDF.
 
@@ -44,22 +46,34 @@ This keeps the database. To also drop the database, run `docker compose down -v`
 
 The chat panel answers from retrieved evidence instead of the model's memory. Questions and stored text are embedded with `all-MiniLM-L6-v2` (384 dimensions) and searched in pgvector by cosine similarity (HNSW index). `CHAT_MODE` in `.env` picks one of two paths:
 
-- `explain` (default): `/explain` retrieves catalog courses, O*NET careers, and the student's ranked recommendations, then a local Ollama model (`EXPLAIN_MODEL`) answers in at most four sentences and cites evidence IDs in brackets, such as `[ITSC 3160]`. Every citation is checked against the retrieved evidence, and the sources are shown under the answer. When the evidence does not answer the question, the reply is "not found in the data". This path needs Ollama running on the host with the model pulled.
-- `chat`: `/chat` retrieves the five closest syllabus triples and answers through the provider set by `LLM_MODE` and `LLM_MODEL`.
+- `explain` (default): `/explain` retrieves courses that match the question through their syllabus summaries, learning objectives, and catalog descriptions, plus related courses from the student's remaining requirements and the chosen careers. Then a local Ollama model (`EXPLAIN_MODEL`) answers in at most four sentences and cites evidence IDs in brackets, such as `[ITSC 3160]`. Every citation is checked against the retrieved evidence, and the sources are shown under the answer. When the evidence does not answer the question, the reply is "not found in the data". This path needs Ollama running on the host with the model pulled.
+- `chat`: `/chat` retrieves the five syllabus triples closest to the question, at the student's level, and answers through the provider set by `LLM_MODE` and `LLM_MODEL`.
+
+### Optional: hosted model (OpenRouter)
+
+By default `/explain` only uses a local Ollama model. To use a hosted model for both modes instead, set these in `.env` and restart with `docker compose up -d`:
+
+```bash
+LLM_MODEL=openrouter/meta-llama/llama-3.1-70b-instruct
+LLM_API_KEY=<your OpenRouter key>
+EXPLAIN_MODEL=openrouter/meta-llama/llama-3.1-70b-instruct
+EXPLAIN_ALLOW_REMOTE=1
+```
+
+Prompts then leave your machine. Setting `EXPLAIN_ALLOW_REMOTE=0` returns `/explain` to Ollama only.
 
 Student names, IDs, and advisor names are removed when the DegreeWorks PDF is parsed, so they never reach either model.
 
 
 ## Spark pipeline (ALS recommender)
 
-`spark_jobs/` is a batch job that rates how well every course fits every career, then trains a Spark MLlib ALS recommender on those ratings. It runs inside the backend container, so start the app first.
+`spark_jobs/` is a batch job that rates how well every course fits every career, then trains a Spark MLlib ALS recommender on those ratings. The backend runs it automatically in the background on the first boot, and again on any boot after the catalog, O*NET, or syllabi change. A full run takes about 7-10 minutes; follow it with `docker compose logs -f backend`. While it runs, the Spark UI is available at http://localhost:4041.
+
+To run it again by hand:
 
 ```bash
-docker compose up -d
 docker compose exec backend sh -c "python3 -m spark_jobs.run_all | tee /data/lake/sprint4_results.txt"
 ```
-
-A full run takes about 7 minutes. While it runs, the Spark UI is available at http://localhost:4041.
 
 | Step | What it does |
 |:--|:--|
@@ -70,11 +84,11 @@ A full run takes about 7 minutes. While it runs, the Spark UI is available at ht
 | model | Trains ALS (80/20 split, tuned on a validation split) and prints test RMSE next to two baselines |
 | publish | Writes a score for every pair to the Postgres table `course_career_scores` |
 
-Tables are written to `data/lake/sprint4_results.txt` (git-ignored).
+Tables are written to `data/lake/` and the printed results to `data/lake/sprint4_results.txt` (both git-ignored).
 
 ### Testing the Spark jobs
 
-Check the scores in Postgres:
+Once the run has finished, check the scores in Postgres:
 
 ```bash
 docker compose exec backend psql -h postgres -U classwizard -d classwizard -c "SELECT course_code, als_score FROM course_career_scores WHERE soc_code = '13-2011.00' ORDER BY als_score DESC LIMIT 5;"
@@ -95,10 +109,6 @@ spark.sql("""
     ORDER BY r.rating DESC LIMIT 10
 """).show(truncate=False)
 ```
-
-## Restore the database
-
-See [database_dump/README.MD](database_dump/README.MD). 
 
 ## catalog-scrape start
 

@@ -131,6 +131,10 @@ data/copilot-token/
 !data/uncc-courses/syllabi/
 !data/uncc-courses/syllabi/*.csv
 !data/uncc-courses/syllabi/*.json
+# Structured syllabus records loaded on first boot
+!data/_datasets/uncc-courses/
+data/_datasets/uncc-courses/*
+!data/_datasets/uncc-courses/syllabi/
 # Generated: embeddings are made by the backend on first boot, and the
 # offline export from embed_triples.py runs to hundreds of MB.
 data/uncc-courses/syllabi/valid_triples_with_embeddings.json

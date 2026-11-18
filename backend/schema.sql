@@ -171,3 +171,50 @@ CREATE TABLE IF NOT EXISTS course_career_scores (
   hybrid_rating real NOT NULL,
   PRIMARY KEY (soc_code, course_code)
 );
+
+
+-- Structured syllabus records (data/_datasets/uncc-courses/syllabi/syllabus-records.zip),
+-- one per syllabus file. Units and concepts may be LLM-inferred (inferred = true).
+-- Course and objective text is also embedded in text_chunks
+-- (source_type 'syllabus_course' and 'syllabus_objective').
+CREATE TABLE IF NOT EXISTS syllabus_courses (
+  course_code text PRIMARY KEY,
+  title text,
+  description text,
+  level text NOT NULL,
+  prerequisites text,
+  cross_listed text[] NOT NULL DEFAULT '{}',
+  source_file text NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS syllabus_units (
+  course_code text NOT NULL,
+  unit_number integer NOT NULL,
+  title text NOT NULL,
+  inferred boolean NOT NULL,
+  PRIMARY KEY (course_code, unit_number)
+);
+
+CREATE TABLE IF NOT EXISTS syllabus_concepts (
+  course_code text NOT NULL,
+  unit_number integer NOT NULL,
+  label text NOT NULL
+);
+
+CREATE INDEX IF NOT EXISTS syllabus_concepts_course_idx
+  ON syllabus_concepts (course_code);
+
+CREATE TABLE IF NOT EXISTS syllabus_objectives (
+  course_code text NOT NULL,
+  objective_id text NOT NULL,
+  text text NOT NULL,
+  bloom text,
+  PRIMARY KEY (course_code, objective_id)
+);
+
+-- Course codes named in a syllabus's prerequisite text.
+CREATE TABLE IF NOT EXISTS syllabus_prerequisites (
+  course_code text NOT NULL,
+  target_code text NOT NULL,
+  PRIMARY KEY (course_code, target_code)
+);

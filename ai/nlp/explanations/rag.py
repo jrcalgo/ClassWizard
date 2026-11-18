@@ -10,11 +10,13 @@ in square brackets; check_citations() then verifies every cited ID exists.
 Generation goes through LiteLLM to a local Ollama server. Only model names
 starting with "ollama/" or "ollama_chat/" are accepted, so a configuration
 change cannot silently send prompts to a hosted service (FERPA guard).
+EXPLAIN_ALLOW_REMOTE=1 lifts the guard on purpose, for a hosted model.
 
 Configuration (environment variables):
-  EXPLAIN_MODEL    default "ollama_chat/qwen3:8b"
-  OLLAMA_URL       default "http://host.docker.internal:11434"
-  EXPLAIN_TIMEOUT  default 90 (seconds)
+  EXPLAIN_MODEL         default "ollama_chat/qwen3:8b"
+  OLLAMA_URL            default "http://host.docker.internal:11434"
+  EXPLAIN_TIMEOUT       default 90 (seconds)
+  EXPLAIN_ALLOW_REMOTE  default off; 1 allows a hosted EXPLAIN_MODEL (key in LLM_API_KEY)
 These do not reuse LLM_MODEL: that variable belongs to /chat (llm.py), whose
 default is a hosted model this module refuses.
 """
@@ -73,19 +75,33 @@ def strip_thinking(text: str) -> str:
     return _THINK.sub("", text or "").strip()
 
 
+def remote_allowed() -> bool:
+    """EXPLAIN_ALLOW_REMOTE=1 lets /explain use a hosted model (off by default)."""
+    return os.environ.get("EXPLAIN_ALLOW_REMOTE", "").strip().lower() in ("1", "true", "yes")
+
+
 def generate(messages: list[dict], model: str | None = None) -> str:
-    """Call the local model through LiteLLM and return the answer text."""
+    """Call the model through LiteLLM and return the answer text.
+
+    Ollama models are called at OLLAMA_URL. A hosted model, such as
+    openrouter/meta-llama/llama-3.1-70b-instruct, is used only when
+    EXPLAIN_ALLOW_REMOTE=1, with the key in LLM_API_KEY.
+    """
     model = model or model_name()
-    if not model.startswith(LOCAL_PREFIXES):
+    local = model.startswith(LOCAL_PREFIXES)
+    if not local and not remote_allowed():
         raise ValueError(f"refusing non-local model {model!r}: only Ollama models are allowed")
     import litellm  # imported here: loading it is slow and only /explain needs it
 
+    extra = {"api_base": os.environ.get("OLLAMA_URL", DEFAULT_OLLAMA_URL)} if local else {}
+    if not local and os.environ.get("LLM_API_KEY", "").strip():
+        extra["api_key"] = os.environ["LLM_API_KEY"].strip()
     response = litellm.completion(
         model=model,
-        api_base=os.environ.get("OLLAMA_URL", DEFAULT_OLLAMA_URL),
         messages=messages,
         temperature=0.1,
         timeout=int(os.environ.get("EXPLAIN_TIMEOUT", DEFAULT_TIMEOUT)),
+        **extra,
     )
     return strip_thinking(response.choices[0].message.content)
 

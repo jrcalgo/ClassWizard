@@ -12,7 +12,7 @@ from pydantic import BaseModel, Field
 from ai.nlp.explanations.llm import explain
 from ai.nlp.explanations.rag import build_messages, check_citations, generate, model_name, student_context
 from ai.nlp.explanations.retrieval import retrieve_evidence
-from ai.recommendations.ranking import MissingVectors, UnsupportedAudit, recommend
+from ai.recommendations.ranking import MissingVectors, UnsupportedAudit, audit_level, recommend
 from backend.storage.cache.redis import delete_audit, load_audit, ping, save_audit
 from backend.storage.database.pgvector import search_syllabus_triples
 from data.degreeworks.parser import parse_audit
@@ -291,22 +291,14 @@ class ChatRequest(BaseModel):
     prefs: dict = Field(default_factory=dict)
 
 
-def _search_text(question: str, audit: dict) -> str:
-    parts = [question.strip()]
-    for item in audit.get("courses_not_taken") or []:
-        block = (item.get("block") or "").strip()
-        text = (item.get("text") or "").strip()
-        if block or text:
-            parts.append(f"{block}: {text}".strip())
-    return "\n".join(part for part in parts if part)
-
-
 def _retrieve(question: str, audit: dict) -> list[dict]:
+    # Search with the question alone; the audit still reaches the model in the prompt.
     if _ENCODER is None:
         raise RuntimeError("encoder not loaded")
-    vector = _ENCODER.encode(_search_text(question, audit)).tolist()
+    vector = _ENCODER.encode(question.strip()).tolist()
     with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
-        return search_syllabus_triples(conn, vector, top_k=5)
+        level = (audit_level(audit) or "").lower() or None
+        return search_syllabus_triples(conn, vector, top_k=5, level=level)
 
 
 @app.post("/chat")
