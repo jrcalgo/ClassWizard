@@ -8,7 +8,10 @@ import os
 import redis
 
 # Crash backstop only. A live page renews this, and a closed page deletes the key.
-_DEFAULT_TTL = 60
+# It must outlast the longest request the page waits on without renewing it:
+# a CPU-only /explain answer can take EXPLAIN_TIMEOUT (default 180 s), and a
+# 60 s TTL deleted the audit mid-answer. /explain also renews it afterwards.
+_DEFAULT_TTL = 600
 
 
 def _client() -> redis.Redis:

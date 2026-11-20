@@ -106,6 +106,10 @@ services:
       OLLAMA_URL: ${OLLAMA_URL:-http://ollama:11434}
       # Seconds per answer; CPU-only qwen3:8b can be slow. Keep below the frontend's 240s.
       EXPLAIN_TIMEOUT: ${EXPLAIN_TIMEOUT:-180}
+      # qwen3 "thinking" is off by default: ~5x faster on CPU, and the reasoning is discarded anyway
+      EXPLAIN_THINK: ${EXPLAIN_THINK:-false}
+      # Seconds an uploaded audit survives without the page renewing it; must exceed EXPLAIN_TIMEOUT
+      AUDIT_TTL_SECONDS: ${AUDIT_TTL_SECONDS:-600}
       # spark_jobs: Parquet lake path and Spark driver memory
       LAKE_DIR: /data/lake
       SPARK_DRIVER_MEMORY: ${SPARK_DRIVER_MEMORY:-2g}

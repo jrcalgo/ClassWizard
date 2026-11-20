@@ -17,6 +17,10 @@ Configuration (environment variables):
                    set http://host.docker.internal:11434 to use Ollama on the host
   EXPLAIN_TIMEOUT  default 180 (seconds; CPU-only generation is slow). The
                    frontend waits 240 s, so keep this below that.
+  EXPLAIN_THINK    default "false". Thinking models such as qwen3 otherwise
+                   write a long hidden reasoning pass before answering, which
+                   strip_thinking() discards anyway; on CPU that made answers
+                   about 5x slower. Set "true" to allow it.
 These do not reuse LLM_MODEL: that variable belongs to /chat (llm.py), whose
 default is a hosted model this module refuses.
 """
@@ -75,6 +79,10 @@ def strip_thinking(text: str) -> str:
     return _THINK.sub("", text or "").strip()
 
 
+def thinking_enabled() -> bool:
+    return os.environ.get("EXPLAIN_THINK", "false").strip().lower() in ("1", "true", "yes", "on")
+
+
 def generate(messages: list[dict], model: str | None = None) -> str:
     """Call the local model through LiteLLM and return the answer text."""
     model = model or model_name()
@@ -88,6 +96,8 @@ def generate(messages: list[dict], model: str | None = None) -> str:
         messages=messages,
         temperature=0.1,
         timeout=int(os.environ.get("EXPLAIN_TIMEOUT", DEFAULT_TIMEOUT)),
+        # Passed through to Ollama's /api/chat "think" option.
+        think=thinking_enabled(),
     )
     return strip_thinking(response.choices[0].message.content)
 

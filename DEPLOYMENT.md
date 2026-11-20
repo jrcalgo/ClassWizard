@@ -32,7 +32,7 @@ When it's ready, `curl http://127.0.0.1:8000/health` returns `OK`. Then open htt
 
 After changing it, run `docker compose up -d` again to pull the new model.
 
-On CPU an answer can take a minute or more. The backend gives up after `EXPLAIN_TIMEOUT` seconds (default 180, keep it below 240) and shows the retrieved facts instead.
+On CPU an answer usually takes 10-60 seconds with `qwen3:8b`. qwen3's "thinking" pass is turned off (`EXPLAIN_THINK=false`), because it made answers about 5x slower and its reasoning is discarded before the answer is shown. The backend gives up after `EXPLAIN_TIMEOUT` seconds (default 180, keep it below 240) and shows the retrieved facts instead. An uploaded audit is kept for `AUDIT_TTL_SECONDS` (default 600) after the page last touched it; keep that longer than `EXPLAIN_TIMEOUT`.
 
 ### Use an NVIDIA GPU
 

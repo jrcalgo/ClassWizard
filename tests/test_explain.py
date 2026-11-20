@@ -78,3 +78,34 @@ def test_prompt_holds_evidence_ids_and_no_student_identifiers():
 def test_generate_refuses_non_local_models():
     with pytest.raises(ValueError):
         generate([{"role": "user", "content": "hi"}], model="gpt-4o")
+
+
+def _fake_litellm(monkeypatch, content):
+    """Stand-in for litellm that records the completion() keyword arguments."""
+    import sys
+    import types
+
+    calls = []
+
+    def completion(**kwargs):
+        calls.append(kwargs)
+        message = types.SimpleNamespace(content=content)
+        return types.SimpleNamespace(choices=[types.SimpleNamespace(message=message)])
+
+    monkeypatch.setitem(sys.modules, "litellm", types.SimpleNamespace(completion=completion))
+    return calls
+
+
+def test_generate_turns_thinking_off_by_default(monkeypatch):
+    monkeypatch.delenv("EXPLAIN_THINK", raising=False)
+    calls = _fake_litellm(monkeypatch, "<think>hidden</think>It covers SQL [ITSC 3160].")
+    answer = generate([{"role": "user", "content": "hi"}], model="ollama_chat/qwen3:8b")
+    assert answer == "It covers SQL [ITSC 3160]."
+    assert calls[0]["think"] is False
+
+
+def test_generate_allows_thinking_when_enabled(monkeypatch):
+    monkeypatch.setenv("EXPLAIN_THINK", "true")
+    calls = _fake_litellm(monkeypatch, "ok")
+    generate([{"role": "user", "content": "hi"}], model="ollama_chat/qwen3:8b")
+    assert calls[0]["think"] is True

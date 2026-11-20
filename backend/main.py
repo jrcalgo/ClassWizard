@@ -214,9 +214,13 @@ def post_explain(body: ExplainRequest):
     try:
         answer = generate(messages)
     except Exception:
+        _renew_audit(token)
         return JSONResponse(
             {"detail": "language model unavailable", "evidence": evidence}, status_code=503
         )
+    # Generation can take minutes on CPU, during which the page cannot renew
+    # the audit; renew it now so the page's next refresh still finds it.
+    _renew_audit(token)
     # 5. Citation check: every cited ID must be one of the evidence IDs.
     return {
         "session_id": token,
@@ -225,6 +229,14 @@ def post_explain(body: ExplainRequest):
         "evidence": evidence,
         "model": model_name(),
     }
+
+
+def _renew_audit(token: str) -> None:
+    """Slide the audit's TTL forward. Best effort: a cache error must not lose the answer."""
+    try:
+        load_audit(token)
+    except Exception:
+        pass
 
 
 def _session_id(value: str | None) -> str | None:
