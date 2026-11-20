@@ -49,20 +49,7 @@ The chat panel answers from retrieved evidence instead of the model's memory. Qu
 - `explain` (default): `/explain` retrieves courses that match the question through their syllabus summaries, learning objectives, and catalog descriptions, plus related courses from the student's remaining requirements and the chosen careers. Then a local Ollama model (`EXPLAIN_MODEL`) answers in at most four sentences and cites evidence IDs in brackets, such as `[ITSC 3160]`. Every citation is checked against the retrieved evidence, and the sources are shown under the answer. When the evidence does not answer the question, the reply is "not found in the data". This path needs Ollama running on the host with the model pulled.
 - `chat`: `/chat` retrieves the five syllabus triples closest to the question, at the student's level, and answers through the provider set by `LLM_MODE` and `LLM_MODEL`.
 
-### Optional: hosted model (OpenRouter)
 
-By default `/explain` only uses a local Ollama model. To use a hosted model for both modes instead, set these in `.env` and restart with `docker compose up -d`:
-
-```bash
-LLM_MODEL=openrouter/meta-llama/llama-3.1-70b-instruct
-LLM_API_KEY=<your OpenRouter key>
-EXPLAIN_MODEL=openrouter/meta-llama/llama-3.1-70b-instruct
-EXPLAIN_ALLOW_REMOTE=1
-```
-
-Prompts then leave your machine. Setting `EXPLAIN_ALLOW_REMOTE=0` returns `/explain` to Ollama only.
-
-Student names, IDs, and advisor names are removed when the DegreeWorks PDF is parsed, so they never reach either model.
 
 
 ## Spark pipeline (ALS recommender)
