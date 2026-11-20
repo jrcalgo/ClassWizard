@@ -39,6 +39,37 @@ services:
       timeout: 3s
       retries: 20
 
+  # Local language model for /explain. Not published to the host: the backend
+  # reaches it at http://ollama:11434 on the compose network. Models are kept
+  # in the "ollama" volume, so the download happens only once.
+  # GPU: add -f docker-compose.gpu.yml. Already running Ollama on the host:
+  # see "Use Ollama on your own machine" in DEPLOYMENT.md.
+  ollama:
+    image: ollama/ollama:0.40.16
+    volumes:
+      - ollama:/root/.ollama
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+      start_period: 10s
+
+  # One-time job: pulls the EXPLAIN_MODEL model (prefix removed), then exits.
+  # Instant when the model is already in the volume.
+  ollama-pull:
+    image: ollama/ollama:0.40.16
+    depends_on:
+      ollama:
+        condition: service_healthy
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+      EXPLAIN_MODEL: ${EXPLAIN_MODEL:-ollama_chat/qwen3:8b}
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - 'model="$${EXPLAIN_MODEL#ollama_chat/}"; model="$${model#ollama/}"; echo "Pulling $$model"; exec ollama pull "$$model"'
+    restart: "no"
+
   backend:
     build:
       context: .
@@ -48,6 +79,13 @@ services:
         condition: service_healthy
       redis:
         condition: service_healthy
+      # Starts the model download alongside the backend instead of waiting for
+      # it (several GB on first run), so recommendations work right away and
+      # /explain answers once the pull finishes. required: false lets
+      # "--scale ollama=0 --scale ollama-pull=0" skip the bundled Ollama.
+      ollama-pull:
+        condition: service_started
+        required: false
     environment:
       POSTGRES_USER: ${POSTGRES_USER:-classwizard}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-classwizard}
@@ -64,7 +102,10 @@ services:
       GITHUB_COPILOT_TOKEN_DIR: /opt/copilot-token
       # /explain: local Ollama only (separate from LLM_MODEL, which /chat uses)
       EXPLAIN_MODEL: ${EXPLAIN_MODEL:-ollama_chat/qwen3:8b}
-      OLLAMA_URL: ${OLLAMA_URL:-http://host.docker.internal:11434}
+      # Bundled container by default; http://host.docker.internal:11434 uses Ollama on the host
+      OLLAMA_URL: ${OLLAMA_URL:-http://ollama:11434}
+      # Seconds per answer; CPU-only qwen3:8b can be slow. Keep below the frontend's 240s.
+      EXPLAIN_TIMEOUT: ${EXPLAIN_TIMEOUT:-180}
       # spark_jobs: Parquet lake path and Spark driver memory
       LAKE_DIR: /data/lake
       SPARK_DRIVER_MEMORY: ${SPARK_DRIVER_MEMORY:-2g}
@@ -103,3 +144,4 @@ services:
 
 volumes:
   pgdata:
+  ollama:

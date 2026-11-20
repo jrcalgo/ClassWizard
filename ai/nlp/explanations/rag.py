@@ -13,8 +13,10 @@ change cannot silently send prompts to a hosted service (FERPA guard).
 
 Configuration (environment variables):
   EXPLAIN_MODEL    default "ollama_chat/qwen3:8b"
-  OLLAMA_URL       default "http://host.docker.internal:11434"
-  EXPLAIN_TIMEOUT  default 90 (seconds)
+  OLLAMA_URL       default "http://ollama:11434", the bundled compose service;
+                   set http://host.docker.internal:11434 to use Ollama on the host
+  EXPLAIN_TIMEOUT  default 180 (seconds; CPU-only generation is slow). The
+                   frontend waits 240 s, so keep this below that.
 These do not reuse LLM_MODEL: that variable belongs to /chat (llm.py), whose
 default is a hosted model this module refuses.
 """
@@ -25,8 +27,8 @@ import os
 import re
 
 DEFAULT_MODEL = "ollama_chat/qwen3:8b"
-DEFAULT_OLLAMA_URL = "http://host.docker.internal:11434"
-DEFAULT_TIMEOUT = 90
+DEFAULT_OLLAMA_URL = "http://ollama:11434"
+DEFAULT_TIMEOUT = 180
 LOCAL_PREFIXES = ("ollama/", "ollama_chat/")
 NOT_FOUND = "not found in the data"
 

@@ -31,12 +31,16 @@ def post_recommend(base_url: str, session_id: str, soc_codes: list[str], limit: 
 
 
 def post_explain(base_url: str, session_id: str, soc_codes: list[str], question: str) -> dict:
-    """A cited answer from the local model. Usually 3-15 seconds."""
+    """A cited answer from the local model. Seconds on a GPU, up to minutes on CPU.
+
+    Waits longer than the backend's EXPLAIN_TIMEOUT (default 180 s) so the
+    backend's 503 with fallback evidence arrives before this side gives up.
+    """
     return _post(
         base_url,
         "/explain",
         {"session_id": session_id, "soc_codes": soc_codes, "question": question},
-        timeout=120,
+        timeout=240,
     )
 
 
