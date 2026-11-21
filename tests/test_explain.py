@@ -176,3 +176,43 @@ def test_keep_cited_prefers_the_models_own_refusal():
         "Therefore the meeting time is not found in the data."
     )
     assert keep_cited(answer) == NOT_FOUND
+
+
+AUDIT_CREDIT = {
+    "classification": "Sophomore",
+    "courses_completed": [{"code": "MATH 2164"}, {"code": "STAT 2122"}, {"code": "ITSC 2214"}],
+    "courses_in_progress": [{"code": "ITSC 3155"}],
+}
+
+
+def test_credit_notes_warn_when_the_student_already_has_the_credit():
+    from ai.nlp.explanations.retrieval import credit_notes
+
+    desc = ("An overview of linear algebra. May not be taken for credit if credit has been "
+            "received for both MATH 2164 and STAT 2122 .")
+    notes = credit_notes("MATH 2112", desc, AUDIT_CREDIT)
+    assert len(notes) == 1 and "may not receive credit for MATH 2112" in notes[0]
+    assert "MATH 2164 and STAT 2122" in notes[0]
+    # "both" needs every course; having only one is no restriction.
+    one = {"courses_completed": [{"code": "MATH 2164"}]}
+    assert credit_notes("MATH 2112", desc, one) == []
+    # Other wordings need any one course; bare numbers inherit the subject.
+    either = "Credit will not be given for MATH 1100 where credit has been given for MATH 2164 or 2171."
+    assert credit_notes("MATH 1100", either, AUDIT_CREDIT) != []
+    assert credit_notes("MATH 1100", "Covers algebra. Not for majors.", AUDIT_CREDIT) == []
+
+
+def test_course_item_shows_the_catalog_rule_and_restriction():
+    from ai.nlp.explanations.retrieval import _course_item
+
+    row = (
+        "Software Development Projects", "Team project.", 3, 3, "(3)",
+        "ITSC 2214; and ITSC 3155, or ITIS 3300, or ITIS 3310; or permission of instructor.",
+        "Senior standing or permission of department.",
+    )
+    text = _course_item("ITSC 4155", row, AUDIT_CREDIT, [], [], {}, {}, None)["text"]
+    assert '"ITSC 2214; and ITSC 3155, or ITIS 3300, or ITIS 3310; or permission of instructor."' in text
+    assert "has completed or is taking: ITSC 2214, ITSC 3155." in text
+    assert "Not completed: ITIS 3300, ITIS 3310." in text
+    assert 'Catalog restriction: "Senior standing or permission of department."' in text
+    assert "class standing is Sophomore" in text

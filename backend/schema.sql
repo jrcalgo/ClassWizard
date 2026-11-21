@@ -25,8 +25,11 @@ CREATE TABLE IF NOT EXISTS courses (
   prerequisite_raw text,
   corequisite_raw text,
   pre_or_corequisite_raw text,
+  restriction_raw text,
   UNIQUE (catalog_name, code)
 );
+-- Added after the first release; existing databases get the column here.
+ALTER TABLE courses ADD COLUMN IF NOT EXISTS restriction_raw text;
 
 CREATE TABLE IF NOT EXISTS course_links (
   id bigint GENERATED ALWAYS AS IDENTITY PRIMARY KEY,

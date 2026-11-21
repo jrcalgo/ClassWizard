@@ -48,8 +48,11 @@ Rules:
 2. After every claim, cite the evidence ID it comes from in square brackets, e.g. [ITSC 3160] or [15-1242.00].
 3. If the evidence does not answer the question, reply exactly: "{NOT_FOUND}".
 4. Never invent prerequisites, grades, instructors, meeting times, schedules, or course content.
-5. Prerequisite entries may list alternatives separately; do not claim a student is ineligible.
-6. Answer in at most 4 sentences."""
+5. Prerequisite rules may list alternatives ("A or B"); do not claim a student is ineligible.
+6. When you discuss or recommend a course whose evidence has a "Credit restriction that applies" or a
+   "Catalog restriction" (such as class standing), state it. Never recommend a course the evidence says
+   the student may not receive credit for.
+7. Answer in at most 4 sentences."""
 
 _THINK = re.compile(r"<think>.*?</think>", re.DOTALL | re.IGNORECASE)
 _CITATION = re.compile(r"\[([^\[\]]+)\]")

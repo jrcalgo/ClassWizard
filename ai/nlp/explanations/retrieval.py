@@ -60,6 +60,20 @@ def mentioned_codes(question: str) -> list[str]:
     return seen
 
 
+# A code ("MATH 2164") or a bare number continuing the last subject ("or 2171").
+_PROSE_CODE = re.compile(r"\b(([A-Z]{2,5})\s?(\d{4}[A-Z]?))\b|\b(\d{4}[A-Z]?)\b")
+# Catalog sentences that withhold credit because of other courses, e.g.
+# "May not be taken for credit ... if credit has been received for X",
+# "Credit will not be given for X where credit has been given for Y",
+# "Students who have received credit for X may not enroll in Y",
+# "Students can receive credit for either X or Y, but not both."
+_CREDIT_RULE = re.compile(
+    r"not be taken for credit|credit (?:will|may) not be given|not receive credit"
+    r"|(?:received|earned|already have|have) credit for .* may not|but not both",
+    re.IGNORECASE,
+)
+
+
 def _words(text: str) -> list[str]:
     return [w for w in re.findall(r"[a-z]+", text.lower()) if w not in _BLOCK_STOPWORDS]
 
@@ -107,7 +121,8 @@ def _course_rows(conn, codes: list[str], catalog: str) -> dict[str, tuple]:
         return {}
     rows = conn.execute(
         """
-        SELECT code, title, description, credit_min, credit_max, credit_raw
+        SELECT code, title, description, credit_min, credit_max, credit_raw,
+               prerequisite_raw, restriction_raw
         FROM courses WHERE catalog_name = %s AND code = ANY(%s)
         """,
         (catalog, codes),
@@ -133,24 +148,93 @@ def _prerequisites(conn, codes: list[str], catalog: str) -> dict[str, list[str]]
     return found
 
 
+def _codes_in(text: str, own: str) -> list[str]:
+    """Course codes in catalog prose, expanding bare numbers after a code
+    ("MATH 2112 or 2171" -> MATH 2112, MATH 2171). The course's own code is left out."""
+    found: list[str] = []
+    subject = None
+    for full, sub, num, bare in _PROSE_CODE.findall(text):
+        if full:
+            subject, number = sub, num
+        elif subject:
+            number = bare
+        else:
+            continue
+        code = f"{subject} {number}"
+        if code != own and code not in found:
+            found.append(code)
+    return found
+
+
+def credit_notes(code: str, description: str | None, audit: dict) -> list[str]:
+    """Catalog credit exclusions in the description that apply to this student.
+
+    E.g. MATH 2112: "May not be taken for credit if credit has been received
+    for both MATH 2164 and STAT 2122." A student who has both gets a plain
+    warning, so the answer cannot recommend a course that would earn no credit.
+    "both X and Y" needs every listed course; other wordings need any one.
+    Completed and in-progress courses count as credit.
+    """
+    have = satisfied_codes(audit)
+    notes = []
+    for sentence in re.split(r"(?<=\.)\s+", " ".join((description or "").split())):
+        if not _CREDIT_RULE.search(sentence):
+            continue
+        listed = _codes_in(sentence, code)
+        held = [c for c in listed if c in have]
+        if not held:
+            continue
+        needs_all = re.search(r"\bboth\b", sentence, re.IGNORECASE) is not None
+        if needs_all and len(held) < len(listed):
+            continue
+        notes.append(
+            f'Credit restriction that applies to the student: the catalog says "{sentence}" '
+            f"The student already has {' and '.join(held)} (completed or in progress), "
+            f"so the student may not receive credit for {code}."
+        )
+    return notes
+
+
 def _course_item(code, row, audit, blocks, prereqs, matches, titles, origin) -> dict:
     """One evidence item with everything known about a course, cited by its code."""
-    title, description, credit_min, credit_max, credit_raw = row
+    title, description, credit_min, credit_max, credit_raw, prerequisite_raw, restriction_raw = row
     hours = credit_min if credit_min is not None and credit_min == credit_max else credit_raw
     parts = [f"{code} {title} ({hours} credits). {_clip(description)}"]
     status = _status(code, audit)
     if status:
         parts.append(f"The student has this course {status}.")
+    parts.extend(credit_notes(code, description, audit))
     if blocks:
         parts.append("Satisfies the student's still-needed requirement block(s): " + ", ".join(blocks) + ".")
-    if prereqs:
-        satisfied = satisfied_codes(audit)
+    satisfied = satisfied_codes(audit)
+    if prerequisite_raw:
+        # The catalog's own rule keeps its and/or structure; the flat list of
+        # linked courses read as "two prerequisites missing" when they were
+        # alternatives to one the student already has.
+        named = _codes_in(prerequisite_raw, code)
+        have = [p for p in named if p in satisfied]
+        missing = [p for p in named if p not in satisfied]
+        text = f'Catalog prerequisite rule: "{" ".join(prerequisite_raw.split())}"'
+        if have:
+            text += f" Of the courses it names, the student has completed or is taking: {', '.join(have)}."
+        if missing:
+            text += f" Not completed: {', '.join(missing)}."
+        parts.append(
+            text + " Read 'or' as alternatives: one completed alternative covers that part of the rule."
+        )
+    elif prereqs:
         listed = ", ".join(
             f"{p} ({'completed or in progress' if p in satisfied else 'not completed'})" for p in prereqs
         )
         parts.append(
             f"Catalog-listed prerequisites: {listed}. Alternatives in 'A or B' rules are "
             "listed separately, so one unmet entry may already be covered by another."
+        )
+    if restriction_raw:
+        standing = (audit.get("classification") or "").strip()
+        parts.append(
+            f'Catalog restriction: "{" ".join(restriction_raw.split())}"'
+            + (f" The student's class standing is {standing}." if standing else "")
         )
     if matches:
         listed = ", ".join(f"{titles.get(soc, soc)} {value:.2f}" for soc, value in matches.items())
