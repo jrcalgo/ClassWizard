@@ -47,12 +47,15 @@ Rules:
 1. Use ONLY the evidence items provided. Do not add facts from memory.
 2. After every claim, cite the evidence ID it comes from in square brackets, e.g. [ITSC 3160] or [15-1242.00].
 3. If the evidence does not answer the question, reply exactly: "{NOT_FOUND}".
-4. Never invent prerequisites, grades, schedules, or course content.
+4. Never invent prerequisites, grades, instructors, meeting times, schedules, or course content.
 5. Prerequisite entries may list alternatives separately; do not claim a student is ineligible.
 6. Answer in at most 4 sentences."""
 
 _THINK = re.compile(r"<think>.*?</think>", re.DOTALL | re.IGNORECASE)
 _CITATION = re.compile(r"\[([^\[\]]+)\]")
+# Sentence ends: after . ! ? (or a line break) when the next sentence starts.
+_SENTENCE_END = re.compile(r"(?<=[.!?])\s+(?=[A-Z0-9\[\"(])|\s*\n+\s*")
+_ONLY_CITATIONS = re.compile(r"^(?:\[[^\[\]]+\][\s,;]*)+[.!?]?$")
 
 
 def model_name() -> str:
@@ -114,6 +117,42 @@ def generate(messages: list[dict], model: str | None = None) -> str:
         **extra,
     )
     return strip_thinking(response.choices[0].message.content)
+
+
+def split_sentences(text: str) -> list[str]:
+    """Sentences of an answer. A citation written after the period ("... SQL. [ITSC 3160]")
+    stays with the sentence before it."""
+    parts: list[str] = []
+    for part in _SENTENCE_END.split(text or ""):
+        part = part.strip()
+        if not part:
+            continue
+        if parts and _ONLY_CITATIONS.match(part):
+            parts[-1] = f"{parts[-1]} {part}"
+        else:
+            parts.append(part)
+    return parts
+
+
+def keep_cited(answer: str) -> str:
+    """Drop every sentence that cites no evidence.
+
+    The prompt asks for a citation after every claim, but small models often
+    add an uncited summary or opinion, which check_citations() alone would let
+    through as grounded. Uncited sentences are removed rather than shown. An
+    answer with nothing cited becomes the exact refusal (this also catches
+    prompt-injected output such as a poem).
+
+    An answer that says "not found in the data" anywhere is the refusal too:
+    the model has concluded the evidence does not answer the question, and
+    keeping only its cited sentences would show the reasoning it rejected
+    (e.g. another course's meeting time) without the correction.
+    """
+    answer = (answer or "").strip()
+    if NOT_FOUND in answer.lower():
+        return NOT_FOUND
+    kept = [s for s in split_sentences(answer) if _CITATION.search(s)]
+    return " ".join(kept) if kept else NOT_FOUND
 
 
 def cited_ids(answer: str) -> list[str]:

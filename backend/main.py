@@ -10,7 +10,14 @@ from fastapi.responses import JSONResponse, PlainTextResponse
 from pydantic import BaseModel, Field
 
 from ai.nlp.explanations.llm import explain
-from ai.nlp.explanations.rag import build_messages, check_citations, generate, model_name, student_context
+from ai.nlp.explanations.rag import (
+    build_messages,
+    check_citations,
+    generate,
+    keep_cited,
+    model_name,
+    student_context,
+)
 from ai.nlp.explanations.retrieval import retrieve_evidence
 from ai.recommendations.ranking import MissingVectors, UnsupportedAudit, audit_level, recommend
 from backend.storage.cache.redis import delete_audit, load_audit, ping, save_audit
@@ -212,7 +219,7 @@ def post_explain(body: ExplainRequest):
     # the evidence so the frontend can show the facts.
     messages = build_messages(question, evidence, student_context(audit))
     try:
-        answer = generate(messages)
+        answer = keep_cited(generate(messages))
     except Exception:
         _renew_audit(token)
         return JSONResponse(

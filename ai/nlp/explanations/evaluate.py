@@ -45,12 +45,13 @@ from ai.nlp.explanations.rag import (
     build_messages,
     check_citations,
     generate,
+    keep_cited,
     model_name,
+    split_sentences,
     student_context,
 )
 
 RECOMMEND_LIMIT = 25  # same as backend.main._MAX_LIMIT
-_SENTENCE = re.compile(r"(?<=[.!?])\s+(?=[A-Z\[])")
 _CITED = re.compile(r"\[[^\[\]]+\]")
 
 JUDGE_PROMPT = """You check whether an answer is supported by evidence.
@@ -62,7 +63,7 @@ Reply with JSON only, in this shape:
 
 
 def sentences(text: str) -> list[str]:
-    return [s for s in (part.strip() for part in _SENTENCE.split(text or "")) if s]
+    return split_sentences(text)
 
 
 def score(item: dict, evidence: list[dict], answer: str, checked: dict) -> dict:
@@ -117,10 +118,12 @@ def run_item(conn, audit: dict, item: dict, use_judge: bool) -> dict:
     retrieved_at = time.time()
     messages = build_messages(item["question"], evidence, student_context(audit))
     try:
-        answer, error = generate(messages), None
+        raw, error = generate(messages), None
     except Exception as exc:  # report and keep going; one timeout should not end the run
-        answer, error = "", f"{type(exc).__name__}: {exc}"
+        raw, error = "", f"{type(exc).__name__}: {exc}"
     finished = time.time()
+    # Score what the student sees: POST /explain applies keep_cited() too.
+    answer = keep_cited(raw) if error is None else ""
     checked = check_citations(answer, evidence)
     checks = score(item, evidence, answer, checked) if error is None else {"generated": False}
     result = {
@@ -128,6 +131,9 @@ def run_item(conn, audit: dict, item: dict, use_judge: bool) -> dict:
         "category": item["category"],
         "question": item["question"],
         "answer": answer,
+        "raw_answer": raw,
+        "dropped_sentences": len(split_sentences(raw)) - len(split_sentences(answer))
+        if answer != NOT_FOUND else 0,
         "error": error,
         "evidence_ids": [e["id"] for e in evidence],
         "citations": checked["citations"],
@@ -194,6 +200,8 @@ def main() -> None:
             status = "PASS" if r["passed"] else "FAIL " + ",".join(failed)
             print(f"{r['id']:4} {status:28} {r['generation_seconds']:6.1f}s  {r['question']}", flush=True)
             print(f"     answer: {r['answer'] or r['error']}", flush=True)
+            if r.get("dropped_sentences"):
+                print(f"     dropped {r['dropped_sentences']} uncited sentence(s); raw: {r['raw_answer']}", flush=True)
             print(f"     evidence: {r['evidence_ids']}  cited: {r['citations']}", flush=True)
             for v in r.get("judge", []):
                 if not v["supported"]:

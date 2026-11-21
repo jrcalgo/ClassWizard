@@ -732,7 +732,10 @@ def load_syllabus_records(conn) -> None:
     if not SYLLABUS_RECORDS_ZIP.is_file():
         print(f"{SYLLABUS_RECORDS_ZIP.name} not found, skipping syllabus records")
         return
-    digest = file_fingerprint(SYLLABUS_RECORDS_ZIP)
+    from backend.storage.database.syllabus_records import PARSER_VERSION
+
+    # The parser version is part of the key, so a parser fix reloads the records.
+    digest = f"{file_fingerprint(SYLLABUS_RECORDS_ZIP)}:p{PARSER_VERSION}"
     if already_loaded(conn, "syllabus_records", digest):
         print(f"syllabus records unchanged ({digest[:12]})")
         return

@@ -57,3 +57,28 @@ def test_title_and_code_helpers():
     assert clean_title("Geotechnical Lab- Section L03- 2 Credit Hours") == "Geotechnical Lab- Section L03"
     assert clean_title("Sports Business Analytics | 3 Credit Hours") == "Sports Business Analytics"
     assert clean_title(None) is None
+
+
+def test_staff_and_contact_text_is_dropped():
+    from backend.storage.database.syllabus_records import is_staff_text, parse_record, without_staff
+
+    assert is_staff_text("Instructors o Jane Doe, Woodward 333F,")
+    assert is_staff_text("Instructor: Jane Doe, PhD. jdoe@charlotte.edu.")
+    assert is_staff_text("Attend office hours and contact your TA early.")
+    assert is_staff_text("Call 704-687-1234 for help.")
+    assert is_staff_text("Lecture and Lab: EPIC 3256 - Wednesdays 2:30pm - 5:15pm.")
+    assert is_staff_text("Location 5:30-8:15PM, Mondays, Room 130")
+    assert not is_staff_text("Analyze algorithms in O(n log n) time.")
+    assert not is_staff_text("Design and implement relational databases using SQL.")
+    assert not is_staff_text("Present a topic in geometric design (instructor choice).")
+    assert not is_staff_text("Estimate TAM for a startup.")
+    assert without_staff("Covers SQL. Office hours: MW 2-3pm. Build a project.") == "Covers SQL. Build a project."
+
+    rows = parse_record("ITSC_1000.json", {
+        "title": "Sample Course",
+        "objectives": [
+            {"id": "O1", "text": "Write SQL queries."},
+            {"id": "O2", "text": "Teaching Assistant o TBA, for office hours check the canvas page."},
+        ],
+    })
+    assert [o[2] for o in rows["objectives"]] == ["Write SQL queries."]

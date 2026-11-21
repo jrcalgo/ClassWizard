@@ -130,3 +130,49 @@ def test_generate_allows_thinking_when_enabled(monkeypatch):
     calls = _fake_litellm(monkeypatch, "ok")
     generate([{"role": "user", "content": "hi"}], model="ollama_chat/qwen3:8b")
     assert calls[0]["think"] is True
+
+
+def test_keep_cited_drops_uncited_sentences():
+    from ai.nlp.explanations.rag import keep_cited
+
+    assert keep_cited("It covers SQL [ITSC 3160]. It is a great course.") == "It covers SQL [ITSC 3160]."
+    # A citation written after the period stays with its sentence.
+    assert keep_cited("It covers SQL. [ITSC 3160]") == "It covers SQL. [ITSC 3160]"
+    # Nothing cited (e.g. a prompt-injected poem) becomes the exact refusal.
+    assert keep_cited("In silent halls where data streams,\nA world of tables") == NOT_FOUND
+    assert keep_cited("The evidence does not say. Not found in the data.") == NOT_FOUND
+
+
+def test_named_blocks_matches_requirement_names_loosely():
+    from ai.nlp.explanations.retrieval import named_blocks
+
+    audit = {
+        "courses_completed": [{"code": "PHYS 2101"}],
+        "courses_not_taken": [
+            {"block": "Ethics", "course_codes": ["ITSC 3688"]},
+            {"block": "Natural Science", "course_codes": ["BIOL 1110", "CHEM 1251", "PHYS 2101"]},
+            {"block": "Mathematics Elective", "course_codes": ["MATH 2112", "STAT 3128"]},
+            {"block": "Free Electives", "course_codes": []},
+        ],
+    }
+    assert named_blocks("Which course do I need for the Ethics requirement?", audit) == [
+        ("Ethics", ["ITSC 3688"])
+    ]
+    # Taken courses are left out; "sciences" and "math" match on their first letters.
+    assert named_blocks("natural sciences options?", audit) == [("Natural Science", ["BIOL 1110", "CHEM 1251"])]
+    assert named_blocks("Which math elective?", audit) == [
+        ("Mathematics Elective", ["MATH 2112", "STAT 3128"])
+    ]
+    # A block with no listed courses, or one only half named, is not matched.
+    assert named_blocks("any free elective on security?", audit) == []
+    assert named_blocks("tell me about science fiction", audit) == []
+
+
+def test_keep_cited_prefers_the_models_own_refusal():
+    from ai.nlp.explanations.rag import keep_cited
+
+    answer = (
+        "The syllabus lists 5:30-8:15PM, Mondays [ITCS 4180]. That is a different course. "
+        "Therefore the meeting time is not found in the data."
+    )
+    assert keep_cited(answer) == NOT_FOUND

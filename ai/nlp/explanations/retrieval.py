@@ -37,6 +37,9 @@ SYLLABUS_SEARCH = 3     # courses found through their syllabus text and objectiv
 MIN_SYLLABUS_SIMILARITY = 0.35
 OBJECTIVES_PER_COURSE = 3
 MAX_TEXT = 600          # characters kept from a long description
+MAX_BLOCK_COURSES = 6   # options listed for a requirement block named in the question
+# Words that never identify a requirement block on their own.
+_BLOCK_STOPWORDS = {"and", "the", "for", "with", "of", "in", "or", "to", "a", "an"}
 
 # Course codes as students type them: "ITSC 3160", "itsc3160", "ECGR 2112L".
 _CODE = re.compile(r"\b([A-Za-z]{2,5})\s?(\d{4}[A-Za-z]?)\b")
@@ -55,6 +58,32 @@ def mentioned_codes(question: str) -> list[str]:
         if code not in seen:
             seen.append(code)
     return seen
+
+
+def _words(text: str) -> list[str]:
+    return [w for w in re.findall(r"[a-z]+", text.lower()) if w not in _BLOCK_STOPWORDS]
+
+
+def named_blocks(question: str, audit: dict) -> list[tuple[str, list[str]]]:
+    """Still-needed requirement blocks the question names, with their untaken courses.
+
+    A block matches when every word of its name appears in the question, where
+    words match on their first four letters ("math elective" names the
+    "Mathematics Elective" block, "natural sciences" names "Natural Science").
+    Similarity search alone misses these: "Ethics requirement" is closer to
+    ethics courses in other departments than to ITSC 3688, the only course that
+    satisfies the student's Ethics block.
+    """
+    asked = {w[:4] for w in _words(question)}
+    taken = taken_codes(audit)
+    found: list[tuple[str, list[str]]] = []
+    for requirement in audit.get("courses_not_taken") or []:
+        block = (requirement.get("block") or "").strip()
+        words = _words(block)
+        codes = [c for c in requirement.get("course_codes") or [] if c not in taken]
+        if words and codes and all(w[:4] in asked for w in words):
+            found.append((block, codes))
+    return found
 
 
 def _clip(text: str | None) -> str:
@@ -195,11 +224,14 @@ def _syllabus_search(conn, vector: str, level: str, exclude: set[str], limit: in
         FROM text_chunks
         WHERE source_type IN ('syllabus_course', 'syllabus_objective') AND embedding IS NOT NULL
           AND metadata->>'level' = %s
+          -- Course numbers decide the level when a record's own label is wrong
+          -- (some 5000-level syllabi are labelled undergraduate).
+          AND (substring(metadata->>'code' from '[0-9]{4}')::int >= 5000) = (%s = 'graduate')
         GROUP BY 1
         ORDER BY similarity DESC
         LIMIT %s
         """,
-        (vector, level, limit + len(exclude) + 10),
+        (vector, level, level, limit + len(exclude) + 10),
     ).fetchall()
     hits = [(code, sim) for code, sim in rows if code not in exclude and sim >= MIN_SYLLABUS_SIMILARITY]
     return hits[:limit]
@@ -291,20 +323,27 @@ def retrieve_evidence(
             ).fetchall()
         }
         named = [code for code in named if code.split()[0] in subjects]
+    # 1b. Requirement blocks named in the question ("Ethics requirement"), by key:
+    #     every untaken option of the block, so an answer can list all of them.
+    by_block: dict[str, list[str]] = {}
+    for block, codes in named_blocks(question, audit):
+        for code in codes:
+            if code not in named and len(by_block) < MAX_BLOCK_COURSES:
+                by_block.setdefault(code, []).append(block)
     # 2. Recommended courses that are actually related to the question.
     focus = [
         code for code, sim in _ranked_by_question(conn, vector, list(recommended), catalog)
-        if code not in named and sim >= MIN_FOCUS_SIMILARITY
+        if code not in named and code not in by_block and sim >= MIN_FOCUS_SIMILARITY
     ][:FOCUS_COURSES]
     # 3. Courses matching the question through their syllabus, then the catalog,
     #    never already-taken ones.
-    exclude = set(named) | set(focus) | taken_codes(audit)
+    exclude = set(named) | set(by_block) | set(focus) | taken_codes(audit)
     level = "graduate" if catalog.startswith("Graduate") else "undergraduate"
     by_syllabus = _syllabus_search(conn, vector, level, exclude, SYLLABUS_SEARCH)
     found = _open_search(conn, vector, exclude | {code for code, _ in by_syllabus}, OPEN_SEARCH, catalog)
     matched = [code for code, _ in by_syllabus] + [code for code, _ in found]
 
-    wanted = named + matched + focus
+    wanted = named + list(by_block) + matched + focus
     rows = _course_rows(conn, wanted, catalog)
     prereqs = _prerequisites(conn, wanted, catalog)
     syllabi = _syllabus_rows(conn, wanted)
@@ -326,6 +365,18 @@ def retrieve_evidence(
             _course_item(
                 code, rows[code], audit, blocks_by_code.get(code, []), prereqs.get(code, []),
                 rec.get("similarity_by_occupation", {}), titles, None,
+            ),
+            objectives.get(code, []),
+        ))
+    for code, blocks in by_block.items():
+        if code not in rows:
+            continue
+        rec = recommended.get(code, {})
+        items.append(_with_objectives(
+            _course_item(
+                code, rows[code], audit, blocks_by_code.get(code, blocks), prereqs.get(code, []),
+                rec.get("similarity_by_occupation", {}), titles,
+                "One of the options for the student's still-needed " + " and ".join(blocks) + " requirement.",
             ),
             objectives.get(code, []),
         ))
