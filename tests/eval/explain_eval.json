@@ -509,7 +509,7 @@
     "catalog:ITSC 9999"
    ],
    "forbid": [
-    "ITSC 9999 (is|covers|teaches|will)"
+    "ITSC 9999 (covers|teaches|will|is an? |focuses|introduces)"
    ],
    "notes": "Must say it is not in the catalog (or not found), never describe it.",
    "soc_codes": [
