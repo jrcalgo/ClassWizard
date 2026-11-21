@@ -13,9 +13,15 @@ change cannot silently send prompts to a hosted service (FERPA guard).
 EXPLAIN_ALLOW_REMOTE=1 lifts the guard on purpose, for a hosted model.
 
 Configuration (environment variables):
-  EXPLAIN_MODEL         default "ollama_chat/qwen3:8b"
-  OLLAMA_URL            default "http://host.docker.internal:11434"
-  EXPLAIN_TIMEOUT       default 90 (seconds)
+  EXPLAIN_MODEL    default "ollama_chat/qwen3:8b"
+  OLLAMA_URL       default "http://ollama:11434", the bundled compose service;
+                   set http://host.docker.internal:11434 to use Ollama on the host
+  EXPLAIN_TIMEOUT  default 180 (seconds; CPU-only generation is slow). The
+                   frontend waits 240 s, so keep this below that.
+  EXPLAIN_THINK    default "false". Thinking models such as qwen3 otherwise
+                   write a long hidden reasoning pass before answering, which
+                   strip_thinking() discards anyway; on CPU that made answers
+                   about 5x slower. Set "true" to allow it.   
   EXPLAIN_ALLOW_REMOTE  default off; 1 allows a hosted EXPLAIN_MODEL (key in LLM_API_KEY)
 These do not reuse LLM_MODEL: that variable belongs to /chat (llm.py), whose
 default is a hosted model this module refuses.
@@ -27,8 +33,8 @@ import os
 import re
 
 DEFAULT_MODEL = "ollama_chat/qwen3:8b"
-DEFAULT_OLLAMA_URL = "http://host.docker.internal:11434"
-DEFAULT_TIMEOUT = 90
+DEFAULT_OLLAMA_URL = "http://ollama:11434"
+DEFAULT_TIMEOUT = 180
 LOCAL_PREFIXES = ("ollama/", "ollama_chat/")
 NOT_FOUND = "not found in the data"
 
@@ -80,6 +86,10 @@ def remote_allowed() -> bool:
     return os.environ.get("EXPLAIN_ALLOW_REMOTE", "").strip().lower() in ("1", "true", "yes")
 
 
+def thinking_enabled() -> bool:
+    return os.environ.get("EXPLAIN_THINK", "false").strip().lower() in ("1", "true", "yes", "on")
+
+
 def generate(messages: list[dict], model: str | None = None) -> str:
     """Call the model through LiteLLM and return the answer text.
 
@@ -93,7 +103,7 @@ def generate(messages: list[dict], model: str | None = None) -> str:
         raise ValueError(f"refusing non-local model {model!r}: only Ollama models are allowed")
     import litellm  # imported here: loading it is slow and only /explain needs it
 
-    extra = {"api_base": os.environ.get("OLLAMA_URL", DEFAULT_OLLAMA_URL)} if local else {}
+    extra = {"api_base": os.environ.get("OLLAMA_URL", DEFAULT_OLLAMA_URL), "think": thinking_enabled()} if local else {}
     if not local and os.environ.get("LLM_API_KEY", "").strip():
         extra["api_key"] = os.environ["LLM_API_KEY"].strip()
     response = litellm.completion(
