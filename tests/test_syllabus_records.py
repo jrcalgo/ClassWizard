@@ -57,6 +57,7 @@ def test_title_and_code_helpers():
     assert clean_title("Geotechnical Lab- Section L03- 2 Credit Hours") == "Geotechnical Lab- Section L03"
     assert clean_title("Sports Business Analytics | 3 Credit Hours") == "Sports Business Analytics"
     assert clean_title(None) is None
+    assert clean_title("course, is an interdisciplinary survey of key issues " * 3) is None
 
 
 def test_staff_and_contact_text_is_dropped():

@@ -10,11 +10,13 @@ from pathlib import Path
 CODE = re.compile(r"\b([A-Z]{2,5}) ?(\d{4}[A-Z]?)\b")
 NOT_SUBJECTS = {"CRN", "TBD", "SEC", "ROOM"}  # registration numbers etc. that look like codes
 CREDITS_SUFFIX = re.compile(
-    r"[\s,|(-]*(?<![A-Za-z0-9])\d+(?:\.\d+)?(?:\s*-\s*\d+)?\s*credit hours?\b.*$", re.IGNORECASE
+    r"[\s,|(-]*(?<![A-Za-z0-9])\d+(?:\.\d+)?(?:\s*-\s*\d+)?\s*credit(?:s|\s+hours?)\b.*$", re.IGNORECASE
 )
 MAX_CHUNK = 1500
+MAX_TITLE = 120
+NOT_TITLE = re.compile(r"[|\[\]{}@#;]")  # characters real titles do not use
 # Bump when parse_record() output changes, so existing databases reload the records.
-PARSER_VERSION = 3
+PARSER_VERSION = 4
 
 # Staff, contact and meeting details (times, rooms) in syllabus text. They are not course content, and
 # feeding them to /explain let the model "answer" who teaches a course from an
@@ -67,6 +69,9 @@ def clean_title(title: str | None) -> str | None:
     text = CREDITS_SUFFIX.sub("", " ".join((title or "").split())).rstrip(" -|,(")
     if text.count("(") > text.count(")"):
         text = text[: text.rfind("(")].rstrip(" -|,(")
+    # Some extractions put body text in the title (e.g. AFRS 1100); drop those.
+    if len(text) > MAX_TITLE or NOT_TITLE.search(text):
+        return None
     return text or None
 
 
