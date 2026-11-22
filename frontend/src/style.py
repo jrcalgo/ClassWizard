@@ -236,16 +236,16 @@ input[type="radio"] {
 }
 
 .cw-terms {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 14px;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
 }
 
 .term-card {
-  flex: 1 1 150px;
+  min-width: 0;
   border: 1px solid var(--cw-border);
   border-radius: 12px;
-  padding: 14px;
+  padding: 10px;
   background: var(--cw-card-alt);
 }
 
@@ -396,6 +396,10 @@ div[data-testid="stExpander"] [data-testid="stCheckbox"] label p {
 
   .gap-row {
     grid-template-columns: 1fr;
+  }
+
+  .cw-terms {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 </style>

@@ -1,3 +1,4 @@
+import base64
 import html
 import json
 import os
@@ -6,6 +7,7 @@ import urllib.error
 import urllib.request
 
 import streamlit as st
+import streamlit.components.v1 as components
 
 import chat
 import recommend
@@ -186,6 +188,10 @@ def _recommendation_rows() -> list[dict]:
     return result.get("recommendations") or []
 
 
+def _show_map(code: str) -> None:
+    st.session_state.syllab_map_course = code
+
+
 def _recommendations_section() -> None:
     st.subheader("Recommended courses")
     if st.session_state.get("recommend_error"):
@@ -200,8 +206,21 @@ def _recommendations_section() -> None:
     top = rows[0]["score"]
     for row in rows:
         best = max(row["similarity_by_occupation"], key=row["similarity_by_occupation"].get)
+        map_key = row["code"].strip().upper().replace(" ", "_")
+        if map_key in _syllab_map_courses():
+            st.button(
+                f"**{row['code']}**",
+                key=f"map_{map_key}",
+                type="tertiary",
+                on_click=_show_map,
+                args=(map_key,),
+                help="Show this course's concept map",
+            )
+            heading = f"{row['title']} · {row['credits']} cr"
+        else:
+            heading = f"**{row['code']}** {row['title']} · {row['credits']} cr"
         st.markdown(
-            f"**{row['code']}** {row['title']} · {row['credits']} cr  \n"
+            f"{heading}  \n"
             f"{_match_label(row['score'], top)} for {titles.get(best, best)}"
             f" · satisfies {', '.join(row['requirement_blocks']) or 'a listed requirement'}"
         )
@@ -450,10 +469,10 @@ def _syllab_map_courses() -> list[str]:
 
 
 def _syllab_map_graph() -> None:
-    st.subheader("SyllabCMap course concept map")
+    st.subheader("Course concept map")
     courses = _syllab_map_courses()
     if not courses:
-        st.info("No SyllabCMap graph images were found.")
+        st.info("No course concept maps were found.")
         return
 
     preferred = [
@@ -476,20 +495,48 @@ def _syllab_map_graph() -> None:
         ),
         "ITSC_3160" if "ITSC_3160" in courses else courses[0],
     )
+    if st.session_state.get("syllab_map_course") not in courses:
+        st.session_state.syllab_map_course = default
     selected = st.selectbox(
         "Course map",
         courses,
-        index=courses.index(default),
         format_func=lambda code: code.replace("_", " "),
         key="syllab_map_course",
-        help="Search course maps generated from syllabCMap.",
+        help="Search course concept maps.",
     )
     image_path = SYLLAB_MAP_DIR / selected / f"{selected}_graph.png"
-    st.image(
-        str(image_path),
-        caption="Syllabus concept map; dashed outlines indicate inferred concepts.",
-        width="stretch",
-        alt=f"Syllabus concept map for {selected.replace('_', ' ')}",
+    _zoom_image(image_path, f"Syllabus concept map for {selected.replace('_', ' ')}")
+    st.caption(
+        "Scroll to zoom, drag to pan, double-click to reset. "
+        "Dashed outlines indicate inferred concepts."
+    )
+
+
+def _zoom_image(path: Path, alt: str) -> None:
+    data = base64.b64encode(path.read_bytes()).decode()
+    components.html(
+        f"""
+<div id="v" style="height:620px;overflow:hidden;cursor:grab;background:#ffffff;
+  border-radius:10px;position:relative;touch-action:none">
+  <img id="i" alt="{html.escape(alt)}" src="data:image/png;base64,{data}"
+    style="position:absolute;left:0;top:0;transform-origin:0 0;user-select:none" draggable="false">
+</div>
+<script>
+const v=document.getElementById('v'),i=document.getElementById('i');
+let s=1,x=0,y=0,d=null;
+const draw=()=>i.style.transform=`translate(${{x}}px,${{y}}px) scale(${{s}})`;
+const fit=()=>{{s=Math.min(v.clientWidth/i.naturalWidth,v.clientHeight/i.naturalHeight);
+  x=(v.clientWidth-i.naturalWidth*s)/2;y=(v.clientHeight-i.naturalHeight*s)/2;draw();}};
+i.onload=fit; if(i.complete) fit();
+v.addEventListener('wheel',e=>{{e.preventDefault();const r=v.getBoundingClientRect(),
+  mx=e.clientX-r.left,my=e.clientY-r.top,k=e.deltaY<0?1.15:1/1.15,n=Math.min(Math.max(s*k,0.05),10);
+  x=mx-(mx-x)*n/s;y=my-(my-y)*n/s;s=n;draw();}},{{passive:false}});
+v.addEventListener('pointerdown',e=>{{d=[e.clientX-x,e.clientY-y];v.setPointerCapture(e.pointerId);v.style.cursor='grabbing';}});
+v.addEventListener('pointermove',e=>{{if(d){{x=e.clientX-d[0];y=e.clientY-d[1];draw();}}}});
+v.addEventListener('pointerup',()=>{{d=null;v.style.cursor='grab';}});
+v.addEventListener('dblclick',fit);
+</script>""",
+        height=630,
     )
 
 
@@ -502,7 +549,7 @@ def _show_html(fragment: str) -> None:
 
 def _init_state() -> None:
     if "theme_mode" not in st.session_state:
-        st.session_state.theme_mode = "Light"
+        st.session_state.theme_mode = "Dark"
     if "plan_ready" not in st.session_state:
         st.session_state.plan_ready = False
     if "messages" not in st.session_state:
@@ -693,13 +740,13 @@ def _results() -> None:
         with st.container(border=True):
             _chat(prefs)
         with st.container(border=True):
-            st.subheader("Skill gaps")
-            st.caption("Sample data: not yet computed from your audit.")
-            _show_html(_gaps_html())
-        with st.container(border=True):
             st.subheader("Semester sequence")
             st.caption("Sample sequence; not yet generated from your audit.")
             _show_html(_terms_html())
+        with st.container(border=True):
+            st.subheader("Skill gaps")
+            st.caption("Sample data: not yet computed from your audit.")
+            _show_html(_gaps_html())
     with right:
         with st.container(border=True):
             _recommendations_section()
@@ -729,8 +776,7 @@ def main() -> None:
         st.title("ClassWizard")
         st.caption("Career-aware course planning")
     with theme_column:
-        st.selectbox("Appearance", ["Light", "Dark"], key="theme_mode")
-    st.caption("Semester sequence and skill-gap panels currently use sample data.")
+        st.selectbox("Appearance", ["Dark", "Light"], key="theme_mode")
     _keep_audit()
     _refresh_audit()
     _preferences()
