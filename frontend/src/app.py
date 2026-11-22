@@ -706,7 +706,10 @@ def _results() -> None:
         with st.container(border=True):
             st.subheader("Skill links")
             current, needed, links = _graph_data(st.session_state.audit)
-            _show_html(_graph_html(prefs["careers"], current, needed, links))
+            st.markdown(
+                _graph_html(prefs["careers"], current, needed, links),
+                unsafe_allow_html=True,
+            )
     with st.container(border=True):
         _syllab_map_graph()
 
