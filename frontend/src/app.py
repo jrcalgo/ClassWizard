@@ -693,13 +693,6 @@ def _results() -> None:
         with st.container(border=True):
             _chat(prefs)
         with st.container(border=True):
-            st.subheader("Semester sequence")
-            st.caption("Sample sequence; not yet generated from your audit.")
-            _show_html(_terms_html())
-    with right:
-        with st.container(border=True):
-            _recommendations_section()
-        with st.container(border=True):
             st.subheader("Skill gaps")
             st.caption("Sample data: not yet computed from your audit.")
             _show_html(_gaps_html())
@@ -707,8 +700,15 @@ def _results() -> None:
             st.subheader("Skill links")
             current, needed, links = _graph_data(st.session_state.audit)
             _show_html(_graph_html(prefs["careers"], current, needed, links))
+    with right:
         with st.container(border=True):
-            _syllab_map_graph()
+            _recommendations_section()
+        with st.container(border=True):
+            st.subheader("Semester sequence")
+            st.caption("Sample sequence; not yet generated from your audit.")
+            _show_html(_terms_html())
+    with st.container(border=True):
+        _syllab_map_graph()
 
 
 def main() -> None:

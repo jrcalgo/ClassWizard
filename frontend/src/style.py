@@ -30,12 +30,12 @@ _PALETTES = {
         "green": "#75b88b",
         "green-hover": "#91cba3",
         "on-green": "#102017",
-        "button": "#76551b",
-        "button-hover": "#86631f",
+        "button": "#286b45",
+        "button-hover": "#215936",
         "on-button": "#ffffff",
-        "selection-border": "#d9b85c",
-        "selection-bg": "#3b2e19",
-        "selection-text": "#fff1d2",
+        "selection-border": "#286b45",
+        "selection-bg": "#a6d8b3",
+        "selection-text": "#102017",
         "gold": "#f0c66f",
         "link": "#a5d9b5",
     },
@@ -63,7 +63,6 @@ _CSS = """
   --cw-gold: {gold};
   --cw-link: {link};
   --cw-body-font: "Avenir Next", "Segoe UI", sans-serif;
-  --cw-display-font: Georgia, "Times New Roman", serif;
 }
 
 html, body, .stApp, [data-testid="stAppViewContainer"] {
@@ -82,9 +81,9 @@ html, body, .stApp, [data-testid="stAppViewContainer"] {
   padding-bottom: 3rem;
 }
 
-.stApp h1, .stApp h2, .stApp h3, .stApp h4 {
+.stApp h1, .stApp h2, .stApp h3, .stApp h4, .stApp h5, .stApp h6 {
   color: var(--cw-text) !important;
-  font-family: var(--cw-display-font) !important;
+  font-family: var(--cw-body-font) !important;
   letter-spacing: -0.02em;
 }
 
@@ -190,14 +189,20 @@ input[type="radio"] {
 [data-testid="stBaseButton-primary"] {
   border-color: var(--cw-button) !important;
   background: var(--cw-button) !important;
-  color: var(--cw-on-button) !important;
+  color: #ffffff !important;
 }
 
 .stButton > button[kind="primary"]:hover,
 [data-testid="stBaseButton-primary"]:hover {
   border-color: var(--cw-button-hover) !important;
   background: var(--cw-button-hover) !important;
-  color: var(--cw-on-button) !important;
+  color: #ffffff !important;
+}
+
+.stButton > button[kind="primary"] p,
+[data-testid="stBaseButton-primary"] p {
+  color: #ffffff !important;
+  font-weight: 700 !important;
 }
 
 .cw-terms {
