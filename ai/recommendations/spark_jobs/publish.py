@@ -4,7 +4,7 @@ import os
 
 import psycopg
 
-from spark_jobs.session import LAKE_DIR, read_table, section
+from ai.recommendations.spark_jobs.session import LAKE_DIR, read_table, section
 
 EXPORT_DIR = LAKE_DIR / "export" / "course_career_scores"
 COPY_SQL = "COPY course_career_scores (soc_code, course_code, als_score, hybrid_rating) FROM STDIN WITH (FORMAT csv)"

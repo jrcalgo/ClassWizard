@@ -2,10 +2,10 @@
 
 The backend runs it in the background on boot whenever the scores are missing
 or older than the loaded data (see backend/start.sh). To run it by hand:
-    docker compose exec backend sh -c "python3 -m spark_jobs.run_all | tee /data/lake/sprint4_results.txt"
+    docker compose exec backend sh -c "python3 -m ai.recommendations.spark_jobs.run_all | tee /data/lake/sprint4_results.txt"
 
 Run only some steps:
-    docker compose exec backend python3 -m spark_jobs.run_all --steps gold,queries
+    docker compose exec backend python3 -m ai.recommendations.spark_jobs.run_all --steps gold,queries
 
 --check exits 0 when a run is needed and 1 when the scores are current.
 """
@@ -14,8 +14,9 @@ import argparse
 import sys
 import time
 
-from spark_jobs import bronze, gold, model, publish, queries, silver
-from spark_jobs.session import LAKE_DIR, get_spark, read_table, section
+from ai.recommendations.spark_jobs.medallion import bronze, silver, gold
+from ai.recommendations.spark_jobs import model, publish, queries
+from ai.recommendations.spark_jobs.session import LAKE_DIR, get_spark, read_table, section
 
 TABLES = {
     "bronze": ["catalog_courses", "catalog_links", "syllabus_triples", "onet_occupations", "onet_job_zones",

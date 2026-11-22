@@ -2,7 +2,7 @@
 
 from pyspark.sql import functions as F
 
-from spark_jobs.session import read_table, section, term_key, write_table
+from ai.recommendations.spark_jobs.session import read_table, section, term_key, write_table
 
 COURSE_CODE = r"^[A-Z]{2,5} \d{4}[A-Z]{0,2}$"
 DEGREE_JOB_ZONES = [4, 5]  # bachelor's degree or more

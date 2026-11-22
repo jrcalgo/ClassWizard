@@ -1,6 +1,6 @@
 """Spark SQL queries on the Silver and Gold tables."""
 
-from spark_jobs.session import read_table, section
+from ai.recommendations.spark_jobs.session import read_table, section
 
 CAREER = "15-2051.00"  # Data Scientists
 

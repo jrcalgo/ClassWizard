@@ -67,12 +67,12 @@ Student names, IDs, and advisor names are removed when the DegreeWorks PDF is pa
 
 ## Spark pipeline (ALS recommender)
 
-`spark_jobs/` is a batch job that rates how well every course fits every career, then trains a Spark MLlib ALS recommender on those ratings. The backend runs it automatically in the background on the first boot, and again on any boot after the catalog, O*NET, or syllabi change. A full run takes about 7-10 minutes; follow it with `docker compose logs -f backend`. While it runs, the Spark UI is available at http://localhost:4041.
+`ai/recommendations/spark_jobs/` is a batch job that rates how well every course fits every career, then trains a Spark MLlib ALS recommender on those ratings. The backend runs it automatically in the background on the first boot, and again on any boot after the catalog, O*NET, or syllabi change. A full run takes about 7-10 minutes; follow it with `docker compose logs -f backend`. While it runs, the Spark UI is available at http://localhost:4041.
 
 To run it again by hand:
 
 ```bash
-docker compose exec backend sh -c "python3 -m spark_jobs.run_all | tee /data/lake/sprint4_results.txt"
+docker compose exec backend sh -c "python3 -m ai.recommendations.spark_jobs.run_all | tee /data/lake/sprint4_results.txt"
 ```
 
 | Step | What it does |
@@ -97,7 +97,7 @@ docker compose exec backend psql -h postgres -U classwizard -d classwizard -c "S
 Try your own Spark SQL. Open Python in the container with `docker compose exec backend python3`, then:
 
 ```python
-from spark_jobs.session import get_spark, read_table
+from ai.recommendations.spark_jobs.session import get_spark, read_table
 spark = get_spark()
 read_table(spark, "gold", "ratings").createOrReplaceTempView("ratings")
 read_table(spark, "silver", "courses").createOrReplaceTempView("courses")

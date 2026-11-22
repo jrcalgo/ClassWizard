@@ -5,7 +5,7 @@ import os
 import psycopg
 from pyspark.sql import functions as F
 
-from spark_jobs.session import ONET_DIR, SYLLABI_CSV, section, snake_case, write_table
+from ai.recommendations.spark_jobs.session import ONET_DIR, SYLLABI_CSV, section, snake_case, write_table
 
 ONET_FILES = {
     "onet_occupations": "occupation_data.csv",

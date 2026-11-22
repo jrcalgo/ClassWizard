@@ -10,7 +10,7 @@ import numpy as np
 from pyspark.ml.feature import StringIndexer
 from pyspark.sql import functions as F
 
-from spark_jobs.session import read_table, section, write_table
+from ai.recommendations.spark_jobs.session import read_table, section, write_table
 
 MIN_IMPORTANCE = 3.0   # O*NET importance runs 1-5; 3 and up counts as important
 MIN_SIMILARITY = 0.55  # a syllabus concept this close to a skill name counts as a match

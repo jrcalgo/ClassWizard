@@ -22,7 +22,7 @@ The first build takes ~10-15 minutes. The first start takes several more minutes
 
 When it's ready, `curl http://127.0.0.1:8000/health` returns `OK`, and the frontend starts. Then open http://127.0.0.1:8501.
 
-The Spark pipeline then runs in the background for about 7 minutes and fills `course_career_scores`. Later starts skip it unless the catalog, O*NET, or syllabi changed.
+The Spark pipeline (`python3 -m ai.recommendations.spark_jobs.run_all`) then runs in the background for about 7 minutes and fills `course_career_scores`. Later starts skip it unless the catalog, O*NET, or syllabi changed.
 
 ## Redeploy after a code change
 

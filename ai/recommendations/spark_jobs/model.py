@@ -7,7 +7,7 @@ from pyspark.ml.evaluation import RegressionEvaluator
 from pyspark.ml.recommendation import ALS
 from pyspark.sql import functions as F
 
-from spark_jobs.session import LAKE_DIR, read_table, section, write_table
+from ai.recommendations.spark_jobs.session import LAKE_DIR, read_table, section, write_table
 
 SEED = 42
 RANKS = [8, 16, 32]

@@ -9,8 +9,8 @@ import pytest
 
 pytest.importorskip("pyspark")
 
-from spark_jobs import gold, silver  # noqa: E402
-from spark_jobs.session import get_spark  # noqa: E402
+from ai.recommendations.spark_jobs.medallion import gold, silver  # noqa: E402
+from ai.recommendations.spark_jobs.session import get_spark  # noqa: E402
 
 
 @pytest.fixture(scope="module")
