@@ -1,64 +1,259 @@
 import streamlit as st
 
+_PALETTES = {
+    "Light": {
+        "bg": "#f3f6f3",
+        "card": "#ffffff",
+        "card-alt": "#f7faf8",
+        "text": "#17251e",
+        "muted": "#52645a",
+        "border": "#d5ddd8",
+        "green": "#1f4d3a",
+        "green-hover": "#173d2d",
+        "on-green": "#ffffff",
+        "button": "#1f4d3a",
+        "button-hover": "#173d2d",
+        "on-button": "#ffffff",
+        "selection-border": "#1f4d3a",
+        "selection-bg": "transparent",
+        "selection-text": "#17251e",
+        "gold": "#a66c13",
+        "link": "#1b6546",
+    },
+    "Dark": {
+        "bg": "#101814",
+        "card": "#17231d",
+        "card-alt": "#1d2b24",
+        "text": "#edf4ee",
+        "muted": "#b6c4ba",
+        "border": "#34443a",
+        "green": "#75b88b",
+        "green-hover": "#91cba3",
+        "on-green": "#102017",
+        "button": "#76551b",
+        "button-hover": "#86631f",
+        "on-button": "#ffffff",
+        "selection-border": "#d9b85c",
+        "selection-bg": "#3b2e19",
+        "selection-text": "#fff1d2",
+        "gold": "#f0c66f",
+        "link": "#a5d9b5",
+    },
+}
+
 _CSS = """
 <style>
+:root {
+  --primary-color: {green};
+  --cw-bg: {bg};
+  --cw-card: {card};
+  --cw-card-alt: {card-alt};
+  --cw-text: {text};
+  --cw-muted: {muted};
+  --cw-border: {border};
+  --cw-green: {green};
+  --cw-green-hover: {green-hover};
+  --cw-on-green: {on-green};
+  --cw-button: {button};
+  --cw-button-hover: {button-hover};
+  --cw-on-button: {on-button};
+  --cw-selection-border: {selection-border};
+  --cw-selection-bg: {selection-bg};
+  --cw-selection-text: {selection-text};
+  --cw-gold: {gold};
+  --cw-link: {link};
+  --cw-body-font: "Avenir Next", "Segoe UI", sans-serif;
+  --cw-display-font: Georgia, "Times New Roman", serif;
+}
+
+html, body, .stApp, [data-testid="stAppViewContainer"] {
+  background: var(--cw-bg);
+  color: var(--cw-text);
+  font-family: var(--cw-body-font);
+}
+
+[data-testid="stHeader"] {
+  background: var(--cw-bg);
+}
+
+[data-testid="stMainBlockContainer"] {
+  max-width: 1320px;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+
+.stApp h1, .stApp h2, .stApp h3, .stApp h4 {
+  color: var(--cw-text) !important;
+  font-family: var(--cw-display-font) !important;
+  letter-spacing: -0.02em;
+}
+
+[data-testid="stAppViewContainer"] input,
+[data-testid="stAppViewContainer"] textarea,
+[data-testid="stAppViewContainer"] button,
+[data-testid="stMarkdownContainer"] p,
+[data-testid="stWidgetLabel"] p,
+[data-testid="stCaptionContainer"] {
+  color: var(--cw-muted);
+  font-family: var(--cw-body-font) !important;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  accent-color: var(--cw-green) !important;
+}
+
+.react-aria-ComboBox [role="group"]:focus-within {
+  border-color: var(--cw-green) !important;
+  box-shadow: 0 0 0 1px var(--cw-green) !important;
+}
+
+[data-testid="stCheckbox"] label > div {
+  border-color: var(--cw-border) !important;
+}
+
+[data-testid="stCheckbox"][data-selected="true"] label > div {
+  border-color: var(--cw-green) !important;
+  background: var(--cw-green) !important;
+}
+
+[data-testid="stCheckbox"][data-selected="true"] label > div polyline {
+  stroke: var(--cw-on-green) !important;
+}
+
+[data-testid="stCheckbox"] label[data-selected="true"]:has(input[aria-label="Include summer terms"]) {
+  gap: 0.6rem;
+  padding: 0.55rem 0.85rem;
+  border: 1px solid var(--cw-selection-border);
+  border-radius: 0.75rem;
+  background: var(--cw-selection-bg);
+}
+
+[data-testid="stCheckbox"] label[data-selected="true"]:has(input[aria-label="Include summer terms"]) [data-testid="stMarkdownContainer"] p {
+  color: var(--cw-selection-text) !important;
+}
+
+[data-testid="stRadioOption"] > div > div:first-child {
+  border-color: var(--cw-border) !important;
+}
+
+[data-testid="stRadioOption"][data-selected="true"] > div > div:first-child {
+  border-color: var(--cw-green) !important;
+  background: var(--cw-green) !important;
+}
+
+[data-testid="stSlider"] [data-rac][data-orientation="horizontal"],
+[data-testid="stSlider"] [data-rac][data-orientation="horizontal"] > div[data-rac] {
+  background: transparent !important;
+}
+
 [data-testid="stVerticalBlockBorderWrapper"] {
+  border: 1px solid var(--cw-border);
+  border-radius: 16px;
+  background: var(--cw-card);
+}
+
+[data-testid="stFileUploaderDropzone"] {
+  border: 1px dashed var(--cw-border);
   border-radius: 12px;
+  background: var(--cw-card-alt);
+}
+
+[data-baseweb="select"] > div,
+[data-testid="stTextInput"] input,
+[data-testid="stNumberInput"] input {
+  border-color: var(--cw-border);
+  background: var(--cw-card-alt);
+  color: var(--cw-text);
+}
+
+[data-testid="stExpander"] {
+  border-color: var(--cw-border);
+  background: var(--cw-card-alt);
+}
+
+.stButton > button {
+  border-radius: 10px;
+  border-color: var(--cw-border);
+  color: var(--cw-text);
+  font-family: var(--cw-body-font);
+  font-weight: 600;
+  transition: background-color 120ms ease, border-color 120ms ease;
+}
+
+.stButton > button:hover {
+  border-color: var(--cw-green);
+  color: var(--cw-green);
+}
+
+.stButton > button[kind="primary"],
+[data-testid="stBaseButton-primary"] {
+  border-color: var(--cw-button) !important;
+  background: var(--cw-button) !important;
+  color: var(--cw-on-button) !important;
+}
+
+.stButton > button[kind="primary"]:hover,
+[data-testid="stBaseButton-primary"]:hover {
+  border-color: var(--cw-button-hover) !important;
+  background: var(--cw-button-hover) !important;
+  color: var(--cw-on-button) !important;
 }
 
 .cw-terms {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 14px;
 }
 
 .term-card {
-  flex: 1 1 140px;
-  border: 1px solid #d5ddd8;
-  border-radius: 10px;
-  padding: 10px 12px;
-  background: #f7faf8;
+  flex: 1 1 150px;
+  border: 1px solid var(--cw-border);
+  border-radius: 12px;
+  padding: 14px;
+  background: var(--cw-card-alt);
 }
 
 .term-card h4 {
-  margin: 0 0 8px;
-  font-size: 0.95rem;
+  margin: 0 0 10px;
+  font-size: 1rem;
 }
 
 .term-course {
-  margin: 0 0 8px;
+  margin: 0 0 10px;
 }
 
 .term-course strong {
   display: block;
+  color: var(--cw-green);
 }
 
 .term-course span {
-  color: #4d5c54;
-  font-size: 0.85rem;
+  color: var(--cw-muted);
+  font-size: 0.88rem;
 }
 
 .gap-list {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 10px;
 }
 
 .gap-row {
   display: grid;
   grid-template-columns: 1.1fr 1.4fr 1.3fr;
-  gap: 8px;
+  gap: 12px;
   align-items: start;
-  padding: 8px 10px;
-  border-radius: 8px;
-  background: #f7faf8;
-  border: 1px solid #d5ddd8;
+  padding: 12px;
+  border-radius: 10px;
+  background: var(--cw-card-alt);
+  border: 1px solid var(--cw-border);
 }
 
 .gap-row .label {
   display: block;
   font-size: 0.75rem;
-  color: #5c6b64;
+  color: var(--cw-muted);
 }
 
 .skill-graph {
@@ -67,37 +262,37 @@ _CSS = """
 }
 
 .skill-graph .link {
-  stroke: #8aa394;
+  stroke: var(--cw-muted);
   stroke-width: 1.5;
 }
 
 .skill-graph .node rect {
-  fill: #f7faf8;
-  stroke: #1f4d3a;
+  fill: var(--cw-card-alt);
+  stroke: var(--cw-green);
   stroke-width: 1.5;
 }
 
 .skill-graph .node.needed rect {
-  stroke: #8a5a12;
+  stroke: var(--cw-gold);
 }
 
 .skill-graph .node.career rect {
-  fill: #1f4d3a;
+  fill: var(--cw-green);
 }
 
 .skill-graph text {
   font-size: 12px;
-  fill: #1c2b24;
-  font-family: sans-serif;
+  fill: var(--cw-text);
+  font-family: var(--cw-body-font);
 }
 
 .skill-graph .node.career text {
-  fill: #ffffff;
+  fill: var(--cw-on-green);
 }
 
 .skill-graph .heading {
   font-size: 11px;
-  fill: #5c6b64;
+  fill: var(--cw-muted);
 }
 
 .st-key-occ_menu,
@@ -121,17 +316,17 @@ _CSS = """
 
 div[data-testid="stExpander"] details summary {
   min-height: 0;
-  padding: 0.15rem 0.45rem;
+  padding: 0.2rem 0.45rem;
 }
 
 div[data-testid="stExpander"] details summary p {
   margin: 0;
   font-size: 0.92rem;
-  line-height: 1.2;
+  line-height: 1.3;
 }
 
 div[data-testid="stExpanderDetails"] {
-  padding: 0 0.45rem 0.15rem;
+  padding: 0 0.45rem 0.25rem;
 }
 
 div[data-testid="stExpander"] [data-testid="stVerticalBlock"] {
@@ -150,17 +345,32 @@ div[data-testid="stExpander"] [data-testid="stCheckbox"] {
 
 div[data-testid="stExpander"] [data-testid="stCheckbox"] label {
   min-height: 0;
-  padding: 0.05rem 0;
+  padding: 0.08rem 0;
 }
 
 div[data-testid="stExpander"] [data-testid="stCheckbox"] label p {
   margin: 0;
   font-size: 0.9rem;
-  line-height: 1.15;
+  line-height: 1.3;
+}
+
+@media (max-width: 768px) {
+  [data-testid="stMainBlockContainer"] {
+    padding: 1rem 1rem 2rem;
+  }
+
+  .gap-row {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
 """
 
 
-def apply() -> None:
-    st.markdown(_CSS, unsafe_allow_html=True)
+def apply(mode: str = "Light") -> None:
+    if mode not in _PALETTES:
+        raise ValueError(f"Unknown color theme: {mode}")
+    css = _CSS
+    for key, value in _PALETTES[mode].items():
+        css = css.replace(f"{{{key}}}", value)
+    st.markdown(css, unsafe_allow_html=True)

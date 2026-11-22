@@ -1,6 +1,7 @@
 import html
 import json
 import os
+from pathlib import Path
 import urllib.error
 import urllib.request
 
@@ -12,6 +13,13 @@ import style
 from uploads.degreeworks import AuditUnavailable, load_audit, post_audit, watch_session
 
 BACKEND_URL = os.environ.get("BACKEND_URL", "http://127.0.0.1:8000")
+LOGO_PATH = Path(__file__).resolve().parent / "assets" / "classwizard-logo.png"
+SYLLAB_MAP_DIR = Path(
+    os.environ.get(
+        "SYLLAB_MAP_DIR",
+        str(Path(__file__).resolve().parent.parent.parent / "data" / "syllabCMap"),
+    )
+)
 # "explain": chat answers come from /explain (cited, local Ollama).
 # "chat": chat answers come from /chat (syllabus triples, LLM_MODEL provider).
 CHAT_MODE = os.environ.get("CHAT_MODE", "explain").strip().lower()
@@ -430,6 +438,61 @@ def _graph_html(
     )
 
 
+@st.cache_data(show_spinner=False)
+def _syllab_map_courses() -> list[str]:
+    return sorted(
+        {
+            path.parent.name
+            for path in SYLLAB_MAP_DIR.glob("*/*_graph.png")
+            if path.is_file()
+        }
+    )
+
+
+def _syllab_map_graph() -> None:
+    st.subheader("SyllabCMap course concept map")
+    courses = _syllab_map_courses()
+    if not courses:
+        st.info("No SyllabCMap graph images were found.")
+        return
+
+    preferred = [
+        row.get("code", "")
+        for row in _recommendation_rows()
+        if isinstance(row.get("code"), str)
+    ]
+    audit = st.session_state.get("audit") or {}
+    preferred.extend(
+        course.get("code", "")
+        for status in ("courses_in_progress", "courses_completed", "courses_not_taken")
+        for course in audit.get(status) or []
+        if isinstance(course.get("code"), str)
+    )
+    default = next(
+        (
+            code.strip().upper().replace(" ", "_")
+            for code in preferred
+            if code.strip().upper().replace(" ", "_") in courses
+        ),
+        "ITSC_3160" if "ITSC_3160" in courses else courses[0],
+    )
+    selected = st.selectbox(
+        "Course map",
+        courses,
+        index=courses.index(default),
+        format_func=lambda code: code.replace("_", " "),
+        key="syllab_map_course",
+        help="Search course maps generated from syllabCMap.",
+    )
+    image_path = SYLLAB_MAP_DIR / selected / f"{selected}_graph.png"
+    st.image(
+        str(image_path),
+        caption="Syllabus concept map; dashed outlines indicate inferred concepts.",
+        width="stretch",
+        alt=f"Syllabus concept map for {selected.replace('_', ' ')}",
+    )
+
+
 def _show_html(fragment: str) -> None:
     if hasattr(st, "html"):
         st.html(fragment)
@@ -438,6 +501,8 @@ def _show_html(fragment: str) -> None:
 
 
 def _init_state() -> None:
+    if "theme_mode" not in st.session_state:
+        st.session_state.theme_mode = "Light"
     if "plan_ready" not in st.session_state:
         st.session_state.plan_ready = False
     if "messages" not in st.session_state:
@@ -463,14 +528,13 @@ def _load_occupations() -> dict:
 
 
 def _career_menu() -> list[dict]:
-    st.subheader("Target careers")
     try:
         payload = _load_occupations()
     except (urllib.error.URLError, TimeoutError, json.JSONDecodeError):
         st.error("Occupations are unavailable.")
         return []
     chosen: dict[str, str] = {}
-    with st.container(border=True, height="content", gap=2, key="occ_menu"):
+    with st.container(height="content", gap=2, key="occ_menu"):
         for category in payload.get("categories", []):
             occupations = category["occupations"]
             label = f"{category['name']} ({len(occupations)})"
@@ -567,34 +631,45 @@ def _store_upload(
 
 
 def _preferences() -> None:
-    uploaded = st.file_uploader(
-        "DegreeWorks audit",
-        type=["pdf"],
-        help="Kept for this page only. A refresh discards the parsed audit.",
-    )
-    careers = _career_menu()
-    credit_col, summer_col = st.columns(2)
-    credits = credit_col.slider("Credits per semester", min_value=3, max_value=18, value=15)
-    include_summer = summer_col.checkbox("Include summer terms", value=True)
-    priority = st.radio(
-        "Priority",
-        ["Finish sooner", "Close skill gaps"],
-        horizontal=True,
-    )
-    if st.button("Build plan", type="primary"):
-        if uploaded is None:
-            st.warning("Upload a DegreeWorks PDF first.")
-            return
-        if not careers:
-            st.warning("Select at least one career.")
-            return
-        _store_upload(uploaded, careers, credits, include_summer, priority)
+    st.subheader("Build your plan")
+    with st.container(border=True):
+        st.markdown("#### 1 · Upload your audit")
+        uploaded = st.file_uploader(
+            "DegreeWorks audit",
+            type=["pdf"],
+            help="Kept for this page only. A refresh discards the parsed audit.",
+        )
+        st.divider()
+        st.markdown("#### 2 · Choose target careers")
+        careers = _career_menu()
+        st.divider()
+        st.markdown("#### 3 · Set your preferences")
+        credit_col, summer_col = st.columns(2)
+        credits = credit_col.slider(
+            "Credits per semester", min_value=3, max_value=18, value=15
+        )
+        include_summer = summer_col.checkbox("Include summer terms", value=True)
+        priority = st.radio(
+            "Priority",
+            ["Finish sooner", "Close skill gaps"],
+            horizontal=True,
+        )
+        if st.button("Build plan", type="primary"):
+            if uploaded is None:
+                st.warning("Upload the DegreeWorks audit first.")
+                return
+            if not careers:
+                st.warning("Select at least one career.")
+                return
+            _store_upload(uploaded, careers, credits, include_summer, priority)
     if st.session_state.audit:
-        st.info(_audit_summary(st.session_state.audit))
+        with st.container(border=True):
+            st.markdown("#### Audit summary")
+            st.info(_audit_summary(st.session_state.audit))
 
 
 def _chat(prefs: dict) -> None:
-    st.subheader("Course recommendations")
+    st.subheader("Plan assistant")
     with st.container(height=280):
         for message in st.session_state.messages:
             with st.chat_message(message["role"]):
@@ -612,29 +687,47 @@ def _chat(prefs: dict) -> None:
 
 def _results() -> None:
     prefs = st.session_state.prefs
+    st.subheader("Your plan")
     left, right = st.columns(2)
     with left:
         with st.container(border=True):
             _chat(prefs)
+        with st.container(border=True):
             st.subheader("Semester sequence")
+            st.caption("Sample sequence; not yet generated from your audit.")
             _show_html(_terms_html())
     with right:
         with st.container(border=True):
             _recommendations_section()
+        with st.container(border=True):
             st.subheader("Skill gaps")
             st.caption("Sample data: not yet computed from your audit.")
             _show_html(_gaps_html())
+        with st.container(border=True):
             st.subheader("Skill links")
             current, needed, links = _graph_data(st.session_state.audit)
             _show_html(_graph_html(prefs["careers"], current, needed, links))
+        with st.container(border=True):
+            _syllab_map_graph()
 
 
 def main() -> None:
-    st.set_page_config(page_title="ClassWizard", layout="wide")
-    style.apply()
+    st.set_page_config(
+        page_title="ClassWizard",
+        page_icon=str(LOGO_PATH),
+        layout="wide",
+    )
     _init_state()
-    st.title("ClassWizard")
-    st.caption("Draft planner. Currently WIP; non-operational.")
+    style.apply(st.session_state.theme_mode)
+    logo_column, title_column, theme_column = st.columns([1, 6, 2])
+    with logo_column:
+        st.image(str(LOGO_PATH), width=82)
+    with title_column:
+        st.title("ClassWizard")
+        st.caption("Career-aware course planning")
+    with theme_column:
+        st.selectbox("Appearance", ["Light", "Dark"], key="theme_mode")
+    st.caption("Semester sequence and skill-gap panels currently use sample data.")
     _keep_audit()
     _refresh_audit()
     _preferences()

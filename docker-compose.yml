@@ -96,10 +96,12 @@ services:
       BACKEND_URL: http://backend:8000
       # explain = cited answers via /explain (local Ollama); chat = syllabus chat via /chat
       CHAT_MODE: ${CHAT_MODE:-explain}
+      SYLLAB_MAP_DIR: /data/syllabCMap
     ports:
       - "8501:8501"
     volumes:
       - ./frontend/src:/app
+      - ./data/syllabCMap:/data/syllabCMap:ro
 
 volumes:
   pgdata:

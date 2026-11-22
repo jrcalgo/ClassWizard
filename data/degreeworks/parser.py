@@ -126,16 +126,28 @@ def _flatten(text: str) -> str:
 def _header(flat: str) -> dict:
     """Labeled header values.
 
-    The student name, student ID and advisor names are matched only so the
-    pattern can find the fields around them. Their groups are non-capturing
-    (?:...), so those values are never extracted into a variable.
+    Some exports put the student name in the page banner rather than after the
+    "Student name" label. Verify that either location contains a name, but do
+    not extract it into the returned audit.
     """
+    labeled_name = re.search(
+        r"\bStudent name\s+(?!Overall GPA\b|Student ID\b)\S.*?\s+"
+        r"(?=Overall GPA\b|Student ID\b)",
+        flat,
+    )
+    banner_name = re.search(
+        r"\bUNC Charlotte\s+\S.*?\s+-\s+\d+\s+UNC Charlotte\s+Degree progress\s+Student name\b",
+        flat,
+    )
+    if labeled_name is None and banner_name is None:
+        raise ValueError("degree audit student name could not be read")
+
     match = re.search(
-        r"Student name\s+(?:.+?)\s+(?:Overall GPA|Student ID)\s+"
+        r"Student name\s+(?:.+?\s+)?(?:Overall GPA|Student ID)\s+"
         r".+?\s+Degree\s+(?!progress\b)(.+?)\s+Audit date\s+"
         r"(\d{1,2}/\d{1,2}/\d{4}\s+\d{1,2}:\d{2}\s*[AP]M)\s+"
         r".*?\s+Level\s+(.+?)\s+Classification\s+(.+?)\s+"
-        r"Program\s+(.+?)\s+Major\s+(.+?)\s+College\s+(.+?)\s+"
+        r"Programs?\s+(.+?)\s+Majors?\s+(.+?)\s+College\s+(.+?)\s+"
         r"(?:Advisors?|Degree in)\b",
         flat,
     )
