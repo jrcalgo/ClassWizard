@@ -7,7 +7,7 @@ from pyspark.ml.evaluation import RegressionEvaluator
 from pyspark.ml.recommendation import ALS
 from pyspark.sql import functions as F
 
-from spark_jobs.session import LAKE_DIR, read_table, section, write_table
+from ai.recommendations.spark_jobs.session import LAKE_DIR, read_table, section, write_table
 
 SEED = 42
 RANKS = [8, 16, 32]
@@ -26,9 +26,10 @@ def rmse(predictions, prediction_col="prediction"):
     return evaluator.evaluate(predictions)
 
 
-def run(spark):
+def run(spark, ratings=None, artifact_dir=None):
     section("Step 5: Spark ML - ALS recommender (careers x courses)")
-    ratings = read_table(spark, "gold", "ratings")
+    if ratings is None:
+        ratings = read_table(spark, "gold", "ratings")
 
     train, test = ratings.randomSplit([0.8, 0.2], seed=SEED)
     train.cache()
@@ -61,28 +62,36 @@ def run(spark):
     print(f"Baseline RMSE (overall average):  {rmse(baseline, 'global_mean'):.4f}")
     print()
 
+    model = make_als(best_rank, best_reg).fit(ratings)
+
     # The score is the raw ALS prediction. Capping it at 5 makes the best courses tie.
-    predictions = write_table(
-        model.transform(ratings).select("soc_code", "course_code",
-                                        F.round("prediction", 3).alias("als_score"),
-                                        F.col("rating").alias("hybrid_rating")),
-        "gold", "predictions")
+    predictions = model.transform(ratings).select("catalog_name", "soc_code", "course_code",
+                                        F.col("prediction").alias("als_score"),
+                                        F.col("rating").alias("hybrid_rating"))
+    if artifact_dir is None:
+        predictions = write_table(predictions, "gold", "predictions")
+    else:
+        predictions.write.mode("overwrite").parquet(str(artifact_dir / "predictions"))
+        model.write().overwrite().save(str(artifact_dir / "als_career_course"))
+        return spark.read.parquet(str(artifact_dir / "predictions"))
     print(f"  gold.predictions     {predictions.count():>10,} rows   (a score for every career x course pair)")
     print()
 
     careers = read_table(spark, "silver", "careers").select("soc_code", F.col("title").alias("career"))
     courses = read_table(spark, "silver", "courses").select(
-        "course_code", F.coalesce("title", F.lit("(syllabus only)")).alias("course_title"))
+        "catalog_name", "course_code", F.coalesce("title", F.lit("(syllabus only)")).alias("course_title"))
 
     print("Sample predictions on test pairs:")
-    (test_predictions.join(careers, "soc_code").join(courses, "course_code")
+    (test_predictions.join(careers, "soc_code").join(courses, ["catalog_name", "course_code"])
      .select("career", "course_code", "course_title", "rating", F.round("prediction", 3).alias("prediction"))
      .orderBy(F.rand(SEED)).show(10, truncate=40))
 
-    named = predictions.join(careers, "soc_code").join(courses, "course_code")
+    named = predictions.join(careers, "soc_code").join(courses, ["catalog_name", "course_code"])
     for soc_code in SAMPLE_CAREERS:
         print(f"Top 5 recommended courses for {soc_code}:")
         (named.filter(F.col("soc_code") == soc_code).orderBy(F.desc("als_score"))
          .select("career", "course_code", "course_title", "als_score", "hybrid_rating").show(5, truncate=40))
 
-    model.write().overwrite().save(str(LAKE_DIR / "models" / "als_career_course"))
+    model.write().overwrite().save(str((artifact_dir or LAKE_DIR / "models") / "als_career_course"))
+
+    return predictions

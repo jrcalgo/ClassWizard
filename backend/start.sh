@@ -45,4 +45,9 @@ PY
 
 cd /app
 python3 -m backend.storage.database.postgres
+
+# Independent supervisors keep the API available during publication and training.
+python3 -m ai.recommendations.spark_jobs.refresh &
+python3 -m ai.recommendations.spark_jobs.worker &
+
 exec uvicorn backend.main:app --host 0.0.0.0 --port 8000

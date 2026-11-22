@@ -2,7 +2,7 @@
 
 from pyspark.sql import functions as F
 
-from spark_jobs.session import read_table, section, term_key, write_table
+from ai.recommendations.spark_jobs.session import read_table, section, term_key, write_table
 
 COURSE_CODE = r"^[A-Z]{2,5} \d{4}[A-Z]{0,2}$"
 DEGREE_JOB_ZONES = [4, 5]  # bachelor's degree or more
@@ -14,12 +14,12 @@ def course_code(column):
 
 
 def clean_catalog_courses(bronze_courses, bronze_links):
-    """Catalog courses, one row per code, with a prerequisite count."""
+    """One row per catalog and course, with a catalog-specific prerequisite count."""
     prereqs = (
         bronze_links.filter(F.col("kind") == "prerequisite")
-        .select(course_code(F.col("course_code")).alias("course_code"), "target_code")
+        .select("catalog_name", course_code(F.col("course_code")).alias("course_code"), "target_code")
         .distinct()
-        .groupBy("course_code").count()
+        .groupBy("catalog_name", "course_code").count()
         .withColumnRenamed("count", "n_prereqs")
     )
     return (
@@ -29,9 +29,9 @@ def clean_catalog_courses(bronze_courses, bronze_links):
         .withColumn("title", F.trim("title"))
         .withColumn("description", F.trim("description"))
         .withColumn("credits", F.col("credit_min").cast("int"))
-        .dropDuplicates(["course_code"])
-        .join(prereqs, "course_code", "left")
-        .select("course_code", "title", "description", "credits", "n_prereqs")
+        .dropDuplicates(["catalog_name", "course_code"])
+        .join(prereqs, ["catalog_name", "course_code"], "left")
+        .select("catalog_name", "course_code", "title", "description", "credits", "n_prereqs")
     )
 
 
@@ -52,17 +52,17 @@ def clean_course_concepts(bronze_triples):
 
 
 def build_courses(catalog_courses, course_concepts):
-    """Catalog courses and syllabus courses joined by course code."""
+    """Enrich catalog courses with syllabus concepts; keep catalog identity."""
     syllabus = course_concepts.groupBy("course_code").count().withColumnRenamed("count", "n_concepts")
     number = F.regexp_extract("course_code", r" (\d{4})", 1).cast("int")
     return (
-        catalog_courses.join(syllabus, "course_code", "outer")
+        catalog_courses.join(syllabus, "course_code", "left")
         .withColumn("subject", F.split("course_code", " ").getItem(0))
         .withColumn("level", F.when(number >= 5000, "graduate").otherwise("undergraduate"))
         .withColumn("in_catalog", F.col("title").isNotNull())
         .withColumn("has_syllabus", F.col("n_concepts").isNotNull())
         .fillna(0, subset=["n_concepts", "n_prereqs"])
-        .select("course_code", "subject", "level", "title", "description", "credits",
+        .select("catalog_name", "course_code", "subject", "level", "title", "description", "credits",
                 "n_prereqs", "n_concepts", "in_catalog", "has_syllabus")
     )
 

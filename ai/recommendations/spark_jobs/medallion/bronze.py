@@ -5,7 +5,7 @@ import os
 import psycopg
 from pyspark.sql import functions as F
 
-from spark_jobs.session import ONET_DIR, SYLLABI_CSV, section, snake_case, write_table
+from ai.recommendations.spark_jobs.session import ONET_DIR, SYLLABI_CSV, section, snake_case, write_table
 
 ONET_FILES = {
     "onet_occupations": "occupation_data.csv",
@@ -19,8 +19,8 @@ ONET_FILES = {
 COURSES_SQL = "SELECT catalog_name, code, title, description, credit_min FROM courses"
 COURSES_SCHEMA = "catalog_name string, code string, title string, description string, credit_min int"
 
-LINKS_SQL = "SELECT course_code, target_code, kind FROM course_links"
-LINKS_SCHEMA = "course_code string, target_code string, kind string"
+LINKS_SQL = "SELECT catalog_name, course_code, target_code, kind FROM course_links"
+LINKS_SCHEMA = "catalog_name string, course_code string, target_code string, kind string"
 
 
 def read_csv(spark, path):

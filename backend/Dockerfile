@@ -54,7 +54,7 @@ RUN --mount=type=cache,target=/opt/mamba-root/pkgs,sharing=locked \
 
 COPY --from=ghcr.io/astral-sh/uv:0.13.7 /uv /usr/local/bin/uv
 
-# Java 17 for PySpark (spark_jobs/). procps: the Spark launch script calls ps.
+# Java 17 for PySpark (ai/recommendations/spark_jobs/). procps: the Spark launch script calls ps.
 # Installed before the lock and app layers so code changes don't rebuild it.
 RUN --mount=type=cache,target=/var/cache/apt,sharing=locked \
     apt-get update \
@@ -88,7 +88,7 @@ RUN python3 -c "from sentence_transformers import SentenceTransformer; SentenceT
 
 COPY backend /app/backend
 COPY ai /app/ai
-COPY spark_jobs /app/spark_jobs
+COPY ai/recommendations/spark_jobs /app/ai/recommendations/spark_jobs
 COPY data/__init__.py /app/data/__init__.py
 COPY data/degreeworks /app/data/degreeworks
 COPY data/uncc-courses/catalog/pyproject.toml /tmp/catalog/pyproject.toml

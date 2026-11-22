@@ -25,8 +25,11 @@ CREATE TABLE IF NOT EXISTS courses (
   prerequisite_raw text,
   corequisite_raw text,
   pre_or_corequisite_raw text,
+  restriction_raw text,
   UNIQUE (catalog_name, code)
 );
+-- Added after the first release; existing databases get the column here.
+ALTER TABLE courses ADD COLUMN IF NOT EXISTS restriction_raw text;
 
 CREATE TABLE IF NOT EXISTS course_links (
   id bigint GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
@@ -162,12 +165,83 @@ CREATE INDEX IF NOT EXISTS syllabus_triples_embedding_hnsw
   ON syllabus_triples USING hnsw (embedding vector_cosine_ops);
 
 
--- Career x course scores written by spark_jobs (ALS). Empty until the pipeline runs.
+-- Career x catalog course scores written by Spark (ALS). Empty until the pipeline runs.
 -- als_score is the ALS prediction; hybrid_rating is the 0-5 rating it was trained on.
 CREATE TABLE IF NOT EXISTS course_career_scores (
+  catalog_name text NOT NULL,
   soc_code text NOT NULL,
   course_code text NOT NULL,
-  als_score real NOT NULL,
+  als_score double precision,
+  normalized_als_score double precision,
+  blended_rating double precision,
   hybrid_rating real NOT NULL,
-  PRIMARY KEY (soc_code, course_code)
+  PRIMARY KEY (catalog_name, soc_code, course_code)
+);
+
+
+-- Structured syllabus records (data/_datasets/uncc-courses/syllabi/syllabus-records.zip),
+-- one per syllabus file. Units and concepts may be LLM-inferred (inferred = true).
+-- Course and objective text is also embedded in text_chunks
+-- (source_type 'syllabus_course' and 'syllabus_objective').
+CREATE TABLE IF NOT EXISTS syllabus_courses (
+  course_code text PRIMARY KEY,
+  title text,
+  description text,
+  level text NOT NULL,
+  prerequisites text,
+  cross_listed text[] NOT NULL DEFAULT '{}',
+  source_file text NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS syllabus_units (
+  course_code text NOT NULL,
+  unit_number integer NOT NULL,
+  title text NOT NULL,
+  inferred boolean NOT NULL,
+  PRIMARY KEY (course_code, unit_number)
+);
+
+CREATE TABLE IF NOT EXISTS syllabus_concepts (
+  course_code text NOT NULL,
+  unit_number integer NOT NULL,
+  label text NOT NULL
+);
+
+CREATE INDEX IF NOT EXISTS syllabus_concepts_course_idx
+  ON syllabus_concepts (course_code);
+
+CREATE TABLE IF NOT EXISTS syllabus_objectives (
+  course_code text NOT NULL,
+  objective_id text NOT NULL,
+  text text NOT NULL,
+  bloom text,
+  PRIMARY KEY (course_code, objective_id)
+);
+
+-- Course codes named in a syllabus's prerequisite text.
+CREATE TABLE IF NOT EXISTS syllabus_prerequisites (
+  course_code text NOT NULL,
+  target_code text NOT NULL,
+  PRIMARY KEY (course_code, target_code)
+);
+
+-- Cited contributions to the published Spark score batch.
+
+CREATE TABLE IF NOT EXISTS course_career_match_evidence (
+  id text PRIMARY KEY,
+  catalog_name text NOT NULL, course_code text NOT NULL, soc_code text NOT NULL,
+  concept text NOT NULL, concept_key text NOT NULL, career_term text NOT NULL,
+  career_term_key text NOT NULL, kind text NOT NULL,
+  confidence double precision NOT NULL, similarity double precision NOT NULL,
+  career_weight double precision NOT NULL, points double precision NOT NULL,
+  contribution double precision NOT NULL, multiplicity bigint NOT NULL,
+  triple_id text, filename text, page_num integer, section_heading text, source_text text
+);
+CREATE INDEX IF NOT EXISTS course_career_match_lookup
+  ON course_career_match_evidence (catalog_name, course_code, soc_code, contribution DESC);
+CREATE TABLE IF NOT EXISTS course_career_match_publication (
+  singleton boolean PRIMARY KEY DEFAULT true CHECK (singleton),
+  evidence_version text NOT NULL, score_release text NOT NULL,
+  score_published_at timestamptz NOT NULL, row_count bigint NOT NULL,
+  published_at timestamptz NOT NULL DEFAULT now()
 );

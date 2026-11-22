@@ -1,6 +1,6 @@
 # Deployment
 
-ClassWizard runs with Docker Compose. Docker must be running.
+ClassWizard runs with Docker Compose. Docker is the only thing you need to install; the chatbot's language model (Ollama) runs in its own container.
 
 ## First time
 
@@ -8,18 +8,62 @@ ClassWizard runs with Docker Compose. Docker must be running.
    ```bash
    cp .env.example .env
    ```
-2. If you use the default chat mode, start Ollama on your machine and pull the model:
-   ```bash
-   ollama pull qwen3:8b
-   ```
+2. Give Docker Desktop 8 GB of memory or more (Settings > Resources) for the default `qwen3:8b` model. With less, pick a smaller model (see [Chatbot model](#chatbot-model)).
+
+To use a hosted model (OpenRouter) instead, see "Optional: hosted model" in the README.
+
 3. Build and start everything:
    ```bash
    docker compose up --build
    ```
 
-The first build takes ~10-15 minutes. The first start takes several more minutes while the catalog loads and the syllabi are embedded.
+The first build takes ~10-15 minutes. The first start takes several more minutes while the catalog loads, syllabi, and syllabus records are embedded.
+
+On the first start, the `ollama-pull` container also downloads the chatbot model (`qwen3:8b`, about 5 GB) into the `ollama` volume and then exits. The rest of the app works while it downloads; the chat panel answers once it finishes. Watch it with `docker compose logs -f ollama-pull`. Later starts skip the download.
 
 When it's ready, `curl http://127.0.0.1:8000/health` returns `OK`. Then open http://127.0.0.1:8501.
+
+Independent background refresh and ALS supervisors publish hybrid ratings and then blended scores in `course_career_scores`. Compatible rating matrices reuse saved ALS predictions.
+
+## Chatbot model
+
+`EXPLAIN_MODEL` in `.env` picks the model. Only Ollama models are allowed (`ollama_chat/...` or `ollama/...`), so student data never leaves your machine. EXPLAIN_ALLOW_REMOTE=1 permits a hosted model; see the README.
+
+| Model | Download | Docker memory |
+|:--|:--|:--|
+| `ollama_chat/qwen3:8b` (default) | ~5 GB | 8 GB+ |
+| `ollama_chat/qwen3:4b` | ~2.5 GB | 6 GB+ |
+| `ollama_chat/qwen3:1.7b` | ~1.4 GB | 4 GB+ |
+
+After changing it, run `docker compose up -d` again to pull the new model.
+
+On CPU an answer usually takes 10-60 seconds with `qwen3:8b`. qwen3's "thinking" pass is turned off (`EXPLAIN_THINK=false`), because it made answers about 5x slower and its reasoning is discarded before the answer is shown. The backend gives up after `EXPLAIN_TIMEOUT` seconds (default 180, keep it below 240) and shows the retrieved facts instead. An uploaded audit is kept for `AUDIT_TTL_SECONDS` (default 600) after the page last touched it; keep that longer than `EXPLAIN_TIMEOUT`.
+
+### Use an NVIDIA GPU
+
+Much faster. Needs an NVIDIA driver plus Docker Desktop with WSL 2 (Windows) or the NVIDIA Container Toolkit (Linux):
+
+```bash
+docker compose -f docker-compose.yml -f docker-compose.gpu.yml up -d
+```
+
+### Use Ollama on your own machine
+
+If you already run Ollama outside Docker and have pulled the model, set this in `.env`:
+
+```
+OLLAMA_URL=http://host.docker.internal:11434
+```
+
+Then skip the bundled containers:
+
+```bash
+docker compose up -d --scale ollama=0 --scale ollama-pull=0
+```
+
+### Free the disk space
+
+The model stays in the `ollama` volume. `docker compose down -v` deletes it along with the database.
 
 ## Redeploy after a code change
 
@@ -38,7 +82,7 @@ docker compose up -d
 
 ## Start over with an empty database
 
-This deletes all loaded data, then loads it again on the next start.
+This deletes all loaded data, then loads it again on the next start. It also deletes the downloaded chatbot model, which is downloaded again.
 
 ```bash
 docker compose down -v
@@ -57,3 +101,46 @@ docker builder prune --all
 ```bash
 docker compose logs -f backend
 ```
+
+Spark publishes catalog-qualified scores only after validating complete coverage and finite ratings. The release fingerprint includes the scoring version and loaded input releases; the published row count and timestamp are recorded in `ingest_runs`. Follow the rebuild with `docker compose logs -f backend`. Publication reports the verified score count; failures keep the previous batch intact. The API uses Spark hybrid ratings only when the requested course–career pairs are complete and current, otherwise it uses cosine similarity for the entire request.
+
+Skill-match evidence is refreshed separately from scores. `--check-evidence` uses the same exit convention as `--check`: 0 means refresh needed, 1 means current. On restart, current scores with stale evidence trigger only `--steps evidence`; incompatible artifacts produce an explicit error and ordinary RAG continues without scoring-match claims. Evidence and metadata are replaced together, and each explanation reads scores and evidence in one repeatable-read snapshot.
+
+When catalog-loader or syllabus-parser versions change, startup reloads their records and invalidates the previous score/evidence fingerprints. This can trigger a full Spark rebuild; ordinary cosine ranking remains the fallback while current hybrid scores are unavailable, and stale skill-match citations are withheld. Merging code alone does not reload data. Plan for the reload before restarting a deployed backend; runtime depends on hardware (a recent local run spent about 19 minutes in Gold scoring alone).
+
+### Independent hybrid and ALS publication
+
+Startup launches the hybrid/evidence refresher and a separate ALS supervisor before
+starting the API. Hybrid ratings become available as soon as Gold publication
+commits; evidence errors and ALS training failures do not delay recommendations.
+Both supervisors retry after 30 seconds, doubling to a 15 minute maximum. Successful
+supervisors check freshness every 30 seconds; the frontend does not poll.
+
+For an explicit refresh using compatible saved Gold artifacts:
+
+```sh
+docker compose exec backend python3 -m ai.recommendations.spark_jobs.run_all --steps publish_hybrid,evidence
+```
+
+For a complete hybrid rebuild, use `--steps bronze,silver,gold,publish_hybrid,evidence`.
+For one-shot ALS training and atomic publication:
+
+```sh
+docker compose exec backend python3 -m ai.recommendations.spark_jobs.worker --once
+```
+
+Jobs retain their immutable rating snapshot, predictions, model and training identity
+under `/data/lake/jobs/<job-id>`. Retry publication of a saved job with
+`python3 -m ai.recommendations.spark_jobs.worker --publish-job /data/lake/jobs/<job-id>`.
+Superseded jobs are rejected. A nonblocking `.als.lock` prevents duplicate workers;
+the hybrid publisher uses a separate pipeline lock.
+
+`SCORING_VERSION` versions hybrid rules; `ALS_TRAINING_VERSION` versions ALS settings
+and training behavior; `BLEND_VERSION` and `HYBRID_WEIGHT` version the 70/30 blend.
+Change the relevant version whenever its rules change. Blend-only changes reuse raw
+predictions without training. Training fingerprints include catalog, career, course
+and rating thousandths, excluding ingest timestamps and evidence provenance.
+
+The API chooses complete current blended scores, then complete hybrid ratings,
+then cosine similarity for the whole request. `score_components_by_occupation`
+exposes compatible component values, with unavailable components set to null.
