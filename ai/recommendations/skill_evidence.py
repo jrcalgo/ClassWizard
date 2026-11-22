@@ -30,6 +30,7 @@ CREATE TABLE IF NOT EXISTS course_career_match_publication (
 def select_match_items(rows, course_order, career_order, titles, clip):
     """Round-robin course/career pairs before taking another match for a pair."""
     from collections import defaultdict
+    from backend.storage.database.operations.syllabus_records import is_staff_text
     pairs = defaultdict(list)
     seen = set()
     for row in rows:
@@ -38,6 +39,8 @@ def select_match_items(rows, course_order, career_order, titles, clip):
         if (confidence < MIN_CONFIDENCE or similarity < MIN_SIMILARITY or
                 not (filename or '').strip() or not (source_text or '').strip() or
                 not (triple_id or '').strip()):
+            continue
+        if is_staff_text(source_text) or is_staff_text(concept):
             continue
         duplicate = (code, soc, ' '.join(source_text.split()), career_term.casefold())
         if duplicate in seen:

@@ -259,9 +259,15 @@ def load_catalogs(conn) -> None:
         load_catalog(conn, source)
 
 
+# Bump when load_catalog() stores something new, so existing databases reload
+# the catalog from its already-built JSON (the PDFs are not re-parsed).
+CATALOG_LOADER_VERSION = 2
+
+
 def load_catalog(conn, source: CatalogSource) -> None:
     digest = file_fingerprint(source.zip_path)
-    if already_loaded(conn, catalog_ingest_key(source), digest):
+    run_key = f"{digest}:loader{CATALOG_LOADER_VERSION}"
+    if already_loaded(conn, catalog_ingest_key(source), run_key):
         print(f"catalog {source.release} unchanged ({digest[:12]})")
         return
     if not _stamp_matches(source, digest):
@@ -295,6 +301,7 @@ def load_catalog(conn, source: CatalogSource) -> None:
                 requisite_raw(requisites, "prerequisite"),
                 requisite_raw(requisites, "corequisite"),
                 requisite_raw(requisites, "pre_or_corequisite"),
+                (course.get("restrictions") or {}).get("raw") or None,
             )
         )
         chunk_rows.append(
@@ -336,7 +343,7 @@ def load_catalog(conn, source: CatalogSource) -> None:
             COPY courses (
               catalog_name, code, subject, number, title, section, description,
               credit_min, credit_max, credit_raw, prerequisite_raw, corequisite_raw,
-              pre_or_corequisite_raw
+              pre_or_corequisite_raw, restriction_raw
             ) FROM STDIN
             """,
             course_rows,
@@ -359,7 +366,7 @@ def load_catalog(conn, source: CatalogSource) -> None:
             """,
             chunk_rows,
         )
-        replace_ingest_run(conn, catalog_ingest_key(source), digest)
+        replace_ingest_run(conn, catalog_ingest_key(source), run_key)
     print(f"loaded catalog {catalog_name}: {len(course_rows)} courses, {len(link_rows)} links")
 
 
@@ -763,7 +770,10 @@ def load_syllabus_records(conn) -> None:
     if not SYLLABUS_RECORDS_ZIP.is_file():
         print(f"{SYLLABUS_RECORDS_ZIP.name} not found, skipping syllabus records")
         return
-    digest = file_fingerprint(SYLLABUS_RECORDS_ZIP)
+    from backend.storage.database.operations.syllabus_records import PARSER_VERSION
+
+    # The parser version is part of the key, so a parser fix reloads the records.
+    digest = f"{file_fingerprint(SYLLABUS_RECORDS_ZIP)}:p{PARSER_VERSION}"
     if already_loaded(conn, "syllabus_records", digest):
         print(f"syllabus records unchanged ({digest[:12]})")
         return

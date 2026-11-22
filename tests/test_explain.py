@@ -104,7 +104,7 @@ def test_generate_allows_hosted_model_when_opted_in(monkeypatch):
 @pytest.mark.parametrize('method,label', [('spark_hybrid', 'rating (0–5)'), ('cosine_similarity', 'cosine similarity')])
 def test_course_evidence_labels_scoring_method(method, label):
     from ai.nlp.explanations.retrieval import _course_item
-    item = _course_item('ITSC 3160', ('Databases', 'SQL', 3, 3, '3'), {}, [], [],
+    item = _course_item('ITSC 3160', ('Databases', 'SQL', 3, 3, '3', None, None), {}, [], [],
                         {'career': 4.5 if method == 'spark_hybrid' else .7},
                         {'career': 'Database Administrator'}, None, method)
     assert label in item['text']
@@ -126,7 +126,7 @@ def test_named_course_does_not_receive_discovery_skill_matches(monkeypatch):
     monkeypatch.setattr(r,'_syllabus_search',lambda *args: [])
     monkeypatch.setattr(r,'_open_search',lambda *args: [('ITSC 1212',.9)])
     monkeypatch.setattr(r,'_course_rows',lambda *args: {
-        'ITSC 3160':('Databases','SQL',3,3,'3'), 'ITSC 1212':('Programming','Code',3,3,'3')})
+        'ITSC 3160':('Databases','SQL',3,3,'3',None,None), 'ITSC 1212':('Programming','Code',3,3,'3',None,None)})
     monkeypatch.setattr(r,'_prerequisites',lambda *args: {})
     monkeypatch.setattr(r,'_syllabus_rows',lambda *args: {})
     monkeypatch.setattr(r,'_objectives',lambda *args: {})
@@ -144,3 +144,172 @@ def test_named_course_does_not_receive_discovery_skill_matches(monkeypatch):
     assert captured==['ITSC 3160']
     assert any(i['id']=='ITSC 1212' for i in evidence)  # existing discovery facts preserved
     assert 'unavailable' in evidence[0]['text']
+
+
+def _fake_litellm(monkeypatch, content):
+    """Stand-in for litellm that records the completion() keyword arguments."""
+    import sys
+    import types
+
+    calls = []
+
+    def completion(**kwargs):
+        calls.append(kwargs)
+        message = types.SimpleNamespace(content=content)
+        return types.SimpleNamespace(choices=[types.SimpleNamespace(message=message)])
+
+    monkeypatch.setitem(sys.modules, "litellm", types.SimpleNamespace(completion=completion))
+    return calls
+
+
+def test_generate_turns_thinking_off_by_default(monkeypatch):
+    monkeypatch.delenv("EXPLAIN_THINK", raising=False)
+    calls = _fake_litellm(monkeypatch, "<think>hidden</think>It covers SQL [ITSC 3160].")
+    answer = generate([{"role": "user", "content": "hi"}], model="ollama_chat/qwen3:8b")
+    assert answer == "It covers SQL [ITSC 3160]."
+    assert calls[0]["think"] is False
+
+
+def test_generate_allows_thinking_when_enabled(monkeypatch):
+    monkeypatch.setenv("EXPLAIN_THINK", "true")
+    calls = _fake_litellm(monkeypatch, "ok")
+    generate([{"role": "user", "content": "hi"}], model="ollama_chat/qwen3:8b")
+    assert calls[0]["think"] is True
+
+
+def test_keep_cited_drops_uncited_sentences():
+    from ai.nlp.explanations.rag import keep_cited
+
+    assert keep_cited("It covers SQL [ITSC 3160]. It is a great course.") == "It covers SQL [ITSC 3160]."
+    # A citation written after the period stays with its sentence.
+    assert keep_cited("It covers SQL. [ITSC 3160]") == "It covers SQL. [ITSC 3160]"
+    # Nothing cited (e.g. a prompt-injected poem) becomes the exact refusal.
+    assert keep_cited("In silent halls where data streams,\nA world of tables") == NOT_FOUND
+    assert keep_cited("The evidence does not say. Not found in the data.") == NOT_FOUND
+
+
+def test_named_blocks_matches_requirement_names_loosely():
+    from ai.nlp.explanations.retrieval import named_blocks
+
+    audit = {
+        "courses_completed": [{"code": "PHYS 2101"}],
+        "courses_not_taken": [
+            {"block": "Ethics", "course_codes": ["ITSC 3688"]},
+            {"block": "Natural Science", "course_codes": ["BIOL 1110", "CHEM 1251", "PHYS 2101"]},
+            {"block": "Mathematics Elective", "course_codes": ["MATH 2112", "STAT 3128"]},
+            {"block": "Free Electives", "course_codes": []},
+        ],
+    }
+    assert named_blocks("Which course do I need for the Ethics requirement?", audit) == [
+        ("Ethics", ["ITSC 3688"])
+    ]
+    # Taken courses are left out; "sciences" and "math" match on their first letters.
+    assert named_blocks("natural sciences options?", audit) == [("Natural Science", ["BIOL 1110", "CHEM 1251"])]
+    assert named_blocks("Which math elective?", audit) == [
+        ("Mathematics Elective", ["MATH 2112", "STAT 3128"])
+    ]
+    # A block with no listed courses, or one only half named, is not matched.
+    assert named_blocks("any free elective on security?", audit) == []
+    assert named_blocks("tell me about science fiction", audit) == []
+
+
+def test_keep_cited_prefers_the_models_own_refusal():
+    from ai.nlp.explanations.rag import keep_cited
+
+    answer = (
+        "The syllabus lists 5:30-8:15PM, Mondays [ITCS 4180]. That is a different course. "
+        "Therefore the meeting time is not found in the data."
+    )
+    assert keep_cited(answer) == NOT_FOUND
+
+
+AUDIT_CREDIT = {
+    "classification": "Sophomore",
+    "courses_completed": [{"code": "MATH 2164"}, {"code": "STAT 2122"}, {"code": "ITSC 2214"}],
+    "courses_in_progress": [{"code": "ITSC 3155"}],
+}
+
+
+def test_credit_notes_warn_when_the_student_already_has_the_credit():
+    from ai.nlp.explanations.retrieval import credit_notes
+
+    desc = ("An overview of linear algebra. May not be taken for credit if credit has been "
+            "received for both MATH 2164 and STAT 2122 .")
+    notes = credit_notes("MATH 2112", desc, AUDIT_CREDIT)
+    assert len(notes) == 1 and "may not receive credit for MATH 2112" in notes[0]
+    assert "MATH 2164 and STAT 2122" in notes[0]
+    # "both" needs every course; having only one is no restriction.
+    one = {"courses_completed": [{"code": "MATH 2164"}]}
+    assert credit_notes("MATH 2112", desc, one) == []
+    # Other wordings need any one course; bare numbers inherit the subject.
+    either = "Credit will not be given for MATH 1100 where credit has been given for MATH 2164 or 2171."
+    assert credit_notes("MATH 1100", either, AUDIT_CREDIT) != []
+    assert credit_notes("MATH 1100", "Covers algebra. Not for majors.", AUDIT_CREDIT) == []
+
+
+def test_course_item_shows_the_catalog_rule_and_restriction():
+    from ai.nlp.explanations.retrieval import _course_item
+
+    row = (
+        "Software Development Projects", "Team project.", 3, 3, "(3)",
+        "ITSC 2214; and ITSC 3155, or ITIS 3300, or ITIS 3310; or permission of instructor.",
+        "Senior standing or permission of department.",
+    )
+    text = _course_item("ITSC 4155", row, AUDIT_CREDIT, [], [], {}, {}, None)["text"]
+    assert '"ITSC 2214; and ITSC 3155, or ITIS 3300, or ITIS 3310; or permission of instructor."' in text
+    assert "has completed or is taking: ITSC 2214, ITSC 3155." in text
+    assert "Not completed: ITIS 3300, ITIS 3310." in text
+    assert 'Catalog restriction: "Senior standing or permission of department."' in text
+    assert "class standing is Sophomore" in text
+
+
+def test_hybrid_skill_prompt_keeps_credit_and_prerequisite_safeguards():
+    from ai.nlp.explanations.retrieval import _course_item
+    from ai.nlp.explanations.rag import SYSTEM_PROMPT, keep_cited
+    row=('Linear Algebra', 'May not be taken for credit if credit has been received for both MATH 2164 and STAT 2122.',
+         3,3,'3','ITSC 2214 or ITIS 3300','Senior standing.')
+    item=_course_item('MATH 2112',row,AUDIT_CREDIT,[],[],{'career':4.5},{'career':'Developer'},None,'spark_hybrid')
+    assert 'may not receive credit for MATH 2112' in item['text']
+    assert 'Catalog prerequisite rule' in item['text'] and 'or ITIS 3300' in item['text']
+    assert 'Catalog restriction' in item['text'] and 'Sophomore' in item['text']
+    assert 'Spark hybrid career rating' in item['text']
+    assert 'Never recommend a course the evidence says' in SYSTEM_PROMPT
+    assert 'skill_match evidence' in SYSTEM_PROMPT
+    assert keep_cited('Recorded skill connection [skill:abc]. An unsupported conclusion.')=='Recorded skill connection [skill:abc].'
+
+
+def test_requirement_block_facts_survive_skill_evidence_budget(monkeypatch):
+    import ai.nlp.explanations.retrieval as r
+    codes=[f'ITSC {3100+i}' for i in range(6)]
+    monkeypatch.setattr(r,'encode',lambda _: [[0.]])
+    monkeypatch.setattr(r,'to_pgvector',lambda _: 'vector')
+    monkeypatch.setattr(r,'_ranked_by_question',lambda *args: [])
+    monkeypatch.setattr(r,'_syllabus_search',lambda *args: [])
+    monkeypatch.setattr(r,'_open_search',lambda *args: [('ITSC 4999',.9)])
+    monkeypatch.setattr(r,'_course_rows',lambda *args: {c:('Course','Content',3,3,'3',None,None) for c in codes+['ITSC 4999']})
+    monkeypatch.setattr(r,'_prerequisites',lambda *args: {})
+    monkeypatch.setattr(r,'_syllabus_rows',lambda *args: {})
+    monkeypatch.setattr(r,'_objectives',lambda *args: {})
+    monkeypatch.setattr(r,'_career_items',lambda *args: [])
+    captured=[]
+    def matches(conn,catalog,wanted,*args):
+        captured.extend(wanted)
+        return [{'id':f'skill:{i}','kind':'skill_match','course_code':c,'text':'Recorded connection'} for i,c in enumerate(codes[:3])]
+    monkeypatch.setattr(r,'retrieve_match_items',matches)
+    audit={'courses_not_taken':[{'block':'Ethics','course_codes':codes}]}
+    recommendation={'catalog':'UG','scoring_method':'spark_hybrid','occupations':[{'soc_code':'career','title':'Developer'}],
+                    'recommendations':[{'code':c,'score_by_occupation':{'career':4.5}} for c in codes]}
+    result=r.retrieve_evidence(None,'Which courses satisfy Ethics?',audit,recommendation,['career'])
+    assert captured==codes
+    assert set(codes).issubset({i['id'] for i in result})
+    assert len(result)==10 and sum(i['kind']=='skill_match' for i in result)==3
+    assert all('Spark hybrid career rating' in i['text'] for i in result if i['id'] in codes)
+
+
+def test_keep_cited_preserves_supported_partial_answers_with_refusal_phrase():
+    from ai.nlp.explanations.rag import keep_cited
+    answer=('Specific scoring evidence is not found in the data [skill:abc]. '
+            'The syllabus records SQL [ITSC 3160].')
+    assert keep_cited(answer)==answer
+    assert keep_cited('A claim [ITSC 3160]. I retract that claim.')==NOT_FOUND
+    assert keep_cited('A claim [ITSC 3160]. That is a different course.')==NOT_FOUND

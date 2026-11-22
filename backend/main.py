@@ -10,7 +10,14 @@ from fastapi.responses import JSONResponse, PlainTextResponse
 from pydantic import BaseModel, Field
 
 from ai.nlp.explanations.llm import explain
-from ai.nlp.explanations.rag import build_messages, check_citations, generate, model_name, student_context
+from ai.nlp.explanations.rag import (
+    build_messages,
+    check_citations,
+    generate,
+    keep_cited,
+    model_name,
+    student_context,
+)
 from ai.nlp.explanations.retrieval import retrieve_evidence
 from ai.recommendations.ranking import MissingVectors, UnsupportedAudit, audit_level, recommend
 from backend.storage.cache.redis import delete_audit, load_audit, ping, save_audit
@@ -213,11 +220,15 @@ def post_explain(body: ExplainRequest):
     # the evidence so the frontend can show the facts.
     messages = build_messages(question, evidence, student_context(audit))
     try:
-        answer = generate(messages)
+        answer = keep_cited(generate(messages))
     except Exception:
+        _renew_audit(token)
         return JSONResponse(
             {"detail": "language model unavailable", "evidence": evidence}, status_code=503
         )
+    # Generation can take minutes on CPU, during which the page cannot renew
+    # the audit; renew it now so the page's next refresh still finds it.
+    _renew_audit(token)
     # 5. Citation check: every cited ID must be one of the evidence IDs.
     return {
         "session_id": token,
@@ -226,6 +237,14 @@ def post_explain(body: ExplainRequest):
         "evidence": evidence,
         "model": model_name(),
     }
+
+
+def _renew_audit(token: str) -> None:
+    """Slide the audit's TTL forward. Best effort: a cache error must not lose the answer."""
+    try:
+        load_audit(token)
+    except Exception:
+        pass
 
 
 def _session_id(value: str | None) -> str | None:

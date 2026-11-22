@@ -79,3 +79,11 @@ def test_retrieval_before_schema_initialization_returns_no_matches():
         def execute(self,*args): return self
         def fetchone(self): return (None,)
     assert retrieve_match_items(Missing(),'UG',['A'],['career'],{},str)==[]
+
+
+def test_skill_matches_cannot_reintroduce_staff_or_contact_details():
+    assert select([row(quote='Instructor: Dr. Example. Reach x@example.edu.')])==[]
+    values=list(row())
+    values[3]='Office hours'
+    assert select([values])==[]
+    assert select([row(quote='Design and implement relational databases using SQL.')])
