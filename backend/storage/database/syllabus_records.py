@@ -13,6 +13,38 @@ CREDITS_SUFFIX = re.compile(
     r"[\s,|(-]*(?<![A-Za-z0-9])\d+(?:\.\d+)?(?:\s*-\s*\d+)?\s*credit hours?\b.*$", re.IGNORECASE
 )
 MAX_CHUNK = 1500
+# Bump when parse_record() output changes, so existing databases reload the records.
+PARSER_VERSION = 3
+
+# Staff, contact and meeting details (times, rooms) in syllabus text. They are not course content, and
+# feeding them to /explain let the model "answer" who teaches a course from an
+# unrelated syllabus. Sentences matching any of these are dropped.
+_STAFF = re.compile(
+    r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+"                     # e-mail address
+    r"|\boffice hours?\b"
+    r"|\bteaching assistants?\b"
+    r"|\binstructors?\s*(?::|\bo\b)"                  # "Instructor:" / "Instructors o ..."
+    r"|^\s*(?:dr\.|prof\.|professor)\s+[A-Z]"
+    r"|\(?\b\d{3}\)?[-. ]\d{3}-\d{4}\b"               # phone number
+    r"|\bcanvas page\b"
+    r"|\b\d{1,2}:\d{2}\s*(?:-\s*\d{1,2}:\d{2}\s*)?[ap]\.?m\b"  # class time "5:30-8:15PM"
+    r"|\b(?:room|rm\.?|bldg\.?)\s*#?\s*\d{2,4}[a-z]?\b",
+    re.IGNORECASE,
+)
+_TA = re.compile(r"\bTAs?\b")                         # "TA" only in capitals
+_SENTENCES = re.compile(r"(?<=[.!?;])\s+")
+
+
+def is_staff_text(text: str | None) -> bool:
+    return bool(text) and bool(_STAFF.search(text) or _TA.search(text))
+
+
+def without_staff(text: str | None) -> str | None:
+    """The text minus sentences that hold staff or contact details."""
+    if not text:
+        return text
+    kept = [part for part in _SENTENCES.split(text) if not is_staff_text(part)]
+    return " ".join(kept).strip() or None
 
 
 def course_code_from_name(name: str) -> str:
@@ -50,7 +82,9 @@ def parse_record(name: str, record: dict) -> dict:
     """Rows for one syllabus file: course, units, concepts, objectives, prerequisites, chunks."""
     code = course_code_from_name(name)
     title = clean_title(record.get("title"))
-    description = " ".join((record.get("description") or "").split()) or None
+    if is_staff_text(title):
+        title = None
+    description = without_staff(" ".join((record.get("description") or "").split()) or None)
     level = level_of(record, code)
     prerequisites = " ".join((record.get("prerequisites") or "").split()) or None
     cross_listed = codes_in(" ".join(record.get("cross_listed") or []), code)
@@ -72,7 +106,7 @@ def parse_record(name: str, record: dict) -> dict:
     objectives, seen_ids = [], set()
     for i, objective in enumerate(record.get("objectives") or [], start=1):
         text = " ".join((objective.get("text") or "").split())
-        if not text:
+        if not text or is_staff_text(text):
             continue
         objective_id = (objective.get("id") or f"O{i}").strip()
         if objective_id in seen_ids:
