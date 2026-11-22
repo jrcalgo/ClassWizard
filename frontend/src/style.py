@@ -9,14 +9,14 @@ _PALETTES = {
         "muted": "#52645a",
         "border": "#d5ddd8",
         "green": "#1f4d3a",
-        "green-hover": "#173d2d",
+        "green-hover": "#53e6a9",
         "on-green": "#ffffff",
         "button": "#1f4d3a",
         "button-hover": "#173d2d",
         "on-button": "#ffffff",
-        "selection-border": "#1f4d3a",
-        "selection-bg": "transparent",
-        "selection-text": "#17251e",
+        "selection-border": "transparent",
+        "selection-bg": "#1f4d3a",
+        "selection-text": "#FFFFFF",
         "gold": "#a66c13",
         "link": "#1b6546",
     },
@@ -34,8 +34,8 @@ _PALETTES = {
         "button-hover": "#215936",
         "on-button": "#ffffff",
         "selection-border": "#286b45",
-        "selection-bg": "#a6d8b3",
-        "selection-text": "#102017",
+        "selection-bg": "#286b45",
+        "selection-text": "#FFFFFF",
         "gold": "#f0c66f",
         "link": "#a5d9b5",
     },
@@ -87,6 +87,18 @@ html, body, .stApp, [data-testid="stAppViewContainer"] {
   letter-spacing: -0.02em;
 }
 
+::selection,
+*::selection {
+  background: var(--cw-selection-bg) !important;
+  color: #ffffff !important;
+}
+
+::-moz-selection,
+*::-moz-selection {
+  background: var(--cw-selection-bg) !important;
+  color: #ffffff !important;
+}
+
 [data-testid="stAppViewContainer"] input,
 [data-testid="stAppViewContainer"] textarea,
 [data-testid="stAppViewContainer"] button,
@@ -120,6 +132,15 @@ input[type="radio"] {
   stroke: var(--cw-on-green) !important;
 }
 
+[data-testid="stCheckbox"] label[data-selected="true"] {
+  border-radius: 0.5rem;
+  background: var(--cw-selection-bg);
+}
+
+[data-testid="stCheckbox"] label[data-selected="true"] p {
+  color: var(--cw-selection-text) !important;
+}
+
 [data-testid="stCheckbox"] label[data-selected="true"]:has(input[aria-label="Include summer terms"]) {
   gap: 0.6rem;
   padding: 0.55rem 0.85rem;
@@ -139,6 +160,15 @@ input[type="radio"] {
 [data-testid="stRadioOption"][data-selected="true"] > div > div:first-child {
   border-color: var(--cw-green) !important;
   background: var(--cw-green) !important;
+}
+
+[data-testid="stRadioOption"][data-selected="true"] {
+  border-radius: 0.5rem;
+  background: var(--cw-selection-bg);
+}
+
+[data-testid="stRadioOption"][data-selected="true"] p {
+  color: var(--cw-selection-text) !important;
 }
 
 [data-testid="stSlider"] [data-rac][data-orientation="horizontal"],
