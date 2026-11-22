@@ -19,7 +19,7 @@ import sys
 import time
 
 from ai.recommendations.spark_jobs.medallion import bronze, silver, gold
-from ai.recommendations.spark_jobs import model, publish, queries
+from ai.recommendations.spark_jobs import model, publish, queries, match_evidence
 from ai.recommendations.spark_jobs.session import LAKE_DIR, get_spark, read_table, section
 
 TABLES = {
@@ -36,6 +36,7 @@ STEPS = {
     "queries": queries.run,
     "model": model.run,
     "publish": publish.run,
+    "evidence": match_evidence.run,
 }
 
 
@@ -43,7 +44,14 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--steps", default=",".join(STEPS), help="comma-separated: " + ", ".join(STEPS))
     parser.add_argument("--check", action="store_true", help="exit 0 if a run is needed, 1 if scores are current")
+    parser.add_argument("--check-evidence", action="store_true", help="exit 0 if evidence refresh is needed, 1 if current")
     args = parser.parse_args()
+    if args.check_evidence:
+        from ai.recommendations.skill_evidence import publication_current
+        with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            current = publication_current(conn)
+        print("skill evidence is current" if current else "skill evidence missing or out of date")
+        sys.exit(1 if current else 0)
     if args.check:
         current = publish.is_current()
         print("spark scores are current" if current else "spark scores missing or out of date")

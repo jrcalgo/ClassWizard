@@ -26,6 +26,7 @@ from __future__ import annotations
 import re
 
 from ai.nlp.embeddings.sentence_transformer import encode, to_pgvector
+from ai.recommendations.skill_evidence import retrieve_match_items, merge_match_items
 from ai.recommendations.ranking import CATALOG, candidate_courses, satisfied_codes, taken_codes
 
 MAX_ITEMS = 10          # cap on evidence items per answer (prompt budget)
@@ -359,4 +360,16 @@ def retrieve_evidence(
             objectives.get(code, []),
         ))
     items.extend(_career_items(conn, soc_codes))
-    return items[:MAX_ITEMS]
+    # A named-course question must not acquire another course's skill matches
+    # merely because open search found it. Keep discovery facts as before.
+    course_order = list(dict.fromkeys(named if named else focus + matched))
+    matches = []
+    if recommendation.get("scoring_method") == "spark_hybrid":
+        matches = retrieve_match_items(conn, catalog, course_order, soc_codes, titles, _clip)
+    supported = {item['course_code'] for item in matches}
+    for item in items:
+        if item.get('kind') == 'course' and item['id'] not in supported:
+            item['text'] += (" Strong, traceable evidence of individual scoring skill matches "
+                             "is unavailable here; use the course and career facts without "
+                             "claiming they explain the assigned rating.")
+    return merge_match_items(items, matches, named, MAX_ITEMS)

@@ -62,3 +62,5 @@ docker compose logs -f backend
 ```
 
 Spark publishes catalog-qualified scores only after validating complete coverage and finite ratings. The release fingerprint includes the scoring version and loaded input releases; the published row count and timestamp are recorded in `ingest_runs`. Follow the rebuild with `docker compose logs -f backend`. Publication reports the verified score count; failures keep the previous batch intact. The API uses Spark hybrid ratings only when the requested course–career pairs are complete and current, otherwise it uses cosine similarity for the entire request.
+
+Skill-match evidence is refreshed separately from scores. `--check-evidence` uses the same exit convention as `--check`: 0 means refresh needed, 1 means current. On restart, current scores with stale evidence trigger only `--steps evidence`; incompatible artifacts produce an explicit error and ordinary RAG continues without scoring-match claims. Evidence and metadata are replaced together, and each explanation reads scores and evidence in one repeatable-read snapshot.

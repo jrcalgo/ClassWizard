@@ -200,6 +200,7 @@ def post_explain(body: ExplainRequest):
     # (never trust a course list from the client), then gather evidence.
     try:
         with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            conn.execute("SET TRANSACTION ISOLATION LEVEL REPEATABLE READ, READ ONLY")
             recommendation = recommend(conn, audit, soc_codes, _MAX_LIMIT)
             evidence = retrieve_evidence(conn, question, audit, recommendation, soc_codes)
     except UnsupportedAudit as exc:

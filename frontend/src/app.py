@@ -608,6 +608,8 @@ def _chat(prefs: dict) -> None:
                 if message.get("sources"):
                     with st.expander(f"Sources ({len(message['sources'])})"):
                         for source in message["sources"]:
+                            if source.get('kind') == 'skill_match':
+                                st.markdown(f"**{source.get('label', source['id'])}**")
                             st.markdown(f"**[{source['id']}]** {source['text']}")
     prompt = st.chat_input("Ask about this plan")
     if prompt:

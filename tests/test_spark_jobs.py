@@ -126,3 +126,62 @@ def test_full_data_als_covers_all_catalog_pairs(spark):
     predictions = make_als(2, .1).fit(indexed).transform(indexed)
     assert predictions.count() == 4
     assert predictions.select('catalog_name', 'course_code', 'soc_code').distinct().count() == 4
+
+
+def test_contributions_preserve_duplicate_links(spark):
+    concepts = spark.createDataFrame([('ITSC 3160','SQL','sql',.9)],
+        'course_code string, term string, term_key string, confidence double')
+    links = spark.createDataFrame([('sql','databases',.8),('sql','databases',.8)],
+        'course_term string, onet_term string, similarity double')
+    careers = spark.createDataFrame([('career','databases','Databases','knowledge',.75)],
+        'soc_code string, term_key string, term string, kind string, weight double')
+    matches = gold.contributing_matches(concepts,links,careers).collect()
+    assert len(matches)==2
+    assert sum(r.points for r in matches)==pytest.approx(1.08)
+
+
+def test_match_provenance_uses_selected_confidence_and_stable_source(spark):
+    from ai.recommendations.spark_jobs.match_evidence import build_match_evidence, publication_rows
+    concepts = spark.createDataFrame([('ITSC 3160','SQL','sql',.9)],
+        'course_code string, term string, term_key string, confidence double')
+    links = spark.createDataFrame([('sql','databases',.8),('sql','databases',.8)],
+        'course_term string, onet_term string, similarity double')
+    careers = spark.createDataFrame([('career','databases','Databases','knowledge',.75)],
+        'soc_code string, term_key string, term string, kind string, weight double')
+    courses = spark.createDataFrame([('UG','ITSC 3160',4),('GR','ITSC 3160',4)],
+        'catalog_name string, course_code string, n_concepts long')
+    triples = spark.createDataFrame([
+        ('ITSC 3160','covers','SQL','0.95','other','wrong.pdf','1','Overview','Wrong confidence'),
+        ('ITSC 3160','covers','SQL','0.9','b','second.pdf','2','Overview','Second source'),
+        ('itsc_3160','covers','SQL','0.9','a','first.pdf','3','Overview','Selected source')],
+        'subject string, predicate string, object string, confidence string, triple_id string, filename string, page_num string, section_heading string, evidence string')
+    raw=build_match_evidence(concepts,links,careers,courses,triples)
+    rows=publication_rows(raw).collect()
+    assert len(rows)==2
+    assert {r.catalog_name for r in rows}=={'UG','GR'}
+    assert len({r.id for r in rows})==2
+    assert all(r.filename=='first.pdf' and r.source_text=='Selected source' for r in rows)
+    assert all(r.multiplicity==2 and r.contribution==pytest.approx(.54) for r in rows)
+    assert {r.id for r in publication_rows(raw.repartition(2)).collect()}=={r.id for r in rows}
+
+
+def test_match_aggregate_validation_rejects_different_saved_scores(spark):
+    from ai.recommendations.spark_jobs.match_evidence import validate_aggregates
+    raw=spark.createDataFrame([('UG','A','career',.5)],
+        'catalog_name string, course_code string, soc_code string, contribution double')
+    valid=spark.createDataFrame([('UG','A','career',.5,1),('UG','B','career',0.,0)],
+        'catalog_name string, course_code string, soc_code string, term_score double, n_matches long')
+    validate_aggregates(raw,valid)
+    bad=spark.createDataFrame([('UG','A','career',.6,1)],valid.schema)
+    with pytest.raises(ValueError,match='aggregates'):
+        validate_aggregates(raw,bad)
+
+
+def test_evidence_csv_preserves_quotes_and_multiline_source(spark,tmp_path):
+    import csv
+    text='Students use "Python", SQL, and tools.\nNext objective.'
+    frame=spark.createDataFrame([('source.pdf',text)],'filename string, source_text string')
+    directory=tmp_path/'evidence_csv'
+    frame.coalesce(1).write.option('escape','"').csv(str(directory))
+    with next(directory.glob('part-*.csv')).open(newline='') as handle:
+        assert list(csv.reader(handle))==[['source.pdf',text]]

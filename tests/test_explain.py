@@ -109,3 +109,38 @@ def test_course_evidence_labels_scoring_method(method, label):
                         {'career': 'Database Administrator'}, None, method)
     assert label in item['text']
     assert 'Database Administrator' in item['text']
+
+
+def test_skill_evidence_absence_does_not_prohibit_supported_partial_answers():
+    from ai.nlp.explanations.rag import SYSTEM_PROMPT
+    assert 'any part of the question' in SYSTEM_PROMPT
+    assert 'missing evidence means no career relevance' in SYSTEM_PROMPT
+    assert 'without weights or scoring arithmetic' in SYSTEM_PROMPT
+
+
+def test_named_course_does_not_receive_discovery_skill_matches(monkeypatch):
+    import ai.nlp.explanations.retrieval as r
+    monkeypatch.setattr(r,'encode',lambda _: [[0.]])
+    monkeypatch.setattr(r,'to_pgvector',lambda _: 'vector')
+    monkeypatch.setattr(r,'_ranked_by_question',lambda *args: [])
+    monkeypatch.setattr(r,'_syllabus_search',lambda *args: [])
+    monkeypatch.setattr(r,'_open_search',lambda *args: [('ITSC 1212',.9)])
+    monkeypatch.setattr(r,'_course_rows',lambda *args: {
+        'ITSC 3160':('Databases','SQL',3,3,'3'), 'ITSC 1212':('Programming','Code',3,3,'3')})
+    monkeypatch.setattr(r,'_prerequisites',lambda *args: {})
+    monkeypatch.setattr(r,'_syllabus_rows',lambda *args: {})
+    monkeypatch.setattr(r,'_objectives',lambda *args: {})
+    monkeypatch.setattr(r,'_career_items',lambda *args: [])
+    captured=[]
+    def matches(conn,catalog,courses,*args):
+        captured.extend(courses)
+        return []
+    monkeypatch.setattr(r,'retrieve_match_items',matches)
+    class Conn:
+        def execute(self,*args): return self
+        def fetchall(self): return [('ITSC',)]
+    evidence=r.retrieve_evidence(Conn(),'Why ITSC 3160?',{},
+        {'catalog':'UG','scoring_method':'spark_hybrid','recommendations':[]},['career'])
+    assert captured==['ITSC 3160']
+    assert any(i['id']=='ITSC 1212' for i in evidence)  # existing discovery facts preserved
+    assert 'unavailable' in evidence[0]['text']

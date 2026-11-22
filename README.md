@@ -166,3 +166,25 @@ docker compose exec backend python3 -m ai.recommendations.spark_jobs.run_all
 ```
 
 The publish step prints the verified row count and rejects missing, extra, duplicate, or non-finite scores. `/explain` includes the scoring method and career ratings in cited evidence.
+
+### Cited syllabus-to-career skill matches
+
+`/explain` can cite the individual syllabus concepts that contributed to Spark's skill-coverage signal, with the recorded source statement, filename, and page when available. These statements come from existing extraction records; they are not independently verified verbatim PDF quotes. Computed relationships are labeled separately from what the syllabus explicitly says. The rating formula, course ordering, and recommendation cards are unchanged.
+
+Explanation evidence uses only traceable matches with confidence at least 0.80 and similarity at least 0.70. It includes at most three match items per answer and two per course, within the existing ten-item budget. For named-course questions, skill matches are limited to the named courses, while existing discovery facts remain available. Missing or weak evidence falls back to the existing syllabus and career facts; it does not imply that a course has no career relevance.
+
+Refresh evidence from compatible, already-built artifacts without embeddings or ALS training:
+
+```sh
+docker compose exec backend python3 -m ai.recommendations.spark_jobs.run_all --steps evidence
+```
+
+The command checks saved term aggregates and published predictions before atomically replacing evidence. It rejects incompatible artifacts rather than silently retraining. Evidence has its own version and is tied to the score publication timestamp. Startup refreshes evidence alone when scores are current; normal full pipeline runs publish it after scores.
+
+Prepare six before/after explanation samples and the review rubric:
+
+```sh
+docker compose exec backend python3 -m ai.nlp.explanations.review_skill_matches --output /data/lake/skill_match_review.json
+```
+
+This review uses only the existing configured local Ollama model. If unavailable, it records the model review as pending and prepares evidence samples without starting Ollama, downloading a model, or switching providers. Generated samples require review against their sources; citation-ID validity alone does not establish factual support.

@@ -92,13 +92,19 @@ def build_term_links(spark, concepts, career_terms):
     return skill_links.unionByName(technology_links)
 
 
-def term_evidence(concepts, term_links, career_terms, courses):
-    """term_score per (career, course): matched skills, weighted by how much the career needs them."""
-    matches = (
-        concepts.join(term_links, concepts.term_key == term_links.course_term)
-        .join(career_terms.select("soc_code", F.col("term_key").alias("onet_term"), "weight"), "onet_term")
+def contributing_matches(concepts, term_links, career_terms):
+    """Exact unaggregated scoring contributions, including multiplicity."""
+    return (
+        concepts.alias("concept").join(term_links, F.col("concept.term_key") == term_links.course_term)
+        .join(career_terms.select("soc_code", F.col("term_key").alias("onet_term"),
+                                 F.col("term").alias("career_term"), "kind", "weight"), "onet_term")
         .withColumn("points", F.col("confidence") * F.col("similarity") * F.col("weight"))
     )
+
+
+def term_evidence(concepts, term_links, career_terms, courses):
+    """Aggregate the same contributions exposed by explanation evidence."""
+    matches = contributing_matches(concepts, term_links, career_terms)
     # Divide by sqrt(concepts) so a long syllabus does not win on length alone.
     return (
         matches.groupBy("soc_code", "course_code")
