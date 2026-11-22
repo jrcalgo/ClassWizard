@@ -767,7 +767,7 @@ def load_syllabus_records(conn) -> None:
     if already_loaded(conn, "syllabus_records", digest):
         print(f"syllabus records unchanged ({digest[:12]})")
         return
-    from backend.storage.database.syllabus_records import read_zip
+    from backend.storage.database.operations.syllabus_records import read_zip
 
     records = read_zip(SYLLABUS_RECORDS_ZIP)
     rows = {key: [row for r in records for row in r[key]]

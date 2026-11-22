@@ -5,7 +5,7 @@ from ai.recommendations.spark_jobs.session import read_table, section
 CAREER = "15-2051.00"  # Data Scientists
 
 TOP_COURSES_SQL = f"""
-    SELECT c.course_code,
+    SELECT c.catalog_name, c.course_code,
            COALESCE(c.title, '(syllabus only)') AS title,
            c.level,
            r.rating,
@@ -13,7 +13,7 @@ TOP_COURSES_SQL = f"""
            r.term_score,
            r.n_matches
     FROM ratings r
-    JOIN courses c ON c.course_code = r.course_code
+    JOIN courses c ON c.course_code = r.course_code AND c.catalog_name = r.catalog_name
     WHERE r.soc_code = '{CAREER}'
     ORDER BY r.rating DESC
     LIMIT 10

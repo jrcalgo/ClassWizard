@@ -104,7 +104,7 @@ def _prerequisites(conn, codes: list[str], catalog: str) -> dict[str, list[str]]
     return found
 
 
-def _course_item(code, row, audit, blocks, prereqs, matches, titles, origin) -> dict:
+def _course_item(code, row, audit, blocks, prereqs, matches, titles, origin, scoring_method="cosine_similarity") -> dict:
     """One evidence item with everything known about a course, cited by its code."""
     title, description, credit_min, credit_max, credit_raw = row
     hours = credit_min if credit_min is not None and credit_min == credit_max else credit_raw
@@ -125,7 +125,8 @@ def _course_item(code, row, audit, blocks, prereqs, matches, titles, origin) -> 
         )
     if matches:
         listed = ", ".join(f"{titles.get(soc, soc)} {value:.2f}" for soc, value in matches.items())
-        parts.append(f"Career match by description similarity (higher is closer): {listed}.")
+        label = "Spark hybrid career rating (0–5)" if scoring_method == "spark_hybrid" else "Description cosine similarity"
+        parts.append(f"{label} (higher ranks better): {listed}.")
     if origin:
         parts.append(origin)
     return {"id": code, "kind": "course", "text": " ".join(parts)}
@@ -325,7 +326,7 @@ def retrieve_evidence(
         items.append(_with_objectives(
             _course_item(
                 code, rows[code], audit, blocks_by_code.get(code, []), prereqs.get(code, []),
-                rec.get("similarity_by_occupation", {}), titles, None,
+                rec.get("score_by_occupation", {}), titles, None, recommendation.get("scoring_method", "cosine_similarity"),
             ),
             objectives.get(code, []),
         ))
@@ -337,7 +338,7 @@ def retrieve_evidence(
         if code in rows:
             item = _course_item(
                 code, rows[code], audit, blocks_by_code.get(code, []), prereqs.get(code, []),
-                recommended.get(code, {}).get("similarity_by_occupation", {}), titles, origin,
+                recommended.get(code, {}).get("score_by_occupation", {}), titles, origin, recommendation.get("scoring_method", "cosine_similarity"),
             )
         elif code in syllabi:
             title, description = syllabi[code]
@@ -351,8 +352,9 @@ def retrieve_evidence(
         items.append(_with_objectives(
             _course_item(
                 code, rows[code], audit, rec.get("requirement_blocks", []), prereqs.get(code, []),
-                rec.get("similarity_by_occupation", {}), titles,
+                rec.get("score_by_occupation", {}), titles,
                 f"Recommended for the student's chosen careers (rank {list(recommended).index(code) + 1}).",
+                recommendation.get("scoring_method", "cosine_similarity"),
             ),
             objectives.get(code, []),
         ))

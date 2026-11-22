@@ -81,3 +81,64 @@ def test_loader_finds_both_catalog_zips(tmp_path):
     sources = discover_catalogs(tmp_path)
     assert [s.release for s in sources] == ["Undergraduate 2026-2027", "Graduate 2026-2027"]
     assert sources[1].slug == "graduate-2026-2027"
+
+
+class ScoreConn:
+    def __init__(self, *, stale=False, incomplete=False, vectors=True):
+        self.stale, self.incomplete, self.vectors = stale, incomplete, vectors
+        self.rows = []
+
+    def execute(self, sql, params=None):
+        if 'SELECT 1 FROM courses' in sql:
+            self.rows = [(1,)]
+        elif 'SELECT soc_code, title' in sql:
+            self.rows = [('career1', 'Career One'), ('career2', 'Career Two')]
+        elif 'SELECT code, title' in sql:
+            self.rows = [('ITSC 3155', 'A', 3, 3, '3'), ('ITSC 3160', 'B', 3, 3, '3')]
+        elif "source = 'spark_als'" in sql and "hybrid_rating FROM" not in sql:
+            from ai.recommendations.scoring import SCORING_VERSION
+            self.rows = [('old' if self.stale else SCORING_VERSION + ':inputs',)]
+        elif 'string_agg' in sql and 'hybrid_rating FROM' not in sql:
+            self.rows = [('inputs',)]
+        elif 'hybrid_rating FROM' in sql:
+            assert params[0] == 'Undergraduate 2026-2027'
+            self.rows = [('ITSC 3155', 'career1', 2), ('ITSC 3155', 'career2', 5),
+                         ('ITSC 3160', 'career1', 4), ('ITSC 3160', 'career2', 1)]
+            if self.incomplete:
+                self.rows.pop()
+        elif "source_type = 'occupation'" in sql and 'SELECT source_key' in sql:
+            self.rows = [('career1',), ('career2',)] if self.vectors else []
+        elif 'SELECT c.source_key' in sql:
+            self.rows = [('ITSC 3155', 'career1', .1), ('ITSC 3155', 'career2', .2),
+                         ('ITSC 3160', 'career1', .9), ('ITSC 3160', 'career2', .3)]
+        elif 'SELECT course_code, target_code' in sql:
+            self.rows = [('ITSC 3155', 'ITSC 2214'), ('ITSC 3160', 'ITSC 9999')]
+        else:
+            raise AssertionError(sql)
+        return self
+
+    def fetchone(self):
+        return self.rows[0] if self.rows else None
+
+    def fetchall(self):
+        return self.rows
+
+
+def test_spark_ranks_without_vectors_and_keeps_audit_flags():
+    result = recommend(ScoreConn(vectors=False), AUDIT, ['career1', 'career2'])
+    assert result['scoring_method'] == 'spark_hybrid'
+    first, second = result['recommendations']
+    assert first['code'] == 'ITSC 3155' and first['score'] == 5
+    assert first['score_by_occupation']['career2'] == 5
+    assert 'similarity_by_occupation' not in first
+    assert first['prerequisites'] == [{'code': 'ITSC 2214', 'met': True}]
+    assert second['requirement_blocks'] == ['Major', 'Electives']
+    assert second['prerequisites'] == [{'code': 'ITSC 9999', 'met': False}]
+
+
+@pytest.mark.parametrize('options', [{'stale': True}, {'incomplete': True}])
+def test_spark_falls_back_for_entire_request(options):
+    result = recommend(ScoreConn(**options), AUDIT, ['career1', 'career2'])
+    assert result['scoring_method'] == 'cosine_similarity'
+    assert result['recommendations'][0]['code'] == 'ITSC 3160'
+    assert all(r['score'] <= 1 for r in result['recommendations'])

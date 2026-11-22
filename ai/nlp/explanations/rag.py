@@ -2,7 +2,7 @@
 
 Separate from llm.py, which serves the /chat route and its hosted providers.
 
-The language model only explains: rules and similarity already chose the
+The language model only explains: the ranking system already chose the
 courses (/recommend), and retrieval already chose the evidence. The prompt
 tells the model to answer only from that evidence and to cite evidence IDs
 in square brackets; check_citations() then verifies every cited ID exists.
@@ -43,7 +43,8 @@ Rules:
 3. If the evidence does not answer the question, reply exactly: "{NOT_FOUND}".
 4. Never invent prerequisites, grades, schedules, or course content.
 5. Prerequisite entries may list alternatives separately; do not claim a student is ineligible.
-6. Answer in at most 4 sentences."""
+6. Answer in at most 4 sentences.
+7. Career ratings and similarities are ranking signals, not probabilities or measures of student skill. Do not infer specific skill matches from a numeric score."""
 
 _THINK = re.compile(r"<think>.*?</think>", re.DOTALL | re.IGNORECASE)
 _CITATION = re.compile(r"\[([^\[\]]+)\]")

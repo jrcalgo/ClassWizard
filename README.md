@@ -67,7 +67,7 @@ Student names, IDs, and advisor names are removed when the DegreeWorks PDF is pa
 
 ## Spark pipeline (ALS recommender)
 
-`ai/recommendations/spark_jobs/` is a batch job that rates how well every course fits every career, then trains a Spark MLlib ALS recommender on those ratings. The backend runs it automatically in the background on the first boot, and again on any boot after the catalog, O*NET, or syllabi change. A full run takes about 7-10 minutes; follow it with `docker compose logs -f backend`. While it runs, the Spark UI is available at http://localhost:4041.
+`ai/recommendations/spark_jobs/` is a batch job that rates how well every course fits every career, then trains a Spark MLlib ALS recommender on those ratings. The backend runs it automatically in the background on the first boot, and again on any boot after the catalog, O*NET, or syllabi change. Runtime depends on hardware and competing work; the verified local run spent about 19 minutes in Gold scoring alone. Follow it with `docker compose logs -f backend`. While it runs, the Spark UI is available at http://localhost:4041.
 
 To run it again by hand:
 
@@ -154,3 +154,15 @@ Apache Spark (PySpark 3.5, Spark SQL, MLlib ALS), Java 17
 | Outputs          | Recommended courses, skill-gap view, explanations                                                                         |
 
 This software takes source data from the UNC- Charlotte course catalog, DegreeWorks PDfs submitted by the user, course syllabi, and the O*NET career database. PostgreSQL, pgvector, and Redis will be used for storage in their respective locations. Spark cleans and joins the data, and trains an ALS model that scores how well each course fits each career. AI will be used to match skills, and suggest courses between matching career pathways and produce recommended courses in a front-end.
+
+### Recommendation scoring
+
+`/recommend` uses current Spark `hybrid_rating` values (0–5) when every remaining catalog course has scores for all selected careers. Otherwise the entire request uses catalog-to-career cosine similarity. Responses identify `scoring_method` (`spark_hybrid` or `cosine_similarity`) and include `score_by_occupation` per course. The highest selected-career score determines rank. Scores are relative ranking signals, not probabilities or student skill measurements. ALS predictions are published for comparison, but do not determine the API ranking.
+
+Spark keeps catalog identity through all layers. Publishing validates exact coverage of loaded catalog courses across its degree-level O*NET careers, rejects invalid batches, and atomically replaces scores and release metadata. Input-release or scoring-version changes trigger a rebuild. Partial runs require current upstream stage manifests; after a schema or scoring change, rebuild all stages:
+
+```sh
+docker compose exec backend python3 -m ai.recommendations.spark_jobs.run_all
+```
+
+The publish step prints the verified row count and rejects missing, extra, duplicate, or non-finite scores. `/explain` includes the scoring method and career ratings in cited evidence.

@@ -19,26 +19,26 @@ MIN_SIMILARITY = 0.55  # a syllabus concept this close to a skill name counts as
 # Courses with no syllabus data are rated on text similarity alone.
 RATING_SQL = """
     WITH signals AS (
-        SELECT d.soc_code, d.course_code, d.doc_sim, c.has_syllabus,
+        SELECT d.catalog_name, d.soc_code, d.course_code, d.doc_sim, c.has_syllabus,
                CASE WHEN c.has_syllabus THEN COALESCE(e.term_score, 0) END AS term_score,
                COALESCE(e.n_matches, 0) AS n_matches
         FROM doc_similarity d
-        JOIN courses c ON c.course_code = d.course_code
-        LEFT JOIN evidence e ON e.soc_code = d.soc_code AND e.course_code = d.course_code
+        JOIN courses c ON c.course_code = d.course_code AND c.catalog_name = d.catalog_name
+        LEFT JOIN evidence e ON e.soc_code = d.soc_code AND e.course_code = d.course_code AND e.catalog_name = d.catalog_name
     ),
     percentiles AS (
         SELECT *,
-               PERCENT_RANK() OVER (PARTITION BY soc_code ORDER BY doc_sim) AS p_doc,
-               PERCENT_RANK() OVER (PARTITION BY soc_code, has_syllabus ORDER BY term_score) AS p_term
+               PERCENT_RANK() OVER (PARTITION BY catalog_name, soc_code ORDER BY doc_sim) AS p_doc,
+               PERCENT_RANK() OVER (PARTITION BY catalog_name, soc_code, has_syllabus ORDER BY term_score) AS p_term
         FROM signals
     ),
     combined AS (
         SELECT *, CASE WHEN has_syllabus THEN (p_doc + p_term) / 2 ELSE p_doc END AS hybrid
         FROM percentiles
     )
-    SELECT soc_code, course_code,
+    SELECT catalog_name, soc_code, course_code,
            ROUND(doc_sim, 4) AS doc_sim, ROUND(term_score, 4) AS term_score, n_matches,
-           ROUND(5 * PERCENT_RANK() OVER (PARTITION BY soc_code ORDER BY hybrid), 3) AS rating
+           ROUND(5 * PERCENT_RANK() OVER (PARTITION BY catalog_name, soc_code ORDER BY hybrid), 3) AS rating
     FROM combined
 """
 
@@ -103,9 +103,9 @@ def term_evidence(concepts, term_links, career_terms, courses):
     return (
         matches.groupBy("soc_code", "course_code")
         .agg(F.sum("points").alias("points"), F.count("*").alias("n_matches"))
-        .join(courses.select("course_code", "n_concepts"), "course_code")
+        .join(courses.select("catalog_name", "course_code", "n_concepts"), "course_code")
         .withColumn("term_score", F.col("points") / F.sqrt("n_concepts"))
-        .select("soc_code", "course_code", "term_score", "n_matches")
+        .select("catalog_name", "soc_code", "course_code", "term_score", "n_matches")
     )
 
 
@@ -128,7 +128,7 @@ def doc_similarity(spark, courses, concepts, careers, career_skills, career_tech
     course_codes, course_texts = [], []
     for row in courses.orderBy("course_code").collect():
         parts = [row.course_code, row.title, row.description, "; ".join(topics.get(row.course_code, []))]
-        course_codes.append(row.course_code)
+        course_codes.append((row.catalog_name, row.course_code))
         course_texts.append(". ".join(p for p in parts if p))
 
     soc_codes, career_texts = [], []
@@ -140,14 +140,15 @@ def doc_similarity(spark, courses, concepts, careers, career_skills, career_tech
 
     # The vectors have length 1, so the dot product is the cosine similarity.
     similarity = embed(course_texts) @ embed(career_texts).T
-    rows = [(soc, code, float(similarity[i, j]))
-            for j, soc in enumerate(soc_codes) for i, code in enumerate(course_codes)]
-    return spark.createDataFrame(rows, "soc_code string, course_code string, doc_sim double")
+    rows = [(catalog, soc, code, float(similarity[i, j]))
+            for j, soc in enumerate(soc_codes) for i, (catalog, code) in enumerate(course_codes)]
+    return spark.createDataFrame(rows, "catalog_name string, soc_code string, course_code string, doc_sim double")
 
 
 def add_als_ids(ratings):
     """ALS needs integer ids: careers become user_id, courses become item_id."""
-    for column, id_column in [("soc_code", "user_id"), ("course_code", "item_id")]:
+    ratings = ratings.withColumn("course_identity", F.to_json(F.struct("catalog_name", "course_code")))
+    for column, id_column in [("soc_code", "user_id"), ("course_identity", "item_id")]:
         indexer = StringIndexer(inputCol=column, outputCol=id_column)
         ratings = indexer.fit(ratings).transform(ratings).withColumn(id_column, F.col(id_column).cast("int"))
     return ratings
@@ -181,3 +182,4 @@ def run(spark):
     print()
     print("  Rating summary:")
     ratings.select("doc_sim", "term_score", "n_matches", "rating").describe().show()
+    rated.unpersist()

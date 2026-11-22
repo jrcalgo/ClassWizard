@@ -4,7 +4,7 @@ Run from the repo root:
     python -m pytest tests/test_syllabus_records.py
 """
 
-from backend.storage.database.syllabus_records import clean_title, course_code_from_name, parse_record
+from backend.storage.database.operations.syllabus_records import clean_title, course_code_from_name, parse_record
 
 RECORD = {
     "code": "ITSC 6160",  # the file name wins: one syllabus can serve two course numbers

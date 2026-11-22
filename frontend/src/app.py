@@ -190,9 +190,11 @@ def _recommendations_section() -> None:
         st.caption("No still-needed courses with a named course code were found in this audit.")
         return
     titles = {o["soc_code"]: o["title"] for o in result.get("occupations", [])}
+    st.caption("Career rating (0–5)" if result.get("scoring_method") == "spark_hybrid" else "Description similarity")
     top = rows[0]["score"]
     for row in rows:
-        best = max(row["similarity_by_occupation"], key=row["similarity_by_occupation"].get)
+        scores = row.get("score_by_occupation", row.get("similarity_by_occupation", {}))
+        best = max(scores, key=scores.get) if scores else "selected careers"
         st.markdown(
             f"**{row['code']}** {row['title']} · {row['credits']} cr  \n"
             f"{_match_label(row['score'], top)} for {titles.get(best, best)}"

@@ -19,8 +19,8 @@ ONET_FILES = {
 COURSES_SQL = "SELECT catalog_name, code, title, description, credit_min FROM courses"
 COURSES_SCHEMA = "catalog_name string, code string, title string, description string, credit_min int"
 
-LINKS_SQL = "SELECT course_code, target_code, kind FROM course_links"
-LINKS_SCHEMA = "course_code string, target_code string, kind string"
+LINKS_SQL = "SELECT catalog_name, course_code, target_code, kind FROM course_links"
+LINKS_SCHEMA = "catalog_name string, course_code string, target_code string, kind string"
 
 
 def read_csv(spark, path):

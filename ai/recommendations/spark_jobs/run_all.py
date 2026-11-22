@@ -11,6 +11,10 @@ Run only some steps:
 """
 
 import argparse
+import fcntl
+import json
+import os
+import psycopg
 import sys
 import time
 
@@ -45,7 +49,26 @@ def main():
         print("spark scores are current" if current else "spark scores missing or out of date")
         sys.exit(1 if current else 0)
     chosen = args.steps.split(",")
+    unknown = set(chosen) - set(STEPS)
+    if unknown:
+        parser.error(f"Unknown steps: {sorted(unknown)}")
+    LAKE_DIR.mkdir(parents=True, exist_ok=True)
+    pipeline_lock = (LAKE_DIR / ".pipeline.lock").open("a")
+    try:
+        fcntl.flock(pipeline_lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        print("Spark rebuild already running; leaving its artifacts untouched")
+        return
 
+    if "bronze" in chosen:
+        LAKE_DIR.mkdir(parents=True, exist_ok=True)
+        with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            manifest = {"release": publish.inputs_key(conn), "scoring_version": publish.SCORING_VERSION}
+        # Invalidate old provenance before overwriting any layer.
+        publish.MANIFEST.unlink(missing_ok=True)
+    else:
+        manifest = json.loads(publish.MANIFEST.read_text())
+    completed = set()
     spark = get_spark()
     print("Spark session started.")
     print(f"Spark version: {spark.version}")
@@ -54,7 +77,25 @@ def main():
     for name, step in STEPS.items():
         if name in chosen:
             started = time.time()
+            dependencies = {"silver": "bronze", "gold": "silver", "model": "gold", "publish": "model"}
+            dependency = dependencies.get(name)
+            if dependency and dependency not in completed:
+                saved = json.loads((LAKE_DIR / f"{dependency}_manifest.json").read_text())
+                if saved != manifest:
+                    raise ValueError(f"Stale {dependency} artifacts; rebuild from Bronze")
+            if name == "publish":
+                publish.MANIFEST.write_text(json.dumps(manifest))
+            stage_manifest = LAKE_DIR / f"{name}_manifest.json"
+            ordered = ["bronze", "silver", "gold", "model", "publish"]
+            if name in ordered:
+                for downstream in ordered[ordered.index(name):]:
+                    (LAKE_DIR / f"{downstream}_manifest.json").unlink(missing_ok=True)
+            stage_manifest.unlink(missing_ok=True)
             step(spark)
+            completed.add(name)
+            stage_manifest.write_text(json.dumps(manifest))
+            if name == "bronze":
+                publish.MANIFEST.write_text(json.dumps(manifest))
             print(f"({name} took {time.time() - started:.0f} seconds)")
 
     section("Record counts per layer")

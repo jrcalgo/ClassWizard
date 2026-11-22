@@ -61,9 +61,11 @@ def run(spark):
     print(f"Baseline RMSE (overall average):  {rmse(baseline, 'global_mean'):.4f}")
     print()
 
+    model = make_als(best_rank, best_reg).fit(ratings)
+
     # The score is the raw ALS prediction. Capping it at 5 makes the best courses tie.
     predictions = write_table(
-        model.transform(ratings).select("soc_code", "course_code",
+        model.transform(ratings).select("catalog_name", "soc_code", "course_code",
                                         F.round("prediction", 3).alias("als_score"),
                                         F.col("rating").alias("hybrid_rating")),
         "gold", "predictions")
@@ -72,14 +74,14 @@ def run(spark):
 
     careers = read_table(spark, "silver", "careers").select("soc_code", F.col("title").alias("career"))
     courses = read_table(spark, "silver", "courses").select(
-        "course_code", F.coalesce("title", F.lit("(syllabus only)")).alias("course_title"))
+        "catalog_name", "course_code", F.coalesce("title", F.lit("(syllabus only)")).alias("course_title"))
 
     print("Sample predictions on test pairs:")
-    (test_predictions.join(careers, "soc_code").join(courses, "course_code")
+    (test_predictions.join(careers, "soc_code").join(courses, ["catalog_name", "course_code"])
      .select("career", "course_code", "course_title", "rating", F.round("prediction", 3).alias("prediction"))
      .orderBy(F.rand(SEED)).show(10, truncate=40))
 
-    named = predictions.join(careers, "soc_code").join(courses, "course_code")
+    named = predictions.join(careers, "soc_code").join(courses, ["catalog_name", "course_code"])
     for soc_code in SAMPLE_CAREERS:
         print(f"Top 5 recommended courses for {soc_code}:")
         (named.filter(F.col("soc_code") == soc_code).orderBy(F.desc("als_score"))
