@@ -1,0 +1,40 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6211,concept,data analytics tools,data analytics tools,1,verified,data analytics tools,DSBA_6211_concepts_raw.json
+DSBA_6211,topic,Data Mining Fundamentals,Data Mining Fundamentals,1,inferred,Data Mining Fundamentals,DSBA_6211_concepts_raw.json
+DSBA_6211,topic,Predictive Modeling Basics,Predictive Modeling Basics,1,inferred,Predictive Modeling Basics,DSBA_6211_concepts_raw.json
+DSBA_6211,topic,Experimentation and Design,Experimentation and Design,1,inferred,Experimentation and Design,DSBA_6211_concepts_raw.json
+DSBA_6211,topic,Survival Analysis Techniques,Survival Analysis Techniques,1,inferred,Survival Analysis Techniques,DSBA_6211_concepts_raw.json
+DSBA_6211,topic,Text Mining Fundamentals,Text Mining Fundamentals,1,inferred,Text Mining Fundamentals,DSBA_6211_concepts_raw.json
+DSBA_6211,topic,Forecasting and Time Series,Forecasting and Time Series,1,inferred,Forecasting and Time Series,DSBA_6211_concepts_raw.json
+DSBA_6211,topic,Business Analytics Applications,Business Analytics Applications,1,inferred,Business Analytics Applications,DSBA_6211_concepts_raw.json
+DSBA_6211,topic,Formulating Analytic Tasks,Formulating Analytic Tasks,1,inferred,Formulating Analytic Tasks,DSBA_6211_concepts_raw.json
+DSBA_6211,topic,Evaluating Analytics Utility,Evaluating Analytics Utility,1,inferred,Evaluating Analytics Utility,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,data mining principles,Data Mining Principles,1,inferred,data mining principles,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,current practice overview,Current Practice Overview,1,inferred,current practice overview,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,predictive modeling techniques,Predictive Modeling Techniques,1,inferred,predictive modeling techniques,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,model evaluation metrics,Model Evaluation Metrics,1,inferred,model evaluation metrics,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,model selection criteria,Model Selection Criteria,1,inferred,model selection criteria,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,experimental design principles,Experimental Design Principles,1,inferred,experimental design principles,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,hypothesis testing frameworks,Hypothesis Testing Frameworks,1,inferred,hypothesis testing frameworks,DSBA_6211_concepts_raw.json
+DSBA_6211,method,confidence interval estimation,Confidence Interval Estimation,1,inferred,confidence interval estimation,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,survival function estimation,Survival Function Estimation,1,inferred,survival function estimation,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,hazard rate modeling,Hazard Rate Modeling,1,inferred,hazard rate modeling,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,censoring mechanisms,Censoring Mechanisms,1,inferred,censoring mechanisms,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,text preprocessing methods,Text Preprocessing Methods,1,inferred,text preprocessing methods,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,sentiment analysis techniques,Sentiment Analysis Techniques,1,inferred,sentiment analysis techniques,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,topic modeling approaches,Topic Modeling Approaches,1,inferred,topic modeling approaches,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,time series decomposition,Time Series Decomposition,1,inferred,time series decomposition,DSBA_6211_concepts_raw.json
+DSBA_6211,method,ARIMA model formulation,ARIMA Model Formulation,1,inferred,ARIMA model formulation,DSBA_6211_concepts_raw.json
+DSBA_6211,method,exponential smoothing,Exponential Smoothing,1,inferred,exponential smoothing,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,analytics in marketing strategy,Analytics in Marketing Strategy,1,inferred,analytics in marketing strategy,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,operational efficiency improvement,Operational Efficiency Improvement,1,inferred,operational efficiency improvement,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,financial performance enhancement,Financial Performance Enhancement,1,inferred,financial performance enhancement,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,business objective alignment,Business Objective Alignment,1,inferred,business objective alignment,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,project definition and scope,Project Definition and Scope,1,inferred,project definition and scope,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,success metrics identification,Success Metrics Identification,1,inferred,success metrics identification,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,return on investment analysis,Return on Investment Analysis,1,inferred,return on investment analysis,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,cost-benefit tradeoff evaluation,Cost-Benefit Tradeoff Evaluation,1,inferred,cost-benefit tradeoff evaluation,DSBA_6211_concepts_raw.json
+DSBA_6211,concept,risk management considerations,Risk Management Considerations,1,inferred,risk management considerations,DSBA_6211_concepts_raw.json
+DSBA_6211,method,hypothesis testing,Hypothesis Testing,1,inferred,hypothesis testing,DSBA_6211_concepts_raw.json
+DSBA_6211,method,text preprocessing,Text Preprocessing,1,inferred,text preprocessing,DSBA_6211_concepts_raw.json
+DSBA_6211,method,topic modeling,Topic Modeling,1,inferred,topic modeling,DSBA_6211_concepts_raw.json

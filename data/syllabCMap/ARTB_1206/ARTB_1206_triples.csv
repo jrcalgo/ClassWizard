@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTB_1206,Professional Practice,topic,PREREQUISITE_OF,Entrepreneurship in Art Field,concept,same unit,,ARTB_1206_triples_raw.json
+ARTB_1206,Professional Practice,topic,PREREQUISITE_OF,Conceptual Development Process,concept,same unit,,ARTB_1206_triples_raw.json
+ARTB_1206,Entrepreneurship in Art Field,concept,PREREQUISITE_OF,Business Planning and Strategy,concept,A taught first,,ARTB_1206_triples_raw.json
+ARTB_1206,Entrepreneurship in Art Field,concept,PREREQUISITE_OF,Marketing and Promotion Techniques,concept,A taught first,,ARTB_1206_triples_raw.json
+ARTB_1206,Entrepreneurship in Art Field,concept,PREREQUISITE_OF,Financial Management and Funding,concept,A taught first,,ARTB_1206_triples_raw.json
+ARTB_1206,Professional Practice Overview,concept,PART_OF,Professional Practice,topic,,,ARTB_1206_triples_raw.json
+ARTB_1206,Artist Talks and Panel Discussions,topic,PART_OF,Industry Professionals and Experts,concept,,part is broader than whole - check direction,ARTB_1206_triples_raw.json
+ARTB_1206,Case Studies and Success Stories,topic,PART_OF,Industry Professionals and Experts,concept,,part is broader than whole - check direction,ARTB_1206_triples_raw.json

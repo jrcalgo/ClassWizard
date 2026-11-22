@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_2111,topic,Network Theory I,Network Theory I,1,verified,Network Theory I,ECGR_2111_concepts_raw.json
+ECGR_2111,topic,Circuit Analysis,circuit analysis,2,verified,Introduction to Circuit Analysis,ECGR_2111_concepts_raw.json
+ECGR_2111,topic,Ohm's Law and Passive Sign Convention,Ohm's law and passive sign convention,1,verified,Ohm's Law and Passive Sign Convention,ECGR_2111_concepts_raw.json
+ECGR_2111,topic,Singularity Functions and Signals,singularity functions and signals,1,verified,Singularity Functions and Signals,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,state variable analysis,state variable analysis,1,verified,state variable analysis,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,Kirchhoff's laws,Kirchhoff's laws,2,verified,Kirchhoff's laws,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,terminal equations,terminal equations,1,verified,terminal equations,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,Ohm's law,Ohm's law,1,verified,Ohm's law,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,passive sign convention,passive sign convention,1,verified,passive sign convention,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,circuit analysis techniques,circuit analysis techniques,1,verified,circuit analysis techniques,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,network theorems,network theorems,1,verified,network theorems,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,singularity functions,singularity functions,1,verified,singularity functions,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,signals,signals,1,verified,signals,ECGR_2111_concepts_raw.json
+ECGR_2111,concept,natural response,natural response,1,verified,natural response,ECGR_2111_concepts_raw.json
+ECGR_2111,tool,Zybooks Network,Zybooks Network,1,verified,Zybooks Network,ECGR_2111_concepts_raw.json

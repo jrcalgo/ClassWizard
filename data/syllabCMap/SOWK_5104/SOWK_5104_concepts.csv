@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SOWK_5104,topic,Interprofessional Collaboration in Healthcare,Interprofessional Collaboration in Healthcare,1,verified,Interprofessional Collaboration in Healthcare,SOWK_5104_concepts_raw.json
+SOWK_5104,topic,Communication Strategies,communication strategies,1,verified,Communication Strategies,SOWK_5104_concepts_raw.json
+SOWK_5104,concept,physical,physical,2,verified,"physical, mental, and social needs",SOWK_5104_concepts_raw.json
+SOWK_5104,concept,mental,mental,2,verified,"physical, mental, and social needs",SOWK_5104_concepts_raw.json
+SOWK_5104,concept,social needs,social needs,1,verified,"physical, mental, and social needs",SOWK_5104_concepts_raw.json

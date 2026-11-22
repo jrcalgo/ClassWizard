@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPOA_1110,lectures,method,PART_OF,Sports Analytics,topic,,,SPOA_1110_triples_raw.json
+SPOA_1110,guest speakers from the sports industry,method,PART_OF,Sports Analytics,topic,,,SPOA_1110_triples_raw.json
+SPOA_1110,Basic Statistical Concepts,topic,PART_OF,Sports Analytics,topic,,,SPOA_1110_triples_raw.json
+SPOA_1110,Sports Data Acquisition,topic,PART_OF,Sports Analytics,topic,,,SPOA_1110_triples_raw.json

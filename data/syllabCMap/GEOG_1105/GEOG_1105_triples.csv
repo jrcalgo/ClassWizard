@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_1105,Geographic Patterns,concept,PREREQUISITE_OF,Human Environment Interaction,concept,same unit,,GEOG_1105_triples_raw.json
+GEOG_1105,Geographic Patterns,concept,PREREQUISITE_OF,Urbanization Processes,concept,A taught first,,GEOG_1105_triples_raw.json
+GEOG_1105,Geographic Patterns,concept,PREREQUISITE_OF,Globalization and Localism,concept,A taught first,,GEOG_1105_triples_raw.json
+GEOG_1105,Geographic Patterns,concept,PREREQUISITE_OF,Urban Morphology,concept,A taught first,,GEOG_1105_triples_raw.json
+GEOG_1105,Geographic Patterns,concept,PREREQUISITE_OF,Global Commodity Chains,concept,A taught first,,GEOG_1105_triples_raw.json
+GEOG_1105,Human Environment Interaction,concept,PREREQUISITE_OF,Urbanization Processes,concept,A taught first,,GEOG_1105_triples_raw.json
+GEOG_1105,Human Environment Interaction,concept,PREREQUISITE_OF,Globalization and Localism,concept,A taught first,,GEOG_1105_triples_raw.json
+GEOG_1105,Human Environment Interaction,concept,PREREQUISITE_OF,Urban Morphology,concept,A taught first,,GEOG_1105_triples_raw.json
+GEOG_1105,Human Environment Interaction,concept,PREREQUISITE_OF,Global Commodity Chains,concept,A taught first,,GEOG_1105_triples_raw.json
+GEOG_1105,Geographic Patterns,concept,PART_OF,Human Geography,topic,,,GEOG_1105_triples_raw.json
+GEOG_1105,Geographic Patterns,concept,PART_OF,Globalization Effects,topic,,,GEOG_1105_triples_raw.json
+GEOG_1105,Globalization and Localism,concept,PART_OF,Globalization Effects,topic,,,GEOG_1105_triples_raw.json
+GEOG_1105,Urbanization Processes,concept,PART_OF,Globalization Effects,topic,,,GEOG_1105_triples_raw.json
+GEOG_1105,Globalization and Urbanization,concept,PART_OF,Globalization Effects,topic,,,GEOG_1105_triples_raw.json
+GEOG_1105,Human Environment Interaction,concept,PART_OF,Human Geography,topic,,,GEOG_1105_triples_raw.json
+GEOG_1105,Environmental Justice Movements,concept,PART_OF,Human Geography,topic,,,GEOG_1105_triples_raw.json
+GEOG_1105,Environmental Influences on Human Behavior,concept,PART_OF,Human Geography,topic,,,GEOG_1105_triples_raw.json
+GEOG_1105,Globalization and Localism,concept,SUBTYPE_OF,Globalization Effects,topic,,,GEOG_1105_triples_raw.json
+GEOG_1105,Urbanization Processes,concept,SUBTYPE_OF,Globalization and Urbanization,concept,,,GEOG_1105_triples_raw.json
+GEOG_1105,Core-Periphery Model,method,SUBTYPE_OF,World Systems Analysis,method,,,GEOG_1105_triples_raw.json
+GEOG_1105,Spatial Analysis Techniques,method,USED_FOR,Urbanization Processes,concept,,,GEOG_1105_triples_raw.json
+GEOG_1105,Spatial Analysis Techniques,method,USED_FOR,Global Commodity Chains,concept,,,GEOG_1105_triples_raw.json
+GEOG_1105,Core-Periphery Model,method,USED_FOR,Global Commodity Chains,concept,,,GEOG_1105_triples_raw.json
+GEOG_1105,World Systems Analysis,method,USED_FOR,Global Commodity Chains,concept,,,GEOG_1105_triples_raw.json
+GEOG_1105,Geographic Scale Effects,method,USED_FOR,Global Commodity Chains,concept,,,GEOG_1105_triples_raw.json
+GEOG_1105,Spatial Division of Labor,method,USED_FOR,Global Commodity Chains,concept,,,GEOG_1105_triples_raw.json
+GEOG_1105,Regional Development Patterns,method,USED_FOR,Global Commodity Chains,concept,,,GEOG_1105_triples_raw.json
+GEOG_1105,Economic Globalization Processes,method,USED_FOR,Global Commodity Chains,concept,,,GEOG_1105_triples_raw.json
+GEOG_1105,Place-Based Economic Strategies,method,USED_FOR,Global Commodity Chains,concept,,,GEOG_1105_triples_raw.json

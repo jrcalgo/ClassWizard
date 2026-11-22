@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3112,topic,Thermodynamics,Thermodynamics,4,verified,Thermodynamics,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,thermal efficiency,thermal efficiency,1,verified,thermal efficiency,MEGR_3112_concepts_raw.json
+MEGR_3112,topic,Working Energy Equations,working energy equations,1,verified,Working Energy Equations,MEGR_3112_concepts_raw.json
+MEGR_3112,topic,Thermodynamic Equilibrium,Thermodynamic equilibrium,1,verified,Thermodynamic Equilibrium,MEGR_3112_concepts_raw.json
+MEGR_3112,topic,Vapor-Compression Refrigeration,vapor-compression refrigeration,1,verified,Vapor-Compression Refrigeration,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,thermodynamic processes,thermodynamic processes,2,verified,thermodynamic processes,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,equilibrium state,equilibrium state,5,verified,equilibrium state,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,entropy,Entropy,2,verified,entropy,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,irreversible energy loss,irreversible energy loss,1,verified,irreversible energy loss,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,thermal conduction,thermal conduction,2,verified,thermal conduction,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,macroscopic energetic processes,macroscopic energetic processes,1,verified,macroscopic energetic processes,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,microscopic energetic processes,microscopic energetic processes,1,verified,microscopic energetic processes,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,control volume analysis,control volume analysis,1,verified,control volume analysis,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,ordinary differential equations,ordinary differential equations,1,verified,ordinary differential equations,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,thermally-driven desalination plants,thermally-driven desalination plants,1,verified,thermally-driven desalination plants,MEGR_3112_concepts_raw.json
+MEGR_3112,concept,vapor-compression refrigeration systems,vapor-compression refrigeration systems,1,verified,vapor-compression refrigeration systems,MEGR_3112_concepts_raw.json
+MEGR_3112,method,physics-based derivations,physics-based derivations,1,verified,"carrying out detailed, physics-based derivations",MEGR_3112_concepts_raw.json
+MEGR_3112,method,analyzing time-dependent thermodynamic processes,analyzing time-dependent thermodynamic processes,1,verified,analyzing time-dependent thermodynamic processes,MEGR_3112_concepts_raw.json
+MEGR_3112,method,designing thermally-driven desalination plants,designing thermally-driven desalination plants,1,verified,designing thermally-driven desalination plants,MEGR_3112_concepts_raw.json
+MEGR_3112,method,analyzing,analyzing,1,verified,analyzing and designing vapor-compression refrigeration systems,MEGR_3112_concepts_raw.json

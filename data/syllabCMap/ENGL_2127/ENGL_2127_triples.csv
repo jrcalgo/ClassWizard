@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_2127,poetic image,concept,PREREQUISITE_OF,figurative language,concept,same unit,,ENGL_2127_triples_raw.json
+ENGL_2127,poetic image,concept,PREREQUISITE_OF,metaphor,concept,same unit,,ENGL_2127_triples_raw.json
+ENGL_2127,poetic image,concept,PREREQUISITE_OF,simile,concept,same unit,,ENGL_2127_triples_raw.json
+ENGL_2127,syntax,concept,PREREQUISITE_OF,line breaks,concept,same unit,,ENGL_2127_triples_raw.json
+ENGL_2127,poetic form,concept,PREREQUISITE_OF,revision,concept,A taught first,,ENGL_2127_triples_raw.json
+ENGL_2127,Making Sense,topic,SUBTYPE_OF,Making a Scene,topic,,,ENGL_2127_triples_raw.json
+ENGL_2127,Making Noise,topic,SUBTYPE_OF,Making a Scene,topic,,,ENGL_2127_triples_raw.json
+ENGL_2127,in-class exercises,method,USED_FOR,poetic image,concept,,,ENGL_2127_triples_raw.json
+ENGL_2127,prompts,method,USED_FOR,poetic image,concept,,,ENGL_2127_triples_raw.json

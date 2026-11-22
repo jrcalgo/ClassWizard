@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_4200,topic,Computational Chemistry,Computational Chemistry,3,verified,Computational Chemistry,CHEM_4200_concepts_raw.json
+CHEM_4200,concept,parameterizing model Hamiltonians,parameterizing model Hamiltonians,1,verified,parameterizing model Hamiltonians,CHEM_4200_concepts_raw.json
+CHEM_4200,concept,computational methods,computational methods,1,verified,computational methods,CHEM_4200_concepts_raw.json
+CHEM_4200,concept,quantum chemistry models,quantum chemistry models,1,verified,quantum chemistry models,CHEM_4200_concepts_raw.json
+CHEM_4200,concept,Photonic Degrees of Freedom,photonic degrees of freedom,1,verified,Photonic Degrees of Freedom,CHEM_4200_concepts_raw.json
+CHEM_4200,tool,Python,python,1,verified,Python,CHEM_4200_concepts_raw.json
+CHEM_4200,tool,Sons,Sons,1,verified,"John Wiley & Sons, Ltd",CHEM_4200_concepts_raw.json
+CHEM_4200,tool,Ltd,Ltd,1,verified,"John Wiley & Sons, Ltd",CHEM_4200_concepts_raw.json

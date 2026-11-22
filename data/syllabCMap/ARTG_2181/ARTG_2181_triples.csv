@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_2181,formal and conceptual relationships,concept,PREREQUISITE_OF,interdependent design elements,concept,same unit,,ARTG_2181_triples_raw.json
+ARTG_2181,formal and conceptual relationships,concept,PREREQUISITE_OF,studio practice fundamentals,concept,same unit,,ARTG_2181_triples_raw.json
+ARTG_2181,graphic design principles,concept,PREREQUISITE_OF,visual communications basics,concept,same unit,,ARTG_2181_triples_raw.json
+ARTG_2181,graphic design principles,concept,PREREQUISITE_OF,design process overview,concept,same unit,,ARTG_2181_triples_raw.json
+ARTG_2181,interdependent design elements,concept,PREREQUISITE_OF,digital artwork creation,concept,A taught first,,ARTG_2181_triples_raw.json
+ARTG_2181,adobe creative suite basics,concept,PREREQUISITE_OF,graphic design software overview,concept,same unit,,ARTG_2181_triples_raw.json
+ARTG_2181,Graphic Design,topic,PART_OF,Graphic Design I,topic,,,ARTG_2181_triples_raw.json
+ARTG_2181,Research and Concept Development,topic,PART_OF,Graphic Design I,topic,,,ARTG_2181_triples_raw.json
+ARTG_2181,Digital Tools and Techniques,topic,PART_OF,Graphic Design I,topic,,,ARTG_2181_triples_raw.json
+ARTG_2181,Design Aesthetics and Style,topic,PART_OF,Graphic Design I,topic,,,ARTG_2181_triples_raw.json
+ARTG_2181,Digital Portfolio Development,topic,PART_OF,Graphic Design I,topic,,,ARTG_2181_triples_raw.json
+ARTG_2181,Design Process and Problem-Solving,topic,PART_OF,Graphic Design I,topic,,,ARTG_2181_triples_raw.json
+ARTG_2181,Collaboration and Group Projects,topic,PART_OF,Graphic Design I,topic,,,ARTG_2181_triples_raw.json
+ARTG_2181,Design Writing and Presentation,topic,PART_OF,Graphic Design I,topic,,,ARTG_2181_triples_raw.json
+ARTG_2181,Adobe Creative Suite,tool,USED_FOR,graphic design software overview,concept,,,ARTG_2181_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_2226,Vernacular jazz,topic,PREREQUISITE_OF,Musicality and Rhythm in Vernacular Jazz,topic,A taught first,,DANC_2226_triples_raw.json
+DANC_2226,Vernacular jazz,topic,PREREQUISITE_OF,Performance Skills in Vernacular Jazz,topic,A taught first,,DANC_2226_triples_raw.json
+DANC_2226,syncopation,concept,PART_OF,Musicality and Rhythm in Vernacular Jazz,topic,,,DANC_2226_triples_raw.json
+DANC_2226,polyrhythms,concept,PART_OF,Musicality and Rhythm in Vernacular Jazz,topic,,,DANC_2226_triples_raw.json

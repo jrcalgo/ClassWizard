@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_6800,Functionalist Theory of Religion,topic,PREREQUISITE_OF,Conflict Theory of Religion,topic,same unit,,RELS_6800_triples_raw.json
+RELS_6800,Functionalist Theory of Religion,topic,PREREQUISITE_OF,Symbolic Interactionism in Religion,topic,same unit,,RELS_6800_triples_raw.json
+RELS_6800,Historical Criticism and Analysis,topic,PREREQUISITE_OF,Textual Analysis and Interpretation,topic,same unit,,RELS_6800_triples_raw.json
+RELS_6800,Cultural Construction of Religion,topic,PREREQUISITE_OF,Religious Pluralism and Diversity,topic,same unit,,RELS_6800_triples_raw.json
+RELS_6800,Cultural Construction of Religion,topic,PREREQUISITE_OF,Globalization and Religious Change,topic,same unit,,RELS_6800_triples_raw.json
+RELS_6800,Academic Expectations and Standards,topic,PART_OF,Course Objectives and Outcomes,topic,,,RELS_6800_triples_raw.json
+RELS_6800,Research Question and Hypothesis,topic,PART_OF,Literature Review and Analysis,topic,,,RELS_6800_triples_raw.json
+RELS_6800,Methodological Approaches to Research,topic,PART_OF,Literature Review and Analysis,topic,,,RELS_6800_triples_raw.json

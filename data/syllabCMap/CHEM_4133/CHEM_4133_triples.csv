@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_4133,Spectroscopy,topic,USED_FOR,Methods of Organic,topic,,topic used for something - check direction,CHEM_4133_triples_raw.json

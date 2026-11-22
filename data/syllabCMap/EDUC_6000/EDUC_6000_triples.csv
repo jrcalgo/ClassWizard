@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDUC_6000,Multilingual Learners,topic,PART_OF,Advanced Pedagogy,topic,,,EDUC_6000_triples_raw.json
+EDUC_6000,Teacher Inquiry,topic,PART_OF,Action Research,topic,,,EDUC_6000_triples_raw.json

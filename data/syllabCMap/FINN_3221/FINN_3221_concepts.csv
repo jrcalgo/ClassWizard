@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_3221,topic,Financial Institutions,Financial Institutions,1,verified,Financial Institutions,FINN_3221_concepts_raw.json
+FINN_3221,topic,Commercial Banking,Commercial Banking,1,inferred,Commercial Banking,FINN_3221_concepts_raw.json
+FINN_3221,topic,Investment Banking,Investment Banking,2,inferred,Investment Banking,FINN_3221_concepts_raw.json
+FINN_3221,topic,Securities Markets,Securities Markets,1,inferred,Securities Markets,FINN_3221_concepts_raw.json
+FINN_3221,topic,Financial Regulation,Financial Regulation,1,inferred,Financial Regulation,FINN_3221_concepts_raw.json
+FINN_3221,concept,Financial System Overview,Financial System Overview,1,inferred,Financial System Overview,FINN_3221_concepts_raw.json
+FINN_3221,concept,Types of Financial Institutions,Types of Financial Institutions,1,inferred,Types of Financial Institutions,FINN_3221_concepts_raw.json
+FINN_3221,concept,Role of Central Banks,Role of Central Banks,1,inferred,Role of Central Banks,FINN_3221_concepts_raw.json
+FINN_3221,concept,Banking Functions and Services,Banking Functions and Services,1,inferred,Banking Functions and Services,FINN_3221_concepts_raw.json
+FINN_3221,concept,Bank Risk Management Strategies,Bank Risk Management Strategies,1,inferred,Bank Risk Management Strategies,FINN_3221_concepts_raw.json
+FINN_3221,concept,Regulatory Environment for Banks,Regulatory Environment for Banks,1,inferred,Regulatory Environment for Banks,FINN_3221_concepts_raw.json
+FINN_3221,concept,Investment Banking Services Offered,Investment Banking Services Offered,1,inferred,Investment Banking Services Offered,FINN_3221_concepts_raw.json
+FINN_3221,concept,Mergers and Acquisitions Process,Mergers and Acquisitions Process,1,inferred,Mergers and Acquisitions Process,FINN_3221_concepts_raw.json
+FINN_3221,concept,Initial Public Offering (IPO,Initial Public Offering (IPO,1,inferred,Initial Public Offering (IPO),FINN_3221_concepts_raw.json
+FINN_3221,concept,Stock Exchange Operations,Stock Exchange Operations,1,inferred,Stock Exchange Operations,FINN_3221_concepts_raw.json
+FINN_3221,concept,Bond Market Structure and Function,Bond Market Structure and Function,1,inferred,Bond Market Structure and Function,FINN_3221_concepts_raw.json
+FINN_3221,concept,Derivatives Trading,Derivatives Trading,1,inferred,Derivatives Trading,FINN_3221_concepts_raw.json
+FINN_3221,concept,Regulatory Agencies and Bodies,Regulatory Agencies and Bodies,1,inferred,Regulatory Agencies and Bodies,FINN_3221_concepts_raw.json
+FINN_3221,concept,Financial Reporting Standards,Financial Reporting Standards,1,inferred,Financial Reporting Standards,FINN_3221_concepts_raw.json
+FINN_3221,concept,Compliance and Risk Management,Compliance and Risk Management,1,inferred,Compliance and Risk Management,FINN_3221_concepts_raw.json

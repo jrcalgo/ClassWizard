@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_1512,Historical Background of the South,topic,PREREQUISITE_OF,Geography of the South,topic,same unit,,ENGL_1512_triples_raw.json
+ENGL_1512,Historical Background of the South,topic,PREREQUISITE_OF,Cultural Identity of the South,topic,same unit,,ENGL_1512_triples_raw.json
+ENGL_1512,Geography of the South,topic,PREREQUISITE_OF,Social and Economic Issues in the South,topic,A taught first,,ENGL_1512_triples_raw.json
+ENGL_1512,Geography of the South,topic,PART_OF,Local Arts/Humanities,topic,,,ENGL_1512_triples_raw.json
+ENGL_1512,Cultural Identity of the South,topic,PART_OF,Local Arts/Humanities,topic,,,ENGL_1512_triples_raw.json
+ENGL_1512,Historical Background of the South,topic,PART_OF,English Studies,topic,,,ENGL_1512_triples_raw.json
+ENGL_1512,Regional Stereotypes and Myths,topic,PART_OF,English Studies,topic,,,ENGL_1512_triples_raw.json
+ENGL_1512,Literary Analysis of Saving Grace,topic,USED_FOR,Regional Stereotypes and Myths,topic,,topic used for something - check direction,ENGL_1512_triples_raw.json
+ENGL_1512,Literary Analysis of Saving Grace,topic,USED_FOR,Historical and Social Issues Affecting Children,topic,,topic used for something - check direction,ENGL_1512_triples_raw.json

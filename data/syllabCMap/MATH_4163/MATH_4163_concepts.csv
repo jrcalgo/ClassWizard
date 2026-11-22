@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_4163,topic,Algebra,Algebra,1,verified,Introduction to Algebra,MATH_4163_concepts_raw.json
+MATH_4163,topic,Groups and Subgroups,Groups and Subgroups,1,inferred,Groups and Subgroups,MATH_4163_concepts_raw.json
+MATH_4163,topic,Ring and Field Concepts,Ring and Field Concepts,1,inferred,Ring and Field Concepts,MATH_4163_concepts_raw.json
+MATH_4163,topic,Homomorphisms and Isomorphism,Homomorphisms and Isomorphism,1,inferred,Homomorphisms and Isomorphism,MATH_4163_concepts_raw.json
+MATH_4163,topic,Group Homomorphism Properties,Group Homomorphism Properties,1,inferred,Group Homomorphism Properties,MATH_4163_concepts_raw.json
+MATH_4163,concept,Algebraic Structures Definition,Algebraic Structures Definition,1,inferred,Algebraic Structures Definition,MATH_4163_concepts_raw.json
+MATH_4163,concept,Properties of Algebraic Systems,Properties of Algebraic Systems,1,inferred,Properties of Algebraic Systems,MATH_4163_concepts_raw.json
+MATH_4163,concept,Group Properties and Theorems,Group Properties and Theorems,1,inferred,Group Properties and Theorems,MATH_4163_concepts_raw.json
+MATH_4163,concept,Subgroup Criteria and Examples,Subgroup Criteria and Examples,1,inferred,Subgroup Criteria and Examples,MATH_4163_concepts_raw.json
+MATH_4163,concept,Ring Operations and Properties,Ring Operations and Properties,1,inferred,Ring Operations and Properties,MATH_4163_concepts_raw.json
+MATH_4163,concept,Field Axioms and Definitions,Field Axioms and Definitions,1,inferred,Field Axioms and Definitions,MATH_4163_concepts_raw.json
+MATH_4163,concept,Homomorphism Definition and Theorems,Homomorphism Definition and Theorems,1,inferred,Homomorphism Definition and Theorems,MATH_4163_concepts_raw.json
+MATH_4163,concept,Isomorphism Conditions and Examples,Isomorphism Conditions and Examples,1,inferred,Isomorphism Conditions and Examples,MATH_4163_concepts_raw.json
+MATH_4163,concept,Kernel and Image of Homomorphism,Kernel and Image of Homomorphism,1,inferred,Kernel and Image of Homomorphism,MATH_4163_concepts_raw.json
+MATH_4163,concept,First Isomorphism Theorem,First Isomorphism Theorem,1,inferred,First Isomorphism Theorem,MATH_4163_concepts_raw.json

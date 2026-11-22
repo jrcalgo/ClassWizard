@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_1223,topic,MUSC 1223 - Woodwind Techniques,MUSC 1223 - Woodwind Techniques,1,verified,MUSC 1223 - Woodwind Techniques,MUSC_1223_concepts_raw.json
+MUSC_1223,topic,Woodwinds,Woodwinds,1,verified,Introduction to Woodwinds,MUSC_1223_concepts_raw.json
+MUSC_1223,concept,elements of music,elements of music,1,verified,elements of music,MUSC_1223_concepts_raw.json
+MUSC_1223,method,domain-specific research,domain-specific research,1,verified,domain-specific research,MUSC_1223_concepts_raw.json
+MUSC_1223,method,reading,read,1,verified,reading and realizing music notation,MUSC_1223_concepts_raw.json
+MUSC_1223,method,individual performance,individual performance,1,verified,individual performance,MUSC_1223_concepts_raw.json
+MUSC_1223,method,design,design,1,verified,"design, implement, assess, and reflect on student learning",MUSC_1223_concepts_raw.json
+MUSC_1223,method,implement,implement,1,verified,"design, implement, assess, and reflect on student learning",MUSC_1223_concepts_raw.json
+MUSC_1223,method,assess,assess,1,verified,"design, implement, assess, and reflect on student learning",MUSC_1223_concepts_raw.json
+MUSC_1223,method,reflect on student learning,reflect on student learning,1,verified,"design, implement, assess, and reflect on student learning",MUSC_1223_concepts_raw.json

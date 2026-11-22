@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4083,girlhood studies,concept,PREREQUISITE_OF,girl cultures,concept,same unit,,ENGL_4083_triples_raw.json
+ENGL_4083,girl cultures,concept,PART_OF,girlhood studies,concept,,,ENGL_4083_triples_raw.json
+ENGL_4083,textual analysis,method,USED_FOR,girlhood studies,concept,,,ENGL_4083_triples_raw.json
+ENGL_4083,textual analysis,method,USED_FOR,girl cultures,concept,,,ENGL_4083_triples_raw.json

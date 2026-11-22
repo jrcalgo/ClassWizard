@@ -1,0 +1,49 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INES_8104,Artificial Intelligence in Urban Planning,topic,PREREQUISITE_OF,Internet of Things (IoT) and Smart Infrastructure,topic,A taught first,,INES_8104_triples_raw.json
+INES_8104,Digital Twins for Urban Systems,topic,PREREQUISITE_OF,Cybersecurity in Smart Cities,topic,A taught first,,INES_8104_triples_raw.json
+INES_8104,Sustainability and Urban Development,topic,PREREQUISITE_OF,Public Policy and Governance Frameworks,topic,A taught first,,INES_8104_triples_raw.json
+INES_8104,Designing and Assessing City-Scale Initiatives,topic,PREREQUISITE_OF,Managing Urban Systems with Digital Technologies,topic,A taught first,,INES_8104_triples_raw.json
+INES_8104,Smart City Definition,concept,PART_OF,Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Urbanization Challenges,concept,PART_OF,Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Digital Transformation,concept,PART_OF,Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,AI Applications in Cities,concept,PART_OF,Artificial Intelligence in Urban Planning,topic,,,INES_8104_triples_raw.json
+INES_8104,Predictive Analytics Tools,concept,PART_OF,Artificial Intelligence in Urban Planning,topic,,,INES_8104_triples_raw.json
+INES_8104,Data-Driven Decision Making,concept,PART_OF,Artificial Intelligence in Urban Planning,topic,,,INES_8104_triples_raw.json
+INES_8104,IoT Network Architecture,concept,PART_OF,Internet of Things (IoT) and Smart Infrastructure,topic,,,INES_8104_triples_raw.json
+INES_8104,Smart Grid Technologies,concept,PART_OF,Internet of Things (IoT) and Smart Infrastructure,topic,,,INES_8104_triples_raw.json
+INES_8104,Urban IoT Applications,concept,PART_OF,Internet of Things (IoT) and Smart Infrastructure,topic,,,INES_8104_triples_raw.json
+INES_8104,Digital Twin Definition,concept,PART_OF,Digital Twins for Urban Systems,topic,,,INES_8104_triples_raw.json
+INES_8104,Simulation-Based Planning,concept,PART_OF,Digital Twins for Urban Systems,topic,,,INES_8104_triples_raw.json
+INES_8104,Digital Twins for Urban Systems,topic,PART_OF,Real-Time Data Integration,concept,,part is broader than whole - check direction,INES_8104_triples_raw.json
+INES_8104,City Network Security Threats,concept,PART_OF,Cybersecurity in Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Data Protection Strategies,concept,PART_OF,Cybersecurity in Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Green Infrastructure Design,concept,PART_OF,Sustainability and Urban Development,topic,,,INES_8104_triples_raw.json
+INES_8104,Renewable Energy Systems,concept,PART_OF,Sustainability and Urban Development,topic,,,INES_8104_triples_raw.json
+INES_8104,Smart City Governance Models,concept,PART_OF,Public Policy and Governance Frameworks,topic,,,INES_8104_triples_raw.json
+INES_8104,Participatory Budgeting Approaches,concept,PART_OF,Public Policy and Governance Frameworks,topic,,,INES_8104_triples_raw.json
+INES_8104,Algorithmic Decision Making,concept,PART_OF,Algorithmic Governance in Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Algorithmic Governance in Smart Cities,topic,PART_OF,Transparency and Accountability,concept,,part is broader than whole - check direction,INES_8104_triples_raw.json
+INES_8104,Smart City Business Models,concept,PART_OF,Competing Models of Smart Urbanism,topic,,,INES_8104_triples_raw.json
+INES_8104,Urban Innovation Ecosystems,concept,PART_OF,Competing Models of Smart Urbanism,topic,,,INES_8104_triples_raw.json
+INES_8104,Co-Creation Strategies,concept,PART_OF,Competing Models of Smart Urbanism,topic,,,INES_8104_triples_raw.json
+INES_8104,Initiative Design Principles,concept,PART_OF,Designing and Assessing City-Scale Initiatives,topic,,,INES_8104_triples_raw.json
+INES_8104,Impact Assessment Methods,concept,PART_OF,Designing and Assessing City-Scale Initiatives,topic,,,INES_8104_triples_raw.json
+INES_8104,Evaluation Frameworks,concept,PART_OF,Designing and Assessing City-Scale Initiatives,topic,,,INES_8104_triples_raw.json
+INES_8104,Smart City Definition,concept,USED_FOR,Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Urbanization Challenges,concept,USED_FOR,Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Digital Transformation,concept,USED_FOR,Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,AI Applications in Cities,concept,USED_FOR,Artificial Intelligence in Urban Planning,topic,,,INES_8104_triples_raw.json
+INES_8104,Data-Driven Decision Making,concept,USED_FOR,Artificial Intelligence in Urban Planning,topic,,,INES_8104_triples_raw.json
+INES_8104,IoT Network Architecture,concept,USED_FOR,Internet of Things (IoT) and Smart Infrastructure,topic,,,INES_8104_triples_raw.json
+INES_8104,Smart Grid Technologies,concept,USED_FOR,Internet of Things (IoT) and Smart Infrastructure,topic,,,INES_8104_triples_raw.json
+INES_8104,Urban IoT Applications,concept,USED_FOR,Internet of Things (IoT) and Smart Infrastructure,topic,,,INES_8104_triples_raw.json
+INES_8104,Digital Twin Definition,concept,USED_FOR,Digital Twins for Urban Systems,topic,,,INES_8104_triples_raw.json
+INES_8104,Real-Time Data Integration,concept,USED_FOR,Digital Twins for Urban Systems,topic,,,INES_8104_triples_raw.json
+INES_8104,City Network Security Threats,concept,USED_FOR,Cybersecurity in Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Data Protection Strategies,concept,USED_FOR,Cybersecurity in Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Incident Response Planning,concept,USED_FOR,Cybersecurity in Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Renewable Energy Systems,concept,USED_FOR,Sustainability and Urban Development,topic,,,INES_8104_triples_raw.json
+INES_8104,Urban Climate Resilience,concept,USED_FOR,Sustainability and Urban Development,topic,,,INES_8104_triples_raw.json
+INES_8104,Policy-Making for Urban Development,concept,USED_FOR,Public Policy and Governance Frameworks,topic,,,INES_8104_triples_raw.json
+INES_8104,Algorithmic Decision Making,concept,USED_FOR,Algorithmic Governance in Smart Cities,topic,,,INES_8104_triples_raw.json
+INES_8104,Bias and Fairness Concerns,concept,USED_FOR,Algorithmic Governance in Smart Cities,topic,,,INES_8104_triples_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8115,Nonroutine Tasks,concept,PREREQUISITE_OF,Mathematical Authorities,concept,same unit,,EDCI_8115_triples_raw.json
+EDCI_8115,Nonroutine Tasks,concept,PREREQUISITE_OF,Student Reasoning,concept,same unit,,EDCI_8115_triples_raw.json
+EDCI_8115,Nonroutine Tasks,concept,PREREQUISITE_OF,Equitable Participation,concept,same unit,,EDCI_8115_triples_raw.json
+EDCI_8115,Nonroutine Tasks,concept,PREREQUISITE_OF,Rigor in Math Instruction,concept,A taught first,,EDCI_8115_triples_raw.json
+EDCI_8115,Nonroutine Tasks,concept,SUBTYPE_OF,Ambitious Mathematics Teaching,concept,,,EDCI_8115_triples_raw.json
+EDCI_8115,Student Reasoning,concept,SUBTYPE_OF,Ambitious Mathematics Teaching,concept,,,EDCI_8115_triples_raw.json
+EDCI_8115,Equitable Participation,concept,SUBTYPE_OF,Ambitious Mathematics Teaching,concept,,,EDCI_8115_triples_raw.json

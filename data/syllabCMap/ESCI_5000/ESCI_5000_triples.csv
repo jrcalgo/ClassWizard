@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_5000,human impact on freshwater,concept,PART_OF,Human Impact on Freshwater Ecosystems,topic,,,ESCI_5000_triples_raw.json
+ESCI_5000,importance of freshwater resources,concept,PART_OF,freshwater ecosystem definition,concept,,,ESCI_5000_triples_raw.json

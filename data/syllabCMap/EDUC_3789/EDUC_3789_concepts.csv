@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EDUC_3789,topic,Honors Education,Honors Education,1,verified,Honors Education,EDUC_3789_concepts_raw.json
+EDUC_3789,topic,Capstone Project Proposal,capstone project proposal,1,verified,Capstone Project Proposal,EDUC_3789_concepts_raw.json
+EDUC_3789,concept,Guidelines and Expectations,Guidelines and Expectations,1,verified,Guidelines and Expectations,EDUC_3789_concepts_raw.json
+EDUC_3789,concept,Chair,chair,2,verified,"Chair, Advisor, Reader Roles",EDUC_3789_concepts_raw.json
+EDUC_3789,concept,Advisor,Advisor,1,verified,"Chair, Advisor, Reader Roles",EDUC_3789_concepts_raw.json

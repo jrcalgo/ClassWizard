@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_2273,cellular structure and function,concept,PREREQUISITE_OF,mitosis and meiosis,concept,A taught first,,BIOL_2273_triples_raw.json
+BIOL_2273,cellular structure and function,concept,PREREQUISITE_OF,cell division processes,concept,A taught first,,BIOL_2273_triples_raw.json
+BIOL_2273,molecular biology basics,concept,PREREQUISITE_OF,protein synthesis process,concept,same unit,,BIOL_2273_triples_raw.json
+BIOL_2273,epithelial tissue types,concept,PREREQUISITE_OF,connective tissue functions,concept,same unit,,BIOL_2273_triples_raw.json
+BIOL_2273,muscle tissue characteristics,concept,PREREQUISITE_OF,muscle attachments to bones,concept,A taught first,,BIOL_2273_triples_raw.json
+BIOL_2273,epithelial tissue types,concept,USED_FOR,connective tissue functions,concept,,,BIOL_2273_triples_raw.json

@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6190,topic,Cloud Computing for Data Analytics,CLOUD COMPUTING FOR DATA ANALYTICS,2,verified,Cloud Computing for Data Analytics,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,data engineering lifecycle,data engineering lifecycle,1,verified,data engineering lifecycle,DSBA_6190_concepts_raw.json
+DSBA_6190,topic,Modern AI-Era Data Techniques,modern AI-era data techniques,1,verified,Modern AI-Era Data Techniques,DSBA_6190_concepts_raw.json
+DSBA_6190,topic,"Data Security, Governance, and Privacy","Data Security, Governance, and Privacy",1,verified,"Data Security, Governance, and Privacy",DSBA_6190_concepts_raw.json
+DSBA_6190,topic,End-to-End Cloud Data Analytics Pipeline,end-to-end cloud data analytics pipeline,1,verified,End-to-End Cloud Data Analytics Pipeline,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,Cloud computing,Cloud computing,3,verified,Cloud computing,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,distributed processing,distributed processing,1,verified,distributed processing,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,Infrastructure as Code,Infrastructure as Code,1,verified,Infrastructure as Code,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,streaming,streaming,3,verified,streaming,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,AWS service ecosystem,AWS service ecosystem,1,verified,AWS service ecosystem,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,cross-cutting concerns,cross-cutting concerns,1,verified,cross-cutting concerns,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,streaming data ingestion,streaming data ingestion,1,verified,streaming data ingestion,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,distributed compute,distributed compute,1,verified,distributed compute,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,data transformation workflows,data transformation workflows,1,verified,data transformation workflows,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,cloud data stores,cloud data stores,1,verified,cloud data stores,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,retrieval-augmented generation,retrieval-augmented generation,1,verified,retrieval-augmented generation,DSBA_6190_concepts_raw.json
+DSBA_6190,concept,LLM-assisted data processing,LLM-assisted data processing,1,verified,LLM-assisted data processing,DSBA_6190_concepts_raw.json
+DSBA_6190,method,ingesting batch and streaming data,ingesting batch and streaming data,1,verified,ingesting batch and streaming data,DSBA_6190_concepts_raw.json
+DSBA_6190,method,securing,securing,1,verified,securing and governing data,DSBA_6190_concepts_raw.json
+DSBA_6190,method,reasoning about cost,reasoning about cost,1,verified,"reasoning about cost, performance, scalability, and reliability trade-offs",DSBA_6190_concepts_raw.json
+DSBA_6190,method,performance,performance,1,verified,"reasoning about cost, performance, scalability, and reliability trade-offs",DSBA_6190_concepts_raw.json
+DSBA_6190,method,scalability,scalability,1,verified,"reasoning about cost, performance, scalability, and reliability trade-offs",DSBA_6190_concepts_raw.json
+DSBA_6190,method,reliability trade-offs,reliability trade-offs,1,verified,"reasoning about cost, performance, scalability, and reliability trade-offs",DSBA_6190_concepts_raw.json
+DSBA_6190,method,streaming data ingestion pipelines on AWS,streaming data ingestion pipelines on AWS,1,verified,implementing batch and streaming data ingestion pipelines on AWS,DSBA_6190_concepts_raw.json
+DSBA_6190,method,building,build,5,verified,building and orchestrating distributed data transformation workflows,DSBA_6190_concepts_raw.json
+DSBA_6190,method,evaluating,Evaluate,5,verified,evaluating and configuring cloud data stores,DSBA_6190_concepts_raw.json
+DSBA_6190,tool,Python,Python,3,verified,Python,DSBA_6190_concepts_raw.json
+DSBA_6190,tool,SQL,SQL,4,verified,SQL,DSBA_6190_concepts_raw.json
+DSBA_6190,tool,AWS CLI,AWS CLI,1,verified,AWS CLI,DSBA_6190_concepts_raw.json
+DSBA_6190,tool,Git,Git,1,verified,Git,DSBA_6190_concepts_raw.json
+DSBA_6190,tool,Canvas LMS,Canvas LMS,1,verified,Canvas LMS,DSBA_6190_concepts_raw.json
+DSBA_6190,tool,AWS service documentation,AWS service documentation,1,verified,AWS service documentation,DSBA_6190_concepts_raw.json

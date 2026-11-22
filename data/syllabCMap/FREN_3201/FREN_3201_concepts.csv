@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FREN_3201,topic,French Cinema,French Cinema,1,inferred,French Cinema,FREN_3201_concepts_raw.json
+FREN_3201,topic,Vocabulary Building 1,Vocabulary Building 1,1,inferred,Vocabulary Building 1,FREN_3201_concepts_raw.json
+FREN_3201,topic,Grammar Review 1,Grammar Review 1,1,inferred,Grammar Review 1,FREN_3201_concepts_raw.json
+FREN_3201,topic,Analyzing French Films,Analyzing French Films,1,inferred,Analyzing French Films,FREN_3201_concepts_raw.json
+FREN_3201,topic,Vocabulary Building 2,Vocabulary Building 2,1,inferred,Vocabulary Building 2,FREN_3201_concepts_raw.json
+FREN_3201,topic,Grammar Review 2,Grammar Review 2,1,inferred,Grammar Review 2,FREN_3201_concepts_raw.json
+FREN_3201,topic,French Spoken Language,French Spoken Language,1,inferred,French Spoken Language,FREN_3201_concepts_raw.json
+FREN_3201,topic,Film Discussion 1,Film Discussion 1,1,inferred,Film Discussion 1,FREN_3201_concepts_raw.json
+FREN_3201,topic,Vocabulary Building 3,Vocabulary Building 3,1,inferred,Vocabulary Building 3,FREN_3201_concepts_raw.json
+FREN_3201,topic,Grammar Review 3,Grammar Review 3,1,inferred,Grammar Review 3,FREN_3201_concepts_raw.json
+FREN_3201,topic,Film Discussion 2,Film Discussion 2,1,inferred,Film Discussion 2,FREN_3201_concepts_raw.json
+FREN_3201,concept,Imparfait and passé composé,Imparfait and passé composé,2,inferred,Imparfait and passé composé,FREN_3201_concepts_raw.json
+FREN_3201,concept,Subjunctive mood,Subjunctive mood,2,inferred,Subjunctive mood,FREN_3201_concepts_raw.json
+FREN_3201,concept,Future tense,Future tense,1,inferred,Future tense,FREN_3201_concepts_raw.json
+FREN_3201,concept,Conditional mood,Conditional mood,1,inferred,Conditional mood,FREN_3201_concepts_raw.json
+FREN_3201,concept,Passive voice,Passive voice,1,inferred,Passive voice,FREN_3201_concepts_raw.json
+FREN_3201,concept,Phonetics and pronunciation,Phonetics and pronunciation,1,inferred,Phonetics and pronunciation,FREN_3201_concepts_raw.json
+FREN_3201,concept,Intonation and rhythm,Intonation and rhythm,1,inferred,Intonation and rhythm,FREN_3201_concepts_raw.json
+FREN_3201,concept,Spoken language characteristics,Spoken language characteristics,1,inferred,Spoken language characteristics,FREN_3201_concepts_raw.json
+FREN_3201,concept,Cultural significance of cinema,Cultural significance of cinema,1,inferred,Cultural significance of cinema,FREN_3201_concepts_raw.json
+FREN_3201,concept,Film genres and styles,Film genres and styles,1,inferred,Film genres and styles,FREN_3201_concepts_raw.json
+FREN_3201,concept,Film analysis techniques,Film analysis techniques,1,inferred,Film analysis techniques,FREN_3201_concepts_raw.json
+FREN_3201,concept,Characterization and dialogue,Characterization and dialogue,1,inferred,Characterization and dialogue,FREN_3201_concepts_raw.json
+FREN_3201,concept,Thematic vocabulary,Thematic vocabulary,1,inferred,Thematic vocabulary,FREN_3201_concepts_raw.json
+FREN_3201,concept,Idiomatic expressions,Idiomatic expressions,1,inferred,Idiomatic expressions,FREN_3201_concepts_raw.json
+FREN_3201,concept,Figurative language,Figurative language,1,inferred,Figurative language,FREN_3201_concepts_raw.json

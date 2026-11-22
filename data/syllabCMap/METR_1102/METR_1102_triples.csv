@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_1102,meteorological terminology,concept,PART_OF,Meteorology,topic,,,METR_1102_triples_raw.json
+METR_1102,solar energy and atmosphere,concept,PART_OF,Solar Radiation Basics,topic,,,METR_1102_triples_raw.json
+METR_1102,radiative transfer process,concept,PART_OF,Solar Radiation Basics,topic,,,METR_1102_triples_raw.json
+METR_1102,atmospheric absorption,concept,PART_OF,Solar Radiation Basics,topic,,,METR_1102_triples_raw.json
+METR_1102,global wind patterns formation,concept,PART_OF,Global Circulation Patterns,topic,,,METR_1102_triples_raw.json
+METR_1102,climate change and human impact,concept,PART_OF,Environmental Issues in Meteorology,topic,,,METR_1102_triples_raw.json
+METR_1102,air pollution and atmospheric chemistry,concept,PART_OF,Environmental Issues in Meteorology,topic,,,METR_1102_triples_raw.json
+METR_1102,high-low pressure systems formation,concept,PART_OF,Weather Systems and Forecasting,topic,,,METR_1102_triples_raw.json
+METR_1102,forecasting techniques and models,concept,PART_OF,Weather Systems and Forecasting,topic,,,METR_1102_triples_raw.json
+METR_1102,El Niño and La Niña events,concept,PART_OF,Large-Scale Climate Processes,topic,,,METR_1102_triples_raw.json
+METR_1102,global warming and climate change,concept,PART_OF,Large-Scale Climate Processes,topic,,,METR_1102_triples_raw.json

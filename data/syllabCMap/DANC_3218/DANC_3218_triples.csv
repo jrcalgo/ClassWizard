@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_3218,alignment,concept,PREREQUISITE_OF,dynamic alignment,concept,same unit,,DANC_3218_triples_raw.json
+DANC_3218,rotation of the limbs,concept,PREREQUISITE_OF,spinal articulation,concept,same unit,,DANC_3218_triples_raw.json
+DANC_3218,breath,concept,PREREQUISITE_OF,grounding,concept,same unit,,DANC_3218_triples_raw.json
+DANC_3218,relation to self,concept,PREREQUISITE_OF,relation to others in space,concept,A mentioned first,,DANC_3218_triples_raw.json
+DANC_3218,modern dance vocabulary,concept,PREREQUISITE_OF,ensemble practices,concept,B mentioned first,,DANC_3218_triples_raw.json
+DANC_3218,tempo,concept,PREREQUISITE_OF,rhythm,concept,same unit,,DANC_3218_triples_raw.json
+DANC_3218,rhythm,concept,PREREQUISITE_OF,syncopation,concept,same unit,,DANC_3218_triples_raw.json
+DANC_3218,alignment,concept,PART_OF,Bodily and Performance Practice,topic,,,DANC_3218_triples_raw.json
+DANC_3218,breath,concept,PART_OF,Bodily and Performance Practice,topic,,,DANC_3218_triples_raw.json
+DANC_3218,relation to self,concept,PART_OF,Bodily and Performance Practice,topic,,,DANC_3218_triples_raw.json
+DANC_3218,grounding,concept,PART_OF,Bodily and Performance Practice,topic,,,DANC_3218_triples_raw.json
+DANC_3218,dynamic alignment,concept,PART_OF,modern dance technique,topic,,,DANC_3218_triples_raw.json
+DANC_3218,rotation of the limbs,concept,PART_OF,modern dance technique,topic,,,DANC_3218_triples_raw.json
+DANC_3218,spinal articulation,concept,PART_OF,modern dance technique,topic,,,DANC_3218_triples_raw.json
+DANC_3218,locomotor movement,concept,PART_OF,modern dance technique,topic,,,DANC_3218_triples_raw.json
+DANC_3218,spatial changes,concept,PART_OF,modern dance technique,topic,,,DANC_3218_triples_raw.json
+DANC_3218,inversions,concept,PART_OF,modern dance technique,topic,,,DANC_3218_triples_raw.json
+DANC_3218,ensemble practices,concept,PART_OF,modern dance technique,topic,,,DANC_3218_triples_raw.json
+DANC_3218,partnering,concept,PART_OF,modern dance technique,topic,,,DANC_3218_triples_raw.json
+DANC_3218,tempo,concept,PART_OF,Musicality and Artistry,topic,,,DANC_3218_triples_raw.json
+DANC_3218,rhythm,concept,PART_OF,Musicality and Artistry,topic,,,DANC_3218_triples_raw.json
+DANC_3218,syncopation,concept,PART_OF,Musicality and Artistry,topic,,,DANC_3218_triples_raw.json
+DANC_3218,dynamic alignment,concept,SUBTYPE_OF,alignment,concept,,,DANC_3218_triples_raw.json

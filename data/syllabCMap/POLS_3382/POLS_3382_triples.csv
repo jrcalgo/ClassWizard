@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3382,Decision Cycle Overview,concept,PREREQUISITE_OF,Forecasting Techniques Overview,concept,A taught first,,POLS_3382_triples_raw.json
+POLS_3382,Forecasting Techniques Overview,concept,PREREQUISITE_OF,Forecasting and Evaluation,topic,same unit,,POLS_3382_triples_raw.json
+POLS_3382,Clear and Concise Writing,concept,PART_OF,Policy Writing,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Persuasive Communication Skills,concept,PART_OF,Policy Writing,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Policy Briefing Format,concept,PART_OF,Policy Writing,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Decision Cycle Overview,concept,PART_OF,Decision Making Process,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Goal Setting Strategies,concept,PART_OF,Decision Making Process,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Policy Analysis Frameworks,concept,PART_OF,Analytical Writing for Policy,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Data Collection and Interpretation,concept,PART_OF,Analytical Writing for Policy,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Forecasting Techniques Overview,concept,PART_OF,Forecasting and Evaluation,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Evaluation Metrics and Criteria,concept,PART_OF,Forecasting and Evaluation,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Collaborative Writing and Presentation,concept,PART_OF,Team Briefing and Presentations,topic,,,POLS_3382_triples_raw.json
+POLS_3382,Effective Communication Skills,concept,PART_OF,Team Briefing and Presentations,topic,,,POLS_3382_triples_raw.json

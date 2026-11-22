@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_1501,International Trade,topic,PART_OF,Economics of Global Issues,topic,,,ECON_1501_triples_raw.json
+ECON_1501,Growth and Economic Development,topic,PART_OF,Economics of Global Issues,topic,,,ECON_1501_triples_raw.json
+ECON_1501,Recession,topic,PART_OF,Economics of Global Issues,topic,,,ECON_1501_triples_raw.json
+ECON_1501,World Poverty,topic,PART_OF,Economics of Global Issues,topic,,,ECON_1501_triples_raw.json
+ECON_1501,Discrimination,topic,PART_OF,Economics of Global Issues,topic,,,ECON_1501_triples_raw.json
+ECON_1501,Unemployment,topic,PART_OF,Economics of Global Issues,topic,,,ECON_1501_triples_raw.json
+ECON_1501,Financial Security,topic,PART_OF,Economics of Global Issues,topic,,,ECON_1501_triples_raw.json
+ECON_1501,Government Macroeconomic Policies,topic,PART_OF,Economics of Global Issues,topic,,,ECON_1501_triples_raw.json

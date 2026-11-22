@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_1225,topic,Brass Techniques,Brass Techniques,3,verified,Brass Techniques,MUSC_1225_concepts_raw.json
+MUSC_1225,topic,Brass,Brass,7,verified,Introduction to Brass,MUSC_1225_concepts_raw.json
+MUSC_1225,topic,Creating a Google Drive Folder,creating a Google Drive folder,1,verified,Creating a Google Drive Folder,MUSC_1225_concepts_raw.json
+MUSC_1225,tool,Google Drive,Google Drive,1,verified,Google Drive,MUSC_1225_concepts_raw.json
+MUSC_1225,topic,Cornet/Trumpet Techniques,Cornet/Trumpet Techniques,1,inferred,Cornet/Trumpet Techniques,MUSC_1225_concepts_raw.json
+MUSC_1225,topic,Horn Techniques,Horn Techniques,1,inferred,Horn Techniques,MUSC_1225_concepts_raw.json
+MUSC_1225,topic,Trombone Techniques,Trombone Techniques,1,inferred,Trombone Techniques,MUSC_1225_concepts_raw.json
+MUSC_1225,topic,Baritone/Euphonium Techniques,Baritone/Euphonium Techniques,1,inferred,Baritone/Euphonium Techniques,MUSC_1225_concepts_raw.json
+MUSC_1225,topic,Tuba Techniques,Tuba Techniques,1,inferred,Tuba Techniques,MUSC_1225_concepts_raw.json
+MUSC_1225,topic,Pedagogy and Teaching Methods,Pedagogy and Teaching Methods,1,inferred,Pedagogy and Teaching Methods,MUSC_1225_concepts_raw.json
+MUSC_1225,topic,Analyzing Pedagogical Ideas,Analyzing Pedagogical Ideas,1,inferred,Analyzing Pedagogical Ideas,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,History of Brass Instruments,History of Brass Instruments,1,inferred,History of Brass Instruments,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Types of Brass Instruments,Types of Brass Instruments,1,inferred,Types of Brass Instruments,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Importance of Pedagogy,Importance of Pedagogy,1,inferred,Importance of Pedagogy,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Fingerings and Embouchure,Fingerings and Embouchure,2,inferred,Fingerings and Embouchure,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Breathing and Air Support,Breathing and Air Support,3,inferred,Breathing and Air Support,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Articulation and Dynamics,Articulation and Dynamics,1,inferred,Articulation and Dynamics,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Mouthpiece and Fingering,Mouthpiece and Fingering,1,inferred,Mouthpiece and Fingering,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Embouchure and Posture,Embouchure and Posture,3,inferred,Embouchure and Posture,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Breath Control and Articulation,Breath Control and Articulation,2,inferred,Breath Control and Articulation,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Slide Technique and Fingerings,Slide Technique and Fingerings,1,inferred,Slide Technique and Fingerings,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Effective Lesson Planning,Effective Lesson Planning,1,inferred,Effective Lesson Planning,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Assessment and Feedback Techniques,Assessment and Feedback Techniques,1,inferred,Assessment and Feedback Techniques,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Classroom Management Strategies,Classroom Management Strategies,1,inferred,Classroom Management Strategies,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Evaluating Teaching Materials,Evaluating Teaching Materials,1,inferred,Evaluating Teaching Materials,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Applying Theoretical Concepts,Applying Theoretical Concepts,1,inferred,Applying Theoretical Concepts,MUSC_1225_concepts_raw.json
+MUSC_1225,concept,Informing Decisions with Research,Informing Decisions with Research,1,inferred,Informing Decisions with Research,MUSC_1225_concepts_raw.json

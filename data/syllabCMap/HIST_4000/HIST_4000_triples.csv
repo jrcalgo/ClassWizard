@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_4000,Historiographical Analysis Techniques,topic,PART_OF,Historiography,topic,,,HIST_4000_triples_raw.json
+HIST_4000,Writing Historiographical Analysis Papers,topic,PART_OF,Historiography,topic,,,HIST_4000_triples_raw.json
+HIST_4000,Selecting a Research Topic,topic,PART_OF,Historiography,topic,,,HIST_4000_triples_raw.json
+HIST_4000,Contextualizing Historical Arguments,concept,PART_OF,Historiographical Analysis Techniques,topic,,,HIST_4000_triples_raw.json
+HIST_4000,Organizing and Structuring Arguments,concept,PART_OF,Writing Historiographical Analysis Papers,topic,,,HIST_4000_triples_raw.json
+HIST_4000,Historical Interpretation Methods,concept,USED_FOR,Historiography,topic,,,HIST_4000_triples_raw.json
+HIST_4000,Scholarly Debate and Critique,concept,USED_FOR,Historiography,topic,,,HIST_4000_triples_raw.json

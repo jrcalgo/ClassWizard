@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_1511,concept,Criminal Justice System,criminal justice system,7,verified,Criminal Justice System,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Components of CJ System,Components of CJ System,2,verified,Components of CJ System,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Police Function,Police Function,3,verified,Police Function,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Prosecutorial Process,Prosecutorial Process,3,verified,Prosecutorial Process,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Judiciary Branch,Judiciary Branch,3,verified,Judiciary Branch,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Corrections Field,Corrections Field,3,verified,Corrections Field,CJUS_1511_concepts_raw.json
+CJUS_1511,measure,Measurement Issues,measurement issues,5,verified,Measurement Issues,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Interrelationships Between Agencies,Interrelationships Between Agencies,2,verified,Interrelationships Between Agencies,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Policing Purpose,Policing Purpose,2,verified,Policing Purpose,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Police Organization Structure,Police Organization Structure,1,verified,Police Organization Structure,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Law Enforcement Functions,Law Enforcement Functions,1,verified,Law Enforcement Functions,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Policing Theories Models,Policing Theories Models,1,verified,Policing Theories Models,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Community Policing Strategies,Community Policing Strategies,1,verified,Community Policing Strategies,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Police Use Force,Police Use Force,1,verified,Police Use Force,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Policing Measurement Issues,Policing Measurement Issues,1,verified,Policing Measurement Issues,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Police Corruption Prevention,Police Corruption Prevention,1,verified,Police Corruption Prevention,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Policing History Development,Policing History Development,1,verified,Policing History Development,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Pretrial Activities,Pretrial Activities,2,verified,Pretrial Activities,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Criminal Trial Process,Criminal Trial Process,1,verified,Criminal Trial Process,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Prosecutorial Discretion,Prosecutorial Discretion,1,verified,Prosecutorial Discretion,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Bail and Bonding,Bail and Bonding,1,verified,Bail and Bonding,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Plea Bargaining Practices,Plea Bargaining Practices,1,verified,Plea Bargaining Practices,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Jury Selection Criteria,Jury Selection Criteria,1,verified,Jury Selection Criteria,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Witness Preparation Techniques,Witness Preparation Techniques,1,verified,Witness Preparation Techniques,CJUS_1511_concepts_raw.json
+CJUS_1511,concept,Evidence Admissibility Rules,Evidence Admissibility Rules,1,verified,Evidence Admissibility Rules,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Trial by Jury Options,Trial by Jury Options,1,verified,Trial by Jury Options,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Prison Sentencing Guidelines,Prison Sentencing Guidelines,1,verified,Prison Sentencing Guidelines,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Jail Overcrowding Issues,Jail Overcrowding Issues,1,verified,Jail Overcrowding Issues,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Correctional Facility Types,Correctional Facility Types,2,verified,Correctional Facility Types,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Probation and Parole Systems,Probation and Parole Systems,1,verified,Probation and Parole Systems,CJUS_1511_concepts_raw.json
+CJUS_1511,measure,Incarceration Rates Measurement,Incarceration Rates Measurement,1,verified,Incarceration Rates Measurement,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Prison Life Conditions,Prison Life Conditions,1,verified,Prison Life Conditions,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Inmate Classification Systems,Inmate Classification Systems,1,verified,Inmate Classification Systems,CJUS_1511_concepts_raw.json
+CJUS_1511,topic,Prisoner Rehabilitation Programs,Prisoner Rehabilitation Programs,1,verified,Prisoner Rehabilitation Programs,CJUS_1511_concepts_raw.json
+CJUS_1511,measure,Recidivism Rates Measurement,Recidivism Rates Measurement,1,verified,Recidivism Rates Measurement,CJUS_1511_concepts_raw.json
+CJUS_1511,measure,Interagency Relationships,Interagency Relationships,1,verified,Interagency Relationships,CJUS_1511_concepts_raw.json
+CJUS_1511,measure,Systemic Response,Systemic Response,1,verified,Systemic Response,CJUS_1511_concepts_raw.json
+CJUS_1511,measure,Crime Measurement,Crime Measurement,1,verified,Crime Measurement,CJUS_1511_concepts_raw.json

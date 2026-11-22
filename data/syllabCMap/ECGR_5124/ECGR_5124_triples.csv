@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5124,Finite Impulse Response,topic,SUBTYPE_OF,Modern Digital Filters,topic,,,ECGR_5124_triples_raw.json
+ECGR_5124,Infinite Impulse Response,topic,SUBTYPE_OF,Modern Digital Filters,topic,,,ECGR_5124_triples_raw.json
+ECGR_5124,design and analyze basic discrete-time systems,method,USED_FOR,discrete-time system stability,concept,,,ECGR_5124_triples_raw.json
+ECGR_5124,design and analyze basic discrete-time systems,method,USED_FOR,difference equations,concept,,,ECGR_5124_triples_raw.json

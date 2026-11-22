@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4123,Sampling and Nyquist rate,concept,PREREQUISITE_OF,Modern Digital Communication Methods,topic,A taught first,,ECGR_4123_triples_raw.json
+ECGR_4123,Power Spectral Density,concept,PREREQUISITE_OF,Characteristics of digital transmission,concept,A mentioned first,,ECGR_4123_triples_raw.json
+ECGR_4123,Basic signals,concept,PREREQUISITE_OF,Analysis and frequency spectra,concept,A mentioned first,,ECGR_4123_triples_raw.json

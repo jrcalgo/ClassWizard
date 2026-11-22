@@ -1,0 +1,40 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SOWK_4105,topic,Mental Health & Substance Use,Mental Health & Substance Use,1,verified,Mental Health & Substance Use,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Mental Health,Mental Health,3,verified,Introduction to Mental Health,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Substance Use Disorders,substance use disorders,1,verified,Substance Use Disorders,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Macro Practice Approaches,Macro Practice Approaches,1,inferred,Macro Practice Approaches,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Micro Practice Interventions,Micro Practice Interventions,1,inferred,Micro Practice Interventions,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Professional Values and Ethics,Professional Values and Ethics,1,inferred,Professional Values and Ethics,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Assessment and Diagnosis,Assessment and diagnosis,2,inferred,Assessment and Diagnosis,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Treatment Options and Modalities,Treatment Options and Modalities,1,inferred,Treatment Options and Modalities,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Case Studies and Applications,Case Studies and Applications,1,inferred,Case Studies and Applications,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Critical Analysis and Reflection,Critical Analysis and Reflection,1,inferred,Critical Analysis and Reflection,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Final Paper Preparation,Final Paper Preparation,1,inferred,Final Paper Preparation,SOWK_4105_concepts_raw.json
+SOWK_4105,topic,Societal Attitudes and Stigma,Societal Attitudes and Stigma,1,inferred,Societal Attitudes and Stigma,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,mental health definitions,Mental health definitions,1,inferred,mental health definitions,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,prevalence of mental illness,Prevalence of mental illness,1,inferred,prevalence of mental illness,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,impact on individuals,Impact on individuals,1,inferred,impact on individuals,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,historical perspectives on mental illness,Historical perspectives on mental illness,1,inferred,historical perspectives on mental illness,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,current societal attitudes towards mental health,Current societal attitudes towards mental health,1,inferred,current societal attitudes towards mental health,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,professional values and biases,Professional values and biases,1,inferred,professional values and biases,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,types of substance use disorders,Types of substance use disorders,1,inferred,types of substance use disorders,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,causes and risk factors,Causes and risk factors,1,inferred,causes and risk factors,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,effects on individuals and society,Effects on individuals and society,1,inferred,effects on individuals and society,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,policy and advocacy efforts,Policy and advocacy efforts,1,inferred,policy and advocacy efforts,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,community-based interventions,Community-based interventions,1,inferred,community-based interventions,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,social determinants of health,Social determinants of health,1,inferred,social determinants of health,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,counseling theories and models,Counseling theories and models,1,inferred,counseling theories and models,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,therapeutic relationships and techniques,Therapeutic relationships and techniques,1,inferred,therapeutic relationships and techniques,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,assessment and diagnosis tools,Assessment and diagnosis tools,1,inferred,assessment and diagnosis tools,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,code of ethics for social workers,Code of ethics for social workers,1,inferred,code of ethics for social workers,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,confidentiality and informed consent,Confidentiality and informed consent,1,inferred,confidentiality and informed consent,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,cultural competence and humility,Cultural competence and humility,1,inferred,cultural competence and humility,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,diagnostic criteria and tools,Diagnostic criteria and tools,1,inferred,diagnostic criteria and tools,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,risk assessment and management,Risk assessment and management,1,inferred,risk assessment and management,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,collaboration with other professionals,Collaboration with other professionals,1,inferred,collaboration with other professionals,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,pharmacological interventions,Pharmacological interventions,1,inferred,pharmacological interventions,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,psychotherapeutic approaches,Psychotherapeutic approaches,1,inferred,psychotherapeutic approaches,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,alternative and complementary therapies,Alternative and complementary therapies,1,inferred,alternative and complementary therapies,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,research design and methodology,Research design and methodology,1,inferred,research design and methodology,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,literature review and synthesis,Literature review and synthesis,1,inferred,literature review and synthesis,SOWK_4105_concepts_raw.json
+SOWK_4105,concept,writing and presentation skills,Writing and presentation skills,1,inferred,writing and presentation skills,SOWK_4105_concepts_raw.json

@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETCE_1222,topic,Construction Materials,Construction Materials,4,verified,Construction Materials,ETCE_1222_concepts_raw.json
+ETCE_1222,topic,mineral aggregates,mineral aggregates,2,verified,mineral aggregates,ETCE_1222_concepts_raw.json
+ETCE_1222,topic,portland cement concrete,portland cement concrete,2,verified,portland cement concrete,ETCE_1222_concepts_raw.json
+ETCE_1222,topic,masonry,masonry,2,verified,masonry,ETCE_1222_concepts_raw.json
+ETCE_1222,topic,wood,wood,2,verified,wood,ETCE_1222_concepts_raw.json
+ETCE_1222,topic,asphalt concrete,asphalt concrete,2,verified,asphalt concrete,ETCE_1222_concepts_raw.json
+ETCE_1222,topic,metals,metals,2,verified,metals,ETCE_1222_concepts_raw.json
+ETCE_1222,topic,plastics,plastics,2,verified,plastics,ETCE_1222_concepts_raw.json
+ETCE_1222,topic,other materials,other materials,2,verified,other materials,ETCE_1222_concepts_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTA_3201,Digital Presentation Tools,topic,PREREQUISITE_OF,Career Preparation,topic,B taught first,B is taught before A - check,ARTA_3201_triples_raw.json
+ARTA_3201,Digital Presentation Tools,topic,PREREQUISITE_OF,Studio Practice Analysis,topic,B taught first,B is taught before A - check,ARTA_3201_triples_raw.json
+ARTA_3201,digital slideshow creation,concept,PART_OF,Digital Presentation Tools,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,presentation software techniques,concept,PART_OF,Digital Presentation Tools,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,effective visual storytelling,concept,PART_OF,Digital Presentation Tools,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,digital portfolio creation,concept,PART_OF,Portfolio Planning,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,artwork organization techniques,concept,PART_OF,Portfolio Planning,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,career goals and objectives,concept,PART_OF,Career Preparation,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,professional art presentation,concept,PART_OF,Career Preparation,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,concentration-specific requirements,concept,PART_OF,Portfolio Submission and Review,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,portfolio evaluation criteria,concept,PART_OF,Portfolio Submission and Review,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,digital slideshow creation,concept,USED_FOR,Digital Presentation Tools,topic,,,ARTA_3201_triples_raw.json
+ARTA_3201,presentation software techniques,concept,USED_FOR,Digital Presentation Tools,topic,,,ARTA_3201_triples_raw.json

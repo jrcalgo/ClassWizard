@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3101,topic,Embedded Systems,Embedded Systems,2,verified,Embedded Systems,ECGR_3101_concepts_raw.json
+ECGR_3101,topic,Assembly Language,assembly language,1,verified,Assembly Language,ECGR_3101_concepts_raw.json
+ECGR_3101,topic,Real-Time Operating Systems,real-time operating systems,1,verified,Real-Time Operating Systems,ECGR_3101_concepts_raw.json
+ECGR_3101,tool,peripheral devices,peripheral devices,2,verified,peripheral devices,ECGR_3101_concepts_raw.json
+ECGR_3101,tool,input and communications devices,input and communications devices,1,verified,input and communications devices,ECGR_3101_concepts_raw.json
+ECGR_3101,topic,Thread-Based Program Design,thread-based program design,1,verified,Thread-Based Program Design,ECGR_3101_concepts_raw.json
+ECGR_3101,topic,Hardware and Software Development Techniques,hardware and software development techniques,1,verified,Hardware and Software Development Techniques,ECGR_3101_concepts_raw.json
+ECGR_3101,tool,Cortex-M based Microcontrollers,Cortex-M based Microcontrollers,1,verified,"Cortex-M based Microcontrollers, 2nd Edition",ECGR_3101_concepts_raw.json
+ECGR_3101,tool,2nd Edition,2nd Edition,2,verified,"Cortex-M based Microcontrollers, 2nd Edition",ECGR_3101_concepts_raw.json
+ECGR_3101,tool,STMicro,STMicro,1,verified,STMicro,ECGR_3101_concepts_raw.json
+ECGR_3101,tool,compiler,compiler,1,verified,compiler,ECGR_3101_concepts_raw.json
+ECGR_3101,tool,real-time operating system,real-time operating systems,1,verified,real-time operating system,ECGR_3101_concepts_raw.json
+ECGR_3101,tool,microcontroller,Microcontrollers,1,verified,microcontroller,ECGR_3101_concepts_raw.json

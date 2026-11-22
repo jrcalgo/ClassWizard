@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CTCM_2530,topic,Critical Thinking,Critical Thinking,2,verified,Critical Thinking,CTCM_2530_concepts_raw.json
+CTCM_2530,topic,Communication,Communication,2,verified,Communication,CTCM_2530_concepts_raw.json
+CTCM_2530,topic,Artificial Intelligence,Artificial Intelligence,1,verified,Artificial Intelligence,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,Ethics in AI Development,Ethics in AI Development,1,inferred,Ethics in AI Development,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,Bias in AI Systems,Bias in AI Systems,1,inferred,Bias in AI Systems,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI Job Displacement Concerns,AI Job Displacement Concerns,1,inferred,AI Job Displacement Concerns,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,Philosophy of AI Existence,Philosophy of AI Existence,1,inferred,Philosophy of AI Existence,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI and Human Consciousness,AI and Human Consciousness,1,inferred,AI and Human Consciousness,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI as a Tool or Threat,AI as a Tool or Threat,1,inferred,AI as a Tool or Threat,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI in Film and Literature,AI in Film and Literature,1,inferred,AI in Film and Literature,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI in Music and Art,AI in Music and Art,1,inferred,AI in Music and Art,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI in Popular Culture,AI in Popular Culture,1,inferred,AI in Popular Culture,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI in Healthcare and Medicine,AI in Healthcare and Medicine,1,inferred,AI in Healthcare and Medicine,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI in Education and Learning,AI in Education and Learning,1,inferred,AI in Education and Learning,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI in Business and Economy,AI in Business and Economy,1,inferred,AI in Business and Economy,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,Artificial Intelligence Definition,Artificial Intelligence Definition,1,inferred,Artificial Intelligence Definition,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,History of AI Development,History of AI Development,1,inferred,History of AI Development,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,AI Applications and Impact,AI Applications and Impact,1,inferred,AI Applications and Impact,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,Alan Turing's Contributions,Alan Turing's Contributions,1,inferred,Alan Turing's Contributions,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,Machine Learning Fundamentals,Machine Learning Fundamentals,1,inferred,Machine Learning Fundamentals,CTCM_2530_concepts_raw.json
+CTCM_2530,concept,Neural Networks Basics,Neural Networks Basics,1,inferred,Neural Networks Basics,CTCM_2530_concepts_raw.json

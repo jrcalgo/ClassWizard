@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTZ_2306,designing,method,PREREQUISITE_OF,digital portfolio presentation,concept,unknown,,ARTZ_2306_triples_raw.json
+ARTZ_2306,designing,method,PREREQUISITE_OF,digital presentation tools,concept,unknown,,ARTZ_2306_triples_raw.json
+ARTZ_2306,interdependent formal and conceptual relationships,concept,PREREQUISITE_OF,arts-related topic,concept,A mentioned first,,ARTZ_2306_triples_raw.json
+ARTZ_2306,3D Modeling,topic,PREREQUISITE_OF,Digital Fabrication,topic,same unit,,ARTZ_2306_triples_raw.json
+ARTZ_2306,digital portfolio presentation,concept,PART_OF,Art and Design Works,topic,,,ARTZ_2306_triples_raw.json
+ARTZ_2306,progressive formal and conceptual development,concept,PART_OF,student learning,concept,,,ARTZ_2306_triples_raw.json
+ARTZ_2306,domain-specific research and theory,concept,PART_OF,student learning,concept,,,ARTZ_2306_triples_raw.json
+ARTZ_2306,designing,method,USED_FOR,digital portfolio presentation,concept,,,ARTZ_2306_triples_raw.json
+ARTZ_2306,documenting,method,USED_FOR,Art and Design Works,topic,,,ARTZ_2306_triples_raw.json
+ARTZ_2306,digital presentation tools,concept,USED_FOR,arts-related topic,concept,,,ARTZ_2306_triples_raw.json

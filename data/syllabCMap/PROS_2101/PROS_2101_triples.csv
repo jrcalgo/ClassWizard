@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_2101,Project Management Basics,topic,PREREQUISITE_OF,Defining Organizational Need,topic,A taught first,,PROS_2101_triples_raw.json
+PROS_2101,Defining Organizational Need,topic,PREREQUISITE_OF,Defining Project Requirements,topic,A taught first,,PROS_2101_triples_raw.json
+PROS_2101,Defining Organizational Need,topic,PREREQUISITE_OF,Resource Allocation and Management,topic,A taught first,,PROS_2101_triples_raw.json
+PROS_2101,Defining Project Requirements,topic,PREREQUISITE_OF,Resource Allocation and Management,topic,A taught first,,PROS_2101_triples_raw.json
+PROS_2101,Project Life Cycle Phases,concept,PART_OF,Project Management Basics,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Assessing Business Needs,concept,PART_OF,Defining Organizational Need,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Stakeholder Analysis,concept,PART_OF,Defining Organizational Need,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Data Collection Methods,concept,PART_OF,Information Gathering,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Risk Identification Techniques,concept,PART_OF,Information Gathering,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Communication Planning,concept,PART_OF,Information Gathering,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Scope Statement Development,concept,PART_OF,Defining Project Requirements,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Work Breakdown Structure,concept,PART_OF,Defining Project Requirements,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Human Resource Planning,concept,PART_OF,Resource Allocation and Management,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Material and Equipment Procurement,concept,PART_OF,Resource Allocation and Management,topic,,,PROS_2101_triples_raw.json
+PROS_2101,Budgeting and Cost Estimation,concept,PART_OF,Resource Allocation and Management,topic,,,PROS_2101_triples_raw.json

@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_8111,qualitative research paradigm,concept,PREREQUISITE_OF,Qualitative Research,topic,same unit,,RSCH_8111_triples_raw.json
+RSCH_8111,epistemology,concept,PREREQUISITE_OF,research philosophy,concept,same unit,,RSCH_8111_triples_raw.json
+RSCH_8111,methodological approaches,concept,PREREQUISITE_OF,data collection methods,concept,A taught first,,RSCH_8111_triples_raw.json
+RSCH_8111,sampling strategies,concept,PREREQUISITE_OF,data collection methods,concept,same unit,,RSCH_8111_triples_raw.json
+RSCH_8111,interviews as data collection method,concept,PREREQUISITE_OF,observational research methods,concept,same unit,,RSCH_8111_triples_raw.json
+RSCH_8111,document analysis,concept,PREREQUISITE_OF,content analysis,concept,same unit,,RSCH_8111_triples_raw.json
+RSCH_8111,coding and thematic analysis,concept,PREREQUISITE_OF,data reduction,concept,same unit,,RSCH_8111_triples_raw.json
+RSCH_8111,qualitative research paradigm,concept,PART_OF,Qualitative Research,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,research philosophy,concept,PART_OF,Qualitative Research,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,epistemology,concept,PART_OF,Qualitative Research,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,methodological approaches,concept,PART_OF,Qualitative Research Methods,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,sampling strategies,concept,PART_OF,Data Collection Techniques,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,observational research methods,concept,PART_OF,Data Collection Techniques,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,document analysis,concept,PART_OF,Data Collection Techniques,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,content analysis,concept,PART_OF,Data Collection Techniques,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,coding and thematic analysis,concept,PART_OF,Data Analysis and Interpretation,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,data reduction,concept,PART_OF,Data Analysis and Interpretation,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,data display,concept,PART_OF,Data Analysis and Interpretation,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,informed consent,concept,PART_OF,Qualitative Research Ethics,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,confidentiality,concept,PART_OF,Qualitative Research Ethics,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,cultural sensitivity,concept,PART_OF,Qualitative Research Ethics,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,power dynamics,concept,PART_OF,Qualitative Research Ethics,topic,,,RSCH_8111_triples_raw.json
+RSCH_8111,positionality,concept,PART_OF,Qualitative Research Ethics,topic,,,RSCH_8111_triples_raw.json

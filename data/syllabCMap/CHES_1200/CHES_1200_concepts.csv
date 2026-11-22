@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHES_1200,topic,Academic Expectations,academic expectations,1,verified,Academic Expectations,CHES_1200_concepts_raw.json
+CHES_1200,topic,Information Literacy,information literacy,1,verified,Information Literacy,CHES_1200_concepts_raw.json
+CHES_1200,topic,Class Participation and Oral Presentation Skills,class participation and oral presentation skills,1,verified,Class Participation and Oral Presentation Skills,CHES_1200_concepts_raw.json
+CHES_1200,topic,Critical Reading Skills,Critical Reading Skills,1,inferred,Critical Reading Skills,CHES_1200_concepts_raw.json
+CHES_1200,topic,Ethical Research Practices,Ethical Research Practices,1,inferred,Ethical Research Practices,CHES_1200_concepts_raw.json
+CHES_1200,topic,Academic Integrity and AI Use,Academic Integrity and AI Use,1,inferred,Academic Integrity and AI Use,CHES_1200_concepts_raw.json
+CHES_1200,topic,Networking and Campus Resources,Networking and Campus Resources,1,inferred,Networking and Campus Resources,CHES_1200_concepts_raw.json
+CHES_1200,topic,Undergraduate Research Opportunities,Undergraduate Research Opportunities,1,inferred,Undergraduate Research Opportunities,CHES_1200_concepts_raw.json
+CHES_1200,topic,Financial Literacy for First-Year Students,Financial Literacy for First-Year Students,1,inferred,Financial Literacy for First-Year Students,CHES_1200_concepts_raw.json
+CHES_1200,topic,Physical and Mental Wellbeing Strategies,Physical and Mental Wellbeing Strategies,1,inferred,Physical and Mental Wellbeing Strategies,CHES_1200_concepts_raw.json
+CHES_1200,concept,University Academic Policies,University Academic Policies,1,inferred,University Academic Policies,CHES_1200_concepts_raw.json
+CHES_1200,concept,Course Requirements and Grading,Course Requirements and Grading,1,inferred,Course Requirements and Grading,CHES_1200_concepts_raw.json
+CHES_1200,concept,Time Management Strategies,Time Management Strategies,1,inferred,Time Management Strategies,CHES_1200_concepts_raw.json
+CHES_1200,concept,Analyzing Texts for Meaning,Analyzing Texts for Meaning,1,inferred,Analyzing Texts for Meaning,CHES_1200_concepts_raw.json
+CHES_1200,concept,Identifying Author's Purpose,Identifying Author's Purpose,1,inferred,Identifying Author's Purpose,CHES_1200_concepts_raw.json
+CHES_1200,concept,Evaluating Sources Credibility,Evaluating Sources Credibility,1,inferred,Evaluating Sources Credibility,CHES_1200_concepts_raw.json
+CHES_1200,concept,Database Search Techniques,Database Search Techniques,1,inferred,Database Search Techniques,CHES_1200_concepts_raw.json
+CHES_1200,concept,Citing Sources Properly,Citing Sources Properly,1,inferred,Citing Sources Properly,CHES_1200_concepts_raw.json
+CHES_1200,concept,Avoiding Plagiarism,Avoiding Plagiarism,1,inferred,Avoiding Plagiarism,CHES_1200_concepts_raw.json
+CHES_1200,concept,Responsible Data Collection,Responsible Data Collection,1,inferred,Responsible Data Collection,CHES_1200_concepts_raw.json
+CHES_1200,concept,Informed Consent Protocols,Informed Consent Protocols,1,inferred,Informed Consent Protocols,CHES_1200_concepts_raw.json
+CHES_1200,concept,Maintaining Academic Integrity,Maintaining Academic Integrity,1,inferred,Maintaining Academic Integrity,CHES_1200_concepts_raw.json
+CHES_1200,concept,Understanding Plagiarism Consequences,Understanding Plagiarism Consequences,1,inferred,Understanding Plagiarism Consequences,CHES_1200_concepts_raw.json
+CHES_1200,concept,AI Tools in College Research,AI Tools in College Research,1,inferred,AI Tools in College Research,CHES_1200_concepts_raw.json
+CHES_1200,concept,Avoiding Misuse of Technology,Avoiding Misuse of Technology,1,inferred,Avoiding Misuse of Technology,CHES_1200_concepts_raw.json
+CHES_1200,concept,Building Relationships with Peers,Building Relationships with Peers,1,inferred,Building Relationships with Peers,CHES_1200_concepts_raw.json
+CHES_1200,concept,Identifying University Support Services,Identifying University Support Services,1,inferred,Identifying University Support Services,CHES_1200_concepts_raw.json
+CHES_1200,concept,Getting Involved on Campus,Getting Involved on Campus,1,inferred,Getting Involved on Campus,CHES_1200_concepts_raw.json
+CHES_1200,concept,Research Design and Methodology,Research Design and Methodology,1,inferred,Research Design and Methodology,CHES_1200_concepts_raw.json
+CHES_1200,concept,Conducting Original Research,Conducting Original Research,1,inferred,Conducting Original Research,CHES_1200_concepts_raw.json
+CHES_1200,concept,Presenting Research Findings,Presenting Research Findings,1,inferred,Presenting Research Findings,CHES_1200_concepts_raw.json
+CHES_1200,concept,Understanding Financial Aid Options,Understanding Financial Aid Options,1,inferred,Understanding Financial Aid Options,CHES_1200_concepts_raw.json
+CHES_1200,concept,Managing Student Debt Responsibly,Managing Student Debt Responsibly,1,inferred,Managing Student Debt Responsibly,CHES_1200_concepts_raw.json
+CHES_1200,concept,Creating a Budget Plan,Creating a Budget Plan,1,inferred,Creating a Budget Plan,CHES_1200_concepts_raw.json
+CHES_1200,concept,Prioritizing Self-Care Practices,Prioritizing Self-Care Practices,1,inferred,Prioritizing Self-Care Practices,CHES_1200_concepts_raw.json
+CHES_1200,concept,Recognizing Signs of Burnout,Recognizing Signs of Burnout,1,inferred,Recognizing Signs of Burnout,CHES_1200_concepts_raw.json
+CHES_1200,concept,Maintaining Healthy Relationships,Maintaining Healthy Relationships,1,inferred,Maintaining Healthy Relationships,CHES_1200_concepts_raw.json
+CHES_1200,concept,Effective Communication Techniques,Effective Communication Techniques,1,inferred,Effective Communication Techniques,CHES_1200_concepts_raw.json
+CHES_1200,concept,Engaging in Class Discussions,Engaging in Class Discussions,1,inferred,Engaging in Class Discussions,CHES_1200_concepts_raw.json
+CHES_1200,concept,Delivering Clear Presentations,Delivering Clear Presentations,1,inferred,Delivering Clear Presentations,CHES_1200_concepts_raw.json

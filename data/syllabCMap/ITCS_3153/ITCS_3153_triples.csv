@@ -1,0 +1,44 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_3153,basic problem-solving methods,topic,PART_OF,defining the problem as a state space search,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,frames,concept,PART_OF,defining the problem as a state space search,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,scripts,concept,PART_OF,defining the problem as a state space search,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,non-monotonic reasoning,concept,PART_OF,defining the problem as a state space search,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,heuristic search,concept,PART_OF,basic problem-solving methods,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,semantic nets,concept,PART_OF,basic problem-solving methods,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,frames,concept,PART_OF,basic problem-solving methods,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,scripts,concept,PART_OF,basic problem-solving methods,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,probabilistic reasoning,concept,PART_OF,basic problem-solving methods,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,production systems,concept,PART_OF,game playing,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,predicate logic,concept,PART_OF,game playing,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,semantic nets,concept,PART_OF,game playing,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,frames,concept,PART_OF,game playing,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,scripts,concept,PART_OF,game playing,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,non-monotonic reasoning,concept,PART_OF,game playing,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,heuristic search,concept,PART_OF,game playing,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,production systems,concept,PART_OF,knowledge representation using predicate logic,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,scripts,concept,PART_OF,knowledge representation using predicate logic,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,production systems,concept,PART_OF,semantic nets,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,frames,concept,PART_OF,semantic nets,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,scripts,concept,PART_OF,semantic nets,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,non-monotonic reasoning,concept,PART_OF,semantic nets,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,predicate logic,concept,PART_OF,semantic nets,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,heuristic search,concept,PART_OF,semantic nets,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,production systems,concept,PART_OF,frames,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,scripts,concept,PART_OF,frames,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,non-monotonic reasoning,concept,PART_OF,frames,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,predicate logic,concept,PART_OF,frames,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,heuristic search,concept,PART_OF,frames,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,production systems,concept,PART_OF,scripts,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,non-monotonic reasoning,concept,PART_OF,scripts,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,predicate logic,concept,PART_OF,scripts,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,heuristic search,concept,PART_OF,scripts,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,production systems,concept,PART_OF,non-monotonic reasoning,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,predicate logic,concept,PART_OF,non-monotonic reasoning,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,heuristic search,concept,PART_OF,non-monotonic reasoning,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,production systems,concept,PART_OF,predicate logic,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,heuristic search,concept,PART_OF,predicate logic,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,basic problem-solving methods,topic,PART_OF,predicate logic,concept,,part is broader than whole - check direction,ITCS_3153_triples_raw.json
+ITCS_3153,production systems,concept,PART_OF,probabilistic reasoning,concept,,,ITCS_3153_triples_raw.json
+ITCS_3153,heuristic search,concept,USED_FOR,game playing,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,frames,concept,USED_FOR,knowledge representation using predicate logic,topic,,,ITCS_3153_triples_raw.json
+ITCS_3153,scripts,concept,USED_FOR,knowledge representation using predicate logic,topic,,,ITCS_3153_triples_raw.json

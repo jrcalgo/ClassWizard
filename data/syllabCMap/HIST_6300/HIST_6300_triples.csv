@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_6300,Representation of the Past,concept,PREREQUISITE_OF,Commodification of Heritage,concept,same unit,,HIST_6300_triples_raw.json
+HIST_6300,Representation of the Past,concept,PREREQUISITE_OF,Valuation of Cultural Assets,concept,same unit,,HIST_6300_triples_raw.json
+HIST_6300,Anthropology and Heritage,concept,PREREQUISITE_OF,Conservation of Monuments,concept,A taught first,,HIST_6300_triples_raw.json
+HIST_6300,Architecture and Preservation,concept,PREREQUISITE_OF,Conservation of Monuments,concept,A taught first,,HIST_6300_triples_raw.json
+HIST_6300,History and Cultural Studies,concept,PREREQUISITE_OF,Conservation of Monuments,concept,A taught first,,HIST_6300_triples_raw.json
+HIST_6300,Representation of the Past,concept,PART_OF,Heritage Theories,topic,,,HIST_6300_triples_raw.json
+HIST_6300,Valuation of Cultural Assets,concept,PART_OF,Heritage Theories,topic,,,HIST_6300_triples_raw.json
+HIST_6300,Architecture and Preservation,concept,PART_OF,Interdisciplinary Approaches,topic,,,HIST_6300_triples_raw.json
+HIST_6300,Conservation of Monuments,concept,PART_OF,Tangible vs Intangible,topic,,,HIST_6300_triples_raw.json
+HIST_6300,Interpretation of Cultural Landscapes,concept,PART_OF,Tangible vs Intangible,topic,,,HIST_6300_triples_raw.json
+HIST_6300,Preserving Traditional Practices,concept,PART_OF,Tangible vs Intangible,topic,,,HIST_6300_triples_raw.json
+HIST_6300,Expertise in Heritage Studies,concept,PART_OF,Heritage Discourse,topic,,,HIST_6300_triples_raw.json
+HIST_6300,Perspectives on Cultural Significance,concept,PART_OF,Heritage Discourse,topic,,,HIST_6300_triples_raw.json
+HIST_6300,Debates in Heritage Conservation,concept,PART_OF,Heritage Discourse,topic,,,HIST_6300_triples_raw.json
+HIST_6300,Analyzing and Comparing,topic,PART_OF,Describing Cultural Heritage Sites,concept,,part is broader than whole - check direction,HIST_6300_triples_raw.json
+HIST_6300,Making Arguments about Heritage Value,concept,PART_OF,Analyzing and Comparing,topic,,,HIST_6300_triples_raw.json

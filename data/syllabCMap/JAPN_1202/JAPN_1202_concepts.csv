@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+JAPN_1202,topic,Japanese Language,Japanese language,2,verified,Japanese Language,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Reading and Writing,Reading and Writing,3,verified,Reading and Writing,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Cultural Understanding,cultural understanding,1,verified,Cultural Understanding,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Listening Comprehension,Listening Comprehension,1,inferred,Listening Comprehension,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Speaking Practice,Speaking Practice,1,inferred,Speaking Practice,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Hiragana Fundamentals,Hiragana Fundamentals,1,inferred,Hiragana Fundamentals,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Katakana Basics,Katakana Basics,1,inferred,Katakana Basics,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Grammar Review 1,Grammar Review 1,1,inferred,Grammar Review 1,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Kanji Introduction,Kanji Introduction,1,inferred,Kanji Introduction,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Grammar Review 2,Grammar Review 2,1,inferred,Grammar Review 2,JAPN_1202_concepts_raw.json
+JAPN_1202,topic,Vocabulary Expansion,Vocabulary Expansion,1,inferred,Vocabulary Expansion,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,hiragana characters,Hiragana Characters,1,inferred,hiragana characters,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,hiragana pronunciation,Hiragana Pronunciation,1,inferred,hiragana pronunciation,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,katakana characters,Katakana Characters,1,inferred,katakana characters,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,katakana pronunciation,Katakana Pronunciation,1,inferred,katakana pronunciation,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,Japanese sentence structure,Japanese Sentence Structure,1,inferred,Japanese sentence structure,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,verb conjugation,Verb Conjugation,1,inferred,verb conjugation,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,particles,Particles,1,inferred,particles,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,conditional verb forms,Conditional Verb Forms,1,inferred,conditional verb forms,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,adjectives,Adjectives,1,inferred,adjectives,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,basic sentence patterns,Basic Sentence Patterns,1,inferred,basic sentence patterns,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,everyday phrases and expressions,Everyday Phrases and Expressions,1,inferred,everyday phrases and expressions,JAPN_1202_concepts_raw.json
+JAPN_1202,concept,cultural references,Cultural References,2,inferred,cultural references,JAPN_1202_concepts_raw.json

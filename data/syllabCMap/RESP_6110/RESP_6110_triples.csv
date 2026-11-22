@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_6110,Cardiopulmonary Disease Management,topic,PREREQUISITE_OF,Respiratory Failure,topic,A taught first,,RESP_6110_triples_raw.json
+RESP_6110,evidence-based care plans,concept,PREREQUISITE_OF,respiratory disease management,concept,B mentioned first,,RESP_6110_triples_raw.json
+RESP_6110,respiratory system anatomy,concept,PREREQUISITE_OF,pulmonary function tests,concept,same unit,,RESP_6110_triples_raw.json
+RESP_6110,airway obstruction,concept,PART_OF,Airway Diseases,topic,,,RESP_6110_triples_raw.json
+RESP_6110,asthma pathophysiology,concept,PART_OF,Airway Diseases,topic,,,RESP_6110_triples_raw.json
+RESP_6110,chronic bronchitis,concept,PART_OF,Airway Diseases,topic,,,RESP_6110_triples_raw.json
+RESP_6110,COPD management,concept,PART_OF,Airway Diseases,topic,,,RESP_6110_triples_raw.json
+RESP_6110,pulmonary fibrosis,concept,PART_OF,Airway Diseases,topic,,,RESP_6110_triples_raw.json
+RESP_6110,cardiopulmonary disease pathophysiology,concept,PART_OF,Cardiopulmonary Disease Management,topic,,,RESP_6110_triples_raw.json
+RESP_6110,Clinical Assessment and Decision Making,topic,PART_OF,Cardiopulmonary Disease Management,topic,,,RESP_6110_triples_raw.json
+RESP_6110,diagnosis and treatment options,concept,PART_OF,Cardiopulmonary Disease Management,topic,,,RESP_6110_triples_raw.json
+RESP_6110,respiratory disease management,concept,PART_OF,Cardiopulmonary Disease Management,topic,,,RESP_6110_triples_raw.json
+RESP_6110,Acute Respiratory Distress Syndrome,topic,SUBTYPE_OF,comprehensive respiratory diseases,concept,,,RESP_6110_triples_raw.json
+RESP_6110,Respiratory Failure,topic,SUBTYPE_OF,comprehensive respiratory diseases,concept,,,RESP_6110_triples_raw.json
+RESP_6110,UNC Charlotte email,tool,USED_FOR,online contact,method,,,RESP_6110_triples_raw.json

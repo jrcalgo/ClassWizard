@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_2100,Aging Process Overview,concept,PREREQUISITE_OF,Life Course Perspective,concept,same unit,,GRNT_2100_triples_raw.json
+GRNT_2100,Gerontology Field Study,concept,PREREQUISITE_OF,Aging Process Overview,concept,same unit,,GRNT_2100_triples_raw.json
+GRNT_2100,Continuity Theory Basics,concept,PREREQUISITE_OF,Disengagement Theory,concept,same unit,,GRNT_2100_triples_raw.json
+GRNT_2100,Theories of Aging,topic,PREREQUISITE_OF,Demographic Changes,topic,A taught first,,GRNT_2100_triples_raw.json
+GRNT_2100,Pension Systems Overview,concept,PREREQUISITE_OF,Social Policies and Aging,topic,same unit,,GRNT_2100_triples_raw.json
+GRNT_2100,Aging Process Overview,concept,PART_OF,Aging And The Life Course,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Life Course Perspective,concept,PART_OF,Aging And The Life Course,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Gerontology Field Study,concept,PART_OF,Aging And The Life Course,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Disengagement Theory,concept,PART_OF,Theories of Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Activity Theory Overview,concept,PART_OF,Theories of Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Continuity Theory Basics,concept,PART_OF,Theories of Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Aging Population Growth,concept,PART_OF,Demographic Changes,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Changing Family Structures,concept,PART_OF,Demographic Changes,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Cultural Diversity Impact,concept,PART_OF,Demographic Changes,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Pension Systems Overview,concept,PART_OF,Social Policies and Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Healthcare Access Issues,concept,PART_OF,Social Policies and Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Workforce Ageism Concerns,concept,PART_OF,Social Policies and Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Aging vs. Chronic Conditions,concept,PART_OF,Normal Aging vs. Disease,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Disease Management Strategies,concept,PART_OF,Normal Aging vs. Disease,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Healthy Aging Practices,concept,PART_OF,Normal Aging vs. Disease,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Conversation Skills Training,concept,PART_OF,Service Learning Conversations,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Debunking Age Stereotypes,concept,PART_OF,Service Learning Conversations,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Gerontology Field Study,concept,USED_FOR,Aging Process Overview,concept,,,GRNT_2100_triples_raw.json
+GRNT_2100,Disengagement Theory,concept,USED_FOR,Theories of Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Activity Theory Overview,concept,USED_FOR,Theories of Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Continuity Theory Basics,concept,USED_FOR,Theories of Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Pension Systems Overview,concept,USED_FOR,Social Policies and Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Healthcare Access Issues,concept,USED_FOR,Social Policies and Aging,topic,,,GRNT_2100_triples_raw.json
+GRNT_2100,Workforce Ageism Concerns,concept,USED_FOR,Social Policies and Aging,topic,,,GRNT_2100_triples_raw.json

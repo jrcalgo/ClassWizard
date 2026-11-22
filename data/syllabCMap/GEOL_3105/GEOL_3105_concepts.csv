@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOL_3105,topic,Mineral Resources,Mineral Resources,6,verified,Mineral Resources,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Primary Producers and Consumers,primary producers and consumers,1,verified,Primary Producers and Consumers,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Social and Environmental Impacts,social and environmental impacts,1,verified,Social and Environmental Impacts,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,expected lifespans of common resources,expected lifespans of common resources,1,verified,expected lifespans of common resources,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Formation of Ore Deposits,Formation of Ore Deposits,1,inferred,Formation of Ore Deposits,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Fossil Fuel Formation,Fossil Fuel Formation,1,inferred,Fossil Fuel Formation,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Mineral Resource Extraction Methods,Mineral Resource Extraction Methods,1,inferred,Mineral Resource Extraction Methods,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Refining and Processing Mineral Resources,Refining and Processing Mineral Resources,1,inferred,Refining and Processing Mineral Resources,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Uses of Common Mineral Resources,Uses of Common Mineral Resources,1,inferred,Uses of Common Mineral Resources,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Environmental Impacts of Extraction,Environmental Impacts of Extraction,1,inferred,Environmental Impacts of Extraction,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Waste Disposal and Management,Waste Disposal and Management,1,inferred,Waste Disposal and Management,GEOL_3105_concepts_raw.json
+GEOL_3105,topic,Sustainability of Mineral Resources,Sustainability of Mineral Resources,1,inferred,Sustainability of Mineral Resources,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,mineral resource importance,Mineral Resource Importance,1,inferred,mineral resource importance,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,ore deposit formation processes,Ore Deposit Formation Processes,1,inferred,ore deposit formation processes,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,types of ore deposits formed,Types of Ore Deposits Formed,1,inferred,types of ore deposits formed,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,coal and oil formation,Coal and Oil Formation,1,inferred,coal and oil formation,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,gas reservoir formation mechanisms,Gas Reservoir Formation Mechanisms,1,inferred,gas reservoir formation mechanisms,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,open pit mining techniques,Open Pit Mining Techniques,1,inferred,open pit mining techniques,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,underground mining methods used,Underground Mining Methods Used,1,inferred,underground mining methods used,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,metallurgical processes applied,Metallurgical Processes Applied,1,inferred,metallurgical processes applied,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,chemical refining of fossil fuels,Chemical Refining of Fossil Fuels,1,inferred,chemical refining of fossil fuels,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,energy production from fossil fuels,Energy Production from Fossil Fuels,1,inferred,energy production from fossil fuels,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,industrial applications of minerals,Industrial Applications of Minerals,1,inferred,industrial applications of minerals,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,global mineral resource trade,Global Mineral Resource Trade,1,inferred,global mineral resource trade,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,major exporting and importing countries,Major Exporting and Importing Countries,1,inferred,major exporting and importing countries,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,water pollution from mining activities,Water Pollution from Mining Activities,1,inferred,water pollution from mining activities,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,air pollution from refining processes,Air Pollution from Refining Processes,1,inferred,air pollution from refining processes,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,mine waste management strategies,Mine Waste Management Strategies,1,inferred,mine waste management strategies,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,hazardous waste disposal methods,Hazardous Waste Disposal Methods,1,inferred,hazardous waste disposal methods,GEOL_3105_concepts_raw.json
+GEOL_3105,concept,renewable energy alternatives,Renewable Energy Alternatives,1,inferred,renewable energy alternatives,GEOL_3105_concepts_raw.json

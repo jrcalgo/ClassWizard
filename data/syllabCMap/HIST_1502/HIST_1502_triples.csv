@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_1502,global interconnectedness,concept,PREREQUISITE_OF,complexity of world systems,concept,same unit,,HIST_1502_triples_raw.json
+HIST_1502,communication styles across cultures,concept,PREREQUISITE_OF,perspectives on food choices,concept,same unit,,HIST_1502_triples_raw.json
+HIST_1502,industrial agriculture development,concept,PART_OF,rise of industrial agriculture,concept,,,HIST_1502_triples_raw.json
+HIST_1502,perspectives on food choices,concept,PART_OF,sustainable food choices and practices,concept,,,HIST_1502_triples_raw.json
+HIST_1502,alternative farming methods,concept,PART_OF,sustainable food systems development,concept,,,HIST_1502_triples_raw.json
+HIST_1502,food cooperatives and activism,concept,PART_OF,sustainable food systems development,concept,,,HIST_1502_triples_raw.json
+HIST_1502,country-specific food systems,concept,PART_OF,comparative analysis of food systems,concept,,,HIST_1502_triples_raw.json
+HIST_1502,regional food challenges and solutions,concept,PART_OF,comparative analysis of food systems,concept,,,HIST_1502_triples_raw.json
+HIST_1502,international trade and food systems,concept,PART_OF,global economic impact on food,concept,,,HIST_1502_triples_raw.json
+HIST_1502,power struggles over food resources,concept,PART_OF,food monopolies and control,concept,,,HIST_1502_triples_raw.json
+HIST_1502,rise of industrial agriculture,concept,USED_FOR,industrial agriculture development,concept,,,HIST_1502_triples_raw.json
+HIST_1502,food monopolies and power dynamics,concept,USED_FOR,rise of industrial agriculture,concept,,,HIST_1502_triples_raw.json
+HIST_1502,perspectives on food choices,concept,USED_FOR,sustainable food choices and practices,concept,,,HIST_1502_triples_raw.json

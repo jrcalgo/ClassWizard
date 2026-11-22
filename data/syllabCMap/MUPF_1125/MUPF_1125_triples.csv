@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1125,gospel music definition,concept,PREREQUISITE_OF,Types of gospel music,concept,same unit,,MUPF_1125_triples_raw.json
+MUPF_1125,Breathing exercises for singing,concept,PREREQUISITE_OF,Proper vocal placement,concept,same unit,,MUPF_1125_triples_raw.json
+MUPF_1125,Breathing exercises for singing,concept,PREREQUISITE_OF,Resonance and tone production,concept,same unit,,MUPF_1125_triples_raw.json
+MUPF_1125,Understanding chord charts,concept,PREREQUISITE_OF,Basic harmony concepts,concept,same unit,,MUPF_1125_triples_raw.json
+MUPF_1125,Understanding chord charts,concept,PREREQUISITE_OF,Chord progressions in gospel music,concept,same unit,,MUPF_1125_triples_raw.json
+MUPF_1125,Breathing exercises for singing,concept,PART_OF,Vocal Techniques for Gospel Singing,topic,,,MUPF_1125_triples_raw.json
+MUPF_1125,Understanding chord charts,concept,PART_OF,Harmony and Chord Progressions,topic,,,MUPF_1125_triples_raw.json
+MUPF_1125,Classic gospel songs,concept,PART_OF,Traditional Gospel Music Styles,topic,,,MUPF_1125_triples_raw.json
+MUPF_1125,Traditional gospel harmonies,concept,PART_OF,Traditional Gospel Music Styles,topic,,,MUPF_1125_triples_raw.json
+MUPF_1125,Influential gospel artists,concept,PART_OF,Traditional Gospel Music Styles,topic,,,MUPF_1125_triples_raw.json
+MUPF_1125,Gospel music fusion,concept,PART_OF,Contemporary Gospel Music Trends,topic,,,MUPF_1125_triples_raw.json

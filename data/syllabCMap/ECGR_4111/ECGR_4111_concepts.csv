@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4111,topic,Control Systems Theory I,Control Systems Theory I,1,verified,Control Systems Theory I,ECGR_4111_concepts_raw.json
+ECGR_4111,topic,Control Systems,Control Systems,9,verified,Introduction to Control Systems,ECGR_4111_concepts_raw.json
+ECGR_4111,method,time-domain analysis methods,time-domain analysis methods,1,verified,time-domain analysis methods,ECGR_4111_concepts_raw.json
+ECGR_4111,method,frequency-domain analysis tools,frequency-domain analysis tools,1,verified,frequency-domain analysis tools,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,transfer functions,Transfer functions,1,verified,transfer functions,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,block diagrams,block diagrams,1,verified,block diagrams,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,signal flow graphs,signal flow graphs,1,verified,signal flow graphs,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,feedback control system characteristics,Feedback control system characteristics,1,verified,feedback control system characteristics,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,root locus,root locus,1,verified,root locus,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,frequency response methods,frequency response methods,1,verified,frequency response methods,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,time domain analysis of control systems,Time domain analysis of control systems,1,verified,time domain analysis of control systems,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,state-variables,state-variables,1,verified,state-variables,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,state-space methods,state-space methods,1,verified,state-space methods,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,state transition matrices,state transition matrices,1,verified,state transition matrices,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,eigenvalues,eigenvalues,1,verified,eigenvalues,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,controllability,Controllability,1,verified,controllability,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,observability,observability,1,verified,observability,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,stability,stability,2,verified,stability,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,phase-lag compensators,Phase-Lag compensators,1,verified,phase-lag compensators,ECGR_4111_concepts_raw.json
+ECGR_4111,concept,Nichols plots,Nichols plots,1,verified,Nichols plots,ECGR_4111_concepts_raw.json
+ECGR_4111,method,design and compensation of control systems,design and compensation of control systems,1,verified,design and compensation of control systems,ECGR_4111_concepts_raw.json
+ECGR_4111,tool,MATLAB,MATLAB,1,verified,MATLAB,ECGR_4111_concepts_raw.json
+ECGR_4111,tool,SIMULINK,SIMULINK,1,verified,SIMULINK,ECGR_4111_concepts_raw.json

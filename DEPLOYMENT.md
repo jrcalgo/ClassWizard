@@ -23,7 +23,7 @@ On the first start, the `ollama-pull` container also downloads the chatbot model
 
 When it's ready, `curl http://127.0.0.1:8000/health` returns `OK`. Then open http://127.0.0.1:8501.
 
-The Spark pipeline then runs in the background for about 7 minutes and fills `course_career_scores`. Later starts skip it unless the catalog, O*NET, or syllabi changed.
+Independent background refresh and ALS supervisors publish hybrid ratings and then blended scores in `course_career_scores`. Compatible rating matrices reuse saved ALS predictions.
 
 ## Chatbot model
 
@@ -101,3 +101,46 @@ docker builder prune --all
 ```bash
 docker compose logs -f backend
 ```
+
+Spark publishes catalog-qualified scores only after validating complete coverage and finite ratings. The release fingerprint includes the scoring version and loaded input releases; the published row count and timestamp are recorded in `ingest_runs`. Follow the rebuild with `docker compose logs -f backend`. Publication reports the verified score count; failures keep the previous batch intact. The API uses Spark hybrid ratings only when the requested course–career pairs are complete and current, otherwise it uses cosine similarity for the entire request.
+
+Skill-match evidence is refreshed separately from scores. `--check-evidence` uses the same exit convention as `--check`: 0 means refresh needed, 1 means current. On restart, current scores with stale evidence trigger only `--steps evidence`; incompatible artifacts produce an explicit error and ordinary RAG continues without scoring-match claims. Evidence and metadata are replaced together, and each explanation reads scores and evidence in one repeatable-read snapshot.
+
+When catalog-loader or syllabus-parser versions change, startup reloads their records and invalidates the previous score/evidence fingerprints. This can trigger a full Spark rebuild; ordinary cosine ranking remains the fallback while current hybrid scores are unavailable, and stale skill-match citations are withheld. Merging code alone does not reload data. Plan for the reload before restarting a deployed backend; runtime depends on hardware (a recent local run spent about 19 minutes in Gold scoring alone).
+
+### Independent hybrid and ALS publication
+
+Startup launches the hybrid/evidence refresher and a separate ALS supervisor before
+starting the API. Hybrid ratings become available as soon as Gold publication
+commits; evidence errors and ALS training failures do not delay recommendations.
+Both supervisors retry after 30 seconds, doubling to a 15 minute maximum. Successful
+supervisors check freshness every 30 seconds; the frontend does not poll.
+
+For an explicit refresh using compatible saved Gold artifacts:
+
+```sh
+docker compose exec backend python3 -m ai.recommendations.spark_jobs.run_all --steps publish_hybrid,evidence
+```
+
+For a complete hybrid rebuild, use `--steps bronze,silver,gold,publish_hybrid,evidence`.
+For one-shot ALS training and atomic publication:
+
+```sh
+docker compose exec backend python3 -m ai.recommendations.spark_jobs.worker --once
+```
+
+Jobs retain their immutable rating snapshot, predictions, model and training identity
+under `/data/lake/jobs/<job-id>`. Retry publication of a saved job with
+`python3 -m ai.recommendations.spark_jobs.worker --publish-job /data/lake/jobs/<job-id>`.
+Superseded jobs are rejected. A nonblocking `.als.lock` prevents duplicate workers;
+the hybrid publisher uses a separate pipeline lock.
+
+`SCORING_VERSION` versions hybrid rules; `ALS_TRAINING_VERSION` versions ALS settings
+and training behavior; `BLEND_VERSION` and `HYBRID_WEIGHT` version the 70/30 blend.
+Change the relevant version whenever its rules change. Blend-only changes reuse raw
+predictions without training. Training fingerprints include catalog, career, course
+and rating thousandths, excluding ingest timestamps and evidence provenance.
+
+The API chooses complete current blended scores, then complete hybrid ratings,
+then cosine similarity for the whole request. `score_components_by_occupation`
+exposes compatible component values, with unavailable components set to null.

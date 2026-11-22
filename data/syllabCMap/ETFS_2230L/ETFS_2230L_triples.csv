@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETFS_2230L,IDLH,concept,PREREQUISITE_OF,TWA,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,IDLH,concept,PREREQUISITE_OF,STEL,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,IDLH,concept,PREREQUISITE_OF,C,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,IDLH,concept,PREREQUISITE_OF,PEL,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,IDLH,concept,PREREQUISITE_OF,REL's,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,TWA,concept,PREREQUISITE_OF,STEL,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,TWA,concept,PREREQUISITE_OF,C,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,TWA,concept,PREREQUISITE_OF,PEL,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,TWA,concept,PREREQUISITE_OF,REL's,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,STEL,concept,PREREQUISITE_OF,C,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,STEL,concept,PREREQUISITE_OF,PEL,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,C,concept,PREREQUISITE_OF,PEL,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,PEL,concept,PREREQUISITE_OF,REL's,concept,same unit,,ETFS_2230L_triples_raw.json
+ETFS_2230L,IDLH,concept,PART_OF,Hazardous Materials Classification,topic,,,ETFS_2230L_triples_raw.json
+ETFS_2230L,TWA,concept,PART_OF,Hazardous Materials Classification,topic,,,ETFS_2230L_triples_raw.json
+ETFS_2230L,STEL,concept,PART_OF,Hazardous Materials Classification,topic,,,ETFS_2230L_triples_raw.json
+ETFS_2230L,C,concept,PART_OF,Hazardous Materials Classification,topic,,,ETFS_2230L_triples_raw.json
+ETFS_2230L,PEL,concept,PART_OF,Hazardous Materials Classification,topic,,,ETFS_2230L_triples_raw.json
+ETFS_2230L,Personal Protective Equipment,concept,PART_OF,Workplace or Emergency Scene,concept,,,ETFS_2230L_triples_raw.json
+ETFS_2230L,Emergency Response Guidebook,tool,USED_FOR,Hazardous Materials Classification,topic,,,ETFS_2230L_triples_raw.json
+ETFS_2230L,Emergency Response Guidebook,tool,USED_FOR,Proper Hazardous Materials Classification,concept,,,ETFS_2230L_triples_raw.json
+ETFS_2230L,NIOSH Pocket Guide to Chemical Hazards,tool,USED_FOR,Hazardous Materials Classification,topic,,,ETFS_2230L_triples_raw.json

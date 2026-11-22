@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_1100,cell membrane and organelles,concept,PREREQUISITE_OF,cellular transport mechanisms,concept,same unit,,EXER_1100_triples_raw.json
+EXER_1100,cell membrane and organelles,concept,PREREQUISITE_OF,cellular energy production,concept,same unit,,EXER_1100_triples_raw.json
+EXER_1100,epithelial tissue characteristics,concept,PREREQUISITE_OF,connective tissue functions,concept,same unit,,EXER_1100_triples_raw.json
+EXER_1100,epithelial tissue characteristics,concept,PREREQUISITE_OF,muscle tissue structure and function,concept,same unit,,EXER_1100_triples_raw.json
+EXER_1100,regional anatomical terminology,concept,PART_OF,Human Body Overview,topic,,,EXER_1100_triples_raw.json
+EXER_1100,directional anatomical terms,concept,PART_OF,Human Body Overview,topic,,,EXER_1100_triples_raw.json
+EXER_1100,body regions and divisions,concept,PART_OF,Human Body Overview,topic,,,EXER_1100_triples_raw.json
+EXER_1100,cellular transport mechanisms,concept,PART_OF,Cell Structure Function,topic,,,EXER_1100_triples_raw.json
+EXER_1100,cellular energy production,concept,PART_OF,Cell Structure Function,topic,,,EXER_1100_triples_raw.json
+EXER_1100,epithelial tissue characteristics,concept,PART_OF,Tissue Types Overview,topic,,,EXER_1100_triples_raw.json
+EXER_1100,negative feedback mechanisms,concept,PART_OF,Homeostasis Regulation,topic,,,EXER_1100_triples_raw.json
+EXER_1100,positive feedback mechanisms,concept,PART_OF,Homeostasis Regulation,topic,,,EXER_1100_triples_raw.json

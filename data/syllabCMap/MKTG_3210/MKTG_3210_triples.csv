@@ -1,0 +1,36 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3210,Learning Theories,concept,PREREQUISITE_OF,Attitude Formation,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Perception Process,concept,PREREQUISITE_OF,Decision Making Models,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Learning Theories,concept,PREREQUISITE_OF,Motivation Factors,concept,same unit,,MKTG_3210_triples_raw.json
+MKTG_3210,Motivation Factors,concept,PREREQUISITE_OF,Attitude Formation,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Perception Process,concept,PREREQUISITE_OF,Attitude Formation,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Learning Theories,concept,PREREQUISITE_OF,Perceptual Selectivity,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Perception Process,concept,PREREQUISITE_OF,Perceptual Selectivity,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Learning Theories,concept,PREREQUISITE_OF,Selective Attention,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Motivation Factors,concept,PREREQUISITE_OF,Intrinsic Motivation,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Motivation Factors,concept,PREREQUISITE_OF,Extrinsic Motivation,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Motivation Factors,concept,PREREQUISITE_OF,Motivational Drivers,concept,A taught first,,MKTG_3210_triples_raw.json
+MKTG_3210,Perception Process,concept,PART_OF,Consumer Behavior,topic,,,MKTG_3210_triples_raw.json
+MKTG_3210,Learning Theories,concept,PART_OF,Consumer Behavior,topic,,,MKTG_3210_triples_raw.json
+MKTG_3210,Motivation Factors,concept,PART_OF,Consumer Behavior,topic,,,MKTG_3210_triples_raw.json
+MKTG_3210,Attitude Formation,concept,PART_OF,Consumer Behavior,topic,,,MKTG_3210_triples_raw.json
+MKTG_3210,Decision Making Models,concept,PART_OF,Consumer Behavior,topic,,,MKTG_3210_triples_raw.json
+MKTG_3210,Perceptual Selectivity,concept,PART_OF,Perception Process,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Selective Attention,concept,PART_OF,Perception Process,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Encoding Processes,concept,PART_OF,Perception Process,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Memory Structures,concept,PART_OF,Perception Process,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Memory Associations,concept,PART_OF,Perception Process,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Encoding Schemes,concept,PART_OF,Perception Process,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Intrinsic Motivation,concept,PART_OF,Motivation Factors,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Extrinsic Motivation,concept,PART_OF,Motivation Factors,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Motivational Drivers,concept,PART_OF,Motivation Factors,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,PESTLE Analysis,concept,USED_FOR,Social Responsibility,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,PESTLE Analysis,concept,USED_FOR,Corporate Social Impact,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,PESTLE Analysis,concept,USED_FOR,Environmental Sustainability,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,PESTLE Analysis,concept,USED_FOR,Ethical Decision Making,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Classical Conditioning,concept,USED_FOR,Behavioral Learning,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Conditioned Response,concept,USED_FOR,Behavioral Learning,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Unconditioned Stimulus,concept,USED_FOR,Behavioral Learning,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Maslow's Hierarchy,concept,USED_FOR,Motivational Factors,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Drive Theory,concept,USED_FOR,Motivational Factors,concept,,,MKTG_3210_triples_raw.json
+MKTG_3210,Self-Determination Theory,concept,USED_FOR,Motivational Factors,concept,,,MKTG_3210_triples_raw.json

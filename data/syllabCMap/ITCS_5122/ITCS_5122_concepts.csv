@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_5122,concept,critical thinking,critical thinking,6,verified,critical thinking,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,visual reasoning,visual reasoning,18,verified,visual reasoning,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,perception/cognition,Perception Cognition,23,verified,perception/cognition,ITCS_5122_concepts_raw.json
+ITCS_5122,topic,statistical and other analysis techniques,statistical and other analysis techniques,3,verified,statistical and other analysis techniques,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,principles of interaction,principles of interaction,13,verified,principles of interaction,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,visual analytics,Visual Analytics,14,verified,visual analytics,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,agentic AI,Agentic AI,32,verified,agentic AI,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,LLM APIs,LLM APIs,32,verified,LLM APIs,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,generative models,Generative Models,7,verified,generative models,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,data visualization,Data Visualization,9,verified,data visualization,ITCS_5122_concepts_raw.json
+ITCS_5122,method,interactive analysis,Interactive Analysis,6,verified,interactive analysis,ITCS_5122_concepts_raw.json
+ITCS_5122,method,collaborative prototyping,Collaborative Prototyping,13,verified,collaborative prototyping,ITCS_5122_concepts_raw.json
+ITCS_5122,topic,Dynamic Adaptation,Dynamic Adaptation,7,verified,Dynamic Adaptation,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,explainable visualizations,Explainable Visualizations,2,verified,explainable visualizations,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,interactive analytics,Interactive Analytics,2,verified,interactive analytics,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,natural language queries,Natural Language Queries,1,verified,natural language queries,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,statistical analysis techniques,Statistical Analysis Techniques,11,verified,statistical analysis techniques,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,coding agents,coding agents,32,verified,coding agents,ITCS_5122_concepts_raw.json
+ITCS_5122,method,perceptual cognition,Perceptual Cognition,2,verified,perceptual cognition,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,visual hierarchy,Visual Hierarchy,1,verified,visual hierarchy,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,interactivity principles,Interactivity Principles,1,verified,interactivity principles,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,color theory application,Color Theory Application,1,verified,color theory application,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,data reduction techniques,Data Reduction Techniques,1,verified,data reduction techniques,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,deployment strategies,Deployment Strategies,1,verified,deployment strategies,ITCS_5122_concepts_raw.json
+ITCS_5122,concept,visualization design elements,Visualization Design Elements,1,verified,visualization design elements,ITCS_5122_concepts_raw.json
+ITCS_5122,method,visual analytics frameworks,visual analytics frameworks,1,verified,visual analytics frameworks,ITCS_5122_concepts_raw.json
+ITCS_5122,method,perception-based design principles,perception-based design principles,1,verified,perception-based design principles,ITCS_5122_concepts_raw.json
+ITCS_5122,method,key visual concepts,key visual concepts,1,verified,key visual concepts,ITCS_5122_concepts_raw.json
+ITCS_5122,method,generative AI,Generative AI,22,verified,generative AI,ITCS_5122_concepts_raw.json
+ITCS_5122,method,LLM APIs integration,LLM APIs Integration,2,verified,LLM APIs integration,ITCS_5122_concepts_raw.json
+ITCS_5122,method,coding agents collaboration,Coding Agents Collaboration,1,verified,coding agents collaboration,ITCS_5122_concepts_raw.json
+ITCS_5122,method,agentic AI principles,Agentic AI Principles,2,verified,agentic AI principles,ITCS_5122_concepts_raw.json
+ITCS_5122,method,dynamic visualization adaptation,Dynamic Visualization Adaptation,1,verified,dynamic visualization adaptation,ITCS_5122_concepts_raw.json
+ITCS_5122,method,data abstraction,data abstraction,3,verified,data abstraction,ITCS_5122_concepts_raw.json
+ITCS_5122,method,task abstraction,Task Abstraction,2,verified,task abstraction,ITCS_5122_concepts_raw.json
+ITCS_5122,tool,Python,Python,5,verified,Python,ITCS_5122_concepts_raw.json
+ITCS_5122,tool,Streamlit Framework,Streamlit Framework,1,verified,Streamlit Framework,ITCS_5122_concepts_raw.json
+ITCS_5122,tool,Altair Charts,Altair Charts,1,verified,Altair Charts,ITCS_5122_concepts_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHFD_5250,assistive technology,concept,PART_OF,use of assistive technology,method,,part is broader than whole - check direction,CHFD_5250_triples_raw.json
+CHFD_5250,formal and informal strategies,method,PART_OF,techniques for observing,method,,,CHFD_5250_triples_raw.json
+CHFD_5250,recording children's actions and reactions,method,PART_OF,techniques for observing,method,,,CHFD_5250_triples_raw.json
+CHFD_5250,developmental theory,concept,PART_OF,Assessment,topic,,,CHFD_5250_triples_raw.json
+CHFD_5250,blended practices approach,concept,PART_OF,Assessment,topic,,,CHFD_5250_triples_raw.json

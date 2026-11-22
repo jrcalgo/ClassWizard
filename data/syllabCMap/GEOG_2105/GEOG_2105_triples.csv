@@ -1,0 +1,46 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_2105,Capitalism Economic System,concept,PREREQUISITE_OF,Economic Systems Theory,concept,A taught first,,GEOG_2105_triples_raw.json
+GEOG_2105,Capitalism Economic System,concept,PREREQUISITE_OF,Capitalism and Geography,concept,A taught first,,GEOG_2105_triples_raw.json
+GEOG_2105,Globalization Effects,concept,PREREQUISITE_OF,Path dependence,concept,A taught first,,GEOG_2105_triples_raw.json
+GEOG_2105,Industrial Revolution,concept,PREREQUISITE_OF,Urban-Rural Dynamics,concept,same unit,,GEOG_2105_triples_raw.json
+GEOG_2105,Service Sector Growth,concept,PREREQUISITE_OF,Cluster Development,concept,A taught first,,GEOG_2105_triples_raw.json
+GEOG_2105,Flexible Production,concept,PREREQUISITE_OF,Product Life Cycles,concept,same unit,,GEOG_2105_triples_raw.json
+GEOG_2105,Post-industrial space,concept,PREREQUISITE_OF,Economic Space Optimization,concept,B taught first,B is taught before A - check,GEOG_2105_triples_raw.json
+GEOG_2105,Geographic Variation Patterns,concept,PREREQUISITE_OF,Geographic Variation Models,concept,A taught first,,GEOG_2105_triples_raw.json
+GEOG_2105,Globalization Effects,concept,PREREQUISITE_OF,Globalization Theories,concept,A taught first,,GEOG_2105_triples_raw.json
+GEOG_2105,Manufacturing Industry Trends,concept,PREREQUISITE_OF,Industrial Location Theory,concept,A taught first,,GEOG_2105_triples_raw.json
+GEOG_2105,Path dependence,concept,PREREQUISITE_OF,Path Dependence Theory,concept,same unit,,GEOG_2105_triples_raw.json
+GEOG_2105,Cyclical Fluctuations,concept,PREREQUISITE_OF,Economic Convergence Models,concept,same unit,,GEOG_2105_triples_raw.json
+GEOG_2105,Just-In-Time Manufacturing,concept,PREREQUISITE_OF,Supply Chain Management,concept,same unit,,GEOG_2105_triples_raw.json
+GEOG_2105,Geographic Variation Analysis,concept,PART_OF,Geographic Variation Patterns,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Urban-Rural Land Use,concept,PART_OF,Urban-Rural Dynamics,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Land Use Patterns,concept,PART_OF,Globalization and Landscapes,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Path dependence,concept,PART_OF,Globalization Effects,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Industrial Revolution,concept,PART_OF,Capitalist Economy,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Service Sector Growth,concept,PART_OF,Cluster Development,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Global Value Chains,concept,PART_OF,Globalization Theories,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Spatial Autocorrelation,concept,PART_OF,Geographic Variation Analysis,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Flexible Production,concept,PART_OF,Product Life Cycles,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Cluster Development,concept,PART_OF,Post-industrial space,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Geographic Variation Patterns,concept,PART_OF,Capitalism and Geography,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Economic Systems Theory,concept,PART_OF,Globalization Effects,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Geographic Variation Models,concept,PART_OF,Path dependence,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Economic Space Optimization,concept,PART_OF,Urban-Rural Dynamics,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Spatial Autocorrelation Analysis,concept,PART_OF,Geographic Variation Analysis,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Urban-Rural Land Use Patterns,concept,PART_OF,Urban-Rural Dynamics,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Global Trade Impact Assessment,concept,PART_OF,Globalization Theories,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Capitalist Economy,concept,PART_OF,Industrial Location Theory,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Globalization Theories,concept,PART_OF,Path dependence,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Connectivity Networks,concept,PART_OF,Global Value Chains,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Intermodal Transportation,concept,PART_OF,Global Commodity Chains,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Trade Agreements,concept,PART_OF,Globalization Theories,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Global Commodity Chains,concept,PART_OF,Transnational Corporations,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,International Trade Flows,concept,PART_OF,Globalization Theories,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Path Dependence Theory,concept,PART_OF,Regional Development Patterns,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Global Economic Trends,concept,PART_OF,Cyclical Fluctuations,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Regional Development Patterns,concept,PART_OF,Economic Convergence Models,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Just-In-Time Manufacturing,concept,PART_OF,Supply Chain Management,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Industrial Location Theory,concept,PART_OF,Agglomeration Economies,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Service Industry Location,concept,PART_OF,Knowledge Economy Theories,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Global Service Flows,concept,PART_OF,Cluster Development,concept,,,GEOG_2105_triples_raw.json
+GEOG_2105,Industry Clustering Models,concept,PART_OF,Post-industrial space,concept,,,GEOG_2105_triples_raw.json

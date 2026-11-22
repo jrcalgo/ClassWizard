@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_3290,topic,Engineering,engineering,3,verified,Engineering,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Design Philosophy,design philosophies,1,verified,Design Philosophy,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Project Formation,Project Formation,1,inferred,Project Formation,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Project Planning,Project Planning,1,inferred,Project Planning,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Conceptual Design,Conceptual Design,1,inferred,Conceptual Design,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Preliminary Design Review,Preliminary Design Review,1,inferred,Preliminary Design Review,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Progress Evaluation,Progress Evaluations,1,inferred,Progress Evaluation,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Mid-Project Review,Mid-Project Review,1,inferred,Mid-Project Review,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Progress Evaluations,Progress Evaluations,1,inferred,Progress Evaluations,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Final Design Package,Final Design Package,1,inferred,Final Design Package,SEGR_3290_concepts_raw.json
+SEGR_3290,topic,Expo Presentation and Poster,Expo Presentation and Poster,1,inferred,Expo Presentation and Poster,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Team Formation Process,Team Formation Process,1,inferred,Team Formation Process,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Client Project Briefing,Client Project Briefing,1,inferred,Client Project Briefing,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Project Scope Definition,Project Scope Definition,1,inferred,Project Scope Definition,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Engineering Design Principles,Engineering Design Principles,1,inferred,Engineering Design Principles,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Design Standards and Guidelines,Design Standards and Guidelines,1,inferred,Design Standards and Guidelines,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Problem-Solving Strategies,Problem-Solving Strategies,1,inferred,Problem-Solving Strategies,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Time Management Techniques,Time Management Techniques,1,inferred,Time Management Techniques,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Budgeting and Cost Estimation,Budgeting and Cost Estimation,1,inferred,Budgeting and Cost Estimation,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Risk Assessment and Mitigation,Risk Assessment and Mitigation,1,inferred,Risk Assessment and Mitigation,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Design Concept Development,Design Concept Development,1,inferred,Design Concept Development,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Feasibility Study and Analysis,Feasibility Study and Analysis,1,inferred,Feasibility Study and Analysis,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Initial Design Specifications,Initial Design Specifications,1,inferred,Initial Design Specifications,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Design Review Process and Criteria,Design Review Process and Criteria,1,inferred,Design Review Process and Criteria,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Client Feedback and Expectations,Client Feedback and Expectations,1,inferred,Client Feedback and Expectations,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Design Iteration and Refinement,Design Iteration and Refinement,2,inferred,Design Iteration and Refinement,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Project Progress Monitoring,Project Progress Monitoring,1,inferred,Project Progress Monitoring,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Team Performance Assessment,Team Performance Assessment,1,inferred,Team Performance Assessment,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Client Satisfaction Evaluation,Client Satisfaction Evaluation,1,inferred,Client Satisfaction Evaluation,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Project Status Update and Analysis,Project Status Update and Analysis,1,inferred,Project Status Update and Analysis,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Design Refinement and Optimization,Design Refinement and Optimization,1,inferred,Design Refinement and Optimization,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Risk Management and Mitigation,Risk Management and Mitigation,1,inferred,Risk Management and Mitigation,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Ongoing Project Monitoring and Evaluation,Ongoing Project Monitoring and Evaluation,1,inferred,Ongoing Project Monitoring and Evaluation,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Team Performance and Client Satisfaction,Team Performance and Client Satisfaction,1,inferred,Team Performance and Client Satisfaction,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Final Design Specifications and Documentation,Final Design Specifications and Documentation,1,inferred,Final Design Specifications and Documentation,SEGR_3290_concepts_raw.json
+SEGR_3290,concept,Client Review and Feedback,Client Review and Feedback,1,inferred,Client Review and Feedback,SEGR_3290_concepts_raw.json

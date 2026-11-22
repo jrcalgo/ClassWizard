@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_3107,Decision Making,topic,PREREQUISITE_OF,Decision Trees and Influence Diagrams,topic,A taught first,,SEGR_3107_triples_raw.json
+SEGR_3107,Decision Making,topic,PREREQUISITE_OF,Decisions Under Conflicting Objectives,topic,A taught first,,SEGR_3107_triples_raw.json
+SEGR_3107,Decision Making,topic,PREREQUISITE_OF,value of information,concept,A taught first,,SEGR_3107_triples_raw.json
+SEGR_3107,risk analysis,method,USED_FOR,Sensitivity and Risk Analysis,topic,,,SEGR_3107_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_2216,music,concept,PREREQUISITE_OF,choreographic tools,concept,B taught first,B is taught before A - check,DANC_2216_triples_raw.json
+DANC_2216,music,concept,PREREQUISITE_OF,images,concept,same unit,,DANC_2216_triples_raw.json
+DANC_2216,choreographic tools,concept,PREREQUISITE_OF,organizing movement ideas,concept,A taught first,,DANC_2216_triples_raw.json
+DANC_2216,organizing movement ideas,concept,USED_FOR,Dance Composition,topic,,,DANC_2216_triples_raw.json

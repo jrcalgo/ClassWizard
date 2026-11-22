@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MPAD_6131,concept,taxation policies and processes,taxation policies and processes,1,verified,taxation policies and processes,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,intergovernmental fiscal relations,intergovernmental fiscal relations,1,verified,intergovernmental fiscal relations,MPAD_6131_concepts_raw.json
+MPAD_6131,tool,Excel,Excel,1,verified,Excel,MPAD_6131_concepts_raw.json
+MPAD_6131,tool,Word,Word,1,verified,Word,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,public budgeting theory,Public Budgeting Theory,1,inferred,public budgeting theory,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,budget development process,Budget Development Process,1,inferred,budget development process,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,budget cycle overview,Budget Cycle Overview,1,inferred,budget cycle overview,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,local budget structure,Local Budget Structure,1,inferred,local budget structure,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,revenue sources for localities,Revenue Sources for Localities,1,inferred,revenue sources for localities,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,state budget structure,State Budget Structure,1,inferred,state budget structure,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,state revenue sources,State Revenue Sources,1,inferred,state revenue sources,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,federal budget structure,Federal Budget Structure,1,inferred,federal budget structure,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,capital budgeting process,Capital Budgeting Process,2,inferred,capital budgeting process,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,federal revenue sources,Federal Revenue Sources,1,inferred,federal revenue sources,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,budget reform initiatives,Budget Reform Initiatives,1,inferred,budget reform initiatives,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,budget cycle stages,Budget Cycle Stages,1,inferred,budget cycle stages,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,budget decision-making,Budget Decision-Making,1,inferred,budget decision-making,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,financial management techniques,Financial Management Techniques,1,inferred,financial management techniques,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,public financial reporting,Public Financial Reporting,1,inferred,public financial reporting,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,government accounting standards,Government Accounting Standards,1,inferred,government accounting standards,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,fiscal federalism principles,Fiscal Federalism Principles,1,inferred,fiscal federalism principles,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,grant funding and administration,Grant Funding and Administration,1,inferred,grant funding and administration,MPAD_6131_concepts_raw.json
+MPAD_6131,concept,revenue sharing agreements,Revenue Sharing Agreements,1,inferred,revenue sharing agreements,MPAD_6131_concepts_raw.json
+MPAD_6131,topic,Infrastructure Financing Options,Infrastructure Financing Options,1,inferred,Infrastructure Financing Options,MPAD_6131_concepts_raw.json
+MPAD_6131,topic,Long-Term Capital Planning,Long-Term Capital Planning,1,inferred,Long-Term Capital Planning,MPAD_6131_concepts_raw.json
+MPAD_6131,topic,Tax Policy Design Principles,Tax Policy Design Principles,1,inferred,Tax Policy Design Principles,MPAD_6131_concepts_raw.json
+MPAD_6131,topic,Tax Administration and Enforcement,Tax Administration and Enforcement,1,inferred,Tax Administration and Enforcement,MPAD_6131_concepts_raw.json
+MPAD_6131,topic,Tax Reform Initiatives,Tax Reform Initiatives,1,inferred,Tax Reform Initiatives,MPAD_6131_concepts_raw.json

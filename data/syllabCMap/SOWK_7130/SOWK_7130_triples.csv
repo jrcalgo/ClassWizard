@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_7130,neuroplasticity and adaptation,concept,PREREQUISITE_OF,stress response and regulation,concept,same unit,,SOWK_7130_triples_raw.json
+SOWK_7130,brain structure and function,concept,PREREQUISITE_OF,neuroplasticity and adaptation,concept,same unit,,SOWK_7130_triples_raw.json
+SOWK_7130,principles of trauma-informed practice,concept,PREREQUISITE_OF,safety and trust building strategies,concept,same unit,,SOWK_7130_triples_raw.json
+SOWK_7130,impact on individuals and society,concept,PART_OF,Trauma,topic,,,SOWK_7130_triples_raw.json
+SOWK_7130,historical context of trauma theory,concept,PART_OF,Trauma,topic,,,SOWK_7130_triples_raw.json
+SOWK_7130,brain structure and function,concept,PART_OF,Neuroscience and Trauma,topic,,,SOWK_7130_triples_raw.json
+SOWK_7130,neuroplasticity and adaptation,concept,PART_OF,Neuroscience and Trauma,topic,,,SOWK_7130_triples_raw.json
+SOWK_7130,principles of trauma-informed practice,concept,PART_OF,Trauma-informed Care,topic,,,SOWK_7130_triples_raw.json
+SOWK_7130,safety and trust building strategies,concept,PART_OF,Trauma-informed Care,topic,,,SOWK_7130_triples_raw.json
+SOWK_7130,healing and recovery process,concept,PART_OF,Body Keeps the Score,topic,,,SOWK_7130_triples_raw.json
+SOWK_7130,historical social movements and trauma,concept,PART_OF,Social Movements and Trauma,topic,,,SOWK_7130_triples_raw.json
+SOWK_7130,somatic experiencing and mindfulness,concept,USED_FOR,healing and recovery process,concept,,,SOWK_7130_triples_raw.json

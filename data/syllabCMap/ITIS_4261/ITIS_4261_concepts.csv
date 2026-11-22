@@ -1,0 +1,66 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_4261,concept,Cloud Computing,Cloud Computing,6,verified,Cloud Computing,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,cloud security,cloud security,4,verified,cloud security,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,access and identity management,access and identity management,1,verified,access and identity management,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Network Segmentation,network segmentation,11,verified,Network Segmentation,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,DDOS prevention,DDOS prevention,13,verified,DDOS prevention,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,encryption,encryption,5,verified,encryption,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,intrusion detection,intrusion detection,10,verified,intrusion detection,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,incidence response,incidence response,1,verified,incidence response,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,vulnerability management,vulnerability management,7,verified,vulnerability management,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,governance,governance,1,verified,governance,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,regulatory compliance,regulatory compliance,1,verified,regulatory compliance,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,storage,storage,9,verified,storage,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,computing,Computing,11,verified,computing,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,networking,networking,3,verified,networking,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,elasticity,elasticity,3,verified,elasticity,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,availability,availability,3,verified,availability,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,monitoring,monitoring,3,verified,monitoring,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,content caching,content caching,8,verified,content caching,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,microservices,microservices,7,verified,microservices,ITIS_4261_concepts_raw.json
+ITIS_4261,topic,serverless architecture,serverless architecture,7,verified,serverless architecture,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Cloud Security Best Practices,Cloud Security Best Practices,2,verified,Cloud Security Best Practices,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,S3 Storage,S3 Storage,1,verified,S3 Storage,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,DDOS Prevention Methods,DDOS Prevention Methods,1,verified,DDOS Prevention Methods,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Encryption Methods,Encryption Methods,3,verified,Encryption Methods,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Intrusion Detection Systems,Intrusion Detection Systems,5,verified,Intrusion Detection Systems,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Incident Response Plan,Incident Response Plan,2,verified,Incident Response Plan,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Vulnerability Management Tools,Vulnerability Management Tools,5,verified,Vulnerability Management Tools,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,AWS RDS,AWS RDS,1,verified,AWS RDS,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,DynamoDB,DynamoDB,2,verified,DynamoDB,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Database Security,Database Security,1,verified,Database Security,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Cloud Storage Options,Cloud Storage Options,1,verified,Cloud Storage Options,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Data Encryption Methods,Data Encryption Methods,1,verified,Data Encryption Methods,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,VPC Design,VPC Design,1,verified,VPC Design,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,VPN Configuration,VPN Configuration,1,verified,VPN Configuration,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,AWS Direct Connect,AWS Direct Connect,1,verified,AWS Direct Connect,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Transit Gateway,Transit gateway,2,verified,Transit Gateway,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,VPC Peering,VPC Peering,1,verified,VPC Peering,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,AWS IAM,AWS IAM,1,verified,AWS IAM,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Federated Identity,Federated Identity,1,verified,Federated Identity,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Access Management,Access Management,1,verified,Access Management,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Auto Scaling,Auto scaling,2,verified,Auto Scaling,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Route53 Configuration,Route53 Configuration,1,verified,Route53 Configuration,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Load Balancing,Load balancing,2,verified,Load Balancing,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,DDOS Prevention Techniques,DDOS Prevention Techniques,5,verified,DDOS Prevention Techniques,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Network Segmentation Strategies,Network Segmentation Strategies,1,verified,Network Segmentation Strategies,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Intrusion Detection Methods,Intrusion Detection Methods,1,verified,Intrusion Detection Methods,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Incident Response Planning,Incident Response Planning,3,verified,Incident Response Planning,ITIS_4261_concepts_raw.json
+ITIS_4261,concept,Content Caching Mechanisms,Content Caching Mechanisms,1,verified,Content Caching Mechanisms,ITIS_4261_concepts_raw.json
+ITIS_4261,method,hands-on labs,hands-on labs,2,verified,hands-on labs,ITIS_4261_concepts_raw.json
+ITIS_4261,method,deployment,deployment,4,verified,cloud security design and deployment,ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 4 (S3,AWS Academy Module 4 (S3,1,verified,AWS Academy Module 4 (S3),ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 5 (EC2,AWS Academy Module 5 (EC2,1,verified,"AWS Academy Module 5 (EC2, EFS)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,EFS,EFS,2,verified,"AWS Academy Module 5 (EC2, EFS)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 6 (RDS,AWS Academy Module 6 (RDS,1,verified,"AWS Academy Module 6 (RDS, DynamoDB)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 7 (VPC,AWS Academy Module 7 (VPC,1,verified,AWS Academy Module 7 (VPC),ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 8 (VPN,AWS Academy Module 8 (VPN,1,verified,"AWS Academy Module 8 (VPN, AWSDC, Transit gateway, peering)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWSDC,AWSDC,1,verified,"AWS Academy Module 8 (VPN, AWSDC, Transit gateway, peering)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,peering,peering,2,verified,"AWS Academy Module 8 (VPN, AWSDC, Transit gateway, peering)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 9 (IAM,AWS Academy Module 9 (IAM,1,verified,"AWS Academy Module 9 (IAM, federation)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,federation,federation,1,verified,"AWS Academy Module 9 (IAM, federation)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 10 (Auto scaling,AWS Academy Module 10 (Auto scaling,1,verified,"AWS Academy Module 10 (Auto scaling, Route53, Load balancing)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,Route53,Route53,2,verified,"AWS Academy Module 10 (Auto scaling, Route53, Load balancing)",ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 12 (Caching,AWS Academy Module 12 (Caching,1,verified,AWS Academy Module 12 (Caching),ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 13 (Decoupled architecture,AWS Academy Module 13 (Decoupled architecture,1,verified,AWS Academy Module 13 (Decoupled architecture),ITIS_4261_concepts_raw.json
+ITIS_4261,tool,AWS Academy Module 16,AWS Academy Module 16,1,verified,AWS Academy Module 16,ITIS_4261_concepts_raw.json

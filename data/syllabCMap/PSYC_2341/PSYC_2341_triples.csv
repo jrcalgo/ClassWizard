@@ -1,0 +1,37 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2341,Diagnostic Criteria,concept,PREREQUISITE_OF,Differential Diagnosis,concept,A taught first,,PSYC_2341_triples_raw.json
+PSYC_2341,Diagnostic Criteria,concept,PREREQUISITE_OF,Etiology of Disorders,concept,same unit,,PSYC_2341_triples_raw.json
+PSYC_2341,Diagnostic Criteria,concept,PREREQUISITE_OF,Assessment Methods,concept,same unit,,PSYC_2341_triples_raw.json
+PSYC_2341,Diagnostic Criteria,concept,PREREQUISITE_OF,Treatment Approaches,concept,same unit,,PSYC_2341_triples_raw.json
+PSYC_2341,Anorexia Nervosa,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Bulimia Nervosa,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Anxiety Disorders,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Obsessive Compulsive Disorder,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Generalized Anxiety,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Panic Attacks,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Anxiety Symptoms,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Cognitive Distortions,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Rumination Behaviors,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Avoidance Coping Mechanisms,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Stressor-Related Disorders,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Traumatic Stress Reactions,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Acute Stress Disorder,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Post-Traumatic Stress Disorder,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Depressive Disorders,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Bipolar Disorder Diagnosis,concept,PART_OF,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Anxiety Disorders,concept,SUBTYPE_OF,Psychological Distress,topic,,,PSYC_2341_triples_raw.json
+PSYC_2341,Obsessive Compulsive Disorder,concept,SUBTYPE_OF,Anxiety Disorders,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Generalized Anxiety,concept,SUBTYPE_OF,Anxiety Disorders,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Panic Attacks,concept,SUBTYPE_OF,Anxiety Disorders,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Anxiety Symptoms,concept,SUBTYPE_OF,Anxiety Disorders,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Cognitive Distortions,concept,SUBTYPE_OF,Anxiety Disorders,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Rumination Behaviors,concept,SUBTYPE_OF,Anxiety Disorders,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Avoidance Coping Mechanisms,concept,SUBTYPE_OF,Anxiety Disorders,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Stressor-Related Disorders,concept,SUBTYPE_OF,Psychological Distress,topic,,,PSYC_2341_triples_raw.json
+PSYC_2341,Traumatic Stress Reactions,concept,SUBTYPE_OF,Stressor-Related Disorders,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Acute Stress Disorder,concept,SUBTYPE_OF,Stressor-Related Disorders,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Depressive Disorders,concept,SUBTYPE_OF,Psychological Distress,topic,,,PSYC_2341_triples_raw.json
+PSYC_2341,Clinical Perspectives on Psychological Disorders,concept,USED_FOR,Abnormal Psychology,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Diagnostic Criteria,concept,USED_FOR,Differential Diagnosis,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Assessment Methods,concept,USED_FOR,Treatment Approaches,concept,,,PSYC_2341_triples_raw.json
+PSYC_2341,Treatment Approaches,concept,USED_FOR,Clinical Perspectives on Psychological Disorders,concept,,,PSYC_2341_triples_raw.json

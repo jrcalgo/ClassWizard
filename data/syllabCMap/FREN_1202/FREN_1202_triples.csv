@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FREN_1202,Accents and Diacritical Marks,concept,USED_FOR,French Pronunciation,topic,,,FREN_1202_triples_raw.json
+FREN_1202,Vowel Sounds and Diphthongs,concept,USED_FOR,French Pronunciation,topic,,,FREN_1202_triples_raw.json
+FREN_1202,Basic Sentence Structure and Grammar,concept,USED_FOR,Reading Comprehension,topic,,,FREN_1202_triples_raw.json
+FREN_1202,Common Vocabulary and Idioms,concept,USED_FOR,Reading Comprehension,topic,,,FREN_1202_triples_raw.json
+FREN_1202,French Phonetics and Intonation,concept,USED_FOR,Listening Skills,topic,,,FREN_1202_triples_raw.json
+FREN_1202,Cultural References and Allusions,concept,USED_FOR,Listening Skills,topic,,,FREN_1202_triples_raw.json
+FREN_1202,Greetings and Introductions,concept,USED_FOR,Spoken Interaction,topic,,,FREN_1202_triples_raw.json
+FREN_1202,Basic Questions and Answers,concept,USED_FOR,Spoken Interaction,topic,,,FREN_1202_triples_raw.json
+FREN_1202,Social Norms and Etiquette,concept,USED_FOR,Francophone Cultures,topic,,,FREN_1202_triples_raw.json

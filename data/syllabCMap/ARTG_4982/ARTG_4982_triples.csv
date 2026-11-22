@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_4982,Visual Problem Solving,concept,PREREQUISITE_OF,Thesis Project Execution,topic,A taught first,,ARTG_4982_triples_raw.json
+ARTG_4982,Visual Aesthetic Principles,concept,PREREQUISITE_OF,Thesis Project Execution,topic,A taught first,,ARTG_4982_triples_raw.json
+ARTG_4982,Typography Fundamentals,concept,PREREQUISITE_OF,Thesis Project Execution,topic,A taught first,,ARTG_4982_triples_raw.json
+ARTG_4982,Industry-Recommended Digital Tools,concept,PREREQUISITE_OF,Thesis Project Execution,topic,A taught first,,ARTG_4982_triples_raw.json
+ARTG_4982,Graphic Design Software Proficiency,concept,PREREQUISITE_OF,Thesis Project Execution,topic,A taught first,,ARTG_4982_triples_raw.json
+ARTG_4982,Digital Workflow Management,concept,PREREQUISITE_OF,Thesis Project Execution,topic,A taught first,,ARTG_4982_triples_raw.json
+ARTG_4982,Visual Problem Solving,concept,PART_OF,Design Process Fundamentals,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Design Thinking Methodology,concept,PART_OF,Design Process Fundamentals,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Visual Aesthetic Principles,concept,PART_OF,Aesthetics and Composition,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Color Theory Application,concept,PART_OF,Aesthetics and Composition,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Typography Fundamentals,concept,PART_OF,Aesthetics and Composition,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Industry-Recommended Digital Tools,concept,PART_OF,Digital Tools and Software,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Graphic Design Software Proficiency,concept,PART_OF,Digital Tools and Software,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Digital Workflow Management,concept,PART_OF,Digital Tools and Software,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Design Outcome Presentation Strategies,concept,PART_OF,Professional Presentation Skills,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Professional Communication Etiquette,concept,PART_OF,Professional Presentation Skills,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Group Project Management Strategies,concept,PART_OF,Collaborative Group Projects,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Teamwork and Collaboration Skills,concept,PART_OF,Collaborative Group Projects,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Conflict Resolution in Design Teams,concept,PART_OF,Collaborative Group Projects,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Project Concept Development,concept,PART_OF,Thesis Project Planning,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Design Research Methods,concept,PART_OF,Thesis Project Planning,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Project Timeline Management,concept,PART_OF,Thesis Project Planning,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Visual Problem Solving Application,concept,PART_OF,Thesis Project Execution,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Digital Tool Proficiency Demonstration,concept,PART_OF,Thesis Project Execution,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Visual Problem Solving,concept,USED_FOR,Thesis Project Execution,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Design Thinking Methodology,concept,USED_FOR,Design Process Fundamentals,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Creative Brief Development,concept,USED_FOR,Design Process Fundamentals,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Visual Aesthetic Principles,concept,USED_FOR,Thesis Project Execution,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Color Theory Application,concept,USED_FOR,Thesis Project Execution,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Typography Fundamentals,concept,USED_FOR,Thesis Project Execution,topic,,,ARTG_4982_triples_raw.json
+ARTG_4982,Digital Workflow Management,concept,USED_FOR,Thesis Project Execution,topic,,,ARTG_4982_triples_raw.json

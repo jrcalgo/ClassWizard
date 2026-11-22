@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_6687,Global Literary Studies Overview,concept,PREREQUISITE_OF,Transnationalism and Literature,concept,same unit,,ENGL_6687_triples_raw.json
+ENGL_6687,Postcolonialism and Imperialism,concept,PREREQUISITE_OF,South African History and Politics,concept,same unit,,ENGL_6687_triples_raw.json
+ENGL_6687,Postcolonialism and Imperialism,concept,PREREQUISITE_OF,Literary Representation of Power,concept,same unit,,ENGL_6687_triples_raw.json
+ENGL_6687,Narrative Structure and Style,concept,PREREQUISITE_OF,Comparative Literary Analysis Techniques,concept,A taught first,,ENGL_6687_triples_raw.json
+ENGL_6687,Globalization and Migration,concept,PREREQUISITE_OF,Globalization and Its Effects on Literature,concept,A taught first,,ENGL_6687_triples_raw.json
+ENGL_6687,Postcolonial Feminist Perspectives,concept,PREREQUISITE_OF,Literary Representations of Identity,concept,same unit,,ENGL_6687_triples_raw.json
+ENGL_6687,Transnationalism in Contemporary Writing,concept,PREREQUISITE_OF,Comparative Analysis of Global Themes,topic,same unit,,ENGL_6687_triples_raw.json
+ENGL_6687,Global Literary Studies Overview,concept,PART_OF,Global Literature,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Key Concepts in Comparative Lit,concept,PART_OF,Global Literature,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Transnationalism and Literature,concept,PART_OF,Global Literature,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Postcolonialism and Imperialism,concept,PART_OF,Coetzee's Waiting for the Barbarians,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,South African History and Politics,concept,PART_OF,Coetzee's Waiting for the Barbarians,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Literary Representation of Power,concept,PART_OF,Coetzee's Waiting for the Barbarians,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Arab Identity and Culture,concept,PART_OF,Salih's Season of Migration to the North,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Colonialism and Its Legacy,concept,PART_OF,Salih's Season of Migration to the North,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Narrative Structure and Style,concept,PART_OF,Salih's Season of Migration to the North,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Globalization and Migration,concept,PART_OF,Tokarczuk's Flights and Bulawayo's We Need New Names,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Postcolonial Feminist Perspectives,concept,PART_OF,Tokarczuk's Flights and Bulawayo's We Need New Names,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Literary Representations of Identity,concept,PART_OF,Tokarczuk's Flights and Bulawayo's We Need New Names,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,South Asian Culture and Society,concept,PART_OF,Hamid's How to Get Filthy Rich in Rising Asia,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Economic Development and Inequality,concept,PART_OF,Hamid's How to Get Filthy Rich in Rising Asia,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Comparative Literary Analysis Techniques,concept,PART_OF,Comparative Analysis of Global Themes,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Comparative Analysis of Global Themes,topic,PART_OF,Globalization and Its Effects on Literature,concept,,part is broader than whole - check direction,ENGL_6687_triples_raw.json
+ENGL_6687,Transnationalism in Contemporary Writing,concept,PART_OF,Comparative Analysis of Global Themes,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Latin American and Chinese Culture,concept,PART_OF,Fouks' Resistance and Tse's City Like Water,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Resistance to Globalization and Capitalism,concept,PART_OF,Fouks' Resistance and Tse's City Like Water,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Literary Representations of Urban Experience,concept,PART_OF,Fouks' Resistance and Tse's City Like Water,topic,,,ENGL_6687_triples_raw.json
+ENGL_6687,Comparative Literary Analysis Techniques,concept,USED_FOR,Comparative Analysis of Global Themes,topic,,,ENGL_6687_triples_raw.json

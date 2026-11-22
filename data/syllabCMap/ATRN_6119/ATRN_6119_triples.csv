@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ATRN_6119,X-Ray diagnostic procedures,concept,USED_FOR,non-orthopedic medical conditions,concept,,,ATRN_6119_triples_raw.json
+ATRN_6119,CT Scan diagnostic procedures,concept,USED_FOR,non-orthopedic medical conditions,concept,,,ATRN_6119_triples_raw.json
+ATRN_6119,MRI diagnostic procedures,concept,USED_FOR,non-orthopedic medical conditions,concept,,,ATRN_6119_triples_raw.json
+ATRN_6119,bone scan diagnostic procedures,concept,USED_FOR,non-orthopedic medical conditions,concept,,,ATRN_6119_triples_raw.json

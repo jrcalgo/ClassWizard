@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_8180,Adult Development Theories,concept,PREREQUISITE_OF,Motivation and Readiness,topic,A taught first,,ADMN_8180_triples_raw.json
+ADMN_8180,Prior Experience and Knowledge,topic,PREREQUISITE_OF,Self-Directed Learning,concept,same unit,,ADMN_8180_triples_raw.json
+ADMN_8180,Feedback Strategies for Adults,concept,USED_FOR,Summative Assessment,concept,,,ADMN_8180_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_6203,differentiated instruction,method,PREREQUISITE_OF,tiered assignments and products,concept,A taught first,,ELED_6203_triples_raw.json
+ELED_6203,differentiated instruction,method,PREREQUISITE_OF,universal design for learning (UDL,concept,A taught first,,ELED_6203_triples_raw.json
+ELED_6203,differentiated instruction,method,PREREQUISITE_OF,guided practice and feedback,concept,A taught first,,ELED_6203_triples_raw.json
+ELED_6203,universal design for learning (UDL,concept,PART_OF,differentiated instruction,method,,part is broader than whole - check direction,ELED_6203_triples_raw.json
+ELED_6203,tiered assignments and products,concept,PART_OF,differentiated instruction,method,,part is broader than whole - check direction,ELED_6203_triples_raw.json
+ELED_6203,learning centers and stations,concept,PART_OF,differentiated instruction,method,,part is broader than whole - check direction,ELED_6203_triples_raw.json
+ELED_6203,technology-enhanced assessments,concept,PART_OF,summative assessments,concept,,,ELED_6203_triples_raw.json
+ELED_6203,tiered assignments and products,concept,SUBTYPE_OF,universal design for learning (UDL,concept,,,ELED_6203_triples_raw.json
+ELED_6203,tiered assignments and products,concept,USED_FOR,universal design for learning (UDL,concept,,,ELED_6203_triples_raw.json
+ELED_6203,direct instruction and modeling,concept,USED_FOR,guided practice and feedback,concept,,,ELED_6203_triples_raw.json
+ELED_6203,direct instruction and modeling,concept,USED_FOR,independent practice and reflection,concept,,,ELED_6203_triples_raw.json

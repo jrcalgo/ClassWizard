@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_1252L,Personal Protective Equipment,concept,PART_OF,Lab Safety,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Emergency Procedures,concept,PART_OF,Lab Safety,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Chemical Handling,concept,PART_OF,Lab Safety,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Balance Calibration,concept,PART_OF,Laboratory Equipment,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Pipette Techniques,concept,PART_OF,Laboratory Equipment,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Chemical Nomenclature,concept,PART_OF,Scientific Language,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Unit Conversions,concept,PART_OF,Scientific Language,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Measurement Precision,concept,PART_OF,Scientific Language,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Experimental Design,concept,PART_OF,Investigations and Methods,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Hypothesis Testing,concept,PART_OF,Investigations and Methods,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Critical Thinking Strategies,concept,PART_OF,Observation and Questioning,topic,,,CHEM_1252L_triples_raw.json
+CHEM_1252L,Curiosity Development,concept,PART_OF,Observation and Questioning,topic,,,CHEM_1252L_triples_raw.json

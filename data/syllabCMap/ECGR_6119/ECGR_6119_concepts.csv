@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_6119,topic,Applied Artificial Intelligence (AI,Applied Artificial Intelligence (AI,1,verified,Applied Artificial Intelligence (AI),ECGR_6119_concepts_raw.json
+ECGR_6119,topic,Pattern Recognition,Pattern Recognition,3,verified,Pattern Recognition,ECGR_6119_concepts_raw.json
+ECGR_6119,topic,Machine Learning,Machine Learning,3,verified,Machine Learning,ECGR_6119_concepts_raw.json
+ECGR_6119,topic,Probability Theory,probability theory,2,verified,Probability Theory,ECGR_6119_concepts_raw.json
+ECGR_6119,topic,Deep Learning Frameworks,Deep Learning framework,1,verified,Deep Learning Frameworks,ECGR_6119_concepts_raw.json
+ECGR_6119,topic,Object Detection and Segmentation,object detection and segmentation,1,verified,Object Detection and Segmentation,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Advance DL frameworks,Advance DL frameworks,1,verified,Advance DL frameworks,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Bayesian Estimation,Bayesian estimation,1,verified,Bayesian Estimation,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Multi-Dimensional Gaussian Distribution,multi-dimensional Gaussian distribution,1,verified,Multi-Dimensional Gaussian Distribution,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Decision Making,decision making,3,verified,Decision Making,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Review of Deep Learning,Review of Deep Learning,1,verified,Review of Deep Learning,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,CNN Basics,CNN Basics,1,verified,CNN Basics,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Optimizers,Optimizers,1,verified,Optimizers,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Loss Functions,Loss Functions,1,verified,Loss Functions,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Machine Vision,machine vision,2,verified,Machine Vision,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Object Detection,object detection,1,verified,Object Detection,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Segmentation,segmentation,2,verified,Segmentation,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Review of Unsupervised Learning,Review of unsupervised learning,1,verified,Review of Unsupervised Learning,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Clustering,Clustering,1,verified,Clustering,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Convolutional Neural Networks,Convolutional neural networks,1,verified,Convolutional Neural Networks,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Representation Learning,Representation learning,1,verified,Representation Learning,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Multi-Task Learning,multi-task learning,1,verified,Multi-Task Learning,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Recurrent Neural Network,recurrent neural network,1,verified,Recurrent Neural Network,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,LSTM,LSTM,1,verified,LSTM,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Transformers,Transformers,1,verified,Transformers,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Autoencoders,Autoencoders,1,verified,Autoencoders,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,GANs,GANs,1,verified,GANs,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Generative AI,Generative AI,1,verified,Generative AI,ECGR_6119_concepts_raw.json
+ECGR_6119,concept,Ethics in AI,Ethics in AI,1,verified,Ethics in AI,ECGR_6119_concepts_raw.json
+ECGR_6119,method,machine learning algorithms using MATLAB,machine learning algorithms using MATLAB,1,verified,Implementing basic pattern recognition and machine learning algorithms using MATLAB and Python frameworks,ECGR_6119_concepts_raw.json
+ECGR_6119,method,Python frameworks,Python frameworks,1,verified,Implementing basic pattern recognition and machine learning algorithms using MATLAB and Python frameworks,ECGR_6119_concepts_raw.json
+ECGR_6119,method,segmentation using Tensorflow or Pytorch frameworks,segmentation using Tensorflow or Pytorch frameworks,1,verified,Implementing basic deep learning algorithms such as classification and segmentation using Tensorflow or Pytorch frameworks,ECGR_6119_concepts_raw.json
+ECGR_6119,method,Critically reading,critically read,1,verified,Critically reading and understanding cutting edge research papers in the field,ECGR_6119_concepts_raw.json
+ECGR_6119,tool,MATLAB,MATLAB,1,verified,MATLAB,ECGR_6119_concepts_raw.json
+ECGR_6119,tool,Python,Python,1,verified,Python,ECGR_6119_concepts_raw.json
+ECGR_6119,tool,TensorFlow,Tensorflow,1,verified,TensorFlow,ECGR_6119_concepts_raw.json
+ECGR_6119,tool,PyTorch,Pytorch,1,verified,PyTorch,ECGR_6119_concepts_raw.json

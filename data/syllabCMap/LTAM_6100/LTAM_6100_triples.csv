@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_6100,LATAM Democratization Process,concept,PREREQUISITE_OF,Challenges to Consolidation,concept,same unit,,LTAM_6100_triples_raw.json
+LTAM_6100,LATAM Social Movement Theories,concept,PREREQUISITE_OF,Case Studies of Successful Movements,concept,same unit,,LTAM_6100_triples_raw.json
+LTAM_6100,LATAM Environmental Challenges,concept,PREREQUISITE_OF,Sustainable Development Theories,concept,same unit,,LTAM_6100_triples_raw.json
+LTAM_6100,LATAM Democratization Process,concept,PART_OF,Democratization in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Challenges to Consolidation,concept,PART_OF,Democratization in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Neoliberalism and Its Critics,concept,PART_OF,Economic Development in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Regional Integration Efforts,concept,PART_OF,Regionalism and Integration in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,LATAM Social Movement Theories,concept,PART_OF,Social Movements in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Case Studies of Successful Movements,concept,PART_OF,Social Movements in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Drug Trafficking and Violence,concept,PART_OF,Security and Crime in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,LATAM Environmental Challenges,concept,PART_OF,Environmental Politics in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Sustainable Development Theories,concept,PART_OF,Environmental Politics in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Case Studies of Environmental Successes,concept,PART_OF,Environmental Politics in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Current Issues in Bilateral Relations,concept,PART_OF,LATAM-US Relations,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Comparative Foreign Policy Approaches,concept,PART_OF,LATAM-US Relations,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Globalization Theories and Implications,concept,PART_OF,LATAM and Global Governance,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,LATAM Participation in International Organizations,concept,PART_OF,LATAM and Global Governance,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Theories and Cases Approach,concept,USED_FOR,Latin American Politics Overview,concept,,,LTAM_6100_triples_raw.json
+LTAM_6100,Theories and Cases Approach,concept,USED_FOR,Contemporary Topics in LATAM,concept,,,LTAM_6100_triples_raw.json
+LTAM_6100,Comparative Perspectives,concept,USED_FOR,Democratization in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,State-Society Relations in Security,concept,USED_FOR,Security and Crime in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Comparative Crime Control Strategies,concept,USED_FOR,Security and Crime in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,LATAM Environmental Challenges,concept,USED_FOR,Environmental Politics in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Sustainable Development Theories,concept,USED_FOR,Environmental Politics in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Case Studies of Environmental Successes,concept,USED_FOR,Environmental Politics in LATAM,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Historical Context of LATAM-US Relations,concept,USED_FOR,LATAM-US Relations,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Current Issues in Bilateral Relations,concept,USED_FOR,LATAM-US Relations,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Comparative Foreign Policy Approaches,concept,USED_FOR,LATAM-US Relations,topic,,,LTAM_6100_triples_raw.json
+LTAM_6100,Globalization Theories and Implications,concept,USED_FOR,LATAM and Global Governance,topic,,,LTAM_6100_triples_raw.json

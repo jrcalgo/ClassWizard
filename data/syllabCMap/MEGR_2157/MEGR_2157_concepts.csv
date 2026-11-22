@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2157,topic,Design methods,Design methods,1,verified,Design methods,MEGR_2157_concepts_raw.json
+MEGR_2157,topic,fabrication methods,fabrication methods,1,verified,fabrication methods,MEGR_2157_concepts_raw.json
+MEGR_2157,topic,component selection,component selection,1,verified,component selection,MEGR_2157_concepts_raw.json
+MEGR_2157,method,material selection,material selection,1,verified,material selection,MEGR_2157_concepts_raw.json
+MEGR_2157,topic,drawing standards and methods,drawing standards and methods,1,verified,drawing standards and methods,MEGR_2157_concepts_raw.json
+MEGR_2157,topic,overall design criteria,overall design criteria,1,verified,overall design criteria,MEGR_2157_concepts_raw.json
+MEGR_2157,topic,Design,Design,13,verified,Introduction to Design,MEGR_2157_concepts_raw.json
+MEGR_2157,method,force,Force,1,verified,"force, energy, and power analysis",MEGR_2157_concepts_raw.json
+MEGR_2157,method,energy,energy,1,verified,"force, energy, and power analysis",MEGR_2157_concepts_raw.json
+MEGR_2157,method,design visualization,design visualization,1,verified,design visualization,MEGR_2157_concepts_raw.json
+MEGR_2157,method,functional analysis,functional analysis,1,verified,functional analysis,MEGR_2157_concepts_raw.json
+MEGR_2157,method,computer-aided design,computer-aided design,1,verified,computer-aided design,MEGR_2157_concepts_raw.json
+MEGR_2157,tool,output conversion software,output conversion software,1,verified,output conversion software,MEGR_2157_concepts_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_4279,General Curriculum Standards,concept,PREREQUISITE_OF,Collaborative Instruction,topic,A taught first,,SPED_4279_triples_raw.json
+SPED_4279,General Curriculum Standards,concept,PREREQUISITE_OF,Content Enhancement,topic,A taught first,,SPED_4279_triples_raw.json

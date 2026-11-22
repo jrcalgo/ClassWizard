@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_6214,portfolio construction,topic,PART_OF,investments,topic,,,FINN_6214_triples_raw.json
+FINN_6214,portfolio management,topic,PART_OF,investments,topic,,,FINN_6214_triples_raw.json
+FINN_6214,performance measurements,topic,PART_OF,portfolio management,topic,,,FINN_6214_triples_raw.json

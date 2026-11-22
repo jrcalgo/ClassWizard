@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_4310,Monologue Structure and Form,concept,PREREQUISITE_OF,Analyzing Shakespearean monologues,method,same unit,,THEA_4310_triples_raw.json
+THEA_4310,Cultural Competency and Sensitivity,concept,PREREQUISITE_OF,"Diversity, Equity, and Inclusion in Theatre",topic,same unit,,THEA_4310_triples_raw.json
+THEA_4310,Inclusive Casting and Production Practices,concept,PART_OF,"Diversity, Equity, and Inclusion in Theatre",topic,,,THEA_4310_triples_raw.json
+THEA_4310,Global Perspectives on Theatre Practice,concept,PART_OF,Theatre History and Cultural Contexts,topic,,,THEA_4310_triples_raw.json
+THEA_4310,Analyzing Shakespearean monologues,method,SUBTYPE_OF,Analyzing and performing short scenes,method,,,THEA_4310_triples_raw.json
+THEA_4310,Rehearsing and performing monologues,method,SUBTYPE_OF,Analyzing and performing short scenes,method,,,THEA_4310_triples_raw.json
+THEA_4310,Risk-taking and experimentation in theatre,method,SUBTYPE_OF,Addressing social issues through theatre,method,,,THEA_4310_triples_raw.json
+THEA_4310,Shakespeare's Dramatic Texts,concept,USED_FOR,Theatrical Performance Skills,concept,,,THEA_4310_triples_raw.json
+THEA_4310,Historical Periods and Genres of Theatre,concept,USED_FOR,Theatre History and Cultural Contexts,topic,,,THEA_4310_triples_raw.json

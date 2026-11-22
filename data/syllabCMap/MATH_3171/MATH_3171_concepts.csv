@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3171,topic,Partial Differential Equations,Partial Differential Equations,2,verified,Partial Differential Equations,MATH_3171_concepts_raw.json
+MATH_3171,topic,PDE,PDE,3,verified,Introduction to PDE,MATH_3171_concepts_raw.json
+MATH_3171,concept,separation of variables,separation of variables,1,verified,separation of variables,MATH_3171_concepts_raw.json
+MATH_3171,concept,partial differential equation,Partial Differential Equations,2,verified,partial differential equation,MATH_3171_concepts_raw.json
+MATH_3171,concept,Fourier series,Fourier series,2,verified,Fourier series,MATH_3171_concepts_raw.json

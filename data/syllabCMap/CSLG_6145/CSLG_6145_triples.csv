@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_6145,Multigenerational Trauma,topic,PREREQUISITE_OF,Historical Events,topic,same unit,,CSLG_6145_triples_raw.json
+CSLG_6145,Multigenerational Trauma,topic,PART_OF,Historical Events,topic,,,CSLG_6145_triples_raw.json
+CSLG_6145,Multigenerational Trauma,topic,SUBTYPE_OF,Historical Events,topic,,,CSLG_6145_triples_raw.json
+CSLG_6145,Multicultural Counseling,topic,USED_FOR,Advocacy Competence,topic,,topic used for something - check direction,CSLG_6145_triples_raw.json
+CSLG_6145,Social Justice,topic,USED_FOR,Counseling Profession,topic,,topic used for something - check direction,CSLG_6145_triples_raw.json

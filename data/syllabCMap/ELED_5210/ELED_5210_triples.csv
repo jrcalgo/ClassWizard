@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_5210,abstract mathematics,concept,PART_OF,teaching strategies,concept,,,ELED_5210_triples_raw.json
+ELED_5210,cognitive demand,concept,PART_OF,home/community-based funds of knowledge,concept,,,ELED_5210_triples_raw.json
+ELED_5210,developmental stages,concept,PART_OF,curriculum integration,concept,,,ELED_5210_triples_raw.json

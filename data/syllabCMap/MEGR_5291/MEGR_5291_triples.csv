@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_5291,Li-ion Battery Manufacturing Process,topic,PREREQUISITE_OF,Battery Formation and Testing Protocol,topic,A taught first,,MEGR_5291_triples_raw.json
+MEGR_5291,data acquisition and analysis software,concept,PREREQUISITE_OF,battery performance metrics analysis,concept,A taught first,,MEGR_5291_triples_raw.json
+MEGR_5291,data acquisition and analysis software,concept,PREREQUISITE_OF,control-oriented model development,concept,A taught first,,MEGR_5291_triples_raw.json
+MEGR_5291,data acquisition and analysis software,concept,PREREQUISITE_OF,modeling electrochemical processes,concept,A taught first,,MEGR_5291_triples_raw.json
+MEGR_5291,Battery Performance,topic,PART_OF,battery performance metrics,concept,,part is broader than whole - check direction,MEGR_5291_triples_raw.json
+MEGR_5291,Li-ion Battery Manufacturing Process,topic,PART_OF,Battery Formation and Testing Protocol,topic,,,MEGR_5291_triples_raw.json
+MEGR_5291,data acquisition and analysis software,concept,PART_OF,modeling electrochemical processes,concept,,,MEGR_5291_triples_raw.json
+MEGR_5291,electrochemistry workstation,tool,USED_FOR,Cycling and Electrochemistry Workstation,topic,,,MEGR_5291_triples_raw.json

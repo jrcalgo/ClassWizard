@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_2102,Public Health Case Studies,topic,PART_OF,Public Health,topic,,,HLTH_2102_triples_raw.json
+HLTH_2102,Group Project Preparation,topic,PART_OF,Public Health,topic,,,HLTH_2102_triples_raw.json
+HLTH_2102,Four-Step Public Health Approach,topic,PART_OF,Public Health,topic,,,HLTH_2102_triples_raw.json

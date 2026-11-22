@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_6201,evolutionary assumptions on which sequence comparison is based,concept,PART_OF,Evolutionary Framework in Bioinformatics,topic,,,BINF_6201_triples_raw.json
+BINF_6201,types and formats of biological sequence data,concept,PART_OF,Sequencing Platforms and Sequence Resources,topic,,,BINF_6201_triples_raw.json
+BINF_6201,underlying algorithms for sequence alignment and sequence searching,concept,PART_OF,Pairwise Sequence Alignment and Searching,topic,,,BINF_6201_triples_raw.json

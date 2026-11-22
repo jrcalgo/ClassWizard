@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AERO_4101,Continuity Equation Basics,concept,PREREQUISITE_OF,Bernoulli's Principle Application,concept,same unit,,AERO_4101_triples_raw.json
+AERO_4101,Continuity Equation Basics,concept,PREREQUISITE_OF,Turbulence Effects,concept,same unit,,AERO_4101_triples_raw.json
+AERO_4101,Airfoil Geometry and Design,concept,PREREQUISITE_OF,Lift Coefficient Calculations,concept,same unit,,AERO_4101_triples_raw.json
+AERO_4101,Aerodynamic Forces and Moments,concept,PART_OF,Aerodynamics,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Drag Generation,concept,PART_OF,Aerodynamics,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Bernoulli's Principle Application,concept,PART_OF,Fluid Dynamics Fundamentals,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Turbulence Effects,concept,PART_OF,Fluid Dynamics Fundamentals,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Airfoil Geometry and Design,concept,PART_OF,Airfoil Aerodynamics,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Lift Coefficient Calculations,concept,PART_OF,Airfoil Aerodynamics,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Drag Reduction Techniques,concept,PART_OF,Airfoil Aerodynamics,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Wing Planform and Aspect Ratio,concept,PART_OF,Wing Theory and Performance,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Straight Wings,concept,PART_OF,Wing Theory and Performance,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Wing Loading,concept,PART_OF,Wing Theory and Performance,topic,,,AERO_4101_triples_raw.json
+AERO_4101,Efficiency,concept,PART_OF,Wing Theory and Performance,topic,,,AERO_4101_triples_raw.json

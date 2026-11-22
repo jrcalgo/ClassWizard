@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_4240,Melody,topic,PREREQUISITE_OF,Harmony,topic,B mentioned first,,MUSC_4240_triples_raw.json
+MUSC_4240,Melody,topic,PREREQUISITE_OF,Rhythm,topic,A mentioned first,,MUSC_4240_triples_raw.json
+MUSC_4240,Melody,topic,PREREQUISITE_OF,Form,topic,B mentioned first,,MUSC_4240_triples_raw.json
+MUSC_4240,Melody,topic,PREREQUISITE_OF,Instrumentation,topic,B mentioned first,,MUSC_4240_triples_raw.json

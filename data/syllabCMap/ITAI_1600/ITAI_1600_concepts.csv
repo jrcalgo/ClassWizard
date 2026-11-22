@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITAI_1600,topic,Artificial Intelligence Literacy for Professional,Artificial Intelligence Literacy for Professional,1,verified,Artificial Intelligence Literacy for Professional,ITAI_1600_concepts_raw.json
+ITAI_1600,topic,AI,AI,23,verified,Introduction to AI,ITAI_1600_concepts_raw.json
+ITAI_1600,topic,Ethical Considerations,ethical considerations,1,verified,Ethical Considerations,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,machine learning,machine learning,1,verified,machine learning,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,natural language processing,natural language processing,1,verified,natural language processing,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,computer vision,computer vision,1,verified,computer vision,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,expert systems,expert systems,1,verified,expert systems,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,cognitive systems,cognitive systems,1,verified,cognitive systems,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,robotics,robotics,1,verified,robotics,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,intelligent tutoring systems,intelligent tutoring systems,1,verified,intelligent tutoring systems,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,adaptive learning platforms,adaptive learning platforms,1,verified,adaptive learning platforms,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,personalized recommendation systems,personalized recommendation systems,1,verified,personalized recommendation systems,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,privacy,privacy,1,verified,privacy,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,data security,data security,1,verified,data security,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,bias,biases,1,verified,bias,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,algorithmic fairness,algorithmic fairness,1,verified,algorithmic fairness,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,impact of automation on education and employment,impact of automation on education and employment,1,verified,impact of automation on education and employment,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,advantages and limitations of employing AI,advantages and limitations of employing AI,1,verified,advantages and limitations of employing AI,ITAI_1600_concepts_raw.json
+ITAI_1600,concept,human involvement in the AI ecosystem,human involvement in the AI ecosystem,1,verified,human involvement in the AI ecosystem,ITAI_1600_concepts_raw.json

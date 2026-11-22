@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_6110,Identifying Performance Gaps,concept,PREREQUISITE_OF,Needs Assessment,topic,same unit,,ELDT_6110_triples_raw.json
+ELDT_6110,Identifying Performance Gaps,concept,PREREQUISITE_OF,Instructional Strategies,topic,A taught first,,ELDT_6110_triples_raw.json
+ELDT_6110,Analyzing Learner Needs,concept,PREREQUISITE_OF,Learning Objectives,topic,A taught first,,ELDT_6110_triples_raw.json
+ELDT_6110,Conducting Stakeholder Interviews,concept,PREREQUISITE_OF,Needs Assessment,topic,same unit,,ELDT_6110_triples_raw.json
+ELDT_6110,Writing Clear Learning Goals,concept,PREREQUISITE_OF,Learning Objectives,topic,same unit,,ELDT_6110_triples_raw.json
+ELDT_6110,Measuring Learning Outcomes,concept,PREREQUISITE_OF,Learning Objectives,topic,same unit,,ELDT_6110_triples_raw.json
+ELDT_6110,Identifying Performance Gaps,concept,PART_OF,Needs Assessment,topic,,,ELDT_6110_triples_raw.json
+ELDT_6110,Analyzing Learner Needs,concept,PART_OF,Needs Assessment,topic,,,ELDT_6110_triples_raw.json
+ELDT_6110,Conducting Stakeholder Interviews,concept,PART_OF,Needs Assessment,topic,,,ELDT_6110_triples_raw.json
+ELDT_6110,Writing Clear Learning Goals,concept,PART_OF,Learning Objectives,topic,,,ELDT_6110_triples_raw.json
+ELDT_6110,Measuring Learning Outcomes,concept,PART_OF,Learning Objectives,topic,,,ELDT_6110_triples_raw.json
+ELDT_6110,Choosing Effective Instructional Methods,concept,PART_OF,Instructional Strategies,topic,,,ELDT_6110_triples_raw.json
+ELDT_6110,Designing Engaging Learning Activities,concept,PART_OF,Instructional Strategies,topic,,,ELDT_6110_triples_raw.json

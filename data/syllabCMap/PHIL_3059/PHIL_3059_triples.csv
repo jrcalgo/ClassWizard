@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_3059,disinformation,concept,PREREQUISITE_OF,fake news,concept,same unit,,PHIL_3059_triples_raw.json
+PHIL_3059,disinformation,concept,PREREQUISITE_OF,conspiracy theories,concept,same unit,,PHIL_3059_triples_raw.json
+PHIL_3059,fake news,concept,PREREQUISITE_OF,conspiracy theories,concept,same unit,,PHIL_3059_triples_raw.json
+PHIL_3059,motivated cognition,concept,PREREQUISITE_OF,echo chambers,concept,same unit,,PHIL_3059_triples_raw.json
+PHIL_3059,echo chambers,concept,PREREQUISITE_OF,confirmation bias,concept,same unit,,PHIL_3059_triples_raw.json
+PHIL_3059,disinformation,concept,PART_OF,online information,concept,,,PHIL_3059_triples_raw.json
+PHIL_3059,fake news,concept,PART_OF,online information,concept,,,PHIL_3059_triples_raw.json
+PHIL_3059,conspiracy theories,concept,PART_OF,online information,concept,,,PHIL_3059_triples_raw.json
+PHIL_3059,critical evaluation,concept,PART_OF,online information evaluation,topic,,,PHIL_3059_triples_raw.json
+PHIL_3059,counterspeech strategies,concept,PART_OF,online information evaluation,topic,,,PHIL_3059_triples_raw.json
+PHIL_3059,cognitive biases,topic,PART_OF,online information evaluation,topic,,,PHIL_3059_triples_raw.json
+PHIL_3059,social media risks,concept,PART_OF,public debate,topic,,,PHIL_3059_triples_raw.json
+PHIL_3059,truth in media,topic,PART_OF,public debate,topic,,,PHIL_3059_triples_raw.json
+PHIL_3059,disinformation dynamics,concept,SUBTYPE_OF,disinformation,concept,,,PHIL_3059_triples_raw.json
+PHIL_3059,conspiracy theory formation,concept,SUBTYPE_OF,conspiracy theories,concept,,,PHIL_3059_triples_raw.json
+PHIL_3059,motivated cognition,concept,SUBTYPE_OF,echo chambers,concept,,,PHIL_3059_triples_raw.json
+PHIL_3059,confirmation bias,concept,SUBTYPE_OF,cognitive biases,topic,,,PHIL_3059_triples_raw.json
+PHIL_3059,counterspeech strategies,concept,SUBTYPE_OF,online information evaluation,topic,,,PHIL_3059_triples_raw.json
+PHIL_3059,media literacy,concept,USED_FOR,online information evaluation,topic,,,PHIL_3059_triples_raw.json
+PHIL_3059,truth in media,topic,USED_FOR,public debate,topic,,topic used for something - check direction,PHIL_3059_triples_raw.json

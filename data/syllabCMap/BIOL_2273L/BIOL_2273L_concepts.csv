@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_2273L,topic,Human Anatomy and Physiology Lab I,Human Anatomy and Physiology Lab I,1,verified,Human Anatomy and Physiology Lab I,BIOL_2273L_concepts_raw.json
+BIOL_2273L,topic,Microscopic Tissue Sections,microscopic tissue sections,1,verified,Microscopic Tissue Sections,BIOL_2273L_concepts_raw.json
+BIOL_2273L,concept,anatomical terminology,anatomical terminology,1,verified,anatomical terminology,BIOL_2273L_concepts_raw.json
+BIOL_2273L,concept,organ organization,organ organization,1,verified,organ organization,BIOL_2273L_concepts_raw.json
+BIOL_2273L,concept,physiological processes,physiological processes,2,verified,physiological processes,BIOL_2273L_concepts_raw.json
+BIOL_2273L,method,use of laboratory equipment,use of laboratory equipment,1,verified,use of laboratory equipment,BIOL_2273L_concepts_raw.json
+BIOL_2273L,method,anatomical models,Anatomical models,2,verified,anatomical models,BIOL_2273L_concepts_raw.json
+BIOL_2273L,method,microscopes,microscopes,1,verified,microscopes,BIOL_2273L_concepts_raw.json
+BIOL_2273L,method,scientific techniques,scientific techniques,1,verified,scientific techniques,BIOL_2273L_concepts_raw.json
+BIOL_2273L,method,dissections,dissections,1,verified,dissections,BIOL_2273L_concepts_raw.json
+BIOL_2273L,tool,microscope,microscopes,1,verified,microscope,BIOL_2273L_concepts_raw.json

@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_6101,topic,Architectural design,architectural design,2,verified,Architectural design,ARCH_6101_concepts_raw.json
+ARCH_6101,concept,Abstract ideas to architectural proposals,abstract ideas to architectural proposals,1,verified,Abstract ideas to architectural proposals,ARCH_6101_concepts_raw.json
+ARCH_6101,concept,Ordering systems,ordering systems,1,verified,Ordering systems,ARCH_6101_concepts_raw.json
+ARCH_6101,concept,Scale,scale,1,verified,Scale,ARCH_6101_concepts_raw.json
+ARCH_6101,concept,Proportion,proportion,1,verified,Proportion,ARCH_6101_concepts_raw.json
+ARCH_6101,concept,Volume,volume,1,verified,Volume,ARCH_6101_concepts_raw.json
+ARCH_6101,method,Physical model making,physical model making,1,verified,Physical model making,ARCH_6101_concepts_raw.json

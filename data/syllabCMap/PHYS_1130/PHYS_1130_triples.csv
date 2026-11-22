@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_1130,Scientific Method Overview,concept,PREREQUISITE_OF,Astronomy,topic,same unit,,PHYS_1130_triples_raw.json
+PHYS_1130,Astronomy's Historical Development,concept,PREREQUISITE_OF,Planetary Formation Theories,concept,A taught first,,PHYS_1130_triples_raw.json
+PHYS_1130,Astronomy's Historical Development,concept,PREREQUISITE_OF,Orbital Mechanics and Motion,concept,A taught first,,PHYS_1130_triples_raw.json
+PHYS_1130,Astronomy's Historical Development,concept,PREREQUISITE_OF,Solar System's Structure and Composition,concept,A taught first,,PHYS_1130_triples_raw.json
+PHYS_1130,Telescopes and Their Types,concept,PREREQUISITE_OF,Spectroscopy and Spectra Analysis,concept,same unit,,PHYS_1130_triples_raw.json
+PHYS_1130,Telescopes and Their Types,concept,PREREQUISITE_OF,Detection Methods in Astronomy,concept,same unit,,PHYS_1130_triples_raw.json
+PHYS_1130,Planetary Formation Theories,concept,PREREQUISITE_OF,Stellar Life Cycles and Phases,concept,A taught first,,PHYS_1130_triples_raw.json
+PHYS_1130,Planetary Formation Theories,concept,PREREQUISITE_OF,Solar System's Structure and Composition,concept,same unit,,PHYS_1130_triples_raw.json
+PHYS_1130,Orbital Mechanics and Motion,concept,PREREQUISITE_OF,Stellar Life Cycles and Phases,concept,A taught first,,PHYS_1130_triples_raw.json
+PHYS_1130,Orbital Mechanics and Motion,concept,PREREQUISITE_OF,Solar System's Structure and Composition,concept,same unit,,PHYS_1130_triples_raw.json
+PHYS_1130,Spectroscopy and Spectra Analysis,concept,PREREQUISITE_OF,Detection Methods in Astronomy,concept,same unit,,PHYS_1130_triples_raw.json
+PHYS_1130,Spectroscopy and Spectra Analysis,concept,PREREQUISITE_OF,Galaxy Types and Morphologies,concept,A taught first,,PHYS_1130_triples_raw.json
+PHYS_1130,Detection Methods in Astronomy,concept,PREREQUISITE_OF,Galaxy Types and Morphologies,concept,A taught first,,PHYS_1130_triples_raw.json
+PHYS_1130,Planetary Formation Theories,concept,PART_OF,Solar System's Structure and Composition,concept,,,PHYS_1130_triples_raw.json
+PHYS_1130,Planetary Formation Theories,concept,PART_OF,Stars and Stellar Evolution,topic,,,PHYS_1130_triples_raw.json
+PHYS_1130,Orbital Mechanics and Motion,concept,PART_OF,Solar System's Structure and Composition,concept,,,PHYS_1130_triples_raw.json
+PHYS_1130,Spectroscopy and Spectra Analysis,concept,PART_OF,Observational Methods,topic,,,PHYS_1130_triples_raw.json
+PHYS_1130,Detection Methods in Astronomy,concept,PART_OF,Observational Methods,topic,,,PHYS_1130_triples_raw.json
+PHYS_1130,Stellar Life Cycles and Phases,concept,PART_OF,Stars and Stellar Evolution,topic,,,PHYS_1130_triples_raw.json
+PHYS_1130,Nuclear Fusion and Energy,concept,PART_OF,Stars and Stellar Evolution,topic,,,PHYS_1130_triples_raw.json
+PHYS_1130,Star Formation and Death Processes,concept,PART_OF,Stars and Stellar Evolution,topic,,,PHYS_1130_triples_raw.json
+PHYS_1130,Galaxy Types and Morphologies,concept,PART_OF,Galaxies and Cosmology,topic,,,PHYS_1130_triples_raw.json
+PHYS_1130,Cosmic Expansion and Hubble's Law,concept,PART_OF,Galaxies and Cosmology,topic,,,PHYS_1130_triples_raw.json
+PHYS_1130,Universe's Age and Size Estimates,concept,PART_OF,Galaxies and Cosmology,topic,,,PHYS_1130_triples_raw.json
+PHYS_1130,Telescopes and Their Types,concept,USED_FOR,Spectroscopy and Spectra Analysis,concept,,,PHYS_1130_triples_raw.json
+PHYS_1130,Telescopes and Their Types,concept,USED_FOR,Detection Methods in Astronomy,concept,,,PHYS_1130_triples_raw.json

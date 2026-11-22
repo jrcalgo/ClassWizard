@@ -1,0 +1,60 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HSMT_2104,topic,US Health Care,US Health Care,3,verified,US Health Care,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Healthcare System Structure,Healthcare System Structure,73,verified,Healthcare System Structure,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Healthcare delivery mechanisms,Healthcare Delivery Mechanisms,46,verified,Healthcare delivery mechanisms,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Healthcare settings,Healthcare Settings,42,verified,Healthcare settings,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Personnel resources,Personnel Resources,41,verified,Personnel resources,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Financial resources,financial resources,66,verified,Financial resources,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Historical Development,historical development,7,verified,Historical Development,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Future Growth Directions,Future Growth Directions,1,verified,Future Growth Directions,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,System Transformation Models,System Transformation Models,1,verified,System Transformation Models,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Healthcare Evolution,Healthcare Evolution,1,verified,Healthcare Evolution,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Healthcare financing models,Healthcare Financing Models,1,verified,Healthcare financing models,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Third party payers,Third Party Payers,1,verified,Third party payers,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Insurance reimbursement systems,Insurance Reimbursement Systems,1,verified,Insurance reimbursement systems,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Cost containment strategies,Cost Containment Strategies,1,verified,Cost containment strategies,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Government healthcare programs,Government Healthcare Programs,1,verified,Government healthcare programs,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Managed care models,Managed Care Models,1,verified,Managed care models,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Integrated delivery systems,Integrated Delivery Systems,1,verified,Integrated delivery systems,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Health maintenance organizations,Health Maintenance Organizations,1,verified,Health maintenance organizations,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Preferred provider organizations,Preferred Provider Organizations,1,verified,Preferred provider organizations,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Point of service plans,Point of Service Plans,1,verified,Point of service plans,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Healthcare organizations,Healthcare Organizations,1,verified,Healthcare organizations,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Ambulatory care models,Ambulatory Care Models,1,verified,Ambulatory care models,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Primary care services,Primary Care Services,1,verified,Primary care services,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Specialty care delivery,Specialty care delivery,3,verified,Specialty care delivery,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Urgent Care Facilities,Urgent Care Facilities,1,verified,Urgent Care Facilities,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Outpatient Settings,Outpatient Settings,1,verified,Outpatient Settings,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Inpatient care settings,Inpatient Care Settings,1,verified,Inpatient care settings,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Hospital organization structure,Hospital Organization Structure,1,verified,Hospital organization structure,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Clinical staff roles,Clinical Staff Roles,1,verified,Clinical staff roles,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Patient flow processes,Patient Flow Processes,1,verified,Patient flow processes,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Long term care settings,Long Term Care Settings,1,verified,Long term care settings,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Population health,Population Health,1,verified,Population health,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Healthcare needs assessment,Healthcare Needs Assessment,1,verified,Healthcare needs assessment,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Vulnerable populations,Vulnerable Populations,1,verified,Vulnerable populations,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Cultural competence,Cultural Competence,1,verified,Cultural competence,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Socioeconomic factors,Socioeconomic Factors,1,verified,Socioeconomic factors,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Cost containment,Cost Containment,2,verified,Cost containment,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Healthcare access barriers,Healthcare access barriers,1,verified,Healthcare access barriers,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Quality metrics development,Quality metrics development,1,verified,Quality metrics development,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Value-based care models,Value-based care models,1,verified,Value-based care models,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Healthcare disparities reduction,Healthcare disparities reduction,1,verified,Healthcare disparities reduction,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Healthcare Policy,Healthcare Policy,1,verified,Healthcare Policy,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Policy Making Process,Policy Making Process,1,verified,Policy Making Process,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Regulatory Agencies Role,Regulatory Agencies Role,1,verified,Regulatory Agencies Role,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Legislative Branch Influence,Legislative Branch Influence,1,verified,Legislative Branch Influence,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Judicial Review Impact,Judicial Review Impact,1,verified,Judicial Review Impact,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Trends in Healthcare Delivery,Trends in Healthcare Delivery,1,verified,Trends in Healthcare Delivery,HSMT_2104_concepts_raw.json
+HSMT_2104,topic,Impact of Technology on Care,Impact of Technology on Care,1,verified,Impact of Technology on Care,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,US healthcare system,US Healthcare System,46,verified,US healthcare system,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Community health needs,Community Health Needs,1,verified,Community health needs,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Healthcare workforce roles,Healthcare Workforce Roles,1,verified,Healthcare workforce roles,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Health beliefs,Health Beliefs,1,verified,Health beliefs,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Cultural values,Cultural Values,1,verified,Cultural values,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Personal health,Personal Health,1,verified,Personal health,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Social determinants,Social Determinants,1,verified,Social determinants,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Health disparities,Health Disparities,1,verified,Health disparities,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Healthcare access,Healthcare Access,4,verified,Healthcare access,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Health equity,Health Equity,1,verified,Health equity,HSMT_2104_concepts_raw.json
+HSMT_2104,concept,Patient autonomy,Patient Autonomy,1,verified,Patient autonomy,HSMT_2104_concepts_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_2137,IPA,topic,PREREQUISITE_OF,Italian and Latin Diction,topic,A mentioned first,,MUSC_2137_triples_raw.json
+MUSC_2137,IPA,topic,PREREQUISITE_OF,Latin Pronunciation and Articulation,topic,A taught first,,MUSC_2137_triples_raw.json
+MUSC_2137,Latin Pronunciation and Articulation,topic,PART_OF,Italian and Latin Diction,topic,,,MUSC_2137_triples_raw.json
+MUSC_2137,International Phonetic Alphabet (IPA,concept,PART_OF,Italian and Latin Diction,topic,,,MUSC_2137_triples_raw.json

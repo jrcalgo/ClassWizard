@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+JAPN_3203,topic,Upper Intermediate Japanese III,Upper Intermediate Japanese III,1,verified,Upper Intermediate Japanese III,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Giving Compliments,Giving Compliments,2,inferred,Giving Compliments,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Telling a Story,Telling a Story,1,inferred,Telling a Story,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Historical Events I,Historical Events I,1,inferred,Historical Events I,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Historical Events II,Historical Events II,1,inferred,Historical Events II,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Opinion Writing I,Opinion Writing I,1,inferred,Opinion Writing I,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Opinion Writing II,Opinion Writing II,1,inferred,Opinion Writing II,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Peer Discussion I,Peer Discussion I,1,inferred,Peer Discussion I,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Peer Discussion II,Peer Discussion II,1,inferred,Peer Discussion II,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Speech Preparation I,Speech Preparation I,1,inferred,Speech Preparation I,JAPN_3203_concepts_raw.json
+JAPN_3203,topic,Speech Preparation II,Speech Preparation II,1,inferred,Speech Preparation II,JAPN_3203_concepts_raw.json

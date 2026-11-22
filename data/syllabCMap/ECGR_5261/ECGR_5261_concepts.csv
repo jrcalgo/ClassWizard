@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5261,topic,Microwave Circuit Design I,Microwave Circuit Design I,1,verified,Microwave Circuit Design I,ECGR_5261_concepts_raw.json
+ECGR_5261,topic,Telegrapher's and wave equations,Telegrapher's and wave equations,1,verified,Telegrapher's and wave equations,ECGR_5261_concepts_raw.json
+ECGR_5261,concept,Physical Transmission Lines,physical transmission lines,1,verified,Physical Transmission Lines,ECGR_5261_concepts_raw.json
+ECGR_5261,topic,circuit analysis techniques,circuit analysis techniques,1,verified,circuit analysis techniques,ECGR_5261_concepts_raw.json
+ECGR_5261,concept,Impedance Matching Techniques,impedance matching techniques,1,verified,Impedance Matching Techniques,ECGR_5261_concepts_raw.json
+ECGR_5261,topic,Wilkinson power dividers,Wilkinson power dividers,1,verified,Wilkinson power dividers,ECGR_5261_concepts_raw.json
+ECGR_5261,topic,hybrid couplers,hybrid couplers,1,verified,hybrid couplers,ECGR_5261_concepts_raw.json
+ECGR_5261,topic,transformers,transformers,3,verified,transformers,ECGR_5261_concepts_raw.json
+ECGR_5261,topic,filters,filters,1,verified,filters,ECGR_5261_concepts_raw.json
+ECGR_5261,concept,Basic Transmission Line Characteristics,Basic transmission line characteristics,1,verified,Basic Transmission Line Characteristics,ECGR_5261_concepts_raw.json
+ECGR_5261,concept,Microwave Network Analysis,Microwave network analysis,2,verified,Microwave Network Analysis,ECGR_5261_concepts_raw.json
+ECGR_5261,topic,Smith Chart analysis,Smith Chart analysis,2,verified,Smith Chart analysis,ECGR_5261_concepts_raw.json
+ECGR_5261,topic,Single frequency impedance matching,Single frequency impedance matching,2,verified,Single frequency impedance matching,ECGR_5261_concepts_raw.json
+ECGR_5261,concept,Broadband Quarter Wave Transformers,Broadband quarter wave transformers,2,verified,Broadband Quarter Wave Transformers,ECGR_5261_concepts_raw.json
+ECGR_5261,concept,Microwave Filter Design,Microwave filter design,2,verified,Microwave Filter Design,ECGR_5261_concepts_raw.json
+ECGR_5261,concept,S-parameters,S-parameters,2,verified,S-parameters,ECGR_5261_concepts_raw.json

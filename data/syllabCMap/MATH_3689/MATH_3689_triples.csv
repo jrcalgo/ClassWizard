@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_3689,Advanced Mathematical Literature,concept,PREREQUISITE_OF,Rigorous Mathematical Arguments,concept,A taught first,,MATH_3689_triples_raw.json
+MATH_3689,Advanced Mathematical Literature,concept,PREREQUISITE_OF,Logically Structured Mathematical Paper,concept,A taught first,,MATH_3689_triples_raw.json
+MATH_3689,Independent Investigation Planning,concept,PREREQUISITE_OF,Research Questions Development,concept,same unit,,MATH_3689_triples_raw.json

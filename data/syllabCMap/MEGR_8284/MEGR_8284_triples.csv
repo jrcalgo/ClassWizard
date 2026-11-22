@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_8284,Surface Texture as Fingerprint,topic,PREREQUISITE_OF,Surface Texture Analysis,topic,B taught first,B is taught before A - check,MEGR_8284_triples_raw.json
+MEGR_8284,Transforms for Filtering,topic,PREREQUISITE_OF,numerical evaluation methods,concept,same unit,,MEGR_8284_triples_raw.json
+MEGR_8284,Advanced Surface Metrology Methods,topic,PREREQUISITE_OF,atomic force microscopy,concept,same unit,,MEGR_8284_triples_raw.json
+MEGR_8284,random process analysis techniques,concept,PREREQUISITE_OF,waviness and roughness analysis,concept,same unit,,MEGR_8284_triples_raw.json
+MEGR_8284,stylus measurement principles,concept,PREREQUISITE_OF,two-dimensional measurements,concept,A taught first,,MEGR_8284_triples_raw.json
+MEGR_8284,atomic force microscopy,concept,PART_OF,Advanced Surface Metrology Methods,topic,,,MEGR_8284_triples_raw.json
+MEGR_8284,two-dimensional measurements,concept,PART_OF,Advanced Surface Metrology Methods,topic,,,MEGR_8284_triples_raw.json
+MEGR_8284,waviness and roughness analysis,concept,PART_OF,Surface Texture Analysis,topic,,,MEGR_8284_triples_raw.json
+MEGR_8284,separation of form and roughness,concept,PART_OF,Surface Texture Analysis,topic,,,MEGR_8284_triples_raw.json
+MEGR_8284,numerical evaluation methods,concept,PART_OF,Transforms for Filtering,topic,,,MEGR_8284_triples_raw.json
+MEGR_8284,optical microscope basics,concept,USED_FOR,separation of form and roughness,concept,,,MEGR_8284_triples_raw.json
+MEGR_8284,atomic force microscopy,concept,USED_FOR,Surface Texture Analysis,topic,,,MEGR_8284_triples_raw.json
+MEGR_8284,random process analysis techniques,concept,USED_FOR,waviness and roughness analysis,concept,,,MEGR_8284_triples_raw.json
+MEGR_8284,numerical evaluation methods,concept,USED_FOR,Surface Texture as Fingerprint,topic,,,MEGR_8284_triples_raw.json

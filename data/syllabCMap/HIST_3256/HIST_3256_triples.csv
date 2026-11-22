@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3256,US Foreign Policy,topic,PREREQUISITE_OF,imperialism,topic,same unit,,HIST_3256_triples_raw.json
+HIST_3256,imperialism,topic,PREREQUISITE_OF,American Imperialism,concept,A taught first,,HIST_3256_triples_raw.json
+HIST_3256,American Century,topic,PREREQUISITE_OF,HIST 3256 - Course,topic,B mentioned first,,HIST_3256_triples_raw.json
+HIST_3256,United States' foreign relations,topic,PREREQUISITE_OF,twentieth and early twenty-first centuries,topic,A mentioned first,,HIST_3256_triples_raw.json
+HIST_3256,American Imperialism,concept,SUBTYPE_OF,imperialism,topic,,,HIST_3256_triples_raw.json
+HIST_3256,American Empire,concept,SUBTYPE_OF,American Imperialism,concept,,,HIST_3256_triples_raw.json
+HIST_3256,US Global Presence,concept,SUBTYPE_OF,American Empire,concept,,,HIST_3256_triples_raw.json
+HIST_3256,Domestic Values vs Foreign Policy,concept,SUBTYPE_OF,American Empire,concept,,,HIST_3256_triples_raw.json
+HIST_3256,Racial Dynamics Internationally,concept,SUBTYPE_OF,American Empire,concept,,,HIST_3256_triples_raw.json
+HIST_3256,Economic Interests Abroad,concept,SUBTYPE_OF,American Empire,concept,,,HIST_3256_triples_raw.json

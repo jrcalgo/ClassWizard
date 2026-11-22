@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_4696,topic,Chemistry Seminar,Chemistry Seminar,2,verified,Chemistry Seminar,CHEM_4696_concepts_raw.json
+CHEM_4696,topic,Seminar,Seminar,2,verified,Introduction to Seminar,CHEM_4696_concepts_raw.json
+CHEM_4696,topic,Special Topics in Chemistry,special topics in chemistry,1,verified,Special Topics in Chemistry,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,primary literature of chemistry,primary literature of chemistry,1,verified,primary literature of chemistry,CHEM_4696_concepts_raw.json
+CHEM_4696,topic,Literature Review Techniques,Literature Review Techniques,1,inferred,Literature Review Techniques,CHEM_4696_concepts_raw.json
+CHEM_4696,topic,Recent Developments in Chemistry,Recent Developments in Chemistry,1,inferred,Recent Developments in Chemistry,CHEM_4696_concepts_raw.json
+CHEM_4696,topic,Oral Presentation Skills,Oral Presentation Skills,1,inferred,Oral Presentation Skills,CHEM_4696_concepts_raw.json
+CHEM_4696,topic,Written Report Guidelines,Written Report Guidelines,1,inferred,Written Report Guidelines,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,search strategies,Search Strategies,1,inferred,search strategies,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,article evaluation criteria,Article Evaluation Criteria,1,inferred,article evaluation criteria,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,synthesis of information,Synthesis of Information,1,inferred,synthesis of information,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,current research topics,Current Research Topics,1,inferred,current research topics,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,emerging trends and theories,Emerging Trends and Theories,1,inferred,emerging trends and theories,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,chemical applications and implications,Chemical Applications and Implications,1,inferred,chemical applications and implications,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,effective communication techniques,Effective Communication Techniques,1,inferred,effective communication techniques,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,audience analysis and adaptation,Audience Analysis and Adaptation,1,inferred,audience analysis and adaptation,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,confidence building strategies,Confidence Building Strategies,1,inferred,confidence building strategies,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,peer review process,Peer Review Process,1,inferred,peer review process,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,revision and editing techniques,Revision and Editing Techniques,1,inferred,revision and editing techniques,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,advanced chemical concepts,Advanced Chemical Concepts,1,inferred,advanced chemical concepts,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,interdisciplinary connections,Interdisciplinary Connections,1,inferred,interdisciplinary connections,CHEM_4696_concepts_raw.json
+CHEM_4696,concept,real-world applications and implications,Real-World Applications and Implications,1,inferred,real-world applications and implications,CHEM_4696_concepts_raw.json

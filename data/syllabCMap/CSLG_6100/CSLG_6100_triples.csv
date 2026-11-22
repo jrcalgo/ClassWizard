@@ -1,0 +1,37 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_6100,Client-Centered Theory,topic,PREREQUISITE_OF,Psychoanalytic Theory,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Client-Centered Theory,topic,PREREQUISITE_OF,Transactional Analysis Theory,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Client-Centered Theory,topic,PREREQUISITE_OF,Rational Emotive Theory,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Psychoanalytic Theory,topic,PREREQUISITE_OF,Gestalt Theory Overview,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Psychoanalytic Theory,topic,PREREQUISITE_OF,Transactional Analysis Theory,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Psychoanalytic Theory,topic,PREREQUISITE_OF,Rational Emotive Theory,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Psychoanalytic Theory,topic,PREREQUISITE_OF,Reality Therapy Overview,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Psychoanalytic Theory,topic,PREREQUISITE_OF,Behavioral Theory Overview,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Gestalt Theory Overview,topic,PREREQUISITE_OF,Transactional Analysis Theory,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Gestalt Theory Overview,topic,PREREQUISITE_OF,Behavioral Theory Overview,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Transactional Analysis Theory,topic,PREREQUISITE_OF,Rational Emotive Theory,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Transactional Analysis Theory,topic,PREREQUISITE_OF,Reality Therapy Overview,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Transactional Analysis Theory,topic,PREREQUISITE_OF,Behavioral Theory Overview,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Reality Therapy Overview,topic,PREREQUISITE_OF,Behavioral Theory Overview,topic,A taught first,,CSLG_6100_triples_raw.json
+CSLG_6100,Person-Centered Approach Principles,concept,PART_OF,Client-Centered Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Empathy and Congruence in Counseling,concept,PART_OF,Client-Centered Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Unconditional Positive Regard Concept,concept,PART_OF,Client-Centered Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Id,concept,PART_OF,Psychoanalytic Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Superego Structure,concept,PART_OF,Psychoanalytic Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Defense Mechanisms Explanation,concept,PART_OF,Psychoanalytic Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Oedipus Complex and Its Impact,concept,PART_OF,Psychoanalytic Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Awareness of Self and Others,concept,PART_OF,Gestalt Theory Overview,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Experimentation and Spontaneity Techniques,concept,PART_OF,Gestalt Theory Overview,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Parent,concept,PART_OF,Transactional Analysis Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Adult,concept,PART_OF,Transactional Analysis Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Child Ego States,concept,PART_OF,Transactional Analysis Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Games People Play Explanation,concept,PART_OF,Transactional Analysis Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Cognitive Distortions Identification,concept,PART_OF,Rational Emotive Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Rational Thinking and Emotional Control,concept,PART_OF,Rational Emotive Theory,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Present-Focused Counseling Approach,concept,PART_OF,Reality Therapy Overview,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Future Orientation and Goal Setting,concept,PART_OF,Reality Therapy Overview,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Learning Theories Explanation,concept,PART_OF,Behavioral Theory Overview,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Classical Conditioning Process,concept,PART_OF,Behavioral Theory Overview,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Family Systems and Dynamics,concept,PART_OF,Family Development Theories,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Developmental Stages of Family Life,concept,PART_OF,Family Development Theories,topic,,,CSLG_6100_triples_raw.json
+CSLG_6100,Cultural and Socioeconomic Factors,concept,PART_OF,Family Development Theories,topic,,,CSLG_6100_triples_raw.json

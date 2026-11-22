@@ -1,0 +1,36 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_4601,Data Collection,method,PREREQUISITE_OF,Quantitative Data Analysis,method,same unit,,GLST_4601_triples_raw.json
+GLST_4601,Data Collection,method,PREREQUISITE_OF,Qualitative Data Analysis,method,same unit,,GLST_4601_triples_raw.json
+GLST_4601,Survey Design Principles,concept,PREREQUISITE_OF,Interview Protocol Development,method,same unit,,GLST_4601_triples_raw.json
+GLST_4601,Survey Design Principles,concept,PREREQUISITE_OF,Case Study Methodology,method,same unit,,GLST_4601_triples_raw.json
+GLST_4601,Statistical Data Analysis,method,PREREQUISITE_OF,Thematic Analysis Techniques,concept,same unit,,GLST_4601_triples_raw.json
+GLST_4601,Focused Topic Selection,concept,PART_OF,Topic Selection,topic,,,GLST_4601_triples_raw.json
+GLST_4601,International Studies,topic,PART_OF,Topic Selection,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Data Collection Techniques,concept,PART_OF,Research Methods,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Quantitative Data Analysis,method,PART_OF,Research Methods,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Qualitative Data Analysis,method,PART_OF,Research Methods,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Theoretical Frameworks,concept,PART_OF,Literature Review,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Empirical Research Synthesis,concept,PART_OF,Literature Review,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Survey Design Principles,concept,PART_OF,Data Collection,method,,part is broader than whole - check direction,GLST_4601_triples_raw.json
+GLST_4601,Interview Protocol Development,method,PART_OF,Data Collection,method,,,GLST_4601_triples_raw.json
+GLST_4601,Case Study Methodology,method,PART_OF,Data Collection,method,,,GLST_4601_triples_raw.json
+GLST_4601,Statistical Data Analysis,method,PART_OF,Data Analysis,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Qualitative Data Coding,method,PART_OF,Data Analysis,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Thematic Analysis Techniques,concept,PART_OF,Data Analysis,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Theoretical Framework Application,method,PART_OF,Theory Connection,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Conceptual Model Development,method,PART_OF,Theory Connection,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Empirical Evidence Synthesis,method,PART_OF,Theory Connection,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Clear Scholarly Writing Style,concept,PART_OF,Writing Workshop,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Academic Tone and Voice,concept,PART_OF,Writing Workshop,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Effective Argumentation Techniques,concept,PART_OF,Writing Workshop,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Effective Presentation Delivery,concept,PART_OF,Public Speaking,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Audience Engagement Strategies,concept,PART_OF,Public Speaking,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Visual Aids Design Principles,concept,PART_OF,Public Speaking,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Teamwork and Communication Skills,concept,PART_OF,Collaborative Project,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Conflict Resolution Strategies,concept,PART_OF,Collaborative Project,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Project Management Techniques,concept,PART_OF,Collaborative Project,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Personal Learning Reflections,concept,PART_OF,Synthesis and Reflection,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Career Development Planning,concept,PART_OF,Synthesis and Reflection,topic,,,GLST_4601_triples_raw.json
+GLST_4601,Survey Design,method,USED_FOR,Survey Design Principles,concept,,,GLST_4601_triples_raw.json
+GLST_4601,Thematic Analysis,method,USED_FOR,Thematic Analysis Techniques,concept,,,GLST_4601_triples_raw.json
+GLST_4601,Effective Argumentation,method,USED_FOR,Effective Argumentation Techniques,concept,,,GLST_4601_triples_raw.json

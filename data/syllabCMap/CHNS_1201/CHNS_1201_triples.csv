@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHNS_1201,Pronunciation Fundamentals,topic,PREREQUISITE_OF,Greetings and Introductions,topic,A taught first,,CHNS_1201_triples_raw.json
+CHNS_1201,Pronunciation Fundamentals,topic,PREREQUISITE_OF,Time and Scheduling,topic,A taught first,,CHNS_1201_triples_raw.json
+CHNS_1201,Pronunciation Fundamentals,topic,PREREQUISITE_OF,Visiting Friends and Family,topic,A taught first,,CHNS_1201_triples_raw.json
+CHNS_1201,Pronunciation Fundamentals,topic,PREREQUISITE_OF,High-Frequency Characters,topic,A taught first,,CHNS_1201_triples_raw.json
+CHNS_1201,Pronunciation Fundamentals,topic,PREREQUISITE_OF,Basic Writing Skills,topic,A taught first,,CHNS_1201_triples_raw.json
+CHNS_1201,Greetings and Introductions,topic,PREREQUISITE_OF,Visiting Friends and Family,topic,A taught first,,CHNS_1201_triples_raw.json
+CHNS_1201,Time and Scheduling,topic,PREREQUISITE_OF,Visiting Friends and Family,topic,A taught first,,CHNS_1201_triples_raw.json
+CHNS_1201,Visiting Friends and Family,topic,PREREQUISITE_OF,Chinese Culture and Practices,topic,A taught first,,CHNS_1201_triples_raw.json
+CHNS_1201,Pronunciation Fundamentals,topic,PART_OF,Chinese language,topic,,,CHNS_1201_triples_raw.json
+CHNS_1201,Greetings and Introductions,topic,PART_OF,Chinese language,topic,,,CHNS_1201_triples_raw.json
+CHNS_1201,Time and Scheduling,topic,PART_OF,Chinese language,topic,,,CHNS_1201_triples_raw.json
+CHNS_1201,Visiting Friends and Family,topic,PART_OF,Chinese language,topic,,,CHNS_1201_triples_raw.json
+CHNS_1201,High-Frequency Characters,topic,PART_OF,Chinese language,topic,,,CHNS_1201_triples_raw.json
+CHNS_1201,Basic Writing Skills,topic,PART_OF,Chinese language,topic,,,CHNS_1201_triples_raw.json
+CHNS_1201,Chinese Culture and Practices,topic,PART_OF,Chinese language,topic,,,CHNS_1201_triples_raw.json
+CHNS_1201,Pinyin transcription,concept,USED_FOR,Mandarin sounds and tones,concept,,,CHNS_1201_triples_raw.json
+CHNS_1201,Pinyin transcription,concept,USED_FOR,Familiar syllables and words,concept,,,CHNS_1201_triples_raw.json

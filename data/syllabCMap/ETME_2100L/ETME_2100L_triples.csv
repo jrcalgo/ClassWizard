@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETME_2100L,Project Requirements and Expectations,topic,PREREQUISITE_OF,Design Project Objectives and Goals,topic,same unit,,ETME_2100L_triples_raw.json
+ETME_2100L,Machine Shop Safety Rules and Regulations,topic,PREREQUISITE_OF,Personal Protective Equipment (PPE) Usage,topic,same unit,,ETME_2100L_triples_raw.json
+ETME_2100L,Project Design Requirements and Constraints,topic,PREREQUISITE_OF,Design for Manufacturing and Assembly,topic,same unit,,ETME_2100L_triples_raw.json
+ETME_2100L,Material Selection and Procurement,topic,PREREQUISITE_OF,Manufacturing Processes and Techniques,topic,same unit,,ETME_2100L_triples_raw.json
+ETME_2100L,Project Requirements and Expectations,topic,PART_OF,Design Project Objectives and Goals,topic,,,ETME_2100L_triples_raw.json
+ETME_2100L,Machine Shop Safety Rules and Regulations,topic,PART_OF,Personal Protective Equipment (PPE) Usage,topic,,,ETME_2100L_triples_raw.json
+ETME_2100L,Calibration of Measurement Instruments,topic,PART_OF,Precision and Accuracy in Measurement,topic,,,ETME_2100L_triples_raw.json
+ETME_2100L,Project Design Requirements and Constraints,topic,PART_OF,Design for Manufacturing and Assembly,topic,,,ETME_2100L_triples_raw.json
+ETME_2100L,Project Documentation and Reporting,topic,PART_OF,Record Keeping and Time Management,topic,,,ETME_2100L_triples_raw.json

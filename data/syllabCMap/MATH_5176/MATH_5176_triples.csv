@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_5176,MATLAB,tool,USED_FOR,Numerical Methods for Partial Differential Equations,topic,,,MATH_5176_triples_raw.json
+MATH_5176,Python,tool,USED_FOR,Numerical Methods for Partial Differential Equations,topic,,,MATH_5176_triples_raw.json

@@ -1,0 +1,40 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4259,topic,Virology,Virology,9,verified,Virology,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Molecular and Clinical Aspects of Virology,molecular and clinical aspects of virology,2,verified,Molecular and Clinical Aspects of Virology,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Virus Replication Processes,Virus Replication Processes,1,verified,Virus Replication Processes,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Host Cell Interaction,Host Cell Interaction,1,verified,Host Cell Interaction,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Bacteriophages,bacteriophages,6,verified,Bacteriophages,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Plant Viruses,plant viruses,6,verified,Plant Viruses,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Prions,prions,7,verified,Prions,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Viroids,viroids,7,verified,Viroids,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Virus-Like Agents,virus-like agents,4,verified,Virus-Like Agents,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Emerging Viruses,emerging viruses,9,verified,Emerging Viruses,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Biodefense Agents,Biodefense agents,4,verified,Biodefense Agents,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Vaccine Development,Vaccine Development,31,verified,Vaccine Development,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Gene Therapy,gene therapy,36,verified,Gene Therapy,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Oncolytic Viruses,Oncolytic Viruses,40,verified,Oncolytic Viruses,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Biological Threats,Biological Threats,1,verified,Biological Threats,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Viral Pathogenesis,Viral Pathogenesis,1,verified,Viral Pathogenesis,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Virus Evolution,Virus Evolution,24,verified,Virus Evolution,BIOL_4259_concepts_raw.json
+BIOL_4259,topic,Viral Transmission,Viral Transmission,1,verified,Viral Transmission,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Viral Structure,Viral Structure,28,verified,Viral Structure,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Host Cell Infection,Host Cell Infection,37,verified,Host Cell Infection,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Viral Replication,Viral Replication,25,verified,Viral Replication,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Bacteriophage Biology,Bacteriophage Biology,26,verified,Bacteriophage Biology,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Plant Virus Diseases,Plant virus diseases,17,verified,Plant Virus Diseases,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Prions and Viroids,Prions and Viroids,4,verified,Prions and Viroids,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,SARS-CoV-2,SARS-CoV-2,3,verified,SARS-CoV-2,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Monkeypox virus,monkeypox virus,3,verified,Monkeypox virus,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Virus-based gene therapy,virus-based gene therapy,3,verified,Virus-based gene therapy,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Adjuvants and Immunomodulators,Adjuvants and Immunomodulators,1,verified,Adjuvants and Immunomodulators,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Gene Therapy Vaccines,Gene Therapy Vaccines,1,verified,Gene Therapy Vaccines,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Oncolytic Virus Therapy,Oncolytic Virus Therapy,1,verified,Oncolytic Virus Therapy,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Cancer Treatment Methods,Cancer Treatment Methods,1,verified,Cancer Treatment Methods,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Viral Gene Therapy,Viral Gene Therapy,1,verified,Viral Gene Therapy,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Tumor Targeting Mechanisms,Tumor Targeting Mechanisms,1,verified,Tumor Targeting Mechanisms,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Immune System Response,Immune System Response,1,verified,Immune System Response,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Virus Replication Cycles,Virus Replication Cycles,1,verified,Virus Replication Cycles,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Cancer Stem Cells,Cancer Stem Cells,1,verified,Cancer Stem Cells,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Gene Editing Techniques,Gene editing techniques,2,verified,Gene Editing Techniques,BIOL_4259_concepts_raw.json
+BIOL_4259,concept,Antitumor Immunity,Antitumor Immunity,1,verified,Antitumor Immunity,BIOL_4259_concepts_raw.json
+BIOL_4259,tool,Webcam,webcam,6,verified,Webcam,BIOL_4259_concepts_raw.json

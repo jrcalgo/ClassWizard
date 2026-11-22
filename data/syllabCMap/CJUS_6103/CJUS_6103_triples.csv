@@ -1,0 +1,75 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_6103,Null Hypothesis,concept,PREREQUISITE_OF,Alternative Hypothesis,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Quantitative Crime Analytics,concept,PREREQUISITE_OF,Test Statistic,concept,A taught first,,CJUS_6103_triples_raw.json
+CJUS_6103,Point Estimation,concept,PREREQUISITE_OF,Confidence Intervals,concept,B taught first,B is taught before A - check,CJUS_6103_triples_raw.json
+CJUS_6103,Standard Error,concept,PREREQUISITE_OF,One population mean,concept,A taught first,,CJUS_6103_triples_raw.json
+CJUS_6103,Bivariate Correlation,concept,PREREQUISITE_OF,Ordinary Least Squares Regression,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Statistical Significance,concept,PREREQUISITE_OF,Data manipulation techniques,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Quantitative Crime Analytics,concept,PREREQUISITE_OF,Quantitative Data Analysis,concept,A taught first,,CJUS_6103_triples_raw.json
+CJUS_6103,R software basics,concept,PREREQUISITE_OF,Statistical modeling concepts,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,R programming syntax,concept,PREREQUISITE_OF,Data visualization methods,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Frequency Distributions,concept,PREREQUISITE_OF,Skewness Measures,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Frequency Distributions,concept,PREREQUISITE_OF,Kurtosis Measures,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Bar Charts,concept,PREREQUISITE_OF,Histograms,concept,B taught first,B is taught before A - check,CJUS_6103_triples_raw.json
+CJUS_6103,Scatter Plots,concept,PREREQUISITE_OF,Box Plots,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Tables of Data,concept,PREREQUISITE_OF,Graphical Displays,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Tables of Data,concept,PREREQUISITE_OF,Tabular Summaries,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Data Cleaning Techniques,concept,PREREQUISITE_OF,Data Normalization Methods,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Population proportion,concept,PREREQUISITE_OF,Sample proportion,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Standard error of mean,concept,PREREQUISITE_OF,Confidence interval for mean,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Hypothesis testing for mean,concept,PREREQUISITE_OF,Z-score calculation,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Null hypothesis statement,concept,PREREQUISITE_OF,Critical region definition,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Categorical Data Analysis,concept,PREREQUISITE_OF,Chi-Square Test,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Two-sample t-test,concept,PREREQUISITE_OF,Independent samples,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Multiple Comparison Tests,concept,PREREQUISITE_OF,One-Way ANOVA Procedure,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Population Mean Differences,concept,PREREQUISITE_OF,Null Hypothesis Significance,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,F-Test Statistic Calculation,concept,PREREQUISITE_OF,Regression Analysis Techniques,concept,A taught first,,CJUS_6103_triples_raw.json
+CJUS_6103,Multiple Linear Regression Model,concept,PREREQUISITE_OF,Coefficient of Determination,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Residual Plots Interpretation,concept,PREREQUISITE_OF,Heteroscedasticity Issues Detection,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Binomial Distribution,concept,PREREQUISITE_OF,Maximum Likelihood Estimation,concept,same unit,,CJUS_6103_triples_raw.json
+CJUS_6103,Data manipulation techniques,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Histograms,concept,PART_OF,Data Distributions,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,P-Value Interpretation,concept,PART_OF,Inferential Statistical Analysis,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Logistic Regression,concept,PART_OF,Quantitative Data Analysis,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Research Design Principles,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Data Management Fundamentals,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Quantitative Research Methods,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Descriptive Statistics Methods,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Inferential Statistical Analysis,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Quantitative Data Analysis,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,R software basics,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Statistical modeling concepts,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Data visualization methods,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,R programming syntax,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Frequency Distributions,concept,PART_OF,Data Distributions,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Skewness Measures,concept,PART_OF,Data Distributions,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Bar Charts,concept,PART_OF,Graphical Displays,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Scatter Plots,concept,PART_OF,Graphical Displays,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Box Plots,concept,PART_OF,Graphical Displays,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Tables of Data,concept,PART_OF,Tabular Summaries,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Graphical Displays,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Tabular Summaries,concept,PART_OF,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Data Cleaning Techniques,concept,PART_OF,Data Management Fundamentals,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Data Normalization Methods,concept,PART_OF,Data Management Fundamentals,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Data Validation Procedures,concept,PART_OF,Data Management Fundamentals,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Missing Data Handling,concept,PART_OF,Data Management Fundamentals,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Outlier Detection Strategies,concept,PART_OF,Data Management Fundamentals,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Median Formula Derivation,concept,PART_OF,Descriptive Statistics Methods,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Data Normalization Techniques,concept,PART_OF,Sampling Distribution,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Population proportion,concept,PART_OF,One population mean,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Sample proportion,concept,PART_OF,One population mean,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Standard error of mean,concept,PART_OF,Confidence interval for mean,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Hypothesis testing for mean,concept,PART_OF,Z-score calculation,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Null hypothesis statement,concept,PART_OF,Critical region definition,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Categorical Data Analysis,concept,PART_OF,Inferential Statistical Analysis,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Chi-Square Test,concept,PART_OF,Inferential Statistical Analysis,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Two-sample t-test,concept,PART_OF,Independent samples,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Standard error of difference,concept,PART_OF,Confidence interval for difference,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Multiple Comparison Tests,concept,PART_OF,One-Way ANOVA Procedure,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Population Mean Differences,concept,PART_OF,Null Hypothesis Significance,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,F-Test Statistic Calculation,concept,PART_OF,Regression Analysis Techniques,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Correlation Coefficient Calculation,concept,PART_OF,Linear Regression Assumptions,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Multiple Linear Regression Model,concept,PART_OF,Coefficient of Determination,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Residual Plots Interpretation,concept,PART_OF,Heteroscedasticity Issues Detection,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,Binomial Distribution,concept,PART_OF,Logistic Regression,concept,,,CJUS_6103_triples_raw.json
+CJUS_6103,R software,tool,USED_FOR,Quantitative Crime Analytics,concept,,,CJUS_6103_triples_raw.json

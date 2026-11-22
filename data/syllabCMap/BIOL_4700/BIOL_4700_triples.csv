@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4700,research question formulation,concept,PART_OF,Research Question Development,topic,,,BIOL_4700_triples_raw.json
+BIOL_4700,hypothesis development,concept,PART_OF,Research Question Development,topic,,,BIOL_4700_triples_raw.json
+BIOL_4700,question of interest identification,concept,PART_OF,Research Question Development,topic,,,BIOL_4700_triples_raw.json
+BIOL_4700,experimental design documentation,concept,PART_OF,Laboratory Notebook Management,topic,,,BIOL_4700_triples_raw.json
+BIOL_4700,data collection and recording,concept,PART_OF,Laboratory Notebook Management,topic,,,BIOL_4700_triples_raw.json
+BIOL_4700,notebook organization techniques,concept,PART_OF,Laboratory Notebook Management,topic,,,BIOL_4700_triples_raw.json
+BIOL_4700,committee selection criteria,concept,PART_OF,Honors Thesis Committee Formation,topic,,,BIOL_4700_triples_raw.json
+BIOL_4700,proposal structure and format,concept,PART_OF,Research Proposal Writing,topic,,,BIOL_4700_triples_raw.json
+BIOL_4700,experimental design principles,concept,PART_OF,Experimental Design and Planning,topic,,,BIOL_4700_triples_raw.json

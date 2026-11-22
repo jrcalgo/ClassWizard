@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_3291,topic,Engineering major or minor,Engineering major or minor,1,verified,Engineering major or minor,SEGR_3291_concepts_raw.json
+SEGR_3291,topic,Design Philosophy,design philosophies,1,verified,Design Philosophy,SEGR_3291_concepts_raw.json
+SEGR_3291,topic,Project Management,project management,1,verified,Project Management,SEGR_3291_concepts_raw.json
+SEGR_3291,topic,Team Problem-Solving,team problem-solving,1,verified,Team Problem-Solving,SEGR_3291_concepts_raw.json
+SEGR_3291,topic,Team Formation,Team Formation,1,inferred,Team Formation,SEGR_3291_concepts_raw.json
+SEGR_3291,topic,Prototype Development,Prototype Development,1,inferred,Prototype Development,SEGR_3291_concepts_raw.json
+SEGR_3291,topic,Progress Evaluations,Progress Evaluations,1,inferred,Progress Evaluations,SEGR_3291_concepts_raw.json
+SEGR_3291,topic,Client Presentation,Client Presentation,1,inferred,Client Presentation,SEGR_3291_concepts_raw.json
+SEGR_3291,topic,Final Report Preparation,Final Report Preparation,1,inferred,Final Report Preparation,SEGR_3291_concepts_raw.json
+SEGR_3291,topic,Expo Presentation,Expo Presentation,1,inferred,Expo Presentation,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Project Scope Definition,Project Scope Definition,1,inferred,Project Scope Definition,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Team Size Determination,Team Size Determination,1,inferred,Team Size Determination,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Discipline Allocation,Discipline Allocation,1,inferred,Discipline Allocation,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Engineering Design Principles,Engineering Design Principles,1,inferred,Engineering Design Principles,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Appropriate Standards Application,Appropriate Standards Application,1,inferred,Appropriate Standards Application,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Research and Implementation,Research and Implementation,1,inferred,Research and Implementation,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Time Budgeting,Time Budgeting,1,inferred,Time Budgeting,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Financial Planning,Financial Planning,1,inferred,Financial Planning,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Client Satisfaction,Client Satisfaction,1,inferred,Client Satisfaction,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Collaborative Work Skills,Collaborative Work Skills,1,inferred,Collaborative Work Skills,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Conflict Resolution Strategies,Conflict Resolution Strategies,1,inferred,Conflict Resolution Strategies,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Effective Communication,Effective Communication,2,inferred,Effective Communication,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Design Iteration and Refinement,Design Iteration and Refinement,1,inferred,Design Iteration and Refinement,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Prototyping Techniques and Tools,Prototyping Techniques and Tools,1,inferred,Prototyping Techniques and Tools,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Model Verification and Validation,Model Verification and Validation,1,inferred,Model Verification and Validation,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Project Status Review,Project Status Review,1,inferred,Project Status Review,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Progress Monitoring and Reporting,Progress Monitoring and Reporting,1,inferred,Progress Monitoring and Reporting,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Adjustment and Improvement Planning,Adjustment and Improvement Planning,1,inferred,Adjustment and Improvement Planning,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Effective Communication with Clients,Effective Communication with Clients,1,inferred,Effective Communication with Clients,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Presentation Skills and Techniques,Presentation Skills and Techniques,1,inferred,Presentation Skills and Techniques,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Prototype/Model Demonstration,Prototype/Model Demonstration,1,inferred,Prototype/Model Demonstration,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Design Package Development,Design Package Development,1,inferred,Design Package Development,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Technical Writing and Documentation,Technical Writing and Documentation,1,inferred,Technical Writing and Documentation,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Project Evaluation and Lessons Learned,Project Evaluation and Lessons Learned,1,inferred,Project Evaluation and Lessons Learned,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Public Speaking and Presentation Skills,Public Speaking and Presentation Skills,1,inferred,Public Speaking and Presentation Skills,SEGR_3291_concepts_raw.json
+SEGR_3291,concept,Poster Design and Creation,Poster Design and Creation,1,inferred,Poster Design and Creation,SEGR_3291_concepts_raw.json

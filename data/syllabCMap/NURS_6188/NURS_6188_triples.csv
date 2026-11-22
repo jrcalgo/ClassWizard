@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_6188,telehealth,concept,PREREQUISITE_OF,electronic medical record,concept,A mentioned first,,NURS_6188_triples_raw.json
+NURS_6188,master's level nursing practice,concept,PREREQUISITE_OF,Interprofessional Collaboration,topic,A taught first,,NURS_6188_triples_raw.json
+NURS_6188,telehealth,concept,PART_OF,nursing informatics applications,concept,,,NURS_6188_triples_raw.json
+NURS_6188,electronic medical record,concept,PART_OF,informatics applications in practice,concept,,,NURS_6188_triples_raw.json
+NURS_6188,master's level nursing practice,concept,PART_OF,Strategic Management & Decision Making,topic,,,NURS_6188_triples_raw.json
+NURS_6188,master's level nursing practice,concept,PART_OF,Interprofessional Collaboration,topic,,,NURS_6188_triples_raw.json
+NURS_6188,Quantitative Management Tools,topic,PART_OF,Strategic Management & Decision Making,topic,,,NURS_6188_triples_raw.json
+NURS_6188,Quantitative Management Tools,topic,USED_FOR,evaluating strategic outcomes,concept,,topic used for something - check direction,NURS_6188_triples_raw.json

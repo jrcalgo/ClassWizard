@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_4125,construction and building codes,concept,PREREQUISITE_OF,Permits,topic,A taught first,,CMET_4125_triples_raw.json
+CMET_4125,construction and building codes,concept,PREREQUISITE_OF,Compliance and Sustainability,topic,A mentioned first,,CMET_4125_triples_raw.json
+CMET_4125,construction and building codes,concept,PREREQUISITE_OF,AEC Industry,topic,A mentioned first,,CMET_4125_triples_raw.json
+CMET_4125,construction and building codes,concept,PREREQUISITE_OF,Project Life Cycle,topic,A taught first,,CMET_4125_triples_raw.json
+CMET_4125,construction and building codes,concept,USED_FOR,Permits,topic,,,CMET_4125_triples_raw.json
+CMET_4125,construction and building codes,concept,USED_FOR,Compliance and Sustainability,topic,,,CMET_4125_triples_raw.json

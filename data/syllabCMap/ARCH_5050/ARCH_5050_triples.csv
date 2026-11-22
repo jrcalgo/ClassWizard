@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_5050,Design in Daily Life,topic,PREREQUISITE_OF,Design Thinking Fundamentals,topic,same unit,,ARCH_5050_triples_raw.json
+ARCH_5050,Design Theories and Models,topic,PREREQUISITE_OF,Cultural Influences on Design,topic,same unit,,ARCH_5050_triples_raw.json
+ARCH_5050,Design Implications and Consequences,topic,PREREQUISITE_OF,Design Growth and Development,topic,same unit,,ARCH_5050_triples_raw.json
+ARCH_5050,Design in Daily Life,topic,PART_OF,Design Thinking Fundamentals,topic,,,ARCH_5050_triples_raw.json

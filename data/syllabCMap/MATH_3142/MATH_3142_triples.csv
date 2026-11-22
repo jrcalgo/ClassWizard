@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_3142,Polynomial Equations,concept,PART_OF,Algebra,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Vector Operations,concept,PART_OF,Linear Algebra Review,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Matrix Multiplication,concept,PART_OF,Linear Algebra Review,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Determinant Calculus,concept,PART_OF,Linear Algebra Review,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Group Properties,concept,PART_OF,Group Theory Basics,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Subgroup Examples,concept,PART_OF,Group Theory Basics,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Cyclic Groups,concept,PART_OF,Group Theory Basics,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Ring Axioms,concept,PART_OF,Ring and Field Concepts,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Field Operations,concept,PART_OF,Ring and Field Concepts,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Ideal Definitions,concept,PART_OF,Ring and Field Concepts,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Galois Groups,concept,PART_OF,Galois Theory Fundamentals,topic,,,MATH_3142_triples_raw.json
+MATH_3142,Normal Extensions,concept,PART_OF,Galois Theory Fundamentals,topic,,,MATH_3142_triples_raw.json

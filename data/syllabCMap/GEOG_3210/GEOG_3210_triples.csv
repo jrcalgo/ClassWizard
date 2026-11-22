@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_3210,demographic data analysis,method,PREREQUISITE_OF,economic indicators and trends,method,same unit,,GEOG_3210_triples_raw.json
+GEOG_3210,regional planning definition,concept,PREREQUISITE_OF,physical processes shaping regions,concept,A taught first,,GEOG_3210_triples_raw.json
+GEOG_3210,regional governance and politics,concept,PREREQUISITE_OF,social economic environmental interactions,concept,same unit,,GEOG_3210_triples_raw.json
+GEOG_3210,regional governance and politics,concept,PART_OF,social economic environmental interactions,concept,,,GEOG_3210_triples_raw.json

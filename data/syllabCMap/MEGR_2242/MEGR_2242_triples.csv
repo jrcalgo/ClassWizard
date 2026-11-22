@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2242,data representation,topic,PART_OF,Automated engineering analysis,topic,,,MEGR_2242_triples_raw.json
+MEGR_2242,computing languages,topic,PART_OF,Automated engineering analysis,topic,,,MEGR_2242_triples_raw.json
+MEGR_2242,program development,topic,PART_OF,Automated engineering analysis,topic,,,MEGR_2242_triples_raw.json
+MEGR_2242,effective design,topic,PART_OF,Automated engineering analysis,topic,,,MEGR_2242_triples_raw.json
+MEGR_2242,testing,topic,PART_OF,Automated engineering analysis,topic,,,MEGR_2242_triples_raw.json
+MEGR_2242,debugging practices,topic,PART_OF,Automated engineering analysis,topic,,,MEGR_2242_triples_raw.json
+MEGR_2242,numerical methods,concept,PART_OF,Automated engineering analysis,topic,,,MEGR_2242_triples_raw.json
+MEGR_2242,linear algebra,concept,PART_OF,Automated engineering analysis,topic,,,MEGR_2242_triples_raw.json

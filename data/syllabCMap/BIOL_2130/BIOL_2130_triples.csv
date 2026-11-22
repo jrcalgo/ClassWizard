@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_2130,Ecological Principles,topic,PREREQUISITE_OF,Evolutionary Theory,topic,A taught first,,BIOL_2130_triples_raw.json
+BIOL_2130,Ecological Principles,topic,PREREQUISITE_OF,Biodiversity Concepts,topic,A taught first,,BIOL_2130_triples_raw.json
+BIOL_2130,Ecological Principles,topic,PREREQUISITE_OF,Plant Structure and Function,topic,A taught first,,BIOL_2130_triples_raw.json
+BIOL_2130,Ecological Principles,topic,PREREQUISITE_OF,Animal Structure and Function,topic,A taught first,,BIOL_2130_triples_raw.json
+BIOL_2130,Evolutionary Theory,topic,PREREQUISITE_OF,Biodiversity Concepts,topic,A taught first,,BIOL_2130_triples_raw.json
+BIOL_2130,Biodiversity Concepts,topic,PREREQUISITE_OF,Animal Structure and Function,topic,A taught first,,BIOL_2130_triples_raw.json
+BIOL_2130,Ecosystem Structure and Function,concept,PART_OF,Ecological Principles,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Energy Flow in Ecosystems,concept,PART_OF,Ecological Principles,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Nutrient Cycling Processes,concept,PART_OF,Ecological Principles,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Mechanisms of Evolution,concept,PART_OF,Evolutionary Theory,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Species Adaptation and Change,concept,PART_OF,Evolutionary Theory,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Natural Selection Process,concept,PART_OF,Evolutionary Theory,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Taxonomic Classification Systems,concept,PART_OF,Biodiversity Concepts,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Ecological Niche Theory,concept,PART_OF,Biodiversity Concepts,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Transportation in Plants,concept,PART_OF,Plant Structure and Function,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Cell Wall Composition,concept,PART_OF,Plant Structure and Function,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Skeletal System and Movement,concept,PART_OF,Animal Structure and Function,topic,,,BIOL_2130_triples_raw.json
+BIOL_2130,Nervous System and Reflexes,concept,PART_OF,Animal Structure and Function,topic,,,BIOL_2130_triples_raw.json

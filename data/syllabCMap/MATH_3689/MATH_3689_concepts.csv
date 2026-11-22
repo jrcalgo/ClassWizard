@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3689,topic,Mathematical Literature,mathematical literature,1,verified,Mathematical Literature,MATH_3689_concepts_raw.json
+MATH_3689,concept,Rigorous Mathematical Arguments,rigorous mathematical arguments,1,verified,Rigorous Mathematical Arguments,MATH_3689_concepts_raw.json
+MATH_3689,concept,Logically Structured Mathematical Paper,logically structured mathematical paper,1,verified,Logically Structured Mathematical Paper,MATH_3689_concepts_raw.json
+MATH_3689,concept,Advanced Mathematical Literature,advanced mathematical literature,1,verified,Advanced Mathematical Literature,MATH_3689_concepts_raw.json
+MATH_3689,concept,Research Sources Analysis,Research Sources Analysis,1,inferred,Research Sources Analysis,MATH_3689_concepts_raw.json
+MATH_3689,concept,Independent Investigation Planning,Independent Investigation Planning,1,inferred,Independent Investigation Planning,MATH_3689_concepts_raw.json
+MATH_3689,concept,Mathematical Problem Formulation,Mathematical Problem Formulation,1,inferred,Mathematical Problem Formulation,MATH_3689_concepts_raw.json
+MATH_3689,concept,Scholarly Source Citation,Scholarly Source Citation,1,inferred,Scholarly Source Citation,MATH_3689_concepts_raw.json
+MATH_3689,concept,Mathematical Concepts Identification,Mathematical Concepts Identification,1,inferred,Mathematical Concepts Identification,MATH_3689_concepts_raw.json
+MATH_3689,concept,Research Questions Development,Research Questions Development,1,inferred,Research Questions Development,MATH_3689_concepts_raw.json
+MATH_3689,concept,Logical Argument Structure,Logical Argument Structure,1,inferred,Logical Argument Structure,MATH_3689_concepts_raw.json
+MATH_3689,concept,Evidence-Based Reasoning,Evidence-Based Reasoning,1,inferred,Evidence-Based Reasoning,MATH_3689_concepts_raw.json
+MATH_3689,concept,Proper Reference Format,Proper Reference Format,1,inferred,Proper Reference Format,MATH_3689_concepts_raw.json
+MATH_3689,concept,Academic Integrity Guidelines,Academic Integrity Guidelines,1,inferred,Academic Integrity Guidelines,MATH_3689_concepts_raw.json

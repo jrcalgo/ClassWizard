@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_2221,AC circuits,concept,SUBTYPE_OF,DC and AC Circuits,topic,,,MEET_2221_triples_raw.json
+MEET_2221,circuit analysis,method,USED_FOR,AC circuits,concept,,,MEET_2221_triples_raw.json
+MEET_2221,circuit simulation,method,USED_FOR,AC circuits,concept,,,MEET_2221_triples_raw.json

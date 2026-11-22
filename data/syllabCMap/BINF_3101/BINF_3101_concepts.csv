@@ -1,0 +1,63 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_3101,topic,population genetics,population genetics,6,verified,population genetics,BINF_3101_concepts_raw.json
+BINF_3101,topic,molecular evolutionary theory,molecular evolutionary theories,1,verified,molecular evolutionary theory,BINF_3101_concepts_raw.json
+BINF_3101,topic,sequences analysis,Sequences Analysis,1,verified,sequences analysis,BINF_3101_concepts_raw.json
+BINF_3101,concept,bioinformatics databases,bioinformatics databases,2,verified,bioinformatics databases,BINF_3101_concepts_raw.json
+BINF_3101,concept,protein substitution models,protein substitution models,2,verified,protein substitution models,BINF_3101_concepts_raw.json
+BINF_3101,topic,hidden Markov models,hidden Markov models,5,verified,hidden Markov models,BINF_3101_concepts_raw.json
+BINF_3101,topic,clustering analysis,clustering analysis,3,verified,clustering analysis,BINF_3101_concepts_raw.json
+BINF_3101,topic,neural networks for sequence analysis,neural networks for sequence analysis,2,verified,neural networks for sequence analysis,BINF_3101_concepts_raw.json
+BINF_3101,concept,allele frequency,Allele Frequency,2,verified,allele frequency,BINF_3101_concepts_raw.json
+BINF_3101,concept,genetic drift,Genetic Drift,3,verified,genetic drift,BINF_3101_concepts_raw.json
+BINF_3101,concept,Hardy Weinberg Law,Hardy Weinberg Law,2,verified,Hardy Weinberg Law,BINF_3101_concepts_raw.json
+BINF_3101,concept,population size,Population Size,1,verified,population size,BINF_3101_concepts_raw.json
+BINF_3101,concept,mutation rate,Mutation Rate,4,verified,mutation rate,BINF_3101_concepts_raw.json
+BINF_3101,concept,selection pressure,Selection Pressure,3,verified,selection pressure,BINF_3101_concepts_raw.json
+BINF_3101,concept,neutral theory,Neutral Theory,3,verified,neutral theory,BINF_3101_concepts_raw.json
+BINF_3101,concept,genetic variation,Genetic Variation,1,verified,genetic variation,BINF_3101_concepts_raw.json
+BINF_3101,concept,evolutionary change,evolutionary change,4,verified,evolutionary change,BINF_3101_concepts_raw.json
+BINF_3101,concept,DNA mutation rate,DNA Mutation Rate,2,verified,DNA mutation rate,BINF_3101_concepts_raw.json
+BINF_3101,concept,molecular clock hypothesis,Molecular Clock Hypothesis,1,verified,molecular clock hypothesis,BINF_3101_concepts_raw.json
+BINF_3101,concept,phylogenetic inference,Phylogenetic Inference,2,verified,phylogenetic inference,BINF_3101_concepts_raw.json
+BINF_3101,concept,sequence divergence,Sequence Divergence,2,verified,sequence divergence,BINF_3101_concepts_raw.json
+BINF_3101,concept,nucleotide substitution,Nucleotide Substitution,1,verified,nucleotide substitution,BINF_3101_concepts_raw.json
+BINF_3101,concept,selective pressure,Selective Pressure,1,verified,selective pressure,BINF_3101_concepts_raw.json
+BINF_3101,concept,mutation accumulation,Mutation Accumulation,1,verified,mutation accumulation,BINF_3101_concepts_raw.json
+BINF_3101,concept,molecular evolution theory,Molecular Evolution Theory,2,verified,molecular evolution theory,BINF_3101_concepts_raw.json
+BINF_3101,concept,evolutionary rate estimation,Evolutionary Rate Estimation,1,verified,evolutionary rate estimation,BINF_3101_concepts_raw.json
+BINF_3101,concept,site specific rates,Site Specific Rates,1,verified,site specific rates,BINF_3101_concepts_raw.json
+BINF_3101,concept,rate heterogeneity models,Rate Heterogeneity Models,1,verified,rate heterogeneity models,BINF_3101_concepts_raw.json
+BINF_3101,concept,database querying techniques,Database querying techniques,1,verified,database querying techniques,BINF_3101_concepts_raw.json
+BINF_3101,concept,sequence database management,Sequence database management,1,verified,sequence database management,BINF_3101_concepts_raw.json
+BINF_3101,concept,data retrieval methods,Data retrieval methods,1,verified,data retrieval methods,BINF_3101_concepts_raw.json
+BINF_3101,concept,database search algorithms,Database search algorithms,1,verified,database search algorithms,BINF_3101_concepts_raw.json
+BINF_3101,concept,scoring matrices used,Scoring Matrices Used,1,verified,scoring matrices used,BINF_3101_concepts_raw.json
+BINF_3101,concept,gap penalties applied,Gap Penalties Applied,1,verified,gap penalties applied,BINF_3101_concepts_raw.json
+BINF_3101,concept,global vs local alignments,Global vs Local Alignments,1,verified,global vs local alignments,BINF_3101_concepts_raw.json
+BINF_3101,concept,multiple sequence alignment,Multiple Sequence Alignments,1,verified,multiple sequence alignment,BINF_3101_concepts_raw.json
+BINF_3101,concept,BLAST algorithm basics,BLAST Algorithm Basics,3,verified,BLAST algorithm basics,BINF_3101_concepts_raw.json
+BINF_3101,concept,query sequence alignment,Query Sequence Alignment,3,verified,query sequence alignment,BINF_3101_concepts_raw.json
+BINF_3101,concept,database retrieval methods,Database Retrieval Methods,1,verified,database retrieval methods,BINF_3101_concepts_raw.json
+BINF_3101,concept,sequence similarity metrics,Sequence Similarity Metrics,3,verified,sequence similarity metrics,BINF_3101_concepts_raw.json
+BINF_3101,concept,phylogenetic trees,Phylogenetic Trees,4,verified,phylogenetic trees,BINF_3101_concepts_raw.json
+BINF_3101,concept,distance matrices,Distance Matrices,4,verified,distance matrices,BINF_3101_concepts_raw.json
+BINF_3101,concept,neighbor joining,Neighbor Joining,4,verified,neighbor joining,BINF_3101_concepts_raw.json
+BINF_3101,concept,maximum parsimony,Maximum Parsimony,4,verified,maximum parsimony,BINF_3101_concepts_raw.json
+BINF_3101,concept,sequence alignment,Sequence Alignments,1,verified,sequence alignment,BINF_3101_concepts_raw.json
+BINF_3101,concept,hidden Markov model,hidden Markov models,5,verified,hidden Markov model,BINF_3101_concepts_raw.json
+BINF_3101,concept,transition probabilities,Transition Probabilities,4,verified,transition probabilities,BINF_3101_concepts_raw.json
+BINF_3101,concept,emission probabilities,Emission Probabilities,4,verified,emission probabilities,BINF_3101_concepts_raw.json
+BINF_3101,concept,forward algorithm,Forward Algorithm,4,verified,forward algorithm,BINF_3101_concepts_raw.json
+BINF_3101,concept,backward algorithm,Backward Algorithm,4,verified,backward algorithm,BINF_3101_concepts_raw.json
+BINF_3101,concept,hierarchical clustering,Hierarchical Clustering,3,verified,hierarchical clustering,BINF_3101_concepts_raw.json
+BINF_3101,concept,single linkage method,Single Linkage Method,3,verified,single linkage method,BINF_3101_concepts_raw.json
+BINF_3101,concept,complete linkage method,Complete Linkage Method,3,verified,complete linkage method,BINF_3101_concepts_raw.json
+BINF_3101,concept,agglomerative clustering,Agglomerative Clustering,1,verified,agglomerative clustering,BINF_3101_concepts_raw.json
+BINF_3101,concept,dendrogram interpretation,Dendrogram Interpretation,3,verified,dendrogram interpretation,BINF_3101_concepts_raw.json
+BINF_3101,concept,cluster validity measures,Cluster Validity Measures,2,verified,cluster validity measures,BINF_3101_concepts_raw.json
+BINF_3101,method,scoring matrixes,scoring matrixes,1,verified,scoring matrixes,BINF_3101_concepts_raw.json
+BINF_3101,method,sequence alignment algorithms,sequence alignment algorithms,3,verified,sequence alignment algorithms,BINF_3101_concepts_raw.json
+BINF_3101,method,commonly used sequence database searching methods,commonly used sequence database searching methods,1,verified,commonly used sequence database searching methods,BINF_3101_concepts_raw.json
+BINF_3101,method,phylogenetic tree construction methods,phylogenetic tree construction methods,1,verified,phylogenetic tree construction methods,BINF_3101_concepts_raw.json
+BINF_3101,method,machine-learning methods for sequence analysis,machine-learning methods for sequence analysis,1,verified,machine-learning methods for sequence analysis,BINF_3101_concepts_raw.json
+BINF_3101,method,hierarchal and k-means clustering algorithms,hierarchal and k-means clustering algorithms,1,verified,hierarchal and k-means clustering algorithms,BINF_3101_concepts_raw.json

@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3280,dimensional metrology concepts,concept,PART_OF,Metrology Fundamentals Laboratory,topic,,,MEGR_3280_triples_raw.json
+MEGR_3280,measurands,concept,PART_OF,dimensional metrology concepts,concept,,,MEGR_3280_triples_raw.json
+MEGR_3280,surface texture profile parameters,concept,PART_OF,dimensional metrology concepts,concept,,,MEGR_3280_triples_raw.json
+MEGR_3280,profilometry instruments,concept,PART_OF,dimensional metrology concepts,concept,,,MEGR_3280_triples_raw.json
+MEGR_3280,practical length standards,concept,PART_OF,dimensional metrology concepts,concept,,,MEGR_3280_triples_raw.json
+MEGR_3280,Handheld Metrology Instruments,topic,PART_OF,Metrology Fundamentals Laboratory,topic,,,MEGR_3280_triples_raw.json

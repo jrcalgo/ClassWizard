@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5171,topic,Smart Grid Technologies,smart grid technologies,1,verified,Smart Grid Technologies,ECGR_5171_concepts_raw.json
+ECGR_5171,topic,Energy Efficiency Concepts,energy efficiency concepts,1,verified,Energy Efficiency Concepts,ECGR_5171_concepts_raw.json
+ECGR_5171,topic,Federal and State Regulations,federal and state regulations,2,verified,Federal and State Regulations,ECGR_5171_concepts_raw.json
+ECGR_5171,topic,Energy Types Overview,Energy Types Overview,1,inferred,Energy Types Overview,ECGR_5171_concepts_raw.json
+ECGR_5171,topic,Energy Generation Methods,Energy Generation Methods,1,inferred,Energy Generation Methods,ECGR_5171_concepts_raw.json
+ECGR_5171,topic,Energy Conversion Processes,Energy Conversion Processes,1,inferred,Energy Conversion Processes,ECGR_5171_concepts_raw.json
+ECGR_5171,topic,Energy Storage and Transportation,Energy Storage and Transportation,1,inferred,Energy Storage and Transportation,ECGR_5171_concepts_raw.json
+ECGR_5171,topic,Renewable Energy Technologies,Renewable Energy Technologies,1,inferred,Renewable Energy Technologies,ECGR_5171_concepts_raw.json
+ECGR_5171,topic,Environmental Impacts Analysis,Environmental Impacts Analysis,1,inferred,Environmental Impacts Analysis,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Fossil Fuel Energy Sources,Fossil Fuel Energy Sources,1,inferred,Fossil Fuel Energy Sources,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Renewable Energy Options,Renewable Energy Options,1,inferred,Renewable Energy Options,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Nuclear Energy Basics,Nuclear Energy Basics,1,inferred,Nuclear Energy Basics,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Thermal Power Plant Operations,Thermal Power Plant Operations,1,inferred,Thermal Power Plant Operations,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Electrical Power Generation Techniques,Electrical Power Generation Techniques,1,inferred,Electrical Power Generation Techniques,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Nuclear Reactor Principles,Nuclear Reactor Principles,1,inferred,Nuclear Reactor Principles,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Heat Transfer Mechanisms,Heat Transfer Mechanisms,1,inferred,Heat Transfer Mechanisms,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Mechanical Energy Conversion,Mechanical Energy Conversion,1,inferred,Mechanical Energy Conversion,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Electrical Energy Conversion,Electrical Energy Conversion,1,inferred,Electrical Energy Conversion,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Battery Energy Storage Systems,Battery Energy Storage Systems,1,inferred,Battery Energy Storage Systems,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Fuel Cell Technology Overview,Fuel Cell Technology Overview,1,inferred,Fuel Cell Technology Overview,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Pipeline Transportation Basics,Pipeline Transportation Basics,1,inferred,Pipeline Transportation Basics,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Solar Panel Efficiency Metrics,Solar Panel Efficiency Metrics,1,inferred,Solar Panel Efficiency Metrics,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Wind Turbine Design Principles,Wind Turbine Design Principles,1,inferred,Wind Turbine Design Principles,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Geothermal Energy Generation,Geothermal Energy Generation,1,inferred,Geothermal Energy Generation,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Life Cycle Assessment Techniques,Life Cycle Assessment Techniques,1,inferred,Life Cycle Assessment Techniques,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Energy Efficiency Metrics Overview,Energy Efficiency Metrics Overview,1,inferred,Energy Efficiency Metrics Overview,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Carbon Footprint Calculations,Carbon Footprint Calculations,1,inferred,Carbon Footprint Calculations,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Grid Reliability and Stability,Grid Reliability and Stability,1,inferred,Grid Reliability and Stability,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Smart Metering Systems Overview,Smart Metering Systems Overview,1,inferred,Smart Metering Systems Overview,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Demand Response Management,Demand Response Management,1,inferred,Demand Response Management,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Building Energy Efficiency Metrics,Building Energy Efficiency Metrics,1,inferred,Building Energy Efficiency Metrics,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Industrial Process Optimization,Industrial Process Optimization,1,inferred,Industrial Process Optimization,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Transportation Energy Efficiency,Transportation Energy Efficiency,1,inferred,Transportation Energy Efficiency,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Industry Standards and Compliance,Industry Standards and Compliance,1,inferred,Industry Standards and Compliance,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,Environmental Protection Agency Rules,Environmental Protection Agency Rules,1,inferred,Environmental Protection Agency Rules,ECGR_5171_concepts_raw.json
+ECGR_5171,concept,State Energy Policy Overview,State Energy Policy Overview,1,inferred,State Energy Policy Overview,ECGR_5171_concepts_raw.json

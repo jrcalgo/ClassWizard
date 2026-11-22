@@ -1,0 +1,51 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Comics as Cultural Artifact,concept,same unit,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Cross-Cultural Narrative Analysis,concept,A taught first,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Visual storytelling techniques,concept,A taught first,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Comic Book Structure,concept,B taught first,B is taught before A - check,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Grid Layout in Comics,concept,B taught first,B is taught before A - check,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Self-Reflection through Storytelling,concept,same unit,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Comic Book Analysis Techniques,concept,A taught first,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Cross-Cultural Storytelling Methods,concept,A taught first,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Panel layout principles,concept,A taught first,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Sequential art analysis,concept,A taught first,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Comics as Cultural Expression,concept,A taught first,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Visual Narrative Techniques,concept,A taught first,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Representation,concept,PREREQUISITE_OF,Comic Book Genre Analysis,concept,A taught first,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Identity,topic,PART_OF,Culture,topic,,,THEA_4001_triples_raw.json
+THEA_4001,Self-Representation in Comics,topic,PART_OF,Cultural Identity,topic,,,THEA_4001_triples_raw.json
+THEA_4001,Power Dynamics in Comics,topic,PART_OF,Cultural Identity,topic,,,THEA_4001_triples_raw.json
+THEA_4001,Diversity and Inclusion in Comics,topic,PART_OF,Cultural Identity,topic,,,THEA_4001_triples_raw.json
+THEA_4001,Colonialism and Comics,topic,PART_OF,Cultural Identity,topic,,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Exchange through Comics,concept,PART_OF,Global Comic Book Traditions,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Cross-Cultural Narrative Analysis,concept,PART_OF,Visual storytelling techniques,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Intercultural Communication,concept,PART_OF,Global Comic Book Traditions,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Line Art Techniques,concept,PART_OF,Comic Strip Structure,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Gutter function,concept,PART_OF,Panel layout principles,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Comics narrative structure,concept,PART_OF,Sequential Art Principles,topic,,,THEA_4001_triples_raw.json
+THEA_4001,Postcolonial Theory,concept,PART_OF,National Identity Formation,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Cultural Exchange Dynamics,concept,PART_OF,Global Comic Culture,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Representations of Empire,concept,PART_OF,Global Comic Culture,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Autobiographical Comics,concept,PART_OF,Life Storytelling Techniques,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Biographical Narrative Structure,concept,PART_OF,Personal Identity Formation,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Immigration Experience,concept,PART_OF,Migration and Belonging,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Transnationalism and Comics,concept,PART_OF,Hybridity and Cultural Expression,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Adaptation in Comics,concept,PART_OF,Intertextuality and Reference,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Global Comic Book Industry,concept,PART_OF,Global Comic Traditions,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Sex in Comics,concept,PART_OF,Taboo Subjects in Comics,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Refugee Experience,concept,PART_OF,Environmental Impact,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Comic Book Structure,concept,PART_OF,Grid Layout in Comics,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Self-Reflection through Storytelling,concept,PART_OF,Cross-Cultural Narrative Analysis,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Comic Book Analysis Techniques,concept,PART_OF,Visual Narrative Techniques,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Cross-Cultural Storytelling Methods,concept,PART_OF,Sequential Art Principles,topic,,,THEA_4001_triples_raw.json
+THEA_4001,Panel layout principles,concept,PART_OF,Comic Strip Structure,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Sequential art analysis,concept,PART_OF,Comics as Cultural Expression,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Visual Narrative Techniques,concept,PART_OF,Comic Book Genre Analysis,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Comics as Memoir,concept,SUBTYPE_OF,Comics,topic,,,THEA_4001_triples_raw.json
+THEA_4001,Immigration Experience,concept,SUBTYPE_OF,Migration and Belonging,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Transnationalism and Comics,concept,SUBTYPE_OF,Hybridity and Cultural Expression,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Global Comic Book Industry,concept,SUBTYPE_OF,Global Comic Traditions,concept,,,THEA_4001_triples_raw.json
+THEA_4001,Clear,method,USED_FOR,Cogent writing,method,,,THEA_4001_triples_raw.json
+THEA_4001,Community building,method,USED_FOR,Cultural competency,method,,,THEA_4001_triples_raw.json
+THEA_4001,Engagement,method,USED_FOR,Critical socio-political contexts,method,,,THEA_4001_triples_raw.json
+THEA_4001,Production work,method,USED_FOR,Comic Book Analysis Techniques,concept,,,THEA_4001_triples_raw.json

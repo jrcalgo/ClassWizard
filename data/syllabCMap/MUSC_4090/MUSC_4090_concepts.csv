@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_4090,topic,Choral Ensemble Techniques,Choral Ensemble Techniques,1,verified,Choral Ensemble Techniques,MUSC_4090_concepts_raw.json
+MUSC_4090,topic,Choral Ensemble,choral ensembles,1,verified,Introduction to Choral Ensemble,MUSC_4090_concepts_raw.json
+MUSC_4090,topic,Music Literacy in the Choral Classroom,music literacy in the choral classroom,1,verified,Music Literacy in the Choral Classroom,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,vocal pedagogy,vocal-pedagogy,2,verified,vocal pedagogy,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,non-verbal language,non -verbal language,1,verified,non-verbal language,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,sight-singing pedagogy,sight - singing pedagogy,1,verified,sight-singing pedagogy,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,compositional style,compositional style,1,verified,compositional style,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,form,form,1,verified,form,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,musical diagrams,musical diagram,1,verified,musical diagrams,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,rhythm,rhythm,1,verified,rhythm,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,melody,melody,1,verified,melody,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,harmony,harmony,1,verified,harmony,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,structure,structure,1,verified,structure,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,timbre,timbre,1,verified,timbre,MUSC_4090_concepts_raw.json
+MUSC_4090,concept,texture,texture,1,verified,texture,MUSC_4090_concepts_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_3203,Spanish-Speaking World Overview,topic,PART_OF,history,topic,,,SPAN_3203_triples_raw.json
+SPAN_3203,Literary Movements in Spain,topic,PART_OF,literature,topic,,,SPAN_3203_triples_raw.json
+SPAN_3203,Latin American Literature,topic,PART_OF,literature,topic,,,SPAN_3203_triples_raw.json
+SPAN_3203,Cultural and Historical Contexts,topic,PART_OF,culture,topic,,,SPAN_3203_triples_raw.json
+SPAN_3203,Register and Formal Writing,topic,PART_OF,literature,topic,,,SPAN_3203_triples_raw.json
+SPAN_3203,Grammar Review and Practice,topic,PART_OF,linguistics of the Spanish-speaking world,topic,,,SPAN_3203_triples_raw.json
+SPAN_3203,Vocabulary Building,topic,PART_OF,linguistics of the Spanish-speaking world,topic,,,SPAN_3203_triples_raw.json

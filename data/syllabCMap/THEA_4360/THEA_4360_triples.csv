@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_4360,History of TYA Development,concept,PREREQUISITE_OF,Theatre for Young Audiences Definition,concept,same unit,,THEA_4360_triples_raw.json
+THEA_4360,History of TYA Development,concept,PREREQUISITE_OF,Cultural Influences on TYA,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,History of TYA Development,concept,PREREQUISITE_OF,Global Best Practices in TYA,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,History of TYA Development,concept,PREREQUISITE_OF,Community Engagement in TYA,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,Theatre for Young Audiences Definition,concept,PREREQUISITE_OF,International TYA Trends and Styles,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,Theatre for Young Audiences Definition,concept,PREREQUISITE_OF,Cultural Influences on TYA,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,Theatre for Young Audiences Definition,concept,PREREQUISITE_OF,Global Best Practices in TYA,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,Theatre for Young Audiences Definition,concept,PREREQUISITE_OF,Regional TYA Traditions and Styles,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,Theatre for Young Audiences Definition,concept,PREREQUISITE_OF,National TYA Organizations and Initiatives,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,Theatre for Young Audiences Definition,concept,PREREQUISITE_OF,Community Engagement in TYA,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,International TYA Trends and Styles,concept,PREREQUISITE_OF,Regional TYA Traditions and Styles,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,International TYA Trends and Styles,concept,PREREQUISITE_OF,National TYA Organizations and Initiatives,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,Cultural Influences on TYA,concept,PREREQUISITE_OF,Global Best Practices in TYA,concept,same unit,,THEA_4360_triples_raw.json
+THEA_4360,Cultural Influences on TYA,concept,PREREQUISITE_OF,Community Engagement in TYA,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,Global Best Practices in TYA,concept,PREREQUISITE_OF,Community Engagement in TYA,concept,A taught first,,THEA_4360_triples_raw.json
+THEA_4360,Regional TYA Traditions and Styles,concept,PREREQUISITE_OF,National TYA Organizations and Initiatives,concept,same unit,,THEA_4360_triples_raw.json
+THEA_4360,Theatre for Young Audiences,topic,PART_OF,TYA,topic,,,THEA_4360_triples_raw.json
+THEA_4360,History of TYA Development,concept,PART_OF,TYA,topic,,,THEA_4360_triples_raw.json
+THEA_4360,International TYA Trends and Styles,concept,PART_OF,Global Perspectives on TYA,topic,,,THEA_4360_triples_raw.json
+THEA_4360,Cultural Influences on TYA,concept,PART_OF,Global Perspectives on TYA,topic,,,THEA_4360_triples_raw.json
+THEA_4360,Global Best Practices in TYA,concept,PART_OF,Global Perspectives on TYA,topic,,,THEA_4360_triples_raw.json
+THEA_4360,Regional TYA Traditions and Styles,concept,PART_OF,Local and National Contexts,topic,,,THEA_4360_triples_raw.json
+THEA_4360,National TYA Organizations and Initiatives,concept,PART_OF,Local and National Contexts,topic,,,THEA_4360_triples_raw.json
+THEA_4360,Community Engagement in TYA,concept,PART_OF,Local and National Contexts,topic,,,THEA_4360_triples_raw.json
+THEA_4360,Developmental Stages of Children's Theatre,concept,PART_OF,Theatre for Young Audiences Theories,topic,,,THEA_4360_triples_raw.json
+THEA_4360,Project Planning and Design Principles,concept,PART_OF,Designing Projects for TYA,topic,,,THEA_4360_triples_raw.json

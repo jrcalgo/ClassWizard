@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3143,neopatrimonialism,concept,PREREQUISITE_OF,clientelism,concept,same unit,,POLS_3143_triples_raw.json
+POLS_3143,structural adjustment,concept,PREREQUISITE_OF,resource extraction,concept,same unit,,POLS_3143_triples_raw.json
+POLS_3143,bifurcated colonial state,concept,PART_OF,colonial institutional formation,concept,,,POLS_3143_triples_raw.json
+POLS_3143,territorial boundaries,concept,PART_OF,bifurcated colonial state,concept,,,POLS_3143_triples_raw.json
+POLS_3143,neopatrimonialism,concept,PART_OF,informal political order,concept,,,POLS_3143_triples_raw.json
+POLS_3143,clientelism,concept,PART_OF,informal political order,concept,,,POLS_3143_triples_raw.json
+POLS_3143,liberal democratic institutions,concept,PART_OF,illiberal politics,concept,,,POLS_3143_triples_raw.json
+POLS_3143,military intervention,concept,PART_OF,illiberal politics,concept,,,POLS_3143_triples_raw.json
+POLS_3143,neopatrimonialism,concept,SUBTYPE_OF,informal political order,concept,,,POLS_3143_triples_raw.json
+POLS_3143,clientelism,concept,SUBTYPE_OF,informal political order,concept,,,POLS_3143_triples_raw.json
+POLS_3143,illiberal politics,concept,SUBTYPE_OF,liberal democratic institutions,concept,,,POLS_3143_triples_raw.json

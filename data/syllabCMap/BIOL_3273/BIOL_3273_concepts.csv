@@ -1,0 +1,45 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_3273,topic,Animal Physiology,Animal Physiology,2,verified,Animal Physiology,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Physiology,Physiology,10,verified,Introduction to Physiology,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,regulatory mechanisms,regulatory mechanisms,1,verified,regulatory mechanisms,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Cellular Basis of Physiology,Cellular Basis of Physiology,1,inferred,Cellular Basis of Physiology,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Nervous System Overview,Nervous System Overview,1,inferred,Nervous System Overview,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Sensory Systems and Perception,Sensory Systems and Perception,1,inferred,Sensory Systems and Perception,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Muscular System Function,Muscular System Function,1,inferred,Muscular System Function,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Circulatory System Overview,Circulatory System Overview,1,inferred,Circulatory System Overview,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Respiratory System Function,Respiratory System Function,1,inferred,Respiratory System Function,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Digestive System Overview,Digestive System Overview,1,inferred,Digestive System Overview,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Endocrine System Overview,Endocrine System Overview,1,inferred,Endocrine System Overview,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Urinary System Function,Urinary System Function,1,inferred,Urinary System Function,BIOL_3273_concepts_raw.json
+BIOL_3273,topic,Reproductive System Overview,Reproductive System Overview,1,inferred,Reproductive System Overview,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,homeostasis,Homeostasis,1,inferred,homeostasis,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,cell membrane structure function,Cell Membrane Structure Function,1,inferred,cell membrane structure function,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,transport mechanisms across membranes,Transport Mechanisms Across Membranes,1,inferred,transport mechanisms across membranes,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,cell signaling pathways basics,Cell Signaling Pathways Basics,1,inferred,cell signaling pathways basics,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,neuron structure and function,Neuron Structure and Function,1,inferred,neuron structure and function,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,synaptic transmission process,Synaptic Transmission Process,1,inferred,synaptic transmission process,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,reflex arc explanation,Reflex Arc Explanation,1,inferred,reflex arc explanation,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,eye anatomy and vision process,Eye Anatomy and Vision Process,1,inferred,eye anatomy and vision process,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,hearing and balance system overview,Hearing and Balance System Overview,1,inferred,hearing and balance system overview,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,taste and smell sensation basics,Taste and Smell Sensation Basics,1,inferred,taste and smell sensation basics,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,skeletal muscle structure and function,Skeletal Muscle Structure and Function,1,inferred,skeletal muscle structure and function,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,smooth muscle tissue characteristics,Smooth Muscle Tissue Characteristics,1,inferred,smooth muscle tissue characteristics,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,motor unit organization explanation,Motor Unit Organization Explanation,1,inferred,motor unit organization explanation,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,heart anatomy and blood flow pathway,Heart Anatomy and Blood Flow Pathway,1,inferred,heart anatomy and blood flow pathway,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,blood vessel types and functions,Blood Vessel Types and Functions,1,inferred,blood vessel types and functions,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,cardiovascular regulation mechanisms,Cardiovascular Regulation Mechanisms,1,inferred,cardiovascular regulation mechanisms,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,lung structure and gas exchange process,Lung Structure and Gas Exchange Process,1,inferred,lung structure and gas exchange process,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,breathing mechanism explanation,Breathing Mechanism Explanation,1,inferred,breathing mechanism explanation,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,respiratory regulation overview,Respiratory Regulation Overview,1,inferred,respiratory regulation overview,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,gastrointestinal tract anatomy and function,Gastrointestinal Tract Anatomy and Function,1,inferred,gastrointestinal tract anatomy and function,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,nutrient absorption process basics,Nutrient Absorption Process Basics,1,inferred,nutrient absorption process basics,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,regulation of digestion and absorption,Regulation of Digestion and Absorption,1,inferred,regulation of digestion and absorption,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,hormone structure and function explanation,Hormone Structure and Function Explanation,1,inferred,hormone structure and function explanation,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,endocrine glands and their functions,Endocrine Glands and Their Functions,1,inferred,endocrine glands and their functions,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,feedback mechanisms in endocrinology,Feedback Mechanisms in Endocrinology,1,inferred,feedback mechanisms in endocrinology,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,kidney anatomy and function overview,Kidney Anatomy and Function Overview,1,inferred,kidney anatomy and function overview,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,urine formation process basics,Urine Formation Process Basics,1,inferred,urine formation process basics,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,regulation of fluid balance and electrolytes,Regulation of Fluid Balance and Electrolytes,1,inferred,regulation of fluid balance and electrolytes,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,male and female reproductive systems anatomy,Male and Female Reproductive Systems Anatomy,1,inferred,male and female reproductive systems anatomy,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,gamete production and fertilization process,Gamete Production and Fertilization Process,1,inferred,gamete production and fertilization process,BIOL_3273_concepts_raw.json
+BIOL_3273,concept,hormonal regulation of reproduction,Hormonal Regulation of Reproduction,1,inferred,hormonal regulation of reproduction,BIOL_3273_concepts_raw.json

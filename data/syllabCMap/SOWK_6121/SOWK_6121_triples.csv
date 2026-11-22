@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_6121,ecosystems lens perspective,concept,PART_OF,Human Life Span Development,topic,,,SOWK_6121_triples_raw.json
+SOWK_6121,Program Evaluation Methods and Tools,topic,PART_OF,Research-Informed Social Work Practice,topic,,,SOWK_6121_triples_raw.json
+SOWK_6121,cultural competence,concept,USED_FOR,Diversity in Social Work Practice,topic,,,SOWK_6121_triples_raw.json
+SOWK_6121,Program Evaluation Methods and Tools,topic,USED_FOR,Evidence-Based Practice in Social Work,topic,,topic used for something - check direction,SOWK_6121_triples_raw.json

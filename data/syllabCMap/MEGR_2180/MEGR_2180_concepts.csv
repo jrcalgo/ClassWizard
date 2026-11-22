@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2180,topic,Machining Processes,machining processes,2,verified,Machining Processes,MEGR_2180_concepts_raw.json
+MEGR_2180,topic,Rapid Product Development,rapid product development,1,verified,Rapid Product Development,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,need for manufacturing processes,need for manufacturing processes,1,verified,need for manufacturing processes,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,economics of manufacturing,economics of manufacturing,1,verified,economics of manufacturing,MEGR_2180_concepts_raw.json
+MEGR_2180,topic,Manufacturing Fundamentals,Manufacturing Fundamentals,1,inferred,Manufacturing Fundamentals,MEGR_2180_concepts_raw.json
+MEGR_2180,topic,Materials and Characteristics,Materials and Characteristics,1,inferred,Materials and Characteristics,MEGR_2180_concepts_raw.json
+MEGR_2180,topic,Conventional Processes,Conventional Processes,2,inferred,Conventional Processes,MEGR_2180_concepts_raw.json
+MEGR_2180,topic,Non-Conventional Processes,Non-Conventional Processes,1,inferred,Non-Conventional Processes,MEGR_2180_concepts_raw.json
+MEGR_2180,topic,Process Analysis and Selection,Process Analysis and Selection,1,inferred,Process Analysis and Selection,MEGR_2180_concepts_raw.json
+MEGR_2180,topic,Team Project and Presentation,Team Project and Presentation,1,inferred,Team Project and Presentation,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,material properties and processes,Material Properties and Processes,1,inferred,material properties and processes,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,metal properties and behavior,Metal Properties and Behavior,1,inferred,metal properties and behavior,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,non-metallic materials and processes,Non-Metallic Materials and Processes,1,inferred,non-metallic materials and processes,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,material selection criteria,Material Selection Criteria,1,inferred,material selection criteria,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,casting process overview,Casting Process Overview,1,inferred,casting process overview,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,forging and extrusion basics,Forging and Extrusion Basics,1,inferred,forging and extrusion basics,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,rolling and joining fundamentals,Rolling and Joining Fundamentals,1,inferred,rolling and joining fundamentals,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,EDM and ECM principles,EDM and ECM Principles,1,inferred,EDM and ECM principles,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,laser machining techniques,Laser Machining Techniques,1,inferred,laser machining techniques,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,abrasive flow process overview,Abrasive Flow Process Overview,1,inferred,abrasive flow process overview,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,drilling basics,Drilling Basics,1,inferred,drilling basics,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,machining process selection criteria,Machining Process Selection Criteria,1,inferred,machining process selection criteria,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,lead time analysis,Lead Time Analysis,1,inferred,lead time analysis,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,volume production considerations,Volume Production Considerations,1,inferred,volume production considerations,MEGR_2180_concepts_raw.json
+MEGR_2180,concept,manufacturing process parameters,Manufacturing Process Parameters,1,inferred,manufacturing process parameters,MEGR_2180_concepts_raw.json

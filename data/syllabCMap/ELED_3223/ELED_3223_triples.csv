@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_3223,inquiry,method,PREREQUISITE_OF,Inquiry-Based Social Studies,concept,same unit,,ELED_3223_triples_raw.json
+ELED_3223,Design instructional plans that support critical thinking,method,PREREQUISITE_OF,Effective Instructional Plans,concept,B mentioned first,,ELED_3223_triples_raw.json
+ELED_3223,civic engagement,method,PREREQUISITE_OF,civic participation,method,same unit,,ELED_3223_triples_raw.json
+ELED_3223,inquiry,method,PART_OF,Inquiry-Based Social Studies,concept,,,ELED_3223_triples_raw.json

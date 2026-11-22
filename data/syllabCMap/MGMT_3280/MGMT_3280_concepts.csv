@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MGMT_3280,topic,Strategic Management,Strategic Management,2,verified,Strategic Management,MGMT_3280_concepts_raw.json
+MGMT_3280,topic,External Environment,external environment,2,verified,External Environment,MGMT_3280_concepts_raw.json
+MGMT_3280,topic,Strategic Decision Making,strategic decision-making,1,verified,Strategic Decision Making,MGMT_3280_concepts_raw.json
+MGMT_3280,topic,Ethics in Business,Ethics in Business,1,inferred,Ethics in Business,MGMT_3280_concepts_raw.json
+MGMT_3280,topic,Sustainability and CSR,Sustainability and CSR,1,inferred,Sustainability and CSR,MGMT_3280_concepts_raw.json
+MGMT_3280,topic,Globalization and Trade,Globalization and Trade,1,inferred,Globalization and Trade,MGMT_3280_concepts_raw.json
+MGMT_3280,topic,Global Economic Systems,Global Economic Systems,1,inferred,Global Economic Systems,MGMT_3280_concepts_raw.json
+MGMT_3280,topic,Case Studies and Applications,Case Studies and Applications,1,inferred,Case Studies and Applications,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,ethical issues in business,Ethical Issues in Business,1,inferred,ethical issues in business,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,social responsibility concepts,Social Responsibility Concepts,1,inferred,social responsibility concepts,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,legal compliance requirements,Legal Compliance Requirements,1,inferred,legal compliance requirements,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,global economic trends,Global Economic Trends,1,inferred,global economic trends,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,cultural differences impact,Cultural Differences Impact,1,inferred,cultural differences impact,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,emerging markets overview,Emerging Markets Overview,1,inferred,emerging markets overview,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,sustainable business practices,Sustainable Business Practices,1,inferred,sustainable business practices,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,social responsibility strategies,Social Responsibility Strategies,1,inferred,social responsibility strategies,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,environmental impact analysis,Environmental Impact Analysis,1,inferred,environmental impact analysis,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,global market trends analysis,Global Market Trends Analysis,1,inferred,global market trends analysis,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,cultural differences in business,Cultural Differences in Business,1,inferred,cultural differences in business,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,emerging markets opportunities,Emerging Markets Opportunities,1,inferred,emerging markets opportunities,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,external environment analysis,External Environment Analysis,1,inferred,external environment analysis,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,SWOT analysis techniques,SWOT Analysis Techniques,1,inferred,SWOT analysis techniques,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,strategic planning process,Strategic Planning Process,1,inferred,strategic planning process,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,economic concepts and global issues,Economic Concepts and Global Issues,1,inferred,economic concepts and global issues,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,market structures and competition,Market Structures and Competition,1,inferred,market structures and competition,MGMT_3280_concepts_raw.json
+MGMT_3280,concept,globalization impact on markets,Globalization Impact on Markets,1,inferred,globalization impact on markets,MGMT_3280_concepts_raw.json

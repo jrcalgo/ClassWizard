@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HONR_1700,Urban Studies Perspective,topic,PREREQUISITE_OF,Textual Analysis Techniques,topic,same unit,,HONR_1700_triples_raw.json
+HONR_1700,Interview Skills Development,topic,PREREQUISITE_OF,Research Question Formulation,topic,same unit,,HONR_1700_triples_raw.json
+HONR_1700,Character Strengths Identification,topic,PREREQUISITE_OF,VIA Framework Overview,topic,same unit,,HONR_1700_triples_raw.json
+HONR_1700,Academic Expectations,topic,PART_OF,Honors Program Overview,topic,,,HONR_1700_triples_raw.json

@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_8172,topic,Nonlinear Equations,nonlinear equations,2,verified,Nonlinear Equations,MEGR_8172_concepts_raw.json
+MEGR_8172,topic,Finite-Difference Approximation,finite-difference approximation,1,verified,Finite-Difference Approximation,MEGR_8172_concepts_raw.json
+MEGR_8172,topic,Numerical Integration,numerical integration,1,verified,Numerical Integration,MEGR_8172_concepts_raw.json
+MEGR_8172,topic,Eigenvalue Problems,eigenvalue problems,1,verified,Eigenvalue Problems,MEGR_8172_concepts_raw.json
+MEGR_8172,topic,Ordinary Differential Equations,ordinary differential equations,1,verified,Ordinary Differential Equations,MEGR_8172_concepts_raw.json
+MEGR_8172,topic,Partial Differential Equations,partial differential equations,2,verified,Partial Differential Equations,MEGR_8172_concepts_raw.json
+MEGR_8172,topic,Unconstrained Optimization,unconstrained optimization,2,verified,Unconstrained Optimization,MEGR_8172_concepts_raw.json
+MEGR_8172,concept,conditioning of problems,conditioning of problems,1,verified,conditioning of problems,MEGR_8172_concepts_raw.json
+MEGR_8172,method,finite-difference stencils,finite-difference stencils,1,verified,finite-difference stencils,MEGR_8172_concepts_raw.json
+MEGR_8172,concept,order of accuracy,order of accuracy,1,verified,order of accuracy,MEGR_8172_concepts_raw.json
+MEGR_8172,method,polynomial interpolation,polynomial interpolation,1,verified,polynomial interpolation,MEGR_8172_concepts_raw.json
+MEGR_8172,method,least-squares regression,least-squares regression,2,verified,least-squares regression,MEGR_8172_concepts_raw.json
+MEGR_8172,method,Newton-Cotes rules,Newton–Cotes rules,1,verified,Newton-Cotes rules,MEGR_8172_concepts_raw.json
+MEGR_8172,method,Romberg integration,Romberg integration,1,verified,Romberg integration,MEGR_8172_concepts_raw.json
+MEGR_8172,method,Gaussian quadrature,Gaussian quadrature,1,verified,Gaussian quadrature,MEGR_8172_concepts_raw.json
+MEGR_8172,method,direct methods,direct methods,1,verified,direct methods,MEGR_8172_concepts_raw.json
+MEGR_8172,method,iterative methods,iterative methods,1,verified,iterative methods,MEGR_8172_concepts_raw.json
+MEGR_8172,concept,matrix condition number,matrix condition number,1,verified,matrix condition number,MEGR_8172_concepts_raw.json
+MEGR_8172,concept,principal component analysis,principal component analysis,2,verified,principal component analysis,MEGR_8172_concepts_raw.json
+MEGR_8172,concept,finite-difference schemes,finite-difference schemes,1,verified,finite-difference schemes,MEGR_8172_concepts_raw.json
+MEGR_8172,concept,singular value decomposition,singular value decomposition,2,verified,singular value decomposition,MEGR_8172_concepts_raw.json
+MEGR_8172,method,open methods,open methods,1,verified,open methods,MEGR_8172_concepts_raw.json
+MEGR_8172,method,power method,power method,1,verified,power method,MEGR_8172_concepts_raw.json
+MEGR_8172,tool,MATLAB,MATLAB,2,verified,MATLAB,MEGR_8172_concepts_raw.json

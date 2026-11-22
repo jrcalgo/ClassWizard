@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4251,topic,Immunology,Immunology,3,verified,Immunology,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Antigen Structure,Antigen Structure,38,verified,Antigen Structure,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Immune Response Mechanisms,Immune Response Mechanisms,35,verified,Immune Response Mechanisms,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Molecular Basis of Immunity,Molecular Basis of Immunity,36,verified,Molecular Basis of Immunity,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Host Defense Mechanisms,host defense mechanisms,37,verified,Host Defense Mechanisms,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Physical Chemistry of Antigens,physical chemistry of antigens,37,verified,Physical Chemistry of Antigens,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Antibody-Antigen Interactions,Antibody-Antigen Interactions,36,verified,Antibody-Antigen Interactions,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Genetic Basis for Immunity,genetic basis for immunity,31,verified,Genetic Basis for Immunity,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Cellular Immune Processes,Cellular Immune Processes,23,verified,Cellular Immune Processes,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Immunoglobulin Structure and Function,Immunoglobulin Structure and Function,6,verified,Immunoglobulin Structure and Function,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,MHC Class I Molecules,MHC Class I Molecules,2,verified,MHC Class I Molecules,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,MHC Class II Molecules,MHC Class II Molecules,2,verified,MHC Class II Molecules,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Antigen Presentation Pathway,Antigen Presentation Pathways,1,verified,Antigen Presentation Pathway,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Peptide Binding Motifs,Peptide Binding Motifs,2,verified,Peptide Binding Motifs,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,T Cell Recognition Mechanisms,T Cell Recognition Mechanisms,2,verified,T Cell Recognition Mechanisms,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,T-cell Receptor Structure,T-cell Receptor Structure,1,verified,T-cell Receptor Structure,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Variable Region Diversity,Variable Region Diversity,1,verified,Variable Region Diversity,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Antigen Recognition Mechanism,Antigen Recognition Mechanism,1,verified,Antigen Recognition Mechanism,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,CD4 and CD8 Co-receptors,CD4 and CD8 Co-receptors,1,verified,CD4 and CD8 Co-receptors,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,T-Cell Signaling Pathways,T-Cell Signaling Pathways,1,verified,T-Cell Signaling Pathways,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,T-cell maturation,T-cell Maturation,2,verified,T-cell maturation,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,T-cell activation,T Cell Activation,2,verified,T-cell activation,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,T-cell differentiation,T-cell differentiation,1,verified,T-cell differentiation,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Thymic selection,Thymic selection,1,verified,Thymic selection,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Positive selection,Positive selection,1,verified,Positive selection,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Negative selection,Negative selection,1,verified,Negative selection,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Central tolerance,Central tolerance,1,verified,Central tolerance,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Peripheral tolerance,Peripheral tolerance,1,verified,Peripheral tolerance,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Cytokine signaling,Cytokine Signaling,2,verified,Cytokine signaling,BIOL_4251_concepts_raw.json
+BIOL_4251,concept,Co-stimulatory signals,Co-stimulatory signals,1,verified,Co-stimulatory signals,BIOL_4251_concepts_raw.json

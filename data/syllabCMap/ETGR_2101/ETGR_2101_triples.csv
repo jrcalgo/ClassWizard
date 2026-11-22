@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_2101,Review of Algebra,topic,PART_OF,Applied Mechanics I,topic,,,ETGR_2101_triples_raw.json
+ETGR_2101,Review of Geometry,topic,PART_OF,Applied Mechanics I,topic,,,ETGR_2101_triples_raw.json
+ETGR_2101,Center of Gravity and Centroids,topic,PART_OF,Applied Mechanics I,topic,,,ETGR_2101_triples_raw.json
+ETGR_2101,Analysis of Structures,topic,PART_OF,Applied Mechanics I,topic,,,ETGR_2101_triples_raw.json
+ETGR_2101,Friction Forces,topic,PART_OF,Applied Mechanics I,topic,,,ETGR_2101_triples_raw.json
+ETGR_2101,Distributed Forces,topic,PART_OF,Applied Mechanics I,topic,,,ETGR_2101_triples_raw.json
+ETGR_2101,Area Moments of Inertia,topic,PART_OF,Applied Mechanics I,topic,,,ETGR_2101_triples_raw.json
+ETGR_2101,concurrent coplanar force systems,concept,SUBTYPE_OF,coplanar force system,concept,,,ETGR_2101_triples_raw.json
+ETGR_2101,non-concurrent coplanar force systems,concept,SUBTYPE_OF,coplanar force system,concept,,,ETGR_2101_triples_raw.json
+ETGR_2101,what if scenarios,method,USED_FOR,critical thinking course and problem solving information,method,,,ETGR_2101_triples_raw.json

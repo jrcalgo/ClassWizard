@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ACCT_3323,concept,accounting cycle,accounting cycle,57,verified,accounting cycle,ACCT_3323_concepts_raw.json
+ACCT_3323,concept,conceptual framework,conceptual framework,58,verified,conceptual framework,ACCT_3323_concepts_raw.json
+ACCT_3323,topic,primary financial statements and disclosure,primary financial statements and disclosure,3,verified,primary financial statements and disclosure,ACCT_3323_concepts_raw.json
+ACCT_3323,topic,use of present value techniques in accounting measurement,use of present value techniques in accounting measurement,3,verified,use of present value techniques in accounting measurement,ACCT_3323_concepts_raw.json
+ACCT_3323,concept,primary financial statements,primary financial statements,50,verified,primary financial statements,ACCT_3323_concepts_raw.json
+ACCT_3323,concept,present value techniques,present value techniques,57,verified,present value techniques,ACCT_3323_concepts_raw.json
+ACCT_3323,concept,accrual accounting,Accrual Accounting,2,verified,accrual accounting,ACCT_3323_concepts_raw.json
+ACCT_3323,concept,matching principle,Matching Principle,2,verified,matching principle,ACCT_3323_concepts_raw.json
+ACCT_3323,concept,materiality concept,Materiality Concept,2,verified,materiality concept,ACCT_3323_concepts_raw.json

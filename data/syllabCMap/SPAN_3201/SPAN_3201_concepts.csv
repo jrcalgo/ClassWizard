@@ -1,0 +1,44 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPAN_3201,topic,Advanced Grammar,Advanced Grammar,1,verified,Advanced Grammar,SPAN_3201_concepts_raw.json
+SPAN_3201,topic,Reading Fluency Strategies,Reading Fluency Strategies,1,inferred,Reading Fluency Strategies,SPAN_3201_concepts_raw.json
+SPAN_3201,topic,Writing Process Awareness,Writing Process Awareness,1,inferred,Writing Process Awareness,SPAN_3201_concepts_raw.json
+SPAN_3201,topic,Grammar for Complex Ideas,Grammar for Complex Ideas,1,inferred,Grammar for Complex Ideas,SPAN_3201_concepts_raw.json
+SPAN_3201,topic,Vocabulary Expansion,Vocabulary Expansion,1,inferred,Vocabulary Expansion,SPAN_3201_concepts_raw.json
+SPAN_3201,topic,Reading Comprehension Exercises,Reading Comprehension Exercises,1,inferred,Reading Comprehension Exercises,SPAN_3201_concepts_raw.json
+SPAN_3201,topic,Writing for Different Purposes,Writing for Different Purposes,1,inferred,Writing for Different Purposes,SPAN_3201_concepts_raw.json
+SPAN_3201,topic,Grammar Review and Practice,Grammar Review and Practice,1,inferred,Grammar Review and Practice,SPAN_3201_concepts_raw.json
+SPAN_3201,topic,In-Class Composition 1,In-Class Composition 1,1,inferred,In-Class Composition 1,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,vocabulary building techniques,Vocabulary building techniques,2,inferred,vocabulary building techniques,SPAN_3201_concepts_raw.json
+SPAN_3201,topic,In-Class Composition 2,In-Class Composition 2,1,inferred,In-Class Composition 2,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,complex sentence structures,Complex sentence structures,1,inferred,complex sentence structures,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,subjunctive mood usage,Subjunctive mood usage,1,inferred,subjunctive mood usage,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,conditional tense review,Conditional tense review,1,inferred,conditional tense review,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,active reading strategies,Active reading strategies,1,inferred,active reading strategies,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,comprehension exercises,Comprehension exercises,2,inferred,comprehension exercises,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,pre-writing activities,Pre-writing activities,1,inferred,pre-writing activities,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,drafting and revising,Drafting and revising,2,inferred,drafting and revising,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,peer review guidelines,Peer review guidelines,1,inferred,peer review guidelines,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,relative clauses usage,Relative clauses usage,1,inferred,relative clauses usage,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,subordinate clause structures,Subordinate clause structures,1,inferred,subordinate clause structures,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,modal verb expressions,Modal verb expressions,1,inferred,modal verb expressions,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,idiomatic expressions review,Idiomatic expressions review,1,inferred,idiomatic expressions review,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,domain-specific vocabulary,Domain-specific vocabulary,1,inferred,domain-specific vocabulary,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,synonyms and antonyms,Synonyms and antonyms,1,inferred,synonyms and antonyms,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,short passage analysis,Short passage analysis,1,inferred,short passage analysis,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,inference and implication,Inference and implication,1,inferred,inference and implication,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,author's purpose identification,Author's purpose identification,1,inferred,author's purpose identification,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,formal and informal writing styles,Formal and informal writing styles,1,inferred,formal and informal writing styles,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,audience awareness in writing,Audience awareness in writing,1,inferred,audience awareness in writing,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,purpose-driven writing strategies,Purpose-driven writing strategies,1,inferred,purpose-driven writing strategies,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,tense consistency review,Tense consistency review,1,inferred,tense consistency review,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,clause structure practice,Clause structure practice,1,inferred,clause structure practice,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,error analysis exercises,Error analysis exercises,1,inferred,error analysis exercises,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,writing prompt analysis,Writing prompt analysis,1,inferred,writing prompt analysis,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,drafting and revising strategies,Drafting and revising strategies,1,inferred,drafting and revising strategies,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,peer feedback techniques,Peer feedback techniques,1,inferred,peer feedback techniques,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,contextual learning methods,Contextual learning methods,1,inferred,contextual learning methods,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,word association exercises,Word association exercises,1,inferred,word association exercises,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,semantic field exploration,Semantic field exploration,1,inferred,semantic field exploration,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,writing process reflection,Writing process reflection,1,inferred,writing process reflection,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,self-assessment and revision,Self-assessment and revision,1,inferred,self-assessment and revision,SPAN_3201_concepts_raw.json
+SPAN_3201,concept,final draft preparation,Final draft preparation,1,inferred,final draft preparation,SPAN_3201_concepts_raw.json

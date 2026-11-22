@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_5162,Cell Biology Laboratory,topic,PREREQUISITE_OF,Genetics,topic,B mentioned first,,BIOL_5162_triples_raw.json
+BIOL_5162,Cell Biology Laboratory,topic,PREREQUISITE_OF,Modern molecular biotechnology,topic,A mentioned first,,BIOL_5162_triples_raw.json
+BIOL_5162,Genetics,topic,PREREQUISITE_OF,Modern molecular biotechnology,topic,A mentioned first,,BIOL_5162_triples_raw.json
+BIOL_5162,molecular cloning,method,PART_OF,Biotech technologies,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,CRISPR/Cas9 genome editing,method,PART_OF,Biotech technologies,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,PCR,method,PART_OF,Biotech technologies,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,sequencing,method,PART_OF,Biotech technologies,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,omics,method,PART_OF,Biotech technologies,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,recombinant proteins,concept,PART_OF,Biopharmaceutical applications,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,recombinant microorganisms,concept,PART_OF,Biopharmaceutical applications,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,transgenic organisms,concept,PART_OF,Biopharmaceutical applications,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,molecular diagnostic platforms,concept,PART_OF,Biopharmaceutical applications,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,molecular cloning,method,USED_FOR,Biotech technologies,topic,,,BIOL_5162_triples_raw.json
+BIOL_5162,PCR,method,USED_FOR,molecular diagnostic platforms,concept,,,BIOL_5162_triples_raw.json
+BIOL_5162,omics,method,USED_FOR,Biopharmaceutical applications,topic,,,BIOL_5162_triples_raw.json

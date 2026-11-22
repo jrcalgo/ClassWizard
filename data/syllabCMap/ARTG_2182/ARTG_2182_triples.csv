@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_2182,history of typeface design,concept,PREREQUISITE_OF,evolution typographic space and technologies,concept,A mentioned first,,ARTG_2182_triples_raw.json
+ARTG_2182,history of typeface design,concept,PART_OF,Typography,topic,,,ARTG_2182_triples_raw.json
+ARTG_2182,design process,method,PART_OF,Typography,topic,,,ARTG_2182_triples_raw.json
+ARTG_2182,digital typesetting skills,method,PART_OF,Typography,topic,,,ARTG_2182_triples_raw.json
+ARTG_2182,hands-on projects,method,PART_OF,Typography,topic,,,ARTG_2182_triples_raw.json

@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6145,topic,Parallel Computing,Parallel Computing,5,verified,Parallel Computing,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,Computer Architecture,computer architecture,1,verified,Computer Architecture,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,Algorithms,algorithms,2,verified,Algorithms,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,Data Structures,data structures,2,verified,Data Structures,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,Operating Systems,operating systems,1,verified,Operating Systems,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,Concurrency Concepts,concurrency concepts,1,verified,Concurrency Concepts,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,Linux Environment,Linux environment,1,verified,Linux Environment,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,Git,git,1,verified,Git,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,SSH/SCP,SSH/SCP,1,verified,SSH/SCP,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,Build Systems,build systems,1,verified,Build Systems,ITCS_6145_concepts_raw.json
+ITCS_6145,topic,Shared-Memory Programming Models,shared-memory programming models,1,verified,Shared-Memory Programming Models,ITCS_6145_concepts_raw.json
+ITCS_6145,concept,parallel architectures,parallel architectures,1,verified,parallel architectures,ITCS_6145_concepts_raw.json
+ITCS_6145,concept,concurrency,concurrency,2,verified,concurrency,ITCS_6145_concepts_raw.json
+ITCS_6145,concept,synchronization,synchronization,1,verified,synchronization,ITCS_6145_concepts_raw.json
+ITCS_6145,concept,performance analysis,performance analysis,1,verified,performance analysis,ITCS_6145_concepts_raw.json

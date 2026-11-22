@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_3155,topic,Software Engineering,Software Engineering,1,verified,Software Engineering,ITSC_3155_concepts_raw.json
+ITSC_3155,topic,SE,SE,2,inferred,Introduction to SE,ITSC_3155_concepts_raw.json
+ITSC_3155,topic,Requirements Gathering,Requirements Gathering,1,inferred,Requirements Gathering,ITSC_3155_concepts_raw.json
+ITSC_3155,topic,Software Design Principles,Software Design Principles,1,inferred,Software Design Principles,ITSC_3155_concepts_raw.json
+ITSC_3155,topic,Object-Oriented Programming,Object-Oriented Programming,1,inferred,Object-Oriented Programming,ITSC_3155_concepts_raw.json
+ITSC_3155,topic,Software Development Methodologies,Software Development Methodologies,1,inferred,Software Development Methodologies,ITSC_3155_concepts_raw.json
+ITSC_3155,topic,Testing and Validation,Testing and Validation,1,inferred,Testing and Validation,ITSC_3155_concepts_raw.json
+ITSC_3155,topic,Software Project Management,Software Project Management,1,inferred,Software Project Management,ITSC_3155_concepts_raw.json
+ITSC_3155,topic,Final Project Preparation,Final Project Preparation,1,inferred,Final Project Preparation,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Software Engineering Definition,Software Engineering Definition,1,inferred,Software Engineering Definition,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Importance of Software Engineering,Importance of Software Engineering,1,inferred,Importance of Software Engineering,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,SE Process Overview,SE Process Overview,1,inferred,SE Process Overview,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Requirements Elicitation Techniques,Requirements Elicitation Techniques,1,inferred,Requirements Elicitation Techniques,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Requirements Documentation Formats,Requirements Documentation Formats,1,inferred,Requirements Documentation Formats,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,User Story Creation,User Story Creation,1,inferred,User Story Creation,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Design Patterns and Paradigms,Design Patterns and Paradigms,1,inferred,Design Patterns and Paradigms,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Coupling and Cohesion Metrics,Coupling and Cohesion Metrics,1,inferred,Coupling and Cohesion Metrics,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Abstraction and Encapsulation,Abstraction and Encapsulation,1,inferred,Abstraction and Encapsulation,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Class and Object Definitions,Class and Object Definitions,1,inferred,Class and Object Definitions,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Inheritance and Polymorphism,Inheritance and Polymorphism,1,inferred,Inheritance and Polymorphism,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Encapsulation and Abstraction,Encapsulation and Abstraction,1,inferred,Encapsulation and Abstraction,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Agile and Waterfall Methodologies,Agile and Waterfall Methodologies,1,inferred,Agile and Waterfall Methodologies,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Iterative and Incremental Development,Iterative and Incremental Development,1,inferred,Iterative and Incremental Development,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Scrum Framework Overview,Scrum Framework Overview,1,inferred,Scrum Framework Overview,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Unit Testing and Integration,Unit Testing and Integration,1,inferred,Unit Testing and Integration,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,System Testing and Acceptance,System Testing and Acceptance,1,inferred,System Testing and Acceptance,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Test-Driven Development,Test-Driven Development,1,inferred,Test-Driven Development,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Project Planning and Scheduling,Project Planning and Scheduling,1,inferred,Project Planning and Scheduling,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Resource Allocation and Estimation,Resource Allocation and Estimation,1,inferred,Resource Allocation and Estimation,ITSC_3155_concepts_raw.json
+ITSC_3155,concept,Risk Management and Mitigation,Risk Management and Mitigation,1,inferred,Risk Management and Mitigation,ITSC_3155_concepts_raw.json

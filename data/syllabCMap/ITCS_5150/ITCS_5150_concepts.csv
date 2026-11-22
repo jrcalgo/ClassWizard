@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_5150,topic,mobile robot kinematics,mobile robot kinematics,2,verified,mobile robot kinematics,ITCS_5150_concepts_raw.json
+ITCS_5150,topic,sensors,sensors,2,verified,sensors,ITCS_5150_concepts_raw.json
+ITCS_5150,topic,vehicle localization,vehicle localization,2,verified,vehicle localization,ITCS_5150_concepts_raw.json
+ITCS_5150,topic,map building,map building,2,verified,map building,ITCS_5150_concepts_raw.json
+ITCS_5150,topic,simultaneous localization and mapping (SLAM,simultaneous localization and mapping (SLAM,2,verified,simultaneous localization and mapping (SLAM),ITCS_5150_concepts_raw.json
+ITCS_5150,topic,motion planning,motion planning,2,verified,motion planning,ITCS_5150_concepts_raw.json
+ITCS_5150,concept,autonomous mobile robots,Autonomous Mobile Robots,2,verified,autonomous mobile robots,ITCS_5150_concepts_raw.json
+ITCS_5150,concept,fundamental challenges,fundamental challenges,1,verified,fundamental challenges,ITCS_5150_concepts_raw.json
+ITCS_5150,concept,state of the art solutions,state of the art solutions,1,verified,state of the art solutions,ITCS_5150_concepts_raw.json
+ITCS_5150,concept,simultaneous localization,simultaneous localization,2,verified,simultaneous localization,ITCS_5150_concepts_raw.json
+ITCS_5150,tool,Python,Python,1,verified,Python,ITCS_5150_concepts_raw.json
+ITCS_5150,tool,Linux/Unix,Linux/Unix,1,verified,Linux/Unix,ITCS_5150_concepts_raw.json

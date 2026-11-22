@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETFS_3141,Structural Materials,topic,PREREQUISITE_OF,prescriptive and performance-based design in both new and existing structures,topic,A mentioned first,,ETFS_3141_triples_raw.json
+ETFS_3141,Structural Materials,topic,PREREQUISITE_OF,Performance-Based Design,topic,B taught first,B is taught before A - check,ETFS_3141_triples_raw.json
+ETFS_3141,Structural Materials,topic,PREREQUISITE_OF,prescriptive and performance-based design,concept,B taught first,B is taught before A - check,ETFS_3141_triples_raw.json
+ETFS_3141,Structural Materials,topic,PREREQUISITE_OF,fire safety analysis,concept,A taught first,,ETFS_3141_triples_raw.json
+ETFS_3141,Structural Materials,topic,PREREQUISITE_OF,engineering design practices,concept,A taught first,,ETFS_3141_triples_raw.json
+ETFS_3141,Structural Materials,topic,PART_OF,structural materials and assemblies,concept,,part is broader than whole - check direction,ETFS_3141_triples_raw.json
+ETFS_3141,prescriptive and performance-based design,concept,PART_OF,prescriptive and performance-based design in both new and existing structures,topic,,,ETFS_3141_triples_raw.json
+ETFS_3141,fire safety analysis,concept,USED_FOR,Performance-Based Design,topic,,,ETFS_3141_triples_raw.json
+ETFS_3141,engineering design practices,concept,USED_FOR,prescriptive and performance-based design,concept,,,ETFS_3141_triples_raw.json

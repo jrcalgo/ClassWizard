@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DTSC_3000,concept,larger stakes for a data-driven society,larger stakes for a data-driven society,1,verified,larger stakes for a data-driven society,DTSC_3000_concepts_raw.json
+DTSC_3000,concept,moral aspects of data science,Moral Aspects of Data Science,1,inferred,moral aspects of data science,DTSC_3000_concepts_raw.json
+DTSC_3000,concept,ethical considerations in analytics,Ethical Considerations in Analytics,1,inferred,ethical considerations in analytics,DTSC_3000_concepts_raw.json
+DTSC_3000,concept,privacy as a value,Privacy as a Value,1,inferred,privacy as a value,DTSC_3000_concepts_raw.json
+DTSC_3000,concept,equality in data collection,Equality in Data Collection,1,inferred,equality in data collection,DTSC_3000_concepts_raw.json
+DTSC_3000,concept,philosophy and data science,Philosophy and Data Science,1,inferred,philosophy and data science,DTSC_3000_concepts_raw.json
+DTSC_3000,concept,law and data governance,Law and Data Governance,1,inferred,law and data governance,DTSC_3000_concepts_raw.json
+DTSC_3000,concept,socially informed data practices,Socially Informed Data Practices,1,inferred,socially informed data practices,DTSC_3000_concepts_raw.json

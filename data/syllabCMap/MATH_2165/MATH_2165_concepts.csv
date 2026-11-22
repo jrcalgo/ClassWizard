@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_2165,topic,Propositions and truth tables,Propositions and truth tables,1,verified,Propositions and truth tables,MATH_2165_concepts_raw.json
+MATH_2165,concept,sets,sets,1,verified,sets,MATH_2165_concepts_raw.json
+MATH_2165,topic,permutations and combinations,permutations and combinations,1,verified,permutations and combinations,MATH_2165_concepts_raw.json
+MATH_2165,topic,relations and functions,relations and functions,1,verified,relations and functions,MATH_2165_concepts_raw.json
+MATH_2165,topic,lattices,lattices,1,verified,lattices,MATH_2165_concepts_raw.json
+MATH_2165,topic,trees,trees,1,verified,trees,MATH_2165_concepts_raw.json
+MATH_2165,concept,propositions,Propositions,1,verified,propositions,MATH_2165_concepts_raw.json
+MATH_2165,concept,truth tables,truth tables,1,verified,truth tables,MATH_2165_concepts_raw.json
+MATH_2165,tool,TI-25,TI-25,1,verified,TI-25,MATH_2165_concepts_raw.json
+MATH_2165,tool,TI-30,TI-30,1,verified,TI-30,MATH_2165_concepts_raw.json
+MATH_2165,tool,TI-36,TI-36,1,verified,TI-36,MATH_2165_concepts_raw.json
+MATH_2165,tool,TI-83,TI-83,1,verified,TI-83,MATH_2165_concepts_raw.json
+MATH_2165,tool,TI-84,TI-84,1,verified,TI-84,MATH_2165_concepts_raw.json

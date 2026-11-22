@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_3151,topic,Open-Score Reading,open-score reading,1,verified,Open-Score Reading,MUSC_3151_concepts_raw.json
+MUSC_3151,tool,Twenty-Four Italian Songs,Twenty-Four Italian Songs,1,verified,Twenty-Four Italian Songs and Arias from Seventeenth and Eighteenth Centuries (textbook),MUSC_3151_concepts_raw.json
+MUSC_3151,tool,Arias from Seventeenth,Arias from Seventeenth,1,verified,Twenty-Four Italian Songs and Arias from Seventeenth and Eighteenth Centuries (textbook),MUSC_3151_concepts_raw.json
+MUSC_3151,topic,Piano Fundamentals,Piano Fundamentals,1,inferred,Piano Fundamentals,MUSC_3151_concepts_raw.json
+MUSC_3151,topic,Sight-Reading Techniques,Sight-Reading Techniques,1,inferred,Sight-Reading Techniques,MUSC_3151_concepts_raw.json
+MUSC_3151,topic,Accompanying Fundamentals,Accompanying Fundamentals,1,inferred,Accompanying Fundamentals,MUSC_3151_concepts_raw.json
+MUSC_3151,topic,Classroom Accompaniment,Classroom Accompaniment,1,inferred,Classroom Accompaniment,MUSC_3151_concepts_raw.json
+MUSC_3151,topic,Studio Accompaniment,Studio Accompaniment,2,inferred,Studio Accompaniment,MUSC_3151_concepts_raw.json
+MUSC_3151,topic,Rehearsal Techniques,Rehearsal techniques,2,inferred,Rehearsal Techniques,MUSC_3151_concepts_raw.json
+MUSC_3151,topic,Performance Preparation,Performance Preparation,1,inferred,Performance Preparation,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Hand position and alignment,Hand position and alignment,1,inferred,Hand position and alignment,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Finger numbers and names,Finger numbers and names,1,inferred,Finger numbers and names,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Pedaling techniques and effects,Pedaling techniques and effects,1,inferred,Pedaling techniques and effects,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Staff notation and symbols,Staff notation and symbols,1,inferred,Staff notation and symbols,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Chord progressions and harmonies,Chord progressions and harmonies,1,inferred,Chord progressions and harmonies,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Rhythmic accuracy and timing,Rhythmic accuracy and timing,1,inferred,Rhythmic accuracy and timing,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Sight-reading strategies and tips,Sight-reading strategies and tips,1,inferred,Sight-reading strategies and tips,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Improvisation and extemporization,Improvisation and extemporization,1,inferred,Improvisation and extemporization,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Musicality and phrasing,Musicality and phrasing,1,inferred,Musicality and phrasing,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Harmony and voice leading,Harmony and voice leading,1,inferred,Harmony and voice leading,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Chord progressions and structures,Chord progressions and structures,1,inferred,Chord progressions and structures,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Rhythmic accompaniment patterns,Rhythmic accompaniment patterns,1,inferred,Rhythmic accompaniment patterns,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Accompanying for classroom singing,Accompanying for classroom singing,1,inferred,Accompanying for classroom singing,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Rehearsal techniques and strategies,Rehearsal techniques and strategies,1,inferred,Rehearsal techniques and strategies,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Adapting to different ensembles,Adapting to different ensembles,1,inferred,Adapting to different ensembles,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Private studio accompaniment techniques,Private studio accompaniment techniques,1,inferred,Private studio accompaniment techniques,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Vocal and instrumental accompaniment,Vocal and instrumental accompaniment,1,inferred,Vocal and instrumental accompaniment,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Sight-reading for private lessons,Sight-reading for private lessons,1,inferred,Sight-reading for private lessons,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Conducting and leading ensembles,Conducting and leading ensembles,1,inferred,Conducting and leading ensembles,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Rehearsal planning and organization,Rehearsal planning and organization,1,inferred,Rehearsal planning and organization,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Communication with performers,Communication with performers,1,inferred,Communication with performers,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Preparing for performances and recitals,Preparing for performances and recitals,1,inferred,Preparing for performances and recitals,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Stage presence and etiquette,Stage presence and etiquette,1,inferred,Stage presence and etiquette,MUSC_3151_concepts_raw.json
+MUSC_3151,concept,Overcoming performance anxiety,Overcoming performance anxiety,1,inferred,Overcoming performance anxiety,MUSC_3151_concepts_raw.json

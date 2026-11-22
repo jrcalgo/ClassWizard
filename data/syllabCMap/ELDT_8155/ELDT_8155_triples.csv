@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_8155,benefits of personalization,concept,PART_OF,Personalized Learning,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,learning theories and models,concept,PART_OF,Personalized Learning,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,adaptive learning systems overview,concept,PART_OF,Adaptive Technologies for Learning,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,artificial intelligence in education,concept,PART_OF,Adaptive Technologies for Learning,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,machine learning applications,concept,PART_OF,Adaptive Technologies for Learning,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,immersive virtual reality experience,concept,PART_OF,Virtual Environments for Engagement,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,data analysis for personalized learning,concept,PART_OF,Data-Driven Analytics for Personalization,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,predictive modeling techniques,concept,PART_OF,Data-Driven Analytics for Personalization,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,innovative technology integration,concept,PART_OF,Designing Personalized Learning Experiences,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,learning experience design principles,concept,PART_OF,Designing Personalized Learning Experiences,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,best practices for implementation,concept,PART_OF,Applying Personalization in Practice,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,challenges and limitations,concept,PART_OF,Applying Personalization in Practice,topic,,,ELDT_8155_triples_raw.json
+ELDT_8155,strategies,method,USED_FOR,personalized learning models and strategies,concept,,,ELDT_8155_triples_raw.json

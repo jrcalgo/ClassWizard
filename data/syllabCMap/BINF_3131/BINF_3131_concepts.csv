@@ -1,0 +1,129 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_3131,topic,Bioinformatics Algorithms,Bioinformatics Algorithms,1,verified,Bioinformatics Algorithms,BINF_3131_concepts_raw.json
+BINF_3131,topic,Algorithmic Warm-up,Algorithmic Warm-up,2,verified,Algorithmic Warm-up,BINF_3131_concepts_raw.json
+BINF_3131,concept,Randomized algorithms,Randomized algorithms,3,verified,Randomized algorithms,BINF_3131_concepts_raw.json
+BINF_3131,topic,Genome assembling,Genome assembling,3,verified,Genome assembling,BINF_3131_concepts_raw.json
+BINF_3131,topic,Reconstruction of peptide sequences using mass spectrum data,Reconstruction of peptide sequences using mass spectrum data,2,verified,Reconstruction of peptide sequences using mass spectrum data,BINF_3131_concepts_raw.json
+BINF_3131,concept,Sequence Alignment Algorithms,Sequence Alignment Algorithms,5,verified,Sequence Alignment Algorithms,BINF_3131_concepts_raw.json
+BINF_3131,concept,Genome Rearrangement,Genome rearrangement,4,verified,Genome Rearrangement,BINF_3131_concepts_raw.json
+BINF_3131,concept,Evolutionary Tree Construction,Evolutionary tree construction,5,verified,Evolutionary Tree Construction,BINF_3131_concepts_raw.json
+BINF_3131,topic,Clustering algorithms,Clustering algorithms,2,verified,Clustering algorithms,BINF_3131_concepts_raw.json
+BINF_3131,topic,Map short reads to a genome,Map short reads to a genome,2,verified,Map short reads to a genome,BINF_3131_concepts_raw.json
+BINF_3131,topic,Hidden Markov models,Hidden Markov models,6,verified,Hidden Markov models,BINF_3131_concepts_raw.json
+BINF_3131,topic,Computational proteomics,Computational proteomics,2,verified,Computational proteomics,BINF_3131_concepts_raw.json
+BINF_3131,concept,k-mers,k-mers,4,verified,k-mers,BINF_3131_concepts_raw.json
+BINF_3131,concept,frequent itemset,frequent itemset,2,verified,frequent itemset,BINF_3131_concepts_raw.json
+BINF_3131,concept,sequence analysis,sequence analysis,5,verified,sequence analysis,BINF_3131_concepts_raw.json
+BINF_3131,concept,algorithmic efficiency,algorithmic efficiency,2,verified,algorithmic efficiency,BINF_3131_concepts_raw.json
+BINF_3131,concept,computational problem formulation,computational problem formulation,2,verified,computational problem formulation,BINF_3131_concepts_raw.json
+BINF_3131,concept,big-O notation,big-O notation,1,verified,big-O notation,BINF_3131_concepts_raw.json
+BINF_3131,concept,hash table data structure,hash table data structure,1,verified,hash table data structure,BINF_3131_concepts_raw.json
+BINF_3131,concept,string matching algorithms,string matching algorithms,1,verified,string matching algorithms,BINF_3131_concepts_raw.json
+BINF_3131,concept,greedy algorithm,greedy algorithm,1,verified,greedy algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Motif finding heuristics,Motif finding heuristics,1,verified,Motif finding heuristics,BINF_3131_concepts_raw.json
+BINF_3131,concept,Sequence similarity measures,Sequence similarity measures,2,verified,Sequence similarity measures,BINF_3131_concepts_raw.json
+BINF_3131,concept,Bioinformatics motif discovery,Bioinformatics motif discovery,1,verified,Bioinformatics motif discovery,BINF_3131_concepts_raw.json
+BINF_3131,concept,Efficient algorithm design,Efficient algorithm design,1,verified,Efficient algorithm design,BINF_3131_concepts_raw.json
+BINF_3131,concept,Genome Overlapping Graph,genome overlapping graph,2,verified,Genome Overlapping Graph,BINF_3131_concepts_raw.json
+BINF_3131,concept,De Bruijn Graphs,De Bruijn Graphs,1,verified,De Bruijn Graphs,BINF_3131_concepts_raw.json
+BINF_3131,concept,Graph Theory Applications,Graph Theory Applications,1,verified,Graph Theory Applications,BINF_3131_concepts_raw.json
+BINF_3131,concept,Sequence Assembly Algorithms,Sequence Assembly Algorithms,1,verified,Sequence Assembly Algorithms,BINF_3131_concepts_raw.json
+BINF_3131,concept,Read Pair Alignment,Read Pair Alignment,1,verified,Read Pair Alignment,BINF_3131_concepts_raw.json
+BINF_3131,concept,Overlap-Layout-Consensus Method,Overlap-Layout-Consensus Method,1,verified,Overlap-Layout-Consensus Method,BINF_3131_concepts_raw.json
+BINF_3131,concept,Genomic Rearrangements Detection,Genomic Rearrangements Detection,1,verified,Genomic Rearrangements Detection,BINF_3131_concepts_raw.json
+BINF_3131,concept,De Bruijn Graph,De Bruijn Graphs,1,verified,De Bruijn Graph,BINF_3131_concepts_raw.json
+BINF_3131,concept,Genome Assembling Methods,Genome Assembling Methods,1,verified,Genome Assembling Methods,BINF_3131_concepts_raw.json
+BINF_3131,concept,Overlap-Longest Common Extension,Overlap-Longest Common Extension,1,verified,Overlap-Longest Common Extension,BINF_3131_concepts_raw.json
+BINF_3131,concept,Read Pairing Algorithm,Read Pairing Algorithm,1,verified,Read Pairing Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Graph Traversal Techniques,Graph Traversal Techniques,1,verified,Graph Traversal Techniques,BINF_3131_concepts_raw.json
+BINF_3131,concept,Cycle Detection Algorithms,Cycle Detection Algorithms,1,verified,Cycle Detection Algorithms,BINF_3131_concepts_raw.json
+BINF_3131,concept,Eulerian Path Problem,Eulerian Path Problem,1,verified,Eulerian Path Problem,BINF_3131_concepts_raw.json
+BINF_3131,concept,Minimum Spanning Tree,Minimum Spanning Tree,1,verified,Minimum Spanning Tree,BINF_3131_concepts_raw.json
+BINF_3131,concept,Sequence Alignment Metrics,Sequence Alignment Metrics,1,verified,Sequence Alignment Metrics,BINF_3131_concepts_raw.json
+BINF_3131,concept,Mass Spectrometry,Mass Spectrometry,3,verified,Mass Spectrometry,BINF_3131_concepts_raw.json
+BINF_3131,concept,Peptide Sequences,peptide sequences,3,verified,Peptide Sequences,BINF_3131_concepts_raw.json
+BINF_3131,concept,Brute Force Algorithms,brute force algorithms,2,verified,Brute Force Algorithms,BINF_3131_concepts_raw.json
+BINF_3131,concept,Sequence Reconstruction,Sequence Reconstruction,2,verified,Sequence Reconstruction,BINF_3131_concepts_raw.json
+BINF_3131,concept,Spectrum Data Analysis,Spectrum Data Analysis,2,verified,Spectrum Data Analysis,BINF_3131_concepts_raw.json
+BINF_3131,concept,Branch and Bound Algorithm,Branch and bound algorithms,1,verified,Branch and Bound Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Dynamic Programming Techniques,Dynamic Programming Techniques,1,verified,Dynamic Programming Techniques,BINF_3131_concepts_raw.json
+BINF_3131,concept,Algorithm Efficiency Metrics,Algorithm Efficiency Metrics,1,verified,Algorithm Efficiency Metrics,BINF_3131_concepts_raw.json
+BINF_3131,concept,Bioinformatics Data Structures,Bioinformatics Data Structures,1,verified,Bioinformatics Data Structures,BINF_3131_concepts_raw.json
+BINF_3131,concept,Optimization Strategies,Optimization Strategies,1,verified,Optimization Strategies,BINF_3131_concepts_raw.json
+BINF_3131,concept,Pair-wise Sequence Alignment,Pair-wise Sequence Alignment,1,verified,Pair-wise Sequence Alignment,BINF_3131_concepts_raw.json
+BINF_3131,concept,Global Sequence Alignment Algorithm,Global Sequence Alignment Algorithm,1,verified,Global Sequence Alignment Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Local Sequence Alignment Algorithm,Local Sequence Alignment Algorithm,1,verified,Local Sequence Alignment Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Scoring Matrix,Scoring Matrix,2,verified,Scoring Matrix,BINF_3131_concepts_raw.json
+BINF_3131,concept,Gap Penalty,Gap Penalties,1,verified,Gap Penalty,BINF_3131_concepts_raw.json
+BINF_3131,concept,Sequence Similarity Measure,Sequence similarity measures,2,verified,Sequence Similarity Measure,BINF_3131_concepts_raw.json
+BINF_3131,concept,Multiple Sequence Alignment,multiple sequence alignment,3,verified,Multiple Sequence Alignment,BINF_3131_concepts_raw.json
+BINF_3131,concept,Dynamic Programming Algorithm,Dynamic Programming Algorithm,1,verified,Dynamic Programming Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Scoring Matrix Construction,Scoring Matrix Construction,1,verified,Scoring Matrix Construction,BINF_3131_concepts_raw.json
+BINF_3131,concept,Gap Penalty Function,Gap Penalty Function,1,verified,Gap Penalty Function,BINF_3131_concepts_raw.json
+BINF_3131,concept,Global Alignment Method,Global Alignment Method,1,verified,Global Alignment Method,BINF_3131_concepts_raw.json
+BINF_3131,concept,Local Alignment Method,Local Alignment Method,1,verified,Local Alignment Method,BINF_3131_concepts_raw.json
+BINF_3131,concept,Optimal Scoring System,Optimal Scoring System,1,verified,Optimal Scoring System,BINF_3131_concepts_raw.json
+BINF_3131,concept,Alignment Distance Metric,Alignment Distance Metric,1,verified,Alignment Distance Metric,BINF_3131_concepts_raw.json
+BINF_3131,concept,Combinatory Algorithm,combinatory algorithm,2,verified,Combinatory Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Permutation Distance,Permutation Distance,1,verified,Permutation Distance,BINF_3131_concepts_raw.json
+BINF_3131,concept,Sorting by Translocations,Sorting by Translocations,1,verified,Sorting by Translocations,BINF_3131_concepts_raw.json
+BINF_3131,concept,Translocation Graphs,Translocation Graphs,1,verified,Translocation Graphs,BINF_3131_concepts_raw.json
+BINF_3131,concept,Breakpoint Median,Breakpoint Median,1,verified,Breakpoint Median,BINF_3131_concepts_raw.json
+BINF_3131,concept,Median Genomes,Median Genomes,1,verified,Median Genomes,BINF_3131_concepts_raw.json
+BINF_3131,concept,Optimal Genome Order,Optimal Genome Order,1,verified,Optimal Genome Order,BINF_3131_concepts_raw.json
+BINF_3131,concept,Synteny Block Construction,synteny block construction,2,verified,Synteny Block Construction,BINF_3131_concepts_raw.json
+BINF_3131,concept,Genome Rearrangement Algorithms,Genome Rearrangement Algorithms,1,verified,Genome Rearrangement Algorithms,BINF_3131_concepts_raw.json
+BINF_3131,concept,Conserved Syntenic Blocks,Conserved Syntenic Blocks,1,verified,Conserved Syntenic Blocks,BINF_3131_concepts_raw.json
+BINF_3131,concept,Block-Based Genome Comparison,Block-Based Genome Comparison,1,verified,Block-Based Genome Comparison,BINF_3131_concepts_raw.json
+BINF_3131,concept,Phylogenetic Trees as Graphs,Phylogenetic Trees as Graphs,1,verified,Phylogenetic Trees as Graphs,BINF_3131_concepts_raw.json
+BINF_3131,concept,Neighbor-Joining Algorithm,Neighbor-Joining Algorithm,2,verified,Neighbor-Joining Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,UPGMA Algorithm,UPGMA Algorithm,1,verified,UPGMA Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Distance Matrices,Distance Matrices,3,verified,Distance Matrices,BINF_3131_concepts_raw.json
+BINF_3131,concept,Tree Metrics,Tree Metrics,1,verified,Tree Metrics,BINF_3131_concepts_raw.json
+BINF_3131,concept,Branch Length Estimation,Branch Length Estimation,2,verified,Branch Length Estimation,BINF_3131_concepts_raw.json
+BINF_3131,concept,Node Labeling,Node Labeling,1,verified,Node Labeling,BINF_3131_concepts_raw.json
+BINF_3131,concept,Rooted vs Unrooted Trees,Rooted vs Unrooted Trees,1,verified,Rooted vs Unrooted Trees,BINF_3131_concepts_raw.json
+BINF_3131,concept,Distance Based Methods,distance based methods,2,verified,Distance Based Methods,BINF_3131_concepts_raw.json
+BINF_3131,concept,Phylogenetic Trees,Phylogenetic Trees,3,verified,Phylogenetic Trees,BINF_3131_concepts_raw.json
+BINF_3131,concept,UPGMA Method,UPGMA Method,1,verified,UPGMA Method,BINF_3131_concepts_raw.json
+BINF_3131,concept,Evolutionary Distance Matrix,Evolutionary Distance Matrix,1,verified,Evolutionary Distance Matrix,BINF_3131_concepts_raw.json
+BINF_3131,concept,Tree Rooting Techniques,Tree Rooting Techniques,1,verified,Tree Rooting Techniques,BINF_3131_concepts_raw.json
+BINF_3131,concept,Phylogenetic Tree Construction,Phylogenetic Tree Construction,1,verified,Phylogenetic Tree Construction,BINF_3131_concepts_raw.json
+BINF_3131,concept,Maximal Parsimonious Methods,maximal parsimonious methods,2,verified,Maximal Parsimonious Methods,BINF_3131_concepts_raw.json
+BINF_3131,concept,Parsimony Scoring,Parsimony Scoring,1,verified,Parsimony Scoring,BINF_3131_concepts_raw.json
+BINF_3131,concept,Character Evolution,Character Evolution,1,verified,Character Evolution,BINF_3131_concepts_raw.json
+BINF_3131,concept,Tree Reconstruction Algorithms,Tree Reconstruction Algorithms,1,verified,Tree Reconstruction Algorithms,BINF_3131_concepts_raw.json
+BINF_3131,concept,Phylogenetic Inference,Phylogenetic Inference,1,verified,Phylogenetic Inference,BINF_3131_concepts_raw.json
+BINF_3131,concept,Direct Clustering,direct clustering,2,verified,Direct Clustering,BINF_3131_concepts_raw.json
+BINF_3131,concept,Hierarchical Clustering,Hierarchical Clustering,2,verified,Hierarchical Clustering,BINF_3131_concepts_raw.json
+BINF_3131,concept,K-Means Algorithm,K-Means Algorithm,1,verified,K-Means Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Similarity Metrics,Similarity Metrics,2,verified,Similarity Metrics,BINF_3131_concepts_raw.json
+BINF_3131,concept,Clustering Evaluation,Clustering Evaluation,1,verified,Clustering Evaluation,BINF_3131_concepts_raw.json
+BINF_3131,concept,Dendrogram Analysis,Dendrogram Analysis,1,verified,Dendrogram Analysis,BINF_3131_concepts_raw.json
+BINF_3131,concept,Cluster Validity Measures,Cluster Validity Measures,1,verified,Cluster Validity Measures,BINF_3131_concepts_raw.json
+BINF_3131,concept,Combinatory Pattern Matching,combinatory pattern matching,2,verified,Combinatory Pattern Matching,BINF_3131_concepts_raw.json
+BINF_3131,concept,Short Read Mapping Algorithms,Short Read Mapping Algorithms,1,verified,Short Read Mapping Algorithms,BINF_3131_concepts_raw.json
+BINF_3131,concept,Genome Alignment Techniques,Genome Alignment Techniques,1,verified,Genome Alignment Techniques,BINF_3131_concepts_raw.json
+BINF_3131,concept,Pattern Searching Methods,Pattern Searching Methods,1,verified,Pattern Searching Methods,BINF_3131_concepts_raw.json
+BINF_3131,concept,Sequence Similarity Metrics,Sequence Similarity Metrics,1,verified,Sequence Similarity Metrics,BINF_3131_concepts_raw.json
+BINF_3131,concept,Burrows Wheeler Transform,Burrows Wheeler Transform,1,verified,Burrows Wheeler Transform,BINF_3131_concepts_raw.json
+BINF_3131,concept,Short Read Mapping,Short Read Mapping,2,verified,Short Read Mapping,BINF_3131_concepts_raw.json
+BINF_3131,concept,Genome Alignment,Genome Alignment,2,verified,Genome Alignment,BINF_3131_concepts_raw.json
+BINF_3131,concept,BWT Algorithm,BWT Algorithm,1,verified,BWT Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Read Pairing,Read Pairing,2,verified,Read Pairing,BINF_3131_concepts_raw.json
+BINF_3131,concept,Reference Genome,Reference Genome,1,verified,Reference Genome,BINF_3131_concepts_raw.json
+BINF_3131,concept,Sequence Similarity,Sequence similarity,6,verified,Sequence Similarity,BINF_3131_concepts_raw.json
+BINF_3131,concept,Alignment Scoring,Alignment Scoring,2,verified,Alignment Scoring,BINF_3131_concepts_raw.json
+BINF_3131,concept,Smith Waterman Algorithm,Smith-Waterman Algorithm,3,verified,Smith Waterman Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Hidden Markov Model,Hidden Markov models,6,verified,Hidden Markov Model,BINF_3131_concepts_raw.json
+BINF_3131,concept,Probability Distribution Functions,Probability Distribution Functions,2,verified,Probability Distribution Functions,BINF_3131_concepts_raw.json
+BINF_3131,concept,Emission and Transition Probabilities,Emission and Transition Probabilities,1,verified,Emission and Transition Probabilities,BINF_3131_concepts_raw.json
+BINF_3131,concept,Viterbi Algorithm Application,Viterbi Algorithm Application,4,verified,Viterbi Algorithm Application,BINF_3131_concepts_raw.json
+BINF_3131,concept,Forward-Backward Algorithm,Forward-Backward Algorithm,1,verified,Forward-Backward Algorithm,BINF_3131_concepts_raw.json
+BINF_3131,concept,Spectrum Decoding Algorithms,Spectrum Decoding Algorithms,1,verified,Spectrum Decoding Algorithms,BINF_3131_concepts_raw.json
+BINF_3131,concept,Proteomics Data Structures,Proteomics Data Structures,1,verified,Proteomics Data Structures,BINF_3131_concepts_raw.json
+BINF_3131,concept,Mass Spectrometry Analysis,Mass Spectrometry Analysis,1,verified,Mass Spectrometry Analysis,BINF_3131_concepts_raw.json
+BINF_3131,concept,Peptide Identification Methods,Peptide Identification Methods,1,verified,Peptide Identification Methods,BINF_3131_concepts_raw.json
+BINF_3131,concept,Database Search Techniques,Database Search Techniques,1,verified,Database Search Techniques,BINF_3131_concepts_raw.json
+BINF_3131,method,with further interpretation by the instructor,with further interpretation by the instructor,1,verified,"presentation of factual material in a standard lecture format using online videos, with further interpretation by the instructor and discussions of questions raised by students",BINF_3131_concepts_raw.json
+BINF_3131,method,discussions of questions raised by students,discussions of questions raised by students,1,verified,"presentation of factual material in a standard lecture format using online videos, with further interpretation by the instructor and discussions of questions raised by students",BINF_3131_concepts_raw.json

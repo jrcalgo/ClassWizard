@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2233,topic,chemical bonding,chemical bonding,2,verified,chemical bonding,MEGR_2233_concepts_raw.json
+MEGR_2233,topic,crystal structure,crystal structure,2,verified,crystal structure,MEGR_2233_concepts_raw.json
+MEGR_2233,topic,electrochemistry,electrochemistry,2,verified,electrochemistry,MEGR_2233_concepts_raw.json
+MEGR_2233,topic,linear systems,linear systems,2,verified,linear systems,MEGR_2233_concepts_raw.json
+MEGR_2233,topic,matrix algebra,matrix algebra,2,verified,matrix algebra,MEGR_2233_concepts_raw.json
+MEGR_2233,topic,eigenvalues,eigenvalues,3,verified,eigenvalues,MEGR_2233_concepts_raw.json
+MEGR_2233,topic,eigenvectors,eigenvectors,3,verified,eigenvectors,MEGR_2233_concepts_raw.json
+MEGR_2233,concept,matrix operations addition,matrix operations addition,1,verified,matrix operations addition,MEGR_2233_concepts_raw.json
+MEGR_2233,method,Gaussian Elimination,Gaussian Elimination,1,verified,Gaussian Elimination,MEGR_2233_concepts_raw.json
+MEGR_2233,method,LU Factorization,LU Factorization,1,verified,LU Factorization,MEGR_2233_concepts_raw.json
+MEGR_2233,method,LU Decomposition,LU Decomposition,1,verified,LU Decomposition,MEGR_2233_concepts_raw.json
+MEGR_2233,tool,MatLab,MatLab,3,verified,MatLab,MEGR_2233_concepts_raw.json

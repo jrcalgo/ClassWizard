@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4751,Research,topic,PREREQUISITE_OF,English Studies,topic,same unit,,ENGL_4751_triples_raw.json
+ENGL_4751,Literary Theory and Analysis,topic,PREREQUISITE_OF,Annotated Bibliography,topic,A taught first,,ENGL_4751_triples_raw.json
+ENGL_4751,Thesis Proposal Development,topic,PREREQUISITE_OF,Primary Text Analysis,topic,A taught first,,ENGL_4751_triples_raw.json
+ENGL_4751,Layperson Summary and Abstract,topic,PREREQUISITE_OF,Thesis Draft and Revision,topic,A taught first,,ENGL_4751_triples_raw.json
+ENGL_4751,Research Question Development,concept,PART_OF,Research,topic,,,ENGL_4751_triples_raw.json
+ENGL_4751,English Studies Scholarship,concept,PART_OF,English Studies,topic,,,ENGL_4751_triples_raw.json
+ENGL_4751,Annotated Bibliography,topic,PART_OF,Literary Theory and Analysis,topic,,,ENGL_4751_triples_raw.json
+ENGL_4751,Thesis Proposal Development,topic,PART_OF,Primary Text Analysis,topic,,,ENGL_4751_triples_raw.json
+ENGL_4751,Oral Presentations and Feedback,topic,PART_OF,Layperson Summary and Abstract,topic,,,ENGL_4751_triples_raw.json
+ENGL_4751,Linguistic Frameworks Application,concept,USED_FOR,Evidence-Based Argumentation,concept,,,ENGL_4751_triples_raw.json
+ENGL_4751,Citation and Reference Management,concept,USED_FOR,Scholarly Article Analysis,concept,,,ENGL_4751_triples_raw.json
+ENGL_4751,Close Reading Techniques,concept,USED_FOR,Textual Analysis Techniques,concept,,,ENGL_4751_triples_raw.json

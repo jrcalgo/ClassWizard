@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HPSY_8102,sampling,topic,PREREQUISITE_OF,experimentation,topic,B mentioned first,,HPSY_8102_triples_raw.json
+HPSY_8102,sampling,topic,PREREQUISITE_OF,observation,topic,B mentioned first,,HPSY_8102_triples_raw.json
+HPSY_8102,sampling,topic,PREREQUISITE_OF,survey,topic,B mentioned first,,HPSY_8102_triples_raw.json
+HPSY_8102,sampling,topic,PREREQUISITE_OF,archival,topic,B mentioned first,,HPSY_8102_triples_raw.json
+HPSY_8102,sampling,topic,PREREQUISITE_OF,epidemiological/ecological designs,topic,A mentioned first,,HPSY_8102_triples_raw.json
+HPSY_8102,measurement,topic,PREREQUISITE_OF,validity and measurement error,concept,same unit,,HPSY_8102_triples_raw.json
+HPSY_8102,logic of hypothesis testing,concept,PART_OF,foundational concepts across the behavioral sciences,topic,,,HPSY_8102_triples_raw.json
+HPSY_8102,hypothesis testing,method,USED_FOR,logic of hypothesis testing,concept,,,HPSY_8102_triples_raw.json
+HPSY_8102,data management and data cleaning,method,USED_FOR,measurement,topic,,,HPSY_8102_triples_raw.json
+HPSY_8102,development of experimental protocols,method,USED_FOR,experimentation,topic,,,HPSY_8102_triples_raw.json
+HPSY_8102,IRB process and forms,method,USED_FOR,ethics,topic,,,HPSY_8102_triples_raw.json

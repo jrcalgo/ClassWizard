@@ -1,0 +1,39 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4260,Python,tool,PREREQUISITE_OF,Machine Learning,method,same unit,,ITIS_4260_triples_raw.json
+ITIS_4260,Statistical Inference Methods,concept,PREREQUISITE_OF,Statistical Inference for Security,topic,A taught first,,ITIS_4260_triples_raw.json
+ITIS_4260,Python,tool,PREREQUISITE_OF,Data Cleaning and Storage Techniques,topic,A mentioned first,,ITIS_4260_triples_raw.json
+ITIS_4260,Python,tool,PREREQUISITE_OF,Log Analysis,method,A taught first,,ITIS_4260_triples_raw.json
+ITIS_4260,Data Cleaning Techniques,concept,PART_OF,Data Cleaning and Storage Techniques,topic,,,ITIS_4260_triples_raw.json
+ITIS_4260,Log Analysis Techniques,concept,PART_OF,Log Analysis,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Anomaly Detection Algorithms,concept,PART_OF,Anomaly Detection,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Event Correlation Rules,concept,PART_OF,Event Correlation,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Machine Learning Fundamentals,concept,PART_OF,Machine Learning,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Anomaly Detection Techniques,concept,PART_OF,Anomaly Detection,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Event Correlation Methods,concept,PART_OF,Event Correlation,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Log Analysis Tools,concept,PART_OF,Log Analysis,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Machine Learning Models,concept,PART_OF,Machine Learning,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Statistical Inference Tools,concept,PART_OF,Statistical Inference for Security,topic,,,ITIS_4260_triples_raw.json
+ITIS_4260,Supervised Machine Learning,concept,PART_OF,Machine Learning,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Unsupervised Machine Learning,concept,PART_OF,Machine Learning,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Dataframes,concept,PART_OF,Python,tool,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,SIEM Architecture,concept,PART_OF,SIEM Systems,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Alerting Systems,concept,PART_OF,SOC Analysts,topic,,,ITIS_4260_triples_raw.json
+ITIS_4260,LLM Generative AI,concept,PART_OF,Automated Threat Hunting,concept,,,ITIS_4260_triples_raw.json
+ITIS_4260,MITRE ATT&CK Framework,concept,PART_OF,Killchain,topic,,,ITIS_4260_triples_raw.json
+ITIS_4260,Python Basics,concept,PART_OF,Python Programming,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Python Variables,concept,PART_OF,Python Programming,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Conditional Statements,concept,PART_OF,Python Programming,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Killchain Phases,concept,PART_OF,Killchain,topic,,,ITIS_4260_triples_raw.json
+ITIS_4260,Pandas Library,concept,PART_OF,Python,tool,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Python Data Structures,concept,PART_OF,Python Programming,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Classification Algorithms,concept,PART_OF,Machine Learning,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Decision Trees,concept,PART_OF,Machine Learning,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Random Forests,concept,PART_OF,Machine Learning,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Support Vector Machines,concept,PART_OF,Machine Learning,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Event Correlation Strategies,concept,PART_OF,Event Correlation,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Cyber Threat Indicators,concept,PART_OF,Cyber Threat Intelligence,method,,part is broader than whole - check direction,ITIS_4260_triples_raw.json
+ITIS_4260,Python,tool,USED_FOR,Data Cleaning and Storage Techniques,topic,,,ITIS_4260_triples_raw.json
+ITIS_4260,Python,tool,USED_FOR,Log Analysis,method,,,ITIS_4260_triples_raw.json
+ITIS_4260,Phishmon,tool,USED_FOR,Log Analysis,method,,,ITIS_4260_triples_raw.json
+ITIS_4260,Crowdstrik Video,tool,USED_FOR,Machine Learning,method,,,ITIS_4260_triples_raw.json
+ITIS_4260,Sophos EDR with ML,tool,USED_FOR,Machine Learning,method,,,ITIS_4260_triples_raw.json

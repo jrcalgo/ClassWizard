@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_4122,music composition for film,concept,PREREQUISITE_OF,soundtrack editing principles,concept,same unit,,FILM_4122_triples_raw.json
+FILM_4122,music composition for film,concept,PREREQUISITE_OF,audio mixing techniques,concept,same unit,,FILM_4122_triples_raw.json
+FILM_4122,sound design principles,concept,PREREQUISITE_OF,audio-visual integration,concept,A taught first,,FILM_4122_triples_raw.json
+FILM_4122,visual storytelling fundamentals,concept,PART_OF,Visual Storytelling Techniques,topic,,,FILM_4122_triples_raw.json
+FILM_4122,experimental performance styles,concept,PART_OF,multimedia storytelling elements,concept,,,FILM_4122_triples_raw.json
+FILM_4122,sound design principles,concept,PART_OF,Sound Design and Editing,topic,,,FILM_4122_triples_raw.json
+FILM_4122,film scoring techniques,concept,PART_OF,Music and Sound in Film,topic,,,FILM_4122_triples_raw.json
+FILM_4122,audio-visual integration,concept,PART_OF,Music and Sound in Film,topic,,,FILM_4122_triples_raw.json
+FILM_4122,collaborative creative process,concept,PART_OF,Project Planning and Development,topic,,,FILM_4122_triples_raw.json
+FILM_4122,project management strategies,concept,PART_OF,Project Planning and Development,topic,,,FILM_4122_triples_raw.json
+FILM_4122,creative brief writing skills,concept,PART_OF,Project Planning and Development,topic,,,FILM_4122_triples_raw.json
+FILM_4122,collaborative teamwork dynamics,concept,PART_OF,Project Planning and Development,topic,,,FILM_4122_triples_raw.json
+FILM_4122,camera angles and movement,concept,PART_OF,Visual Storytelling Techniques,topic,,,FILM_4122_triples_raw.json
+FILM_4122,lighting design principles,concept,PART_OF,Visual Storytelling Techniques,topic,,,FILM_4122_triples_raw.json
+FILM_4122,color theory applications,concept,PART_OF,Visual Storytelling Techniques,topic,,,FILM_4122_triples_raw.json
+FILM_4122,dialogue editing techniques,concept,PART_OF,Sound Design and Editing,topic,,,FILM_4122_triples_raw.json

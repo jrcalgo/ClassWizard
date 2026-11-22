@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_7111,Qualitative Research Traditions,topic,PREREQUISITE_OF,Qualitative Data Analysis,topic,A taught first,,RSCH_7111_triples_raw.json
+RSCH_7111,Theories and Traditions,topic,PREREQUISITE_OF,Reflecting Presuppositions,topic,A taught first,,RSCH_7111_triples_raw.json
+RSCH_7111,Textual/Narrative Data Collection,topic,PREREQUISITE_OF,Qualitative Data Analysis,topic,A taught first,,RSCH_7111_triples_raw.json
+RSCH_7111,Research Proposal Structure,topic,PREREQUISITE_OF,Qualitative Data Analysis,topic,B taught first,B is taught before A - check,RSCH_7111_triples_raw.json
+RSCH_7111,Naturalistic Inquiry Process,concept,PART_OF,Qualitative Research Traditions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Educational Research Processes,concept,PART_OF,Theories and Traditions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Quantitative Research Characteristics,concept,PART_OF,Qualitative vs. Quantitative,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Qualitative Research Paradigm,concept,PART_OF,Qualitative vs. Quantitative,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Grounded Theory Approach,concept,PART_OF,Theories and Traditions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Phenomenology Research Design,concept,PART_OF,Theories and Traditions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Critical Theory Perspective,concept,PART_OF,Theories and Traditions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Case Study Research Design,concept,PART_OF,Qualitative Research Traditions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Ethnographic Research Methods,concept,PART_OF,Qualitative Research Traditions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Narrative Inquiry Approach,concept,PART_OF,Qualitative Research Traditions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Qualitative Research Purpose Statement,concept,PART_OF,Research Purpose and Questions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Data Collection Methods Comparison,concept,PART_OF,Research Purpose and Questions,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Observational Data Collection Methods,concept,PART_OF,Textual/Narrative Data Collection,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Document Analysis Techniques,concept,PART_OF,Textual/Narrative Data Collection,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Coding and Theme Identification,concept,PART_OF,Qualitative Data Analysis,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Data Saturation Concept,concept,PART_OF,Qualitative Data Analysis,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Analytic Memos Development,concept,PART_OF,Qualitative Data Analysis,topic,,,RSCH_7111_triples_raw.json
+RSCH_7111,Qualitative Research Proposal Outline,concept,PART_OF,Research Proposal Structure,topic,,,RSCH_7111_triples_raw.json

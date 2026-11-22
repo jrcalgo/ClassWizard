@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HPSY_8243,Cultural Competence Models,concept,PREREQUISITE_OF,Power Dynamics in Healthcare,concept,same unit,,HPSY_8243_triples_raw.json
+HPSY_8243,Intersectional Theory Overview,concept,PREREQUISITE_OF,Multiple Forms of Oppression,concept,same unit,,HPSY_8243_triples_raw.json
+HPSY_8243,Sex Differences in Health,concept,PREREQUISITE_OF,Masculinity and Mental Health,concept,same unit,,HPSY_8243_triples_raw.json
+HPSY_8243,Historical Context and Health,concept,PREREQUISITE_OF,Institutional Racism and Bias,concept,same unit,,HPSY_8243_triples_raw.json
+HPSY_8243,Environmental Influences on Health,concept,PREREQUISITE_OF,Contextual Factors in Health,topic,same unit,,HPSY_8243_triples_raw.json
+HPSY_8243,Health Psychology Definition,concept,PART_OF,Health Psychology,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Importance of Cultural Factors,concept,PART_OF,Health Psychology,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Social Determinants of Health,concept,PART_OF,Health Psychology,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Cultural Competence Models,concept,PART_OF,Cultural Humility in Practice,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Power Dynamics in Healthcare,concept,PART_OF,Cultural Humility in Practice,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Microaggressions and Bias,concept,PART_OF,Cultural Humility in Practice,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Income Inequality Effects,concept,PART_OF,Socioeconomic Status and Health,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Healthcare Access Barriers,concept,PART_OF,Socioeconomic Status and Health,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Sex Differences in Health,concept,PART_OF,Gender and Health Disparities,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Multiple Forms of Oppression,concept,PART_OF,Intersectionality and Health,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Health Disparities and Intersectionality,concept,PART_OF,Intersectionality and Health,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Institutional Racism and Bias,concept,PART_OF,Contextual Factors in Health,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Environmental Influences on Health,concept,PART_OF,Contextual Factors in Health,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Policy Analysis and Advocacy,concept,PART_OF,Critical Examination of Health Systems,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Research Methods in Health Psychology,concept,PART_OF,Applying Cultural Humility in Research,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Culturally Sensitive Research Design,concept,PART_OF,Applying Cultural Humility in Research,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Community-Based Participatory Research,concept,PART_OF,Applying Cultural Humility in Research,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Health Advocacy Strategies,concept,PART_OF,Advocacy and Policy Change,topic,,,HPSY_8243_triples_raw.json
+HPSY_8243,Social Justice and Health Equity,concept,PART_OF,Advocacy and Policy Change,topic,,,HPSY_8243_triples_raw.json

@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_4600,Client-Consultant Relationship,concept,PART_OF,Problem Definition,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Project Management Basics,concept,PART_OF,Solution Development,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Industry Problem Identification,concept,PART_OF,Problem Definition,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Stakeholder Analysis Techniques,concept,PART_OF,Problem Definition,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Root Cause Analysis Methods,concept,PART_OF,Problem Definition,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Creative Solution Generation,concept,PART_OF,Solution Development,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Design Thinking Principles,concept,PART_OF,Solution Development,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Innovation Strategies,concept,PART_OF,Solution Development,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Case Study Analysis Techniques,concept,PART_OF,Case Study Review,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Peer Feedback and Evaluation,concept,PART_OF,Case Study Review,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Group Dynamics and Communication,concept,PART_OF,Case Study Review,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Project Scope and Objectives,concept,PART_OF,Wicked Problem Project Planning,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Timeline and Milestone Management,concept,PART_OF,Wicked Problem Project Planning,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Resource Allocation and Budgeting,concept,PART_OF,Wicked Problem Project Planning,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Solution Implementation Strategies,concept,PART_OF,Wicked Problem Project Planning,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Risk Management and Mitigation,concept,PART_OF,Wicked Problem Project Planning,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Communication Styles and Barriers,concept,PART_OF,Presentation and Communication Skills,topic,,,PROS_4600_triples_raw.json
+PROS_4600,Storytelling for Impact,concept,PART_OF,Presentation and Communication Skills,topic,,,PROS_4600_triples_raw.json

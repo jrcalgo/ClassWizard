@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5246,network access control policies,topic,PREREQUISITE_OF,secrets management,topic,A taught first,,ITIS_5246_triples_raw.json

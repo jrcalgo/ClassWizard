@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTP_2131,interdependent formal and conceptual relationships,concept,PREREQUISITE_OF,evolution of formal and conceptual development,concept,A taught first,,ARTP_2131_triples_raw.json
+ARTP_2131,brushstrokes and mark-making,concept,PREREQUISITE_OF,mixed-media experimentation and integration,concept,A taught first,,ARTP_2131_triples_raw.json
+ARTP_2131,studio practice and artistic vision,concept,PART_OF,Writing About Art,topic,,,ARTP_2131_triples_raw.json
+ARTP_2131,oil paint techniques and materials,concept,PART_OF,Traditional Painting Methods,topic,,,ARTP_2131_triples_raw.json
+ARTP_2131,color theory and palette development,concept,PART_OF,Traditional Painting Methods,topic,,,ARTP_2131_triples_raw.json
+ARTP_2131,brushstrokes and mark-making,concept,PART_OF,Traditional Painting Methods,topic,,,ARTP_2131_triples_raw.json
+ARTP_2131,water-based and digital media,concept,PART_OF,Contemporary Painting Approaches,topic,,,ARTP_2131_triples_raw.json
+ARTP_2131,organizing and documenting artwork,concept,PART_OF,Digital Portfolio Development,topic,,,ARTP_2131_triples_raw.json
+ARTP_2131,digital presentation tools and techniques,concept,USED_FOR,speaking about arts-related topics,concept,,,ARTP_2131_triples_raw.json
+ARTP_2131,digital presentation tools and techniques,concept,USED_FOR,Writing About Art,topic,,,ARTP_2131_triples_raw.json

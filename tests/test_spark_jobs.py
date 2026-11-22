@@ -9,8 +9,8 @@ import pytest
 
 pytest.importorskip("pyspark")
 
-from spark_jobs import gold, silver  # noqa: E402
-from spark_jobs.session import get_spark  # noqa: E402
+from ai.recommendations.spark_jobs.medallion import gold, silver  # noqa: E402
+from ai.recommendations.spark_jobs.session import get_spark  # noqa: E402
 
 
 @pytest.fixture(scope="module")
@@ -38,16 +38,15 @@ def test_course_concepts_keep_covers_rows_only(spark):
 
 def test_courses_combine_catalog_and_syllabus(spark):
     catalog = spark.createDataFrame(
-        [("ITSC 3160", "Database Design", "Relational schemas.", 3, 1)],
-        "course_code string, title string, description string, credits int, n_prereqs long",
+        [("Undergraduate 2026-2027", "ITSC 3160", "Database Design", "Relational schemas.", 3, 1)],
+        "catalog_name string, course_code string, title string, description string, credits int, n_prereqs long",
     )
     concepts = spark.createDataFrame(
         [("ITSC 3160", "sql"), ("ITCS 6160", "query optimization")], "course_code string, term_key string")
     rows = {r.course_code: r for r in silver.build_courses(catalog, concepts).collect()}
     assert rows["ITSC 3160"].in_catalog and rows["ITSC 3160"].has_syllabus
     assert rows["ITSC 3160"].level == "undergraduate"
-    assert not rows["ITCS 6160"].in_catalog and rows["ITCS 6160"].level == "graduate"
-    assert rows["ITCS 6160"].n_prereqs == 0
+    assert "ITCS 6160" not in rows
 
 
 def test_careers_keep_degree_level_job_zones(spark):
@@ -73,3 +72,116 @@ def test_career_terms_weights(spark):
     assert ("13-2011.00", "programming") not in rows
     assert rows[("15-2051.00", "programming")] == pytest.approx(0.875)  # (4.5 - 1) / 4
     assert rows[("15-2051.00", "python")] == pytest.approx(1.0)         # 0.4 + hot + in demand
+
+
+def test_als_items_separate_catalogs(spark):
+    ratings = spark.createDataFrame(
+        [("Undergraduate 2026-2027", "ITSC 5000", "career"),
+         ("Graduate 2026-2027", "ITSC 5000", "career")],
+        "catalog_name string, course_code string, soc_code string")
+    rows = gold.add_als_ids(ratings).collect()
+    assert len({r.item_id for r in rows}) == 2
+    assert len({r.user_id for r in rows}) == 1
+
+
+def test_catalog_cleaning_preserves_same_code_and_prerequisite_scope(spark):
+    courses = spark.createDataFrame(
+        [('Undergraduate', 'ITSC 5000', 'First', 'One', 3),
+         ('Graduate', 'ITSC 5000', 'Second', 'Two', 4)],
+        'catalog_name string, code string, title string, description string, credit_min int')
+    links = spark.createDataFrame([('Graduate', 'ITSC 5000', 'ITSC 4000', 'prerequisite')],
+        'catalog_name string, course_code string, target_code string, kind string')
+    rows = {r.catalog_name: r for r in silver.clean_catalog_courses(courses, links).collect()}
+    assert len(rows) == 2
+    assert rows['Graduate'].n_prereqs == 1
+    assert rows['Undergraduate'].n_prereqs is None
+
+
+def test_ratings_partition_by_catalog(spark):
+    spark.createDataFrame(
+        [('Undergraduate', 'career', 'A', .1), ('Undergraduate', 'career', 'B', .2),
+         ('Graduate', 'career', 'A', .8), ('Graduate', 'career', 'B', .9)],
+        'catalog_name string, soc_code string, course_code string, doc_sim double'
+    ).createOrReplaceTempView('doc_similarity')
+    spark.createDataFrame(
+        [('Undergraduate', 'A', False), ('Undergraduate', 'B', False),
+         ('Graduate', 'A', False), ('Graduate', 'B', False)],
+        'catalog_name string, course_code string, has_syllabus boolean'
+    ).createOrReplaceTempView('courses')
+    spark.createDataFrame([], 'catalog_name string, soc_code string, course_code string, term_score double, n_matches long').createOrReplaceTempView('evidence')
+    rows = spark.sql(gold.RATING_SQL).collect()
+    assert len(rows) == 4
+    assert {(r.catalog_name, r.course_code, r.rating) for r in rows} == {
+        ('Undergraduate', 'A', 0), ('Undergraduate', 'B', 5),
+        ('Graduate', 'A', 0), ('Graduate', 'B', 5)}
+
+
+def test_full_data_als_covers_all_catalog_pairs(spark):
+    from ai.recommendations.spark_jobs.model import make_als
+    ratings = spark.createDataFrame(
+        [('UG', 'A', 'career1', 1.0), ('GR', 'A', 'career1', 4.0),
+         ('UG', 'A', 'career2', 3.0), ('GR', 'A', 'career2', 2.0)],
+        'catalog_name string, course_code string, soc_code string, rating double')
+    indexed = gold.add_als_ids(ratings)
+    predictions = make_als(2, .1).fit(indexed).transform(indexed)
+    assert predictions.count() == 4
+    assert predictions.select('catalog_name', 'course_code', 'soc_code').distinct().count() == 4
+
+
+def test_contributions_preserve_duplicate_links(spark):
+    concepts = spark.createDataFrame([('ITSC 3160','SQL','sql',.9)],
+        'course_code string, term string, term_key string, confidence double')
+    links = spark.createDataFrame([('sql','databases',.8),('sql','databases',.8)],
+        'course_term string, onet_term string, similarity double')
+    careers = spark.createDataFrame([('career','databases','Databases','knowledge',.75)],
+        'soc_code string, term_key string, term string, kind string, weight double')
+    matches = gold.contributing_matches(concepts,links,careers).collect()
+    assert len(matches)==2
+    assert sum(r.points for r in matches)==pytest.approx(1.08)
+
+
+def test_match_provenance_uses_selected_confidence_and_stable_source(spark):
+    from ai.recommendations.spark_jobs.match_evidence import build_match_evidence, publication_rows
+    concepts = spark.createDataFrame([('ITSC 3160','SQL','sql',.9)],
+        'course_code string, term string, term_key string, confidence double')
+    links = spark.createDataFrame([('sql','databases',.8),('sql','databases',.8)],
+        'course_term string, onet_term string, similarity double')
+    careers = spark.createDataFrame([('career','databases','Databases','knowledge',.75)],
+        'soc_code string, term_key string, term string, kind string, weight double')
+    courses = spark.createDataFrame([('UG','ITSC 3160',4),('GR','ITSC 3160',4)],
+        'catalog_name string, course_code string, n_concepts long')
+    triples = spark.createDataFrame([
+        ('ITSC 3160','covers','SQL','0.95','other','wrong.pdf','1','Overview','Wrong confidence'),
+        ('ITSC 3160','covers','SQL','0.9','b','second.pdf','2','Overview','Second source'),
+        ('itsc_3160','covers','SQL','0.9','a','first.pdf','3','Overview','Selected source')],
+        'subject string, predicate string, object string, confidence string, triple_id string, filename string, page_num string, section_heading string, evidence string')
+    raw=build_match_evidence(concepts,links,careers,courses,triples)
+    rows=publication_rows(raw).collect()
+    assert len(rows)==2
+    assert {r.catalog_name for r in rows}=={'UG','GR'}
+    assert len({r.id for r in rows})==2
+    assert all(r.filename=='first.pdf' and r.source_text=='Selected source' for r in rows)
+    assert all(r.multiplicity==2 and r.contribution==pytest.approx(.54) for r in rows)
+    assert {r.id for r in publication_rows(raw.repartition(2)).collect()}=={r.id for r in rows}
+
+
+def test_match_aggregate_validation_rejects_different_saved_scores(spark):
+    from ai.recommendations.spark_jobs.match_evidence import validate_aggregates
+    raw=spark.createDataFrame([('UG','A','career',.5)],
+        'catalog_name string, course_code string, soc_code string, contribution double')
+    valid=spark.createDataFrame([('UG','A','career',.5,1),('UG','B','career',0.,0)],
+        'catalog_name string, course_code string, soc_code string, term_score double, n_matches long')
+    validate_aggregates(raw,valid)
+    bad=spark.createDataFrame([('UG','A','career',.6,1)],valid.schema)
+    with pytest.raises(ValueError,match='aggregates'):
+        validate_aggregates(raw,bad)
+
+
+def test_evidence_csv_preserves_quotes_and_multiline_source(spark,tmp_path):
+    import csv
+    text='Students use "Python", SQL, and tools.\nNext objective.'
+    frame=spark.createDataFrame([('source.pdf',text)],'filename string, source_text string')
+    directory=tmp_path/'evidence_csv'
+    frame.coalesce(1).write.option('escape','"').csv(str(directory))
+    with next(directory.glob('part-*.csv')).open(newline='') as handle:
+        assert list(csv.reader(handle))==[['source.pdf',text]]

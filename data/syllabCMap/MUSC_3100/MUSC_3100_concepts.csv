@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_3100,topic,Music Technology,Music Technology,7,verified,Music Technology,MUSC_3100_concepts_raw.json
+MUSC_3100,topic,Recording and Production,recording and production,1,verified,Recording and Production,MUSC_3100_concepts_raw.json
+MUSC_3100,concept,computer-aided instruction,computer-aided instruction,3,verified,computer-aided instruction,MUSC_3100_concepts_raw.json
+MUSC_3100,concept,digital audio,digital audio,3,verified,digital audio,MUSC_3100_concepts_raw.json
+MUSC_3100,method,experimentation,experimentation,1,verified,experimentation,MUSC_3100_concepts_raw.json
+MUSC_3100,method,problem-solving,problem-solving,1,verified,problem-solving,MUSC_3100_concepts_raw.json
+MUSC_3100,method,collaboration,collaboration,1,verified,collaboration,MUSC_3100_concepts_raw.json

@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_8167,topic,Network and Information Security,Network and Information Security,2,verified,Network and Information Security,ITIS_8167_concepts_raw.json
+ITIS_8167,topic,Security Attacks and Risks,security attacks and risks,2,verified,Security Attacks and Risks,ITIS_8167_concepts_raw.json
+ITIS_8167,topic,Security Architectures,security architectures,2,verified,Security Architectures,ITIS_8167_concepts_raw.json
+ITIS_8167,topic,Security Policy Management,security policy management,2,verified,Security Policy Management,ITIS_8167_concepts_raw.json
+ITIS_8167,topic,Cryptographic Algorithms,cryptographic algorithms,2,verified,Cryptographic Algorithms,ITIS_8167_concepts_raw.json
+ITIS_8167,topic,SDN and CDN Security,SDN and CDN security,1,verified,SDN and CDN Security,ITIS_8167_concepts_raw.json
+ITIS_8167,topic,AI in Network Security,AI in network security,1,verified,AI in Network Security,ITIS_8167_concepts_raw.json
+ITIS_8167,concept,TCP/IP vulnerabilities,TCP/IP vulnerabilities,1,verified,TCP/IP vulnerabilities,ITIS_8167_concepts_raw.json
+ITIS_8167,concept,authentication basics,authentication basics,1,verified,authentication basics,ITIS_8167_concepts_raw.json
+ITIS_8167,concept,basic network security mechanisms,basic network security mechanisms,1,verified,basic network security mechanisms,ITIS_8167_concepts_raw.json
+ITIS_8167,concept,unique security baseline defenses,unique security baseline defenses,1,verified,unique security baseline defenses,ITIS_8167_concepts_raw.json
+ITIS_8167,method,traffic scanning,traffic scanning,1,verified,traffic scanning,ITIS_8167_concepts_raw.json
+ITIS_8167,method,detection techniques,detection techniques,1,verified,detection techniques,ITIS_8167_concepts_raw.json
+ITIS_8167,method,CDN security concepts,CDN security concepts,1,verified,CDN security concepts,ITIS_8167_concepts_raw.json

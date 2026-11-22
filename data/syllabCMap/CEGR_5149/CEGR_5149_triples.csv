@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5149,units and dimensional analysis,topic,PREREQUISITE_OF,adsorption and ion exchange,topic,A taught first,,CEGR_5149_triples_raw.json
+CEGR_5149,units and dimensional analysis,topic,PREREQUISITE_OF,oxidation–reduction chemistry,topic,A taught first,,CEGR_5149_triples_raw.json
+CEGR_5149,units and dimensional analysis,topic,PREREQUISITE_OF,risk analysis,topic,A taught first,,CEGR_5149_triples_raw.json
+CEGR_5149,mass balances,concept,PART_OF,units and dimensional analysis,topic,,,CEGR_5149_triples_raw.json
+CEGR_5149,transport concepts,concept,PART_OF,mass transport,topic,,,CEGR_5149_triples_raw.json
+CEGR_5149,quantitative problem-solving,method,PART_OF,applied projects,method,,,CEGR_5149_triples_raw.json
+CEGR_5149,data interpretation,method,PART_OF,applied projects,method,,,CEGR_5149_triples_raw.json
+CEGR_5149,quantitative problem-solving,method,USED_FOR,risk analysis,topic,,,CEGR_5149_triples_raw.json
+CEGR_5149,data interpretation,method,USED_FOR,risk analysis,topic,,,CEGR_5149_triples_raw.json

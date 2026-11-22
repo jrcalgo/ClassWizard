@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_4374,concept,Spatial Data,spatial data,8,verified,Spatial Data,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Geospatial Tools,geospatial tools,4,verified,Geospatial Tools,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,QGIS Interface,QGIS Interface,2,verified,QGIS Interface,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,GeoDa Software,GeoDa Software,3,verified,GeoDa Software,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Spatial Reference Systems,Spatial Reference Systems,1,verified,Spatial Reference Systems,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Coordinate Systems,Coordinate Systems,2,verified,Coordinate Systems,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Map Projections,Map Projections,2,verified,Map Projections,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Spatial Join Operations,Spatial Join Operations,1,verified,Spatial Join Operations,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Cartographic Design Principles,Cartographic Design Principles,1,verified,Cartographic Design Principles,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Spatial Data Visualization,Spatial Data Visualization,1,verified,Spatial Data Visualization,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Geospatial Coordinate Systems,Geospatial Coordinate Systems,1,verified,Geospatial Coordinate Systems,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Geospatial Data Types,Geospatial Data Types,1,verified,Geospatial Data Types,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Spatial Joins and Merges,Spatial Joins and Merges,1,verified,Spatial Joins and Merges,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Buffer Analysis Techniques,Buffer Analysis Techniques,1,verified,Buffer Analysis Techniques,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Distance Calculations Methods,Distance Calculations Methods,1,verified,Distance Calculations Methods,CJUS_4374_concepts_raw.json
+CJUS_4374,measure,Spatial Autocorrelation Measures,Spatial Autocorrelation Measures,1,verified,Spatial Autocorrelation Measures,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Spatial Regression Models,Spatial Regression Models,1,verified,Spatial Regression Models,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Geographic Scale,Geographic Scale,1,verified,Geographic Scale,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Spatial Heterogeneity,Spatial Heterogeneity,1,verified,Spatial Heterogeneity,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Spatial Lag Model,Spatial Lag Model,1,verified,Spatial Lag Model,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Connectivity Measures,Connectivity Measures,1,verified,Connectivity Measures,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Accessibility Analysis,Accessibility Analysis,1,verified,Accessibility Analysis,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Network Analysis Tools,Network Analysis Tools,1,verified,Network Analysis Tools,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Activity Space,Activity Space,2,verified,Activity Space,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Geographic Weighted Regression,Geographic Weighted Regression,1,verified,Geographic Weighted Regression,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Kernel Density Estimation,Kernel Density Estimation,1,verified,Kernel Density Estimation,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Global Indicators,Global Indicators,2,verified,Global Indicators,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Ordinary Least Squares,Ordinary Least Squares,2,verified,Ordinary Least Squares,CJUS_4374_concepts_raw.json
+CJUS_4374,measure,Geary's C Index,Geary's C Index,1,verified,Geary's C Index,CJUS_4374_concepts_raw.json
+CJUS_4374,measure,Moran's I Statistic,Moran's I Statistic,1,verified,Moran's I Statistic,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Local Indicators,Local Indicators,2,verified,Local Indicators,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Hot Spot Analysis,Hot Spot Analysis,1,verified,Hot Spot Analysis,CJUS_4374_concepts_raw.json
+CJUS_4374,concept,Environmental Criminology,Environmental Criminology,4,verified,Environmental Criminology,CJUS_4374_concepts_raw.json
+CJUS_4374,method,Basic spatial operations,basic spatial operations,1,verified,Basic spatial operations,CJUS_4374_concepts_raw.json
+CJUS_4374,method,Mapping,mapping,2,verified,Mapping,CJUS_4374_concepts_raw.json
+CJUS_4374,method,Spatial statistics,spatial statistics,4,verified,Spatial statistics,CJUS_4374_concepts_raw.json
+CJUS_4374,tool,QGIS,QGIS,4,verified,QGIS,CJUS_4374_concepts_raw.json
+CJUS_4374,tool,GeoDa,GeoDa,4,verified,GeoDa,CJUS_4374_concepts_raw.json

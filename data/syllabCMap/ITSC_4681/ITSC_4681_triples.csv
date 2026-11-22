@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_4681,Generative AI foundational models,concept,PREREQUISITE_OF,Retrieval-Augmented Generation (RAG,method,A taught first,,ITSC_4681_triples_raw.json
+ITSC_4681,Prompt engineering,method,PREREQUISITE_OF,Semantic retrieval techniques,concept,A taught first,,ITSC_4681_triples_raw.json
+ITSC_4681,Retrieval-Augmented Generation (RAG,method,USED_FOR,Generative AI foundational models,concept,,,ITSC_4681_triples_raw.json
+ITSC_4681,Prompt engineering,method,USED_FOR,Semantic retrieval techniques,concept,,,ITSC_4681_triples_raw.json

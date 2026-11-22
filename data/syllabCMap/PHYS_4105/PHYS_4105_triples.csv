@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_4105,Student-Centered Instructional Design,concept,PREREQUISITE_OF,Misconception Identification Strategies,concept,A taught first,,PHYS_4105_triples_raw.json
+PHYS_4105,Personal Teaching Philosophy Statement,concept,PREREQUISITE_OF,Ethical Use of Technology in Education,concept,same unit,,PHYS_4105_triples_raw.json
+PHYS_4105,Misconception Identification Strategies,concept,PART_OF,Addressing Student Misconceptions,topic,,,PHYS_4105_triples_raw.json
+PHYS_4105,Conceptual Understanding Development,concept,PART_OF,Addressing Student Misconceptions,topic,,,PHYS_4105_triples_raw.json
+PHYS_4105,Formative Assessment Techniques,concept,PART_OF,Addressing Student Misconceptions,topic,,,PHYS_4105_triples_raw.json
+PHYS_4105,Inclusive Learning Environments,concept,PART_OF,Equitable Teaching Methods,topic,,,PHYS_4105_triples_raw.json
+PHYS_4105,Culturally Responsive Teaching,concept,PART_OF,Equitable Teaching Methods,topic,,,PHYS_4105_triples_raw.json
+PHYS_4105,Student-Centered Instructional Design,concept,PART_OF,Equitable Teaching Methods,topic,,,PHYS_4105_triples_raw.json

@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HPSY_8102,topic,foundational concepts across the behavioral sciences,foundational concepts across the behavioral sciences,2,verified,foundational concepts across the behavioral sciences,HPSY_8102_concepts_raw.json
+HPSY_8102,topic,sampling,sampling,2,verified,sampling,HPSY_8102_concepts_raw.json
+HPSY_8102,topic,measurement,measurement,5,verified,measurement,HPSY_8102_concepts_raw.json
+HPSY_8102,topic,ethics,ethics,2,verified,ethics,HPSY_8102_concepts_raw.json
+HPSY_8102,concept,logic of hypothesis testing,logic of hypothesis testing,2,verified,logic of hypothesis testing,HPSY_8102_concepts_raw.json
+HPSY_8102,topic,experimentation,experimentation,2,verified,experimentation,HPSY_8102_concepts_raw.json
+HPSY_8102,topic,observation,observation,2,verified,observation,HPSY_8102_concepts_raw.json
+HPSY_8102,topic,survey,survey,2,verified,survey,HPSY_8102_concepts_raw.json
+HPSY_8102,topic,archival,archival,2,verified,archival,HPSY_8102_concepts_raw.json
+HPSY_8102,topic,epidemiological/ecological designs,epidemiological/ecological designs,2,verified,epidemiological/ecological designs,HPSY_8102_concepts_raw.json
+HPSY_8102,concept,error tight,Error Tight,1,verified,error tight,HPSY_8102_concepts_raw.json
+HPSY_8102,concept,validity and measurement error,validity and measurement error,1,verified,validity and measurement error,HPSY_8102_concepts_raw.json
+HPSY_8102,method,hypothesis testing,hypothesis testing,2,verified,hypothesis testing,HPSY_8102_concepts_raw.json
+HPSY_8102,method,data management and data cleaning,data management and data cleaning,1,verified,data management and data cleaning,HPSY_8102_concepts_raw.json
+HPSY_8102,method,development of experimental protocols,development of experimental protocols,1,verified,development of experimental protocols,HPSY_8102_concepts_raw.json
+HPSY_8102,method,IRB process and forms,IRB process and forms,1,verified,IRB process and forms,HPSY_8102_concepts_raw.json
+HPSY_8102,method,APA writing,APA writing,1,verified,APA writing,HPSY_8102_concepts_raw.json

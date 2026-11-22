@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3122,influence lines,concept,PART_OF,beams and frames,concept,,,CEGR_3122_triples_raw.json
+CEGR_3122,computation of reactions,method,USED_FOR,deflections,method,,,CEGR_3122_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3310,Newton's Laws Application,concept,PREREQUISITE_OF,Flight Dynamics Basics,concept,same unit,,MEGR_3310_triples_raw.json
+MEGR_3310,Newton's Laws Application,concept,PREREQUISITE_OF,Aerodynamic Forces Acting,concept,same unit,,MEGR_3310_triples_raw.json
+MEGR_3310,Angular Momentum Principles,concept,PREREQUISITE_OF,Equations of Motion,concept,same unit,,MEGR_3310_triples_raw.json
+MEGR_3310,Flight Dynamics Basics,concept,PART_OF,Flight Mechanics,topic,,,MEGR_3310_triples_raw.json
+MEGR_3310,Newton's Laws Application,concept,PART_OF,Flight Mechanics,topic,,,MEGR_3310_triples_raw.json
+MEGR_3310,Drag and Lift Forces,concept,PART_OF,Airplane Performance,topic,,,MEGR_3310_triples_raw.json
+MEGR_3310,Efficiency and Range,concept,PART_OF,Airplane Performance,topic,,,MEGR_3310_triples_raw.json
+MEGR_3310,Angular Momentum Principles,concept,PART_OF,Flight Dynamics Equations,topic,,,MEGR_3310_triples_raw.json
+MEGR_3310,Equations of Motion,concept,PART_OF,Flight Dynamics Equations,topic,,,MEGR_3310_triples_raw.json
+MEGR_3310,Lift and Drag Coefficients,concept,PART_OF,Aerodynamic Forces and Moments,topic,,,MEGR_3310_triples_raw.json
+MEGR_3310,Stability and Control,concept,PART_OF,Aerodynamic Forces and Moments,topic,,,MEGR_3310_triples_raw.json

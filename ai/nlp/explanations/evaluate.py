@@ -69,7 +69,7 @@ def sentences(text: str) -> list[str]:
 def score(item: dict, evidence: list[dict], answer: str, checked: dict) -> dict:
     """Pass/fail for every check that applies to this item."""
     ids = {e["id"] for e in evidence}
-    refused = NOT_FOUND in (answer or "").lower()
+    refused = (answer or "").strip().rstrip(".!?").lower() == NOT_FOUND
     checks: dict[str, bool] = {}
     if item.get("expect_evidence"):
         checks["retrieval"] = all(i in ids for i in item["expect_evidence"])

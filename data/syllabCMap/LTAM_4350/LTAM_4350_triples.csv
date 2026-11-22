@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_4350,Foundational Concepts in Linguistics,topic,PREREQUISITE_OF,Critical Perspectives on Language,topic,A taught first,,LTAM_4350_triples_raw.json
+LTAM_4350,Foundational Concepts in Linguistics,topic,PREREQUISITE_OF,Linguistic Hierarchies in Latin America,topic,A taught first,,LTAM_4350_triples_raw.json
+LTAM_4350,Foundational Concepts in Linguistics,topic,PREREQUISITE_OF,Linguistic Discrimination Analysis,topic,A taught first,,LTAM_4350_triples_raw.json
+LTAM_4350,Foundational Concepts in Linguistics,topic,PREREQUISITE_OF,Case Studies in Linguistic Inequality,topic,A taught first,,LTAM_4350_triples_raw.json
+LTAM_4350,Language Contact and Change,topic,PART_OF,Spanish Critical Linguistics,topic,,,LTAM_4350_triples_raw.json
+LTAM_4350,Linguistic Discrimination Analysis,topic,PART_OF,Spanish Critical Linguistics,topic,,,LTAM_4350_triples_raw.json
+LTAM_4350,Case Studies in Linguistic Inequality,topic,PART_OF,Spanish Critical Linguistics,topic,,,LTAM_4350_triples_raw.json
+LTAM_4350,critical discourse analysis,concept,USED_FOR,Linguistic Discrimination Analysis,topic,,,LTAM_4350_triples_raw.json
+LTAM_4350,Gramsci's hegemony theory,concept,USED_FOR,Linguistic Discrimination Analysis,topic,,,LTAM_4350_triples_raw.json
+LTAM_4350,Bakhtin's dialogism concept,concept,USED_FOR,Linguistic Discrimination Analysis,topic,,,LTAM_4350_triples_raw.json

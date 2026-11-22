@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3121,mass media definition,concept,PREREQUISITE_OF,types of mass media,concept,same unit,,COMM_3121_triples_raw.json
+COMM_3121,historic events in media,concept,PREREQUISITE_OF,media impact on society,concept,same unit,,COMM_3121_triples_raw.json
+COMM_3121,communication theories overview,concept,PREREQUISITE_OF,media effects theory,concept,same unit,,COMM_3121_triples_raw.json
+COMM_3121,communication theories overview,concept,PREREQUISITE_OF,agenda setting theory,concept,same unit,,COMM_3121_triples_raw.json
+COMM_3121,mass media definition,concept,PART_OF,Mass Media,topic,,,COMM_3121_triples_raw.json
+COMM_3121,types of mass media,concept,PART_OF,Mass Media,topic,,,COMM_3121_triples_raw.json
+COMM_3121,media influence on culture,concept,PART_OF,Mass Media,topic,,,COMM_3121_triples_raw.json
+COMM_3121,historic events in media,concept,PART_OF,Historical Case Studies,topic,,,COMM_3121_triples_raw.json
+COMM_3121,media impact on society,concept,PART_OF,Historical Case Studies,topic,,,COMM_3121_triples_raw.json
+COMM_3121,cultural changes over time,concept,PART_OF,Historical Case Studies,topic,,,COMM_3121_triples_raw.json
+COMM_3121,communication theories overview,concept,PART_OF,Theories of Mass Communication,topic,,,COMM_3121_triples_raw.json
+COMM_3121,media effects theory,concept,PART_OF,Theories of Mass Communication,topic,,,COMM_3121_triples_raw.json
+COMM_3121,agenda setting theory,concept,PART_OF,Theories of Mass Communication,topic,,,COMM_3121_triples_raw.json
+COMM_3121,types of social media,concept,PART_OF,Social Media and Culture,topic,,,COMM_3121_triples_raw.json
+COMM_3121,impact on human behavior,concept,PART_OF,Social Media and Culture,topic,,,COMM_3121_triples_raw.json
+COMM_3121,cultural differences online,concept,PART_OF,Social Media and Culture,topic,,,COMM_3121_triples_raw.json
+COMM_3121,media literacy definition,concept,PART_OF,Media Literacy and Critical Thinking,topic,,,COMM_3121_triples_raw.json
+COMM_3121,analyzing media messages,concept,PART_OF,Media Literacy and Critical Thinking,topic,,,COMM_3121_triples_raw.json

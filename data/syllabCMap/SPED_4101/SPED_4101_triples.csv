@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_4101,Data-Driven Instructional Decision Making,concept,PREREQUISITE_OF,Rigorous Learning Goals,topic,A taught first,,SPED_4101_triples_raw.json
+SPED_4101,Data-Driven Instructional Decision Making,concept,PREREQUISITE_OF,Continuum of Support,concept,A taught first,,SPED_4101_triples_raw.json
+SPED_4101,Data-Driven Instructional Decision Making,concept,PREREQUISITE_OF,Multiple Sources of Data,concept,A taught first,,SPED_4101_triples_raw.json
+SPED_4101,Data-Driven Instructional Decision Making,concept,PREREQUISITE_OF,Student Response to Instruction,concept,A taught first,,SPED_4101_triples_raw.json
+SPED_4101,Rigorous Learning Goals,topic,PART_OF,Instructional Practices,concept,,part is broader than whole - check direction,SPED_4101_triples_raw.json
+SPED_4101,Variety of Instructional Strategies,topic,PART_OF,Instructional Practices,concept,,part is broader than whole - check direction,SPED_4101_triples_raw.json

@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3228,topic,General Cash Flows,General Cash Flows,1,verified,General Cash Flows,MATH_3228_concepts_raw.json
+MATH_3228,tool,Texas Instruments BA II Plus,Texas Instruments BA II Plus,1,verified,Texas Instruments BA II Plus,MATH_3228_concepts_raw.json
+MATH_3228,tool,BA-35,BA-35,1,verified,BA-35,MATH_3228_concepts_raw.json
+MATH_3228,topic,Calculator Familiarization,Calculator Familiarization,1,inferred,Calculator Familiarization,MATH_3228_concepts_raw.json
+MATH_3228,topic,Financial Math Concepts,Financial Math Concepts,1,inferred,Financial Math Concepts,MATH_3228_concepts_raw.json
+MATH_3228,topic,Financial Calculations,Financial Calculations,1,inferred,Financial Calculations,MATH_3228_concepts_raw.json
+MATH_3228,topic,Calculator Applications,Calculator Applications,1,inferred,Calculator Applications,MATH_3228_concepts_raw.json
+MATH_3228,concept,Time Value of Money,Time Value of Money,1,inferred,Time Value of Money,MATH_3228_concepts_raw.json
+MATH_3228,concept,Present Value Formula,Present Value Formula,1,inferred,Present Value Formula,MATH_3228_concepts_raw.json
+MATH_3228,concept,Future Value Formula,Future Value Formula,1,inferred,Future Value Formula,MATH_3228_concepts_raw.json
+MATH_3228,concept,Cash Flow Streams Definition,Cash Flow Streams Definition,1,inferred,Cash Flow Streams Definition,MATH_3228_concepts_raw.json
+MATH_3228,concept,Annuity Payments and Schedules,Annuity Payments and Schedules,1,inferred,Annuity Payments and Schedules,MATH_3228_concepts_raw.json
+MATH_3228,concept,Amortization Periods,Amortization Periods,1,inferred,Amortization Periods,MATH_3228_concepts_raw.json
+MATH_3228,concept,NPV and IRR Calculations,NPV and IRR Calculations,1,inferred,NPV and IRR Calculations,MATH_3228_concepts_raw.json
+MATH_3228,concept,Cash Flow Analysis Techniques,Cash Flow Analysis Techniques,1,inferred,Cash Flow Analysis Techniques,MATH_3228_concepts_raw.json
+MATH_3228,concept,BA II Plus calculator functions,BA II Plus Calculator Functions,1,inferred,BA II Plus calculator functions,MATH_3228_concepts_raw.json

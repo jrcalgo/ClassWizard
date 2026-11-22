@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_3100,Complexity of Modern Classrooms,concept,PREREQUISITE_OF,Building Classroom Communities,topic,A taught first,,MDSK_3100_triples_raw.json
+MDSK_3100,Teacher Education Candidates,concept,PREREQUISITE_OF,Relationships in the Classroom,concept,A taught first,,MDSK_3100_triples_raw.json
+MDSK_3100,Policy Impact on Teaching Practice,concept,PREREQUISITE_OF,Educational Policies and Instruction,topic,same unit,,MDSK_3100_triples_raw.json
+MDSK_3100,Interpersonal Communication Skills,concept,PART_OF,Relationships in the Classroom,concept,,,MDSK_3100_triples_raw.json
+MDSK_3100,Relationships in the Classroom,concept,PART_OF,Building Trust with Students,concept,,,MDSK_3100_triples_raw.json
+MDSK_3100,Creating Inclusive Learning Spaces,concept,PART_OF,Classroom Environment Design,concept,,,MDSK_3100_triples_raw.json
+MDSK_3100,Social and Emotional Support,concept,PART_OF,Classroom Environment Design,concept,,,MDSK_3100_triples_raw.json
+MDSK_3100,Academic Engagement Strategies,concept,PART_OF,Classroom Environment Design,concept,,,MDSK_3100_triples_raw.json
+MDSK_3100,Differentiated Instruction Strategies,concept,PART_OF,Adapting Instruction for Diverse Learners,concept,,,MDSK_3100_triples_raw.json
+MDSK_3100,Accommodating Student Needs,concept,PART_OF,Adapting Instruction for Diverse Learners,concept,,,MDSK_3100_triples_raw.json
+MDSK_3100,Culturally Responsive Teaching Practices,concept,PART_OF,Adapting Instruction for Diverse Learners,concept,,,MDSK_3100_triples_raw.json
+MDSK_3100,Reflective Practice in Teaching,concept,PART_OF,Identifying Areas for Improvement,concept,,,MDSK_3100_triples_raw.json
+MDSK_3100,Project-Based Learning Approaches,concept,PART_OF,Final Project Preparation,topic,,,MDSK_3100_triples_raw.json
+MDSK_3100,Creating Engaging Learning Environments,concept,PART_OF,Final Project Preparation,topic,,,MDSK_3100_triples_raw.json

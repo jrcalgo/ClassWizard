@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_6360,Maximum likelihood estimation,concept,PREREQUISITE_OF,Bayesian inference methods,concept,same unit,,GRAD_6360_triples_raw.json
+GRAD_6360,Hypothesis Testing,concept,PREREQUISITE_OF,Confidence Intervals,concept,same unit,,GRAD_6360_triples_raw.json
+GRAD_6360,Time series analysis,concept,PREREQUISITE_OF,ARIMA model components,concept,same unit,,GRAD_6360_triples_raw.json
+GRAD_6360,Stationarity assumption,concept,PREREQUISITE_OF,Time series analysis,concept,same unit,,GRAD_6360_triples_raw.json
+GRAD_6360,Hypothesis Testing,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_6360_triples_raw.json
+GRAD_6360,Confidence Intervals,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_6360_triples_raw.json
+GRAD_6360,Sampling Distributions,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_6360_triples_raw.json
+GRAD_6360,Standard Error Estimation,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_6360_triples_raw.json
+GRAD_6360,Maximum likelihood estimation,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_6360_triples_raw.json
+GRAD_6360,Markov chain Monte Carlo,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_6360_triples_raw.json
+GRAD_6360,Gibbs sampling algorithm,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_6360_triples_raw.json
+GRAD_6360,Convergence diagnostics,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_6360_triples_raw.json
+GRAD_6360,MCMC convergence criteria,concept,PART_OF,Bayesian inference methods,concept,,,GRAD_6360_triples_raw.json

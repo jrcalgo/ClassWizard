@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_5123,topic,Applied Statistics I,Applied Statistics I,1,verified,Applied Statistics I,STAT_5123_concepts_raw.json
+STAT_5123,topic,Linear Regression,Linear regression,1,verified,Linear Regression,STAT_5123_concepts_raw.json
+STAT_5123,topic,Parameter Estimation,parameter estimation,2,verified,Parameter Estimation,STAT_5123_concepts_raw.json
+STAT_5123,concept,hypothesis testing and confidence intervals,hypothesis testing and confidence intervals,2,verified,hypothesis testing and confidence intervals,STAT_5123_concepts_raw.json
+STAT_5123,concept,ANOVA table,ANOVA table,2,verified,ANOVA table,STAT_5123_concepts_raw.json
+STAT_5123,concept,model diagnostics,model diagnostics,2,verified,model diagnostics,STAT_5123_concepts_raw.json
+STAT_5123,concept,transformations,transformations,2,verified,transformations,STAT_5123_concepts_raw.json
+STAT_5123,topic,Leverages and Influential Points,leverages and influential points,2,verified,Leverages and Influential Points,STAT_5123_concepts_raw.json
+STAT_5123,concept,multicollinearity,multicollinearity,2,verified,multicollinearity,STAT_5123_concepts_raw.json
+STAT_5123,topic,Dimension Reduction Techniques,dimension reduction techniques,2,verified,Dimension Reduction Techniques,STAT_5123_concepts_raw.json
+STAT_5123,concept,categorical predictors,categorical predictors,2,verified,categorical predictors,STAT_5123_concepts_raw.json

@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_6099,occupational stress definition,concept,PREREQUISITE_OF,burnout concept and theory,concept,same unit,,PSYC_6099_triples_raw.json
+PSYC_6099,occupational stress definition,concept,PREREQUISITE_OF,employee well-being importance,concept,same unit,,PSYC_6099_triples_raw.json
+PSYC_6099,core theories of employee well-being,concept,PREREQUISITE_OF,work design principles,concept,same unit,,PSYC_6099_triples_raw.json
+PSYC_6099,job design and redesign,concept,PREREQUISITE_OF,workload management techniques,concept,same unit,,PSYC_6099_triples_raw.json
+PSYC_6099,employee resilience building,concept,PREREQUISITE_OF,stress management strategies,concept,same unit,,PSYC_6099_triples_raw.json
+PSYC_6099,employee resilience building,concept,PREREQUISITE_OF,mindfulness practices,concept,same unit,,PSYC_6099_triples_raw.json
+PSYC_6099,research study evaluation criteria,concept,PREREQUISITE_OF,questioning research methodology,concept,same unit,,PSYC_6099_triples_raw.json
+PSYC_6099,research study evaluation criteria,concept,PREREQUISITE_OF,synthesizing research findings,concept,same unit,,PSYC_6099_triples_raw.json
+PSYC_6099,occupational stress definition,concept,PART_OF,Work Stress,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,burnout concept and theory,concept,PART_OF,Work Stress,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,work design principles,concept,PART_OF,Theories of Employee Well-Being,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,organizational-level interventions,concept,PART_OF,Organizational Interventions,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,managerial support strategies,concept,PART_OF,Organizational Interventions,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,job design and redesign,concept,PART_OF,Job-Focused Interventions,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,workload management techniques,concept,PART_OF,Job-Focused Interventions,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,task autonomy and control,concept,PART_OF,Job-Focused Interventions,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,employee resilience building,concept,PART_OF,Individual-Level Interventions,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,mindfulness practices,concept,PART_OF,Individual-Level Interventions,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,questioning research methodology,concept,PART_OF,Evaluating Research Studies,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,synthesizing research findings,concept,PART_OF,Evaluating Research Studies,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,empirical evidence integration,concept,PART_OF,Applying Theoretical Knowledge,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,practical intervention design,concept,PART_OF,Applying Theoretical Knowledge,topic,,,PSYC_6099_triples_raw.json
+PSYC_6099,APA style reference list creation,concept,PART_OF,Final Project Preparation,topic,,,PSYC_6099_triples_raw.json

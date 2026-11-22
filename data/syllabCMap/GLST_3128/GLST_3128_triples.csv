@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_3128,Global Issues,topic,PREREQUISITE_OF,Marxist Theory and Critique,topic,A taught first,,GLST_3128_triples_raw.json
+GLST_3128,Global Issues,topic,PREREQUISITE_OF,Foucault's Power Dynamics,topic,A taught first,,GLST_3128_triples_raw.json
+GLST_3128,Global Issues,topic,PREREQUISITE_OF,Global Justice and Human Rights,topic,A taught first,,GLST_3128_triples_raw.json
+GLST_3128,Global Issues,topic,PREREQUISITE_OF,Ecological Theory and Critique,topic,A taught first,,GLST_3128_triples_raw.json
+GLST_3128,globalization and inequality,concept,PART_OF,Global Issues,topic,,,GLST_3128_triples_raw.json
+GLST_3128,climate change impact,concept,PART_OF,Global Issues,topic,,,GLST_3128_triples_raw.json
+GLST_3128,sustainable development goals,concept,PART_OF,Global Issues,topic,,,GLST_3128_triples_raw.json
+GLST_3128,class struggle and conflict,concept,PART_OF,Marxist Theory and Critique,topic,,,GLST_3128_triples_raw.json
+GLST_3128,capitalism's limitations,concept,PART_OF,Marxist Theory and Critique,topic,,,GLST_3128_triples_raw.json
+GLST_3128,power relationships and structures,concept,PART_OF,Foucault's Power Dynamics,topic,,,GLST_3128_triples_raw.json
+GLST_3128,discourse and knowledge production,concept,PART_OF,Foucault's Power Dynamics,topic,,,GLST_3128_triples_raw.json
+GLST_3128,resistance and subversion,concept,PART_OF,Foucault's Power Dynamics,topic,,,GLST_3128_triples_raw.json
+GLST_3128,colonialism and imperialism,concept,PART_OF,Postcolonial Theory and Critique,topic,,,GLST_3128_triples_raw.json
+GLST_3128,cultural hybridity and identity,concept,PART_OF,Postcolonial Theory and Critique,topic,,,GLST_3128_triples_raw.json
+GLST_3128,decolonization and resistance,concept,PART_OF,Postcolonial Theory and Critique,topic,,,GLST_3128_triples_raw.json
+GLST_3128,universal human rights principles,concept,PART_OF,Global Justice and Human Rights,topic,,,GLST_3128_triples_raw.json
+GLST_3128,environmental degradation and crisis,concept,PART_OF,Ecological Theory and Critique,topic,,,GLST_3128_triples_raw.json
+GLST_3128,sustainable living and practices,concept,PART_OF,Ecological Theory and Critique,topic,,,GLST_3128_triples_raw.json

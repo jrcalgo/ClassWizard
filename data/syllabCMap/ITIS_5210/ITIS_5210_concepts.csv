@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5210,topic,Identity & Access Management,Identity & Access Management,2,verified,Identity & Access Management,ITIS_5210_concepts_raw.json
+ITIS_5210,concept,authentication,authentication,1,verified,authentication,ITIS_5210_concepts_raw.json
+ITIS_5210,concept,authorization,authorization,1,verified,authorization,ITIS_5210_concepts_raw.json
+ITIS_5210,concept,certification,certification,2,verified,certification,ITIS_5210_concepts_raw.json
+ITIS_5210,concept,federation,federation,2,verified,federation,ITIS_5210_concepts_raw.json
+ITIS_5210,concept,governance,governance,1,verified,governance,ITIS_5210_concepts_raw.json
+ITIS_5210,concept,trust,trust,1,verified,trust,ITIS_5210_concepts_raw.json
+ITIS_5210,concept,identity in global experiences,identity in global experiences,1,verified,identity in global experiences,ITIS_5210_concepts_raw.json
+ITIS_5210,concept,standards in digital identity,standards in digital identity,1,verified,standards in digital identity,ITIS_5210_concepts_raw.json
+ITIS_5210,method,handson labs,handson labs,1,verified,handson labs,ITIS_5210_concepts_raw.json
+ITIS_5210,method,building and integrating systems,building and integrating systems,1,verified,building and integrating systems,ITIS_5210_concepts_raw.json

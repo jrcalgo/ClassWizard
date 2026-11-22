@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HADM_6100,Healthcare System Overview,topic,PREREQUISITE_OF,Computer Technology in Healthcare,topic,A taught first,,HADM_6100_triples_raw.json
+HADM_6100,Governance and Boards,topic,PREREQUISITE_OF,Public Health Perspective in Healthcare Management,topic,A taught first,,HADM_6100_triples_raw.json
+HADM_6100,International Healthcare Systems Comparison,topic,PREREQUISITE_OF,Healthcare Stakeholders,topic,B taught first,B is taught before A - check,HADM_6100_triples_raw.json
+HADM_6100,US Healthcare System Structure,concept,PART_OF,Healthcare System Overview,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Evolution of Healthcare Delivery,concept,PART_OF,Healthcare System Overview,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Effective Communication Techniques,concept,PART_OF,Communication Strategies,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Goal-Oriented Communication Planning,concept,PART_OF,Communication Strategies,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Application Software in Healthcare,concept,PART_OF,Computer Technology in Healthcare,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Database Technology for Healthcare,concept,PART_OF,Computer Technology in Healthcare,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Managing Computer Systems,concept,PART_OF,Computer Technology in Healthcare,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Systems Thinking in Public Health,concept,PART_OF,Strategic Thinking and Systems,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Organizational Change Management,concept,PART_OF,Strategic Thinking and Systems,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Effective Governance Structures,concept,PART_OF,Governance and Boards,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Working with Boards and Stakeholders,concept,PART_OF,Governance and Boards,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Board-Management Relationships,concept,PART_OF,Governance and Boards,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Identifying Major Healthcare Stakeholders,concept,PART_OF,Healthcare Stakeholders,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Managing Stakeholder Expectations,concept,PART_OF,Healthcare Stakeholders,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Impact of Legal and Regulatory Environments,concept,PART_OF,"Legal, Regulatory, and Political Environments",topic,,,HADM_6100_triples_raw.json
+HADM_6100,Political Influences on Healthcare Policy,concept,PART_OF,"Legal, Regulatory, and Political Environments",topic,,,HADM_6100_triples_raw.json
+HADM_6100,Navigating Complex Regulatory Systems,concept,PART_OF,"Legal, Regulatory, and Political Environments",topic,,,HADM_6100_triples_raw.json
+HADM_6100,Applying Public Health Principles to Healthcare,concept,PART_OF,Public Health Perspective in Healthcare Management,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Population-Based Healthcare Approaches,concept,PART_OF,Public Health Perspective in Healthcare Management,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Decision Theory and Analysis,concept,PART_OF,Management Concepts in Healthcare,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Communication Strategies for Conflict Resolution,concept,PART_OF,"Teamwork, Communication, and Conflict Resolution",topic,,,HADM_6100_triples_raw.json
+HADM_6100,Negotiation and Consensus Building,concept,PART_OF,"Teamwork, Communication, and Conflict Resolution",topic,,,HADM_6100_triples_raw.json
+HADM_6100,Application Software in Healthcare,concept,USED_FOR,Computer Technology in Healthcare,topic,,,HADM_6100_triples_raw.json
+HADM_6100,Managing Computer Systems,concept,USED_FOR,Computer Technology in Healthcare,topic,,,HADM_6100_triples_raw.json

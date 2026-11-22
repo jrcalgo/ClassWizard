@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_2220,probability concepts,concept,PREREQUISITE_OF,hypothesis testing basics,concept,same unit,,POLS_2220_triples_raw.json
+POLS_2220,probability concepts,concept,PREREQUISITE_OF,confidence intervals,concept,same unit,,POLS_2220_triples_raw.json
+POLS_2220,data quality metrics,concept,PREREQUISITE_OF,data visualization,method,B taught first,B is taught before A - check,POLS_2220_triples_raw.json
+POLS_2220,regression analysis basics,concept,PREREQUISITE_OF,t-tests,concept,same unit,,POLS_2220_triples_raw.json
+POLS_2220,regression analysis basics,concept,PREREQUISITE_OF,mixed-methods research design,concept,A taught first,,POLS_2220_triples_raw.json
+POLS_2220,data cleaning techniques,concept,PART_OF,Data Quality and Evaluation,topic,,,POLS_2220_triples_raw.json
+POLS_2220,literature review techniques,method,PART_OF,Literature Search and Review,topic,,,POLS_2220_triples_raw.json
+POLS_2220,citation analysis,method,PART_OF,Literature Search and Review,topic,,,POLS_2220_triples_raw.json
+POLS_2220,confidence interval construction,method,PART_OF,Statistical Reasoning Fundamentals,topic,,,POLS_2220_triples_raw.json
+POLS_2220,margin of error estimation,method,PART_OF,Quantifying Uncertainty in R,topic,,,POLS_2220_triples_raw.json
+POLS_2220,hypothesis testing,method,USED_FOR,Statistical Reasoning Fundamentals,topic,,,POLS_2220_triples_raw.json
+POLS_2220,data visualization,method,USED_FOR,Descriptive Statistics in R,topic,,,POLS_2220_triples_raw.json

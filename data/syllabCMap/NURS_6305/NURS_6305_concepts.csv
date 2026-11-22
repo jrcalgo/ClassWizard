@@ -1,0 +1,42 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_6305,topic,Advanced Pathophysiology and Pharmacology for Nurse Educators,Advanced Pathophysiology and Pharmacology for Nurse Educators,1,verified,Advanced Pathophysiology and Pharmacology for Nurse Educators,NURS_6305_concepts_raw.json
+NURS_6305,topic,Pathophysiology Fundamentals,Pathophysiology Fundamentals,1,inferred,Pathophysiology Fundamentals,NURS_6305_concepts_raw.json
+NURS_6305,topic,Pharmacology Basics,Pharmacology Basics,1,inferred,Pharmacology Basics,NURS_6305_concepts_raw.json
+NURS_6305,topic,Cardiovascular Pathophysiology,Cardiovascular Pathophysiology,1,inferred,Cardiovascular Pathophysiology,NURS_6305_concepts_raw.json
+NURS_6305,topic,Neurological System Alterations,Neurological System Alterations,1,inferred,Neurological System Alterations,NURS_6305_concepts_raw.json
+NURS_6305,topic,Respiratory System Disorders,Respiratory System Disorders,1,inferred,Respiratory System Disorders,NURS_6305_concepts_raw.json
+NURS_6305,topic,Gastrointestinal System Issues,Gastrointestinal System Issues,1,inferred,Gastrointestinal System Issues,NURS_6305_concepts_raw.json
+NURS_6305,topic,Endocrine System Alterations,Endocrine System Alterations,1,inferred,Endocrine System Alterations,NURS_6305_concepts_raw.json
+NURS_6305,topic,Musculoskeletal System Disorders,Musculoskeletal System Disorders,1,inferred,Musculoskeletal System Disorders,NURS_6305_concepts_raw.json
+NURS_6305,topic,Genitourinary System Issues,Genitourinary System Issues,1,inferred,Genitourinary System Issues,NURS_6305_concepts_raw.json
+NURS_6305,topic,Immune System Disorders,Immune System Disorders,1,inferred,Immune System Disorders,NURS_6305_concepts_raw.json
+NURS_6305,concept,Cellular Pathophysiology Changes,Cellular Pathophysiology Changes,1,inferred,Cellular Pathophysiology Changes,NURS_6305_concepts_raw.json
+NURS_6305,concept,Tissue Damage and Repair,Tissue Damage and Repair,1,inferred,Tissue Damage and Repair,NURS_6305_concepts_raw.json
+NURS_6305,concept,Inflammation Process Overview,Inflammation Process Overview,1,inferred,Inflammation Process Overview,NURS_6305_concepts_raw.json
+NURS_6305,concept,Drug Classification Systems Used,Drug Classification Systems Used,1,inferred,Drug Classification Systems Used,NURS_6305_concepts_raw.json
+NURS_6305,concept,Pharmacokinetics and Pharmacodynamics,Pharmacokinetics and Pharmacodynamics,1,inferred,Pharmacokinetics and Pharmacodynamics,NURS_6305_concepts_raw.json
+NURS_6305,concept,Therapeutic Index Explanation,Therapeutic Index Explanation,1,inferred,Therapeutic Index Explanation,NURS_6305_concepts_raw.json
+NURS_6305,concept,Hypertension Effects on Organs,Hypertension Effects on Organs,1,inferred,Hypertension Effects on Organs,NURS_6305_concepts_raw.json
+NURS_6305,concept,Heart Failure Stages Defined,Heart Failure Stages Defined,1,inferred,Heart Failure Stages Defined,NURS_6305_concepts_raw.json
+NURS_6305,concept,Coronary Artery Disease Risks,Coronary Artery Disease Risks,1,inferred,Coronary Artery Disease Risks,NURS_6305_concepts_raw.json
+NURS_6305,concept,Stroke Types and Symptoms,Stroke Types and Symptoms,1,inferred,Stroke Types and Symptoms,NURS_6305_concepts_raw.json
+NURS_6305,concept,Parkinson's Disease Pathophysiology,Parkinson's Disease Pathophysiology,1,inferred,Parkinson's Disease Pathophysiology,NURS_6305_concepts_raw.json
+NURS_6305,concept,Multiple Sclerosis Overview,Multiple Sclerosis Overview,1,inferred,Multiple Sclerosis Overview,NURS_6305_concepts_raw.json
+NURS_6305,concept,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease,1,inferred,Chronic Obstructive Pulmonary Disease,NURS_6305_concepts_raw.json
+NURS_6305,concept,Asthma Pathophysiology Explained,Asthma Pathophysiology Explained,1,inferred,Asthma Pathophysiology Explained,NURS_6305_concepts_raw.json
+NURS_6305,concept,Pneumonia Causes and Symptoms,Pneumonia Causes and Symptoms,1,inferred,Pneumonia Causes and Symptoms,NURS_6305_concepts_raw.json
+NURS_6305,concept,Peptic Ulcer Disease Pathophysiology,Peptic Ulcer Disease Pathophysiology,1,inferred,Peptic Ulcer Disease Pathophysiology,NURS_6305_concepts_raw.json
+NURS_6305,concept,Irritable Bowel Syndrome Overview,Irritable Bowel Syndrome Overview,1,inferred,Irritable Bowel Syndrome Overview,NURS_6305_concepts_raw.json
+NURS_6305,concept,Inflammatory Bowel Disease Types,Inflammatory Bowel Disease Types,1,inferred,Inflammatory Bowel Disease Types,NURS_6305_concepts_raw.json
+NURS_6305,concept,Diabetes Mellitus Types and Stages,Diabetes Mellitus Types and Stages,1,inferred,Diabetes Mellitus Types and Stages,NURS_6305_concepts_raw.json
+NURS_6305,concept,Hypothyroidism Causes and Symptoms,Hypothyroidism Causes and Symptoms,1,inferred,Hypothyroidism Causes and Symptoms,NURS_6305_concepts_raw.json
+NURS_6305,concept,Hyperparathyroidism Effects on Organs,Hyperparathyroidism Effects on Organs,1,inferred,Hyperparathyroidism Effects on Organs,NURS_6305_concepts_raw.json
+NURS_6305,concept,Osteoarthritis Pathophysiology Explained,Osteoarthritis Pathophysiology Explained,1,inferred,Osteoarthritis Pathophysiology Explained,NURS_6305_concepts_raw.json
+NURS_6305,concept,Rheumatoid Arthritis Overview,Rheumatoid Arthritis Overview,1,inferred,Rheumatoid Arthritis Overview,NURS_6305_concepts_raw.json
+NURS_6305,concept,Tendinitis and Bursitis Causes,Tendinitis and Bursitis Causes,1,inferred,Tendinitis and Bursitis Causes,NURS_6305_concepts_raw.json
+NURS_6305,concept,Kidney Disease Stages Defined,Kidney Disease Stages Defined,1,inferred,Kidney Disease Stages Defined,NURS_6305_concepts_raw.json
+NURS_6305,concept,Urinary Tract Infections Pathophysiology,Urinary Tract Infections Pathophysiology,1,inferred,Urinary Tract Infections Pathophysiology,NURS_6305_concepts_raw.json
+NURS_6305,concept,Benign Prostatic Hyperplasia Overview,Benign Prostatic Hyperplasia Overview,1,inferred,Benign Prostatic Hyperplasia Overview,NURS_6305_concepts_raw.json
+NURS_6305,concept,Autoimmune Diseases Types and Causes,Autoimmune Diseases Types and Causes,1,inferred,Autoimmune Diseases Types and Causes,NURS_6305_concepts_raw.json
+NURS_6305,concept,Immunodeficiency Disorders Overview,Immunodeficiency Disorders Overview,1,inferred,Immunodeficiency Disorders Overview,NURS_6305_concepts_raw.json
+NURS_6305,concept,Cancer Immunology,Cancer Immunology,1,inferred,Cancer Immunology,NURS_6305_concepts_raw.json

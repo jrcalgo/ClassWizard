@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_2130L,topic,evolution,evolution,3,verified,evolution,BIOL_2130L_concepts_raw.json
+BIOL_2130L,topic,population and community ecology,population and community ecology,1,verified,population and community ecology,BIOL_2130L_concepts_raw.json
+BIOL_2130L,topic,phylogenetics,phylogenetics,1,verified,phylogenetics,BIOL_2130L_concepts_raw.json
+BIOL_2130L,measure,biodiversity,biodiversity,3,verified,biodiversity,BIOL_2130L_concepts_raw.json
+BIOL_2130L,topic,scientific hypotheses,scientific hypotheses,1,verified,scientific hypotheses,BIOL_2130L_concepts_raw.json
+BIOL_2130L,topic,primary literature,primary literature,4,verified,primary literature,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,Hardy–Weinberg equilibrium,Hardy– Weinberg equilibrium,1,verified,Hardy–Weinberg equilibrium,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,genetic drift,genetic drift,1,verified,genetic drift,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,migration,migration,1,verified,migration,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,selection,selection,1,verified,selection,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,molecular data,molecular data,2,verified,molecular data,BIOL_2130L_concepts_raw.json
+BIOL_2130L,topic,phylogenetic trees,phylogenetic trees,2,verified,phylogenetic trees,BIOL_2130L_concepts_raw.json
+BIOL_2130L,topic,human genetic variation,human genetic variation,1,verified,human genetic variation,BIOL_2130L_concepts_raw.json
+BIOL_2130L,method,molecular markers,molecular markers,1,verified,molecular markers,BIOL_2130L_concepts_raw.json
+BIOL_2130L,topic,conservation concepts,conservation concepts,1,verified,conservation concepts,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,research framework,research framework,2,verified,research framework,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,primary research literature,primary research literature,1,verified,primary research literature,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,scientific hypothesis,Scientific Hypothesis,1,verified,scientific hypothesis,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,phylogenetic tree,phylogenetic trees,2,verified,phylogenetic tree,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,molecular marker,molecular markers,1,verified,molecular marker,BIOL_2130L_concepts_raw.json
+BIOL_2130L,concept,conservation concept,conservation concepts,1,verified,conservation concept,BIOL_2130L_concepts_raw.json
+BIOL_2130L,method,critical reading of the primary literature,critical reading of the primary literature,1,verified,critical reading of the primary literature,BIOL_2130L_concepts_raw.json
+BIOL_2130L,method,field-survey methods,field-survey methods,1,verified,field-survey methods,BIOL_2130L_concepts_raw.json
+BIOL_2130L,method,simulations,simulations,1,verified,simulations,BIOL_2130L_concepts_raw.json
+BIOL_2130L,method,statistical tests,statistical tests,1,verified,statistical tests,BIOL_2130L_concepts_raw.json
+BIOL_2130L,method,tree-thinking,tree-thinking,1,verified,tree-thinking,BIOL_2130L_concepts_raw.json
+BIOL_2130L,measure,richness,richness,1,verified,richness,BIOL_2130L_concepts_raw.json
+BIOL_2130L,measure,diversity,diversity,1,verified,diversity,BIOL_2130L_concepts_raw.json

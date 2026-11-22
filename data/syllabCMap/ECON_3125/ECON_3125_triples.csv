@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_3125,supply and demand,concept,PREREQUISITE_OF,business cycles,topic,A taught first,,ECON_3125_triples_raw.json
+ECON_3125,supply and demand,concept,PREREQUISITE_OF,exchange rates,topic,A taught first,,ECON_3125_triples_raw.json
+ECON_3125,supply and demand,concept,USED_FOR,behavior of firms and consumers,topic,,,ECON_3125_triples_raw.json
+ECON_3125,supply and demand,concept,USED_FOR,effects of monetary and fiscal policies,topic,,,ECON_3125_triples_raw.json

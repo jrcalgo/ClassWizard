@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Student Reasoning,concept,same unit,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Equitable Participation,concept,same unit,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Mathematical Authorities,concept,same unit,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Rigor in Math Instruction,concept,A taught first,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Eliciting Student Thinking,concept,A taught first,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Reform-Oriented Vision,concept,A taught first,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Shared Authority,concept,A taught first,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Implementing Ambitious Practices,concept,A taught first,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Agency-Centered Teaching,concept,A taught first,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Inquiry-Based Learning,concept,A taught first,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,PREREQUISITE_OF,Teacher Trajectory,concept,A taught first,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,USED_FOR,Ambitious Mathematics Teaching,concept,,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,USED_FOR,Equitable Participation,concept,,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,USED_FOR,Responding to Student Thinking,concept,,,MAED_6124_triples_raw.json
+MAED_6124,Nonroutine Tasks,concept,USED_FOR,Agency-Centered Teaching,concept,,,MAED_6124_triples_raw.json

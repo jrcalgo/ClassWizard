@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BPHD_8120,least squares estimators,concept,PREREQUISITE_OF,maximum likelihood estimation,concept,same unit,,BPHD_8120_triples_raw.json
+BPHD_8120,least squares estimators,concept,PREREQUISITE_OF,multicollinearity,concept,same unit,,BPHD_8120_triples_raw.json
+BPHD_8120,least squares estimators,concept,PREREQUISITE_OF,heteroskedasticity,concept,same unit,,BPHD_8120_triples_raw.json
+BPHD_8120,least squares estimators,concept,PREREQUISITE_OF,autocorrelation,concept,same unit,,BPHD_8120_triples_raw.json

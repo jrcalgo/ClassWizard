@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_1214,Breathwork connection,topic,PART_OF,Martha Graham technique,topic,,,DANC_1214_triples_raw.json
+DANC_1214,Body alignment,topic,PART_OF,Placement and strength,topic,,,DANC_1214_triples_raw.json
+DANC_1214,Bodiography Principles,topic,PART_OF,ARC Residency Methods,topic,,,DANC_1214_triples_raw.json
+DANC_1214,Martha Graham,work,USED_FOR,Martha Graham technique,topic,,,DANC_1214_triples_raw.json

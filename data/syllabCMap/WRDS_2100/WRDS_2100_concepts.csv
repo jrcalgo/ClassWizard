@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+WRDS_2100,topic,Digital Studies in Writing,Digital Studies in Writing,1,verified,Digital Studies in Writing,WRDS_2100_concepts_raw.json
+WRDS_2100,topic,Generative AI and Large Language Models,generative AI and Large Language Models,1,verified,Generative AI and Large Language Models,WRDS_2100_concepts_raw.json
+WRDS_2100,topic,Digital Genres such as filmmaking and podcasting,digital genres such as filmmaking and podcasting,1,verified,Digital Genres such as filmmaking and podcasting,WRDS_2100_concepts_raw.json
+WRDS_2100,topic,Digital Storytelling through web design and self-publication,digital storytelling through web design and self-publication,1,verified,Digital Storytelling through web design and self-publication,WRDS_2100_concepts_raw.json
+WRDS_2100,topic,"Digital Ethics around accessibility, algorithms, remix culture, and digital privacy","Digital Ethics around accessibility, algorithms, remix culture, and digital privacy",1,verified,"Digital Ethics around accessibility, algorithms, remix culture, and digital privacy.",WRDS_2100_concepts_raw.json
+WRDS_2100,concept,relevance,relevance,1,verified,relevance,WRDS_2100_concepts_raw.json
+WRDS_2100,concept,credibility,credibility,1,verified,credibility,WRDS_2100_concepts_raw.json
+WRDS_2100,concept,ethics,ethics,2,verified,ethics,WRDS_2100_concepts_raw.json
+WRDS_2100,concept,multimodality,multimodality,1,verified,multimodality,WRDS_2100_concepts_raw.json
+WRDS_2100,concept,multiliteracies,multiliteracies,1,verified,multiliteracies,WRDS_2100_concepts_raw.json

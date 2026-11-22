@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3130,topic,Electronics and Semiconductors,Electronics and Semiconductors,1,verified,Fundamentals of Electronics and Semiconductors,ECGR_3130_concepts_raw.json
+ECGR_3130,topic,Linear Circuit Elements,Linear Circuit Elements,1,verified,Linear Circuit Elements,ECGR_3130_concepts_raw.json
+ECGR_3130,topic,Diode Characteristics,Diode characteristics,2,verified,Diode Characteristics,ECGR_3130_concepts_raw.json
+ECGR_3130,topic,Operational Amplifiers,Operational Amplifiers,1,verified,Operational Amplifiers,ECGR_3130_concepts_raw.json
+ECGR_3130,topic,Differential Pair Amplifiers,Differential Pair Amplifiers,1,verified,Differential Pair Amplifiers,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,Ohm's law,Ohm's law,2,verified,Ohm's law,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,semiconductor,Semiconductors,3,verified,semiconductor,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,doped semiconductors,Doped semiconductors,1,verified,doped semiconductors,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,energy band structure,energy band structure,1,verified,energy band structure,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,p-n junction diodes,p-n junction diodes,1,verified,p-n junction diodes,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,Zener diodes,Zener diodes,1,verified,Zener diodes,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,bipolar junction transistors,Bipolar junction transistors,1,verified,bipolar junction transistors,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,small signal low frequency models,small signal low frequency models,2,verified,small signal low frequency models,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,Metal Oxide Semiconductor Field Effect Transistors,Metal Oxide semiconductor field effect transistors,1,verified,Metal Oxide Semiconductor Field Effect Transistors,ECGR_3130_concepts_raw.json
+ECGR_3130,concept,operational amplifier,Operational Amplifiers,1,verified,operational amplifier,ECGR_3130_concepts_raw.json

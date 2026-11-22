@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_8005,Global Energy Balance,topic,PREREQUISITE_OF,Ocean Circulation,topic,B mentioned first,,GEOG_8005_triples_raw.json
+GEOG_8005,Global Energy Balance,topic,PREREQUISITE_OF,Hydrologic Cycle,topic,B mentioned first,,GEOG_8005_triples_raw.json
+GEOG_8005,Global Climate System,topic,PREREQUISITE_OF,History and Evolution of the Earth's Climate,topic,A mentioned first,,GEOG_8005_triples_raw.json
+GEOG_8005,Global Climate System,topic,PREREQUISITE_OF,Natural and Human-Induced Climate Variability and Change,topic,A mentioned first,,GEOG_8005_triples_raw.json
+GEOG_8005,Global Energy Balance,topic,PART_OF,Global Climate System,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,Ocean Circulation,topic,PART_OF,Global Climate System,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,Hydrologic Cycle,topic,PART_OF,Global Climate System,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,Climate Sensitivity and Feedback Mechanisms,topic,PART_OF,Global Climate System,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,Natural and Human-Induced Climate Variability and Change,topic,PART_OF,Global Climate System,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,qualitative research methods,method,USED_FOR,Global Energy Balance,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,quantitative analysis,method,USED_FOR,Global Energy Balance,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,quantitative analysis,method,USED_FOR,Ocean Circulation,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,quantitative analysis,method,USED_FOR,Hydrologic Cycle,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,computer programming,method,USED_FOR,Global Energy Balance,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,computer programming,method,USED_FOR,Ocean Circulation,topic,,,GEOG_8005_triples_raw.json
+GEOG_8005,computer programming,method,USED_FOR,Hydrologic Cycle,topic,,,GEOG_8005_triples_raw.json

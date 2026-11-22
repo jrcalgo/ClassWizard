@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_5211,Newton's second law,concept,PREREQUISITE_OF,Steering System Dynamics,topic,A taught first,,MEGR_5211_triples_raw.json
+MEGR_5211,Newton's second law,concept,PREREQUISITE_OF,Dynamic Analysis Application,topic,A taught first,,MEGR_5211_triples_raw.json
+MEGR_5211,pneumatic and hydraulic steering systems,concept,PART_OF,Steering System Dynamics,topic,,,MEGR_5211_triples_raw.json
+MEGR_5211,tire tread and rubber properties,concept,PART_OF,Tire Behavior and Modeling,topic,,,MEGR_5211_triples_raw.json

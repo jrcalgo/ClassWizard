@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_4161,Stream Flow Elements,topic,PREREQUISITE_OF,Traffic Measurement Techniques,topic,A taught first,,CEGR_4161_triples_raw.json
+CEGR_4161,data collection methods,concept,PREREQUISITE_OF,data analysis tools,concept,same unit,,CEGR_4161_triples_raw.json
+CEGR_4161,traffic system performance,concept,PART_OF,Traffic Engineering,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,driver characteristics,concept,PART_OF,Traffic Engineering,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,vehicle types and sizes,concept,PART_OF,Traffic Engineering,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,speed distribution,concept,PART_OF,Stream Flow Elements,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,flow rate calculation,concept,PART_OF,Stream Flow Elements,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,data collection methods,concept,PART_OF,Traffic Measurement Techniques,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,investigation procedures,concept,PART_OF,Traffic Measurement Techniques,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,data analysis tools,concept,PART_OF,Traffic Measurement Techniques,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,capacity calculation formulas,concept,PART_OF,Capacity Analysis and Design,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,signalized intersection control,concept,PART_OF,Intersections and Junctions,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,roundabout design principles,concept,PART_OF,Intersections and Junctions,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,accident classification systems,concept,PART_OF,Accidents and Safety Analysis,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,causes of accidents and crashes,concept,PART_OF,Accidents and Safety Analysis,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,safety performance indicators,concept,PART_OF,Accidents and Safety Analysis,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,parking demand estimation,concept,PART_OF,Parking and Access Management,topic,,,CEGR_4161_triples_raw.json
+CEGR_4161,Traffic Measurement Techniques,topic,USED_FOR,data collection methods,concept,,topic used for something - check direction,CEGR_4161_triples_raw.json
+CEGR_4161,Capacity Analysis and Design,topic,USED_FOR,capacity calculation formulas,concept,,topic used for something - check direction,CEGR_4161_triples_raw.json

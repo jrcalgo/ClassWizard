@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_3171,topic,Microcontrollers,microcontrollers,1,verified,Microcontrollers,ETEM_3171_concepts_raw.json
+ETEM_3171,topic,Algorithms and Programming,Algorithms and Programming,1,verified,Algorithms and Programming,ETEM_3171_concepts_raw.json
+ETEM_3171,topic,Digital Fundamentals,Digital Fundamentals,1,verified,Digital Fundamentals,ETEM_3171_concepts_raw.json
+ETEM_3171,tool,Nucleo Board,Nucleo Board,1,verified,Nucleo Board,ETEM_3171_concepts_raw.json
+ETEM_3171,tool,C/C++,C/C++,1,verified,C/C++,ETEM_3171_concepts_raw.json
+ETEM_3171,tool,STM32,STM32,1,verified,STM32,ETEM_3171_concepts_raw.json

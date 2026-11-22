@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_3125,Satan's origins,concept,PREREQUISITE_OF,Christian demonization,concept,same unit,,RELS_3125_triples_raw.json
+RELS_3125,Satan's origins,concept,PREREQUISITE_OF,Early Christian heresy,concept,A taught first,,RELS_3125_triples_raw.json
+RELS_3125,Satan's origins,concept,PREREQUISITE_OF,Inquisition and witch hunts,concept,A taught first,,RELS_3125_triples_raw.json
+RELS_3125,Jewish and pagan influences,concept,PREREQUISITE_OF,Early Christian heresy,concept,A taught first,,RELS_3125_triples_raw.json
+RELS_3125,Personification of evil,concept,PART_OF,Cross-cultural investigation,topic,,,RELS_3125_triples_raw.json

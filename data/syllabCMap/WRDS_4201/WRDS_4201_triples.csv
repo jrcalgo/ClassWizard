@@ -1,0 +1,34 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WRDS_4201,Composition as a socially and culturally responsive practice,topic,PREREQUISITE_OF,Transnational Identity Theories,topic,B mentioned first,,WRDS_4201_triples_raw.json
+WRDS_4201,Composition as a socially and culturally responsive practice,topic,PREREQUISITE_OF,Collaborative Research Study Planning,topic,B mentioned first,,WRDS_4201_triples_raw.json
+WRDS_4201,Transnational Identity Theories,topic,PREREQUISITE_OF,Collaborative Research Study Planning,topic,A taught first,,WRDS_4201_triples_raw.json
+WRDS_4201,Transnational Identity Theories,topic,PREREQUISITE_OF,Data Collection and Analysis,topic,A taught first,,WRDS_4201_triples_raw.json
+WRDS_4201,Transnational Identity Theories,topic,PREREQUISITE_OF,Collaborative Research Study Implementation,topic,A taught first,,WRDS_4201_triples_raw.json
+WRDS_4201,Literature Review and Research Design,topic,PREREQUISITE_OF,Data Collection and Analysis,topic,A taught first,,WRDS_4201_triples_raw.json
+WRDS_4201,Literature Review and Research Design,topic,PREREQUISITE_OF,Collaborative Research Study Implementation,topic,A taught first,,WRDS_4201_triples_raw.json
+WRDS_4201,Collaborative Research Study Planning,topic,PREREQUISITE_OF,Collaborative Research Study Implementation,topic,A taught first,,WRDS_4201_triples_raw.json
+WRDS_4201,Composition as Social Practice,concept,PART_OF,Composition as a socially and culturally responsive practice,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Culturally Responsive Teaching,concept,PART_OF,Composition as a socially and culturally responsive practice,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Language and Power Dynamics,concept,PART_OF,Composition as a socially and culturally responsive practice,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Identity Formation Processes,concept,PART_OF,Transnational Identity Theories,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Language and Cultural Hybridity,concept,PART_OF,Transnational Identity Theories,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Globalization and Localism,concept,PART_OF,Transnational Identity Theories,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Research Question Development,concept,PART_OF,Literature Review and Research Design,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Literature Review Strategies,concept,PART_OF,Literature Review and Research Design,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Data Collection Methods,concept,PART_OF,Data Collection and Analysis,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Teamwork and Collaboration Skills,concept,PART_OF,Collaborative Research Study Planning,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Study Design and Methodology,concept,PART_OF,Collaborative Research Study Planning,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Ethics in Research Practice,concept,PART_OF,Collaborative Research Study Planning,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Reflective Writing Techniques,concept,PART_OF,Writing Perceptions Paper,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Analyzing Personal Experiences,concept,PART_OF,Writing Perceptions Paper,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Data Collection Instruments,concept,PART_OF,Data Collection and Analysis,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Quantitative and Qualitative Data,concept,PART_OF,Data Collection and Analysis,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Data Analysis Software Tools,concept,PART_OF,Data Collection and Analysis,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Study Implementation Strategies,concept,PART_OF,Collaborative Research Study Implementation,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Reporting Research Results,concept,PART_OF,Research Findings and Reporting,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Interpreting Data Findings,concept,PART_OF,Research Findings and Reporting,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Communicating with the Community,concept,PART_OF,Research Findings and Reporting,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Presentation Design Principles,concept,PART_OF,Collaborative Research Presentation Preparation,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Effective Communication Strategies,concept,PART_OF,Collaborative Research Presentation Preparation,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Visual Aids and Multimedia Tools,concept,PART_OF,Collaborative Research Presentation Preparation,topic,,,WRDS_4201_triples_raw.json
+WRDS_4201,Presenting Research to Stakeholders,concept,PART_OF,Sharing Research Findings with the Community,topic,,,WRDS_4201_triples_raw.json

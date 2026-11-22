@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_2101,lifestyles,concept,PART_OF,Healthy Lifestyles,topic,,,HLTH_2101_triples_raw.json
+HLTH_2101,healthy behaviors,concept,PART_OF,lifestyles,concept,,,HLTH_2101_triples_raw.json
+HLTH_2101,behavior change exercises,concept,PART_OF,lifestyles,concept,,,HLTH_2101_triples_raw.json
+HLTH_2101,optimal personal health,concept,PART_OF,Healthy Lifestyles,topic,,,HLTH_2101_triples_raw.json
+HLTH_2101,outcomes,concept,PART_OF,lifestyles,concept,,,HLTH_2101_triples_raw.json

@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHIL_3059,topic,social media,social media,25,verified,social media,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,disinformation,disinformation,25,verified,disinformation,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,fake news,fake news,22,verified,fake news,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,conspiracy theories,conspiracy theories,21,verified,conspiracy theories,PHIL_3059_concepts_raw.json
+PHIL_3059,topic,public debate,public debate,5,verified,public debate,PHIL_3059_concepts_raw.json
+PHIL_3059,topic,democracy,democracy,6,verified,democracy,PHIL_3059_concepts_raw.json
+PHIL_3059,topic,truth in media,Truth in Media,1,verified,truth in media,PHIL_3059_concepts_raw.json
+PHIL_3059,topic,online information literacy,Online Information Literacy,4,verified,online information literacy,PHIL_3059_concepts_raw.json
+PHIL_3059,topic,critical thinking,Critical Thinking,8,verified,critical thinking,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,motivated cognition,motivated cognition,2,verified,motivated cognition,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,echo chambers,Echo chambers,2,verified,echo chambers,PHIL_3059_concepts_raw.json
+PHIL_3059,topic,cognitive biases,Cognitive Biases,1,verified,cognitive biases,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,expertise and democracy,Expertise and Democracy,1,verified,expertise and democracy,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,social media amplification,Social Media Amplification,1,verified,social media amplification,PHIL_3059_concepts_raw.json
+PHIL_3059,topic,counterspeech,Counterspeech,2,verified,counterspeech,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,moderation limits,Moderation Limits,1,verified,moderation limits,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,regulation and platform effects,Regulation and platform effects,1,verified,regulation and platform effects,PHIL_3059_concepts_raw.json
+PHIL_3059,topic,time,Time,1,verified,time,PHIL_3059_concepts_raw.json
+PHIL_3059,topic,online information evaluation,Online information evaluation,2,verified,online information evaluation,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,social media risks,Social Media Risks,7,verified,social media risks,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,online information,online information,10,verified,online information,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,critical evaluation,Critical Evaluation,9,verified,critical evaluation,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,media literacy,Media Literacy,5,verified,media literacy,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,truth and democracy,Truth and Democracy,1,verified,truth and democracy,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,media manipulation,Media Manipulation,1,verified,media manipulation,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,disinformation dynamics,Disinformation Dynamics,4,verified,disinformation dynamics,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,conspiracy theory formation,Conspiracy Theory Formation,3,verified,conspiracy theory formation,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,confirmation bias,Confirmation Bias,1,verified,confirmation bias,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,cognitive biases role,Cognitive Biases Role,1,verified,cognitive biases role,PHIL_3059_concepts_raw.json
+PHIL_3059,concept,counterspeech strategies,Counterspeech Strategies,1,verified,counterspeech strategies,PHIL_3059_concepts_raw.json

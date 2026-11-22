@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_3261,feminist critique of canon,concept,PREREQUISITE_OF,Feminist Epistemology and Knowledge,topic,A taught first,,PHIL_3261_triples_raw.json
+PHIL_3261,critical thinking skills,method,PREREQUISITE_OF,Writing a Philosophical Argument,topic,A taught first,,PHIL_3261_triples_raw.json
+PHIL_3261,multiple forms of oppression,concept,PART_OF,Intersectionality and Feminism,topic,,,PHIL_3261_triples_raw.json
+PHIL_3261,colonialism and imperialism in philosophy,concept,PART_OF,Postcolonial Feminisms and Global Perspectives,topic,,,PHIL_3261_triples_raw.json
+PHIL_3261,intersectional analysis of power,method,USED_FOR,Intersectionality and Feminism,topic,,,PHIL_3261_triples_raw.json
+PHIL_3261,thesis statement and argumentation,method,USED_FOR,Writing a Philosophical Argument,topic,,,PHIL_3261_triples_raw.json

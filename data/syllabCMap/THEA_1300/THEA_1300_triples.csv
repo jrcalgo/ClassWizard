@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_1300,Critical Socio-Political Contexts,topic,PREREQUISITE_OF,"Diversity, Equity, and Inclusion",topic,B taught first,B is taught before A - check,THEA_1300_triples_raw.json
+THEA_1300,critical thinking skills,concept,PREREQUISITE_OF,theatre texts and practices,concept,same unit,,THEA_1300_triples_raw.json
+THEA_1300,problem-solving,method,PREREQUISITE_OF,community building,method,B taught first,B is taught before A - check,THEA_1300_triples_raw.json
+THEA_1300,research,method,PREREQUISITE_OF,collaboration,method,B mentioned first,,THEA_1300_triples_raw.json
+THEA_1300,oral discussion,method,PREREQUISITE_OF,written critique,method,A mentioned first,,THEA_1300_triples_raw.json
+THEA_1300,analytical writing,method,PREREQUISITE_OF,communication skills,method,A mentioned first,,THEA_1300_triples_raw.json
+THEA_1300,Critical Socio-Political Contexts,topic,PART_OF,Play Analysis,topic,,,THEA_1300_triples_raw.json
+THEA_1300,"Diversity, Equity, and Inclusion",topic,PART_OF,Play Analysis,topic,,,THEA_1300_triples_raw.json
+THEA_1300,critical thinking skills,concept,PART_OF,theatre texts and practices,concept,,,THEA_1300_triples_raw.json
+THEA_1300,problem-solving,method,PART_OF,community building,method,,,THEA_1300_triples_raw.json
+THEA_1300,research,method,PART_OF,collaboration,method,,,THEA_1300_triples_raw.json
+THEA_1300,oral discussion,method,PART_OF,written critique,method,,,THEA_1300_triples_raw.json
+THEA_1300,analytical writing,method,PART_OF,communication skills,method,,,THEA_1300_triples_raw.json
+THEA_1300,oral discussion,method,USED_FOR,written critique,method,,,THEA_1300_triples_raw.json
+THEA_1300,written critique,method,USED_FOR,analytical writing,method,,,THEA_1300_triples_raw.json
+THEA_1300,analytical writing,method,USED_FOR,communication skills,method,,,THEA_1300_triples_raw.json

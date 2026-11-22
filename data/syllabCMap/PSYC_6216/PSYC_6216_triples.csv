@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_6216,Cognitive Systems,concept,PREREQUISITE_OF,Artificial Intelligence,concept,same unit,,PSYC_6216_triples_raw.json
+PSYC_6216,Cognitive Systems,concept,PREREQUISITE_OF,Human Memory Processes,concept,same unit,,PSYC_6216_triples_raw.json
+PSYC_6216,Cognitive Systems,concept,PREREQUISITE_OF,Neural Structures,concept,same unit,,PSYC_6216_triples_raw.json
+PSYC_6216,Cognitive Systems,concept,PREREQUISITE_OF,Language Processing,concept,same unit,,PSYC_6216_triples_raw.json
+PSYC_6216,Cognitive Systems,concept,PREREQUISITE_OF,Knowledge Representation,concept,A taught first,,PSYC_6216_triples_raw.json
+PSYC_6216,Cross-Cultural Approaches,concept,PREREQUISITE_OF,Intelligent Action,topic,B taught first,B is taught before A - check,PSYC_6216_triples_raw.json
+PSYC_6216,Neural Structures,concept,PART_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Language Processing,concept,PART_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Human Memory Processes,concept,PART_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Artificial Intelligence,concept,PART_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Vision Perception,concept,PART_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Reasoning Theories,concept,PART_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Problem Solving Strategies,concept,PART_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Knowledge Representation,concept,PART_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Biological Representations,concept,PART_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Artificial Intelligence,concept,SUBTYPE_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Human Memory Processes,concept,SUBTYPE_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Neural Structures,concept,SUBTYPE_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Language Processing,concept,SUBTYPE_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Intelligent Action,topic,SUBTYPE_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Reasoning Theories,concept,SUBTYPE_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Problem Solving Strategies,concept,SUBTYPE_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Knowledge Representation,concept,SUBTYPE_OF,Cognitive Systems,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Machine Learning Algorithms,method,USED_FOR,Artificial Intelligence,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Machine Learning Algorithms,method,USED_FOR,Neural Structures,concept,,,PSYC_6216_triples_raw.json
+PSYC_6216,Brain-Computer Interface,method,USED_FOR,Cognitive Augmentation,concept,,,PSYC_6216_triples_raw.json

@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_4133,topic,Methods of Organic,Methods of Organic,1,verified,Methods of Organic,CHEM_4133_concepts_raw.json
+CHEM_4133,topic,Spectroscopy,spectroscopy,3,verified,Introduction to Spectroscopy,CHEM_4133_concepts_raw.json
+CHEM_4133,concept,IR spectroscopy basics,IR spectroscopy basics,1,verified,IR spectroscopy basics,CHEM_4133_concepts_raw.json
+CHEM_4133,concept,NMR of non-proton/carbon nuclei,NMR of non-proton/carbon nuclei,1,verified,NMR of non-proton/carbon nuclei,CHEM_4133_concepts_raw.json
+CHEM_4133,concept,Instrumental operation and spectral processing,instrumental operation and spectral processing,1,verified,Instrumental operation and spectral processing,CHEM_4133_concepts_raw.json

@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARTH_1212,topic,Art History Survey II,Art History Survey II,1,verified,Art History Survey II,ARTH_1212_concepts_raw.json
+ARTH_1212,topic,Art History,Art History,3,verified,Introduction to Art History,ARTH_1212_concepts_raw.json
+ARTH_1212,topic,Medieval Art,Medieval Art,1,inferred,Medieval Art,ARTH_1212_concepts_raw.json
+ARTH_1212,topic,Renaissance Art,Renaissance Art,1,inferred,Renaissance Art,ARTH_1212_concepts_raw.json
+ARTH_1212,topic,Baroque and Rococo Art,Baroque and Rococo Art,1,inferred,Baroque and Rococo Art,ARTH_1212_concepts_raw.json
+ARTH_1212,topic,Romanticism and Realism,Romanticism and Realism,1,inferred,Romanticism and Realism,ARTH_1212_concepts_raw.json
+ARTH_1212,topic,Modern Art Movements,Modern Art Movements,1,inferred,Modern Art Movements,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Art History as Discipline,Art History as Discipline,1,inferred,Art History as Discipline,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Visual Culture Importance,Visual Culture Importance,1,inferred,Visual Culture Importance,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Gothic Architecture Emergence,Gothic Architecture Emergence,1,inferred,Gothic Architecture Emergence,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Stained Glass Techniques,Stained Glass Techniques,1,inferred,Stained Glass Techniques,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Illuminated Manuscripts,Illuminated Manuscripts,1,inferred,Illuminated Manuscripts,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Humanism and Realism,Humanism and Realism,1,inferred,Humanism and Realism,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Leonardo da Vinci's Works,Leonardo da Vinci's Works,1,inferred,Leonardo da Vinci's Works,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Michelangelo's Sistine Chapel,Michelangelo's Sistine Chapel,1,inferred,Michelangelo's Sistine Chapel,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Caravaggio's Influence on Art,Caravaggio's Influence on Art,1,inferred,Caravaggio's Influence on Art,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Bernini's Sculptural Style,Bernini's Sculptural Style,1,inferred,Bernini's Sculptural Style,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,French Rococo Decorative Arts,French Rococo Decorative Arts,1,inferred,French Rococo Decorative Arts,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Impressionist Movement Origins,Impressionist Movement Origins,1,inferred,Impressionist Movement Origins,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Monet's Landscape Paintings,Monet's Landscape Paintings,1,inferred,Monet's Landscape Paintings,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Realist Art Social Commentary,Realist Art Social Commentary,1,inferred,Realist Art Social Commentary,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Cubism and Fragmentation,Cubism and Fragmentation,1,inferred,Cubism and Fragmentation,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Fauvism and Expressionism,Fauvism and Expressionism,1,inferred,Fauvism and Expressionism,ARTH_1212_concepts_raw.json
+ARTH_1212,concept,Surrealism and Dreamscapes,Surrealism and Dreamscapes,1,inferred,Surrealism and Dreamscapes,ARTH_1212_concepts_raw.json

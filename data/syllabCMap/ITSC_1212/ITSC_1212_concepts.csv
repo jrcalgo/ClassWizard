@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_1212,topic,Computer Science,Computer Science,2,verified,Introduction to Computer Science,ITSC_1212_concepts_raw.json
+ITSC_1212,topic,Computational Thinking,computational thinking,3,verified,Computational Thinking,ITSC_1212_concepts_raw.json
+ITSC_1212,topic,Problem-Solving,problem-solving,2,verified,Problem-Solving,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,variables,variables,2,verified,variables,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,data types,data types,1,verified,data types,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,control structures,control structures,1,verified,control structures,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,functions,functions,1,verified,functions,ITSC_1212_concepts_raw.json
+ITSC_1212,topic,Data Structures,data structures,2,verified,Data Structures,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,file input/output,file input/output,1,verified,file input/output,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,computational problem solving,computational problem solving,1,verified,computational problem solving,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,computational thinking framework,Computational thinking framework,1,verified,computational thinking framework,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,critical thinking,Critical Thinking,4,verified,critical thinking,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,operators,operators,1,verified,operators,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,constants,constants,1,verified,constants,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,literals,literals,1,verified,literals,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,expressions,expressions,2,verified,expressions,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,program flow,program flow,1,verified,program flow,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,arrays,arrays,1,verified,arrays,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,lists,lists,2,verified,lists,ITSC_1212_concepts_raw.json
+ITSC_1212,concept,maps,maps,1,verified,maps,ITSC_1212_concepts_raw.json

@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_1234,concept,major and minor scales,major and minor scales,1,verified,major and minor scales,MUSC_1234_concepts_raw.json
+MUSC_1234,concept,arpeggios (2 octaves,arpeggios (2 octaves,1,verified,arpeggios (2 octaves),MUSC_1234_concepts_raw.json
+MUSC_1234,concept,chord inversions,chord inversions,1,verified,chord inversions,MUSC_1234_concepts_raw.json
+MUSC_1234,concept,primary chord progression,primary chord progression,1,verified,primary chord progression,MUSC_1234_concepts_raw.json
+MUSC_1234,concept,I,is,1,verified,"I, IV, V (V7) chord progressions",MUSC_1234_concepts_raw.json
+MUSC_1234,concept,IV,IV,2,verified,"I, IV, V (V7) chord progressions",MUSC_1234_concepts_raw.json

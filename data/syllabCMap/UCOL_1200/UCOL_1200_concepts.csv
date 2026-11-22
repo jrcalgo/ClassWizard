@@ -1,0 +1,46 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+UCOL_1200,topic,business,Business,5,verified,Fundamentals of business,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,Management Information Systems,management information systems,1,verified,Management Information Systems,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,Operations and Supply Chain Management,operations and supply chain management,1,verified,Operations and Supply Chain Management,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,Accounting Fundamentals,Accounting Fundamentals,1,inferred,Accounting Fundamentals,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,Business Analytics Basics,Business Analytics Basics,1,inferred,Business Analytics Basics,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,Economics in Business,Economics in Business,1,inferred,Economics in Business,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,Finance Fundamentals,Finance Fundamentals,1,inferred,Finance Fundamentals,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,International Business Overview,International Business Overview,1,inferred,International Business Overview,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,Management Principles,Management Principles,1,inferred,Management Principles,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,Marketing Fundamentals,Marketing Fundamentals,1,inferred,Marketing Fundamentals,UCOL_1200_concepts_raw.json
+UCOL_1200,topic,Inquiry Process and Goal Setting,Inquiry Process and Goal Setting,1,inferred,Inquiry Process and Goal Setting,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Business Environment Overview,Business Environment Overview,1,inferred,Business Environment Overview,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Career Opportunities in Business,Career Opportunities in Business,1,inferred,Career Opportunities in Business,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Importance of Goal Setting,Importance of Goal Setting,1,inferred,Importance of Goal Setting,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Financial Statements Analysis,Financial Statements Analysis,1,inferred,Financial Statements Analysis,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Accounting Principles and Theories,Accounting Principles and Theories,1,inferred,Accounting Principles and Theories,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Financial Reporting Standards,Financial Reporting Standards,1,inferred,Financial Reporting Standards,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Data Collection and Analysis,Data Collection and Analysis,1,inferred,Data Collection and Analysis,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Statistical Tools for Decision Making,Statistical Tools for Decision Making,1,inferred,Statistical Tools for Decision Making,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Interpreting Business Data Results,Interpreting Business Data Results,1,inferred,Interpreting Business Data Results,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Microeconomics and Macroeconomics,Microeconomics and Macroeconomics,1,inferred,Microeconomics and Macroeconomics,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Supply and Demand Principles,Supply and Demand Principles,1,inferred,Supply and Demand Principles,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Market Structures and Competition,Market Structures and Competition,1,inferred,Market Structures and Competition,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Time Value of Money Concepts,Time Value of Money Concepts,1,inferred,Time Value of Money Concepts,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Financial Statement Analysis Techniques,Financial Statement Analysis Techniques,1,inferred,Financial Statement Analysis Techniques,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Investment Decision Making Process,Investment Decision Making Process,1,inferred,Investment Decision Making Process,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Globalization and Trade Agreements,Globalization and Trade Agreements,1,inferred,Globalization and Trade Agreements,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Cultural Differences in Business,Cultural Differences in Business,1,inferred,Cultural Differences in Business,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,International Marketing Strategies,International Marketing Strategies,1,inferred,International Marketing Strategies,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Leadership Styles and Theories,Leadership Styles and Theories,1,inferred,Leadership Styles and Theories,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Motivation and Employee Engagement,Motivation and Employee Engagement,1,inferred,Motivation and Employee Engagement,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Organizational Structure and Design,Organizational Structure and Design,1,inferred,Organizational Structure and Design,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Database Management System Basics,Database Management System Basics,1,inferred,Database Management System Basics,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Enterprise Resource Planning Software,Enterprise Resource Planning Software,1,inferred,Enterprise Resource Planning Software,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Business Intelligence Tools and Techniques,Business Intelligence Tools and Techniques,1,inferred,Business Intelligence Tools and Techniques,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Market Research and Analysis Methods,Market Research and Analysis Methods,1,inferred,Market Research and Analysis Methods,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Segmentation,Segmentation,1,inferred,"Segmentation, Targeting, Positioning Strategies",UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Targeting,Targeting,1,inferred,"Segmentation, Targeting, Positioning Strategies",UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Positioning Strategies,Positioning Strategies,1,inferred,"Segmentation, Targeting, Positioning Strategies",UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Branding and Advertising Principles,Branding and Advertising Principles,1,inferred,Branding and Advertising Principles,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Supply Chain Network Design and Optimization,Supply Chain Network Design and Optimization,1,inferred,Supply Chain Network Design and Optimization,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Inventory Management and Control Systems,Inventory Management and Control Systems,1,inferred,Inventory Management and Control Systems,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Logistics and Transportation Planning,Logistics and Transportation Planning,1,inferred,Logistics and Transportation Planning,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Open-Ended Inquiry Process Overview,Open-Ended Inquiry Process Overview,1,inferred,Open-Ended Inquiry Process Overview,UCOL_1200_concepts_raw.json
+UCOL_1200,concept,Goal Setting Strategies and Techniques,Goal Setting Strategies and Techniques,1,inferred,Goal Setting Strategies and Techniques,UCOL_1200_concepts_raw.json

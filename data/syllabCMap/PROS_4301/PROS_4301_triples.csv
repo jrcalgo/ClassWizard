@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_4301,Global Business Environment,concept,PART_OF,Globalization Overview,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Cultural Diversity Management,concept,PART_OF,Globalization Overview,topic,,,PROS_4301_triples_raw.json
+PROS_4301,HR Strategic Planning,concept,PART_OF,Strategic HRM,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Talent Management Strategies,concept,PART_OF,Strategic HRM,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Organizational Change Management,concept,PART_OF,Strategic HRM,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Cultural Competence Development,concept,PART_OF,Diversity and Inclusion,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Inclusive Workforce Practices,concept,PART_OF,Diversity and Inclusion,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Diversity and Inclusion Metrics,concept,PART_OF,Diversity and Inclusion,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Global Ethics in Business,concept,PART_OF,Ethical HRM Challenges,topic,,,PROS_4301_triples_raw.json
+PROS_4301,HRM Ethical Decision Making,concept,PART_OF,Ethical HRM Challenges,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Whistleblower Protection Policies,concept,PART_OF,Ethical HRM Challenges,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Conflict Resolution Strategies,concept,PART_OF,Risk Management and Conflict Resolution,topic,,,PROS_4301_triples_raw.json
+PROS_4301,Workplace Violence Prevention,concept,PART_OF,Risk Management and Conflict Resolution,topic,,,PROS_4301_triples_raw.json

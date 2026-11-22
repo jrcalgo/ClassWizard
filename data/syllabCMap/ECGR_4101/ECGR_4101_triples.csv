@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4101,logic analyzer,tool,USED_FOR,Embedded System Design,topic,,,ECGR_4101_triples_raw.json

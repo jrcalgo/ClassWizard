@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUNP_6202,Advanced Nursing Interventions,concept,PREREQUISITE_OF,Chronic Health Problems Management,concept,same unit,,NUNP_6202_triples_raw.json
+NUNP_6202,Diagnostic Reasoning Skills,concept,PREREQUISITE_OF,Diagnostic Algorithm Development,concept,A taught first,,NUNP_6202_triples_raw.json
+NUNP_6202,Diagnostic Reasoning Skills,concept,PREREQUISITE_OF,Evidence-Based Practice Guidelines,concept,A taught first,,NUNP_6202_triples_raw.json
+NUNP_6202,Advanced Nursing Interventions,concept,PART_OF,Biopsychosocial Assessment,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Chronic Health Problems Management,concept,PART_OF,Biopsychosocial Assessment,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Pharmacotherapeutics Principles,concept,PART_OF,Biopsychosocial Assessment,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Acute Kidney Injury Pathophysiology,concept,PART_OF,Pathophysiology of Acute Illnesses,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Cardiovascular Disease Pathophysiology,concept,PART_OF,Pathophysiology of Acute Illnesses,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Respiratory Failure Pathophysiology,concept,PART_OF,Pathophysiology of Acute Illnesses,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Antibiotic Therapy Guidelines,concept,PART_OF,Pharmacological Management,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Cardiac Medication Side Effects,concept,PART_OF,Pharmacological Management,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Pain Management Strategies,concept,PART_OF,Pharmacological Management,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Nutrition Support for Acute Illnesses,concept,PART_OF,Non-Pharmacologic Interventions,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Palliative Care Principles,concept,PART_OF,Non-Pharmacologic Interventions,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Clinical Decision-Making Frameworks,concept,PART_OF,Diagnostic Reasoning and Decision-Making,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Chronic Kidney Disease Management,concept,PART_OF,Chronic Health Problems in Acute Illnesses,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Hypertension Management Strategies,concept,PART_OF,Chronic Health Problems in Acute Illnesses,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Evidence-Based Practice Implementation,concept,PART_OF,Research-Based Nursing Interventions,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Nursing Research Methodologies,concept,PART_OF,Research-Based Nursing Interventions,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Quality Improvement Initiatives,concept,PART_OF,Research-Based Nursing Interventions,topic,,,NUNP_6202_triples_raw.json
+NUNP_6202,Complex Health Issues Management,concept,PART_OF,Case Studies and Clinical Applications,topic,,,NUNP_6202_triples_raw.json

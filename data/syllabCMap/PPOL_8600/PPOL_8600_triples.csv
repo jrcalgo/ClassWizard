@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PPOL_8600,institutional change,topic,PART_OF,policy implementation,topic,,,PPOL_8600_triples_raw.json
+PPOL_8600,economic performance,topic,PART_OF,policy implementation,topic,,,PPOL_8600_triples_raw.json
+PPOL_8600,policy analysis,method,USED_FOR,public policy process,concept,,,PPOL_8600_triples_raw.json

@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_3110,topic,Systems Engineering,systems engineering,1,verified,Systems Engineering,SEGR_3110_concepts_raw.json
+SEGR_3110,topic,Prescriptive Analytics,prescriptive analytics,1,verified,Prescriptive Analytics,SEGR_3110_concepts_raw.json
+SEGR_3110,concept,regression,regression,1,verified,regression,SEGR_3110_concepts_raw.json
+SEGR_3110,concept,clustering,clustering,1,verified,clustering,SEGR_3110_concepts_raw.json
+SEGR_3110,concept,classification,classification,1,verified,classification,SEGR_3110_concepts_raw.json
+SEGR_3110,concept,forecasting,forecasting,1,verified,forecasting,SEGR_3110_concepts_raw.json
+SEGR_3110,method,R programming,R programming,1,verified,R programming,SEGR_3110_concepts_raw.json
+SEGR_3110,tool,R,R,1,verified,R,SEGR_3110_concepts_raw.json

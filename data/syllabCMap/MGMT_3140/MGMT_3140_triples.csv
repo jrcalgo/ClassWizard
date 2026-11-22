@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MGMT_3140,Management Definition and Scope,concept,PREREQUISITE_OF,Management,topic,same unit,,MGMT_3140_triples_raw.json
+MGMT_3140,Management,topic,PREREQUISITE_OF,Organizational Behavior Theories,topic,A taught first,,MGMT_3140_triples_raw.json
+MGMT_3140,Maslow's Hierarchy of Needs,concept,PREREQUISITE_OF,McClelland's Acquired Needs Theory,concept,same unit,,MGMT_3140_triples_raw.json
+MGMT_3140,Autocratic Leadership Characteristics,concept,PREREQUISITE_OF,Democratic Leadership Approaches,concept,same unit,,MGMT_3140_triples_raw.json
+MGMT_3140,Verbal and Nonverbal Communication,concept,PREREQUISITE_OF,Barriers to Effective Communication,concept,same unit,,MGMT_3140_triples_raw.json
+MGMT_3140,Importance of Effective Management,concept,PART_OF,Management,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Managerial Roles and Responsibilities,concept,PART_OF,Management,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Classical Theory of Management,concept,PART_OF,Organizational Behavior Theories,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Human Relations Approach Overview,concept,PART_OF,Organizational Behavior Theories,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Contingency Theory Basics,concept,PART_OF,Organizational Behavior Theories,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Maslow's Hierarchy of Needs,concept,PART_OF,Motivation and Job Satisfaction,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,McClelland's Acquired Needs Theory,concept,PART_OF,Motivation and Job Satisfaction,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Expectancy Theory Fundamentals,concept,PART_OF,Motivation and Job Satisfaction,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Autocratic Leadership Characteristics,concept,PART_OF,Leadership Styles and Traits,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Transformational Leadership Theories,concept,PART_OF,Leadership Styles and Traits,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Verbal and Nonverbal Communication,concept,PART_OF,Communication in Organizations,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Barriers to Effective Communication,concept,PART_OF,Communication in Organizations,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Group Formation and Development,concept,PART_OF,Team Dynamics and Conflict,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Conflict Resolution Strategies,concept,PART_OF,Team Dynamics and Conflict,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Collaborative Teamwork Principles,concept,PART_OF,Team Dynamics and Conflict,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Culture Definition and Importance,concept,PART_OF,Organizational Culture and Change,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Change Management Process Overview,concept,PART_OF,Organizational Culture and Change,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Resistance to Organizational Change,concept,PART_OF,Organizational Culture and Change,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Sources of Power in Organizations,concept,PART_OF,Power and Politics in Organizations,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Business Ethics Fundamentals,concept,PART_OF,Ethics and Social Responsibility,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Social Responsibility Theories,concept,PART_OF,Ethics and Social Responsibility,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Corporate Governance Best Practices,concept,PART_OF,Ethics and Social Responsibility,topic,,,MGMT_3140_triples_raw.json
+MGMT_3140,Management,topic,USED_FOR,Organizational Behavior Theories,topic,,topic used for something - check direction,MGMT_3140_triples_raw.json
+MGMT_3140,Classical Theory of Management,concept,USED_FOR,Human Relations Approach Overview,concept,,,MGMT_3140_triples_raw.json
+MGMT_3140,Maslow's Hierarchy of Needs,concept,USED_FOR,McClelland's Acquired Needs Theory,concept,,,MGMT_3140_triples_raw.json
+MGMT_3140,Autocratic Leadership Characteristics,concept,USED_FOR,Democratic Leadership Approaches,concept,,,MGMT_3140_triples_raw.json

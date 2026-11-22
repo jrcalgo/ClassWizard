@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_3135,Colonial Expansion Strategies,topic,PREREQUISITE_OF,Structural Origins of Global Interdependence,topic,A taught first,,ANTH_3135_triples_raw.json
+ANTH_3135,Colonial Expansion Strategies,topic,PREREQUISITE_OF,Conquest and Colonialism in Africa,topic,A taught first,,ANTH_3135_triples_raw.json
+ANTH_3135,Colonial Expansion Strategies,topic,PREREQUISITE_OF,Colonialism in Asia and the Americas,topic,A taught first,,ANTH_3135_triples_raw.json
+ANTH_3135,Colonial Expansion Strategies,topic,PREREQUISITE_OF,Negotiating with Imperial Authority,topic,A taught first,,ANTH_3135_triples_raw.json
+ANTH_3135,Economic motivations behind expansion,concept,PART_OF,Colonial Expansion Strategies,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,Political alliances and rivalries,concept,PART_OF,Colonial Expansion Strategies,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,Cultural exchange and diffusion,concept,PART_OF,Structural Origins of Global Interdependence,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,Colonialism's impact on power dynamics,concept,PART_OF,Structural Origins of Global Interdependence,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,European colonization of Africa,concept,PART_OF,Conquest and Colonialism in Africa,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,Resistance movements and uprisings,concept,PART_OF,Conquest and Colonialism in Africa,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,Impact on African societies and cultures,concept,PART_OF,Conquest and Colonialism in Africa,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,European colonization of Asia and Americas,concept,PART_OF,Colonialism in Asia and the Americas,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,Native American and Asian responses,concept,PART_OF,Colonialism in Asia and the Americas,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,Comparative analysis of colonial experiences,concept,PART_OF,Colonialism in Asia and the Americas,topic,,,ANTH_3135_triples_raw.json
+ANTH_3135,Colonized peoples' adaptations to colonialism,concept,PART_OF,Negotiating with Imperial Authority,topic,,,ANTH_3135_triples_raw.json

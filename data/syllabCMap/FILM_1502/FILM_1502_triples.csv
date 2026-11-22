@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_1502,Formal Elements of Film,topic,PREREQUISITE_OF,International Cinema History,topic,A taught first,,FILM_1502_triples_raw.json
+FILM_1502,Formal Elements of Film,topic,PREREQUISITE_OF,Evolution of Film Technology,topic,A taught first,,FILM_1502_triples_raw.json
+FILM_1502,International Cinema History,topic,PREREQUISITE_OF,Evolution of Film Technology,topic,A taught first,,FILM_1502_triples_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_4099,normative development,concept,PREREQUISITE_OF,attachment theory,concept,B mentioned first,,PSYC_4099_triples_raw.json
+PSYC_4099,infant problem-solving abilities,concept,PART_OF,Cognitive Development in Infancy,topic,,,PSYC_4099_triples_raw.json
+PSYC_4099,attachment theory,concept,PART_OF,Emotional and Social Development,topic,,,PSYC_4099_triples_raw.json
+PSYC_4099,risk factors for adverse outcomes,concept,PART_OF,Challenges to Infant Health and Well-being,topic,,,PSYC_4099_triples_raw.json
+PSYC_4099,parental stress and resilience,concept,PART_OF,Challenges to Infant Health and Well-being,topic,,,PSYC_4099_triples_raw.json
+PSYC_4099,parent-child interaction therapy techniques,concept,PART_OF,Interventions for Improved Infant Health,topic,,,PSYC_4099_triples_raw.json
+PSYC_4099,developmental frameworks,concept,USED_FOR,infant development,concept,,,PSYC_4099_triples_raw.json

@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4187,transport,concept,PREREQUISITE_OF,routing,concept,B taught first,B is taught before A - check,ECGR_4187_triples_raw.json
+ECGR_4187,transport,concept,PREREQUISITE_OF,medium access control,concept,A taught first,,ECGR_4187_triples_raw.json
+ECGR_4187,transport,concept,PREREQUISITE_OF,data link control,concept,A taught first,,ECGR_4187_triples_raw.json
+ECGR_4187,data link control,concept,PART_OF,Data Communications and Networking - II,topic,,,ECGR_4187_triples_raw.json
+ECGR_4187,routing,concept,PART_OF,Data Communications and Networking - II,topic,,,ECGR_4187_triples_raw.json
+ECGR_4187,transport,concept,PART_OF,Data Communications and Networking - II,topic,,,ECGR_4187_triples_raw.json

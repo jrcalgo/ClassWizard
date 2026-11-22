@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_3171,determinants of international trade patterns,topic,PART_OF,balance of payments,topic,,,ECON_3171_triples_raw.json
+ECON_3171,determinants of international trade patterns,topic,PART_OF,impact of globalization on national economies,topic,,,ECON_3171_triples_raw.json
+ECON_3171,international monetary systems,topic,PART_OF,balance of payments,topic,,,ECON_3171_triples_raw.json
+ECON_3171,balance of payments,topic,PART_OF,impact of globalization on national economies,topic,,,ECON_3171_triples_raw.json

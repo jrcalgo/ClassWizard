@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_2209,alignment,concept,PREREQUISITE_OF,external rotation (turnout,concept,A mentioned first,,DANC_2209_triples_raw.json
+DANC_2209,alignment,concept,PREREQUISITE_OF,shift of weight,concept,same unit,,DANC_2209_triples_raw.json
+DANC_2209,alignment,concept,PREREQUISITE_OF,turning concepts,concept,A taught first,,DANC_2209_triples_raw.json
+DANC_2209,alignment,concept,PREREQUISITE_OF,épaulement,concept,A taught first,,DANC_2209_triples_raw.json
+DANC_2209,alignment,concept,PREREQUISITE_OF,port de bras,concept,A taught first,,DANC_2209_triples_raw.json
+DANC_2209,anatomically-informed alignment of the spine and pelvis,concept,PREREQUISITE_OF,jumping concepts,concept,B mentioned first,,DANC_2209_triples_raw.json
+DANC_2209,anatomically-informed alignment of the spine and pelvis,concept,USED_FOR,external rotation (turnout,concept,,,DANC_2209_triples_raw.json
+DANC_2209,anatomically-informed alignment of the spine and pelvis,concept,USED_FOR,épaulement,concept,,,DANC_2209_triples_raw.json
+DANC_2209,anatomically-informed alignment of the spine and pelvis,concept,USED_FOR,port de bras,concept,,,DANC_2209_triples_raw.json

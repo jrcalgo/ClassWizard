@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_4180,Project Planning,topic,PREREQUISITE_OF,Color Proofing,topic,A taught first,,ARTG_4180_triples_raw.json
+ARTG_4180,Project Planning,topic,PREREQUISITE_OF,Copywriting,topic,A taught first,,ARTG_4180_triples_raw.json
+ARTG_4180,Project Planning,topic,PREREQUISITE_OF,Paper Selection,topic,A taught first,,ARTG_4180_triples_raw.json
+ARTG_4180,Project Planning,topic,PREREQUISITE_OF,Print Production,topic,B taught first,B is taught before A - check,ARTG_4180_triples_raw.json
+ARTG_4180,Project Planning,topic,PREREQUISITE_OF,Graphic Design,topic,A mentioned first,,ARTG_4180_triples_raw.json
+ARTG_4180,design process,concept,PREREQUISITE_OF,Project Planning,topic,A taught first,,ARTG_4180_triples_raw.json
+ARTG_4180,Project Planning,topic,PART_OF,Print Production,topic,,,ARTG_4180_triples_raw.json
+ARTG_4180,Project Planning,topic,PART_OF,Graphic Design,topic,,,ARTG_4180_triples_raw.json
+ARTG_4180,Copywriting,topic,PART_OF,Graphic Design,topic,,,ARTG_4180_triples_raw.json
+ARTG_4180,Color Proofing,topic,PART_OF,Print Production,topic,,,ARTG_4180_triples_raw.json
+ARTG_4180,Paper Selection,topic,PART_OF,Print Production,topic,,,ARTG_4180_triples_raw.json
+ARTG_4180,Digital Pre-press,topic,PART_OF,Print Production,topic,,,ARTG_4180_triples_raw.json
+ARTG_4180,Commercial Printing Technologies,topic,PART_OF,Print Production,topic,,,ARTG_4180_triples_raw.json
+ARTG_4180,design process,concept,USED_FOR,Project Planning,topic,,,ARTG_4180_triples_raw.json

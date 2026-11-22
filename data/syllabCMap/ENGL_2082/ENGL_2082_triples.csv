@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_2082,Diversity and Inclusion in Comics,concept,PREREQUISITE_OF,Representing Marginalized Groups,concept,same unit,,ENGL_2082_triples_raw.json

@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_4695,topic,Chemistry Seminar II,Chemistry Seminar II,1,verified,Chemistry Seminar II,CHEM_4695_concepts_raw.json
+CHEM_4695,topic,Seminar,Seminar,2,verified,Introduction to Seminar,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,primary literature of chemistry,primary literature of chemistry,1,verified,primary literature of chemistry,CHEM_4695_concepts_raw.json
+CHEM_4695,topic,Literature Review Techniques,Literature Review Techniques,1,inferred,Literature Review Techniques,CHEM_4695_concepts_raw.json
+CHEM_4695,topic,Chemical Research Methods,Chemical Research Methods,1,inferred,Chemical Research Methods,CHEM_4695_concepts_raw.json
+CHEM_4695,topic,Oral Presentation Skills,Oral Presentation Skills,1,inferred,Oral Presentation Skills,CHEM_4695_concepts_raw.json
+CHEM_4695,topic,Written Report Writing,Written Report Writing,1,inferred,Written Report Writing,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,primary literature overview,Primary Literature Overview,1,inferred,primary literature overview,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,chemistry research methods,Chemistry Research Methods,1,inferred,chemistry research methods,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,critical thinking skills,Critical Thinking Skills,1,inferred,critical thinking skills,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,search strategies and databases,Search Strategies and Databases,1,inferred,search strategies and databases,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,article selection criteria,Article Selection Criteria,1,inferred,article selection criteria,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,synthesizing information sources,Synthesizing Information Sources,1,inferred,synthesizing information sources,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,experimental design principles,Experimental Design Principles,1,inferred,experimental design principles,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,data analysis and interpretation,Data Analysis and Interpretation,1,inferred,data analysis and interpretation,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,research ethics considerations,Research Ethics Considerations,1,inferred,research ethics considerations,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,effective communication techniques,Effective Communication Techniques,1,inferred,effective communication techniques,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,visual aids and presentations,Visual Aids and Presentations,1,inferred,visual aids and presentations,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,question and answer sessions,Question and Answer Sessions,1,inferred,question and answer sessions,CHEM_4695_concepts_raw.json
+CHEM_4695,concept,peer review and feedback process,Peer Review and Feedback Process,1,inferred,peer review and feedback process,CHEM_4695_concepts_raw.json

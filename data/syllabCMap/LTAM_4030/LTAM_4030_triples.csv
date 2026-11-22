@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_4030,Close Reading Skills,topic,PREREQUISITE_OF,Textual Analysis Fundamentals,topic,A taught first,,LTAM_4030_triples_raw.json
+LTAM_4030,Close Reading Skills,topic,PREREQUISITE_OF,Comparative Literature Study,topic,A taught first,,LTAM_4030_triples_raw.json
+LTAM_4030,Close Reading Skills,topic,PREREQUISITE_OF,Close Reading of Selected Texts,topic,A taught first,,LTAM_4030_triples_raw.json
+LTAM_4030,Contemporary Latin American Literature,concept,PART_OF,LTAM,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Selected Contemporary Writers,topic,PART_OF,LTAM,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Comparative Literature Study,topic,PART_OF,LTAM,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Gabriela Cabezón Cámara's Work,topic,PART_OF,LTAM,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Close Reading of Selected Texts,topic,PART_OF,LTAM,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Textual Analysis of Selected Texts,topic,PART_OF,LTAM,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Final Project Preparation,topic,PART_OF,LTAM,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Comparing Themes and Motifs Across Texts,concept,USED_FOR,Comparative Literature Study,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Identifying Cultural and Historical Contexts,concept,USED_FOR,Comparative Literature Study,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Comparing Themes and Motifs Across Texts,concept,USED_FOR,Textual Analysis of Selected Texts,topic,,,LTAM_4030_triples_raw.json
+LTAM_4030,Identifying Cultural and Historical Contexts,concept,USED_FOR,Textual Analysis of Selected Texts,topic,,,LTAM_4030_triples_raw.json

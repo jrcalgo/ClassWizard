@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_2102,Engineering Economy Definition,concept,PREREQUISITE_OF,Economic Decision Making,concept,same unit,,CEGR_2102_triples_raw.json
+CEGR_2102,Engineering Economy Definition,concept,PREREQUISITE_OF,Importance of Economic Analysis,concept,same unit,,CEGR_2102_triples_raw.json
+CEGR_2102,Time Value of Money,topic,PREREQUISITE_OF,Cash Flow Diagrams,concept,A taught first,,CEGR_2102_triples_raw.json
+CEGR_2102,Time Value of Money,topic,PREREQUISITE_OF,Net Present Worth Method,concept,A taught first,,CEGR_2102_triples_raw.json
+CEGR_2102,Time Value of Money,topic,PREREQUISITE_OF,Equivalent Annual Cost,concept,A taught first,,CEGR_2102_triples_raw.json
+CEGR_2102,Probability Theory Basics,concept,PREREQUISITE_OF,Expected Monetary Value,concept,same unit,,CEGR_2102_triples_raw.json
+CEGR_2102,Probability Theory Basics,concept,PREREQUISITE_OF,Sensitivity Analysis Techniques,concept,same unit,,CEGR_2102_triples_raw.json
+CEGR_2102,Engineering Economy Definition,concept,PART_OF,Engineering Economics,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Importance of Economic Analysis,concept,PART_OF,Engineering Economics,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Present Worth Factor,concept,PART_OF,Time Value of Money,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Future Worth Factor,concept,PART_OF,Time Value of Money,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Compound Interest Formula,concept,PART_OF,Time Value of Money,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Fixed vs Variable Costs,concept,PART_OF,Cost Estimation and Classification,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Estimating Methods Overview,concept,PART_OF,Cost Estimation and Classification,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Cash Flow Diagrams,concept,PART_OF,Cash Flow Analysis,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Net Present Worth Method,concept,PART_OF,Cash Flow Analysis,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Equivalent Annual Cost,concept,PART_OF,Cash Flow Analysis,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Probability Theory Basics,concept,PART_OF,Risk and Uncertainty in Engineering Projects,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Expected Monetary Value,concept,PART_OF,Risk and Uncertainty in Engineering Projects,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Sensitivity Analysis Techniques,concept,PART_OF,Risk and Uncertainty in Engineering Projects,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Break-Even Point Calculation,concept,PART_OF,Break-Even Analysis and Sensitivity Analysis,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Sensitivity Analysis Applications,concept,PART_OF,Break-Even Analysis and Sensitivity Analysis,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Decision Tree Analysis,concept,PART_OF,Engineering Economic Decision Making,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Cost-Benefit Analysis Framework,concept,PART_OF,Engineering Economic Decision Making,topic,,,CEGR_2102_triples_raw.json
+CEGR_2102,Prioritization and Selection Criteria,concept,PART_OF,Engineering Economic Decision Making,topic,,,CEGR_2102_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BUSN_1100,University Life,topic,PART_OF,Corporate and Community Interaction,topic,,,BUSN_1100_triples_raw.json
+BUSN_1100,University Life,topic,PART_OF,Career Selection,topic,,,BUSN_1100_triples_raw.json
+BUSN_1100,University Life,topic,PART_OF,Keys to Success,topic,,,BUSN_1100_triples_raw.json
+BUSN_1100,University Life,topic,PART_OF,Practitioner Interaction,concept,,part is broader than whole - check direction,BUSN_1100_triples_raw.json
+BUSN_1100,Corporate Social Responsibility,topic,PART_OF,Contemporary Business Contexts,concept,,part is broader than whole - check direction,BUSN_1100_triples_raw.json

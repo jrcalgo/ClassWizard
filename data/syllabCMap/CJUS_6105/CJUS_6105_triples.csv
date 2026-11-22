@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_6105,Rational Choice Theory,concept,PREREQUISITE_OF,Theories of Crime Causation,topic,same unit,,CJUS_6105_triples_raw.json
+CJUS_6105,Strain Theory Explanation,concept,PREREQUISITE_OF,Theories of Crime Causation,topic,same unit,,CJUS_6105_triples_raw.json
+CJUS_6105,Routine Activity Theory,concept,PREREQUISITE_OF,Criminological Theories,topic,same unit,,CJUS_6105_triples_raw.json
+CJUS_6105,Deterrence and Crime Prevention,concept,PREREQUISITE_OF,Criminological Theories,topic,same unit,,CJUS_6105_triples_raw.json
+CJUS_6105,Quantitative Research Design,concept,PREREQUISITE_OF,Research Methods in CJUS,topic,same unit,,CJUS_6105_triples_raw.json
+CJUS_6105,Survey Research Techniques,concept,PREREQUISITE_OF,Research Methods in CJUS,topic,same unit,,CJUS_6105_triples_raw.json
+CJUS_6105,Rational Choice Theory,concept,PART_OF,Theories of Crime Causation,topic,,,CJUS_6105_triples_raw.json
+CJUS_6105,Social Learning Theory,concept,PART_OF,Theories of Crime Causation,topic,,,CJUS_6105_triples_raw.json
+CJUS_6105,Strain Theory Explanation,concept,PART_OF,Theories of Crime Causation,topic,,,CJUS_6105_triples_raw.json
+CJUS_6105,Routine Activity Theory,concept,PART_OF,Criminological Theories,topic,,,CJUS_6105_triples_raw.json
+CJUS_6105,Deterrence and Crime Prevention,concept,PART_OF,Criminological Theories,topic,,,CJUS_6105_triples_raw.json
+CJUS_6105,Social Disorganization Theory,concept,PART_OF,Criminological Theories,topic,,,CJUS_6105_triples_raw.json
+CJUS_6105,Quantitative Research Design,concept,PART_OF,Research Methods in CJUS,topic,,,CJUS_6105_triples_raw.json
+CJUS_6105,Qualitative Data Collection,concept,PART_OF,Research Methods in CJUS,topic,,,CJUS_6105_triples_raw.json
+CJUS_6105,Survey Research Techniques,concept,PART_OF,Research Methods in CJUS,topic,,,CJUS_6105_triples_raw.json

@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3221,topic,Machine Analysis & Design I,Machine Analysis & Design I,1,verified,Machine Analysis & Design I,MEGR_3221_concepts_raw.json
+MEGR_3221,topic,Machine Elements,Machine Elements,1,verified,Introduction to Machine Elements,MEGR_3221_concepts_raw.json
+MEGR_3221,topic,Mechanical Properties of Materials,Mechanical Properties of Materials,1,inferred,Mechanical Properties of Materials,MEGR_3221_concepts_raw.json
+MEGR_3221,topic,Kinematics of Machine Elements,Kinematics of Machine Elements,1,inferred,Kinematics of Machine Elements,MEGR_3221_concepts_raw.json
+MEGR_3221,topic,Machine Element Forces and Loads,Machine Element Forces and Loads,1,inferred,Machine Element Forces and Loads,MEGR_3221_concepts_raw.json
+MEGR_3221,topic,Machine Element Stress Analysis,Machine Element Stress Analysis,1,inferred,Machine Element Stress Analysis,MEGR_3221_concepts_raw.json
+MEGR_3221,topic,Machine Element Design for Strength,Machine Element Design for Strength,1,inferred,Machine Element Design for Strength,MEGR_3221_concepts_raw.json
+MEGR_3221,topic,Machine Element Design for Motion,Machine Element Design for Motion,1,inferred,Machine Element Design for Motion,MEGR_3221_concepts_raw.json
+MEGR_3221,topic,Machine Element Thermal Analysis,Machine Element Thermal Analysis,1,inferred,Machine Element Thermal Analysis,MEGR_3221_concepts_raw.json
+MEGR_3221,topic,Machine Element Vibration and Dynamics,Machine Element Vibration and Dynamics,1,inferred,Machine Element Vibration and Dynamics,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,machine design process,Machine Design Process,1,inferred,machine design process,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,material selection criteria,Material Selection Criteria,1,inferred,material selection criteria,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,compressive strength,Compressive Strength,1,inferred,compressive strength,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,elastic modulus,Elastic Modulus,1,inferred,elastic modulus,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,stress,Stress,3,inferred,stress,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,force systems,Force Systems,1,inferred,force systems,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,load types,Load Types,1,inferred,load types,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,torque analysis,Torque Analysis,1,inferred,torque analysis,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,stress types,Stress Types,1,inferred,stress types,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,failure theories,Failure Theories,1,inferred,failure theories,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,fracture mechanics,Fracture Mechanics,1,inferred,fracture mechanics,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,design for minimum weight,Design for Minimum Weight,1,inferred,design for minimum weight,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,optimization techniques,Optimization Techniques,1,inferred,optimization techniques,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,gear trains,Gear Trains,1,inferred,gear trains,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,linkages,Linkages,1,inferred,linkages,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,mechanism analysis,Mechanism Analysis,1,inferred,mechanism analysis,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,cam mechanisms,Cam Mechanisms,1,inferred,cam mechanisms,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,heat transfer fundamentals,Heat Transfer Fundamentals,1,inferred,heat transfer fundamentals,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,thermal expansion,Thermal Expansion,1,inferred,thermal expansion,MEGR_3221_concepts_raw.json
+MEGR_3221,concept,temperature measurement,Temperature Measurement,1,inferred,temperature measurement,MEGR_3221_concepts_raw.json

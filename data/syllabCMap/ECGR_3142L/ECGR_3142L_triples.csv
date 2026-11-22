@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_3142L,Electrical Energy Conversion Laboratory,topic,PREREQUISITE_OF,Electromechanical Converters,topic,B mentioned first,,ECGR_3142L_triples_raw.json
+ECGR_3142L,synchronous machines,method,PREREQUISITE_OF,unbalanced three-phase power measurements,concept,same unit,,ECGR_3142L_triples_raw.json
+ECGR_3142L,Circuit debugging techniques,method,PART_OF,Electrical Energy Conversion Laboratory,topic,,,ECGR_3142L_triples_raw.json
+ECGR_3142L,standard laboratory instruments,concept,PART_OF,Electrical Energy Conversion Laboratory,topic,,,ECGR_3142L_triples_raw.json
+ECGR_3142L,unbalanced three-phase power measurements,concept,PART_OF,synchronous machines,method,,part is broader than whole - check direction,ECGR_3142L_triples_raw.json
+ECGR_3142L,applications oriented knowledge,concept,PART_OF,Electrical Energy Conversion Laboratory,topic,,,ECGR_3142L_triples_raw.json
+ECGR_3142L,digital multi-meters,tool,PART_OF,standard laboratory instruments,concept,,,ECGR_3142L_triples_raw.json
+ECGR_3142L,oscilloscopes,tool,PART_OF,standard laboratory instruments,concept,,,ECGR_3142L_triples_raw.json
+ECGR_3142L,power supplies,tool,PART_OF,standard laboratory instruments,concept,,,ECGR_3142L_triples_raw.json
+ECGR_3142L,digital multi-meters,tool,USED_FOR,unbalanced three-phase power measurements,concept,,,ECGR_3142L_triples_raw.json
+ECGR_3142L,oscilloscopes,tool,USED_FOR,Circuit debugging techniques,method,,,ECGR_3142L_triples_raw.json

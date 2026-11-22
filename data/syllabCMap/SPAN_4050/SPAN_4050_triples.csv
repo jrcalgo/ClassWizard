@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_4050,language acquisition theories,concept,PREREQUISITE_OF,Foundational Concepts in Linguistics,topic,same unit,,SPAN_4050_triples_raw.json
+SPAN_4050,sociolinguistics basics,concept,PREREQUISITE_OF,Critical Perspectives on Language,topic,A taught first,,SPAN_4050_triples_raw.json
+SPAN_4050,poststructuralism and postcolonialism,concept,PREREQUISITE_OF,Critical Perspectives on Language,topic,same unit,,SPAN_4050_triples_raw.json
+SPAN_4050,feminist linguistic theory,concept,PREREQUISITE_OF,Critical Perspectives on Language,topic,same unit,,SPAN_4050_triples_raw.json
+SPAN_4050,queer linguistics overview,concept,PREREQUISITE_OF,Critical Perspectives on Language,topic,same unit,,SPAN_4050_triples_raw.json
+SPAN_4050,language acquisition theories,concept,PART_OF,Foundational Concepts in Linguistics,topic,,,SPAN_4050_triples_raw.json
+SPAN_4050,sociolinguistics basics,concept,PART_OF,Foundational Concepts in Linguistics,topic,,,SPAN_4050_triples_raw.json
+SPAN_4050,phonology and grammar fundamentals,concept,PART_OF,Foundational Concepts in Linguistics,topic,,,SPAN_4050_triples_raw.json
+SPAN_4050,feminist linguistic theory,concept,PART_OF,Critical Perspectives on Language,topic,,,SPAN_4050_triples_raw.json
+SPAN_4050,queer linguistics overview,concept,PART_OF,Critical Perspectives on Language,topic,,,SPAN_4050_triples_raw.json
+SPAN_4050,critical discourse analysis,concept,USED_FOR,Linguistic Discrimination and Inequality,topic,,,SPAN_4050_triples_raw.json
+SPAN_4050,code switching and mixing,concept,USED_FOR,Language Contact and Change,topic,,,SPAN_4050_triples_raw.json

@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_2050,Enslaved People's Health Experiences,concept,PREREQUISITE_OF,Racialized Healthcare Disparities,concept,same unit,,HIST_2050_triples_raw.json
+HIST_2050,Enslaved People's Health Experiences,concept,PREREQUISITE_OF,Colonialism and Health Inequity,concept,same unit,,HIST_2050_triples_raw.json
+HIST_2050,Native American Healing Practices,concept,PART_OF,Indigenous Health Traditions,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Medicinal Plant Knowledge Systems,concept,PART_OF,Indigenous Health Traditions,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Medical Education in Europe,concept,PART_OF,Western European Conceptions,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Physician-Patient Relationships,concept,PART_OF,Western European Conceptions,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Cultural Exchange and Conflict,concept,PART_OF,Colonial Encounter and Impact,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Indigenous-European Health Comparisons,concept,PART_OF,Colonial Encounter and Impact,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Disease Transmission Dynamics,concept,PART_OF,Colonial Encounter and Impact,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Urban Planning and Sanitation,concept,PART_OF,Built Environment and Health,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Enslaved People's Health Experiences,concept,PART_OF,"Colonialism, Slavery, and Health",topic,,,HIST_2050_triples_raw.json
+HIST_2050,Racialized Healthcare Disparities,concept,PART_OF,"Colonialism, Slavery, and Health",topic,,,HIST_2050_triples_raw.json
+HIST_2050,Colonialism and Health Inequity,concept,PART_OF,"Colonialism, Slavery, and Health",topic,,,HIST_2050_triples_raw.json
+HIST_2050,War-Related Health Challenges,concept,PART_OF,Revolutionary War and Its Impact,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Healthcare System Changes,concept,PART_OF,Revolutionary War and Its Impact,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Emergence of New Healthcare Models,concept,PART_OF,Antebellum Period Developments,topic,,,HIST_2050_triples_raw.json
+HIST_2050,Rise of Pharmaceutical Industry,concept,PART_OF,Antebellum Period Developments,topic,,,HIST_2050_triples_raw.json

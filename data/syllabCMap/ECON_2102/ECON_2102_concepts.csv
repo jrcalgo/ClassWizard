@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECON_2102,topic,Principles of Microeconomics,Principles of Microeconomics,1,verified,Principles of Microeconomics,ECON_2102_concepts_raw.json
+ECON_2102,topic,Industrial Organization,industrial organization,1,verified,Industrial Organization,ECON_2102_concepts_raw.json
+ECON_2102,tool,PowerPoints,PowerPoints,1,verified,PowerPoints,ECON_2102_concepts_raw.json
+ECON_2102,tool,videos,videos,1,verified,videos,ECON_2102_concepts_raw.json
+ECON_2102,topic,Supply and Demand,Supply and Demand,1,inferred,Supply and Demand,ECON_2102_concepts_raw.json
+ECON_2102,topic,Consumer Behavior,Consumer Behavior,1,inferred,Consumer Behavior,ECON_2102_concepts_raw.json
+ECON_2102,topic,Production and Costs,Production and Costs,1,inferred,Production and Costs,ECON_2102_concepts_raw.json
+ECON_2102,topic,Market Structures,Market Structures,1,inferred,Market Structures,ECON_2102_concepts_raw.json
+ECON_2102,topic,Public Sector Economics,Public Sector Economics,1,inferred,Public Sector Economics,ECON_2102_concepts_raw.json
+ECON_2102,concept,demand curve shifts,Demand Curve Shifts,1,inferred,demand curve shifts,ECON_2102_concepts_raw.json
+ECON_2102,concept,law of supply,Law of Supply,1,inferred,law of supply,ECON_2102_concepts_raw.json
+ECON_2102,concept,market equilibrium,Market Equilibrium,1,inferred,market equilibrium,ECON_2102_concepts_raw.json
+ECON_2102,concept,opportunity cost,Opportunity Cost,1,inferred,opportunity cost,ECON_2102_concepts_raw.json
+ECON_2102,concept,budget constraint,Budget Constraint,1,inferred,budget constraint,ECON_2102_concepts_raw.json
+ECON_2102,concept,consumer surplus,Consumer Surplus,1,inferred,consumer surplus,ECON_2102_concepts_raw.json
+ECON_2102,concept,short-run production,Short-Run Production,1,inferred,short-run production,ECON_2102_concepts_raw.json
+ECON_2102,concept,long-run production,Long-Run Production,1,inferred,long-run production,ECON_2102_concepts_raw.json
+ECON_2102,concept,marginal cost,Marginal Cost,1,inferred,marginal cost,ECON_2102_concepts_raw.json
+ECON_2102,concept,perfect competition,Perfect Competition,1,inferred,perfect competition,ECON_2102_concepts_raw.json
+ECON_2102,concept,monopoly power,Monopoly Power,1,inferred,monopoly power,ECON_2102_concepts_raw.json
+ECON_2102,concept,oligopoly market,Oligopoly Market,1,inferred,oligopoly market,ECON_2102_concepts_raw.json
+ECON_2102,concept,government intervention,Government Intervention,1,inferred,government intervention,ECON_2102_concepts_raw.json
+ECON_2102,concept,taxation and spending,Taxation and Spending,1,inferred,taxation and spending,ECON_2102_concepts_raw.json
+ECON_2102,concept,public goods provision,Public Goods Provision,1,inferred,public goods provision,ECON_2102_concepts_raw.json
+ECON_2102,concept,industrial concentration,Industrial Concentration,1,inferred,industrial concentration,ECON_2102_concepts_raw.json
+ECON_2102,concept,barriers to entry,Barriers to Entry,1,inferred,barriers to entry,ECON_2102_concepts_raw.json
+ECON_2102,concept,market structure effects,Market Structure Effects,1,inferred,market structure effects,ECON_2102_concepts_raw.json

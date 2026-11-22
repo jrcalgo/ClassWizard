@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETGR_2272,topic,Engineering Analysis Ii,Engineering Analysis Ii,1,verified,Engineering Analysis Ii,ETGR_2272_concepts_raw.json
+ETGR_2272,topic,integration,integration,10,verified,integration,ETGR_2272_concepts_raw.json
+ETGR_2272,topic,areas,areas,2,verified,areas,ETGR_2272_concepts_raw.json
+ETGR_2272,topic,volumes,volumes,2,verified,volumes,ETGR_2272_concepts_raw.json
+ETGR_2272,topic,centroids and moments of inertia by integration,centroids and moments of inertia by integration,2,verified,centroids and moments of inertia by integration,ETGR_2272_concepts_raw.json
+ETGR_2272,topic,multivariable calculus,Multivariable calculus,2,verified,multivariable calculus,ETGR_2272_concepts_raw.json
+ETGR_2272,topic,partial derivatives,partial derivatives,3,verified,partial derivatives,ETGR_2272_concepts_raw.json
+ETGR_2272,topic,double integration,double integration,3,verified,double integration,ETGR_2272_concepts_raw.json

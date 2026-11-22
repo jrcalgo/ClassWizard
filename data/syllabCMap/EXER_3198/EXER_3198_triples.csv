@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_3198,Definition of Applied Kinesiology,concept,PART_OF,AK,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Skeletal System Overview,concept,PART_OF,Musculoskeletal Anatomy,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Muscle Structure and Function,concept,PART_OF,Musculoskeletal Anatomy,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Bone Classification and Types,concept,PART_OF,Musculoskeletal Anatomy,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Types of Joints in the Body,concept,PART_OF,Joint Motion Fundamentals,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Range of Motion and Mobility,concept,PART_OF,Joint Motion Fundamentals,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Joint Stability and Support,concept,PART_OF,Joint Motion Fundamentals,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Scapular and Shoulder Joint,concept,PART_OF,Upper Limb Anatomy,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Elbow and Forearm Structure,concept,PART_OF,Upper Limb Anatomy,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Wrist and Hand Function,concept,PART_OF,Upper Limb Anatomy,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Pelvic Girdle and Hip Joint,concept,PART_OF,Lower Limb Anatomy,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Knee and Leg Structure,concept,PART_OF,Lower Limb Anatomy,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Ankle and Foot Function,concept,PART_OF,Lower Limb Anatomy,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Spinal Column and Vertebrae,concept,PART_OF,Specialized Joints and Systems,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Temporomandibular Joint (TMJ,concept,PART_OF,Specialized Joints and Systems,topic,,,EXER_3198_triples_raw.json
+EXER_3198,Cervical Spine and Neck,concept,PART_OF,Specialized Joints and Systems,topic,,,EXER_3198_triples_raw.json

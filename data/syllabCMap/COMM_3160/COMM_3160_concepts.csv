@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+COMM_3160,topic,Business Communication,Business Communication,2,verified,Business Communication,COMM_3160_concepts_raw.json
+COMM_3160,concept,communication process,communication process,1,verified,communication process,COMM_3160_concepts_raw.json
+COMM_3160,topic,Internal Audiences,Internal Audiences,1,inferred,Internal Audiences,COMM_3160_concepts_raw.json
+COMM_3160,topic,External Audiences,External Audiences,1,inferred,External Audiences,COMM_3160_concepts_raw.json
+COMM_3160,topic,Writing for Business,Writing for Business,1,inferred,Writing for Business,COMM_3160_concepts_raw.json
+COMM_3160,topic,Speaking in Business,Speaking in Business,1,inferred,Speaking in Business,COMM_3160_concepts_raw.json
+COMM_3160,topic,Choosing Communication Mediums,Choosing Communication Mediums,1,inferred,Choosing Communication Mediums,COMM_3160_concepts_raw.json
+COMM_3160,concept,audience role in communication,Audience Role in Communication,1,inferred,audience role in communication,COMM_3160_concepts_raw.json
+COMM_3160,concept,message preparation techniques,Message Preparation Techniques,1,inferred,message preparation techniques,COMM_3160_concepts_raw.json
+COMM_3160,concept,employee communication strategies,Employee Communication Strategies,1,inferred,employee communication strategies,COMM_3160_concepts_raw.json
+COMM_3160,concept,manager-employee relationships,Manager-Employee Relationships,1,inferred,manager-employee relationships,COMM_3160_concepts_raw.json
+COMM_3160,concept,company culture and values,Company Culture and Values,1,inferred,company culture and values,COMM_3160_concepts_raw.json
+COMM_3160,concept,customer communication techniques,Customer Communication Techniques,1,inferred,customer communication techniques,COMM_3160_concepts_raw.json
+COMM_3160,concept,stakeholder identification methods,Stakeholder Identification Methods,1,inferred,stakeholder identification methods,COMM_3160_concepts_raw.json
+COMM_3160,concept,public relations strategies,Public Relations Strategies,1,inferred,public relations strategies,COMM_3160_concepts_raw.json
+COMM_3160,concept,business writing styles,Business Writing Styles,1,inferred,business writing styles,COMM_3160_concepts_raw.json
+COMM_3160,concept,report and proposal writing,Report and Proposal Writing,1,inferred,report and proposal writing,COMM_3160_concepts_raw.json
+COMM_3160,concept,memo and email writing,Memo and Email Writing,1,inferred,memo and email writing,COMM_3160_concepts_raw.json
+COMM_3160,concept,presentation delivery techniques,Presentation Delivery Techniques,1,inferred,presentation delivery techniques,COMM_3160_concepts_raw.json
+COMM_3160,concept,public speaking strategies,Public Speaking Strategies,1,inferred,public speaking strategies,COMM_3160_concepts_raw.json
+COMM_3160,concept,meetings and negotiations,Meetings and Negotiations,1,inferred,meetings and negotiations,COMM_3160_concepts_raw.json
+COMM_3160,concept,digital vs. traditional media,digital vs. traditional media,1,inferred,digital vs. traditional media,COMM_3160_concepts_raw.json
+COMM_3160,concept,social media platforms overview,Social Media Platforms Overview,1,inferred,social media platforms overview,COMM_3160_concepts_raw.json
+COMM_3160,concept,communication technology tools,Communication Technology Tools,1,inferred,communication technology tools,COMM_3160_concepts_raw.json

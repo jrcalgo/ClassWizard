@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3221,Financial System Overview,concept,PREREQUISITE_OF,Types of Financial Institutions,concept,same unit,,FINN_3221_triples_raw.json
+FINN_3221,Financial System Overview,concept,PREREQUISITE_OF,Role of Central Banks,concept,same unit,,FINN_3221_triples_raw.json
+FINN_3221,Banking Functions and Services,concept,PREREQUISITE_OF,Bank Risk Management Strategies,concept,same unit,,FINN_3221_triples_raw.json
+FINN_3221,Banking Functions and Services,concept,PREREQUISITE_OF,Regulatory Environment for Banks,concept,same unit,,FINN_3221_triples_raw.json
+FINN_3221,Investment Banking Services Offered,concept,PREREQUISITE_OF,Mergers and Acquisitions Process,concept,same unit,,FINN_3221_triples_raw.json
+FINN_3221,Investment Banking Services Offered,concept,PREREQUISITE_OF,Initial Public Offering (IPO,concept,same unit,,FINN_3221_triples_raw.json
+FINN_3221,Stock Exchange Operations,concept,PREREQUISITE_OF,Derivatives Trading,concept,same unit,,FINN_3221_triples_raw.json
+FINN_3221,Financial System Overview,concept,PART_OF,Financial Institutions,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Types of Financial Institutions,concept,PART_OF,Financial Institutions,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Role of Central Banks,concept,PART_OF,Financial Institutions,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Commercial Banking,topic,PART_OF,Financial Institutions,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Investment Banking,topic,PART_OF,Financial Institutions,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Securities Markets,topic,PART_OF,Financial Institutions,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Financial Regulation,topic,PART_OF,Financial Institutions,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Banking Functions and Services,concept,PART_OF,Commercial Banking,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Bank Risk Management Strategies,concept,PART_OF,Commercial Banking,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Regulatory Environment for Banks,concept,PART_OF,Commercial Banking,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Mergers and Acquisitions Process,concept,PART_OF,Investment Banking,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Initial Public Offering (IPO,concept,PART_OF,Investment Banking,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Stock Exchange Operations,concept,PART_OF,Securities Markets,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Bond Market Structure and Function,concept,PART_OF,Securities Markets,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Derivatives Trading,concept,PART_OF,Securities Markets,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Regulatory Agencies and Bodies,concept,PART_OF,Financial Regulation,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Financial Reporting Standards,concept,PART_OF,Financial Regulation,topic,,,FINN_3221_triples_raw.json
+FINN_3221,Compliance and Risk Management,concept,PART_OF,Financial Regulation,topic,,,FINN_3221_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_3322,multimedia integration,method,PREREQUISITE_OF,interactive learning activities,method,A taught first,,PROS_3322_triples_raw.json
+PROS_3322,multimedia integration,method,PREREQUISITE_OF,gamification and engagement,method,A taught first,,PROS_3322_triples_raw.json
+PROS_3322,iterative design methodology,method,PREREQUISITE_OF,prototype development process,method,same unit,,PROS_3322_triples_raw.json
+PROS_3322,instructional design principles,concept,PART_OF,Instructional Design,topic,,,PROS_3322_triples_raw.json
+PROS_3322,performance needs analysis,concept,PART_OF,Instructional Design,topic,,,PROS_3322_triples_raw.json
+PROS_3322,learning objectives framework,concept,PART_OF,Instructional Design,topic,,,PROS_3322_triples_raw.json
+PROS_3322,course design tools overview,concept,PART_OF,Instructional Design,topic,,,PROS_3322_triples_raw.json
+PROS_3322,multimedia integration,method,PART_OF,interactive learning activities,method,,,PROS_3322_triples_raw.json
+PROS_3322,multimedia integration,method,PART_OF,gamification and engagement,method,,,PROS_3322_triples_raw.json
+PROS_3322,iterative design methodology,method,PART_OF,prototype development process,method,,,PROS_3322_triples_raw.json
+PROS_3322,multimedia integration,method,USED_FOR,interactive learning activities,method,,,PROS_3322_triples_raw.json

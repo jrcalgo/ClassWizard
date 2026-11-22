@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHFD_3116,cognitive abilities assessment,concept,PREREQUISITE_OF,cognitive development theories,concept,same unit,,CHFD_3116_triples_raw.json
+CHFD_3116,inclusive curriculum design,concept,PREREQUISITE_OF,universal design for learning,topic,same unit,,CHFD_3116_triples_raw.json
+CHFD_3116,social emotional learning,concept,PART_OF,emotional/social,topic,,,CHFD_3116_triples_raw.json
+CHFD_3116,physical activity benefits,concept,PART_OF,health and physical,topic,,,CHFD_3116_triples_raw.json
+CHFD_3116,nutrition education principles,concept,PART_OF,health and physical,topic,,,CHFD_3116_triples_raw.json
+CHFD_3116,language development stages,concept,PART_OF,language and communication,topic,,,CHFD_3116_triples_raw.json
+CHFD_3116,cognitive development theories,concept,PART_OF,cognitive domains,topic,,,CHFD_3116_triples_raw.json
+CHFD_3116,inclusive curriculum design,concept,PART_OF,diverse learners framework,topic,,,CHFD_3116_triples_raw.json
+CHFD_3116,universal design for learning,topic,PART_OF,diverse learners framework,topic,,,CHFD_3116_triples_raw.json
+CHFD_3116,culturally responsive teaching,concept,PART_OF,diverse learners framework,topic,,,CHFD_3116_triples_raw.json

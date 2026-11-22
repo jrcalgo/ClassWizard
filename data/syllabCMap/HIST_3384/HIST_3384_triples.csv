@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3384,recording equipment,concept,PREREQUISITE_OF,interviewing techniques,concept,same unit,,HIST_3384_triples_raw.json
+HIST_3384,interviewing techniques,concept,PREREQUISITE_OF,Oral History,topic,same unit,,HIST_3384_triples_raw.json
+HIST_3384,recording equipment,concept,PART_OF,Oral History Methods,topic,,,HIST_3384_triples_raw.json
+HIST_3384,interviewing techniques,concept,PART_OF,Oral History Methods,topic,,,HIST_3384_triples_raw.json
+HIST_3384,metadata creation process,concept,PART_OF,Oral History Methods,topic,,,HIST_3384_triples_raw.json
+HIST_3384,transcription and editing,concept,PART_OF,Oral History Methods,topic,,,HIST_3384_triples_raw.json
+HIST_3384,digital storage options,concept,PART_OF,Oral History Methods,topic,,,HIST_3384_triples_raw.json
+HIST_3384,assessing collection development,concept,PART_OF,Analyzing Oral Histories,topic,,,HIST_3384_triples_raw.json
+HIST_3384,designing class presentations,concept,PART_OF,Analyzing Oral Histories,topic,,,HIST_3384_triples_raw.json
+HIST_3384,group project roles and responsibilities,concept,PART_OF,Collaborative Project Planning,topic,,,HIST_3384_triples_raw.json
+HIST_3384,community outreach strategies,concept,PART_OF,Oral History in Practice,topic,,,HIST_3384_triples_raw.json
+HIST_3384,collaborating with stakeholders,concept,PART_OF,Oral History in Practice,topic,,,HIST_3384_triples_raw.json

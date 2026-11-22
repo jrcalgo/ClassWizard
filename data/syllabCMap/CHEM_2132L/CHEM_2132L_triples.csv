@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_2132L,Personal Protective Equipment,concept,PART_OF,Lab Safety,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,Chemical Handling Procedures,concept,PART_OF,Lab Safety,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,Emergency Response Protocols,concept,PART_OF,Lab Safety,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,Gas Chromatography Basics,concept,PART_OF,Instrumentation,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,Mass Spectrometry Fundamentals,concept,PART_OF,Instrumentation,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,NMR Spectroscopy Principles,concept,PART_OF,Instrumentation,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,Yield and Purity Maximization,concept,PART_OF,Synthesis Techniques,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,Purification Methods Comparison,concept,PART_OF,Synthesis Techniques,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,Column Chromatography Techniques,concept,PART_OF,Isolation and Purification,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,Distillation Methodologies,concept,PART_OF,Isolation and Purification,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,IR Spectroscopy Interpretation,concept,PART_OF,Spectroscopic Analysis,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,NMR Spectroscopy Applications,concept,PART_OF,Spectroscopic Analysis,topic,,,CHEM_2132L_triples_raw.json
+CHEM_2132L,Mass Spectrometry Data Analysis,concept,PART_OF,Spectroscopic Analysis,topic,,,CHEM_2132L_triples_raw.json

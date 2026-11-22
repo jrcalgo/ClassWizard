@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BDBA_8130,Core research questions,concept,PREREQUISITE_OF,Novel research questions,concept,A taught first,,BDBA_8130_triples_raw.json
+BDBA_8130,Core research questions,concept,PREREQUISITE_OF,Logical next steps,concept,A taught first,,BDBA_8130_triples_raw.json
+BDBA_8130,Core research questions,concept,PREREQUISITE_OF,Methodological rigor,concept,A mentioned first,,BDBA_8130_triples_raw.json

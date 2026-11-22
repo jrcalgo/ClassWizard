@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6241,Ordinary Least Squares,topic,PREREQUISITE_OF,regression analysis,method,same unit,,HLTH_6241_triples_raw.json
+HLTH_6241,Ordinary Least Squares,topic,PREREQUISITE_OF,multivariate linear regression,concept,A mentioned first,,HLTH_6241_triples_raw.json
+HLTH_6241,Ordinary Least Squares,topic,PREREQUISITE_OF,logistic regression,concept,A mentioned first,,HLTH_6241_triples_raw.json
+HLTH_6241,hypothesis testing,method,PREREQUISITE_OF,confidence intervals,method,same unit,,HLTH_6241_triples_raw.json
+HLTH_6241,dummy variables,method,PREREQUISITE_OF,Interaction Terms,topic,A taught first,,HLTH_6241_triples_raw.json
+HLTH_6241,Endogeneity Bias,topic,PREREQUISITE_OF,instrumental variables,method,same unit,,HLTH_6241_triples_raw.json
+HLTH_6241,two-stage least squares,method,PREREQUISITE_OF,Multicollinearity Problem,topic,A taught first,,HLTH_6241_triples_raw.json
+HLTH_6241,types of data,concept,PART_OF,Health Policy Assessment,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,data quality and validity,concept,PART_OF,Health Policy Assessment,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,best practices for data management and analysis,concept,PART_OF,Health Policy Assessment,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,descriptive summary statistics,concept,PART_OF,Quantitative Analysis Techniques,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,simple linear regression,concept,PART_OF,regression analysis,method,,part is broader than whole - check direction,HLTH_6241_triples_raw.json
+HLTH_6241,multivariate linear regression,concept,PART_OF,regression analysis,method,,part is broader than whole - check direction,HLTH_6241_triples_raw.json
+HLTH_6241,logistic regression,concept,PART_OF,regression analysis,method,,part is broader than whole - check direction,HLTH_6241_triples_raw.json
+HLTH_6241,quasi-experimental designs,concept,PART_OF,Health Policy Assessment,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,causal inference,concept,PART_OF,Health Policy Assessment,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,study designs,concept,PART_OF,Health Policy Assessment,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,sources of bias,concept,PART_OF,Health Policy Assessment,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,policy analysis tools,concept,PART_OF,Health Policy Assessment,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,hypothesis testing,method,USED_FOR,confidence intervals,method,,,HLTH_6241_triples_raw.json
+HLTH_6241,regression analysis,method,USED_FOR,descriptive summary statistics,concept,,,HLTH_6241_triples_raw.json
+HLTH_6241,dummy variables,method,USED_FOR,Interaction Terms,topic,,,HLTH_6241_triples_raw.json
+HLTH_6241,instrumental variables,method,USED_FOR,Multicollinearity Problem,topic,,,HLTH_6241_triples_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_6160,Addiction,topic,PREREQUISITE_OF,Theories of Addiction,topic,same unit,,CSLG_6160_triples_raw.json
+CSLG_6160,Biological Etiologies,topic,PREREQUISITE_OF,Psychological Theories,topic,A taught first,,CSLG_6160_triples_raw.json
+CSLG_6160,Definition of Addiction,concept,PART_OF,Addiction,topic,,,CSLG_6160_triples_raw.json
+CSLG_6160,Cognitive-Behavioral Models of Addiction,concept,PART_OF,Psychological Theories,topic,,,CSLG_6160_triples_raw.json
+CSLG_6160,Socio-Cultural Factors in Addiction,concept,PART_OF,Sociological Perspectives,topic,,,CSLG_6160_triples_raw.json
+CSLG_6160,Biopsychosocial Model of Addiction,concept,PART_OF,Integrated Theories,topic,,,CSLG_6160_triples_raw.json
+CSLG_6160,Multidimensional Approach to Addiction,concept,PART_OF,Integrated Theories,topic,,,CSLG_6160_triples_raw.json
+CSLG_6160,Genetic Factors in Addiction,concept,USED_FOR,Biological Etiologies,topic,,,CSLG_6160_triples_raw.json
+CSLG_6160,Neurobiological Mechanisms,concept,USED_FOR,Biological Etiologies,topic,,,CSLG_6160_triples_raw.json
+CSLG_6160,Social Learning Theory and Addiction,concept,USED_FOR,Sociological Perspectives,topic,,,CSLG_6160_triples_raw.json

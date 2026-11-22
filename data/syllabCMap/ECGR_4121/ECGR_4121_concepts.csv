@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4121,topic,Antennas,Antennas,17,verified,Antennas,ECGR_4121_concepts_raw.json
+ECGR_4121,topic,Antenna Theory and Design,Antenna theory and design,1,verified,Introduction to Antenna Theory and Design,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,Type of antenna,Type of antenna,2,verified,Type of antenna,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,radiation mechanism,radiation mechanisms,2,verified,radiation mechanism,ECGR_4121_concepts_raw.json
+ECGR_4121,topic,current distribution of thin wire antenna,current distribution of thin wire antenna,1,verified,current distribution of thin wire antenna,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,radiation patterns,radiation patterns,14,verified,radiation patterns,ECGR_4121_concepts_raw.json
+ECGR_4121,measure,Radiation Intensity,radiation intensity,5,verified,Radiation Intensity,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,directivity and gain,Directivity and Gain,3,verified,directivity and gain,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,antenna efficiency,Antenna Efficiency,6,verified,antenna efficiency,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,bandwidth and polarization,Bandwidth and Polarization,1,verified,bandwidth and polarization,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,input impedance,input impedance,15,verified,input impedance,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,effective aperture,effective aperture,13,verified,effective aperture,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,Friis transmission equation,Friis transmission equation,9,verified,Friis transmission equation,ECGR_4121_concepts_raw.json
+ECGR_4121,topic,Parameters and FoM of Antennas,Parameters and FoM of Antennas,4,verified,Parameters and FoM of Antennas,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,Huygens' principle,Huygens' principle,9,verified,Huygens' principle,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,Babinet's principle,Babinet's principle,11,verified,Babinet's principle,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,Fourier-transform methods,Fourier-transform methods,9,verified,Fourier-transform methods,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,aperture analysis techniques,Aperture Analysis Techniques,1,verified,aperture analysis techniques,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,rectangular aperture radiation,Rectangular Aperture Radiation,3,verified,rectangular aperture radiation,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,circular aperture radiation,Circular Aperture Radiation,1,verified,circular aperture radiation,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,current distribution,current distribution,3,verified,current distribution,ECGR_4121_concepts_raw.json
+ECGR_4121,concept,thin wire antenna,thin wire antenna,2,verified,thin wire antenna,ECGR_4121_concepts_raw.json
+ECGR_4121,measure,Directivity,directivity,15,verified,Directivity,ECGR_4121_concepts_raw.json
+ECGR_4121,measure,Gain Efficiency,Gain Efficiency,5,verified,Gain Efficiency,ECGR_4121_concepts_raw.json
+ECGR_4121,measure,Beam Width,beam width,2,verified,Beam Width,ECGR_4121_concepts_raw.json
+ECGR_4121,measure,Radiation Power Density,radiation power density,2,verified,Radiation Power Density,ECGR_4121_concepts_raw.json
+ECGR_4121,measure,Beam Efficiency,beam efficiency,2,verified,Beam Efficiency,ECGR_4121_concepts_raw.json
+ECGR_4121,measure,Antenna Temperature,antenna temperature,4,verified,Antenna Temperature,ECGR_4121_concepts_raw.json

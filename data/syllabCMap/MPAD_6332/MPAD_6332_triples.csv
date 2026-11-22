@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6332,project knowledge areas,concept,PREREQUISITE_OF,Project Planning and Scheduling,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,Project Management Fundamentals,topic,PREREQUISITE_OF,Program/Portfolio Structure,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,project lifecycle phases,concept,PREREQUISITE_OF,Project Monitoring and Control,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,scope management process,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,time and cost estimation,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,work breakdown structure (WBS,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,project schedule development,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,resource allocation and levelling,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,earned value management (EVM,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,risk and issue management,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,stakeholder identification and analysis,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,communication planning and strategy,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,progress reporting and updates,concept,PREREQUISITE_OF,Project Closure and Evaluation,topic,A taught first,,MPAD_6332_triples_raw.json
+MPAD_6332,project lifecycle phases,concept,PART_OF,Program/Portfolio Structure,topic,,,MPAD_6332_triples_raw.json
+MPAD_6332,integration management process,concept,PART_OF,project knowledge areas,concept,,,MPAD_6332_triples_raw.json
+MPAD_6332,scope management process,concept,PART_OF,project knowledge areas,concept,,,MPAD_6332_triples_raw.json
+MPAD_6332,time and cost estimation,concept,PART_OF,project knowledge areas,concept,,,MPAD_6332_triples_raw.json
+MPAD_6332,work breakdown structure (WBS,concept,PART_OF,Project Planning and Scheduling,topic,,,MPAD_6332_triples_raw.json
+MPAD_6332,project schedule development,concept,PART_OF,Project Planning and Scheduling,topic,,,MPAD_6332_triples_raw.json
+MPAD_6332,resource allocation and levelling,concept,PART_OF,Project Planning and Scheduling,topic,,,MPAD_6332_triples_raw.json
+MPAD_6332,risk and issue management,concept,PART_OF,Project Monitoring and Control,topic,,,MPAD_6332_triples_raw.json
+MPAD_6332,progress reporting and updates,concept,PART_OF,Project Communication and Stakeholder Management,topic,,,MPAD_6332_triples_raw.json

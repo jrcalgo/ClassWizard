@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5187,topic,Data Communications and Networking - II,Data Communications and Networking - II,1,verified,Data Communications and Networking - II,ECGR_5187_concepts_raw.json
+ECGR_5187,concept,medium access control,medium access control,3,verified,medium access control,ECGR_5187_concepts_raw.json
+ECGR_5187,topic,Local Area Networks,local area networks,1,verified,Local Area Networks,ECGR_5187_concepts_raw.json
+ECGR_5187,topic,Internet Applications,Internet applications,1,verified,Internet Applications,ECGR_5187_concepts_raw.json
+ECGR_5187,concept,data link control,data link control,2,verified,data link control,ECGR_5187_concepts_raw.json
+ECGR_5187,concept,routing,routing,3,verified,routing,ECGR_5187_concepts_raw.json
+ECGR_5187,concept,transport,transport,4,verified,transport,ECGR_5187_concepts_raw.json

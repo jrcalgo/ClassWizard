@@ -1,0 +1,39 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_2169L,Connective Tissue Types,concept,PREREQUISITE_OF,Muscle Tissue Characteristics,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Pituitary Gland Location,concept,PREREQUISITE_OF,Thyroid Hormone Regulation,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Pituitary Gland Location,concept,PREREQUISITE_OF,Adrenal Gland Function,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Thyroid Hormone Regulation,concept,PREREQUISITE_OF,Adrenal Gland Function,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Heart Chamber Functions,concept,PREREQUISITE_OF,Blood Vessel Structure,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Heart Chamber Functions,concept,PREREQUISITE_OF,Circulatory Pathways,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Blood Vessel Structure,concept,PREREQUISITE_OF,Circulatory Pathways,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Lung Anatomy and Function,concept,PREREQUISITE_OF,Gas Exchange Process,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Trachea and Bronchus Structure,concept,PREREQUISITE_OF,Gas Exchange Process,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Esophagus and Stomach Functions,concept,PREREQUISITE_OF,Small Intestine Absorption,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Esophagus and Stomach Functions,concept,PREREQUISITE_OF,Large Intestine Elimination,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Small Intestine Absorption,concept,PREREQUISITE_OF,Large Intestine Elimination,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Kidney Structure and Function,concept,PREREQUISITE_OF,Ureter and Urinary Bladder,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Kidney Structure and Function,concept,PREREQUISITE_OF,Nephron Filtration Process,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Ureter and Urinary Bladder,concept,PREREQUISITE_OF,Nephron Filtration Process,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Male Reproductive Organs,concept,PREREQUISITE_OF,Fertilization and Implantation,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Female Reproductive Organs,concept,PREREQUISITE_OF,Fertilization and Implantation,concept,same unit,,EXER_2169L_triples_raw.json
+EXER_2169L,Connective Tissue Types,concept,PART_OF,Tissue Structure,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Muscle Tissue Characteristics,concept,PART_OF,Tissue Structure,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Thyroid Hormone Regulation,concept,PART_OF,Endocrine System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Adrenal Gland Function,concept,PART_OF,Endocrine System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Heart Chamber Functions,concept,PART_OF,Cardiovascular System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Blood Vessel Structure,concept,PART_OF,Cardiovascular System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Circulatory Pathways,concept,PART_OF,Cardiovascular System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Lung Anatomy and Function,concept,PART_OF,Respiratory System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Gas Exchange Process,concept,PART_OF,Respiratory System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Esophagus and Stomach Functions,concept,PART_OF,Digestive System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Small Intestine Absorption,concept,PART_OF,Digestive System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Kidney Structure and Function,concept,PART_OF,Urinary System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Nephron Filtration Process,concept,PART_OF,Urinary System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Male Reproductive Organs,concept,PART_OF,Reproductive System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Female Reproductive Organs,concept,PART_OF,Reproductive System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Fertilization and Implantation,concept,PART_OF,Reproductive System,topic,,,EXER_2169L_triples_raw.json
+EXER_2169L,Human Anatomy Visualization,concept,PART_OF,Digital Cadaver Technology,tool,,part is broader than whole - check direction,EXER_2169L_triples_raw.json
+EXER_2169L,3D Modeling Software,concept,PART_OF,Digital Cadaver Technology,tool,,part is broader than whole - check direction,EXER_2169L_triples_raw.json
+EXER_2169L,Digital Cadaver Technology,tool,USED_FOR,Human Anatomy Visualization,concept,,,EXER_2169L_triples_raw.json
+EXER_2169L,Digital Cadaver Technology,tool,USED_FOR,Anatomical Structure Identification,concept,,,EXER_2169L_triples_raw.json
+EXER_2169L,TopHat Interactive Learning Platform,tool,USED_FOR,Human Anatomy & Physiology,topic,,,EXER_2169L_triples_raw.json

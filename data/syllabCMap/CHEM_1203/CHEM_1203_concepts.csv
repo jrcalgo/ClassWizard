@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_1203,topic,Atomic Structure,Atomic Structure,1,inferred,Atomic Structure,CHEM_1203_concepts_raw.json
+CHEM_1203,topic,Periodic Table,Periodic Table,1,inferred,Periodic Table,CHEM_1203_concepts_raw.json
+CHEM_1203,topic,Chemical Bonding,Chemical Bonding,1,inferred,Chemical Bonding,CHEM_1203_concepts_raw.json
+CHEM_1203,topic,Inorganic Chemistry Basics,Inorganic Chemistry Basics,1,inferred,Inorganic Chemistry Basics,CHEM_1203_concepts_raw.json
+CHEM_1203,topic,Chemical Calculations,Chemical Calculations,1,inferred,Chemical Calculations,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Protons and Neutrons,Protons and Neutrons,1,inferred,Protons and Neutrons,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Electron Configuration,Electron Configuration,1,inferred,Electron Configuration,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Atomic Number,Atomic Number,1,inferred,Atomic Number,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Mass Number,Mass Number,1,inferred,Mass Number,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Elements and Compounds,Elements and Compounds,1,inferred,Elements and Compounds,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Blocks and Groups,Blocks and Groups,1,inferred,Blocks and Groups,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Metals and Nonmetals,Metals and Nonmetals,1,inferred,Metals and Nonmetals,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Ionic Bonds Formed,Ionic Bonds Formed,1,inferred,Ionic Bonds Formed,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Covalent Bonds Formed,Covalent Bonds Formed,1,inferred,Covalent Bonds Formed,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Molecular Geometry,Molecular Geometry,1,inferred,Molecular Geometry,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Acids and Bases Defined,Acids and Bases Defined,1,inferred,Acids and Bases Defined,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,pH Scale Explained,pH Scale Explained,1,inferred,pH Scale Explained,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Redox Reactions Occur,Redox Reactions Occur,1,inferred,Redox Reactions Occur,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Mole Concept Applied,Mole Concept Applied,1,inferred,Mole Concept Applied,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Empirical Formula Found,Empirical Formula Found,1,inferred,Empirical Formula Found,CHEM_1203_concepts_raw.json
+CHEM_1203,concept,Molecular Formula Determined,Molecular Formula Determined,1,inferred,Molecular Formula Determined,CHEM_1203_concepts_raw.json

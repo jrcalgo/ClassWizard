@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_4100,topic,Nursing,Nursing,3,verified,Nursing,NURS_4100_concepts_raw.json
+NURS_4100,topic,Gerontological nursing,Gerontological nursing,1,verified,Gerontological nursing,NURS_4100_concepts_raw.json
+NURS_4100,topic,Physiological Changes,physiological changes,1,verified,Physiological Changes,NURS_4100_concepts_raw.json
+NURS_4100,topic,Healthcare Utilization,healthcare utilization,1,verified,Healthcare Utilization,NURS_4100_concepts_raw.json
+NURS_4100,topic,Cultural and Social Attitudes,cultural and social attitudes,1,verified,Cultural and Social Attitudes,NURS_4100_concepts_raw.json
+NURS_4100,topic,Psychological Well-being,psychological well-being,1,verified,Psychological Well-being,NURS_4100_concepts_raw.json
+NURS_4100,topic,Death and Aging,death and aging,1,verified,Death and Aging,NURS_4100_concepts_raw.json
+NURS_4100,concept,relationship between death and aging,relationship between death and aging,1,verified,relationship between death and aging,NURS_4100_concepts_raw.json

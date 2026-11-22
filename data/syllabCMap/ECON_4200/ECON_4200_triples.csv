@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_4200,Inequality and Intergenerational Mobility,topic,PART_OF,Public Economics,topic,,,ECON_4200_triples_raw.json
+ECON_4200,Government Taxation and Tax Incidence,topic,PART_OF,Public Economics,topic,,,ECON_4200_triples_raw.json
+ECON_4200,Poverty,topic,PART_OF,Public Economics,topic,,,ECON_4200_triples_raw.json
+ECON_4200,Redistribution Policies,topic,PART_OF,Public Economics,topic,,,ECON_4200_triples_raw.json

@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_6000,topic,Biophysics Seminar,Biophysics Seminar,1,verified,Biophysics Seminar,BIOL_6000_concepts_raw.json
+BIOL_6000,topic,Biophysics,Biophysics,4,verified,Introduction to Biophysics,BIOL_6000_concepts_raw.json
+BIOL_6000,topic,Molecular Structure and Dynamics,Molecular Structure and Dynamics,1,inferred,Molecular Structure and Dynamics,BIOL_6000_concepts_raw.json
+BIOL_6000,topic,Biophysical Techniques and Methods,Biophysical Techniques and Methods,1,inferred,Biophysical Techniques and Methods,BIOL_6000_concepts_raw.json
+BIOL_6000,topic,Contemporary Topics in Biophysics,Contemporary Topics in Biophysics,1,inferred,Contemporary Topics in Biophysics,BIOL_6000_concepts_raw.json
+BIOL_6000,topic,Research Seminar Presentations,Research Seminar Presentations,1,inferred,Research Seminar Presentations,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,biophysics definition and scope,Biophysics definition and scope,1,inferred,biophysics definition and scope,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,interdisciplinary nature of biophysics,Interdisciplinary nature of biophysics,1,inferred,interdisciplinary nature of biophysics,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,applications in molecular biology,Applications in molecular biology,1,inferred,applications in molecular biology,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,protein structure and function,Protein structure and function,1,inferred,protein structure and function,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,nucleic acid structure and dynamics,Nucleic acid structure and dynamics,1,inferred,nucleic acid structure and dynamics,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,membrane structure and transport,Membrane structure and transport,1,inferred,membrane structure and transport,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,x-ray crystallography basics,X-ray crystallography basics,1,inferred,x-ray crystallography basics,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,magnetic resonance spectroscopy,Magnetic resonance spectroscopy,1,inferred,magnetic resonance spectroscopy,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,fluorescence microscopy principles,Fluorescence microscopy principles,1,inferred,fluorescence microscopy principles,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,single-molecule biophysics techniques,Single-molecule biophysics techniques,1,inferred,single-molecule biophysics techniques,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,biological systems modeling and simulation,Biological systems modeling and simulation,1,inferred,biological systems modeling and simulation,BIOL_6000_concepts_raw.json
+BIOL_6000,concept,quantum mechanics in biology,Quantum mechanics in biology,1,inferred,quantum mechanics in biology,BIOL_6000_concepts_raw.json

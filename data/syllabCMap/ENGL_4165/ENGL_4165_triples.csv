@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4165,culture as an ideological construct,concept,PREREQUISITE_OF,linguistic relativity theory,concept,B mentioned first,,ENGL_4165_triples_raw.json
+ENGL_4165,culture as an ideological construct,concept,PREREQUISITE_OF,nationalism and language,concept,B mentioned first,,ENGL_4165_triples_raw.json
+ENGL_4165,cultural diversity in education,concept,PREREQUISITE_OF,multiculturalism and language policy,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,communication barriers in multinational companies,concept,PREREQUISITE_OF,diversity management strategies,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,communication barriers in multinational companies,concept,PREREQUISITE_OF,language training for employees,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,multilingual education systems,concept,PREREQUISITE_OF,accessibility in public services,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,multilingual education systems,concept,PREREQUISITE_OF,language support for minority groups,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,cultural differences in romantic relationships,concept,PREREQUISITE_OF,language and intimacy in multicultural couples,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,cultural differences in romantic relationships,concept,PREREQUISITE_OF,power dynamics in cross-cultural partnerships,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,research design for fieldwork,concept,PREREQUISITE_OF,data collection methods,method,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,research design for fieldwork,concept,PREREQUISITE_OF,ethics of research with minority groups,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,interview techniques for qualitative research,concept,PREREQUISITE_OF,analyzing narrative data,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,interview techniques for qualitative research,concept,PREREQUISITE_OF,interpreting cultural differences in interview responses,concept,same unit,,ENGL_4165_triples_raw.json
+ENGL_4165,fieldwork,method,USED_FOR,research design for fieldwork,concept,,,ENGL_4165_triples_raw.json
+ENGL_4165,interview-based study,method,USED_FOR,interview techniques for qualitative research,concept,,,ENGL_4165_triples_raw.json
+ENGL_4165,written analysis,method,USED_FOR,analyzing narrative data,concept,,,ENGL_4165_triples_raw.json

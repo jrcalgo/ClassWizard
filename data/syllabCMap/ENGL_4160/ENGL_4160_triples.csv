@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4160,Evolutionary Linguistics Overview,concept,PREREQUISITE_OF,Origins of Language,topic,A mentioned first,,ENGL_4160_triples_raw.json
+ENGL_4160,Paleolinguistics,topic,PREREQUISITE_OF,Origins of Language,topic,A mentioned first,,ENGL_4160_triples_raw.json
+ENGL_4160,Neurolinguistics,topic,PREREQUISITE_OF,Origins of Language,topic,A mentioned first,,ENGL_4160_triples_raw.json
+ENGL_4160,Anthropological Perspectives on Language,topic,PREREQUISITE_OF,Origins of Language,topic,A mentioned first,,ENGL_4160_triples_raw.json
+ENGL_4160,Philosophical Debates on Human Language,topic,PREREQUISITE_OF,Origins of Language,topic,A mentioned first,,ENGL_4160_triples_raw.json
+ENGL_4160,Evolutionary Linguistics Overview,concept,PART_OF,Origins of Language,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Paleolinguistics,topic,PART_OF,Origins of Language,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Neurolinguistics,topic,PART_OF,Origins of Language,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Anthropological Perspectives on Language,topic,PART_OF,Origins of Language,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Philosophical Debates on Human Language,topic,PART_OF,Origins of Language,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Human Language Development Theories,concept,PART_OF,Origins of Language,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Fossil Record of Early Humans,concept,USED_FOR,Paleolinguistics,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Early Symbolic Communication Systems,concept,USED_FOR,Paleolinguistics,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Brain Structure and Language Processing,concept,USED_FOR,Neurolinguistics,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Neural Basis of Language Acquisition,concept,USED_FOR,Neurolinguistics,topic,,,ENGL_4160_triples_raw.json
+ENGL_4160,Comparative Neuroanatomy Studies,concept,USED_FOR,Neurolinguistics,topic,,,ENGL_4160_triples_raw.json

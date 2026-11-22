@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUNP_6240,Health Promotion Strategies,concept,PREREQUISITE_OF,Cultural Competence Principles,concept,same unit,,NUNP_6240_triples_raw.json
+NUNP_6240,Female Reproductive System Function,concept,PREREQUISITE_OF,Hormonal Regulation of Menstrual Cycle,concept,same unit,,NUNP_6240_triples_raw.json
+NUNP_6240,Female Reproductive System Function,concept,PREREQUISITE_OF,Pregnancy and Fetal Development,concept,same unit,,NUNP_6240_triples_raw.json
+NUNP_6240,Menstrual Disorders Management,concept,PREREQUISITE_OF,Endometriosis Diagnosis and Treatment,concept,same unit,,NUNP_6240_triples_raw.json
+NUNP_6240,STI Prevention and Education,concept,PREREQUISITE_OF,Chlamydia and Gonorrhea Management,concept,same unit,,NUNP_6240_triples_raw.json
+NUNP_6240,STI Prevention and Education,concept,PREREQUISITE_OF,Syphilis and HIV/AIDS Screening,concept,same unit,,NUNP_6240_triples_raw.json
+NUNP_6240,Health Promotion Strategies,concept,PART_OF,Women's Health Overview,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,Cultural Competence Principles,concept,PART_OF,Women's Health Overview,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,Female Reproductive System Function,concept,PART_OF,Reproductive Anatomy and Physiology,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,Pregnancy and Fetal Development,concept,PART_OF,Reproductive Anatomy and Physiology,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,Menstrual Disorders Management,concept,PART_OF,Common Health Concerns in Women,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,Polycystic Ovary Syndrome (PCOS,concept,PART_OF,Common Health Concerns in Women,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,STI Prevention and Education,concept,PART_OF,Sexually Transmitted Infections,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,Chlamydia and Gonorrhea Management,concept,PART_OF,Sexually Transmitted Infections,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,Prenatal Care and Risk Assessment,concept,PART_OF,Pregnancy and Postpartum Care,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,Labor and Delivery Management,concept,PART_OF,Pregnancy and Postpartum Care,topic,,,NUNP_6240_triples_raw.json
+NUNP_6240,STI Prevention and Education,concept,USED_FOR,Syphilis and HIV/AIDS Screening,concept,,,NUNP_6240_triples_raw.json

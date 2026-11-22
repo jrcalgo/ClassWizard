@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_6000,biophysics definition and scope,concept,PREREQUISITE_OF,Biophysics Seminar,topic,A mentioned first,,BIOL_6000_triples_raw.json
+BIOL_6000,interdisciplinary nature of biophysics,concept,PREREQUISITE_OF,Biophysics Seminar,topic,A mentioned first,,BIOL_6000_triples_raw.json
+BIOL_6000,applications in molecular biology,concept,PREREQUISITE_OF,Biophysics Seminar,topic,A mentioned first,,BIOL_6000_triples_raw.json
+BIOL_6000,protein structure and function,concept,PREREQUISITE_OF,Molecular Structure and Dynamics,topic,same unit,,BIOL_6000_triples_raw.json
+BIOL_6000,membrane structure and transport,concept,PREREQUISITE_OF,Molecular Structure and Dynamics,topic,same unit,,BIOL_6000_triples_raw.json
+BIOL_6000,x-ray crystallography basics,concept,PREREQUISITE_OF,Biophysical Techniques and Methods,topic,same unit,,BIOL_6000_triples_raw.json
+BIOL_6000,magnetic resonance spectroscopy,concept,PREREQUISITE_OF,Biophysical Techniques and Methods,topic,same unit,,BIOL_6000_triples_raw.json
+BIOL_6000,fluorescence microscopy principles,concept,PREREQUISITE_OF,Biophysical Techniques and Methods,topic,same unit,,BIOL_6000_triples_raw.json
+BIOL_6000,single-molecule biophysics techniques,concept,PREREQUISITE_OF,Contemporary Topics in Biophysics,topic,same unit,,BIOL_6000_triples_raw.json
+BIOL_6000,biological systems modeling and simulation,concept,PREREQUISITE_OF,Contemporary Topics in Biophysics,topic,same unit,,BIOL_6000_triples_raw.json
+BIOL_6000,quantum mechanics in biology,concept,PREREQUISITE_OF,Contemporary Topics in Biophysics,topic,same unit,,BIOL_6000_triples_raw.json
+BIOL_6000,biophysics definition and scope,concept,PART_OF,Biophysics Seminar,topic,,,BIOL_6000_triples_raw.json
+BIOL_6000,interdisciplinary nature of biophysics,concept,PART_OF,Biophysics Seminar,topic,,,BIOL_6000_triples_raw.json
+BIOL_6000,applications in molecular biology,concept,PART_OF,Biophysics Seminar,topic,,,BIOL_6000_triples_raw.json
+BIOL_6000,membrane structure and transport,concept,PART_OF,Molecular Structure and Dynamics,topic,,,BIOL_6000_triples_raw.json
+BIOL_6000,x-ray crystallography basics,concept,PART_OF,Biophysical Techniques and Methods,topic,,,BIOL_6000_triples_raw.json
+BIOL_6000,magnetic resonance spectroscopy,concept,PART_OF,Biophysical Techniques and Methods,topic,,,BIOL_6000_triples_raw.json
+BIOL_6000,single-molecule biophysics techniques,concept,PART_OF,Contemporary Topics in Biophysics,topic,,,BIOL_6000_triples_raw.json
+BIOL_6000,biological systems modeling and simulation,concept,PART_OF,Contemporary Topics in Biophysics,topic,,,BIOL_6000_triples_raw.json
+BIOL_6000,quantum mechanics in biology,concept,PART_OF,Contemporary Topics in Biophysics,topic,,,BIOL_6000_triples_raw.json
+BIOL_6000,Biophysics Seminar,topic,USED_FOR,Research Seminar Presentations,topic,,topic used for something - check direction,BIOL_6000_triples_raw.json

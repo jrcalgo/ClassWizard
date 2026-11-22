@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_4228,Texas Instruments BA II Plus,tool,USED_FOR,approved calculator list,concept,,,MATH_4228_triples_raw.json
+MATH_4228,TI-30Xa,tool,USED_FOR,approved calculator list,concept,,,MATH_4228_triples_raw.json
+MATH_4228,TI-30X II,tool,USED_FOR,approved calculator list,concept,,,MATH_4228_triples_raw.json
+MATH_4228,TI-30X IIB,tool,USED_FOR,approved calculator list,concept,,,MATH_4228_triples_raw.json
+MATH_4228,TI-30XS MultiView,tool,USED_FOR,approved calculator list,concept,,,MATH_4228_triples_raw.json
+MATH_4228,TI-30XB,tool,USED_FOR,approved calculator list,concept,,,MATH_4228_triples_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPER_3204,service operations management,concept,PREREQUISITE_OF,critical path method,concept,A taught first,,OPER_3204_triples_raw.json
+OPER_3204,service operations management,concept,PREREQUISITE_OF,critical path analysis,concept,A taught first,,OPER_3204_triples_raw.json
+OPER_3204,service operations management,concept,PREREQUISITE_OF,statistical process control,method,A mentioned first,,OPER_3204_triples_raw.json
+OPER_3204,service operations management,concept,PREREQUISITE_OF,continuous improvement in services,method,A mentioned first,,OPER_3204_triples_raw.json
+OPER_3204,Service Strategy,topic,PART_OF,service operations management,concept,,part is broader than whole - check direction,OPER_3204_triples_raw.json
+OPER_3204,designing new services,method,PART_OF,service operations management,concept,,,OPER_3204_triples_raw.json
+OPER_3204,assessing and improving service quality,method,PART_OF,service operations management,concept,,,OPER_3204_triples_raw.json
+OPER_3204,Improving the Efficiency and Effectiveness of Service Processes,topic,PART_OF,service operations management,concept,,part is broader than whole - check direction,OPER_3204_triples_raw.json
+OPER_3204,managing waiting lines,method,PART_OF,service operations management,concept,,,OPER_3204_triples_raw.json
+OPER_3204,managing service projects,method,PART_OF,service operations management,concept,,,OPER_3204_triples_raw.json
+OPER_3204,Integration of Technology into Service Operations,topic,PART_OF,service operations management,concept,,part is broader than whole - check direction,OPER_3204_triples_raw.json
+OPER_3204,critical path method,concept,USED_FOR,managing service projects,method,,,OPER_3204_triples_raw.json
+OPER_3204,critical path analysis,concept,USED_FOR,managing service projects,method,,,OPER_3204_triples_raw.json

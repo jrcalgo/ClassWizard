@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JAPN_2201,Kanji,topic,PART_OF,Intermediate Japanese I,topic,,,JAPN_2201_triples_raw.json
+JAPN_2201,communicative competence,concept,PART_OF,Intermediate Japanese I,topic,,,JAPN_2201_triples_raw.json
+JAPN_2201,speech levels,concept,PART_OF,Intermediate Japanese I,topic,,,JAPN_2201_triples_raw.json
+JAPN_2201,listening comprehension,concept,PART_OF,Intermediate Japanese I,topic,,,JAPN_2201_triples_raw.json

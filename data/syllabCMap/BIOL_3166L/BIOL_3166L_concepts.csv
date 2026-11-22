@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_3166L,topic,Genetics Laboratory,Genetics Laboratory,1,verified,Genetics Laboratory,BIOL_3166L_concepts_raw.json
+BIOL_3166L,topic,Genetics Lab,Genetics Lab,1,inferred,Introduction to Genetics Lab,BIOL_3166L_concepts_raw.json
+BIOL_3166L,topic,DNA Structure and Function,DNA Structure and Function,1,inferred,DNA Structure and Function,BIOL_3166L_concepts_raw.json
+BIOL_3166L,topic,Mendelian Genetics,Mendelian Genetics,1,inferred,Mendelian Genetics,BIOL_3166L_concepts_raw.json
+BIOL_3166L,topic,Chromosomal Inheritance,Chromosomal Inheritance,1,inferred,Chromosomal Inheritance,BIOL_3166L_concepts_raw.json
+BIOL_3166L,topic,Molecular Genetics Techniques,Molecular Genetics Techniques,1,inferred,Molecular Genetics Techniques,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,lab safety protocols,Lab safety protocols,1,inferred,lab safety protocols,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,equipment usage guidelines,Equipment usage guidelines,1,inferred,equipment usage guidelines,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,double helix model,Double helix model,1,inferred,double helix model,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,base pairing rules,Base pairing rules,1,inferred,base pairing rules,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,nucleotide composition,Nucleotide composition,1,inferred,nucleotide composition,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,genotype vs phenotype,Genotype vs phenotype,1,inferred,genotype vs phenotype,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,dominant and recessive traits,Dominant and recessive traits,1,inferred,dominant and recessive traits,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,Punnett square analysis,Punnett square analysis,1,inferred,Punnett square analysis,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,autosomes and sex chromosomes,Autosomes and sex chromosomes,1,inferred,autosomes and sex chromosomes,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,karyotyping techniques,Karyotyping techniques,1,inferred,karyotyping techniques,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,chromosomal mutations,Chromosomal mutations,1,inferred,chromosomal mutations,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,DNA extraction methods,DNA extraction methods,1,inferred,DNA extraction methods,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,PCR amplification process,PCR amplification process,1,inferred,PCR amplification process,BIOL_3166L_concepts_raw.json
+BIOL_3166L,concept,gel electrophoresis,Gel electrophoresis,1,inferred,gel electrophoresis,BIOL_3166L_concepts_raw.json

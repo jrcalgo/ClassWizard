@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+KNES_6370,topic,Electrocardiography Interpretation,electrocardiography interpretation,1,verified,Electrocardiography Interpretation,KNES_6370_concepts_raw.json
+KNES_6370,concept,Basic Rhythms,basic rhythms,5,verified,Basic Rhythms,KNES_6370_concepts_raw.json
+KNES_6370,concept,P Wave Morphology,P Wave Morphology,5,verified,P Wave Morphology,KNES_6370_concepts_raw.json
+KNES_6370,concept,QRS Complex Analysis,QRS Complex Analysis,5,verified,QRS Complex Analysis,KNES_6370_concepts_raw.json
+KNES_6370,concept,PR Interval Measurement,PR Interval Measurement,2,verified,PR Interval Measurement,KNES_6370_concepts_raw.json
+KNES_6370,concept,Tachycardia Identification,Tachycardia Identification,1,verified,Tachycardia Identification,KNES_6370_concepts_raw.json
+KNES_6370,concept,Atrial Fibrillation Patterns,Atrial Fibrillation Patterns,3,verified,Atrial Fibrillation Patterns,KNES_6370_concepts_raw.json
+KNES_6370,concept,Ventricular Tachycardia Signs,Ventricular Tachycardia Signs,1,verified,Ventricular Tachycardia Signs,KNES_6370_concepts_raw.json
+KNES_6370,concept,Bundle Branch Blocks,bundle branch blocks,8,verified,Bundle Branch Blocks,KNES_6370_concepts_raw.json
+KNES_6370,concept,Pacemaker Rhythms,Pacemaker Rhythms,2,verified,Pacemaker Rhythms,KNES_6370_concepts_raw.json
+KNES_6370,concept,Wolff-Parkinson-White Syndrome,Wolff-Parkinson-White Syndrome,9,verified,Wolff-Parkinson-White Syndrome,KNES_6370_concepts_raw.json
+KNES_6370,concept,Atrial Flutter,Atrial Flutter,8,verified,Atrial Flutter,KNES_6370_concepts_raw.json
+KNES_6370,concept,Junctional Rhythm,Junctional Rhythms,2,verified,Junctional Rhythm,KNES_6370_concepts_raw.json
+KNES_6370,concept,Advanced Cardiac Disease,advanced cardiac disease,4,verified,Advanced Cardiac Disease,KNES_6370_concepts_raw.json
+KNES_6370,concept,Arrhythmia Classification Systems,Arrhythmia Classification Systems,1,verified,Arrhythmia Classification Systems,KNES_6370_concepts_raw.json
+KNES_6370,topic,Electrocardiography Principles,Electrocardiography Principles,1,verified,Electrocardiography Principles,KNES_6370_concepts_raw.json
+KNES_6370,topic,Rhythm Strips Analysis,Rhythm Strips Analysis,2,verified,Rhythm Strips Analysis,KNES_6370_concepts_raw.json
+KNES_6370,concept,P-R interval,PR Interval,1,verified,P-R interval,KNES_6370_concepts_raw.json
+KNES_6370,concept,QRS complex,QRS Complex,7,verified,QRS complex,KNES_6370_concepts_raw.json
+KNES_6370,concept,T wave axis,T wave axis,1,verified,T wave axis,KNES_6370_concepts_raw.json
+KNES_6370,concept,Bundle branch block,bundle branch blocks,8,verified,Bundle branch block,KNES_6370_concepts_raw.json
+KNES_6370,concept,Atrial fibrillation,Atrial Fibrillation,6,verified,Atrial fibrillation,KNES_6370_concepts_raw.json

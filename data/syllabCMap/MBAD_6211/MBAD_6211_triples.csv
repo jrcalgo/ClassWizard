@@ -1,0 +1,58 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6211,Data Mining Fundamentals,topic,PREREQUISITE_OF,Predictive Modeling Basics,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Data Mining Fundamentals,topic,PREREQUISITE_OF,Survival Analysis Methods,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Data Mining Fundamentals,topic,PREREQUISITE_OF,Text Mining Techniques,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Data Mining Fundamentals,topic,PREREQUISITE_OF,Forecasting and Time Series,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Predictive Modeling Basics,topic,PREREQUISITE_OF,Experimentation and Design,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Predictive Modeling Basics,topic,PREREQUISITE_OF,Survival Analysis Methods,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Predictive Modeling Basics,topic,PREREQUISITE_OF,Text Mining Techniques,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Predictive Modeling Basics,topic,PREREQUISITE_OF,Forecasting and Time Series,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Predictive Modeling Basics,topic,PREREQUISITE_OF,Business Analytics Scenarios,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Experimentation and Design,topic,PREREQUISITE_OF,Survival Analysis Methods,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Experimentation and Design,topic,PREREQUISITE_OF,Text Mining Techniques,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Experimentation and Design,topic,PREREQUISITE_OF,Forecasting and Time Series,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Experimentation and Design,topic,PREREQUISITE_OF,Business Analytics Scenarios,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Survival Analysis Methods,topic,PREREQUISITE_OF,Text Mining Techniques,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Survival Analysis Methods,topic,PREREQUISITE_OF,Forecasting and Time Series,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Survival Analysis Methods,topic,PREREQUISITE_OF,Business Analytics Scenarios,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Text Mining Techniques,topic,PREREQUISITE_OF,Forecasting and Time Series,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Text Mining Techniques,topic,PREREQUISITE_OF,Business Analytics Scenarios,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,Forecasting and Time Series,topic,PREREQUISITE_OF,Business Analytics Scenarios,topic,A taught first,,MBAD_6211_triples_raw.json
+MBAD_6211,data mining principles,concept,PART_OF,Data Mining Fundamentals,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,predictive modeling concepts,concept,PART_OF,Predictive Modeling Basics,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,regression analysis methods,concept,PART_OF,Predictive Modeling Basics,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,model evaluation metrics,concept,PART_OF,Predictive Modeling Basics,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,hypothesis testing techniques,concept,PART_OF,Experimentation and Design,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,confidence interval calculations,concept,PART_OF,Experimentation and Design,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,survival analysis concepts,concept,PART_OF,Survival Analysis Methods,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,Cox proportional hazard model,concept,PART_OF,Survival Analysis Methods,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,Kaplan-Meier estimator,concept,PART_OF,Survival Analysis Methods,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,text data preprocessing,concept,PART_OF,Text Mining Techniques,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,sentiment analysis methods,concept,PART_OF,Text Mining Techniques,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,topic modeling algorithms,concept,PART_OF,Text Mining Techniques,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,time series forecasting,concept,PART_OF,Forecasting and Time Series,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,ARIMA model applications,concept,PART_OF,Forecasting and Time Series,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,exponential smoothing techniques,concept,PART_OF,Forecasting and Time Series,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,marketing mix modeling,concept,PART_OF,Business Analytics Scenarios,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,customer segmentation analysis,concept,PART_OF,Business Analytics Scenarios,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,business objectives alignment,concept,PART_OF,Formulating Analytic Tasks,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,analytic task definition,concept,PART_OF,Formulating Analytic Tasks,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,project evaluation criteria,concept,PART_OF,Evaluating Analytics Methods,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,utility of analytics technologies,concept,PART_OF,Evaluating Analytics Methods,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,success metrics for projects,concept,PART_OF,Evaluating Analytics Methods,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,return on investment analysis,concept,PART_OF,Evaluating Analytics Methods,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,data analytics tools,concept,USED_FOR,Data Mining Fundamentals,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,predictive modeling concepts,concept,USED_FOR,Predictive Modeling Basics,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,regression analysis methods,concept,USED_FOR,Predictive Modeling Basics,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,model evaluation metrics,concept,USED_FOR,Predictive Modeling Basics,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,experimental design principles,concept,USED_FOR,Experimentation and Design,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,confidence interval calculations,concept,USED_FOR,Experimentation and Design,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,survival analysis concepts,concept,USED_FOR,Survival Analysis Methods,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,Kaplan-Meier estimator,concept,USED_FOR,Survival Analysis Methods,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,text data preprocessing,concept,USED_FOR,Text Mining Techniques,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,sentiment analysis methods,concept,USED_FOR,Text Mining Techniques,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,topic modeling algorithms,concept,USED_FOR,Text Mining Techniques,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,ARIMA model applications,concept,USED_FOR,Forecasting and Time Series,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,exponential smoothing techniques,concept,USED_FOR,Forecasting and Time Series,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,marketing mix modeling,concept,USED_FOR,Business Analytics Scenarios,topic,,,MBAD_6211_triples_raw.json
+MBAD_6211,customer segmentation analysis,concept,USED_FOR,Business Analytics Scenarios,topic,,,MBAD_6211_triples_raw.json

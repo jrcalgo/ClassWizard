@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4141,topic,Power System Analysis I,Power System Analysis I,1,verified,Power System Analysis I,ECGR_4141_concepts_raw.json
+ECGR_4141,topic,Synchronous Generators,synchronous generators,1,verified,Synchronous Generators,ECGR_4141_concepts_raw.json
+ECGR_4141,topic,Power Transformers,power transformers,1,verified,Power Transformers,ECGR_4141_concepts_raw.json
+ECGR_4141,topic,Per Unit Systems,Per unit systems,1,verified,Per Unit Systems,ECGR_4141_concepts_raw.json
+ECGR_4141,topic,Transmission Line Parameters,Transmission line parameters,2,verified,Transmission Line Parameters,ECGR_4141_concepts_raw.json
+ECGR_4141,topic,Line Models and Performance,Line models and performance,1,verified,Line Models and Performance,ECGR_4141_concepts_raw.json
+ECGR_4141,topic,Power Flow Analysis,power flow analysis,3,verified,Power Flow Analysis,ECGR_4141_concepts_raw.json
+ECGR_4141,topic,System-Level Modeling,system-level modeling,1,verified,System-Level Modeling,ECGR_4141_concepts_raw.json
+ECGR_4141,concept,reactive power transfer,reactive power transfer,1,verified,reactive power transfer,ECGR_4141_concepts_raw.json
+ECGR_4141,concept,three-phase systems,three-phase systems,1,verified,three-phase systems,ECGR_4141_concepts_raw.json
+ECGR_4141,concept,network equations,Network equations,1,verified,network equations,ECGR_4141_concepts_raw.json

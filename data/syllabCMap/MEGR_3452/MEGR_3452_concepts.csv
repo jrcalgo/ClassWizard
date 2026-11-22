@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3452,topic,Thermodynamics,Thermodynamics,2,verified,Thermodynamics,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Nuclear Engineering,Nuclear Engineering,2,verified,Nuclear Engineering,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Power Plant Operation,power plant operation,1,verified,Power Plant Operation,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Design,design,1,verified,Design,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Energy Conversion Processes,Energy Conversion Processes,1,inferred,Energy Conversion Processes,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,First Law of Thermodynamics,First Law of Thermodynamics,1,inferred,First Law of Thermodynamics,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Second Law of Thermodynamics,Second Law of Thermodynamics,1,inferred,Second Law of Thermodynamics,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Entropy and Disorder,Entropy and Disorder,1,inferred,Entropy and Disorder,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Conduction Heat Transfer,Conduction Heat Transfer,1,inferred,Conduction Heat Transfer,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Convective Heat Transfer,Convective Heat Transfer,1,inferred,Convective Heat Transfer,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Radiative Heat Transfer,Radiative Heat Transfer,1,inferred,Radiative Heat Transfer,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Reactor Design and Operation,Reactor Design and Operation,1,inferred,Reactor Design and Operation,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Cooling Systems and Circuits,Cooling Systems and Circuits,1,inferred,Cooling Systems and Circuits,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Steam Generation and Turbines,Steam Generation and Turbines,1,inferred,Steam Generation and Turbines,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Rankine Cycle Overview,Rankine Cycle Overview,1,inferred,Rankine Cycle Overview,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Brayton Cycle Basics,Brayton Cycle Basics,1,inferred,Brayton Cycle Basics,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Combined Cycle Principles,Combined Cycle Principles,1,inferred,Combined Cycle Principles,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Reactor Containment Systems,Reactor Containment Systems,1,inferred,Reactor Containment Systems,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Coolant and Cooling System Failures,Coolant and Cooling System Failures,1,inferred,Coolant and Cooling System Failures,MEGR_3452_concepts_raw.json
+MEGR_3452,topic,Emergency Core Cooling Systems,Emergency Core Cooling Systems,1,inferred,Emergency Core Cooling Systems,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Nuclear Energy Basics,Nuclear Energy Basics,1,inferred,Nuclear Energy Basics,MEGR_3452_concepts_raw.json
+MEGR_3452,concept,Thermodynamic Principles,Thermodynamic Principles,1,inferred,Thermodynamic Principles,MEGR_3452_concepts_raw.json

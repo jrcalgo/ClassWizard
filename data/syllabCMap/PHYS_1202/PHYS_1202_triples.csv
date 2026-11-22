@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_1202,Electrocautery principles,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Electrosurgery techniques,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Tissue interaction with electricity,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Microwave ablation mechanisms,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Laser-tissue interactions,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Thermal effects on tissue,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Fiber optic principles,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Ultrasound imaging basics,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Sound wave propagation,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,OCT imaging technology,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Light-tissue interactions,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,High-resolution imaging,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,X-ray radiation basics,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Computed tomography principles,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Image reconstruction algorithms,concept,PART_OF,Medical Physics,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Radioisotope detection,concept,PART_OF,Nuclear Imaging Modalities,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Radiation safety protocols,concept,PART_OF,Nuclear Imaging Modalities,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,MRI principles and mechanisms,concept,PART_OF,Magnetic Resonance Imaging,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Nuclear magnetic resonance,concept,PART_OF,Magnetic Resonance Imaging,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Ultrasound therapy techniques,concept,PART_OF,Therapeutic Ultrasound Applications,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Tissue heating and cooling,concept,PART_OF,Therapeutic Ultrasound Applications,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Treatment planning protocols,concept,PART_OF,Therapeutic Ultrasound Applications,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Medical imaging modalities,concept,PART_OF,Clinical Applications of Medical Imaging,topic,,,PHYS_1202_triples_raw.json
+PHYS_1202,Optical Coherence Tomography,topic,USED_FOR,High-resolution imaging,concept,,topic used for something - check direction,PHYS_1202_triples_raw.json
+PHYS_1202,Magnetic Resonance Imaging,topic,USED_FOR,Image formation in MRI,concept,,topic used for something - check direction,PHYS_1202_triples_raw.json

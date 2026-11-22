@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_2610,computing technologies,concept,PREREQUISITE_OF,cultural competence in tech,concept,A taught first,,ITSC_2610_triples_raw.json
+ITSC_2610,computing technologies,concept,PREREQUISITE_OF,research methods in computing,concept,A taught first,,ITSC_2610_triples_raw.json
+ITSC_2610,computing technologies,concept,PREREQUISITE_OF,technology-based problem-solving,concept,A taught first,,ITSC_2610_triples_raw.json
+ITSC_2610,non-cognitive skills definition,concept,PART_OF,competency-based education,concept,,,ITSC_2610_triples_raw.json
+ITSC_2610,research methods in computing,concept,PART_OF,computing technologies,concept,,,ITSC_2610_triples_raw.json
+ITSC_2610,technology-based problem-solving,concept,PART_OF,computing technologies,concept,,,ITSC_2610_triples_raw.json
+ITSC_2610,disciplinary knowledge application,concept,PART_OF,computing technologies,concept,,,ITSC_2610_triples_raw.json

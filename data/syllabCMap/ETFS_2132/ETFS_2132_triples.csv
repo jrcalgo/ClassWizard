@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETFS_2132,Building Design and Layout,topic,PREREQUISITE_OF,Building Systems and Components,topic,A taught first,,ETFS_2132_triples_raw.json
+ETFS_2132,Building Construction Basics,concept,PREREQUISITE_OF,Structural Elements and Materials,concept,A taught first,,ETFS_2132_triples_raw.json
+ETFS_2132,Building Inspection and Risk Assessment,concept,PREREQUISITE_OF,Emergency Response Planning and Procedures,concept,same unit,,ETFS_2132_triples_raw.json
+ETFS_2132,Sprinkler System Design and Installation,concept,PREREQUISITE_OF,Standpipe and Hose Reel Systems,concept,same unit,,ETFS_2132_triples_raw.json
+ETFS_2132,Structural Elements and Materials,concept,PART_OF,Building Design and Layout,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Roofing Systems and Access,concept,PART_OF,Building Design and Layout,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Fire-Resistive Materials and Assemblies,concept,PART_OF,Fire-Resistant Construction,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Inspection of Fire-Resistant Barriers,concept,PART_OF,Fire-Resistant Construction,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,HVAC and Electrical System Safety,concept,PART_OF,Building Systems and Components,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Plumbing and Gas System Hazards,concept,PART_OF,Building Systems and Components,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Sprinkler System Design and Installation,concept,PART_OF,Fire Protection Systems,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Standpipe and Hose Reel Systems,concept,PART_OF,Fire Protection Systems,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Building Inspection and Risk Assessment,concept,PART_OF,Pre-Planning and Emergency Operations,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Emergency Response Planning and Procedures,concept,PART_OF,Pre-Planning and Emergency Operations,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Combustion and Fire Dynamics Principles,concept,PART_OF,Fire Behavior and Spread,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Factors Influencing Fire Spread and Size,concept,PART_OF,Fire Behavior and Spread,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Historic and Renovated Building Safety Concerns,concept,PART_OF,Specialized Building Types and Hazards,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Interior and Exterior Firefighting Strategies,concept,PART_OF,Fire Service Operations and Tactics,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Ventilation and Cooling Techniques,concept,PART_OF,Fire Service Operations and Tactics,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Extrication and Rescue Procedures,concept,PART_OF,Fire Service Operations and Tactics,topic,,,ETFS_2132_triples_raw.json
+ETFS_2132,Sprinkler System Design and Installation,concept,USED_FOR,Fire Protection Systems,topic,,,ETFS_2132_triples_raw.json

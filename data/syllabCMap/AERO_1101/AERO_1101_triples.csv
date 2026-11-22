@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AERO_1101,Flight Principles,concept,PREREQUISITE_OF,Aircraft Fundamentals,concept,same unit,,AERO_1101_triples_raw.json
+AERO_1101,Flight Principles,concept,PREREQUISITE_OF,Aviation History,concept,same unit,,AERO_1101_triples_raw.json
+AERO_1101,Flight Principles,concept,PREREQUISITE_OF,Pioneers in Aviation,concept,A taught first,,AERO_1101_triples_raw.json
+AERO_1101,Flight Principles,concept,PREREQUISITE_OF,Early Aircraft Design,concept,A taught first,,AERO_1101_triples_raw.json
+AERO_1101,Flight Principles,concept,PREREQUISITE_OF,Flight Pioneers' Achievements,concept,A taught first,,AERO_1101_triples_raw.json
+AERO_1101,Aircraft Fundamentals,concept,PART_OF,Aeronautical Knowledge Review,concept,,,AERO_1101_triples_raw.json

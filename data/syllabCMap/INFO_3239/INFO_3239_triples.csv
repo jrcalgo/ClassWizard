@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INFO_3239,Machine Learning Fundamentals,concept,PREREQUISITE_OF,Deep Learning Basics,concept,same unit,,INFO_3239_triples_raw.json
+INFO_3239,History of Artificial Intelligence,concept,PREREQUISITE_OF,Current AI Technologies Overview,concept,same unit,,INFO_3239_triples_raw.json
+INFO_3239,Data Cleaning with AI Tools,concept,PREREQUISITE_OF,Data Analysis with AI Software,concept,same unit,,INFO_3239_triples_raw.json
+INFO_3239,Human-Centered Design Principles,concept,PREREQUISITE_OF,Prototyping with AI-Powered Tools,concept,same unit,,INFO_3239_triples_raw.json

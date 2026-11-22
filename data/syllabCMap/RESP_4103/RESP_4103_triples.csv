@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_4103,evidence-based practice definition,concept,PART_OF,EBP,topic,,,RESP_4103_triples_raw.json
+RESP_4103,importance of ebp in respiratory care,concept,PART_OF,EBP,topic,,,RESP_4103_triples_raw.json
+RESP_4103,literature search techniques,concept,PART_OF,Literature Search Strategies,topic,,,RESP_4103_triples_raw.json
+RESP_4103,pico creation guidelines,concept,PART_OF,Clinical Question Framing,topic,,,RESP_4103_triples_raw.json
+RESP_4103,formulating clinical questions,concept,PART_OF,Clinical Question Framing,topic,,,RESP_4103_triples_raw.json
+RESP_4103,statistical methodology interpretation,concept,PART_OF,Research Methods and Statistics,topic,,,RESP_4103_triples_raw.json
+RESP_4103,evaluating study quality,concept,PART_OF,Literature Appraisal and Critique,topic,,,RESP_4103_triples_raw.json
+RESP_4103,assessing literature review relevance,concept,PART_OF,Literature Appraisal and Critique,topic,,,RESP_4103_triples_raw.json
+RESP_4103,critiquing statistical analysis,concept,PART_OF,Literature Appraisal and Critique,topic,,,RESP_4103_triples_raw.json
+RESP_4103,database selection for search,concept,PART_OF,Literature Search Strategies,topic,,,RESP_4103_triples_raw.json
+RESP_4103,search filter application,concept,PART_OF,Literature Search Strategies,topic,,,RESP_4103_triples_raw.json
+RESP_4103,evidence-based search techniques,concept,PART_OF,Literature Search Strategies,topic,,,RESP_4103_triples_raw.json
+RESP_4103,applying research findings to practice,concept,PART_OF,Clinical Decision Making and EBP,topic,,,RESP_4103_triples_raw.json
+RESP_4103,evidence-based search techniques,concept,USED_FOR,Literature Search Strategies,topic,,,RESP_4103_triples_raw.json

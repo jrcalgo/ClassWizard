@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3120,analyzing media messages and effects,method,USED_FOR,Misinformation and Disinformation,topic,,,COMM_3120_triples_raw.json
+COMM_3120,evaluating sources and evidence,method,USED_FOR,Misinformation and Disinformation,topic,,,COMM_3120_triples_raw.json

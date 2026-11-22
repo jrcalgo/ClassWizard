@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CMET_2221,topic,Construction Means and Methods,Construction Means and Methods,1,verified,Construction Means and Methods,CMET_2221_concepts_raw.json
+CMET_2221,topic,CMET,CMET,3,verified,Introduction to CMET,CMET_2221_concepts_raw.json
+CMET_2221,topic,Crews and Equipment,crews and equipment,2,verified,Crews and Equipment,CMET_2221_concepts_raw.json
+CMET_2221,concept,construction means,Construction Means,2,verified,construction means,CMET_2221_concepts_raw.json
+CMET_2221,method,analysis based on economics and performance,analysis based on economics and performance,2,verified,analysis based on economics and performance,CMET_2221_concepts_raw.json

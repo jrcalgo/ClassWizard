@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_4050,topic,Architecture,Architecture,2,verified,Architecture,ARCH_4050_concepts_raw.json
+ARCH_4050,topic,Design,design,4,verified,Introduction to Design,ARCH_4050_concepts_raw.json
+ARCH_4050,topic,Classics of Architectural Theory,Classics of Architectural Theory,1,inferred,Classics of Architectural Theory,ARCH_4050_concepts_raw.json
+ARCH_4050,topic,Design Discourses and References,Design Discourses and References,1,inferred,Design Discourses and References,ARCH_4050_concepts_raw.json
+ARCH_4050,topic,Role of the Architect,Role of the Architect,1,inferred,The Role of the Architect,ARCH_4050_concepts_raw.json
+ARCH_4050,topic,Design as a Process,Design as a Process,1,inferred,Design as a Process,ARCH_4050_concepts_raw.json
+ARCH_4050,topic,Case Studies in Architecture,Case Studies in Architecture,1,inferred,Case Studies in Architecture,ARCH_4050_concepts_raw.json
+ARCH_4050,topic,Design and Culture,Design and Culture,1,inferred,Design and Culture,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Design Thinking Fundamentals,Design Thinking Fundamentals,1,inferred,Design Thinking Fundamentals,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Vitruvius' Ten Books,Vitruvius' Ten Books,1,inferred,Vitruvius' Ten Books,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Alberti's Building Principles,Alberti's Building Principles,1,inferred,Alberti's Building Principles,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Bachelard's Poetics of Space,Bachelard's Poetics of Space,1,inferred,Bachelard's Poetics of Space,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Expanding Design Knowledge,Expanding Design Knowledge,1,inferred,Expanding Design Knowledge,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Interdisciplinary Approaches,Interdisciplinary Approaches,1,inferred,Interdisciplinary Approaches,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Cultural Contexts in Design,Cultural Contexts in Design,1,inferred,Cultural Contexts in Design,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Implications of Early Work,Implications of Early Work,1,inferred,Implications of Early Work,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Capacity for Growth and Expansion,Capacity for Growth and Expansion,1,inferred,Capacity for Growth and Expansion,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Strategic Design Thinking,Strategic Design Thinking,1,inferred,Strategic Design Thinking,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Iterative Design Thinking,Iterative Design Thinking,1,inferred,Iterative Design Thinking,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Prototyping and Feedback Loops,Prototyping and Feedback Loops,1,inferred,Prototyping and Feedback Loops,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Embracing Uncertainty in Design,Embracing Uncertainty in Design,1,inferred,Embracing Uncertainty in Design,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Analyzing Successful Designs,Analyzing Successful Designs,1,inferred,Analyzing Successful Designs,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Identifying Best Practices,Identifying Best Practices,1,inferred,Identifying Best Practices,ARCH_4050_concepts_raw.json
+ARCH_4050,concept,Applying Theoretical Concepts,Applying Theoretical Concepts,1,inferred,Applying Theoretical Concepts,ARCH_4050_concepts_raw.json

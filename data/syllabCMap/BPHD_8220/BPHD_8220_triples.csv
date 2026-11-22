@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BPHD_8220,Arbitrage,topic,PART_OF,Discrete-Time Models,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,Arbitrage,topic,PART_OF,Continuous-Time Setting,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,stochastic discount factors,concept,PART_OF,Continuous-Time Setting,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,beta pricing models,concept,PART_OF,Continuous-Time Setting,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,factor models,concept,PART_OF,Continuous-Time Setting,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,Dynamic Programming,topic,PART_OF,Continuous-Time Setting,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,stochastic discount factors,concept,PART_OF,Arbitrage,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,beta pricing models,concept,PART_OF,Arbitrage,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,factor models,concept,PART_OF,Arbitrage,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,Dynamic Programming,topic,PART_OF,Arbitrage,topic,,,BPHD_8220_triples_raw.json
+BPHD_8220,beta pricing models,concept,PART_OF,stochastic discount factors,concept,,,BPHD_8220_triples_raw.json
+BPHD_8220,factor models,concept,PART_OF,stochastic discount factors,concept,,,BPHD_8220_triples_raw.json
+BPHD_8220,Dynamic Programming,topic,PART_OF,stochastic discount factors,concept,,part is broader than whole - check direction,BPHD_8220_triples_raw.json
+BPHD_8220,Derivative Securities and Models of the Term Structure of Interest Rates,topic,PART_OF,stochastic discount factors,concept,,part is broader than whole - check direction,BPHD_8220_triples_raw.json
+BPHD_8220,factor models,concept,PART_OF,beta pricing models,concept,,,BPHD_8220_triples_raw.json
+BPHD_8220,Dynamic Programming,topic,PART_OF,beta pricing models,concept,,part is broader than whole - check direction,BPHD_8220_triples_raw.json
+BPHD_8220,Dynamic Programming,topic,PART_OF,factor models,concept,,part is broader than whole - check direction,BPHD_8220_triples_raw.json
+BPHD_8220,Derivative Securities and Models of the Term Structure of Interest Rates,topic,PART_OF,factor models,concept,,part is broader than whole - check direction,BPHD_8220_triples_raw.json
+BPHD_8220,stochastic discount factors,concept,USED_FOR,factor models,concept,,,BPHD_8220_triples_raw.json
+BPHD_8220,stochastic discount factors,concept,USED_FOR,Derivative Securities and Models of the Term Structure of Interest Rates,topic,,,BPHD_8220_triples_raw.json

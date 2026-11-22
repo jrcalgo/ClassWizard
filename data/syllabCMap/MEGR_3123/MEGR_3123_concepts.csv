@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3123,topic,Dynamics Systems II,Dynamics Systems II,1,verified,Dynamics Systems II,MEGR_3123_concepts_raw.json
+MEGR_3123,topic,Inverse Laplace Transforms,Inverse Laplace transforms,1,verified,Inverse Laplace Transforms,MEGR_3123_concepts_raw.json
+MEGR_3123,topic,Lumped-Parameter Models,lumped-parameter models,1,verified,Lumped-Parameter Models,MEGR_3123_concepts_raw.json
+MEGR_3123,topic,Modeling of dynamic systems,Modeling of dynamic systems,1,verified,Modeling of dynamic systems,MEGR_3123_concepts_raw.json
+MEGR_3123,topic,Automatic controls,automatic controls,1,verified,Automatic controls,MEGR_3123_concepts_raw.json
+MEGR_3123,concept,Linear Ordinary Differential Equations,linear ordinary differential equations,1,verified,Linear Ordinary Differential Equations,MEGR_3123_concepts_raw.json
+MEGR_3123,concept,Electrical,electrical,1,verified,"Electrical, Thermal, Fluid Systems",MEGR_3123_concepts_raw.json
+MEGR_3123,concept,Thermal,thermal,1,verified,"Electrical, Thermal, Fluid Systems",MEGR_3123_concepts_raw.json
+MEGR_3123,concept,Fluid Systems,fluid systems,1,verified,"Electrical, Thermal, Fluid Systems",MEGR_3123_concepts_raw.json
+MEGR_3123,tool,MATLAB,MATLAB,1,verified,MATLAB,MEGR_3123_concepts_raw.json

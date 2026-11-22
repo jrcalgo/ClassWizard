@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHFD_6240,Historical Theories of Child Development,concept,PREREQUISITE_OF,Contemporary Theories of Child Development,concept,same unit,,CHFD_6240_triples_raw.json
+CHFD_6240,Cultural Influences on Development,concept,PREREQUISITE_OF,Cross-Cultural Perspectives on Child Development,topic,A taught first,,CHFD_6240_triples_raw.json
+CHFD_6240,Prenatal Development Factors,concept,PREREQUISITE_OF,Adaptive and Adaptive Development,topic,A taught first,,CHFD_6240_triples_raw.json
+CHFD_6240,Biological and Environmental Interactions,concept,PREREQUISITE_OF,Cognitive Development in Early Childhood,topic,A taught first,,CHFD_6240_triples_raw.json
+CHFD_6240,Prenatal Development Factors,concept,PART_OF,Human Development,topic,,,CHFD_6240_triples_raw.json
+CHFD_6240,Social Learning Theory in Children,concept,PART_OF,Social and Emotional Development,topic,,,CHFD_6240_triples_raw.json
+CHFD_6240,Attachment Styles in Infants,concept,PART_OF,Social and Emotional Development,topic,,,CHFD_6240_triples_raw.json
+CHFD_6240,Vygotsky's Sociocultural Theory,concept,PART_OF,Cognitive Development in Early Childhood,topic,,,CHFD_6240_triples_raw.json
+CHFD_6240,Language Acquisition in Children,concept,PART_OF,Cognitive Development in Early Childhood,topic,,,CHFD_6240_triples_raw.json
+CHFD_6240,Importance of Play in Child Development,concept,PART_OF,Play and Motor Development,topic,,,CHFD_6240_triples_raw.json
+CHFD_6240,Gross and Fine Motor Skills in Infants,concept,PART_OF,Play and Motor Development,topic,,,CHFD_6240_triples_raw.json
+CHFD_6240,Cultural Influences on Parenting Practices,concept,PART_OF,Family Systems and Parenting,topic,,,CHFD_6240_triples_raw.json

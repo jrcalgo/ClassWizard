@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTE_2100,Teaching Strategies Application,concept,PREREQUISITE_OF,Lesson Planning and Practice Teaching,topic,A taught first,,ARTE_2100_triples_raw.json
+ARTE_2100,Clinical Experience Requirements,concept,PREREQUISITE_OF,Clinical Presentation Preparation,topic,A taught first,,ARTE_2100_triples_raw.json
+ARTE_2100,Professionalism and Responsibility,concept,PREREQUISITE_OF,Clinical Experience Preparation,topic,same unit,,ARTE_2100_triples_raw.json
+ARTE_2100,Meaningful Curriculum Creation,concept,PREREQUISITE_OF,Narrative Art Project Development,topic,A taught first,,ARTE_2100_triples_raw.json
+ARTE_2100,Individual Transformation through Art,concept,PART_OF,Transformative Power of Art Education,concept,,,ARTE_2100_triples_raw.json
+ARTE_2100,Community Engagement through Visual Arts,concept,PART_OF,Visual Arts in Learning Settings,topic,,,ARTE_2100_triples_raw.json
+ARTE_2100,Teaching Expertise Development,concept,PART_OF,Artists as Teachers,topic,,,ARTE_2100_triples_raw.json
+ARTE_2100,Lesson Planning and Practice Teaching,topic,PART_OF,Art Education,topic,,,ARTE_2100_triples_raw.json
+ARTE_2100,Clinical Experience Preparation,topic,PART_OF,Artists as Teachers,topic,,,ARTE_2100_triples_raw.json
+ARTE_2100,Narrative Art Project Development,topic,PART_OF,Art Education,topic,,,ARTE_2100_triples_raw.json
+ARTE_2100,Effective Clinical Presentation Techniques,concept,USED_FOR,Clinical Presentation Preparation,topic,,,ARTE_2100_triples_raw.json
+ARTE_2100,Professional Communication Skills,concept,USED_FOR,Clinical Presentation Preparation,topic,,,ARTE_2100_triples_raw.json

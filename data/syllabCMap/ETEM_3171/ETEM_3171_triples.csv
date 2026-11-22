@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_3171,Nucleo Board,tool,USED_FOR,Microcontrollers,topic,,,ETEM_3171_triples_raw.json
+ETEM_3171,C/C++,tool,USED_FOR,Microcontrollers,topic,,,ETEM_3171_triples_raw.json

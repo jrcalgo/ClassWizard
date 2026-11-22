@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+METR_4245,topic,Advanced Synoptic Meteorology,Advanced Synoptic Meteorology,1,verified,Advanced Synoptic Meteorology,METR_4245_concepts_raw.json
+METR_4245,topic,Synoptic Meteorology,Synoptic Meteorology,2,verified,Introduction to Synoptic Meteorology,METR_4245_concepts_raw.json
+METR_4245,concept,dynamics-based analysis techniques,dynamics-based analysis techniques,3,verified,dynamics-based analysis techniques,METR_4245_concepts_raw.json
+METR_4245,topic,Synoptic Weather Briefings,synoptic weather briefing,1,verified,Synoptic Weather Briefings,METR_4245_concepts_raw.json
+METR_4245,concept,limiting assumptions,limiting assumptions,1,verified,limiting assumptions,METR_4245_concepts_raw.json
+METR_4245,concept,environmental conditions,environmental conditions,1,verified,environmental conditions,METR_4245_concepts_raw.json
+METR_4245,concept,midlatitude cyclone intensification,midlatitude cyclone intensification,1,verified,midlatitude cyclone intensification,METR_4245_concepts_raw.json

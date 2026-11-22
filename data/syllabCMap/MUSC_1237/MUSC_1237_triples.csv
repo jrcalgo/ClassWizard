@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1237,breath support techniques,concept,PREREQUISITE_OF,tone production methods,concept,same unit,,MUSC_1237_triples_raw.json
+MUSC_1237,breath support techniques,concept,PREREQUISITE_OF,vocal anatomy,concept,same unit,,MUSC_1237_triples_raw.json
+MUSC_1237,vocal anatomy,concept,PREREQUISITE_OF,stage presence fundamentals,concept,same unit,,MUSC_1237_triples_raw.json
+MUSC_1237,vocal anatomy,concept,PREREQUISITE_OF,Voice Registers,topic,A taught first,,MUSC_1237_triples_raw.json
+MUSC_1237,register transitions,concept,PREREQUISITE_OF,mixed voice development,concept,same unit,,MUSC_1237_triples_raw.json
+MUSC_1237,Vocal Warm-Up Exercises,topic,PART_OF,Vocal Health,topic,,,MUSC_1237_triples_raw.json
+MUSC_1237,Vocal Stretching Routines,topic,PART_OF,Vocal Health,topic,,,MUSC_1237_triples_raw.json
+MUSC_1237,tone production methods,concept,PART_OF,Voice as an Instrument and the Breathing Process,topic,,,MUSC_1237_triples_raw.json
+MUSC_1237,breath support techniques,concept,PART_OF,Voice as an Instrument and the Breathing Process,topic,,,MUSC_1237_triples_raw.json
+MUSC_1237,register transitions,concept,PART_OF,Voice Registers,topic,,,MUSC_1237_triples_raw.json
+MUSC_1237,mixed voice development,concept,PART_OF,Voice Registers,topic,,,MUSC_1237_triples_raw.json
+MUSC_1237,head resonance,concept,PART_OF,Voice Registers,topic,,,MUSC_1237_triples_raw.json
+MUSC_1237,chest resonance,concept,PART_OF,Voice Registers,topic,,,MUSC_1237_triples_raw.json
+MUSC_1237,breath support techniques,concept,USED_FOR,tone production methods,concept,,,MUSC_1237_triples_raw.json
+MUSC_1237,breath support techniques,concept,USED_FOR,vocal anatomy,concept,,,MUSC_1237_triples_raw.json
+MUSC_1237,breath support techniques,concept,USED_FOR,stage presence fundamentals,concept,,,MUSC_1237_triples_raw.json
+MUSC_1237,breath support techniques,concept,USED_FOR,Voice Registers,topic,,,MUSC_1237_triples_raw.json

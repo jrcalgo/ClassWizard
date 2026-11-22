@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4090,concept,security primitives and methods,security primitives and methods,2,verified,security primitives and methods,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,passive and active hardware metering,passive and active hardware metering,1,verified,passive and active hardware metering,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,hardware security fundamentals,Hardware Security Fundamentals,1,inferred,hardware security fundamentals,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,emerging technologies and trends,Emerging Technologies and Trends,1,inferred,emerging technologies and trends,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,side-channel attacks,Side-Channel Attacks,1,inferred,side-channel attacks,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,power analysis attacks,Power Analysis Attacks,1,inferred,power analysis attacks,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,countermeasures for physical attacks,Countermeasures for Physical Attacks,1,inferred,countermeasures for physical attacks,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,PUF architecture and design,PUF Architecture and Design,1,inferred,PUF architecture and design,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,PUF-based authentication,PUF-Based Authentication,1,inferred,PUF-based authentication,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,PUF security properties,PUF Security Properties,1,inferred,PUF security properties,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,TRNG fundamentals and principles,TRNG Fundamentals and Principles,1,inferred,TRNG fundamentals and principles,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,TRNG implementation in hardware,TRNG Implementation in Hardware,1,inferred,TRNG implementation in hardware,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,TRNG security applications,TRNG Security Applications,1,inferred,TRNG security applications,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,watermarking for IP protection,Watermarking for IP Protection,1,inferred,watermarking for IP protection,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,IP piracy detection methods,IP Piracy Detection Methods,1,inferred,IP piracy detection methods,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,FPGA security threats and vulnerabilities,FPGA Security Threats and Vulnerabilities,1,inferred,FPGA security threats and vulnerabilities,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,trusted FPGA design principles,Trusted FPGA Design Principles,1,inferred,trusted FPGA design principles,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,FPGA-based secure processing,FPGA-Based Secure Processing,1,inferred,FPGA-based secure processing,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,hardware trojans and their impacts,Hardware Trojans and Their Impacts,1,inferred,hardware trojans and their impacts,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,detection methods for hardware trojans,Detection Methods for Hardware Trojans,1,inferred,detection methods for hardware trojans,ECGR_4090_concepts_raw.json
+ECGR_4090,concept,prevention techniques for hardware trojans,Prevention Techniques for Hardware Trojans,1,inferred,prevention techniques for hardware trojans,ECGR_4090_concepts_raw.json

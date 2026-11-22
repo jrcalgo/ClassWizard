@@ -1,0 +1,5 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_2102,topic,Public Health,Public Health,6,verified,Public Health,HLTH_2102_concepts_raw.json
+HLTH_2102,topic,Four-Step Public Health Approach,four-step public health approach,1,verified,Four-Step Public Health Approach,HLTH_2102_concepts_raw.json
+HLTH_2102,topic,Group Project Preparation,Group Project Preparation,1,inferred,Group Project Preparation,HLTH_2102_concepts_raw.json
+HLTH_2102,topic,Public Health Case Studies,Public Health Case Studies,1,inferred,Public Health Case Studies,HLTH_2102_concepts_raw.json

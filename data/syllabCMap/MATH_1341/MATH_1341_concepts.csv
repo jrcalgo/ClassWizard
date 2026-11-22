@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_1341,topic,Math for Elem Teachers,Math for Elem Teachers,1,verified,Math for Elem Teachers,MATH_1341_concepts_raw.json
+MATH_1341,topic,Math,MATH,4,verified,Introduction to Math,MATH_1341_concepts_raw.json
+MATH_1341,topic,Algebra Word Problems,algebra word problems,1,verified,Algebra Word Problems,MATH_1341_concepts_raw.json
+MATH_1341,topic,Elementary Statistics,elementary statistics,2,verified,Elementary Statistics,MATH_1341_concepts_raw.json
+MATH_1341,concept,MATH MAKES SENSE,MATH MAKES SENSE,1,verified,MATH MAKES SENSE,MATH_1341_concepts_raw.json
+MATH_1341,concept,perimeter,perimeter,2,verified,perimeter,MATH_1341_concepts_raw.json
+MATH_1341,concept,area,area,4,verified,area,MATH_1341_concepts_raw.json
+MATH_1341,concept,surface area,surface area,2,verified,surface area,MATH_1341_concepts_raw.json
+MATH_1341,concept,volume,volume,2,verified,volume,MATH_1341_concepts_raw.json
+MATH_1341,concept,transformations,transformations,2,verified,transformations,MATH_1341_concepts_raw.json
+MATH_1341,concept,congruence,congruence,2,verified,congruence,MATH_1341_concepts_raw.json
+MATH_1341,concept,similarity,similarity,2,verified,similarity,MATH_1341_concepts_raw.json
+MATH_1341,concept,measures of central tendency,measures of central tendency,2,verified,measures of central tendency,MATH_1341_concepts_raw.json
+MATH_1341,concept,variation,variation,2,verified,variation,MATH_1341_concepts_raw.json
+MATH_1341,concept,statistical inference,statistical inference,2,verified,statistical inference,MATH_1341_concepts_raw.json
+MATH_1341,concept,probabilities,probabilities,2,verified,probabilities,MATH_1341_concepts_raw.json
+MATH_1341,concept,sequences and patterns,sequences and patterns,1,verified,sequences and patterns,MATH_1341_concepts_raw.json
+MATH_1341,concept,2D shapes,2D shapes,1,verified,2D shapes,MATH_1341_concepts_raw.json
+MATH_1341,concept,3D solids,3D solids,1,verified,3D solids,MATH_1341_concepts_raw.json
+MATH_1341,concept,problem-solving,problem-solving,1,verified,problem-solving,MATH_1341_concepts_raw.json
+MATH_1341,concept,representation,representation,2,verified,representation,MATH_1341_concepts_raw.json
+MATH_1341,concept,line-plots,line-plots,1,verified,line-plots,MATH_1341_concepts_raw.json
+MATH_1341,concept,picture-graphs,picture-graph,1,verified,picture-graphs,MATH_1341_concepts_raw.json
+MATH_1341,concept,graph-bars,graph-bar,1,verified,graph-bars,MATH_1341_concepts_raw.json
+MATH_1341,concept,box-and-whisker plots,box-and whisker plots,1,verified,box-and-whisker plots,MATH_1341_concepts_raw.json

@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCAI_3112,Bias in AI Systems,concept,PREREQUISITE_OF,Algorithmic Bias in AI Systems,concept,A taught first,,HCAI_3112_triples_raw.json
+HCAI_3112,Intersectionality in AI,concept,PREREQUISITE_OF,Feminist Critique of AI,concept,same unit,,HCAI_3112_triples_raw.json
+HCAI_3112,Artificial Intelligence Definition,concept,PREREQUISITE_OF,Impact of AI on Data Collection,concept,A taught first,,HCAI_3112_triples_raw.json
+HCAI_3112,Informed Consent in AI Studies,concept,PREREQUISITE_OF,Accountability in AI Decision-Making,concept,same unit,,HCAI_3112_triples_raw.json
+HCAI_3112,Bias in AI Systems,concept,PART_OF,Algorithmic Bias in AI Systems,concept,,,HCAI_3112_triples_raw.json
+HCAI_3112,Intersectionality in AI,concept,PART_OF,Feminist Critique of AI,concept,,,HCAI_3112_triples_raw.json
+HCAI_3112,Impact of AI on Data Collection,concept,PART_OF,Artificial Intelligence Definition,concept,,,HCAI_3112_triples_raw.json
+HCAI_3112,Informed Consent in AI Studies,concept,PART_OF,Accountability in AI Decision-Making,concept,,,HCAI_3112_triples_raw.json

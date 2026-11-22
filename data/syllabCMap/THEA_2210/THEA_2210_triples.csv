@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_2210,research,method,PREREQUISITE_OF,script analysis,method,B taught first,B is taught before A - check,THEA_2210_triples_raw.json
+THEA_2210,script analysis,method,PREREQUISITE_OF,costume design,topic,same unit,,THEA_2210_triples_raw.json
+THEA_2210,research,method,PREREQUISITE_OF,community building and cultural competency,topic,A taught first,,THEA_2210_triples_raw.json
+THEA_2210,costume breakdowns and French scenes,concept,PART_OF,costume design,topic,,,THEA_2210_triples_raw.json
+THEA_2210,problem-solving skills,method,PART_OF,script analysis,method,,,THEA_2210_triples_raw.json
+THEA_2210,research,method,PART_OF,community building and cultural competency,topic,,,THEA_2210_triples_raw.json
+THEA_2210,script analysis,method,USED_FOR,costume design,topic,,,THEA_2210_triples_raw.json

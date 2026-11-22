@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INFO_3234,Data Flow Diagramming,concept,USED_FOR,Process Modeling and Analysis,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Entity Relationship Diagramming,concept,USED_FOR,Data Modeling Techniques,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Business Process Reengineering,concept,USED_FOR,Process Modeling and Analysis,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Cost-Benefit Analysis,concept,USED_FOR,System Feasibility Study,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Return on Investment (ROI,concept,USED_FOR,System Feasibility Study,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Project Scope Statement,concept,USED_FOR,Project Management and Planning,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Gantt Charts and Scheduling,concept,USED_FOR,Project Management and Planning,topic,,,INFO_3234_triples_raw.json
+INFO_3234,System Requirements Specification,concept,USED_FOR,System Design and Development,topic,,,INFO_3234_triples_raw.json
+INFO_3234,System Design Principles,concept,USED_FOR,System Design and Development,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Prototyping and Iterative Design,concept,USED_FOR,System Design and Development,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Communication Strategies for Teams,concept,USED_FOR,Teamwork and Collaboration in Systems Development,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Conflict Resolution and Management,concept,USED_FOR,Teamwork and Collaboration in Systems Development,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Data Warehousing and Mining,concept,USED_FOR,Business Intelligence and Analytics,topic,,,INFO_3234_triples_raw.json
+INFO_3234,Business Intelligence Tools and Techniques,concept,USED_FOR,Business Intelligence and Analytics,topic,,,INFO_3234_triples_raw.json

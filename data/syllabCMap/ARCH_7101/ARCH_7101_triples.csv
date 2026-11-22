@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_7101,Integrated Building Design Process,concept,PART_OF,Studio Expectations and Guidelines,concept,,,ARCH_7101_triples_raw.json
+ARCH_7101,Integrated Building Design Process,concept,PART_OF,Design Project Objectives,concept,,,ARCH_7101_triples_raw.json
+ARCH_7101,Integrated Building Design Process,concept,PART_OF,Client Needs and Requirements,concept,,,ARCH_7101_triples_raw.json
+ARCH_7101,Site Constraints and Opportunities,concept,PART_OF,Contextual Design Considerations,concept,,,ARCH_7101_triples_raw.json
+ARCH_7101,BIM Software and Tools,concept,PART_OF,Modeling and Data Management,concept,,,ARCH_7101_triples_raw.json
+ARCH_7101,Effective Design Presentations,concept,PART_OF,Communication Strategies for Architects,concept,,,ARCH_7101_triples_raw.json
+ARCH_7101,BIM Software and Tools,concept,USED_FOR,Energy Efficiency and Sustainability,concept,,,ARCH_7101_triples_raw.json
+ARCH_7101,BIM Software and Tools,concept,USED_FOR,Structural System Options and Analysis,concept,,,ARCH_7101_triples_raw.json

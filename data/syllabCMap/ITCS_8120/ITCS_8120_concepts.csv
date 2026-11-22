@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_8120,topic,Computer Graphics,Computer Graphics,2,verified,Computer Graphics,ITCS_8120_concepts_raw.json
+ITCS_8120,topic,Graphics,Graphics,7,verified,Introduction to Graphics,ITCS_8120_concepts_raw.json
+ITCS_8120,topic,2D/3D Geometric Transformations,2D/3D Geometric Transformations,1,verified,2D/3D Geometric Transformations,ITCS_8120_concepts_raw.json
+ITCS_8120,concept,graphics applications,graphics applications,1,verified,graphics applications,ITCS_8120_concepts_raw.json
+ITCS_8120,concept,primitive affine transforms,primitive affine transforms,1,verified,primitive affine transforms,ITCS_8120_concepts_raw.json
+ITCS_8120,concept,perspective projection,perspective projections,1,verified,perspective projection,ITCS_8120_concepts_raw.json
+ITCS_8120,concept,world coordinate system,world coordinate system,1,verified,world coordinate system,ITCS_8120_concepts_raw.json
+ITCS_8120,concept,camera coordinate system,camera coordinate system,1,verified,camera coordinate system,ITCS_8120_concepts_raw.json
+ITCS_8120,concept,global illumination model,global illumination models,1,verified,global illumination model,ITCS_8120_concepts_raw.json
+ITCS_8120,concept,global illumination algorithms,global illumination algorithms,1,verified,global illumination algorithms,ITCS_8120_concepts_raw.json

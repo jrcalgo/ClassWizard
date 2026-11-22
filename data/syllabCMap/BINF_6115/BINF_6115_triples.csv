@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_6115,UNIX filesystem structure,concept,PREREQUISITE_OF,manual page system,concept,A taught first,,BINF_6115_triples_raw.json
+BINF_6115,UNIX filesystem structure,concept,PREREQUISITE_OF,UNIX command pipeline,concept,A taught first,,BINF_6115_triples_raw.json
+BINF_6115,UNIX filesystem structure,concept,PREREQUISITE_OF,file parsing and modification,concept,A taught first,,BINF_6115_triples_raw.json
+BINF_6115,UNIX filesystem structure,concept,PREREQUISITE_OF,analysis reproducibility,concept,A taught first,,BINF_6115_triples_raw.json
+BINF_6115,UNIX filesystem structure,concept,PREREQUISITE_OF,FAIR principles in computing,concept,A taught first,,BINF_6115_triples_raw.json
+BINF_6115,Basic UNIX Commands,topic,PART_OF,UNIX Filesystem Basics,topic,,,BINF_6115_triples_raw.json
+BINF_6115,Shell Scripting Fundamentals,topic,PART_OF,UNIX Filesystem Basics,topic,,,BINF_6115_triples_raw.json
+BINF_6115,Transferring Files to Clusters,topic,PART_OF,UNIX Filesystem Basics,topic,,,BINF_6115_triples_raw.json
+BINF_6115,Software Management on Clusters,topic,PART_OF,UNIX Filesystem Basics,topic,,,BINF_6115_triples_raw.json
+BINF_6115,Reproducibility and FAIR Principles,topic,PART_OF,UNIX Filesystem Basics,topic,,,BINF_6115_triples_raw.json
+BINF_6115,bash shell scripting,concept,USED_FOR,Shell Scripting Fundamentals,topic,,,BINF_6115_triples_raw.json
+BINF_6115,manual page system,concept,USED_FOR,Manual Page System Overview,topic,,,BINF_6115_triples_raw.json
+BINF_6115,preinstalled software modules,concept,USED_FOR,Software Management on Clusters,topic,,,BINF_6115_triples_raw.json
+BINF_6115,batch scripting system,concept,USED_FOR,Software Management on Clusters,topic,,,BINF_6115_triples_raw.json
+BINF_6115,file navigation commands,concept,USED_FOR,Basic UNIX Commands,topic,,,BINF_6115_triples_raw.json
+BINF_6115,directory management,concept,USED_FOR,Basic UNIX Commands,topic,,,BINF_6115_triples_raw.json
+BINF_6115,script design principles,concept,USED_FOR,Shell Scripting Fundamentals,topic,,,BINF_6115_triples_raw.json
+BINF_6115,workflow step implementation,concept,USED_FOR,Analysis Pipelines with UNIX,topic,,,BINF_6115_triples_raw.json
+BINF_6115,file parsing and modification,concept,USED_FOR,Analysis Pipelines with UNIX,topic,,,BINF_6115_triples_raw.json
+BINF_6115,file transfer methods,concept,USED_FOR,Transferring Files to Clusters,topic,,,BINF_6115_triples_raw.json

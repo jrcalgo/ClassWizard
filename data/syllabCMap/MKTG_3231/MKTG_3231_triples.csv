@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3231,international trade considerations,concept,PREREQUISITE_OF,regional trade agreements,concept,same unit,,MKTG_3231_triples_raw.json
+MKTG_3231,Marketing Mix - 4 Ps,topic,USED_FOR,international trade considerations,concept,,topic used for something - check direction,MKTG_3231_triples_raw.json

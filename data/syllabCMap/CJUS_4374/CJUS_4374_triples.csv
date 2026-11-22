@@ -1,0 +1,37 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4374,Spatial Data,concept,PREREQUISITE_OF,Geospatial Tools,concept,same unit,,CJUS_4374_triples_raw.json
+CJUS_4374,Spatial Data,concept,PREREQUISITE_OF,Environmental Criminology,concept,A taught first,,CJUS_4374_triples_raw.json
+CJUS_4374,Geospatial Tools,concept,PREREQUISITE_OF,GeoDa Software,concept,same unit,,CJUS_4374_triples_raw.json
+CJUS_4374,Geospatial Tools,concept,PREREQUISITE_OF,QGIS Interface,concept,same unit,,CJUS_4374_triples_raw.json
+CJUS_4374,Coordinate Systems,concept,PREREQUISITE_OF,Map Projections,concept,same unit,,CJUS_4374_triples_raw.json
+CJUS_4374,Activity Space,concept,PREREQUISITE_OF,Global Indicators,concept,A taught first,,CJUS_4374_triples_raw.json
+CJUS_4374,Ordinary Least Squares,concept,PREREQUISITE_OF,Local Indicators,concept,A taught first,,CJUS_4374_triples_raw.json
+CJUS_4374,Spatial Reference Systems,concept,PREREQUISITE_OF,Spatial Join Operations,concept,same unit,,CJUS_4374_triples_raw.json
+CJUS_4374,Cartographic Design Principles,concept,PREREQUISITE_OF,Spatial Data Visualization,concept,same unit,,CJUS_4374_triples_raw.json
+CJUS_4374,Geospatial Coordinate Systems,concept,PREREQUISITE_OF,Geospatial Data Types,concept,A taught first,,CJUS_4374_triples_raw.json
+CJUS_4374,Geographic Scale,concept,PREREQUISITE_OF,Spatial Heterogeneity,concept,same unit,,CJUS_4374_triples_raw.json
+CJUS_4374,Spatial Lag Model,concept,PREREQUISITE_OF,Connectivity Measures,concept,A taught first,,CJUS_4374_triples_raw.json
+CJUS_4374,Geographic Weighted Regression,concept,PREREQUISITE_OF,Kernel Density Estimation,concept,same unit,,CJUS_4374_triples_raw.json
+CJUS_4374,Spatial Data,concept,PART_OF,Geospatial Tools,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Environmental Criminology,concept,PART_OF,Geospatial Tools,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,GeoDa Software,concept,PART_OF,Geospatial Tools,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,QGIS Interface,concept,PART_OF,Geospatial Tools,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Coordinate Systems,concept,PART_OF,Spatial Reference Systems,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Map Projections,concept,PART_OF,Spatial Reference Systems,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Activity Space,concept,PART_OF,Global Indicators,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Global Indicators,concept,PART_OF,Local Indicators,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Ordinary Least Squares,concept,PART_OF,Local Indicators,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Spatial Reference Systems,concept,PART_OF,Spatial Join Operations,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Cartographic Design Principles,concept,PART_OF,Spatial Data Visualization,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Geospatial Coordinate Systems,concept,PART_OF,Geospatial Data Types,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Spatial Joins and Merges,concept,PART_OF,Buffer Analysis Techniques,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Distance Calculations Methods,concept,PART_OF,Spatial Regression Models,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Geographic Scale,concept,PART_OF,Spatial Heterogeneity,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Spatial Lag Model,concept,PART_OF,Connectivity Measures,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Accessibility Analysis,concept,PART_OF,Network Analysis Tools,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Geographic Weighted Regression,concept,PART_OF,Kernel Density Estimation,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Hot Spot Analysis,concept,PART_OF,Spatial Autocorrelation Measures,measure,,part is broader than whole - check direction,CJUS_4374_triples_raw.json
+CJUS_4374,Basic spatial operations,method,USED_FOR,Geospatial Data Types,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Spatial Autocorrelation Measures,measure,USED_FOR,Global Indicators,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Geary's C Index,measure,USED_FOR,Ordinary Least Squares,concept,,,CJUS_4374_triples_raw.json
+CJUS_4374,Moran's I Statistic,measure,USED_FOR,Local Indicators,concept,,,CJUS_4374_triples_raw.json

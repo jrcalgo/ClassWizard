@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_7143,topic,Lebesgue integration,Lebesgue integration,1,verified,Lebesgue integration,MATH_7143_concepts_raw.json
+MATH_7143,topic,Lp spaces,Lp spaces,1,verified,Lp spaces,MATH_7143_concepts_raw.json
+MATH_7143,topic,general measure and integration theory,general measure and integration theory,1,verified,general measure and integration theory,MATH_7143_concepts_raw.json
+MATH_7143,topic,Lebesgue measure,Lebesgue Measure,2,inferred,Lebesgue measure,MATH_7143_concepts_raw.json
+MATH_7143,topic,measurable functions,Measurable Functions,1,inferred,measurable functions,MATH_7143_concepts_raw.json
+MATH_7143,topic,Lebesgue integral,Lebesgue Integral,3,inferred,Lebesgue integral,MATH_7143_concepts_raw.json
+MATH_7143,topic,Lp space properties,Lp Space Properties,1,inferred,Lp space properties,MATH_7143_concepts_raw.json
+MATH_7143,topic,sigma-algebra,Sigma-algebra,1,inferred,sigma-algebra,MATH_7143_concepts_raw.json
+MATH_7143,topic,measurable space,Measurable space,1,inferred,measurable space,MATH_7143_concepts_raw.json
+MATH_7143,concept,Lebesgue measure space,Lebesgue measure space,1,inferred,Lebesgue measure space,MATH_7143_concepts_raw.json
+MATH_7143,concept,outer measure definition,Outer measure definition,1,inferred,outer measure definition,MATH_7143_concepts_raw.json
+MATH_7143,concept,measurable sets properties,Measurable sets properties,1,inferred,measurable sets properties,MATH_7143_concepts_raw.json
+MATH_7143,concept,measurable function definition,Measurable function definition,1,inferred,measurable function definition,MATH_7143_concepts_raw.json
+MATH_7143,concept,almost everywhere equality,Almost everywhere equality,1,inferred,almost everywhere equality,MATH_7143_concepts_raw.json
+MATH_7143,concept,measurability of limits,Measurability of limits,1,inferred,measurability of limits,MATH_7143_concepts_raw.json
+MATH_7143,concept,Lebesgue integral definition,Lebesgue integral definition,1,inferred,Lebesgue integral definition,MATH_7143_concepts_raw.json
+MATH_7143,concept,linearity and monotonicity,Linearity and monotonicity,1,inferred,linearity and monotonicity,MATH_7143_concepts_raw.json
+MATH_7143,concept,Lp space definition,Lp space definition,1,inferred,Lp space definition,MATH_7143_concepts_raw.json
+MATH_7143,concept,normed vector spaces,Normed vector spaces,1,inferred,normed vector spaces,MATH_7143_concepts_raw.json
+MATH_7143,concept,Cauchy-Schwarz inequality,Cauchy-Schwarz inequality,1,inferred,Cauchy-Schwarz inequality,MATH_7143_concepts_raw.json
+MATH_7143,concept,completeness of Lp spaces,Completeness of Lp spaces,1,inferred,completeness of Lp spaces,MATH_7143_concepts_raw.json
+MATH_7143,concept,approximation by simple functions,Approximation by simple functions,1,inferred,approximation by simple functions,MATH_7143_concepts_raw.json
+MATH_7143,concept,Holder's inequality,Holder's inequality,1,inferred,Holder's inequality,MATH_7143_concepts_raw.json
+MATH_7143,concept,sigma-algebra definition,Sigma-algebra definition,1,inferred,sigma-algebra definition,MATH_7143_concepts_raw.json
+MATH_7143,concept,measurable space properties,Measurable space properties,1,inferred,measurable space properties,MATH_7143_concepts_raw.json
+MATH_7143,concept,Radon-Nikodym theorem,Radon-Nikodym theorem,1,inferred,Radon-Nikodym theorem,MATH_7143_concepts_raw.json

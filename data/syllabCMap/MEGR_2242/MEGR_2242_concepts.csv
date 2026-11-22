@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2242,topic,Automated engineering analysis,Automated engineering analysis,1,verified,Automated engineering analysis,MEGR_2242_concepts_raw.json
+MEGR_2242,topic,software engineering principles,software engineering principles,1,verified,software engineering principles,MEGR_2242_concepts_raw.json
+MEGR_2242,topic,data representation,data representation,1,verified,data representation,MEGR_2242_concepts_raw.json
+MEGR_2242,topic,computing languages,computing languages,1,verified,computing languages,MEGR_2242_concepts_raw.json
+MEGR_2242,topic,program development,Program development,1,verified,program development,MEGR_2242_concepts_raw.json
+MEGR_2242,concept,numerical methods,Numerical Methods,3,verified,numerical methods,MEGR_2242_concepts_raw.json
+MEGR_2242,concept,computational stability,computational stability,1,verified,computational stability,MEGR_2242_concepts_raw.json
+MEGR_2242,topic,effective design,effective design,1,verified,effective design,MEGR_2242_concepts_raw.json
+MEGR_2242,topic,testing,testing,1,verified,testing,MEGR_2242_concepts_raw.json
+MEGR_2242,topic,debugging practices,debugging practices,1,verified,debugging practices,MEGR_2242_concepts_raw.json
+MEGR_2242,concept,potential errors,potential errors,1,verified,potential errors,MEGR_2242_concepts_raw.json
+MEGR_2242,concept,linear algebra,linear algebra,1,verified,linear algebra,MEGR_2242_concepts_raw.json
+MEGR_2242,tool,MATLAB,MATLAB,2,verified,MATLAB,MEGR_2242_concepts_raw.json

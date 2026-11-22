@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_4000,topic,Freshwater Ecosystems,Freshwater Ecosystems,3,verified,Freshwater Ecosystems,ESCI_4000_concepts_raw.json
+ESCI_4000,topic,Coupled Human-Environmental Interactions,coupled human environmental interactions,1,verified,Coupled Human-Environmental Interactions,ESCI_4000_concepts_raw.json
+ESCI_4000,topic,Physical Processes in Freshwater,Physical Processes in Freshwater,1,inferred,Physical Processes in Freshwater,ESCI_4000_concepts_raw.json
+ESCI_4000,topic,Biological Processes in Freshwater,Biological Processes in Freshwater,1,inferred,Biological Processes in Freshwater,ESCI_4000_concepts_raw.json
+ESCI_4000,topic,Chemical Processes in Freshwater,Chemical Processes in Freshwater,1,inferred,Chemical Processes in Freshwater,ESCI_4000_concepts_raw.json
+ESCI_4000,topic,Environmental Variability and Scales,Environmental Variability and Scales,1,inferred,Environmental Variability and Scales,ESCI_4000_concepts_raw.json
+ESCI_4000,topic,Human Impact on Freshwater Ecosystems,Human Impact on Freshwater Ecosystems,1,inferred,Human Impact on Freshwater Ecosystems,ESCI_4000_concepts_raw.json
+ESCI_4000,topic,Ecological Information Evaluation,Ecological Information Evaluation,1,inferred,Ecological Information Evaluation,ESCI_4000_concepts_raw.json
+ESCI_4000,topic,Effective Communication of Scientific Concepts,Effective Communication of Scientific Concepts,1,inferred,Effective Communication of Scientific Concepts,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,freshwater ecosystem definition,Freshwater Ecosystem Definition,1,inferred,freshwater ecosystem definition,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,importance of freshwater ecosystems,Importance of Freshwater Ecosystems,1,inferred,importance of freshwater ecosystems,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,human impact on freshwater,Human Impact on Freshwater,2,inferred,human impact on freshwater,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,water cycle and hydrology,Water Cycle and Hydrology,1,inferred,water cycle and hydrology,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,river morphology and dynamics,River Morphology and Dynamics,1,inferred,river morphology and dynamics,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,lake stratification and mixing,Lake Stratification and Mixing,1,inferred,lake stratification and mixing,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,aquatic food webs and trophic levels,Aquatic Food Webs and Trophic Levels,1,inferred,aquatic food webs and trophic levels,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,primary production and decomposition,Primary Production and Decomposition,1,inferred,primary production and decomposition,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,biodiversity and community structure,Biodiversity and Community Structure,1,inferred,biodiversity and community structure,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,water chemistry and quality parameters,Water Chemistry and Quality Parameters,1,inferred,water chemistry and quality parameters,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,nutrient cycling and budgets,Nutrient Cycling and Budgets,1,inferred,nutrient cycling and budgets,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,pollution and contamination sources,Pollution and Contamination Sources,1,inferred,pollution and contamination sources,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,spatial heterogeneity and patterns,Spatial Heterogeneity and Patterns,1,inferred,spatial heterogeneity and patterns,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,temporal dynamics and cycles,Temporal Dynamics and Cycles,1,inferred,temporal dynamics and cycles,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,scale dependencies and interactions,Scale Dependencies and Interactions,1,inferred,scale dependencies and interactions,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,land use change and water quality,Land Use Change and Water Quality,1,inferred,land use change and water quality,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,climate change and hydrological extremes,Climate Change and Hydrological Extremes,1,inferred,climate change and hydrological extremes,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,water management and policy implications,Water Management and Policy Implications,1,inferred,water management and policy implications,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,human population growth and resource demand,Human Population Growth and Resource Demand,1,inferred,human population growth and resource demand,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,economic development and environmental impact,Economic Development and Environmental Impact,1,inferred,economic development and environmental impact,ESCI_4000_concepts_raw.json
+ESCI_4000,concept,social justice and equity in water management,Social Justice and Equity in Water Management,1,inferred,social justice and equity in water management,ESCI_4000_concepts_raw.json

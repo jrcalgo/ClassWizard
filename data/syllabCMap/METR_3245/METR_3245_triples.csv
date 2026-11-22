@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_3245,synoptic scale systems,concept,PREREQUISITE_OF,thermodynamic characteristics,concept,same unit,,METR_3245_triples_raw.json
+METR_3245,synoptic scale systems,concept,PREREQUISITE_OF,wind patterns,concept,A taught first,,METR_3245_triples_raw.json
+METR_3245,synoptic scale systems,concept,PREREQUISITE_OF,jet streams,concept,A taught first,,METR_3245_triples_raw.json
+METR_3245,synoptic scale systems,concept,PREREQUISITE_OF,frontal dynamics,concept,A taught first,,METR_3245_triples_raw.json
+METR_3245,synoptic scale systems,concept,PREREQUISITE_OF,weather systems formation,concept,A taught first,,METR_3245_triples_raw.json
+METR_3245,synoptic scale systems,concept,PREREQUISITE_OF,moisture content,concept,A taught first,,METR_3245_triples_raw.json
+METR_3245,synoptic scale systems,concept,PREREQUISITE_OF,temperature gradients,concept,A taught first,,METR_3245_triples_raw.json
+METR_3245,synoptic scale systems,concept,PREREQUISITE_OF,instability,concept,A taught first,,METR_3245_triples_raw.json
+METR_3245,synoptic scale systems,concept,PREREQUISITE_OF,convection,concept,A taught first,,METR_3245_triples_raw.json
+METR_3245,wind patterns,concept,PART_OF,synoptic scale systems,concept,,,METR_3245_triples_raw.json
+METR_3245,jet streams,concept,PART_OF,synoptic scale systems,concept,,,METR_3245_triples_raw.json
+METR_3245,frontal dynamics,concept,PART_OF,synoptic scale systems,concept,,,METR_3245_triples_raw.json
+METR_3245,moisture content,concept,PART_OF,synoptic scale systems,concept,,,METR_3245_triples_raw.json
+METR_3245,temperature gradients,concept,PART_OF,synoptic scale systems,concept,,,METR_3245_triples_raw.json
+METR_3245,instability,concept,PART_OF,synoptic scale systems,concept,,,METR_3245_triples_raw.json
+METR_3245,convection,concept,PART_OF,synoptic scale systems,concept,,,METR_3245_triples_raw.json
+METR_3245,global forecasting models,concept,USED_FOR,short-term forecasts,concept,,,METR_3245_triples_raw.json

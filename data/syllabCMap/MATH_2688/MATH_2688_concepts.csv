@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_2688,topic,Mathematics Awareness Seminar,Mathematics Awareness Seminar,1,verified,Mathematics Awareness Seminar,MATH_2688_concepts_raw.json
+MATH_2688,topic,Math,MATH,1,verified,Introduction to Math,MATH_2688_concepts_raw.json
+MATH_2688,topic,History of Mathematics,History of Mathematics,1,inferred,History of Mathematics,MATH_2688_concepts_raw.json
+MATH_2688,topic,Mathematical Problem Solving,Mathematical Problem Solving,1,inferred,Mathematical Problem Solving,MATH_2688_concepts_raw.json
+MATH_2688,topic,Applications in Science,Applications in Science,1,inferred,Applications in Science,MATH_2688_concepts_raw.json
+MATH_2688,topic,Mathematics in Technology,Mathematics in Technology,1,inferred,Mathematics in Technology,MATH_2688_concepts_raw.json

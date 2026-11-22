@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HIST_3003,topic,US-Vietnam War,US-Vietnam War,1,verified,US-Vietnam War,HIST_3003_concepts_raw.json
+HIST_3003,topic,Vietnamese History,Vietnamese history,1,verified,Vietnamese History,HIST_3003_concepts_raw.json
+HIST_3003,topic,French Colonial Era,French colonial era,1,verified,French Colonial Era,HIST_3003_concepts_raw.json
+HIST_3003,concept,Contested Memories and Representations,contested memories and representations,1,verified,Contested Memories and Representations,HIST_3003_concepts_raw.json
+HIST_3003,concept,Indochinese Federation Establishment,Indochinese Federation Establishment,1,inferred,Indochinese Federation Establishment,HIST_3003_concepts_raw.json
+HIST_3003,concept,Viet Minh Formation and Goals,Viet Minh Formation and Goals,1,inferred,Viet Minh Formation and Goals,HIST_3003_concepts_raw.json
+HIST_3003,concept,First Indochina War Outbreak,First Indochina War Outbreak,1,inferred,First Indochina War Outbreak,HIST_3003_concepts_raw.json
+HIST_3003,concept,Geneva Accords and Division,Geneva Accords and Division,1,inferred,Geneva Accords and Division,HIST_3003_concepts_raw.json
+HIST_3003,concept,US Military Advisers Arrive,US Military Advisers Arrive,1,inferred,US Military Advisers Arrive,HIST_3003_concepts_raw.json
+HIST_3003,concept,Gulf of Tonkin Incident Significance,Gulf of Tonkin Incident Significance,1,inferred,Gulf of Tonkin Incident Significance,HIST_3003_concepts_raw.json
+HIST_3003,concept,Bombing Campaigns Initiated,Bombing Campaigns Initiated,1,inferred,Bombing Campaigns Initiated,HIST_3003_concepts_raw.json
+HIST_3003,concept,Student Protests and Activism,Student Protests and Activism,1,inferred,Student Protests and Activism,HIST_3003_concepts_raw.json
+HIST_3003,concept,Civil Rights Movement Connection,Civil Rights Movement Connection,1,inferred,Civil Rights Movement Connection,HIST_3003_concepts_raw.json
+HIST_3003,concept,Peace Movement Growth,Peace Movement Growth,1,inferred,Peace Movement Growth,HIST_3003_concepts_raw.json
+HIST_3003,concept,Tet Offensive Significance,Tet Offensive Significance,1,inferred,Tet Offensive Significance,HIST_3003_concepts_raw.json
+HIST_3003,concept,Vietnamese Refugees Crisis,Vietnamese Refugees Crisis,1,inferred,Vietnamese Refugees Crisis,HIST_3003_concepts_raw.json
+HIST_3003,concept,Paris Peace Accords Signing,Paris Peace Accords Signing,1,inferred,Paris Peace Accords Signing,HIST_3003_concepts_raw.json
+HIST_3003,concept,US Troop Withdrawal Completion,US Troop Withdrawal Completion,1,inferred,US Troop Withdrawal Completion,HIST_3003_concepts_raw.json
+HIST_3003,concept,Fall of Saigon and North Vietnamese Victory,Fall of Saigon and North Vietnamese Victory,1,inferred,Fall of Saigon and North Vietnamese Victory,HIST_3003_concepts_raw.json
+HIST_3003,concept,Postwar Economic Challenges,Postwar Economic Challenges,1,inferred,Postwar Economic Challenges,HIST_3003_concepts_raw.json
+HIST_3003,concept,Reunification and National Reconciliation,Reunification and National Reconciliation,1,inferred,Reunification and National Reconciliation,HIST_3003_concepts_raw.json
+HIST_3003,concept,US National Identity Crisis,US National Identity Crisis,1,inferred,US National Identity Crisis,HIST_3003_concepts_raw.json
+HIST_3003,concept,Veterans' Experiences and Trauma,Veterans' Experiences and Trauma,1,inferred,Veterans' Experiences and Trauma,HIST_3003_concepts_raw.json
+HIST_3003,concept,Vietnamese History Overview,Vietnamese History Overview,1,inferred,Vietnamese History Overview,HIST_3003_concepts_raw.json
+HIST_3003,concept,French Colonization of Vietnam,French Colonization of Vietnam,1,inferred,French Colonization of Vietnam,HIST_3003_concepts_raw.json
+HIST_3003,concept,US Support for French Colonization,US Support for French Colonization,1,inferred,US Support for French Colonization,HIST_3003_concepts_raw.json
+HIST_3003,concept,Viet Cong Formation and Goals,Viet Cong Formation and Goals,1,inferred,Viet Cong Formation and Goals,HIST_3003_concepts_raw.json

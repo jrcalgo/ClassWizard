@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURN_4450,concept,nursing diagnosis,Nursing diagnosis,1,verified,nursing diagnosis,NURN_4450_concepts_raw.json
+NURN_4450,concept,evidence-based practice interventions,evidence-based practice interventions,1,verified,evidence-based practice interventions,NURN_4450_concepts_raw.json
+NURN_4450,concept,interprofessional collaboration,interprofessional collaboration,1,verified,interprofessional collaboration,NURN_4450_concepts_raw.json
+NURN_4450,concept,health promotion,Health Promotion,2,verified,health promotion,NURN_4450_concepts_raw.json
+NURN_4450,concept,illness/disease management,illness/disease management,1,verified,illness/disease management,NURN_4450_concepts_raw.json
+NURN_4450,topic,Nursing Care Coordination Paper,Nursing Care Coordination Paper,1,verified,Nursing Care Coordination Paper,NURN_4450_concepts_raw.json

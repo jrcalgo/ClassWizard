@@ -1,0 +1,80 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_6103,concept,Quantitative Crime Analytics,Quantitative Crime Analytics,3,verified,Quantitative Crime Analytics,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Research Design Principles,Research Design Principles,1,verified,Research Design Principles,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Data Management Fundamentals,Data Management Fundamentals,1,verified,Data Management Fundamentals,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Quantitative Research Methods,Quantitative Research Methods,1,verified,Quantitative Research Methods,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Statistical Significance,Statistical Significance,2,verified,Statistical Significance,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Descriptive Statistics Methods,Descriptive Statistics Methods,1,verified,Descriptive Statistics Methods,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Inferential Statistical Analysis,Inferential Statistical Analysis,1,verified,Inferential Statistical Analysis,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Quantitative Data Analysis,Quantitative Data Analysis,1,verified,Quantitative Data Analysis,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,R software basics,R software basics,1,verified,R software basics,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Data manipulation techniques,Data Manipulation Techniques,2,verified,Data manipulation techniques,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Statistical modeling concepts,Statistical modeling concepts,1,verified,Statistical modeling concepts,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Data visualization methods,Data visualization methods,1,verified,Data visualization methods,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,R programming syntax,R programming syntax,1,verified,R programming syntax,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Data Distributions,data distributions,3,verified,Data Distributions,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Histograms,Histograms,2,verified,Histograms,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Frequency Distributions,Frequency Distributions,1,verified,Frequency Distributions,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Skewness Measures,Skewness Measures,1,verified,Skewness Measures,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Kurtosis Measures,Kurtosis Measures,1,verified,Kurtosis Measures,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Bar Charts,Bar Charts,1,verified,Bar Charts,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Scatter Plots,Scatter Plots,1,verified,Scatter Plots,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Box Plots,Box Plots,1,verified,Box Plots,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Tables of Data,Tables of Data,1,verified,Tables of Data,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Graphical Displays,Graphical Displays,1,verified,Graphical Displays,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Tabular Summaries,Tabular Summaries,1,verified,Tabular Summaries,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Data Cleaning Techniques,Data Cleaning Techniques,1,verified,Data Cleaning Techniques,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Data Normalization Methods,Data Normalization Methods,1,verified,Data Normalization Methods,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Data Validation Procedures,Data Validation Procedures,1,verified,Data Validation Procedures,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Missing Data Handling,Missing Data Handling,1,verified,Missing Data Handling,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Outlier Detection Strategies,Outlier Detection Strategies,1,verified,Outlier Detection Strategies,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Mean Calculation Methods,Mean Calculation Methods,1,verified,Mean Calculation Methods,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Median Formula Derivation,Median Formula Derivation,1,verified,Median Formula Derivation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Mode Concept Explanation,Mode Concept Explanation,1,verified,Mode Concept Explanation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Range and Variance,Range and Variance,2,verified,Range and Variance,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Standard Deviation Calculation,Standard Deviation Calculation,1,verified,Standard Deviation Calculation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Skewness and Kurtosis,Skewness and Kurtosis,1,verified,Skewness and Kurtosis,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Interquartile Range IQR,Interquartile Range IQR,1,verified,Interquartile Range IQR,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Data Normalization Techniques,Data Normalization Techniques,1,verified,Data Normalization Techniques,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Null Hypothesis,Null Hypothesis,7,verified,Null Hypothesis,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Alternative Hypothesis,Alternative Hypothesis,5,verified,Alternative Hypothesis,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Test Statistic,Test Statistic,3,verified,Test Statistic,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,P-Value Interpretation,P-Value Interpretation,2,verified,P-Value Interpretation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Point Estimation,Point estimation,3,verified,Point Estimation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Confidence Intervals,confidence intervals,3,verified,Confidence Intervals,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Sampling Distribution,Sampling Distribution,1,verified,Sampling Distribution,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Standard Error,Standard Error,3,verified,Standard Error,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Margin of Error,Margin of Error,1,verified,Margin of Error,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,One population mean,One population mean,3,verified,One population mean,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Population proportion,Population proportion,1,verified,Population proportion,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Sample proportion,Sample proportion,1,verified,Sample proportion,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Standard error of mean,Standard error of mean,1,verified,Standard error of mean,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Confidence interval for mean,Confidence interval for mean,1,verified,Confidence interval for mean,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Hypothesis testing for mean,Hypothesis testing for mean,1,verified,Hypothesis testing for mean,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Z-score calculation,Z-score calculation,1,verified,Z-score calculation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Critical region definition,Critical region definition,1,verified,Critical region definition,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Null hypothesis statement,Null hypothesis statement,1,verified,Null hypothesis statement,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Categorical Data Analysis,Categorical Data Analysis,1,verified,Categorical Data Analysis,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Chi-Square Test,Chi-Square Test,1,verified,Chi-Square Test,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Two-sample t-test,Two-sample t-test,1,verified,Two-sample t-test,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Independent samples,Independent samples,1,verified,Independent samples,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Standard error of difference,Standard error of difference,1,verified,Standard error of difference,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Confidence interval for difference,Confidence interval for difference,1,verified,Confidence interval for difference,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Multiple Comparison Tests,Multiple Comparison Tests,1,verified,Multiple Comparison Tests,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,One-Way ANOVA Procedure,One-Way ANOVA Procedure,1,verified,One-Way ANOVA Procedure,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Population Mean Differences,Population Mean Differences,1,verified,Population Mean Differences,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Null Hypothesis Significance,Null Hypothesis Significance,1,verified,Null Hypothesis Significance,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,F-Test Statistic Calculation,F-Test Statistic Calculation,1,verified,F-Test Statistic Calculation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Bivariate Correlation,Bivariate correlation,3,verified,Bivariate Correlation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Ordinary Least Squares Regression,ordinary least squares regression,3,verified,Ordinary Least Squares Regression,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Regression Analysis Techniques,Regression Analysis Techniques,1,verified,Regression Analysis Techniques,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Correlation Coefficient Calculation,Correlation Coefficient Calculation,1,verified,Correlation Coefficient Calculation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Linear Regression Assumptions,Linear Regression Assumptions,1,verified,Linear Regression Assumptions,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Multiple Linear Regression Model,Multiple Linear Regression Model,1,verified,Multiple Linear Regression Model,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Coefficient of Determination,Coefficient of Determination,1,verified,Coefficient of Determination,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Residual Plots Interpretation,Residual Plots Interpretation,1,verified,Residual Plots Interpretation,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Heteroscedasticity Issues Detection,Heteroscedasticity Issues Detection,1,verified,Heteroscedasticity Issues Detection,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Logistic Regression,Logistic regression,2,verified,Logistic Regression,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Binomial Distribution,Binomial Distribution,1,verified,Binomial Distribution,CJUS_6103_concepts_raw.json
+CJUS_6103,concept,Maximum Likelihood Estimation,Maximum Likelihood Estimation,1,verified,Maximum Likelihood Estimation,CJUS_6103_concepts_raw.json
+CJUS_6103,tool,R software,R software,2,verified,R software,CJUS_6103_concepts_raw.json

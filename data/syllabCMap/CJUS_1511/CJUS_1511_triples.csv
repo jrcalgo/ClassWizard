@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_1511,Criminal Justice System,concept,PREREQUISITE_OF,Components of CJ System,concept,same unit,,CJUS_1511_triples_raw.json
+CJUS_1511,Criminal Justice System,concept,PREREQUISITE_OF,Police Function,concept,same unit,,CJUS_1511_triples_raw.json
+CJUS_1511,Criminal Justice System,concept,PREREQUISITE_OF,Prosecutorial Process,concept,same unit,,CJUS_1511_triples_raw.json
+CJUS_1511,Criminal Justice System,concept,PREREQUISITE_OF,Judiciary Branch,concept,same unit,,CJUS_1511_triples_raw.json
+CJUS_1511,Criminal Justice System,concept,PREREQUISITE_OF,Corrections Field,concept,same unit,,CJUS_1511_triples_raw.json
+CJUS_1511,Police Function,concept,PART_OF,Criminal Justice System,concept,,,CJUS_1511_triples_raw.json
+CJUS_1511,Prosecutorial Process,concept,PART_OF,Criminal Justice System,concept,,,CJUS_1511_triples_raw.json
+CJUS_1511,Judiciary Branch,concept,PART_OF,Criminal Justice System,concept,,,CJUS_1511_triples_raw.json
+CJUS_1511,Policing Purpose,concept,PART_OF,Criminal Justice System,concept,,,CJUS_1511_triples_raw.json
+CJUS_1511,Pretrial Activities,concept,PART_OF,Criminal Justice System,concept,,,CJUS_1511_triples_raw.json
+CJUS_1511,Plea Bargaining Practices,concept,PART_OF,Criminal Trial Process,topic,,,CJUS_1511_triples_raw.json
+CJUS_1511,Measurement Issues,measure,USED_FOR,Crime Measurement,measure,,,CJUS_1511_triples_raw.json
+CJUS_1511,Measurement Issues,measure,USED_FOR,Interagency Relationships,measure,,,CJUS_1511_triples_raw.json

@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ACCT_2121,topic,Financial Accounting,Financial Accounting,13,verified,Financial Accounting,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Financial Accounting Principles,Financial Accounting Principles,11,verified,Financial Accounting Principles,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Journal Entries,journal entries,43,verified,Journal Entries,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,T-Accounts,T-accounts,43,verified,T-Accounts,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Basic Financial Statements,basic financial statements,13,verified,Basic Financial Statements,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Analyzing Financial Data,Analyzing Financial Data,16,verified,Analyzing Financial Data,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Accounting Equations,Accounting Equations,1,verified,Accounting Equations,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Asset Accounts,Asset Accounts,10,verified,Asset Accounts,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Liability Accounts,Liability Accounts,10,verified,Liability Accounts,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Equity Accounts,Equity Accounts,10,verified,Equity Accounts,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Revenue Recognition,Revenue Recognition,16,verified,Revenue Recognition,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Expense Recognition,Expense Recognition,8,verified,Expense Recognition,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Financial Statement Analysis,Financial Statement Analysis,29,verified,Financial Statement Analysis,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Asset Classification,Asset Classification,17,verified,Asset Classification,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Liability Recognition,Liability Recognition,17,verified,Liability Recognition,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Equity Calculation,Equity Calculation,8,verified,Equity Calculation,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Accrual Accounting Method,Accrual Accounting Method,6,verified,Accrual Accounting Method,ACCT_2121_concepts_raw.json
+ACCT_2121,concept,Matching Concept,Matching Concept,7,verified,Matching Concept,ACCT_2121_concepts_raw.json

@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_2101,topic,kinematics and dynamics of particles,kinematics and dynamics of particles,2,verified,kinematics and dynamics of particles,PHYS_2101_concepts_raw.json
+PHYS_2101,topic,momentum,momentum,7,verified,momentum,PHYS_2101_concepts_raw.json
+PHYS_2101,topic,work,work,4,verified,work,PHYS_2101_concepts_raw.json
+PHYS_2101,topic,energy,energy,7,verified,energy,PHYS_2101_concepts_raw.json
+PHYS_2101,topic,conservation laws,conservation laws,2,verified,conservation laws,PHYS_2101_concepts_raw.json
+PHYS_2101,topic,simple harmonic motion,simple harmonic motion,2,verified,simple harmonic motion,PHYS_2101_concepts_raw.json
+PHYS_2101,topic,mechanics of rigid bodies,mechanics of rigid bodies,2,verified,mechanics of rigid bodies,PHYS_2101_concepts_raw.json
+PHYS_2101,concept,velocity and acceleration,velocity and acceleration,1,verified,velocity and acceleration,PHYS_2101_concepts_raw.json
+PHYS_2101,concept,scalar and vector quantities,scalar and vector quantities,1,verified,scalar and vector quantities,PHYS_2101_concepts_raw.json
+PHYS_2101,concept,force,force,5,verified,force,PHYS_2101_concepts_raw.json
+PHYS_2101,concept,kinetic energy,kinetic energy,1,verified,kinetic energy,PHYS_2101_concepts_raw.json
+PHYS_2101,concept,potential energy,potential energy,1,verified,potential energy,PHYS_2101_concepts_raw.json

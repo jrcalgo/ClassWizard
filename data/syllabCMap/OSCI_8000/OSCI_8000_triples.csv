@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OSCI_8000,Developing a Research Question,topic,PREREQUISITE_OF,Theoretical Model Development,topic,A taught first,,OSCI_8000_triples_raw.json
+OSCI_8000,current research on topic of interest,concept,PREREQUISITE_OF,Developing a Research Question,topic,A taught first,,OSCI_8000_triples_raw.json
+OSCI_8000,theory building and application,concept,PREREQUISITE_OF,Theoretical Model Development,topic,same unit,,OSCI_8000_triples_raw.json
+OSCI_8000,Critiquing and Applying Organizational Theory,topic,PART_OF,Organizational Science,topic,,,OSCI_8000_triples_raw.json
+OSCI_8000,Literature Review and Analysis,topic,PART_OF,Organizational Science,topic,,,OSCI_8000_triples_raw.json
+OSCI_8000,Developing a Research Question,topic,PART_OF,Organizational Science,topic,,,OSCI_8000_triples_raw.json
+OSCI_8000,Theoretical Model Development,topic,PART_OF,Organizational Science,topic,,,OSCI_8000_triples_raw.json
+OSCI_8000,Developing a Theoretical Contribution,topic,PART_OF,Organizational Science,topic,,,OSCI_8000_triples_raw.json
+OSCI_8000,Preparing for Assessments and Presentations,topic,PART_OF,Organizational Science,topic,,,OSCI_8000_triples_raw.json
+OSCI_8000,applying theories to real-world contexts,concept,USED_FOR,Critiquing and Applying Organizational Theory,topic,,,OSCI_8000_triples_raw.json

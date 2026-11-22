@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_3160,topic,Stellar Astrophysics,Stellar Astrophysics,2,verified,Stellar Astrophysics,PHYS_3160_concepts_raw.json
+PHYS_3160,topic,Stellar Structure and Life Cycles,stellar structure and life cycles,1,verified,Stellar Structure and Life Cycles,PHYS_3160_concepts_raw.json
+PHYS_3160,topic,Observational Techniques,observational techniques,2,verified,Observational Techniques,PHYS_3160_concepts_raw.json
+PHYS_3160,topic,Interaction of Light and Matter,interaction of light and matter,2,verified,Interaction of Light and Matter,PHYS_3160_concepts_raw.json
+PHYS_3160,topic,Spectral Classification,spectral classification,2,verified,Spectral Classification,PHYS_3160_concepts_raw.json
+PHYS_3160,topic,Stellar Structure and Energy Transport,stellar structure and energy transport,2,verified,Stellar Structure and Energy Transport,PHYS_3160_concepts_raw.json
+PHYS_3160,topic,Nuclear Energy Sources,nuclear energy sources,2,verified,Nuclear Energy Sources,PHYS_3160_concepts_raw.json
+PHYS_3160,topic,Aging Off the Main Sequence,aging off the main sequence,2,verified,Aging Off the Main Sequence,PHYS_3160_concepts_raw.json
+PHYS_3160,topic,Variable Stars,variable stars,2,verified,Variable Stars,PHYS_3160_concepts_raw.json
+PHYS_3160,topic,Stellar Remnants,stellar remnants,2,verified,Stellar Remnants,PHYS_3160_concepts_raw.json
+PHYS_3160,concept,thermodynamics,thermodynamics,1,verified,thermodynamics,PHYS_3160_concepts_raw.json
+PHYS_3160,concept,quantum mechanics,quantum mechanics,1,verified,quantum mechanics,PHYS_3160_concepts_raw.json
+PHYS_3160,concept,electromagnetism,electromagnetism,1,verified,electromagnetism,PHYS_3160_concepts_raw.json
+PHYS_3160,concept,stellar spectra,stellar spectra,1,verified,stellar spectra,PHYS_3160_concepts_raw.json
+PHYS_3160,concept,chemical compositions,chemical compositions,1,verified,chemical compositions,PHYS_3160_concepts_raw.json
+PHYS_3160,concept,temperatures,temperatures,1,verified,temperatures,PHYS_3160_concepts_raw.json
+PHYS_3160,concept,motions of stars,motions of stars,1,verified,motions of stars,PHYS_3160_concepts_raw.json
+PHYS_3160,concept,nucleosynthetic pathways,nucleosynthetic pathways,1,verified,nucleosynthetic pathways,PHYS_3160_concepts_raw.json
+PHYS_3160,concept,stellar lifespans,stellar lifespans,1,verified,stellar lifespans,PHYS_3160_concepts_raw.json

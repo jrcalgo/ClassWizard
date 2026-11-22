@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4121,Babinet's principle,concept,USED_FOR,aperture analysis techniques,concept,,,ECGR_4121_triples_raw.json
+ECGR_4121,Babinet's principle,concept,USED_FOR,rectangular aperture radiation,concept,,,ECGR_4121_triples_raw.json
+ECGR_4121,Fourier-transform methods,concept,USED_FOR,aperture analysis techniques,concept,,,ECGR_4121_triples_raw.json
+ECGR_4121,Friis transmission equation,concept,USED_FOR,Parameters and FoM of Antennas,topic,,,ECGR_4121_triples_raw.json
+ECGR_4121,Huygens' principle,concept,USED_FOR,aperture analysis techniques,concept,,,ECGR_4121_triples_raw.json

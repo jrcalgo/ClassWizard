@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3231,STL file generation,topic,USED_FOR,Additive Manufacturing,topic,,topic used for something - check direction,MEGR_3231_triples_raw.json
+MEGR_3231,STL file generation,topic,USED_FOR,Reverse Engineering,topic,,topic used for something - check direction,MEGR_3231_triples_raw.json
+MEGR_3231,VRML file generation,topic,USED_FOR,Additive Manufacturing,topic,,topic used for something - check direction,MEGR_3231_triples_raw.json

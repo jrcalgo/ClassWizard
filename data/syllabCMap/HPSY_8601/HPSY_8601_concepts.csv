@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HPSY_8601,topic,cognitive psychology,cognitive psychology,1,verified,cognitive psychology,HPSY_8601_concepts_raw.json
+HPSY_8601,topic,affective sciences,affective sciences,1,verified,affective sciences,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,emotion regulation theories,Emotion Regulation Theories,2,inferred,emotion regulation theories,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,classical conditioning basics,Classical Conditioning Basics,1,inferred,classical conditioning basics,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,operant conditioning principles,Operant Conditioning Principles,1,inferred,operant conditioning principles,HPSY_8601_concepts_raw.json
+HPSY_8601,topic,cognitive processes overview,Cognitive Processes Overview,1,inferred,cognitive processes overview,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,appraisal theory of emotions,Appraisal Theory of Emotions,1,inferred,appraisal theory of emotions,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,biological response to stress,Biological Response to Stress,1,inferred,biological response to stress,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,emotional intelligence concept,Emotional Intelligence Concept,1,inferred,emotional intelligence concept,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,neurobiological basis of emotion,Neurobiological Basis of Emotion,1,inferred,neurobiological basis of emotion,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,emotion and motivation link,Emotion and Motivation Link,1,inferred,emotion and motivation link,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,personality traits and emotions,Personality Traits and Emotions,1,inferred,personality traits and emotions,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,freudian psychoanalytic theory,Freudian Psychoanalytic Theory,1,inferred,freudian psychoanalytic theory,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,behavioral theories overview,Behavioral Theories Overview,1,inferred,behavioral theories overview,HPSY_8601_concepts_raw.json
+HPSY_8601,concept,cognitive-behavioral model,Cognitive-Behavioral Model,1,inferred,cognitive-behavioral model,HPSY_8601_concepts_raw.json

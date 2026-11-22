@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_5100,Strength Training Program Design,concept,PREREQUISITE_OF,Conditioning Program Development,concept,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Goal Setting Strategies,concept,PREREQUISITE_OF,Strength Training Program Design,concept,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Space Allocation Planning,concept,PREREQUISITE_OF,Facility Design and Layout,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Equipment Selection Criteria,concept,PREREQUISITE_OF,Facility Design and Layout,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Safety Features Installation,concept,PREREQUISITE_OF,Facility Design and Layout,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Conditioning Specialist Duties,concept,PREREQUISITE_OF,Staff Roles and Responsibilities,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Liability Exposure Identification,concept,PREREQUISITE_OF,Risk Management Strategies,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Emergency Response Planning,concept,PREREQUISITE_OF,Safety and Injury Prevention,topic,A taught first,,KNES_5100_triples_raw.json
+KNES_5100,Program Policy Development,concept,PREREQUISITE_OF,Policies and Procedures Manual,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Procedure Writing Guidelines,concept,PREREQUISITE_OF,Policies and Procedures Manual,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Manual Implementation Strategies,concept,PREREQUISITE_OF,Policies and Procedures Manual,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Incident Investigation Procedures,concept,PREREQUISITE_OF,Safety and Injury Prevention,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Code of Conduct Enforcement,concept,PREREQUISITE_OF,Ethics and Legal Issues,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Confidentiality and Privacy Laws,concept,PREREQUISITE_OF,Ethics and Legal Issues,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Compliance with Regulations,concept,PREREQUISITE_OF,Ethics and Legal Issues,topic,same unit,,KNES_5100_triples_raw.json
+KNES_5100,Goal Setting Strategies,concept,PART_OF,Organization and Administration of Strength and Conditioning,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Space Allocation Planning,concept,PART_OF,Facility Design and Layout,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Equipment Selection Criteria,concept,PART_OF,Facility Design and Layout,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Safety Features Installation,concept,PART_OF,Facility Design and Layout,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Strength Coach Job Description,concept,PART_OF,Staff Roles and Responsibilities,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Support Staff Functions,concept,PART_OF,Staff Roles and Responsibilities,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Liability Exposure Identification,concept,PART_OF,Risk Management Strategies,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Injury Prevention Protocols,concept,PART_OF,Safety and Injury Prevention,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Emergency Response Planning,concept,PART_OF,Safety and Injury Prevention,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Program Policy Development,concept,PART_OF,Policies and Procedures Manual,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Procedure Writing Guidelines,concept,PART_OF,Policies and Procedures Manual,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Incident Investigation Procedures,concept,PART_OF,Safety and Injury Prevention,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Code of Conduct Enforcement,concept,PART_OF,Ethics and Legal Issues,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Confidentiality and Privacy Laws,concept,PART_OF,Ethics and Legal Issues,topic,,,KNES_5100_triples_raw.json
+KNES_5100,Compliance with Regulations,concept,PART_OF,Ethics and Legal Issues,topic,,,KNES_5100_triples_raw.json

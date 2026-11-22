@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_4154,Bayesian Analysis,topic,USED_FOR,Human Decision,topic,,topic used for something - check direction,SEGR_4154_triples_raw.json

@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_7141,School Counseling,topic,PREREQUISITE_OF,ASCA National Model,topic,same unit,,CSLG_7141_triples_raw.json
+CSLG_7141,ASCA National Model,topic,PREREQUISITE_OF,Advocacy,topic,A taught first,,CSLG_7141_triples_raw.json
+CSLG_7141,Classroom Guidance,topic,PREREQUISITE_OF,Group Counseling,topic,same unit,,CSLG_7141_triples_raw.json
+CSLG_7141,Group Counseling,topic,PREREQUISITE_OF,Consultation,topic,A taught first,,CSLG_7141_triples_raw.json
+CSLG_7141,Program Design,topic,PREREQUISITE_OF,Leadership,topic,A taught first,,CSLG_7141_triples_raw.json
+CSLG_7141,Classroom Guidance,topic,PART_OF,School Counseling,topic,,,CSLG_7141_triples_raw.json
+CSLG_7141,Group Counseling,topic,PART_OF,School Counseling,topic,,,CSLG_7141_triples_raw.json
+CSLG_7141,Consultation,topic,PART_OF,School Counseling,topic,,,CSLG_7141_triples_raw.json
+CSLG_7141,Program Design,topic,PART_OF,School Counseling,topic,,,CSLG_7141_triples_raw.json
+CSLG_7141,Leadership,topic,PART_OF,School Counseling,topic,,,CSLG_7141_triples_raw.json
+CSLG_7141,ASCA National Model,topic,USED_FOR,School Counseling,topic,,topic used for something - check direction,CSLG_7141_triples_raw.json
+CSLG_7141,Advocacy,topic,USED_FOR,ASCA National Model,topic,,topic used for something - check direction,CSLG_7141_triples_raw.json
+CSLG_7141,Classroom Guidance,topic,USED_FOR,Group Counseling,topic,,topic used for something - check direction,CSLG_7141_triples_raw.json
+CSLG_7141,Group Counseling,topic,USED_FOR,Consultation,topic,,topic used for something - check direction,CSLG_7141_triples_raw.json
+CSLG_7141,Program Design,topic,USED_FOR,Leadership,topic,,topic used for something - check direction,CSLG_7141_triples_raw.json

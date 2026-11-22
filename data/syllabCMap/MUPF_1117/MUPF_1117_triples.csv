@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1117,harmony and chord progressions,concept,PREREQUISITE_OF,timbre and texture analysis,concept,same unit,,MUPF_1117_triples_raw.json
+MUPF_1117,structural elements of music,concept,PREREQUISITE_OF,quality literature for beginners,concept,A taught first,,MUPF_1117_triples_raw.json
+MUPF_1117,secondary instrument options,concept,PART_OF,Instrumental Lab Ensemble,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,conducting techniques and gestures,concept,PART_OF,Conducting Fundamentals,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,rehearsal planning strategies,concept,PART_OF,Conducting Fundamentals,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,music notation systems,concept,PART_OF,Music Notation Basics,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,rhythm and meter,concept,PART_OF,Music Notation Basics,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,melodic contour and shape,concept,PART_OF,Music Notation Basics,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,harmony and chord progressions,concept,PART_OF,Elementary Music Theory,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,timbre and texture analysis,concept,PART_OF,Elementary Music Theory,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,structural elements of music,concept,PART_OF,Elementary Music Theory,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,quality literature for beginners,concept,PART_OF,Literature Selection,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,band and orchestra repertoire,concept,PART_OF,Literature Selection,topic,,,MUPF_1117_triples_raw.json
+MUPF_1117,musical judgments and decisions,concept,PART_OF,Performance Techniques,topic,,,MUPF_1117_triples_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3103,History of Children's Literature,topic,PREREQUISITE_OF,Censorship of Controversial Children's Books,topic,A mentioned first,,ENGL_3103_triples_raw.json
+ENGL_3103,close reading,method,PREREQUISITE_OF,textual evidence,method,same unit,,ENGL_3103_triples_raw.json
+ENGL_3103,History of Children's Literature,topic,PART_OF,Children's Literature,topic,,,ENGL_3103_triples_raw.json
+ENGL_3103,Censorship of Controversial Children's Books,topic,PART_OF,Children's Literature,topic,,,ENGL_3103_triples_raw.json
+ENGL_3103,close reading,method,USED_FOR,Censorship of Controversial Children's Books,topic,,,ENGL_3103_triples_raw.json
+ENGL_3103,close reading,method,USED_FOR,History of Children's Literature,topic,,,ENGL_3103_triples_raw.json
+ENGL_3103,textual evidence,method,USED_FOR,Censorship of Controversial Children's Books,topic,,,ENGL_3103_triples_raw.json

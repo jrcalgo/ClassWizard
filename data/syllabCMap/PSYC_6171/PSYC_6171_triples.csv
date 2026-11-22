@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_6171,I/O Psychology,topic,PREREQUISITE_OF,Research Methods in I/O,topic,A taught first,,PSYC_6171_triples_raw.json
+PSYC_6171,Industrial and Organizational Psychology,topic,PREREQUISITE_OF,Training and Development,topic,B mentioned first,,PSYC_6171_triples_raw.json
+PSYC_6171,Industrial and Organizational Psychology,topic,PREREQUISITE_OF,Work Motivation and Job Satisfaction,topic,B mentioned first,,PSYC_6171_triples_raw.json
+PSYC_6171,Industrial and Organizational Psychology,topic,PREREQUISITE_OF,Leadership and Management,topic,B mentioned first,,PSYC_6171_triples_raw.json
+PSYC_6171,Industrial and Organizational Psychology,topic,PREREQUISITE_OF,Workplace Diversity and Inclusion,topic,B mentioned first,,PSYC_6171_triples_raw.json
+PSYC_6171,Industrial and Organizational Psychology,topic,PREREQUISITE_OF,Employee Well-being and Health,topic,B mentioned first,,PSYC_6171_triples_raw.json
+PSYC_6171,Industrial and Organizational Psychology,topic,PREREQUISITE_OF,Organizational Change and Development,topic,B mentioned first,,PSYC_6171_triples_raw.json
+PSYC_6171,Experimental Design Principles,concept,USED_FOR,Research Methods in I/O,topic,,,PSYC_6171_triples_raw.json
+PSYC_6171,Survey Research Techniques,concept,USED_FOR,Research Methods in I/O,topic,,,PSYC_6171_triples_raw.json
+PSYC_6171,Data Analysis Methods,concept,USED_FOR,Research Methods in I/O,topic,,,PSYC_6171_triples_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5221,penetration testing,method,USED_FOR,vulnerability identification,concept,,,ITIS_5221_triples_raw.json
+ITIS_5221,security logging,method,USED_FOR,Security Logging and Monitoring,topic,,,ITIS_5221_triples_raw.json

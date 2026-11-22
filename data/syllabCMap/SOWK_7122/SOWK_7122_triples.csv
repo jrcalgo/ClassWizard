@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_7122,Social Work Values,topic,PREREQUISITE_OF,Engaging Individuals,topic,A taught first,,SOWK_7122_triples_raw.json
+SOWK_7122,Social Work Values,topic,PART_OF,Advanced Social Work Practice with Individuals,topic,,,SOWK_7122_triples_raw.json
+SOWK_7122,Culturally-Informed Practice,topic,PART_OF,Advanced Social Work Practice with Individuals,topic,,,SOWK_7122_triples_raw.json
+SOWK_7122,Engaging Individuals,topic,PART_OF,Advanced Social Work Practice with Individuals,topic,,,SOWK_7122_triples_raw.json
+SOWK_7122,Assessment with Individuals,topic,PART_OF,Advanced Social Work Practice with Individuals,topic,,,SOWK_7122_triples_raw.json
+SOWK_7122,Intervening with Individuals,topic,PART_OF,Advanced Social Work Practice with Individuals,topic,,,SOWK_7122_triples_raw.json
+SOWK_7122,Culturally-Informed Practice,topic,USED_FOR,ADEI principles application,concept,,topic used for something - check direction,SOWK_7122_triples_raw.json
+SOWK_7122,client-centered approach,concept,USED_FOR,Engaging Individuals,topic,,,SOWK_7122_triples_raw.json
+SOWK_7122,risk and needs assessment,concept,USED_FOR,Assessment with Individuals,topic,,,SOWK_7122_triples_raw.json
+SOWK_7122,evidence-informed treatment models,concept,USED_FOR,Intervening with Individuals,topic,,,SOWK_7122_triples_raw.json
+SOWK_7122,crisis intervention techniques,concept,USED_FOR,Intervening with Individuals,topic,,,SOWK_7122_triples_raw.json

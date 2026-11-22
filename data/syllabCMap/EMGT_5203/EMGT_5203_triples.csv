@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_5203,Engineering Economics,topic,PREREQUISITE_OF,Engineering Management,topic,B taught first,B is taught before A - check,EMGT_5203_triples_raw.json
+EMGT_5203,cooperative game theory,concept,SUBTYPE_OF,Game Theory,topic,,,EMGT_5203_triples_raw.json
+EMGT_5203,non-cooperative game theory,concept,SUBTYPE_OF,Game Theory,topic,,,EMGT_5203_triples_raw.json
+EMGT_5203,Bayes' theorem application,concept,USED_FOR,Decision and Bayesian Analysis,topic,,,EMGT_5203_triples_raw.json
+EMGT_5203,probability distributions overview,concept,USED_FOR,Decision and Bayesian Analysis,topic,,,EMGT_5203_triples_raw.json

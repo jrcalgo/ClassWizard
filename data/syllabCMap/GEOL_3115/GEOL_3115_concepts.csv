@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOL_3115,topic,Mineralogy,Mineralogy,2,verified,Mineralogy,GEOL_3115_concepts_raw.json
+GEOL_3115,topic,Physical Properties of Minerals,Physical Properties of Minerals,1,inferred,Physical Properties of Minerals,GEOL_3115_concepts_raw.json
+GEOL_3115,topic,Optical Properties of Minerals,Optical Properties of Minerals,1,inferred,Optical Properties of Minerals,GEOL_3115_concepts_raw.json
+GEOL_3115,topic,Rock-Forming Minerals,Rock-Forming Minerals,1,inferred,Rock-Forming Minerals,GEOL_3115_concepts_raw.json
+GEOL_3115,topic,Economic Minerals and Deposits,Economic Minerals and Deposits,1,inferred,Economic Minerals and Deposits,GEOL_3115_concepts_raw.json
+GEOL_3115,topic,Mineral Identification Techniques,Mineral Identification Techniques,1,inferred,Mineral Identification Techniques,GEOL_3115_concepts_raw.json
+GEOL_3115,topic,Lab Safety and Procedures,Lab Safety and Procedures,1,inferred,Lab Safety and Procedures,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,mineral definition and classification,Mineral definition and classification,1,inferred,mineral definition and classification,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,importance of mineralogy in geology,Importance of mineralogy in geology,1,inferred,importance of mineralogy in geology,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,history of mineralogy development,History of mineralogy development,1,inferred,history of mineralogy development,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,hardness and Mohs scale,Hardness and Mohs scale,1,inferred,hardness and Mohs scale,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,streak and luster characteristics,Streak and luster characteristics,1,inferred,streak and luster characteristics,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,cleavage and fracture types,Cleavage and fracture types,1,inferred,cleavage and fracture types,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,birefringence and refractive indices,Birefringence and refractive indices,1,inferred,birefringence and refractive indices,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,pleochroism and dispersion effects,Pleochroism and dispersion effects,1,inferred,pleochroism and dispersion effects,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,crystal forms and symmetry,Crystal forms and symmetry,1,inferred,crystal forms and symmetry,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,common minerals in igneous rocks,Common minerals in igneous rocks,1,inferred,common minerals in igneous rocks,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,minerals in sedimentary rocks,Minerals in sedimentary rocks,1,inferred,minerals in sedimentary rocks,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,metamorphic rock mineral assemblages,Metamorphic rock mineral assemblages,1,inferred,metamorphic rock mineral assemblages,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,industrial minerals and their uses,Industrial minerals and their uses,1,inferred,industrial minerals and their uses,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,metallic ore deposits and formation,Metallic ore deposits and formation,1,inferred,metallic ore deposits and formation,GEOL_3115_concepts_raw.json
+GEOL_3115,concept,energy-related mineral resources,Energy-related mineral resources,1,inferred,energy-related mineral resources,GEOL_3115_concepts_raw.json
+GEOL_3115,method,microscopic examination methods,Microscopic examination methods,1,inferred,microscopic examination methods,GEOL_3115_concepts_raw.json
+GEOL_3115,method,polarized light microscopy techniques,Polarized light microscopy techniques,1,inferred,polarized light microscopy techniques,GEOL_3115_concepts_raw.json
+GEOL_3115,method,chemical tests for mineral identification,Chemical tests for mineral identification,1,inferred,chemical tests for mineral identification,GEOL_3115_concepts_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETFS_3123,Industrial Hazards,topic,PART_OF,Electrical Hazards,topic,,,ETFS_3123_triples_raw.json
+ETFS_3123,Electricity,topic,PART_OF,Industrial Hazards,topic,,,ETFS_3123_triples_raw.json
+ETFS_3123,Radiation Sources,topic,PART_OF,Industrial Hazards,topic,,,ETFS_3123_triples_raw.json
+ETFS_3123,Rotating Machinery Safety,topic,PART_OF,Industrial Hazards,topic,,,ETFS_3123_triples_raw.json
+ETFS_3123,Boilers and Ovens Safety,topic,PART_OF,Industrial Hazards,topic,,,ETFS_3123_triples_raw.json
+ETFS_3123,OSHA Compliance Issues,topic,PART_OF,Industrial Hazards,topic,,,ETFS_3123_triples_raw.json
+ETFS_3123,Safety Procedures and Equipment,topic,PART_OF,Industrial Hazards,topic,,,ETFS_3123_triples_raw.json

@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_5303,topic,Structural Principles,Structural Principles,2,verified,Structural Principles,ARCH_5303_concepts_raw.json
+ARCH_5303,topic,Structural Systems,structural systems,1,verified,Introduction to Structural Systems,ARCH_5303_concepts_raw.json
+ARCH_5303,concept,interrelationship between strain,interrelationship between strain,2,verified,interrelationship between strain,ARCH_5303_concepts_raw.json
+ARCH_5303,concept,stress,stress,2,verified,stress,ARCH_5303_concepts_raw.json
+ARCH_5303,concept,stability,stability,3,verified,stability,ARCH_5303_concepts_raw.json
+ARCH_5303,concept,implications of tension,implications of tension,2,verified,implications of tension,ARCH_5303_concepts_raw.json
+ARCH_5303,concept,compression,compression,2,verified,compression,ARCH_5303_concepts_raw.json
+ARCH_5303,concept,shear,shear,2,verified,shear,ARCH_5303_concepts_raw.json
+ARCH_5303,concept,torsion,torsion,2,verified,torsion,ARCH_5303_concepts_raw.json
+ARCH_5303,concept,bending,bending,2,verified,bending,ARCH_5303_concepts_raw.json

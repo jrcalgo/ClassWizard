@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPER_3201,Forecasting,topic,PREREQUISITE_OF,materials requirement planning,method,A taught first,,OPER_3201_triples_raw.json
+OPER_3201,Forecasting,topic,PREREQUISITE_OF,Capacity Planning,topic,A taught first,,OPER_3201_triples_raw.json
+OPER_3201,Forecasting,topic,PREREQUISITE_OF,production activity control,method,A taught first,,OPER_3201_triples_raw.json
+OPER_3201,Forecasting,topic,PREREQUISITE_OF,master production scheduling,method,A taught first,,OPER_3201_triples_raw.json
+OPER_3201,Independent Demand Inventory Management,topic,PREREQUISITE_OF,production activity control,method,A taught first,,OPER_3201_triples_raw.json
+OPER_3201,materials requirement planning,method,PREREQUISITE_OF,production activity control,method,A taught first,,OPER_3201_triples_raw.json
+OPER_3201,materials requirement planning,method,PREREQUISITE_OF,master production scheduling,method,A taught first,,OPER_3201_triples_raw.json
+OPER_3201,Capacity Planning,topic,PREREQUISITE_OF,production activity control,method,A taught first,,OPER_3201_triples_raw.json
+OPER_3201,Capacity Planning,topic,PREREQUISITE_OF,master production scheduling,method,A taught first,,OPER_3201_triples_raw.json
+OPER_3201,Forecasting,topic,PART_OF,Production Planning,topic,,,OPER_3201_triples_raw.json
+OPER_3201,Independent Demand Inventory Management,topic,PART_OF,Production Planning,topic,,,OPER_3201_triples_raw.json
+OPER_3201,materials requirement planning,method,PART_OF,Production Planning,topic,,,OPER_3201_triples_raw.json
+OPER_3201,Capacity Planning,topic,PART_OF,Production Planning,topic,,,OPER_3201_triples_raw.json
+OPER_3201,production activity control,method,PART_OF,Production Planning,topic,,,OPER_3201_triples_raw.json
+OPER_3201,master production scheduling,method,PART_OF,Production Planning,topic,,,OPER_3201_triples_raw.json
+OPER_3201,materials requirement planning,method,USED_FOR,Production Planning,topic,,,OPER_3201_triples_raw.json
+OPER_3201,Capacity Planning,topic,USED_FOR,Production Planning,topic,,topic used for something - check direction,OPER_3201_triples_raw.json
+OPER_3201,production activity control,method,USED_FOR,Production Planning,topic,,,OPER_3201_triples_raw.json
+OPER_3201,master production scheduling,method,USED_FOR,Production Planning,topic,,,OPER_3201_triples_raw.json

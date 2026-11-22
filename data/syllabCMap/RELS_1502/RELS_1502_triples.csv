@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RELS_1502,World Religions,topic,PREREQUISITE_OF,Eastern Religions,topic,A taught first,,RELS_1502_triples_raw.json
+RELS_1502,World Religions,topic,PREREQUISITE_OF,Western Religions,topic,A taught first,,RELS_1502_triples_raw.json
+RELS_1502,World Religions,topic,PREREQUISITE_OF,Religion and Media,topic,A taught first,,RELS_1502_triples_raw.json
+RELS_1502,World Religions,topic,PREREQUISITE_OF,Analyzing Media Sources,topic,A taught first,,RELS_1502_triples_raw.json
+RELS_1502,Eastern Religions,topic,PREREQUISITE_OF,Buddhism Core Beliefs,concept,same unit,,RELS_1502_triples_raw.json
+RELS_1502,Eastern Religions,topic,PREREQUISITE_OF,Taoist Philosophy Overview,concept,same unit,,RELS_1502_triples_raw.json
+RELS_1502,Major World Religions Overview,concept,PART_OF,World Religions,topic,,,RELS_1502_triples_raw.json
+RELS_1502,Religious Diversity and Pluralism,concept,PART_OF,World Religions,topic,,,RELS_1502_triples_raw.json
+RELS_1502,Importance of Interfaith Dialogue,concept,PART_OF,World Religions,topic,,,RELS_1502_triples_raw.json
+RELS_1502,Taoist Philosophy Overview,concept,PART_OF,Eastern Religions,topic,,,RELS_1502_triples_raw.json
+RELS_1502,Media Representation of Religion,concept,PART_OF,Religion and Media,topic,,,RELS_1502_triples_raw.json
+RELS_1502,Stereotypes in Religious Portrayal,concept,PART_OF,Religion and Media,topic,,,RELS_1502_triples_raw.json
+RELS_1502,Cultural Sensitivity in Reporting,concept,PART_OF,Religion and Media,topic,,,RELS_1502_triples_raw.json
+RELS_1502,Evaluating Source Credibility,concept,PART_OF,Analyzing Media Sources,topic,,,RELS_1502_triples_raw.json

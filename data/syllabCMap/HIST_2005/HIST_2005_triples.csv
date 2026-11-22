@@ -1,0 +1,43 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_2005,Trade Networks,concept,PART_OF,Global Trade Networks,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Cultural Exchange,concept,PART_OF,World History,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Economic Interdependence,concept,PART_OF,Global Commodities Trade,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Global Commodities,concept,PART_OF,Global Commodities Trade,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonial Expansion,concept,PART_OF,European Imperialism,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Social Hierarchy,concept,PART_OF,American Colonial Society,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Social contract theory,concept,PART_OF,Enlightenment Ideas,concept,,,HIST_2005_triples_raw.json
+HIST_2005,American Colonial Society,concept,PART_OF,Colonial America,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonial Economy,concept,PART_OF,Colonial Economic Systems,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Transatlantic Trade,concept,PART_OF,Global Trade Networks,concept,,,HIST_2005_triples_raw.json
+HIST_2005,European Imperialism,concept,PART_OF,Imperialist Powers,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonialism Impact,concept,PART_OF,Colonialism and Imperialism,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Diverse Colonial Societies,concept,PART_OF,American Regional Cultures,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonial Social Hierarchy,concept,PART_OF,Settler Society,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonial Economy Systems,concept,PART_OF,Colonial Economic Systems,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Settler Society,concept,PART_OF,Native American Relations,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonial Politics,concept,PART_OF,British Imperial Policy,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Rights of Man,concept,PART_OF,Declaration of Rights,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Social Class Formation,concept,PART_OF,Material Culture,concept,,,HIST_2005_triples_raw.json
+HIST_2005,British Parliament,concept,PART_OF,Mercantilism Policy,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Industrialization Process,concept,PART_OF,Urbanization Effects,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Trade Networks,concept,USED_FOR,Global Commodities Trade,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Cultural Exchange,concept,USED_FOR,World History,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Economic Interdependence,concept,USED_FOR,Global Commodities Trade,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Global Commodities,concept,USED_FOR,Global Commodities Trade,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Social Hierarchy,concept,USED_FOR,American Colonial Society,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Industrial Revolution,concept,USED_FOR,Early Modern Globalization,concept,,,HIST_2005_triples_raw.json
+HIST_2005,American Colonial Society,concept,USED_FOR,Colonial America,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonial Economy,concept,USED_FOR,Colonial Economic Systems,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Transatlantic Trade,concept,USED_FOR,Global Trade Networks,concept,,,HIST_2005_triples_raw.json
+HIST_2005,European Imperialism,concept,USED_FOR,Imperialist Powers,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonialism Impact,concept,USED_FOR,Colonialism and Imperialism,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Diverse Colonial Societies,concept,USED_FOR,American Regional Cultures,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonial Social Hierarchy,concept,USED_FOR,Settler Society,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonial Economy Systems,concept,USED_FOR,Colonial Economic Systems,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Settler Society,concept,USED_FOR,Native American Relations,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Colonial Politics,concept,USED_FOR,British Imperial Policy,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Early Modern Globalization,concept,USED_FOR,Industrial Revolution,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Rights of Man,concept,USED_FOR,Declaration of Rights,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Social Class Formation,concept,USED_FOR,Material Culture,concept,,,HIST_2005_triples_raw.json
+HIST_2005,British Parliament,concept,USED_FOR,Mercantilism Policy,concept,,,HIST_2005_triples_raw.json
+HIST_2005,Industrialization Process,concept,USED_FOR,Urbanization Effects,concept,,,HIST_2005_triples_raw.json

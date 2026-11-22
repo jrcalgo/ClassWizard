@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_2120,topic,Functions of Several Variables,functions of several variables,1,verified,Functions of Several Variables,MATH_2120_concepts_raw.json
+MATH_2120,topic,Trigonometric Functions,trigonometric functions,1,verified,Trigonometric Functions,MATH_2120_concepts_raw.json
+MATH_2120,topic,Techniques of Integration,techniques of integration,1,verified,Techniques of Integration,MATH_2120_concepts_raw.json
+MATH_2120,topic,Differential Equations,differential equations,1,verified,Differential Equations,MATH_2120_concepts_raw.json
+MATH_2120,topic,Partial Derivatives,Partial Derivatives,3,inferred,Partial Derivatives,MATH_2120_concepts_raw.json
+MATH_2120,topic,Multiple Integrals,Multiple Integrals,1,inferred,Multiple Integrals,MATH_2120_concepts_raw.json
+MATH_2120,topic,Taylor Polynomials and Series,Taylor Polynomials and Series,1,inferred,Taylor Polynomials and Series,MATH_2120_concepts_raw.json
+MATH_2120,concept,multivariable functions definition,Multivariable functions definition,1,inferred,multivariable functions definition,MATH_2120_concepts_raw.json
+MATH_2120,concept,domain and range properties,Domain and range properties,1,inferred,domain and range properties,MATH_2120_concepts_raw.json
+MATH_2120,concept,graphing multivariable functions,Graphing multivariable functions,1,inferred,graphing multivariable functions,MATH_2120_concepts_raw.json
+MATH_2120,concept,partial derivative notation,Partial derivative notation,1,inferred,partial derivative notation,MATH_2120_concepts_raw.json
+MATH_2120,concept,computing partial derivatives,Computing partial derivatives,1,inferred,computing partial derivatives,MATH_2120_concepts_raw.json
+MATH_2120,concept,higher-order partial derivatives,Higher-order partial derivatives,1,inferred,higher-order partial derivatives,MATH_2120_concepts_raw.json
+MATH_2120,concept,iterated integrals definition,Iterated integrals definition,1,inferred,iterated integrals definition,MATH_2120_concepts_raw.json
+MATH_2120,concept,Fubini's theorem application,Fubini's theorem application,1,inferred,Fubini's theorem application,MATH_2120_concepts_raw.json
+MATH_2120,concept,trig functions review,Trig functions review,1,inferred,trig functions review,MATH_2120_concepts_raw.json
+MATH_2120,concept,graphing trig functions,Graphing trig functions,1,inferred,graphing trig functions,MATH_2120_concepts_raw.json
+MATH_2120,concept,identities and equations,Identities and equations,1,inferred,identities and equations,MATH_2120_concepts_raw.json
+MATH_2120,concept,integration by substitution,Integration by substitution,1,inferred,integration by substitution,MATH_2120_concepts_raw.json
+MATH_2120,concept,integration by parts formula,Integration by parts formula,1,inferred,integration by parts formula,MATH_2120_concepts_raw.json
+MATH_2120,concept,integration by partial fractions,Integration by partial fractions,1,inferred,integration by partial fractions,MATH_2120_concepts_raw.json
+MATH_2120,concept,separable differential equations,Separable differential equations,1,inferred,separable differential equations,MATH_2120_concepts_raw.json
+MATH_2120,concept,linear first-order DEs,Linear first-order DEs,1,inferred,linear first-order DEs,MATH_2120_concepts_raw.json
+MATH_2120,concept,Euler's method application,Euler's method application,1,inferred,Euler's method application,MATH_2120_concepts_raw.json
+MATH_2120,concept,Taylor polynomial definition,Taylor polynomial definition,1,inferred,Taylor polynomial definition,MATH_2120_concepts_raw.json
+MATH_2120,concept,Maclaurin series expansion,Maclaurin series expansion,1,inferred,Maclaurin series expansion,MATH_2120_concepts_raw.json
+MATH_2120,concept,convergence tests application,Convergence tests application,1,inferred,convergence tests application,MATH_2120_concepts_raw.json

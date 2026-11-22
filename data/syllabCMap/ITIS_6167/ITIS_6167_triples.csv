@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_6167,network security background and motivation,topic,PREREQUISITE_OF,network centric threats,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network security background and motivation,topic,PREREQUISITE_OF,network authentication and identification,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network security background and motivation,topic,PREREQUISITE_OF,network security protocols,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network security background and motivation,topic,PREREQUISITE_OF,security in wireless environments,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network security background and motivation,topic,PREREQUISITE_OF,email security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network security background and motivation,topic,PREREQUISITE_OF,instant message security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network security background and motivation,topic,PREREQUISITE_OF,network application security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network security background and motivation,topic,PREREQUISITE_OF,network-based storage security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network centric threats,topic,PREREQUISITE_OF,IDS,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network authentication and identification,topic,PREREQUISITE_OF,firewall,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network authentication and identification,topic,PREREQUISITE_OF,security in wireless environments,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network authentication and identification,topic,PREREQUISITE_OF,instant message security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network authentication and identification,topic,PREREQUISITE_OF,network-based storage security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,IDS,topic,PREREQUISITE_OF,firewall,topic,same unit,,ITIS_6167_triples_raw.json
+ITIS_6167,IDS,topic,PREREQUISITE_OF,security in wireless environments,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,IDS,topic,PREREQUISITE_OF,email security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,IDS,topic,PREREQUISITE_OF,instant message security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,IDS,topic,PREREQUISITE_OF,network application security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,IDS,topic,PREREQUISITE_OF,network-based storage security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,security in wireless environments,topic,PREREQUISITE_OF,email security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,security in wireless environments,topic,PREREQUISITE_OF,instant message security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,security in wireless environments,topic,PREREQUISITE_OF,network application security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,email security,topic,PREREQUISITE_OF,instant message security,topic,same unit,,ITIS_6167_triples_raw.json
+ITIS_6167,email security,topic,PREREQUISITE_OF,network application security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,email security,topic,PREREQUISITE_OF,network-based storage security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,instant message security,topic,PREREQUISITE_OF,network-based storage security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,network application security,topic,PREREQUISITE_OF,network-based storage security,topic,A taught first,,ITIS_6167_triples_raw.json
+ITIS_6167,TCP/IP vulnerabilities,concept,PART_OF,network security background and motivation,topic,,,ITIS_6167_triples_raw.json
+ITIS_6167,Basic network security mechanisms,concept,PART_OF,network security background and motivation,topic,,,ITIS_6167_triples_raw.json

@@ -1,0 +1,61 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Post-transcriptional gene regulation,concept,B taught first,B is taught before A - check,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Small interfering RNAs function,concept,B taught first,B is taught before A - check,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,RNA level control mechanisms,concept,B taught first,B is taught before A - check,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Gene expression control,concept,B taught first,B is taught before A - check,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Gene silencing techniques used,concept,B taught first,B is taught before A - check,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,MicroRNAs functionality,concept,B taught first,B is taught before A - check,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Alternative splicing,concept,same unit,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,RNA splicing,concept,same unit,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,mRNA stability factors,concept,B taught first,B is taught before A - check,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,RNA degradation mechanisms,concept,same unit,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,mRNA capping,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,alternative splicing regulation,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,exon definition and recognition,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,MicroRNA Functionality,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Gene silencing methods,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,polyadenylation process,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,capping enzymes function,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,poly(A) tail formation,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,polyadenylation regulation mechanisms,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,spliceosome structure and function,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,pre-mRNA processing stages,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Long Noncoding RNAs,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Cloning techniques,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,PCR process,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Gene regulation mechanisms,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,RNA modification types,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,RNA Sequencing Techniques,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Non-coding RNA functions,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,RNAi mechanisms,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,MicroRNA functions,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,Double-stranded RNA structure,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,RNA-induced gene expression,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-Transcriptional Regulation,concept,PREREQUISITE_OF,miRNA target recognition,concept,A taught first,,BIOL_5000_triples_raw.json
+BIOL_5000,Small Interfering RNAs,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,RNA Binding Proteins,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Alternative splicing,concept,PART_OF,RNA splicing,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,mRNA stability factors,concept,PART_OF,RNA degradation mechanisms,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,MicroRNA Functionality,concept,PART_OF,Small interfering RNAs function,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Restriction enzymes,concept,PART_OF,Gene silencing methods,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,MicroRNAs functionality,concept,PART_OF,Small interfering RNAs function,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Post-transcriptional regulation types,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,polyadenylation process,concept,PART_OF,mRNA capping,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,polyadenylation regulation mechanisms,concept,PART_OF,mRNA capping,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,pre-mRNA processing stages,concept,PART_OF,RNA splicing,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,mRNA Stability Mechanisms,concept,PART_OF,RNA degradation mechanisms,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Cloning techniques,concept,PART_OF,Gene silencing methods,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,PCR process,concept,PART_OF,Gene silencing methods,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Gene regulation mechanisms,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,RNA modification types,concept,PART_OF,Epitranscriptomics mechanisms,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Mass Spectrometry Methods,concept,PART_OF,Protein Identification Techniques,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,RNA Post-transcriptional Regulation,concept,PART_OF,Post-transcriptional gene regulation,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Next Generation Sequencing,concept,PART_OF,RNA Sequencing Techniques,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Epitranscriptomics mechanisms,concept,PART_OF,Non-coding RNA functions,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,RNA modifications types,concept,PART_OF,Non-coding RNA functions,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,RNA interference pathways,concept,PART_OF,Small interfering RNAs function,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,RNAi mechanisms,concept,PART_OF,MicroRNA functions,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Double-stranded RNA structure,concept,PART_OF,miRNA target recognition,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,RNA-induced gene expression,concept,PART_OF,miRNA target recognition,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,miRNA target recognition,concept,PART_OF,MicroRNA functions,concept,,,BIOL_5000_triples_raw.json
+BIOL_5000,Next Generation Sequencing,concept,USED_FOR,RNA Sequencing Techniques,concept,,,BIOL_5000_triples_raw.json

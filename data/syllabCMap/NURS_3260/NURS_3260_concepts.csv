@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_3260,topic,Nursing Care of Children,Nursing Care of Children,2,verified,Nursing Care of Children,NURS_3260_concepts_raw.json
+NURS_3260,topic,Health Promotion,health promotion,1,verified,Health Promotion,NURS_3260_concepts_raw.json
+NURS_3260,topic,Childbearing Years,childbearing years,1,verified,Childbearing Years,NURS_3260_concepts_raw.json
+NURS_3260,topic,Infancy Care,Infancy Care,1,inferred,Infancy Care,NURS_3260_concepts_raw.json
+NURS_3260,topic,Child Development,Child Development,1,inferred,Child Development,NURS_3260_concepts_raw.json
+NURS_3260,topic,Childhood Illnesses,Childhood Illnesses,1,inferred,Childhood Illnesses,NURS_3260_concepts_raw.json
+NURS_3260,topic,Adolescent Development,Adolescent Development,1,inferred,Adolescent Development,NURS_3260_concepts_raw.json
+NURS_3260,topic,Family Dynamics,Family Dynamics,1,inferred,Family Dynamics,NURS_3260_concepts_raw.json
+NURS_3260,topic,Maternal Health,Maternal Health,1,inferred,Maternal Health,NURS_3260_concepts_raw.json
+NURS_3260,concept,Newborn Health Assessment,Newborn Health Assessment,1,inferred,Newborn Health Assessment,NURS_3260_concepts_raw.json
+NURS_3260,concept,Parenting Styles Influence,Parenting Styles Influence,1,inferred,Parenting Styles Influence,NURS_3260_concepts_raw.json
+NURS_3260,concept,Breastfeeding Techniques Support,Breastfeeding Techniques Support,1,inferred,Breastfeeding Techniques Support,NURS_3260_concepts_raw.json
+NURS_3260,concept,Cognitive Development Stages,Cognitive Development Stages,1,inferred,Cognitive Development Stages,NURS_3260_concepts_raw.json
+NURS_3260,concept,Emotional Intelligence Growth,Emotional Intelligence Growth,1,inferred,Emotional Intelligence Growth,NURS_3260_concepts_raw.json
+NURS_3260,concept,Social Skills Acquisition,Social Skills Acquisition,1,inferred,Social Skills Acquisition,NURS_3260_concepts_raw.json
+NURS_3260,concept,Nutrition and Hydration Importance,Nutrition and Hydration Importance,1,inferred,Nutrition and Hydration Importance,NURS_3260_concepts_raw.json
+NURS_3260,concept,Exercise and Physical Activity,Exercise and Physical Activity,1,inferred,Exercise and Physical Activity,NURS_3260_concepts_raw.json
+NURS_3260,concept,Sleep Habits and Routine,Sleep Habits and Routine,1,inferred,Sleep Habits and Routine,NURS_3260_concepts_raw.json
+NURS_3260,concept,Common Childhood Infections,Common Childhood Infections,1,inferred,Common Childhood Infections,NURS_3260_concepts_raw.json
+NURS_3260,concept,Respiratory Health Management,Respiratory Health Management,1,inferred,Respiratory Health Management,NURS_3260_concepts_raw.json
+NURS_3260,concept,Gastrointestinal Health Issues,Gastrointestinal Health Issues,1,inferred,Gastrointestinal Health Issues,NURS_3260_concepts_raw.json
+NURS_3260,concept,Puberty and Hormonal Changes,Puberty and Hormonal Changes,1,inferred,Puberty and Hormonal Changes,NURS_3260_concepts_raw.json
+NURS_3260,concept,Body Image and Self-Esteem,Body Image and Self-Esteem,1,inferred,Body Image and Self-Esteem,NURS_3260_concepts_raw.json
+NURS_3260,concept,Risk-Taking Behaviors Prevention,Risk-Taking Behaviors Prevention,1,inferred,Risk-Taking Behaviors Prevention,NURS_3260_concepts_raw.json
+NURS_3260,concept,Parent-Child Relationships Impact,Parent-Child Relationships Impact,1,inferred,Parent-Child Relationships Impact,NURS_3260_concepts_raw.json
+NURS_3260,concept,Sibling Rivalry and Conflict,Sibling Rivalry and Conflict,1,inferred,Sibling Rivalry and Conflict,NURS_3260_concepts_raw.json
+NURS_3260,concept,Family Communication Styles,Family Communication Styles,1,inferred,Family Communication Styles,NURS_3260_concepts_raw.json
+NURS_3260,concept,Pregnancy Complications Management,Pregnancy Complications Management,1,inferred,Pregnancy Complications Management,NURS_3260_concepts_raw.json
+NURS_3260,concept,Postpartum Care and Support,Postpartum Care and Support,1,inferred,Postpartum Care and Support,NURS_3260_concepts_raw.json
+NURS_3260,concept,Breastfeeding Challenges Resolution,Breastfeeding Challenges Resolution,1,inferred,Breastfeeding Challenges Resolution,NURS_3260_concepts_raw.json
+NURS_3260,concept,Fertility Awareness and Planning,Fertility Awareness and Planning,1,inferred,Fertility Awareness and Planning,NURS_3260_concepts_raw.json
+NURS_3260,concept,Reproductive Health Education,Reproductive Health Education,1,inferred,Reproductive Health Education,NURS_3260_concepts_raw.json
+NURS_3260,concept,Menstrual Cycle and Hygiene,Menstrual Cycle and Hygiene,1,inferred,Menstrual Cycle and Hygiene,NURS_3260_concepts_raw.json

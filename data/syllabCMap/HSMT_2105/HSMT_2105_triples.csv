@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HSMT_2105,Population Health Management,concept,PREREQUISITE_OF,Health Challenge,topic,A taught first,,HSMT_2105_triples_raw.json
+HSMT_2105,Systems Thinking III,topic,PREREQUISITE_OF,WATCH,topic,A taught first,,HSMT_2105_triples_raw.json
+HSMT_2105,WATCH,topic,PREREQUISITE_OF,Socio-cultural Environment,topic,A taught first,,HSMT_2105_triples_raw.json
+HSMT_2105,WATCH,topic,PREREQUISITE_OF,Regulatory Environment,topic,A taught first,,HSMT_2105_triples_raw.json
+HSMT_2105,WATCH,topic,PREREQUISITE_OF,Health Challenge,topic,A taught first,,HSMT_2105_triples_raw.json
+HSMT_2105,WATCH,topic,PREREQUISITE_OF,Synthesis and Professionalism,topic,A taught first,,HSMT_2105_triples_raw.json
+HSMT_2105,Systems Thinking III,topic,PART_OF,Systems Thinking,concept,,part is broader than whole - check direction,HSMT_2105_triples_raw.json
+HSMT_2105,Population Health Management,concept,PART_OF,Health Challenge,topic,,,HSMT_2105_triples_raw.json
+HSMT_2105,WATCH,topic,PART_OF,Socio-cultural Environment,topic,,,HSMT_2105_triples_raw.json
+HSMT_2105,WATCH,topic,PART_OF,Regulatory Environment,topic,,,HSMT_2105_triples_raw.json
+HSMT_2105,WATCH,topic,PART_OF,Health Challenge,topic,,,HSMT_2105_triples_raw.json
+HSMT_2105,WATCH,topic,PART_OF,Synthesis and Professionalism,topic,,,HSMT_2105_triples_raw.json
+HSMT_2105,Physical Environment,topic,PART_OF,Socio-cultural Environment,topic,,,HSMT_2105_triples_raw.json
+HSMT_2105,Regulatory Environment,topic,PART_OF,Socio-cultural Environment,topic,,,HSMT_2105_triples_raw.json

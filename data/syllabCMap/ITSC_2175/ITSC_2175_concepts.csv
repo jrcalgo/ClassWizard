@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_2175,concept,propositional calculus,propositional calculus,1,verified,propositional calculus,ITSC_2175_concepts_raw.json
+ITSC_2175,concept,predicate calculus,predicate calculus,1,verified,predicate calculus,ITSC_2175_concepts_raw.json
+ITSC_2175,concept,algorithms,algorithms,2,verified,algorithms,ITSC_2175_concepts_raw.json
+ITSC_2175,topic,Logic Design,logic design,1,verified,Logic Design,ITSC_2175_concepts_raw.json
+ITSC_2175,concept,integer mathematics,integer mathematics,1,verified,integer mathematics,ITSC_2175_concepts_raw.json
+ITSC_2175,concept,counting techniques,counting techniques,1,verified,counting techniques,ITSC_2175_concepts_raw.json
+ITSC_2175,concept,proof techniques,proof techniques,1,verified,proof techniques,ITSC_2175_concepts_raw.json
+ITSC_2175,concept,finite-state machines,finite-state machines,1,verified,finite-state machines,ITSC_2175_concepts_raw.json
+ITSC_2175,concept,logic functions,logic functions,1,verified,logic functions,ITSC_2175_concepts_raw.json
+ITSC_2175,concept,logical statements and arguments,logical statements and arguments,1,verified,logical statements and arguments,ITSC_2175_concepts_raw.json
+ITSC_2175,concept,discrete mathematical structures,discrete mathematical structures,1,verified,discrete mathematical structures,ITSC_2175_concepts_raw.json

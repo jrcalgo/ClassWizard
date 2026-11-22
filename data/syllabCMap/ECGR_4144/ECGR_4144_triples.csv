@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4144,power semiconductors,topic,PART_OF,High-power solid-state circuits,topic,,,ECGR_4144_triples_raw.json
+ECGR_4144,Simulation Tools for Power Electronics,concept,PART_OF,control and converter modelling,topic,,,ECGR_4144_triples_raw.json
+ECGR_4144,Simulation Tools for Power Electronics,concept,USED_FOR,control and converter modelling,topic,,,ECGR_4144_triples_raw.json

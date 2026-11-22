@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NANO_8301,topic,cancer biology,cancer biology,1,verified,cancer biology,NANO_8301_concepts_raw.json
+NANO_8301,topic,immunotherapy,immunotherapy,1,verified,immunotherapy,NANO_8301_concepts_raw.json
+NANO_8301,topic,cancer diagnostics and therapeutics,cancer diagnostics and therapeutics,1,verified,cancer diagnostics and therapeutics,NANO_8301_concepts_raw.json
+NANO_8301,topic,nanotechnology-platforms,nanotechnology-platforms,1,verified,nanotechnology-platforms,NANO_8301_concepts_raw.json
+NANO_8301,concept,tumor microenvironment,Tumor Microenvironment,1,inferred,tumor microenvironment,NANO_8301_concepts_raw.json
+NANO_8301,concept,angiogenesis process,Angiogenesis Process,1,inferred,angiogenesis process,NANO_8301_concepts_raw.json
+NANO_8301,concept,checkpoint inhibitors mechanism,Checkpoint Inhibitors Mechanism,1,inferred,checkpoint inhibitors mechanism,NANO_8301_concepts_raw.json
+NANO_8301,concept,adoptive T-cell therapy,Adoptive T-Cell Therapy,1,inferred,adoptive T-cell therapy,NANO_8301_concepts_raw.json
+NANO_8301,concept,molecular imaging techniques,Molecular Imaging Techniques,1,inferred,molecular imaging techniques,NANO_8301_concepts_raw.json
+NANO_8301,concept,targeted cancer therapies,Targeted Cancer Therapies,1,inferred,targeted cancer therapies,NANO_8301_concepts_raw.json
+NANO_8301,concept,personalized medicine approaches,Personalized Medicine Approaches,1,inferred,personalized medicine approaches,NANO_8301_concepts_raw.json
+NANO_8301,concept,nanoformulations for delivery,Nanoformulations for Delivery,1,inferred,nanoformulations for delivery,NANO_8301_concepts_raw.json
+NANO_8301,concept,biomaterials and biocompatibility,Biomaterials and Biocompatibility,1,inferred,biomaterials and biocompatibility,NANO_8301_concepts_raw.json
+NANO_8301,topic,regulatory frameworks,Regulatory Frameworks,1,inferred,regulatory frameworks,NANO_8301_concepts_raw.json
+NANO_8301,concept,nanotechnology in medicine,Nanotechnology in Medicine,1,inferred,nanotechnology in medicine,NANO_8301_concepts_raw.json
+NANO_8301,concept,history of nanomedicine,History of Nanomedicine,1,inferred,history of nanomedicine,NANO_8301_concepts_raw.json
+NANO_8301,concept,current applications,Current Applications,1,inferred,current applications,NANO_8301_concepts_raw.json
+NANO_8301,concept,cancer cell metabolism,Cancer Cell Metabolism,1,inferred,cancer cell metabolism,NANO_8301_concepts_raw.json
+NANO_8301,concept,immune system activation,Immune System Activation,1,inferred,immune system activation,NANO_8301_concepts_raw.json
+NANO_8301,concept,regulatory frameworks overview,Regulatory Frameworks Overview,1,inferred,regulatory frameworks overview,NANO_8301_concepts_raw.json

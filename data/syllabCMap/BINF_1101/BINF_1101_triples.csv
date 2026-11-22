@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_1101,Mechanisms of Molecular Evolution,concept,PREREQUISITE_OF,Critical Advances in Biotechnology,concept,A taught first,,BINF_1101_triples_raw.json
+BINF_1101,Important Algorithms Used in Bioinformatics,concept,PREREQUISITE_OF,Critical Advances in Biotechnology,concept,A taught first,,BINF_1101_triples_raw.json

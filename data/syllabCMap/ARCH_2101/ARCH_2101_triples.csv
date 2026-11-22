@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_2101,recursion,topic,PREREQUISITE_OF,generative process,topic,same unit,,ARCH_2101_triples_raw.json
+ARCH_2101,recursion,topic,PREREQUISITE_OF,iteration,topic,same unit,,ARCH_2101_triples_raw.json
+ARCH_2101,recursion,topic,PREREQUISITE_OF,feedback,topic,A mentioned first,,ARCH_2101_triples_raw.json
+ARCH_2101,recursion,topic,PREREQUISITE_OF,AI tools,topic,A taught first,,ARCH_2101_triples_raw.json
+ARCH_2101,recursion,topic,PREREQUISITE_OF,building scale,topic,A mentioned first,,ARCH_2101_triples_raw.json
+ARCH_2101,recursion,topic,PREREQUISITE_OF,critical selection,topic,A mentioned first,,ARCH_2101_triples_raw.json
+ARCH_2101,recursion,topic,PREREQUISITE_OF,procedural logic,topic,A mentioned first,,ARCH_2101_triples_raw.json
+ARCH_2101,recursion,topic,PREREQUISITE_OF,architectural space,topic,A mentioned first,,ARCH_2101_triples_raw.json
+ARCH_2101,recursion,topic,PREREQUISITE_OF,aggregation,topic,A taught first,,ARCH_2101_triples_raw.json
+ARCH_2101,recursion,topic,PREREQUISITE_OF,collective construction,topic,A taught first,,ARCH_2101_triples_raw.json
+ARCH_2101,rule-based systems,concept,PART_OF,recursion,topic,,,ARCH_2101_triples_raw.json
+ARCH_2101,individual rule-based systems,concept,PART_OF,rule-based systems,concept,,,ARCH_2101_triples_raw.json
+ARCH_2101,section-to-volume investigation,concept,PART_OF,recursion,topic,,,ARCH_2101_triples_raw.json
+ARCH_2101,recursive subdivision,method,PART_OF,section-to-volume investigation,concept,,,ARCH_2101_triples_raw.json
+ARCH_2101,rule-based systems,concept,SUBTYPE_OF,generative process,topic,,,ARCH_2101_triples_raw.json
+ARCH_2101,individual rule-based systems,concept,SUBTYPE_OF,rule-based systems,concept,,,ARCH_2101_triples_raw.json
+ARCH_2101,tectonic part-to-field investigation,concept,SUBTYPE_OF,recursion,topic,,,ARCH_2101_triples_raw.json
+ARCH_2101,recursive subdivision,method,USED_FOR,section-to-volume investigation,concept,,,ARCH_2101_triples_raw.json

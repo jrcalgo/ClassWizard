@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JOUR_3162,Observation and Note Taking Skills,topic,PREREQUISITE_OF,Human Interest Storytelling,topic,A taught first,,JOUR_3162_triples_raw.json
+JOUR_3162,In-Depth Interviewing and Research,topic,PREREQUISITE_OF,Place Profile Writing,topic,A taught first,,JOUR_3162_triples_raw.json
+JOUR_3162,Major Project Development,topic,PREREQUISITE_OF,Revision and Editing Techniques,topic,A taught first,,JOUR_3162_triples_raw.json
+JOUR_3162,Definition of Feature Writing,concept,PART_OF,Feature Writing,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Importance in Journalism,concept,PART_OF,Feature Writing,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Types of Features,concept,PART_OF,Feature Writing,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Effective Observation Techniques,concept,PART_OF,Observation and Note Taking Skills,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Note Taking Strategies,concept,PART_OF,Observation and Note Taking Skills,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Interview Preparation,concept,PART_OF,Observation and Note Taking Skills,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Writing Engaging Leads,concept,PART_OF,Human Interest Storytelling,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Asking Probing Questions,concept,PART_OF,In-Depth Interviewing and Research,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Active Listening Skills,concept,PART_OF,In-Depth Interviewing and Research,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Developing Strong Character Portraits,concept,PART_OF,Writing Compelling Profiles,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Using Sensory Details,concept,PART_OF,Writing Compelling Profiles,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Showcasing Community Spirit,concept,PART_OF,Place Profile Writing,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Brainstorming Ideas and Concepts,concept,PART_OF,Major Project Development,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Self-Editing Strategies,concept,PART_OF,Revision and Editing Techniques,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Peer Review and Feedback,concept,PART_OF,Revision and Editing Techniques,topic,,,JOUR_3162_triples_raw.json
+JOUR_3162,Show,concept,USED_FOR,Don't Tell Technique,concept,,,JOUR_3162_triples_raw.json

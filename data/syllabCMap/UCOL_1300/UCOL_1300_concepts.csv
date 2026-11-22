@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+UCOL_1300,topic,Academic Success Seminar,Academic Success Seminar,1,verified,Academic Success Seminar,UCOL_1300_concepts_raw.json
+UCOL_1300,topic,Effective Study Strategies,effective study strategies,1,verified,Effective Study Strategies,UCOL_1300_concepts_raw.json
+UCOL_1300,topic,Learning Preferences,learning preferences,1,verified,Learning Preferences,UCOL_1300_concepts_raw.json
+UCOL_1300,topic,Resource Utilization,Resource Utilization,1,inferred,Resource Utilization,UCOL_1300_concepts_raw.json
+UCOL_1300,topic,Goal Setting and Planning,Goal Setting and Planning,1,inferred,Goal Setting and Planning,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Academic Success Goals,Academic Success Goals,1,inferred,Academic Success Goals,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,College Expectations,College Expectations,1,inferred,College Expectations,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Student Responsibilities,Student Responsibilities,1,inferred,Student Responsibilities,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Time Management Techniques,Time Management Techniques,1,inferred,Time Management Techniques,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Note Taking Methods,Note Taking Methods,1,inferred,Note Taking Methods,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Active Learning Approaches,Active Learning Approaches,1,inferred,Active Learning Approaches,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Library Services Overview,Library Services Overview,1,inferred,Library Services Overview,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Tutoring and Support Options,Tutoring and Support Options,1,inferred,Tutoring and Support Options,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Campus Resources Directory,Campus Resources Directory,1,inferred,Campus Resources Directory,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Learning Style Identification,Learning Style Identification,1,inferred,Learning Style Identification,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Personalized Learning Plans,Personalized Learning Plans,1,inferred,Personalized Learning Plans,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Academic Strengths Assessment,Academic Strengths Assessment,1,inferred,Academic Strengths Assessment,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Short-Term Goal Setting,Short-Term Goal Setting,1,inferred,Short-Term Goal Setting,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Long-Term Academic Planning,Long-Term Academic Planning,1,inferred,Long-Term Academic Planning,UCOL_1300_concepts_raw.json
+UCOL_1300,concept,Action Plan Development,Action Plan Development,1,inferred,Action Plan Development,UCOL_1300_concepts_raw.json

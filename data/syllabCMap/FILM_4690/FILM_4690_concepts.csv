@@ -1,0 +1,48 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FILM_4690,concept,Professional Career Goals,professional career goals,1,verified,Professional Career Goals,FILM_4690_concepts_raw.json
+FILM_4690,topic,Career Planning,Career Planning,1,inferred,Career Planning,FILM_4690_concepts_raw.json
+FILM_4690,topic,Scriptwriting Fundamentals,Scriptwriting Fundamentals,1,inferred,Scriptwriting Fundamentals,FILM_4690_concepts_raw.json
+FILM_4690,topic,Pre-Production Planning,Pre-Production Planning,2,inferred,Pre-Production Planning,FILM_4690_concepts_raw.json
+FILM_4690,topic,Filmmaking Techniques,Filmmaking Techniques,1,inferred,Filmmaking Techniques,FILM_4690_concepts_raw.json
+FILM_4690,topic,Thesis Film Development,Thesis Film Development,1,inferred,Thesis Film Development,FILM_4690_concepts_raw.json
+FILM_4690,topic,Filming and Recording,Filming and Recording,1,inferred,Filming and Recording,FILM_4690_concepts_raw.json
+FILM_4690,topic,Post-Production Editing,Post-Production Editing,1,inferred,Post-Production Editing,FILM_4690_concepts_raw.json
+FILM_4690,concept,Portfolio Development,Portfolio Development,2,inferred,Portfolio Development,FILM_4690_concepts_raw.json
+FILM_4690,topic,Career Readiness and Preparation,Career Readiness and Preparation,1,inferred,Career Readiness and Preparation,FILM_4690_concepts_raw.json
+FILM_4690,concept,Thesis Film Concept,Thesis Film Concept,1,inferred,Thesis Film Concept,FILM_4690_concepts_raw.json
+FILM_4690,concept,Story Structure Basics,Story Structure Basics,1,inferred,Story Structure Basics,FILM_4690_concepts_raw.json
+FILM_4690,concept,Character Development Techniques,Character Development Techniques,1,inferred,Character Development Techniques,FILM_4690_concepts_raw.json
+FILM_4690,concept,Dialogue Writing Principles,Dialogue Writing Principles,1,inferred,Dialogue Writing Principles,FILM_4690_concepts_raw.json
+FILM_4690,concept,Storyboarding and Visualizing,Storyboarding and Visualizing,1,inferred,Storyboarding and Visualizing,FILM_4690_concepts_raw.json
+FILM_4690,concept,Scheduling and Budgeting,Scheduling and Budgeting,1,inferred,Scheduling and Budgeting,FILM_4690_concepts_raw.json
+FILM_4690,concept,Location Scouting and Management,Location Scouting and Management,1,inferred,Location Scouting and Management,FILM_4690_concepts_raw.json
+FILM_4690,concept,Camera Angles and Movement,Camera Angles and Movement,1,inferred,Camera Angles and Movement,FILM_4690_concepts_raw.json
+FILM_4690,concept,Lighting and Sound Principles,Lighting and Sound Principles,1,inferred,Lighting and Sound Principles,FILM_4690_concepts_raw.json
+FILM_4690,concept,Editing Software Fundamentals,Editing Software Fundamentals,1,inferred,Editing Software Fundamentals,FILM_4690_concepts_raw.json
+FILM_4690,concept,Script Revisions and Feedback,Script Revisions and Feedback,1,inferred,Script Revisions and Feedback,FILM_4690_concepts_raw.json
+FILM_4690,concept,Storyboard Refinements and Changes,Storyboard Refinements and Changes,1,inferred,Storyboard Refinements and Changes,FILM_4690_concepts_raw.json
+FILM_4690,concept,Pre-Production Planning and Execution,Pre-Production Planning and Execution,1,inferred,Pre-Production Planning and Execution,FILM_4690_concepts_raw.json
+FILM_4690,concept,Camera Operation and Maintenance,Camera Operation and Maintenance,1,inferred,Camera Operation and Maintenance,FILM_4690_concepts_raw.json
+FILM_4690,concept,Sound Recording Techniques,Sound Recording Techniques,1,inferred,Sound Recording Techniques,FILM_4690_concepts_raw.json
+FILM_4690,concept,Lighting for Film and Video,Lighting for Film and Video,1,inferred,Lighting for Film and Video,FILM_4690_concepts_raw.json
+FILM_4690,concept,Video Editing Software Skills,Video Editing Software Skills,1,inferred,Video Editing Software Skills,FILM_4690_concepts_raw.json
+FILM_4690,concept,Audio Post-Production Techniques,Audio Post-Production Techniques,1,inferred,Audio Post-Production Techniques,FILM_4690_concepts_raw.json
+FILM_4690,concept,Visual Effects and Compositing,Visual Effects and Compositing,1,inferred,Visual Effects and Compositing,FILM_4690_concepts_raw.json
+FILM_4690,concept,Curating a Professional Portfolio,Curating a Professional Portfolio,1,inferred,Curating a Professional Portfolio,FILM_4690_concepts_raw.json
+FILM_4690,concept,Showreel Creation and Editing,Showreel Creation and Editing,1,inferred,Showreel Creation and Editing,FILM_4690_concepts_raw.json
+FILM_4690,concept,Online Presence and Branding,Online Presence and Branding,1,inferred,Online Presence and Branding,FILM_4690_concepts_raw.json
+FILM_4690,concept,Job Market Research and Trends,Job Market Research and Trends,1,inferred,Job Market Research and Trends,FILM_4690_concepts_raw.json
+FILM_4690,concept,Networking and Industry Connections,Networking and Industry Connections,1,inferred,Networking and Industry Connections,FILM_4690_concepts_raw.json
+FILM_4690,concept,Resume Building and Interview Skills,Resume Building and Interview Skills,1,inferred,Resume Building and Interview Skills,FILM_4690_concepts_raw.json
+FILM_4690,method,Storyboarding,Storyboarding,1,inferred,Storyboarding,FILM_4690_concepts_raw.json
+FILM_4690,method,Scheduling,Scheduling,1,inferred,Scheduling,FILM_4690_concepts_raw.json
+FILM_4690,method,Budgeting,Budgeting,1,inferred,Budgeting,FILM_4690_concepts_raw.json
+FILM_4690,method,Location Scouting,Location Scouting,1,inferred,Location Scouting,FILM_4690_concepts_raw.json
+FILM_4690,method,Camera Operation,Camera Operation,1,inferred,Camera Operation,FILM_4690_concepts_raw.json
+FILM_4690,method,Sound Recording,Sound Recording,1,inferred,Sound Recording,FILM_4690_concepts_raw.json
+FILM_4690,method,Lighting for Film,Lighting for Film,1,inferred,Lighting for Film,FILM_4690_concepts_raw.json
+FILM_4690,method,Video Editing,Video Editing,1,inferred,Video Editing,FILM_4690_concepts_raw.json
+FILM_4690,method,Audio Post-Production,Audio Post-Production,1,inferred,Audio Post-Production,FILM_4690_concepts_raw.json
+FILM_4690,method,Visual Effects,Visual Effects,1,inferred,Visual Effects,FILM_4690_concepts_raw.json
+FILM_4690,method,Compositing,Compositing,1,inferred,Compositing,FILM_4690_concepts_raw.json
+FILM_4690,method,Showreel Creation,Showreel Creation,1,inferred,Showreel Creation,FILM_4690_concepts_raw.json

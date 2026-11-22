@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTT_2191,Photography,topic,PREREQUISITE_OF,Photographic Media I,topic,A mentioned first,,ARTT_2191_triples_raw.json
+ARTT_2191,Formal and Conceptual Relationships,topic,PREREQUISITE_OF,Digital Portfolio Creation,topic,A taught first,,ARTT_2191_triples_raw.json
+ARTT_2191,Photography,topic,PREREQUISITE_OF,basic photographic materials,concept,same unit,,ARTT_2191_triples_raw.json
+ARTT_2191,Photography,topic,PREREQUISITE_OF,camera operation fundamentals,concept,same unit,,ARTT_2191_triples_raw.json
+ARTT_2191,BFA-level studio work expectations,concept,PREREQUISITE_OF,connections to larger context,concept,A taught first,,ARTT_2191_triples_raw.json
+ARTT_2191,photographic theory basics,concept,PART_OF,Photography,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,camera operation fundamentals,concept,PART_OF,Photography,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,basic photographic materials,concept,PART_OF,Photography,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,interdependent formal relationships,concept,PART_OF,Formal and Conceptual Relationships,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,conceptual artwork development,concept,PART_OF,Formal and Conceptual Relationships,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,BFA-level studio work expectations,concept,PART_OF,Formal and Conceptual Relationships,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,organizing digital artwork,concept,PART_OF,Digital Portfolio Creation,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,documenting and labeling artwork,concept,PART_OF,Digital Portfolio Creation,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,technical proficiency in digital tools,concept,PART_OF,Digital Portfolio Creation,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,speaking effectively about art,concept,PART_OF,Effective Communication Skills,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,digital presentation tools basics,concept,PART_OF,Effective Communication Skills,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,arts-related topic discussion,concept,PART_OF,Effective Communication Skills,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,studio practice and other artwork,concept,PART_OF,Writing About Studio Practice,topic,,,ARTT_2191_triples_raw.json
+ARTT_2191,effective writing for arts context,concept,PART_OF,Writing About Studio Practice,topic,,,ARTT_2191_triples_raw.json

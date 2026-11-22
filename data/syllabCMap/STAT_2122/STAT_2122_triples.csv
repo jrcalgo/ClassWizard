@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_2122,Basic Terminology,topic,PART_OF,Probability and Statistics for Engineering and Science,topic,,,STAT_2122_triples_raw.json
+STAT_2122,Regression and Correlation,topic,PART_OF,Probability and Statistics for Engineering and Science,topic,,,STAT_2122_triples_raw.json

@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4250L,topic,Microbiology Lab,Microbiology Lab,1,verified,Microbiology Lab,BIOL_4250L_concepts_raw.json
+BIOL_4250L,topic,Ecology of Bacteria,ecology of bacteria,1,verified,Ecology of Bacteria,BIOL_4250L_concepts_raw.json
+BIOL_4250L,topic,Bacterial Morphology,Bacterial Morphology,1,inferred,Bacterial Morphology,BIOL_4250L_concepts_raw.json
+BIOL_4250L,topic,Staining Techniques,Staining Techniques,1,inferred,Staining Techniques,BIOL_4250L_concepts_raw.json
+BIOL_4250L,topic,Culturing Bacteria,Culturing Bacteria,1,inferred,Culturing Bacteria,BIOL_4250L_concepts_raw.json
+BIOL_4250L,topic,Bacterial Physiology,Bacterial Physiology,1,inferred,Bacterial Physiology,BIOL_4250L_concepts_raw.json
+BIOL_4250L,topic,Microbial Identification,Microbial Identification,1,inferred,Microbial Identification,BIOL_4250L_concepts_raw.json
+BIOL_4250L,topic,Lab Techniques Review,Lab Techniques Review,1,inferred,Lab Techniques Review,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,lab safety protocols,Lab Safety Protocols,1,inferred,lab safety protocols,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,microscope use basics,Microscope Use Basics,1,inferred,microscope use basics,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,cell shape and size,Cell Shape and Size,1,inferred,cell shape and size,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,flagella structure function,Flagella Structure Function,1,inferred,flagella structure function,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,gram stain procedure,Gram Stain Procedure,1,inferred,gram stain procedure,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,crystal violet application,Crystal Violet Application,1,inferred,crystal violet application,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,media preparation methods,Media Preparation Methods,1,inferred,media preparation methods,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,inoculation techniques,Inoculation Techniques,1,inferred,inoculation techniques,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,metabolism and energy sources,Metabolism and Energy Sources,1,inferred,metabolism and energy sources,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,nutrient requirements,Nutrient Requirements,1,inferred,nutrient requirements,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,symbiotic relationships types,Symbiotic Relationships Types,1,inferred,symbiotic relationships types,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,environmental adaptations,Environmental Adaptations,1,inferred,environmental adaptations,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,morphological characteristics,Morphological Characteristics,1,inferred,morphological characteristics,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,biochemical tests used,Biochemical Tests Used,1,inferred,biochemical tests used,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,sterilization methods compared,Sterilization Methods Compared,1,inferred,sterilization methods compared,BIOL_4250L_concepts_raw.json
+BIOL_4250L,concept,aseptic technique importance,Aseptic Technique Importance,1,inferred,aseptic technique importance,BIOL_4250L_concepts_raw.json

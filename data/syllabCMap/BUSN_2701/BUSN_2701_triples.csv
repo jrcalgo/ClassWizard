@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BUSN_2701,Industry Norms,topic,PREREQUISITE_OF,Professionalism,topic,same unit,,BUSN_2701_triples_raw.json
+BUSN_2701,Service Learning,topic,PREREQUISITE_OF,Volunteerism,topic,same unit,,BUSN_2701_triples_raw.json
+BUSN_2701,Leadership Styles,topic,PREREQUISITE_OF,Decision Making,topic,same unit,,BUSN_2701_triples_raw.json
+BUSN_2701,Problem Solving,topic,PREREQUISITE_OF,Decision Making,topic,same unit,,BUSN_2701_triples_raw.json
+BUSN_2701,compliance with industry regulations,concept,PREREQUISITE_OF,Code of Conduct,topic,same unit,,BUSN_2701_triples_raw.json
+BUSN_2701,industry norms and expectations,concept,PART_OF,Industry Norms,topic,,,BUSN_2701_triples_raw.json
+BUSN_2701,professional values and ethics,concept,PART_OF,Professionalism,topic,,,BUSN_2701_triples_raw.json
+BUSN_2701,benefits of service learning,concept,PART_OF,Service Learning,topic,,,BUSN_2701_triples_raw.json
+BUSN_2701,volunteerism in the workplace,concept,PART_OF,Volunteerism,topic,,,BUSN_2701_triples_raw.json
+BUSN_2701,leadership styles and theories,concept,PART_OF,Leadership Styles,topic,,,BUSN_2701_triples_raw.json
+BUSN_2701,decision making and problem solving,concept,PART_OF,Decision Making,topic,,,BUSN_2701_triples_raw.json

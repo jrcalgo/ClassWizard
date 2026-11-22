@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3158,Literary Analysis Basics,concept,PREREQUISITE_OF,Close Reading Techniques,topic,A taught first,,ENGL_3158_triples_raw.json
+ENGL_3158,Literary Analysis Basics,concept,PREREQUISITE_OF,Analyzing Literary Texts,topic,A taught first,,ENGL_3158_triples_raw.json
+ENGL_3158,Feminist Literary Theory,concept,PREREQUISITE_OF,Female Representation Analysis,concept,same unit,,ENGL_3158_triples_raw.json
+ENGL_3158,Historical Context of African American Experience,concept,PREREQUISITE_OF,Literary Movements and Genres,concept,same unit,,ENGL_3158_triples_raw.json
+ENGL_3158,Literary Analysis Basics,concept,PART_OF,Course Objectives Overview,topic,,,ENGL_3158_triples_raw.json
+ENGL_3158,Close Reading Techniques,topic,PART_OF,Analyzing Literary Texts,topic,,,ENGL_3158_triples_raw.json
+ENGL_3158,MLA Formatting and Citation,topic,PART_OF,Analyzing Literary Texts,topic,,,ENGL_3158_triples_raw.json
+ENGL_3158,Works Cited Page Requirements,topic,PART_OF,MLA Formatting and Citation,topic,,,ENGL_3158_triples_raw.json
+ENGL_3158,Parenthetical Citation Rules,topic,PART_OF,MLA Formatting and Citation,topic,,,ENGL_3158_triples_raw.json

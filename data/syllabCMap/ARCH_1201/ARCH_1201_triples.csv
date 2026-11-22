@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_1201,writing as an act of design,concept,PART_OF,writing as a design tool,concept,,,ARCH_1201_triples_raw.json
+ARCH_1201,distortions,concept,PART_OF,Relationship Between Description and Analysis,topic,,,ARCH_1201_triples_raw.json
+ARCH_1201,manipulations,concept,PART_OF,Relationship Between Description and Analysis,topic,,,ARCH_1201_triples_raw.json
+ARCH_1201,communication as a professional tool,concept,PART_OF,Modes of Communication,topic,,,ARCH_1201_triples_raw.json

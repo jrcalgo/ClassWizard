@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_6114,amortized analysis,concept,PREREQUISITE_OF,probabilistic methods,concept,A mentioned first,,ITCS_6114_triples_raw.json
+ITCS_6114,Recursion,topic,PREREQUISITE_OF,Induction,topic,same unit,,ITCS_6114_triples_raw.json
+ITCS_6114,Hashing,topic,PREREQUISITE_OF,Heaps,topic,same unit,,ITCS_6114_triples_raw.json
+ITCS_6114,Graph Algorithms,topic,PREREQUISITE_OF,String Matching,topic,same unit,,ITCS_6114_triples_raw.json
+ITCS_6114,asymptotic notations,concept,PART_OF,Time and Space Complexities,topic,,,ITCS_6114_triples_raw.json
+ITCS_6114,probabilistic methods,concept,PART_OF,Time and Space Complexities,topic,,,ITCS_6114_triples_raw.json
+ITCS_6114,Recursion,topic,PART_OF,Induction,topic,,,ITCS_6114_triples_raw.json
+ITCS_6114,Hashing,topic,PART_OF,Data Structures,topic,,,ITCS_6114_triples_raw.json
+ITCS_6114,Heaps,topic,PART_OF,Data Structures,topic,,,ITCS_6114_triples_raw.json
+ITCS_6114,Graph Algorithms,topic,PART_OF,Data Structures,topic,,,ITCS_6114_triples_raw.json
+ITCS_6114,Dynamic Programming,topic,PART_OF,Data Structures,topic,,,ITCS_6114_triples_raw.json
+ITCS_6114,String Matching,topic,PART_OF,Data Structures,topic,,,ITCS_6114_triples_raw.json
+ITCS_6114,asymptotic notations,concept,USED_FOR,Time and Space Complexities,topic,,,ITCS_6114_triples_raw.json
+ITCS_6114,probabilistic methods,concept,USED_FOR,Time and Space Complexities,topic,,,ITCS_6114_triples_raw.json

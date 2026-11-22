@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_2168,cell membrane structure,concept,PREREQUISITE_OF,cell organization,concept,same unit,,EXER_2168_triples_raw.json
+EXER_2168,organelle functions,concept,PREREQUISITE_OF,cell membrane structure,concept,same unit,,EXER_2168_triples_raw.json
+EXER_2168,epithelial tissue function,concept,PREREQUISITE_OF,connective tissue structure,concept,same unit,,EXER_2168_triples_raw.json
+EXER_2168,neuron structure and function,concept,PREREQUISITE_OF,synapse formation process,concept,same unit,,EXER_2168_triples_raw.json
+EXER_2168,bone structure and function,concept,PREREQUISITE_OF,joint movement types,concept,same unit,,EXER_2168_triples_raw.json
+EXER_2168,cell organization,concept,PART_OF,Cell Structure,topic,,,EXER_2168_triples_raw.json
+EXER_2168,organelle functions,concept,PART_OF,Cell Structure,topic,,,EXER_2168_triples_raw.json
+EXER_2168,epithelial tissue function,concept,PART_OF,Tissue Types,topic,,,EXER_2168_triples_raw.json
+EXER_2168,connective tissue structure,concept,PART_OF,Tissue Types,topic,,,EXER_2168_triples_raw.json
+EXER_2168,muscle tissue characteristics,concept,PART_OF,Tissue Types,topic,,,EXER_2168_triples_raw.json
+EXER_2168,neuron structure and function,concept,PART_OF,Nervous System,topic,,,EXER_2168_triples_raw.json
+EXER_2168,synapse formation process,concept,PART_OF,Nervous System,topic,,,EXER_2168_triples_raw.json
+EXER_2168,skin layers and functions,concept,PART_OF,Integumentary System,topic,,,EXER_2168_triples_raw.json
+EXER_2168,hair and nails growth,concept,PART_OF,Integumentary System,topic,,,EXER_2168_triples_raw.json
+EXER_2168,sweat gland regulation,concept,PART_OF,Integumentary System,topic,,,EXER_2168_triples_raw.json
+EXER_2168,bone structure and function,concept,PART_OF,Musculoskeletal System,topic,,,EXER_2168_triples_raw.json
+EXER_2168,joint movement types,concept,PART_OF,Musculoskeletal System,topic,,,EXER_2168_triples_raw.json
+EXER_2168,muscle fiber contraction,concept,PART_OF,Musculoskeletal System,topic,,,EXER_2168_triples_raw.json
+EXER_2168,human anatomy visualization,concept,PART_OF,digital cadaver technology,tool,,part is broader than whole - check direction,EXER_2168_triples_raw.json
+EXER_2168,anatomical structure identification,concept,PART_OF,digital cadaver technology,tool,,part is broader than whole - check direction,EXER_2168_triples_raw.json
+EXER_2168,3D modeling applications,concept,PART_OF,digital cadaver technology,tool,,part is broader than whole - check direction,EXER_2168_triples_raw.json
+EXER_2168,digital cadaver technology,tool,USED_FOR,human anatomy visualization,concept,,,EXER_2168_triples_raw.json

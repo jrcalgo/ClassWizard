@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DTSC_8140,Data Discretization & Data Balancing,topic,PREREQUISITE_OF,Data Mining Techniques,topic,B mentioned first,,DTSC_8140_triples_raw.json
+DTSC_8140,Data Reduction,topic,PREREQUISITE_OF,Data Mining Techniques,topic,same unit,,DTSC_8140_triples_raw.json
+DTSC_8140,NLP,topic,PREREQUISITE_OF,Knowledge Graphs,topic,A taught first,,DTSC_8140_triples_raw.json
+DTSC_8140,Propositional Logic,topic,PREREQUISITE_OF,First-Order Logic,topic,same unit,,DTSC_8140_triples_raw.json
+DTSC_8140,Gentzen Systems,topic,PREREQUISITE_OF,First-Order Logic,topic,same unit,,DTSC_8140_triples_raw.json
+DTSC_8140,Modal Logic,topic,PREREQUISITE_OF,Large Language Models,topic,same unit,,DTSC_8140_triples_raw.json
+DTSC_8140,Retrieval-Augmented Generation,topic,PREREQUISITE_OF,Recommender Systems & Personalization,topic,A taught first,,DTSC_8140_triples_raw.json
+DTSC_8140,State Graphs,concept,PART_OF,Search Algorithms,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,Data Discretization & Data Balancing,topic,PART_OF,Data Mining Techniques,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,Data Reduction,topic,PART_OF,Data Mining Techniques,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,NLP,topic,PART_OF,Knowledge Graphs,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,Propositional Logic,topic,PART_OF,First-Order Logic,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,Gentzen Systems,topic,PART_OF,First-Order Logic,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,Modal Logic,topic,PART_OF,Large Language Models,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,Retrieval-Augmented Generation,topic,PART_OF,Recommender Systems & Personalization,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,Knowledge Graph based Recommender Systems,topic,SUBTYPE_OF,Recommender Systems & Personalization,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,Data Semantics & Ontology,concept,USED_FOR,Data Discretization & Data Balancing,topic,,,DTSC_8140_triples_raw.json
+DTSC_8140,Data Reduction,topic,USED_FOR,Data Mining Techniques,topic,,topic used for something - check direction,DTSC_8140_triples_raw.json

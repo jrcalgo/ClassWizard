@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_4155,topic,Software Development Projects,Software Development Projects,1,verified,Software Development Projects,ITSC_4155_concepts_raw.json
+ITSC_4155,concept,Requirements Engineering,requirements engineering,1,verified,Requirements Engineering,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Design,design,2,verified,Design,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Implementation,implementation,1,verified,Implementation,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Deployment,deployment,1,verified,Deployment,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Evolution,evolution,1,verified,Evolution,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Object-Oriented Modeling,object-oriented modeling,1,verified,Object-Oriented Modeling,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Software Architecture,software architecture,1,verified,Software Architecture,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Architectural Styles,architectural styles,1,verified,Architectural Styles,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Design Patterns,design patterns,1,verified,Design Patterns,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Middleware Frameworks,middleware frameworks,1,verified,Middleware Frameworks,ITSC_4155_concepts_raw.json
+ITSC_4155,topic,Programming Paradigms,programming paradigms,1,verified,Programming Paradigms,ITSC_4155_concepts_raw.json

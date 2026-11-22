@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_3106,Determinants of Health,topic,PART_OF,Health Impact Assessment Tools,topic,,,HLTH_3106_triples_raw.json
+HLTH_3106,behavioral determinants of health,concept,PART_OF,Determinants of Health,topic,,,HLTH_3106_triples_raw.json
+HLTH_3106,biological determinants overview,concept,PART_OF,Determinants of Health,topic,,,HLTH_3106_triples_raw.json
+HLTH_3106,education and health disparities,concept,PART_OF,socioeconomic factors and health,concept,,,HLTH_3106_triples_raw.json
+HLTH_3106,lifestyle choices and health,concept,PART_OF,behavioral determinants of health,concept,,,HLTH_3106_triples_raw.json
+HLTH_3106,substance abuse and health,concept,PART_OF,behavioral determinants of health,concept,,,HLTH_3106_triples_raw.json
+HLTH_3106,racial and ethnic disparities in health,concept,PART_OF,Addressing Health Inequities through Policy,topic,,,HLTH_3106_triples_raw.json

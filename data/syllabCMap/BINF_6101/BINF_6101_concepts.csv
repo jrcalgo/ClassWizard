@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_6101,topic,biological macromolecules,biological macromolecules,2,verified,biological macromolecules,BINF_6101_concepts_raw.json
+BINF_6101,topic,physical forces,physical forces,1,verified,physical forces,BINF_6101_concepts_raw.json
+BINF_6101,topic,chemical driving forces,chemical driving forces,1,verified,chemical driving forces,BINF_6101_concepts_raw.json
+BINF_6101,topic,molecular roles,molecular roles,1,verified,molecular roles,BINF_6101_concepts_raw.json
+BINF_6101,concept,molecular interactions,molecular interactions,2,verified,molecular interactions,BINF_6101_concepts_raw.json
+BINF_6101,topic,biochemical basis of life,biochemical basis of life,1,verified,biochemical basis of life,BINF_6101_concepts_raw.json
+BINF_6101,concept,water structure,Water Structure,1,verified,water structure,BINF_6101_concepts_raw.json
+BINF_6101,concept,hydrogen bonding,Hydrogen Bonding,2,verified,hydrogen bonding,BINF_6101_concepts_raw.json
+BINF_6101,concept,van der waals forces,Van der Waals Forces,1,verified,van der waals forces,BINF_6101_concepts_raw.json
+BINF_6101,concept,electrostatic interactions,Electrostatic Interactions,1,verified,electrostatic interactions,BINF_6101_concepts_raw.json
+BINF_6101,concept,solvent effects,Solvent Effects,1,verified,solvent effects,BINF_6101_concepts_raw.json
+BINF_6101,concept,acid base equilibrium,Acid Base Equilibrium,1,verified,acid base equilibrium,BINF_6101_concepts_raw.json
+BINF_6101,concept,amino acid structure,Amino Acid Structure,1,verified,amino acid structure,BINF_6101_concepts_raw.json
+BINF_6101,concept,pH scale definition,pH Scale Definition,1,verified,pH scale definition,BINF_6101_concepts_raw.json
+BINF_6101,concept,titratable groups,Titratable Groups,1,verified,titratable groups,BINF_6101_concepts_raw.json
+BINF_6101,concept,zwitterion formation,Zwitterion Formation,1,verified,zwitterion formation,BINF_6101_concepts_raw.json
+BINF_6101,concept,protein secondary structure,Protein secondary structure,2,verified,protein secondary structure,BINF_6101_concepts_raw.json
+BINF_6101,concept,alpha helix formation,Alpha helix formation,2,verified,alpha helix formation,BINF_6101_concepts_raw.json
+BINF_6101,concept,beta sheet conformation,Beta sheet conformation,1,verified,beta sheet conformation,BINF_6101_concepts_raw.json
+BINF_6101,concept,tertiary protein structure,Tertiary protein structure,2,verified,tertiary protein structure,BINF_6101_concepts_raw.json
+BINF_6101,concept,quaternary protein structure,Quaternary protein structure,2,verified,quaternary protein structure,BINF_6101_concepts_raw.json
+BINF_6101,concept,hydrogen bonding in proteins,Hydrogen bonding in proteins,1,verified,hydrogen bonding in proteins,BINF_6101_concepts_raw.json
+BINF_6101,concept,disulfide bond formation,Disulfide bond formation,1,verified,disulfide bond formation,BINF_6101_concepts_raw.json
+BINF_6101,concept,protein folding mechanisms,Protein folding mechanisms,1,verified,protein folding mechanisms,BINF_6101_concepts_raw.json
+BINF_6101,concept,covalent and noncovalent interactions,Covalent and noncovalent interactions,1,verified,covalent and noncovalent interactions,BINF_6101_concepts_raw.json
+BINF_6101,concept,ligand binding sites,Ligand Binding Sites,1,verified,ligand binding sites,BINF_6101_concepts_raw.json
+BINF_6101,concept,protein-ligand interactions,Protein-Ligand Interactions,1,verified,protein-ligand interactions,BINF_6101_concepts_raw.json
+BINF_6101,concept,binding affinity constants,Binding Affinity Constants,1,verified,binding affinity constants,BINF_6101_concepts_raw.json
+BINF_6101,concept,molecular recognition mechanisms,Molecular Recognition Mechanisms,1,verified,molecular recognition mechanisms,BINF_6101_concepts_raw.json
+BINF_6101,concept,steric hindrance effects,Steric Hindrance Effects,1,verified,steric hindrance effects,BINF_6101_concepts_raw.json
+BINF_6101,concept,biochemical basis,biochemical basis,2,verified,biochemical basis,BINF_6101_concepts_raw.json
+BINF_6101,concept,macromolecular structure,Macromolecular structure,1,verified,macromolecular structure,BINF_6101_concepts_raw.json
+BINF_6101,concept,chemical forces,Chemical forces,1,verified,chemical forces,BINF_6101_concepts_raw.json

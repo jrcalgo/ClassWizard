@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_8101,ordinary least squares linear regression,concept,PREREQUISITE_OF,Logistic Regression,topic,A mentioned first,,GRAD_8101_triples_raw.json
+GRAD_8101,ordinary least squares linear regression,concept,PREREQUISITE_OF,Multinomial Logit,topic,A mentioned first,,GRAD_8101_triples_raw.json
+GRAD_8101,ordinary least squares linear regression,concept,PREREQUISITE_OF,Poisson Regression,topic,A mentioned first,,GRAD_8101_triples_raw.json
+GRAD_8101,Time Series,topic,PREREQUISITE_OF,Structural Equations,topic,A mentioned first,,GRAD_8101_triples_raw.json
+GRAD_8101,statistical theory,concept,PREREQUISITE_OF,regression analysis fundamentals,concept,B mentioned first,,GRAD_8101_triples_raw.json
+GRAD_8101,regression analysis fundamentals,concept,PART_OF,quantitative social science,concept,,,GRAD_8101_triples_raw.json
+GRAD_8101,predictive modeling techniques,concept,PART_OF,quantitative social science,concept,,,GRAD_8101_triples_raw.json
+GRAD_8101,societal research methods,concept,PART_OF,quantitative social science,concept,,,GRAD_8101_triples_raw.json
+GRAD_8101,ordinary least squares linear regression,concept,PART_OF,Linear Regression,topic,,,GRAD_8101_triples_raw.json
+GRAD_8101,Logistic Regression,topic,PART_OF,Non-Linear Models,topic,,,GRAD_8101_triples_raw.json
+GRAD_8101,Multinomial Logit,topic,PART_OF,Non-Linear Models,topic,,,GRAD_8101_triples_raw.json
+GRAD_8101,Poisson Regression,topic,PART_OF,Non-Linear Models,topic,,,GRAD_8101_triples_raw.json
+GRAD_8101,ordinary least squares linear regression,concept,SUBTYPE_OF,Linear Regression,topic,,,GRAD_8101_triples_raw.json
+GRAD_8101,Logistic Regression,topic,SUBTYPE_OF,Non-Linear Models,topic,,,GRAD_8101_triples_raw.json
+GRAD_8101,Multinomial Logit,topic,SUBTYPE_OF,Non-Linear Models,topic,,,GRAD_8101_triples_raw.json
+GRAD_8101,Poisson Regression,topic,SUBTYPE_OF,Non-Linear Models,topic,,,GRAD_8101_triples_raw.json
+GRAD_8101,reproducible workflows in R and Quarto,concept,USED_FOR,regression analysis fundamentals,concept,,,GRAD_8101_triples_raw.json

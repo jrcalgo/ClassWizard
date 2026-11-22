@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_4360,Depressants,topic,PART_OF,Pharmacology,topic,,,CJUS_4360_triples_raw.json
+CJUS_4360,Alcohol pharmacology and chemistry,concept,PART_OF,Depressants,topic,,,CJUS_4360_triples_raw.json

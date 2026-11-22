@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_6217,topic,Consensus Mechanisms,consensus mechanisms,1,verified,Consensus Mechanisms,FINN_6217_concepts_raw.json
+FINN_6217,topic,Smart Contracts in Solidity,smart contracts in Solidity,1,verified,Smart Contracts in Solidity,FINN_6217_concepts_raw.json
+FINN_6217,topic,Decentralized Finance Applications,decentralized finance applications,1,verified,Decentralized Finance Applications,FINN_6217_concepts_raw.json
+FINN_6217,topic,Blockchain Fundamentals,Blockchain Fundamentals,1,inferred,Blockchain Fundamentals,FINN_6217_concepts_raw.json
+FINN_6217,topic,Cryptocurrency Generation,Cryptocurrency Generation,1,inferred,Cryptocurrency Generation,FINN_6217_concepts_raw.json
+FINN_6217,topic,Blockchain Transactions,Blockchain Transactions,1,inferred,Blockchain Transactions,FINN_6217_concepts_raw.json
+FINN_6217,topic,Cryptography Primitives,Cryptography Primitives,1,inferred,Cryptography Primitives,FINN_6217_concepts_raw.json
+FINN_6217,topic,Regulatory and Legal Issues,Regulatory and Legal Issues,1,inferred,Regulatory and Legal Issues,FINN_6217_concepts_raw.json
+FINN_6217,concept,Blockchain Definition,Blockchain Definition,1,inferred,Blockchain Definition,FINN_6217_concepts_raw.json
+FINN_6217,concept,Decentralized Ledger Technology,Decentralized Ledger Technology,1,inferred,Decentralized Ledger Technology,FINN_6217_concepts_raw.json
+FINN_6217,concept,Consensus Mechanisms Overview,Consensus Mechanisms Overview,1,inferred,Consensus Mechanisms Overview,FINN_6217_concepts_raw.json
+FINN_6217,concept,Mining Process Explanation,Mining Process Explanation,1,inferred,Mining Process Explanation,FINN_6217_concepts_raw.json
+FINN_6217,concept,Proof of Work Algorithm,Proof of Work Algorithm,1,inferred,Proof of Work Algorithm,FINN_6217_concepts_raw.json
+FINN_6217,concept,Cryptocurrency Supply Management,Cryptocurrency Supply Management,1,inferred,Cryptocurrency Supply Management,FINN_6217_concepts_raw.json
+FINN_6217,concept,Transaction Validation Process,Transaction Validation Process,1,inferred,Transaction Validation Process,FINN_6217_concepts_raw.json
+FINN_6217,concept,Block Structure and Format,Block Structure and Format,1,inferred,Block Structure and Format,FINN_6217_concepts_raw.json
+FINN_6217,concept,Transaction Fees and Gas,Transaction Fees and Gas,1,inferred,Transaction Fees and Gas,FINN_6217_concepts_raw.json
+FINN_6217,concept,Hash Function Explanation,Hash Function Explanation,1,inferred,Hash Function Explanation,FINN_6217_concepts_raw.json
+FINN_6217,concept,Public Key Cryptography Basics,Public Key Cryptography Basics,1,inferred,Public Key Cryptography Basics,FINN_6217_concepts_raw.json
+FINN_6217,concept,Digital Signatures Overview,Digital Signatures Overview,1,inferred,Digital Signatures Overview,FINN_6217_concepts_raw.json
+FINN_6217,concept,Proof of Work (PoW) Details,Proof of Work (PoW) Details,1,inferred,Proof of Work (PoW) Details,FINN_6217_concepts_raw.json
+FINN_6217,concept,Proof of Stake (PoS) Mechanics,Proof of Stake (PoS) Mechanics,1,inferred,Proof of Stake (PoS) Mechanics,FINN_6217_concepts_raw.json
+FINN_6217,concept,Byzantine Fault Tolerance,Byzantine Fault Tolerance,1,inferred,Byzantine Fault Tolerance,FINN_6217_concepts_raw.json
+FINN_6217,concept,Solidity Programming Language,Solidity Programming Language,1,inferred,Solidity Programming Language,FINN_6217_concepts_raw.json
+FINN_6217,concept,Contract Deployment and Execution,Contract Deployment and Execution,1,inferred,Contract Deployment and Execution,FINN_6217_concepts_raw.json
+FINN_6217,concept,Gas and Transaction Costs,Gas and Transaction Costs,1,inferred,Gas and Transaction Costs,FINN_6217_concepts_raw.json
+FINN_6217,concept,Decentralized Exchanges (DEXs,Decentralized Exchanges (DEXs,1,inferred,Decentralized Exchanges (DEXs),FINN_6217_concepts_raw.json
+FINN_6217,concept,Stablecoins and Price Stability,Stablecoins and Price Stability,1,inferred,Stablecoins and Price Stability,FINN_6217_concepts_raw.json
+FINN_6217,concept,Lending Platforms and Interest Rates,Lending Platforms and Interest Rates,1,inferred,Lending Platforms and Interest Rates,FINN_6217_concepts_raw.json
+FINN_6217,concept,Blockchain Regulation Overview,Blockchain Regulation Overview,1,inferred,Blockchain Regulation Overview,FINN_6217_concepts_raw.json
+FINN_6217,concept,Compliance with Anti-Money Laundering,Compliance with Anti-Money Laundering,1,inferred,Compliance with Anti-Money Laundering,FINN_6217_concepts_raw.json
+FINN_6217,concept,Intellectual Property Rights in Blockchain,Intellectual Property Rights in Blockchain,1,inferred,Intellectual Property Rights in Blockchain,FINN_6217_concepts_raw.json

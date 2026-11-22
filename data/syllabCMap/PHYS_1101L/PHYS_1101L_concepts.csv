@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_1101L,topic,Laboratory,Laboratory,2,verified,Laboratory,PHYS_1101L_concepts_raw.json
+PHYS_1101L,topic,Measurement Techniques,Measurement Techniques,1,inferred,Measurement Techniques,PHYS_1101L_concepts_raw.json
+PHYS_1101L,topic,Motion Lab,Motion Lab,1,inferred,Motion Lab,PHYS_1101L_concepts_raw.json
+PHYS_1101L,topic,Force and Motion,Force and Motion,1,inferred,Force and Motion,PHYS_1101L_concepts_raw.json
+PHYS_1101L,topic,Work and Energy,Work and Energy,1,inferred,Work and Energy,PHYS_1101L_concepts_raw.json
+PHYS_1101L,topic,Momentum Lab,Momentum Lab,1,inferred,Momentum Lab,PHYS_1101L_concepts_raw.json
+PHYS_1101L,topic,Rotational Motion,Rotational Motion,1,inferred,Rotational Motion,PHYS_1101L_concepts_raw.json
+PHYS_1101L,topic,Computer Simulation Lab,Computer Simulation Lab,1,inferred,Computer Simulation Lab,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Scientific Investigation Process,Scientific Investigation Process,1,inferred,Scientific Investigation Process,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Lab Safety Protocols,Lab Safety Protocols,1,inferred,Lab Safety Protocols,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Experimental Apparatus Familiarization,Experimental Apparatus Familiarization,1,inferred,Experimental Apparatus Familiarization,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Precision and Accuracy,Precision and Accuracy,1,inferred,Precision and Accuracy,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Significant Figures Rules,Significant Figures Rules,1,inferred,Significant Figures Rules,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Data Collection Methods,Data Collection Methods,1,inferred,Data Collection Methods,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Kinematics Concepts Review,Kinematics Concepts Review,1,inferred,Kinematics Concepts Review,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Velocity and Acceleration Measurement,Velocity and Acceleration Measurement,1,inferred,Velocity and Acceleration Measurement,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Graphical Analysis Techniques,Graphical Analysis Techniques,1,inferred,Graphical Analysis Techniques,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Newton's Laws of Motion,Newton's Laws of Motion,1,inferred,Newton's Laws of Motion,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Frictional Forces Types,Frictional Forces Types,1,inferred,Frictional Forces Types,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Energy Conservation Principles,Energy Conservation Principles,1,inferred,Energy Conservation Principles,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Work-Energy Theorem Application,Work-Energy Theorem Application,1,inferred,Work-Energy Theorem Application,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Kinetic Energy Calculation,Kinetic Energy Calculation,1,inferred,Kinetic Energy Calculation,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Potential Energy Concepts,Potential Energy Concepts,1,inferred,Potential Energy Concepts,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Linear Momentum Conservation,Linear Momentum Conservation,1,inferred,Linear Momentum Conservation,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Impulse-Momentum Relationship,Impulse-Momentum Relationship,1,inferred,Impulse-Momentum Relationship,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Collisions Types Analysis,Collisions Types Analysis,1,inferred,Collisions Types Analysis,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Torque and Rotational Kinematics,Torque and Rotational Kinematics,1,inferred,Torque and Rotational Kinematics,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Angular Momentum Principles,Angular Momentum Principles,1,inferred,Angular Momentum Principles,PHYS_1101L_concepts_raw.json
+PHYS_1101L,concept,Moment of Inertia Calculation,Moment of Inertia Calculation,1,inferred,Moment of Inertia Calculation,PHYS_1101L_concepts_raw.json

@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_2380,Policing in Colonial Era,concept,PREREQUISITE_OF,Policing in Industrial Era,concept,same unit,,CJUS_2380_triples_raw.json
+CJUS_2380,Policing in Industrial Era,concept,PREREQUISITE_OF,Policing in Modern Era,concept,same unit,,CJUS_2380_triples_raw.json
+CJUS_2380,Policing in Colonial Era,concept,PART_OF,American Law Enforcement History,concept,,,CJUS_2380_triples_raw.json
+CJUS_2380,Policing in Industrial Era,concept,PART_OF,American Law Enforcement History,concept,,,CJUS_2380_triples_raw.json
+CJUS_2380,Policing in Modern Era,concept,PART_OF,American Law Enforcement History,concept,,,CJUS_2380_triples_raw.json
+CJUS_2380,Contemporary Law Enforcement Culture,concept,PART_OF,LEA Organizational Hierarchy,concept,,,CJUS_2380_triples_raw.json

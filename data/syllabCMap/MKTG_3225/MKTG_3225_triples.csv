@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3225,Point-of-Purchase Communications,topic,PART_OF,Integrated Marketing Communications,topic,,,MKTG_3225_triples_raw.json
+MKTG_3225,brand equity,concept,PART_OF,Integrated Marketing Communications,topic,,,MKTG_3225_triples_raw.json

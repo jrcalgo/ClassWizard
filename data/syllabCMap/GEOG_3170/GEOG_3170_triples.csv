@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_3170,Sustainability,topic,PREREQUISITE_OF,Renewable Energies,topic,A taught first,,GEOG_3170_triples_raw.json
+GEOG_3170,Sustainability,topic,PREREQUISITE_OF,Waste Management,topic,A taught first,,GEOG_3170_triples_raw.json
+GEOG_3170,Sustainability,topic,PREREQUISITE_OF,Food Systems,topic,A taught first,,GEOG_3170_triples_raw.json
+GEOG_3170,Sustainability,topic,PREREQUISITE_OF,Climate Change,topic,A taught first,,GEOG_3170_triples_raw.json
+GEOG_3170,Sustainability,topic,PREREQUISITE_OF,Public Goods,topic,A taught first,,GEOG_3170_triples_raw.json
+GEOG_3170,Sustainability,topic,PREREQUISITE_OF,Urban Design and Planning,topic,A taught first,,GEOG_3170_triples_raw.json
+GEOG_3170,Sustainability,topic,PREREQUISITE_OF,Geoheritage,topic,A mentioned first,,GEOG_3170_triples_raw.json
+GEOG_3170,biodiversity conservation,concept,PREREQUISITE_OF,Conservation,topic,B taught first,B is taught before A - check,GEOG_3170_triples_raw.json
+GEOG_3170,Renewable Energies,topic,PART_OF,Sustainability,topic,,,GEOG_3170_triples_raw.json
+GEOG_3170,Waste Management,topic,PART_OF,Sustainability,topic,,,GEOG_3170_triples_raw.json
+GEOG_3170,Food Systems,topic,PART_OF,Sustainability,topic,,,GEOG_3170_triples_raw.json
+GEOG_3170,Climate Change,topic,PART_OF,Sustainability,topic,,,GEOG_3170_triples_raw.json
+GEOG_3170,Public Goods,topic,PART_OF,Sustainability,topic,,,GEOG_3170_triples_raw.json
+GEOG_3170,Urban Design and Planning,topic,PART_OF,Sustainability,topic,,,GEOG_3170_triples_raw.json
+GEOG_3170,Geoheritage,topic,PART_OF,Sustainability,topic,,,GEOG_3170_triples_raw.json
+GEOG_3170,biodiversity conservation,concept,PART_OF,Conservation,topic,,,GEOG_3170_triples_raw.json
+GEOG_3170,Land Management,topic,PART_OF,Sustainability,topic,,,GEOG_3170_triples_raw.json
+GEOG_3170,biodiversity conservation,concept,SUBTYPE_OF,Conservation,topic,,,GEOG_3170_triples_raw.json

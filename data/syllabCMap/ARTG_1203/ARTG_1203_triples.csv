@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_1203,design process,concept,PREREQUISITE_OF,design aesthetics,concept,same unit,,ARTG_1203_triples_raw.json
+ARTG_1203,design aesthetics,concept,PART_OF,Formal Elements and Principles,topic,,,ARTG_1203_triples_raw.json

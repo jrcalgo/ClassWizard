@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_1600,setting career goals,concept,PREREQUISITE_OF,defining professional identity,concept,same unit,,ITSC_1600_triples_raw.json
+ITSC_1600,building a support network,concept,PREREQUISITE_OF,getting involved on campus,concept,same unit,,ITSC_1600_triples_raw.json
+ITSC_1600,industry partnerships,concept,PREREQUISITE_OF,emerging technologies,concept,same unit,,ITSC_1600_triples_raw.json
+ITSC_1600,exploring university resources,concept,PREREQUISITE_OF,getting involved on campus,concept,same unit,,ITSC_1600_triples_raw.json
+ITSC_1600,setting future goals,concept,PREREQUISITE_OF,developing a personal brand,concept,same unit,,ITSC_1600_triples_raw.json
+ITSC_1600,setting career goals,concept,PART_OF,Building a Professional Profile,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,defining professional identity,concept,PART_OF,Building a Professional Profile,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,creating a resume,concept,PART_OF,Building a Professional Profile,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,developing technical skills,concept,PART_OF,Building a Professional Profile,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,identifying student organizations,concept,PART_OF,Building a Professional Profile,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,prioritizing tasks,concept,PART_OF,Time Management and Organization,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,managing workload,concept,PART_OF,Time Management and Organization,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,effective note-taking,concept,PART_OF,Time Management and Organization,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,building professional relationships,concept,PART_OF,Networking and Teamwork,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,collaborative problem-solving,concept,PART_OF,Networking and Teamwork,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,conflict resolution strategies,concept,PART_OF,Networking and Teamwork,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,industry partnerships,concept,PART_OF,Career Development in IT,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,professional certifications,concept,PART_OF,Career Development in IT,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,emerging technologies,concept,PART_OF,Career Development in IT,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,exploring university resources,concept,PART_OF,Charlotte Takeoff and Campus Connections,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,getting involved on campus,concept,PART_OF,Charlotte Takeoff and Campus Connections,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,building a support network,concept,PART_OF,Charlotte Takeoff and Campus Connections,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,designing effective solutions,concept,PART_OF,Critical Thinking in Computing,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,Critical Thinking in Computing,topic,PART_OF,evaluating technical evidence,concept,,part is broader than whole - check direction,ITSC_1600_triples_raw.json
+ITSC_1600,reflecting on professional growth,concept,PART_OF,Reflection and Goal-Setting,topic,,,ITSC_1600_triples_raw.json
+ITSC_1600,setting future goals,concept,PART_OF,Reflection and Goal-Setting,topic,,,ITSC_1600_triples_raw.json

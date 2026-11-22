@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4123,topic,Visualization and Visual Communication,Visualization and Visual Communication,1,verified,Visualization and Visual Communication,ITCS_4123_concepts_raw.json
+ITCS_4123,topic,Visualization,Visualization,8,verified,Introduction to Visualization,ITCS_4123_concepts_raw.json
+ITCS_4123,topic,Geospatial Visualization,geospatial visualization,1,verified,Geospatial Visualization,ITCS_4123_concepts_raw.json
+ITCS_4123,topic,Time-Series Visualization,time-series visualization,1,verified,Time-Series Visualization,ITCS_4123_concepts_raw.json
+ITCS_4123,topic,Social Network Visualization,social network visualization,1,verified,Social Network Visualization,ITCS_4123_concepts_raw.json

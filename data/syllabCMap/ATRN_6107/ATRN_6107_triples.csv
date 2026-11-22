@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ATRN_6107,Health-Related Quality of Life,concept,PREREQUISITE_OF,Clinical Outcomes Assessment,topic,A taught first,,ATRN_6107_triples_raw.json
+ATRN_6107,Clinician-Based Outcomes Measures,concept,PREREQUISITE_OF,Clinical Outcomes Assessment,topic,A taught first,,ATRN_6107_triples_raw.json
+ATRN_6107,Likelihood Ratios,measure,PREREQUISITE_OF,Diagnostic Accuracy Concepts,topic,same unit,,ATRN_6107_triples_raw.json
+ATRN_6107,Prediction Values,measure,PREREQUISITE_OF,Diagnostic Accuracy Concepts,topic,B mentioned first,,ATRN_6107_triples_raw.json
+ATRN_6107,Pre-test and post-test probabilities,measure,PREREQUISITE_OF,Diagnostic Accuracy Concepts,topic,B mentioned first,,ATRN_6107_triples_raw.json
+ATRN_6107,Health-Related Quality of Life,concept,PART_OF,Clinical Outcomes Assessment,topic,,,ATRN_6107_triples_raw.json
+ATRN_6107,Clinician-Based Outcomes Measures,concept,PART_OF,Clinical Outcomes Assessment,topic,,,ATRN_6107_triples_raw.json
+ATRN_6107,Likelihood Ratios,measure,PART_OF,Diagnostic Accuracy Concepts,topic,,,ATRN_6107_triples_raw.json
+ATRN_6107,Receiver Operating Curves,measure,PART_OF,Diagnostic Accuracy Concepts,topic,,,ATRN_6107_triples_raw.json
+ATRN_6107,Receiver Operating Curves,measure,USED_FOR,Diagnostic Accuracy Concepts,topic,,,ATRN_6107_triples_raw.json

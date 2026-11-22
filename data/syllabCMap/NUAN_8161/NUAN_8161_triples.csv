@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUAN_8161,anesthesia machine check,method,PART_OF,basic anesthesia cart assembly,method,,,NUAN_8161_triples_raw.json
+NUAN_8161,principles of blood-borne precautions,method,PART_OF,blood-borne precautions,topic,,,NUAN_8161_triples_raw.json

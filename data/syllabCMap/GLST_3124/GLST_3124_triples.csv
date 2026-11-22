@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_3124,Intersectional Positionality,concept,PREREQUISITE_OF,Transnational Solidarity Networks,concept,A taught first,,GLST_3124_triples_raw.json
+GLST_3124,Intersectional Positionality,concept,PREREQUISITE_OF,Border Crossing Theories,concept,A taught first,,GLST_3124_triples_raw.json
+GLST_3124,Intersectional Positionality,concept,PREREQUISITE_OF,Cultural Translation Practices,concept,A taught first,,GLST_3124_triples_raw.json
+GLST_3124,Intersectional Positionality,concept,PREREQUISITE_OF,Human Rights Activism Strategies,concept,A taught first,,GLST_3124_triples_raw.json
+GLST_3124,Intersectional Positionality,concept,PREREQUISITE_OF,Global Equality Struggles,concept,A taught first,,GLST_3124_triples_raw.json
+GLST_3124,Intersectional Positionality,concept,PREREQUISITE_OF,Social Movement Theories,concept,A taught first,,GLST_3124_triples_raw.json
+GLST_3124,Intersectional Positionality,concept,PREREQUISITE_OF,Empowerment through Solidarity,concept,A taught first,,GLST_3124_triples_raw.json
+GLST_3124,Intersectional Positionality,concept,PREREQUISITE_OF,Global Injustice Analysis,concept,A taught first,,GLST_3124_triples_raw.json
+GLST_3124,Intersectional Positionality,concept,PREREQUISITE_OF,Solidarity as a Political Act,concept,A taught first,,GLST_3124_triples_raw.json
+GLST_3124,Power Dynamics Analysis,concept,PART_OF,Intersectionality Basics,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Social Justice Frameworks,concept,PART_OF,Intersectionality Basics,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Border Crossing Theories,concept,PART_OF,Translation as Politics,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Language and Power Relations,concept,PART_OF,Translation as Politics,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Cultural Translation Practices,concept,PART_OF,Translation as Politics,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Transnational Solidarity Networks,concept,PART_OF,Global Justice Movements,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Human Rights Activism Strategies,concept,PART_OF,Global Justice Movements,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Global Equality Struggles,concept,PART_OF,Global Justice Movements,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Local-Global Connections,topic,PART_OF,Locality and Globality Intersections,concept,,part is broader than whole - check direction,GLST_3124_triples_raw.json
+GLST_3124,Local-Global Connections,topic,PART_OF,Justice and Equality Frameworks,concept,,part is broader than whole - check direction,GLST_3124_triples_raw.json
+GLST_3124,Contextualizing Global Issues,concept,PART_OF,Local-Global Connections,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Social Movement Theories,concept,PART_OF,Solidarity-Based Movements,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Empowerment through Solidarity,concept,PART_OF,Solidarity-Based Movements,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Global Injustice Analysis,concept,PART_OF,Urgency and Possibility,topic,,,GLST_3124_triples_raw.json
+GLST_3124,Solidarity as a Political Act,concept,PART_OF,Urgency and Possibility,topic,,,GLST_3124_triples_raw.json

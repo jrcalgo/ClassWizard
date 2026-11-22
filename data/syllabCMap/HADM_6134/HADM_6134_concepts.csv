@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HADM_6134,topic,Theories and Concepts,theories and concepts,1,verified,Theories and Concepts,HADM_6134_concepts_raw.json
+HADM_6134,topic,Outcomes and Performance Measurement,outcomes and performance measurement,1,verified,Outcomes and Performance Measurement,HADM_6134_concepts_raw.json
+HADM_6134,topic,Strategic Planning and Management,strategic planning and management,1,verified,Strategic Planning and Management,HADM_6134_concepts_raw.json
+HADM_6134,topic,Quality Movement Overview,Quality Movement Overview,1,inferred,Quality Movement Overview,HADM_6134_concepts_raw.json
+HADM_6134,topic,Quality Improvement Tools,Quality Improvement Tools,1,inferred,Quality Improvement Tools,HADM_6134_concepts_raw.json
+HADM_6134,topic,Organizational Change Models,Organizational Change Models,1,inferred,Organizational Change Models,HADM_6134_concepts_raw.json
+HADM_6134,topic,Practice Variations and Improvement,Practice Variations and Improvement,1,inferred,Practice Variations and Improvement,HADM_6134_concepts_raw.json
+HADM_6134,topic,Healthcare Organizational Performance,Healthcare Organizational Performance,1,inferred,Healthcare Organizational Performance,HADM_6134_concepts_raw.json
+HADM_6134,topic,Analytical Tools for Decision Making,Analytical Tools for Decision Making,1,inferred,Analytical Tools for Decision Making,HADM_6134_concepts_raw.json
+HADM_6134,concept,Total Quality Management,Total Quality Management,1,inferred,Total Quality Management,HADM_6134_concepts_raw.json
+HADM_6134,concept,Six Sigma Methodology,Six Sigma Methodology,1,inferred,Six Sigma Methodology,HADM_6134_concepts_raw.json
+HADM_6134,concept,Lean Healthcare Principles,Lean Healthcare Principles,1,inferred,Lean Healthcare Principles,HADM_6134_concepts_raw.json
+HADM_6134,method,Root Cause Analysis,Root Cause Analysis,1,inferred,Root Cause Analysis,HADM_6134_concepts_raw.json
+HADM_6134,method,Fishbone Diagrams,Fishbone Diagrams,1,inferred,Fishbone Diagrams,HADM_6134_concepts_raw.json
+HADM_6134,method,Pareto Charts,Pareto Charts,1,inferred,Pareto Charts,HADM_6134_concepts_raw.json
+HADM_6134,measure,Clinical Performance Metrics,Clinical Performance Metrics,1,inferred,Clinical Performance Metrics,HADM_6134_concepts_raw.json
+HADM_6134,measure,Healthcare Outcomes Indicators,Healthcare Outcomes Indicators,1,inferred,Healthcare Outcomes Indicators,HADM_6134_concepts_raw.json
+HADM_6134,measure,Patient Satisfaction Measures,Patient Satisfaction Measures,1,inferred,Patient Satisfaction Measures,HADM_6134_concepts_raw.json
+HADM_6134,concept,Kotter's 8-Step Model,Kotter's 8-Step Model,1,inferred,Kotter's 8-Step Model,HADM_6134_concepts_raw.json
+HADM_6134,concept,Lewin's Change Theory,Lewin's Change Theory,1,inferred,Lewin's Change Theory,HADM_6134_concepts_raw.json
+HADM_6134,concept,Adoption and Diffusion,Adoption and Diffusion,1,inferred,Adoption and Diffusion,HADM_6134_concepts_raw.json
+HADM_6134,concept,SWOT Analysis,SWOT Analysis,1,inferred,SWOT Analysis,HADM_6134_concepts_raw.json
+HADM_6134,concept,Balanced Scorecard,Balanced Scorecard,1,inferred,Balanced Scorecard,HADM_6134_concepts_raw.json
+HADM_6134,concept,Quality Improvement Frameworks,Quality Improvement Frameworks,1,inferred,Quality Improvement Frameworks,HADM_6134_concepts_raw.json
+HADM_6134,concept,Variation in Healthcare Practice,Variation in Healthcare Practice,1,inferred,Variation in Healthcare Practice,HADM_6134_concepts_raw.json
+HADM_6134,concept,Improvement Science Principles,Improvement Science Principles,1,inferred,Improvement Science Principles,HADM_6134_concepts_raw.json
+HADM_6134,concept,Evidence-Based Medicine,Evidence-Based Medicine,1,inferred,Evidence-Based Medicine,HADM_6134_concepts_raw.json
+HADM_6134,measure,Organizational Performance Metrics,Organizational Performance Metrics,1,inferred,Organizational Performance Metrics,HADM_6134_concepts_raw.json
+HADM_6134,measure,System Performance Indicators,System Performance Indicators,1,inferred,System Performance Indicators,HADM_6134_concepts_raw.json
+HADM_6134,concept,Quality and Safety Culture,Quality and Safety Culture,1,inferred,Quality and Safety Culture,HADM_6134_concepts_raw.json
+HADM_6134,method,Data Analysis Techniques,Data Analysis Techniques,1,inferred,Data Analysis Techniques,HADM_6134_concepts_raw.json
+HADM_6134,method,Statistical Process Control,Statistical Process Control,1,inferred,Statistical Process Control,HADM_6134_concepts_raw.json

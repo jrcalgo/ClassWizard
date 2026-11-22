@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_6611,rapid qualitative appraisals,method,PREREQUISITE_OF,participatory action research,method,same unit,,ANTH_6611_triples_raw.json
+ANTH_6611,needs assessment,method,PREREQUISITE_OF,evaluation,method,same unit,,ANTH_6611_triples_raw.json
+ANTH_6611,needs assessment,method,PART_OF,needs assessment and evaluation,topic,,,ANTH_6611_triples_raw.json
+ANTH_6611,evaluation,method,PART_OF,needs assessment and evaluation,topic,,,ANTH_6611_triples_raw.json
+ANTH_6611,participatory action research,method,USED_FOR,needs assessment and evaluation,topic,,,ANTH_6611_triples_raw.json
+ANTH_6611,community participatory involvement research,method,USED_FOR,needs assessment and evaluation,topic,,,ANTH_6611_triples_raw.json
+ANTH_6611,needs assessment,method,USED_FOR,needs assessment and evaluation,topic,,,ANTH_6611_triples_raw.json

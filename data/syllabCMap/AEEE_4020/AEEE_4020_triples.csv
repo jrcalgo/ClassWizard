@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AEEE_4020,conservation laws,topic,PREREQUISITE_OF,internal and external flows,topic,A mentioned first,,AEEE_4020_triples_raw.json
+AEEE_4020,fluid properties,topic,PREREQUISITE_OF,fluid statics,topic,A taught first,,AEEE_4020_triples_raw.json
+AEEE_4020,fluid statics,topic,PREREQUISITE_OF,conservation laws,topic,A taught first,,AEEE_4020_triples_raw.json
+AEEE_4020,dimensional analysis,method,PREREQUISITE_OF,pressure losses,topic,A taught first,,AEEE_4020_triples_raw.json
+AEEE_4020,pumps,topic,PREREQUISITE_OF,flow measurement,topic,A taught first,,AEEE_4020_triples_raw.json
+AEEE_4020,electromechanical devices,topic,PREREQUISITE_OF,internal and external flows,topic,A mentioned first,,AEEE_4020_triples_raw.json
+AEEE_4020,dimensional analysis,method,USED_FOR,pressure losses,topic,,,AEEE_4020_triples_raw.json

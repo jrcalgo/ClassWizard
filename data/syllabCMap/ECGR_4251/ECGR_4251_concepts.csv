@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4251,topic,Engineering,engineering,3,verified,Engineering,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Design Philosophy,design philosophies,1,verified,Design Philosophy,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Social Engineering,social engineering,1,verified,Social Engineering,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Project Formation,Project Formation,1,inferred,Project Formation,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Project Planning,Project Planning,1,inferred,Project Planning,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Conceptual Design,Conceptual Design,1,inferred,Conceptual Design,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Preliminary Design Review,Preliminary Design Review,1,inferred,Preliminary Design Review,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Progress Evaluation,Progress Evaluation,2,inferred,Progress Evaluation,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Project Execution,Project Execution,1,inferred,Project Execution,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Final Report and Design Package,Final Report and Design Package,1,inferred,Final Report and Design Package,ECGR_4251_concepts_raw.json
+ECGR_4251,topic,Expo Presentation and Poster,Expo Presentation and Poster,1,inferred,Expo Presentation and Poster,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Team Formation Process,Team Formation Process,1,inferred,Team Formation Process,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Client Project Briefing,Client Project Briefing,1,inferred,Client Project Briefing,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Project Scope Definition,Project Scope Definition,1,inferred,Project Scope Definition,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Engineering Design Principles,Engineering Design Principles,1,inferred,Engineering Design Principles,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Design Standards and Guidelines,Design Standards and Guidelines,1,inferred,Design Standards and Guidelines,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Problem-Solving Strategies,Problem-Solving Strategies,1,inferred,Problem-Solving Strategies,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Time Management Techniques,Time Management Techniques,1,inferred,Time Management Techniques,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Budgeting and Cost Estimation,Budgeting and Cost Estimation,1,inferred,Budgeting and Cost Estimation,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Risk Assessment and Mitigation,Risk Assessment and Mitigation,1,inferred,Risk Assessment and Mitigation,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Design Concept Development,Design Concept Development,1,inferred,Design Concept Development,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Feasibility Study and Analysis,Feasibility Study and Analysis,1,inferred,Feasibility Study and Analysis,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Initial Design Specifications,Initial Design Specifications,1,inferred,Initial Design Specifications,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Design Review Process and Criteria,Design Review Process and Criteria,1,inferred,Design Review Process and Criteria,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Client Feedback and Expectations,Client Feedback and Expectations,1,inferred,Client Feedback and Expectations,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Design Iteration and Refinement,Design Iteration and Refinement,1,inferred,Design Iteration and Refinement,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Project Progress Monitoring,Project Progress Monitoring,1,inferred,Project Progress Monitoring,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Team Performance Assessment,Team Performance Assessment,1,inferred,Team Performance Assessment,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Adjustments to Project Plan,Adjustments to Project Plan,2,inferred,Adjustments to Project Plan,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Communication and Teamwork Skills,Communication and Teamwork Skills,1,inferred,Communication and Teamwork Skills,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Client Relationship Management,Client Relationship Management,1,inferred,Client Relationship Management,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Professional Development Opportunities,Professional Development Opportunities,1,inferred,Professional Development Opportunities,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Design Implementation and Testing,Design Implementation and Testing,1,inferred,Design Implementation and Testing,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Quality Control and Assurance,Quality Control and Assurance,1,inferred,Quality Control and Assurance,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Project Timeline and Milestones,Project Timeline and Milestones,1,inferred,Project Timeline and Milestones,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Ongoing Project Monitoring and Feedback,Ongoing Project Monitoring and Feedback,1,inferred,Ongoing Project Monitoring and Feedback,ECGR_4251_concepts_raw.json
+ECGR_4251,concept,Team Performance and Progress Assessment,Team Performance and Progress Assessment,1,inferred,Team Performance and Progress Assessment,ECGR_4251_concepts_raw.json

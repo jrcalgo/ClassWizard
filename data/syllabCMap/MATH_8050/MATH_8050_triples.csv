@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_8050,Banach Spaces Basics,topic,PREREQUISITE_OF,Linear Operators,topic,A taught first,,MATH_8050_triples_raw.json
+MATH_8050,Banach Spaces Basics,topic,PREREQUISITE_OF,Hilbert Space Operators,topic,A taught first,,MATH_8050_triples_raw.json
+MATH_8050,Banach Spaces Basics,topic,PREREQUISITE_OF,Applications to DEs,topic,A taught first,,MATH_8050_triples_raw.json
+MATH_8050,Linear Operators,topic,PREREQUISITE_OF,Spectral Theory I,topic,A taught first,,MATH_8050_triples_raw.json
+MATH_8050,Linear Operators,topic,PREREQUISITE_OF,Hilbert Space Operators,topic,A taught first,,MATH_8050_triples_raw.json
+MATH_8050,Linear Operators,topic,PREREQUISITE_OF,Applications to DEs,topic,A taught first,,MATH_8050_triples_raw.json
+MATH_8050,Spectral Theory I,topic,PREREQUISITE_OF,Hilbert Space Operators,topic,A taught first,,MATH_8050_triples_raw.json
+MATH_8050,Spectral Theory I,topic,PREREQUISITE_OF,Applications to DEs,topic,A taught first,,MATH_8050_triples_raw.json
+MATH_8050,Hilbert Space Operators,topic,PREREQUISITE_OF,Applications to DEs,topic,A taught first,,MATH_8050_triples_raw.json
+MATH_8050,Normed Vector Space Definition,concept,PART_OF,Banach Spaces Basics,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Baire Category Theorem,concept,PART_OF,Banach Spaces Basics,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Operator Norm Definition,concept,PART_OF,Linear Operators,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Continuous Linear Operator,concept,PART_OF,Linear Operators,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Closed Graph Theorem,concept,PART_OF,Linear Operators,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Spectrum of an Operator,concept,PART_OF,Spectral Theory I,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Resolvent Set Explanation,concept,PART_OF,Spectral Theory I,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Spectral Radius Formula,concept,PART_OF,Spectral Theory I,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Spectral Theory,topic,PART_OF,Spectral Theory I,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Self-Adjoint Operator Definition,concept,PART_OF,Hilbert Space Operators,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Unitary Operator Properties,concept,PART_OF,Hilbert Space Operators,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Spectral Theorem Statement,concept,PART_OF,Hilbert Space Operators,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Linear Differential Equation Solution,concept,PART_OF,Applications to DEs,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Integral Equations Formulation,concept,PART_OF,Applications to DEs,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Spectral Radius Formula,concept,USED_FOR,Spectral Theory,topic,,,MATH_8050_triples_raw.json
+MATH_8050,Spectral Theorem Statement,concept,USED_FOR,Spectral Theory,topic,,,MATH_8050_triples_raw.json

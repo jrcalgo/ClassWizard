@@ -1,0 +1,38 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_2171,applied anthropology,concept,PREREQUISITE_OF,cultural understanding,concept,same unit,,ANTH_2171_triples_raw.json
+ANTH_2171,applied anthropology,concept,PREREQUISITE_OF,global issues,concept,same unit,,ANTH_2171_triples_raw.json
+ANTH_2171,applied anthropology,concept,PREREQUISITE_OF,local contexts,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,applied anthropology,concept,PREREQUISITE_OF,social justice,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,applied anthropology,concept,PREREQUISITE_OF,crisis management,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,applied anthropology,concept,PREREQUISITE_OF,innovation strategies,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,applied anthropology,concept,PREREQUISITE_OF,community problems,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,applied anthropology,concept,PREREQUISITE_OF,medical anthropology,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,cultural understanding,concept,PREREQUISITE_OF,cross-cultural communication,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,global issues,concept,PREREQUISITE_OF,anthropological perspective,topic,same unit,,ANTH_2171_triples_raw.json
+ANTH_2171,local contexts,concept,PREREQUISITE_OF,social justice,concept,B taught first,B is taught before A - check,ANTH_2171_triples_raw.json
+ANTH_2171,local contexts,concept,PREREQUISITE_OF,crisis management,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,local contexts,concept,PREREQUISITE_OF,innovation strategies,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,local contexts,concept,PREREQUISITE_OF,community problems,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,local contexts,concept,PREREQUISITE_OF,medical anthropology,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,cultural understanding,concept,PREREQUISITE_OF,cross-cultural communication skills,topic,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,social justice,concept,PREREQUISITE_OF,crisis management,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,social justice,concept,PREREQUISITE_OF,innovation strategies,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,social justice,concept,PREREQUISITE_OF,community problems,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,social justice,concept,PREREQUISITE_OF,medical anthropology,concept,A taught first,,ANTH_2171_triples_raw.json
+ANTH_2171,anthropological perspective,topic,PART_OF,applied anthropology,concept,,part is broader than whole - check direction,ANTH_2171_triples_raw.json
+ANTH_2171,cultural understanding,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,global issues,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,local contexts,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,social justice,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,crisis management,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,innovation strategies,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,community problems,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,medical anthropology,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,cross-cultural communication,concept,PART_OF,cultural understanding,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,cross-cultural communication skills,topic,PART_OF,cultural understanding,concept,,part is broader than whole - check direction,ANTH_2171_triples_raw.json
+ANTH_2171,anthropological insight,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,nestle case study,concept,PART_OF,surprise intel,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,cultural relativism,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,anthro-vision approach,concept,PART_OF,applied anthropology,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,anthropological insight,concept,USED_FOR,global issues,concept,,,ANTH_2171_triples_raw.json
+ANTH_2171,nestle case study,concept,USED_FOR,cross-cultural communication skills,topic,,,ANTH_2171_triples_raw.json

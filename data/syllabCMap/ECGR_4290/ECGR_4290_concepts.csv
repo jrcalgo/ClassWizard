@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4290,topic,P-N Junctions,p-n junctions,2,verified,P-N Junctions,ECGR_4290_concepts_raw.json
+ECGR_4290,topic,Efficiency Limits and Losses,efficiency limits and losses,2,verified,Efficiency Limits and Losses,ECGR_4290_concepts_raw.json
+ECGR_4290,topic,Solar Cell Fabrication,solar cell fabrication,1,verified,Solar Cell Fabrication,ECGR_4290_concepts_raw.json
+ECGR_4290,topic,Photovoltaic Systems and Applications,photovoltaic systems and applications,1,verified,Photovoltaic Systems and Applications,ECGR_4290_concepts_raw.json
+ECGR_4290,concept,semiconductor properties,semiconductor properties,2,verified,semiconductor properties,ECGR_4290_concepts_raw.json
+ECGR_4290,concept,minority carriers,minority carriers,1,verified,minority carriers,ECGR_4290_concepts_raw.json
+ECGR_4290,concept,minority carrier lifetime,minority carrier lifetime,1,verified,minority carrier lifetime,ECGR_4290_concepts_raw.json
+ECGR_4290,concept,solar modules,solar modules,1,verified,solar modules,ECGR_4290_concepts_raw.json
+ECGR_4290,concept,reliability,reliability,1,verified,reliability,ECGR_4290_concepts_raw.json
+ECGR_4290,concept,solar cell efficiency limits,Solar cell efficiency limits,1,verified,solar cell efficiency limits,ECGR_4290_concepts_raw.json
+ECGR_4290,method,computer simulation,computer simulation,1,verified,computer simulation,ECGR_4290_concepts_raw.json
+ECGR_4290,method,design and analysis,Design and analysis,1,verified,design and analysis,ECGR_4290_concepts_raw.json

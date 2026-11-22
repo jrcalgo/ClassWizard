@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_3250,topic,manometry,manometry,2,verified,manometry,MEET_3250_concepts_raw.json
+MEET_3250,topic,buoyancy,buoyancy,2,verified,buoyancy,MEET_3250_concepts_raw.json
+MEET_3250,topic,forces on submerged bodies,forces on submerged bodies,2,verified,forces on submerged bodies,MEET_3250_concepts_raw.json
+MEET_3250,topic,boundary layers,boundary layers,2,verified,boundary layers,MEET_3250_concepts_raw.json
+MEET_3250,topic,flow over surfaces,flow over surfaces,2,verified,flow over surfaces,MEET_3250_concepts_raw.json
+MEET_3250,topic,Bernoulli's equation with applications,Bernoulli's equation with applications,2,verified,Bernoulli's equation with applications,MEET_3250_concepts_raw.json
+MEET_3250,topic,orifices,orifices,2,verified,orifices,MEET_3250_concepts_raw.json
+MEET_3250,topic,pipe losses,pipe losses,2,verified,pipe losses,MEET_3250_concepts_raw.json
+MEET_3250,topic,hydrodynamics,hydrodynamics,2,verified,hydrodynamics,MEET_3250_concepts_raw.json
+MEET_3250,concept,continuity equation,continuity equation,1,verified,continuity equation,MEET_3250_concepts_raw.json
+MEET_3250,concept,drag and lift forces,drag and lift forces,1,verified,drag and lift forces,MEET_3250_concepts_raw.json
+MEET_3250,concept,head loss through pipe length,head loss through pipe length,1,verified,head loss through pipe length,MEET_3250_concepts_raw.json
+MEET_3250,concept,valves and fittings,valves and fittings,1,verified,valves and fittings,MEET_3250_concepts_raw.json

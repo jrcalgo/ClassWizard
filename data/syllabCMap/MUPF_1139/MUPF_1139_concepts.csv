@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUPF_1139,topic,Woodwind Chamber Music,Woodwind Chamber Music,5,verified,Woodwind Chamber Music,MUPF_1139_concepts_raw.json
+MUPF_1139,topic,Ensemble Performance Skills,ensemble performance skills,1,verified,Ensemble Performance Skills,MUPF_1139_concepts_raw.json
+MUPF_1139,concept,woodwind chamber music repertoire,woodwind chamber music repertoire,1,verified,woodwind chamber music repertoire,MUPF_1139_concepts_raw.json
+MUPF_1139,method,idiomatic ensemble performance,idiomatic ensemble performance,1,verified,idiomatic ensemble performance,MUPF_1139_concepts_raw.json
+MUPF_1139,method,efficiently executing embouchure,efficiently executing embouchure,1,verified,"efficiently executing embouchure, breathing, articulation, intonation, and tone",MUPF_1139_concepts_raw.json
+MUPF_1139,method,breathing,breathing,1,verified,"efficiently executing embouchure, breathing, articulation, intonation, and tone",MUPF_1139_concepts_raw.json
+MUPF_1139,method,articulation,articulation,1,verified,"efficiently executing embouchure, breathing, articulation, intonation, and tone",MUPF_1139_concepts_raw.json
+MUPF_1139,method,intonation,intonation,1,verified,"efficiently executing embouchure, breathing, articulation, intonation, and tone",MUPF_1139_concepts_raw.json
+MUPF_1139,method,tone,tone,1,verified,"efficiently executing embouchure, breathing, articulation, intonation, and tone",MUPF_1139_concepts_raw.json
+MUPF_1139,method,developing,developing,1,verified,"developing and efficiently executing embouchure, breathing, articulation, intonation, and tone",MUPF_1139_concepts_raw.json
+MUPF_1139,method,sight-reading,sight-reading,1,verified,sight-reading,MUPF_1139_concepts_raw.json
+MUPF_1139,method,transposition,transposition,1,verified,transposition,MUPF_1139_concepts_raw.json

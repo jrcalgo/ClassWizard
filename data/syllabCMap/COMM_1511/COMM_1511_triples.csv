@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_1511,financial literacy definition,concept,PREREQUISITE_OF,financial literacy and mobility,concept,A taught first,,COMM_1511_triples_raw.json
+COMM_1511,sociological perspective,concept,PREREQUISITE_OF,sociological forces in housing,concept,A taught first,,COMM_1511_triples_raw.json
+COMM_1511,inquiry questions for research,concept,PREREQUISITE_OF,argument construction techniques,concept,same unit,,COMM_1511_triples_raw.json
+COMM_1511,rhetorical criticism techniques,method,PREREQUISITE_OF,rhetorical strategies in policy,concept,A taught first,,COMM_1511_triples_raw.json
+COMM_1511,financial discourse analysis,method,PART_OF,financial literacy definition,concept,,,COMM_1511_triples_raw.json
+COMM_1511,family influence on finances,concept,PART_OF,sociological perspective,concept,,,COMM_1511_triples_raw.json
+COMM_1511,media representation of wealth,concept,PART_OF,sociological perspective,concept,,,COMM_1511_triples_raw.json
+COMM_1511,inquiry questions for research,concept,PART_OF,argument construction techniques,concept,,,COMM_1511_triples_raw.json
+COMM_1511,policy analysis methods,method,PART_OF,rhetorical strategies in policy,concept,,,COMM_1511_triples_raw.json
+COMM_1511,rhetorical criticism techniques,method,USED_FOR,financial discourse analysis,method,,,COMM_1511_triples_raw.json
+COMM_1511,rhetorical criticism techniques,method,USED_FOR,rhetorical strategies in policy,concept,,,COMM_1511_triples_raw.json

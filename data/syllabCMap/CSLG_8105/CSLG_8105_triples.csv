@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_8105,CACREP Standards,topic,PREREQUISITE_OF,Accreditation,topic,same unit,,CSLG_8105_triples_raw.json
+CSLG_8105,Doctoral Program,topic,PREREQUISITE_OF,CACREP Standards,topic,A taught first,,CSLG_8105_triples_raw.json
+CSLG_8105,Professional Writing,topic,PREREQUISITE_OF,Leadership in Counselor Education,topic,A taught first,,CSLG_8105_triples_raw.json
+CSLG_8105,Counselor Education,topic,PART_OF,counselor education and supervision,concept,,part is broader than whole - check direction,CSLG_8105_triples_raw.json
+CSLG_8105,self-studies and program reports,concept,PART_OF,Accreditation,topic,,,CSLG_8105_triples_raw.json
+CSLG_8105,peer-reviewed journal publication,concept,PART_OF,Professional Writing,topic,,,CSLG_8105_triples_raw.json

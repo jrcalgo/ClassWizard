@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5105,topic,Machine Learning,Machine Learning,5,verified,Machine Learning,ECGR_5105_concepts_raw.json
+ECGR_5105,topic,Supervised Learning,supervised learning,2,verified,Supervised Learning,ECGR_5105_concepts_raw.json
+ECGR_5105,topic,Linear Regression,Linear Regression,1,verified,Linear Regression,ECGR_5105_concepts_raw.json
+ECGR_5105,method,gradient descent,gradient descent,2,verified,gradient descent,ECGR_5105_concepts_raw.json
+ECGR_5105,topic,Bias,Bias,1,verified,Bias,ECGR_5105_concepts_raw.json
+ECGR_5105,topic,Overfitting,Overfitting,1,verified,Overfitting,ECGR_5105_concepts_raw.json
+ECGR_5105,topic,Regularization,Regularization,1,verified,Regularization,ECGR_5105_concepts_raw.json
+ECGR_5105,topic,Classification Models,classification models,1,verified,Classification Models,ECGR_5105_concepts_raw.json
+ECGR_5105,topic,Probabilistic Classification,Probabilistic Classification,1,verified,Probabilistic Classification,ECGR_5105_concepts_raw.json
+ECGR_5105,topic,Unsupervised Learning,unsupervised learning,2,verified,Unsupervised Learning,ECGR_5105_concepts_raw.json
+ECGR_5105,topic,Clustering,clustering,2,verified,Clustering,ECGR_5105_concepts_raw.json
+ECGR_5105,concept,logistic regression classifier,Logistic Regression Classifier,1,verified,logistic regression classifier,ECGR_5105_concepts_raw.json
+ECGR_5105,concept,precision recall f1 score,precision recall f1 score,1,verified,precision recall f1 score,ECGR_5105_concepts_raw.json
+ECGR_5105,concept,machine learning principles,machine learning principles,1,verified,machine learning principles,ECGR_5105_concepts_raw.json
+ECGR_5105,method,backpropagation,backpropagation,2,verified,backpropagation,ECGR_5105_concepts_raw.json
+ECGR_5105,measure,precision,Precision,1,verified,precision,ECGR_5105_concepts_raw.json
+ECGR_5105,measure,recall,Recall,1,verified,recall,ECGR_5105_concepts_raw.json
+ECGR_5105,measure,f1 score,F1 Score,1,verified,f1 score,ECGR_5105_concepts_raw.json
+ECGR_5105,measure,confusion matrix,Confusion Matrix,1,verified,confusion matrix,ECGR_5105_concepts_raw.json
+ECGR_5105,tool,PyTorch,PyTorch,2,verified,PyTorch,ECGR_5105_concepts_raw.json

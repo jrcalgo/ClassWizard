@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_3125,topic,Healthcare System,healthcare system,2,verified,Healthcare System,POLS_3125_concepts_raw.json
+POLS_3125,topic,Health Insurance Policy,Health Insurance Policy,1,verified,Health Insurance Policy,POLS_3125_concepts_raw.json
+POLS_3125,topic,Health Care Reform,Health Care Reform,1,verified,Health Care Reform,POLS_3125_concepts_raw.json
+POLS_3125,tool,SimCheck plagiarism detection service,SimCheck plagiarism detection service,1,verified,SimCheck plagiarism detection service,POLS_3125_concepts_raw.json
+POLS_3125,concept,Public Policies in Healthcare,Public Policies in Healthcare,1,inferred,Public Policies in Healthcare,POLS_3125_concepts_raw.json
+POLS_3125,topic,Artificial Intelligence in Healthcare,Artificial Intelligence in Healthcare,1,inferred,Artificial Intelligence in Healthcare,POLS_3125_concepts_raw.json
+POLS_3125,concept,Value-Based Payment Models,Value-Based Payment Models,1,inferred,Value-Based Payment Models,POLS_3125_concepts_raw.json
+POLS_3125,concept,Population Health Management,Population Health Management,1,inferred,Population Health Management,POLS_3125_concepts_raw.json
+POLS_3125,concept,Precision Medicine and Genomics,Precision Medicine and Genomics,1,inferred,Precision Medicine and Genomics,POLS_3125_concepts_raw.json
+POLS_3125,topic,Single-Payer vs. Multi-Payer Systems,Single-Payer vs. Multi-Payer Systems,1,inferred,Single-Payer vs. Multi-Payer Systems,POLS_3125_concepts_raw.json
+POLS_3125,topic,Role of Government in Healthcare,Role of Government in Healthcare,1,inferred,Role of Government in Healthcare,POLS_3125_concepts_raw.json
+POLS_3125,topic,Impact of Politics on Healthcare Policy,Impact of Politics on Healthcare Policy,1,inferred,Impact of Politics on Healthcare Policy,POLS_3125_concepts_raw.json
+POLS_3125,topic,Racial and Ethnic Disparities,Racial and Ethnic Disparities,1,inferred,Racial and Ethnic Disparities,POLS_3125_concepts_raw.json
+POLS_3125,topic,Mental Health and Substance Abuse,Mental Health and Substance Abuse,1,inferred,Mental Health and Substance Abuse,POLS_3125_concepts_raw.json
+POLS_3125,topic,Healthcare Access for Underserved Populations,Healthcare Access for Underserved Populations,1,inferred,Healthcare Access for Underserved Populations,POLS_3125_concepts_raw.json
+POLS_3125,concept,US Healthcare System,US Healthcare System,1,inferred,US Healthcare System,POLS_3125_concepts_raw.json
+POLS_3125,concept,Early Health Insurance Plans,Early Health Insurance Plans,1,inferred,Early Health Insurance Plans,POLS_3125_concepts_raw.json
+POLS_3125,concept,Social Security Act of 1935,Social Security Act of 1935,1,inferred,Social Security Act of 1935,POLS_3125_concepts_raw.json
+POLS_3125,concept,Medicare and Medicaid Creation,Medicare and Medicaid Creation,1,inferred,Medicare and Medicaid Creation,POLS_3125_concepts_raw.json
+POLS_3125,concept,Private Health Insurance Market,Private Health Insurance Market,1,inferred,Private Health Insurance Market,POLS_3125_concepts_raw.json
+POLS_3125,concept,Government Funding for Healthcare,Government Funding for Healthcare,1,inferred,Government Funding for Healthcare,POLS_3125_concepts_raw.json
+POLS_3125,concept,Out-of-Pocket Expenses,Out-of-Pocket Expenses,1,inferred,Out-of-Pocket Expenses,POLS_3125_concepts_raw.json
+POLS_3125,concept,Affordable Care Act (ACA,Affordable Care Act (ACA,1,inferred,Affordable Care Act (ACA),POLS_3125_concepts_raw.json
+POLS_3125,concept,Electronic Health Records (EHRs,Electronic Health Records (EHRs,1,inferred,Electronic Health Records (EHRs),POLS_3125_concepts_raw.json
+POLS_3125,concept,Telemedicine and Remote Monitoring,Telemedicine and Remote Monitoring,1,inferred,Telemedicine and Remote Monitoring,POLS_3125_concepts_raw.json

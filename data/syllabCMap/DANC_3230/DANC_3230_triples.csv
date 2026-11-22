@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_3230,Creative Research Techniques,topic,PREREQUISITE_OF,Choreographic Process,topic,B taught first,B is taught before A - check,DANC_3230_triples_raw.json
+DANC_3230,Audition Preparation Strategies,topic,PREREQUISITE_OF,Choreographic Process,topic,B taught first,B is taught before A - check,DANC_3230_triples_raw.json
+DANC_3230,artistic choices,concept,PART_OF,Choreographic Process,topic,,,DANC_3230_triples_raw.json
+DANC_3230,compositional elements,concept,PART_OF,Choreographic Process,topic,,,DANC_3230_triples_raw.json
+DANC_3230,Maya Kulkarni's Choreography,topic,USED_FOR,Choreographic Process,topic,,topic used for something - check direction,DANC_3230_triples_raw.json

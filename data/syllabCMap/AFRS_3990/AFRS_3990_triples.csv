@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AFRS_3990,Assignment Requirements,topic,PREREQUISITE_OF,Anticipated Timeline Creation,topic,same unit,,AFRS_3990_triples_raw.json
+AFRS_3990,Assignment Due Dates Establishment,topic,PREREQUISITE_OF,Monthly Check-in Schedule,topic,same unit,,AFRS_3990_triples_raw.json
+AFRS_3990,Academic Topic Selection,topic,PART_OF,Senior Research Paper,topic,,,AFRS_3990_triples_raw.json
+AFRS_3990,Community-Related Project,topic,PART_OF,Senior Research Paper,topic,,,AFRS_3990_triples_raw.json
+AFRS_3990,Proposed Syllabus Outline,topic,PART_OF,Focus and Goals Definition,topic,,,AFRS_3990_triples_raw.json
+AFRS_3990,Assignment Requirements,topic,PART_OF,Anticipated Timeline Creation,topic,,,AFRS_3990_triples_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_6980,Emerging Trends in Industry,concept,PREREQUISITE_OF,EMGT,topic,same unit,,EMGT_6980_triples_raw.json
+EMGT_6980,MSEM Program Planning,topic,PREREQUISITE_OF,Industry Challenges and Practices,topic,A taught first,,EMGT_6980_triples_raw.json
+EMGT_6980,Engineering Management Overview,concept,PART_OF,Industrial and Technology Management Seminars,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Machine Learning Applications,concept,PART_OF,Data Analytics Development,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Data Visualization Techniques,concept,PART_OF,Data Analytics Development,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Importance of Lifelong Learning,concept,PART_OF,Continuous Learning Habits,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Staying Current with Industry Trends,concept,PART_OF,Continuous Learning Habits,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Professional Development Strategies,concept,PART_OF,Continuous Learning Habits,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Course Selection and Scheduling,concept,PART_OF,MSEM Program Planning,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Elective Course Options and Requirements,concept,PART_OF,MSEM Program Planning,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Capstone Project Preparation,concept,PART_OF,MSEM Program Planning,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Government and Business Sector Overview,concept,PART_OF,Industry Challenges and Practices,topic,,,EMGT_6980_triples_raw.json
+EMGT_6980,Industrial Management Best Practices,concept,PART_OF,Industry Challenges and Practices,topic,,,EMGT_6980_triples_raw.json

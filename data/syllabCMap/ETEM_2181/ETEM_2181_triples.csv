@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_2181,Personal Protective Equipment,concept,PART_OF,Lab Safety Fundamentals,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Emergency Procedures Protocol,concept,PART_OF,Lab Safety Fundamentals,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Chemical Handling Guidelines,concept,PART_OF,Lab Safety Fundamentals,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Capacitor Functionality Overview,concept,PART_OF,Basic Circuit Components,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Wiring Methods and Best Practices,concept,PART_OF,Circuit Building Techniques,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Component Selection Criteria,concept,PART_OF,Circuit Building Techniques,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Circuit Schematics Interpretation,concept,PART_OF,Circuit Building Techniques,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Motor Types and Characteristics,concept,PART_OF,Electromechanical Systems,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Gearbox Functionality Overview,concept,PART_OF,Electromechanical Systems,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Pneumatic System Components,concept,PART_OF,Electromechanical Systems,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Fault Identification Techniques,concept,PART_OF,Troubleshooting Strategies,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Circuit Analysis Methods,concept,PART_OF,Troubleshooting Strategies,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,System Redesign Considerations,concept,PART_OF,Troubleshooting Strategies,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,Hypothesis Formulation and Testing,concept,PART_OF,Experimental Design and Data Collection,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,multimeter operation and calibration,method,USED_FOR,Measurement Instruments,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,oscilloscope waveform analysis,method,USED_FOR,Measurement Instruments,topic,,,ETEM_2181_triples_raw.json
+ETEM_2181,data logger software,tool,USED_FOR,Measurement Instruments,topic,,,ETEM_2181_triples_raw.json

@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ADMN_6105,topic,Education Law,Education Law,2,verified,Education Law,ADMN_6105_concepts_raw.json
+ADMN_6105,concept,Legal Research Tools and Resources,legal research tools and resources,1,verified,Legal Research Tools and Resources,ADMN_6105_concepts_raw.json
+ADMN_6105,concept,Citing Constitutional,citing constitutional,1,verified,"Citing Constitutional, Statutory, and Case Law",ADMN_6105_concepts_raw.json
+ADMN_6105,concept,Statutory,statutory,3,verified,"Citing Constitutional, Statutory, and Case Law",ADMN_6105_concepts_raw.json
+ADMN_6105,concept,Case Law,case law,3,verified,"Citing Constitutional, Statutory, and Case Law",ADMN_6105_concepts_raw.json

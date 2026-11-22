@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_3292,Non-directional tests,concept,SUBTYPE_OF,Directional tests,concept,,,PSYC_3292_triples_raw.json
+PSYC_3292,Directional Hypothesis,concept,SUBTYPE_OF,Null Hypothesis Testing,concept,,,PSYC_3292_triples_raw.json
+PSYC_3292,Excel,tool,USED_FOR,Data Analysis Techniques,concept,,,PSYC_3292_triples_raw.json

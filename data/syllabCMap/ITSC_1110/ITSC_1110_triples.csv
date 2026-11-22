@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_1110,computational thinking,concept,PREREQUISITE_OF,creative problem solving,concept,same unit,,ITSC_1110_triples_raw.json
+ITSC_1110,computational thinking,concept,PREREQUISITE_OF,artificial intelligence,concept,same unit,,ITSC_1110_triples_raw.json
+ITSC_1110,abstraction principles,concept,PREREQUISITE_OF,modular programming,concept,same unit,,ITSC_1110_triples_raw.json
+ITSC_1110,abstraction principles,concept,PREREQUISITE_OF,code reusability,concept,same unit,,ITSC_1110_triples_raw.json
+ITSC_1110,data types and structures,concept,PREREQUISITE_OF,data storage and retrieval,concept,same unit,,ITSC_1110_triples_raw.json
+ITSC_1110,data types and structures,concept,PREREQUISITE_OF,database management,concept,same unit,,ITSC_1110_triples_raw.json
+ITSC_1110,algorithm design principles,concept,PREREQUISITE_OF,computational complexity,concept,same unit,,ITSC_1110_triples_raw.json
+ITSC_1110,internet fundamentals,concept,PREREQUISITE_OF,network protocols,concept,same unit,,ITSC_1110_triples_raw.json
+ITSC_1110,internet fundamentals,concept,PREREQUISITE_OF,cybersecurity basics,concept,same unit,,ITSC_1110_triples_raw.json
+ITSC_1110,computational thinking,concept,USED_FOR,creative problem solving,concept,,,ITSC_1110_triples_raw.json
+ITSC_1110,computational thinking,concept,USED_FOR,artificial intelligence,concept,,,ITSC_1110_triples_raw.json
+ITSC_1110,abstraction principles,concept,USED_FOR,code reusability,concept,,,ITSC_1110_triples_raw.json
+ITSC_1110,data types and structures,concept,USED_FOR,data storage and retrieval,concept,,,ITSC_1110_triples_raw.json
+ITSC_1110,data types and structures,concept,USED_FOR,database management,concept,,,ITSC_1110_triples_raw.json
+ITSC_1110,algorithm design principles,concept,USED_FOR,computational complexity,concept,,,ITSC_1110_triples_raw.json
+ITSC_1110,internet fundamentals,concept,USED_FOR,network protocols,concept,,,ITSC_1110_triples_raw.json
+ITSC_1110,internet fundamentals,concept,USED_FOR,cybersecurity basics,concept,,,ITSC_1110_triples_raw.json

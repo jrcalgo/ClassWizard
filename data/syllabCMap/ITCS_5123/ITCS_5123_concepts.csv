@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_5123,topic,Visualization and Visual Communication,Visualization and Visual Communication,1,verified,Visualization and Visual Communication,ITCS_5123_concepts_raw.json
+ITCS_5123,topic,Geospatial Visualization,geospatial visualization,1,verified,Geospatial Visualization,ITCS_5123_concepts_raw.json
+ITCS_5123,topic,Time-Series Visualization,time-series visualization,1,verified,Time-Series Visualization,ITCS_5123_concepts_raw.json
+ITCS_5123,topic,Social Network Visualization,social network visualization,1,verified,Social Network Visualization,ITCS_5123_concepts_raw.json
+ITCS_5123,concept,visualization techniques,visualization techniques,1,verified,visualization techniques,ITCS_5123_concepts_raw.json
+ITCS_5123,method,designing,design,1,verified,"designing, developing, evaluating visualization modules",ITCS_5123_concepts_raw.json
+ITCS_5123,method,developing,develop,1,verified,"designing, developing, evaluating visualization modules",ITCS_5123_concepts_raw.json
+ITCS_5123,method,AR,AR,1,verified,"working with VR, AR, and mobile devices",ITCS_5123_concepts_raw.json
+ITCS_5123,method,mobile devices,mobile devices,1,verified,"working with VR, AR, and mobile devices",ITCS_5123_concepts_raw.json

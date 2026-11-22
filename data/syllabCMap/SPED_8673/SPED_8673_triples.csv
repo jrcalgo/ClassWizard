@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_8673,diversity,topic,PREREQUISITE_OF,multicultural education,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,diversity,topic,PREREQUISITE_OF,inclusion,topic,same unit,,SPED_8673_triples_raw.json
+SPED_8673,diversity,topic,PREREQUISITE_OF,acceptance,topic,A mentioned first,,SPED_8673_triples_raw.json
+SPED_8673,diversity,topic,PREREQUISITE_OF,cultural differences,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,diversity,topic,PREREQUISITE_OF,collaboration,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,diversity,topic,PREREQUISITE_OF,culturally responsive instruction,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,inclusion,topic,PREREQUISITE_OF,multicultural education,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,inclusion,topic,PREREQUISITE_OF,acceptance,topic,A mentioned first,,SPED_8673_triples_raw.json
+SPED_8673,inclusion,topic,PREREQUISITE_OF,cultural differences,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,inclusion,topic,PREREQUISITE_OF,collaboration,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,inclusion,topic,PREREQUISITE_OF,culturally responsive instruction,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,multicultural education,topic,PREREQUISITE_OF,acceptance,topic,A mentioned first,,SPED_8673_triples_raw.json
+SPED_8673,multicultural education,topic,PREREQUISITE_OF,cultural differences,topic,B taught first,B is taught before A - check,SPED_8673_triples_raw.json
+SPED_8673,multicultural education,topic,PREREQUISITE_OF,collaboration,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,multicultural education,topic,PREREQUISITE_OF,culturally responsive instruction,topic,same unit,,SPED_8673_triples_raw.json
+SPED_8673,acceptance,topic,PREREQUISITE_OF,cultural differences,topic,B mentioned first,,SPED_8673_triples_raw.json
+SPED_8673,acceptance,topic,PREREQUISITE_OF,collaboration,topic,B mentioned first,,SPED_8673_triples_raw.json
+SPED_8673,acceptance,topic,PREREQUISITE_OF,culturally responsive instruction,topic,B mentioned first,,SPED_8673_triples_raw.json
+SPED_8673,cultural differences,topic,PREREQUISITE_OF,collaboration,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,cultural differences,topic,PREREQUISITE_OF,culturally responsive instruction,topic,A taught first,,SPED_8673_triples_raw.json
+SPED_8673,collaboration,topic,PREREQUISITE_OF,culturally responsive instruction,topic,B taught first,B is taught before A - check,SPED_8673_triples_raw.json

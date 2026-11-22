@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGR_3791,societal implications of engineering,concept,PART_OF,Engineering Impact,topic,,,ENGR_3791_triples_raw.json
+ENGR_3791,environmental consequences of decisions,concept,PART_OF,Engineering Impact,topic,,,ENGR_3791_triples_raw.json
+ENGR_3791,social justice and engineering,concept,PART_OF,Equity in Engineering,topic,,,ENGR_3791_triples_raw.json
+ENGR_3791,diversity equity and inclusion,concept,PART_OF,Equity in Engineering,topic,,,ENGR_3791_triples_raw.json
+ENGR_3791,service learning and social responsibility,concept,PART_OF,Community Service,topic,,,ENGR_3791_triples_raw.json

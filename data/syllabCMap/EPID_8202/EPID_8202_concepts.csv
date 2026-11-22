@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EPID_8202,concept,Data Management,data management,4,verified,Data Management,EPID_8202_concepts_raw.json
+EPID_8202,concept,Epidemiological Data,Epidemiological Data,2,verified,Epidemiological Data,EPID_8202_concepts_raw.json
+EPID_8202,concept,Statistical Software Packages,statistical software packages,2,verified,Statistical Software Packages,EPID_8202_concepts_raw.json
+EPID_8202,concept,Data Storage,data storage,3,verified,Data Storage,EPID_8202_concepts_raw.json
+EPID_8202,concept,Data Security,data security,2,verified,Data Security,EPID_8202_concepts_raw.json
+EPID_8202,concept,Data Wrangling,data wrangling,2,verified,Data Wrangling,EPID_8202_concepts_raw.json
+EPID_8202,concept,Data Visualization,data visualization,2,verified,Data Visualization,EPID_8202_concepts_raw.json
+EPID_8202,method,R programming,R Programming,1,verified,R programming,EPID_8202_concepts_raw.json
+EPID_8202,method,SQL queries,SQL Queries,1,verified,SQL queries,EPID_8202_concepts_raw.json
+EPID_8202,method,SAS data management,SAS Data Management,1,verified,SAS data management,EPID_8202_concepts_raw.json
+EPID_8202,method,Stata data analysis,Stata Data Analysis,1,verified,Stata data analysis,EPID_8202_concepts_raw.json
+EPID_8202,concept,Data Storage Security,Data Storage Security,1,verified,Data Storage Security,EPID_8202_concepts_raw.json
+EPID_8202,concept,Data Dictionary Navigation,Data Dictionary Navigation,1,verified,Data Dictionary Navigation,EPID_8202_concepts_raw.json
+EPID_8202,concept,Multiple Logistic Regression,Multiple Logistic Regression,2,verified,Multiple Logistic Regression,EPID_8202_concepts_raw.json
+EPID_8202,concept,Odds Ratios,Odds Ratios,2,verified,Odds Ratios,EPID_8202_concepts_raw.json
+EPID_8202,concept,Relative Risks,Relative Risks,2,verified,Relative Risks,EPID_8202_concepts_raw.json
+EPID_8202,concept,Logistic Regression Models,Logistic Regression Models,1,verified,Logistic Regression Models,EPID_8202_concepts_raw.json
+EPID_8202,concept,Confounding Variables,Confounding Variables,1,verified,Confounding Variables,EPID_8202_concepts_raw.json
+EPID_8202,concept,Interaction Terms,Interaction Terms,1,verified,Interaction Terms,EPID_8202_concepts_raw.json
+EPID_8202,concept,Hazard Ratios,Hazard Ratios,1,verified,Hazard Ratios,EPID_8202_concepts_raw.json
+EPID_8202,concept,Cox Proportional Hazards,Cox Proportional Hazards,1,verified,Cox Proportional Hazards,EPID_8202_concepts_raw.json
+EPID_8202,concept,Propensity Scores,Propensity Scores,1,verified,Propensity Scores,EPID_8202_concepts_raw.json
+EPID_8202,method,Data management using statistical software packages,data management using statistical software packages,1,verified,Data management using statistical software packages,EPID_8202_concepts_raw.json
+EPID_8202,method,Navigating the CDC Natality Data Dictionary,Navigating the CDC Natality Data Dictionary,1,verified,Navigating the CDC Natality Data Dictionary,EPID_8202_concepts_raw.json
+EPID_8202,tool,SAS,SAS,2,verified,SAS,EPID_8202_concepts_raw.json
+EPID_8202,tool,SQL,SQL,2,verified,SQL,EPID_8202_concepts_raw.json
+EPID_8202,tool,Stata,Stata,2,verified,Stata,EPID_8202_concepts_raw.json
+EPID_8202,tool,R,R,10,verified,R,EPID_8202_concepts_raw.json
+EPID_8202,work,CDC Natality Data Dictionary,CDC Natality Data Dictionary,1,verified,CDC Natality Data Dictionary,EPID_8202_concepts_raw.json

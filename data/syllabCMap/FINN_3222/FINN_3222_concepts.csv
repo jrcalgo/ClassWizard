@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_3222,topic,portfolio theory,portfolio theory,2,verified,portfolio theory,FINN_3222_concepts_raw.json
+FINN_3222,topic,capital market pricing theory,capital market pricing theory,2,verified,capital market pricing theory,FINN_3222_concepts_raw.json
+FINN_3222,topic,efficient market hypothesis,efficient market hypothesis,2,verified,efficient market hypothesis,FINN_3222_concepts_raw.json
+FINN_3222,topic,portfolio performance evaluation,portfolio performance evaluation,2,verified,portfolio performance evaluation,FINN_3222_concepts_raw.json
+FINN_3222,concept,investment decision-making process,Investment Decision-Making Process,1,inferred,investment decision-making process,FINN_3222_concepts_raw.json
+FINN_3222,concept,role of financial markets,Role of Financial Markets,1,inferred,role of financial markets,FINN_3222_concepts_raw.json
+FINN_3222,concept,importance of risk management,Importance of Risk Management,1,inferred,importance of risk management,FINN_3222_concepts_raw.json
+FINN_3222,concept,diversification and diversifiable risk,Diversification and Diversifiable Risk,1,inferred,diversification and diversifiable risk,FINN_3222_concepts_raw.json
+FINN_3222,concept,expected return and volatility,Expected Return and Volatility,1,inferred,expected return and volatility,FINN_3222_concepts_raw.json
+FINN_3222,concept,Markowitz model overview,Markowitz Model Overview,1,inferred,Markowitz model overview,FINN_3222_concepts_raw.json
+FINN_3222,concept,Capital Asset Pricing Model (CAPM,Capital Asset Pricing Model (CAPM,1,inferred,Capital Asset Pricing Model (CAPM),FINN_3222_concepts_raw.json
+FINN_3222,concept,Security Market Line (SML,Security Market Line (SML,1,inferred,Security Market Line (SML),FINN_3222_concepts_raw.json
+FINN_3222,concept,risk-return tradeoff,Risk-Return Tradeoff,1,inferred,risk-return tradeoff,FINN_3222_concepts_raw.json
+FINN_3222,concept,random walk and efficient markets,Random Walk and Efficient Markets,1,inferred,random walk and efficient markets,FINN_3222_concepts_raw.json
+FINN_3222,concept,market efficiency types,Market Efficiency Types,1,inferred,market efficiency types,FINN_3222_concepts_raw.json
+FINN_3222,concept,arbitrage opportunity detection,Arbitrage Opportunity Detection,1,inferred,arbitrage opportunity detection,FINN_3222_concepts_raw.json
+FINN_3222,concept,performance metrics (Sharpe Ratio,performance metrics (Sharpe Ratio,1,inferred,performance metrics (Sharpe Ratio),FINN_3222_concepts_raw.json
+FINN_3222,concept,risk-adjusted return measures,Risk-Adjusted Return Measures,1,inferred,risk-adjusted return measures,FINN_3222_concepts_raw.json
+FINN_3222,concept,benchmarking and peer comparison,Benchmarking and Peer Comparison,1,inferred,benchmarking and peer comparison,FINN_3222_concepts_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RESP_6111,evidence-based care plans,concept,PREREQUISITE_OF,patient disease self-management,concept,same unit,,RESP_6111_triples_raw.json
+RESP_6111,evidence-based care plans,concept,PREREQUISITE_OF,interpersonal communication skills,concept,same unit,,RESP_6111_triples_raw.json
+RESP_6111,motivational interviewing strategies,concept,PREREQUISITE_OF,patient empowerment models,concept,same unit,,RESP_6111_triples_raw.json
+RESP_6111,self-management education programs,concept,PREREQUISITE_OF,chronic disease management,concept,same unit,,RESP_6111_triples_raw.json
+RESP_6111,interpersonal communication skills,concept,PART_OF,Patient-Centered Care,topic,,,RESP_6111_triples_raw.json
+RESP_6111,evidence-based care plans,concept,PART_OF,Patient-Centered Care,topic,,,RESP_6111_triples_raw.json
+RESP_6111,motivational interviewing strategies,concept,PART_OF,behavior change theories,concept,,,RESP_6111_triples_raw.json
+RESP_6111,patient empowerment models,concept,PART_OF,behavior change theories,concept,,,RESP_6111_triples_raw.json
+RESP_6111,chronic disease management,concept,PART_OF,Cardiopulmonary Disease Mgmt,topic,,,RESP_6111_triples_raw.json
+RESP_6111,health literacy interventions,concept,PART_OF,self-management education programs,concept,,,RESP_6111_triples_raw.json
+RESP_6111,palliative care principles,concept,PART_OF,Patient-Centered Care,topic,,,RESP_6111_triples_raw.json
+RESP_6111,patient-centered care models,concept,PART_OF,Patient-Centered Care,topic,,,RESP_6111_triples_raw.json
+RESP_6111,motivational interviewing strategies,concept,USED_FOR,patient empowerment models,concept,,,RESP_6111_triples_raw.json

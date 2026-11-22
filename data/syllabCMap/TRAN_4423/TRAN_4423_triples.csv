@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TRAN_4423,Japanese Grammar Review,topic,PREREQUISITE_OF,Vocabulary Building,topic,A taught first,,TRAN_4423_triples_raw.json
+TRAN_4423,Vocabulary Building,topic,PREREQUISITE_OF,Critical Engagement with Texts,topic,A taught first,,TRAN_4423_triples_raw.json
+TRAN_4423,Vocabulary Building,topic,PREREQUISITE_OF,Collaborative Online International Learning (COIL) Project Preparation,topic,A taught first,,TRAN_4423_triples_raw.json
+TRAN_4423,Verb conjugation and tenses,concept,PART_OF,Japanese Grammar Review,topic,,,TRAN_4423_triples_raw.json
+TRAN_4423,Noun and adjective usage,concept,PART_OF,Japanese Grammar Review,topic,,,TRAN_4423_triples_raw.json
+TRAN_4423,Domain-specific vocabulary in Japanese,concept,PART_OF,Vocabulary Building,topic,,,TRAN_4423_triples_raw.json
+TRAN_4423,Cultural references and nuances,concept,PART_OF,Vocabulary Building,topic,,,TRAN_4423_triples_raw.json
+TRAN_4423,Text structure and organization,concept,PART_OF,Translation of Text Types,topic,,,TRAN_4423_triples_raw.json
+TRAN_4423,Language use and style,concept,PART_OF,Translation of Text Types,topic,,,TRAN_4423_triples_raw.json
+TRAN_4423,Authorial intent and purpose,concept,PART_OF,Critical Engagement with Texts,topic,,,TRAN_4423_triples_raw.json
+TRAN_4423,Literal vs. free translation approaches,concept,PART_OF,translation techniques and strategies,concept,,,TRAN_4423_triples_raw.json
+TRAN_4423,Style and tone in translation,concept,PART_OF,translation techniques and strategies,concept,,,TRAN_4423_triples_raw.json
+TRAN_4423,International collaboration and communication,concept,PART_OF,Collaborative Online International Learning (COIL) Project Preparation,topic,,,TRAN_4423_triples_raw.json
+TRAN_4423,Cultural exchange and understanding,concept,PART_OF,Collaborative Online International Learning (COIL) Project Preparation,topic,,,TRAN_4423_triples_raw.json
+TRAN_4423,translation techniques and strategies,concept,USED_FOR,Translation Exercises and Practice,topic,,,TRAN_4423_triples_raw.json

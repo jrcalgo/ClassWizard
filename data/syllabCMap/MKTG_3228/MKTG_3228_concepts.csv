@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MKTG_3228,topic,Marketing Analytics,Marketing Analytics,1,verified,Marketing Analytics,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,marketing data analysis,Marketing Data Analysis,1,inferred,marketing data analysis,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,business problem solving,Business Problem Solving,1,inferred,business problem solving,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,analytics in marketing,Analytics in Marketing,1,inferred,analytics in marketing,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,regression analysis techniques,Regression Analysis Techniques,1,inferred,regression analysis techniques,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,model evaluation metrics,Model Evaluation Metrics,1,inferred,model evaluation metrics,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,predictive analytics methods,Predictive Analytics Methods,1,inferred,predictive analytics methods,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,cluster analysis applications,Cluster Analysis Applications,1,inferred,cluster analysis applications,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,segmentation strategies development,Segmentation Strategies Development,1,inferred,segmentation strategies development,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,target market identification,Target Market Identification,1,inferred,target market identification,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,brand equity measurement tools,Brand Equity Measurement Tools,1,inferred,brand equity measurement tools,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,positioning statement development,Positioning Statement Development,1,inferred,positioning statement development,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,brand image creation techniques,Brand Image Creation Techniques,1,inferred,brand image creation techniques,MKTG_3228_concepts_raw.json
+MKTG_3228,concept,cost-benefit analysis techniques,Cost-Benefit Analysis Techniques,1,inferred,cost-benefit analysis techniques,MKTG_3228_concepts_raw.json
+MKTG_3228,topic,Media Selection and Scheduling,Media Selection and Scheduling,1,inferred,Media Selection and Scheduling,MKTG_3228_concepts_raw.json
+MKTG_3228,topic,Advertising Effectiveness Metrics,Advertising Effectiveness Metrics,1,inferred,Advertising Effectiveness Metrics,MKTG_3228_concepts_raw.json
+MKTG_3228,topic,Promotional Budget Allocation,Promotional Budget Allocation,1,inferred,Promotional Budget Allocation,MKTG_3228_concepts_raw.json
+MKTG_3228,topic,Data Visualization Techniques,Data Visualization Techniques,1,inferred,Data Visualization Techniques,MKTG_3228_concepts_raw.json
+MKTG_3228,topic,Statistical Analysis Software,Statistical Analysis Software,1,inferred,Statistical Analysis Software,MKTG_3228_concepts_raw.json
+MKTG_3228,topic,Marketing Automation Platforms,Marketing Automation Platforms,1,inferred,Marketing Automation Platforms,MKTG_3228_concepts_raw.json

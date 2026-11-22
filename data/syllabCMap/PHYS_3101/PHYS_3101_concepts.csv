@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_3101,concept,probability distributions,probability distributions,1,verified,probability distributions,PHYS_3101_concepts_raw.json
+PHYS_3101,topic,Linear Differential Operators and Laplace Transforms,linear differential operators and Laplace transforms,1,verified,Linear Differential Operators and Laplace Transforms,PHYS_3101_concepts_raw.json
+PHYS_3101,topic,Vector Algebra and Coordinate Systems,Vector Algebra and Coordinate Systems,1,verified,Vector Algebra and Coordinate Systems,PHYS_3101_concepts_raw.json
+PHYS_3101,topic,Divergence Theorem and Stokes' Theorem,divergence theorem and Stokes' theorem,1,verified,Divergence Theorem and Stokes' Theorem,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,expectation values,expectation values,1,verified,expectation values,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,standard deviations,standard deviations,1,verified,standard deviations,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,small-parameter approximations,small-parameter approximations,1,verified,small-parameter approximations,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,complex numbers,complex numbers,1,verified,complex numbers,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,Euler's formula,Euler's formula,1,verified,Euler's formula,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,phasor representations,phasor representations,1,verified,phasor representations,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,first-order ordinary differential equations,first-order ordinary differential equations,1,verified,first-order ordinary differential equations,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,separation of variables,separation of variables,1,verified,separation of variables,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,integrating factors,integrating factors,1,verified,integrating factors,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,power-series methods,power-series methods,1,verified,power-series methods,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,second-order linear ordinary differential equations,second-order linear ordinary differential equations,1,verified,second-order linear ordinary differential equations,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,special functions,special functions,1,verified,special functions,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,linear differential operators,linear differential operators,1,verified,linear differential operators,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,Laplace transforms,Laplace transforms,1,verified,Laplace transforms,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,vector algebra,vector algebra,2,verified,vector algebra,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,rotation matrices,rotation matrices,1,verified,rotation matrices,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,rank-two tensors,rank -two tensors,1,verified,rank-two tensors,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,coordinate systems,coordinate systems,2,verified,coordinate systems,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,partial derivatives,partial derivatives,1,verified,partial derivatives,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,total differentials,total differentials,1,verified,total differentials,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,exact differentials,exact differentials,2,verified,exact differentials,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,multivariable chain rules,multivariable chain rules,1,verified,multivariable chain rules,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,gradients,gradients,1,verified,gradients,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,directional derivatives,directional derivatives,1,verified,directional derivatives,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,divergence,divergence,2,verified,divergence,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,curl,curl,1,verified,curl,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,line integrals,line integrals,1,verified,line integrals,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,work integrals,work integrals,1,verified,work integrals,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,circulation,circulation,2,verified,circulation,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,path dependence,path dependence,1,verified,path dependence,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,conservative vector fields,conservative vector fields,1,verified,conservative vector fields,PHYS_3101_concepts_raw.json
+PHYS_3101,concept,potential functions,potential functions,1,verified,potential functions,PHYS_3101_concepts_raw.json

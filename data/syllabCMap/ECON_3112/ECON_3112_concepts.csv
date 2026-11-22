@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECON_3112,topic,Econometrics,Econometrics,4,verified,Econometrics,ECON_3112_concepts_raw.json
+ECON_3112,concept,econometric methods,econometric methods,1,verified,econometric methods,ECON_3112_concepts_raw.json
+ECON_3112,method,empirical analysis,empirical analysis,2,verified,empirical analysis,ECON_3112_concepts_raw.json
+ECON_3112,tool,Stata,Stata,1,verified,Stata,ECON_3112_concepts_raw.json
+ECON_3112,topic,Data Types and Sources,Data Types and Sources,1,inferred,Data Types and Sources,ECON_3112_concepts_raw.json
+ECON_3112,topic,Simple Linear Regression,Simple Linear Regression,1,inferred,Simple Linear Regression,ECON_3112_concepts_raw.json
+ECON_3112,topic,Multiple Regression Analysis,Multiple Regression Analysis,1,inferred,Multiple Regression Analysis,ECON_3112_concepts_raw.json
+ECON_3112,topic,Assumptions of Regression Models,Assumptions of Regression Models,1,inferred,Assumptions of Regression Models,ECON_3112_concepts_raw.json
+ECON_3112,topic,Hypothesis Testing and Confidence Intervals,Hypothesis Testing and Confidence Intervals,1,inferred,Hypothesis Testing and Confidence Intervals,ECON_3112_concepts_raw.json
+ECON_3112,topic,Stata Software and Data Analysis,Stata Software and Data Analysis,1,inferred,Stata Software and Data Analysis,ECON_3112_concepts_raw.json
+ECON_3112,topic,Econometric Applications and Case Studies,Econometric Applications and Case Studies,1,inferred,Econometric Applications and Case Studies,ECON_3112_concepts_raw.json
+ECON_3112,concept,statistical analysis in economics,Statistical Analysis in Economics,1,inferred,statistical analysis in economics,ECON_3112_concepts_raw.json
+ECON_3112,concept,regression model equation,Regression Model Equation,1,inferred,regression model equation,ECON_3112_concepts_raw.json
+ECON_3112,concept,coefficient estimation and interpretation,Coefficient Estimation and Interpretation,1,inferred,coefficient estimation and interpretation,ECON_3112_concepts_raw.json
+ECON_3112,concept,hypothesis testing in regression,Hypothesis Testing in Regression,1,inferred,hypothesis testing in regression,ECON_3112_concepts_raw.json
+ECON_3112,concept,multiple predictor variables,Multiple Predictor Variables,1,inferred,multiple predictor variables,ECON_3112_concepts_raw.json
+ECON_3112,concept,interactions and non-linear effects,Interactions and Non-Linear Effects,1,inferred,interactions and non-linear effects,ECON_3112_concepts_raw.json
+ECON_3112,concept,linearity and independence assumptions,Linearity and Independence Assumptions,1,inferred,linearity and independence assumptions,ECON_3112_concepts_raw.json
+ECON_3112,concept,homoscedasticity and normality assumptions,Homoscedasticity and Normality Assumptions,1,inferred,homoscedasticity and normality assumptions,ECON_3112_concepts_raw.json
+ECON_3112,concept,multicollinearity and outliers,Multicollinearity and Outliers,1,inferred,multicollinearity and outliers,ECON_3112_concepts_raw.json
+ECON_3112,concept,null and alternative hypotheses,Null and Alternative Hypotheses,1,inferred,null and alternative hypotheses,ECON_3112_concepts_raw.json
+ECON_3112,concept,test statistics and p-values,Test Statistics and P-Values,1,inferred,test statistics and p-values,ECON_3112_concepts_raw.json
+ECON_3112,concept,confidence interval estimation,Confidence Interval Estimation,1,inferred,confidence interval estimation,ECON_3112_concepts_raw.json
+ECON_3112,method,hypothesis testing,Hypothesis Testing,2,inferred,hypothesis testing,ECON_3112_concepts_raw.json
+ECON_3112,method,data analysis,Data Analysis,1,inferred,data analysis,ECON_3112_concepts_raw.json
+ECON_3112,method,critical thinking,Critical Thinking,1,inferred,critical thinking,ECON_3112_concepts_raw.json
+ECON_3112,method,research design,Research Design,1,inferred,research design,ECON_3112_concepts_raw.json
+ECON_3112,method,selection,Selection,1,inferred,regression model specification and selection,ECON_3112_concepts_raw.json
+ECON_3112,method,Stata commands and syntax,Stata Commands and Syntax,1,inferred,Stata commands and syntax,ECON_3112_concepts_raw.json
+ECON_3112,method,data import and cleaning,Data Import and Cleaning,1,inferred,data import and cleaning,ECON_3112_concepts_raw.json
+ECON_3112,method,descriptive statistics and visualization,Descriptive Statistics and Visualization,1,inferred,descriptive statistics and visualization,ECON_3112_concepts_raw.json

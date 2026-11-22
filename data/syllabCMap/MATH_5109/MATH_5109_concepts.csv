@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_5109,topic,Ancient Civilizations,Ancient Civilizations,1,inferred,Ancient Civilizations,MATH_5109_concepts_raw.json
+MATH_5109,topic,Classical Period,Classical Period,1,inferred,Classical Period,MATH_5109_concepts_raw.json
+MATH_5109,topic,Middle Ages,Middle Ages,1,inferred,Middle Ages,MATH_5109_concepts_raw.json
+MATH_5109,topic,Renaissance and Beyond,Renaissance and Beyond,1,inferred,Renaissance and Beyond,MATH_5109_concepts_raw.json
+MATH_5109,topic,Modern Mathematics,Modern Mathematics,1,inferred,Modern Mathematics,MATH_5109_concepts_raw.json
+MATH_5109,concept,Egyptian Mathematics,Egyptian Mathematics,1,inferred,Egyptian Mathematics,MATH_5109_concepts_raw.json
+MATH_5109,concept,Babylonian Contributions,Babylonian Contributions,1,inferred,Babylonian Contributions,MATH_5109_concepts_raw.json
+MATH_5109,concept,Greek Geometry,Greek Geometry,1,inferred,Greek Geometry,MATH_5109_concepts_raw.json
+MATH_5109,concept,Euclid's Elements,Euclid's Elements,1,inferred,Euclid's Elements,MATH_5109_concepts_raw.json
+MATH_5109,concept,Archimedes' Discoveries,Archimedes' Discoveries,1,inferred,Archimedes' Discoveries,MATH_5109_concepts_raw.json
+MATH_5109,concept,Apollonius' Conics,Apollonius' Conics,1,inferred,Apollonius' Conics,MATH_5109_concepts_raw.json
+MATH_5109,concept,Islamic Golden Age,Islamic Golden Age,1,inferred,Islamic Golden Age,MATH_5109_concepts_raw.json
+MATH_5109,concept,Indian Number System,Indian Number System,1,inferred,Indian Number System,MATH_5109_concepts_raw.json
+MATH_5109,concept,Medieval Algebra,Medieval Algebra,1,inferred,Medieval Algebra,MATH_5109_concepts_raw.json
+MATH_5109,concept,Copernicus' Heliocentrism,Copernicus' Heliocentrism,1,inferred,Copernicus' Heliocentrism,MATH_5109_concepts_raw.json
+MATH_5109,concept,Galileo's Mathematical Physics,Galileo's Mathematical Physics,1,inferred,Galileo's Mathematical Physics,MATH_5109_concepts_raw.json
+MATH_5109,concept,Newton's Laws of Motion,Newton's Laws of Motion,1,inferred,Newton's Laws of Motion,MATH_5109_concepts_raw.json
+MATH_5109,concept,Calculus Development,Calculus Development,1,inferred,Calculus Development,MATH_5109_concepts_raw.json
+MATH_5109,concept,Topology and Geometry,Topology and Geometry,1,inferred,Topology and Geometry,MATH_5109_concepts_raw.json
+MATH_5109,concept,Abstract Algebra Emergence,Abstract Algebra Emergence,1,inferred,Abstract Algebra Emergence,MATH_5109_concepts_raw.json
+MATH_5109,work,Euclid,Euclid,1,inferred,Euclid,MATH_5109_concepts_raw.json
+MATH_5109,work,Archimedes,Archimedes,1,inferred,Archimedes,MATH_5109_concepts_raw.json
+MATH_5109,work,Apollonius,Apollonius,1,inferred,Apollonius,MATH_5109_concepts_raw.json
+MATH_5109,work,Copernicus,Copernicus,1,inferred,Copernicus,MATH_5109_concepts_raw.json
+MATH_5109,work,Galileo,Galileo,1,inferred,Galileo,MATH_5109_concepts_raw.json
+MATH_5109,work,Newton,Newton,1,inferred,Newton,MATH_5109_concepts_raw.json

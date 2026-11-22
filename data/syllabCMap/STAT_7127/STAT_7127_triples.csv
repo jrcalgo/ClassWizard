@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_7127,general linear models,concept,PREREQUISITE_OF,Hypothesis Testing,topic,A taught first,,STAT_7127_triples_raw.json
+STAT_7127,general linear models,concept,PREREQUISITE_OF,Confidence Intervals,topic,A taught first,,STAT_7127_triples_raw.json
+STAT_7127,general linear models,concept,PREREQUISITE_OF,Regression Diagnostics,topic,A taught first,,STAT_7127_triples_raw.json
+STAT_7127,p-value interpretation rules,concept,PART_OF,Hypothesis Testing,topic,,,STAT_7127_triples_raw.json
+STAT_7127,interval estimation principles,concept,PART_OF,Confidence Intervals,topic,,,STAT_7127_triples_raw.json
+STAT_7127,standard error calculation methods,concept,PART_OF,Confidence Intervals,topic,,,STAT_7127_triples_raw.json
+STAT_7127,residual plot interpretation,concept,PART_OF,Model Assumption Checking,topic,,,STAT_7127_triples_raw.json
+STAT_7127,outlier detection techniques,concept,PART_OF,Model Assumption Checking,topic,,,STAT_7127_triples_raw.json
+STAT_7127,coefficient of determination calculation,concept,PART_OF,Regression Diagnostics,topic,,,STAT_7127_triples_raw.json
+STAT_7127,variance inflation factor analysis,concept,PART_OF,Regression Diagnostics,topic,,,STAT_7127_triples_raw.json
+STAT_7127,collinearity detection methods,concept,PART_OF,Regression Diagnostics,topic,,,STAT_7127_triples_raw.json
+STAT_7127,model comparison criteria,concept,PART_OF,Model Selection and Validation,topic,,,STAT_7127_triples_raw.json
+STAT_7127,test statistics,concept,USED_FOR,Hypothesis Testing,topic,,,STAT_7127_triples_raw.json
+STAT_7127,p-value interpretation rules,concept,USED_FOR,Hypothesis Testing,topic,,,STAT_7127_triples_raw.json
+STAT_7127,interval estimation principles,concept,USED_FOR,Confidence Intervals,topic,,,STAT_7127_triples_raw.json
+STAT_7127,standard error calculation methods,concept,USED_FOR,Confidence Intervals,topic,,,STAT_7127_triples_raw.json
+STAT_7127,homoscedasticity tests,concept,USED_FOR,Model Assumption Checking,topic,,,STAT_7127_triples_raw.json
+STAT_7127,coefficient of determination calculation,concept,USED_FOR,Regression Diagnostics,topic,,,STAT_7127_triples_raw.json
+STAT_7127,model comparison criteria,concept,USED_FOR,Model Selection and Validation,topic,,,STAT_7127_triples_raw.json
+STAT_7127,cross-validation techniques,concept,USED_FOR,Model Selection and Validation,topic,,,STAT_7127_triples_raw.json

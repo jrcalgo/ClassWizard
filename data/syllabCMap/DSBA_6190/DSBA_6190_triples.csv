@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6190,cross-cutting concerns,concept,PREREQUISITE_OF,Cloud computing,concept,A mentioned first,,DSBA_6190_triples_raw.json
+DSBA_6190,Infrastructure as Code,concept,PREREQUISITE_OF,End-to-End Cloud Data Analytics Pipeline,topic,B mentioned first,,DSBA_6190_triples_raw.json
+DSBA_6190,streaming,concept,PREREQUISITE_OF,streaming data ingestion pipelines on AWS,method,A mentioned first,,DSBA_6190_triples_raw.json
+DSBA_6190,SQL,tool,PREREQUISITE_OF,securing,method,A mentioned first,,DSBA_6190_triples_raw.json
+DSBA_6190,Python,tool,PREREQUISITE_OF,ingesting batch and streaming data,method,A mentioned first,,DSBA_6190_triples_raw.json
+DSBA_6190,cross-cutting concerns,concept,PART_OF,data engineering lifecycle,concept,,,DSBA_6190_triples_raw.json
+DSBA_6190,distributed processing,concept,PART_OF,data transformation workflows,concept,,,DSBA_6190_triples_raw.json
+DSBA_6190,Infrastructure as Code,concept,PART_OF,End-to-End Cloud Data Analytics Pipeline,topic,,,DSBA_6190_triples_raw.json
+DSBA_6190,streaming,concept,PART_OF,streaming data ingestion pipelines on AWS,method,,part is broader than whole - check direction,DSBA_6190_triples_raw.json
+DSBA_6190,SQL,tool,PART_OF,securing,method,,,DSBA_6190_triples_raw.json
+DSBA_6190,Python,tool,PART_OF,ingesting batch and streaming data,method,,,DSBA_6190_triples_raw.json
+DSBA_6190,AWS CLI,tool,USED_FOR,AWS service ecosystem,concept,,,DSBA_6190_triples_raw.json
+DSBA_6190,Git,tool,USED_FOR,building,method,,,DSBA_6190_triples_raw.json
+DSBA_6190,Python,tool,USED_FOR,ingesting batch and streaming data,method,,,DSBA_6190_triples_raw.json

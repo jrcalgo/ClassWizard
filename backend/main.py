@@ -142,6 +142,7 @@ def post_recommend(body: RecommendRequest):
         return JSONResponse({"detail": f"limit must be 1 to {_MAX_LIMIT}"}, status_code=422)
     try:
         with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            conn.execute("SET TRANSACTION ISOLATION LEVEL REPEATABLE READ, READ ONLY")
             result = recommend(conn, audit, soc_codes, body.limit)
     except UnsupportedAudit as exc:
         # e.g. "the Graduate 2026-2027 catalog is not loaded yet"
@@ -207,6 +208,7 @@ def post_explain(body: ExplainRequest):
     # (never trust a course list from the client), then gather evidence.
     try:
         with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            conn.execute("SET TRANSACTION ISOLATION LEVEL REPEATABLE READ, READ ONLY")
             recommendation = recommend(conn, audit, soc_codes, _MAX_LIMIT)
             evidence = retrieve_evidence(conn, question, audit, recommendation, soc_codes)
     except UnsupportedAudit as exc:

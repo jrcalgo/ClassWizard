@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6150,topic,Foundations of Artificial Intelligence,Foundations of Artificial Intelligence,1,verified,Foundations of Artificial Intelligence,ITCS_6150_concepts_raw.json
+ITCS_6150,topic,AI,AI,5,verified,Introduction to AI,ITCS_6150_concepts_raw.json
+ITCS_6150,topic,Knowledge Representation,knowledgerepresentation,1,verified,Knowledge Representation,ITCS_6150_concepts_raw.json
+ITCS_6150,concept,Agent models,Agent models,4,verified,"Agent models, search algorithms",ITCS_6150_concepts_raw.json
+ITCS_6150,concept,search algorithms,search algorithms,3,verified,"Agent models, search algorithms",ITCS_6150_concepts_raw.json
+ITCS_6150,concept,game playing,game playing,3,verified,game playing,ITCS_6150_concepts_raw.json
+ITCS_6150,concept,constraint satisfaction problems,constraint satisfaction problems,3,verified,constraint satisfaction problems,ITCS_6150_concepts_raw.json
+ITCS_6150,concept,Markov decision processes & reinforcement learning,Markov decision processes & reinforcement learning,2,verified,Markov decision processes & reinforcement learning,ITCS_6150_concepts_raw.json
+ITCS_6150,concept,supervisedlearning,supervisedlearning,2,verified,supervisedlearning,ITCS_6150_concepts_raw.json
+ITCS_6150,concept,knowledgerepresentation,knowledgerepresentation,2,verified,knowledgerepresentation,ITCS_6150_concepts_raw.json
+ITCS_6150,concept,logic,logic,3,verified,logic,ITCS_6150_concepts_raw.json
+ITCS_6150,concept,Bayesian&decisionnetworks,Bayesian&decisionnetworks,2,verified,Bayesian&decisionnetworks,ITCS_6150_concepts_raw.json
+ITCS_6150,concept,sampling,sampling,3,verified,sampling,ITCS_6150_concepts_raw.json
+ITCS_6150,method,techniques,techniques,2,verified,"<semicolon-separated list of methods, techniques, practices and skills that students learn to carry out: analytical, statistical, experimental, research, clinical, design, writing, teaching, performance and creative techniques and algorithms, e.g. hypothesis testing",ITCS_6150_concepts_raw.json
+ITCS_6150,method,research,research,2,verified,"<semicolon-separated list of methods, techniques, practices and skills that students learn to carry out: analytical, statistical, experimental, research, clinical, design, writing, teaching, performance and creative techniques and algorithms, e.g. hypothesis testing",ITCS_6150_concepts_raw.json
+ITCS_6150,method,design,design,6,verified,"<semicolon-separated list of methods, techniques, practices and skills that students learn to carry out: analytical, statistical, experimental, research, clinical, design, writing, teaching, performance and creative techniques and algorithms, e.g. hypothesis testing",ITCS_6150_concepts_raw.json
+ITCS_6150,method,teaching,Teaching,1,verified,"<semicolon-separated list of methods, techniques, practices and skills that students learn to carry out: analytical, statistical, experimental, research, clinical, design, writing, teaching, performance and creative techniques and algorithms, e.g. hypothesis testing",ITCS_6150_concepts_raw.json
+ITCS_6150,method,algorithms,algorithms,8,verified,"<semicolon-separated list of methods, techniques, practices and skills that students learn to carry out: analytical, statistical, experimental, research, clinical, design, writing, teaching, performance and creative techniques and algorithms, e.g. hypothesis testing",ITCS_6150_concepts_raw.json
+ITCS_6150,tool,programming languages,programming language,2,verified,"<semicolon-separated list of named software, programming languages, instruments (scientific or musical), equipment, materials and media, and datasets that students learn to use, e.g. Python",ITCS_6150_concepts_raw.json

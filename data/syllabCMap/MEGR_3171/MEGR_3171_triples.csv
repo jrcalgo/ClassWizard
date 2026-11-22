@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3171,mechanical processes,concept,PREREQUISITE_OF,measurement and data acquisition systems,concept,B mentioned first,,MEGR_3171_triples_raw.json
+MEGR_3171,system dynamics,concept,PREREQUISITE_OF,control,concept,same unit,,MEGR_3171_triples_raw.json
+MEGR_3171,programming,concept,PREREQUISITE_OF,DAQ tools,concept,same unit,,MEGR_3171_triples_raw.json
+MEGR_3171,signal conditioning,method,PREREQUISITE_OF,actuator circuits,concept,same unit,,MEGR_3171_triples_raw.json
+MEGR_3171,advanced circuit analysis,method,PREREQUISITE_OF,signal conditioning,method,same unit,,MEGR_3171_triples_raw.json
+MEGR_3171,error analysis,method,PREREQUISITE_OF,combined uncertainties,measure,A mentioned first,,MEGR_3171_triples_raw.json
+MEGR_3171,system dynamics,concept,PART_OF,Mechatronics,topic,,,MEGR_3171_triples_raw.json
+MEGR_3171,measurement and data acquisition systems,concept,PART_OF,Mechatronics,topic,,,MEGR_3171_triples_raw.json
+MEGR_3171,mechanical processes,concept,PART_OF,Mechatronics,topic,,,MEGR_3171_triples_raw.json
+MEGR_3171,control,concept,PART_OF,Mechatronics,topic,,,MEGR_3171_triples_raw.json
+MEGR_3171,communication,concept,PART_OF,Mechatronics,topic,,,MEGR_3171_triples_raw.json
+MEGR_3171,programming,concept,PART_OF,Mechatronics,topic,,,MEGR_3171_triples_raw.json
+MEGR_3171,DAQ tools,concept,PART_OF,measurement and data acquisition systems,concept,,,MEGR_3171_triples_raw.json
+MEGR_3171,actuator circuits,concept,PART_OF,signal conditioning,method,,part is broader than whole - check direction,MEGR_3171_triples_raw.json
+MEGR_3171,breadboard prototype,concept,PART_OF,signal conditioning,method,,part is broader than whole - check direction,MEGR_3171_triples_raw.json
+MEGR_3171,statistical measures,concept,PART_OF,Linear and Nonlinear Curve Fitting,topic,,,MEGR_3171_triples_raw.json
+MEGR_3171,DAQ tools,concept,USED_FOR,open and closed loop process control,method,,,MEGR_3171_triples_raw.json
+MEGR_3171,signal conditioning,method,USED_FOR,actuator circuits,concept,,,MEGR_3171_triples_raw.json

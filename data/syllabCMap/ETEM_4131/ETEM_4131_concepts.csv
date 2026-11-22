@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_4131,topic,Intelligent Industrial Systems,Intelligent Industrial Systems,2,verified,Intelligent Industrial Systems,ETEM_4131_concepts_raw.json
+ETEM_4131,topic,Power Delivery and Protection,power delivery and protection,2,verified,Power Delivery and Protection,ETEM_4131_concepts_raw.json
+ETEM_4131,topic,Fluid Mechanics,fluid mechanics,2,verified,Fluid Mechanics,ETEM_4131_concepts_raw.json
+ETEM_4131,topic,Artificial Intelligence,artificial intelligence,2,verified,Artificial Intelligence,ETEM_4131_concepts_raw.json
+ETEM_4131,topic,Process Monitoring,process monitoring,2,verified,Process Monitoring,ETEM_4131_concepts_raw.json
+ETEM_4131,topic,Industry Modeling and Analysis,industry modeling and analysis,1,verified,Industry Modeling and Analysis,ETEM_4131_concepts_raw.json
+ETEM_4131,concept,industrial systems,Industrial Systems,4,verified,industrial systems,ETEM_4131_concepts_raw.json

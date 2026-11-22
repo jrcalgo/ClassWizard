@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_2101,topic,Civil Engineering Drawing,Civil Engineering Drawing,1,verified,Civil Engineering Drawing,CEGR_2101_concepts_raw.json
+CEGR_2101,topic,Civil 3D,Civil 3D,3,verified,Introduction to Civil 3D,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Site parcel layouts,site parcel layouts,1,verified,Site parcel layouts,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Horizontal alignments,horizontal alignments,1,verified,Horizontal alignments,CEGR_2101_concepts_raw.json
+CEGR_2101,topic,Transportation Assemblies,transportation assemblies,1,verified,Transportation Assemblies,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Storm sewer pipe networks,storm sewer pipe networks,1,verified,Storm sewer pipe networks,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Civil/Construction drawings,Civil/Construction drawings,1,verified,Civil/Construction drawings,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,AutoCAD Civil 3D software,AutoCAD Civil 3D software,1,verified,AutoCAD Civil 3D software,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Electronic survey data,electronic survey data,1,verified,Electronic survey data,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Topographic contour lines,topographic contour lines,1,verified,Topographic contour lines,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,3D surface models,3D surface models,1,verified,3D surface models,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Topographic subdivision maps,topographic subdivision maps,1,verified,Topographic subdivision maps,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Vertical profiles,vertical profiles,1,verified,Vertical profiles,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Cross-sections,cross-sections,1,verified,Cross-sections,CEGR_2101_concepts_raw.json
+CEGR_2101,concept,Earthwork quantities,earthwork quantities,1,verified,Earthwork quantities,CEGR_2101_concepts_raw.json

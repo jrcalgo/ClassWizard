@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_1231,Experiential Learning,topic,PREREQUISITE_OF,Adventure Education Definition,concept,same unit,,KNES_1231_triples_raw.json
+KNES_1231,Transformational Leadership Style,concept,PREREQUISITE_OF,Servant Leadership Principles,concept,same unit,,KNES_1231_triples_raw.json
+KNES_1231,Adaptive Leadership Approaches,concept,PREREQUISITE_OF,Transformational Leadership Style,concept,same unit,,KNES_1231_triples_raw.json
+KNES_1231,Adventure Education Definition,concept,PART_OF,Adventure Education,topic,,,KNES_1231_triples_raw.json
+KNES_1231,Experiential Learning Principles,concept,PART_OF,Experiential Learning,topic,,,KNES_1231_triples_raw.json
+KNES_1231,Servant Leadership Principles,concept,PART_OF,Leadership Theories and Models,topic,,,KNES_1231_triples_raw.json
+KNES_1231,Adaptive Leadership Approaches,concept,PART_OF,Leadership Theories and Models,topic,,,KNES_1231_triples_raw.json
+KNES_1231,Risk Management Strategies,concept,PART_OF,Adventure Activities and Risks,topic,,,KNES_1231_triples_raw.json
+KNES_1231,Safety Protocols and Procedures,concept,PART_OF,Adventure Activities and Risks,topic,,,KNES_1231_triples_raw.json
+KNES_1231,Emergency Response Planning,concept,PART_OF,Adventure Activities and Risks,topic,,,KNES_1231_triples_raw.json
+KNES_1231,Emotional Intelligence Development,concept,PART_OF,Personal Growth through Challenge,topic,,,KNES_1231_triples_raw.json
+KNES_1231,Resilience and Adaptability,concept,PART_OF,Personal Growth through Challenge,topic,,,KNES_1231_triples_raw.json
+KNES_1231,Adventure Education,topic,USED_FOR,Outdoor Adventure Leadership,topic,,topic used for something - check direction,KNES_1231_triples_raw.json
+KNES_1231,Experiential Learning Principles,concept,USED_FOR,Adventure Education Definition,concept,,,KNES_1231_triples_raw.json

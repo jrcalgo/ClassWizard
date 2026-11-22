@@ -1,0 +1,54 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_2320,topic,CJUS,CJUS,4,verified,CJUS,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,LEGL,LEGL,2,verified,LEGL,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,Criminal Justice,criminal justice,2,verified,Criminal Justice,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,Court Area,court area,1,verified,Court Area,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,Social Science Literature,social science literature,1,verified,Social Science Literature,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,Prosecutors,prosecutors,1,verified,Prosecutors,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,Defense Attorneys,defense attorneys,2,verified,Defense Attorneys,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,Judges,judges,1,verified,Judges,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,Juries,juries,1,verified,Juries,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,Court Structure,court structure,28,verified,Court Structure,CJUS_2320_concepts_raw.json
+CJUS_2320,topic,Court Reform Policies,court reform policies,4,verified,Court Reform Policies,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Prosecutorial Discretion,Prosecutorial discretion,54,verified,Prosecutorial Discretion,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Defense Attorney Roles,Defense attorney roles,26,verified,Defense Attorney Roles,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Judicial Independence,Judicial independence,29,verified,Judicial Independence,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Court Structure Models,Court structure models,25,verified,Court Structure Models,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Jury Selection Process,Jury selection process,29,verified,Jury Selection Process,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Murray Process Diagrams,Murray Process Diagrams,2,verified,Murray Process Diagrams,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,American Simulation,American Simulation,1,verified,American Simulation,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Adversarial System,Adversarial System,1,verified,Adversarial System,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Prosecution Strategies,Prosecution Strategies,1,verified,Prosecution Strategies,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Prosecutor-Defendant Relationship,Prosecutor-Defendant Relationship,1,verified,Prosecutor-Defendant Relationship,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Defense Attorney Role,Defense attorney roles,26,verified,Defense Attorney Role,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Judicial Bias Factors,Judicial bias factors,10,verified,Judicial Bias Factors,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Trial Strategy,Trial Strategy,1,verified,Trial Strategy,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Gideon v. Wainwright,Gideon v. Wainwright,1,verified,Gideon v. Wainwright,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Sixth Amendment Rights,Sixth Amendment Rights,1,verified,Sixth Amendment Rights,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Courtroom Dynamics Theory,Courtroom Dynamics Theory,3,verified,Courtroom Dynamics Theory,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Judicial Activism Models,Judicial Activism Models,1,verified,Judicial Activism Models,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Arraignment Process,Arraignment Process,1,verified,Arraignment Process,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Bail Determination Criteria,Bail Determination Criteria,1,verified,Bail Determination Criteria,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Grand Jury Process,Grand Jury Process,1,verified,Grand Jury Process,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Hearing Procedures,Hearing Procedures,1,verified,Hearing Procedures,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Discovery Process,Discovery Process,1,verified,Discovery Process,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Brady v Ruling,Brady v Ruling,1,verified,Brady v Ruling,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Federal Court Jurisdiction,Federal court jurisdiction,1,verified,Federal Court Jurisdiction,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Rule Crim Proc 16,Rule Crim Proc 16,1,verified,Rule Crim Proc 16,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Plea Bargaining Process,Plea Bargaining Process,3,verified,Plea Bargaining Process,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Guilty Plea Negotiations,Guilty Plea Negotiations,1,verified,Guilty Plea Negotiations,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Innocence and Guilt,Innocence and Guilt,1,verified,Innocence and Guilt,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Alford Plea,Alford Plea,1,verified,Alford Plea,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Public Defender System,Public Defender System,2,verified,Public Defender System,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Change of Venue Motions,Change of Venue Motions,1,verified,Change of Venue Motions,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Venue Selection Criteria,Venue Selection Criteria,1,verified,Venue Selection Criteria,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Batson Challenge,Batson Challenge,1,verified,Batson Challenge,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Peremptory Challenges,Peremptory Challenges,1,verified,Peremptory Challenges,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Equal Protection Clause,Equal Protection Clause,1,verified,Equal Protection Clause,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Trial Structure,Trial Structure,1,verified,Trial Structure,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Prosecutorial Discretion Theory,Prosecutorial Discretion Theory,1,verified,Prosecutorial Discretion Theory,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Punishment Theories,Punishment Theories,1,verified,Punishment Theories,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Sentencing Guidelines,Sentencing Guidelines,2,verified,Sentencing Guidelines,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Imprisonment Alternatives,Imprisonment Alternatives,1,verified,Imprisonment Alternatives,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Nullify or Lie,Nullify or Lie,1,verified,Nullify or Lie,CJUS_2320_concepts_raw.json
+CJUS_2320,concept,Jury Nullification Tactics,Jury nullification tactics,1,verified,Jury Nullification Tactics,CJUS_2320_concepts_raw.json

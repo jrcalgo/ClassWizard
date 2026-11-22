@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MGMT_3243,key federal employment legislation,concept,PREREQUISITE_OF,equal employment regulations,topic,A taught first,,MGMT_3243_triples_raw.json

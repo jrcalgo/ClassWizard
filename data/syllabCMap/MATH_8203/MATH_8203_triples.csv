@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_8203,Martingales,topic,PREREQUISITE_OF,Stochastic Differential Equations,topic,A taught first,,MATH_8203_triples_raw.json
+MATH_8203,Martingales,topic,PREREQUISITE_OF,Optional Stopping Theorem,topic,same unit,,MATH_8203_triples_raw.json
+MATH_8203,Ito's Lemma,topic,PREREQUISITE_OF,Stochastic Integrals,topic,A taught first,,MATH_8203_triples_raw.json
+MATH_8203,Stochastic Processes,topic,PREREQUISITE_OF,Brownian Motion,topic,A taught first,,MATH_8203_triples_raw.json
+MATH_8203,Stochastic Processes,topic,PREREQUISITE_OF,Stochastic Calculus,topic,A mentioned first,,MATH_8203_triples_raw.json
+MATH_8203,Stochastic Processes,topic,PREREQUISITE_OF,Stochastic Integrals,topic,A taught first,,MATH_8203_triples_raw.json
+MATH_8203,stochastic process definition,concept,PART_OF,Stochastic Processes,topic,,,MATH_8203_triples_raw.json
+MATH_8203,random walk model,concept,PART_OF,Stochastic Processes,topic,,,MATH_8203_triples_raw.json
+MATH_8203,probability measures,concept,PART_OF,Stochastic Processes,topic,,,MATH_8203_triples_raw.json
+MATH_8203,brownian motion properties,concept,PART_OF,Brownian Motion,topic,,,MATH_8203_triples_raw.json
+MATH_8203,taylor series expansion,concept,PART_OF,Ito's Lemma,topic,,,MATH_8203_triples_raw.json
+MATH_8203,stochastic integral definition,concept,PART_OF,Stochastic Integrals,topic,,,MATH_8203_triples_raw.json
+MATH_8203,ito calculus rules,concept,PART_OF,Stochastic Integrals,topic,,,MATH_8203_triples_raw.json
+MATH_8203,doob's martingale convergence,concept,PART_OF,Martingales,topic,,,MATH_8203_triples_raw.json

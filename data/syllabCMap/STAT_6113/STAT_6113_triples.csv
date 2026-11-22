@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_6113,heteroscedasticity,topic,PREREQUISITE_OF,time-series estimation,topic,A taught first,,STAT_6113_triples_raw.json
+STAT_6113,heteroscedasticity,topic,PREREQUISITE_OF,autocorrelation,topic,A taught first,,STAT_6113_triples_raw.json
+STAT_6113,multicollinearity,topic,PREREQUISITE_OF,instrumental variables regression,method,same unit,,STAT_6113_triples_raw.json
+STAT_6113,maximum likelihood estimation,method,PREREQUISITE_OF,instrumental variables regression,method,same unit,,STAT_6113_triples_raw.json
+STAT_6113,Specification and Data Problems,topic,PREREQUISITE_OF,Time Series Analysis,topic,A taught first,,STAT_6113_triples_raw.json
+STAT_6113,Heteroskedasticity,topic,PART_OF,Heteroscedasticity Problem,concept,,part is broader than whole - check direction,STAT_6113_triples_raw.json
+STAT_6113,Robust Standard Errors,concept,PART_OF,Generalized Least Squares,concept,,,STAT_6113_triples_raw.json
+STAT_6113,Weighted Least Squares,concept,PART_OF,Generalized Least Squares,concept,,,STAT_6113_triples_raw.json
+STAT_6113,basic forecasting tools,method,PART_OF,ARIMA models,method,,,STAT_6113_triples_raw.json
+STAT_6113,Multicollinearity Issue,concept,PART_OF,Classical Linear Regression Model,concept,,,STAT_6113_triples_raw.json
+STAT_6113,autocorrelation,topic,PART_OF,time-series estimation,topic,,,STAT_6113_triples_raw.json
+STAT_6113,ARIMA models,method,SUBTYPE_OF,basic forecasting tools,method,,,STAT_6113_triples_raw.json
+STAT_6113,least-squares estimator derivation,method,USED_FOR,time-series estimation,topic,,,STAT_6113_triples_raw.json
+STAT_6113,maximum likelihood estimation,method,USED_FOR,Specification and Data Problems,topic,,,STAT_6113_triples_raw.json

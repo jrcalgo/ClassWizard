@@ -1,0 +1,87 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RSCH_6101,concept,Informed Consent,Informed Consent,1,verified,Informed Consent,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Confidentiality Protocols,Confidentiality Protocols,1,verified,Confidentiality Protocols,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Ethical Principles,Ethical Principles,1,verified,Ethical Principles,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Research Misconduct,Research Misconduct,1,verified,Research Misconduct,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Human Subjects Review,Human Subjects Review,1,verified,Human Subjects Review,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Empirical Research Design,Empirical Research Design,1,verified,Empirical Research Design,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Research Paradigm,Research Paradigm,1,verified,Research Paradigm,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Null Hypothesis,Null Hypothesis,2,verified,Null Hypothesis,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Alternative Hypothesis,Alternative Hypothesis,2,verified,Alternative Hypothesis,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Randomized Controlled Trial,Randomized Controlled Trials,2,verified,Randomized Controlled Trial,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Multisite Study,Multisite Studies,2,verified,Multisite Study,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Educational Outcomes,educational outcomes,2,verified,Educational Outcomes,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,BARR Model,BARR Model,5,verified,BARR Model,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Published Articles,published articles,2,verified,Published Articles,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Interpretation of Results,Interpretation of Results,1,verified,Interpretation of Results,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Criticizing Research,Criticizing Research,1,verified,Criticizing Research,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Research Ideas Generation,Research Ideas Generation,1,verified,Research Ideas Generation,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Literature Review Process,Literature Review Process,1,verified,Literature Review Process,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Study Design Principles,Study Design Principles,1,verified,Study Design Principles,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Sampling Methods Comparison,Sampling Methods Comparison,1,verified,Sampling Methods Comparison,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Data Analysis Techniques,Data Analysis Techniques,2,verified,Data Analysis Techniques,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Measurement Error,Measurement Error,3,verified,Measurement Error,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Reliability Coefficient,Reliability Coefficient,1,verified,Reliability Coefficient,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Validity Threats,Validity Threats,4,verified,Validity Threats,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Construct Validity,Construct Validity,1,verified,Construct Validity,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Face Validity,Face Validity,1,verified,Face Validity,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Survey Research Methods,Survey Research Methods,1,verified,Survey Research Methods,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Questionnaire Design Principles,Questionnaire Design Principles,1,verified,Questionnaire Design Principles,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Reliability and Validity,Reliability and Validity,1,verified,Reliability and Validity,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Participant Selection,Participant Selection,1,verified,Participant Selection,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Random Sampling,Random Sampling,1,verified,Random Sampling,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Nonprobability Sampling,Nonprobability Sampling,1,verified,Nonprobability Sampling,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Population Parameters,Population Parameters,1,verified,Population Parameters,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Sample Statistics,Sample Statistics,1,verified,Sample Statistics,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Sampling Error,Sampling Error,1,verified,Sampling Error,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Bias in Sampling,Bias in Sampling,1,verified,Bias in Sampling,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Causal Inference,Causal Inference,3,verified,Causal Inference,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Effect Size Calculation,Effect Size Calculation,1,verified,Effect Size Calculation,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Publication Bias Detection,Publication Bias Detection,1,verified,Publication Bias Detection,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Experimental Research,Experimental Research,2,verified,Experimental Research,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Quasi Experimental Design,Quasi Experimental Design,2,verified,Quasi Experimental Design,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Internal Validity,Internal Validity,3,verified,Internal Validity,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,External Validity,External Validity,3,verified,External Validity,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Sampling Bias,Sampling Bias,1,verified,Sampling Bias,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Non-experimental research,Non-experimental research,1,verified,Non-experimental research,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Ex post facto design,Ex post facto design,1,verified,Ex post facto design,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Retrospective study,Retrospective study,1,verified,Retrospective study,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Correlational analysis,Correlational analysis,1,verified,Correlational analysis,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Confounding variables,Confounding variables,2,verified,Confounding variables,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Selection bias,Selection bias,2,verified,Selection bias,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Randomization Techniques,Randomization Techniques,1,verified,Randomization Techniques,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Matching Procedures,Matching Procedures,1,verified,Matching Procedures,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Regression Analysis,Regression Analysis,1,verified,Regression Analysis,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Randomized Controlled Trials,Randomized Controlled Trials,2,verified,Randomized Controlled Trials,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Multisite Studies,Multisite Studies,2,verified,Multisite Studies,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,BARR Model Implementation,BARR Model Implementation,2,verified,BARR Model Implementation,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Treatment and Control Groups,Treatment and Control Groups,1,verified,Treatment and Control Groups,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Pretest-Posttest Design,Pretest-Posttest Design,1,verified,Pretest-Posttest Design,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Quasi-Experiments,Quasi-Experiments,1,verified,Quasi-Experiments,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Descriptive Statistics,Descriptive Statistics,1,verified,Descriptive Statistics,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Data Description Methods,Data Description Methods,1,verified,Data Description Methods,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Measures of Central Tendency,Measures of Central Tendency,1,verified,Measures of Central Tendency,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Measures of Variability,Measures of Variability,1,verified,Measures of Variability,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Frequency Distributions,Frequency Distributions,1,verified,Frequency Distributions,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Inferential Statistics,Inferential Statistics,1,verified,Inferential Statistics,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Hypothesis Testing,Hypothesis Testing,1,verified,Hypothesis Testing,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Confidence Intervals,Confidence Intervals,1,verified,Confidence Intervals,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,P-Value Interpretation,P-Value Interpretation,1,verified,P-Value Interpretation,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Qualitative Research Designs,Qualitative Research Designs,1,verified,Qualitative Research Designs,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Case Study Methodology,Case Study Methodology,1,verified,Case Study Methodology,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Phenomenological Inquiry,Phenomenological Inquiry,1,verified,Phenomenological Inquiry,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Grounded Theory Approach,Grounded Theory Approach,1,verified,Grounded Theory Approach,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Narrative Analysis Technique,Narrative Analysis Technique,1,verified,Narrative Analysis Technique,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Mixed Methods Research,Mixed Methods Research,1,verified,Mixed Methods Research,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Action Research Design,Action Research Design,1,verified,Action Research Design,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Triangulation Techniques,Triangulation Techniques,1,verified,Triangulation Techniques,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Data Triangulation Strategies,Data Triangulation Strategies,1,verified,Data Triangulation Strategies,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Qualitative Data Analysis,Qualitative Data Analysis,1,verified,Qualitative Data Analysis,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Quantitative Data Analysis,Quantitative Data Analysis,1,verified,Quantitative Data Analysis,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Integration of Findings,Integration of Findings,1,verified,Integration of Findings,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Credibility and Validity,Credibility and Validity,1,verified,Credibility and Validity,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Member Checking Process,Member Checking Process,1,verified,Member Checking Process,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Critique of Research,Critique of Research,1,verified,Critique of Research,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Published Article Analysis,Published Article Analysis,1,verified,Published Article Analysis,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Study Limitations Identification,Study Limitations Identification,1,verified,Study Limitations Identification,RSCH_6101_concepts_raw.json
+RSCH_6101,concept,Criticizing Published Studies,Criticizing Published Studies,1,verified,Criticizing Published Studies,RSCH_6101_concepts_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NANO_8102,scaling phenomena,concept,PREREQUISITE_OF,nano-dots,concept,A taught first,,NANO_8102_triples_raw.json
+NANO_8102,scaling phenomena,concept,PREREQUISITE_OF,nanotribology,concept,A taught first,,NANO_8102_triples_raw.json
+NANO_8102,scaling phenomena,concept,PREREQUISITE_OF,nanoscale mechanics,concept,A taught first,,NANO_8102_triples_raw.json
+NANO_8102,scaling phenomena,concept,PREREQUISITE_OF,lithography masks,concept,A taught first,,NANO_8102_triples_raw.json
+NANO_8102,scaling phenomena,concept,PREREQUISITE_OF,nano-optics,concept,A taught first,,NANO_8102_triples_raw.json
+NANO_8102,scaling phenomena,concept,PREREQUISITE_OF,near-field optics,concept,A taught first,,NANO_8102_triples_raw.json
+NANO_8102,scaling phenomena,concept,PREREQUISITE_OF,nanoscale optical interactions,concept,A mentioned first,,NANO_8102_triples_raw.json
+NANO_8102,nanotribology,concept,PART_OF,nanoscale mechanics,concept,,,NANO_8102_triples_raw.json
+NANO_8102,lithography masks,concept,PART_OF,nano-optics,concept,,,NANO_8102_triples_raw.json
+NANO_8102,near-field optics,concept,PART_OF,nano-optics,concept,,,NANO_8102_triples_raw.json

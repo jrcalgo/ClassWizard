@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCIP_6275,machine learning,method,PREREQUISITE_OF,deep learning,method,same unit,,HCIP_6275_triples_raw.json
+HCIP_6275,machine learning,method,PREREQUISITE_OF,knowledge representation,method,same unit,,HCIP_6275_triples_raw.json

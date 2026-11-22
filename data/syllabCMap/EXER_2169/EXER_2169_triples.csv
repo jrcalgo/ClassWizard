@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_2169,Heart Structure and Function,concept,PREREQUISITE_OF,Circulatory System,topic,same unit,,EXER_2169_triples_raw.json
+EXER_2169,Lung Anatomy and Physiology,concept,PREREQUISITE_OF,Respiratory System,topic,same unit,,EXER_2169_triples_raw.json
+EXER_2169,Brain Structure and Function,concept,PREREQUISITE_OF,Nervous System I,topic,same unit,,EXER_2169_triples_raw.json
+EXER_2169,Eye Anatomy and Vision Process,concept,PREREQUISITE_OF,Sensory Systems,topic,same unit,,EXER_2169_triples_raw.json
+EXER_2169,Hormone Production and Regulation,concept,PREREQUISITE_OF,Endocrine System,topic,same unit,,EXER_2169_triples_raw.json
+EXER_2169,Skeletal Muscle Anatomy and Physiology,concept,PREREQUISITE_OF,Muscular System I,topic,same unit,,EXER_2169_triples_raw.json
+EXER_2169,Skin Structure and Function,concept,PREREQUISITE_OF,Integumentary System,topic,same unit,,EXER_2169_triples_raw.json
+EXER_2169,Kidney Structure and Function,concept,PREREQUISITE_OF,Urinary System,topic,same unit,,EXER_2169_triples_raw.json
+EXER_2169,Male Reproductive Anatomy and Physiology,concept,PREREQUISITE_OF,Reproductive Systems I,topic,same unit,,EXER_2169_triples_raw.json
+EXER_2169,Heart Structure and Function,concept,PART_OF,Circulatory System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Blood Vessel Types and Functions,concept,PART_OF,Circulatory System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Cardiovascular Regulation,concept,PART_OF,Circulatory System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Lung Anatomy and Physiology,concept,PART_OF,Respiratory System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Breathing Mechanisms and Control,concept,PART_OF,Respiratory System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Gas Exchange Processes,concept,PART_OF,Respiratory System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Eye Anatomy and Vision Process,concept,PART_OF,Sensory Systems,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Hearing Mechanisms and Pathways,concept,PART_OF,Sensory Systems,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Taste and Smell Functions,concept,PART_OF,Sensory Systems,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Hormone Production and Regulation,concept,PART_OF,Endocrine System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Thyroid and Adrenal Glands,concept,PART_OF,Endocrine System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Smooth Muscle Types and Functions,concept,PART_OF,Muscular System I,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Skin Structure and Function,concept,PART_OF,Integumentary System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Kidney Structure and Function,concept,PART_OF,Urinary System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Nephron Processes,concept,PART_OF,Urinary System,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Male Reproductive Anatomy and Physiology,concept,PART_OF,Reproductive Systems I,topic,,,EXER_2169_triples_raw.json
+EXER_2169,Female Reproductive Anatomy and Physiology,concept,PART_OF,Reproductive Systems I,topic,,,EXER_2169_triples_raw.json

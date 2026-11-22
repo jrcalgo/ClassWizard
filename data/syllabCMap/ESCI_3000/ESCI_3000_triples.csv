@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_3000,Types of extinctions,concept,PREREQUISITE_OF,Five major mass extinctions,concept,A taught first,,ESCI_3000_triples_raw.json
+ESCI_3000,Types of extinctions,concept,PREREQUISITE_OF,Drivers of modern biodiversity losses,concept,A taught first,,ESCI_3000_triples_raw.json
+ESCI_3000,Types of extinctions,concept,PREREQUISITE_OF,Patterns of biodiversity on Earth,concept,A taught first,,ESCI_3000_triples_raw.json
+ESCI_3000,Types of extinctions,concept,PART_OF,Extinction,topic,,,ESCI_3000_triples_raw.json
+ESCI_3000,Five major mass extinctions,concept,PART_OF,Mass extinctions,topic,,,ESCI_3000_triples_raw.json
+ESCI_3000,Drivers of modern biodiversity losses,concept,PART_OF,Biodiversity loss,topic,,,ESCI_3000_triples_raw.json
+ESCI_3000,Sixth mass extinction,topic,PART_OF,Mass extinctions,topic,,,ESCI_3000_triples_raw.json
+ESCI_3000,Habitat loss,topic,PART_OF,Geographic perspectives,topic,,,ESCI_3000_triples_raw.json
+ESCI_3000,Global climate change,topic,PART_OF,Geographic perspectives,topic,,,ESCI_3000_triples_raw.json

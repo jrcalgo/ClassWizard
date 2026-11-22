@@ -1,0 +1,35 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_8125,IL Theories and Models,concept,PREREQUISITE_OF,Instructional Design Principles,topic,A taught first,,ADMN_8125_triples_raw.json
+ADMN_8125,IL Theories and Models,concept,PREREQUISITE_OF,Change Management and Implementation,topic,A taught first,,ADMN_8125_triples_raw.json
+ADMN_8125,IL Theories and Models,concept,PREREQUISITE_OF,Coaching and Mentoring,topic,A taught first,,ADMN_8125_triples_raw.json
+ADMN_8125,IL Theories and Models,concept,PREREQUISITE_OF,Data-Driven Instructional Leadership,topic,A taught first,,ADMN_8125_triples_raw.json
+ADMN_8125,IL Theories and Models,concept,PREREQUISITE_OF,Collaborative Leadership and Teamwork,topic,A taught first,,ADMN_8125_triples_raw.json
+ADMN_8125,IL Theories and Models,concept,PREREQUISITE_OF,Personal and Professional Development,topic,A taught first,,ADMN_8125_triples_raw.json
+ADMN_8125,Definition of IL,concept,PART_OF,Instructional Leadership,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Importance of IL,concept,PART_OF,Instructional Leadership,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,IL Theories and Models,concept,PART_OF,Instructional Leadership,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Transformational Leadership Style,concept,PART_OF,Transformational School and District Leaders,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Charismatic Leadership Traits,concept,PART_OF,Transformational School and District Leaders,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Empowerment and Autonomy,concept,PART_OF,Transformational School and District Leaders,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Backward Design Process,concept,PART_OF,Instructional Design Principles,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Learning Objectives and Outcomes,concept,PART_OF,Instructional Design Principles,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Assessment and Feedback Strategies,concept,PART_OF,Instructional Design Principles,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Change Theories and Models,concept,PART_OF,Change Management and Implementation,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Implementation Planning and Monitoring,concept,PART_OF,Change Management and Implementation,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Coaching vs. Mentoring Approaches,concept,PART_OF,Coaching and Mentoring,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Effective Coaching Strategies,concept,PART_OF,Coaching and Mentoring,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Mentorship Program Design,concept,PART_OF,Coaching and Mentoring,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Data Analysis and Interpretation,concept,PART_OF,Data-Driven Instructional Leadership,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Action Research Methods,concept,PART_OF,Data-Driven Instructional Leadership,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Instructional Decision-Making,concept,PART_OF,Data-Driven Instructional Leadership,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Building Trust and Relationships,concept,PART_OF,Collaborative Leadership and Teamwork,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Effective Communication Strategies,concept,PART_OF,Collaborative Leadership and Teamwork,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Conflict Resolution Techniques,concept,PART_OF,Collaborative Leadership and Teamwork,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Equity,concept,PART_OF,Cultural Competence and Diversity,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Inclusion,concept,PART_OF,Cultural Competence and Diversity,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Culturally Responsive Leadership,concept,PART_OF,Cultural Competence and Diversity,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Self-Awareness and Reflection,concept,PART_OF,Personal and Professional Development,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Leadership Skills and Competencies,concept,PART_OF,Personal and Professional Development,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,Professional Growth and Development,concept,PART_OF,Personal and Professional Development,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,IL Theories and Models,concept,USED_FOR,Instructional Design Principles,topic,,,ADMN_8125_triples_raw.json
+ADMN_8125,IL Theories and Models,concept,USED_FOR,Coaching and Mentoring,topic,,,ADMN_8125_triples_raw.json

@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_3000,Native American Worldview,concept,PREREQUISITE_OF,Place-Based Identity Formation,concept,same unit,,GLST_3000_triples_raw.json
+GLST_3000,Migration Patterns and Trends,concept,PREREQUISITE_OF,Current Displacement Crises,concept,A taught first,,GLST_3000_triples_raw.json
+GLST_3000,Human Relationship with Place,concept,PART_OF,Belonging,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Concept of Belonging,concept,PART_OF,Belonging,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Native American Worldview,concept,PART_OF,Place,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Place-Based Identity Formation,concept,PART_OF,People,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Cultural Significance of Land,concept,PART_OF,Place,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Refugee Experience and Trauma,concept,PART_OF,Displacement,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Migration Patterns and Trends,concept,PART_OF,Displacement,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Emotional Connection to Place,concept,PART_OF,Place,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Sense of Community and Belonging,concept,PART_OF,Belonging,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Environmental Psychology,concept,PART_OF,Place,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Formation of National Identity,concept,PART_OF,People,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Intersectionality and Belonging,concept,PART_OF,People,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Cultural Significance of Place,concept,PART_OF,Place,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Power Dynamics and Place Control,concept,PART_OF,Place,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Colonialism and Place Appropriation,concept,PART_OF,Place,topic,,,GLST_3000_triples_raw.json
+GLST_3000,Environmental Psychology,concept,USED_FOR,Emotional Connection to Place,concept,,,GLST_3000_triples_raw.json

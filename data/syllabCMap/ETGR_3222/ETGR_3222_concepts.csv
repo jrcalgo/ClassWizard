@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETGR_3222,topic,Engineering Economics,Engineering Economics,2,verified,Engineering Economics,ETGR_3222_concepts_raw.json
+ETGR_3222,topic,Time Value of Money,Time Value of Money,1,inferred,Time Value of Money,ETGR_3222_concepts_raw.json
+ETGR_3222,topic,Cost Estimation and Classification,Cost Estimation and Classification,1,inferred,Cost Estimation and Classification,ETGR_3222_concepts_raw.json
+ETGR_3222,topic,Cash Flow Analysis,Cash Flow Analysis,1,inferred,Cash Flow Analysis,ETGR_3222_concepts_raw.json
+ETGR_3222,topic,Risk and Uncertainty in Engineering Projects,Risk and Uncertainty in Engineering Projects,1,inferred,Risk and Uncertainty in Engineering Projects,ETGR_3222_concepts_raw.json
+ETGR_3222,topic,Engineering Project Evaluation Methods,Engineering Project Evaluation Methods,1,inferred,Engineering Project Evaluation Methods,ETGR_3222_concepts_raw.json
+ETGR_3222,topic,Inflation and Depreciation in Engineering Economics,Inflation and Depreciation in Engineering Economics,1,inferred,Inflation and Depreciation in Engineering Economics,ETGR_3222_concepts_raw.json
+ETGR_3222,topic,Engineering Economic Analysis Software Tools,Engineering Economic Analysis Software Tools,1,inferred,Engineering Economic Analysis Software Tools,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Importance of Economic Analysis,Importance of Economic Analysis,1,inferred,Importance of Economic Analysis,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Engineering Decision Making,Engineering Decision Making,1,inferred,Engineering Decision Making,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Economic Principles,Economic Principles,1,inferred,Economic Principles,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Present Worth Factor,Present Worth Factor,1,inferred,Present Worth Factor,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Future Worth Factor,Future Worth Factor,1,inferred,Future Worth Factor,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Uniform Series Present Worth,Uniform Series Present Worth,1,inferred,Uniform Series Present Worth,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Direct vs Indirect Costs,Direct vs Indirect Costs,1,inferred,Direct vs Indirect Costs,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Fixed and Variable Costs,Fixed and Variable Costs,1,inferred,Fixed and Variable Costs,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Estimating Methods,Estimating Methods,1,inferred,Estimating Methods,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Cash Flow Diagrams,Cash Flow Diagrams,1,inferred,Cash Flow Diagrams,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Net Present Worth Method,Net Present Worth Method,2,inferred,Net Present Worth Method,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Equivalent Annual Cost,Equivalent Annual Cost,2,inferred,Equivalent Annual Cost,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Probability Theory Basics,Probability Theory Basics,1,inferred,Probability Theory Basics,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Expected Monetary Value,Expected Monetary Value,1,inferred,Expected Monetary Value,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Sensitivity Analysis,Sensitivity Analysis,1,inferred,Sensitivity Analysis,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Inflation Rate Impact,Inflation Rate Impact,1,inferred,Inflation Rate Impact,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Depreciation Methods,Depreciation Methods,1,inferred,Depreciation Methods,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Inflation-Adjusted Cash Flows,Inflation-Adjusted Cash Flows,1,inferred,Inflation-Adjusted Cash Flows,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Spreadsheet-Based Models,Spreadsheet-Based Models,1,inferred,Spreadsheet-Based Models,ETGR_3222_concepts_raw.json
+ETGR_3222,concept,Specialized Engineering Software,Specialized Engineering Software,1,inferred,Specialized Engineering Software,ETGR_3222_concepts_raw.json

@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MBAD_6211,topic,Advanced Business Analytics,Advanced Business Analytics,1,verified,Advanced Business Analytics,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,data analytics tools,data analytics tools,1,verified,data analytics tools,MBAD_6211_concepts_raw.json
+MBAD_6211,topic,Data Mining Fundamentals,Data Mining Fundamentals,1,inferred,Data Mining Fundamentals,MBAD_6211_concepts_raw.json
+MBAD_6211,topic,Predictive Modeling Basics,Predictive Modeling Basics,1,inferred,Predictive Modeling Basics,MBAD_6211_concepts_raw.json
+MBAD_6211,topic,Experimentation and Design,Experimentation and Design,1,inferred,Experimentation and Design,MBAD_6211_concepts_raw.json
+MBAD_6211,topic,Survival Analysis Methods,Survival Analysis Methods,1,inferred,Survival Analysis Methods,MBAD_6211_concepts_raw.json
+MBAD_6211,topic,Text Mining Techniques,Text Mining Techniques,1,inferred,Text Mining Techniques,MBAD_6211_concepts_raw.json
+MBAD_6211,topic,Forecasting and Time Series,Forecasting and Time Series,1,inferred,Forecasting and Time Series,MBAD_6211_concepts_raw.json
+MBAD_6211,topic,Business Analytics Scenarios,Business Analytics Scenarios,1,inferred,Business Analytics Scenarios,MBAD_6211_concepts_raw.json
+MBAD_6211,topic,Formulating Analytic Tasks,Formulating Analytic Tasks,1,inferred,Formulating Analytic Tasks,MBAD_6211_concepts_raw.json
+MBAD_6211,topic,Evaluating Analytics Methods,Evaluating Analytics Methods,1,inferred,Evaluating Analytics Methods,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,data mining principles,Data Mining Principles,1,inferred,data mining principles,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,predictive modeling concepts,Predictive Modeling Concepts,1,inferred,predictive modeling concepts,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,regression analysis methods,Regression Analysis Methods,1,inferred,regression analysis methods,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,model evaluation metrics,Model Evaluation Metrics,1,inferred,model evaluation metrics,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,experimental design principles,Experimental Design Principles,1,inferred,experimental design principles,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,hypothesis testing techniques,Hypothesis Testing Techniques,1,inferred,hypothesis testing techniques,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,confidence interval calculations,Confidence Interval Calculations,1,inferred,confidence interval calculations,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,survival analysis concepts,Survival Analysis Concepts,1,inferred,survival analysis concepts,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,Cox proportional hazard model,Cox Proportional Hazard Model,1,inferred,Cox proportional hazard model,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,Kaplan-Meier estimator,Kaplan-Meier Estimator,1,inferred,Kaplan-Meier estimator,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,text data preprocessing,Text Data Preprocessing,1,inferred,text data preprocessing,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,sentiment analysis methods,Sentiment Analysis Methods,1,inferred,sentiment analysis methods,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,topic modeling algorithms,Topic Modeling Algorithms,1,inferred,topic modeling algorithms,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,time series forecasting,Time Series Forecasting,1,inferred,time series forecasting,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,ARIMA model applications,ARIMA Model Applications,1,inferred,ARIMA model applications,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,exponential smoothing techniques,Exponential Smoothing Techniques,1,inferred,exponential smoothing techniques,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,marketing mix modeling,Marketing Mix Modeling,1,inferred,marketing mix modeling,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,customer segmentation analysis,Customer Segmentation Analysis,1,inferred,customer segmentation analysis,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,supply chain optimization,Supply Chain Optimization,1,inferred,supply chain optimization,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,business objectives alignment,Business Objectives Alignment,1,inferred,business objectives alignment,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,analytic task definition,Analytic Task Definition,1,inferred,analytic task definition,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,project evaluation criteria,Project Evaluation Criteria,1,inferred,project evaluation criteria,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,utility of analytics technologies,Utility of Analytics Technologies,1,inferred,utility of analytics technologies,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,success metrics for projects,Success Metrics for Projects,1,inferred,success metrics for projects,MBAD_6211_concepts_raw.json
+MBAD_6211,concept,return on investment analysis,Return on Investment Analysis,1,inferred,return on investment analysis,MBAD_6211_concepts_raw.json

@@ -1,0 +1,52 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_1200,topic,Chemical formulas and equations,chemical formulas and equations,1,verified,Chemical formulas and equations,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Chemical formulas,chemical formulas,1,verified,Chemical formulas,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Basic chemistry vocabulary,Basic chemistry vocabulary,1,inferred,Basic chemistry vocabulary,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Problem solving skills in chemistry,Problem solving skills in chemistry,1,inferred,Problem solving skills in chemistry,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Atomic number and mass,Atomic number and mass,1,inferred,Atomic number and mass,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,"Protons, neutrons, electrons","Protons, neutrons, electrons",1,inferred,"Protons, neutrons, electrons",CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Isotopes and atomic symbols,Isotopes and atomic symbols,1,inferred,Isotopes and atomic symbols,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Types of chemical bonds,Types of chemical bonds,1,inferred,Types of chemical bonds,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Ionic and covalent bonding,Ionic and covalent bonding,1,inferred,Ionic and covalent bonding,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Molecular geometry basics,Molecular geometry basics,1,inferred,Molecular geometry basics,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Balancing chemical equations,Balancing chemical equations,1,inferred,Balancing chemical equations,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Mole concept and calculations,Mole concept and calculations,1,inferred,Mole concept and calculations,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Avogadro's number and mole ratio,Avogadro's number and mole ratio,1,inferred,Avogadro's number and mole ratio,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Energy and work in chemistry,Energy and work in chemistry,1,inferred,Energy and work in chemistry,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Heat transfer and temperature,Heat transfer and temperature,1,inferred,Heat transfer and temperature,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Internal energy and enthalpy,Internal energy and enthalpy,1,inferred,Internal energy and enthalpy,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Types of chemical reactions,Types of chemical reactions,1,inferred,Types of chemical reactions,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Reaction rates and equilibrium,Reaction rates and equilibrium,1,inferred,Reaction rates and equilibrium,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Le Chatelier's principle,Le Chatelier's principle,1,inferred,Le Chatelier's principle,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Arrhenius definition of acids and bases,Arrhenius definition of acids and bases,1,inferred,Arrhenius definition of acids and bases,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Bronsted-Lowry theory of acids and bases,Bronsted-Lowry theory of acids and bases,1,inferred,Bronsted-Lowry theory of acids and bases,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,pH and pOH calculations,pH and pOH calculations,1,inferred,pH and pOH calculations,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Stoichiometry and limiting reagents,Stoichiometry and limiting reagents,1,inferred,Stoichiometry and limiting reagents,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Empirical and molecular formulas,Empirical and molecular formulas,1,inferred,Empirical and molecular formulas,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Percent composition and empirical formula,Percent composition and empirical formula,1,inferred,Percent composition and empirical formula,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Heat transfer and specific heat capacity,Heat transfer and specific heat capacity,1,inferred,Heat transfer and specific heat capacity,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Calorimetry and thermodynamic systems,Calorimetry and thermodynamic systems,1,inferred,Calorimetry and thermodynamic systems,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,First law of thermodynamics,First law of thermodynamics,1,inferred,First law of thermodynamics,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Reaction kinetics and mechanisms,Reaction kinetics and mechanisms,1,inferred,Reaction kinetics and mechanisms,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Catalysts and catalysts in reactions,Catalysts and catalysts in reactions,1,inferred,Catalysts and catalysts in reactions,CHEM_1200_concepts_raw.json
+CHEM_1200,topic,Equilibrium constants and Kc/Kp,Equilibrium constants and Kc/Kp,1,inferred,Equilibrium constants and Kc/Kp,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Chemical equations,chemical equations,1,inferred,Chemical equations,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Atomic number,Atomic number,1,inferred,Atomic number,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Mass,mass,1,inferred,Mass,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Protons,Protons,1,inferred,Protons,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Neutrons,neutrons,1,inferred,Neutrons,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Electrons,electrons,1,inferred,Electrons,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Isotopes,Isotopes,1,inferred,Isotopes,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Atomic symbols,atomic symbols,1,inferred,Atomic symbols,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Covalent bonding,covalent bonding,1,inferred,Covalent bonding,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Molecular geometry,Molecular geometry,1,inferred,Molecular geometry,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Mole concept,Mole concept,1,inferred,Mole concept,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Avogadro's number,Avogadro's number,1,inferred,Avogadro's number,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Limiting reagents,limiting reagents,1,inferred,Limiting reagents,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Empirical formulas,empirical formula,1,inferred,Empirical formulas,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Molecular formulas,molecular formulas,1,inferred,Molecular formulas,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Percent composition,Percent composition,1,inferred,Percent composition,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,pH,pH,1,inferred,pH,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,pOH,pOH,1,inferred,pOH,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Arrhenius definition,Arrhenius definition,1,inferred,Arrhenius definition,CHEM_1200_concepts_raw.json
+CHEM_1200,concept,Bronsted-Lowry theory,Bronsted-Lowry theory,1,inferred,Bronsted-Lowry theory,CHEM_1200_concepts_raw.json

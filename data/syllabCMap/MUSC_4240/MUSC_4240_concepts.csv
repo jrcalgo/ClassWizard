@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_4240,topic,Melody,melody,1,verified,Melody,MUSC_4240_concepts_raw.json
+MUSC_4240,topic,Harmony,harmony,1,verified,Harmony,MUSC_4240_concepts_raw.json
+MUSC_4240,topic,Rhythm,rhythm,1,verified,Rhythm,MUSC_4240_concepts_raw.json
+MUSC_4240,topic,Form,form,1,verified,Form,MUSC_4240_concepts_raw.json
+MUSC_4240,topic,Instrumentation,instrumentation,1,verified,Instrumentation,MUSC_4240_concepts_raw.json

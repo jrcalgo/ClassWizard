@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_4114,Algorithm Analysis,topic,PREREQUISITE_OF,Searching,topic,A mentioned first,,ITCS_4114_triples_raw.json
+ITCS_4114,tree structures,concept,PART_OF,search structures in algorithms,concept,,,ITCS_4114_triples_raw.json
+ITCS_4114,adjacency list representation,concept,PART_OF,Graph Algorithms,topic,,,ITCS_4114_triples_raw.json
+ITCS_4114,convex hull problem,concept,PART_OF,Geometric and Graph Algorithms,topic,,,ITCS_4114_triples_raw.json
+ITCS_4114,DFS traversal algorithm,concept,SUBTYPE_OF,Graph Algorithms,topic,,,ITCS_4114_triples_raw.json
+ITCS_4114,BRIDGES API,tool,USED_FOR,algorithm implementation,method,,,ITCS_4114_triples_raw.json
+ITCS_4114,Python,tool,USED_FOR,algorithm implementation,method,,,ITCS_4114_triples_raw.json
+ITCS_4114,C++,tool,USED_FOR,algorithm implementation,method,,,ITCS_4114_triples_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_3006,La7n American Fic7on,topic,PREREQUISITE_OF,Contemporary La6n American writers,concept,B mentioned first,,GLST_3006_triples_raw.json
+GLST_3006,Contemporary La6n American writers,concept,PREREQUISITE_OF,Selected Contemporary Writers,topic,A taught first,,GLST_3006_triples_raw.json
+GLST_3006,Textual Analysis Fundamentals,topic,PREREQUISITE_OF,Comparative Literature Approaches,topic,A taught first,,GLST_3006_triples_raw.json
+GLST_3006,Comparative Literature Approaches,topic,PART_OF,La6n American Fic7on,topic,,,GLST_3006_triples_raw.json
+GLST_3006,Textual Analysis Fundamentals,topic,PART_OF,Close Reading Skills,topic,,,GLST_3006_triples_raw.json
+GLST_3006,Comparative Literature Approaches,topic,PART_OF,Close Reading Skills,topic,,,GLST_3006_triples_raw.json
+GLST_3006,Importance of translation,concept,USED_FOR,Transnational literary connections,concept,,,GLST_3006_triples_raw.json

@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_1101,topic,psychology,psychology,3,verified,psychology,PSYC_1101_concepts_raw.json
+PSYC_1101,topic,emotion,emotion,2,verified,emotion,PSYC_1101_concepts_raw.json
+PSYC_1101,topic,learning,learning,3,verified,learning,PSYC_1101_concepts_raw.json
+PSYC_1101,topic,motivation,motivation,2,verified,motivation,PSYC_1101_concepts_raw.json
+PSYC_1101,topic,personality,personality,2,verified,personality,PSYC_1101_concepts_raw.json
+PSYC_1101,topic,psychological testing,psychological testing,2,verified,psychological testing,PSYC_1101_concepts_raw.json
+PSYC_1101,topic,abnormal behavior,abnormal behavior,2,verified,abnormal behavior,PSYC_1101_concepts_raw.json
+PSYC_1101,topic,behavioral science,behavioral science,1,verified,behavioral science,PSYC_1101_concepts_raw.json

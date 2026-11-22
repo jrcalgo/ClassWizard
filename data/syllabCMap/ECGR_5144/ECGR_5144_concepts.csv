@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5144,topic,Power Electronics 1,Power Electronics 1,1,verified,Power Electronics 1,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,High-power solid-state circuits,High-power solid-state circuits,1,verified,High-power solid-state circuits,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,power transfer,power transfer,2,verified,power transfer,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,DC/DC converters,DC/DC converters,2,verified,DC/DC converters,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,DC/AC inverters,DC/AC inverters,2,verified,DC/AC inverters,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,AC/DC rectifiers,AC/DC rectifiers,2,verified,AC/DC rectifiers,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,gate-drive circuits for linear and switching amplifiers,gate-drive circuits for linear and switching amplifiers,2,verified,gate-drive circuits for linear and switching amplifiers,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,pulse-width modulators,pulse-width modulators,2,verified,pulse-width modulators,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,power semiconductors,power semiconductors,2,verified,power semiconductors,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,control and converter modelling,control and converter modelling,2,verified,control and converter modelling,ECGR_5144_concepts_raw.json
+ECGR_5144,topic,renewable energy system integration,renewable energy system integration,2,verified,renewable energy system integration,ECGR_5144_concepts_raw.json
+ECGR_5144,concept,Simulation Tools for Power Electronics,simulation tools for power electronics,1,verified,Simulation Tools for Power Electronics,ECGR_5144_concepts_raw.json

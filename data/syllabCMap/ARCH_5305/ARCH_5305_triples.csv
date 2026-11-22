@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_5305,lectures,method,PREREQUISITE_OF,guest lectures,method,same unit,,ARCH_5305_triples_raw.json
+ARCH_5305,lab activities,method,PREREQUISITE_OF,hands-on application of creative concepts and innovative technology,method,A mentioned first,,ARCH_5305_triples_raw.json
+ARCH_5305,lectures,method,USED_FOR,Building Systems Integration,topic,,,ARCH_5305_triples_raw.json
+ARCH_5305,guest lectures,method,USED_FOR,Guest Lectures and Industry Exposure,topic,,,ARCH_5305_triples_raw.json

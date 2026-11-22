@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HSMT_3104,health informatics concepts,concept,PREREQUISITE_OF,telehealth and remote monitoring,concept,B mentioned first,,HSMT_3104_triples_raw.json
+HSMT_3104,healthcare laws and regulations,concept,PREREQUISITE_OF,hipaa compliance requirements,concept,same unit,,HSMT_3104_triples_raw.json
+HSMT_3104,industry standards for health it,concept,PREREQUISITE_OF,hipaa compliance requirements,concept,same unit,,HSMT_3104_triples_raw.json
+HSMT_3104,health information systems overview,concept,PART_OF,Health Information Systems,topic,,,HSMT_3104_triples_raw.json
+HSMT_3104,digital healthcare perspectives,concept,PART_OF,Health Information Systems,topic,,,HSMT_3104_triples_raw.json
+HSMT_3104,applications and cases in healthcare,concept,PART_OF,Health Information Systems,topic,,,HSMT_3104_triples_raw.json
+HSMT_3104,"Laws, Regulations, and Standards",topic,PART_OF,Health Information Systems,topic,,,HSMT_3104_triples_raw.json
+HSMT_3104,Medical Document Management,topic,PART_OF,Health Information Systems,topic,,,HSMT_3104_triples_raw.json
+HSMT_3104,Team Environments for Quality Work,topic,PART_OF,Health Information Systems,topic,,,HSMT_3104_triples_raw.json
+HSMT_3104,Health Information Technology Applications,topic,PART_OF,Health Information Systems,topic,,,HSMT_3104_triples_raw.json
+HSMT_3104,Critical Thinking in Health IT,topic,PART_OF,Health Information Systems,topic,,,HSMT_3104_triples_raw.json
+HSMT_3104,Case Studies in Health Informatics,topic,PART_OF,Health Information Systems,topic,,,HSMT_3104_triples_raw.json
+HSMT_3104,hipaa compliance requirements,concept,USED_FOR,healthcare laws and regulations,concept,,,HSMT_3104_triples_raw.json

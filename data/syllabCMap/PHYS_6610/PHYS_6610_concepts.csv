@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_6610,topic,Biophysics,Biophysics,4,verified,Biophysics,PHYS_6610_concepts_raw.json
+PHYS_6610,topic,Molecular Biophysics,Molecular Biophysics,2,verified,Molecular Biophysics,PHYS_6610_concepts_raw.json
+PHYS_6610,topic,Molecular Structure and Dynamics,Molecular Structure and Dynamics,1,inferred,Molecular Structure and Dynamics,PHYS_6610_concepts_raw.json
+PHYS_6610,topic,Biophysical Techniques and Methods,Biophysical Techniques and Methods,1,inferred,Biophysical Techniques and Methods,PHYS_6610_concepts_raw.json
+PHYS_6610,topic,Contemporary Topics in Biophysics,Contemporary Topics in Biophysics,1,inferred,Contemporary Topics in Biophysics,PHYS_6610_concepts_raw.json
+PHYS_6610,topic,Research Seminar Presentations,Research Seminar Presentations,1,inferred,Research Seminar Presentations,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,biophysics definition and scope,Biophysics definition and scope,1,inferred,biophysics definition and scope,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,interdisciplinary nature of biophysics,Interdisciplinary nature of biophysics,1,inferred,interdisciplinary nature of biophysics,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,applications in molecular biology,Applications in molecular biology,1,inferred,applications in molecular biology,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,protein structure and function,Protein structure and function,1,inferred,protein structure and function,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,nucleic acid structure and dynamics,Nucleic acid structure and dynamics,1,inferred,nucleic acid structure and dynamics,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,membrane structure and transport,Membrane structure and transport,1,inferred,membrane structure and transport,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,X-ray crystallography basics,X-ray crystallography basics,1,inferred,X-ray crystallography basics,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,magnetic resonance spectroscopy,Magnetic resonance spectroscopy,1,inferred,magnetic resonance spectroscopy,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,fluorescence microscopy principles,Fluorescence microscopy principles,1,inferred,fluorescence microscopy principles,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,single-molecule biophysics techniques,Single-molecule biophysics techniques,1,inferred,single-molecule biophysics techniques,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,biological systems modeling and simulation,Biological systems modeling and simulation,1,inferred,biological systems modeling and simulation,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,quantum mechanics in biology,Quantum mechanics in biology,1,inferred,quantum mechanics in biology,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,presenting research findings effectively,Presenting research findings effectively,1,inferred,presenting research findings effectively,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,critical thinking and discussion skills,Critical thinking and discussion skills,1,inferred,critical thinking and discussion skills,PHYS_6610_concepts_raw.json
+PHYS_6610,concept,interdisciplinary collaboration and communication,Interdisciplinary collaboration and communication,1,inferred,interdisciplinary collaboration and communication,PHYS_6610_concepts_raw.json

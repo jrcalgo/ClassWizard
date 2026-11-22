@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WGST_2050,Close reading,method,PREREQUISITE_OF,Analyzing Musical Texts,topic,same unit,,WGST_2050_triples_raw.json
+WGST_2050,Close reading,method,PREREQUISITE_OF,Claim Development and Evidence,topic,A taught first,,WGST_2050_triples_raw.json
+WGST_2050,MLA Style Guidelines,concept,PREREQUISITE_OF,MLA Formatting and Citation,topic,same unit,,WGST_2050_triples_raw.json
+WGST_2050,Feminist Music Theory,concept,PART_OF,Women in Music,topic,,,WGST_2050_triples_raw.json
+WGST_2050,Close Reading Techniques,concept,PART_OF,Analyzing Musical Texts,topic,,,WGST_2050_triples_raw.json
+WGST_2050,Literary Analysis Methods,concept,PART_OF,Analyzing Musical Texts,topic,,,WGST_2050_triples_raw.json
+WGST_2050,Articulating a Claim,concept,PART_OF,Claim Development and Evidence,topic,,,WGST_2050_triples_raw.json
+WGST_2050,Supportive Evidence Strategies,concept,PART_OF,Claim Development and Evidence,topic,,,WGST_2050_triples_raw.json
+WGST_2050,MLA Style Guidelines,concept,PART_OF,MLA Formatting and Citation,topic,,,WGST_2050_triples_raw.json
+WGST_2050,Citation Format Requirements,concept,PART_OF,MLA Formatting and Citation,topic,,,WGST_2050_triples_raw.json
+WGST_2050,Close reading,method,USED_FOR,Analyzing Musical Texts,topic,,,WGST_2050_triples_raw.json
+WGST_2050,Close reading,method,USED_FOR,Claim Development and Evidence,topic,,,WGST_2050_triples_raw.json
+WGST_2050,MLA Style Guidelines,concept,USED_FOR,MLA Formatting and Citation,topic,,,WGST_2050_triples_raw.json

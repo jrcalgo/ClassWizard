@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_4120,Psychological Impact of Illness,concept,PART_OF,Biopsychosocial Framework,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Diagnostic Criteria for Disorders,concept,PART_OF,Assessment and Diagnosis,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Building Trust with Clients,concept,PART_OF,Therapeutic Relationships,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Medication Classes for Psychosis,concept,PART_OF,Pharmacological Interventions,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Side Effects of Antipsychotics,concept,PART_OF,Pharmacological Interventions,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Polypharmacy Risks and Consequences,concept,PART_OF,Pharmacological Interventions,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Suicide Risk Assessment Protocols,concept,PART_OF,Crisis Intervention and Management,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Emergency Response Planning,concept,PART_OF,Crisis Intervention and Management,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Stages of Addiction Development,concept,PART_OF,Substance Abuse and Dependence,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Withdrawal Symptoms and Management,concept,PART_OF,Substance Abuse and Dependence,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Treatment Options for Substance Use,concept,PART_OF,Substance Abuse and Dependence,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Management of Chronic Depression,concept,PART_OF,Chronic Mental Health Conditions,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Care Planning for Bipolar Disorder,concept,PART_OF,Chronic Mental Health Conditions,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Supporting Clients with Schizophrenia,concept,PART_OF,Chronic Mental Health Conditions,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Importance of Self-Care for Nurses,concept,PART_OF,Self-Care and Wellness,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Stress Management Techniques for Nurses,concept,PART_OF,Self-Care and Wellness,topic,,,NURS_4120_triples_raw.json
+NURS_4120,Maintaining Professional Boundaries,concept,PART_OF,Self-Care and Wellness,topic,,,NURS_4120_triples_raw.json

@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_1241,topic,Integrals,integrals,1,verified,Introduction to Integrals,MATH_1241_concepts_raw.json
+MATH_1241,concept,types of limits,types of limits,1,verified,types of limits,MATH_1241_concepts_raw.json
+MATH_1241,topic,Limits Introduction,Limits Introduction,1,inferred,Limits Introduction,MATH_1241_concepts_raw.json
+MATH_1241,topic,Limits Calculations,Limits Calculations,1,inferred,Limits Calculations,MATH_1241_concepts_raw.json
+MATH_1241,topic,Differentiation Basics,Differentiation Basics,1,inferred,Differentiation Basics,MATH_1241_concepts_raw.json
+MATH_1241,topic,Differentiation Techniques,Differentiation Techniques,1,inferred,Differentiation Techniques,MATH_1241_concepts_raw.json
+MATH_1241,topic,Applications of Derivatives,Applications of Derivatives,1,inferred,Applications of Derivatives,MATH_1241_concepts_raw.json
+MATH_1241,topic,Techniques of Integration,Techniques of Integration,1,inferred,Techniques of Integration,MATH_1241_concepts_raw.json
+MATH_1241,concept,limit notation and rules,Limit Notation and Rules,1,inferred,limit notation and rules,MATH_1241_concepts_raw.json
+MATH_1241,concept,calculating one-sided limits,Calculating One-Sided Limits,1,inferred,calculating one-sided limits,MATH_1241_concepts_raw.json
+MATH_1241,concept,calculating infinite limits,Calculating Infinite Limits,1,inferred,calculating infinite limits,MATH_1241_concepts_raw.json
+MATH_1241,concept,derivative notation and rules,Derivative Notation and Rules,1,inferred,derivative notation and rules,MATH_1241_concepts_raw.json
+MATH_1241,concept,power rule for derivatives,Power Rule for Derivatives,1,inferred,power rule for derivatives,MATH_1241_concepts_raw.json
+MATH_1241,concept,product rule for derivatives,Product Rule for Derivatives,1,inferred,product rule for derivatives,MATH_1241_concepts_raw.json
+MATH_1241,concept,quotient rule for derivatives,Quotient Rule for Derivatives,1,inferred,quotient rule for derivatives,MATH_1241_concepts_raw.json
+MATH_1241,concept,optimization problems,Optimization Problems,1,inferred,optimization problems,MATH_1241_concepts_raw.json
+MATH_1241,concept,motion along a line,Motion Along a Line,1,inferred,motion along a line,MATH_1241_concepts_raw.json
+MATH_1241,concept,definite integral notation,Definite Integral Notation,1,inferred,definite integral notation,MATH_1241_concepts_raw.json
+MATH_1241,concept,basic properties of definite integrals,Basic Properties of Definite Integrals,1,inferred,basic properties of definite integrals,MATH_1241_concepts_raw.json
+MATH_1241,concept,substitution rule for integrals,Substitution Rule for Integrals,1,inferred,substitution rule for integrals,MATH_1241_concepts_raw.json
+MATH_1241,concept,integration by parts,Integration by Parts,1,inferred,integration by parts,MATH_1241_concepts_raw.json

@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_2120,public policy definition,concept,PREREQUISITE_OF,problem identification,topic,A taught first,,POLS_2120_triples_raw.json
+POLS_2120,public policy definition,concept,PREREQUISITE_OF,agenda setting,topic,A taught first,,POLS_2120_triples_raw.json
+POLS_2120,public policy definition,concept,PREREQUISITE_OF,policymaking process,topic,A taught first,,POLS_2120_triples_raw.json
+POLS_2120,public policy definition,concept,PREREQUISITE_OF,policy implementation,topic,A taught first,,POLS_2120_triples_raw.json
+POLS_2120,public policy definition,concept,PREREQUISITE_OF,case studies in public policy,topic,A taught first,,POLS_2120_triples_raw.json
+POLS_2120,public policy definition,concept,PART_OF,public policy,topic,,,POLS_2120_triples_raw.json
+POLS_2120,problem identification,topic,PART_OF,public policy,topic,,,POLS_2120_triples_raw.json
+POLS_2120,agenda setting,topic,PART_OF,public policy,topic,,,POLS_2120_triples_raw.json
+POLS_2120,policymaking process,topic,PART_OF,public policy,topic,,,POLS_2120_triples_raw.json
+POLS_2120,policy implementation,topic,PART_OF,public policy,topic,,,POLS_2120_triples_raw.json
+POLS_2120,case studies in public policy,topic,PART_OF,public policy,topic,,,POLS_2120_triples_raw.json
+POLS_2120,cost-benefit analysis techniques,concept,PART_OF,policy analysis,topic,,,POLS_2120_triples_raw.json
+POLS_2120,risk assessment strategies,concept,PART_OF,policy analysis,topic,,,POLS_2120_triples_raw.json
+POLS_2120,program management strategies,concept,PART_OF,policy implementation,topic,,,POLS_2120_triples_raw.json
+POLS_2120,outcome-based evaluation methods,concept,PART_OF,policy implementation,topic,,,POLS_2120_triples_raw.json
+POLS_2120,policy agenda formation,concept,SUBTYPE_OF,agenda setting,topic,,,POLS_2120_triples_raw.json
+POLS_2120,executive branch decision-making,method,SUBTYPE_OF,policymaking process,topic,,,POLS_2120_triples_raw.json
+POLS_2120,cost-benefit analysis,method,SUBTYPE_OF,policy analysis,topic,,,POLS_2120_triples_raw.json
+POLS_2120,cost-benefit analysis techniques,concept,USED_FOR,policy analysis,topic,,,POLS_2120_triples_raw.json
+POLS_2120,risk assessment strategies,concept,USED_FOR,policy analysis,topic,,,POLS_2120_triples_raw.json
+POLS_2120,program management strategies,concept,USED_FOR,policy implementation,topic,,,POLS_2120_triples_raw.json

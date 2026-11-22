@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OSCI_8640,topic,Gender,Gender,5,verified,Gender,OSCI_8640_concepts_raw.json
+OSCI_8640,topic,Work,Work,5,verified,Work,OSCI_8640_concepts_raw.json
+OSCI_8640,topic,Organizations,Organizations,3,verified,Organizations,OSCI_8640_concepts_raw.json
+OSCI_8640,topic,Labor Market Participation,labor market participation,1,verified,Labor Market Participation,OSCI_8640_concepts_raw.json
+OSCI_8640,topic,Sociological Theory,Sociological Theory,1,inferred,Sociological Theory,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Occupational Segregation Patterns,Occupational Segregation Patterns,1,inferred,Occupational Segregation Patterns,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Career Advancement Barriers,Career Advancement Barriers,1,inferred,Career Advancement Barriers,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Gender Pay Gap Explanation,Gender Pay Gap Explanation,1,inferred,Gender Pay Gap Explanation,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Occupational Stereotypes Formation,Occupational Stereotypes Formation,1,inferred,Occupational Stereotypes Formation,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Career Aspirations and Expectations,Career Aspirations and Expectations,1,inferred,Career Aspirations and Expectations,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Sexual Harassment in Workplace,Sexual Harassment in Workplace,1,inferred,Sexual Harassment in Workplace,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Organizational Culture and Gender,Organizational Culture and Gender,1,inferred,Organizational Culture and Gender,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Work-Life Balance Challenges,Work-Life Balance Challenges,1,inferred,Work-Life Balance Challenges,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Intersectionality Concept,Intersectionality Concept,1,inferred,Intersectionality Concept,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Patriarchy and Power Dynamics,Patriarchy and Power Dynamics,1,inferred,Patriarchy and Power Dynamics,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Gender and Sociological Theory,Gender and Sociological Theory,1,inferred,Gender and Sociological Theory,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Men's and Women's Labor Force,Men's and Women's Labor Force,1,inferred,Men's and Women's Labor Force,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Intersectional Analysis Methodology,Intersectional Analysis Methodology,1,inferred,Intersectional Analysis Methodology,OSCI_8640_concepts_raw.json
+OSCI_8640,concept,Diversity and Inclusion Strategies,Diversity and Inclusion Strategies,1,inferred,Diversity and Inclusion Strategies,OSCI_8640_concepts_raw.json

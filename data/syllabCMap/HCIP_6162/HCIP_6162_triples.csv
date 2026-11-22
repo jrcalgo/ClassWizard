@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCIP_6162,data preprocessing,concept,PREREQUISITE_OF,data profiling,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,data cleaning,concept,PREREQUISITE_OF,data transformation,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,association rule mining,concept,PREREQUISITE_OF,sequential pattern mining,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,clustering algorithms,concept,PREREQUISITE_OF,decision tree induction,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,Apriori algorithm,concept,PREREQUISITE_OF,frequent itemset mining,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,sequence mining techniques,concept,PREREQUISITE_OF,pattern discovery methods,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,supervised learning,concept,PREREQUISITE_OF,unsupervised learning,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,activation functions,concept,PREREQUISITE_OF,backpropagation,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,hierarchical clustering,concept,PREREQUISITE_OF,K-means algorithm,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,DBSCAN algorithm,concept,PREREQUISITE_OF,silhouette coefficient,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,word association rules,concept,PREREQUISITE_OF,term frequency analysis,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,probabilistic latent semantic analysis,concept,PREREQUISITE_OF,non-negative matrix factorization,concept,same unit,,HCIP_6162_triples_raw.json
+HCIP_6162,data transformation,concept,PART_OF,data preprocessing,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,decision tree induction,concept,PART_OF,clustering algorithms,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,frequent itemset mining,concept,PART_OF,Apriori algorithm,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,pattern discovery methods,concept,PART_OF,sequence mining techniques,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,unsupervised learning,concept,PART_OF,supervised learning,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,K-means algorithm,concept,PART_OF,hierarchical clustering,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,silhouette coefficient,concept,PART_OF,DBSCAN algorithm,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,term frequency analysis,concept,PART_OF,word association rules,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,latent Dirichlet allocation,concept,PART_OF,topic modeling techniques,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,non-negative matrix factorization,concept,PART_OF,probabilistic latent semantic analysis,concept,,,HCIP_6162_triples_raw.json
+HCIP_6162,backpropagation,concept,USED_FOR,activation functions,concept,,,HCIP_6162_triples_raw.json

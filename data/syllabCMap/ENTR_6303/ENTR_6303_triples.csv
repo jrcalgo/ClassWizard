@@ -1,0 +1,36 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENTR_6303,Problem Principle,topic,PREREQUISITE_OF,entrepreneurial mindset,concept,same unit,,ENTR_6303_triples_raw.json
+ENTR_6303,Exploration Principle,topic,PREREQUISITE_OF,Simplicity Principle,topic,same unit,,ENTR_6303_triples_raw.json
+ENTR_6303,entrepreneurial mindset,concept,PREREQUISITE_OF,prototyping behavior,concept,same unit,,ENTR_6303_triples_raw.json
+ENTR_6303,entrepreneurial mindset,concept,PREREQUISITE_OF,storytelling technique,concept,A taught first,,ENTR_6303_triples_raw.json
+ENTR_6303,prototyping behavior,concept,PART_OF,entrepreneurial progress,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,prototyping behavior,concept,PART_OF,opportunity evaluation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,prototyping behavior,concept,PART_OF,execution priority,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,prototyping behavior,concept,PART_OF,support engagement,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,prototyping behavior,concept,PART_OF,momentum creation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,PART_OF,entrepreneurial progress,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,PART_OF,opportunity evaluation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,PART_OF,right opportunities focus,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,PART_OF,execution priority,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,PART_OF,support engagement,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,PART_OF,momentum creation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,PART_OF,entrepreneurial progress,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,PART_OF,opportunity evaluation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,PART_OF,right opportunities focus,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,PART_OF,execution priority,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,PART_OF,support engagement,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,PART_OF,momentum creation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,prototyping behavior,concept,USED_FOR,entrepreneurial progress,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,prototyping behavior,concept,USED_FOR,opportunity evaluation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,prototyping behavior,concept,USED_FOR,execution priority,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,USED_FOR,entrepreneurial progress,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,USED_FOR,opportunity evaluation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,USED_FOR,right opportunities focus,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,USED_FOR,execution priority,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,USED_FOR,support engagement,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,experimentation method,concept,USED_FOR,momentum creation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,USED_FOR,entrepreneurial progress,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,USED_FOR,opportunity evaluation,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,USED_FOR,execution priority,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,USED_FOR,support engagement,concept,,,ENTR_6303_triples_raw.json
+ENTR_6303,storytelling technique,concept,USED_FOR,momentum creation,concept,,,ENTR_6303_triples_raw.json

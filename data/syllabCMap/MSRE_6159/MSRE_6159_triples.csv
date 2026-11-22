@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSRE_6159,lectures,method,USED_FOR,Real Estate Development,topic,,,MSRE_6159_triples_raw.json
+MSRE_6159,financial modeling exercises,method,USED_FOR,financial feasibility analysis,concept,,,MSRE_6159_triples_raw.json
+MSRE_6159,industry case studies,method,USED_FOR,risk management strategies,concept,,,MSRE_6159_triples_raw.json
+MSRE_6159,guest speakers,method,USED_FOR,market dynamics analysis,concept,,,MSRE_6159_triples_raw.json
+MSRE_6159,team-based projects,method,USED_FOR,project execution planning,concept,,,MSRE_6159_triples_raw.json

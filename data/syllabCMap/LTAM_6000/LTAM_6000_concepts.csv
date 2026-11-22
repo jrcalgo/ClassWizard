@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LTAM_6000,concept,U.S. Latino/a Literature,U.S. Latino/a Literature,1,inferred,U.S. Latino/a Literature,LTAM_6000_concepts_raw.json
+LTAM_6000,topic,Children's Texts Significance,Children's Texts Significance,1,inferred,Children's Texts Significance,LTAM_6000_concepts_raw.json
+LTAM_6000,topic,Migration in Children's Lit,Migration in Children's Lit,1,inferred,Migration in Children's Lit,LTAM_6000_concepts_raw.json
+LTAM_6000,topic,Assimilation and Citizenship,Assimilation and Citizenship,1,inferred,Assimilation and Citizenship,LTAM_6000_concepts_raw.json
+LTAM_6000,topic,Scholarly Perspectives on Lit,Scholarly Perspectives on Lit,1,inferred,Scholarly Perspectives on Lit,LTAM_6000_concepts_raw.json
+LTAM_6000,topic,Reading Responses and Presentations,Reading Responses and Presentations,1,inferred,Reading Responses and Presentations,LTAM_6000_concepts_raw.json
+LTAM_6000,topic,Short Paper Development,Short Paper Development,1,inferred,Short Paper Development,LTAM_6000_concepts_raw.json
+LTAM_6000,topic,Abstract and Seminar Paper Prep,Abstract and Seminar Paper Prep,1,inferred,Abstract and Seminar Paper Prep,LTAM_6000_concepts_raw.json
+LTAM_6000,topic,Seminar Paper Presentations,Seminar Paper Presentations,1,inferred,Seminar Paper Presentations,LTAM_6000_concepts_raw.json
+LTAM_6000,topic,Final Seminar Paper Submission,Final Seminar Paper Submission,1,inferred,Final Seminar Paper Submission,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Themes of Migration,Themes of Migration,1,inferred,Themes of Migration,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Experiences of Immigrants,Experiences of Immigrants,1,inferred,Experiences of Immigrants,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Cultural Identity Formation,Cultural Identity Formation,1,inferred,Cultural Identity Formation,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Concepts of Assimilation,Concepts of Assimilation,1,inferred,Concepts of Assimilation,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Citizenship and Belonging,Citizenship and Belonging,1,inferred,Citizenship and Belonging,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Power Dynamics in Society,Power Dynamics in Society,1,inferred,Power Dynamics in Society,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Critical Theory Applications,Critical Theory Applications,1,inferred,Critical Theory Applications,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Cultural Studies Approaches,Cultural Studies Approaches,1,inferred,Cultural Studies Approaches,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Literary Analysis Methods,Literary Analysis Methods,1,inferred,Literary Analysis Methods,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Close Reading Techniques,Close Reading Techniques,1,inferred,Close Reading Techniques,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Analytical Writing Strategies,Analytical Writing Strategies,1,inferred,Analytical Writing Strategies,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Effective Presentation Skills,Effective Presentation Skills,1,inferred,Effective Presentation Skills,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Research Paper Structure,Research Paper Structure,1,inferred,Research Paper Structure,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Argumentation and Evidence,Argumentation and Evidence,1,inferred,Argumentation and Evidence,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Clear Writing Style,Clear Writing Style,1,inferred,Clear Writing Style,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Research Proposal Writing,Research Proposal Writing,1,inferred,Research Proposal Writing,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Seminar Paper Guidelines,Seminar Paper Guidelines,1,inferred,Seminar Paper Guidelines,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Time Management Strategies,Time Management Strategies,1,inferred,Time Management Strategies,LTAM_6000_concepts_raw.json
+LTAM_6000,concept,Effective Presentation Techniques,Effective Presentation Techniques,1,inferred,Effective Presentation Techniques,LTAM_6000_concepts_raw.json
+LTAM_6000,method,Audience Engagement Strategies,Audience Engagement Strategies,1,inferred,"Differentiated instruction (not explicitly mentioned, but implied by Effective Presentation Techniques and Audience Engagement Strategies)",LTAM_6000_concepts_raw.json
+LTAM_6000,method,Close reading,Close Reading,1,inferred,Close reading,LTAM_6000_concepts_raw.json
+LTAM_6000,method,Analytical writing,Analytical Writing,1,inferred,Analytical writing,LTAM_6000_concepts_raw.json
+LTAM_6000,method,Effective presentation,Effective Presentation,2,inferred,Effective presentation,LTAM_6000_concepts_raw.json

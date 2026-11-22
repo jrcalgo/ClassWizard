@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+UCOL_1206,Campus Orientation,topic,PART_OF,Campus Resource Utilization,topic,,,UCOL_1206_triples_raw.json
+UCOL_1206,Problem Solving Techniques,topic,PART_OF,Campus Resource Utilization,topic,,,UCOL_1206_triples_raw.json

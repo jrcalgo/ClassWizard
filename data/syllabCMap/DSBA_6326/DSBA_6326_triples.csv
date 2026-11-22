@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6326,Network Structures and Properties,topic,PART_OF,Network Science,topic,,,DSBA_6326_triples_raw.json
+DSBA_6326,Network Processes and Behaviors,topic,PART_OF,Network Science,topic,,,DSBA_6326_triples_raw.json
+DSBA_6326,social networks,concept,PART_OF,Network Structures and Properties,topic,,,DSBA_6326_triples_raw.json
+DSBA_6326,network analysis,method,PART_OF,Network Science,topic,,,DSBA_6326_triples_raw.json
+DSBA_6326,network analysis,method,USED_FOR,Network Science,topic,,,DSBA_6326_triples_raw.json

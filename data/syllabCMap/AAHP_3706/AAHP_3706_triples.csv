@@ -1,0 +1,35 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AAHP_3706,Decorative Motifs,topic,PREREQUISITE_OF,Ritual Centers,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Decorative Motifs,topic,PREREQUISITE_OF,Romanesque,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Decorative Motifs,topic,PREREQUISITE_OF,19th Century,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Human Activity and Cultural Symbols,topic,PREREQUISITE_OF,Settlements,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Prehistory,topic,PREREQUISITE_OF,Cradles of Civilization,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Prehistoric Architecture,concept,PREREQUISITE_OF,Early Communities,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Ritual Centers,topic,PREREQUISITE_OF,Mediterranean Foundations,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Human Activity and Cultural Symbols,topic,PREREQUISITE_OF,First Peoples,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Ancient Near East,topic,PREREQUISITE_OF,Northern Africa,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Prehistoric Mediterranean Sea,topic,PREREQUISITE_OF,Cradles of Civilization,topic,B taught first,B is taught before A - check,AAHP_3706_triples_raw.json
+AAHP_3706,Early Communities,topic,PREREQUISITE_OF,Ritual Centers,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Polynesian Architecture,concept,PREREQUISITE_OF,Colonial America,topic,A taught first,,AAHP_3706_triples_raw.json
+AAHP_3706,Prehistoric Decorative Motifs,concept,PART_OF,Cradles of Civilization,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Traditional Architectural Approaches,concept,PART_OF,Ancient Near East,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Assyrian Palace Design,concept,PART_OF,Ancient Near Eastern Architecture,concept,,,AAHP_3706_triples_raw.json
+AAHP_3706,Babylonian Temple Construction,concept,PART_OF,Ancient Near Eastern Architecture,concept,,,AAHP_3706_triples_raw.json
+AAHP_3706,Persian Empire Influence,concept,PART_OF,Ancient Near Eastern Architecture,concept,,,AAHP_3706_triples_raw.json
+AAHP_3706,Northern African Architecture,concept,PART_OF,Northern Africa,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,African Decorative Motifs,concept,PART_OF,Northern Africa,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Religious Building Design,concept,PART_OF,Mediterranean Foundations,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Symbolic Architectural Elements,concept,PART_OF,Mediterranean Foundations,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Medieval Architecture,concept,PART_OF,Romanesque,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Prehistoric Decorative Motifs,concept,SUBTYPE_OF,Decorative Motifs,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Traditional Architectural Approaches,concept,SUBTYPE_OF,Architectural Approaches,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Mesopotamian Art Movements,concept,SUBTYPE_OF,Ancient Near Eastern Architecture,concept,,,AAHP_3706_triples_raw.json
+AAHP_3706,Assyrian Palace Design,concept,SUBTYPE_OF,Ancient Near Eastern Architecture,concept,,,AAHP_3706_triples_raw.json
+AAHP_3706,Babylonian Temple Construction,concept,SUBTYPE_OF,Ancient Near Eastern Architecture,concept,,,AAHP_3706_triples_raw.json
+AAHP_3706,Persian Empire Influence,concept,SUBTYPE_OF,Ancient Near Eastern Architecture,concept,,,AAHP_3706_triples_raw.json
+AAHP_3706,Northern African Architecture,concept,SUBTYPE_OF,Architectural Approaches,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,African Decorative Motifs,concept,SUBTYPE_OF,Decorative Motifs,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Faith Architecture Styles,concept,SUBTYPE_OF,Architectural Approaches,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Symbolic Architectural Elements,concept,SUBTYPE_OF,Mediterranean Foundations,topic,,,AAHP_3706_triples_raw.json
+AAHP_3706,Comparative Study Methods,method,USED_FOR,Regional Cultural Developments,concept,,,AAHP_3706_triples_raw.json
+AAHP_3706,Research,method,USED_FOR,Historical Art Movements,concept,,,AAHP_3706_triples_raw.json

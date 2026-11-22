@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_2242,Limits Introduction,topic,PREREQUISITE_OF,Applications of Derivatives,topic,A taught first,,MATH_2242_triples_raw.json
+MATH_2242,Differentiation Rules,topic,PREREQUISITE_OF,Applications of Derivatives,topic,A taught first,,MATH_2242_triples_raw.json
+MATH_2242,Integrals and Accumulation,topic,PREREQUISITE_OF,Integration Techniques,topic,A taught first,,MATH_2242_triples_raw.json
+MATH_2242,Integrals and Accumulation,topic,PREREQUISITE_OF,Improper Integrals and Series,topic,A taught first,,MATH_2242_triples_raw.json
+MATH_2242,Multivariable Calculus,topic,PREREQUISITE_OF,Vector Calculus Review,topic,A taught first,,MATH_2242_triples_raw.json
+MATH_2242,Power Rule Application,concept,PART_OF,Differentiation Rules,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Product Rule Statement,concept,PART_OF,Differentiation Rules,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Quotient Rule Formula,concept,PART_OF,Differentiation Rules,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Optimization Problems,concept,PART_OF,Applications of Derivatives,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Related Rates Concept,concept,PART_OF,Applications of Derivatives,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Motion Along a Line,concept,PART_OF,Applications of Derivatives,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Accumulation of Change,concept,PART_OF,Integrals and Accumulation,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Net Change Theorem,concept,PART_OF,Integrals and Accumulation,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Integration by Parts Formula,concept,PART_OF,Integration Techniques,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Trigonometric Integrals,concept,PART_OF,Integration Techniques,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Series Convergence Tests,concept,PART_OF,Improper Integrals and Series,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Power Series Expansion,concept,PART_OF,Improper Integrals and Series,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Partial Derivatives Notation,concept,PART_OF,Multivariable Calculus,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Gradient Vector Concept,concept,PART_OF,Multivariable Calculus,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Double and Triple Integrals,concept,PART_OF,Multivariable Calculus,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Divergence Theorem Statement,concept,PART_OF,Vector Calculus Review,topic,,,MATH_2242_triples_raw.json
+MATH_2242,Stokes' Theorem Application,concept,PART_OF,Vector Calculus Review,topic,,,MATH_2242_triples_raw.json

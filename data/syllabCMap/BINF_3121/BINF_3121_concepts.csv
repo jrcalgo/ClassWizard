@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_3121,topic,Statistics for Bioinformatics,Statistics for Bioinformatics,2,verified,Statistics for Bioinformatics,BINF_3121_concepts_raw.json
+BINF_3121,topic,R,R,4,verified,Introduction to R,BINF_3121_concepts_raw.json
+BINF_3121,tool,R programming language,R programming language,2,verified,R programming language,BINF_3121_concepts_raw.json
+BINF_3121,tool,R Markdown,R Markdown,1,verified,R Markdown,BINF_3121_concepts_raw.json
+BINF_3121,topic,Descriptive Statistics,Descriptive Statistics,1,inferred,Descriptive Statistics,BINF_3121_concepts_raw.json
+BINF_3121,topic,Probability and Distributions,Probability and Distributions,1,inferred,Probability and Distributions,BINF_3121_concepts_raw.json
+BINF_3121,topic,Hypothesis Testing,Hypothesis Testing,1,inferred,Hypothesis Testing,BINF_3121_concepts_raw.json
+BINF_3121,topic,Regression Analysis,Regression Analysis,1,inferred,Regression Analysis,BINF_3121_concepts_raw.json
+BINF_3121,topic,Bioinformatics Applications,Bioinformatics Applications,1,inferred,Bioinformatics Applications,BINF_3121_concepts_raw.json
+BINF_3121,concept,R programming language basics,R programming language basics,1,inferred,R programming language basics,BINF_3121_concepts_raw.json
+BINF_3121,concept,Data types in R,Data types in R,1,inferred,Data types in R,BINF_3121_concepts_raw.json
+BINF_3121,concept,Importing data into R,Importing data into R,1,inferred,Importing data into R,BINF_3121_concepts_raw.json
+BINF_3121,concept,Median calculation,median calculation,1,inferred,Median calculation,BINF_3121_concepts_raw.json
+BINF_3121,concept,Standard deviation,Standard deviation,1,inferred,Standard deviation,BINF_3121_concepts_raw.json
+BINF_3121,concept,Variance,variance,1,inferred,Variance,BINF_3121_concepts_raw.json
+BINF_3121,concept,Data visualization with plots,Data visualization with plots,1,inferred,Data visualization with plots,BINF_3121_concepts_raw.json
+BINF_3121,concept,Normal distribution properties,Normal distribution properties,1,inferred,Normal distribution properties,BINF_3121_concepts_raw.json
+BINF_3121,concept,T-distribution introduction,T-distribution introduction,1,inferred,T-distribution introduction,BINF_3121_concepts_raw.json
+BINF_3121,concept,Alternative hypotheses,alternative hypotheses,1,inferred,Alternative hypotheses,BINF_3121_concepts_raw.json
+BINF_3121,concept,P-value calculation methods,P-value calculation methods,1,inferred,P-value calculation methods,BINF_3121_concepts_raw.json
+BINF_3121,concept,Linear regression model basics,Linear regression model basics,1,inferred,Linear regression model basics,BINF_3121_concepts_raw.json
+BINF_3121,concept,Coefficient interpretation techniques,Coefficient interpretation techniques,1,inferred,Coefficient interpretation techniques,BINF_3121_concepts_raw.json
+BINF_3121,concept,Residual analysis and diagnostics,Residual analysis and diagnostics,1,inferred,Residual analysis and diagnostics,BINF_3121_concepts_raw.json
+BINF_3121,concept,Genomic data analysis methods,Genomic data analysis methods,1,inferred,Genomic data analysis methods,BINF_3121_concepts_raw.json
+BINF_3121,concept,Protein structure prediction tools,Protein structure prediction tools,1,inferred,Protein structure prediction tools,BINF_3121_concepts_raw.json
+BINF_3121,concept,Gene expression analysis techniques,Gene expression analysis techniques,1,inferred,Gene expression analysis techniques,BINF_3121_concepts_raw.json

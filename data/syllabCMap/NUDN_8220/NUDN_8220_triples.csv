@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUDN_8220,healthcare system overview,concept,PREREQUISITE_OF,public health campaigns and interventions,concept,A taught first,,NUDN_8220_triples_raw.json
+NUDN_8220,healthcare system overview,concept,PREREQUISITE_OF,healthcare technology assessment,concept,A taught first,,NUDN_8220_triples_raw.json
+NUDN_8220,legislative and regulatory processes,concept,PART_OF,policy development process,concept,,,NUDN_8220_triples_raw.json
+NUDN_8220,public health campaigns and interventions,concept,PART_OF,policy development process,concept,,,NUDN_8220_triples_raw.json
+NUDN_8220,healthcare technology assessment,concept,PART_OF,policy development process,concept,,,NUDN_8220_triples_raw.json
+NUDN_8220,economic and social determinants,concept,PART_OF,policy development process,concept,,,NUDN_8220_triples_raw.json
+NUDN_8220,stakeholder identification techniques,concept,PART_OF,policy development process,concept,,,NUDN_8220_triples_raw.json
+NUDN_8220,swot analysis in healthcare,concept,PART_OF,policy development process,concept,,,NUDN_8220_triples_raw.json
+NUDN_8220,policy cycle model explanation,concept,USED_FOR,legislative and regulatory processes,concept,,,NUDN_8220_triples_raw.json
+NUDN_8220,policy cycle model explanation,concept,USED_FOR,public health campaigns and interventions,concept,,,NUDN_8220_triples_raw.json
+NUDN_8220,policy cycle model explanation,concept,USED_FOR,healthcare technology assessment,concept,,,NUDN_8220_triples_raw.json

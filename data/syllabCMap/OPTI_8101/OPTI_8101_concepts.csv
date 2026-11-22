@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPTI_8101,topic,Mathematical Fundamentals,Mathematical Fundamentals,1,inferred,Mathematical Fundamentals,OPTI_8101_concepts_raw.json
+OPTI_8101,topic,Differential Equations,Differential Equations,4,inferred,Differential Equations,OPTI_8101_concepts_raw.json
+OPTI_8101,topic,Linear Algebra Techniques,Linear Algebra Techniques,1,inferred,Linear Algebra Techniques,OPTI_8101_concepts_raw.json
+OPTI_8101,topic,Vector Analysis,Vector Analysis,1,inferred,Vector Analysis,OPTI_8101_concepts_raw.json
+OPTI_8101,topic,Optical Physics Applications,Optical Physics Applications,1,inferred,Optical Physics Applications,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Vector Calculus Basics,Vector Calculus Basics,1,inferred,Vector Calculus Basics,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Linear Algebra Review,Linear Algebra Review,1,inferred,Linear Algebra Review,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Calculus Notation Systems,Calculus Notation Systems,1,inferred,Calculus Notation Systems,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Ordinary Differential Equations,Ordinary Differential Equations,1,inferred,Ordinary Differential Equations,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Partial Differential Equations,Partial Differential Equations,1,inferred,Partial Differential Equations,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Separable Differential Equations,Separable Differential Equations,1,inferred,Separable Differential Equations,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Eigenvalue Problems,Eigenvalue Problems,1,inferred,Eigenvalue Problems,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Matrix Operations Review,Matrix Operations Review,1,inferred,Matrix Operations Review,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Determinant Calculations,Determinant Calculations,1,inferred,Determinant Calculations,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Gradient and Divergence Theorems,Gradient and Divergence Theorems,1,inferred,Gradient and Divergence Theorems,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Curl and Stokes' Theorem,Curl and Stokes' Theorem,1,inferred,Curl and Stokes' Theorem,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Vector Identities and Formulas,Vector Identities and Formulas,1,inferred,Vector Identities and Formulas,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Wave Propagation Equations,Wave Propagation Equations,1,inferred,Wave Propagation Equations,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Diffraction Theory Basics,Diffraction Theory Basics,1,inferred,Diffraction Theory Basics,OPTI_8101_concepts_raw.json
+OPTI_8101,concept,Interference Patterns Analysis,Interference Patterns Analysis,1,inferred,Interference Patterns Analysis,OPTI_8101_concepts_raw.json

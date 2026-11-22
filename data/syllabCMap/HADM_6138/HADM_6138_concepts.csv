@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HADM_6138,topic,Health Care Finance,Health Care Finance,2,verified,Health Care Finance,HADM_6138_concepts_raw.json
+HADM_6138,concept,cash flow management,cash flow management,1,verified,cash flow management,HADM_6138_concepts_raw.json
+HADM_6138,topic,Strategic Financial Planning Process,strategic financial planning process,1,verified,Strategic Financial Planning Process,HADM_6138_concepts_raw.json
+HADM_6138,topic,Managerial Decision Making,managerial decision making,1,verified,Managerial Decision Making,HADM_6138_concepts_raw.json
+HADM_6138,concept,present values,present values,1,verified,present values,HADM_6138_concepts_raw.json
+HADM_6138,concept,future values,future values,1,verified,future values,HADM_6138_concepts_raw.json

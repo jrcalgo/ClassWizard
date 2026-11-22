@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DTSC_1301,topic,Data and Society,Data and Society,1,verified,Data and Society,DTSC_1301_concepts_raw.json
+DTSC_1301,concept,critical data studies,Critical Data Studies,1,verified,critical data studies,DTSC_1301_concepts_raw.json
+DTSC_1301,topic,Personal Study Habits Data Analysis,Personal Study Habits Data Analysis,1,verified,Personal Study Habits Data Analysis,DTSC_1301_concepts_raw.json
+DTSC_1301,concept,algorithmic bias,algorithmic bias,1,verified,algorithmic bias,DTSC_1301_concepts_raw.json
+DTSC_1301,concept,data-driven decision making,data-driven decision-making,1,verified,data-driven decision making,DTSC_1301_concepts_raw.json
+DTSC_1301,concept,basic statistical methods,basic statistical methods,1,verified,basic statistical methods,DTSC_1301_concepts_raw.json
+DTSC_1301,concept,fairness,fairness,1,verified,fairness,DTSC_1301_concepts_raw.json
+DTSC_1301,tool,Python,Python,2,verified,Python,DTSC_1301_concepts_raw.json

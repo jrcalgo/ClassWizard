@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AEEE_5020,dimensional analysis,concept,PREREQUISITE_OF,Navier–Stokes equations,concept,same unit,,AEEE_5020_triples_raw.json
+AEEE_5020,dimensional analysis,concept,PREREQUISITE_OF,turbulence,concept,A taught first,,AEEE_5020_triples_raw.json
+AEEE_5020,computational fluid dynamics (CFD,concept,PREREQUISITE_OF,fluid–structure interactions,concept,A taught first,,AEEE_5020_triples_raw.json
+AEEE_5020,experimental flow diagnostics,concept,PREREQUISITE_OF,engineering applications involving cooling systems,topic,A taught first,,AEEE_5020_triples_raw.json
+AEEE_5020,pumps,topic,PREREQUISITE_OF,microfluidics,topic,A taught first,,AEEE_5020_triples_raw.json
+AEEE_5020,biomedical devices,topic,PREREQUISITE_OF,microfluidics,topic,same unit,,AEEE_5020_triples_raw.json
+AEEE_5020,dimensional analysis,concept,PART_OF,Navier–Stokes equations,concept,,,AEEE_5020_triples_raw.json
+AEEE_5020,internal and external flows,concept,PART_OF,Navier–Stokes equations,concept,,,AEEE_5020_triples_raw.json
+AEEE_5020,turbulence,concept,PART_OF,Navier–Stokes equations,concept,,,AEEE_5020_triples_raw.json
+AEEE_5020,computational fluid dynamics (CFD,concept,PART_OF,Navier–Stokes equations,concept,,,AEEE_5020_triples_raw.json
+AEEE_5020,fluid–structure interactions,concept,PART_OF,Navier–Stokes equations,concept,,,AEEE_5020_triples_raw.json
+AEEE_5020,experimental flow diagnostics,concept,PART_OF,Navier–Stokes equations,concept,,,AEEE_5020_triples_raw.json
+AEEE_5020,engineering applications involving cooling systems,topic,PART_OF,Navier–Stokes equations,concept,,part is broader than whole - check direction,AEEE_5020_triples_raw.json
+AEEE_5020,pumps,topic,PART_OF,Navier–Stokes equations,concept,,part is broader than whole - check direction,AEEE_5020_triples_raw.json
+AEEE_5020,microfluidics,topic,PART_OF,Navier–Stokes equations,concept,,part is broader than whole - check direction,AEEE_5020_triples_raw.json
+AEEE_5020,biomedical devices,topic,PART_OF,Navier–Stokes equations,concept,,part is broader than whole - check direction,AEEE_5020_triples_raw.json
+AEEE_5020,numerical simulation,method,USED_FOR,computational fluid dynamics (CFD,concept,,,AEEE_5020_triples_raw.json
+AEEE_5020,experimental analysis,method,USED_FOR,engineering applications involving cooling systems,topic,,,AEEE_5020_triples_raw.json
+AEEE_5020,literature-based investigation,method,USED_FOR,biomedical devices,topic,,,AEEE_5020_triples_raw.json

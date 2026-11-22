@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETFS_2132,topic,Building Construction for Fire Protection,Building Construction for Fire Protection,1,verified,Building Construction for Fire Protection,ETFS_2132_concepts_raw.json
+ETFS_2132,topic,Fire Safety,Fire Safety,1,inferred,Introduction to Fire Safety,ETFS_2132_concepts_raw.json
+ETFS_2132,topic,Building Design and Layout,Building Design and Layout,1,inferred,Building Design and Layout,ETFS_2132_concepts_raw.json
+ETFS_2132,topic,Fire-Resistant Construction,Fire-Resistant Construction,1,inferred,Fire-Resistant Construction,ETFS_2132_concepts_raw.json
+ETFS_2132,topic,Building Systems and Components,Building Systems and Components,1,inferred,Building Systems and Components,ETFS_2132_concepts_raw.json
+ETFS_2132,topic,Fire Protection Systems,Fire Protection Systems,1,inferred,Fire Protection Systems,ETFS_2132_concepts_raw.json
+ETFS_2132,topic,Pre-Planning and Emergency Operations,Pre-Planning and Emergency Operations,1,inferred,Pre-Planning and Emergency Operations,ETFS_2132_concepts_raw.json
+ETFS_2132,topic,Fire Behavior and Spread,Fire Behavior and Spread,1,inferred,Fire Behavior and Spread,ETFS_2132_concepts_raw.json
+ETFS_2132,topic,Specialized Building Types and Hazards,Specialized Building Types and Hazards,1,inferred,Specialized Building Types and Hazards,ETFS_2132_concepts_raw.json
+ETFS_2132,topic,Fire Service Operations and Tactics,Fire Service Operations and Tactics,1,inferred,Fire Service Operations and Tactics,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Fire Fighter Safety Importance,Fire Fighter Safety Importance,1,inferred,Fire Fighter Safety Importance,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Building Construction Basics,Building Construction Basics,1,inferred,Building Construction Basics,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Structural Elements and Materials,Structural Elements and Materials,1,inferred,Structural Elements and Materials,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Floor Plan and Egress Routes,Floor Plan and Egress Routes,1,inferred,Floor Plan and Egress Routes,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Roofing Systems and Access,Roofing Systems and Access,1,inferred,Roofing Systems and Access,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Fire-Resistive Materials and Assemblies,Fire-Resistive Materials and Assemblies,1,inferred,Fire-Resistive Materials and Assemblies,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Fire-Stopping and Sealing Techniques,Fire-Stopping and Sealing Techniques,1,inferred,Fire-Stopping and Sealing Techniques,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Inspection of Fire-Resistant Barriers,Inspection of Fire-Resistant Barriers,1,inferred,Inspection of Fire-Resistant Barriers,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,HVAC and Electrical System Safety,HVAC and Electrical System Safety,1,inferred,HVAC and Electrical System Safety,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Plumbing and Gas System Hazards,Plumbing and Gas System Hazards,1,inferred,Plumbing and Gas System Hazards,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Elevator and Escalator Safety Features,Elevator and Escalator Safety Features,1,inferred,Elevator and Escalator Safety Features,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Sprinkler System Design and Installation,Sprinkler System Design and Installation,1,inferred,Sprinkler System Design and Installation,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Fire Alarm System Components and Testing,Fire Alarm System Components and Testing,1,inferred,Fire Alarm System Components and Testing,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Standpipe and Hose Reel Systems,Standpipe and Hose Reel Systems,1,inferred,Standpipe and Hose Reel Systems,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Building Inspection and Risk Assessment,Building Inspection and Risk Assessment,1,inferred,Building Inspection and Risk Assessment,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Emergency Response Planning and Procedures,Emergency Response Planning and Procedures,1,inferred,Emergency Response Planning and Procedures,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Combustion and Fire Dynamics Principles,Combustion and Fire Dynamics Principles,1,inferred,Combustion and Fire Dynamics Principles,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Fire Growth and Development Stages,Fire Growth and Development Stages,1,inferred,Fire Growth and Development Stages,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Factors Influencing Fire Spread and Size,Factors Influencing Fire Spread and Size,1,inferred,Factors Influencing Fire Spread and Size,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,High-Rise Buildings and Construction Features,High-Rise Buildings and Construction Features,1,inferred,High-Rise Buildings and Construction Features,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Industrial and Commercial Building Hazards,Industrial and Commercial Building Hazards,1,inferred,Industrial and Commercial Building Hazards,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Historic and Renovated Building Safety Concerns,Historic and Renovated Building Safety Concerns,1,inferred,Historic and Renovated Building Safety Concerns,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Interior and Exterior Firefighting Strategies,Interior and Exterior Firefighting Strategies,1,inferred,Interior and Exterior Firefighting Strategies,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Ventilation and Cooling Techniques,Ventilation and Cooling Techniques,1,inferred,Ventilation and Cooling Techniques,ETFS_2132_concepts_raw.json
+ETFS_2132,concept,Extrication and Rescue Procedures,Extrication and Rescue Procedures,1,inferred,Extrication and Rescue Procedures,ETFS_2132_concepts_raw.json

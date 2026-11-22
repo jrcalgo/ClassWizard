@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8313,media influence on learning,concept,PREREQUISITE_OF,digital technologies in education,concept,same unit,,EDCI_8313_triples_raw.json
+EDCI_8313,theorizing media in education,concept,PREREQUISITE_OF,Implementing Media Literacies in Practice,topic,A taught first,,EDCI_8313_triples_raw.json
+EDCI_8313,media representation and identity,concept,PREREQUISITE_OF,"Media, Participation, and Engagement",topic,A taught first,,EDCI_8313_triples_raw.json
+EDCI_8313,media influence on learning,concept,PART_OF,Media Literacies,topic,,,EDCI_8313_triples_raw.json
+EDCI_8313,digital technologies in education,concept,PART_OF,Media Literacies & Pedagogies,topic,,,EDCI_8313_triples_raw.json
+EDCI_8313,critical thinking and media,concept,PART_OF,Theories of Media Pedagogy,topic,,,EDCI_8313_triples_raw.json
+EDCI_8313,media analysis and critique,concept,PART_OF,analyzing media and theory,method,,part is broader than whole - check direction,EDCI_8313_triples_raw.json
+EDCI_8313,theorizing media in education,concept,PART_OF,Theories of Media Pedagogy,topic,,,EDCI_8313_triples_raw.json
+EDCI_8313,Implementing Media Literacies in Practice,topic,PART_OF,Media Literacies & Pedagogies,topic,,,EDCI_8313_triples_raw.json
+EDCI_8313,analyzing media and theory,method,USED_FOR,media analysis and critique,concept,,,EDCI_8313_triples_raw.json

@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_4690,Career Planning,topic,PREREQUISITE_OF,Filmmaking Techniques,topic,A taught first,,FILM_4690_triples_raw.json
+FILM_4690,Scriptwriting Fundamentals,topic,PREREQUISITE_OF,Thesis Film Development,topic,A taught first,,FILM_4690_triples_raw.json
+FILM_4690,Scriptwriting Fundamentals,topic,PREREQUISITE_OF,Filming and Recording,topic,A taught first,,FILM_4690_triples_raw.json
+FILM_4690,Pre-Production Planning,topic,PREREQUISITE_OF,Filming and Recording,topic,A taught first,,FILM_4690_triples_raw.json
+FILM_4690,Pre-Production Planning,topic,PREREQUISITE_OF,Post-Production Editing,topic,A taught first,,FILM_4690_triples_raw.json
+FILM_4690,Filmmaking Techniques,topic,PREREQUISITE_OF,Filming and Recording,topic,A taught first,,FILM_4690_triples_raw.json
+FILM_4690,Filmmaking Techniques,topic,PREREQUISITE_OF,Post-Production Editing,topic,A taught first,,FILM_4690_triples_raw.json
+FILM_4690,Career Readiness and Preparation,topic,PREREQUISITE_OF,Portfolio Development,concept,B taught first,B is taught before A - check,FILM_4690_triples_raw.json
+FILM_4690,Pre-Production Planning,topic,PART_OF,Filmmaking Techniques,topic,,,FILM_4690_triples_raw.json
+FILM_4690,Filming and Recording,topic,PART_OF,Filmmaking Techniques,topic,,,FILM_4690_triples_raw.json
+FILM_4690,Post-Production Editing,topic,PART_OF,Filmmaking Techniques,topic,,,FILM_4690_triples_raw.json
+FILM_4690,Storyboarding,method,USED_FOR,Storyboarding and Visualizing,concept,,,FILM_4690_triples_raw.json
+FILM_4690,Scheduling,method,USED_FOR,Scheduling and Budgeting,concept,,,FILM_4690_triples_raw.json
+FILM_4690,Budgeting,method,USED_FOR,Scheduling and Budgeting,concept,,,FILM_4690_triples_raw.json
+FILM_4690,Location Scouting,method,USED_FOR,Location Scouting and Management,concept,,,FILM_4690_triples_raw.json
+FILM_4690,Camera Operation,method,USED_FOR,Camera Angles and Movement,concept,,,FILM_4690_triples_raw.json
+FILM_4690,Sound Recording,method,USED_FOR,Lighting for Film and Video,concept,,,FILM_4690_triples_raw.json
+FILM_4690,Video Editing,method,USED_FOR,Post-Production Editing,topic,,,FILM_4690_triples_raw.json
+FILM_4690,Audio Post-Production,method,USED_FOR,Post-Production Editing,topic,,,FILM_4690_triples_raw.json
+FILM_4690,Visual Effects,method,USED_FOR,Post-Production Editing,topic,,,FILM_4690_triples_raw.json
+FILM_4690,Compositing,method,USED_FOR,Post-Production Editing,topic,,,FILM_4690_triples_raw.json
+FILM_4690,Showreel Creation,method,USED_FOR,Portfolio Development,concept,,,FILM_4690_triples_raw.json

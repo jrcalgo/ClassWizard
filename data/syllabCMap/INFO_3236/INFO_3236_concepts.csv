@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+INFO_3236,concept,business intelligence,business intelligence,2,verified,business intelligence,INFO_3236_concepts_raw.json
+INFO_3236,topic,Multiple Linear Regression,Multiple Linear Regression,1,verified,Multiple Linear Regression,INFO_3236_concepts_raw.json
+INFO_3236,topic,Business Analytics,Business Analytics,2,verified,Introduction to Business Analytics,INFO_3236_concepts_raw.json
+INFO_3236,concept,decision support,decision support,1,verified,decision support,INFO_3236_concepts_raw.json
+INFO_3236,concept,data management,Data Management,2,verified,data management,INFO_3236_concepts_raw.json
+INFO_3236,concept,organizational data resources,organizational data resources,1,verified,organizational data resources,INFO_3236_concepts_raw.json
+INFO_3236,method,decision trees,decision trees,3,verified,decision trees,INFO_3236_concepts_raw.json
+INFO_3236,method,logistic regression,logistic regression,3,verified,logistic regression,INFO_3236_concepts_raw.json
+INFO_3236,method,cluster analysis,cluster analysis,3,verified,cluster analysis,INFO_3236_concepts_raw.json
+INFO_3236,method,query building and reporting,query building and reporting,1,verified,query building and reporting,INFO_3236_concepts_raw.json
+INFO_3236,method,statistical analysis,statistical analysis,1,verified,statistical analysis,INFO_3236_concepts_raw.json
+INFO_3236,tool,SAS Viya,SAS Viya,1,verified,SAS Viya,INFO_3236_concepts_raw.json

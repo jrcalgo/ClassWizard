@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_3141L,Electron Configuration,concept,PREREQUISITE_OF,Atomic Orbitals,concept,same unit,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Electron Configuration,concept,PREREQUISITE_OF,Quantum Numbers,concept,same unit,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Periodic Trends,concept,PREREQUISITE_OF,Block Elements,concept,same unit,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Internal Energy Changes,concept,PREREQUISITE_OF,Enthalpy and Entropy,concept,same unit,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Atomic Orbitals,concept,PART_OF,Atomic Structure,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Electron Configuration,concept,PART_OF,Atomic Structure,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Quantum Numbers,concept,PART_OF,Atomic Structure,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Periodic Trends,concept,PART_OF,Periodic Table,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Block Elements,concept,PART_OF,Periodic Table,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Covalent Bond Types,concept,PART_OF,Chemical Bonding,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Molecular Polarity,concept,PART_OF,Chemical Bonding,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Internal Energy Changes,concept,PART_OF,Thermodynamics I,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Heat Transfer Methods,concept,PART_OF,Thermodynamics I,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Reaction Rate Laws,concept,PART_OF,Kinetics and Equilibrium,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Equilibrium Constant Kc,concept,PART_OF,Kinetics and Equilibrium,topic,,,CHEM_3141L_triples_raw.json
+CHEM_3141L,Le Chatelier's Principle,concept,PART_OF,Kinetics and Equilibrium,topic,,,CHEM_3141L_triples_raw.json

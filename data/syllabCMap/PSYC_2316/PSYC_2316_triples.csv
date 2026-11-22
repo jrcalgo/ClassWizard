@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2316,Cognitive Development,topic,PREREQUISITE_OF,Language Processes,topic,B taught first,B is taught before A - check,PSYC_2316_triples_raw.json
+PSYC_2316,Attention and Perception,topic,PREREQUISITE_OF,Memory and Encoding,topic,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,cognition,concept,PREREQUISITE_OF,selective attention mechanisms,concept,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,cognition,concept,PREREQUISITE_OF,perceptual processing theories,concept,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,cognition,concept,PREREQUISITE_OF,language acquisition theories,concept,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,cognition,concept,PREREQUISITE_OF,language comprehension models,concept,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,cognition,concept,PREREQUISITE_OF,speech production mechanisms,concept,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,cognition,concept,PREREQUISITE_OF,types of memory,concept,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,cognition,concept,PREREQUISITE_OF,encoding strategies and techniques,concept,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,Cognitive Processes,topic,PREREQUISITE_OF,Attention and Perception,topic,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,Cognitive Processes,topic,PREREQUISITE_OF,Problem Solving and Decision Making,topic,A taught first,,PSYC_2316_triples_raw.json
+PSYC_2316,Memory and Encoding,topic,PART_OF,Cognitive Processes,topic,,,PSYC_2316_triples_raw.json
+PSYC_2316,Problem Solving and Decision Making,topic,PART_OF,Cognitive Processes,topic,,,PSYC_2316_triples_raw.json
+PSYC_2316,sensory memory capacity,concept,PART_OF,Memory and Encoding,topic,,,PSYC_2316_triples_raw.json
+PSYC_2316,language acquisition theories,concept,PART_OF,Language Processes,topic,,,PSYC_2316_triples_raw.json
+PSYC_2316,language comprehension models,concept,PART_OF,Language Processes,topic,,,PSYC_2316_triples_raw.json
+PSYC_2316,speech production mechanisms,concept,PART_OF,Language Processes,topic,,,PSYC_2316_triples_raw.json
+PSYC_2316,types of memory,concept,PART_OF,Memory and Encoding,topic,,,PSYC_2316_triples_raw.json
+PSYC_2316,Piaget's Cognitive Development Theory,concept,PART_OF,Cognitive Development,topic,,,PSYC_2316_triples_raw.json
+PSYC_2316,Vygotsky's Sociocultural Theory,concept,PART_OF,Cognitive Development,topic,,,PSYC_2316_triples_raw.json

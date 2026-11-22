@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_4155,Object-Oriented Modeling,topic,PART_OF,Software Architecture,topic,,,ITSC_4155_triples_raw.json
+ITSC_4155,Design Patterns,topic,PART_OF,Software Architecture,topic,,,ITSC_4155_triples_raw.json
+ITSC_4155,Middleware Frameworks,topic,PART_OF,Software Architecture,topic,,,ITSC_4155_triples_raw.json
+ITSC_4155,Programming Paradigms,topic,PART_OF,Software Architecture,topic,,,ITSC_4155_triples_raw.json

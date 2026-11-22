@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_4090,Linear vs. Nonlinear Systems,concept,PREREQUISITE_OF,Types of Nonlinearity,concept,same unit,,MEGR_4090_triples_raw.json
+MEGR_4090,Lyapunov Linearization Method,concept,PREREQUISITE_OF,Approximation Error Analysis,concept,same unit,,MEGR_4090_triples_raw.json
+MEGR_4090,Lyapunov Stability Criteria,concept,PREREQUISITE_OF,LaSalle's Invariance Principle,concept,same unit,,MEGR_4090_triples_raw.json
+MEGR_4090,Types of Nonlinearity,concept,PART_OF,Nonlinear Systems,topic,,,MEGR_4090_triples_raw.json
+MEGR_4090,State-Space Representation,concept,PART_OF,Mathematical Modeling,topic,,,MEGR_4090_triples_raw.json
+MEGR_4090,Differential Equations,concept,PART_OF,Mathematical Modeling,topic,,,MEGR_4090_triples_raw.json
+MEGR_4090,Lyapunov Linearization Method,concept,PART_OF,Linearization and Approximation,topic,,,MEGR_4090_triples_raw.json
+MEGR_4090,LaSalle's Invariance Principle,concept,PART_OF,Stability Analysis,topic,,,MEGR_4090_triples_raw.json
+MEGR_4090,Lyapunov Stability Criteria,concept,PART_OF,Stability Analysis,topic,,,MEGR_4090_triples_raw.json
+MEGR_4090,Feedback Linearization Control,concept,PART_OF,Control Design Methods,topic,,,MEGR_4090_triples_raw.json
+MEGR_4090,Sliding Mode Control Techniques,concept,PART_OF,Control Design Methods,topic,,,MEGR_4090_triples_raw.json
+MEGR_4090,Adaptive Control Strategies,concept,PART_OF,Control Design Methods,topic,,,MEGR_4090_triples_raw.json
+MEGR_4090,Lyapunov Linearization Method,concept,USED_FOR,Approximation Error Analysis,concept,,,MEGR_4090_triples_raw.json
+MEGR_4090,LaSalle's Invariance Principle,concept,USED_FOR,Lyapunov Stability Criteria,concept,,,MEGR_4090_triples_raw.json

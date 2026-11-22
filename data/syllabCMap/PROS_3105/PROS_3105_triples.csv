@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_3105,Data Analysis Tools,concept,USED_FOR,Process Capability Analysis,concept,,,PROS_3105_triples_raw.json

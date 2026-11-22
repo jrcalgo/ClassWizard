@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCIP_6380,Key Information Requirements,concept,PART_OF,Health Information Exchange,topic,,,HCIP_6380_triples_raw.json
+HCIP_6380,Key Inputs and Outputs,concept,PART_OF,Clinical Decision Support Systems,topic,,,HCIP_6380_triples_raw.json
+HCIP_6380,Clinical Decision Support Systems,topic,USED_FOR,Conceptual Health Information Solution,concept,,topic used for something - check direction,HCIP_6380_triples_raw.json

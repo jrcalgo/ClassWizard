@@ -1,0 +1,126 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECON_4100,topic,Mathematical Economics,Mathematical Economics,2,verified,Mathematical Economics,ECON_4100_concepts_raw.json
+ECON_4100,topic,Logic,Logic,3,verified,Logic,ECON_4100_concepts_raw.json
+ECON_4100,topic,Proof,proof,1,verified,Proof,ECON_4100_concepts_raw.json
+ECON_4100,topic,Sets,sets,8,verified,Sets,ECON_4100_concepts_raw.json
+ECON_4100,topic,Relations,relations,4,verified,Relations,ECON_4100_concepts_raw.json
+ECON_4100,topic,Real Line,real line,1,verified,Real Line,ECON_4100_concepts_raw.json
+ECON_4100,concept,Economic Relationships,economic relationships,33,verified,Economic Relationships,ECON_4100_concepts_raw.json
+ECON_4100,concept,Mathematical Formulation,Mathematical Formulation,17,verified,Mathematical Formulation,ECON_4100_concepts_raw.json
+ECON_4100,concept,Optimization Techniques,Optimization Techniques,20,verified,Optimization Techniques,ECON_4100_concepts_raw.json
+ECON_4100,concept,Maxima and Minima,Maxima and Minima,24,verified,Maxima and Minima,ECON_4100_concepts_raw.json
+ECON_4100,concept,Limits of Functions,Limits of Functions,14,verified,Limits of Functions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Recursive Models,Recursive Models,12,verified,Recursive Models,ECON_4100_concepts_raw.json
+ECON_4100,concept,Simultaneous Equations,Simultaneous Equations,26,verified,Simultaneous Equations,ECON_4100_concepts_raw.json
+ECON_4100,concept,Linear Algebra Tools,Linear Algebra Tools,6,verified,Linear Algebra Tools,ECON_4100_concepts_raw.json
+ECON_4100,concept,Sequences and Series,Sequences and Series,1,verified,Sequences and Series,ECON_4100_concepts_raw.json
+ECON_4100,concept,Limit Theorems,Limit Theorems,2,verified,Limit Theorems,ECON_4100_concepts_raw.json
+ECON_4100,concept,Bolzano Weierstrass Theorem,Bolzano Weierstrass Theorem,1,verified,Bolzano Weierstrass Theorem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Completeness Axiom,Completeness Axiom,1,verified,Completeness Axiom,ECON_4100_concepts_raw.json
+ECON_4100,concept,Monotone Convergence,Monotone Convergence,1,verified,Monotone Convergence,ECON_4100_concepts_raw.json
+ECON_4100,concept,Divergent Sequences,Divergent Sequences,1,verified,Divergent Sequences,ECON_4100_concepts_raw.json
+ECON_4100,concept,Convergent Sequences,Convergent Sequences,1,verified,Convergent Sequences,ECON_4100_concepts_raw.json
+ECON_4100,concept,Upper Lower Limits,Upper Lower Limits,1,verified,Upper Lower Limits,ECON_4100_concepts_raw.json
+ECON_4100,concept,Infimum Supremum,Infimum Supremum,1,verified,Infimum Supremum,ECON_4100_concepts_raw.json
+ECON_4100,concept,Quadratic forms,Quadratic forms,2,verified,Quadratic forms,ECON_4100_concepts_raw.json
+ECON_4100,concept,Definiteness conditions,Definiteness conditions,1,verified,Definiteness conditions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Positive definite matrices,Positive definite matrices,1,verified,Positive definite matrices,ECON_4100_concepts_raw.json
+ECON_4100,concept,Negative definite matrices,Negative definite matrices,1,verified,Negative definite matrices,ECON_4100_concepts_raw.json
+ECON_4100,concept,Semi-definite matrices,Semi-definite matrices,1,verified,Semi-definite matrices,ECON_4100_concepts_raw.json
+ECON_4100,concept,Symmetric matrices,Symmetric matrices,1,verified,Symmetric matrices,ECON_4100_concepts_raw.json
+ECON_4100,concept,Eigenvalues and eigenvectors,Eigenvalues and eigenvectors,1,verified,Eigenvalues and eigenvectors,ECON_4100_concepts_raw.json
+ECON_4100,topic,Differentiation as linear approximation,Differentiation as linear approximation,1,verified,Differentiation as linear approximation,ECON_4100_concepts_raw.json
+ECON_4100,topic,Gradient Vector,Gradient Vector,1,verified,Gradient Vector,ECON_4100_concepts_raw.json
+ECON_4100,concept,Jacobian Matrix,Jacobian Matrix,2,verified,Jacobian Matrix,ECON_4100_concepts_raw.json
+ECON_4100,concept,Optimization Methods,Optimization Methods,3,verified,Optimization Methods,ECON_4100_concepts_raw.json
+ECON_4100,concept,Single Variable Optimization,Single Variable Optimization,6,verified,Single Variable Optimization,ECON_4100_concepts_raw.json
+ECON_4100,concept,Recursive Economic Models,Recursive Economic Models,8,verified,Recursive Economic Models,ECON_4100_concepts_raw.json
+ECON_4100,concept,Simultaneous Equations Systems,Simultaneous Equations Systems,6,verified,Simultaneous Equations Systems,ECON_4100_concepts_raw.json
+ECON_4100,topic,Mathematical Modeling Methods,Mathematical Modeling Methods,1,verified,Mathematical Modeling Methods,ECON_4100_concepts_raw.json
+ECON_4100,topic,Envelope Theorems Application,Envelope Theorems Application,1,verified,Envelope Theorems Application,ECON_4100_concepts_raw.json
+ECON_4100,concept,Linear Approximation,linear approximation,2,verified,Linear Approximation,ECON_4100_concepts_raw.json
+ECON_4100,concept,Derivative Notation,Derivative Notation,1,verified,Derivative Notation,ECON_4100_concepts_raw.json
+ECON_4100,concept,Marginal Analysis,Marginal Analysis,1,verified,Marginal Analysis,ECON_4100_concepts_raw.json
+ECON_4100,concept,Hessian Matrix,Hessian Matrix,1,verified,Hessian Matrix,ECON_4100_concepts_raw.json
+ECON_4100,concept,Bian's Theorem,Bian's Theorem,1,verified,Bian's Theorem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Second Derivative Test,Second Derivative Test,1,verified,Second Derivative Test,ECON_4100_concepts_raw.json
+ECON_4100,concept,Critical Points,Critical Points,1,verified,Critical Points,ECON_4100_concepts_raw.json
+ECON_4100,concept,Implicit Function Theorem,Implicit Function Theorem,1,verified,Implicit Function Theorem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Inverse Function Theorem,Inverse Function Theorems,1,verified,Inverse Function Theorem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Partial Derivatives,Partial Derivatives,1,verified,Partial Derivatives,ECON_4100_concepts_raw.json
+ECON_4100,concept,Multivariable Functions,Multivariable Functions,1,verified,Multivariable Functions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Comparative Statics,Comparative Statics,2,verified,Comparative Statics,ECON_4100_concepts_raw.json
+ECON_4100,concept,Envelope Theorem,Envelope Theorems,1,verified,Envelope Theorem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Static Equilibrium,Static Equilibrium,3,verified,Static Equilibrium,ECON_4100_concepts_raw.json
+ECON_4100,concept,Maximization Techniques,Maximization Techniques,8,verified,Maximization Techniques,ECON_4100_concepts_raw.json
+ECON_4100,concept,Minimization Methods,Minimization Methods,8,verified,Minimization Methods,ECON_4100_concepts_raw.json
+ECON_4100,concept,Optimal Solutions,Optimal Solutions,2,verified,Optimal Solutions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Single Variable Analysis,Single Variable Analysis,1,verified,Single Variable Analysis,ECON_4100_concepts_raw.json
+ECON_4100,concept,Recursive Functions,Recursive Functions,2,verified,Recursive Functions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Convex sets,Convex sets,3,verified,Convex sets,ECON_4100_concepts_raw.json
+ECON_4100,concept,Convex functions,Convex functions,1,verified,Convex functions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Supporting hyperplane,Supporting hyperplane,2,verified,Supporting hyperplane,ECON_4100_concepts_raw.json
+ECON_4100,concept,Separating hyperplane,Separating hyperplanes,2,verified,Separating hyperplane,ECON_4100_concepts_raw.json
+ECON_4100,concept,Extreme points theorem,Extreme points theorem,1,verified,Extreme points theorem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Local Optima,local optima,2,verified,Local Optima,ECON_4100_concepts_raw.json
+ECON_4100,concept,Global Maximums,Global Maximums,1,verified,Global Maximums,ECON_4100_concepts_raw.json
+ECON_4100,concept,Global Minimums,Global Minimums,1,verified,Global Minimums,ECON_4100_concepts_raw.json
+ECON_4100,concept,Single Relationships,Single Relationships,2,verified,Single Relationships,ECON_4100_concepts_raw.json
+ECON_4100,concept,Recursive Relationships,Recursive Relationships,3,verified,Recursive Relationships,ECON_4100_concepts_raw.json
+ECON_4100,concept,Economic Relationships Formulation,Economic Relationships Formulation,6,verified,Economic Relationships Formulation,ECON_4100_concepts_raw.json
+ECON_4100,concept,Quasi-Concavity,quasi-concavity,2,verified,Quasi-Concavity,ECON_4100_concepts_raw.json
+ECON_4100,concept,Concave Functions,Concave Functions,1,verified,Concave Functions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Lagrange Multipliers,Lagrange Multipliers,4,verified,Lagrange Multipliers,ECON_4100_concepts_raw.json
+ECON_4100,concept,Separating Hyperplanes,Separating hyperplanes,2,verified,Separating Hyperplanes,ECON_4100_concepts_raw.json
+ECON_4100,concept,Farkas Lemma,Farkas Lemma,1,verified,Farkas Lemma,ECON_4100_concepts_raw.json
+ECON_4100,concept,Linear Programming,Linear Programming,2,verified,Linear Programming,ECON_4100_concepts_raw.json
+ECON_4100,concept,Extreme Points,Extreme points,2,verified,Extreme Points,ECON_4100_concepts_raw.json
+ECON_4100,concept,Polyhedral Cones,Polyhedral Cones,1,verified,Polyhedral Cones,ECON_4100_concepts_raw.json
+ECON_4100,concept,Duality Theory,Duality Theory,1,verified,Duality Theory,ECON_4100_concepts_raw.json
+ECON_4100,concept,Maximization Problems,Maximization Problems,2,verified,Maximization Problems,ECON_4100_concepts_raw.json
+ECON_4100,concept,Minimization Problems,Minimization Problems,1,verified,Minimization Problems,ECON_4100_concepts_raw.json
+ECON_4100,concept,Optimal Control,Optimal Control,3,verified,Optimal Control,ECON_4100_concepts_raw.json
+ECON_4100,concept,Welfare Theorems,welfare theorems,2,verified,Welfare Theorems,ECON_4100_concepts_raw.json
+ECON_4100,concept,First Welfare Theorem,First Welfare Theorem,1,verified,First Welfare Theorem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Second Welfare Theorem,Second Welfare Theorem,1,verified,Second Welfare Theorem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Efficient Allocation,Efficient Allocation,1,verified,Efficient Allocation,ECON_4100_concepts_raw.json
+ECON_4100,concept,Pareto Optimality,Pareto Optimality,1,verified,Pareto Optimality,ECON_4100_concepts_raw.json
+ECON_4100,concept,Existence Conditions,Existence Conditions,1,verified,Existence Conditions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Single Variable Functions,Single Variable Functions,1,verified,Single Variable Functions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Equality Constraints,Equality constraints,2,verified,Equality Constraints,ECON_4100_concepts_raw.json
+ECON_4100,concept,Theorem of Lagrange,Theorem of Lagrange,2,verified,Theorem of Lagrange,ECON_4100_concepts_raw.json
+ECON_4100,concept,Inequality Constraints,Inequality constraints,2,verified,Inequality Constraints,ECON_4100_concepts_raw.json
+ECON_4100,concept,Kuhn-Tucker Conditions,Kuhn–Tucker conditions,2,verified,Kuhn-Tucker Conditions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Constrained Optimization,Constrained Optimization,1,verified,Constrained Optimization,ECON_4100_concepts_raw.json
+ECON_4100,concept,Parametric Comparative Statics,Parametric Comparative Statics,1,verified,Parametric Comparative Statics,ECON_4100_concepts_raw.json
+ECON_4100,concept,Comparative Static Analysis,Comparative Static Analysis,1,verified,Comparative Static Analysis,ECON_4100_concepts_raw.json
+ECON_4100,concept,Finite-horizon dynamic programming,Finite-horizon dynamic programming,2,verified,Finite-horizon dynamic programming,ECON_4100_concepts_raw.json
+ECON_4100,concept,Bellman equation,Bellman equation,2,verified,Bellman equation,ECON_4100_concepts_raw.json
+ECON_4100,concept,Optimal control problem,Optimal control problem,1,verified,Optimal control problem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Recursive relationship,Recursive Relationships,3,verified,Recursive relationship,ECON_4100_concepts_raw.json
+ECON_4100,concept,Simultaneous equations model,Simultaneous equations model,1,verified,Simultaneous equations model,ECON_4100_concepts_raw.json
+ECON_4100,concept,Dynamic optimization,Dynamic optimization,1,verified,Dynamic optimization,ECON_4100_concepts_raw.json
+ECON_4100,concept,Stochastic process,Stochastic processes,1,verified,Stochastic process,ECON_4100_concepts_raw.json
+ECON_4100,concept,Value function,Value function,1,verified,Value function,ECON_4100_concepts_raw.json
+ECON_4100,concept,Policy function,Policy function,1,verified,Policy function,ECON_4100_concepts_raw.json
+ECON_4100,concept,Linear Equations,Linear Equations,1,verified,Linear Equations,ECON_4100_concepts_raw.json
+ECON_4100,concept,Infinite-horizon dynamic programming,Infinite-horizon dynamic programming,2,verified,Infinite-horizon dynamic programming,ECON_4100_concepts_raw.json
+ECON_4100,concept,Optimal control theory,Optimal control theory,1,verified,Optimal control theory,ECON_4100_concepts_raw.json
+ECON_4100,concept,Stochastic processes,Stochastic processes,1,verified,Stochastic processes,ECON_4100_concepts_raw.json
+ECON_4100,concept,Convergence criteria,Convergence criteria,1,verified,Convergence criteria,ECON_4100_concepts_raw.json
+ECON_4100,concept,Fixed Point Theorem,Fixed Point Theorem,1,verified,Fixed Point Theorem,ECON_4100_concepts_raw.json
+ECON_4100,concept,Continuous Functions,Continuous Functions,1,verified,Continuous Functions,ECON_4100_concepts_raw.json
+ECON_4100,concept,Differentiable Functions,Differentiable Functions,1,verified,Differentiable Functions,ECON_4100_concepts_raw.json
+ECON_4100,topic,Fixed Points,Fixed points,2,verified,Fixed Points,ECON_4100_concepts_raw.json
+ECON_4100,topic,Nash Equilibrium,Nash equilibrium,2,verified,Nash Equilibrium,ECON_4100_concepts_raw.json
+ECON_4100,topic,Monotone Comparisons,Monotone Comparisons,1,verified,Monotone Comparisons,ECON_4100_concepts_raw.json
+ECON_4100,topic,Maximums and Minimums,Maximums and minimums,2,verified,Maximums and Minimums,ECON_4100_concepts_raw.json
+ECON_4100,topic,Recursive Systems,Recursive Systems,1,verified,Recursive Systems,ECON_4100_concepts_raw.json
+ECON_4100,concept,Propositional Logic,Propositional Logic,1,verified,Propositional Logic,ECON_4100_concepts_raw.json
+ECON_4100,concept,Predicate Logic,Predicate Logic,1,verified,Predicate Logic,ECON_4100_concepts_raw.json
+ECON_4100,concept,Set Theory Basics,Set Theory Basics,1,verified,Set Theory Basics,ECON_4100_concepts_raw.json
+ECON_4100,concept,Real Number Line,Real Number Line,1,verified,Real Number Line,ECON_4100_concepts_raw.json
+ECON_4100,concept,Relations in Math,Relations in Math,1,verified,Relations in Math,ECON_4100_concepts_raw.json
+ECON_4100,concept,Equivalence Relations,Equivalence Relations,1,verified,Equivalence Relations,ECON_4100_concepts_raw.json
+ECON_4100,concept,Order Relations,Order Relations,1,verified,Order Relations,ECON_4100_concepts_raw.json
+ECON_4100,concept,Well-Ordered Sets,Well-Ordered Sets,1,verified,Well-Ordered Sets,ECON_4100_concepts_raw.json

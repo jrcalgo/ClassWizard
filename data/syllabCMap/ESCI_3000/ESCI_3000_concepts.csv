@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_3000,topic,Extinction,extinctions,3,verified,Extinction,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Geographic perspectives,Geographic perspectives,1,verified,Geographic perspectives,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Habitat loss,habitat loss,1,verified,Habitat loss,ESCI_3000_concepts_raw.json
+ESCI_3000,concept,Invasive species spread,invasive-species spread,1,verified,Invasive species spread,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Global climate change,global climate change,1,verified,Global climate change,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Biodiversity loss,biodiversity losses,1,verified,Biodiversity loss,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Fossil record,fossil record,2,verified,Fossil record,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Mass extinctions,mass extinctions,2,verified,Mass extinctions,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Human history,human history,1,verified,Human history,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Modern era,modern era,1,verified,Modern era,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Environmental change,environmental change,1,verified,Environmental change,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Species,species,2,verified,Species,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Ecosystems,ecosystems,1,verified,Ecosystems,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Regions,regions,1,verified,Regions,ESCI_3000_concepts_raw.json
+ESCI_3000,topic,Sixth mass extinction,sixth mass extinction,1,verified,Sixth mass extinction.,ESCI_3000_concepts_raw.json
+ESCI_3000,concept,Types of extinctions,types of extinctions,1,verified,Types of extinctions,ESCI_3000_concepts_raw.json
+ESCI_3000,concept,Five major mass extinctions,five major mass extinctions,1,verified,Five major mass extinctions,ESCI_3000_concepts_raw.json
+ESCI_3000,concept,Drivers of modern biodiversity losses,drivers of modern biodiversity losses,1,verified,Drivers of modern biodiversity losses,ESCI_3000_concepts_raw.json
+ESCI_3000,concept,Patterns of biodiversity on Earth,patterns of biodiversity on Earth,1,verified,Patterns of biodiversity on Earth,ESCI_3000_concepts_raw.json
+ESCI_3000,method,Discussion-based course,discussion-based course,1,verified,Discussion-based course,ESCI_3000_concepts_raw.json
+ESCI_3000,method,Formulate questions/problem statements/theses/hypotheses/etc,Formulate questions/problem statements/theses/hypotheses/etc,1,verified,Formulate questions/problem statements/theses/hypotheses/etc.,ESCI_3000_concepts_raw.json
+ESCI_3000,method,Evaluate issues by identifying claims,Evaluate issues by identifying claims,1,verified,"Evaluate issues by identifying claims, supporting evidence, and reasoning",ESCI_3000_concepts_raw.json
+ESCI_3000,method,supporting evidence,supporting evidence,1,verified,"Evaluate issues by identifying claims, supporting evidence, and reasoning",ESCI_3000_concepts_raw.json
+ESCI_3000,method,reasoning,reasoning,1,verified,"Evaluate issues by identifying claims, supporting evidence, and reasoning",ESCI_3000_concepts_raw.json
+ESCI_3000,method,Use evidence to propose and support conclusions,Use evidence to propose and support conclusions,1,verified,Use evidence to propose and support conclusions,ESCI_3000_concepts_raw.json
+ESCI_3000,method,Compose writing projects appropriate to the purpose,Compose writing projects appropriate to the purpose,1,verified,"Compose writing projects appropriate to the purpose, message, context and audience.",ESCI_3000_concepts_raw.json
+ESCI_3000,method,message,message,1,verified,"Compose writing projects appropriate to the purpose, message, context and audience.",ESCI_3000_concepts_raw.json
+ESCI_3000,method,context,contexts,1,verified,"Compose writing projects appropriate to the purpose, message, context and audience.",ESCI_3000_concepts_raw.json
+ESCI_3000,method,audience,audience,1,verified,"Compose writing projects appropriate to the purpose, message, context and audience.",ESCI_3000_concepts_raw.json
+ESCI_3000,measure,Basic biodiversity metrics,basic biodiversity metrics,1,verified,Basic biodiversity metrics.,ESCI_3000_concepts_raw.json

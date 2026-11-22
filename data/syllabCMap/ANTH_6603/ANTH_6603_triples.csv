@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_6603,evolutionary theory and social Darwinism,concept,PREREQUISITE_OF,role of colonialism in shaping anthropology,concept,same unit,,ANTH_6603_triples_raw.json
+ANTH_6603,Malinowski's functionalism,concept,PREREQUISITE_OF,Radcliffe-Brown's structural functionalism,concept,same unit,,ANTH_6603_triples_raw.json
+ANTH_6603,Radcliffe-Brown's structural functionalism,concept,PREREQUISITE_OF,critiques of structural functionalism,concept,same unit,,ANTH_6603_triples_raw.json
+ANTH_6603,anthropology as a discipline,concept,PART_OF,Anthropological Theory,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,key figures in anthropological thought,concept,PART_OF,Anthropological Theory,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,cultural relativism and ethnography,concept,PART_OF,Early Developments in Anthropology,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,postcolonial and subaltern studies,concept,PART_OF,Marxist and Critical Perspectives,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,feminist theory in anthropology,concept,PART_OF,"Feminism, Postmodernism, and Reflexivity",topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,reflexivity and the anthropologist's positionality,concept,PART_OF,"Feminism, Postmodernism, and Reflexivity",topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,Marxist theory in anthropology,concept,SUBTYPE_OF,critical theory and cultural studies,concept,,,ANTH_6603_triples_raw.json
+ANTH_6603,feminist theory in anthropology,concept,SUBTYPE_OF,critical theory and cultural studies,concept,,,ANTH_6603_triples_raw.json
+ANTH_6603,postcolonial and subaltern studies,concept,SUBTYPE_OF,critical theory and cultural studies,concept,,,ANTH_6603_triples_raw.json
+ANTH_6603,cultural relativism and ethnography,concept,USED_FOR,Early Developments in Anthropology,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,role of colonialism in shaping anthropology,concept,USED_FOR,Early Developments in Anthropology,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,Malinowski's functionalism,concept,USED_FOR,Structural Functionalism and Beyond,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,Radcliffe-Brown's structural functionalism,concept,USED_FOR,Structural Functionalism and Beyond,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,critiques of structural functionalism,concept,USED_FOR,Structural Functionalism and Beyond,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,Marxist theory in anthropology,concept,USED_FOR,Marxist and Critical Perspectives,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,critical theory and cultural studies,concept,USED_FOR,Marxist and Critical Perspectives,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,postcolonial and subaltern studies,concept,USED_FOR,Marxist and Critical Perspectives,topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,feminist theory in anthropology,concept,USED_FOR,"Feminism, Postmodernism, and Reflexivity",topic,,,ANTH_6603_triples_raw.json
+ANTH_6603,postmodernism and the critique of grand narratives,concept,USED_FOR,"Feminism, Postmodernism, and Reflexivity",topic,,,ANTH_6603_triples_raw.json

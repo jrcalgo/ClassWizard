@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_4600,Historical Context,topic,PREREQUISITE_OF,Racial Inequality,concept,same unit,,LTAM_4600_triples_raw.json
+LTAM_4600,Historical Context,topic,PREREQUISITE_OF,Latin American Cities,topic,same unit,,LTAM_4600_triples_raw.json
+LTAM_4600,Historical Context,topic,PREREQUISITE_OF,Race and Nation-Making in Latin America,topic,A taught first,,LTAM_4600_triples_raw.json
+LTAM_4600,Source Evaluation Techniques,concept,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Colonial Exclusion,concept,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Racial Inequality,concept,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Quantitative Studies of Slavery,concept,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Racial Dynamics in Latin America,concept,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Black Political Subjecthood,concept,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Ethno-Racial Rights Movements,concept,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Authenticity of Sources,concept,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Hypothesis Formation,method,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Primary and Secondary Sources,method,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Argument Crafting with Evidence,method,PART_OF,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Quantitative Studies of Slavery,concept,SUBTYPE_OF,Racial Dynamics in Latin America,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Colonial Exclusion,concept,SUBTYPE_OF,Racial Inequality,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Black Political Subjecthood,concept,SUBTYPE_OF,Ethno-Racial Rights Movements,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Historical Context,topic,USED_FOR,Postcolonial Configuration,concept,,topic used for something - check direction,LTAM_4600_triples_raw.json
+LTAM_4600,Historical Context,topic,USED_FOR,Racial Inequality,concept,,topic used for something - check direction,LTAM_4600_triples_raw.json
+LTAM_4600,Historical Context,topic,USED_FOR,Latin American Cities,topic,,topic used for something - check direction,LTAM_4600_triples_raw.json
+LTAM_4600,Authenticity of Sources,concept,USED_FOR,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Hypothesis Formation,method,USED_FOR,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Research Question Formulation,method,USED_FOR,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Primary and Secondary Sources,method,USED_FOR,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Historical Context Placement,method,USED_FOR,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Argument Crafting with Evidence,method,USED_FOR,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Quantitative Data Analysis,method,USED_FOR,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json
+LTAM_4600,Source Authenticity Assessment,method,USED_FOR,Postcolonial Configuration,concept,,,LTAM_4600_triples_raw.json

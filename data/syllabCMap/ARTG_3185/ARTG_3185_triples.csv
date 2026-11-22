@@ -1,0 +1,33 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_3185,user experience fundamentals,concept,PREREQUISITE_OF,UI design principles,concept,same unit,,ARTG_3185_triples_raw.json
+ARTG_3185,user experience fundamentals,concept,PREREQUISITE_OF,effective visual communication,concept,A taught first,,ARTG_3185_triples_raw.json
+ARTG_3185,user experience fundamentals,concept,PREREQUISITE_OF,color theory and application,concept,A taught first,,ARTG_3185_triples_raw.json
+ARTG_3185,user experience fundamentals,concept,PREREQUISITE_OF,typography in UI design,concept,A taught first,,ARTG_3185_triples_raw.json
+ARTG_3185,current design trends analysis,concept,PREREQUISITE_OF,aesthetic principles in design,concept,same unit,,ARTG_3185_triples_raw.json
+ARTG_3185,industry-recommended digital tools,concept,PREREQUISITE_OF,sketching and wireframing techniques,concept,same unit,,ARTG_3185_triples_raw.json
+ARTG_3185,industry-recommended digital tools,concept,PREREQUISITE_OF,prototyping and testing methods,concept,same unit,,ARTG_3185_triples_raw.json
+ARTG_3185,design process overview,concept,PART_OF,UX/UI Design Strategies,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,user experience fundamentals,concept,PART_OF,UX/UI Design Strategies,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,UI design principles,concept,PART_OF,UX/UI Design Strategies,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,color theory and application,concept,PART_OF,UX/UI Design Strategies,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,current design trends analysis,concept,PART_OF,Design Aesthetics and Trends,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,aesthetic principles in design,concept,PART_OF,Design Aesthetics and Trends,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,branding and identity systems,concept,PART_OF,Design Aesthetics and Trends,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,industry-recommended digital tools,concept,PART_OF,Digital Tools and Software,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,sketching and wireframing techniques,concept,PART_OF,Digital Tools and Software,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,collaborative problem-solving strategies,concept,PART_OF,Collaborative Design Process,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,user research methods overview,concept,PART_OF,User Experience Research,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,user interviews and surveys,concept,PART_OF,User Experience Research,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,mobile UI design principles,concept,PART_OF,Designing for Mobile Devices,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,responsive design techniques,concept,PART_OF,Designing for Mobile Devices,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,touchscreen interaction design,concept,PART_OF,Designing for Mobile Devices,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,effective design writing style,concept,PART_OF,Writing About Design,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,contextualizing design decisions,concept,PART_OF,Writing About Design,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,design criticism and analysis,concept,PART_OF,Writing About Design,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,project scope and timeline,concept,PART_OF,Project Planning and Management,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,resource allocation and scheduling,concept,PART_OF,Project Planning and Management,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,risk management and mitigation,concept,PART_OF,Project Planning and Management,topic,,,ARTG_3185_triples_raw.json
+ARTG_3185,user experience fundamentals,concept,USED_FOR,UI design principles,concept,,,ARTG_3185_triples_raw.json
+ARTG_3185,user experience fundamentals,concept,USED_FOR,effective visual communication,concept,,,ARTG_3185_triples_raw.json
+ARTG_3185,user experience fundamentals,concept,USED_FOR,typography in UI design,concept,,,ARTG_3185_triples_raw.json
+ARTG_3185,current design trends analysis,concept,USED_FOR,aesthetic principles in design,concept,,,ARTG_3185_triples_raw.json

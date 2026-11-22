@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSRE_6230,Building Materials,topic,PREREQUISITE_OF,Procurement and Contracts,topic,A taught first,,MSRE_6230_triples_raw.json
+MSRE_6230,Building Materials,topic,PREREQUISITE_OF,Preconstruction Process,topic,A taught first,,MSRE_6230_triples_raw.json
+MSRE_6230,Building Materials,topic,PREREQUISITE_OF,Project Administration,topic,A taught first,,MSRE_6230_triples_raw.json

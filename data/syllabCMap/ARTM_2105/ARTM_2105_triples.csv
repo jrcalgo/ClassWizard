@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTM_2105,Design,topic,PREREQUISITE_OF,Pre-reqs or Coreqs,topic,A mentioned first,,ARTM_2105_triples_raw.json
+ARTM_2105,Design Process Overview,concept,PART_OF,Design,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Visual Problem Solving,concept,PART_OF,Design,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Design Aesthetics Fundamentals,concept,PART_OF,Design,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Industry-Recommended Digital Tools,concept,PART_OF,Digital Tools and Software,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Digital Graphics Production Basics,concept,PART_OF,Digital Tools and Software,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Software Proficiency Development,concept,PART_OF,Digital Tools and Software,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,12 Principles of Animation Overview,concept,PART_OF,Principles of Animation,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Animation and Motion Fundamentals,concept,PART_OF,Principles of Animation,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Sound Design in Visual Media,concept,PART_OF,Sound Design Fundamentals,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Sound Design Principles and Techniques,concept,PART_OF,Sound Design Fundamentals,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Audio-visual integration strategies,method,PART_OF,Sound Design Fundamentals,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Color Theory and Palette Development,concept,PART_OF,Design Aesthetics and Composition,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Time-Based Media,concept,PART_OF,Time-Based Works and Storytelling,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Storytelling principles for visual media,method,PART_OF,Time-Based Works and Storytelling,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Narrative structure and pacing,method,PART_OF,Time-Based Works and Storytelling,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Effective collaboration strategies,method,PART_OF,Collaboration and Group Projects,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Group project management techniques,method,PART_OF,Collaboration and Group Projects,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Communication and feedback in design teams,method,PART_OF,Collaboration and Group Projects,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Writing for design contexts,method,PART_OF,Design Writing and Presentation,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Professional presentation skills development,method,PART_OF,Design Writing and Presentation,topic,,,ARTM_2105_triples_raw.json
+ARTM_2105,Design process,method,USED_FOR,Applying animation principles to design,method,,,ARTM_2105_triples_raw.json
+ARTM_2105,Sound Design in Visual Media,concept,USED_FOR,Audio-visual integration strategies,method,,,ARTM_2105_triples_raw.json

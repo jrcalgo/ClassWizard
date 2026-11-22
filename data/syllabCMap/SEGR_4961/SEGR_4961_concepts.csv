@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_4961,topic,Energy Efficiency Concepts and Metrics,energy efficiency concepts and metrics,1,verified,Energy Efficiency Concepts and Metrics,SEGR_4961_concepts_raw.json
+SEGR_4961,topic,Energy Types Overview,Energy Types Overview,1,inferred,Energy Types Overview,SEGR_4961_concepts_raw.json
+SEGR_4961,topic,Energy Generation Methods,Energy Generation Methods,1,inferred,Energy Generation Methods,SEGR_4961_concepts_raw.json
+SEGR_4961,topic,Energy Conversion Processes,Energy Conversion Processes,1,inferred,Energy Conversion Processes,SEGR_4961_concepts_raw.json
+SEGR_4961,topic,Energy Storage and Transportation,Energy Storage and Transportation,1,inferred,Energy Storage and Transportation,SEGR_4961_concepts_raw.json
+SEGR_4961,topic,Environmental Impacts Analysis,Environmental Impacts Analysis,1,inferred,Environmental Impacts Analysis,SEGR_4961_concepts_raw.json
+SEGR_4961,topic,Transmission Systems and Grid Reliability,Transmission Systems and Grid Reliability,1,inferred,Transmission Systems and Grid Reliability,SEGR_4961_concepts_raw.json
+SEGR_4961,topic,Smart Grid Technologies and Impact,Smart Grid Technologies and Impact,1,inferred,Smart Grid Technologies and Impact,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Fossil Fuel Energy Sources,Fossil Fuel Energy Sources,1,inferred,Fossil Fuel Energy Sources,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Renewable Energy Options,Renewable Energy Options,1,inferred,Renewable Energy Options,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Nuclear Energy Basics,Nuclear Energy Basics,1,inferred,Nuclear Energy Basics,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Thermal Power Plant Operation,Thermal Power Plant Operation,1,inferred,Thermal Power Plant Operation,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Nuclear Reactor Principles,Nuclear Reactor Principles,1,inferred,Nuclear Reactor Principles,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Wind Turbine Technology,Wind Turbine Technology,1,inferred,Wind Turbine Technology,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Steam Turbine Efficiency,Steam Turbine Efficiency,1,inferred,Steam Turbine Efficiency,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Gas Turbine Performance Metrics,Gas Turbine Performance Metrics,1,inferred,Gas Turbine Performance Metrics,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Inverter-Based Power Systems,Inverter-Based Power Systems,1,inferred,Inverter-Based Power Systems,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Battery Energy Storage Systems,Battery Energy Storage Systems,1,inferred,Battery Energy Storage Systems,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Pumped Hydroelectric Storage,Pumped Hydroelectric Storage,1,inferred,Pumped Hydroelectric Storage,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Natural Gas Pipeline Networks,Natural Gas Pipeline Networks,1,inferred,Natural Gas Pipeline Networks,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Life-Cycle Assessment Methodology,Life-Cycle Assessment Methodology,1,inferred,Life-Cycle Assessment Methodology,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Carbon Footprint Calculation,Carbon Footprint Calculation,1,inferred,Carbon Footprint Calculation,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Air Pollution Emission Factors,Air Pollution Emission Factors,1,inferred,Air Pollution Emission Factors,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Coefficient of Performance (COP,Coefficient of Performance (COP,1,inferred,Coefficient of Performance (COP),SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Seasonal Performance Ratio (SPR,Seasonal Performance Ratio (SPR,1,inferred,Seasonal Performance Ratio (SPR),SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Energy Star Rating System,Energy Star Rating System,1,inferred,Energy Star Rating System,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,High-Voltage Transmission Lines,High-Voltage Transmission Lines,1,inferred,High-Voltage Transmission Lines,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Smart Grid Architecture,Smart Grid Architecture,1,inferred,Smart Grid Architecture,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Grid Stability and Control,Grid Stability and Control,1,inferred,Grid Stability and Control,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Advanced Metering Infrastructure (AMI,Advanced Metering Infrastructure (AMI,1,inferred,Advanced Metering Infrastructure (AMI),SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Demand Response Management Systems,Demand Response Management Systems,1,inferred,Demand Response Management Systems,SEGR_4961_concepts_raw.json
+SEGR_4961,concept,Electric Vehicle Charging Infrastructure,Electric Vehicle Charging Infrastructure,1,inferred,Electric Vehicle Charging Infrastructure,SEGR_4961_concepts_raw.json

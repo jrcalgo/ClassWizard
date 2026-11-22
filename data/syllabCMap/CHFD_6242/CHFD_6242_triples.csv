@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHFD_6242,applied behavior analysis strategies,method,USED_FOR,Positive Behavioral Supports,topic,,,CHFD_6242_triples_raw.json
+CHFD_6242,applied behavior analysis strategies,method,USED_FOR,functional behavior assessments,method,,,CHFD_6242_triples_raw.json
+CHFD_6242,applied behavior analysis strategies,method,USED_FOR,behavioral intervention plans,method,,,CHFD_6242_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4115,sociological study of organizations,concept,PART_OF,Sociological analysis of formal organizations,topic,,,SOCY_4115_triples_raw.json
+SOCY_4115,practices,topic,PART_OF,organizational structures,topic,,,SOCY_4115_triples_raw.json
+SOCY_4115,internal processes,topic,PART_OF,organizational structures,topic,,,SOCY_4115_triples_raw.json
+SOCY_4115,external environment,topic,PART_OF,organizational structures,topic,,,SOCY_4115_triples_raw.json

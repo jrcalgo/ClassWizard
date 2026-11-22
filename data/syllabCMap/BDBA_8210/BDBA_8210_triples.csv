@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BDBA_8210,Arrival and Punctuality,concept,PREREQUISITE_OF,Classroom Etiquette,topic,same unit,,BDBA_8210_triples_raw.json
+BDBA_8210,Verbal Contribution to Class,concept,PREREQUISITE_OF,Effective Communication,topic,same unit,,BDBA_8210_triples_raw.json
+BDBA_8210,Understanding Concepts,topic,PREREQUISITE_OF,Demonstrating Conceptual Understanding,concept,same unit,,BDBA_8210_triples_raw.json
+BDBA_8210,Arrival and Punctuality,concept,PART_OF,Classroom Etiquette,topic,,,BDBA_8210_triples_raw.json
+BDBA_8210,Respectful Class Participation,concept,PART_OF,Classroom Etiquette,topic,,,BDBA_8210_triples_raw.json
+BDBA_8210,Verbal Contribution to Class,concept,PART_OF,Effective Communication,topic,,,BDBA_8210_triples_raw.json
+BDBA_8210,Active Listening Skills,concept,PART_OF,Effective Communication,topic,,,BDBA_8210_triples_raw.json
+BDBA_8210,Providing Accurate Examples,concept,PART_OF,Understanding Concepts,topic,,,BDBA_8210_triples_raw.json
+BDBA_8210,Analyzing Complex Ideas,concept,PART_OF,Understanding Concepts,topic,,,BDBA_8210_triples_raw.json
+BDBA_8210,Importance of Regular Attendance,concept,PART_OF,Attendance and Engagement,topic,,,BDBA_8210_triples_raw.json
+BDBA_8210,Consequences of Absence or Tardiness,concept,PART_OF,Attendance and Engagement,topic,,,BDBA_8210_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_3301,mechanics of deformable bodies,concept,PREREQUISITE_OF,stress-strain relationships,concept,same unit,,MEET_3301_triples_raw.json
+MEET_3301,mechanics of deformable bodies,concept,PREREQUISITE_OF,transformation,concept,A taught first,,MEET_3301_triples_raw.json
+MEET_3301,mechanics of deformable bodies,concept,PREREQUISITE_OF,Mohr's circle,concept,A taught first,,MEET_3301_triples_raw.json
+MEET_3301,transformation,concept,PART_OF,stress-strain relationships,concept,,,MEET_3301_triples_raw.json
+MEET_3301,Mohr's circle,concept,PART_OF,stress-strain relationships,concept,,,MEET_3301_triples_raw.json

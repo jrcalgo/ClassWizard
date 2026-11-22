@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TESL_5204,Multilingual Learners,concept,PREREQUISITE_OF,community-oriented differentiated instruction,topic,A taught first,,TESL_5204_triples_raw.json
+TESL_5204,current school and community demographics,topic,PART_OF,contemporary learning trends,topic,,,TESL_5204_triples_raw.json
+TESL_5204,current school and community demographics,topic,PART_OF,connections to state and national policies,topic,,,TESL_5204_triples_raw.json
+TESL_5204,current school and community demographics,topic,PART_OF,community-oriented differentiated instruction,topic,,,TESL_5204_triples_raw.json
+TESL_5204,contemporary learning trends,topic,PART_OF,connections to state and national policies,topic,,,TESL_5204_triples_raw.json
+TESL_5204,contemporary learning trends,topic,PART_OF,academic language and literacy development patterns,topic,,,TESL_5204_triples_raw.json
+TESL_5204,contemporary learning trends,topic,PART_OF,community-oriented differentiated instruction,topic,,,TESL_5204_triples_raw.json
+TESL_5204,academic language and literacy development patterns,topic,PART_OF,community-oriented differentiated instruction,topic,,,TESL_5204_triples_raw.json

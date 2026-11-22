@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3315,topic,Design Philosophy,design philosophies,1,verified,Design Philosophy,MEGR_3315_concepts_raw.json
+MEGR_3315,topic,Project Formation,Project Formation,1,inferred,Project Formation,MEGR_3315_concepts_raw.json
+MEGR_3315,topic,Project Planning,Project Planning,1,inferred,Project Planning,MEGR_3315_concepts_raw.json
+MEGR_3315,topic,Conceptual Design,Conceptual Design,1,inferred,Conceptual Design,MEGR_3315_concepts_raw.json
+MEGR_3315,topic,Preliminary Design Review,Preliminary Design Review,1,inferred,Preliminary Design Review,MEGR_3315_concepts_raw.json
+MEGR_3315,topic,Progress Evaluation 1,Progress Evaluation 1,1,inferred,Progress Evaluation 1,MEGR_3315_concepts_raw.json
+MEGR_3315,topic,Mid-Project Review,Mid-Project Review,1,inferred,Mid-Project Review,MEGR_3315_concepts_raw.json
+MEGR_3315,topic,Progress Evaluation 2,Progress Evaluation 2,1,inferred,Progress Evaluation 2,MEGR_3315_concepts_raw.json
+MEGR_3315,topic,Final Design Package,Final Design Package,1,inferred,Final Design Package,MEGR_3315_concepts_raw.json
+MEGR_3315,topic,Expo Presentation and Poster,Expo Presentation and Poster,1,inferred,Expo Presentation and Poster,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Team Formation Process,Team Formation Process,1,inferred,Team Formation Process,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Client Project Briefing,Client Project Briefing,1,inferred,Client Project Briefing,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Project Scope Definition,Project Scope Definition,1,inferred,Project Scope Definition,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Engineering Design Principles,Engineering Design Principles,1,inferred,Engineering Design Principles,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Design Standards and Guidelines,Design Standards and Guidelines,1,inferred,Design Standards and Guidelines,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Innovation and Creativity,Innovation and Creativity,1,inferred,Innovation and Creativity,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Time Management Techniques,Time Management Techniques,1,inferred,Time Management Techniques,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Budgeting and Cost Estimation,Budgeting and Cost Estimation,1,inferred,Budgeting and Cost Estimation,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Risk Assessment and Mitigation,Risk Assessment and Mitigation,1,inferred,Risk Assessment and Mitigation,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Design Concept Development,Design Concept Development,1,inferred,Design Concept Development,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Feasibility Study and Analysis,Feasibility Study and Analysis,1,inferred,Feasibility Study and Analysis,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Initial Design Specifications,Initial Design Specifications,1,inferred,Initial Design Specifications,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Design Review Process and Criteria,Design Review Process and Criteria,1,inferred,Design Review Process and Criteria,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Client Feedback and Expectations,Client Feedback and Expectations,1,inferred,Client Feedback and Expectations,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Design Iteration and Refinement,Design Iteration and Refinement,1,inferred,Design Iteration and Refinement,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Project Progress Monitoring,Project Progress Monitoring,1,inferred,Project Progress Monitoring,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Team Performance Assessment,Team Performance Assessment,1,inferred,Team Performance Assessment,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Feedback and Improvement Plan,Feedback and Improvement Plan,1,inferred,Feedback and Improvement Plan,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Project Status Update and Analysis,Project Status Update and Analysis,1,inferred,Project Status Update and Analysis,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Client Satisfaction and Expectations,Client Satisfaction and Expectations,1,inferred,Client Satisfaction and Expectations,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Design Adjustments and Refinements,Design Adjustments and Refinements,1,inferred,Design Adjustments and Refinements,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Team Performance and Progress,Team Performance and Progress,1,inferred,Team Performance and Progress,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Design Development and Refinement,Design Development and Refinement,1,inferred,Design Development and Refinement,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Risk Management and Mitigation,Risk Management and Mitigation,1,inferred,Risk Management and Mitigation,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Final Design Specifications and Documentation,Final Design Specifications and Documentation,1,inferred,Final Design Specifications and Documentation,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Client Review and Feedback,Client Review and Feedback,1,inferred,Client Review and Feedback,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Project Completion and Closure,Project Completion and Closure,1,inferred,Project Completion and Closure,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Design Communication and Presentation,Design Communication and Presentation,1,inferred,Design Communication and Presentation,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Team Collaboration and Coordination,Team Collaboration and Coordination,1,inferred,Team Collaboration and Coordination,MEGR_3315_concepts_raw.json
+MEGR_3315,concept,Project Showcase and Promotion,Project Showcase and Promotion,1,inferred,Project Showcase and Promotion,MEGR_3315_concepts_raw.json

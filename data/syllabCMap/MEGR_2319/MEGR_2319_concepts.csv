@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2319,topic,Aerodynamics,Aerodynamics,1,inferred,Aerodynamics,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Flight Dynamics and Stability,Flight Dynamics and Stability,1,inferred,Flight Dynamics and Stability,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Propulsion Systems,Propulsion Systems,2,inferred,Propulsion Systems,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Aerospace Engineering Discipline,Aerospace Engineering Discipline,1,inferred,Aerospace Engineering Discipline,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Career Opportunities in AE,Career Opportunities in AE,1,inferred,Career Opportunities in AE,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Lift and Drag Forces,Lift and Drag Forces,1,inferred,Lift and Drag Forces,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Bernoulli's Principle Application,Bernoulli's Principle Application,1,inferred,Bernoulli's Principle Application,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Airfoil Shape Design,Airfoil Shape Design,1,inferred,Airfoil Shape Design,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Force and Moment Vectors,Force and Moment Vectors,1,inferred,Force and Moment Vectors,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Center of Gravity Location,Center of Gravity Location,1,inferred,Center of Gravity Location,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Moment of Inertia Calculation,Moment of Inertia Calculation,1,inferred,Moment of Inertia Calculation,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Newton's Laws Application,Newton's Laws Application,1,inferred,Newton's Laws Application,MEGR_2319_concepts_raw.json
+MEGR_2319,topic,Angular Momentum Conservation,Angular Momentum Conservation,1,inferred,Angular Momentum Conservation,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Stability and Control Surfaces,Stability and Control Surfaces,1,inferred,Stability and Control Surfaces,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Types of Propulsion Systems,Types of Propulsion Systems,1,inferred,Types of Propulsion Systems,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Jet Engine Principles,Jet Engine Principles,1,inferred,Jet Engine Principles,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Rocket Propulsion Fundamentals,Rocket Propulsion Fundamentals,1,inferred,Rocket Propulsion Fundamentals,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Lift,Lift,1,inferred,Lift,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Drag Forces,Drag Forces,1,inferred,Drag Forces,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Bernoulli's Principle,Bernoulli's Principle,1,inferred,Bernoulli's Principle,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Airfoil Shape,Airfoil Shape,1,inferred,Airfoil Shape,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Moment Vectors,Moment Vectors,1,inferred,Moment Vectors,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Center of Gravity,Center of Gravity,1,inferred,Center of Gravity,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Moment of Inertia,Moment of Inertia,1,inferred,Moment of Inertia,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Newton's Laws,Newton's Laws,1,inferred,Newton's Laws,MEGR_2319_concepts_raw.json
+MEGR_2319,concept,Angular Momentum,Angular Momentum,1,inferred,Angular Momentum,MEGR_2319_concepts_raw.json

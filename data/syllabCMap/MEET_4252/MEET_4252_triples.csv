@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_4252,lab safety protocols,concept,PART_OF,Lab Safety and Equipment,topic,,,MEET_4252_triples_raw.json
+MEET_4252,flow meter calibration,concept,PART_OF,Lab Safety and Equipment,topic,,,MEET_4252_triples_raw.json
+MEET_4252,pressure measurement techniques,concept,PART_OF,Fluid Mechanics Experiments,topic,,,MEET_4252_triples_raw.json
+MEET_4252,flow rate calculations,concept,PART_OF,Fluid Mechanics Experiments,topic,,,MEET_4252_triples_raw.json
+MEET_4252,Bernoulli's principle application,concept,PART_OF,Fluid Mechanics Experiments,topic,,,MEET_4252_triples_raw.json
+MEET_4252,conduction heat transfer,concept,PART_OF,Heat Transfer Fundamentals,topic,,,MEET_4252_triples_raw.json
+MEET_4252,convective heat transfer,concept,PART_OF,Heat Transfer Fundamentals,topic,,,MEET_4252_triples_raw.json
+MEET_4252,radiative heat transfer,concept,PART_OF,Heat Transfer Fundamentals,topic,,,MEET_4252_triples_raw.json
+MEET_4252,ideal gas law application,concept,PART_OF,Thermodynamics Experiments,topic,,,MEET_4252_triples_raw.json
+MEET_4252,entropy calculations,concept,PART_OF,Thermodynamics Experiments,topic,,,MEET_4252_triples_raw.json
+MEET_4252,Excel data manipulation,concept,PART_OF,Data Analysis with Excel,topic,,,MEET_4252_triples_raw.json
+MEET_4252,graphical representation techniques,concept,PART_OF,Data Analysis with Excel,topic,,,MEET_4252_triples_raw.json
+MEET_4252,statistical analysis methods,concept,PART_OF,Data Analysis with Excel,topic,,,MEET_4252_triples_raw.json
+MEET_4252,Engineering Equation Solver basics,concept,PART_OF,EES Software Training,topic,,,MEET_4252_triples_raw.json
+MEET_4252,complex calculation execution,concept,PART_OF,EES Software Training,topic,,,MEET_4252_triples_raw.json
+MEET_4252,error handling procedures,concept,PART_OF,EES Software Training,topic,,,MEET_4252_triples_raw.json
+MEET_4252,hypothesis testing techniques,concept,PART_OF,Experimental Design and Planning,topic,,,MEET_4252_triples_raw.json
+MEET_4252,report structure guidelines,concept,PART_OF,Technical Report Writing,topic,,,MEET_4252_triples_raw.json
+MEET_4252,quantitative data presentation,concept,PART_OF,Technical Report Writing,topic,,,MEET_4252_triples_raw.json
+MEET_4252,conclusion writing techniques,concept,PART_OF,Technical Report Writing,topic,,,MEET_4252_triples_raw.json
+MEET_4252,effective communication strategies,concept,PART_OF,Oral Presentation Skills,topic,,,MEET_4252_triples_raw.json
+MEET_4252,presentation delivery techniques,concept,PART_OF,Oral Presentation Skills,topic,,,MEET_4252_triples_raw.json
+MEET_4252,peer review processes,concept,PART_OF,Oral Presentation Skills,topic,,,MEET_4252_triples_raw.json
+MEET_4252,Engineering Equation Solver (EES,tool,USED_FOR,EES Software Training,topic,,,MEET_4252_triples_raw.json

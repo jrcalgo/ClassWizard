@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_2167,topic,logical reasoning,logical reasoning,1,verified,logical reasoning,MATH_2167_concepts_raw.json
+MATH_2167,topic,mathematical proof-writing,mathematical proof-writing,1,verified,mathematical proof-writing,MATH_2167_concepts_raw.json
+MATH_2167,topic,symbolic logic,symbolic logic,2,verified,symbolic logic,MATH_2167_concepts_raw.json
+MATH_2167,topic,set theory,set theory,2,verified,set theory,MATH_2167_concepts_raw.json
+MATH_2167,topic,relations,relations,2,verified,relations,MATH_2167_concepts_raw.json
+MATH_2167,topic,functions,functions,2,verified,functions,MATH_2167_concepts_raw.json
+MATH_2167,concept,mathematical induction,mathematical induction,2,verified,mathematical induction,MATH_2167_concepts_raw.json
+MATH_2167,concept,truth tables,truth tables,2,verified,truth tables,MATH_2167_concepts_raw.json
+MATH_2167,concept,quantifiers,quantifiers,2,verified,quantifiers,MATH_2167_concepts_raw.json
+MATH_2167,concept,direct proofs,direct proofs,2,verified,direct proofs,MATH_2167_concepts_raw.json
+MATH_2167,concept,proofs by contrapositive,proofs by contrapositive,2,verified,proofs by contrapositive,MATH_2167_concepts_raw.json
+MATH_2167,concept,proofs by contradiction,proofs by contradiction,2,verified,proofs by contradiction,MATH_2167_concepts_raw.json
+MATH_2167,concept,counter-examples,counter-examples,2,verified,counter-examples,MATH_2167_concepts_raw.json
+MATH_2167,method,proof-writing,proof-writing,3,verified,proof-writing,MATH_2167_concepts_raw.json
+MATH_2167,tool,LaTex,LaTex,1,verified,LaTex,MATH_2167_concepts_raw.json

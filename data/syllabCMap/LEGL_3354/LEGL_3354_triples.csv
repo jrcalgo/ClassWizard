@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_3354,freedom,topic,PREREQUISITE_OF,Punishment as Correction,concept,A taught first,,LEGL_3354_triples_raw.json
+LEGL_3354,freedom,topic,PREREQUISITE_OF,Deviance and Delinquency,concept,A taught first,,LEGL_3354_triples_raw.json
+LEGL_3354,freedom,topic,PREREQUISITE_OF,Human Sacrifice and Humanity,concept,A taught first,,LEGL_3354_triples_raw.json
+LEGL_3354,freedom,topic,PREREQUISITE_OF,Limits of Freedom in Democracy,concept,A taught first,,LEGL_3354_triples_raw.json
+LEGL_3354,freedom,topic,PREREQUISITE_OF,Risky Choices and Judgments,concept,A taught first,,LEGL_3354_triples_raw.json
+LEGL_3354,freedom,topic,PREREQUISITE_OF,Unchecked Freedom and Deviance,concept,A taught first,,LEGL_3354_triples_raw.json
+LEGL_3354,freedom,topic,PREREQUISITE_OF,Punishment and Human Insight,concept,A taught first,,LEGL_3354_triples_raw.json
+LEGL_3354,Freedom's Excesses,concept,SUBTYPE_OF,freedom,topic,,,LEGL_3354_triples_raw.json
+LEGL_3354,Punishment as Correction,concept,SUBTYPE_OF,punishment,topic,,,LEGL_3354_triples_raw.json
+LEGL_3354,Punishment and Human Insight,concept,SUBTYPE_OF,punishment,topic,,,LEGL_3354_triples_raw.json

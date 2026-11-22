@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_2254,topic,Analytical Foundations of Electrical and Computer Engineering,Analytical Foundations of Electrical and Computer Engineering,1,verified,Analytical Foundations of Electrical and Computer Engineering,ECGR_2254_concepts_raw.json
+ECGR_2254,topic,Complex Numbers,complex numbers,3,verified,Complex Numbers,ECGR_2254_concepts_raw.json
+ECGR_2254,topic,Taylor Series Approximations,Taylor series approximations,1,verified,Taylor Series Approximations,ECGR_2254_concepts_raw.json
+ECGR_2254,topic,Linear Differential Equations,linear differential equations,4,verified,Linear Differential Equations,ECGR_2254_concepts_raw.json
+ECGR_2254,topic,Fourier Series and Transforms,Fourier series and transform,1,verified,Fourier Series and Transforms,ECGR_2254_concepts_raw.json
+ECGR_2254,method,numerical simulation,numerical simulation,2,verified,numerical simulation,ECGR_2254_concepts_raw.json
+ECGR_2254,method,curve fitting,curve fitting,1,verified,curve fitting,ECGR_2254_concepts_raw.json
+ECGR_2254,tool,MATLAB,MATLAB,4,verified,MATLAB,ECGR_2254_concepts_raw.json

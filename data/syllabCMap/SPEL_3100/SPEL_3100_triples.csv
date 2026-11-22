@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPEL_3100,disproportionality,concept,PREREQUISITE_OF,special education referral procedures,concept,B mentioned first,,SPEL_3100_triples_raw.json
+SPEL_3100,pre-referral process,concept,PREREQUISITE_OF,special education referral procedures,concept,same unit,,SPEL_3100_triples_raw.json
+SPEL_3100,legislation and litigation,concept,PREREQUISITE_OF,services for individuals with disabilities,concept,same unit,,SPEL_3100_triples_raw.json
+SPEL_3100,licensure requirements,concept,PREREQUISITE_OF,plan of study sequence,concept,same unit,,SPEL_3100_triples_raw.json
+SPEL_3100,dual initial licensure program,concept,PREREQUISITE_OF,dual initial licensure teacher preparation,concept,A taught first,,SPEL_3100_triples_raw.json
+SPEL_3100,pre-referral process,concept,PART_OF,special education referral procedures,concept,,,SPEL_3100_triples_raw.json
+SPEL_3100,licensure requirements,concept,PART_OF,plan of study sequence,concept,,,SPEL_3100_triples_raw.json
+SPEL_3100,evidence-based interventions,concept,PART_OF,dual initial licensure teacher preparation,concept,,,SPEL_3100_triples_raw.json
+SPEL_3100,philosophical foundations,concept,PART_OF,dual initial licensure teacher preparation,concept,,,SPEL_3100_triples_raw.json
+SPEL_3100,collaborative and collegial professional learning activities,method,USED_FOR,IEP Development and Instructional Planning,topic,,,SPEL_3100_triples_raw.json
+SPEL_3100,practices positively affecting students' learning,method,USED_FOR,IEP Development and Instructional Planning,topic,,,SPEL_3100_triples_raw.json
+SPEL_3100,organizations,method,USED_FOR,services for individuals with disabilities,concept,,,SPEL_3100_triples_raw.json

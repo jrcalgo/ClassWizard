@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GRAD_8101,topic,Linear Regression,Linear Regression,7,verified,Linear Regression,GRAD_8101_concepts_raw.json
+GRAD_8101,topic,Ordinary Least Squares Estimators,Ordinary Least Squares Estimators,1,verified,Ordinary Least Squares Estimators,GRAD_8101_concepts_raw.json
+GRAD_8101,topic,Time Series,time series,1,verified,Time Series,GRAD_8101_concepts_raw.json
+GRAD_8101,topic,Structural Equations,structural equations,1,verified,Structural Equations,GRAD_8101_concepts_raw.json
+GRAD_8101,topic,Non-Linear Models,non-linear models,1,verified,Non-Linear Models,GRAD_8101_concepts_raw.json
+GRAD_8101,topic,Logistic Regression,logistic regression,1,verified,Logistic Regression,GRAD_8101_concepts_raw.json
+GRAD_8101,topic,Multinomial Logit,multinomial logit,1,verified,Multinomial Logit,GRAD_8101_concepts_raw.json
+GRAD_8101,topic,Poisson Regression,Poisson regression,1,verified,Poisson Regression,GRAD_8101_concepts_raw.json
+GRAD_8101,concept,ordinary least squares linear regression,ordinary least squares linear regression,2,verified,ordinary least squares linear regression,GRAD_8101_concepts_raw.json
+GRAD_8101,concept,statistical inference,statistical inference,1,verified,statistical inference,GRAD_8101_concepts_raw.json
+GRAD_8101,concept,statistical theory,statistical theory,1,verified,statistical theory,GRAD_8101_concepts_raw.json
+GRAD_8101,concept,quantitative social science,quantitative social science,2,verified,quantitative social science,GRAD_8101_concepts_raw.json
+GRAD_8101,concept,reproducible workflows in R and Quarto,reproducible workflows in R and Quarto,1,verified,reproducible workflows in R and Quarto,GRAD_8101_concepts_raw.json
+GRAD_8101,concept,regression analysis fundamentals,Regression Analysis Fundamentals,1,verified,regression analysis fundamentals,GRAD_8101_concepts_raw.json
+GRAD_8101,concept,predictive modeling techniques,Predictive Modeling Techniques,1,verified,predictive modeling techniques,GRAD_8101_concepts_raw.json
+GRAD_8101,concept,societal research methods,Societal Research Methods,1,verified,societal research methods,GRAD_8101_concepts_raw.json
+GRAD_8101,concept,statistical estimation methods,Statistical Estimation Methods,1,verified,statistical estimation methods,GRAD_8101_concepts_raw.json

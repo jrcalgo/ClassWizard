@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_3190,Biogeography,topic,PREREQUISITE_OF,biogeographic patterns and processes,concept,same unit,,ESCI_3190_triples_raw.json
+ESCI_3190,Physical Controls on Species Distributions,topic,PREREQUISITE_OF,Ecological Controls on Species Distributions,topic,A taught first,,ESCI_3190_triples_raw.json
+ESCI_3190,biogeographic patterns and processes,concept,PART_OF,Biogeography,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,spatial diversity of life on earth,concept,PART_OF,Biogeography,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,importance of biogeography in conservation,concept,PART_OF,Biogeography,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,climate and biodiversity relationships,concept,PART_OF,Physical Controls on Species Distributions,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,mountain building and elevation effects,concept,PART_OF,Physical Controls on Species Distributions,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,habitat fragmentation and isolation,concept,PART_OF,Ecological Controls on Species Distributions,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,ecosystem services and human impacts,concept,PART_OF,Ecological Controls on Species Distributions,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,phylogenetic relationships and divergence,concept,PART_OF,Historical Biogeography and Evolutionary Processes,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,statistical analysis of biogeographic patterns,concept,PART_OF,Biogeographic Data Analysis and Interpretation,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,biogeographic principles for conservation planning,concept,PART_OF,Conservation Applications of Biogeography,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,species distribution modeling and prediction,concept,PART_OF,Conservation Applications of Biogeography,topic,,,ESCI_3190_triples_raw.json
+ESCI_3190,ecosystem-based management and restoration,concept,PART_OF,Conservation Applications of Biogeography,topic,,,ESCI_3190_triples_raw.json

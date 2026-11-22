@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_1101,Algebraic Expressions,topic,PREREQUISITE_OF,Linear and Quadratic Equations,topic,A taught first,,MATH_1101_triples_raw.json
+MATH_1101,Algebraic Expressions,topic,PREREQUISITE_OF,Inequalities and Graphs,topic,A taught first,,MATH_1101_triples_raw.json
+MATH_1101,Algebraic Expressions,topic,PREREQUISITE_OF,Modeling and Problem-Solving,topic,A taught first,,MATH_1101_triples_raw.json
+MATH_1101,simplifying polynomials,concept,PART_OF,Algebraic Expressions,topic,,,MATH_1101_triples_raw.json
+MATH_1101,factoring quadratic equations,concept,PART_OF,Algebraic Expressions,topic,,,MATH_1101_triples_raw.json
+MATH_1101,radical notation rules,concept,PART_OF,Algebraic Expressions,topic,,,MATH_1101_triples_raw.json
+MATH_1101,solving linear equations,concept,PART_OF,Linear and Quadratic Equations,topic,,,MATH_1101_triples_raw.json
+MATH_1101,quadratic formula application,concept,PART_OF,Linear and Quadratic Equations,topic,,,MATH_1101_triples_raw.json
+MATH_1101,rational equation simplification,concept,PART_OF,Linear and Quadratic Equations,topic,,,MATH_1101_triples_raw.json
+MATH_1101,graphing inequalities,concept,PART_OF,Inequalities and Graphs,topic,,,MATH_1101_triples_raw.json
+MATH_1101,linear inequality solutions,concept,PART_OF,Inequalities and Graphs,topic,,,MATH_1101_triples_raw.json
+MATH_1101,absolute value inequality rules,concept,PART_OF,Inequalities and Graphs,topic,,,MATH_1101_triples_raw.json
+MATH_1101,function composition basics,concept,PART_OF,Functions and Notation,topic,,,MATH_1101_triples_raw.json
+MATH_1101,inverse function properties,concept,PART_OF,Functions and Notation,topic,,,MATH_1101_triples_raw.json
+MATH_1101,piecewise-defined functions,concept,PART_OF,Functions and Notation,topic,,,MATH_1101_triples_raw.json
+MATH_1101,Graphing Fundamental Functions,topic,PART_OF,domain and range analysis,concept,,part is broader than whole - check direction,MATH_1101_triples_raw.json
+MATH_1101,asymptotes and intervals of increase,concept,PART_OF,Graphing Fundamental Functions,topic,,,MATH_1101_triples_raw.json
+MATH_1101,local extrema identification,concept,PART_OF,Graphing Fundamental Functions,topic,,,MATH_1101_triples_raw.json
+MATH_1101,distance formula application,concept,PART_OF,Coordinate Geometry,topic,,,MATH_1101_triples_raw.json
+MATH_1101,midpoint formula rules,concept,PART_OF,Coordinate Geometry,topic,,,MATH_1101_triples_raw.json
+MATH_1101,solving linear equations,concept,USED_FOR,Linear and Quadratic Equations,topic,,,MATH_1101_triples_raw.json
+MATH_1101,solving linear equations,concept,USED_FOR,Inequalities and Graphs,topic,,,MATH_1101_triples_raw.json
+MATH_1101,solving linear equations,concept,USED_FOR,Functions and Notation,topic,,,MATH_1101_triples_raw.json
+MATH_1101,solving linear equations,concept,USED_FOR,Modeling and Problem-Solving,topic,,,MATH_1101_triples_raw.json
+MATH_1101,solving linear equations,concept,USED_FOR,Coordinate Geometry,topic,,,MATH_1101_triples_raw.json

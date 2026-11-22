@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_4201,deterministic optimization problems,concept,PART_OF,continuous optimization methods,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,dynamic programming formulation,concept,PART_OF,continuous optimization methods,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,nonlinear systems,concept,PART_OF,continuous optimization methods,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,branch and bound algorithm,concept,PART_OF,integer programming formulation,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,cutting plane method,concept,PART_OF,integer programming formulation,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,Bellman's equation application,concept,PART_OF,dynamic programming formulation,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,optimal substructure property,concept,PART_OF,dynamic programming formulation,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,gradient-based algorithms,concept,PART_OF,nonlinear optimization methods,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,knapsack problem formulation,concept,PART_OF,integer programming formulation,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,cutting stock problem solution,concept,PART_OF,integer programming formulation,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,scheduling problems,concept,PART_OF,integer programming formulation,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,shortest path problem solution,concept,PART_OF,dynamic programming formulation,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,resource allocation problems,concept,PART_OF,dynamic programming formulation,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,unconstrained optimization methods,concept,PART_OF,nonlinear optimization methods,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,constrained optimization techniques,concept,PART_OF,nonlinear optimization methods,concept,,,SEGR_4201_triples_raw.json
+SEGR_4201,multivariable function analysis,concept,PART_OF,nonlinear optimization methods,concept,,,SEGR_4201_triples_raw.json

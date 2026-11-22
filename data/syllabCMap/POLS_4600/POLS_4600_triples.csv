@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_4600,Quantitative Research,topic,PREREQUISITE_OF,Qualitative Research,topic,same unit,,POLS_4600_triples_raw.json
+POLS_4600,Liberalism vs Conservatism,topic,PREREQUISITE_OF,Marxist Theoretical Frameworks,topic,same unit,,POLS_4600_triples_raw.json
+POLS_4600,Liberalism vs Conservatism,topic,PREREQUISITE_OF,Feminist Political Theory,topic,same unit,,POLS_4600_triples_raw.json
+POLS_4600,Types of Governments,topic,PREREQUISITE_OF,Forms of Government,topic,same unit,,POLS_4600_triples_raw.json
+POLS_4600,Types of Governments,topic,PREREQUISITE_OF,Separation of Powers,topic,same unit,,POLS_4600_triples_raw.json

@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_5000,topic,Intro. to Nuclear Physics,Intro. to Nuclear Physics,1,verified,Intro. to Nuclear Physics,PHYS_5000_concepts_raw.json
+PHYS_5000,topic,Nuclear Physics,Nuclear Physics,4,verified,Introduction to Nuclear Physics,PHYS_5000_concepts_raw.json
+PHYS_5000,topic,Atomic Nucleus Composition,Atomic Nucleus Composition,1,inferred,Atomic Nucleus Composition,PHYS_5000_concepts_raw.json
+PHYS_5000,topic,Radioactive Decay Processes,Radioactive Decay Processes,1,inferred,Radioactive Decay Processes,PHYS_5000_concepts_raw.json
+PHYS_5000,topic,Nuclear Reactions and Applications,Nuclear Reactions and Applications,1,inferred,Nuclear Reactions and Applications,PHYS_5000_concepts_raw.json
+PHYS_5000,topic,Particle Physics and Nucleons,Particle Physics and Nucleons,1,inferred,Particle Physics and Nucleons,PHYS_5000_concepts_raw.json
+PHYS_5000,topic,Nuclear Forces and Models,Nuclear Forces and Models,1,inferred,Nuclear Forces and Models,PHYS_5000_concepts_raw.json
+PHYS_5000,topic,Nuclear Stability and Binding Energy,Nuclear Stability and Binding Energy,1,inferred,Nuclear Stability and Binding Energy,PHYS_5000_concepts_raw.json
+PHYS_5000,topic,Advanced Nuclear Topics,Advanced Nuclear Topics,1,inferred,Advanced Nuclear Topics,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Nuclear Physics Importance,Nuclear Physics Importance,1,inferred,Nuclear Physics Importance,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Atomic Nucleus Structure,Atomic Nucleus Structure,1,inferred,Atomic Nucleus Structure,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Nuclear Properties Overview,Nuclear Properties Overview,1,inferred,Nuclear Properties Overview,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Protons and Neutrons Role,Protons and Neutrons Role,1,inferred,Protons and Neutrons Role,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Nuclear Mass and Charge,Nuclear Mass and Charge,1,inferred,Nuclear Mass and Charge,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Isotopes and Isobars Definition,Isotopes and Isobars Definition,1,inferred,Isotopes and Isobars Definition,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Alpha Beta Gamma Radiation,Alpha Beta Gamma Radiation,1,inferred,Alpha Beta Gamma Radiation,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Half-Life and Decay Rate,Half-Life and Decay Rate,1,inferred,Half-Life and Decay Rate,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Radioactive Equilibrium State,Radioactive Equilibrium State,1,inferred,Radioactive Equilibrium State,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Fission and Fusion Reactions,Fission and Fusion Reactions,1,inferred,Fission and Fusion Reactions,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Nuclear Energy Generation,Nuclear Energy Generation,1,inferred,Nuclear Energy Generation,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Medical Isotopes Production,Medical Isotopes Production,1,inferred,Medical Isotopes Production,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Proton Neutron Quarks Composition,Proton Neutron Quarks Composition,1,inferred,Proton Neutron Quarks Composition,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Meson Baryon Interactions,Meson Baryon Interactions,1,inferred,Meson Baryon Interactions,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Quark Confinement Model,Quark Confinement Model,1,inferred,Quark Confinement Model,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Strong Nuclear Force Overview,Strong Nuclear Force Overview,1,inferred,Strong Nuclear Force Overview,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Yukawa Potential Derivation,Yukawa Potential Derivation,1,inferred,Yukawa Potential Derivation,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Shell Model Explanation,Shell Model Explanation,1,inferred,Shell Model Explanation,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Stable Unstable Nuclei Definition,Stable Unstable Nuclei Definition,1,inferred,Stable Unstable Nuclei Definition,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Binding Energy Calculation,Binding Energy Calculation,1,inferred,Binding Energy Calculation,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Magnetic Moments and G-Factors,Magnetic Moments and G-Factors,1,inferred,Magnetic Moments and G-Factors,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Electromagnetic Form Factors,Electromagnetic Form Factors,1,inferred,Electromagnetic Form Factors,PHYS_5000_concepts_raw.json
+PHYS_5000,concept,Quark-Gluon Plasma State,Quark-Gluon Plasma State,1,inferred,Quark-Gluon Plasma State,PHYS_5000_concepts_raw.json

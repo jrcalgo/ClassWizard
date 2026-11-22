@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_1511,plans,concept,PREREQUISITE_OF,Urban & Regional Planning,topic,A mentioned first,,GEOG_1511_triples_raw.json
+GEOG_1511,plans,concept,PREREQUISITE_OF,Exploring the City,topic,A taught first,,GEOG_1511_triples_raw.json
+GEOG_1511,Modern Planning Profession,topic,PREREQUISITE_OF,Urban & Regional Planning,topic,A mentioned first,,GEOG_1511_triples_raw.json
+GEOG_1511,Carolina Thread Trail,work,PREREQUISITE_OF,Charlotte BIKES plan,work,A mentioned first,,GEOG_1511_triples_raw.json
+GEOG_1511,plans,concept,PART_OF,Urban & Regional Planning,topic,,,GEOG_1511_triples_raw.json
+GEOG_1511,plans,concept,PART_OF,Exploring the City,topic,,,GEOG_1511_triples_raw.json
+GEOG_1511,Modern Planning Profession,topic,PART_OF,Urban & Regional Planning,topic,,,GEOG_1511_triples_raw.json
+GEOG_1511,Carolina Thread Trail,work,PART_OF,Charlotte BIKES plan,work,,,GEOG_1511_triples_raw.json
+GEOG_1511,plans,concept,USED_FOR,Urban & Regional Planning,topic,,,GEOG_1511_triples_raw.json
+GEOG_1511,plans,concept,USED_FOR,Exploring the City,topic,,,GEOG_1511_triples_raw.json

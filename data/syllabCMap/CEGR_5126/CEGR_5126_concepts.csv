@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_5126,topic,Codes,Codes,1,verified,Codes,CEGR_5126_concepts_raw.json
+CEGR_5126,topic,Loads,Loads,11,verified,Loads,CEGR_5126_concepts_raw.json
+CEGR_5126,topic,Nodes,Nodes,1,verified,Nodes,CEGR_5126_concepts_raw.json
+CEGR_5126,topic,ASCE7,ASCE7,1,verified,ASCE7,CEGR_5126_concepts_raw.json
+CEGR_5126,tool,IBC,IBC,3,verified,IBC,CEGR_5126_concepts_raw.json
+CEGR_5126,tool,IRC,IRC,2,verified,IRC,CEGR_5126_concepts_raw.json
+CEGR_5126,concept,load paths,load paths,7,verified,load paths,CEGR_5126_concepts_raw.json
+CEGR_5126,concept,lateral loads,lateral loads,3,verified,lateral loads,CEGR_5126_concepts_raw.json
+CEGR_5126,concept,governing load standards,governing load standards,1,verified,governing load standards,CEGR_5126_concepts_raw.json
+CEGR_5126,concept,critical design scenarios,critical design scenarios,2,verified,critical design scenarios,CEGR_5126_concepts_raw.json
+CEGR_5126,tool,ASCE 7,ASCE7,6,verified,ASCE 7,CEGR_5126_concepts_raw.json
+CEGR_5126,tool,Revit,Revit,1,verified,Revit,CEGR_5126_concepts_raw.json
+CEGR_5126,tool,ETABS/SAP2000,ETABS/SAP2000,1,verified,ETABS/SAP2000,CEGR_5126_concepts_raw.json
+CEGR_5126,tool,RFEM6,RFEM6,1,verified,RFEM6,CEGR_5126_concepts_raw.json

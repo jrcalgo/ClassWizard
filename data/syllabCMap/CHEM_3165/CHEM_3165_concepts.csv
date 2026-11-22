@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_3165,topic,Biochemistry,Biochemistry,3,verified,Survey of Biochemistry,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,gluconeogenesis,gluconeogenesis,2,verified,"relationship to glycolysis, gluconeogenesis",CHEM_3165_concepts_raw.json
+CHEM_3165,topic,Biological Macromolecules I,Biological Macromolecules I,1,inferred,Biological Macromolecules I,CHEM_3165_concepts_raw.json
+CHEM_3165,topic,Biological Macromolecules II,Biological Macromolecules II,1,inferred,Biological Macromolecules II,CHEM_3165_concepts_raw.json
+CHEM_3165,topic,Enzyme Catalysis Basics,Enzyme Catalysis Basics,1,inferred,Enzyme Catalysis Basics,CHEM_3165_concepts_raw.json
+CHEM_3165,topic,Glycolysis Overview,Glycolysis Overview,1,inferred,Glycolysis Overview,CHEM_3165_concepts_raw.json
+CHEM_3165,topic,Gluconeogenesis Process,Gluconeogenesis Process,1,inferred,Gluconeogenesis Process,CHEM_3165_concepts_raw.json
+CHEM_3165,topic,Krebs Cycle Overview,Krebs Cycle Overview,1,inferred,Krebs Cycle Overview,CHEM_3165_concepts_raw.json
+CHEM_3165,topic,Metabolic Pathways Integration,Metabolic Pathways Integration,1,inferred,Metabolic Pathways Integration,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,biochemical principles overview,Biochemical principles overview,1,inferred,biochemical principles overview,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,importance of biochemistry in life,Importance of biochemistry in life,1,inferred,importance of biochemistry in life,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,protein structure and function,Protein structure and function,1,inferred,protein structure and function,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,carbohydrate types and roles,Carbohydrate types and roles,1,inferred,carbohydrate types and roles,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,nucleic acid basics,Nucleic acid basics,1,inferred,nucleic acid basics,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,lipid structure and functions,Lipid structure and functions,1,inferred,lipid structure and functions,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,macromolecule interactions and relationships,Macromolecule interactions and relationships,1,inferred,macromolecule interactions and relationships,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,enzyme definition and types,Enzyme definition and types,1,inferred,enzyme definition and types,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,basic enzyme kinetics principles,Basic enzyme kinetics principles,1,inferred,basic enzyme kinetics principles,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,glycolysis pathway steps and regulation,Glycolysis pathway steps and regulation,1,inferred,glycolysis pathway steps and regulation,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,energy yield from glycolysis,Energy yield from glycolysis,1,inferred,energy yield from glycolysis,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,gluconeogenesis pathway steps and regulation,Gluconeogenesis pathway steps and regulation,1,inferred,gluconeogenesis pathway steps and regulation,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,relationship to glycolysis,Relationship to glycolysis,1,inferred,"relationship to glycolysis, gluconeogenesis",CHEM_3165_concepts_raw.json
+CHEM_3165,concept,Krebs cycle pathway steps and regulation,Krebs cycle pathway steps and regulation,1,inferred,Krebs cycle pathway steps and regulation,CHEM_3165_concepts_raw.json
+CHEM_3165,concept,energy yield from Krebs cycle,Energy yield from Krebs cycle,1,inferred,energy yield from Krebs cycle,CHEM_3165_concepts_raw.json

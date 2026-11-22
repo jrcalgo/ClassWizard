@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_1251,chemical nomenclature,concept,PART_OF,Chemistry,topic,,,CHEM_1251_triples_raw.json
+CHEM_1251,measurements,concept,PART_OF,Chemistry,topic,,,CHEM_1251_triples_raw.json
+CHEM_1251,reactions and stoichiometry,concept,PART_OF,Chemistry,topic,,,CHEM_1251_triples_raw.json
+CHEM_1251,thermochemistry,concept,PART_OF,Chemistry,topic,,,CHEM_1251_triples_raw.json
+CHEM_1251,atomic structure,concept,PART_OF,Chemistry,topic,,,CHEM_1251_triples_raw.json
+CHEM_1251,periodicity,concept,PART_OF,Chemistry,topic,,,CHEM_1251_triples_raw.json
+CHEM_1251,bonding,concept,PART_OF,Chemistry,topic,,,CHEM_1251_triples_raw.json
+CHEM_1251,behavior of gases,concept,PART_OF,Chemistry,topic,,,CHEM_1251_triples_raw.json
+CHEM_1251,molecular structure,concept,PART_OF,Chemistry,topic,,,CHEM_1251_triples_raw.json

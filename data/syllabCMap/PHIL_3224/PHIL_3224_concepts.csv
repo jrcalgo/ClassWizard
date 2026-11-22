@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHIL_3224,topic,Data Ethics,Data Ethics,3,inferred,Data Ethics,PHIL_3224_concepts_raw.json
+PHIL_3224,topic,Thick Concepts and Values,Thick Concepts and Values,1,inferred,Thick Concepts and Values,PHIL_3224_concepts_raw.json
+PHIL_3224,topic,Interdisciplinary Approaches to Data Ethics,Interdisciplinary Approaches to Data Ethics,1,inferred,Interdisciplinary Approaches to Data Ethics,PHIL_3224_concepts_raw.json
+PHIL_3224,topic,Recent Examples of Ethical Failures,Recent Examples of Ethical Failures,1,inferred,Recent Examples of Ethical Failures,PHIL_3224_concepts_raw.json
+PHIL_3224,topic,Theoretical Frameworks for Data Ethics,Theoretical Frameworks for Data Ethics,1,inferred,Theoretical Frameworks for Data Ethics,PHIL_3224_concepts_raw.json
+PHIL_3224,topic,Making Moral Arguments in Data Science,Making Moral Arguments in Data Science,1,inferred,Making Moral Arguments in Data Science,PHIL_3224_concepts_raw.json
+PHIL_3224,topic,Stakes of a Data-Driven Society,Stakes of a Data-Driven Society,1,inferred,The Stakes of a Data-Driven Society,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,moral aspects of data science,Moral Aspects of Data Science,1,inferred,moral aspects of data science,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,ethical considerations in analytics,Ethical Considerations in Analytics,1,inferred,ethical considerations in analytics,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,privacy as a value,Privacy as a Value,1,inferred,privacy as a value,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,equality in data collection,Equality in Data Collection,1,inferred,equality in data collection,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,morality in data thinking,Morality in Data Thinking,1,inferred,morality in data thinking,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,philosophy of data science,Philosophy of Data Science,1,inferred,philosophy of data science,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,law and data governance,Law and Data Governance,1,inferred,law and data governance,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,cultural studies and data,Cultural Studies and Data,1,inferred,cultural studies and data,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,data breaches and consequences,Data Breaches and Consequences,1,inferred,data breaches and consequences,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,bias in algorithmic decision-making,Bias in Algorithmic Decision-Making,1,inferred,bias in algorithmic decision-making,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,social impacts of data collection,Social Impacts of Data Collection,1,inferred,social impacts of data collection,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,analytic philosophy and data,Analytic Philosophy and Data,1,inferred,analytic philosophy and data,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,continental philosophy and data,Continental Philosophy and Data,1,inferred,continental philosophy and data,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,data studies as a field,Data Studies as a Field,1,inferred,data studies as a field,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,framing ethical policy decisions,Framing Ethical Policy Decisions,1,inferred,framing ethical policy decisions,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,moral argumentation in analytics,Moral Argumentation in Analytics,1,inferred,moral argumentation in analytics,PHIL_3224_concepts_raw.json
+PHIL_3224,concept,stakeholder engagement in data,Stakeholder Engagement in Data,1,inferred,stakeholder engagement in data,PHIL_3224_concepts_raw.json

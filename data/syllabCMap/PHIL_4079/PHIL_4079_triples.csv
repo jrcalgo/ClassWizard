@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_4079,Cultural Interpretations of Race,concept,PREREQUISITE_OF,Biological Determinism,concept,same unit,,PHIL_4079_triples_raw.json
+PHIL_4079,Cultural Interpretations of Race,concept,PREREQUISITE_OF,Historical Contexts of Gender,concept,same unit,,PHIL_4079_triples_raw.json
+PHIL_4079,Concepts of Beauty,concept,PREREQUISITE_OF,Desire and Power Dynamics,concept,same unit,,PHIL_4079_triples_raw.json
+PHIL_4079,Concepts of Beauty,concept,PREREQUISITE_OF,Femininity and Masculinity,concept,same unit,,PHIL_4079_triples_raw.json
+PHIL_4079,Labor and Identity Formation,concept,PREREQUISITE_OF,Relationships and Power Structures,concept,same unit,,PHIL_4079_triples_raw.json
+PHIL_4079,Media Representations of Bodies,concept,PREREQUISITE_OF,Subverting Dominant Discourses,concept,same unit,,PHIL_4079_triples_raw.json
+PHIL_4079,Effects of Violence on Individuals,concept,PREREQUISITE_OF,Structural Violence and Inequality,concept,same unit,,PHIL_4079_triples_raw.json
+PHIL_4079,Biological Determinism,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Cultural Interpretations of Race,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Historical Contexts of Gender,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Concepts of Beauty,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Desire and Power Dynamics,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Labor and Identity Formation,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Relationships and Power Structures,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Violence in Intimate Relationships,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Media Representations of Bodies,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Resistance through Art and Activism,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Subverting Dominant Discourses,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Effects of Violence on Individuals,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Structural Violence and Inequality,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json
+PHIL_4079,Trauma and Healing Processes,concept,PART_OF,Politics of the Body,topic,,,PHIL_4079_triples_raw.json

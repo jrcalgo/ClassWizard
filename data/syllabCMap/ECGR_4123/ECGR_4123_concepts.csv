@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4123,topic,Analog and Digital Communication,Analog and Digital Communication,1,verified,Analog and Digital Communication,ECGR_4123_concepts_raw.json
+ECGR_4123,topic,Communication,communications,1,verified,Introduction to Communication,ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Sampling and Nyquist rate,Sampling and Nyquist rate,1,verified,Sampling and Nyquist rate,ECGR_4123_concepts_raw.json
+ECGR_4123,topic,Modern Digital Communication Methods,modern digital communication methods,1,verified,Modern Digital Communication Methods,ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Power Spectral Density,Power spectral density,1,verified,Power Spectral Density,ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Double-sideband suppressed carrier amplitude modulation (DSB-SC,Double-sideband suppressed carrier amplitude modulation (DSB-SC,1,verified,Double-sideband suppressed carrier amplitude modulation (DSB-SC),ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Frequency modulation (FM,Frequency modulation (FM,1,verified,Frequency modulation (FM),ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Phase modulation (PM,Phase modulation (PM,1,verified,Phase modulation (PM),ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Quadrature amplitude modulation (QAM,Quadrature amplitude modulation (QAM,1,verified,Quadrature amplitude modulation (QAM),ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Characteristics of digital transmission,Characteristics of digital transmission,1,verified,Characteristics of digital transmission,ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Bandwidth of various modulations in frequency domain,Bandwidth of various modulations in frequency domain,1,verified,Bandwidth of various modulations in frequency domain,ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Basic signals,basic signals,1,verified,Basic signals,ECGR_4123_concepts_raw.json
+ECGR_4123,concept,Analysis and frequency spectra,analysis and frequency spectra,1,verified,Analysis and frequency spectra,ECGR_4123_concepts_raw.json
+ECGR_4123,tool,Computer-Aided Design (CAD) tools and software,Computer-Aided Design (CAD) tools and software,1,verified,Computer-Aided Design (CAD) tools and software,ECGR_4123_concepts_raw.json

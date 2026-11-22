@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EPID_8273,multilevel data structure,concept,PREREQUISITE_OF,logistic regression,method,A taught first,,EPID_8273_triples_raw.json
+EPID_8273,multilevel data structure,concept,PREREQUISITE_OF,Linear Regression for Multilevel Data,topic,A taught first,,EPID_8273_triples_raw.json
+EPID_8273,Multilevel and Longitudinal Data Analysis,topic,PREREQUISITE_OF,Random Effects Models for Longitudinal Data,topic,B taught first,B is taught before A - check,EPID_8273_triples_raw.json
+EPID_8273,Multilevel and Longitudinal Data Analysis,topic,PREREQUISITE_OF,Growth Curve Modeling,topic,B taught first,B is taught before A - check,EPID_8273_triples_raw.json
+EPID_8273,multilevel logistic regression,concept,PART_OF,logistic regression,method,,part is broader than whole - check direction,EPID_8273_triples_raw.json
+EPID_8273,model selection criteria,concept,PART_OF,Multilevel and Longitudinal Model Comparison,topic,,,EPID_8273_triples_raw.json
+EPID_8273,Akaike information criterion,concept,PART_OF,Multilevel and Longitudinal Model Comparison,topic,,,EPID_8273_triples_raw.json
+EPID_8273,Bayesian information criterion,concept,PART_OF,Multilevel and Longitudinal Model Comparison,topic,,,EPID_8273_triples_raw.json
+EPID_8273,polynomial regression models,method,PART_OF,Growth Curve Modeling,topic,,,EPID_8273_triples_raw.json
+EPID_8273,Linear Regression for Multilevel Data,topic,USED_FOR,fixed effects estimation,method,,topic used for something - check direction,EPID_8273_triples_raw.json
+EPID_8273,repeated measures analysis,method,USED_FOR,Longitudinal Data Analysis Basics,topic,,,EPID_8273_triples_raw.json

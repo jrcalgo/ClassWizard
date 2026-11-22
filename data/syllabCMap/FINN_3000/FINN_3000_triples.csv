@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3000,Market Analysis,topic,PREREQUISITE_OF,Real Estate Finance,topic,A taught first,,FINN_3000_triples_raw.json
+FINN_3000,Market Analysis,topic,PREREQUISITE_OF,Development Feasibility,topic,A taught first,,FINN_3000_triples_raw.json
+FINN_3000,Site Selection,topic,PREREQUISITE_OF,Real Estate Finance,topic,A taught first,,FINN_3000_triples_raw.json
+FINN_3000,Site Selection,topic,PREREQUISITE_OF,Development Feasibility,topic,A taught first,,FINN_3000_triples_raw.json
+FINN_3000,Affordable Housing,topic,PREREQUISITE_OF,Placemaking,topic,B taught first,B is taught before A - check,FINN_3000_triples_raw.json
+FINN_3000,Affordable Housing,topic,PREREQUISITE_OF,Development Feasibility,topic,A taught first,,FINN_3000_triples_raw.json
+FINN_3000,Market Analysis,topic,USED_FOR,Real Estate Finance,topic,,topic used for something - check direction,FINN_3000_triples_raw.json
+FINN_3000,Market Analysis,topic,USED_FOR,Development Feasibility,topic,,topic used for something - check direction,FINN_3000_triples_raw.json
+FINN_3000,Site Selection,topic,USED_FOR,Real Estate Finance,topic,,topic used for something - check direction,FINN_3000_triples_raw.json
+FINN_3000,Site Selection,topic,USED_FOR,Development Feasibility,topic,,topic used for something - check direction,FINN_3000_triples_raw.json

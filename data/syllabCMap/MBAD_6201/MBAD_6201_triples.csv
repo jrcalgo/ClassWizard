@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6201,Data Warehouse Design Principles,concept,PART_OF,Data Warehousing Fundamentals,topic,,,MBAD_6201_triples_raw.json
+MBAD_6201,Rule-Based Systems Overview,concept,PART_OF,Data Mining Techniques,topic,,,MBAD_6201_triples_raw.json
+MBAD_6201,Decision Trees and Neural Networks,concept,PART_OF,Data Mining Techniques,topic,,,MBAD_6201_triples_raw.json
+MBAD_6201,Clustering and Association Rules,concept,PART_OF,Data Mining Techniques,topic,,,MBAD_6201_triples_raw.json
+MBAD_6201,Business Analytics and Decision Support,concept,PART_OF,Business Intelligence Concepts,topic,,,MBAD_6201_triples_raw.json
+MBAD_6201,Project Management for DW/BI,concept,PART_OF,Management Perspective,topic,,,MBAD_6201_triples_raw.json
+MBAD_6201,Resource Allocation and Planning,concept,PART_OF,Management Perspective,topic,,,MBAD_6201_triples_raw.json
+MBAD_6201,Return on Investment (ROI,concept,PART_OF,Management Perspective,topic,,,MBAD_6201_triples_raw.json

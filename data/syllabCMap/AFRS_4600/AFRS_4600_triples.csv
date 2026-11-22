@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AFRS_4600,African Diaspora Studies,concept,PREREQUISITE_OF,Scenes of Subjection,topic,A taught first,,AFRS_4600_triples_raw.json
+AFRS_4600,Poetics of Relation,topic,PREREQUISITE_OF,We Are the Leaders We Have Been Looking For,topic,A taught first,,AFRS_4600_triples_raw.json
+AFRS_4600,African Diaspora Studies,concept,PART_OF,Africana Studies,topic,,,AFRS_4600_triples_raw.json
+AFRS_4600,original research or digital humanities project,method,PART_OF,public scholarship,method,,,AFRS_4600_triples_raw.json
+AFRS_4600,responsible AI use for research,method,PART_OF,analysis,method,,,AFRS_4600_triples_raw.json

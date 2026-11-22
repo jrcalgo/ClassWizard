@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3141,topic,Limits and Continuity,Limits and Continuity,1,inferred,Limits and Continuity,MATH_3141_concepts_raw.json
+MATH_3141,topic,Differentiation Rules,Differentiation Rules,1,inferred,Differentiation Rules,MATH_3141_concepts_raw.json
+MATH_3141,topic,Applications of Derivatives,Applications of Derivatives,1,inferred,Applications of Derivatives,MATH_3141_concepts_raw.json
+MATH_3141,topic,Integrals and Accumulation,Integrals and Accumulation,1,inferred,Integrals and Accumulation,MATH_3141_concepts_raw.json
+MATH_3141,topic,Integration Techniques,Integration Techniques,1,inferred,Integration Techniques,MATH_3141_concepts_raw.json
+MATH_3141,topic,Improper Integrals and Series,Improper Integrals and Series,1,inferred,Improper Integrals and Series,MATH_3141_concepts_raw.json
+MATH_3141,topic,Vector-Valued Functions,Vector-Valued Functions,2,inferred,Vector-Valued Functions,MATH_3141_concepts_raw.json
+MATH_3141,topic,Multivariable Calculus Review,Multivariable Calculus Review,1,inferred,Multivariable Calculus Review,MATH_3141_concepts_raw.json
+MATH_3141,concept,Limit of a function,Limit of a function,1,inferred,Limit of a function,MATH_3141_concepts_raw.json
+MATH_3141,concept,Continuity at a point,Continuity at a point,1,inferred,Continuity at a point,MATH_3141_concepts_raw.json
+MATH_3141,concept,Properties of limits,Properties of limits,1,inferred,Properties of limits,MATH_3141_concepts_raw.json
+MATH_3141,concept,Power rule for differentiation,Power rule for differentiation,1,inferred,Power rule for differentiation,MATH_3141_concepts_raw.json
+MATH_3141,concept,Product rule for differentiation,Product rule for differentiation,1,inferred,Product rule for differentiation,MATH_3141_concepts_raw.json
+MATH_3141,concept,Quotient rule for differentiation,Quotient rule for differentiation,1,inferred,Quotient rule for differentiation,MATH_3141_concepts_raw.json
+MATH_3141,concept,Maxima and minima problems,Maxima and minima problems,1,inferred,Maxima and minima problems,MATH_3141_concepts_raw.json
+MATH_3141,concept,Optimization problems,Optimization problems,1,inferred,Optimization problems,MATH_3141_concepts_raw.json
+MATH_3141,concept,Related rates problems,Related rates problems,1,inferred,Related rates problems,MATH_3141_concepts_raw.json
+MATH_3141,concept,Definition of definite integral,Definition of definite integral,1,inferred,Definition of definite integral,MATH_3141_concepts_raw.json
+MATH_3141,concept,Properties of definite integrals,Properties of definite integrals,1,inferred,Properties of definite integrals,MATH_3141_concepts_raw.json
+MATH_3141,concept,Accumulation of change,Accumulation of change,1,inferred,Accumulation of change,MATH_3141_concepts_raw.json
+MATH_3141,concept,Substitution method for integration,Substitution method for integration,1,inferred,Substitution method for integration,MATH_3141_concepts_raw.json
+MATH_3141,concept,Integration by parts,Integration by parts,1,inferred,Integration by parts,MATH_3141_concepts_raw.json
+MATH_3141,concept,Integration by partial fractions,Integration by partial fractions,1,inferred,Integration by partial fractions,MATH_3141_concepts_raw.json
+MATH_3141,concept,Definition of improper integral,Definition of improper integral,1,inferred,Definition of improper integral,MATH_3141_concepts_raw.json
+MATH_3141,concept,Convergence tests for series,Convergence tests for series,1,inferred,Convergence tests for series,MATH_3141_concepts_raw.json
+MATH_3141,concept,Power series representation,Power series representation,1,inferred,Power series representation,MATH_3141_concepts_raw.json
+MATH_3141,concept,Vector-valued functions and derivatives,Vector-valued functions and derivatives,1,inferred,Vector-valued functions and derivatives,MATH_3141_concepts_raw.json
+MATH_3141,concept,Arc length and curvature,Arc length and curvature,1,inferred,Arc length and curvature,MATH_3141_concepts_raw.json
+MATH_3141,concept,Motion along a curve,Motion along a curve,1,inferred,Motion along a curve,MATH_3141_concepts_raw.json
+MATH_3141,concept,Partial derivatives and gradients,Partial derivatives and gradients,1,inferred,Partial derivatives and gradients,MATH_3141_concepts_raw.json
+MATH_3141,concept,Double and triple integrals,Double and triple integrals,1,inferred,Double and triple integrals,MATH_3141_concepts_raw.json
+MATH_3141,concept,Change of variables in multiple dimensions,Change of variables in multiple dimensions,1,inferred,Change of variables in multiple dimensions,MATH_3141_concepts_raw.json

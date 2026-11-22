@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+INFO_3234,topic,Business Information Systems,Business Information Systems,3,verified,Business Information Systems,INFO_3234_concepts_raw.json
+INFO_3234,topic,Business Systems,business systems,3,verified,Introduction to Business Systems,INFO_3234_concepts_raw.json
+INFO_3234,concept,Systems Development Life Cycle,systems development life cycle,1,verified,Systems Development Life Cycle,INFO_3234_concepts_raw.json
+INFO_3234,topic,Data Modeling Techniques,Data Modeling Techniques,1,inferred,Data Modeling Techniques,INFO_3234_concepts_raw.json
+INFO_3234,topic,Process Modeling and Analysis,Process Modeling and Analysis,1,inferred,Process Modeling and Analysis,INFO_3234_concepts_raw.json
+INFO_3234,topic,System Feasibility Study,System Feasibility Study,1,inferred,System Feasibility Study,INFO_3234_concepts_raw.json
+INFO_3234,topic,Project Management and Planning,Project Management and Planning,1,inferred,Project Management and Planning,INFO_3234_concepts_raw.json
+INFO_3234,topic,System Design and Development,System Design and Development,1,inferred,System Design and Development,INFO_3234_concepts_raw.json
+INFO_3234,topic,Teamwork and Collaboration in Systems Development,Teamwork and Collaboration in Systems Development,1,inferred,Teamwork and Collaboration in Systems Development,INFO_3234_concepts_raw.json
+INFO_3234,topic,System Implementation and Maintenance,System Implementation and Maintenance,1,inferred,System Implementation and Maintenance,INFO_3234_concepts_raw.json
+INFO_3234,topic,Business Intelligence and Analytics,Business Intelligence and Analytics,1,inferred,Business Intelligence and Analytics,INFO_3234_concepts_raw.json
+INFO_3234,concept,Entity Relationship Diagramming,Entity Relationship Diagramming,1,inferred,Entity Relationship Diagramming,INFO_3234_concepts_raw.json
+INFO_3234,concept,Data Flow Diagramming,Data Flow Diagramming,1,inferred,Data Flow Diagramming,INFO_3234_concepts_raw.json
+INFO_3234,concept,Object-Oriented Data Modeling,Object-Oriented Data Modeling,1,inferred,Object-Oriented Data Modeling,INFO_3234_concepts_raw.json
+INFO_3234,concept,Business Process Reengineering,Business Process Reengineering,1,inferred,Business Process Reengineering,INFO_3234_concepts_raw.json
+INFO_3234,concept,Workflow Analysis and Design,Workflow Analysis and Design,1,inferred,Workflow Analysis and Design,INFO_3234_concepts_raw.json
+INFO_3234,concept,Feasibility Study Methodology,Feasibility Study Methodology,1,inferred,Feasibility Study Methodology,INFO_3234_concepts_raw.json
+INFO_3234,concept,Cost-Benefit Analysis,Cost-Benefit Analysis,1,inferred,Cost-Benefit Analysis,INFO_3234_concepts_raw.json
+INFO_3234,concept,Return on Investment (ROI,Return on Investment (ROI,1,inferred,Return on Investment (ROI),INFO_3234_concepts_raw.json
+INFO_3234,concept,Project Scope Statement,Project Scope Statement,1,inferred,Project Scope Statement,INFO_3234_concepts_raw.json
+INFO_3234,concept,Work Breakdown Structure (WBS,Work Breakdown Structure (WBS,1,inferred,Work Breakdown Structure (WBS),INFO_3234_concepts_raw.json
+INFO_3234,concept,Gantt Charts and Scheduling,Gantt Charts and Scheduling,1,inferred,Gantt Charts and Scheduling,INFO_3234_concepts_raw.json
+INFO_3234,concept,System Requirements Specification,System Requirements Specification,1,inferred,System Requirements Specification,INFO_3234_concepts_raw.json
+INFO_3234,concept,System Design Principles,System Design Principles,1,inferred,System Design Principles,INFO_3234_concepts_raw.json
+INFO_3234,concept,Prototyping and Iterative Design,Prototyping and Iterative Design,1,inferred,Prototyping and Iterative Design,INFO_3234_concepts_raw.json
+INFO_3234,concept,Collaboration Tools and Techniques,Collaboration Tools and Techniques,1,inferred,Collaboration Tools and Techniques,INFO_3234_concepts_raw.json
+INFO_3234,concept,Communication Strategies for Teams,Communication Strategies for Teams,1,inferred,Communication Strategies for Teams,INFO_3234_concepts_raw.json
+INFO_3234,concept,Conflict Resolution and Management,Conflict Resolution and Management,1,inferred,Conflict Resolution and Management,INFO_3234_concepts_raw.json
+INFO_3234,concept,Data Warehousing and Mining,Data Warehousing and Mining,1,inferred,Data Warehousing and Mining,INFO_3234_concepts_raw.json
+INFO_3234,concept,Business Intelligence Tools and Techniques,Business Intelligence Tools and Techniques,1,inferred,Business Intelligence Tools and Techniques,INFO_3234_concepts_raw.json
+INFO_3234,concept,Performance Metrics and KPIs,Performance Metrics and KPIs,1,inferred,Performance Metrics and KPIs,INFO_3234_concepts_raw.json

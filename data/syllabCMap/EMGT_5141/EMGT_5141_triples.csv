@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_5141,Design of Experiments,topic,PREREQUISITE_OF,Taguchi Methods,topic,A taught first,,EMGT_5141_triples_raw.json
+EMGT_5141,Taguchi Methods,topic,PREREQUISITE_OF,Response Surface Methods,topic,A taught first,,EMGT_5141_triples_raw.json
+EMGT_5141,Design of Experiments Basics,concept,PART_OF,Design of Experiments,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Experimental Planning Process,concept,PART_OF,Design of Experiments,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Full Factorial Designs,concept,PART_OF,Design of Experiments,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Fractional Factorial Design Types,concept,PART_OF,Design of Experiments,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Taguchi Parameter Design Basics,concept,PART_OF,Taguchi Methods,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Robust Design Principles,concept,PART_OF,Taguchi Methods,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Signal-to-Noise Ratio,concept,PART_OF,Taguchi Methods,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Parameter Design for Robustness,concept,PART_OF,Taguchi Methods,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Optimization of Performance Characteristics,concept,PART_OF,Taguchi Methods,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Response Surface Methodology Basics,concept,PART_OF,Response Surface Methods,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Polynomial Regression Models,concept,PART_OF,Response Surface Methods,topic,,,EMGT_5141_triples_raw.json
+EMGT_5141,Model Validation and Verification,concept,PART_OF,Response Surface Methods,topic,,,EMGT_5141_triples_raw.json

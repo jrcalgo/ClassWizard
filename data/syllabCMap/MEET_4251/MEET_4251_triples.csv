@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_4251,Second Law of Thermodynamics,topic,PREREQUISITE_OF,Thermodynamic Cycles,topic,B taught first,B is taught before A - check,MEET_4251_triples_raw.json
+MEET_4251,Second Law of Thermodynamics,topic,PREREQUISITE_OF,Heat Exchangers,topic,A taught first,,MEET_4251_triples_raw.json
+MEET_4251,Second Law of Thermodynamics,topic,PREREQUISITE_OF,Multi-Mode Problems,topic,A taught first,,MEET_4251_triples_raw.json
+MEET_4251,Ideal Thermodynamic Cycle,concept,PART_OF,Thermodynamic Cycles,topic,,,MEET_4251_triples_raw.json
+MEET_4251,Non-Ideal Thermodynamic Cycle,concept,PART_OF,Thermodynamic Cycles,topic,,,MEET_4251_triples_raw.json

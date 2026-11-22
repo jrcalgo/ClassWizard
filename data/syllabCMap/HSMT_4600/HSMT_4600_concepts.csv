@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HSMT_4600,topic,Health Systems Management Capstone,Health Systems Management Capstone,1,verified,Health Systems Management Capstone,HSMT_4600_concepts_raw.json
+HSMT_4600,topic,Capstone,Capstone,1,verified,Introduction to Capstone,HSMT_4600_concepts_raw.json
+HSMT_4600,topic,Health Systems Management Issues,health systems management issues,1,verified,Health Systems Management Issues,HSMT_4600_concepts_raw.json
+HSMT_4600,topic,"Inclusion, Access, and Equity","Inclusion, Access, and Equity",1,verified,"Inclusion, Access, and Equity",HSMT_4600_concepts_raw.json
+HSMT_4600,topic,Current Healthcare Challenges,Current Healthcare Challenges,1,inferred,Current Healthcare Challenges,HSMT_4600_concepts_raw.json
+HSMT_4600,topic,Effective Communication Skills,Effective Communication Skills,1,inferred,Effective Communication Skills,HSMT_4600_concepts_raw.json
+HSMT_4600,topic,Leadership Development Plan,Leadership Development Plan,1,inferred,Leadership Development Plan,HSMT_4600_concepts_raw.json
+HSMT_4600,topic,Capstone Project Proposal,Capstone Project Proposal,1,inferred,Capstone Project Proposal,HSMT_4600_concepts_raw.json
+HSMT_4600,topic,ePortfolio Development,ePortfolio Development,2,inferred,ePortfolio Development,HSMT_4600_concepts_raw.json

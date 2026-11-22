@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AAHP_3705,Ceramic Objects,topic,PART_OF,Art,topic,,,AAHP_3705_triples_raw.json
+AAHP_3705,Industrial Ceramics for Domestic Use,topic,PART_OF,Global Societies,topic,,,AAHP_3705_triples_raw.json
+AAHP_3705,digital portfolio presentation,concept,PART_OF,arts-related topic,concept,,,AAHP_3705_triples_raw.json
+AAHP_3705,organizing,concept,PART_OF,digital portfolio presentation,concept,,,AAHP_3705_triples_raw.json
+AAHP_3705,technical proficiency,concept,PART_OF,digital portfolio presentation,concept,,,AAHP_3705_triples_raw.json
+AAHP_3705,conceptual development,concept,PART_OF,BFA-level studio work,concept,,,AAHP_3705_triples_raw.json
+AAHP_3705,design,method,USED_FOR,Industrial Ceramics for Domestic Use,topic,,,AAHP_3705_triples_raw.json
+AAHP_3705,research,method,USED_FOR,Industrial Ceramics for Domestic Use,topic,,,AAHP_3705_triples_raw.json

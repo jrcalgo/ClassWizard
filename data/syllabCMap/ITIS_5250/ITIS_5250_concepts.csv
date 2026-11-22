@@ -1,0 +1,81 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5250,topic,characteristics of digital storage media,characteristics of digital storage media,3,verified,characteristics of digital storage media,ITIS_5250_concepts_raw.json
+ITIS_5250,topic,data hiding,data hiding,5,verified,data hiding,ITIS_5250_concepts_raw.json
+ITIS_5250,topic,tracking users,tracking users,3,verified,tracking users,ITIS_5250_concepts_raw.json
+ITIS_5250,topic,investigating Windows computers and the criminal justice system,investigating Windows computers and the criminal justice system,2,verified,investigating Windows computers and the criminal justice system,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,digital forensics,Digital Forensics,4,verified,digital forensics,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,expectations,expectations,3,verified,expectations,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,forensic definition,Forensic Definition,1,verified,forensic definition,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,digital evidence handling,Digital Evidence Handling,3,verified,digital evidence handling,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,testimony preparation,Testimony Preparation,1,verified,testimony preparation,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,reporting requirements,Reporting Requirements,1,verified,reporting requirements,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,criminal justice system,criminal justice system,4,verified,criminal justice system,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,forensic testimony standards,Forensic Testimony Standards,1,verified,forensic testimony standards,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,FAT filesystem,FAT filesystem,1,verified,FAT filesystem,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,NTFS filesystem,NTFS filesystems,1,verified,NTFS filesystem,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,filesystem structure,Filesystem structure,1,verified,filesystem structure,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,cluster size,Cluster size,1,verified,cluster size,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,allocation tables,Allocation tables,1,verified,allocation tables,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,MFT records,MFT records,1,verified,MFT records,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,bad sectors,Bad sectors,1,verified,bad sectors,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,data fragmentation,Data fragmentation,1,verified,data fragmentation,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,Windows registry analysis,Windows Registry Analysis,2,verified,Windows registry analysis,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,Windows system investigation,Windows System Investigation,1,verified,Windows system investigation,ITIS_5250_concepts_raw.json
+ITIS_5250,method,digital evidence collection,Digital Evidence Collection,4,verified,digital evidence collection,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,registry key hierarchy,Registry Key Hierarchy,1,verified,registry key hierarchy,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,Windows file system,Windows File System,1,verified,Windows file system,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,event log analysis,Event Log Analysis,2,verified,event log analysis,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,system restore points,System Restore Points,2,verified,system restore points,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,user tracking methods,User Tracking Methods,2,verified,user tracking methods,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,file system timestamps,File System Timestamps,1,verified,file system timestamps,ITIS_5250_concepts_raw.json
+ITIS_5250,method,forensic imaging,Forensic Imaging,3,verified,forensic imaging,ITIS_5250_concepts_raw.json
+ITIS_5250,method,disk analysis techniques,Disk Analysis Techniques,1,verified,disk analysis techniques,ITIS_5250_concepts_raw.json
+ITIS_5250,method,bitstream imaging,Bitstream Imaging,1,verified,bitstream imaging,ITIS_5250_concepts_raw.json
+ITIS_5250,method,logical vs physical disk,Logical vs Physical Disk,1,verified,logical vs physical disk,ITIS_5250_concepts_raw.json
+ITIS_5250,method,evidence integrity protocols,Evidence Integrity Protocols,1,verified,evidence integrity protocols,ITIS_5250_concepts_raw.json
+ITIS_5250,method,digital evidence chain,Digital Evidence Chain,1,verified,digital evidence chain,ITIS_5250_concepts_raw.json
+ITIS_5250,method,hash values calculation,Hash Values Calculation,1,verified,hash values calculation,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,file system hierarchy,File System Hierarchy,1,verified,file system hierarchy,ITIS_5250_concepts_raw.json
+ITIS_5250,method,metadata extraction methods,Metadata Extraction Methods,1,verified,metadata extraction methods,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,Windows 10-11 file system,Windows 10-11 File System,1,verified,Windows 10-11 file system,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,timeline creation,Timeline Creation,1,verified,timeline creation,ITIS_5250_concepts_raw.json
+ITIS_5250,method,file carving techniques,File Carving Techniques,1,verified,file carving techniques,ITIS_5250_concepts_raw.json
+ITIS_5250,method,Windows artifact recovery,Windows Artifact Recovery,1,verified,Windows artifact recovery,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,Windows user tracking,Windows User Tracking,1,verified,Windows user tracking,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,iOS forensic analysis,iOS Forensic Analysis,1,verified,iOS forensic analysis,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,Android device imaging,Android Device Imaging,1,verified,Android device imaging,ITIS_5250_concepts_raw.json
+ITIS_5250,method,mobile data recovery,Mobile Data Recovery,1,verified,mobile data recovery,ITIS_5250_concepts_raw.json
+ITIS_5250,method,device encryption methods,Device Encryption Methods,1,verified,device encryption methods,ITIS_5250_concepts_raw.json
+ITIS_5250,method,iOS jailbreaking techniques,iOS Jailbreaking Techniques,1,verified,iOS jailbreaking techniques,ITIS_5250_concepts_raw.json
+ITIS_5250,method,Android rooting procedures,Android Rooting Procedures,1,verified,Android rooting procedures,ITIS_5250_concepts_raw.json
+ITIS_5250,method,mobile app tracking,Mobile App Tracking,1,verified,mobile app tracking,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,mobile device hierarchy,Mobile Device Hierarchy,1,verified,mobile device hierarchy,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,mobile device characteristics,Mobile Device Characteristics,1,verified,mobile device characteristics,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,device imaging techniques,Device Imaging Techniques,1,verified,device imaging techniques,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,data hiding methods,Data Hiding Methods,1,verified,data hiding methods,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,user tracking on mobiles,User Tracking on Mobiles,1,verified,user tracking on mobiles,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,memory forensics fundamentals,Memory Forensics Fundamentals,1,verified,memory forensics fundamentals,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,volatility tools and techniques,Volatility Tools and Techniques,1,verified,volatility tools and techniques,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,Windows memory analysis,Windows Memory Analysis,1,verified,Windows memory analysis,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,process tracking and identification,Process Tracking and Identification,1,verified,process tracking and identification,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,thread and process management,Thread and Process Management,1,verified,thread and process management,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,kernel mode data collection,Kernel Mode Data Collection,1,verified,kernel mode data collection,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,driver signature verification,Driver Signature Verification,1,verified,driver signature verification,ITIS_5250_concepts_raw.json
+ITIS_5250,method,memory dump acquisition methods,Memory Dump Acquisition Methods,1,verified,memory dump acquisition methods,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,volatile data recovery,Volatile Data Recovery,1,verified,volatile data recovery,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,digital forensics in incident response,Digital Forensics in Incident Response,2,verified,digital forensics in incident response,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,incident response process,Incident Response Process,1,verified,incident response process,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,evidence collection techniques,Evidence Collection Techniques,1,verified,evidence collection techniques,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,chain of custody,Chain of Custody,1,verified,chain of custody,ITIS_5250_concepts_raw.json
+ITIS_5250,concept,preservation of digital evidence,Preservation of Digital Evidence,1,verified,preservation of digital evidence,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,FTK Imager,FTK Imager,2,verified,FTK Imager,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,Arsenal Image Mounter,Arsenal Image Mounter,2,verified,Arsenal Image Mounter,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,Registry Explorer,Registry Explorer,2,verified,Registry Explorer,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,SIFT,SIFT,1,verified,SIFT,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,Autopsy,Autopsy,1,verified,Autopsy,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,Sleuthkit,Sleuthkit,1,verified,Sleuthkit,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,HxD,HxD,1,verified,HxD,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,iLEAPP/aLEAPP,iLEAPP/aLEAPP,1,verified,iLEAPP/aLEAPP,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,Bulk Extractor,Bulk Extractor,1,verified,Bulk Extractor,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,dcode,dcode,1,verified,dcode,ITIS_5250_concepts_raw.json
+ITIS_5250,tool,KAPE,KAPE,1,verified,KAPE,ITIS_5250_concepts_raw.json

@@ -1,0 +1,76 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ADMN_6161,topic,Principalship,Principalship,5,verified,The Principalship,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Leadership Foundations,Leadership Foundations,1,verified,Leadership Foundations,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Visionary Leadership & School,Visionary Leadership & School,2,verified,Visionary Leadership & School,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Reading Response,Reading Response,1,verified,Reading Response,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,School Culture,school culture,14,verified,School Culture,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Ethical Leadership & Decision- Case Study #1,Ethical Leadership & Decision- Case Study #1,1,verified,Ethical Leadership & Decision- Case Study #1,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Making,making,50,verified,Making,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Instructional Leadership & Teacher,Instructional Leadership & Teacher,2,verified,Instructional Leadership & Teacher,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Development,development,10,verified,Development,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,"Equity, Diversity & Inclusive","Equity, Diversity & Inclusive",1,verified,"Equity, Diversity & Inclusive",ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Case Study #2,Case Study #2,1,verified,Case Study #2,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Leadership,leadership,64,verified,Leadership,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,School Law & Policy,School Law & Policy,1,verified,School Law & Policy,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Interview Assigned,Interview Assigned,1,verified,Interview Assigned,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Data-Driven Leadership & Reflection #3,Data-Driven Leadership & Reflection #3,1,verified,Data-Driven Leadership & Reflection #3,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Accountability,accountability,4,verified,Accountability,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Communication & Community,Communication & Community,14,verified,Communication & Community,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Engagement,engagement,23,verified,Engagement,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Managing Conflict & Crisis,Managing Conflict & Crisis,1,verified,Managing Conflict & Crisis,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Case Study #3,Case Study #3,1,verified,Case Study #3,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Human Resources & Staff,Human Resources & Staff,1,verified,Human Resources & Staff,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,School,schools,4,verified,School,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Improvement Plan,Improvement Plan,2,verified,Improvement Plan,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Draft,Draft,1,verified,Draft,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Strategic Planning & Reflection #4,Strategic Planning & Reflection #4,1,verified,Strategic Planning & Reflection #4,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Organizational Leadership,Organizational Leadership,1,verified,Organizational Leadership,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Budgeting & Resource,Budgeting & Resource,1,verified,Budgeting & Resource,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Management,management,18,verified,Management,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Checkpoint,Checkpoint,1,verified,Checkpoint,ADMN_6161_concepts_raw.json
+ADMN_6161,topic,Future Trends in Educational,Future Trends in Educational,1,verified,Future Trends in Educational,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Instructional leadership,instructional leadership,27,verified,Instructional leadership,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Organizational management,Organizational Management,13,verified,Organizational management,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Ethical decision making,Ethical Decision Making,16,verified,Ethical decision making,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Strategic planning,strategic planning,29,verified,Strategic planning,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Effective communication,effective communication,26,verified,Effective communication,ADMN_6161_concepts_raw.json
+ADMN_6161,measure,Data-informed decision making,data-informed decision making,30,verified,Data-informed decision making,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Equitable learning environments,equitable learning environments,8,verified,Equitable learning environments,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Continuous school improvement,continuous school improvement,15,verified,Continuous school improvement,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Positive school culture,positive school culture,7,verified,Positive school culture,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Community engagement,community engagement,22,verified,Community engagement,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Human resource management,Human Resource Management,1,verified,Human resource management,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Staff development strategies,Staff Development Strategies,1,verified,Staff development strategies,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Principal-employee relationships,Principal-Employee Relationships,1,verified,Principal-employee relationships,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Teacher evaluation methods,Teacher Evaluation Methods,2,verified,Teacher evaluation methods,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Conflict resolution techniques,Conflict Resolution Techniques,1,verified,Conflict resolution techniques,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Diversity and inclusion,Diversity and Inclusion,2,verified,Diversity and inclusion,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Employee morale building,Employee Morale Building,1,verified,Employee morale building,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Staff retention practices,Staff Retention Practices,1,verified,Staff retention practices,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Leadership styles comparison,Leadership Styles Comparison,1,verified,Leadership styles comparison,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Improvement plan development,Improvement Plan Development,1,verified,Improvement plan development,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Strategic planning process,Strategic Planning Process,1,verified,Strategic planning process,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,Continuous improvement,continuous improvement,4,verified,Continuous improvement,ADMN_6161_concepts_raw.json
+ADMN_6161,concept,School culture development,School Culture Development,5,verified,School culture development,ADMN_6161_concepts_raw.json
+ADMN_6161,method,Analyze current educational issues,analyze current educational issues,1,verified,Analyze current educational issues,ADMN_6161_concepts_raw.json
+ADMN_6161,method,Apply research-based leadership practices,Apply research-based leadership practices,1,verified,Apply research-based leadership practices,ADMN_6161_concepts_raw.json
+ADMN_6161,method,Interpret multiple sources of school data,Interpret multiple sources of school data,1,verified,Interpret multiple sources of school data,ADMN_6161_concepts_raw.json
+ADMN_6161,method,Evaluate strategies that foster equitable educational opportunities,Evaluate strategies that foster equitable educational opportunities,1,verified,Evaluate strategies that foster equitable educational opportunities,ADMN_6161_concepts_raw.json
+ADMN_6161,method,Apply effective management practices,Apply effective management practices,1,verified,Apply effective management practices,ADMN_6161_concepts_raw.json
+ADMN_6161,method,Utilize professional communication skills,Utilize professional communication skills,1,verified,Utilize professional communication skills,ADMN_6161_concepts_raw.json
+ADMN_6161,method,Examine strategies for recruiting,Examine strategies for recruiting,1,verified,"Examine strategies for recruiting, developing, supervising, coaching, and evaluating faculty and staff",ADMN_6161_concepts_raw.json
+ADMN_6161,method,developing,developing,3,verified,"Examine strategies for recruiting, developing, supervising, coaching, and evaluating faculty and staff",ADMN_6161_concepts_raw.json
+ADMN_6161,method,supervising,supervising,1,verified,"Examine strategies for recruiting, developing, supervising, coaching, and evaluating faculty and staff",ADMN_6161_concepts_raw.json
+ADMN_6161,method,coaching,coaching,1,verified,"Examine strategies for recruiting, developing, supervising, coaching, and evaluating faculty and staff",ADMN_6161_concepts_raw.json
+ADMN_6161,method,evaluating faculty,evaluating faculty,1,verified,"Examine strategies for recruiting, developing, supervising, coaching, and evaluating faculty and staff",ADMN_6161_concepts_raw.json
+ADMN_6161,method,staff,staff,5,verified,"Examine strategies for recruiting, developing, supervising, coaching, and evaluating faculty and staff",ADMN_6161_concepts_raw.json
+ADMN_6161,method,Design evidence-based improvement initiatives,Design evidence-based improvement initiatives,1,verified,Design evidence-based improvement initiatives,ADMN_6161_concepts_raw.json
+ADMN_6161,method,Evaluate current issues affecting public education,Evaluate current issues affecting public education,1,verified,Evaluate current issues affecting public education,ADMN_6161_concepts_raw.json
+ADMN_6161,method,Assess personal leadership strengths and areas for growth,Assess personal leadership strengths and areas for growth,1,verified,Assess personal leadership strengths and areas for growth,ADMN_6161_concepts_raw.json
+ADMN_6161,measure,Accountability measures,Accountability Measures,1,verified,Accountability measures,ADMN_6161_concepts_raw.json
+ADMN_6161,measure,Principal's role in accountability,Principal's Role in Accountability,1,verified,Principal's role in accountability,ADMN_6161_concepts_raw.json
+ADMN_6161,measure,School performance metrics,School Performance Metrics,1,verified,School performance metrics,ADMN_6161_concepts_raw.json
+ADMN_6161,measure,Student achievement standards,Student Achievement Standards,1,verified,Student achievement standards,ADMN_6161_concepts_raw.json
+ADMN_6161,work,National Educational Leadership Preparation (NELP) Standards,National Educational Leadership Preparation (NELP) Standards,1,verified,National Educational Leadership Preparation (NELP) Standards,ADMN_6161_concepts_raw.json
+ADMN_6161,work,Professional Standards for Educational Leaders (PSEL 2015,Professional Standards for Educational Leaders (PSEL 2015,1,verified,Professional Standards for Educational Leaders (PSEL 2015),ADMN_6161_concepts_raw.json
+ADMN_6161,work,North Carolina Standards for School Executives (NCSSE,North Carolina Standards for School Executives (NCSSE,1,verified,North Carolina Standards for School Executives (NCSSE),ADMN_6161_concepts_raw.json

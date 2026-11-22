@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSCI_1101L,Army Basics,topic,PREREQUISITE_OF,Army Doctrine,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Army Basics,topic,PREREQUISITE_OF,Multidomain Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Army Basics,topic,PREREQUISITE_OF,Offensive Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Army Basics,topic,PREREQUISITE_OF,Defensive Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Army Basics,topic,PREREQUISITE_OF,Squad Tactics,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Analytical Techniques,topic,PREREQUISITE_OF,Multidomain Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Analytical Techniques,topic,PREREQUISITE_OF,Offensive Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Analytical Techniques,topic,PREREQUISITE_OF,Defensive Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Analytical Techniques,topic,PREREQUISITE_OF,Squad Tactics,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Creative Thinking,topic,PREREQUISITE_OF,Multidomain Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Creative Thinking,topic,PREREQUISITE_OF,Offensive Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Creative Thinking,topic,PREREQUISITE_OF,Defensive Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Creative Thinking,topic,PREREQUISITE_OF,Squad Tactics,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Army Doctrine,topic,PREREQUISITE_OF,Multidomain Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Army Doctrine,topic,PREREQUISITE_OF,Offensive Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Army Doctrine,topic,PREREQUISITE_OF,Defensive Operations,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Army Doctrine,topic,PREREQUISITE_OF,Squad Tactics,topic,A taught first,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Army Basics,topic,PART_OF,Army Doctrine,topic,,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Analytical Techniques,topic,PART_OF,Army Doctrine,topic,,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Creative Thinking,topic,PART_OF,Army Doctrine,topic,,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Multidomain Operations,topic,PART_OF,Army Doctrine,topic,,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Offensive Operations,topic,PART_OF,Army Doctrine,topic,,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Defensive Operations,topic,PART_OF,Army Doctrine,topic,,,MSCI_1101L_triples_raw.json
+MSCI_1101L,Squad Tactics,topic,PART_OF,Army Doctrine,topic,,,MSCI_1101L_triples_raw.json

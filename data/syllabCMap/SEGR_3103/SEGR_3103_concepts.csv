@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_3103,topic,Human System Interface,Human System Interface,1,verified,Human System Interface,SEGR_3103_concepts_raw.json
+SEGR_3103,topic,Computational Methods for Systems Engineering I,Computational Methods for Systems Engineering I,1,verified,Computational Methods for Systems Engineering I,SEGR_3103_concepts_raw.json
+SEGR_3103,topic,Airport and Airline Operations,Airport and Airline Operations,1,verified,Airport and Airline Operations,SEGR_3103_concepts_raw.json
+SEGR_3103,topic,SEGR,SEGR,4,verified,Introduction to SEGR,SEGR_3103_concepts_raw.json
+SEGR_3103,topic,Baggage Handling Fatigue,baggage handling fatigue,1,verified,Baggage Handling Fatigue,SEGR_3103_concepts_raw.json
+SEGR_3103,topic,Air Traffic Control Cognitive Load,air traffic control cognitive load,1,verified,Air Traffic Control Cognitive Load,SEGR_3103_concepts_raw.json
+SEGR_3103,topic,Ground Crew Physical Stress,ground crew physical stress,1,verified,Ground Crew Physical Stress,SEGR_3103_concepts_raw.json
+SEGR_3103,topic,Cockpit/Cabin Crew Psychosocial Factors,Cockpit/Cabin Crew Psychosocial Factors,1,verified,Cockpit/Cabin Crew Psychosocial Factors,SEGR_3103_concepts_raw.json
+SEGR_3103,concept,human-machine collaboration,human-machine collaboration,1,verified,human-machine collaboration,SEGR_3103_concepts_raw.json
+SEGR_3103,method,biomechanics,biomechanics,1,verified,biomechanics,SEGR_3103_concepts_raw.json
+SEGR_3103,method,physiology,physiology,1,verified,physiology,SEGR_3103_concepts_raw.json
+SEGR_3103,method,psychophysics,psychophysics,1,verified,psychophysics,SEGR_3103_concepts_raw.json

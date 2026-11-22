@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_4000,Numerical Model Analysis,topic,PREREQUISITE_OF,Graphic Design Fundamentals,topic,A taught first,,METR_4000_triples_raw.json
+METR_4000,Numerical Model Analysis,topic,PREREQUISITE_OF,On-Camera Presentation Skills,topic,A taught first,,METR_4000_triples_raw.json
+METR_4000,Numerical Model Analysis,topic,PREREQUISITE_OF,Social Media in Meteorology,topic,A taught first,,METR_4000_triples_raw.json
+METR_4000,Numerical Model Analysis,topic,PREREQUISITE_OF,Ethical Weather Reporting,topic,A taught first,,METR_4000_triples_raw.json
+METR_4000,Graphic Design Fundamentals,topic,PREREQUISITE_OF,On-Camera Presentation Skills,topic,A taught first,,METR_4000_triples_raw.json
+METR_4000,Graphic Design Fundamentals,topic,PREREQUISITE_OF,Social Media in Meteorology,topic,A taught first,,METR_4000_triples_raw.json
+METR_4000,Graphic Design Fundamentals,topic,PREREQUISITE_OF,Team-Based Broadcast Simulations,topic,A taught first,,METR_4000_triples_raw.json
+METR_4000,Social Media in Meteorology,topic,PREREQUISITE_OF,Ethical Weather Reporting,topic,A taught first,,METR_4000_triples_raw.json
+METR_4000,Ethical Weather Reporting,topic,PREREQUISITE_OF,Team-Based Broadcast Simulations,topic,A taught first,,METR_4000_triples_raw.json
+METR_4000,GFS model interpretation,concept,PART_OF,Numerical Model Analysis,topic,,,METR_4000_triples_raw.json
+METR_4000,ECMWF model analysis,concept,PART_OF,Numerical Model Analysis,topic,,,METR_4000_triples_raw.json
+METR_4000,Forecast accuracy metrics,measure,PART_OF,Numerical Model Analysis,topic,,,METR_4000_triples_raw.json
+METR_4000,Radar overlay creation,concept,PART_OF,Graphic Design Fundamentals,topic,,,METR_4000_triples_raw.json
+METR_4000,Severe weather alert design,concept,PART_OF,Graphic Design Fundamentals,topic,,,METR_4000_triples_raw.json
+METR_4000,Chroma key wall techniques,concept,PART_OF,On-Camera Presentation Skills,topic,,,METR_4000_triples_raw.json
+METR_4000,Video monitor integration,concept,PART_OF,On-Camera Presentation Skills,topic,,,METR_4000_triples_raw.json
+METR_4000,Audience engagement strategies,concept,PART_OF,On-Camera Presentation Skills,topic,,,METR_4000_triples_raw.json
+METR_4000,YouTube channel management,concept,PART_OF,Social Media in Meteorology,topic,,,METR_4000_triples_raw.json
+METR_4000,Uncertainty handling protocols,concept,PART_OF,Ethical Weather Reporting,topic,,,METR_4000_triples_raw.json
+METR_4000,Misinformation avoidance strategies,concept,PART_OF,Ethical Weather Reporting,topic,,,METR_4000_triples_raw.json
+METR_4000,Designing,method,USED_FOR,Graphic Design Fundamentals,topic,,,METR_4000_triples_raw.json
+METR_4000,Forecast accuracy metrics,measure,USED_FOR,Numerical Model Analysis,topic,,,METR_4000_triples_raw.json

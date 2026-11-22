@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSMG_6130,supply and demand,concept,PREREQUISITE_OF,business cycles,topic,A taught first,,MSMG_6130_triples_raw.json
+MSMG_6130,supply and demand,concept,PREREQUISITE_OF,exchange rates,topic,A taught first,,MSMG_6130_triples_raw.json
+MSMG_6130,supply and demand,concept,USED_FOR,behavior of firms and consumers,topic,,,MSMG_6130_triples_raw.json
+MSMG_6130,supply and demand,concept,USED_FOR,business cycles,topic,,,MSMG_6130_triples_raw.json

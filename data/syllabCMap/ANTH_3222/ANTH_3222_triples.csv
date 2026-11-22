@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_3222,biological and cultural health,concept,PREREQUISITE_OF,medical anthropology methods,concept,same unit,,ANTH_3222_triples_raw.json
+ANTH_3222,social determinants of health,concept,PREREQUISITE_OF,healthcare systems and access,concept,A taught first,,ANTH_3222_triples_raw.json
+ANTH_3222,infectious disease patterns,concept,PREREQUISITE_OF,global health disparities,concept,same unit,,ANTH_3222_triples_raw.json
+ANTH_3222,traditional medicine and practices,concept,PREREQUISITE_OF,alternative medicine and therapies,concept,A taught first,,ANTH_3222_triples_raw.json
+ANTH_3222,biological and cultural health,concept,PART_OF,medical anthropology methods,concept,,,ANTH_3222_triples_raw.json
+ANTH_3222,healing traditions and rituals,concept,PART_OF,healthcare systems and access,concept,,,ANTH_3222_triples_raw.json
+ANTH_3222,role of culture in illness,concept,PART_OF,healthcare systems and access,concept,,,ANTH_3222_triples_raw.json
+ANTH_3222,infectious disease patterns,concept,PART_OF,global health disparities,concept,,,ANTH_3222_triples_raw.json
+ANTH_3222,traditional medicine and practices,concept,PART_OF,alternative medicine and therapies,concept,,,ANTH_3222_triples_raw.json
+ANTH_3222,patient-healer relationship dynamics,concept,PART_OF,cultural competence in practice,concept,,,ANTH_3222_triples_raw.json
+ANTH_3222,religious beliefs and practices,concept,PART_OF,faith-based healthcare initiatives,concept,,,ANTH_3222_triples_raw.json
+ANTH_3222,ethnographic fieldwork techniques,method,USED_FOR,medical anthropology methods,concept,,,ANTH_3222_triples_raw.json
+ANTH_3222,data analysis and interpretation,method,USED_FOR,medical anthropology methods,concept,,,ANTH_3222_triples_raw.json
+ANTH_3222,effective communication strategies,method,USED_FOR,Cultural Competence in Interpersonal Communication,topic,,,ANTH_3222_triples_raw.json

@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETCE_3271,topic,Building Systems,Building Systems,1,verified,Building Systems,ETCE_3271_concepts_raw.json
+ETCE_3271,topic,"Mechanical and Electrical Systems in Architecture, Engineering, and Construction","Mechanical and Electrical Systems in Architecture, Engineering, and Construction",1,verified,"Mechanical and Electrical Systems in Architecture, Engineering, and Construction",ETCE_3271_concepts_raw.json
+ETCE_3271,topic,National Fire and Plumbing Codes,National Fire and Plumbing Codes,1,verified,National Fire and Plumbing Codes,ETCE_3271_concepts_raw.json
+ETCE_3271,topic,Heating and Cooling Systems,Heating and Cooling Systems,1,inferred,Heating and Cooling Systems,ETCE_3271_concepts_raw.json
+ETCE_3271,topic,Ventilation and Air Quality,Ventilation and Air Quality,1,inferred,Ventilation and Air Quality,ETCE_3271_concepts_raw.json
+ETCE_3271,topic,Plumbing Systems Fundamentals,Plumbing Systems Fundamentals,1,inferred,Plumbing Systems Fundamentals,ETCE_3271_concepts_raw.json
+ETCE_3271,topic,Electrical Systems in Buildings,Electrical Systems in Buildings,1,inferred,Electrical Systems in Buildings,ETCE_3271_concepts_raw.json
+ETCE_3271,topic,Fire Protection and Suppression,Fire Protection and Suppression,1,inferred,Fire Protection and Suppression,ETCE_3271_concepts_raw.json
+ETCE_3271,topic,System Design and Integration,System Design and Integration,1,inferred,System Design and Integration,ETCE_3271_concepts_raw.json
+ETCE_3271,topic,Case Studies and Final Project Preparation,Case Studies and Final Project Preparation,1,inferred,Case Studies and Final Project Preparation,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Building System Components,Building System Components,1,inferred,Building System Components,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,System Integration Principles,System Integration Principles,1,inferred,System Integration Principles,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Code Compliance Overview,Code Compliance Overview,1,inferred,Code Compliance Overview,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Heat Transfer Mechanisms,Heat Transfer Mechanisms,1,inferred,Heat Transfer Mechanisms,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Boiler and Chiller Operation,Boiler and Chiller Operation,1,inferred,Boiler and Chiller Operation,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,HVAC System Design,HVAC System Design,1,inferred,HVAC System Design,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Air Circulation Principles,Air Circulation Principles,1,inferred,Air Circulation Principles,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Indoor Air Quality Standards,Indoor Air Quality Standards,1,inferred,Indoor Air Quality Standards,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Ventilation System Types,Ventilation System Types,1,inferred,Ventilation System Types,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Water Supply Systems Design,Water Supply Systems Design,1,inferred,Water Supply Systems Design,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Drainage and Waste Management,Drainage and Waste Management,1,inferred,Drainage and Waste Management,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Plumbing Code Requirements,Plumbing Code Requirements,1,inferred,Plumbing Code Requirements,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Electrical Power Distribution,Electrical Power Distribution,1,inferred,Electrical Power Distribution,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Lighting System Design Principles,Lighting System Design Principles,1,inferred,Lighting System Design Principles,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Electrical Safety Codes,Electrical Safety Codes,1,inferred,Electrical Safety Codes,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Fire Hazards and Risks,Fire Hazards and Risks,1,inferred,Fire Hazards and Risks,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Fire Alarm and Detection Systems,Fire Alarm and Detection Systems,1,inferred,Fire Alarm and Detection Systems,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Fire Extinguishing Agents,Fire Extinguishing Agents,1,inferred,Fire Extinguishing Agents,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,NFPA Code Requirements,NFPA Code Requirements,1,inferred,NFPA Code Requirements,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,IBC and IFC Compliance,IBC and IFC Compliance,1,inferred,IBC and IFC Compliance,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Code Enforcement Procedures,Code Enforcement Procedures,1,inferred,Code Enforcement Procedures,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Building Information Modeling,Building Information Modeling,1,inferred,Building Information Modeling,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,System Performance Optimization,System Performance Optimization,1,inferred,System Performance Optimization,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Integration with Other Systems,Integration with Other Systems,1,inferred,Integration with Other Systems,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Real-World Building System Applications,Real-World Building System Applications,1,inferred,Real-World Building System Applications,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Design and Implementation Strategies,Design and Implementation Strategies,1,inferred,Design and Implementation Strategies,ETCE_3271_concepts_raw.json
+ETCE_3271,concept,Project Planning and Management,Project Planning and Management,1,inferred,Project Planning and Management,ETCE_3271_concepts_raw.json

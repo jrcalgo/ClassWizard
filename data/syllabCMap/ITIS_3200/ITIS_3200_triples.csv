@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_3200,security concepts and mechanisms,topic,PART_OF,security technologies,topic,,,ITIS_3200_triples_raw.json
+ITIS_3200,authentication mechanisms,topic,PART_OF,security technologies,topic,,,ITIS_3200_triples_raw.json
+ITIS_3200,intrusion detection and prevention,topic,PART_OF,security technologies,topic,,,ITIS_3200_triples_raw.json
+ITIS_3200,information systems assurance,topic,PART_OF,security technologies,topic,,,ITIS_3200_triples_raw.json
+ITIS_3200,malicious logic,topic,PART_OF,security technologies,topic,,,ITIS_3200_triples_raw.json
+ITIS_3200,network security,topic,PART_OF,security technologies,topic,,,ITIS_3200_triples_raw.json
+ITIS_3200,firewalls,topic,PART_OF,security technologies,topic,,,ITIS_3200_triples_raw.json

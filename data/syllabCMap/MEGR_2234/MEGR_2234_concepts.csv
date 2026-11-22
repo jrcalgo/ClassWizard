@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2234,topic,integral transforms,integral transforms,2,verified,integral transforms,MEGR_2234_concepts_raw.json
+MEGR_2234,concept,Fourier series,Fourier series,3,verified,Fourier series,MEGR_2234_concepts_raw.json
+MEGR_2234,topic,probability distributions,probability distributions,3,verified,probability distributions,MEGR_2234_concepts_raw.json
+MEGR_2234,topic,descriptive statistics,descriptive statistics,3,verified,descriptive statistics,MEGR_2234_concepts_raw.json
+MEGR_2234,topic,regression,regression,3,verified,regression,MEGR_2234_concepts_raw.json
+MEGR_2234,method,Apply complex numbers,Apply complex numbers,1,verified,Apply complex numbers and functions in engineering problems,MEGR_2234_concepts_raw.json
+MEGR_2234,method,functions in engineering problems,functions in engineering problems,1,verified,Apply complex numbers and functions in engineering problems,MEGR_2234_concepts_raw.json
+MEGR_2234,method,Understand,Understand,1,verified,"Understand and utilize Fourier series, Fourier transforms, and Laplace transforms in modeling signals and dynamic systems",MEGR_2234_concepts_raw.json
+MEGR_2234,method,utilize Fourier series,utilize Fourier series,1,verified,"Understand and utilize Fourier series, Fourier transforms, and Laplace transforms in modeling signals and dynamic systems",MEGR_2234_concepts_raw.json
+MEGR_2234,method,Fourier transforms,Fourier transforms,1,verified,"Understand and utilize Fourier series, Fourier transforms, and Laplace transforms in modeling signals and dynamic systems",MEGR_2234_concepts_raw.json
+MEGR_2234,method,Laplace transforms in modeling signals,Laplace transforms in modeling signals,1,verified,"Understand and utilize Fourier series, Fourier transforms, and Laplace transforms in modeling signals and dynamic systems",MEGR_2234_concepts_raw.json
+MEGR_2234,method,dynamic systems,dynamic systems,1,verified,"Understand and utilize Fourier series, Fourier transforms, and Laplace transforms in modeling signals and dynamic systems",MEGR_2234_concepts_raw.json
+MEGR_2234,method,Model and analyze different types of probability distributions,Model and analyze different types of probability distributions,1,verified,Model and analyze different types of probability distributions,MEGR_2234_concepts_raw.json
+MEGR_2234,method,Perform hypothesis and significance testing,Perform hypothesis and significance testing,1,verified,Perform hypothesis and significance testing,MEGR_2234_concepts_raw.json

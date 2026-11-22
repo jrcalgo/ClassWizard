@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_6271,topic,Public Health Data Analysis,Public Health Data Analysis,1,verified,Public Health Data Analysis,HLTH_6271_concepts_raw.json
+HLTH_6271,topic,Data,Data,2,verified,Introduction to Data,HLTH_6271_concepts_raw.json
+HLTH_6271,concept,measures of central tendency,measures of central tendency,1,verified,measures of central tendency,HLTH_6271_concepts_raw.json
+HLTH_6271,concept,measures of variability,measures of variability,1,verified,measures of variability,HLTH_6271_concepts_raw.json
+HLTH_6271,concept,types of data,types of data,1,verified,types of data,HLTH_6271_concepts_raw.json
+HLTH_6271,tool,R,R,2,verified,R,HLTH_6271_concepts_raw.json

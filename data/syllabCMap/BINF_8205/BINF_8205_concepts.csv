@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_8205,topic,Computational Molecular Evolution,Computational Molecular Evolution,1,verified,Computational Molecular Evolution,BINF_8205_concepts_raw.json
+BINF_8205,topic,Phylogenetics,phylogenetics,1,verified,Introduction to Phylogenetics,BINF_8205_concepts_raw.json
+BINF_8205,topic,Probability-Based Methods,probability-based methods,1,verified,Probability-Based Methods,BINF_8205_concepts_raw.json
+BINF_8205,tool,RAxML,RAxML,1,verified,RAxML,BINF_8205_concepts_raw.json
+BINF_8205,tool,MrBayes,MrBayes,1,verified,MrBayes,BINF_8205_concepts_raw.json
+BINF_8205,tool,R,R,1,verified,R,BINF_8205_concepts_raw.json

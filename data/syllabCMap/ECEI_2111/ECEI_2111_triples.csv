@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECEI_2111,Early Childhood Care and Education,topic,PREREQUISITE_OF,Theoretical Foundations of Early Childhood Care and Education,topic,B mentioned first,,ECEI_2111_triples_raw.json
+ECEI_2111,Child Development Theories,topic,PART_OF,Theoretical Foundations of Early Childhood Care and Education,topic,,,ECEI_2111_triples_raw.json
+ECEI_2111,Child and Family Studies,topic,PART_OF,Theoretical Foundations of Early Childhood Care and Education,topic,,,ECEI_2111_triples_raw.json
+ECEI_2111,Professional Roles and Responsibilities,topic,PART_OF,Theoretical Foundations of Early Childhood Care and Education,topic,,,ECEI_2111_triples_raw.json
+ECEI_2111,Contemporary Issues in ECE,topic,PART_OF,Theoretical Foundations of Early Childhood Care and Education,topic,,,ECEI_2111_triples_raw.json
+ECEI_2111,Developmentally Appropriate Practice,concept,USED_FOR,Best Practices in ECE,topic,,,ECEI_2111_triples_raw.json
+ECEI_2111,Inclusive Early Childhood Education,concept,USED_FOR,Best Practices in ECE,topic,,,ECEI_2111_triples_raw.json

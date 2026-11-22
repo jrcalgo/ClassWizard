@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_8119,topic,Applied Artificial Intelligence,Applied Artificial Intelligence,1,verified,Applied Artificial Intelligence,ECGR_8119_concepts_raw.json
+ECGR_8119,topic,Pattern Recognition and Machine Learning,Pattern Recognition and Machine Learning,3,verified,Pattern Recognition and Machine Learning,ECGR_8119_concepts_raw.json
+ECGR_8119,topic,Probability Theory,probability theory,2,verified,Probability Theory,ECGR_8119_concepts_raw.json
+ECGR_8119,topic,Deep Learning Frameworks,Deep Learning framework,1,verified,Deep Learning Frameworks,ECGR_8119_concepts_raw.json
+ECGR_8119,topic,Object Detection and Segmentation,object detection and segmentation,1,verified,Object Detection and Segmentation,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Advance DL frameworks,Advance DL frameworks,1,verified,Advance DL frameworks,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Bayesian Estimation,Bayesian estimation,1,verified,Bayesian Estimation,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Multi-Dimensional Gaussian Distribution,multi-dimensional Gaussian distribution,1,verified,Multi-Dimensional Gaussian Distribution,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Decision Making,decision making,3,verified,Decision Making,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Review of Deep Learning,Review of Deep Learning,1,verified,Review of Deep Learning,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,CNN Basics,CNN Basics,1,verified,CNN Basics,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Optimizers,Optimizers,1,verified,Optimizers,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Loss Functions,Loss Functions,1,verified,Loss Functions,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Machine Vision,machine vision,2,verified,Machine Vision,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Object Detection,object detection,1,verified,Object Detection,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Segmentation,segmentation,2,verified,Segmentation,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Clustering,Clustering,1,verified,Clustering,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Convolutional Neural Networks,Convolutional neural networks,1,verified,Convolutional Neural Networks,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Representation Learning,Representation learning,1,verified,Representation Learning,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Multi-Task Learning,multi-task learning,1,verified,Multi-Task Learning,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Recurrent Neural Network,recurrent neural network,1,verified,Recurrent Neural Network,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,LSTM,LSTM,1,verified,LSTM,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Transformers,Transformers,1,verified,Transformers,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Autoencoders,Autoencoders,1,verified,Autoencoders,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,GANs,GANs,1,verified,GANs,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Generative AI,Generative AI,1,verified,Generative AI,ECGR_8119_concepts_raw.json
+ECGR_8119,concept,Ethics in AI,Ethics in AI,1,verified,Ethics in AI,ECGR_8119_concepts_raw.json
+ECGR_8119,tool,MATLAB,MATLAB,1,verified,MATLAB,ECGR_8119_concepts_raw.json
+ECGR_8119,tool,Python,Python,1,verified,Python,ECGR_8119_concepts_raw.json
+ECGR_8119,tool,Tensorflow,Tensorflow,1,verified,Tensorflow,ECGR_8119_concepts_raw.json
+ECGR_8119,tool,Pytorch,Pytorch,1,verified,Pytorch,ECGR_8119_concepts_raw.json

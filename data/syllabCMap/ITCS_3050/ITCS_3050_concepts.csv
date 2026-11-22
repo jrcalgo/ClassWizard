@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_3050,topic,iOS development,iOS development,2,verified,iOS development,ITCS_3050_concepts_raw.json
+ITCS_3050,concept,Swift Programming,Swift programming,5,verified,Swift Programming,ITCS_3050_concepts_raw.json
+ITCS_3050,topic,app development with UIKIt,app development with UIKIt,1,verified,app development with UIKIt,ITCS_3050_concepts_raw.json
+ITCS_3050,concept,View Controllers,View Controllers,4,verified,View Controllers,ITCS_3050_concepts_raw.json
+ITCS_3050,topic,model-view-controller architecture (MVC,model-view-controller architecture (MVC,1,verified,model-view-controller architecture (MVC),ITCS_3050_concepts_raw.json
+ITCS_3050,concept,Data Modeling,data modeling,4,verified,Data Modeling,ITCS_3050_concepts_raw.json
+ITCS_3050,concept,Error Handling,error handling,4,verified,Error Handling,ITCS_3050_concepts_raw.json
+ITCS_3050,topic,developing engaging User Interfaces (UI,developing engaging User Interfaces (UI,1,verified,developing engaging User Interfaces (UI),ITCS_3050_concepts_raw.json
+ITCS_3050,concept,UIKIt App Development,UIKIt App Development,3,verified,UIKIt App Development,ITCS_3050_concepts_raw.json
+ITCS_3050,concept,MVC Architecture,MVC Architecture,3,verified,MVC Architecture,ITCS_3050_concepts_raw.json
+ITCS_3050,tool,Xcode IDE,Xcode IDE,1,verified,Xcode IDE,ITCS_3050_concepts_raw.json
+ITCS_3050,tool,Swift programming language,Swift programming language,1,verified,Swift programming language,ITCS_3050_concepts_raw.json

@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_4141,topic,Digital Manufacturing Methods,Digital Manufacturing Methods,1,verified,Digital Manufacturing Methods,ETEM_4141_concepts_raw.json
+ETEM_4141,topic,Manufacturing,Manufacturing,3,verified,Introduction to Manufacturing,ETEM_4141_concepts_raw.json
+ETEM_4141,topic,Additive Manufacturing Fundamentals,Additive Manufacturing Fundamentals,1,inferred,Additive Manufacturing Fundamentals,ETEM_4141_concepts_raw.json
+ETEM_4141,topic,Subtractive Manufacturing Techniques,Subtractive Manufacturing Techniques,1,inferred,Subtractive Manufacturing Techniques,ETEM_4141_concepts_raw.json
+ETEM_4141,topic,Manufacturing Process Evaluation,Manufacturing Process Evaluation,1,inferred,Manufacturing Process Evaluation,ETEM_4141_concepts_raw.json
+ETEM_4141,topic,Additive Manufacturing Workflow,Additive Manufacturing Workflow,1,inferred,Additive Manufacturing Workflow,ETEM_4141_concepts_raw.json
+ETEM_4141,topic,Subtractive Manufacturing Workflow,Subtractive Manufacturing Workflow,1,inferred,Subtractive Manufacturing Workflow,ETEM_4141_concepts_raw.json
+ETEM_4141,topic,Materials for Additive/Subtractive,Materials for Additive/Subtractive,1,inferred,Materials for Additive/Subtractive,ETEM_4141_concepts_raw.json
+ETEM_4141,topic,Case Studies in Digital Manufacturing,Case Studies in Digital Manufacturing,1,inferred,Case Studies in Digital Manufacturing,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,manufacturing process overview,Manufacturing Process Overview,1,inferred,manufacturing process overview,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,product life cycle stages,Product Life Cycle Stages,1,inferred,product life cycle stages,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,design for manufacturability,Design for Manufacturability,1,inferred,design for manufacturability,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,3D printing technologies,3D Printing Technologies,1,inferred,3D printing technologies,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,material selection criteria,Material Selection Criteria,1,inferred,material selection criteria,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,layer formation process,Layer Formation Process,1,inferred,layer formation process,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,milling machine operations,Milling Machine Operations,1,inferred,milling machine operations,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,laser cutting principles,Laser Cutting Principles,1,inferred,laser cutting principles,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,drilling and tapping methods,Drilling and Tapping Methods,1,inferred,drilling and tapping methods,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,process selection criteria,Process Selection Criteria,1,inferred,process selection criteria,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,economic analysis factors,Economic Analysis Factors,1,inferred,economic analysis factors,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,environmental impact assessment,Environmental Impact Assessment,1,inferred,environmental impact assessment,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,design for additive manufacturing,Design for Additive Manufacturing,1,inferred,design for additive manufacturing,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,slicing and layer formation,Slicing and Layer Formation,1,inferred,slicing and layer formation,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,post-processing techniques,Post-processing Techniques,1,inferred,post-processing techniques,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,tooling and fixture design,Tooling and Fixture Design,1,inferred,tooling and fixture design,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,material removal strategies,Material Removal Strategies,1,inferred,material removal strategies,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,quality control measures,Quality Control Measures,1,inferred,quality control measures,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,material properties comparison,Material Properties Comparison,1,inferred,material properties comparison,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,material selection guidelines,Material Selection Guidelines,1,inferred,material selection guidelines,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,material formulation techniques,Material Formulation Techniques,1,inferred,material formulation techniques,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,industry applications overview,Industry Applications Overview,1,inferred,industry applications overview,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,product design and development,Product Design and Development,1,inferred,product design and development,ETEM_4141_concepts_raw.json
+ETEM_4141,concept,manufacturing process optimization,Manufacturing Process Optimization,1,inferred,manufacturing process optimization,ETEM_4141_concepts_raw.json

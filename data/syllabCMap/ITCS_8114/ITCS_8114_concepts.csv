@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_8114,topic,Algorithms and Data Structures,Algorithms and Data Structures,1,verified,Algorithms and Data Structures,ITCS_8114_concepts_raw.json
+ITCS_8114,topic,Algorithms,Algorithms,8,verified,Introduction to Algorithms,ITCS_8114_concepts_raw.json
+ITCS_8114,topic,Recursion and Induction,recursion and induction,2,verified,Recursion and Induction,ITCS_8114_concepts_raw.json
+ITCS_8114,topic,Dynamic Programming,dynamic programming,2,verified,Dynamic Programming,ITCS_8114_concepts_raw.json
+ITCS_8114,topic,Graph Algorithms,graph algorithms,2,verified,Graph Algorithms,ITCS_8114_concepts_raw.json
+ITCS_8114,concept,Time and Space Complexity,time and space complexities,2,verified,Time and Space Complexity,ITCS_8114_concepts_raw.json

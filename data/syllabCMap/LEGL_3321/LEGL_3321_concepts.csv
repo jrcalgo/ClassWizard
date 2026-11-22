@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LEGL_3321,topic,Criminal Justice System,criminal justice system,1,verified,Criminal Justice System,LEGL_3321_concepts_raw.json
+LEGL_3321,topic,Arrest to Appeal,arrest to appeal,1,verified,Arrest to Appeal,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Miranda Rights and Warnings,Miranda Rights and Warnings,1,inferred,Miranda Rights and Warnings,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Probable Cause and Reasonable Suspicion,Probable Cause and Reasonable Suspicion,1,inferred,Probable Cause and Reasonable Suspicion,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Search and Seizure Laws,Search and Seizure Laws,1,inferred,Search and Seizure Laws,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Felony vs Misdemeanor Charges,Felony vs Misdemeanor Charges,1,inferred,Felony vs Misdemeanor Charges,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Grand Jury Process and Indictment,Grand Jury Process and Indictment,1,inferred,Grand Jury Process and Indictment,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Prosecutorial Discretion and Plea Bargaining,Prosecutorial Discretion and Plea Bargaining,1,inferred,Prosecutorial Discretion and Plea Bargaining,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Bail and Pre-Trial Release,Bail and Pre-Trial Release,1,inferred,Bail and Pre-Trial Release,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Discovery and Disclosure Rules,Discovery and Disclosure Rules,1,inferred,Discovery and Disclosure Rules,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Witness Protection and Subpoenas,Witness Protection and Subpoenas,1,inferred,Witness Protection and Subpoenas,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Burden of Proof and Presumption,Burden of Proof and Presumption,1,inferred,Burden of Proof and Presumption,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Types of Evidence and Admissibility,Types of Evidence and Admissibility,1,inferred,Types of Evidence and Admissibility,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Jury Selection and Instructions,Jury Selection and Instructions,1,inferred,Jury Selection and Instructions,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Determinate vs Indeterminate Sentences,Determinate vs Indeterminate Sentences,1,inferred,Determinate vs Indeterminate Sentences,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Parole and Probation Laws,Parole and Probation Laws,1,inferred,Parole and Probation Laws,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Restorative Justice and Rehabilitation,Restorative Justice and Rehabilitation,1,inferred,Restorative Justice and Rehabilitation,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Direct Appeal Process and Procedure,Direct Appeal Process and Procedure,1,inferred,Direct Appeal Process and Procedure,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Post-Conviction Relief and Habeas Corpus,Post-Conviction Relief and Habeas Corpus,1,inferred,Post-Conviction Relief and Habeas Corpus,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Clemency and Executive Pardon,Clemency and Executive Pardon,1,inferred,Clemency and Executive Pardon,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Criminal Justice System Overview,Criminal Justice System Overview,1,inferred,Criminal Justice System Overview,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Role of Law Enforcement,Role of Law Enforcement,1,inferred,Role of Law Enforcement,LEGL_3321_concepts_raw.json
+LEGL_3321,concept,Justice System Structure,Justice System Structure,1,inferred,Justice System Structure,LEGL_3321_concepts_raw.json

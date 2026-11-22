@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2240,topic,Computational Methods for Engineers,Computational Methods for Engineer,1,verified,Computational Methods for Engineers,MEGR_2240_concepts_raw.json
+MEGR_2240,topic,Automated engineering analysis and synthesis techniques,Automated engineering analysis and synthesis techniques,1,verified,Automated engineering analysis and synthesis techniques,MEGR_2240_concepts_raw.json
+MEGR_2240,concept,data representation,data representation,1,verified,data representation,MEGR_2240_concepts_raw.json
+MEGR_2240,concept,computing languages,computing languages,1,verified,computing languages,MEGR_2240_concepts_raw.json
+MEGR_2240,concept,numerical methods,Numerical Methods,3,verified,numerical methods,MEGR_2240_concepts_raw.json
+MEGR_2240,concept,linear algebra,linear algebra,1,verified,linear algebra,MEGR_2240_concepts_raw.json
+MEGR_2240,method,program development,Program development,1,verified,program development,MEGR_2240_concepts_raw.json
+MEGR_2240,method,debugging practices,debugging practices,1,verified,debugging practices,MEGR_2240_concepts_raw.json
+MEGR_2240,tool,MATLAB,MATLAB,2,verified,MATLAB,MEGR_2240_concepts_raw.json

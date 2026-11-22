@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_2360,consequentialism theory,concept,PREREQUISITE_OF,formalism approach,concept,same unit,,CJUS_2360_triples_raw.json
+CJUS_2360,inductive logic,concept,PREREQUISITE_OF,syllogistic reasoning,concept,B taught first,B is taught before A - check,CJUS_2360_triples_raw.json
+CJUS_2360,deductive logic,method,PREREQUISITE_OF,syllogistic reasoning,concept,B taught first,B is taught before A - check,CJUS_2360_triples_raw.json
+CJUS_2360,moral accountability,concept,PART_OF,moral philosophy,concept,,,CJUS_2360_triples_raw.json
+CJUS_2360,integrity-based thought,concept,PART_OF,moral philosophy,concept,,,CJUS_2360_triples_raw.json
+CJUS_2360,formalism approach,concept,PART_OF,Ethics & The Criminal Justice System,topic,,,CJUS_2360_triples_raw.json
+CJUS_2360,consequentialism theory,concept,PART_OF,Ethics & The Criminal Justice System,topic,,,CJUS_2360_triples_raw.json
+CJUS_2360,virtue ethics concept,concept,PART_OF,Ethics & The Criminal Justice System,topic,,,CJUS_2360_triples_raw.json
+CJUS_2360,pragmatism approach,concept,PART_OF,Ethics & The Criminal Justice System,topic,,,CJUS_2360_triples_raw.json
+CJUS_2360,inductive logic,concept,PART_OF,syllogistic reasoning,concept,,,CJUS_2360_triples_raw.json
+CJUS_2360,deductive logic,method,PART_OF,syllogistic reasoning,concept,,,CJUS_2360_triples_raw.json
+CJUS_2360,consequentialism theory,concept,SUBTYPE_OF,formalism approach,concept,,,CJUS_2360_triples_raw.json
+CJUS_2360,virtue ethics concept,concept,SUBTYPE_OF,pragmatism approach,concept,,,CJUS_2360_triples_raw.json
+CJUS_2360,integrity-based thought,concept,SUBTYPE_OF,moral philosophy,concept,,,CJUS_2360_triples_raw.json
+CJUS_2360,deductive logic,method,USED_FOR,syllogistic reasoning,concept,,,CJUS_2360_triples_raw.json
+CJUS_2360,inductive logic,concept,USED_FOR,syllogistic reasoning,concept,,,CJUS_2360_triples_raw.json

@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_6104,Acculturation Process Overview,concept,PREREQUISITE_OF,Challenges of Cultural Assimilation,concept,same unit,,ENGL_6104_triples_raw.json
+ENGL_6104,Concepts of Citizenship and Identity,concept,PREREQUISITE_OF,Belonging and Exclusion Narratives,concept,same unit,,ENGL_6104_triples_raw.json
+ENGL_6104,Critical Theory Applications,concept,PREREQUISITE_OF,Postcolonial and Poststructuralist Views,concept,same unit,,ENGL_6104_triples_raw.json
+ENGL_6104,Close Reading Techniques,method,USED_FOR,Migration Experience Narratives,concept,,,ENGL_6104_triples_raw.json
+ENGL_6104,Argumentation and Evidence-Based Claims,method,USED_FOR,Concepts of Citizenship and Identity,concept,,,ENGL_6104_triples_raw.json
+ENGL_6104,Effective Presentation Skills,method,USED_FOR,Children's Rights and Responsibilities,concept,,,ENGL_6104_triples_raw.json
+ENGL_6104,Citation and Reference Management,method,USED_FOR,Abstract Writing Guidelines,concept,,,ENGL_6104_triples_raw.json
+ENGL_6104,Seminar Presentation Preparation,method,USED_FOR,Audience Engagement and Feedback,concept,,,ENGL_6104_triples_raw.json

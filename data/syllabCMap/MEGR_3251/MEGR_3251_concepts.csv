@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3251,topic,Thermodynamics,thermodynamics,2,verified,Thermodynamics,MEGR_3251_concepts_raw.json
+MEGR_3251,topic,Fluid Mechanics,fluid mechanics,2,verified,Fluid Mechanics,MEGR_3251_concepts_raw.json
+MEGR_3251,topic,Heat Transfer,heat transfer,2,verified,Heat Transfer,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Thorough Lab Notebooks,thorough lab notebook,1,verified,Thorough Lab Notebooks,MEGR_3251_concepts_raw.json
+MEGR_3251,topic,Lab Notebook Basics,Lab Notebook Basics,1,inferred,Lab Notebook Basics,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Bernoulli's Principle Application,Bernoulli's Principle Application,1,inferred,Bernoulli's Principle Application,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Pressure and Velocity Measurement,Pressure and Velocity Measurement,1,inferred,Pressure and Velocity Measurement,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Flow Rate Calculations,Flow Rate Calculations,1,inferred,Flow Rate Calculations,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Conduction Heat Transfer,Conduction Heat Transfer,1,inferred,Conduction Heat Transfer,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Radiation Heat Transfer,Radiation Heat Transfer,1,inferred,Radiation Heat Transfer,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Convective Heat Transfer,Convective Heat Transfer,1,inferred,Convective Heat Transfer,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Ideal Gas Law Application,Ideal Gas Law Application,1,inferred,Ideal Gas Law Application,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Entropy and Enthalpy Changes,Entropy and Enthalpy Changes,1,inferred,Entropy and Enthalpy Changes,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Carnot Cycle Analysis,Carnot Cycle Analysis,1,inferred,Carnot Cycle Analysis,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Refrigeration Cycles Overview,Refrigeration Cycles Overview,1,inferred,Refrigeration Cycles Overview,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Compressor and Condenser Function,Compressor and Condenser Function,1,inferred,Compressor and Condenser Function,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Thermal Efficiency Calculations,Thermal Efficiency Calculations,1,inferred,Thermal Efficiency Calculations,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Error Analysis and Propagation,Error Analysis and Propagation,1,inferred,Error Analysis and Propagation,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Graphical Data Representation,Graphical Data Representation,1,inferred,Graphical Data Representation,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Statistical Analysis Methods,Statistical Analysis Methods,1,inferred,Statistical Analysis Methods,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Experiment Design Principles,Experiment Design Principles,1,inferred,Experiment Design Principles,MEGR_3251_concepts_raw.json
+MEGR_3251,concept,Data Collection Techniques,Data Collection Techniques,1,inferred,Data Collection Techniques,MEGR_3251_concepts_raw.json

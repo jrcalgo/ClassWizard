@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_3201,major theories of motivation,topic,PREREQUISITE_OF,homeostasis and basic drives,topic,A taught first,,PSYC_3201_triples_raw.json
+PSYC_3201,major theories of motivation,topic,PREREQUISITE_OF,Stress and Coping,topic,A taught first,,PSYC_3201_triples_raw.json
+PSYC_3201,major theories of motivation,topic,PREREQUISITE_OF,Addiction and Reward,topic,A taught first,,PSYC_3201_triples_raw.json
+PSYC_3201,major theories of motivation,topic,PREREQUISITE_OF,Goal Setting and Self-Regulation,topic,A taught first,,PSYC_3201_triples_raw.json

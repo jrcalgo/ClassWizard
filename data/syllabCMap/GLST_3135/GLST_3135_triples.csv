@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_3135,Colonialism's impact on power dynamics,concept,PREREQUISITE_OF,Global economic interdependence,concept,same unit,,GLST_3135_triples_raw.json
+GLST_3135,European colonization of Africa,concept,PREREQUISITE_OF,Resistance movements in Africa,concept,same unit,,GLST_3135_triples_raw.json
+GLST_3135,Using primary sources effectively,concept,PREREQUISITE_OF,Analyzing colonial documents,concept,same unit,,GLST_3135_triples_raw.json
+GLST_3135,Conquest and Colonialism in Africa,topic,PART_OF,Structural Origins of Global Interdependence,topic,,,GLST_3135_triples_raw.json
+GLST_3135,Colonialism in Asia and the Americas,topic,PART_OF,Structural Origins of Global Interdependence,topic,,,GLST_3135_triples_raw.json
+GLST_3135,Primary Sources in Colonial History,topic,PART_OF,Secondary Sources and Theories,topic,,,GLST_3135_triples_raw.json
+GLST_3135,Interpreting historical evidence,concept,PART_OF,Using primary sources effectively,concept,,,GLST_3135_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_3119,Root Causes of Conflict,concept,PREREQUISITE_OF,Economic Factors in Conflict,concept,same unit,,GLST_3119_triples_raw.json
+GLST_3119,Root Causes of Conflict,concept,PREREQUISITE_OF,Social and Cultural Factors,concept,same unit,,GLST_3119_triples_raw.json
+GLST_3119,Humanitarian Law,concept,PREREQUISITE_OF,Protection of Civilians in Conflict,concept,same unit,,GLST_3119_triples_raw.json
+GLST_3119,Diplomacy and Negotiation Techniques,concept,PREREQUISITE_OF,Mediation and Arbitration Processes,concept,same unit,,GLST_3119_triples_raw.json
+GLST_3119,Humanitarian Law,concept,USED_FOR,Protection of Civilians in Conflict,concept,,,GLST_3119_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_2230,field experiences,method,PART_OF,Wilderness Experience,topic,,,KNES_2230_triples_raw.json
+KNES_2230,weekend backpacking trips,method,PART_OF,Wilderness Experience,topic,,,KNES_2230_triples_raw.json
+KNES_2230,field experiences,method,USED_FOR,Wilderness Experience,topic,,,KNES_2230_triples_raw.json
+KNES_2230,weekend backpacking trips,method,USED_FOR,Wilderness Experience,topic,,,KNES_2230_triples_raw.json

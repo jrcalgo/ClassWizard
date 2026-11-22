@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_6120,Logical and Analytic Methods,topic,PREREQUISITE_OF,Conceptual and Linguistic Methods,topic,A taught first,,PHIL_6120_triples_raw.json
+PHIL_6120,Logical and Analytic Methods,topic,PREREQUISITE_OF,Applied Philosophy and Methodology,topic,A taught first,,PHIL_6120_triples_raw.json
+PHIL_6120,Conceptual and Linguistic Methods,topic,PREREQUISITE_OF,Deconstructive and Poststructuralist Methods,topic,A taught first,,PHIL_6120_triples_raw.json
+PHIL_6120,Conceptual and Linguistic Methods,topic,PREREQUISITE_OF,Applied Philosophy and Methodology,topic,A taught first,,PHIL_6120_triples_raw.json
+PHIL_6120,Subjective Experience and Intentionality,concept,PART_OF,Phenomenological and Existential Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Phenomenology and Consciousness Studies,concept,PART_OF,Phenomenological and Existential Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Feminist Epistemology and Methodology,concept,PART_OF,Feminist and Critical Theory Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Critical Theory and Social Justice,concept,PART_OF,Feminist and Critical Theory Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Intersectionality and Power Dynamics,concept,PART_OF,Feminist and Critical Theory Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Concept Formation and Analysis,concept,PART_OF,Conceptual and Linguistic Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Linguistic Philosophy and Semantics,concept,PART_OF,Conceptual and Linguistic Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Meaning and Reference in Language,concept,PART_OF,Conceptual and Linguistic Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Textual Analysis and Deconstruction,concept,PART_OF,Deconstructive and Poststructuralist Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Poststructuralism and Social Construction,concept,PART_OF,Deconstructive and Poststructuralist Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Power Dynamics and Discourse Analysis,concept,PART_OF,Deconstructive and Poststructuralist Methods,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Philosophy in Practice and Application,concept,PART_OF,Applied Philosophy and Methodology,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Methodological Pluralism in Applied Philosophy,concept,PART_OF,Applied Philosophy and Methodology,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Critical Thinking and Problem-Solving,concept,PART_OF,Critical Thinking and Analysis,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Philosophical Debate and Critical Engagement,concept,PART_OF,Philosophical Debate and Discussion,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Effective Communication in Philosophy,concept,PART_OF,Philosophical Debate and Discussion,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Decision-Making and Ethical Reasoning,concept,PART_OF,Origination of Arguments and Decisions,topic,,,PHIL_6120_triples_raw.json
+PHIL_6120,Phenomenology and Consciousness Studies,concept,USED_FOR,Subjective Experience and Intentionality,concept,,,PHIL_6120_triples_raw.json
+PHIL_6120,Textual Analysis and Deconstruction,concept,USED_FOR,Power Dynamics and Discourse Analysis,concept,,,PHIL_6120_triples_raw.json

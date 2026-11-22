@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_2120L,pipetting,method,USED_FOR,western blotting,method,,,BIOL_2120L_triples_raw.json

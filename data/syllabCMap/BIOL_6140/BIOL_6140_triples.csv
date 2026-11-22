@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_6140,Natural Selection,concept,PREREQUISITE_OF,Adaptation mechanisms,concept,A taught first,,BIOL_6140_triples_raw.json
+BIOL_6140,Natural Selection,concept,PREREQUISITE_OF,Evolutionary Change Drivers,concept,A taught first,,BIOL_6140_triples_raw.json
+BIOL_6140,Phylogenetic trees,concept,PREREQUISITE_OF,Phylogenetic Tree Construction,concept,same unit,,BIOL_6140_triples_raw.json
+BIOL_6140,Maximum likelihood estimation,concept,PREREQUISITE_OF,Maximum likelihood,concept,same unit,,BIOL_6140_triples_raw.json
+BIOL_6140,Molecular clock hypothesis,concept,PREREQUISITE_OF,Molecular Clock Theory,concept,B taught first,B is taught before A - check,BIOL_6140_triples_raw.json
+BIOL_6140,Mutation Rate,concept,PREREQUISITE_OF,Genetic Drift,concept,same unit,,BIOL_6140_triples_raw.json
+BIOL_6140,Neutral Theory,concept,PREREQUISITE_OF,Selection Pressure,concept,same unit,,BIOL_6140_triples_raw.json
+BIOL_6140,Natural Selection,concept,PREREQUISITE_OF,Evolutionary Change,concept,A taught first,,BIOL_6140_triples_raw.json
+BIOL_6140,Phylogenetic trees,concept,PREREQUISITE_OF,Phylogenetic Inference,concept,A taught first,,BIOL_6140_triples_raw.json
+BIOL_6140,Maximum likelihood estimation,concept,PREREQUISITE_OF,Model selection criteria,concept,same unit,,BIOL_6140_triples_raw.json
+BIOL_6140,Eusociality Evolution,concept,SUBTYPE_OF,Individuality Evolution,concept,,,BIOL_6140_triples_raw.json
+BIOL_6140,Phylogenetic trees,concept,USED_FOR,Phylogenetic Tree Construction,concept,,,BIOL_6140_triples_raw.json
+BIOL_6140,Maximum likelihood estimation,concept,USED_FOR,Maximum likelihood,concept,,,BIOL_6140_triples_raw.json
+BIOL_6140,Molecular clock hypothesis,concept,USED_FOR,Molecular Clock Theory,concept,,,BIOL_6140_triples_raw.json

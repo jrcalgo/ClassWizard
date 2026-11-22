@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_6219,ARCH,topic,PREREQUISITE_OF,GARCH,topic,same unit,,FINN_6219_triples_raw.json
+FINN_6219,Stationary,topic,SUBTYPE_OF,Time Series Analysis,topic,,,FINN_6219_triples_raw.json
+FINN_6219,ARCH,topic,SUBTYPE_OF,GARCH,topic,,,FINN_6219_triples_raw.json

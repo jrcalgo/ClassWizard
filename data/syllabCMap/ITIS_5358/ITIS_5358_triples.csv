@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5358,2D and 3D modeling approaches,concept,PREREQUISITE_OF,foundational 2D modeling,concept,same unit,,ITIS_5358_triples_raw.json
+ITIS_5358,digital fabrication,method,PREREQUISITE_OF,subtractive digital fabrication,concept,same unit,,ITIS_5358_triples_raw.json
+ITIS_5358,simulation for embedded computing design,concept,PREREQUISITE_OF,Programming for Embedded Computing,topic,same unit,,ITIS_5358_triples_raw.json
+ITIS_5358,Arduino,tool,PREREQUISITE_OF,small computing systems and programming,method,A mentioned first,,ITIS_5358_triples_raw.json
+ITIS_5358,2D and 3D modeling approaches,concept,PART_OF,digital design,method,,part is broader than whole - check direction,ITIS_5358_triples_raw.json
+ITIS_5358,subtractive digital fabrication,concept,PART_OF,digital fabrication,method,,part is broader than whole - check direction,ITIS_5358_triples_raw.json
+ITIS_5358,simulation for embedded computing design,concept,PART_OF,Programming for Embedded Computing,topic,,,ITIS_5358_triples_raw.json
+ITIS_5358,user experience design for tangible computing systems,method,PART_OF,Tangible Interaction Design,topic,,,ITIS_5358_triples_raw.json
+ITIS_5358,subtractive digital fabrication,concept,SUBTYPE_OF,digital fabrication,method,,,ITIS_5358_triples_raw.json
+ITIS_5358,laser cutting,tool,SUBTYPE_OF,subtractive digital fabrication,concept,,,ITIS_5358_triples_raw.json
+ITIS_5358,Computer Numerical Control (CNC) techniques,tool,SUBTYPE_OF,digital fabrication,method,,,ITIS_5358_triples_raw.json

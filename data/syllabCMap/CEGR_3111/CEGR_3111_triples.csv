@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3111,"Earthwork QTO Methods, Estimating Labor and Equipment Costs",topic,PART_OF,Construction Engineering,topic,,,CEGR_3111_triples_raw.json
+CEGR_3111,Revit,tool,PART_OF,Construction Engineering,topic,,,CEGR_3111_triples_raw.json
+CEGR_3111,"Resource Leveling ,& Impact of Scheduling Decisions",topic,PART_OF,Construction Engineering,topic,,,CEGR_3111_triples_raw.json

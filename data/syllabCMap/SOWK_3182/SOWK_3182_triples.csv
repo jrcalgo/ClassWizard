@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_3182,Generalist social work practice,concept,PART_OF,Social Work Practice w/Families & Groups,topic,,,SOWK_3182_triples_raw.json
+SOWK_3182,Socially just practice in groups,concept,PART_OF,Group Social Work Practice,topic,,,SOWK_3182_triples_raw.json
+SOWK_3182,Principles of group work theory,concept,PART_OF,Group Social Work Practice,topic,,,SOWK_3182_triples_raw.json
+SOWK_3182,Building relationships with group members,concept,PART_OF,Engagement Skills for Groups,topic,,,SOWK_3182_triples_raw.json
+SOWK_3182,Leadership styles in group work,concept,PART_OF,Engagement Skills for Groups,topic,,,SOWK_3182_triples_raw.json
+SOWK_3182,Family assessment models and tools,concept,PART_OF,Family Assessment and Intervention,topic,,,SOWK_3182_triples_raw.json
+SOWK_3182,Intervention strategies for families,concept,PART_OF,Family Assessment and Intervention,topic,,,SOWK_3182_triples_raw.json
+SOWK_3182,Building rapport with clients,concept,USED_FOR,Engagement Skills for Families,topic,,,SOWK_3182_triples_raw.json

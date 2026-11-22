@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_5181,topic,Metric Spaces,metric spaces,1,verified,Metric Spaces,MATH_5181_concepts_raw.json
+MATH_5181,topic,Separation Axioms,separation axioms,1,verified,Separation Axioms,MATH_5181_concepts_raw.json
+MATH_5181,topic,General Topological Spaces,general topological spaces,1,verified,General Topological Spaces,MATH_5181_concepts_raw.json
+MATH_5181,topic,Fundamental Group and Covering Spaces,fundamental group and covering spaces,1,verified,Fundamental Group and Covering Spaces,MATH_5181_concepts_raw.json
+MATH_5181,concept,Open and Closed Sets,open and closed sets,1,verified,Open and Closed Sets,MATH_5181_concepts_raw.json

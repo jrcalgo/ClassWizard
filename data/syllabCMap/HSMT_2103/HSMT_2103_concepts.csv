@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HSMT_2103,topic,Human Resources Management,Human Resources Management,6,verified,Introduction to Human Resources Management,HSMT_2103_concepts_raw.json
+HSMT_2103,topic,Human Resource Analysis,human resource analysis,1,verified,Human Resource Analysis,HSMT_2103_concepts_raw.json
+HSMT_2103,topic,Performance Evaluation,performance evaluation,1,verified,Performance Evaluation,HSMT_2103_concepts_raw.json
+HSMT_2103,topic,Training and Development,training and development,1,verified,Training and Development,HSMT_2103_concepts_raw.json
+HSMT_2103,topic,Managerial Functions,Managerial Functions,1,inferred,Managerial Functions,HSMT_2103_concepts_raw.json
+HSMT_2103,topic,Staffing and Recruitment,Staffing and Recruitment,1,inferred,Staffing and Recruitment,HSMT_2103_concepts_raw.json
+HSMT_2103,topic,Compensation and Benefits,Compensation and Benefits,1,inferred,Compensation and Benefits,HSMT_2103_concepts_raw.json
+HSMT_2103,topic,Labor Relations and Conflict,Labor Relations and Conflict,1,inferred,Labor Relations and Conflict,HSMT_2103_concepts_raw.json
+HSMT_2103,topic,Diversity and Inclusion,Diversity and Inclusion,2,inferred,Diversity and Inclusion,HSMT_2103_concepts_raw.json
+HSMT_2103,topic,Legal Environment of HRM,Legal Environment of HRM,1,inferred,Legal Environment of HRM,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,functions of manager and leader,Functions of Manager and Leader,1,inferred,functions of manager and leader,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,human resource management role,Human Resource Management Role,1,inferred,human resource management role,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,healthcare environment overview,Healthcare Environment Overview,1,inferred,healthcare environment overview,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,planning and organizing tasks,Planning and Organizing Tasks,1,inferred,planning and organizing tasks,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,leading and motivating employees,Leading and Motivating Employees,1,inferred,leading and motivating employees,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,controlling and evaluating performance,Controlling and Evaluating Performance,1,inferred,controlling and evaluating performance,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,job analysis and design,Job Analysis and Design,1,inferred,job analysis and design,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,workforce planning and forecasting,Workforce Planning and Forecasting,1,inferred,workforce planning and forecasting,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,employee needs assessment,Employee Needs Assessment,1,inferred,employee needs assessment,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,recruitment strategies and methods,Recruitment Strategies and Methods,1,inferred,recruitment strategies and methods,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,selection and hiring processes,Selection and Hiring Processes,1,inferred,selection and hiring processes,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,onboarding and orientation programs,Onboarding and Orientation Programs,1,inferred,onboarding and orientation programs,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,performance metrics and standards,Performance Metrics and Standards,1,inferred,performance metrics and standards,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,evaluation methods and tools,Evaluation Methods and Tools,1,inferred,evaluation methods and tools,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,feedback and coaching techniques,Feedback and Coaching Techniques,1,inferred,feedback and coaching techniques,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,salary and wage structures,Salary and Wage Structures,1,inferred,salary and wage structures,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,benefits packages and programs,Benefits Packages and Programs,1,inferred,benefits packages and programs,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,total rewards strategy,Total Rewards Strategy,1,inferred,total rewards strategy,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,learning needs assessment,Learning Needs Assessment,1,inferred,learning needs assessment,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,training methods and delivery,Training Methods and Delivery,1,inferred,training methods and delivery,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,employee development programs,Employee Development Programs,1,inferred,employee development programs,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,collective bargaining agreements,Collective Bargaining Agreements,1,inferred,collective bargaining agreements,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,conflict resolution strategies,Conflict Resolution Strategies,1,inferred,conflict resolution strategies,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,union-management relationships,Union-Management Relationships,1,inferred,union-management relationships,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,cultural competence and awareness,Cultural Competence and Awareness,1,inferred,cultural competence and awareness,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,inclusive workforce practices,Inclusive Workforce Practices,1,inferred,inclusive workforce practices,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,diversity and inclusion metrics,Diversity and Inclusion Metrics,1,inferred,diversity and inclusion metrics,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,employment laws and regulations,Employment Laws and Regulations,1,inferred,employment laws and regulations,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,workplace safety and health,Workplace Safety and Health,1,inferred,workplace safety and health,HSMT_2103_concepts_raw.json
+HSMT_2103,concept,disability accommodations and compliance,Disability Accommodations and Compliance,1,inferred,disability accommodations and compliance,HSMT_2103_concepts_raw.json

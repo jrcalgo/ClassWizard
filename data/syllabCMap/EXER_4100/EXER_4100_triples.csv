@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_4100,Strength Training Program Design,concept,PART_OF,Program Goals and Objectives,topic,,,EXER_4100_triples_raw.json
+EXER_4100,Goal Setting Strategies,concept,PART_OF,Program Goals and Objectives,topic,,,EXER_4100_triples_raw.json
+EXER_4100,Space Allocation Planning,concept,PART_OF,Facility Design and Layout,topic,,,EXER_4100_triples_raw.json
+EXER_4100,Safety Features Installation,concept,PART_OF,Facility Design and Layout,topic,,,EXER_4100_triples_raw.json
+EXER_4100,Liability Exposure Identification,concept,PART_OF,Risk Management Strategies,topic,,,EXER_4100_triples_raw.json
+EXER_4100,Injury Prevention Protocols,concept,PART_OF,Risk Management Strategies,topic,,,EXER_4100_triples_raw.json
+EXER_4100,Program Policy Development,concept,PART_OF,Policies and Procedures Manual,topic,,,EXER_4100_triples_raw.json
+EXER_4100,Manual Implementation Strategies,concept,PART_OF,Policies and Procedures Manual,topic,,,EXER_4100_triples_raw.json

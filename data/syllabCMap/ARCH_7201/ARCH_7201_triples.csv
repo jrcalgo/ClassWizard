@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_7201,design research agenda,concept,PREREQUISITE_OF,critical design research questions,concept,A taught first,,ARCH_7201_triples_raw.json
+ARCH_7201,design research agenda,concept,PREREQUISITE_OF,iterative design research process,concept,A taught first,,ARCH_7201_triples_raw.json
+ARCH_7201,Visual Works,topic,PREREQUISITE_OF,Comprehensive Research Document,topic,A taught first,,ARCH_7201_triples_raw.json
+ARCH_7201,critical design research questions,concept,PART_OF,design research agenda,concept,,,ARCH_7201_triples_raw.json
+ARCH_7201,iterative design research process,concept,PART_OF,design research agenda,concept,,,ARCH_7201_triples_raw.json
+ARCH_7201,Literature Review,topic,PART_OF,Comprehensive Research Document,topic,,,ARCH_7201_triples_raw.json
+ARCH_7201,Visual Works,topic,PART_OF,Comprehensive Research Document,topic,,,ARCH_7201_triples_raw.json

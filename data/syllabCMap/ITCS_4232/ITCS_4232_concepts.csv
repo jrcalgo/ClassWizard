@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4232,method,agile methodologies,agile methodologies,1,verified,agile methodologies,ITCS_4232_concepts_raw.json
+ITCS_4232,method,iterative development,iterative development,1,verified,iterative development,ITCS_4232_concepts_raw.json
+ITCS_4232,topic,game mechanics design,Game Mechanics Design,1,inferred,game mechanics design,ITCS_4232_concepts_raw.json
+ITCS_4232,topic,collaboration and communication,Collaboration and Communication,1,inferred,collaboration and communication,ITCS_4232_concepts_raw.json
+ITCS_4232,topic,playtesting and feedback,Playtesting and Feedback,1,inferred,playtesting and feedback,ITCS_4232_concepts_raw.json
+ITCS_4232,topic,agile game project management,Agile Game Project Management,1,inferred,agile game project management,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,iterative development process,Iterative Development Process,1,inferred,iterative development process,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,sprint planning and execution,Sprint Planning and Execution,1,inferred,sprint planning and execution,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,agile methodologies overview,Agile Methodologies Overview,1,inferred,agile methodologies overview,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,innovative game systems creation,Innovative Game Systems Creation,1,inferred,innovative game systems creation,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,player feedback integration,Player Feedback Integration,1,inferred,player feedback integration,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,gameplay balance and refinement,Gameplay Balance and Refinement,1,inferred,gameplay balance and refinement,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,agile team structures and roles,Agile Team Structures and Roles,1,inferred,agile team structures and roles,ITCS_4232_concepts_raw.json
+ITCS_4232,method,scrum or kanban methodologies,Scrum or Kanban Methodologies,1,inferred,scrum or kanban methodologies,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,task management and progress tracking,Task Management and Progress Tracking,1,inferred,task management and progress tracking,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,conducting playtesting sessions,Conducting Playtesting Sessions,1,inferred,conducting playtesting sessions,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,game performance analysis and refinement,Game Performance Analysis and Refinement,1,inferred,game performance analysis and refinement,ITCS_4232_concepts_raw.json
+ITCS_4232,concept,iterative design improvement,Iterative Design Improvement,1,inferred,iterative design improvement,ITCS_4232_concepts_raw.json
+ITCS_4232,method,sprint planning,Sprint Planning,1,inferred,sprint planning,ITCS_4232_concepts_raw.json
+ITCS_4232,method,task management,Task Management,1,inferred,task management,ITCS_4232_concepts_raw.json
+ITCS_4232,method,progress tracking,Progress Tracking,1,inferred,progress tracking,ITCS_4232_concepts_raw.json

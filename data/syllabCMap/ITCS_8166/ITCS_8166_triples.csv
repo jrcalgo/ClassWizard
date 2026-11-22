@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_8166,application protocols,concept,USED_FOR,Internet Architecture,topic,,,ITCS_8166_triples_raw.json
+ITCS_8166,software-defined networking (SDN,concept,USED_FOR,Internet Architecture,topic,,,ITCS_8166_triples_raw.json
+ITCS_8166,AI-infused protocols,concept,USED_FOR,Internet Architecture,topic,,,ITCS_8166_triples_raw.json
+ITCS_8166,emerging networked applications,concept,USED_FOR,Internet Architecture,topic,,,ITCS_8166_triples_raw.json

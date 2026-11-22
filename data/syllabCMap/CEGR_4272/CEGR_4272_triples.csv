@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_4272,geotechnical engineering discipline,concept,PREREQUISITE_OF,Liquid Barrier Functions of Geosynthetics,topic,B mentioned first,,CEGR_4272_triples_raw.json
+CEGR_4272,geotextile separation mechanisms,concept,PART_OF,geosynthetic definition,concept,,,CEGR_4272_triples_raw.json
+CEGR_4272,load transfer mechanisms,concept,PART_OF,Pavement Design Considerations,topic,,,CEGR_4272_triples_raw.json
+CEGR_4272,slope stability analysis,concept,PART_OF,Embankment Stability Issues,topic,,,CEGR_4272_triples_raw.json
+CEGR_4272,filtration mechanisms in geosynthetics,concept,PART_OF,Liquid Barrier Functions of Geosynthetics,topic,,,CEGR_4272_triples_raw.json

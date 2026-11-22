@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_1502,stereotypes and prejudice,concept,PREREQUISITE_OF,Social Impact of Human Nature,topic,same unit,,PHIL_1502_triples_raw.json
+PHIL_1502,self-concept and self-awareness,concept,PREREQUISITE_OF,Constructing Identity,topic,same unit,,PHIL_1502_triples_raw.json
+PHIL_1502,philosophical perspectives on human nature,concept,PART_OF,Human Nature,topic,,,PHIL_1502_triples_raw.json
+PHIL_1502,Defining Human Nature,topic,PART_OF,Human Nature,topic,,,PHIL_1502_triples_raw.json
+PHIL_1502,Theories of Human Nature,topic,PART_OF,Human Nature,topic,,,PHIL_1502_triples_raw.json
+PHIL_1502,Human Place in Nature,topic,PART_OF,Human Nature,topic,,,PHIL_1502_triples_raw.json
+PHIL_1502,Social Impact of Human Nature,topic,PART_OF,Human Nature,topic,,,PHIL_1502_triples_raw.json
+PHIL_1502,Constructing Identity,topic,PART_OF,Human Nature,topic,,,PHIL_1502_triples_raw.json

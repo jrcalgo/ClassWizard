@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4245,topic,Marine Biology,Marine Biology,3,verified,Marine Biology,BIOL_4245_concepts_raw.json
+BIOL_4245,topic,Physical Oceanography,Physical Oceanography,1,inferred,Physical Oceanography,BIOL_4245_concepts_raw.json
+BIOL_4245,topic,Marine Chemistry,Marine Chemistry,1,inferred,Marine Chemistry,BIOL_4245_concepts_raw.json
+BIOL_4245,topic,Microorganisms in Marine Ecosystems,Microorganisms in Marine Ecosystems,1,inferred,Microorganisms in Marine Ecosystems,BIOL_4245_concepts_raw.json
+BIOL_4245,topic,Macro-Organisms in Marine Ecosystems,Macro-Organisms in Marine Ecosystems,1,inferred,Macro-Organisms in Marine Ecosystems,BIOL_4245_concepts_raw.json
+BIOL_4245,topic,Marine Species Diversity,Marine Species Diversity,1,inferred,Marine Species Diversity,BIOL_4245_concepts_raw.json
+BIOL_4245,topic,Marine Ecosystems Interactions,Marine Ecosystems Interactions,1,inferred,Marine Ecosystems Interactions,BIOL_4245_concepts_raw.json
+BIOL_4245,topic,Human Impact on Marine Ecosystems,Human Impact on Marine Ecosystems,1,inferred,Human Impact on Marine Ecosystems,BIOL_4245_concepts_raw.json
+BIOL_4245,topic,Conservation of Marine Biodiversity,Conservation of Marine Biodiversity,1,inferred,Conservation of Marine Biodiversity,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,marine ecosystems overview,Marine Ecosystems Overview,1,inferred,marine ecosystems overview,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,importance of marine life,Importance of Marine Life,1,inferred,importance of marine life,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,human impact on oceans,Human Impact on Oceans,1,inferred,human impact on oceans,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,ocean currents and circulation,Ocean Currents and Circulation,1,inferred,ocean currents and circulation,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,tides and waves formation,Tides and Waves Formation,1,inferred,tides and waves formation,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,ocean temperature and salinity,Ocean Temperature and Salinity,1,inferred,ocean temperature and salinity,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,water cycle and oceans,Water Cycle and Oceans,1,inferred,water cycle and oceans,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,nutrient cycles in oceans,Nutrient Cycles in Oceans,1,inferred,nutrient cycles in oceans,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,pH and oxygen levels,pH and Oxygen Levels,1,inferred,pH and oxygen levels,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,bacteria and archaea diversity,Bacteria and Archaea Diversity,1,inferred,bacteria and archaea diversity,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,phytoplankton and zooplankton,Phytoplankton and Zooplankton,1,inferred,phytoplankton and zooplankton,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,marine fungi and viruses,Marine Fungi and Viruses,1,inferred,marine fungi and viruses,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,fish and invertebrate diversity,Fish and Invertebrate Diversity,1,inferred,fish and invertebrate diversity,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,reproduction methods in marine animals,Reproduction Methods in Marine Animals,1,inferred,reproduction methods in marine animals,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,migration patterns and behaviors,Migration Patterns and Behaviors,1,inferred,migration patterns and behaviors,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,taxonomy of marine organisms,Taxonomy of Marine Organisms,1,inferred,taxonomy of marine organisms,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,endemic and extinct species,Endemic and Extinct Species,1,inferred,endemic and extinct species,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,adaptation to marine environments,Adaptation to Marine Environments,1,inferred,adaptation to marine environments,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,food webs and energy flow,Food Webs and Energy Flow,1,inferred,food webs and energy flow,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,predator-prey relationships,Predator-Prey Relationships,1,inferred,predator-prey relationships,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,symbiotic relationships in oceans,Symbiotic Relationships in Oceans,1,inferred,symbiotic relationships in oceans,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,pollution effects on marine life,Pollution Effects on Marine Life,1,inferred,pollution effects on marine life,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,overfishing and bycatch,Overfishing and Bycatch,1,inferred,overfishing and bycatch,BIOL_4245_concepts_raw.json
+BIOL_4245,concept,climate change impacts on oceans,Climate Change Impacts on Oceans,1,inferred,climate change impacts on oceans,BIOL_4245_concepts_raw.json

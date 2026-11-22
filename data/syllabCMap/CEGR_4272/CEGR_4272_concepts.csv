@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_4272,topic,Geotechnical Engineering,geotechnical engineering,1,verified,Geotechnical Engineering,CEGR_4272_concepts_raw.json
+CEGR_4272,topic,Designing with Geosynthetics,Designing with Geosynthetics,2,verified,Designing with Geosynthetics,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,geotechnical engineering discipline,geotechnical engineering discipline,1,verified,geotechnical engineering discipline,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,geosynthetic definition,Geosynthetic Definition,1,inferred,geosynthetic definition,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,soil classification systems,Soil Classification Systems,1,inferred,soil classification systems,CEGR_4272_concepts_raw.json
+CEGR_4272,topic,Pavement Design Considerations,Pavement Design Considerations,1,inferred,Pavement Design Considerations,CEGR_4272_concepts_raw.json
+CEGR_4272,topic,Embankment Stability Issues,Embankment Stability Issues,1,inferred,Embankment Stability Issues,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,slope stability analysis,Slope Stability Analysis,1,inferred,slope stability analysis,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,filtration mechanisms in geosynthetics,Filtration Mechanisms in Geosynthetics,1,inferred,filtration mechanisms in geosynthetics,CEGR_4272_concepts_raw.json
+CEGR_4272,topic,Liquid Barrier Functions of Geosynthetics,Liquid Barrier Functions of Geosynthetics,1,inferred,Liquid Barrier Functions of Geosynthetics,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,geomaterials limitations,Geomaterials Limitations,1,inferred,geomaterials limitations,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,soil strength characteristics,Soil Strength Characteristics,1,inferred,soil strength characteristics,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,geotextile separation mechanisms,Geotextile Separation Mechanisms,1,inferred,geotextile separation mechanisms,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,load transfer mechanisms,Load Transfer Mechanisms,1,inferred,load transfer mechanisms,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,stabilized soil properties,Stabilized Soil Properties,1,inferred,stabilized soil properties,CEGR_4272_concepts_raw.json
+CEGR_4272,concept,leakage mechanisms in geosynthetics,Leakage Mechanisms in Geosynthetics,1,inferred,leakage mechanisms in geosynthetics,CEGR_4272_concepts_raw.json

@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_5181,topic,Solid State Physics,Solid State Physics,2,verified,Solid State Physics,PHYS_5181_concepts_raw.json
+PHYS_5181,topic,Crystal Structure,crystal structure,1,verified,Crystal Structure,PHYS_5181_concepts_raw.json
+PHYS_5181,topic,Reciprocal Lattices,reciprocal lattices,1,verified,Reciprocal Lattices,PHYS_5181_concepts_raw.json
+PHYS_5181,topic,X-Ray Diffraction,x-ray diffraction,1,verified,X-Ray Diffraction,PHYS_5181_concepts_raw.json
+PHYS_5181,topic,Acoustic Properties,acoustic properties,1,verified,Acoustic Properties,PHYS_5181_concepts_raw.json
+PHYS_5181,topic,Free Electron Model,free electron model,1,verified,Free Electron Model,PHYS_5181_concepts_raw.json
+PHYS_5181,topic,Semiconductor Devices,semiconductor devices,1,verified,Semiconductor Devices,PHYS_5181_concepts_raw.json
+PHYS_5181,topic,Dielectric Properties,dielectric properties,1,verified,Dielectric Properties,PHYS_5181_concepts_raw.json

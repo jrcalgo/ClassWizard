@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_6203,topic,Financial Economic Theory,Financial Economic Theory,1,verified,Financial Economic Theory,FINN_6203_concepts_raw.json
+FINN_6203,topic,Asset Pricing Theory,asset pricing theory,2,verified,Asset Pricing Theory,FINN_6203_concepts_raw.json
+FINN_6203,topic,Empirical Asset Pricing,empirical asset pricing,2,verified,Empirical Asset Pricing,FINN_6203_concepts_raw.json
+FINN_6203,topic,Choice Under Uncertainty,choice under uncertainty,2,verified,Choice Under Uncertainty,FINN_6203_concepts_raw.json
+FINN_6203,topic,Incomplete Markets,incomplete markets,2,verified,Incomplete Markets,FINN_6203_concepts_raw.json
+FINN_6203,topic,No-Arbitrage Valuation,no-arbitrage valuations,1,verified,No-Arbitrage Valuation,FINN_6203_concepts_raw.json
+FINN_6203,topic,Multi-Period Market Models,multi-period market models,2,verified,Multi-Period Market Models,FINN_6203_concepts_raw.json
+FINN_6203,concept,Capital Asset Pricing Model,capital asset pricing model,2,verified,Capital Asset Pricing Model,FINN_6203_concepts_raw.json
+FINN_6203,concept,Arbitrage Pricing Theory,arbitrage pricing theory,2,verified,Arbitrage Pricing Theory,FINN_6203_concepts_raw.json
+FINN_6203,topic,Efficient Market Hypothesis,efficient market hypothesis,2,verified,Efficient Market Hypothesis,FINN_6203_concepts_raw.json

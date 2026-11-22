@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4167,topic,Genetics and Genomics in Medicine,GENETICS AND GENOMICS IN MEDICINE,1,verified,Genetics and Genomics in Medicine,BIOL_4167_concepts_raw.json
+BIOL_4167,topic,"DNA, Chromosomes, Gene Structure & Expression","DNA, Chromosomes, Gene Structure & Expression",1,verified,"DNA, Chromosomes, Gene Structure & Expression",BIOL_4167_concepts_raw.json
+BIOL_4167,topic,"Genome Organization, DNA Technologies, Genetic Variation","Genome Organization, DNA Technologies, Genetic Variation",3,verified,"Genome Organization, DNA Technologies, Genetic Variation",BIOL_4167_concepts_raw.json
+BIOL_4167,topic,Single-Gene Disorders & Epigenetics,Single-Gene Disorders & Epigenetics,24,verified,Single-Gene Disorders & Epigenetics,BIOL_4167_concepts_raw.json
+BIOL_4167,topic,Chromosomal Abnormalities & Complex Disease Genetics,Chromosomal Abnormalities & Complex Disease Genetics,13,verified,Chromosomal Abnormalities & Complex Disease Genetics,BIOL_4167_concepts_raw.json
+BIOL_4167,topic,"Gene Therapy, Cancer Genomics & Ethics of Genetic Testing","Gene Therapy, Cancer Genomics & Ethics of Genetic Testing",2,verified,"Gene Therapy, Cancer Genomics & Ethics of Genetic Testing",BIOL_4167_concepts_raw.json
+BIOL_4167,concept,DNA structure,DNA Structure,12,verified,DNA structure,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,gene expression regulation,Gene Expression Regulation,30,verified,gene expression regulation,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,genome organization principles,Genome Organization Principles,4,verified,genome organization principles,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,single-gene disorders inheritance,Single Gene Disorders Inheritance,7,verified,single-gene disorders inheritance,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,epigenetics mechanisms,Epigenetics Mechanisms,26,verified,epigenetics mechanisms,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,chromosomal abnormalities,Chromosomal Abnormalities,38,verified,chromosomal abnormalities,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,complex disease genetics,Complex Disease Genetics,30,verified,complex disease genetics,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,gene therapy approaches,Gene Therapy Approaches,22,verified,gene therapy approaches,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,cancer genomics basics,Cancer Genomics Basics,4,verified,cancer genomics basics,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,genetic variation producing disease,Genetic Variation Producing Disease,6,verified,genetic variation producing disease,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,identifying disease genes and genetic susceptibility,Identifying Disease Genes and Genetic Susceptibility,1,verified,identifying disease genes and genetic susceptibility,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,genetic testing methods,Genetic testing methods,3,verified,genetic testing methods,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,targeted therapies mechanisms,Targeted Therapies Mechanisms,1,verified,targeted therapies mechanisms,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,cancer genetics,Cancer Genetics,3,verified,cancer genetics,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,genomic instability,Genomic Instability,1,verified,genomic instability,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,tumor suppressor genes,Tumor Suppressor Genes,1,verified,tumor suppressor genes,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,oncogenes activation,Oncogenes Activation,1,verified,oncogenes activation,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,epigenetic modifications,Epigenetic Modifications,1,verified,epigenetic modifications,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,microRNA function,MicroRNA Function,1,verified,microRNA function,BIOL_4167_concepts_raw.json
+BIOL_4167,concept,DNA repair mechanisms,DNA Repair Mechanisms,1,verified,DNA repair mechanisms,BIOL_4167_concepts_raw.json

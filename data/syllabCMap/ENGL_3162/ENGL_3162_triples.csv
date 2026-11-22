@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3162,language structure and use,concept,PREREQUISITE_OF,language form and function,concept,A taught first,,ENGL_3162_triples_raw.json
+ENGL_3162,language structure and use,concept,PREREQUISITE_OF,pragmatic markers in digital communication,concept,A taught first,,ENGL_3162_triples_raw.json
+ENGL_3162,language structure and use,concept,PREREQUISITE_OF,digital etiquette and norms,concept,A taught first,,ENGL_3162_triples_raw.json
+ENGL_3162,language structure and use,concept,PREREQUISITE_OF,appropriateness in online communication,concept,A taught first,,ENGL_3162_triples_raw.json
+ENGL_3162,digital contextualization,concept,PART_OF,Role of Context in Communication,topic,,,ENGL_3162_triples_raw.json
+ENGL_3162,situational awareness,concept,PART_OF,Role of Context in Communication,topic,,,ENGL_3162_triples_raw.json
+ENGL_3162,text structure and organization,concept,PART_OF,language form and function,concept,,,ENGL_3162_triples_raw.json
+ENGL_3162,discourse analysis,concept,PART_OF,language form and function,concept,,,ENGL_3162_triples_raw.json
+ENGL_3162,digital etiquette and norms,concept,PART_OF,appropriateness in online communication,concept,,,ENGL_3162_triples_raw.json
+ENGL_3162,cultural sensitivity,concept,PART_OF,appropriateness in online communication,concept,,,ENGL_3162_triples_raw.json
+ENGL_3162,critical evaluation of readings,method,USED_FOR,critical thinking and analysis,method,,,ENGL_3162_triples_raw.json

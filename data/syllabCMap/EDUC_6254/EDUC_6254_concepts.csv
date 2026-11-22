@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EDUC_6254,concept,cognitive,cognitive,6,verified,"cognitive, social, linguistic differences",EDUC_6254_concepts_raw.json
+EDUC_6254,concept,social,social,8,verified,"cognitive, social, linguistic differences",EDUC_6254_concepts_raw.json
+EDUC_6254,concept,Similarities and differences among individuals with disabilities,Similarities and differences among individuals with disabilities,1,verified,Similarities and differences among individuals with disabilities,EDUC_6254_concepts_raw.json
+EDUC_6254,concept,Performance data and student information,performance data and student information,1,verified,Performance data and student information,EDUC_6254_concepts_raw.json
+EDUC_6254,concept,Experimenting with,experimenting with,2,verified,"Experimenting with, reflecting on, and revising practice",EDUC_6254_concepts_raw.json
+EDUC_6254,concept,reflecting on,reflecting on,2,verified,"Experimenting with, reflecting on, and revising practice",EDUC_6254_concepts_raw.json
+EDUC_6254,concept,revising practice,revising practice,1,verified,"Experimenting with, reflecting on, and revising practice",EDUC_6254_concepts_raw.json

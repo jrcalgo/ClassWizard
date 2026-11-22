@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_8172,Curriculum Design Principles,concept,PREREQUISITE_OF,Postsecondary Education Reforms,concept,same unit,,ADMN_8172_triples_raw.json
+ADMN_8172,faculty,topic,PART_OF,Faculty Roles and Responsibilities,concept,,part is broader than whole - check direction,ADMN_8172_triples_raw.json
+ADMN_8172,curriculum,topic,PART_OF,Curriculum Design Principles,concept,,part is broader than whole - check direction,ADMN_8172_triples_raw.json
+ADMN_8172,finance,topic,PART_OF,Higher Education Finance Models,concept,,part is broader than whole - check direction,ADMN_8172_triples_raw.json
+ADMN_8172,college students,topic,PART_OF,College Students Experience,concept,,part is broader than whole - check direction,ADMN_8172_triples_raw.json
+ADMN_8172,college students,topic,USED_FOR,Context of Change Factors,concept,,topic used for something - check direction,ADMN_8172_triples_raw.json
+ADMN_8172,Higher Education Finance Models,concept,USED_FOR,Postsecondary Education Reforms,concept,,,ADMN_8172_triples_raw.json

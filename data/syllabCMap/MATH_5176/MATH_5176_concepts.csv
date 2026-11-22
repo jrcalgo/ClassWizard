@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_5176,topic,Numerical Methods for Partial Differential Equations,Numerical Methods for Partial Differential Equations,2,verified,Numerical Methods for Partial Differential Equations,MATH_5176_concepts_raw.json
+MATH_5176,topic,"finite difference methods for elliptic, parabolic, and hyperbolic problems","finite difference methods for elliptic, parabolic, and hyperbolic problems",2,verified,"finite difference methods for elliptic, parabolic, and hyperbolic problems",MATH_5176_concepts_raw.json
+MATH_5176,topic,time-stepping methods,time-stepping methods,2,verified,time-stepping methods,MATH_5176_concepts_raw.json
+MATH_5176,topic,linear solvers,linear solvers,2,verified,linear solvers,MATH_5176_concepts_raw.json
+MATH_5176,topic,finite element methods,finite element methods,2,verified,finite element methods,MATH_5176_concepts_raw.json
+MATH_5176,topic,conservation laws,conservation laws,2,verified,conservation laws,MATH_5176_concepts_raw.json
+MATH_5176,tool,MATLAB,MATLAB,1,verified,MATLAB,MATH_5176_concepts_raw.json
+MATH_5176,tool,Python,Python,1,verified,Python,MATH_5176_concepts_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_4600,Methodological Approaches in Architecture,concept,PREREQUISITE_OF,Humanities and Architecture Connection,concept,same unit,,ARCH_4600_triples_raw.json
+ARCH_4600,Methodological Approaches in Architecture,concept,PREREQUISITE_OF,Modernist Movement in Architecture,concept,A taught first,,ARCH_4600_triples_raw.json
+ARCH_4600,Methodological Approaches in Architecture,concept,PREREQUISITE_OF,Postmodernist Architecture Characteristics,concept,A taught first,,ARCH_4600_triples_raw.json
+ARCH_4600,Methodological Approaches in Architecture,concept,PREREQUISITE_OF,Deconstructivist Movement in Architecture,concept,A taught first,,ARCH_4600_triples_raw.json
+ARCH_4600,Methodological Approaches in Architecture,concept,PREREQUISITE_OF,Historicist Movement in Architecture,concept,A taught first,,ARCH_4600_triples_raw.json
+ARCH_4600,Modernist Movement in Architecture,concept,PREREQUISITE_OF,Critique of Modernism by Postmodernists,concept,same unit,,ARCH_4600_triples_raw.json
+ARCH_4600,Modernist Movement in Architecture,concept,PREREQUISITE_OF,Influence of Modernism on Urban Planning,concept,same unit,,ARCH_4600_triples_raw.json
+ARCH_4600,Postmodernist Architecture Characteristics,concept,PREREQUISITE_OF,Critique of Postmodernism by Historians,concept,same unit,,ARCH_4600_triples_raw.json
+ARCH_4600,Critical Theory in Architecture Discourse,concept,PART_OF,Communication of Ideas in Architecture,topic,,,ARCH_4600_triples_raw.json
+ARCH_4600,Methodological Approaches in Architecture,concept,PART_OF,Architecture History,topic,,,ARCH_4600_triples_raw.json
+ARCH_4600,Postmodernist Architecture Characteristics,concept,PART_OF,Case Studies in Architecture History,topic,,,ARCH_4600_triples_raw.json
+ARCH_4600,Revivalist Styles in Architecture History,concept,PART_OF,Historicist Movement in Architecture,concept,,,ARCH_4600_triples_raw.json

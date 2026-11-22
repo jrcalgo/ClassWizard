@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_4271,topic,Secure and Trustworthy Artificial Intelligence,Secure and Trustworthy Artificial Intelligence,1,verified,Secure and Trustworthy Artificial Intelligence,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Machine Learning Preliminaries,Machine learning preliminaries,1,verified,Machine Learning Preliminaries,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Adversarial Examples,Adversarial examples,2,verified,Adversarial Examples,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Defense against Adversarial Examples,Defense against adversarial examples,1,verified,Defense against Adversarial Examples,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Data Poisoning attacks,Data Poisoning attacks,2,verified,Data Poisoning attacks,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Defense against data poisoning attacks,Defense against data poisoning attacks,1,verified,Defense against data poisoning attacks,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Privacy attacks,Privacy attacks,1,verified,Privacy attacks,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Privacy enhancing technologies,Privacy enhancing technologies,1,verified,Privacy enhancing technologies,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Prompt injection attacks,Prompt injection attacks,1,verified,Prompt injection attacks,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Model evaluation in LLMs,Model evaluation in LLMs,1,verified,Model evaluation in LLMs,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Risk management in LLMs,Risk management in LLMs,1,verified,Risk management in LLMs,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Bias discovery,Bias discovery,1,verified,Bias discovery,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Bias mitigation,Bias mitigation,1,verified,Bias mitigation,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Distribution shifts,Distribution shifts,1,verified,Distribution shifts,ITIS_4271_concepts_raw.json
+ITIS_4271,topic,Explainable AI,Explainable AI,1,verified,Explainable AI,ITIS_4271_concepts_raw.json
+ITIS_4271,tool,Hack the box,Hack the box,1,verified,Hack the box,ITIS_4271_concepts_raw.json

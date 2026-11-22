@@ -1,0 +1,47 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_3135,HTML Structure and Syntax,concept,PREREQUISITE_OF,Semantic HTML Elements,concept,same unit,,ITIS_3135_triples_raw.json
+ITIS_3135,Variables and Data Types,concept,PREREQUISITE_OF,Conditional Statements and Loops,concept,same unit,,ITIS_3135_triples_raw.json
+ITIS_3135,Bootstrap and CSS Frameworks,concept,PREREQUISITE_OF,React and Angular Basics,concept,same unit,,ITIS_3135_triples_raw.json
+ITIS_3135,Bootstrap and CSS Frameworks,concept,PREREQUISITE_OF,Vue.js Fundamentals,concept,same unit,,ITIS_3135_triples_raw.json
+ITIS_3135,HTML Structure and Syntax,concept,PART_OF,HTML Fundamentals,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Semantic HTML Elements,concept,PART_OF,HTML Fundamentals,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Headings and Paragraphs,concept,PART_OF,HTML Fundamentals,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,CSS Selectors and Properties,concept,PART_OF,CSS Basics,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Box Model and Layout,concept,PART_OF,CSS Basics,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Colors and Typography,concept,PART_OF,CSS Basics,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Variables and Data Types,concept,PART_OF,JavaScript Introduction,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Conditional Statements and Loops,concept,PART_OF,JavaScript Introduction,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Functions and Event Handling,concept,PART_OF,JavaScript Introduction,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Bootstrap and CSS Frameworks,concept,PART_OF,Front-End Frameworks,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,React and Angular Basics,concept,PART_OF,Front-End Frameworks,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Vue.js Fundamentals,concept,PART_OF,Front-End Frameworks,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Redux and Flux Architectures,concept,PART_OF,State Management,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Action Creators and Reducers,concept,PART_OF,State Management,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Media Queries and Breakpoints,concept,PART_OF,Responsive Web Design,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Flexible Box Layout Module,concept,PART_OF,Responsive Web Design,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Mobile-First Design Approach,concept,PART_OF,Responsive Web Design,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,User Interface Design Principles,concept,PART_OF,User Experience,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Accessibility Guidelines and Best Practices,concept,PART_OF,User Experience,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Consistency and Feedback in UI,concept,PART_OF,User Experience,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Project Requirements and Scope,concept,PART_OF,Project Planning,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Wireframing and Prototyping Tools,concept,PART_OF,Project Planning,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Agile Development Methodologies,concept,PART_OF,Project Planning,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,HTML Structure and Syntax,concept,USED_FOR,HTML Fundamentals,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Semantic HTML Elements,concept,USED_FOR,HTML Fundamentals,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Headings and Paragraphs,concept,USED_FOR,HTML Fundamentals,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,CSS Selectors and Properties,concept,USED_FOR,CSS Basics,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Variables and Data Types,concept,USED_FOR,JavaScript Introduction,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Conditional Statements and Loops,concept,USED_FOR,JavaScript Introduction,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Functions and Event Handling,concept,USED_FOR,JavaScript Introduction,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,React and Angular Basics,concept,USED_FOR,Front-End Frameworks,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Vue.js Fundamentals,concept,USED_FOR,Front-End Frameworks,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Action Creators and Reducers,concept,USED_FOR,State Management,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Media Queries and Breakpoints,concept,USED_FOR,Responsive Web Design,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Flexible Box Layout Module,concept,USED_FOR,Responsive Web Design,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Mobile-First Design Approach,concept,USED_FOR,Responsive Web Design,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,User Interface Design Principles,concept,USED_FOR,User Experience,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Accessibility Guidelines and Best Practices,concept,USED_FOR,User Experience,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Consistency and Feedback in UI,concept,USED_FOR,User Experience,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Project Requirements and Scope,concept,USED_FOR,Project Planning,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Wireframing and Prototyping Tools,concept,USED_FOR,Project Planning,topic,,,ITIS_3135_triples_raw.json
+ITIS_3135,Agile Development Methodologies,concept,USED_FOR,Project Planning,topic,,,ITIS_3135_triples_raw.json

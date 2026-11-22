@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_5102,topic,programming languages,programming languages,7,verified,programming languages,ITCS_5102_concepts_raw.json
+ITCS_5102,topic,computer science curriculum,computer science curriculum,1,verified,computer science curriculum,ITCS_5102_concepts_raw.json
+ITCS_5102,concept,language paradigms,language paradigms,1,verified,language paradigms,ITCS_5102_concepts_raw.json
+ITCS_5102,topic,problem domains,problem domains,2,verified,problem domains,ITCS_5102_concepts_raw.json
+ITCS_5102,topic,discrete math,Discrete Math,1,verified,discrete math,ITCS_5102_concepts_raw.json
+ITCS_5102,topic,theoretical material,theoretical material,1,verified,theoretical material,ITCS_5102_concepts_raw.json
+ITCS_5102,topic,language problems,language problems,1,verified,language problems,ITCS_5102_concepts_raw.json
+ITCS_5102,topic,grammars,grammars,1,verified,grammars,ITCS_5102_concepts_raw.json
+ITCS_5102,concept,programming language features,programming language features,1,verified,programming language features,ITCS_5102_concepts_raw.json
+ITCS_5102,concept,syntax,syntax,2,verified,syntax,ITCS_5102_concepts_raw.json
+ITCS_5102,concept,semantics,semantics,2,verified,semantics,ITCS_5102_concepts_raw.json

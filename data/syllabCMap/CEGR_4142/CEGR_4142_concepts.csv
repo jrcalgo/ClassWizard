@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_4142,concept,coagulation process,coagulation process,2,verified,coagulation process,CEGR_4142_concepts_raw.json
+CEGR_4142,method,computer-aided design of treatment systems,Computer- aided design of treatment systems,1,verified,computer-aided design of treatment systems,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,chemical coagulation principles,Chemical coagulation principles,1,inferred,chemical coagulation principles,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,coagulant selection criteria,Coagulant selection criteria,1,inferred,coagulant selection criteria,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,coagulation mechanisms,Coagulation mechanisms,1,inferred,coagulation mechanisms,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,multi-objective optimization methods,Multi-objective optimization methods,1,inferred,multi-objective optimization methods,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,water quality parameters,Water quality parameters,1,inferred,water quality parameters,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,optimization algorithms,Optimization algorithms,1,inferred,optimization algorithms,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,feed rate calculations,Feed rate calculations,2,inferred,feed rate calculations,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,system sizing and layout,System sizing and layout,2,inferred,system sizing and layout,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,rapid mixing reactor design,Rapid mixing reactor design,2,inferred,rapid mixing reactor design,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,flocculation reactor types,Flocculation reactor types,2,inferred,flocculation reactor types,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,hydraulic and mixing considerations,Hydraulic and mixing considerations,3,inferred,hydraulic and mixing considerations,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,plant layout and configuration,Plant layout and configuration,2,inferred,plant layout and configuration,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,process flow diagram development,Process flow diagram development,2,inferred,process flow diagram development,CEGR_4142_concepts_raw.json
+CEGR_4142,concept,system integration and control,System integration and control,3,inferred,system integration and control,CEGR_4142_concepts_raw.json

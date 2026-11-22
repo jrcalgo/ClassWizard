@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_3111,clean laboratory glassware,concept,PREREQUISITE_OF,partial drops from burets,concept,A taught first,,CHEM_3111_triples_raw.json

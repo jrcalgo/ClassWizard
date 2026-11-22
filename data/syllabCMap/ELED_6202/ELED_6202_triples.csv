@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_6202,personal identity,concept,PREREQUISITE_OF,bias awareness in teaching,concept,same unit,,ELED_6202_triples_raw.json
+ELED_6202,over-representation in special ed,concept,PREREQUISITE_OF,under-representation in gifted ed,concept,same unit,,ELED_6202_triples_raw.json
+ELED_6202,classroom management theories,concept,PREREQUISITE_OF,best practices in education,concept,same unit,,ELED_6202_triples_raw.json
+ELED_6202,Personal Identity and Bias,topic,PART_OF,Classroom Management,topic,,,ELED_6202_triples_raw.json
+ELED_6202,opportunity gap,concept,PART_OF,Classroom Management Implications,topic,,,ELED_6202_triples_raw.json
+ELED_6202,Collaboration with Stakeholders,topic,PART_OF,Classroom Management,topic,,,ELED_6202_triples_raw.json
+ELED_6202,Parent-Teacher Collaboration,topic,PART_OF,Classroom Management,topic,,,ELED_6202_triples_raw.json
+ELED_6202,Community Involvement in Education,topic,PART_OF,Classroom Management,topic,,,ELED_6202_triples_raw.json
+ELED_6202,Stakeholder Engagement Strategies,topic,PART_OF,Classroom Management,topic,,,ELED_6202_triples_raw.json
+ELED_6202,Equity and Access Initiatives,topic,PART_OF,Classroom Management,topic,,,ELED_6202_triples_raw.json

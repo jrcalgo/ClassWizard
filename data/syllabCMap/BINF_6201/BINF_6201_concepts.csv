@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_6201,topic,Evolutionary Framework in Bioinformatics,Evolutionary Framework in Bioinformatics,1,verified,Evolutionary Framework in Bioinformatics,BINF_6201_concepts_raw.json
+BINF_6201,topic,Sequencing Platforms and Sequence Resources,Sequencing Platforms and Sequence Resources,1,verified,Intro to Sequencing Platforms and Sequence Resources,BINF_6201_concepts_raw.json
+BINF_6201,topic,Scoring Similarity,Scoring Similarity,1,verified,Scoring Similarity,BINF_6201_concepts_raw.json
+BINF_6201,topic,Pairwise Sequence Alignment and Searching,Pairwise Sequence Alignment and Searching,1,verified,Pairwise Sequence Alignment and Searching,BINF_6201_concepts_raw.json
+BINF_6201,topic,Multiple Sequence Alignments and Families,Multiple Sequence Alignments and Families,1,verified,Multiple Sequence Alignments and Families,BINF_6201_concepts_raw.json
+BINF_6201,topic,Pattern Recognition and Hidden Markov Models,Pattern Recognition and Hidden Markov Models,1,verified,Pattern Recognition and Hidden Markov Models,BINF_6201_concepts_raw.json
+BINF_6201,topic,Short Read Alignment and Reference Mapping,Short Read Alignment and Reference Mapping,1,verified,Short Read Alignment and Reference Mapping,BINF_6201_concepts_raw.json
+BINF_6201,topic,"Genetic Maps, Linkage, and Variants","Genetic Maps, Linkage, and Variants",1,verified,"Genetic Maps, Linkage, and Variants",BINF_6201_concepts_raw.json
+BINF_6201,topic,Assembling Sequence Reads and Aligning Longer Sequences,Assembling Sequence Reads and Aligning Longer Sequences,1,verified,Assembling Sequence Reads and Aligning Longer Sequences,BINF_6201_concepts_raw.json
+BINF_6201,concept,evolutionary assumptions on which sequence comparison is based,evolutionary assumptions on which sequence comparison is based,2,verified,evolutionary assumptions on which sequence comparison is based,BINF_6201_concepts_raw.json
+BINF_6201,concept,types and formats of biological sequence data,types and formats of biological sequence data,2,verified,types and formats of biological sequence data,BINF_6201_concepts_raw.json
+BINF_6201,concept,use of common sequence databases,use of common sequence databases,2,verified,use of common sequence databases,BINF_6201_concepts_raw.json
+BINF_6201,concept,underlying algorithms for sequence alignment and sequence searching,underlying algorithms for sequence alignment and sequence searching,2,verified,underlying algorithms for sequence alignment and sequence searching,BINF_6201_concepts_raw.json

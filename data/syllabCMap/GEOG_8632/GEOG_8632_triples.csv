@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_8632,graduate studies,topic,PREREQUISITE_OF,research grant writing,topic,A mentioned first,,GEOG_8632_triples_raw.json
+GEOG_8632,graduate studies,topic,PREREQUISITE_OF,program-focused community building activities,topic,A mentioned first,,GEOG_8632_triples_raw.json
+GEOG_8632,graduate studies,topic,PREREQUISITE_OF,campus resources,topic,B mentioned first,,GEOG_8632_triples_raw.json

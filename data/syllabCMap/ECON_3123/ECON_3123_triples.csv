@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_3123,national income,measure,PREREQUISITE_OF,saving and investment,topic,A taught first,,ECON_3123_triples_raw.json
+ECON_3123,unemployment,topic,PREREQUISITE_OF,business cycles,topic,A taught first,,ECON_3123_triples_raw.json
+ECON_3123,growth theory,topic,PREREQUISITE_OF,business cycles,topic,same unit,,ECON_3123_triples_raw.json
+ECON_3123,GDP,measure,PART_OF,GDP and national income,topic,,,ECON_3123_triples_raw.json
+ECON_3123,national income,measure,PART_OF,GDP,measure,,,ECON_3123_triples_raw.json
+ECON_3123,international capital flows,concept,PART_OF,open economies,topic,,,ECON_3123_triples_raw.json

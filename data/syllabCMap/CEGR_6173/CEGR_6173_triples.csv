@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_6173,acids and bases,topic,PREREQUISITE_OF,buffering,topic,A taught first,,CEGR_6173_triples_raw.json
+CEGR_6173,acids and bases,topic,PREREQUISITE_OF,alkalinity,topic,A taught first,,CEGR_6173_triples_raw.json
+CEGR_6173,acids and bases,topic,PART_OF,Environmental Aquatic Chemistry,topic,,,CEGR_6173_triples_raw.json
+CEGR_6173,buffering,topic,PART_OF,Environmental Aquatic Chemistry,topic,,,CEGR_6173_triples_raw.json
+CEGR_6173,alkalinity,topic,PART_OF,Environmental Aquatic Chemistry,topic,,,CEGR_6173_triples_raw.json
+CEGR_6173,precipitation and dissolution,topic,PART_OF,Environmental Aquatic Chemistry,topic,,,CEGR_6173_triples_raw.json
+CEGR_6173,complexation by inorganic ligands and by naturally occurring organic matter,topic,PART_OF,Environmental Aquatic Chemistry,topic,,,CEGR_6173_triples_raw.json
+CEGR_6173,interaction of oxidation-reduction chemistry with biological activity,topic,PART_OF,Environmental Aquatic Chemistry,topic,,,CEGR_6173_triples_raw.json

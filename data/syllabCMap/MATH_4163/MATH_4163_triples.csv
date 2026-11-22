@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_4163,Algebraic Structures Definition,concept,PREREQUISITE_OF,Ring Operations and Properties,concept,A taught first,,MATH_4163_triples_raw.json
+MATH_4163,Algebraic Structures Definition,concept,PREREQUISITE_OF,First Isomorphism Theorem,concept,A taught first,,MATH_4163_triples_raw.json
+MATH_4163,Group Properties and Theorems,concept,PART_OF,Groups and Subgroups,topic,,,MATH_4163_triples_raw.json
+MATH_4163,Group Properties and Theorems,concept,PART_OF,Ring and Field Concepts,topic,,,MATH_4163_triples_raw.json
+MATH_4163,Subgroup Criteria and Examples,concept,PART_OF,Groups and Subgroups,topic,,,MATH_4163_triples_raw.json
+MATH_4163,Subgroup Criteria and Examples,concept,PART_OF,Ring and Field Concepts,topic,,,MATH_4163_triples_raw.json
+MATH_4163,Ring Operations and Properties,concept,PART_OF,Ring and Field Concepts,topic,,,MATH_4163_triples_raw.json
+MATH_4163,Field Axioms and Definitions,concept,PART_OF,Ring and Field Concepts,topic,,,MATH_4163_triples_raw.json
+MATH_4163,Homomorphism Definition and Theorems,concept,PART_OF,Homomorphisms and Isomorphism,topic,,,MATH_4163_triples_raw.json
+MATH_4163,Isomorphism Conditions and Examples,concept,PART_OF,Homomorphisms and Isomorphism,topic,,,MATH_4163_triples_raw.json

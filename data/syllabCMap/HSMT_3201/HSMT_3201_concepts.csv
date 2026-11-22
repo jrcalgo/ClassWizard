@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HSMT_3201,topic,Public Health & Health Administration,Public Health & Health Administration,1,verified,Public Health & Health Administration,HSMT_3201_concepts_raw.json
+HSMT_3201,topic,Leadership,leadership,4,verified,Leadership,HSMT_3201_concepts_raw.json
+HSMT_3201,topic,Communication,communication,3,verified,Communication,HSMT_3201_concepts_raw.json
+HSMT_3201,topic,Inclusion,inclusion,1,verified,Inclusion,HSMT_3201_concepts_raw.json
+HSMT_3201,topic,Access,access,1,verified,Access,HSMT_3201_concepts_raw.json
+HSMT_3201,topic,Equity,equity,1,verified,Equity,HSMT_3201_concepts_raw.json
+HSMT_3201,topic,Teamwork,teamwork,1,verified,Teamwork,HSMT_3201_concepts_raw.json
+HSMT_3201,concept,student personal leadership,student personal leadership,1,verified,student personal leadership,HSMT_3201_concepts_raw.json
+HSMT_3201,concept,health system framework,health system framework,2,verified,health system framework,HSMT_3201_concepts_raw.json

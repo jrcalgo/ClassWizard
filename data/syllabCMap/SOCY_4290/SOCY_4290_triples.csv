@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4290,loneliness epidemic definition,concept,PART_OF,social isolation vs. loneliness,concept,,,SOCY_4290_triples_raw.json
+SOCY_4290,chronic loneliness characteristics,concept,PART_OF,social isolation vs. loneliness,concept,,,SOCY_4290_triples_raw.json
+SOCY_4290,lonely and isolated individuals,concept,PART_OF,social isolation vs. loneliness,concept,,,SOCY_4290_triples_raw.json
+SOCY_4290,loneliness measurement tools,concept,PART_OF,social isolation vs. loneliness,concept,,,SOCY_4290_triples_raw.json
+SOCY_4290,qualitative research methods,concept,PART_OF,critique of loneliness studies,concept,,,SOCY_4290_triples_raw.json
+SOCY_4290,quantitative research findings,concept,PART_OF,critique of loneliness studies,concept,,,SOCY_4290_triples_raw.json
+SOCY_4290,critique of loneliness studies,concept,PART_OF,social isolation vs. loneliness,concept,,,SOCY_4290_triples_raw.json
+SOCY_4290,quantitative research,method,USED_FOR,quantitative research findings,concept,,,SOCY_4290_triples_raw.json
+SOCY_4290,policies,method,USED_FOR,policy approaches to address loneliness,concept,,,SOCY_4290_triples_raw.json

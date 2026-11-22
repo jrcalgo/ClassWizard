@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSCI_3101,Emotional Intelligence,concept,PREREQUISITE_OF,Influencing Others,concept,same unit,,MSCI_3101_triples_raw.json
+MSCI_3101,Army Leader Attributes,concept,PREREQUISITE_OF,Leadership Requirements Model,concept,same unit,,MSCI_3101_triples_raw.json
+MSCI_3101,Development Fundamentals,concept,PREREQUISITE_OF,Training Management,concept,A taught first,,MSCI_3101_triples_raw.json
+MSCI_3101,Leadership Attributes,concept,PART_OF,Direct Level Leadership,topic,,,MSCI_3101_triples_raw.json
+MSCI_3101,Mission Command,concept,PART_OF,Warfighting Functions,topic,,,MSCI_3101_triples_raw.json
+MSCI_3101,Command and Control,concept,PART_OF,Warfighting Functions,topic,,,MSCI_3101_triples_raw.json
+MSCI_3101,Emotional Intelligence,concept,PART_OF,Platoon Operations,topic,,,MSCI_3101_triples_raw.json
+MSCI_3101,Bases of Power,concept,PART_OF,Platoon Operations,topic,,,MSCI_3101_triples_raw.json
+MSCI_3101,Influencing Others,concept,PART_OF,Platoon Operations,topic,,,MSCI_3101_triples_raw.json
+MSCI_3101,Competency Categories,concept,PART_OF,Army Medical Department Officer Professional Development and Career Management,topic,,,MSCI_3101_triples_raw.json
+MSCI_3101,Training Management,concept,PART_OF,ROTC On-Campus Training and Leadership Development,topic,,,MSCI_3101_triples_raw.json
+MSCI_3101,Training Management,concept,USED_FOR,Evaluation Reporting System,topic,,,MSCI_3101_triples_raw.json

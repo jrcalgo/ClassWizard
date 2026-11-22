@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6156,Python,tool,PREREQUISITE_OF,Machine Learning Methods,topic,A taught first,,DSBA_6156_triples_raw.json
+DSBA_6156,Python,tool,USED_FOR,Machine Learning Methods,topic,,,DSBA_6156_triples_raw.json

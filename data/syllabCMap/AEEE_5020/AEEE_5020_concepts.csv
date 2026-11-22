@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+AEEE_5020,topic,Fluid Dynamics for Electromechanical Systems,Fluid Dynamics for Electromechanical Systems,1,verified,Fluid Dynamics for Electromechanical Systems,AEEE_5020_concepts_raw.json
+AEEE_5020,topic,Special Topics in Electromechanical,Special Topics in Electromechanical,1,verified,Special Topics in Electromechanical,AEEE_5020_concepts_raw.json
+AEEE_5020,concept,Navier–Stokes equations,Navier–Stokes equations,2,verified,Navier–Stokes equations,AEEE_5020_concepts_raw.json
+AEEE_5020,concept,dimensional analysis,dimensional analysis,2,verified,dimensional analysis,AEEE_5020_concepts_raw.json
+AEEE_5020,concept,internal and external flows,internal and external flows,2,verified,internal and external flows,AEEE_5020_concepts_raw.json
+AEEE_5020,concept,turbulence,turbulence,2,verified,turbulence,AEEE_5020_concepts_raw.json
+AEEE_5020,concept,computational fluid dynamics (CFD,computational fluid dynamics (CFD,2,verified,computational fluid dynamics (CFD),AEEE_5020_concepts_raw.json
+AEEE_5020,concept,fluid–structure interactions,fluid–structure interactions,2,verified,fluid–structure interactions,AEEE_5020_concepts_raw.json
+AEEE_5020,concept,experimental flow diagnostics,experimental flow diagnostics,2,verified,experimental flow diagnostics,AEEE_5020_concepts_raw.json
+AEEE_5020,topic,engineering applications involving cooling systems,engineering applications involving cooling systems,2,verified,engineering applications involving cooling systems,AEEE_5020_concepts_raw.json
+AEEE_5020,topic,pumps,pumps,2,verified,pumps,AEEE_5020_concepts_raw.json
+AEEE_5020,topic,microfluidics,microfluidics,2,verified,microfluidics,AEEE_5020_concepts_raw.json
+AEEE_5020,topic,biomedical devices,biomedical devices,2,verified,biomedical devices,AEEE_5020_concepts_raw.json
+AEEE_5020,method,numerical simulation,numerical simulation,1,verified,numerical simulation,AEEE_5020_concepts_raw.json
+AEEE_5020,method,experimental analysis,experimental analysis,1,verified,experimental analysis,AEEE_5020_concepts_raw.json
+AEEE_5020,method,literature-based investigation,literature-based investigation,1,verified,literature-based investigation,AEEE_5020_concepts_raw.json

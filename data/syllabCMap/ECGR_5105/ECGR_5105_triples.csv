@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5105,machine learning principles,concept,PART_OF,Machine Learning,topic,,,ECGR_5105_triples_raw.json
+ECGR_5105,gradient descent,method,USED_FOR,backpropagation,method,,,ECGR_5105_triples_raw.json

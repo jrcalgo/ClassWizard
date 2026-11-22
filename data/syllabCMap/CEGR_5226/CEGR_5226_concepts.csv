@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_5226,work,ACI 318-19 code,ACI 318-19 code,1,verified,ACI 318-19 code,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Reinforced Concrete Basics,Reinforced Concrete Basics,1,inferred,Reinforced Concrete Basics,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Material Properties,Material Properties,1,inferred,Material Properties,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Design Considerations,Design Considerations,2,inferred,Design Considerations,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Bending Moment Diagrams,Bending Moment Diagrams,1,inferred,Bending Moment Diagrams,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Section Analysis,Section Analysis,1,inferred,Section Analysis,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Strut and Tie Model,Strut and Tie Model,1,inferred,Strut and Tie Model,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Shear Forces and Moments,Shear Forces and Moments,1,inferred,Shear Forces and Moments,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Critical Shear Stress,Critical Shear Stress,1,inferred,Critical Shear Stress,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Web Reinforcement,Web Reinforcement,1,inferred,Web Reinforcement,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Slender Column Behavior,Slender Column Behavior,1,inferred,Slender Column Behavior,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Axial Load Capacity,Axial Load Capacity,1,inferred,Axial Load Capacity,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Lateral Ties and Spirals,Lateral Ties and Spirals,1,inferred,Lateral Ties and Spirals,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Joint Rotation and Deformation,Joint Rotation and Deformation,1,inferred,Joint Rotation and Deformation,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Reinforcement Details,Reinforcement Details,1,inferred,Reinforcement Details,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Anchorages and Holdowns,Anchorages and Holdowns,1,inferred,Anchorages and Holdowns,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Slab Thickness and Reinforcement,Slab Thickness and Reinforcement,1,inferred,Slab Thickness and Reinforcement,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Load Transfer Mechanisms,Load Transfer Mechanisms,1,inferred,Load Transfer Mechanisms,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Edge Support Conditions,Edge Support Conditions,1,inferred,Edge Support Conditions,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Foundation Types and Materials,Foundation Types and Materials,1,inferred,Foundation Types and Materials,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Footing Design Considerations,Footing Design Considerations,1,inferred,Footing Design Considerations,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Shallow and Deep Foundations,Shallow and Deep Foundations,1,inferred,Shallow and Deep Foundations,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Seismic Load Calculations,Seismic Load Calculations,1,inferred,Seismic Load Calculations,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Ductility and Redundancy,Ductility and Redundancy,1,inferred,Ductility and Redundancy,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Special Moment Frames,Special Moment Frames,1,inferred,Special Moment Frames,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Code Requirements and Provisions,Code Requirements and Provisions,1,inferred,Code Requirements and Provisions,CEGR_5226_concepts_raw.json
+CEGR_5226,concept,Design Exceptions and Variations,Design Exceptions and Variations,1,inferred,Design Exceptions and Variations,CEGR_5226_concepts_raw.json

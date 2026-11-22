@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4138,topic,Thin Films,thin films,2,verified,Thin Films,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Microelectronics/optoelectronics manufacturing processes,Microelectronics/optoelectronics manufacturing processes,1,verified,Microelectronics/optoelectronics manufacturing processes,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,vacuum technology,vacuum technology,1,verified,vacuum technology,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Deposition techniques,deposition techniques,1,verified,Deposition techniques,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Characterization methods,characterization methods,1,verified,Characterization methods,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,metallization,metallization,1,verified,metallization,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,silicide formation,silicide formation,1,verified,silicide formation,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Light emitting diodes (LED) and lasers,Light emitting diodes (LED) and lasers,1,verified,Light emitting diodes (LED) and lasers,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Doping of semiconductors,doping of semiconductors,1,verified,Doping of semiconductors,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,low-E coating,low-E coating,1,verified,low-E coating,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,solar-thermal and/or radiative cooling coating,solar-thermal and/or radiative cooling coating,1,verified,solar-thermal and/or radiative cooling coating,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Electrochromic devices,electrochromic devices,1,verified,Electrochromic devices,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Photovoltaic devices,photovoltaic devices,1,verified,Photovoltaic devices,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Flat-panel display devices,flat-panel display devices,2,verified,Flat-panel display devices,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Thin-film deposition technologies,thin-film deposition technologies,1,verified,Thin-film deposition technologies,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Optical and electrical characterization of thin films,Optical and electrical characterization of thin films,1,verified,Optical and electrical characterization of thin films,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Solar spectrum and blackbody radiation,Solar spectrum and blackbody radiation,1,verified,Solar spectrum and blackbody radiation,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,Semiconductor materials and devices,semiconductor materials and devices,1,verified,Semiconductor materials and devices,ECGR_4138_concepts_raw.json
+ECGR_4138,topic,"Applications of low-E, solar-thermal, and radiative cooling coating","Applications of low-E, solar-thermal, and radiative cooling coating",1,verified,"Applications of low-E, solar-thermal, and radiative cooling coating",ECGR_4138_concepts_raw.json
+ECGR_4138,topic,"Applications of electrochromic, photovoltaic, and flat-panel display devices","Applications of electrochromic, photovoltaic, and flat-panel display devices",1,verified,"Applications of electrochromic, photovoltaic, and flat-panel display devices",ECGR_4138_concepts_raw.json
+ECGR_4138,concept,thin film,thin films,2,verified,thin film,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,deposition technique,deposition techniques,1,verified,deposition technique,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,characterization method,characterization methods,1,verified,characterization method,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,laser,lasers,1,verified,laser,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,doping of semiconductor,doping of semiconductors,1,verified,doping of semiconductor,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,electrochromic device,electrochromic devices,1,verified,electrochromic device,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,photovoltaic device,photovoltaic devices,1,verified,photovoltaic device,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,flat-panel display device,flat-panel display devices,2,verified,flat-panel display device,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,thin-film deposition technology,thin-film deposition technologies,1,verified,thin-film deposition technology,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,electrical characterization,electrical characterization,1,verified,electrical characterization,ECGR_4138_concepts_raw.json
+ECGR_4138,concept,blackbody radiation,blackbody radiation,1,verified,blackbody radiation,ECGR_4138_concepts_raw.json

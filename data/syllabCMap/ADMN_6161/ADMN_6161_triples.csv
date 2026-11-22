@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_6161,Strategic planning,concept,PREREQUISITE_OF,Continuous school improvement,concept,A taught first,,ADMN_6161_triples_raw.json
+ADMN_6161,Strategic planning,concept,PREREQUISITE_OF,Data-informed decision making,measure,same unit,,ADMN_6161_triples_raw.json
+ADMN_6161,Ethical decision making,concept,PREREQUISITE_OF,Organizational management,concept,B taught first,B is taught before A - check,ADMN_6161_triples_raw.json
+ADMN_6161,Continuous improvement,concept,PREREQUISITE_OF,School culture development,concept,B taught first,B is taught before A - check,ADMN_6161_triples_raw.json
+ADMN_6161,Strategic planning,concept,PREREQUISITE_OF,Improvement plan development,concept,A taught first,,ADMN_6161_triples_raw.json
+ADMN_6161,Strategic planning,concept,PREREQUISITE_OF,Strategic planning process,concept,A taught first,,ADMN_6161_triples_raw.json
+ADMN_6161,Strategic planning,concept,PART_OF,Instructional Leadership & Teacher,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Effective communication,concept,PART_OF,Communication & Community,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Community engagement,concept,PART_OF,Engagement,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Organizational management,concept,PART_OF,Principalship,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Continuous school improvement,concept,PART_OF,Improvement Plan,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Positive school culture,concept,PART_OF,School culture development,concept,,,ADMN_6161_triples_raw.json
+ADMN_6161,Continuous improvement,concept,PART_OF,Future Trends in Educational,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Accountability measures,measure,PART_OF,Accountability,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Strategic planning,concept,PART_OF,Leadership Foundations,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Instructional leadership,concept,PART_OF,Leadership,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Strategic planning,concept,SUBTYPE_OF,Organizational Leadership,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Effective communication,concept,SUBTYPE_OF,Communication & Community,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Community engagement,concept,SUBTYPE_OF,Engagement,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Ethical decision making,concept,SUBTYPE_OF,Principalship,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Equitable learning environments,concept,SUBTYPE_OF,School Culture,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Positive school culture,concept,SUBTYPE_OF,School Culture,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Strategic planning,concept,USED_FOR,Improvement plan development,concept,,,ADMN_6161_triples_raw.json
+ADMN_6161,Instructional leadership,concept,USED_FOR,Instructional Leadership & Teacher,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Effective communication,concept,USED_FOR,Communication & Community,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Community engagement,concept,USED_FOR,Engagement,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Ethical decision making,concept,USED_FOR,Principalship,topic,,,ADMN_6161_triples_raw.json
+ADMN_6161,Accountability measures,measure,USED_FOR,Accountability,topic,,,ADMN_6161_triples_raw.json

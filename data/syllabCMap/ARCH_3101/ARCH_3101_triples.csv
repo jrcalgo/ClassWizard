@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_3101,rigorous iterative process,concept,PREREQUISITE_OF,spatial organization principles,concept,same unit,,ARCH_3101_triples_raw.json
+ARCH_3101,conceptual design ideas,concept,PREREQUISITE_OF,building performance metrics,concept,A taught first,,ARCH_3101_triples_raw.json
+ARCH_3101,conceptual design ideas,concept,PART_OF,Design Foundations,topic,,,ARCH_3101_triples_raw.json
+ARCH_3101,contextual considerations,concept,PART_OF,Design Foundations,topic,,,ARCH_3101_triples_raw.json
+ARCH_3101,programmatic requirements,concept,PART_OF,Design Foundations,topic,,,ARCH_3101_triples_raw.json
+ARCH_3101,building typology classification,concept,PART_OF,Precedent Building Study,topic,,,ARCH_3101_triples_raw.json
+ARCH_3101,rigorous iterative process,concept,PART_OF,Iterative Design Methods,topic,,,ARCH_3101_triples_raw.json
+ARCH_3101,spatial organization principles,concept,PART_OF,Iterative Design Methods,topic,,,ARCH_3101_triples_raw.json
+ARCH_3101,material and structural clarity,concept,PART_OF,Iterative Design Methods,topic,,,ARCH_3101_triples_raw.json
+ARCH_3101,open exchange and feedback,concept,PART_OF,Collaborative Studio Environment,topic,,,ARCH_3101_triples_raw.json
+ARCH_3101,respectful communication protocols,concept,PART_OF,Collaborative Studio Environment,topic,,,ARCH_3101_triples_raw.json
+ARCH_3101,collaborative problem-solving,concept,PART_OF,Collaborative Studio Environment,topic,,,ARCH_3101_triples_raw.json

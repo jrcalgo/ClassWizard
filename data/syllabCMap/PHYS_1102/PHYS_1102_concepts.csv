@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_1102,concept,electric charge,electric charge,3,verified,electric charge,PHYS_1102_concepts_raw.json
+PHYS_1102,topic,Electric Force and Field,electric force and field,1,verified,Electric Force and Field,PHYS_1102_concepts_raw.json
+PHYS_1102,concept,electric potential,electric potential,1,verified,electric potential,PHYS_1102_concepts_raw.json
+PHYS_1102,concept,electric circuits,electric circuits,3,verified,electric circuits,PHYS_1102_concepts_raw.json
+PHYS_1102,topic,Magnetic Forces and Fields,magnetic forces and fields,1,verified,Magnetic Forces and Fields,PHYS_1102_concepts_raw.json
+PHYS_1102,concept,electromagnetic induction,electromagnetic induction,3,verified,electromagnetic induction,PHYS_1102_concepts_raw.json
+PHYS_1102,concept,electromagnetic waves,electromagnetic waves,3,verified,electromagnetic waves,PHYS_1102_concepts_raw.json
+PHYS_1102,topic,Optics,Optics,4,verified,Optics,PHYS_1102_concepts_raw.json
+PHYS_1102,topic,Geometric Optics,Geometric optics,2,verified,Geometric Optics,PHYS_1102_concepts_raw.json
+PHYS_1102,topic,Polarization of Light,Polarization of light,2,verified,Polarization of Light,PHYS_1102_concepts_raw.json
+PHYS_1102,concept,electric force,electric force,1,verified,electric force,PHYS_1102_concepts_raw.json
+PHYS_1102,concept,electric field,electric fields,2,verified,electric field,PHYS_1102_concepts_raw.json
+PHYS_1102,concept,magnetic forces,magnetic forces,1,verified,magnetic forces,PHYS_1102_concepts_raw.json

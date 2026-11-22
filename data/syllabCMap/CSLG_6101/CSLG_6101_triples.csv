@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_6101,Professional Relationships,topic,PART_OF,"Ethical, Legal, and Professional Issues in Counseling",topic,,,CSLG_6101_triples_raw.json
+CSLG_6101,Private Practice Management,topic,PART_OF,"Ethical, Legal, and Professional Issues in Counseling",topic,,,CSLG_6101_triples_raw.json
+CSLG_6101,Counselor Education,topic,PART_OF,"Ethical, Legal, and Professional Issues in Counseling",topic,,,CSLG_6101_triples_raw.json
+CSLG_6101,Supervision Consultation,topic,PART_OF,"Ethical, Legal, and Professional Issues in Counseling",topic,,,CSLG_6101_triples_raw.json
+CSLG_6101,Professional Development,topic,PART_OF,"Ethical, Legal, and Professional Issues in Counseling",topic,,,CSLG_6101_triples_raw.json
+CSLG_6101,Ethics Consultation Teams,method,USED_FOR,Ethical Decision-Making Models,topic,,,CSLG_6101_triples_raw.json
+CSLG_6101,Case analysis,method,USED_FOR,Clinical Reasoning,topic,,,CSLG_6101_triples_raw.json
+CSLG_6101,Self-reflection,method,USED_FOR,Counselor Wellness,topic,,,CSLG_6101_triples_raw.json
+CSLG_6101,Application of ethical decision-making models,method,USED_FOR,Sound Professional Judgment,concept,,,CSLG_6101_triples_raw.json

@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3240,Early American Colonization,topic,PREREQUISITE_OF,Transatlantic Slave Trade,topic,A taught first,,HIST_3240_triples_raw.json
+HIST_3240,Racial Formation in Colonial Era,concept,PREREQUISITE_OF,Racial Formation in the US,topic,A taught first,,HIST_3240_triples_raw.json
+HIST_3240,Dred Scott Decision (1857,concept,PREREQUISITE_OF,Plessy v. Ferguson (1896,concept,same unit,,HIST_3240_triples_raw.json
+HIST_3240,Historical Context of Racism,concept,PART_OF,Race and the Law,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Slavery in Early America,concept,PART_OF,Early American Colonization,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Racial Formation in Colonial Era,concept,PART_OF,Early American Colonization,topic,,,HIST_3240_triples_raw.json
+HIST_3240,African Captivity and Enslavement,concept,PART_OF,Transatlantic Slave Trade,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Slave Codes and Laws,concept,PART_OF,Transatlantic Slave Trade,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Resistance to Slavery,concept,PART_OF,Transatlantic Slave Trade,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Free Black Communities,concept,PART_OF,Racial Formation in the US,topic,,,HIST_3240_triples_raw.json
+HIST_3240,March on Washington (1963,concept,PART_OF,Civil Rights Movement,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Voting Rights Act (1965,concept,PART_OF,Civil Rights Movement,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Historical Context of Racism,concept,USED_FOR,Race and the Law,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Slavery in Early America,concept,USED_FOR,Transatlantic Slave Trade,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Racial Formation in Colonial Era,concept,USED_FOR,Racial Formation in the US,topic,,,HIST_3240_triples_raw.json
+HIST_3240,Voting Rights Act (1965,concept,USED_FOR,Civil Rights Movement,topic,,,HIST_3240_triples_raw.json

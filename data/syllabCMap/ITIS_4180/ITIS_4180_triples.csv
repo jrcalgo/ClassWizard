@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4180,Regression Analysis,concept,PREREQUISITE_OF,In Class Evaluation,concept,B taught first,B is taught before A - check,ITIS_4180_triples_raw.json
+ITIS_4180,Regression Analysis,concept,PREREQUISITE_OF,Linear Regression Model,concept,same unit,,ITIS_4180_triples_raw.json
+ITIS_4180,Regression Analysis,concept,PREREQUISITE_OF,Coefficient of Determination,concept,same unit,,ITIS_4180_triples_raw.json
+ITIS_4180,Regression Analysis,concept,PREREQUISITE_OF,Residual Plots Interpretation,concept,same unit,,ITIS_4180_triples_raw.json
+ITIS_4180,Regression Analysis,concept,PREREQUISITE_OF,Model Evaluation Metrics,concept,A taught first,,ITIS_4180_triples_raw.json
+ITIS_4180,Software Engineering,concept,PREREQUISITE_OF,System Requirements,concept,same unit,,ITIS_4180_triples_raw.json
+ITIS_4180,Software Engineering,concept,PREREQUISITE_OF,Use Cases,concept,same unit,,ITIS_4180_triples_raw.json
+ITIS_4180,Software Engineering,concept,PREREQUISITE_OF,Class Diagrams,concept,same unit,,ITIS_4180_triples_raw.json
+ITIS_4180,In Class Evaluation,concept,PART_OF,Student Participation,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Regression Analysis,concept,PART_OF,Linear Regression Model,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Regression Analysis,concept,PART_OF,Coefficient of Determination,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Regression Analysis,concept,PART_OF,Model Evaluation Metrics,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Software Engineering,concept,PART_OF,System Requirements,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Software Engineering,concept,PART_OF,Use Cases,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Software Engineering,concept,PART_OF,Class Diagrams,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Linear Regression Model,concept,SUBTYPE_OF,Regression Analysis,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Coefficient of Determination,concept,SUBTYPE_OF,Regression Analysis,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Model Evaluation Metrics,concept,SUBTYPE_OF,Regression Analysis,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Decision Trees,concept,SUBTYPE_OF,Machine Learning,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Random Forest Classifier,concept,SUBTYPE_OF,Machine Learning,concept,,,ITIS_4180_triples_raw.json
+ITIS_4180,Gradient Boosting,concept,SUBTYPE_OF,Machine Learning,concept,,,ITIS_4180_triples_raw.json

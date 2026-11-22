@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EDCI_8475,topic,College Teaching,College Teaching,3,verified,College Teaching,EDCI_8475_concepts_raw.json
+EDCI_8475,topic,Curriculum & Instruction,Curriculum & Instruction,3,verified,Curriculum & Instruction,EDCI_8475_concepts_raw.json
+EDCI_8475,topic,Co-Teaching,co-teaching,4,verified,Co-Teaching,EDCI_8475_concepts_raw.json
+EDCI_8475,topic,Teaching Philosophy,Teaching Philosophy,1,inferred,Teaching Philosophy,EDCI_8475_concepts_raw.json
+EDCI_8475,topic,Teaching Enhancement Plan Development,Teaching Enhancement Plan Development,1,inferred,Teaching Enhancement Plan Development,EDCI_8475_concepts_raw.json
+EDCI_8475,topic,Classroom Management,Classroom Management,2,inferred,Classroom Management,EDCI_8475_concepts_raw.json
+EDCI_8475,topic,Student Engagement,Student Engagement,1,inferred,Student Engagement,EDCI_8475_concepts_raw.json
+EDCI_8475,topic,Motivation,Motivation,1,inferred,Motivation,EDCI_8475_concepts_raw.json
+EDCI_8475,topic,Inclusive Teaching Practices,Inclusive Teaching Practices,2,inferred,Inclusive Teaching Practices,EDCI_8475_concepts_raw.json
+EDCI_8475,topic,Research-Based Teaching Strategies,Research-Based Teaching Strategies,1,inferred,Research-Based Teaching Strategies,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Effective Classroom Management,Effective Classroom Management,1,inferred,Effective Classroom Management,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Student-Centered Learning Approaches,Student-Centered Learning Approaches,1,inferred,Student-Centered Learning Approaches,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Benefits of Co-Teaching,Benefits of Co-Teaching,1,inferred,Benefits of Co-Teaching,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Co-Teaching Models and Strategies,Co-Teaching Models and Strategies,1,inferred,Co-Teaching Models and Strategies,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Research-Based Teaching Practices,Research-Based Teaching Practices,1,inferred,Research-Based Teaching Practices,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Philosophy of Teaching Statement,Philosophy of Teaching Statement,2,inferred,Philosophy of Teaching Statement,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Personal Teaching Goals and Objectives,Personal Teaching Goals and Objectives,1,inferred,Personal Teaching Goals and Objectives,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Needs Assessment and Analysis,Needs Assessment and Analysis,1,inferred,Needs Assessment and Analysis,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Action Plan for Teaching Improvement,Action Plan for Teaching Improvement,1,inferred,Action Plan for Teaching Improvement,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Co-Teaching Internship Contract,Co-Teaching Internship Contract,1,inferred,Co-Teaching Internship Contract,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Faculty Supervisor Responsibilities,Faculty Supervisor Responsibilities,1,inferred,Faculty Supervisor Responsibilities,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Student Roles and Expectations,Student Roles and Expectations,1,inferred,Student Roles and Expectations,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Self-Assessment and Reflection,Self-Assessment and Reflection,1,inferred,Self-Assessment and Reflection,EDCI_8475_concepts_raw.json
+EDCI_8475,concept,Peer Observation and Feedback,Peer Observation and Feedback,1,inferred,Peer Observation and Feedback,EDCI_8475_concepts_raw.json

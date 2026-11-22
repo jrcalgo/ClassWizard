@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EXER_1100,topic,Anatomy and Physiology,Anatomy and Physiology,3,verified,Anatomy and Physiology,EXER_1100_concepts_raw.json
+EXER_1100,topic,Evidence-Based Study Skills,evidence-based study skills,1,verified,Evidence-Based Study Skills,EXER_1100_concepts_raw.json
+EXER_1100,topic,Human Body Overview,Human Body Overview,1,inferred,Human Body Overview,EXER_1100_concepts_raw.json
+EXER_1100,topic,Cell Structure Function,Cell Structure Function,1,inferred,Cell Structure Function,EXER_1100_concepts_raw.json
+EXER_1100,topic,Tissue Types Overview,Tissue Types Overview,1,inferred,Tissue Types Overview,EXER_1100_concepts_raw.json
+EXER_1100,topic,Organ Systems Overview,Organ Systems Overview,1,inferred,Organ Systems Overview,EXER_1100_concepts_raw.json
+EXER_1100,topic,Homeostasis Regulation,Homeostasis Regulation,1,inferred,Homeostasis Regulation,EXER_1100_concepts_raw.json
+EXER_1100,concept,regional anatomical terminology,Regional Anatomical Terminology,1,inferred,regional anatomical terminology,EXER_1100_concepts_raw.json
+EXER_1100,concept,directional anatomical terms,Directional Anatomical Terms,1,inferred,directional anatomical terms,EXER_1100_concepts_raw.json
+EXER_1100,concept,body regions and divisions,Body Regions and Divisions,1,inferred,body regions and divisions,EXER_1100_concepts_raw.json
+EXER_1100,concept,cell membrane and organelles,Cell Membrane and Organelles,1,inferred,cell membrane and organelles,EXER_1100_concepts_raw.json
+EXER_1100,concept,cellular transport mechanisms,Cellular Transport Mechanisms,1,inferred,cellular transport mechanisms,EXER_1100_concepts_raw.json
+EXER_1100,concept,cellular energy production,Cellular Energy Production,1,inferred,cellular energy production,EXER_1100_concepts_raw.json
+EXER_1100,concept,epithelial tissue characteristics,Epithelial Tissue Characteristics,1,inferred,epithelial tissue characteristics,EXER_1100_concepts_raw.json
+EXER_1100,concept,connective tissue functions,Connective Tissue Functions,1,inferred,connective tissue functions,EXER_1100_concepts_raw.json
+EXER_1100,concept,muscle tissue structure and function,Muscle Tissue Structure and Function,1,inferred,muscle tissue structure and function,EXER_1100_concepts_raw.json
+EXER_1100,concept,skeletal system bones and joints,Skeletal System Bones and Joints,1,inferred,skeletal system bones and joints,EXER_1100_concepts_raw.json
+EXER_1100,concept,nervous system brain and spinal cord,Nervous System Brain and Spinal Cord,1,inferred,nervous system brain and spinal cord,EXER_1100_concepts_raw.json
+EXER_1100,concept,circulatory system heart and blood vessels,Circulatory System Heart and Blood Vessels,1,inferred,circulatory system heart and blood vessels,EXER_1100_concepts_raw.json
+EXER_1100,concept,negative feedback mechanisms,Negative Feedback Mechanisms,1,inferred,negative feedback mechanisms,EXER_1100_concepts_raw.json
+EXER_1100,concept,positive feedback mechanisms,Positive Feedback Mechanisms,1,inferred,positive feedback mechanisms,EXER_1100_concepts_raw.json
+EXER_1100,concept,body homeostasis maintenance,Body Homeostasis Maintenance,1,inferred,body homeostasis maintenance,EXER_1100_concepts_raw.json

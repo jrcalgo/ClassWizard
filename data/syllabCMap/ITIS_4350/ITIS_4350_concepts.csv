@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_4350,topic,Design Prototyping,Design Prototyping,2,verified,Design Prototyping,ITIS_4350_concepts_raw.json
+ITIS_4350,topic,Prototyping,Prototyping,18,verified,Introduction to Prototyping,ITIS_4350_concepts_raw.json
+ITIS_4350,topic,Low Fidelity Prototyping,low fidelity prototyping,1,verified,Low Fidelity Prototyping,ITIS_4350_concepts_raw.json
+ITIS_4350,topic,Physical Prototyping,physical prototyping,1,verified,Physical Prototyping,ITIS_4350_concepts_raw.json
+ITIS_4350,topic,Interface Design Evaluation,Interface Design Evaluation,1,verified,Interface Design Evaluation,ITIS_4350_concepts_raw.json
+ITIS_4350,concept,Human-Computer Interaction,Human-Computer Interaction,1,verified,Human-Computer Interaction,ITIS_4350_concepts_raw.json
+ITIS_4350,concept,Evolutionary Prototyping,evolutionary prototyping,1,verified,Evolutionary Prototyping,ITIS_4350_concepts_raw.json
+ITIS_4350,concept,Prototyping Software Tools,prototyping software tools,1,verified,Prototyping Software Tools,ITIS_4350_concepts_raw.json
+ITIS_4350,concept,Specialty Prototyping Software,specialty prototyping software,1,verified,Specialty Prototyping Software,ITIS_4350_concepts_raw.json
+ITIS_4350,concept,User Interface Prototyping,User Interface Prototyping,1,verified,User Interface Prototyping,ITIS_4350_concepts_raw.json
+ITIS_4350,method,Sketching,Sketching,3,verified,Sketching,ITIS_4350_concepts_raw.json
+ITIS_4350,method,Paper Prototyping,paper prototyping,2,verified,Paper Prototyping,ITIS_4350_concepts_raw.json
+ITIS_4350,method,Storyboarding,Storyboarding,1,verified,Storyboarding,ITIS_4350_concepts_raw.json
+ITIS_4350,method,Prototyping with general software tools,Prototyping with general software tools,1,verified,Prototyping with general software tools,ITIS_4350_concepts_raw.json
+ITIS_4350,method,Prototyping with specialty prototyping software tools,Prototyping with specialty prototyping software tools,1,verified,Prototyping with specialty prototyping software tools,ITIS_4350_concepts_raw.json
+ITIS_4350,method,functionality,functionality,1,verified,Prototyping for different levels of interactivity / functionality,ITIS_4350_concepts_raw.json

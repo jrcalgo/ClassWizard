@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_2220,Moral Principles in Medicine,concept,PREREQUISITE_OF,Healthcare Decision Making,concept,same unit,,PHIL_2220_triples_raw.json
+PHIL_2220,Ethical Theories and Models,concept,PREREQUISITE_OF,Healthcare Decision Making,concept,same unit,,PHIL_2220_triples_raw.json
+PHIL_2220,Understanding Different Forms of Communication,concept,PREREQUISITE_OF,Analyzing Written Information,concept,same unit,,PHIL_2220_triples_raw.json
+PHIL_2220,Moral Principles in Medicine,concept,PART_OF,Medical Ethics,topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Ethical Theories and Models,concept,PART_OF,Medical Ethics,topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Healthcare Decision Making,concept,PART_OF,Medical Ethics,topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Identifying Main Ideas and Arguments,concept,PART_OF,Reading and Analyzing Texts,topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Understanding Different Forms of Communication,concept,PART_OF,Reading and Analyzing Texts,topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Developing Nuanced Arguments,concept,PART_OF,Critical Thinking in Healthcare Ethics,topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Reflecting Beliefs on Complex Issues,concept,PART_OF,Critical Thinking in Healthcare Ethics,topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Critically Analyzing Texts and Cases,concept,PART_OF,Critical Thinking in Healthcare Ethics,topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Moral Problems in Healthcare Context,concept,PART_OF,"Social, Political, Legal, and Cultural Factors",topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Global Concerns and Health Issues,concept,PART_OF,"Social, Political, Legal, and Cultural Factors",topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Interconnectedness of Social and Moral Problems,concept,PART_OF,"Social, Political, Legal, and Cultural Factors",topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Groundbreaking Cases in Medical History,concept,PART_OF,Case Studies in Medical Ethics,topic,,,PHIL_2220_triples_raw.json
+PHIL_2220,Applying Theories to Real-World Scenarios,concept,PART_OF,Case Studies in Medical Ethics,topic,,,PHIL_2220_triples_raw.json

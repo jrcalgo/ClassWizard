@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4233,topic,Parasitology,Parasitology,2,verified,Parasitology,BIOL_4233_concepts_raw.json
+BIOL_4233,topic,Host Immune Responses,host immune responses,1,verified,Host Immune Responses,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Importance of Parasites,importance of parasites,1,verified,Importance of Parasites,BIOL_4233_concepts_raw.json
+BIOL_4233,topic,Parasitic Groups and Taxonomy,Parasitic Groups and Taxonomy,1,inferred,Parasitic Groups and Taxonomy,BIOL_4233_concepts_raw.json
+BIOL_4233,topic,Protozoan Parasites,Protozoan Parasites,1,inferred,Protozoan Parasites,BIOL_4233_concepts_raw.json
+BIOL_4233,topic,Helminth Parasites,Helminth Parasites,1,inferred,Helminth Parasites,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Arthropod Parasites,Arthropod Parasites,2,inferred,Arthropod Parasites,BIOL_4233_concepts_raw.json
+BIOL_4233,topic,Parasite Ecology and Evolution,Parasite Ecology and Evolution,1,inferred,Parasite Ecology and Evolution,BIOL_4233_concepts_raw.json
+BIOL_4233,topic,Medical Importance of Parasites,Medical Importance of Parasites,1,inferred,Medical Importance of Parasites,BIOL_4233_concepts_raw.json
+BIOL_4233,topic,Economic Impact of Parasites,Economic Impact of Parasites,1,inferred,Economic Impact of Parasites,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Types of Parasites,Types of Parasites,1,inferred,Types of Parasites,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Host-Parasite Relationship,Host-Parasite Relationship,1,inferred,Host-Parasite Relationship,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Characteristics of Protozoa,Characteristics of Protozoa,1,inferred,Characteristics of Protozoa,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Helminth Morphology,Helminth Morphology,1,inferred,Helminth Morphology,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Innate Immunity Mechanisms,Innate Immunity Mechanisms,1,inferred,Innate Immunity Mechanisms,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Adaptive Immunity Processes,Adaptive Immunity Processes,1,inferred,Adaptive Immunity Processes,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Parasite-Host Interactions,Parasite-Host Interactions,1,inferred,Parasite-Host Interactions,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Trypanosome Life Cycle,Trypanosome Life Cycle,1,inferred,Trypanosome Life Cycle,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Plasmodium Biology,Plasmodium Biology,1,inferred,Plasmodium Biology,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Leishmania Morphology,Leishmania Morphology,1,inferred,Leishmania Morphology,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Nematode Anatomy,Nematode Anatomy,1,inferred,Nematode Anatomy,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Cestode Reproduction,Cestode Reproduction,1,inferred,Cestode Reproduction,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Trematode Development,Trematode Development,1,inferred,Trematode Development,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Tick Biology and Behavior,Tick Biology and Behavior,1,inferred,Tick Biology and Behavior,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Flea Life Cycle,Flea Life Cycle,1,inferred,Flea Life Cycle,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Louse Ecology,Louse Ecology,1,inferred,Louse Ecology,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Host-Parasite Coevolution,Host-Parasite Coevolution,1,inferred,Host-Parasite Coevolution,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Parasite Transmission Dynamics,Parasite Transmission Dynamics,1,inferred,Parasite Transmission Dynamics,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Epidemiology of Parasitic Diseases,Epidemiology of Parasitic Diseases,1,inferred,Epidemiology of Parasitic Diseases,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Disease Symptoms and Diagnosis,Disease Symptoms and Diagnosis,1,inferred,Disease Symptoms and Diagnosis,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Treatment Options for Parasitic Infections,Treatment Options for Parasitic Infections,1,inferred,Treatment Options for Parasitic Infections,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Public Health Implications,Public Health Implications,1,inferred,Public Health Implications,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Livestock Parasite Control Measures,Livestock Parasite Control Measures,1,inferred,Livestock Parasite Control Measures,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Crop Losses Due to Nematodes,Crop Losses Due to Nematodes,1,inferred,Crop Losses Due to Nematodes,BIOL_4233_concepts_raw.json
+BIOL_4233,concept,Parasite-Related Economic Burden,Parasite-Related Economic Burden,1,inferred,Parasite-Related Economic Burden,BIOL_4233_concepts_raw.json

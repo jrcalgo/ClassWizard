@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_4171,biotechnology,topic,PREREQUISITE_OF,R&D and drug development,topic,A taught first,,BINF_4171_triples_raw.json
+BINF_4171,biotechnology,topic,PREREQUISITE_OF,biotechnology formation fundamentals,topic,A taught first,,BINF_4171_triples_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6141,Design,topic,PREREQUISITE_OF,Operations Management,topic,B mentioned first,,MBAD_6141_triples_raw.json
+MBAD_6141,Design,topic,PREREQUISITE_OF,Control of Service and Manufacturing Systems,topic,A mentioned first,,MBAD_6141_triples_raw.json
+MBAD_6141,Workforce Management,topic,PREREQUISITE_OF,Operations Management,topic,B mentioned first,,MBAD_6141_triples_raw.json
+MBAD_6141,Aggregate Planning,topic,PREREQUISITE_OF,Operations Management,topic,B mentioned first,,MBAD_6141_triples_raw.json
+MBAD_6141,Total Quality Management,topic,PREREQUISITE_OF,Operations Management,topic,B mentioned first,,MBAD_6141_triples_raw.json
+MBAD_6141,Operation,topic,PART_OF,Operations Management,topic,,,MBAD_6141_triples_raw.json
+MBAD_6141,supply chain management,concept,PART_OF,Operations Management,topic,,,MBAD_6141_triples_raw.json

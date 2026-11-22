@@ -1,0 +1,59 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ENGR_3095,concept,Engineering Leadership,Engineering Leadership,16,verified,Engineering Leadership,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Personal Development Plan,Personal Development Plan,1,verified,Personal Development Plan,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Team Dynamics Basics,Team Dynamics Basics,1,verified,Team Dynamics Basics,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Team Dynamics,Team Dynamics,3,verified,Team Dynamics,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Communication Skills,Communication Skills,16,verified,Communication Skills,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Problem Solving Strategies,Problem Solving Strategies,2,verified,Problem Solving Strategies,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Collaborative Work Environment,Collaborative Work Environment,1,verified,Collaborative Work Environment,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Emotional Intelligence,Emotional Intelligence,10,verified,Emotional Intelligence,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Leadership Foundations,Leadership Foundations,1,verified,Leadership Foundations,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Personal Values,Personal Values,4,verified,Personal Values,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Self-Awareness,self-awareness,7,verified,Self-Awareness,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,EQ Development,EQ Development,1,verified,EQ Development,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Team Building Strategies,Team Building Strategies,2,verified,Team Building Strategies,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Collaborative Leadership Styles,Collaborative Leadership Styles,2,verified,Collaborative Leadership Styles,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Conflict Resolution Techniques,Conflict Resolution Techniques,1,verified,Conflict Resolution Techniques,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Communication Effectiveness Models,Communication Effectiveness Models,1,verified,Communication Effectiveness Models,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Diversity and Inclusion,Diversity and Inclusion,2,verified,Diversity and Inclusion,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Collaborative Problem Solving,Collaborative Problem Solving,13,verified,Collaborative Problem Solving,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Effective Communication Skills,Effective Communication Skills,15,verified,Effective Communication Skills,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Conflict Resolution Strategies,Conflict Resolution Strategies,17,verified,Conflict Resolution Strategies,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Self-Management Skills,Self-Management Skills,1,verified,Self-Management Skills,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Emotional Intelligence Development,Emotional Intelligence Development,6,verified,Emotional Intelligence Development,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Resilience Strategies,Resilience Strategies,1,verified,Resilience Strategies,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Goal Setting Techniques,Goal Setting Techniques,1,verified,Goal Setting Techniques,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Time Management Practices,Time Management Practices,1,verified,Time Management Practices,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Difficult Communication Styles,Difficult Communication Styles,3,verified,Difficult Communication Styles,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Effective Listening Techniques,Effective Listening Techniques,3,verified,Effective Listening Techniques,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Stuck Situations,Stuck Situations,1,verified,Stuck Situations,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Decision Making Models,Decision Making Models,1,verified,Decision Making Models,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Risk Management Techniques,Risk Management Techniques,1,verified,Risk Management Techniques,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Creative Problem Solving,creative problem-solving,2,verified,Creative Problem Solving,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Personal Leadership Style,Personal Leadership Style,2,verified,Personal Leadership Style,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Storytelling Techniques,Storytelling Techniques,1,verified,Storytelling Techniques,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Authentic Leadership Practices,Authentic Leadership Practices,1,verified,Authentic Leadership Practices,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Social Awareness,Social Awareness,2,verified,Social Awareness,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Empathy in Leadership,Empathy in Leadership,1,verified,Empathy in Leadership,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Cultural Competence,Cultural Competence,1,verified,Cultural Competence,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Self-Awareness Skills,Self-Awareness Skills,2,verified,Self-Awareness Skills,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Effective Communication,Effective Communication,17,verified,Effective Communication,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Relationship Management,Relationship Management,1,verified,Relationship Management,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Engineering Ethics,Engineering Ethics,1,verified,Engineering Ethics,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Personal Values System,Personal Values System,1,verified,Personal Values System,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Moral Principles Framework,Moral Principles Framework,1,verified,Moral Principles Framework,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Professional Code of Conduct,Professional Code of Conduct,1,verified,Professional Code of Conduct,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Leadership Decision Making,Leadership Decision Making,1,verified,Leadership Decision Making,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Coercive Leadership,Coercive Leadership,1,verified,Coercive Leadership,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Authoritative Leadership,Authoritative Leadership,2,verified,Authoritative Leadership,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Power Dynamics,Power Dynamics,1,verified,Power Dynamics,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Influence Tactics,Influence Tactics,1,verified,Influence Tactics,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Affiliative Leadership,Affiliative Leadership,1,verified,Affiliative Leadership,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Democratic Leadership,Democratic Leadership,2,verified,Democratic Leadership,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Transformational Leadership,Transformational Leadership,1,verified,Transformational Leadership,ENGR_3095_concepts_raw.json
+ENGR_3095,concept,Servant Leadership,Servant Leadership,1,verified,Servant Leadership,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Leader-Member Exchange,Leader-Member Exchange,1,verified,Leader-Member Exchange,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Empowerment Strategies,Empowerment Strategies,1,verified,Empowerment Strategies,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Collaborative Decision Making,Collaborative Decision Making,1,verified,Collaborative Decision Making,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Pace Setting Leadership,Pace Setting Leadership,1,verified,Pace Setting Leadership,ENGR_3095_concepts_raw.json
+ENGR_3095,topic,Coaching Leadership Styles,Coaching Leadership Styles,1,verified,Coaching Leadership Styles,ENGR_3095_concepts_raw.json

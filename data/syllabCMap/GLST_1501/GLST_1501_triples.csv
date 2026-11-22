@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GLST_1501,Colonialism and Imperialism,concept,PREREQUISITE_OF,Trade and Economic Systems,concept,same unit,,GLST_1501_triples_raw.json
+GLST_1501,Colonialism and Imperialism,concept,PREREQUISITE_OF,Cultural Exchange and Diffusion,concept,same unit,,GLST_1501_triples_raw.json
+GLST_1501,Communication Technologies,concept,PREREQUISITE_OF,Transportation Innovations,concept,same unit,,GLST_1501_triples_raw.json
+GLST_1501,Free Trade Agreements,concept,PREREQUISITE_OF,Global Economic Systems,concept,same unit,,GLST_1501_triples_raw.json
+GLST_1501,Cultural Identity and Exchange,concept,PREREQUISITE_OF,Migration and Diaspora,concept,same unit,,GLST_1501_triples_raw.json
+GLST_1501,Global Interconnectedness,concept,PART_OF,Globalization,topic,,,GLST_1501_triples_raw.json
+GLST_1501,Interdependence of Nations,concept,PART_OF,Globalization,topic,,,GLST_1501_triples_raw.json
+GLST_1501,Citizenship in a Global World,concept,PART_OF,Globalization,topic,,,GLST_1501_triples_raw.json
+GLST_1501,Globalization,topic,USED_FOR,Citizenship in a Global World,concept,,topic used for something - check direction,GLST_1501_triples_raw.json
+GLST_1501,Interdependence,topic,USED_FOR,Citizenship in a Global World,concept,,topic used for something - check direction,GLST_1501_triples_raw.json

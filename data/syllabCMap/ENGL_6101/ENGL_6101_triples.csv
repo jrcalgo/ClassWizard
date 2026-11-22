@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_6101,Critical Theory,topic,PREREQUISITE_OF,Marxist Literary Criticism,concept,A taught first,,ENGL_6101_triples_raw.json
+ENGL_6101,Critical Theory,topic,PREREQUISITE_OF,Feminist Literary Theory,concept,A taught first,,ENGL_6101_triples_raw.json
+ENGL_6101,Critical Theory,topic,PREREQUISITE_OF,Postcolonialism,concept,A taught first,,ENGL_6101_triples_raw.json
+ENGL_6101,Critical Theory,topic,PREREQUISITE_OF,Literary Text Analysis Techniques,concept,A taught first,,ENGL_6101_triples_raw.json
+ENGL_6101,Critical Theory,topic,PREREQUISITE_OF,Theoretical Frameworks for Analysis,concept,A taught first,,ENGL_6101_triples_raw.json
+ENGL_6101,Critical Theory,topic,PREREQUISITE_OF,Critical Theory Integration Strategies,concept,A taught first,,ENGL_6101_triples_raw.json
+ENGL_6101,Critical Theory Basics,concept,PART_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Marxist Literary Criticism,concept,PART_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Feminist Literary Theory,concept,PART_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Postcolonialism Overview,topic,PART_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Applying Theoretical Perspectives,concept,PART_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Literary Text Analysis Techniques,concept,PART_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Theoretical Frameworks for Analysis,concept,PART_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Critical Theory Integration Strategies,concept,PART_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Academic Source Evaluation,concept,PART_OF,Academic Writing Expectations,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Marxist Literary Criticism,concept,SUBTYPE_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Feminist Literary Theory,concept,SUBTYPE_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Postcolonialism Overview,topic,SUBTYPE_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Applying Theoretical Perspectives,concept,SUBTYPE_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Literary Text Analysis Techniques,concept,SUBTYPE_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Theoretical Frameworks for Analysis,concept,SUBTYPE_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json
+ENGL_6101,Critical Theory Integration Strategies,concept,SUBTYPE_OF,Critical Theory,topic,,,ENGL_6101_triples_raw.json

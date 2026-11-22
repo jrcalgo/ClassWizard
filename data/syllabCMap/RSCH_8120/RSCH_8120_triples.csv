@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_8120,Probability Theory Fundamentals,topic,PREREQUISITE_OF,Regression Analysis Fundamentals,topic,A taught first,,RSCH_8120_triples_raw.json
+RSCH_8120,Probability Theory Fundamentals,topic,PREREQUISITE_OF,Hypothesis Testing Basics,topic,A taught first,,RSCH_8120_triples_raw.json
+RSCH_8120,Probability Theory Fundamentals,topic,PREREQUISITE_OF,Confidence Intervals and Estimation,topic,A taught first,,RSCH_8120_triples_raw.json
+RSCH_8120,Probability Theory Fundamentals,topic,PREREQUISITE_OF,Non-Parametric Tests and Methods,topic,A taught first,,RSCH_8120_triples_raw.json
+RSCH_8120,Probability Theory Fundamentals,topic,PREREQUISITE_OF,Time Series Analysis Techniques,topic,A taught first,,RSCH_8120_triples_raw.json
+RSCH_8120,Probability Theory Fundamentals,topic,PREREQUISITE_OF,Bayesian Statistics Fundamentals,topic,A taught first,,RSCH_8120_triples_raw.json
+RSCH_8120,Probability Theory Fundamentals,topic,PREREQUISITE_OF,Advanced Statistical Modeling,topic,A taught first,,RSCH_8120_triples_raw.json
+RSCH_8120,Importance of Statistical Analysis,concept,PART_OF,Advanced Statistics,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Types of Data Distributions,concept,PART_OF,Advanced Statistics,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Descriptive Statistics Overview,concept,PART_OF,Advanced Statistics,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Conditional Probability Formulas,concept,PART_OF,Probability Theory Fundamentals,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Independence and Dependence,concept,PART_OF,Probability Theory Fundamentals,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Null and Alternative Hypotheses,concept,PART_OF,Hypothesis Testing Basics,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Test Statistics and P-Values,concept,PART_OF,Hypothesis Testing Basics,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Type I and Type II Errors,concept,PART_OF,Hypothesis Testing Basics,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Point Estimates and Interval Estimates,concept,PART_OF,Confidence Intervals and Estimation,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Simple Linear Regression Model,concept,PART_OF,Regression Analysis Fundamentals,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Multiple Linear Regression Assumptions,concept,PART_OF,Regression Analysis Fundamentals,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Coefficient Interpretation,concept,PART_OF,Regression Analysis Fundamentals,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Rank-Based Test Statistics,concept,PART_OF,Non-Parametric Tests and Methods,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Wilcoxon Signed-Rank Test,concept,PART_OF,Non-Parametric Tests and Methods,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,ARIMA Model Components,concept,PART_OF,Time Series Analysis Techniques,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Seasonal Decomposition Methods,concept,PART_OF,Time Series Analysis Techniques,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Prior and Posterior Distributions,concept,PART_OF,Bayesian Statistics Fundamentals,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Bayes' Theorem Application,concept,PART_OF,Bayesian Statistics Fundamentals,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Bayesian Estimation Methods,concept,PART_OF,Bayesian Statistics Fundamentals,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Generalized Linear Mixed Models,concept,PART_OF,Advanced Statistical Modeling,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Generalized Additive Models,concept,PART_OF,Advanced Statistical Modeling,topic,,,RSCH_8120_triples_raw.json
+RSCH_8120,Machine Learning Algorithms,concept,PART_OF,Advanced Statistical Modeling,topic,,,RSCH_8120_triples_raw.json

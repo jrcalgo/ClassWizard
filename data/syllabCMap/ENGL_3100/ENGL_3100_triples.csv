@@ -1,0 +1,35 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3100,Saussure's Structuralism Theory,concept,PREREQUISITE_OF,Barthes' Mythology of Signs,concept,same unit,,ENGL_3100_triples_raw.json
+ENGL_3100,Saussure's Structuralism Theory,concept,PREREQUISITE_OF,Derrida's Deconstruction Method,concept,same unit,,ENGL_3100_triples_raw.json
+ENGL_3100,Marx's Economic Determinism,concept,PREREQUISITE_OF,Althusser's Ideological State Apparatus,concept,same unit,,ENGL_3100_triples_raw.json
+ENGL_3100,Marx's Economic Determinism,concept,PREREQUISITE_OF,Gramsci's Cultural Hegemony Theory,concept,same unit,,ENGL_3100_triples_raw.json
+ENGL_3100,Iser's Reader-Response Theory,concept,PREREQUISITE_OF,Fish's Interpretive Communities,concept,same unit,,ENGL_3100_triples_raw.json
+ENGL_3100,Iser's Reader-Response Theory,concept,PREREQUISITE_OF,Reception Studies Methodology,concept,same unit,,ENGL_3100_triples_raw.json
+ENGL_3100,Literary Criticism Overview,concept,PART_OF,Approaches to Literature and Culture,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Theoretical Approaches to Literature,concept,PART_OF,Approaches to Literature and Culture,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Critical Thinking in Analysis,concept,PART_OF,Approaches to Literature and Culture,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Barthes' Mythology of Signs,concept,PART_OF,Structuralism and Post-Structuralism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Marx's Economic Determinism,concept,PART_OF,Marxist Literary Criticism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Gramsci's Cultural Hegemony Theory,concept,PART_OF,Marxist Literary Criticism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Feminist Critique of Patriarchy,concept,PART_OF,Feminist and Postcolonial Perspectives,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Subaltern Voices in Literature,concept,PART_OF,Feminist and Postcolonial Perspectives,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Fish's Interpretive Communities,concept,PART_OF,Reader-Response Theory and Reception Studies,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Reception Studies Methodology,concept,PART_OF,Reader-Response Theory and Reception Studies,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Greenblatt's New Historicism Approach,concept,PART_OF,New Historicism and Cultural Materialism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Bakhtin's Carnival of Discourse,concept,PART_OF,New Historicism and Cultural Materialism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Material Culture in Literature,concept,PART_OF,New Historicism and Cultural Materialism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Lyotard's Postmodern Condition,concept,PART_OF,Postmodernism and Poststructuralist Thought,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Foucault's Power-Knowledge Relationship,concept,PART_OF,Postmodernism and Poststructuralist Thought,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Baudrillard's Simulacra Theory,concept,PART_OF,Postmodernism and Poststructuralist Thought,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Literary Criticism Overview,concept,USED_FOR,Approaches to Literature and Culture,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Theoretical Approaches to Literature,concept,USED_FOR,Approaches to Literature and Culture,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Critical Thinking in Analysis,concept,USED_FOR,Approaches to Literature and Culture,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Saussure's Structuralism Theory,concept,USED_FOR,Structuralism and Post-Structuralism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Barthes' Mythology of Signs,concept,USED_FOR,Structuralism and Post-Structuralism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Derrida's Deconstruction Method,concept,USED_FOR,Structuralism and Post-Structuralism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Marx's Economic Determinism,concept,USED_FOR,Marxist Literary Criticism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Feminist Critique of Patriarchy,concept,USED_FOR,Feminist and Postcolonial Perspectives,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Fish's Interpretive Communities,concept,USED_FOR,Reader-Response Theory and Reception Studies,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Bakhtin's Carnival of Discourse,concept,USED_FOR,New Historicism and Cultural Materialism,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Lyotard's Postmodern Condition,concept,USED_FOR,Postmodernism and Poststructuralist Thought,topic,,,ENGL_3100_triples_raw.json
+ENGL_3100,Baudrillard's Simulacra Theory,concept,USED_FOR,Postmodernism and Poststructuralist Thought,topic,,,ENGL_3100_triples_raw.json

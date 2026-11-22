@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_3222,Medical vocabulary basics,concept,PREREQUISITE_OF,Describing symptoms in Spanish,concept,A taught first,,SPAN_3222_triples_raw.json
+SPAN_3222,Medical vocabulary basics,concept,PREREQUISITE_OF,Interpreting lab results and tests,concept,A taught first,,SPAN_3222_triples_raw.json
+SPAN_3222,Medical vocabulary basics,concept,PREREQUISITE_OF,Advanced medical procedures and vocabulary,concept,A taught first,,SPAN_3222_triples_raw.json
+SPAN_3222,Medical vocabulary basics,concept,PART_OF,Medical Spanish,topic,,,SPAN_3222_triples_raw.json
+SPAN_3222,Taking patient history in Spanish,concept,PART_OF,Patient Intake and History,topic,,,SPAN_3222_triples_raw.json
+SPAN_3222,Interpreting lab results and tests,concept,PART_OF,Symptoms and Diagnosis,topic,,,SPAN_3222_triples_raw.json
+SPAN_3222,Common medical conditions and terminology,concept,PART_OF,Specialized Medical Topics,topic,,,SPAN_3222_triples_raw.json
+SPAN_3222,Advanced medical procedures and vocabulary,concept,PART_OF,Specialized Medical Topics,topic,,,SPAN_3222_triples_raw.json

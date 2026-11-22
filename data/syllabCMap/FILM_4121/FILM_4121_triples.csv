@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_4121,storyboarding,method,USED_FOR,storyboarding and planning,concept,,,FILM_4121_triples_raw.json
+FILM_4121,directing,method,USED_FOR,documentary film history,concept,,,FILM_4121_triples_raw.json
+FILM_4121,editing,method,USED_FOR,editing software and techniques,concept,,,FILM_4121_triples_raw.json
+FILM_4121,scriptwriting,method,USED_FOR,scriptwriting for documentaries,concept,,,FILM_4121_triples_raw.json
+FILM_4121,location scouting,method,USED_FOR,location scouting and permits,concept,,,FILM_4121_triples_raw.json
+FILM_4121,composition,method,USED_FOR,composition and framing,concept,,,FILM_4121_triples_raw.json
+FILM_4121,sound recording,method,USED_FOR,sound recording techniques,concept,,,FILM_4121_triples_raw.json
+FILM_4121,communication,method,USED_FOR,communication and teamwork on set,concept,,,FILM_4121_triples_raw.json
+FILM_4121,interviewing,method,USED_FOR,interviewing techniques for documentaries,concept,,,FILM_4121_triples_raw.json
+FILM_4121,reenactment,method,USED_FOR,reenactment and reconstruction,concept,,,FILM_4121_triples_raw.json
+FILM_4121,sound design,method,USED_FOR,sound design and mixing,concept,,,FILM_4121_triples_raw.json
+FILM_4121,color correction,method,USED_FOR,color correction and grading,concept,,,FILM_4121_triples_raw.json

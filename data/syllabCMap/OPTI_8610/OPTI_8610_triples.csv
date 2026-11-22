@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPTI_8610,Degree Requirements and Timelines,concept,PART_OF,Graduate School,topic,,,OPTI_8610_triples_raw.json
+OPTI_8610,Academic Affairs,topic,PART_OF,Graduate School,topic,,,OPTI_8610_triples_raw.json
+OPTI_8610,Dean of Students,topic,PART_OF,Graduate School,topic,,,OPTI_8610_triples_raw.json
+OPTI_8610,Registrar,topic,PART_OF,Graduate School,topic,,,OPTI_8610_triples_raw.json
+OPTI_8610,International Student Services,topic,PART_OF,Graduate School,topic,,,OPTI_8610_triples_raw.json
+OPTI_8610,Disability Services,topic,PART_OF,Graduate School,topic,,,OPTI_8610_triples_raw.json
+OPTI_8610,Optics Center,topic,PART_OF,Graduate School,topic,,,OPTI_8610_triples_raw.json
+OPTI_8610,Academic Department,topic,PART_OF,Graduate School,topic,,,OPTI_8610_triples_raw.json

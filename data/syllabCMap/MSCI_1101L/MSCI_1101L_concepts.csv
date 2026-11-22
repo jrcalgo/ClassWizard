@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MSCI_1101L,topic,Army Basics,Army basics,1,verified,Army Basics,MSCI_1101L_concepts_raw.json
+MSCI_1101L,topic,Analytical Techniques,analytical techniques,1,verified,Analytical Techniques,MSCI_1101L_concepts_raw.json
+MSCI_1101L,topic,Creative Thinking,creative thinking,1,verified,Creative Thinking,MSCI_1101L_concepts_raw.json
+MSCI_1101L,topic,Army Doctrine,Army doctrine,2,verified,Army Doctrine,MSCI_1101L_concepts_raw.json
+MSCI_1101L,topic,Multidomain Operations,Multidomain Operations,1,verified,Multidomain Operations,MSCI_1101L_concepts_raw.json
+MSCI_1101L,topic,Offensive Operations,Offensive Operations,1,verified,Offensive Operations,MSCI_1101L_concepts_raw.json
+MSCI_1101L,topic,Defensive Operations,Defensive Operations,1,verified,Defensive Operations,MSCI_1101L_concepts_raw.json
+MSCI_1101L,topic,Squad Tactics,Squad tactics,1,verified,Squad Tactics,MSCI_1101L_concepts_raw.json

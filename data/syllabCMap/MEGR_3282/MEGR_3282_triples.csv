@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3282,Control Charts for Attributes,topic,PART_OF,control charts for attributes and variables,concept,,part is broader than whole - check direction,MEGR_3282_triples_raw.json
+MEGR_3282,gage repeatability and reproducibility studies,concept,PART_OF,Measurement Uncertainty,topic,,,MEGR_3282_triples_raw.json
+MEGR_3282,hypothesis testing,method,PART_OF,analysis of variance,concept,,,MEGR_3282_triples_raw.json
+MEGR_3282,acceptance sampling,concept,PART_OF,Tolerance Stack-Up Analysis,topic,,,MEGR_3282_triples_raw.json
+MEGR_3282,process capability estimation,concept,PART_OF,Measurement Uncertainty,topic,,,MEGR_3282_triples_raw.json
+MEGR_3282,hypothesis testing,method,USED_FOR,analysis of variance,concept,,,MEGR_3282_triples_raw.json

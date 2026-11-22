@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTB_1202,Studio,topic,PREREQUISITE_OF,3D Design,topic,A mentioned first,,ARTB_1202_triples_raw.json
+ARTB_1202,Studio,topic,PREREQUISITE_OF,Formal and Conceptual Development,topic,A taught first,,ARTB_1202_triples_raw.json
+ARTB_1202,researching,method,PREREQUISITE_OF,conceptual relationships,method,unknown,,ARTB_1202_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HPSY_8151,DSM-5 diagnostic criteria,concept,PREREQUISITE_OF,ICD-11 classification system,concept,same unit,,HPSY_8151_triples_raw.json
+HPSY_8151,DSM-5 diagnostic criteria,concept,PART_OF,Diagnostic Criteria and Systems,topic,,,HPSY_8151_triples_raw.json
+HPSY_8151,ICD-11 classification system,concept,PART_OF,Diagnostic Criteria and Systems,topic,,,HPSY_8151_triples_raw.json
+HPSY_8151,contemporary clinical vocabulary,concept,USED_FOR,Psychopathology,topic,,,HPSY_8151_triples_raw.json
+HPSY_8151,DSM-5 diagnostic criteria,concept,USED_FOR,Diagnostic Criteria and Systems,topic,,,HPSY_8151_triples_raw.json

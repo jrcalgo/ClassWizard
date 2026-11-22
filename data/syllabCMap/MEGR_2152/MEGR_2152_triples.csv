@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2152,2D Sketching Fundamentals,topic,PREREQUISITE_OF,3D Modeling Basics,topic,A taught first,,MEGR_2152_triples_raw.json
+MEGR_2152,2D Drawing Techniques,topic,PREREQUISITE_OF,Advanced CAD Techniques,topic,A taught first,,MEGR_2152_triples_raw.json
+MEGR_2152,Dimensioning and tolerancing practices,method,PART_OF,Dimensioning and tolerancing,concept,,,MEGR_2152_triples_raw.json
+MEGR_2152,Drawing notation and symbols,method,PART_OF,Mechanical Drawing Standards,topic,,,MEGR_2152_triples_raw.json
+MEGR_2152,Importing and exporting files,method,PART_OF,Basic navigation techniques,method,,,MEGR_2152_triples_raw.json
+MEGR_2152,Parametric modeling and design,method,PART_OF,Advanced CAD Techniques,topic,,,MEGR_2152_triples_raw.json
+MEGR_2152,Kinematic and dynamic analysis,concept,PART_OF,Advanced CAD Techniques,topic,,,MEGR_2152_triples_raw.json
+MEGR_2152,Simulation and analysis tools,concept,PART_OF,Advanced CAD Techniques,topic,,,MEGR_2152_triples_raw.json

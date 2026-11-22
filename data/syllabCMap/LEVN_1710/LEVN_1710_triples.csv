@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEVN_1710,Expectations and Responsibilities,concept,PREREQUISITE_OF,Levine Scholarship Program Overview,concept,same unit,,LEVN_1710_triples_raw.json
+LEVN_1710,Time Management Strategies,concept,PREREQUISITE_OF,Self-Reflection Exercises,concept,same unit,,LEVN_1710_triples_raw.json
+LEVN_1710,Networking Skills Development,concept,PREREQUISITE_OF,Peer Support Systems,concept,same unit,,LEVN_1710_triples_raw.json
+LEVN_1710,Professional Skill Sets,concept,PREREQUISITE_OF,Leadership Development Opportunities,concept,same unit,,LEVN_1710_triples_raw.json
+LEVN_1710,Internship Application Process,concept,PREREQUISITE_OF,Summer Internship Preparation,topic,same unit,,LEVN_1710_triples_raw.json
+LEVN_1710,Levine Scholarship Program Overview,concept,PART_OF,Levine Scholars Freshman Seminar,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Academic Support Services,concept,PART_OF,Levine Scholars Freshman Seminar,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Time Management Strategies,concept,PART_OF,Transitioning to College Life,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Goal Setting Techniques,concept,PART_OF,Transitioning to College Life,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Self-Reflection Exercises,concept,PART_OF,Transitioning to College Life,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Networking Skills Development,concept,PART_OF,Building Peer Network,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Peer Support Systems,concept,PART_OF,Building Peer Network,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Community Building Activities,concept,PART_OF,Building Peer Network,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Professional Skill Sets,concept,PART_OF,Summer Internship Preparation,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Leadership Development Opportunities,concept,PART_OF,Summer Internship Preparation,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Internship Application Process,concept,PART_OF,Summer Internship Preparation,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Goal Setting for Personal Growth,concept,PART_OF,Personal Growth and Leadership,topic,,,LEVN_1710_triples_raw.json
+LEVN_1710,Leadership Development Strategies,concept,PART_OF,Personal Growth and Leadership,topic,,,LEVN_1710_triples_raw.json

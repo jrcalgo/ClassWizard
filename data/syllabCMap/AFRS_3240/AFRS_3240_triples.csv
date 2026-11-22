@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AFRS_3240,Historical Context of Slavery,concept,PREREQUISITE_OF,Racial Formation in America,concept,same unit,,AFRS_3240_triples_raw.json
+AFRS_3240,Colonial Era Laws,topic,PREREQUISITE_OF,Antebellum Era Developments,topic,A taught first,,AFRS_3240_triples_raw.json
+AFRS_3240,Antebellum Era Developments,topic,PREREQUISITE_OF,Reconstruction and Redemption,topic,A taught first,,AFRS_3240_triples_raw.json
+AFRS_3240,Civil Rights Era Milestones,topic,PREREQUISITE_OF,Contemporary Issues in Race and Law,topic,A taught first,,AFRS_3240_triples_raw.json
+AFRS_3240,Historical Context of Slavery,concept,PART_OF,Race and the Law,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,Racial Formation in America,concept,PART_OF,Race and the Law,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,Importance of Law and Policy,concept,PART_OF,Race and the Law,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,Colonial Era Laws,topic,PART_OF,Antebellum Era Developments,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,Rise of Jim Crow Laws,concept,PART_OF,Antebellum Era Developments,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,14th Amendment Significance,concept,PART_OF,Reconstruction and Redemption,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,Jim Crow Laws Enforcement,concept,PART_OF,Reconstruction and Redemption,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,Brown v. Board of Education,concept,PART_OF,Civil Rights Era Milestones,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,Civil Rights Act of 1964,concept,PART_OF,Civil Rights Era Milestones,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,Police Brutality and Accountability,concept,PART_OF,Contemporary Issues in Race and Law,topic,,,AFRS_3240_triples_raw.json
+AFRS_3240,Affirmative Action Debate,concept,PART_OF,Contemporary Issues in Race and Law,topic,,,AFRS_3240_triples_raw.json

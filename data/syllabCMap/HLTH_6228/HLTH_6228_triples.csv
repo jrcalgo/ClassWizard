@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6228,public health models and frameworks,concept,PREREQUISITE_OF,Public Health Initiatives,topic,B mentioned first,,HLTH_6228_triples_raw.json
+HLTH_6228,Public Health Initiatives,topic,PART_OF,public health models and frameworks,concept,,part is broader than whole - check direction,HLTH_6228_triples_raw.json

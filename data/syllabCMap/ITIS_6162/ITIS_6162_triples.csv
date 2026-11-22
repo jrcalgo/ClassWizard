@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_6162,Data Preprocessing,topic,PREREQUISITE_OF,Data Semantics,topic,A taught first,,ITIS_6162_triples_raw.json
+ITIS_6162,Data Semantics,topic,PREREQUISITE_OF,Granular Computing,topic,A taught first,,ITIS_6162_triples_raw.json
+ITIS_6162,Clustering,topic,PREREQUISITE_OF,High Dimensional & Distributed Data Mining,topic,A taught first,,ITIS_6162_triples_raw.json
+ITIS_6162,Data Preprocessing,topic,PREREQUISITE_OF,Data Operations,topic,A taught first,,ITIS_6162_triples_raw.json
+ITIS_6162,Data Semantics,topic,PREREQUISITE_OF,Actionability,topic,A taught first,,ITIS_6162_triples_raw.json
+ITIS_6162,Data Preprocessing,topic,USED_FOR,Association/Representative Rules,topic,,topic used for something - check direction,ITIS_6162_triples_raw.json
+ITIS_6162,Data Semantics,topic,USED_FOR,Granular Computing,topic,,topic used for something - check direction,ITIS_6162_triples_raw.json
+ITIS_6162,Data Operations,topic,USED_FOR,Dimensionality Reduction,topic,,topic used for something - check direction,ITIS_6162_triples_raw.json

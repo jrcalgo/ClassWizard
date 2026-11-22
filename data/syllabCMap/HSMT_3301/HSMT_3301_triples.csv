@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HSMT_3301,Managed care regulation,concept,PREREQUISITE_OF,Managed Care Organizations,concept,A taught first,,HSMT_3301_triples_raw.json
+HSMT_3301,Fee-for-Service,concept,PREREQUISITE_OF,HMO,concept,A mentioned first,,HSMT_3301_triples_raw.json
+HSMT_3301,Affordable Care Act,concept,PREREQUISITE_OF,Health Insurance Marketplaces,concept,same unit,,HSMT_3301_triples_raw.json
+HSMT_3301,Navigating Health Insurance,work,PART_OF,Health Insurance System,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Managed care regulation,concept,PART_OF,Managed Care Organizations,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Fee-for-Service,concept,PART_OF,HMO,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Affordable Care Act,concept,PART_OF,Health Insurance Marketplaces,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Navigating Health Insurance,work,PART_OF,Health Insurance Options,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,HMO,concept,SUBTYPE_OF,Managed Care Organizations,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,medical home,concept,SUBTYPE_OF,Healthcare Delivery Settings,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,private insurers,concept,SUBTYPE_OF,Health Insurance System,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Public Health Insurance,concept,SUBTYPE_OF,Health Insurance System,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Private Health Insurance,concept,SUBTYPE_OF,Health Insurance System,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Group Health Insurance Options,concept,SUBTYPE_OF,Health Insurance Plans,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Navigating Health Insurance,work,USED_FOR,Health insurance design,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Navigating Health Insurance,work,USED_FOR,Managed care regulation,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Navigating Health Insurance,work,USED_FOR,Fee-for-Service,concept,,,HSMT_3301_triples_raw.json
+HSMT_3301,Navigating Health Insurance,work,USED_FOR,Affordable Care Act,concept,,,HSMT_3301_triples_raw.json

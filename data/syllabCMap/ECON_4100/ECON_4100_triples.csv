@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_4100,Sets,topic,PART_OF,Mathematical Economics,topic,,,ECON_4100_triples_raw.json
+ECON_4100,Relations,topic,PART_OF,Mathematical Economics,topic,,,ECON_4100_triples_raw.json
+ECON_4100,Logic,topic,PART_OF,Mathematical Economics,topic,,,ECON_4100_triples_raw.json
+ECON_4100,Sets,topic,PART_OF,Proof,topic,,,ECON_4100_triples_raw.json
+ECON_4100,Real Line,topic,PART_OF,Proof,topic,,,ECON_4100_triples_raw.json
+ECON_4100,Differentiation as linear approximation,topic,PART_OF,Optimization Techniques,concept,,part is broader than whole - check direction,ECON_4100_triples_raw.json
+ECON_4100,Gradient Vector,topic,PART_OF,Optimization Methods,concept,,part is broader than whole - check direction,ECON_4100_triples_raw.json
+ECON_4100,Mathematical Modeling Methods,topic,PART_OF,Economic Relationships Formulation,concept,,part is broader than whole - check direction,ECON_4100_triples_raw.json
+ECON_4100,Envelope Theorem,concept,PART_OF,Optimization Methods,concept,,,ECON_4100_triples_raw.json

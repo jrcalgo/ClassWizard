@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_3220,Air Pollution Basics,concept,PART_OF,Air Quality,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Weather and Geography Factors,concept,PART_OF,Air Quality,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Clean Air Act History,concept,PART_OF,US Clean Air Act Overview,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Nitrogen Dioxide Emissions,concept,PART_OF,Criteria Air Pollutants (CAPs,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Particulate Matter Sources,concept,PART_OF,Criteria Air Pollutants (CAPs,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Ozone Formation Mechanisms,concept,PART_OF,Criteria Air Pollutants (CAPs,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Air Toxics Definition,concept,PART_OF,Hazardous Air Pollutants (HAPs,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Health Effects of HAPs,concept,PART_OF,Hazardous Air Pollutants (HAPs,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Environmental Impact Assessment,concept,PART_OF,Hazardous Air Pollutants (HAPs,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,NAAQS Definition and Purpose,concept,PART_OF,National Ambient Air Quality Standards,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Standard Setting Process,concept,PART_OF,National Ambient Air Quality Standards,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Data Collection Methods,concept,PART_OF,Air Pollution Monitoring Tools,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Sensor Technologies Overview,concept,PART_OF,Air Pollution Monitoring Tools,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Air Quality Index Explanation,concept,PART_OF,Air Pollution Monitoring Tools,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,International Cooperation Efforts,concept,PART_OF,Global and Regional Air Quality Issues,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Regional Air Pollution Hotspots,concept,PART_OF,Global and Regional Air Quality Issues,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Climate Change Impact on AQ,concept,PART_OF,Global and Regional Air Quality Issues,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Exposure Disparities Overview,concept,PART_OF,Social and Physical Dimensions of Air Pollution,topic,,,ESCI_3220_triples_raw.json
+ESCI_3220,Physical Environment Impact,concept,PART_OF,Social and Physical Dimensions of Air Pollution,topic,,,ESCI_3220_triples_raw.json

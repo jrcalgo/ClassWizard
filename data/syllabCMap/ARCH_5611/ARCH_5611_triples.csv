@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_5611,Historical Lineage of Ideas,topic,PREREQUISITE_OF,Academic Research Methodologies,topic,A taught first,,ARCH_5611_triples_raw.json
+ARCH_5611,Foundations of Design & Computation,topic,PREREQUISITE_OF,Design Computation,topic,B mentioned first,,ARCH_5611_triples_raw.json
+ARCH_5611,Foundations of Design & Computation,topic,PREREQUISITE_OF,Computational Tools and Processes,topic,B mentioned first,,ARCH_5611_triples_raw.json
+ARCH_5611,Foundations of Design & Computation,topic,PREREQUISITE_OF,Future Impacts of Computation,topic,B mentioned first,,ARCH_5611_triples_raw.json
+ARCH_5611,Design Computation,topic,PART_OF,Foundations of Design & Computation,topic,,,ARCH_5611_triples_raw.json
+ARCH_5611,Academic Research Methodologies,topic,PART_OF,Foundations of Design & Computation,topic,,,ARCH_5611_triples_raw.json
+ARCH_5611,Future Impacts of Computation,topic,PART_OF,Foundations of Design & Computation,topic,,,ARCH_5611_triples_raw.json

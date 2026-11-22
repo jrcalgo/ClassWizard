@@ -1,0 +1,34 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_6610,biophysics definition and scope,concept,PREREQUISITE_OF,interdisciplinary nature of biophysics,concept,same unit,,PHYS_6610_triples_raw.json
+PHYS_6610,biophysics definition and scope,concept,PREREQUISITE_OF,applications in molecular biology,concept,same unit,,PHYS_6610_triples_raw.json
+PHYS_6610,protein structure and function,concept,PREREQUISITE_OF,membrane structure and transport,concept,same unit,,PHYS_6610_triples_raw.json
+PHYS_6610,X-ray crystallography basics,concept,PREREQUISITE_OF,magnetic resonance spectroscopy,concept,same unit,,PHYS_6610_triples_raw.json
+PHYS_6610,X-ray crystallography basics,concept,PREREQUISITE_OF,fluorescence microscopy principles,concept,same unit,,PHYS_6610_triples_raw.json
+PHYS_6610,single-molecule biophysics techniques,concept,PREREQUISITE_OF,biological systems modeling and simulation,concept,same unit,,PHYS_6610_triples_raw.json
+PHYS_6610,single-molecule biophysics techniques,concept,PREREQUISITE_OF,quantum mechanics in biology,concept,same unit,,PHYS_6610_triples_raw.json
+PHYS_6610,presenting research findings effectively,concept,PREREQUISITE_OF,critical thinking and discussion skills,concept,same unit,,PHYS_6610_triples_raw.json
+PHYS_6610,presenting research findings effectively,concept,PREREQUISITE_OF,interdisciplinary collaboration and communication,concept,same unit,,PHYS_6610_triples_raw.json
+PHYS_6610,biophysics definition and scope,concept,PART_OF,Biophysics,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,applications in molecular biology,concept,PART_OF,Biophysics,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,protein structure and function,concept,PART_OF,Molecular Structure and Dynamics,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,nucleic acid structure and dynamics,concept,PART_OF,Molecular Structure and Dynamics,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,membrane structure and transport,concept,PART_OF,Molecular Structure and Dynamics,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,X-ray crystallography basics,concept,PART_OF,Biophysical Techniques and Methods,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,magnetic resonance spectroscopy,concept,PART_OF,Biophysical Techniques and Methods,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,fluorescence microscopy principles,concept,PART_OF,Biophysical Techniques and Methods,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,single-molecule biophysics techniques,concept,PART_OF,Contemporary Topics in Biophysics,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,biological systems modeling and simulation,concept,PART_OF,Contemporary Topics in Biophysics,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,quantum mechanics in biology,concept,PART_OF,Contemporary Topics in Biophysics,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,presenting research findings effectively,concept,PART_OF,Research Seminar Presentations,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,critical thinking and discussion skills,concept,PART_OF,Research Seminar Presentations,topic,,,PHYS_6610_triples_raw.json
+PHYS_6610,X-ray crystallography basics,concept,USED_FOR,protein structure and function,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,X-ray crystallography basics,concept,USED_FOR,nucleic acid structure and dynamics,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,X-ray crystallography basics,concept,USED_FOR,membrane structure and transport,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,magnetic resonance spectroscopy,concept,USED_FOR,protein structure and function,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,magnetic resonance spectroscopy,concept,USED_FOR,nucleic acid structure and dynamics,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,magnetic resonance spectroscopy,concept,USED_FOR,membrane structure and transport,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,fluorescence microscopy principles,concept,USED_FOR,protein structure and function,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,fluorescence microscopy principles,concept,USED_FOR,nucleic acid structure and dynamics,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,fluorescence microscopy principles,concept,USED_FOR,membrane structure and transport,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,single-molecule biophysics techniques,concept,USED_FOR,biological systems modeling and simulation,concept,,,PHYS_6610_triples_raw.json
+PHYS_6610,single-molecule biophysics techniques,concept,USED_FOR,quantum mechanics in biology,concept,,,PHYS_6610_triples_raw.json

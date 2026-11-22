@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUED_4194L,Succinct Instructional Communication,concept,PART_OF,L Instrumental Methods Lab,topic,,,MUED_4194L_triples_raw.json
+MUED_4194L,edTPA Requirements,concept,PART_OF,L Instrumental Methods Lab,topic,,,MUED_4194L_triples_raw.json
+MUED_4194L,Domain-Specific Research Methods,concept,USED_FOR,Clinical Application Process,concept,,,MUED_4194L_triples_raw.json
+MUED_4194L,Assessment and Reflection Techniques,concept,USED_FOR,Clinical Application Process,concept,,,MUED_4194L_triples_raw.json

@@ -1,0 +1,64 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6157,financial statement analysis,topic,PREREQUISITE_OF,time value of money,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,financial statement analysis,topic,PREREQUISITE_OF,investment decision rules,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,financial statement analysis,topic,PREREQUISITE_OF,capital budgeting,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,financial statement analysis,topic,PREREQUISITE_OF,stock valuation,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,financial statement analysis,topic,PREREQUISITE_OF,capital markets and the pricing of risk,topic,A mentioned first,,MBAD_6157_triples_raw.json
+MBAD_6157,financial statement analysis,topic,PREREQUISITE_OF,estimating the cost of capital,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,time value of money,topic,PREREQUISITE_OF,capital budgeting,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,time value of money,topic,PREREQUISITE_OF,stock valuation,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,investment decision rules,topic,PREREQUISITE_OF,capital budgeting,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,investment decision rules,topic,PREREQUISITE_OF,stock valuation,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,investment decision rules,topic,PREREQUISITE_OF,capital markets and the pricing of risk,topic,A mentioned first,,MBAD_6157_triples_raw.json
+MBAD_6157,capital budgeting,topic,PREREQUISITE_OF,stock valuation,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,capital budgeting,topic,PREREQUISITE_OF,capital markets and the pricing of risk,topic,A mentioned first,,MBAD_6157_triples_raw.json
+MBAD_6157,capital budgeting,topic,PREREQUISITE_OF,estimating the cost of capital,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,stock valuation,topic,PREREQUISITE_OF,capital markets and the pricing of risk,topic,A mentioned first,,MBAD_6157_triples_raw.json
+MBAD_6157,stock valuation,topic,PREREQUISITE_OF,estimating the cost of capital,topic,A taught first,,MBAD_6157_triples_raw.json
+MBAD_6157,capital markets and the pricing of risk,topic,PREREQUISITE_OF,estimating the cost of capital,topic,B mentioned first,,MBAD_6157_triples_raw.json
+MBAD_6157,time value of money,topic,PART_OF,financial statement analysis,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,capital budgeting,topic,PART_OF,financial statement analysis,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,stock valuation,topic,PART_OF,financial statement analysis,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,capital markets and the pricing of risk,topic,PART_OF,financial statement analysis,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,estimating the cost of capital,topic,PART_OF,financial statement analysis,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,PART_OF,financial statement analysis,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,PART_OF,financial statement analysis,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,investment decision rules,topic,PART_OF,time value of money,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,capital budgeting,topic,PART_OF,time value of money,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,stock valuation,topic,PART_OF,time value of money,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,capital markets and the pricing of risk,topic,PART_OF,time value of money,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,estimating the cost of capital,topic,PART_OF,time value of money,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,PART_OF,time value of money,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,PART_OF,time value of money,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,capital budgeting,topic,PART_OF,investment decision rules,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,stock valuation,topic,PART_OF,investment decision rules,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,capital markets and the pricing of risk,topic,PART_OF,investment decision rules,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,estimating the cost of capital,topic,PART_OF,investment decision rules,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,PART_OF,investment decision rules,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,PART_OF,investment decision rules,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,stock valuation,topic,PART_OF,capital budgeting,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,capital markets and the pricing of risk,topic,PART_OF,capital budgeting,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,estimating the cost of capital,topic,PART_OF,capital budgeting,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,PART_OF,capital budgeting,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,PART_OF,capital budgeting,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,capital markets and the pricing of risk,topic,PART_OF,stock valuation,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,estimating the cost of capital,topic,PART_OF,stock valuation,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,PART_OF,stock valuation,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,PART_OF,stock valuation,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,estimating the cost of capital,topic,PART_OF,capital markets and the pricing of risk,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,PART_OF,capital markets and the pricing of risk,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,PART_OF,estimating the cost of capital,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,PART_OF,estimating the cost of capital,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,USED_FOR,financial statement analysis,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,USED_FOR,time value of money,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,USED_FOR,investment decision rules,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,USED_FOR,capital budgeting,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,USED_FOR,stock valuation,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,USED_FOR,capital markets and the pricing of risk,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,lectures,method,USED_FOR,estimating the cost of capital,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,USED_FOR,time value of money,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,USED_FOR,investment decision rules,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,USED_FOR,capital budgeting,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,USED_FOR,stock valuation,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,USED_FOR,capital markets and the pricing of risk,topic,,,MBAD_6157_triples_raw.json
+MBAD_6157,in-class exercises,method,USED_FOR,estimating the cost of capital,topic,,,MBAD_6157_triples_raw.json

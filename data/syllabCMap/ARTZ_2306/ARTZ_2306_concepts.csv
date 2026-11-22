@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARTZ_2306,topic,3D Modeling,3D Modeling,2,verified,3D Modeling,ARTZ_2306_concepts_raw.json
+ARTZ_2306,topic,Digital Fabrication,Digital Fabrication,2,verified,Digital Fabrication,ARTZ_2306_concepts_raw.json
+ARTZ_2306,topic,Computer-Aided Design,computer-aided design,1,verified,Computer-Aided Design,ARTZ_2306_concepts_raw.json
+ARTZ_2306,topic,Art and Design Works,art and design works,1,verified,Art and Design Works,ARTZ_2306_concepts_raw.json
+ARTZ_2306,topic,Ceramics,ceramics,1,verified,Ceramics,ARTZ_2306_concepts_raw.json
+ARTZ_2306,topic,Fiber,fiber,1,verified,Fiber,ARTZ_2306_concepts_raw.json
+ARTZ_2306,topic,Sculptural Media,sculptural media,1,verified,Sculptural Media,ARTZ_2306_concepts_raw.json
+ARTZ_2306,concept,interdependent formal and conceptual relationships,interdependent formal and conceptual relationships,1,verified,interdependent formal and conceptual relationships,ARTZ_2306_concepts_raw.json
+ARTZ_2306,concept,digital portfolio presentation,digital portfolio presentation,2,verified,digital portfolio presentation,ARTZ_2306_concepts_raw.json
+ARTZ_2306,concept,technical proficiency,technical proficiency,2,verified,technical proficiency,ARTZ_2306_concepts_raw.json
+ARTZ_2306,concept,digital presentation tools,digital presentation tools,2,verified,digital presentation tools,ARTZ_2306_concepts_raw.json
+ARTZ_2306,concept,arts-related topic,arts related topic,2,verified,arts-related topic,ARTZ_2306_concepts_raw.json
+ARTZ_2306,concept,domain-specific research and theory,domain-specific research and theory,1,verified,domain-specific research and theory,ARTZ_2306_concepts_raw.json
+ARTZ_2306,concept,student learning,student learning,1,verified,student learning,ARTZ_2306_concepts_raw.json
+ARTZ_2306,concept,progressive formal and conceptual development,progressive formal and conceptual development,1,verified,progressive formal and conceptual development,ARTZ_2306_concepts_raw.json
+ARTZ_2306,method,conceptual relationships,conceptual relationships,1,verified,researching interdependent formal and conceptual relationships,ARTZ_2306_concepts_raw.json
+ARTZ_2306,method,designing,design,9,verified,"designing, implementing, assessing, and reflecting on student learning",ARTZ_2306_concepts_raw.json
+ARTZ_2306,method,implementing,implement,1,verified,"designing, implementing, assessing, and reflecting on student learning",ARTZ_2306_concepts_raw.json
+ARTZ_2306,method,assessing,assess,1,verified,"designing, implementing, assessing, and reflecting on student learning",ARTZ_2306_concepts_raw.json
+ARTZ_2306,method,demonstrating technical proficiency at organizing,demonstrating technical proficiency at organizing,1,verified,"demonstrating technical proficiency at organizing, documenting, and labeling artwork",ARTZ_2306_concepts_raw.json
+ARTZ_2306,method,documenting,documenting,2,verified,"demonstrating technical proficiency at organizing, documenting, and labeling artwork",ARTZ_2306_concepts_raw.json
+ARTZ_2306,method,using digital presentation tools,using digital presentation tools,2,verified,using digital presentation tools,ARTZ_2306_concepts_raw.json
+ARTZ_2306,tool,123D Design,123D Design,1,verified,123D Design,ARTZ_2306_concepts_raw.json
+ARTZ_2306,tool,Blender,Blender,1,verified,Blender,ARTZ_2306_concepts_raw.json
+ARTZ_2306,tool,Rhino,Rhino,1,verified,Rhino,ARTZ_2306_concepts_raw.json

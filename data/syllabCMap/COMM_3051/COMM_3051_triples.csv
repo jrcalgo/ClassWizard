@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3051,interpersonal relationships and health,concept,PART_OF,Coping Mechanisms and Stress,topic,,,COMM_3051_triples_raw.json
+COMM_3051,Stigma and Health Outcomes,topic,PART_OF,interpersonal relationships and health,concept,,part is broader than whole - check direction,COMM_3051_triples_raw.json
+COMM_3051,interpersonal relationships and health,concept,PART_OF,Interpersonal Support Networks,topic,,,COMM_3051_triples_raw.json
+COMM_3051,Interpersonal Support Networks,topic,PART_OF,Health Communication in Relationships,topic,,,COMM_3051_triples_raw.json
+COMM_3051,Health Communication in Relationships,topic,PART_OF,Self-Assessment and Reflection,topic,,,COMM_3051_triples_raw.json

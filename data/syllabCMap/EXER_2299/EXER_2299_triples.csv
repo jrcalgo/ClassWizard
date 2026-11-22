@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_2299,Word Building Systems,topic,PREREQUISITE_OF,Classifying Medical Terms,topic,A taught first,,EXER_2299_triples_raw.json
+EXER_2299,Word Building Systems,topic,PREREQUISITE_OF,Medical Terminology at the Professional Level,topic,A taught first,,EXER_2299_triples_raw.json
+EXER_2299,Word Building Systems,topic,PREREQUISITE_OF,Medical Terms in Anatomy and Physiology,topic,A taught first,,EXER_2299_triples_raw.json
+EXER_2299,Classifying Medical Terms,topic,PREREQUISITE_OF,Orthopedics and Osteopathy Terms,topic,A taught first,,EXER_2299_triples_raw.json
+EXER_2299,Classifying Medical Terms,topic,PREREQUISITE_OF,Pathology and Urology/Gynecology Terms,topic,A taught first,,EXER_2299_triples_raw.json
+EXER_2299,Classifying Medical Terms,topic,PREREQUISITE_OF,Medical Specialties and Health Professions,topic,A taught first,,EXER_2299_triples_raw.json
+EXER_2299,medical terminology word roots,concept,PART_OF,Word Building Systems,topic,,,EXER_2299_triples_raw.json
+EXER_2299,limitations of medical terminology at patient level,concept,PART_OF,Medical Terminology at the Professional Level,topic,,,EXER_2299_triples_raw.json
+EXER_2299,effective communication with patients,concept,PART_OF,Medical Terminology at the Professional Level,topic,,,EXER_2299_triples_raw.json
+EXER_2299,anatomy and physiology related medical terms,concept,PART_OF,Medical Terms in Anatomy and Physiology,topic,,,EXER_2299_triples_raw.json
+EXER_2299,medical terms for anatomy and physiology concepts,concept,PART_OF,Medical Terms in Anatomy and Physiology,topic,,,EXER_2299_triples_raw.json
+EXER_2299,cancer-related medical terminology,concept,PART_OF,Oncology and Cancer Terminology,topic,,,EXER_2299_triples_raw.json
+EXER_2299,treatment options and terminology,concept,PART_OF,Oncology and Cancer Terminology,topic,,,EXER_2299_triples_raw.json
+EXER_2299,Orthopedics and Osteopathy Terms,topic,PART_OF,bone and joint related medical terms,concept,,part is broader than whole - check direction,EXER_2299_triples_raw.json
+EXER_2299,digestive system related medical terms,concept,PART_OF,"Gastroenterology, Neurology, and Psychology Terms",topic,,,EXER_2299_triples_raw.json
+EXER_2299,neurological disorders and terminology,concept,PART_OF,"Gastroenterology, Neurology, and Psychology Terms",topic,,,EXER_2299_triples_raw.json
+EXER_2299,eye-related medical terminology,concept,PART_OF,"Ophthalmology, Endocrinology, and Pulmonology Terms",topic,,,EXER_2299_triples_raw.json
+EXER_2299,pharmacological agents and terminology,concept,PART_OF,"Anatomy, Surgery, and Pharmacology Terms",topic,,,EXER_2299_triples_raw.json
+EXER_2299,Medical Terminology,topic,USED_FOR,Medical Terms in Anatomy and Physiology,topic,,topic used for something - check direction,EXER_2299_triples_raw.json
+EXER_2299,Medical Terminology,topic,USED_FOR,Oncology and Cancer Terminology,topic,,topic used for something - check direction,EXER_2299_triples_raw.json

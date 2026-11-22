@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RESP_4108,concept,Healthcare Quality Management,Healthcare Quality Management,1,verified,Healthcare Quality Management,RESP_4108_concepts_raw.json
+RESP_4108,topic,QM,QM,9,inferred,Introduction to QM,RESP_4108_concepts_raw.json
+RESP_4108,topic,Current State of QM,Current State of QM,1,inferred,Current State of QM,RESP_4108_concepts_raw.json
+RESP_4108,topic,QI Fundamentals,QI Fundamentals,1,inferred,QI Fundamentals,RESP_4108_concepts_raw.json
+RESP_4108,topic,Assessment and Feedback,Assessment and Feedback,1,inferred,Assessment and Feedback,RESP_4108_concepts_raw.json
+RESP_4108,topic,QI Activities I,QI Activities I,1,inferred,QI Activities I,RESP_4108_concepts_raw.json
+RESP_4108,topic,QI Activities II,QI Activities II,1,inferred,QI Activities II,RESP_4108_concepts_raw.json
+RESP_4108,topic,QI Project Phase I,QI Project Phase I,1,inferred,QI Project Phase I,RESP_4108_concepts_raw.json
+RESP_4108,topic,QI Project Phase II,QI Project Phase II,1,inferred,QI Project Phase II,RESP_4108_concepts_raw.json
+RESP_4108,topic,QI Project Phase III,QI Project Phase III,1,inferred,QI Project Phase III,RESP_4108_concepts_raw.json
+RESP_4108,topic,QI Project Presentation,QI Project Presentation,1,inferred,QI Project Presentation,RESP_4108_concepts_raw.json
+RESP_4108,concept,Importance of QM,Importance of QM,1,inferred,Importance of QM,RESP_4108_concepts_raw.json
+RESP_4108,concept,Quality Improvement Process,Quality Improvement Process,1,inferred,Quality Improvement Process,RESP_4108_concepts_raw.json
+RESP_4108,concept,Root Cause Analysis,Root Cause Analysis,1,inferred,Root Cause Analysis,RESP_4108_concepts_raw.json
+RESP_4108,concept,Data-Driven Decision Making,Data-Driven Decision Making,1,inferred,Data-Driven Decision Making,RESP_4108_concepts_raw.json
+RESP_4108,concept,Performance Metrics in QM,Performance Metrics in QM,1,inferred,Performance Metrics in QM,RESP_4108_concepts_raw.json
+RESP_4108,concept,Feedback Mechanisms in Healthcare,Feedback Mechanisms in Healthcare,1,inferred,Feedback Mechanisms in Healthcare,RESP_4108_concepts_raw.json
+RESP_4108,concept,Continuous Quality Improvement,Continuous Quality Improvement,1,inferred,Continuous Quality Improvement,RESP_4108_concepts_raw.json
+RESP_4108,concept,Quality Improvement Projects,Quality Improvement Projects,1,inferred,Quality Improvement Projects,RESP_4108_concepts_raw.json
+RESP_4108,concept,Collaboration in QM,Collaboration in QM,1,inferred,Collaboration in QM,RESP_4108_concepts_raw.json
+RESP_4108,concept,Communication in QM,Communication in QM,1,inferred,Communication in QM,RESP_4108_concepts_raw.json
+RESP_4108,concept,Data Analysis in QM,Data Analysis in QM,1,inferred,Data Analysis in QM,RESP_4108_concepts_raw.json
+RESP_4108,concept,Problem-Solving in Healthcare,Problem-Solving in Healthcare,1,inferred,Problem-Solving in Healthcare,RESP_4108_concepts_raw.json
+RESP_4108,concept,Evidence-Based Practice,Evidence-Based Practice,1,inferred,Evidence-Based Practice,RESP_4108_concepts_raw.json
+RESP_4108,concept,Project Planning and Design,Project Planning and Design,1,inferred,Project Planning and Design,RESP_4108_concepts_raw.json
+RESP_4108,concept,Setting Goals and Objectives,Setting Goals and Objectives,1,inferred,Setting Goals and Objectives,RESP_4108_concepts_raw.json
+RESP_4108,concept,Developing a Quality Improvement Plan,Developing a Quality Improvement Plan,1,inferred,Developing a Quality Improvement Plan,RESP_4108_concepts_raw.json
+RESP_4108,concept,Implementing the QI Plan,Implementing the QI Plan,1,inferred,Implementing the QI Plan,RESP_4108_concepts_raw.json
+RESP_4108,concept,Monitoring Progress and Outcomes,Monitoring Progress and Outcomes,1,inferred,Monitoring Progress and Outcomes,RESP_4108_concepts_raw.json
+RESP_4108,concept,Addressing Barriers to Change,Addressing Barriers to Change,1,inferred,Addressing Barriers to Change,RESP_4108_concepts_raw.json
+RESP_4108,concept,Evaluating the Effectiveness of QI,Evaluating the Effectiveness of QI,1,inferred,Evaluating the Effectiveness of QI,RESP_4108_concepts_raw.json
+RESP_4108,concept,Sustaining Quality Improvement,Sustaining Quality Improvement,1,inferred,Sustaining Quality Improvement,RESP_4108_concepts_raw.json
+RESP_4108,concept,Lessons Learned from QI Projects,Lessons Learned from QI Projects,1,inferred,Lessons Learned from QI Projects,RESP_4108_concepts_raw.json
+RESP_4108,concept,Effective Communication in Presentations,Effective Communication in Presentations,1,inferred,Effective Communication in Presentations,RESP_4108_concepts_raw.json
+RESP_4108,concept,Visual Aids and Storytelling,Visual Aids and Storytelling,1,inferred,Visual Aids and Storytelling,RESP_4108_concepts_raw.json
+RESP_4108,concept,Presenting Findings and Recommendations,Presenting Findings and Recommendations,1,inferred,Presenting Findings and Recommendations,RESP_4108_concepts_raw.json

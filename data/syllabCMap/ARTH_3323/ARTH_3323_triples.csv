@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_3323,Effective Writing Techniques for Art,concept,PREREQUISITE_OF,Crafting a Clear Argument,concept,same unit,,ARTH_3323_triples_raw.json
+ARTH_3323,Evaluating Sources and Evidence,concept,PREREQUISITE_OF,Developing a Research Question,concept,same unit,,ARTH_3323_triples_raw.json
+ARTH_3323,Regional Styles and Influences,concept,PREREQUISITE_OF,Provincial Artistic Developments,concept,same unit,,ARTH_3323_triples_raw.json
+ARTH_3323,Imperial Portraiture Techniques,concept,PART_OF,Roman Imperial Style,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Roman Sculpture Development,concept,PART_OF,Roman Imperial Style,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Artistic Expression of Ethnicity,concept,PART_OF,Ethnicity and Identity,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Regional Styles in Roman Art,concept,PART_OF,Ethnicity and Identity,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Mythological Scenes in Art,concept,PART_OF,Religion and Mythology,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Architectural Features for Worship,concept,PART_OF,Religion and Mythology,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Artistic Propaganda Techniques,concept,PART_OF,Politics and Power,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Imperial Authority and Representation,concept,PART_OF,Politics and Power,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Public Monuments and Architecture,concept,PART_OF,Politics and Power,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Artistic Depictions of Women,concept,PART_OF,Women in Roman Art,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Regional Styles and Influences,concept,PART_OF,Roman Provincial Art,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Provincial Artistic Developments,concept,PART_OF,Roman Provincial Art,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Conducting Research in Art History,concept,PART_OF,Research Methods in Art History,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Evaluating Sources and Evidence,concept,PART_OF,Research Methods in Art History,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Developing a Research Question,concept,PART_OF,Research Methods in Art History,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Effective Writing Techniques for Art,concept,PART_OF,Writing about Art,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Analyzing and Interpreting Artworks,concept,PART_OF,Writing about Art,topic,,,ARTH_3323_triples_raw.json
+ARTH_3323,Crafting a Clear Argument,concept,PART_OF,Writing about Art,topic,,,ARTH_3323_triples_raw.json

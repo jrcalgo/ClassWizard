@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_6680,secondary readings,method,PREREQUISITE_OF,final research paper,method,B mentioned first,,ENGL_6680_triples_raw.json
+ENGL_6680,performance reviews,method,PREREQUISITE_OF,final research paper,method,A taught first,,ENGL_6680_triples_raw.json
+ENGL_6680,Midsummer Night's Dream,work,PREREQUISITE_OF,Much Ado About Nothing,work,A taught first,,ENGL_6680_triples_raw.json
+ENGL_6680,Much Ado About Nothing,work,PREREQUISITE_OF,Othello,work,A taught first,,ENGL_6680_triples_raw.json
+ENGL_6680,Othello,work,PREREQUISITE_OF,Richard III,work,A taught first,,ENGL_6680_triples_raw.json
+ENGL_6680,secondary readings,method,PART_OF,final research paper,method,,,ENGL_6680_triples_raw.json
+ENGL_6680,commonplace book entries,method,PART_OF,final research paper,method,,,ENGL_6680_triples_raw.json
+ENGL_6680,performance reviews,method,PART_OF,final research paper,method,,,ENGL_6680_triples_raw.json
+ENGL_6680,Midsummer Night's Dream,work,PART_OF,Shakespearean Drama in Context,topic,,,ENGL_6680_triples_raw.json
+ENGL_6680,Much Ado About Nothing,work,PART_OF,Shakespearean Drama in Context,topic,,,ENGL_6680_triples_raw.json
+ENGL_6680,Othello,work,PART_OF,Shakespearean Drama in Context,topic,,,ENGL_6680_triples_raw.json
+ENGL_6680,Richard III,work,PART_OF,Shakespearean Drama in Context,topic,,,ENGL_6680_triples_raw.json
+ENGL_6680,secondary readings,method,USED_FOR,final research paper,method,,,ENGL_6680_triples_raw.json
+ENGL_6680,commonplace book entries,method,USED_FOR,final research paper,method,,,ENGL_6680_triples_raw.json
+ENGL_6680,performance reviews,method,USED_FOR,final research paper,method,,,ENGL_6680_triples_raw.json

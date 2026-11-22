@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_6001,history of the Spanish language,topic,PREREQUISITE_OF,Spanish phonology and morphology,topic,A taught first,,SPAN_6001_triples_raw.json
+SPAN_6001,power relations in society,concept,PREREQUISITE_OF,critical discourse analysis,topic,same unit,,SPAN_6001_triples_raw.json
+SPAN_6001,history of the Spanish language,topic,PART_OF,Spanish linguistics,topic,,,SPAN_6001_triples_raw.json
+SPAN_6001,Spanish phonology and morphology,topic,PART_OF,Spanish linguistics,topic,,,SPAN_6001_triples_raw.json
+SPAN_6001,Spanish dialectology,topic,PART_OF,Spanish linguistics,topic,,,SPAN_6001_triples_raw.json

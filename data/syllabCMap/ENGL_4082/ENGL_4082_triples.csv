@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4082,Alliteration,concept,PREREQUISITE_OF,Assonance,concept,same unit,,ENGL_4082_triples_raw.json
+ENGL_4082,Punctuation / Line endings / Enjambment / Sentence unit,topic,PART_OF,Theatrical Shakespeare,topic,,,ENGL_4082_triples_raw.json
+ENGL_4082,Cueing / False cues,topic,PART_OF,Theatrical Shakespeare,topic,,,ENGL_4082_triples_raw.json
+ENGL_4082,Internal Stage Directions,topic,PART_OF,Theatrical Shakespeare,topic,,,ENGL_4082_triples_raw.json
+ENGL_4082,Imagery,topic,PART_OF,Theatrical Shakespeare,topic,,,ENGL_4082_triples_raw.json
+ENGL_4082,Antithesis,concept,PART_OF,Theatrical Shakespeare,topic,,,ENGL_4082_triples_raw.json
+ENGL_4082,Alliteration / Assonance,topic,PART_OF,Theatrical Shakespeare,topic,,,ENGL_4082_triples_raw.json
+ENGL_4082,Muscular Language I,topic,PART_OF,Theatrical Shakespeare,topic,,,ENGL_4082_triples_raw.json
+ENGL_4082,Muscular Language I,topic,SUBTYPE_OF,Muscular Language,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Shakespearean text analysis,concept,USED_FOR,Blank Verse Structure,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Shakespearean text analysis,concept,USED_FOR,Iambic Pentameter Meter,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Shakespearean text analysis,concept,USED_FOR,Shakespearean Sonnet Form,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Shakespearean text analysis,concept,USED_FOR,Punctuation Marks,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Shakespearean text analysis,concept,USED_FOR,Sentence Units,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Imagery,topic,USED_FOR,Shakespearean text analysis,concept,,topic used for something - check direction,ENGL_4082_triples_raw.json
+ENGL_4082,Shakespearean text analysis,concept,USED_FOR,Theatrical Imagery Techniques,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Shakespearean text analysis,concept,USED_FOR,Shakespearean Imagery Analysis,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Analytical reading techniques,concept,USED_FOR,Blank Verse Structure,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Analytical reading techniques,concept,USED_FOR,Shakespearean Sonnet Form,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Analytical reading techniques,concept,USED_FOR,Enjambment Technique,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Imagery in Shakespeare,concept,USED_FOR,Theatrical Imagery Techniques,concept,,,ENGL_4082_triples_raw.json
+ENGL_4082,Imagery,topic,USED_FOR,Shakespearean Imagery Analysis,concept,,topic used for something - check direction,ENGL_4082_triples_raw.json

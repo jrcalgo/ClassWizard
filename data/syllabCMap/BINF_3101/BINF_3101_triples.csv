@@ -1,0 +1,42 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_3101,population genetics,topic,PREREQUISITE_OF,molecular evolutionary theory,topic,same unit,,BINF_3101_triples_raw.json
+BINF_3101,population genetics,topic,PREREQUISITE_OF,scoring matrixes,method,A mentioned first,,BINF_3101_triples_raw.json
+BINF_3101,sequence alignment algorithms,method,PREREQUISITE_OF,population genetics,topic,B taught first,B is taught before A - check,BINF_3101_triples_raw.json
+BINF_3101,commonly used sequence database searching methods,method,PREREQUISITE_OF,population genetics,topic,B mentioned first,,BINF_3101_triples_raw.json
+BINF_3101,population genetics,topic,PREREQUISITE_OF,phylogenetic tree construction methods,method,A mentioned first,,BINF_3101_triples_raw.json
+BINF_3101,population genetics,topic,PREREQUISITE_OF,machine-learning methods for sequence analysis,method,A mentioned first,,BINF_3101_triples_raw.json
+BINF_3101,allele frequency,concept,PART_OF,population genetics,topic,,,BINF_3101_triples_raw.json
+BINF_3101,genetic drift,concept,PART_OF,population genetics,topic,,,BINF_3101_triples_raw.json
+BINF_3101,Hardy Weinberg Law,concept,PART_OF,population genetics,topic,,,BINF_3101_triples_raw.json
+BINF_3101,mutation rate,concept,PART_OF,population genetics,topic,,,BINF_3101_triples_raw.json
+BINF_3101,selection pressure,concept,PART_OF,population genetics,topic,,,BINF_3101_triples_raw.json
+BINF_3101,neutral theory,concept,PART_OF,molecular evolutionary theory,topic,,,BINF_3101_triples_raw.json
+BINF_3101,BLAST algorithm basics,concept,PART_OF,commonly used sequence database searching methods,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,query sequence alignment,concept,PART_OF,sequence alignment algorithms,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,sequence similarity metrics,concept,PART_OF,sequence alignment algorithms,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,hierarchical clustering,concept,PART_OF,hierarchal and k-means clustering algorithms,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,single linkage method,concept,PART_OF,hierarchal and k-means clustering algorithms,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,dendrogram interpretation,concept,PART_OF,hierarchal and k-means clustering algorithms,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,bioinformatics databases,concept,PART_OF,sequences analysis,topic,,,BINF_3101_triples_raw.json
+BINF_3101,protein substitution models,concept,PART_OF,molecular evolutionary theory,topic,,,BINF_3101_triples_raw.json
+BINF_3101,DNA mutation rate,concept,PART_OF,molecular evolutionary theory,topic,,,BINF_3101_triples_raw.json
+BINF_3101,phylogenetic inference,concept,PART_OF,phylogenetic tree construction methods,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,sequence divergence,concept,PART_OF,phylogenetic tree construction methods,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,molecular evolution theory,concept,PART_OF,phylogenetic tree construction methods,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,cluster validity measures,concept,PART_OF,hierarchal and k-means clustering algorithms,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,population size,concept,PART_OF,population genetics,topic,,,BINF_3101_triples_raw.json
+BINF_3101,genetic variation,concept,PART_OF,population genetics,topic,,,BINF_3101_triples_raw.json
+BINF_3101,molecular clock hypothesis,concept,PART_OF,molecular evolutionary theory,topic,,,BINF_3101_triples_raw.json
+BINF_3101,nucleotide substitution,concept,PART_OF,molecular evolutionary theory,topic,,,BINF_3101_triples_raw.json
+BINF_3101,selective pressure,concept,PART_OF,molecular evolutionary theory,topic,,,BINF_3101_triples_raw.json
+BINF_3101,site specific rates,concept,PART_OF,protein substitution models,concept,,,BINF_3101_triples_raw.json
+BINF_3101,rate heterogeneity models,concept,PART_OF,protein substitution models,concept,,,BINF_3101_triples_raw.json
+BINF_3101,database querying techniques,concept,PART_OF,bioinformatics databases,concept,,,BINF_3101_triples_raw.json
+BINF_3101,sequence database management,concept,PART_OF,bioinformatics databases,concept,,,BINF_3101_triples_raw.json
+BINF_3101,data retrieval methods,concept,PART_OF,bioinformatics databases,concept,,,BINF_3101_triples_raw.json
+BINF_3101,database search algorithms,concept,PART_OF,bioinformatics databases,concept,,,BINF_3101_triples_raw.json
+BINF_3101,global vs local alignments,concept,PART_OF,sequence alignment algorithms,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,multiple sequence alignment,concept,PART_OF,sequence alignment algorithms,method,,part is broader than whole - check direction,BINF_3101_triples_raw.json
+BINF_3101,database retrieval methods,concept,PART_OF,bioinformatics databases,concept,,,BINF_3101_triples_raw.json
+BINF_3101,phylogenetic tree construction methods,method,USED_FOR,molecular evolutionary theory,topic,,,BINF_3101_triples_raw.json
+BINF_3101,hierarchal and k-means clustering algorithms,method,USED_FOR,bioinformatics databases,concept,,,BINF_3101_triples_raw.json

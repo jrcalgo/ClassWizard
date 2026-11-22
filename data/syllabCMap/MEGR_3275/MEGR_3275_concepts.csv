@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3275,topic,Design Philosophy,design philosophies,1,verified,Design Philosophy,MEGR_3275_concepts_raw.json
+MEGR_3275,topic,Social Engineering,social engineering,1,verified,Social Engineering,MEGR_3275_concepts_raw.json
+MEGR_3275,topic,Team Formation,Team Formation,1,inferred,Team Formation,MEGR_3275_concepts_raw.json
+MEGR_3275,topic,Project Planning,Project Planning,1,inferred,Project Planning,MEGR_3275_concepts_raw.json
+MEGR_3275,topic,Conceptual Design,Conceptual Design,1,inferred,Conceptual Design,MEGR_3275_concepts_raw.json
+MEGR_3275,topic,Preliminary Design Review,Preliminary Design Review,1,inferred,Preliminary Design Review,MEGR_3275_concepts_raw.json
+MEGR_3275,topic,Progress Evaluation,Progress Evaluation,2,inferred,Progress Evaluation,MEGR_3275_concepts_raw.json
+MEGR_3275,topic,Final Report and Design Package,Final Report and Design Package,1,inferred,Final Report and Design Package,MEGR_3275_concepts_raw.json
+MEGR_3275,topic,Expo Presentation and Poster,Expo Presentation and Poster,1,inferred,Expo Presentation and Poster,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,project scope definition,Project Scope Definition,1,inferred,project scope definition,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,team size determination,Team Size Determination,1,inferred,team size determination,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,discipline allocation,Discipline Allocation,1,inferred,discipline allocation,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,engineering design principles,Engineering Design Principles,1,inferred,engineering design principles,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,design standards application,Design Standards Application,1,inferred,design standards application,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,problem-solving strategies,Problem-Solving Strategies,1,inferred,problem-solving strategies,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,time management techniques,Time Management Techniques,1,inferred,time management techniques,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,financial budgeting methods,Financial Budgeting Methods,1,inferred,financial budgeting methods,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,client expectations,Client Expectations,1,inferred,client expectations,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,design concept development,Design Concept Development,1,inferred,design concept development,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,feasibility analysis,Feasibility Analysis,1,inferred,feasibility analysis,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,risk assessment,Risk Assessment,1,inferred,risk assessment,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,design package preparation,Design Package Preparation,1,inferred,design package preparation,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,review and feedback process,Review and Feedback Process,1,inferred,review and feedback process,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,design iteration,Design Iteration,1,inferred,design iteration,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,project progress monitoring,Project Progress Monitoring,2,inferred,project progress monitoring,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,team performance assessment,Team Performance Assessment,2,inferred,team performance assessment,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,client satisfaction,Client Satisfaction,2,inferred,client satisfaction,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,communication strategies,Communication Strategies,1,inferred,communication strategies,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,collaboration techniques,Collaboration Techniques,1,inferred,collaboration techniques,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,conflict resolution,Conflict Resolution,1,inferred,conflict resolution,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,public speaking techniques,Public Speaking Techniques,1,inferred,public speaking techniques,MEGR_3275_concepts_raw.json
+MEGR_3275,concept,visual communication methods,Visual Communication Methods,1,inferred,visual communication methods,MEGR_3275_concepts_raw.json

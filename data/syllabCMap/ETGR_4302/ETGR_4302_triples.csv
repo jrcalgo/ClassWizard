@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_4302,indoor air quality,concept,PART_OF,occupational standards and regulations,topic,,,ETGR_4302_triples_raw.json
+ETGR_4302,ionizing and non-ionizing radiation,topic,PART_OF,occupational standards and regulations,topic,,,ETGR_4302_triples_raw.json
+ETGR_4302,thermal stress,concept,PART_OF,occupational standards and regulations,topic,,,ETGR_4302_triples_raw.json
+ETGR_4302,personal protective equipment,topic,PART_OF,occupational standards and regulations,topic,,,ETGR_4302_triples_raw.json
+ETGR_4302,engineering controls,topic,PART_OF,occupational standards and regulations,topic,,,ETGR_4302_triples_raw.json
+ETGR_4302,sampling/monitoring techniques,concept,USED_FOR,indoor air quality,concept,,,ETGR_4302_triples_raw.json
+ETGR_4302,sampling/monitoring techniques,concept,USED_FOR,ionizing and non-ionizing radiation,topic,,,ETGR_4302_triples_raw.json

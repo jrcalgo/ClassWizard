@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_2100,Nature of Disabilities in Society,topic,PREREQUISITE_OF,Impact on Learning and Life Outcomes,topic,A taught first,,SPED_2100_triples_raw.json
+SPED_2100,Types of Disabilities,concept,PART_OF,Definition of Exceptionality,concept,,,SPED_2100_triples_raw.json
+SPED_2100,Gifted Learners Characteristics,concept,PART_OF,Understanding Gifted Learners,topic,,,SPED_2100_triples_raw.json
+SPED_2100,Historical Perspective on Disability,concept,PART_OF,Nature of Disabilities in Society,topic,,,SPED_2100_triples_raw.json
+SPED_2100,Social and Cultural Factors,concept,PART_OF,Nature of Disabilities in Society,topic,,,SPED_2100_triples_raw.json
+SPED_2100,Types of Giftedness,concept,PART_OF,Giftedness vs. Talent,concept,,,SPED_2100_triples_raw.json
+SPED_2100,Challenges Faced by Gifted Students,concept,PART_OF,Understanding Gifted Learners,topic,,,SPED_2100_triples_raw.json
+SPED_2100,Effects of Exceptionality on Self-Esteem,concept,PART_OF,Impact on Learning and Life Outcomes,topic,,,SPED_2100_triples_raw.json
+SPED_2100,Academic Achievement Barriers,concept,PART_OF,Impact on Learning and Life Outcomes,topic,,,SPED_2100_triples_raw.json
+SPED_2100,Differentiation in Inclusive Classrooms,concept,PART_OF,Developmental Appropriate Practices,topic,,,SPED_2100_triples_raw.json
+SPED_2100,Assessment and Accommodation Strategies,concept,PART_OF,Developmental Appropriate Practices,topic,,,SPED_2100_triples_raw.json
+SPED_2100,Types of Disabilities,concept,SUBTYPE_OF,Exceptionality,topic,,,SPED_2100_triples_raw.json

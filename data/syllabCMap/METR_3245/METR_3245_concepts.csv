@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+METR_3245,topic,Synoptic Meteorology,Synoptic Meteorology,1,verified,Synoptic Meteorology,METR_3245_concepts_raw.json
+METR_3245,topic,Dynamics,Dynamics,2,verified,Dynamics,METR_3245_concepts_raw.json
+METR_3245,concept,thermodynamic characteristics,thermodynamic characteristics,1,verified,thermodynamic characteristics,METR_3245_concepts_raw.json
+METR_3245,concept,synoptic scale systems,synoptic-scale systems,1,verified,synoptic scale systems,METR_3245_concepts_raw.json
+METR_3245,concept,wind patterns,Wind Patterns,1,inferred,wind patterns,METR_3245_concepts_raw.json
+METR_3245,concept,jet streams,Jet Streams,1,inferred,jet streams,METR_3245_concepts_raw.json
+METR_3245,concept,frontal dynamics,Frontal Dynamics,1,inferred,frontal dynamics,METR_3245_concepts_raw.json
+METR_3245,concept,weather systems formation,Weather Systems Formation,1,inferred,weather systems formation,METR_3245_concepts_raw.json
+METR_3245,concept,moisture content,Moisture Content,1,inferred,moisture content,METR_3245_concepts_raw.json
+METR_3245,concept,temperature gradients,Temperature Gradients,1,inferred,temperature gradients,METR_3245_concepts_raw.json
+METR_3245,concept,instability,Instability,1,inferred,instability,METR_3245_concepts_raw.json
+METR_3245,concept,convection,Convection,1,inferred,convection,METR_3245_concepts_raw.json
+METR_3245,concept,global forecasting models,Global Forecasting Models,1,inferred,global forecasting models,METR_3245_concepts_raw.json
+METR_3245,concept,high-resolution model applications,High-Resolution Model Applications,1,inferred,high-resolution model applications,METR_3245_concepts_raw.json
+METR_3245,concept,nowcasting,Nowcasting,1,inferred,nowcasting,METR_3245_concepts_raw.json
+METR_3245,concept,short-term forecasts,Short-Term Forecasts,1,inferred,short-term forecasts,METR_3245_concepts_raw.json
+METR_3245,topic,Map Features Identification,Map Features Identification,1,inferred,Map Features Identification,METR_3245_concepts_raw.json
+METR_3245,topic,Regional Weather Impacts Discussion,Regional Weather Impacts Discussion,1,inferred,Regional Weather Impacts Discussion,METR_3245_concepts_raw.json

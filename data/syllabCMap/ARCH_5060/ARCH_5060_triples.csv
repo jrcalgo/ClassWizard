@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_5060,Urban Design,topic,PREREQUISITE_OF,Modern City Planning,topic,B mentioned first,,ARCH_5060_triples_raw.json
+ARCH_5060,Urban Design,topic,PREREQUISITE_OF,Ecological Urbanism,topic,B mentioned first,,ARCH_5060_triples_raw.json
+ARCH_5060,Modern City Planning,topic,PREREQUISITE_OF,Monumental City Paradigm,topic,A taught first,,ARCH_5060_triples_raw.json
+ARCH_5060,Modern City Planning,topic,PREREQUISITE_OF,Garden City Movement,topic,A taught first,,ARCH_5060_triples_raw.json
+ARCH_5060,Modern City Planning,topic,PREREQUISITE_OF,Suburbanization and Sprawl,topic,A taught first,,ARCH_5060_triples_raw.json
+ARCH_5060,Modern City Planning,topic,PREREQUISITE_OF,New Urbanism Paradigm,topic,A taught first,,ARCH_5060_triples_raw.json
+ARCH_5060,Modern City Planning,topic,PREREQUISITE_OF,Global City Phenomenon,topic,A taught first,,ARCH_5060_triples_raw.json
+ARCH_5060,Industrial Revolution Impact,concept,PART_OF,Urban Design,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Urbanization and Growth,concept,PART_OF,Urban Design,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,City Planning Theories,concept,PART_OF,Urban Design,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Haussmann's Urban Renewal,concept,PART_OF,Monumental City Paradigm,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Public Space Design Principles,concept,PART_OF,Monumental City Paradigm,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Ebenezer Howard,work,PART_OF,Garden City Movement,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Green Belts and Parks,concept,PART_OF,Garden City Movement,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Rural-Urban Interface Planning,concept,PART_OF,Garden City Movement,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Post-War Suburban Development,concept,PART_OF,Suburbanization and Sprawl,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Traditional Neighborhood Design,concept,PART_OF,New Urbanism Paradigm,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Sustainable Urban Development,concept,PART_OF,Ecological Urbanism,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Green Infrastructure Systems,concept,PART_OF,Ecological Urbanism,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Climate Change Mitigation,concept,PART_OF,Ecological Urbanism,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Urbanization and Globalization,concept,PART_OF,Global City Phenomenon,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Monumental City Paradigm,topic,SUBTYPE_OF,Modern City Planning,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Garden City Movement,topic,SUBTYPE_OF,Modern City Planning,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Suburbanization and Sprawl,topic,SUBTYPE_OF,Modern City Planning,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,New Urbanism Paradigm,topic,SUBTYPE_OF,Modern City Planning,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Global City Phenomenon,topic,SUBTYPE_OF,Modern City Planning,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Haussmann's Urban Renewal,concept,SUBTYPE_OF,Monumental City Paradigm,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Ebenezer Howard,work,SUBTYPE_OF,Garden City Movement,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Haussmann,work,USED_FOR,Monumental City Paradigm,topic,,,ARCH_5060_triples_raw.json
+ARCH_5060,Ebenezer Howard,work,USED_FOR,Garden City Movement,topic,,,ARCH_5060_triples_raw.json

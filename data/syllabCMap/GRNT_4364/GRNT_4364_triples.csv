@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_4364,elder abuse and fraud,concept,PREREQUISITE_OF,victimization of older adults,concept,same unit,,GRNT_4364_triples_raw.json
+GRNT_4364,geriatric trauma response,concept,PART_OF,trauma and resilience in prisoners,concept,,,GRNT_4364_triples_raw.json
+GRNT_4364,elder abuse and fraud,concept,USED_FOR,victimization of older adults,concept,,,GRNT_4364_triples_raw.json

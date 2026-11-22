@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_2341,concept,Complex Numbers,complex numbers,1,verified,Complex Numbers,MATH_2341_concepts_raw.json
+MATH_2341,concept,Groups,groups,1,verified,Groups,MATH_2341_concepts_raw.json
+MATH_2341,concept,Vector Spaces,vector spaces,1,verified,Vector Spaces,MATH_2341_concepts_raw.json
+MATH_2341,concept,Domain and Range Notation,Domain and Range Notation,1,inferred,Domain and Range Notation,MATH_2341_concepts_raw.json
+MATH_2341,concept,Function Properties,Function Properties,1,inferred,Function Properties,MATH_2341_concepts_raw.json
+MATH_2341,concept,Real-World Applications,Real-World Applications,1,inferred,Real-World Applications,MATH_2341_concepts_raw.json
+MATH_2341,concept,Graphs of Linear Equations,Graphs of Linear Equations,1,inferred,Graphs of Linear Equations,MATH_2341_concepts_raw.json
+MATH_2341,concept,Algebraic Models,Algebraic Models,1,inferred,Algebraic Models,MATH_2341_concepts_raw.json
+MATH_2341,concept,Inequalities in Real World,Inequalities in Real World,1,inferred,Inequalities in Real World,MATH_2341_concepts_raw.json
+MATH_2341,concept,Real Number System,Real Number System,1,inferred,Real Number System,MATH_2341_concepts_raw.json
+MATH_2341,concept,Irrational Numbers,Irrational Numbers,1,inferred,Irrational Numbers,MATH_2341_concepts_raw.json
+MATH_2341,concept,Ring Theory,Ring Theory,1,inferred,Ring Theory,MATH_2341_concepts_raw.json
+MATH_2341,concept,Field Axioms,Field Axioms,1,inferred,Field Axioms,MATH_2341_concepts_raw.json
+MATH_2341,concept,Linear Transformations,Linear Transformations,1,inferred,Linear Transformations,MATH_2341_concepts_raw.json
+MATH_2341,concept,Matrix Operations,Matrix Operations,1,inferred,Matrix Operations,MATH_2341_concepts_raw.json

@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_4165L,topic,Physical properties of biological molecules,Physical properties of biological molecules,1,verified,Physical properties of biological molecules,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Lab Safety Protocols,Lab Safety Protocols,1,inferred,Lab Safety Protocols,CHEM_4165L_concepts_raw.json
+CHEM_4165L,topic,Equipment Familiarization,Equipment Familiarization,1,inferred,Equipment Familiarization,CHEM_4165L_concepts_raw.json
+CHEM_4165L,topic,Lab Notebook Basics,Lab Notebook Basics,1,inferred,Lab Notebook Basics,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Molecular Structure Importance,Molecular Structure Importance,1,inferred,Molecular Structure Importance,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Polarity and Hydrogen Bonding,Polarity and Hydrogen Bonding,1,inferred,Polarity and Hydrogen Bonding,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Solubility Rules Application,Solubility Rules Application,1,inferred,Solubility Rules Application,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Spectrophotometry Fundamentals,Spectrophotometry Fundamentals,1,inferred,Spectrophotometry Fundamentals,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,pH Measurement Techniques,pH Measurement Techniques,1,inferred,pH Measurement Techniques,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Chromatography Basics,Chromatography Basics,1,inferred,Chromatography Basics,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Carbohydrate Structure and Function,Carbohydrate Structure and Function,1,inferred,Carbohydrate Structure and Function,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Protein Primary Structure Importance,Protein Primary Structure Importance,1,inferred,Protein Primary Structure Importance,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Nucleic Acid Composition,Nucleic Acid Composition,1,inferred,Nucleic Acid Composition,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Electrophoresis Principles,Electrophoresis Principles,1,inferred,Electrophoresis Principles,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Gel Staining and Documentation,Gel Staining and Documentation,1,inferred,Gel Staining and Documentation,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Data Analysis Techniques,Data Analysis Techniques,1,inferred,Data Analysis Techniques,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Lipid Structure and Function,Lipid Structure and Function,1,inferred,Lipid Structure and Function,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Enzyme Kinetics Basics,Enzyme Kinetics Basics,1,inferred,Enzyme Kinetics Basics,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Metabolic Pathways Overview,Metabolic Pathways Overview,1,inferred,Metabolic Pathways Overview,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Hypothesis Formulation and Testing,Hypothesis Formulation and Testing,1,inferred,Hypothesis Formulation and Testing,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Variable Control and Measurement,Variable Control and Measurement,1,inferred,Variable Control and Measurement,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Data Interpretation and Conclusion,Data Interpretation and Conclusion,1,inferred,Data Interpretation and Conclusion,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Mass Spectrometry Fundamentals,Mass Spectrometry Fundamentals,1,inferred,Mass Spectrometry Fundamentals,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Fluorescence Microscopy Basics,Fluorescence Microscopy Basics,1,inferred,Fluorescence Microscopy Basics,CHEM_4165L_concepts_raw.json
+CHEM_4165L,concept,Bioinformatics Tools Overview,Bioinformatics Tools Overview,1,inferred,Bioinformatics Tools Overview,CHEM_4165L_concepts_raw.json

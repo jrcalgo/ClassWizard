@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3225,Types of Banks,concept,PART_OF,Commercial Banking Industry,concept,,,FINN_3225_triples_raw.json
+FINN_3225,Banking Regulations,concept,PART_OF,Regulatory Agencies / Banking Oversight,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Federal Reserve Role,concept,PART_OF,Commercial Banking Industry,concept,,,FINN_3225_triples_raw.json
+FINN_3225,Federal Reserve System,concept,PART_OF,Monetary Policy Tools,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Payment Systems,concept,PART_OF,Commercial Banking,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Financial Statements Analysis,concept,PART_OF,Financial Statements & Call Reports,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Regulatory Agencies,concept,PART_OF,Regulatory Agencies / Banking Oversight,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Bank Board Member,concept,PART_OF,Regulatory Agencies / Banking Oversight,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Commercial Banking Industry,concept,PART_OF,Commercial Banking,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Banking Basics,concept,PART_OF,Commercial Banking Industry,concept,,,FINN_3225_triples_raw.json
+FINN_3225,Commercial Bank Structure,concept,PART_OF,Commercial Banking,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Bank Products and Services,concept,PART_OF,Commercial Banking,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Core Banking Functions,concept,PART_OF,Commercial Banking,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Retail Banking Operations,concept,PART_OF,Commercial Banking,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Wholesale Banking Activities,concept,PART_OF,Commercial Banking,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Banking Regulations Compliance,concept,PART_OF,Regulatory Agencies / Banking Oversight,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Money Movement Channels,concept,PART_OF,Payment Systems,concept,,,FINN_3225_triples_raw.json
+FINN_3225,Bank Financial Statements,concept,PART_OF,Financial Statements & Call Reports,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Check Clearing,concept,PART_OF,Payment Systems,concept,,,FINN_3225_triples_raw.json
+FINN_3225,Wire Transfers,concept,PART_OF,Payment Systems,concept,,,FINN_3225_triples_raw.json
+FINN_3225,Automated Teller Machines,concept,PART_OF,Payment Systems,concept,,,FINN_3225_triples_raw.json
+FINN_3225,Bank Fees Structure,concept,PART_OF,Bank Products and Services,concept,,,FINN_3225_triples_raw.json
+FINN_3225,Lending Instruments,concept,PART_OF,Bank Products and Services,concept,,,FINN_3225_triples_raw.json
+FINN_3225,Central Bank Functions,concept,PART_OF,Monetary Policy Tools,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Discount Rate Mechanism,concept,PART_OF,Monetary Policy Tools,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Open Market Operations,concept,PART_OF,Monetary Policy Tools,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Bank Oversight Process,concept,PART_OF,Regulatory Agencies / Banking Oversight,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Call Reports Interpretation,concept,PART_OF,Financial Statements & Call Reports,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Bank Financial Statement Components,concept,PART_OF,Financial Statements & Call Reports,topic,,,FINN_3225_triples_raw.json
+FINN_3225,Balance Sheet Accounting,concept,PART_OF,Financial Statements & Call Reports,topic,,,FINN_3225_triples_raw.json

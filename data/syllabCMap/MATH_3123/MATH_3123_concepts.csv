@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3123,topic,Probability & Statistics II,Probability & Statistics II,1,verified,Probability & Statistics II,MATH_3123_concepts_raw.json
+MATH_3123,topic,Estimation,estimation,1,verified,Introduction to Estimation,MATH_3123_concepts_raw.json
+MATH_3123,topic,Confidence Intervals and Hypothesis Tests,confidence intervals and hypothesis tests,2,verified,Confidence Intervals and Hypothesis Tests,MATH_3123_concepts_raw.json
+MATH_3123,concept,method of moments,method of moments,1,verified,method of moments,MATH_3123_concepts_raw.json
+MATH_3123,concept,method of maximum likelihood,method of maximum likelihood,2,verified,method of maximum likelihood,MATH_3123_concepts_raw.json
+MATH_3123,concept,unbiased estimators,unbiased estimators,2,verified,unbiased estimators,MATH_3123_concepts_raw.json
+MATH_3123,concept,efficiency,efficiency,2,verified,efficiency,MATH_3123_concepts_raw.json
+MATH_3123,concept,consistency,consistency,2,verified,consistency,MATH_3123_concepts_raw.json
+MATH_3123,concept,confidence intervals,confidence intervals,2,verified,confidence intervals,MATH_3123_concepts_raw.json
+MATH_3123,concept,hypothesis tests,hypothesis tests,2,verified,hypothesis tests,MATH_3123_concepts_raw.json
+MATH_3123,concept,proportions,proportions,2,verified,proportions,MATH_3123_concepts_raw.json
+MATH_3123,concept,means,means,4,verified,means,MATH_3123_concepts_raw.json
+MATH_3123,concept,variances,variances,2,verified,variances,MATH_3123_concepts_raw.json
+MATH_3123,concept,differences between means,differences between means,2,verified,differences between means,MATH_3123_concepts_raw.json
+MATH_3123,concept,tests of significance,tests of significance,2,verified,tests of significance,MATH_3123_concepts_raw.json
+MATH_3123,concept,ANOVA tables,ANOVA tables,2,verified,ANOVA tables,MATH_3123_concepts_raw.json

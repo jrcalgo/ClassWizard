@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_4211,method,finite element method,finite element method,2,verified,finite element method,MEET_4211_concepts_raw.json
+MEET_4211,method,finite element analysis (FEA,finite element analysis (FEA,2,verified,finite element analysis (FEA),MEET_4211_concepts_raw.json
+MEET_4211,topic,use of FEA for stress analysis,use of FEA for stress analysis,2,verified,use of FEA for stress analysis,MEET_4211_concepts_raw.json
+MEET_4211,topic,thermal analysis,thermal analysis,2,verified,thermal analysis,MEET_4211_concepts_raw.json
+MEET_4211,topic,important distinctions between FEA results,important distinctions between FEA results,2,verified,important distinctions between FEA results,MEET_4211_concepts_raw.json
+MEET_4211,topic,theoretical results,theoretical results,2,verified,theoretical results,MEET_4211_concepts_raw.json
+MEET_4211,topic,experimental results,experimental results,2,verified,experimental results,MEET_4211_concepts_raw.json
+MEET_4211,concept,local and global stiffness matrices,local and global stiffness matrices,1,verified,local and global stiffness matrices,MEET_4211_concepts_raw.json
+MEET_4211,tool,SolidWorks Simulation 2026,SolidWorks Simulation 2026,1,verified,SolidWorks Simulation 2026,MEET_4211_concepts_raw.json
+MEET_4211,tool,SolidWorks,SolidWorks,5,verified,SolidWorks,MEET_4211_concepts_raw.json

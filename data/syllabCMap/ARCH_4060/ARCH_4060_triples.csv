@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_4060,Urban Design,topic,PREREQUISITE_OF,Modern City Planning,topic,B taught first,B is taught before A - check,ARCH_4060_triples_raw.json
+ARCH_4060,Haussmann's Paris Reforms,concept,PREREQUISITE_OF,Monumental City Paradigm,topic,A taught first,,ARCH_4060_triples_raw.json
+ARCH_4060,Ebenezer Howard's Ideas,concept,PREREQUISITE_OF,Garden City Movement,topic,same unit,,ARCH_4060_triples_raw.json
+ARCH_4060,Post-War Suburban Growth,concept,PREREQUISITE_OF,Suburbanization and Sprawl,topic,same unit,,ARCH_4060_triples_raw.json
+ARCH_4060,Charrette Process Introduction,concept,PREREQUISITE_OF,New Urbanism and Revitalization,topic,same unit,,ARCH_4060_triples_raw.json
+ARCH_4060,Industrial Revolution Impact,concept,PART_OF,Modern City Planning,topic,,,ARCH_4060_triples_raw.json
+ARCH_4060,Haussmann's Paris Reforms,concept,PART_OF,Monumental City Paradigm,topic,,,ARCH_4060_triples_raw.json
+ARCH_4060,Post-War Suburban Growth,concept,PART_OF,Suburbanization and Sprawl,topic,,,ARCH_4060_triples_raw.json
+ARCH_4060,Charrette Process Introduction,concept,PART_OF,New Urbanism and Revitalization,topic,,,ARCH_4060_triples_raw.json
+ARCH_4060,Environmental Impact Assessments,concept,PART_OF,Ecological Urbanism and Sustainability,topic,,,ARCH_4060_triples_raw.json
+ARCH_4060,Haussmann's Paris Reforms,concept,USED_FOR,Monumental City Paradigm,topic,,,ARCH_4060_triples_raw.json
+ARCH_4060,Charrette Process Introduction,concept,USED_FOR,New Urbanism and Revitalization,topic,,,ARCH_4060_triples_raw.json

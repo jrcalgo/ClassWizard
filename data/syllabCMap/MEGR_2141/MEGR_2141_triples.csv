@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2141,Friction,topic,PART_OF,Particle and Rigid Body Mechanics,topic,,,MEGR_2141_triples_raw.json
+MEGR_2141,Force Systems,topic,PART_OF,Particle and Rigid Body Mechanics,topic,,,MEGR_2141_triples_raw.json
+MEGR_2141,Properties of Areas and Volumes,topic,PART_OF,Particle and Rigid Body Mechanics,topic,,,MEGR_2141_triples_raw.json
+MEGR_2141,Method of sections,concept,PART_OF,Engineering Mechanics,topic,,,MEGR_2141_triples_raw.json
+MEGR_2141,Free-body diagrams,concept,PART_OF,Engineering Mechanics,topic,,,MEGR_2141_triples_raw.json
+MEGR_2141,Method of joints,concept,PART_OF,Engineering Mechanics,topic,,,MEGR_2141_triples_raw.json
+MEGR_2141,Transfer of axis theorem,concept,PART_OF,Properties of Areas and Volumes,topic,,,MEGR_2141_triples_raw.json
+MEGR_2141,Method of sections,concept,USED_FOR,Loads in static systems,concept,,,MEGR_2141_triples_raw.json
+MEGR_2141,Free-body diagrams,concept,USED_FOR,Equilibrium of Particles and Rigid Bodies,topic,,,MEGR_2141_triples_raw.json
+MEGR_2141,Transfer of axis theorem,concept,USED_FOR,Centroid and area moment,concept,,,MEGR_2141_triples_raw.json

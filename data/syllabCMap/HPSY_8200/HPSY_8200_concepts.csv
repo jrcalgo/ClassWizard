@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HPSY_8200,concept,biopsychosocial model,biopsychosocial model,2,verified,biopsychosocial model,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,stress,stress,5,verified,stress,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,coping,coping,2,verified,coping,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,adherence to treatment,adherence to treatment,2,verified,adherence to treatment,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,pain,pain,2,verified,pain,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,chronic disease,chronic disease,2,verified,chronic disease,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,psychoneuroimmunology,psychoneuroimmunology,3,verified,psychoneuroimmunology,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,health behavior changes,health behavior changes,2,verified,health behavior changes,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,motivated behavior,motivated behavior,1,verified,motivated behavior,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,gutbrain axis,gutbrain axis,1,verified,gutbrain axis,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,resilience,resilience,1,verified,resilience,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,epigenetics,epigenetics,1,verified,epigenetics,HPSY_8200_concepts_raw.json
+HPSY_8200,topic,aging,aging,1,verified,aging,HPSY_8200_concepts_raw.json
+HPSY_8200,concept,allostatic processes,allostatic processes,1,verified,allostatic processes,HPSY_8200_concepts_raw.json
+HPSY_8200,concept,biopsychosocial framework,biopsychosocial framework,1,verified,biopsychosocial framework,HPSY_8200_concepts_raw.json
+HPSY_8200,concept,complex adaptive systems,complex adaptive systems,1,verified,complex adaptive systems,HPSY_8200_concepts_raw.json
+HPSY_8200,concept,biological and physiological mechanisms,biological and physiological mechanisms,2,verified,biological and physiological mechanisms,HPSY_8200_concepts_raw.json
+HPSY_8200,method,critical evaluation of empirical research,critical evaluation of empirical research,1,verified,critical evaluation of empirical research,HPSY_8200_concepts_raw.json
+HPSY_8200,method,written and oral communication,written and oral communication,1,verified,written and oral communication,HPSY_8200_concepts_raw.json
+HPSY_8200,method,group teaching lecture,group teaching lecture,1,verified,group teaching lecture,HPSY_8200_concepts_raw.json
+HPSY_8200,method,independent course project,independent course project,1,verified,independent course project,HPSY_8200_concepts_raw.json
+HPSY_8200,method,critical thinking & application,critical thinking & application,1,verified,critical thinking & application,HPSY_8200_concepts_raw.json

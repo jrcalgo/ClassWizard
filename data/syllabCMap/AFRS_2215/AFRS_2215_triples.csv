@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AFRS_2215,13th Amendment Significance,concept,PREREQUISITE_OF,Brown v Board of Education,work,A taught first,,AFRS_2215_triples_raw.json
+AFRS_2215,Jim Crow Laws and Legacy,concept,PREREQUISITE_OF,Civil Rights Movement Beginnings,topic,A taught first,,AFRS_2215_triples_raw.json
+AFRS_2215,African American Family History,concept,PART_OF,Impact on African Families,topic,,,AFRS_2215_triples_raw.json
+AFRS_2215,Jim Crow Laws and Legacy,concept,PART_OF,Civil Rights Movement Beginnings,topic,,,AFRS_2215_triples_raw.json
+AFRS_2215,Racial Disparities in Justice System,concept,PART_OF,Mass Incarceration in U.S,topic,,,AFRS_2215_triples_raw.json

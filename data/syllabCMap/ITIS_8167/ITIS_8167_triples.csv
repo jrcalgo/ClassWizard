@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_8167,traffic scanning,method,PREREQUISITE_OF,detection techniques,method,A mentioned first,,ITIS_8167_triples_raw.json
+ITIS_8167,SDN and CDN Security,topic,PREREQUISITE_OF,AI in Network Security,topic,A taught first,,ITIS_8167_triples_raw.json
+ITIS_8167,basic network security mechanisms,concept,PART_OF,Network and Information Security,topic,,,ITIS_8167_triples_raw.json
+ITIS_8167,unique security baseline defenses,concept,PART_OF,Network and Information Security,topic,,,ITIS_8167_triples_raw.json
+ITIS_8167,traffic scanning,method,PART_OF,Network and Information Security,topic,,,ITIS_8167_triples_raw.json
+ITIS_8167,detection techniques,method,PART_OF,Network and Information Security,topic,,,ITIS_8167_triples_raw.json
+ITIS_8167,CDN security concepts,method,PART_OF,SDN and CDN Security,topic,,,ITIS_8167_triples_raw.json
+ITIS_8167,AI in Network Security,topic,PART_OF,SDN and CDN Security,topic,,,ITIS_8167_triples_raw.json
+ITIS_8167,traffic scanning,method,USED_FOR,detection techniques,method,,,ITIS_8167_triples_raw.json

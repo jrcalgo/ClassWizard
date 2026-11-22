@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_6211,topic,fixed income instruments and sectors,fixed income instruments and sectors,2,verified,fixed income instruments and sectors,FINN_6211_concepts_raw.json
+FINN_6211,topic,duration and convexity,duration and convexity,2,verified,duration and convexity,FINN_6211_concepts_raw.json
+FINN_6211,concept,term structure of interest rates,term structure of interest rates,2,verified,term structure of interest rates,FINN_6211_concepts_raw.json
+FINN_6211,topic,securitization,securitization,2,verified,securitization,FINN_6211_concepts_raw.json
+FINN_6211,topic,portfolio management,portfolio management,3,verified,portfolio management,FINN_6211_concepts_raw.json
+FINN_6211,topic,hedging,hedging,3,verified,hedging,FINN_6211_concepts_raw.json
+FINN_6211,concept,credit risk,credit risk,3,verified,credit risk,FINN_6211_concepts_raw.json
+FINN_6211,concept,mortgage-backed security,mortgage-backed securities,1,verified,mortgage-backed security,FINN_6211_concepts_raw.json

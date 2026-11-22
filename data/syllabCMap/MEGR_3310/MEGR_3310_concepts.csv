@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3310,topic,Flight Mechanics,Flight Mechanics,1,verified,Flight Mechanics,MEGR_3310_concepts_raw.json
+MEGR_3310,topic,Flight,Flight,1,verified,Introduction to Flight,MEGR_3310_concepts_raw.json
+MEGR_3310,topic,Airplane Performance,Airplane Performance,1,inferred,Airplane Performance,MEGR_3310_concepts_raw.json
+MEGR_3310,topic,Flight Dynamics Equations,Flight Dynamics Equations,1,inferred,Flight Dynamics Equations,MEGR_3310_concepts_raw.json
+MEGR_3310,topic,Aerodynamic Forces and Moments,Aerodynamic Forces and Moments,1,inferred,Aerodynamic Forces and Moments,MEGR_3310_concepts_raw.json
+MEGR_3310,topic,Flight Path Planning,Flight Path Planning,1,inferred,Flight Path Planning,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Aerodynamic Forces Acting,Aerodynamic Forces Acting,1,inferred,Aerodynamic Forces Acting,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Flight Dynamics Basics,Flight Dynamics Basics,1,inferred,Flight Dynamics Basics,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Newton's Laws Application,Newton's Laws Application,1,inferred,Newton's Laws Application,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Drag and Lift Forces,Drag and Lift Forces,1,inferred,Drag and Lift Forces,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Thrust and Weight Balance,Thrust and Weight Balance,1,inferred,Thrust and Weight Balance,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Efficiency and Range,Efficiency and Range,1,inferred,Efficiency and Range,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Kinematic and Kinetic Energy,Kinematic and Kinetic Energy,1,inferred,Kinematic and Kinetic Energy,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Angular Momentum Principles,Angular Momentum Principles,1,inferred,Angular Momentum Principles,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Equations of Motion,Equations of Motion,1,inferred,Equations of Motion,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Lift and Drag Coefficients,Lift and Drag Coefficients,1,inferred,Lift and Drag Coefficients,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Moment and Force Calculations,Moment and Force Calculations,1,inferred,Moment and Force Calculations,MEGR_3310_concepts_raw.json
+MEGR_3310,concept,Stability and Control,Stability and Control,1,inferred,Stability and Control,MEGR_3310_concepts_raw.json

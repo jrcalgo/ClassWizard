@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_3206,problem-solving,concept,PREREQUISITE_OF,Strategic Leadership,topic,B taught first,B is taught before A - check,PROS_3206_triples_raw.json

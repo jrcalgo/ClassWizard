@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GERM_1201,topic,German language and culture,German language and culture,2,verified,German language and culture,GERM_1201_concepts_raw.json
+GERM_1201,topic,German,German,9,verified,Introduction to German,GERM_1201_concepts_raw.json
+GERM_1201,topic,Family and Friends,family and friends,1,verified,Family and Friends,GERM_1201_concepts_raw.json
+GERM_1201,topic,Listening Comprehension,listening comprehension,1,verified,Listening Comprehension,GERM_1201_concepts_raw.json
+GERM_1201,method,communicative approach,communicative approach,1,verified,communicative approach,GERM_1201_concepts_raw.json
+GERM_1201,method,reading,reading,1,verified,reading,GERM_1201_concepts_raw.json
+GERM_1201,method,writing,writing,5,verified,writing,GERM_1201_concepts_raw.json
+GERM_1201,method,listening,listening,2,verified,listening,GERM_1201_concepts_raw.json
+GERM_1201,method,speaking,speaking,3,verified,speaking,GERM_1201_concepts_raw.json

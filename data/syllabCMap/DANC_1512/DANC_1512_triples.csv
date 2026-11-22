@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_1512,West Side Story,topic,PREREQUISITE_OF,Local Arts/Humanities,topic,A mentioned first,,DANC_1512_triples_raw.json
+DANC_1512,West Side Story,topic,PREREQUISITE_OF,Changing New York City,topic,A mentioned first,,DANC_1512_triples_raw.json
+DANC_1512,Indigenous practices,topic,PREREQUISITE_OF,social justice,topic,A mentioned first,,DANC_1512_triples_raw.json
+DANC_1512,choreography,topic,PREREQUISITE_OF,musical theatre,topic,A mentioned first,,DANC_1512_triples_raw.json
+DANC_1512,West Side Story,topic,PART_OF,Local Arts/Humanities,topic,,,DANC_1512_triples_raw.json
+DANC_1512,West Side Story,topic,PART_OF,Changing New York City,topic,,,DANC_1512_triples_raw.json
+DANC_1512,Indigenous practices,topic,PART_OF,social justice,topic,,,DANC_1512_triples_raw.json
+DANC_1512,immigration/migration studies,topic,PART_OF,critical cultural studies,topic,,,DANC_1512_triples_raw.json
+DANC_1512,choreography,topic,PART_OF,musical theatre,topic,,,DANC_1512_triples_raw.json
+DANC_1512,analysis processes,method,PART_OF,Local Arts/Humanities,topic,,,DANC_1512_triples_raw.json
+DANC_1512,analysis processes,method,USED_FOR,West Side Story,topic,,,DANC_1512_triples_raw.json

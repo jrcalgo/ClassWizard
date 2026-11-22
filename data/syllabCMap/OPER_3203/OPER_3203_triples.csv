@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPER_3203,techniques,topic,PART_OF,Decision Making Under Uncertainty,topic,,,OPER_3203_triples_raw.json
+OPER_3203,techniques,topic,PART_OF,Multi-Criteria Decision Making,topic,,,OPER_3203_triples_raw.json
+OPER_3203,techniques,topic,PART_OF,integer programming,topic,,,OPER_3203_triples_raw.json
+OPER_3203,techniques,topic,PART_OF,decision trees and their applications,topic,,,OPER_3203_triples_raw.json
+OPER_3203,linear,topic,PART_OF,integer programming,topic,,,OPER_3203_triples_raw.json
+OPER_3203,decision support via Monte Carlo simulation,topic,PART_OF,decision making under uncertainty and risk,topic,,,OPER_3203_triples_raw.json

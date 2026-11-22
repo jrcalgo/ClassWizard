@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_6120,Maximal Oxygen Consumption,concept,PREREQUISITE_OF,Aerobic Capacity Measurement,concept,same unit,,KNES_6120_triples_raw.json
+KNES_6120,ACSM's Exercise Testing,concept,PREREQUISITE_OF,Cardiovascular Endurance Tests,concept,A taught first,,KNES_6120_triples_raw.json
+KNES_6120,Muscle Strength and Power,concept,PREREQUISITE_OF,Muscular Endurance Testing,concept,same unit,,KNES_6120_triples_raw.json
+KNES_6120,Blood Pressure Measurement,concept,PREREQUISITE_OF,Lipid Profile Analysis,concept,same unit,,KNES_6120_triples_raw.json
+KNES_6120,ACSM's Exercise Testing,concept,PART_OF,Clinical Exercise Physiology,concept,,,KNES_6120_triples_raw.json
+KNES_6120,Exercise Prescription Principles,concept,PART_OF,Clinical Exercise Physiology,concept,,,KNES_6120_triples_raw.json
+KNES_6120,Maximal Oxygen Consumption,concept,PART_OF,Aerobic Capacity Measurement,concept,,,KNES_6120_triples_raw.json
+KNES_6120,Cardiovascular Endurance Tests,concept,PART_OF,Assessment of Aerobic Capacity,topic,,,KNES_6120_triples_raw.json
+KNES_6120,Anaerobic Capacity Assessment,concept,PART_OF,Anaerobic and Muscular Function,topic,,,KNES_6120_triples_raw.json
+KNES_6120,Muscular Endurance Testing,concept,PART_OF,Anaerobic and Muscular Function,topic,,,KNES_6120_triples_raw.json
+KNES_6120,Blood Pressure Measurement,concept,PART_OF,Cardiovascular Disease Risk Factors,topic,,,KNES_6120_triples_raw.json
+KNES_6120,Lipid Profile Analysis,concept,PART_OF,Cardiovascular Disease Risk Factors,topic,,,KNES_6120_triples_raw.json
+KNES_6120,Older Adults Exercise Guidelines,concept,PART_OF,Exercise Prescription for Special Populations,topic,,,KNES_6120_triples_raw.json
+KNES_6120,Individuals with Chronic Diseases,concept,PART_OF,Exercise Prescription for Special Populations,topic,,,KNES_6120_triples_raw.json

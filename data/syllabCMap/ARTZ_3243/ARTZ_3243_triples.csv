@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTZ_3243,technical proficiency,concept,PREREQUISITE_OF,sculptural form,concept,B mentioned first,,ARTZ_3243_triples_raw.json
+ARTZ_3243,material knowledge,concept,PREREQUISITE_OF,sculptural form,concept,B taught first,B is taught before A - check,ARTZ_3243_triples_raw.json
+ARTZ_3243,domain-specific research,concept,PREREQUISITE_OF,student learning,concept,A mentioned first,,ARTZ_3243_triples_raw.json
+ARTZ_3243,physical properties,concept,PREREQUISITE_OF,expressive possibilities,concept,B mentioned first,,ARTZ_3243_triples_raw.json

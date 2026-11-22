@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_3695,Database query,method,USED_FOR,Journal article format,concept,,,CHEM_3695_triples_raw.json
+CHEM_3695,ChemDraw,tool,USED_FOR,reaction schemes,method,,,CHEM_3695_triples_raw.json
+CHEM_3695,ChemDraw,tool,USED_FOR,equations,method,,,CHEM_3695_triples_raw.json

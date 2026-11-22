@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3122,topic,Dynamics Systems II,Dynamics Systems II,1,verified,Dynamics Systems II,MEGR_3122_concepts_raw.json
+MEGR_3122,topic,System Dynamics for Mechanical Engineers,System Dynamics for Mechanical Engineers,1,verified,System Dynamics for Mechanical Engineers,MEGR_3122_concepts_raw.json
+MEGR_3122,topic,Inverse Laplace Transforms,Inverse Laplace transforms,1,verified,Inverse Laplace Transforms,MEGR_3122_concepts_raw.json
+MEGR_3122,concept,lumped-parameter models,lumped-parameter models,1,verified,lumped-parameter models,MEGR_3122_concepts_raw.json
+MEGR_3122,concept,differential-equation models,differential-equation models,1,verified,differential-equation models,MEGR_3122_concepts_raw.json
+MEGR_3122,concept,free-body diagrams,free-body diagrams,1,verified,free-body diagrams,MEGR_3122_concepts_raw.json
+MEGR_3122,concept,linear ordinary differential equations,linear ordinary differential equations,1,verified,linear ordinary differential equations,MEGR_3122_concepts_raw.json
+MEGR_3122,concept,electrical,electrical,1,verified,"electrical, thermal, fluid systems",MEGR_3122_concepts_raw.json
+MEGR_3122,concept,thermal,thermal,1,verified,"electrical, thermal, fluid systems",MEGR_3122_concepts_raw.json
+MEGR_3122,concept,fluid systems,fluid systems,1,verified,"electrical, thermal, fluid systems",MEGR_3122_concepts_raw.json
+MEGR_3122,method,second-order linear systems using Laplace transforms,second-order linear systems using Laplace transforms,1,verified,solving first- and second-order linear systems using Laplace transforms,MEGR_3122_concepts_raw.json
+MEGR_3122,tool,MATLAB,MATLAB,1,verified,MATLAB,MEGR_3122_concepts_raw.json

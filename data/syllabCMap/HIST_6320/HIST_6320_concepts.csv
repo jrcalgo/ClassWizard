@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HIST_6320,topic,Historic Preservation,Historic Preservation,1,verified,Historic Preservation,HIST_6320_concepts_raw.json
+HIST_6320,topic,Preservation,Preservation,1,verified,Introduction to Preservation,HIST_6320_concepts_raw.json
+HIST_6320,topic,US Historic Context,US Historic Context,1,inferred,US Historic Context,HIST_6320_concepts_raw.json
+HIST_6320,topic,Survey and Identification,Survey and Identification,1,inferred,Survey and Identification,HIST_6320_concepts_raw.json
+HIST_6320,topic,Preservation Planning,Preservation Planning,1,inferred,Preservation Planning,HIST_6320_concepts_raw.json
+HIST_6320,topic,Building Materials and Technology,Building Materials and Technology,1,inferred,Building Materials and Technology,HIST_6320_concepts_raw.json
+HIST_6320,topic,Preservation Treatments and Interventions,Preservation Treatments and Interventions,1,inferred,Preservation Treatments and Interventions,HIST_6320_concepts_raw.json
+HIST_6320,topic,Cultural Resource Management,Cultural Resource Management,1,inferred,Cultural Resource Management,HIST_6320_concepts_raw.json
+HIST_6320,topic,Fieldwork and Case Studies,Fieldwork and Case Studies,1,inferred,Fieldwork and Case Studies,HIST_6320_concepts_raw.json
+HIST_6320,concept,Historic Preservation Definition,Historic Preservation Definition,1,inferred,Historic Preservation Definition,HIST_6320_concepts_raw.json
+HIST_6320,concept,Importance of Preservation,Importance of Preservation,1,inferred,Importance of Preservation,HIST_6320_concepts_raw.json
+HIST_6320,concept,Preservation vs. Restoration,Preservation vs. Restoration,1,inferred,Preservation vs. Restoration,HIST_6320_concepts_raw.json
+HIST_6320,concept,American Architectural Styles,American Architectural Styles,1,inferred,American Architectural Styles,HIST_6320_concepts_raw.json
+HIST_6320,concept,Historic Periods in US History,Historic Periods in US History,1,inferred,Historic Periods in US History,HIST_6320_concepts_raw.json
+HIST_6320,concept,Cultural Significance of Buildings,Cultural Significance of Buildings,1,inferred,Cultural Significance of Buildings,HIST_6320_concepts_raw.json
+HIST_6320,concept,Identifying Historic Resources,Identifying Historic Resources,1,inferred,Identifying Historic Resources,HIST_6320_concepts_raw.json
+HIST_6320,concept,National Register Criteria,National Register Criteria,1,inferred,National Register Criteria,HIST_6320_concepts_raw.json
+HIST_6320,concept,Survey Techniques and Tools,Survey Techniques and Tools,1,inferred,Survey Techniques and Tools,HIST_6320_concepts_raw.json
+HIST_6320,concept,Preservation Plans and Policies,Preservation Plans and Policies,1,inferred,Preservation Plans and Policies,HIST_6320_concepts_raw.json
+HIST_6320,concept,Community Engagement and Outreach,Community Engagement and Outreach,1,inferred,Community Engagement and Outreach,HIST_6320_concepts_raw.json
+HIST_6320,concept,Collaboration with Stakeholders,Collaboration with Stakeholders,1,inferred,Collaboration with Stakeholders,HIST_6320_concepts_raw.json
+HIST_6320,concept,Traditional Building Materials,Traditional Building Materials,1,inferred,Traditional Building Materials,HIST_6320_concepts_raw.json
+HIST_6320,concept,Historic Building Construction Methods,Historic Building Construction Methods,1,inferred,Historic Building Construction Methods,HIST_6320_concepts_raw.json
+HIST_6320,concept,Modern Materials and Techniques,Modern Materials and Techniques,1,inferred,Modern Materials and Techniques,HIST_6320_concepts_raw.json
+HIST_6320,concept,Conservation vs. Preservation,Conservation vs. Preservation,1,inferred,Conservation vs. Preservation,HIST_6320_concepts_raw.json
+HIST_6320,concept,Restoration and Reconstruction,Restoration and Reconstruction,1,inferred,Restoration and Reconstruction,HIST_6320_concepts_raw.json
+HIST_6320,concept,Rehabilitation and Adaptive Reuse,Rehabilitation and Adaptive Reuse,1,inferred,Rehabilitation and Adaptive Reuse,HIST_6320_concepts_raw.json
+HIST_6320,concept,National Historic Preservation Act,National Historic Preservation Act,1,inferred,National Historic Preservation Act,HIST_6320_concepts_raw.json
+HIST_6320,concept,Review Process,Review Process,1,inferred,Section 106 Review Process,HIST_6320_concepts_raw.json
+HIST_6320,concept,Cultural Resource Inventory,Cultural Resource Inventory,1,inferred,Cultural Resource Inventory,HIST_6320_concepts_raw.json
+HIST_6320,concept,Case Study Methodology,Case Study Methodology,1,inferred,Case Study Methodology,HIST_6320_concepts_raw.json
+HIST_6320,concept,Historic Site Analysis and Interpretation,Historic Site Analysis and Interpretation,1,inferred,Historic Site Analysis and Interpretation,HIST_6320_concepts_raw.json
+HIST_6320,concept,Preservation Project Management,Preservation Project Management,1,inferred,Preservation Project Management,HIST_6320_concepts_raw.json

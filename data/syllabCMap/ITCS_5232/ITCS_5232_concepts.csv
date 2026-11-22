@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_5232,topic,Game Design Fundamentals,Game Design Fundamentals,1,inferred,Game Design Fundamentals,ITCS_5232_concepts_raw.json
+ITCS_5232,topic,Game Mechanics and Systems,Game Mechanics and Systems,1,inferred,Game Mechanics and Systems,ITCS_5232_concepts_raw.json
+ITCS_5232,topic,Art and Audio in Games,Art and Audio in Games,1,inferred,Art and Audio in Games,ITCS_5232_concepts_raw.json
+ITCS_5232,topic,Game Programming Fundamentals,Game Programming Fundamentals,1,inferred,Game Programming Fundamentals,ITCS_5232_concepts_raw.json
+ITCS_5232,topic,Game Development Tools and Engines,Game Development Tools and Engines,1,inferred,Game Development Tools and Engines,ITCS_5232_concepts_raw.json
+ITCS_5232,topic,Game Design Document Creation,Game Design Document Creation,1,inferred,Game Design Document Creation,ITCS_5232_concepts_raw.json
+ITCS_5232,topic,Prototyping and Playtesting,Prototyping and Playtesting,1,inferred,Prototyping and Playtesting,ITCS_5232_concepts_raw.json
+ITCS_5232,topic,Game Development Project Management,Game Development Project Management,1,inferred,Game Development Project Management,ITCS_5232_concepts_raw.json
+ITCS_5232,topic,Game Testing and Quality Assurance,Game Testing and Quality Assurance,1,inferred,Game Testing and Quality Assurance,ITCS_5232_concepts_raw.json
+ITCS_5232,topic,Game Deployment and Marketing,Game Deployment and Marketing,1,inferred,Game Deployment and Marketing,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Game Development Process,Game Development Process,1,inferred,Game Development Process,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Game Genre Classification,Game Genre Classification,1,inferred,Game Genre Classification,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Player Experience Goals,Player Experience Goals,1,inferred,Player Experience Goals,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Gameplay Mechanics Overview,Gameplay Mechanics Overview,1,inferred,Gameplay Mechanics Overview,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Game State Management,Game State Management,1,inferred,Game State Management,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Collision Detection Techniques,Collision Detection Techniques,1,inferred,Collision Detection Techniques,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,2D/3D Graphics Rendering,2D/3D Graphics Rendering,1,inferred,2D/3D Graphics Rendering,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Sound Design Principles,Sound Design Principles,1,inferred,Sound Design Principles,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Music Composition for Games,Music Composition for Games,1,inferred,Music Composition for Games,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Programming Languages Overview,Programming Languages Overview,1,inferred,Programming Languages Overview,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Object-Oriented Programming,Object-Oriented Programming,1,inferred,Object-Oriented Programming,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Game Loop Implementation,Game Loop Implementation,1,inferred,Game Loop Implementation,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Game Engine Architecture,Game Engine Architecture,1,inferred,Game Engine Architecture,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Level Editor Features,Level Editor Features,1,inferred,Level Editor Features,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Asset Management Systems,Asset Management Systems,1,inferred,Asset Management Systems,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Design Document Structure,Design Document Structure,1,inferred,Design Document Structure,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Gameplay Mechanics Documentation,Gameplay Mechanics Documentation,1,inferred,Gameplay Mechanics Documentation,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Art and Audio Requirements,Art and Audio Requirements,1,inferred,Art and Audio Requirements,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Prototyping Methods Overview,Prototyping Methods Overview,1,inferred,Prototyping Methods Overview,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Playtesting Techniques and Tools,Playtesting Techniques and Tools,1,inferred,Playtesting Techniques and Tools,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,User Feedback Analysis,User Feedback Analysis,1,inferred,User Feedback Analysis,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Project Planning and Scheduling,Project Planning and Scheduling,1,inferred,Project Planning and Scheduling,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Team Collaboration and Communication,Team Collaboration and Communication,1,inferred,Team Collaboration and Communication,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Risk Management Strategies,Risk Management Strategies,1,inferred,Risk Management Strategies,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Testing Types and Methods,Testing Types and Methods,1,inferred,Testing Types and Methods,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Bug Tracking and Reporting,Bug Tracking and Reporting,1,inferred,Bug Tracking and Reporting,ITCS_5232_concepts_raw.json
+ITCS_5232,concept,Quality Assurance Best Practices,Quality Assurance Best Practices,1,inferred,Quality Assurance Best Practices,ITCS_5232_concepts_raw.json

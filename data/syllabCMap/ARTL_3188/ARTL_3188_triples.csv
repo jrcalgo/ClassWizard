@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTL_3188,Costume Design Principles,topic,PREREQUISITE_OF,Character Design Fundamentals,concept,same unit,,ARTL_3188_triples_raw.json
+ARTL_3188,Anatomical Study Basics,topic,PREREQUISITE_OF,Character Design Fundamentals,concept,same unit,,ARTL_3188_triples_raw.json
+ARTL_3188,Character Design Fundamentals,concept,PART_OF,Character Design,topic,,,ARTL_3188_triples_raw.json
+ARTL_3188,Costume Design Principles,topic,PART_OF,Character Design,topic,,,ARTL_3188_triples_raw.json
+ARTL_3188,Anatomical Study Basics,topic,PART_OF,Character Design,topic,,,ARTL_3188_triples_raw.json
+ARTL_3188,Organizing Artwork Digitally,concept,PART_OF,Digital Presentation Tools,concept,,,ARTL_3188_triples_raw.json
+ARTL_3188,Documenting Artwork Techniques,concept,PART_OF,Digital Presentation Tools,concept,,,ARTL_3188_triples_raw.json
+ARTL_3188,Digital Presentation Tools,concept,USED_FOR,Organizing Artwork Digitally,concept,,,ARTL_3188_triples_raw.json
+ARTL_3188,Digital Presentation Tools,concept,USED_FOR,Documenting Artwork Techniques,concept,,,ARTL_3188_triples_raw.json
+ARTL_3188,Digital Presentation Tools,concept,USED_FOR,Labeling and Categorization,concept,,,ARTL_3188_triples_raw.json

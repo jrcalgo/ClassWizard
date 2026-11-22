@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6160,MySQL,tool,USED_FOR,structured query language,concept,,,DSBA_6160_triples_raw.json
+DSBA_6160,PySpark,method,USED_FOR,cloud-scale analytical platforms,method,,,DSBA_6160_triples_raw.json
+DSBA_6160,Apache Iceberg,method,USED_FOR,cloud-scale analytical platforms,method,,,DSBA_6160_triples_raw.json

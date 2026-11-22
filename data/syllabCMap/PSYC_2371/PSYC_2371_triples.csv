@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2371,Emerging Adulthood,topic,PREREQUISITE_OF,Adolescent Development,topic,same unit,,PSYC_2371_triples_raw.json
+PSYC_2371,Cognitive Development,topic,PREREQUISITE_OF,Emotional Maturity,topic,same unit,,PSYC_2371_triples_raw.json
+PSYC_2371,Biological Processes,topic,PREREQUISITE_OF,Social Relationships,topic,same unit,,PSYC_2371_triples_raw.json
+PSYC_2371,cultural basis of development,concept,PREREQUISITE_OF,Historical Context,topic,same unit,,PSYC_2371_triples_raw.json
+PSYC_2371,developmental research methodology,concept,PREREQUISITE_OF,Emerging Adulthood,topic,B taught first,B is taught before A - check,PSYC_2371_triples_raw.json
+PSYC_2371,Adolescent Development,topic,PART_OF,Emerging Adulthood,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,emotional regulation strategies,concept,PART_OF,Emotional Maturity,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,Social Relationships,topic,PART_OF,Biological Processes,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,Pubertal Development,topic,PART_OF,Biological Changes During Puberty,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,Moral Development Theory,topic,PART_OF,Values Formation Process,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,Erikson's Psychosocial Stage,topic,PART_OF,Kohlberg's Moral Stages,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,Adolescent Identity Crisis,topic,PART_OF,identity development stages,concept,,part is broader than whole - check direction,PSYC_2371_triples_raw.json
+PSYC_2371,genetic influence on behavior,concept,SUBTYPE_OF,Pubertal Development,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,synaptic pruning,concept,SUBTYPE_OF,neuroplasticity,concept,,,PSYC_2371_triples_raw.json
+PSYC_2371,myelination,concept,SUBTYPE_OF,neuroplasticity,concept,,,PSYC_2371_triples_raw.json
+PSYC_2371,executive function,concept,SUBTYPE_OF,working memory,concept,,,PSYC_2371_triples_raw.json
+PSYC_2371,attention mechanisms,concept,SUBTYPE_OF,working memory,concept,,,PSYC_2371_triples_raw.json
+PSYC_2371,developmental research methodology,concept,USED_FOR,Emerging Adulthood,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,cultural basis of development,concept,USED_FOR,Historical Context,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,emotional regulation strategies,concept,USED_FOR,Emotional Maturity,topic,,,PSYC_2371_triples_raw.json
+PSYC_2371,cognitive development theories,concept,USED_FOR,Cognitive Development in Adolescence,topic,,,PSYC_2371_triples_raw.json

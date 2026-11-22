@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_6050,necropolitics,topic,PREREQUISITE_OF,horrorism,topic,A taught first,,PHIL_6050_triples_raw.json
+PHIL_6050,necropolitics,topic,PREREQUISITE_OF,gore capitalism,concept,A taught first,,PHIL_6050_triples_raw.json
+PHIL_6050,necropolitics,topic,PREREQUISITE_OF,feminicide in the Americas,concept,A taught first,,PHIL_6050_triples_raw.json
+PHIL_6050,necropolitics,topic,PREREQUISITE_OF,disembodiment,topic,A taught first,,PHIL_6050_triples_raw.json
+PHIL_6050,gender,topic,PREREQUISITE_OF,corporeal politics,topic,A taught first,,PHIL_6050_triples_raw.json
+PHIL_6050,necropolitics,topic,PART_OF,postcolonial regimes,topic,,,PHIL_6050_triples_raw.json
+PHIL_6050,horrorism,topic,PART_OF,necropolitics,topic,,,PHIL_6050_triples_raw.json
+PHIL_6050,gore capitalism,concept,PART_OF,necropolitics,topic,,,PHIL_6050_triples_raw.json
+PHIL_6050,feminicide in the Americas,concept,PART_OF,necropolitics,topic,,,PHIL_6050_triples_raw.json
+PHIL_6050,corporeal politics,topic,PART_OF,radical refusal,topic,,,PHIL_6050_triples_raw.json
+PHIL_6050,disembodiment,topic,PART_OF,corporeal politics,topic,,,PHIL_6050_triples_raw.json
+PHIL_6050,Achille Mbembe,work,USED_FOR,necropolitics,topic,,,PHIL_6050_triples_raw.json

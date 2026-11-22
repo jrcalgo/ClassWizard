@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_4610,Production Planning,concept,PREREQUISITE_OF,Script Analysis,concept,same unit,,THEA_4610_triples_raw.json
+THEA_4610,Production Planning,concept,PREREQUISITE_OF,Stage Management,concept,same unit,,THEA_4610_triples_raw.json
+THEA_4610,Production Planning,concept,PREREQUISITE_OF,Blocking Techniques,concept,same unit,,THEA_4610_triples_raw.json
+THEA_4610,Production Planning,concept,PREREQUISITE_OF,Cueing Systems,concept,same unit,,THEA_4610_triples_raw.json
+THEA_4610,Production Planning,concept,PREREQUISITE_OF,Communication Protocols,concept,A taught first,,THEA_4610_triples_raw.json
+THEA_4610,Strike Procedures,concept,PART_OF,Stage Management Tasks,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Production Scheduling,concept,PART_OF,Stage Management Tasks,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Script Analysis,concept,PART_OF,Production Planning Process,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Blocking and Rehearsal Methods,concept,PART_OF,Production Planning Process,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Cueing Systems,concept,PART_OF,Production Planning Process,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Communication Protocols,concept,PART_OF,Production Planning Process,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Crew Management Strategies,concept,PART_OF,Production Planning Process,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Script Analysis,concept,USED_FOR,Stage Management Techniques,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Script Analysis,concept,USED_FOR,Production Planning Process,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Blocking and Rehearsal Methods,concept,USED_FOR,Production Planning Process,concept,,,THEA_4610_triples_raw.json
+THEA_4610,Cueing Systems,concept,USED_FOR,Production Planning Process,concept,,,THEA_4610_triples_raw.json

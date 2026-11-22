@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8075,validity and trustworthiness,concept,PREREQUISITE_OF,critique of educational research,concept,same unit,,EDCI_8075_triples_raw.json
+EDCI_8075,validity and trustworthiness,concept,PREREQUISITE_OF,research design and methods,concept,same unit,,EDCI_8075_triples_raw.json
+EDCI_8075,intersectionality in education,concept,PREREQUISITE_OF,black feminist theory,concept,same unit,,EDCI_8075_triples_raw.json
+EDCI_8075,research question development,concept,PREREQUISITE_OF,study design and methodology,concept,same unit,,EDCI_8075_triples_raw.json
+EDCI_8075,urban education context,concept,PART_OF,Urban Education,topic,,,EDCI_8075_triples_raw.json
+EDCI_8075,research in urban settings,concept,PART_OF,Urban Education,topic,,,EDCI_8075_triples_raw.json
+EDCI_8075,critique of educational research,concept,PART_OF,Critical Perspectives on Research,topic,,,EDCI_8075_triples_raw.json
+EDCI_8075,validity and trustworthiness,concept,PART_OF,Critical Perspectives on Research,topic,,,EDCI_8075_triples_raw.json
+EDCI_8075,intersectionality in education,concept,PART_OF,Black Girlhood and Womanhood,topic,,,EDCI_8075_triples_raw.json
+EDCI_8075,black feminist theory,concept,PART_OF,Black Girlhood and Womanhood,topic,,,EDCI_8075_triples_raw.json
+EDCI_8075,existing research on Black girlhood,concept,PART_OF,Literature Review and Analysis,topic,,,EDCI_8075_triples_raw.json
+EDCI_8075,theoretical frameworks in education,concept,PART_OF,Literature Review and Analysis,topic,,,EDCI_8075_triples_raw.json
+EDCI_8075,qualitative research methods,concept,USED_FOR,existing research on Black girlhood,concept,,,EDCI_8075_triples_raw.json

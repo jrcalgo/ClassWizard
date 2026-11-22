@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_2105,C++,tool,USED_FOR,object-oriented programming,concept,,,ECGR_2105_triples_raw.json

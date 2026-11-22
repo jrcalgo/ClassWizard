@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_1270,Script analysis,method,PREREQUISITE_OF,Play Structure,topic,same unit,,THEA_1270_triples_raw.json
+THEA_1270,Scene analysis,method,PREREQUISITE_OF,Ensemble Acting,topic,same unit,,THEA_1270_triples_raw.json
+THEA_1270,Self-evaluation skills,method,PREREQUISITE_OF,Peer evaluation techniques,method,same unit,,THEA_1270_triples_raw.json
+THEA_1270,Dramatic irony,concept,PREREQUISITE_OF,Plot devices,concept,same unit,,THEA_1270_triples_raw.json
+THEA_1270,Contentless scenes,concept,PART_OF,Ensemble Acting,topic,,,THEA_1270_triples_raw.json
+THEA_1270,Scene analysis,method,PART_OF,Ensemble Acting,topic,,,THEA_1270_triples_raw.json
+THEA_1270,Script analysis,method,PART_OF,Play Structure,topic,,,THEA_1270_triples_raw.json
+THEA_1270,Monologue analysis,method,PART_OF,Ensemble Acting,topic,,,THEA_1270_triples_raw.json
+THEA_1270,Camera acting techniques,method,PART_OF,Physicality in performance,concept,,,THEA_1270_triples_raw.json
+THEA_1270,Contentless scenes,concept,SUBTYPE_OF,Ensemble Acting,topic,,,THEA_1270_triples_raw.json
+THEA_1270,Dramatic irony,concept,SUBTYPE_OF,Plot devices,concept,,,THEA_1270_triples_raw.json
+THEA_1270,Setting description,concept,SUBTYPE_OF,Play Structure,topic,,,THEA_1270_triples_raw.json
+THEA_1270,Dialogue interpretation,concept,SUBTYPE_OF,Script analysis,method,,,THEA_1270_triples_raw.json
+THEA_1270,Stage directions,concept,SUBTYPE_OF,Script analysis,method,,,THEA_1270_triples_raw.json
+THEA_1270,Physicality in performance,concept,SUBTYPE_OF,Stanislavski techniques,concept,,,THEA_1270_triples_raw.json
+THEA_1270,Stanislavski techniques,concept,USED_FOR,Ensemble Acting,topic,,,THEA_1270_triples_raw.json
+THEA_1270,Camera acting techniques,method,USED_FOR,Physicality in performance,concept,,,THEA_1270_triples_raw.json
+THEA_1270,Scene analysis,method,USED_FOR,Ensemble Acting,topic,,,THEA_1270_triples_raw.json
+THEA_1270,Self-evaluation skills,method,USED_FOR,Peer evaluation techniques,method,,,THEA_1270_triples_raw.json

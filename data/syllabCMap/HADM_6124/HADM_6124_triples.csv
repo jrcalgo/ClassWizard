@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HADM_6124,segmentation,concept,PREREQUISITE_OF,marketing mix,concept,same unit,,HADM_6124_triples_raw.json
+HADM_6124,market analysis techniques,concept,PREREQUISITE_OF,competitor analysis methods,concept,same unit,,HADM_6124_triples_raw.json
+HADM_6124,strategic marketing planning,concept,PREREQUISITE_OF,target market identification,concept,B taught first,B is taught before A - check,HADM_6124_triples_raw.json
+HADM_6124,customer needs analysis,concept,PREREQUISITE_OF,market segmentation criteria,concept,same unit,,HADM_6124_triples_raw.json
+HADM_6124,SWOT analysis application,concept,PREREQUISITE_OF,brand identity management,concept,A taught first,,HADM_6124_triples_raw.json
+HADM_6124,marketing definition,concept,PART_OF,Meaning of marketing,topic,,,HADM_6124_triples_raw.json
+HADM_6124,customer needs and preferences,concept,PART_OF,customer needs analysis,concept,,,HADM_6124_triples_raw.json
+HADM_6124,market segmentation criteria,concept,PART_OF,segmentation,concept,,,HADM_6124_triples_raw.json
+HADM_6124,target market identification,concept,PART_OF,strategic marketing planning,concept,,,HADM_6124_triples_raw.json
+HADM_6124,competitor analysis methods,concept,PART_OF,market analysis techniques,concept,,,HADM_6124_triples_raw.json
+HADM_6124,health care marketing strategies,method,PART_OF,marketing plan development,method,,,HADM_6124_triples_raw.json
+HADM_6124,marketing mix in healthcare,concept,SUBTYPE_OF,marketing mix,concept,,,HADM_6124_triples_raw.json
+HADM_6124,segmentation targeting positioning (STP,concept,SUBTYPE_OF,segmentation targeting positioning,concept,,,HADM_6124_triples_raw.json
+HADM_6124,SWOT analysis frameworks,method,SUBTYPE_OF,SWOT analysis application,concept,,,HADM_6124_triples_raw.json

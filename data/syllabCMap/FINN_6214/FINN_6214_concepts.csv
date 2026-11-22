@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_6214,topic,investments,investments,1,verified,investments,FINN_6214_concepts_raw.json
+FINN_6214,topic,portfolio management,portfolio management,1,verified,portfolio management,FINN_6214_concepts_raw.json
+FINN_6214,topic,portfolio construction,portfolio construction,2,verified,portfolio construction,FINN_6214_concepts_raw.json
+FINN_6214,topic,optimization,optimization,2,verified,optimization,FINN_6214_concepts_raw.json
+FINN_6214,topic,performance measurements,performance measurements,1,verified,performance measurements,FINN_6214_concepts_raw.json

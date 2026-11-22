@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_3208,Short Story Structure,concept,PREREQUISITE_OF,Themes in Hispanic Fiction,concept,same unit,,SPAN_3208_triples_raw.json
+SPAN_3208,Metaphor and Simile in Poetry,concept,PREREQUISITE_OF,Themes in Hispanic Drama,concept,A taught first,,SPAN_3208_triples_raw.json
+SPAN_3208,Argumentative Essay Structure,concept,PREREQUISITE_OF,Counterargument and Refutation,concept,same unit,,SPAN_3208_triples_raw.json

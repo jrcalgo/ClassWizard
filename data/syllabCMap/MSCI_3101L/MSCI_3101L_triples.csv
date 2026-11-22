@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSCI_3101L,Leadership Attributes,concept,PREREQUISITE_OF,Leadership Proficiency,concept,A taught first,,MSCI_3101L_triples_raw.json
+MSCI_3101L,Critical Thinking,concept,PREREQUISITE_OF,Creative Thinking,concept,same unit,,MSCI_3101L_triples_raw.json
+MSCI_3101L,Training Management,concept,PREREQUISITE_OF,Sustainment Functions,concept,same unit,,MSCI_3101L_triples_raw.json
+MSCI_3101L,Army Values and Ethics,concept,PREREQUISITE_OF,Core Leader Competencies,concept,same unit,,MSCI_3101L_triples_raw.json
+MSCI_3101L,After Action Review,concept,PART_OF,Training Management,concept,,,MSCI_3101L_triples_raw.json
+MSCI_3101L,Evaluation Reporting System,concept,PART_OF,Leadership Proficiency,concept,,,MSCI_3101L_triples_raw.json
+MSCI_3101L,Mission Command Principles,concept,PART_OF,Warfighting Functions,concept,,,MSCI_3101L_triples_raw.json
+MSCI_3101L,Sustainment Functions,concept,PART_OF,Training Management,concept,,,MSCI_3101L_triples_raw.json
+MSCI_3101L,Core Leader Competencies,concept,PART_OF,Personal Development,concept,,,MSCI_3101L_triples_raw.json
+MSCI_3101L,Critical Thinking,concept,PART_OF,Creative Thinking,concept,,,MSCI_3101L_triples_raw.json
+MSCI_3101L,After Action Review,concept,USED_FOR,Evaluation Reporting System,concept,,,MSCI_3101L_triples_raw.json
+MSCI_3101L,Training Management,concept,USED_FOR,Sustainment Functions,concept,,,MSCI_3101L_triples_raw.json

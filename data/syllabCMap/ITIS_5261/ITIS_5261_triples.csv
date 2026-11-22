@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5261,storage,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json
+ITIS_5261,computing,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json
+ITIS_5261,networking,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json
+ITIS_5261,elasticity,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json
+ITIS_5261,availability,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json
+ITIS_5261,monitoring,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json
+ITIS_5261,content caching,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json
+ITIS_5261,microservices,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json
+ITIS_5261,serverless architecture,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json
+ITIS_5261,cloud security,topic,PART_OF,cloud computing,topic,,,ITIS_5261_triples_raw.json

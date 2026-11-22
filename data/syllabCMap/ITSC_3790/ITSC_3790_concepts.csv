@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_3790,topic,Research,research,17,verified,Research,ITSC_3790_concepts_raw.json
+ITSC_3790,concept,scientific communication skills,scientific communication skills,1,verified,scientific communication skills,ITSC_3790_concepts_raw.json
+ITSC_3790,concept,research methodologies,research methodologies,1,verified,research methodologies,ITSC_3790_concepts_raw.json
+ITSC_3790,concept,non-cognitive skills,non-cognitive skills,1,verified,non-cognitive skills,ITSC_3790_concepts_raw.json
+ITSC_3790,concept,research ethics,research ethics,2,verified,research ethics,ITSC_3790_concepts_raw.json
+ITSC_3790,concept,equity,Equity,1,verified,equity,ITSC_3790_concepts_raw.json
+ITSC_3790,method,literature review,literature review,1,verified,literature review,ITSC_3790_concepts_raw.json
+ITSC_3790,method,human subjects research,human subjects research,1,verified,human subjects research,ITSC_3790_concepts_raw.json
+ITSC_3790,method,peer review,peer review,1,verified,peer review,ITSC_3790_concepts_raw.json

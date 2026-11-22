@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1300,Music,topic,PREREQUISITE_OF,Music Fundamentals Basics,topic,same unit,,MUSC_1300_triples_raw.json
+MUSC_1300,Music,topic,PREREQUISITE_OF,Ear Training Techniques,topic,A taught first,,MUSC_1300_triples_raw.json
+MUSC_1300,Music,topic,PREREQUISITE_OF,Critical Music Analysis,topic,A taught first,,MUSC_1300_triples_raw.json
+MUSC_1300,Music,topic,PREREQUISITE_OF,Music Theory Fundamentals,topic,A taught first,,MUSC_1300_triples_raw.json
+MUSC_1300,Music,topic,PREREQUISITE_OF,Applying Music Theory,topic,A taught first,,MUSC_1300_triples_raw.json
+MUSC_1300,pitch recognition exercises,concept,PART_OF,Ear Training Techniques,topic,,,MUSC_1300_triples_raw.json
+MUSC_1300,analyzing musical structure,concept,PART_OF,Critical Music Analysis,topic,,,MUSC_1300_triples_raw.json
+MUSC_1300,identifying musical motifs,concept,PART_OF,Critical Music Analysis,topic,,,MUSC_1300_triples_raw.json
+MUSC_1300,understanding chord progressions,concept,PART_OF,Music Theory Fundamentals,topic,,,MUSC_1300_triples_raw.json
+MUSC_1300,recognizing musical scales,concept,PART_OF,Music Theory Fundamentals,topic,,,MUSC_1300_triples_raw.json
+MUSC_1300,musical notation,concept,PART_OF,Music Fundamentals Basics,topic,,,MUSC_1300_triples_raw.json
+MUSC_1300,musical compositions,concept,PART_OF,Applying Music Theory,topic,,,MUSC_1300_triples_raw.json
+MUSC_1300,musical genres,concept,PART_OF,Applying Music Theory,topic,,,MUSC_1300_triples_raw.json

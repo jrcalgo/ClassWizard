@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WGST_4153,Virginity,topic,PREREQUISITE_OF,virginity definition,concept,same unit,,WGST_4153_triples_raw.json
+WGST_4153,Girl Studies in America,topic,PREREQUISITE_OF,Virginity,topic,B mentioned first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,virginity in different cultures,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,power dynamics,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,control,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,social construct,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,human anatomy,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,physiology,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,sexual development,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,maturity,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,hormones,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,Virginity,topic,PREREQUISITE_OF,sexual desire,concept,A taught first,,WGST_4153_triples_raw.json
+WGST_4153,virginity definition,concept,PART_OF,Virginity,topic,,,WGST_4153_triples_raw.json
+WGST_4153,social construct,concept,PART_OF,Politics of Virginity,topic,,,WGST_4153_triples_raw.json
+WGST_4153,power dynamics,concept,PART_OF,Politics of Virginity,topic,,,WGST_4153_triples_raw.json
+WGST_4153,control,concept,PART_OF,Politics of Virginity,topic,,,WGST_4153_triples_raw.json
+WGST_4153,human anatomy,concept,PART_OF,Biology and Sexuality,topic,,,WGST_4153_triples_raw.json
+WGST_4153,physiology,concept,PART_OF,Biology and Sexuality,topic,,,WGST_4153_triples_raw.json
+WGST_4153,sexual development,concept,PART_OF,Biology and Sexuality,topic,,,WGST_4153_triples_raw.json
+WGST_4153,maturity,concept,PART_OF,Biology and Sexuality,topic,,,WGST_4153_triples_raw.json
+WGST_4153,hormones,concept,PART_OF,Biology and Sexuality,topic,,,WGST_4153_triples_raw.json
+WGST_4153,sexual desire,concept,PART_OF,Biology and Sexuality,topic,,,WGST_4153_triples_raw.json

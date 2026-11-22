@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_4101,US Legal System Overview,concept,PREREQUISITE_OF,Legal Terminology Fundamentals,concept,same unit,,LEGL_4101_triples_raw.json
+LEGL_4101,Legal Terminology Fundamentals,concept,PREREQUISITE_OF,Defamation and Slander Basics,concept,A taught first,,LEGL_4101_triples_raw.json
+LEGL_4101,Legal Terminology Fundamentals,concept,PREREQUISITE_OF,Invasion of Privacy Protections,concept,A taught first,,LEGL_4101_triples_raw.json
+LEGL_4101,Legal Terminology Fundamentals,concept,PREREQUISITE_OF,Libel and Slander Differences,concept,A taught first,,LEGL_4101_triples_raw.json
+LEGL_4101,US Legal System Overview,concept,PART_OF,Media Law,topic,,,LEGL_4101_triples_raw.json
+LEGL_4101,Government Framework Basics,concept,PART_OF,Media Law,topic,,,LEGL_4101_triples_raw.json
+LEGL_4101,Prior Restraint Protection Laws,concept,PART_OF,First Amendment Principles,topic,,,LEGL_4101_triples_raw.json
+LEGL_4101,Freedom of Expression Limits,concept,PART_OF,First Amendment Principles,topic,,,LEGL_4101_triples_raw.json
+LEGL_4101,Defamation and Slander Basics,concept,PART_OF,Privacy and Libel Laws,topic,,,LEGL_4101_triples_raw.json
+LEGL_4101,Invasion of Privacy Protections,concept,PART_OF,Privacy and Libel Laws,topic,,,LEGL_4101_triples_raw.json
+LEGL_4101,Libel and Slander Differences,concept,PART_OF,Privacy and Libel Laws,topic,,,LEGL_4101_triples_raw.json
+LEGL_4101,Reporter's Privilege Laws Overview,concept,PART_OF,Censorship and Reporter's Privilege,topic,,,LEGL_4101_triples_raw.json
+LEGL_4101,Prior Restraint Case Studies,concept,USED_FOR,Privacy Rights in Journalism,concept,,,LEGL_4101_triples_raw.json

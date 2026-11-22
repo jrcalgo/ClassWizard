@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6201,topic,Business Intelligence Concepts,business intelligence concepts,1,verified,Business Intelligence Concepts,DSBA_6201_concepts_raw.json
+DSBA_6201,topic,Management Perspectives,management perspectives,1,verified,Management Perspectives,DSBA_6201_concepts_raw.json
+DSBA_6201,concept,data and knowledge assets,data and knowledge assets,1,verified,data and knowledge assets,DSBA_6201_concepts_raw.json
+DSBA_6201,concept,decision trees,decision trees,1,verified,decision trees,DSBA_6201_concepts_raw.json
+DSBA_6201,concept,neural networks,neural networks,1,verified,neural networks,DSBA_6201_concepts_raw.json

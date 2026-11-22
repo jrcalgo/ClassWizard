@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3285,topic,Design Philosophy,design philosophies,1,verified,Design Philosophy,MEGR_3285_concepts_raw.json
+MEGR_3285,topic,Social Engineering,social engineering,1,verified,Social Engineering,MEGR_3285_concepts_raw.json
+MEGR_3285,topic,Project Management,project management,1,verified,Project Management,MEGR_3285_concepts_raw.json
+MEGR_3285,topic,Team Formation,Team Formation,1,inferred,Team Formation,MEGR_3285_concepts_raw.json
+MEGR_3285,topic,Project Planning,Project Planning,1,inferred,Project Planning,MEGR_3285_concepts_raw.json
+MEGR_3285,topic,Prototype Development,Prototype Development,1,inferred,Prototype Development,MEGR_3285_concepts_raw.json
+MEGR_3285,topic,Progress Evaluations,Progress Evaluations,1,inferred,Progress Evaluations,MEGR_3285_concepts_raw.json
+MEGR_3285,topic,Budgeting and Finance,Budgeting and Finance,1,inferred,Budgeting and Finance,MEGR_3285_concepts_raw.json
+MEGR_3285,topic,Prototype Completion,Prototype Completion,1,inferred,Prototype Completion,MEGR_3285_concepts_raw.json
+MEGR_3285,topic,Expo Presentation,Expo Presentation,1,inferred,Expo Presentation,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Project Scope Definition,Project Scope Definition,1,inferred,Project Scope Definition,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Team Size Determination,Team Size Determination,1,inferred,Team Size Determination,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Discipline Allocation,Discipline Allocation,1,inferred,Discipline Allocation,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Engineering Design Principles,Engineering Design Principles,1,inferred,Engineering Design Principles,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Standards and Regulations,Standards and Regulations,1,inferred,Standards and Regulations,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Client Requirements,Client Requirements,1,inferred,Client Requirements,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Time Management,Time Management,1,inferred,Time Management,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Budgeting and Cost Estimation,Budgeting and Cost Estimation,1,inferred,Budgeting and Cost Estimation,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Risk Assessment,Risk Assessment,1,inferred,Risk Assessment,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Design Implementation,Design Implementation,1,inferred,Design Implementation,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Prototyping Techniques,Prototyping Techniques,1,inferred,Prototyping Techniques,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Testing and Validation,Testing and Validation,1,inferred,Testing and Validation,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Project Status Review,Project Status Review,1,inferred,Project Status Review,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Progress Monitoring,Progress Monitoring,1,inferred,Progress Monitoring,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Feedback and Adjustment,Feedback and Adjustment,1,inferred,Feedback and Adjustment,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Communication Skills,Communication Skills,1,inferred,Communication Skills,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Team Dynamics,Team Dynamics,1,inferred,Team Dynamics,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Client Relationships,Client Relationships,1,inferred,Client Relationships,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Financial Planning,Financial Planning,1,inferred,Financial Planning,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Expense Tracking,Expense Tracking,1,inferred,Expense Tracking,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Return on Investment,Return on Investment,1,inferred,Return on Investment,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Scheduling and Coordination,Scheduling and Coordination,1,inferred,Scheduling and Coordination,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Resource Allocation,Resource Allocation,1,inferred,Resource Allocation,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Quality Control,Quality Control,1,inferred,Quality Control,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Final Design Review,Final Design Review,1,inferred,Final Design Review,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Prototype Testing,Prototype Testing,1,inferred,Prototype Testing,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Verification and Validation,Verification and Validation,1,inferred,Verification and Validation,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Presentation Skills,Presentation Skills,1,inferred,Presentation Skills,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Poster Design,Poster Design,1,inferred,Poster Design,MEGR_3285_concepts_raw.json
+MEGR_3285,concept,Project Showcase,Project Showcase,1,inferred,Project Showcase,MEGR_3285_concepts_raw.json

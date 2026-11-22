@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_2120,topic,public policy,Public Policy,5,verified,public policy,POLS_2120_concepts_raw.json
+POLS_2120,topic,policy analysis,policy analysis,1,verified,policy analysis,POLS_2120_concepts_raw.json
+POLS_2120,topic,policymaking process,policymaking process,1,verified,policymaking process,POLS_2120_concepts_raw.json
+POLS_2120,topic,problem identification,Problem Identification,1,inferred,problem identification,POLS_2120_concepts_raw.json
+POLS_2120,topic,agenda setting,Agenda Setting,1,inferred,agenda setting,POLS_2120_concepts_raw.json
+POLS_2120,topic,policy implementation,Policy Implementation,1,inferred,policy implementation,POLS_2120_concepts_raw.json
+POLS_2120,topic,case studies in public policy,Case Studies in Public Policy,1,inferred,case studies in public policy,POLS_2120_concepts_raw.json
+POLS_2120,concept,public policy definition,Public Policy Definition,1,inferred,public policy definition,POLS_2120_concepts_raw.json
+POLS_2120,concept,policy agenda formation,Policy Agenda Formation,1,inferred,policy agenda formation,POLS_2120_concepts_raw.json
+POLS_2120,concept,government response mechanisms,Government Response Mechanisms,1,inferred,government response mechanisms,POLS_2120_concepts_raw.json
+POLS_2120,concept,public problem recognition,Public Problem Recognition,1,inferred,public problem recognition,POLS_2120_concepts_raw.json
+POLS_2120,concept,issue prioritization techniques,Issue Prioritization Techniques,1,inferred,issue prioritization techniques,POLS_2120_concepts_raw.json
+POLS_2120,concept,stakeholder involvement,Stakeholder Involvement,1,inferred,stakeholder involvement,POLS_2120_concepts_raw.json
+POLS_2120,concept,cost-benefit analysis techniques,Cost-Benefit Analysis Techniques,1,inferred,cost-benefit analysis techniques,POLS_2120_concepts_raw.json
+POLS_2120,concept,risk assessment strategies,Risk Assessment Strategies,1,inferred,risk assessment strategies,POLS_2120_concepts_raw.json
+POLS_2120,method,economic impact evaluation,Economic Impact Evaluation,1,inferred,economic impact evaluation,POLS_2120_concepts_raw.json
+POLS_2120,method,legislative branch involvement,Legislative Branch Involvement,1,inferred,legislative branch involvement,POLS_2120_concepts_raw.json
+POLS_2120,method,executive branch decision-making,Executive Branch Decision-Making,1,inferred,executive branch decision-making,POLS_2120_concepts_raw.json
+POLS_2120,method,judicial review and oversight,Judicial Review and Oversight,1,inferred,judicial review and oversight,POLS_2120_concepts_raw.json
+POLS_2120,concept,program management strategies,Program Management Strategies,1,inferred,program management strategies,POLS_2120_concepts_raw.json
+POLS_2120,concept,outcome-based evaluation methods,Outcome-Based Evaluation Methods,1,inferred,outcome-based evaluation methods,POLS_2120_concepts_raw.json
+POLS_2120,concept,performance metrics development,Performance Metrics Development,1,inferred,performance metrics development,POLS_2120_concepts_raw.json
+POLS_2120,method,cost-benefit analysis,Cost-Benefit Analysis,1,inferred,cost-benefit analysis,POLS_2120_concepts_raw.json
+POLS_2120,method,risk assessment,Risk Assessment,1,inferred,risk assessment,POLS_2120_concepts_raw.json
+POLS_2120,method,program management,Program Management,1,inferred,program management,POLS_2120_concepts_raw.json
+POLS_2120,method,outcome-based evaluation,Outcome-Based Evaluation,1,inferred,outcome-based evaluation,POLS_2120_concepts_raw.json

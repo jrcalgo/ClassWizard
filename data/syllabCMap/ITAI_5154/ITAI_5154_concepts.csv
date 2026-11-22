@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITAI_5154,topic,Modern Development Practices,modern development practices,1,verified,Modern Development Practices,ITAI_5154_concepts_raw.json
+ITAI_5154,concept,evolving role of AI,evolving role of AI,1,verified,evolving role of AI,ITAI_5154_concepts_raw.json
+ITAI_5154,concept,software engineering principles,software engineering principles,1,verified,software engineering principles,ITAI_5154_concepts_raw.json
+ITAI_5154,concept,AI Fundamentals,AI Fundamentals,1,inferred,AI Fundamentals,ITAI_5154_concepts_raw.json
+ITAI_5154,method,manual coding techniques,Manual Coding Techniques,1,inferred,manual coding techniques,ITAI_5154_concepts_raw.json
+ITAI_5154,method,integrating AI with software,Integrating AI with Software,1,inferred,integrating AI with software,ITAI_5154_concepts_raw.json
+ITAI_5154,method,supervised learning techniques,Supervised Learning Techniques,1,inferred,supervised learning techniques,ITAI_5154_concepts_raw.json
+ITAI_5154,concept,bias in AI systems,Bias in AI Systems,1,inferred,bias in AI systems,ITAI_5154_concepts_raw.json
+ITAI_5154,method,code writing best practices,Code Writing Best Practices,1,inferred,code writing best practices,ITAI_5154_concepts_raw.json
+ITAI_5154,method,designing AI-driven systems,Designing AI-Driven Systems,1,inferred,designing AI-driven systems,ITAI_5154_concepts_raw.json
+ITAI_5154,method,unsupervised learning methods,Unsupervised Learning Methods,1,inferred,unsupervised learning methods,ITAI_5154_concepts_raw.json
+ITAI_5154,method,model evaluation metrics,Model Evaluation Metrics,1,inferred,model evaluation metrics,ITAI_5154_concepts_raw.json
+ITAI_5154,concept,risk management strategies,Risk Management Strategies,1,inferred,risk management strategies,ITAI_5154_concepts_raw.json
+ITAI_5154,concept,technological changes in software,Technological Changes in Software,1,inferred,technological changes in software,ITAI_5154_concepts_raw.json
+ITAI_5154,concept,data quality issues,Data Quality Issues,1,inferred,data quality issues,ITAI_5154_concepts_raw.json

@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_2241,Multivariable Functions,topic,PREREQUISITE_OF,Partial Derivatives,topic,A taught first,,MATH_2241_triples_raw.json
+MATH_2241,Multivariable Functions,topic,PREREQUISITE_OF,Multiple Integrals,topic,A taught first,,MATH_2241_triples_raw.json
+MATH_2241,Multivariable Functions,topic,PREREQUISITE_OF,Vector Calculus,topic,A taught first,,MATH_2241_triples_raw.json
+MATH_2241,Multivariable Functions,topic,PREREQUISITE_OF,Surface Integrals,topic,A taught first,,MATH_2241_triples_raw.json
+MATH_2241,Vector-valued functions,concept,PART_OF,Multivariable Functions,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Graphing techniques,concept,PART_OF,Multivariable Functions,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Partial derivative notation,concept,PART_OF,Partial Derivatives,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Higher-order partial derivatives,concept,PART_OF,Partial Derivatives,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Clairaut's theorem,concept,PART_OF,Partial Derivatives,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Iterated integrals,concept,PART_OF,Multiple Integrals,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Change of variables,concept,PART_OF,Multiple Integrals,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Gradient vector field,concept,PART_OF,Vector Calculus,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Divergence theorem,concept,PART_OF,Vector Calculus,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Surface area and normal vectors,concept,PART_OF,Surface Integrals,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Stokes' theorem,concept,PART_OF,Surface Integrals,topic,,,MATH_2241_triples_raw.json
+MATH_2241,Gauss-Ostrogradsky theorem,concept,PART_OF,Surface Integrals,topic,,,MATH_2241_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_4165L,Molecular Structure Importance,concept,PREREQUISITE_OF,Polarity and Hydrogen Bonding,concept,same unit,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Spectrophotometry Fundamentals,concept,PREREQUISITE_OF,Chromatography Basics,concept,same unit,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Carbohydrate Structure and Function,concept,PREREQUISITE_OF,Protein Primary Structure Importance,concept,same unit,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Electrophoresis Principles,concept,PREREQUISITE_OF,Gel Staining and Documentation,concept,same unit,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Mass Spectrometry Fundamentals,concept,PREREQUISITE_OF,Fluorescence Microscopy Basics,concept,same unit,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Lab Safety Protocols,concept,PART_OF,Equipment Familiarization,topic,,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Lab Notebook Basics,topic,PART_OF,Physical properties of biological molecules,topic,,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Spectrophotometry Fundamentals,concept,PART_OF,Chromatography Basics,concept,,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Nucleic Acid Composition,concept,PART_OF,Lipid Structure and Function,concept,,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Electrophoresis Principles,concept,PART_OF,Gel Staining and Documentation,concept,,,CHEM_4165L_triples_raw.json
+CHEM_4165L,Mass Spectrometry Fundamentals,concept,PART_OF,Fluorescence Microscopy Basics,concept,,,CHEM_4165L_triples_raw.json

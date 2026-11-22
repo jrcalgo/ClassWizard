@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8186,causes of globalization,concept,PREREQUISITE_OF,effects on local communities,concept,same unit,,EDCI_8186_triples_raw.json
+EDCI_8186,urban population growth,concept,PREREQUISITE_OF,urban poverty and inequality,concept,same unit,,EDCI_8186_triples_raw.json
+EDCI_8186,urban poverty and inequality,concept,PREREQUISITE_OF,environmental degradation in cities,concept,same unit,,EDCI_8186_triples_raw.json
+EDCI_8186,economic globalization theories,concept,PREREQUISITE_OF,cultural homogenization effects,concept,same unit,,EDCI_8186_triples_raw.json
+EDCI_8186,cultural homogenization effects,concept,PREREQUISITE_OF,global governance systems,concept,same unit,,EDCI_8186_triples_raw.json
+EDCI_8186,urban school enrollment trends,concept,PREREQUISITE_OF,impact of migration on urban schools,concept,same unit,,EDCI_8186_triples_raw.json
+EDCI_8186,community engagement in education,concept,PREREQUISITE_OF,urban school reform strategies,concept,A taught first,,EDCI_8186_triples_raw.json
+EDCI_8186,urban population growth,concept,PART_OF,Urbanization,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,urban poverty and inequality,concept,PART_OF,Urbanization,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,environmental degradation in cities,concept,PART_OF,Urbanization,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,economic globalization theories,concept,PART_OF,Globalization,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,cultural homogenization effects,concept,PART_OF,Globalization,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,global governance systems,concept,PART_OF,Globalization,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,urban school enrollment trends,concept,PART_OF,Urban Schools,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,community engagement in education,concept,PART_OF,Urban Schools,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,implications of globalization on teaching,concept,PART_OF,Urban Schools,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,urban school reform strategies,concept,PART_OF,Urban Schools,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,high-performing education systems,concept,PART_OF,Globalization,topic,,,EDCI_8186_triples_raw.json
+EDCI_8186,teaching quality and student outcomes,concept,PART_OF,high-performing education systems,concept,,,EDCI_8186_triples_raw.json
+EDCI_8186,systemic support for teachers,concept,PART_OF,high-performing education systems,concept,,,EDCI_8186_triples_raw.json
+EDCI_8186,urban school reform strategies,concept,USED_FOR,urban school enrollment trends,concept,,,EDCI_8186_triples_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3180,digital technologies and language,concept,PREREQUISITE_OF,information communication technologies,concept,same unit,,ENGL_3180_triples_raw.json
+ENGL_3180,digital technologies and language,concept,PREREQUISITE_OF,multimodal communication,concept,A taught first,,ENGL_3180_triples_raw.json
+ENGL_3180,digital technologies and language,concept,PREREQUISITE_OF,visual and audio literacy,concept,A taught first,,ENGL_3180_triples_raw.json
+ENGL_3180,digital technologies and language,concept,PREREQUISITE_OF,non-linear text structures,concept,A taught first,,ENGL_3180_triples_raw.json
+ENGL_3180,information communication technologies,concept,PREREQUISITE_OF,determinist authority of ICTs,concept,A taught first,,ENGL_3180_triples_raw.json
+ENGL_3180,multimodal communication,concept,PART_OF,Non-Alphabetic Literacies,topic,,,ENGL_3180_triples_raw.json
+ENGL_3180,visual and audio literacy,concept,PART_OF,Non-Alphabetic Literacies,topic,,,ENGL_3180_triples_raw.json
+ENGL_3180,non-linear text structures,concept,PART_OF,Non-Alphabetic Literacies,topic,,,ENGL_3180_triples_raw.json
+ENGL_3180,enabling vs constrictive technologies,concept,PART_OF,Critical Perspectives on Technology,topic,,,ENGL_3180_triples_raw.json
+ENGL_3180,determinist authority of ICTs,concept,PART_OF,Critical Perspectives on Technology,topic,,,ENGL_3180_triples_raw.json
+ENGL_3180,ICTs and language control,concept,PART_OF,Debate on Determinist Authority,topic,,,ENGL_3180_triples_raw.json
+ENGL_3180,determinism vs agency in ICTs,concept,PART_OF,Debate on Determinist Authority,topic,,,ENGL_3180_triples_raw.json

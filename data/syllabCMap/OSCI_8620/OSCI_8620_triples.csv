@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OSCI_8620,Individual Performance,topic,PREREQUISITE_OF,Organizational Performance,topic,A taught first,,OSCI_8620_triples_raw.json
+OSCI_8620,Training and Development,topic,PREREQUISITE_OF,Coaching and Mentoring,topic,A taught first,,OSCI_8620_triples_raw.json
+OSCI_8620,Coaching and Mentoring,topic,PREREQUISITE_OF,Teams and Diversity,topic,A taught first,,OSCI_8620_triples_raw.json
+OSCI_8620,Individual Performance,topic,PART_OF,Organizational Performance,topic,,,OSCI_8620_triples_raw.json
+OSCI_8620,Coaching and Mentoring,topic,PART_OF,Teams and Diversity,topic,,,OSCI_8620_triples_raw.json

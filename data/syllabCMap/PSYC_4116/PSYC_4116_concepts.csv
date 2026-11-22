@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_4116,topic,Cognitive Neuroscience,Cognitive Neuroscience,3,verified,Cognitive Neuroscience,PSYC_4116_concepts_raw.json
+PSYC_4116,topic,Neural Basis of Consciousness,Neural Basis of Consciousness,1,inferred,Neural Basis of Consciousness,PSYC_4116_concepts_raw.json
+PSYC_4116,topic,Brain Structure and Function,Brain Structure and Function,1,inferred,Brain Structure and Function,PSYC_4116_concepts_raw.json
+PSYC_4116,topic,Neurotransmitters and Neuroplasticity,Neurotransmitters and Neuroplasticity,1,inferred,Neurotransmitters and Neuroplasticity,PSYC_4116_concepts_raw.json
+PSYC_4116,topic,Sensory Processing and Perception,Sensory Processing and Perception,1,inferred,Sensory Processing and Perception,PSYC_4116_concepts_raw.json
+PSYC_4116,topic,Motor Control and Action,Motor Control and Action,1,inferred,Motor Control and Action,PSYC_4116_concepts_raw.json
+PSYC_4116,topic,Learning and Memory,Learning and Memory,1,inferred,Learning and Memory,PSYC_4116_concepts_raw.json
+PSYC_4116,topic,Imaging Techniques in Cognitive Neuroscience,Imaging Techniques in Cognitive Neuroscience,1,inferred,Imaging Techniques in Cognitive Neuroscience,PSYC_4116_concepts_raw.json
+PSYC_4116,topic,Clinical Neurology and Disorders,Clinical Neurology and Disorders,1,inferred,Clinical Neurology and Disorders,PSYC_4116_concepts_raw.json
+PSYC_4116,topic,Computational Models in Cognitive Neuroscience,Computational Models in Cognitive Neuroscience,1,inferred,Computational Models in Cognitive Neuroscience,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Cognitive Neuroscience Overview,Cognitive Neuroscience Overview,1,inferred,Cognitive Neuroscience Overview,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Brain and Behavior Relationship,Brain and Behavior Relationship,1,inferred,Brain and Behavior Relationship,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,History of the Field,History of the Field,1,inferred,History of the Field,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Consciousness Definition,Consciousness Definition,1,inferred,Consciousness Definition,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Neural Correlates of Awareness,Neural Correlates of Awareness,1,inferred,Neural Correlates of Awareness,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Integrated Information Theory,Integrated Information Theory,1,inferred,Integrated Information Theory,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Cerebral Cortex Functions,Cerebral Cortex Functions,1,inferred,Cerebral Cortex Functions,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Basal Ganglia Role,Basal Ganglia Role,1,inferred,Basal Ganglia Role,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Thalamus and Sensory Processing,Thalamus and Sensory Processing,1,inferred,Thalamus and Sensory Processing,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Dopamine and Reward System,Dopamine and Reward System,1,inferred,Dopamine and Reward System,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Serotonin and Mood Regulation,Serotonin and Mood Regulation,1,inferred,Serotonin and Mood Regulation,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Synaptic Plasticity Mechanisms,Synaptic Plasticity Mechanisms,1,inferred,Synaptic Plasticity Mechanisms,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Visual Pathway Anatomy,Visual Pathway Anatomy,1,inferred,Visual Pathway Anatomy,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Auditory Cortex Functions,Auditory Cortex Functions,1,inferred,Auditory Cortex Functions,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Tactile Sensory Integration,Tactile Sensory Integration,1,inferred,Tactile Sensory Integration,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Motor Cortex Organization,Motor Cortex Organization,1,inferred,Motor Cortex Organization,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Basal Ganglia and Movement,Basal Ganglia and Movement,1,inferred,Basal Ganglia and Movement,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Cerebellum Role in Coordination,Cerebellum Role in Coordination,1,inferred,Cerebellum Role in Coordination,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Hippocampus and Spatial Memory,Hippocampus and Spatial Memory,1,inferred,Hippocampus and Spatial Memory,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Amygdala and Emotional Learning,Amygdala and Emotional Learning,1,inferred,Amygdala and Emotional Learning,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Neural Mechanisms of Consolidation,Neural Mechanisms of Consolidation,1,inferred,Neural Mechanisms of Consolidation,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Functional Magnetic Resonance Imaging,Functional Magnetic Resonance Imaging,1,inferred,Functional Magnetic Resonance Imaging,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Electroencephalography Principles,Electroencephalography Principles,1,inferred,Electroencephalography Principles,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Magnetoencephalography Applications,Magnetoencephalography Applications,1,inferred,Magnetoencephalography Applications,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Neurological Disorders Overview,Neurological Disorders Overview,1,inferred,Neurological Disorders Overview,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Stroke and Traumatic Brain Injury,Stroke and Traumatic Brain Injury,1,inferred,Stroke and Traumatic Brain Injury,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Neuropsychiatric Conditions,Neuropsychiatric Conditions,1,inferred,Neuropsychiatric Conditions,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Spiking Neural Networks,Spiking Neural Networks,1,inferred,Spiking Neural Networks,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Deep Learning Architectures,Deep Learning Architectures,1,inferred,Deep Learning Architectures,PSYC_4116_concepts_raw.json
+PSYC_4116,concept,Cognitive Architectures Frameworks,Cognitive Architectures Frameworks,1,inferred,Cognitive Architectures Frameworks,PSYC_4116_concepts_raw.json

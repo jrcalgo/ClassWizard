@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_2105,topic,Computer Programming,Computer Programming,2,verified,Computer Programming,ECGR_2105_concepts_raw.json
+ECGR_2105,tool,C++,C++,5,verified,C++,ECGR_2105_concepts_raw.json
+ECGR_2105,topic,Inheritance and Polymorphism,Inheritance and Polymorphism,1,verified,Inheritance and Polymorphism,ECGR_2105_concepts_raw.json
+ECGR_2105,concept,object-oriented programming,object-oriented programming,1,verified,object-oriented programming,ECGR_2105_concepts_raw.json
+ECGR_2105,concept,variable declaration,variable declaration,1,verified,variable declaration,ECGR_2105_concepts_raw.json
+ECGR_2105,concept,logical operators,logical operators,1,verified,logical operators,ECGR_2105_concepts_raw.json
+ECGR_2105,concept,branches and loops,branches and loops,1,verified,branches and loops,ECGR_2105_concepts_raw.json
+ECGR_2105,concept,objects and classes,Objects and Classes,1,verified,objects and classes,ECGR_2105_concepts_raw.json
+ECGR_2105,concept,class interfaces,class interfaces,1,verified,class interfaces,ECGR_2105_concepts_raw.json
+ECGR_2105,concept,dynamic memory allocation,Dynamic Memory Allocation,2,verified,dynamic memory allocation,ECGR_2105_concepts_raw.json
+ECGR_2105,concept,memory management,memory management,1,verified,memory management,ECGR_2105_concepts_raw.json
+ECGR_2105,tool,ZyBooks,ZyBooks,1,verified,ZyBooks,ECGR_2105_concepts_raw.json

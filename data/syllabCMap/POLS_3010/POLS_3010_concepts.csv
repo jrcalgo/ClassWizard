@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_3010,topic,Trial Advocacy Techniques,trial advocacy techniques,2,verified,Trial Advocacy Techniques,POLS_3010_concepts_raw.json
+POLS_3010,topic,Mock Trials,mock trials,1,verified,Introduction to Mock Trials,POLS_3010_concepts_raw.json
+POLS_3010,topic,Rules of Evidence,Rules of Evidence,1,verified,Rules of Evidence,POLS_3010_concepts_raw.json
+POLS_3010,topic,Trial Structure,Trial Structure,2,inferred,Trial Structure,POLS_3010_concepts_raw.json
+POLS_3010,topic,Trial Structure Fundamentals,Trial Structure Fundamentals,1,inferred,Trial Structure Fundamentals,POLS_3010_concepts_raw.json
+POLS_3010,topic,Oral Communication Skills,Oral Communication Skills,1,inferred,Oral Communication Skills,POLS_3010_concepts_raw.json
+POLS_3010,topic,Mock Trial Applications,Mock Trial Applications,1,inferred,Mock Trial Applications,POLS_3010_concepts_raw.json
+POLS_3010,concept,Relevance and Admissibility,Relevance and Admissibility,1,inferred,Relevance and Admissibility,POLS_3010_concepts_raw.json
+POLS_3010,concept,Hearsay and Exclusions,Hearsay and Exclusions,1,inferred,Hearsay and Exclusions,POLS_3010_concepts_raw.json
+POLS_3010,concept,Burden of Proof Standards,Burden of Proof Standards,1,inferred,Burden of Proof Standards,POLS_3010_concepts_raw.json
+POLS_3010,concept,Plaintiff's Case Presentation,Plaintiff's Case Presentation,1,inferred,Plaintiff's Case Presentation,POLS_3010_concepts_raw.json
+POLS_3010,concept,Defendant's Case Defense Strategy,Defendant's Case Defense Strategy,1,inferred,Defendant's Case Defense Strategy,POLS_3010_concepts_raw.json
+POLS_3010,concept,Witness Examination Techniques,Witness Examination Techniques,1,inferred,Witness Examination Techniques,POLS_3010_concepts_raw.json
+POLS_3010,concept,Effective Opening Statements,Effective Opening Statements,1,inferred,Effective Opening Statements,POLS_3010_concepts_raw.json
+POLS_3010,concept,Cross-Examination Strategies,Cross-Examination Strategies,1,inferred,Cross-Examination Strategies,POLS_3010_concepts_raw.json
+POLS_3010,concept,Closing Argument Techniques,Closing Argument Techniques,1,inferred,Closing Argument Techniques,POLS_3010_concepts_raw.json
+POLS_3010,concept,Case Analysis and Strategy,Case Analysis and Strategy,1,inferred,Case Analysis and Strategy,POLS_3010_concepts_raw.json
+POLS_3010,concept,Role Assignment and Preparation,Role Assignment and Preparation,1,inferred,Role Assignment and Preparation,POLS_3010_concepts_raw.json
+POLS_3010,concept,Mock Trial Conduct and Feedback,Mock Trial Conduct and Feedback,1,inferred,Mock Trial Conduct and Feedback,POLS_3010_concepts_raw.json

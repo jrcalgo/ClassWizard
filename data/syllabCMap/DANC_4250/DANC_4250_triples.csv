@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_4250,Community Dance,topic,PREREQUISITE_OF,Dance Forms and Styles,topic,A taught first,,DANC_4250_triples_raw.json
+DANC_4250,Community Research Methods,topic,PREREQUISITE_OF,Teaching and Facilitating Dance,topic,A taught first,,DANC_4250_triples_raw.json
+DANC_4250,Community Programming and Exit Strategies,topic,PREREQUISITE_OF,Creative Expression in Dance,topic,A taught first,,DANC_4250_triples_raw.json
+DANC_4250,Pedagogical Skills in Dance,concept,PART_OF,Pedagogical Skills in Teaching Dance,concept,,,DANC_4250_triples_raw.json
+DANC_4250,Cultural Awareness Competencies,concept,PART_OF,Community Engagement Strategies,concept,,,DANC_4250_triples_raw.json
+DANC_4250,Effective Communication in Dance,concept,PART_OF,Dance Forms and Styles,topic,,,DANC_4250_triples_raw.json
+DANC_4250,Research Techniques for Community Engagement,concept,PART_OF,Community Research Methods,topic,,,DANC_4250_triples_raw.json
+DANC_4250,Interpersonal Skills for Building Liaisons,concept,PART_OF,Community Research Methods,topic,,,DANC_4250_triples_raw.json
+DANC_4250,Community Engagement Strategies,concept,USED_FOR,Community Dance,topic,,,DANC_4250_triples_raw.json
+DANC_4250,Pedagogical Skills in Dance,concept,USED_FOR,Teaching and Facilitating Dance,topic,,,DANC_4250_triples_raw.json

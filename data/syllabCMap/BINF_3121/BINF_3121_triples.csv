@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_3121,Median calculation,concept,PREREQUISITE_OF,Standard deviation,concept,same unit,,BINF_3121_triples_raw.json
+BINF_3121,Median calculation,concept,PREREQUISITE_OF,Variance,concept,same unit,,BINF_3121_triples_raw.json
+BINF_3121,Data types in R,concept,PREREQUISITE_OF,Importing data into R,concept,same unit,,BINF_3121_triples_raw.json
+BINF_3121,R programming language basics,concept,PART_OF,R,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Median calculation,concept,PART_OF,Descriptive Statistics,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Standard deviation,concept,PART_OF,Descriptive Statistics,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Variance,concept,PART_OF,Descriptive Statistics,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Data visualization with plots,concept,PART_OF,Descriptive Statistics,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Normal distribution properties,concept,PART_OF,Probability and Distributions,topic,,,BINF_3121_triples_raw.json
+BINF_3121,T-distribution introduction,concept,PART_OF,Probability and Distributions,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Alternative hypotheses,concept,PART_OF,Hypothesis Testing,topic,,,BINF_3121_triples_raw.json
+BINF_3121,P-value calculation methods,concept,PART_OF,Hypothesis Testing,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Linear regression model basics,concept,PART_OF,Regression Analysis,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Coefficient interpretation techniques,concept,PART_OF,Regression Analysis,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Residual analysis and diagnostics,concept,PART_OF,Regression Analysis,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Protein structure prediction tools,concept,PART_OF,Bioinformatics Applications,topic,,,BINF_3121_triples_raw.json
+BINF_3121,Gene expression analysis techniques,concept,PART_OF,Bioinformatics Applications,topic,,,BINF_3121_triples_raw.json
+BINF_3121,R Markdown,tool,USED_FOR,Statistics for Bioinformatics,topic,,,BINF_3121_triples_raw.json

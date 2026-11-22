@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1233,Musicianship I,topic,PREREQUISITE_OF,Group Piano,topic,B mentioned first,,MUSC_1233_triples_raw.json
+MUSC_1233,Functional keyboard skills,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Harmonization,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Transposition,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Sight-reading,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Accompanying styles,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Chord symbols,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Analysis of repertoire,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Diatonic melodies,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Rhythm competencies,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Compound meters,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Pentascale pattern hands,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json
+MUSC_1233,Chord inversions,concept,PART_OF,Group Piano,topic,,,MUSC_1233_triples_raw.json

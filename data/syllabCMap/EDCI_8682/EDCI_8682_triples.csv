@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8682,high-impact research agenda,concept,PREREQUISITE_OF,Disseminating Research Findings,topic,B mentioned first,,EDCI_8682_triples_raw.json
+EDCI_8682,21st century technology,concept,PREREQUISITE_OF,technology in urban schools,concept,B mentioned first,,EDCI_8682_triples_raw.json
+EDCI_8682,grant writing strategies and tips,concept,PREREQUISITE_OF,Developing a Grant Proposal,topic,B taught first,B is taught before A - check,EDCI_8682_triples_raw.json
+EDCI_8682,UNC Charlotte research compliance guidelines,concept,PREREQUISITE_OF,Research Compliance and Ethics,topic,same unit,,EDCI_8682_triples_raw.json
+EDCI_8682,transforming urban education,concept,PART_OF,Current Issues in Urban Education,topic,,,EDCI_8682_triples_raw.json
+EDCI_8682,Disseminating Research Findings,topic,PART_OF,Current Issues in Urban Education,topic,,,EDCI_8682_triples_raw.json
+EDCI_8682,Developing a Grant Proposal,topic,PART_OF,Disseminating Research Findings,topic,,,EDCI_8682_triples_raw.json
+EDCI_8682,Navigating Funding Avenues,topic,PART_OF,Disseminating Research Findings,topic,,,EDCI_8682_triples_raw.json
+EDCI_8682,Professional Engagement and Networking,topic,PART_OF,Disseminating Research Findings,topic,,,EDCI_8682_triples_raw.json
+EDCI_8682,grant matrix document and template,concept,USED_FOR,Developing a Grant Proposal,topic,,,EDCI_8682_triples_raw.json
+EDCI_8682,budgeting and financial planning,method,USED_FOR,Developing a Grant Proposal,topic,,,EDCI_8682_triples_raw.json

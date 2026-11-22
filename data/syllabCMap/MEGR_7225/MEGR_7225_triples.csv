@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_7225,Linear-Quadratic Optimal Control,topic,PREREQUISITE_OF,Luenberger Observer Design,topic,B taught first,B is taught before A - check,MEGR_7225_triples_raw.json
+MEGR_7225,Controllability and Observability,topic,PREREQUISITE_OF,Luenberger Observer Design,topic,A taught first,,MEGR_7225_triples_raw.json
+MEGR_7225,state-space representations,concept,PART_OF,State-Space,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,Existence and Uniqueness of Solutions,topic,PART_OF,State-Space,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,Change of Basis and Diagonalization,topic,PART_OF,State-Space,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,Matrix Exponential and State-Transition Matrices,topic,PART_OF,State-Space,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,Controllability and Observability,topic,PART_OF,State-Space,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,State-Feedback Control and Pole Placement,topic,PART_OF,State-Space,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,Luenberger Observer Design,topic,PART_OF,State-Space,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,Linear-Quadratic Optimal Control,topic,SUBTYPE_OF,Linear Systems Theory,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,Existence and Uniqueness of Solutions,topic,SUBTYPE_OF,Linear Systems Theory,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,Luenberger Observer Design,topic,SUBTYPE_OF,Linear Systems Theory,topic,,,MEGR_7225_triples_raw.json
+MEGR_7225,MATLAB,tool,USED_FOR,Linear-Quadratic Optimal Control,topic,,,MEGR_7225_triples_raw.json

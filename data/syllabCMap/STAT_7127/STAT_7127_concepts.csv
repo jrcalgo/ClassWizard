@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_7127,topic,Linear Statistical Models,Linear Statistical Models,1,verified,Linear Statistical Models,STAT_7127_concepts_raw.json
+STAT_7127,concept,general linear models,general linear models,2,verified,general linear models,STAT_7127_concepts_raw.json
+STAT_7127,concept,least squares estimators,least squares estimators,1,verified,least squares estimators,STAT_7127_concepts_raw.json
+STAT_7127,topic,Confidence Intervals,confidence intervals,1,verified,Confidence Intervals,STAT_7127_concepts_raw.json
+STAT_7127,topic,Linear Algebra Review,Linear Algebra Review,1,inferred,Linear Algebra Review,STAT_7127_concepts_raw.json
+STAT_7127,topic,Hypothesis Testing,Hypothesis Testing,1,inferred,Hypothesis Testing,STAT_7127_concepts_raw.json
+STAT_7127,topic,Model Assumption Checking,Model Assumption Checking,1,inferred,Model Assumption Checking,STAT_7127_concepts_raw.json
+STAT_7127,topic,Regression Diagnostics,Regression Diagnostics,1,inferred,Regression Diagnostics,STAT_7127_concepts_raw.json
+STAT_7127,topic,Model Selection and Validation,Model Selection and Validation,1,inferred,Model Selection and Validation,STAT_7127_concepts_raw.json
+STAT_7127,concept,test statistics,Test Statistics,1,inferred,test statistics,STAT_7127_concepts_raw.json
+STAT_7127,concept,p-value interpretation rules,P-Value Interpretation Rules,1,inferred,p-value interpretation rules,STAT_7127_concepts_raw.json
+STAT_7127,concept,interval estimation principles,Interval Estimation Principles,1,inferred,interval estimation principles,STAT_7127_concepts_raw.json
+STAT_7127,concept,standard error calculation methods,Standard Error Calculation Methods,1,inferred,standard error calculation methods,STAT_7127_concepts_raw.json
+STAT_7127,concept,homoscedasticity tests,Homoscedasticity Tests,1,inferred,homoscedasticity tests,STAT_7127_concepts_raw.json
+STAT_7127,concept,residual plot interpretation,Residual Plot Interpretation,1,inferred,residual plot interpretation,STAT_7127_concepts_raw.json
+STAT_7127,concept,outlier detection techniques,Outlier Detection Techniques,1,inferred,outlier detection techniques,STAT_7127_concepts_raw.json
+STAT_7127,concept,coefficient of determination calculation,Coefficient of Determination Calculation,1,inferred,coefficient of determination calculation,STAT_7127_concepts_raw.json
+STAT_7127,concept,variance inflation factor analysis,Variance Inflation Factor Analysis,1,inferred,variance inflation factor analysis,STAT_7127_concepts_raw.json
+STAT_7127,concept,collinearity detection methods,Collinearity Detection Methods,1,inferred,collinearity detection methods,STAT_7127_concepts_raw.json
+STAT_7127,concept,model comparison criteria,Model Comparison Criteria,1,inferred,model comparison criteria,STAT_7127_concepts_raw.json
+STAT_7127,concept,cross-validation techniques,Cross-Validation Techniques,1,inferred,cross-validation techniques,STAT_7127_concepts_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_8605,Behavioral Change Theories,concept,PREREQUISITE_OF,Community-Based Interventions,concept,same unit,,HLTH_8605_triples_raw.json
+HLTH_8605,Behavioral Change Theories,concept,PREREQUISITE_OF,Health Education Principles,concept,same unit,,HLTH_8605_triples_raw.json
+HLTH_8605,Global Health Issues,concept,PART_OF,Healthcare System Overview,topic,,,HLTH_8605_triples_raw.json
+HLTH_8605,Public Health Importance,concept,PART_OF,Healthcare System Overview,topic,,,HLTH_8605_triples_raw.json
+HLTH_8605,Disease Surveillance Methods,topic,PART_OF,Disease Surveillance,concept,,part is broader than whole - check direction,HLTH_8605_triples_raw.json
+HLTH_8605,Infection Control Principles,topic,PART_OF,Infection Control,concept,,part is broader than whole - check direction,HLTH_8605_triples_raw.json
+HLTH_8605,Outbreak Investigation Techniques,topic,PART_OF,Outbreak Investigation,concept,,part is broader than whole - check direction,HLTH_8605_triples_raw.json
+HLTH_8605,Regulatory Framework Overview,topic,PART_OF,Regulatory Framework,concept,,part is broader than whole - check direction,HLTH_8605_triples_raw.json
+HLTH_8605,Healthcare Reform Initiatives,topic,PART_OF,Healthcare Reform,concept,,part is broader than whole - check direction,HLTH_8605_triples_raw.json
+HLTH_8605,Ethics in Healthcare Practice,topic,PART_OF,Ethics in Healthcare,concept,,part is broader than whole - check direction,HLTH_8605_triples_raw.json
+HLTH_8605,Disease Surveillance,concept,USED_FOR,Disease Surveillance Methods,topic,,,HLTH_8605_triples_raw.json
+HLTH_8605,Infection Control,concept,USED_FOR,Infection Control Principles,topic,,,HLTH_8605_triples_raw.json
+HLTH_8605,Outbreak Investigation,concept,USED_FOR,Outbreak Investigation Techniques,topic,,,HLTH_8605_triples_raw.json

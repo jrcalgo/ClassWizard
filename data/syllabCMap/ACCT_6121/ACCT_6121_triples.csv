@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ACCT_6121,Tax Accounting Principles,concept,PREREQUISITE_OF,GAAP vs. Tax Accounting,concept,same unit,,ACCT_6121_triples_raw.json
+ACCT_6121,Tax Accounting Principles,concept,PREREQUISITE_OF,Tax Return Preparation,concept,same unit,,ACCT_6121_triples_raw.json
+ACCT_6121,Estates and Trusts Overview,concept,PREREQUISITE_OF,Entity Classification Rules,concept,same unit,,ACCT_6121_triples_raw.json
+ACCT_6121,Internal Revenue Code Review,concept,PREREQUISITE_OF,Regulations and Legislative Histories,concept,same unit,,ACCT_6121_triples_raw.json
+ACCT_6121,Court Cases and Precedents,concept,PREREQUISITE_OF,Regulations and Legislative Histories,concept,same unit,,ACCT_6121_triples_raw.json
+ACCT_6121,Tax Return Preparation,concept,PART_OF,Tax Accounting Principles,concept,,,ACCT_6121_triples_raw.json
+ACCT_6121,Estates and Trusts Overview,concept,PART_OF,Business Entity Taxation,topic,,,ACCT_6121_triples_raw.json
+ACCT_6121,Internal Revenue Code Review,concept,PART_OF,Tax Research Fundamentals,topic,,,ACCT_6121_triples_raw.json
+ACCT_6121,Court Cases and Precedents,concept,PART_OF,Tax Research Fundamentals,topic,,,ACCT_6121_triples_raw.json
+ACCT_6121,Professional Responsibility Standards,concept,PART_OF,Ethics in Tax Practice,topic,,,ACCT_6121_triples_raw.json
+ACCT_6121,Tax Practitioner Ethics Rules,concept,PART_OF,Ethics in Tax Practice,topic,,,ACCT_6121_triples_raw.json
+ACCT_6121,Tax Return Filing Requirements,concept,PART_OF,Federal Tax Procedure,topic,,,ACCT_6121_triples_raw.json
+ACCT_6121,Audits and Examination Process,concept,PART_OF,Federal Tax Procedure,topic,,,ACCT_6121_triples_raw.json
+ACCT_6121,Tax Court and Appeals Process,concept,PART_OF,Federal Tax Procedure,topic,,,ACCT_6121_triples_raw.json

@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_3267,Social Stratification,concept,PREREQUISITE_OF,Power Dynamics,concept,same unit,,SOCY_3267_triples_raw.json
+SOCY_3267,Leming's Model of Social Structure,concept,PREREQUISITE_OF,Social Stratification Systems,concept,same unit,,SOCY_3267_triples_raw.json
+SOCY_3267,Structural Equivalence Theory,topic,PREREQUISITE_OF,Eigenvector Centrality Measure,topic,same unit,,SOCY_3267_triples_raw.json
+SOCY_3267,Network Analysis Methods,method,PREREQUISITE_OF,Bridging and Bonding Ties,topic,A taught first,,SOCY_3267_triples_raw.json
+SOCY_3267,Social Capital Theory,concept,PREREQUISITE_OF,Collective Efficacy Concept,concept,A taught first,,SOCY_3267_triples_raw.json
+SOCY_3267,Death Anxiety,concept,PREREQUISITE_OF,Palliative Care,concept,A taught first,,SOCY_3267_triples_raw.json
+SOCY_3267,Grief Process,concept,PREREQUISITE_OF,Mourning Rituals Role,concept,same unit,,SOCY_3267_triples_raw.json
+SOCY_3267,Euthanasia Debate,concept,PREREQUISITE_OF,Voluntary Euthanasia,concept,same unit,,SOCY_3267_triples_raw.json
+SOCY_3267,Active Euthanasia,concept,PREREQUISITE_OF,Passive Euthanasia,concept,same unit,,SOCY_3267_triples_raw.json
+SOCY_3267,Right to Die,concept,PREREQUISITE_OF,Medical Futility,measure,B taught first,B is taught before A - check,SOCY_3267_triples_raw.json
+SOCY_3267,Weber's Theory,concept,PREREQUISITE_OF,Marxist Perspective,concept,same unit,,SOCY_3267_triples_raw.json
+SOCY_3267,Class Structure,concept,PREREQUISITE_OF,Power Dynamics Analysis,concept,A taught first,,SOCY_3267_triples_raw.json
+SOCY_3267,Bridging and Bonding Ties,topic,USED_FOR,Network Analysis Methods,method,,topic used for something - check direction,SOCY_3267_triples_raw.json
+SOCY_3267,Collective Efficacy Concept,concept,USED_FOR,Social Capital Theory,concept,,,SOCY_3267_triples_raw.json
+SOCY_3267,Symbolic Interactionism,concept,USED_FOR,Cultural Capital Concept,concept,,,SOCY_3267_triples_raw.json
+SOCY_3267,Voluntary Euthanasia,concept,USED_FOR,Euthanasia Debate,concept,,,SOCY_3267_triples_raw.json
+SOCY_3267,Involuntary Euthanasia,concept,USED_FOR,Non-Voluntary Euthanasia,concept,,,SOCY_3267_triples_raw.json
+SOCY_3267,Passive Euthanasia,concept,USED_FOR,Active Euthanasia,concept,,,SOCY_3267_triples_raw.json
+SOCY_3267,Medical Futility,measure,USED_FOR,Right to Die,concept,,,SOCY_3267_triples_raw.json
+SOCY_3267,Marxist Perspective,concept,USED_FOR,Weber's Theory,concept,,,SOCY_3267_triples_raw.json

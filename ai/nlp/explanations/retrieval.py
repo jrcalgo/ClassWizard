@@ -26,6 +26,7 @@ from __future__ import annotations
 import re
 
 from ai.nlp.embeddings.sentence_transformer import encode, to_pgvector
+from ai.recommendations.skill_evidence import retrieve_match_items, merge_match_items
 from ai.recommendations.ranking import CATALOG, candidate_courses, satisfied_codes, taken_codes
 
 MAX_ITEMS = 10          # cap on evidence items per answer (prompt budget)
@@ -195,7 +196,7 @@ def credit_notes(code: str, description: str | None, audit: dict) -> list[str]:
     return notes
 
 
-def _course_item(code, row, audit, blocks, prereqs, matches, titles, origin) -> dict:
+def _course_item(code, row, audit, blocks, prereqs, matches, titles, origin, scoring_method="cosine_similarity") -> dict:
     """One evidence item with everything known about a course, cited by its code."""
     title, description, credit_min, credit_max, credit_raw, prerequisite_raw, restriction_raw = row
     hours = credit_min if credit_min is not None and credit_min == credit_max else credit_raw
@@ -238,7 +239,8 @@ def _course_item(code, row, audit, blocks, prereqs, matches, titles, origin) -> 
         )
     if matches:
         listed = ", ".join(f"{titles.get(soc, soc)} {value:.2f}" for soc, value in matches.items())
-        parts.append(f"Career match by description similarity (higher is closer): {listed}.")
+        label = "Spark blended career rating (0–5)" if scoring_method == "spark_blended" else "Spark hybrid career rating (0–5)" if scoring_method in ("spark_hybrid", "spark_blended") else "Description cosine similarity"
+        parts.append(f"{label} (higher ranks better): {listed}.")
     if origin:
         parts.append(origin)
     return {"id": code, "kind": "course", "text": " ".join(parts)}
@@ -448,7 +450,7 @@ def retrieve_evidence(
         items.append(_with_objectives(
             _course_item(
                 code, rows[code], audit, blocks_by_code.get(code, []), prereqs.get(code, []),
-                rec.get("similarity_by_occupation", {}), titles, None,
+                rec.get("score_by_occupation", {}), titles, None, recommendation.get("scoring_method", "cosine_similarity"),
             ),
             objectives.get(code, []),
         ))
@@ -459,8 +461,9 @@ def retrieve_evidence(
         items.append(_with_objectives(
             _course_item(
                 code, rows[code], audit, blocks_by_code.get(code, blocks), prereqs.get(code, []),
-                rec.get("similarity_by_occupation", {}), titles,
+                rec.get("score_by_occupation", {}), titles,
                 "One of the options for the student's still-needed " + " and ".join(blocks) + " requirement.",
+                recommendation.get("scoring_method", "cosine_similarity"),
             ),
             objectives.get(code, []),
         ))
@@ -472,7 +475,7 @@ def retrieve_evidence(
         if code in rows:
             item = _course_item(
                 code, rows[code], audit, blocks_by_code.get(code, []), prereqs.get(code, []),
-                recommended.get(code, {}).get("similarity_by_occupation", {}), titles, origin,
+                recommended.get(code, {}).get("score_by_occupation", {}), titles, origin, recommendation.get("scoring_method", "cosine_similarity"),
             )
         elif code in syllabi:
             title, description = syllabi[code]
@@ -486,10 +489,24 @@ def retrieve_evidence(
         items.append(_with_objectives(
             _course_item(
                 code, rows[code], audit, rec.get("requirement_blocks", []), prereqs.get(code, []),
-                rec.get("similarity_by_occupation", {}), titles,
+                rec.get("score_by_occupation", {}), titles,
                 f"Recommended for the student's chosen careers (rank {list(recommended).index(code) + 1}).",
+                recommendation.get("scoring_method", "cosine_similarity"),
             ),
             objectives.get(code, []),
         ))
     items.extend(_career_items(conn, soc_codes))
-    return items[:MAX_ITEMS]
+    # A named-course question must not acquire another course's skill matches
+    # merely because open search found it. Keep discovery facts as before.
+    protected_codes = list(dict.fromkeys(named + list(by_block)))
+    course_order = protected_codes or list(dict.fromkeys(focus + matched))
+    matches = []
+    if recommendation.get("scoring_method") in ("spark_hybrid", "spark_blended"):
+        matches = retrieve_match_items(conn, catalog, course_order, soc_codes, titles, _clip)
+    supported = {item['course_code'] for item in matches}
+    for item in items:
+        if item.get('kind') == 'course' and item['id'] not in supported:
+            item['text'] += (" Strong, traceable evidence of individual scoring skill matches "
+                             "is unavailable here; use the course and career facts without "
+                             "claiming they explain the assigned rating.")
+    return merge_match_items(items, matches, protected_codes, MAX_ITEMS)

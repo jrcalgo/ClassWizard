@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_8240,topic,Applied Cryptography,Applied Cryptography,3,verified,Applied Cryptography,ITIS_8240_concepts_raw.json
+ITIS_8240,topic,Cryptography,Cryptography,3,verified,Introduction to Cryptography,ITIS_8240_concepts_raw.json
+ITIS_8240,topic,Public Key Ciphers,public key ciphers,2,verified,Public Key Ciphers,ITIS_8240_concepts_raw.json
+ITIS_8240,topic,Secret Sharing and Data Recovery,secret sharing and data recovery,2,verified,Secret Sharing and Data Recovery,ITIS_8240_concepts_raw.json
+ITIS_8240,concept,public key infrastructures,public key infrastructures,2,verified,public key infrastructures,ITIS_8240_concepts_raw.json

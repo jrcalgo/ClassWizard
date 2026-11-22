@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_8270,DNA Isolation and Purification,concept,PART_OF,Molecular Biology Techniques,topic,,,BIOL_8270_triples_raw.json
+BIOL_8270,PCR Amplification Methods,concept,PART_OF,Molecular Biology Techniques,topic,,,BIOL_8270_triples_raw.json
+BIOL_8270,Research Hypothesis Development,concept,PART_OF,Experimental Design and Analysis,topic,,,BIOL_8270_triples_raw.json
+BIOL_8270,Statistical Data Analysis,concept,PART_OF,Experimental Design and Analysis,topic,,,BIOL_8270_triples_raw.json
+BIOL_8270,Gene Expression Regulation,concept,PART_OF,Current Research Topics,topic,,,BIOL_8270_triples_raw.json
+BIOL_8270,Statistical Data Analysis,concept,USED_FOR,Experimental Design and Analysis,topic,,,BIOL_8270_triples_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BINF_4600,bioinformatics and genomics overview,concept,PART_OF,Bioinformatics,topic,,,BINF_4600_triples_raw.json
+BINF_4600,departmental research focus,concept,PART_OF,Bioinformatics,topic,,,BINF_4600_triples_raw.json
+BINF_4600,effective science writing style,concept,PART_OF,Scientific Communication Techniques,topic,,,BINF_4600_triples_raw.json
+BINF_4600,oral presentation best practices,concept,PART_OF,Scientific Communication Techniques,topic,,,BINF_4600_triples_raw.json
+BINF_4600,visual aids for presentations,concept,PART_OF,Scientific Communication Techniques,topic,,,BINF_4600_triples_raw.json
+BINF_4600,experimental design considerations,concept,PART_OF,Competing Hypotheses in Bioinformatics,topic,,,BINF_4600_triples_raw.json
+BINF_4600,data analysis methods comparison,concept,PART_OF,Competing Hypotheses in Bioinformatics,topic,,,BINF_4600_triples_raw.json
+BINF_4600,efficient data visualization techniques,concept,PART_OF,Visualizing Data and Concepts,topic,,,BINF_4600_triples_raw.json
+BINF_4600,graphical representation of results,concept,PART_OF,Visualizing Data and Concepts,topic,,,BINF_4600_triples_raw.json
+BINF_4600,conceptual models and diagrams,concept,PART_OF,Visualizing Data and Concepts,topic,,,BINF_4600_triples_raw.json
+BINF_4600,external research collaborations,concept,PART_OF,Invited Speaker Series,topic,,,BINF_4600_triples_raw.json
+BINF_4600,interdisciplinary approaches in bioinformatics,concept,PART_OF,Invited Speaker Series,topic,,,BINF_4600_triples_raw.json

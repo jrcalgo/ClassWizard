@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2302,Benefits of Positive Emotions,concept,PREREQUISITE_OF,Measuring Positive Emotions,concept,same unit,,PSYC_2302_triples_raw.json
+PSYC_2302,Definition of Flow State,concept,PREREQUISITE_OF,Characteristics of Flow Experience,concept,same unit,,PSYC_2302_triples_raw.json
+PSYC_2302,Definition of Flow State,concept,PREREQUISITE_OF,Benefits of Flow State,concept,same unit,,PSYC_2302_triples_raw.json
+PSYC_2302,History of Positive Psychology,concept,PART_OF,Positive Psychology,topic,,,PSYC_2302_triples_raw.json
+PSYC_2302,Key Principles and Theories,concept,PART_OF,Positive Psychology,topic,,,PSYC_2302_triples_raw.json
+PSYC_2302,Benefits of Positive Emotions,concept,PART_OF,Positive Emotions and Well-being,topic,,,PSYC_2302_triples_raw.json
+PSYC_2302,Measuring Positive Emotions,concept,PART_OF,Positive Emotions and Well-being,topic,,,PSYC_2302_triples_raw.json
+PSYC_2302,Definition of Flow State,concept,PART_OF,Flow and Engagement,topic,,,PSYC_2302_triples_raw.json
+PSYC_2302,Benefits of Flow State,concept,PART_OF,Flow and Engagement,topic,,,PSYC_2302_triples_raw.json
+PSYC_2302,Importance of Social Support,concept,PART_OF,Positive Relationships and Social Connections,topic,,,PSYC_2302_triples_raw.json
+PSYC_2302,Building Stronger Relationships,concept,PART_OF,Positive Relationships and Social Connections,topic,,,PSYC_2302_triples_raw.json
+PSYC_2302,Factors Influencing Resilience,concept,PART_OF,Resilience and Post-Traumatic Growth,topic,,,PSYC_2302_triples_raw.json
+PSYC_2302,Post-Traumatic Growth Theories,concept,PART_OF,Resilience and Post-Traumatic Growth,topic,,,PSYC_2302_triples_raw.json

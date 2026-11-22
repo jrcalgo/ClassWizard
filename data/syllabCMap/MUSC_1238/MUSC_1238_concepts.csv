@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_1238,topic,Musical growth,Musical growth,1,verified,Musical growth,MUSC_1238_concepts_raw.json
+MUSC_1238,topic,Left and right hand techniques for guitar,left and right hand techniques for guitar,1,verified,Left and right hand techniques for guitar,MUSC_1238_concepts_raw.json
+MUSC_1238,topic,Guitar repertoire and history,guitar repertoire and history,1,verified,Guitar repertoire and history,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Guitar parts and functions,Guitar parts and functions,1,inferred,Guitar parts and functions,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Tuning the guitar,Tuning the guitar,1,inferred,Tuning the guitar,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Finger placement on fretboard,Finger placement on fretboard,1,inferred,Finger placement on fretboard,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Picking techniques for left hand,Picking techniques for left hand,1,inferred,Picking techniques for left hand,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Barre chords basics,Barre chords basics,1,inferred,Barre chords basics,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Picking and strumming patterns,Picking and strumming patterns,1,inferred,Picking and strumming patterns,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Basic fingerpicking techniques,Basic fingerpicking techniques,1,inferred,Basic fingerpicking techniques,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Using a pick correctly,Using a pick correctly,1,inferred,Using a pick correctly,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Understanding the fretboard layout,Understanding the fretboard layout,1,inferred,Understanding the fretboard layout,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Reading notes on the staff,Reading notes on the staff,1,inferred,Reading notes on the staff,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Finger placement for chords,Finger placement for chords,1,inferred,Finger placement for chords,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Simple chord progressions for beginners,Simple chord progressions for beginners,1,inferred,Simple chord progressions for beginners,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Basic strumming patterns and rhythms,Basic strumming patterns and rhythms,1,inferred,Basic strumming patterns and rhythms,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Playing with a metronome,Playing with a metronome,1,inferred,Playing with a metronome,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,History of the guitar as an instrument,History of the guitar as an instrument,1,inferred,History of the guitar as an instrument,MUSC_1238_concepts_raw.json
+MUSC_1238,topic,"Classical, folk, and popular styles","Classical, folk, and popular styles",1,inferred,"Classical, folk, and popular styles",MUSC_1238_concepts_raw.json
+MUSC_1238,concept,famous composers,famous composers,1,inferred,famous composers,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Understanding staff notation for guitar,Understanding staff notation for guitar,1,inferred,Understanding staff notation for guitar,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Reading notes on the treble clef,Reading notes on the treble clef,1,inferred,Reading notes on the treble clef,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Basic music theory concepts,Basic music theory concepts,1,inferred,Basic music theory concepts,MUSC_1238_concepts_raw.json
+MUSC_1238,topic,Exploring different styles of guitar music,Exploring different styles of guitar music,1,inferred,Exploring different styles of guitar music,MUSC_1238_concepts_raw.json
+MUSC_1238,topic,Analyzing repertoire from various periods,Analyzing repertoire from various periods,1,inferred,Analyzing repertoire from various periods,MUSC_1238_concepts_raw.json
+MUSC_1238,topic,Applying music theory to performance,Applying music theory to performance,1,inferred,Applying music theory to performance,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Holding the guitar correctly,Holding the guitar correctly,1,inferred,Holding the guitar correctly,MUSC_1238_concepts_raw.json
+MUSC_1238,concept,Classical,Classical,1,inferred,"Classical, folk, and popular styles",MUSC_1238_concepts_raw.json
+MUSC_1238,concept,folk,folk,1,inferred,"Classical, folk, and popular styles",MUSC_1238_concepts_raw.json
+MUSC_1238,concept,popular styles,popular styles,1,inferred,"Classical, folk, and popular styles",MUSC_1238_concepts_raw.json

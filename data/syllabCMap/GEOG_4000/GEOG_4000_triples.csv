@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_4000,Geographic Information Systems,concept,PREREQUISITE_OF,Spatial Data Analysis,concept,same unit,,GEOG_4000_triples_raw.json
+GEOG_4000,Geographic Information Systems,concept,PREREQUISITE_OF,Anthropological Applications,concept,same unit,,GEOG_4000_triples_raw.json
+GEOG_4000,Remote Sensing Techniques,concept,PREREQUISITE_OF,Satellite Imagery Analysis,concept,same unit,,GEOG_4000_triples_raw.json
+GEOG_4000,GPS and Mapping Technologies,concept,PREREQUISITE_OF,Satellite Imagery Analysis,concept,same unit,,GEOG_4000_triples_raw.json
+GEOG_4000,Spatial Autocorrelation Analysis,concept,PREREQUISITE_OF,Geospatial Data Mining,concept,same unit,,GEOG_4000_triples_raw.json
+GEOG_4000,Map Interpretation Skills,concept,PREREQUISITE_OF,Geospatial Data Mining,concept,same unit,,GEOG_4000_triples_raw.json
+GEOG_4000,Grant Writing Strategies,concept,PREREQUISITE_OF,Research Proposal Development,concept,same unit,,GEOG_4000_triples_raw.json
+GEOG_4000,Spatial Data Analysis,concept,PART_OF,Geographic Information Systems,concept,,,GEOG_4000_triples_raw.json
+GEOG_4000,Anthropological Applications,concept,PART_OF,Geographic Information Systems,concept,,,GEOG_4000_triples_raw.json
+GEOG_4000,Map Interpretation Skills,concept,USED_FOR,Geospatial Data Mining,concept,,,GEOG_4000_triples_raw.json
+GEOG_4000,GPS and Mapping Technologies,concept,USED_FOR,Satellite Imagery Analysis,concept,,,GEOG_4000_triples_raw.json

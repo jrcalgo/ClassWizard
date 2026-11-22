@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LEGL_4110,topic,legislative process,legislative process,2,verified,legislative process,LEGL_4110_concepts_raw.json
+LEGL_4110,topic,parliamentary procedure,parliamentary procedure,2,verified,parliamentary procedure,LEGL_4110_concepts_raw.json
+LEGL_4110,topic,resolution and bill drafting,resolution and bill drafting,1,verified,resolution and bill drafting,LEGL_4110_concepts_raw.json
+LEGL_4110,topic,interim council debates,interim council debate,1,verified,interim council debates,LEGL_4110_concepts_raw.json
+LEGL_4110,topic,NCSL annual session preparation,NCSL Annual Session Preparation,1,inferred,NCSL annual session preparation,LEGL_4110_concepts_raw.json
+LEGL_4110,topic,writing and critique workshop,Writing and Critique Workshop,1,inferred,writing and critique workshop,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,legislative process overview,Legislative Process Overview,1,inferred,legislative process overview,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,expectations and requirements,Expectations and Requirements,1,inferred,expectations and requirements,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,contract signing,Contract Signing,1,inferred,contract signing,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,research techniques for legislation,Research Techniques for Legislation,1,inferred,research techniques for legislation,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,data collection and analysis,Data Collection and Analysis,1,inferred,data collection and analysis,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,citing sources properly,Citing Sources Properly,1,inferred,citing sources properly,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,rules of decorum and comity,Rules of Decorum and Comity,1,inferred,rules of decorum and comity,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,order of business in legislature,Order of Business in Legislature,1,inferred,order of business in legislature,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,motion and amendment procedures,Motion and Amendment Procedures,1,inferred,motion and amendment procedures,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,writing effective legislation,Writing Effective Legislation,1,inferred,writing effective legislation,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,value dimensions for persuasion,Value Dimensions for Persuasion,1,inferred,value dimensions for persuasion,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,addressing counterarguments,Addressing Counterarguments,1,inferred,addressing counterarguments,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,debate strategies and techniques,Debate Strategies and Techniques,1,inferred,debate strategies and techniques,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,presenting resolutions effectively,Presenting Resolutions Effectively,1,inferred,presenting resolutions effectively,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,receiving feedback and critique,Receiving Feedback and Critique,1,inferred,receiving feedback and critique,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,review of parliamentary procedure,Review of Parliamentary Procedure,1,inferred,review of parliamentary procedure,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,finalizing resolution presentations,Finalizing Resolution Presentations,1,inferred,finalizing resolution presentations,LEGL_4110_concepts_raw.json
+LEGL_4110,concept,preparing for NCSL debates,Preparing for NCSL Debates,1,inferred,preparing for NCSL debates,LEGL_4110_concepts_raw.json

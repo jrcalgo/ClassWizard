@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_4131,industrial systems,concept,PART_OF,Intelligent Industrial Systems,topic,,,ETEM_4131_triples_raw.json
+ETEM_4131,Fluid Mechanics,topic,PART_OF,Intelligent Industrial Systems,topic,,,ETEM_4131_triples_raw.json
+ETEM_4131,Process Monitoring,topic,PART_OF,Intelligent Industrial Systems,topic,,,ETEM_4131_triples_raw.json

@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_1102,topic,Algebra,algebra,3,verified,Algebra,MATH_1102_concepts_raw.json
+MATH_1102,topic,Geometry,geometry,2,verified,Geometry,MATH_1102_concepts_raw.json
+MATH_1102,topic,Number Theory,number theory,2,verified,Number Theory,MATH_1102_concepts_raw.json
+MATH_1102,topic,Probability,probability,2,verified,Probability,MATH_1102_concepts_raw.json
+MATH_1102,topic,Statistics and Graph Theory,statistics and graph theory,2,verified,Statistics and Graph Theory,MATH_1102_concepts_raw.json
+MATH_1102,tool,WebAssign,WebAssign,1,verified,WebAssign,MATH_1102_concepts_raw.json

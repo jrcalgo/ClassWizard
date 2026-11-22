@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4261,topic,Cellular Diagnostic Techniques,cellular diagnostic techniques,1,verified,Cellular Diagnostic Techniques,BIOL_4261_concepts_raw.json
+BIOL_4261,topic,DNA Repair Mechanisms,DNA Repair Mechanisms,1,inferred,DNA Repair Mechanisms,BIOL_4261_concepts_raw.json
+BIOL_4261,topic,Inherited DNA Repair Defects,Inherited DNA Repair Defects,1,inferred,Inherited DNA Repair Defects,BIOL_4261_concepts_raw.json
+BIOL_4261,topic,DNA Repair Proteins Functions,DNA Repair Proteins Functions,1,inferred,DNA Repair Proteins Functions,BIOL_4261_concepts_raw.json
+BIOL_4261,topic,Case Studies and Presentations,Case Studies and Presentations,1,inferred,Case Studies and Presentations,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,Base Excision Repair Process,Base Excision Repair Process,1,inferred,Base Excision Repair Process,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,Nucleotide Excision Repair Pathway,Nucleotide Excision Repair Pathway,1,inferred,Nucleotide Excision Repair Pathway,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,Double-Strand Break Repair,Double-Strand Break Repair,1,inferred,Double-Strand Break Repair,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,Xeroderma Pigmentosum Syndrome,Xeroderma Pigmentosum Syndrome,1,inferred,Xeroderma Pigmentosum Syndrome,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,Bloom Syndrome Characteristics,Bloom Syndrome Characteristics,1,inferred,Bloom Syndrome Characteristics,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,Ataxia-Telangiectasia Features,Ataxia-Telangiectasia Features,1,inferred,Ataxia-Telangiectasia Features,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,BRCA1 and BRCA2 Role,BRCA1 and BRCA2 Role,1,inferred,BRCA1 and BRCA2 Role,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,PARP1 and PARP2 Activity,PARP1 and PARP2 Activity,1,inferred,PARP1 and PARP2 Activity,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,Fanconi Anemia Protein Complex,Fanconi Anemia Protein Complex,1,inferred,Fanconi Anemia Protein Complex,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,Comet Assay Principle,Comet Assay Principle,1,inferred,Comet Assay Principle,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,TUNEL Staining Method,TUNEL Staining Method,1,inferred,TUNEL Staining Method,BIOL_4261_concepts_raw.json
+BIOL_4261,concept,Microarray Analysis,Microarray Analysis,1,inferred,Microarray Analysis,BIOL_4261_concepts_raw.json
+BIOL_4261,work,Xeroderma Pigmentosum Case Study,Xeroderma Pigmentosum Case Study,1,inferred,Xeroderma Pigmentosum Case Study,BIOL_4261_concepts_raw.json
+BIOL_4261,work,Bloom Syndrome Presentation Guidelines,Bloom Syndrome Presentation Guidelines,1,inferred,Bloom Syndrome Presentation Guidelines,BIOL_4261_concepts_raw.json
+BIOL_4261,work,Ataxia-Telangiectasia Research Paper,Ataxia-Telangiectasia Research Paper,1,inferred,Ataxia-Telangiectasia Research Paper,BIOL_4261_concepts_raw.json

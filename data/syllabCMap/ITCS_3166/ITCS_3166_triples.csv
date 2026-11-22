@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_3166,analysis of OSI layered architectures,method,USED_FOR,Network Layer Protocols,topic,,,ITCS_3166_triples_raw.json
+ITCS_3166,investigation of routing protocols at the network layer,method,USED_FOR,Network Layer Protocols,topic,,,ITCS_3166_triples_raw.json

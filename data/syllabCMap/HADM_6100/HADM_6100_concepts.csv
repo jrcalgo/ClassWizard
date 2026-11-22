@@ -1,0 +1,42 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HADM_6100,topic,Communication Strategies,communication strategies,1,verified,Communication Strategies,HADM_6100_concepts_raw.json
+HADM_6100,topic,"Legal, Regulatory, and Political Environments","Legal, Regulatory, and Political Environments",1,verified,"Legal, Regulatory, and Political Environments",HADM_6100_concepts_raw.json
+HADM_6100,topic,Healthcare System Overview,Healthcare System Overview,1,inferred,Healthcare System Overview,HADM_6100_concepts_raw.json
+HADM_6100,topic,Computer Technology in Healthcare,Computer Technology in Healthcare,1,inferred,Computer Technology in Healthcare,HADM_6100_concepts_raw.json
+HADM_6100,topic,Strategic Thinking and Systems,Strategic Thinking and Systems,1,inferred,Strategic Thinking and Systems,HADM_6100_concepts_raw.json
+HADM_6100,topic,Governance and Boards,Governance and Boards,1,inferred,Governance and Boards,HADM_6100_concepts_raw.json
+HADM_6100,topic,Healthcare Stakeholders,Healthcare Stakeholders,2,inferred,Healthcare Stakeholders,HADM_6100_concepts_raw.json
+HADM_6100,topic,Public Health Perspective in Healthcare Management,Public Health Perspective in Healthcare Management,1,inferred,Public Health Perspective in Healthcare Management,HADM_6100_concepts_raw.json
+HADM_6100,topic,Management Concepts in Healthcare,Management Concepts in Healthcare,1,inferred,Management Concepts in Healthcare,HADM_6100_concepts_raw.json
+HADM_6100,topic,"Teamwork, Communication, and Conflict Resolution","Teamwork, Communication, and Conflict Resolution",1,inferred,"Teamwork, Communication, and Conflict Resolution",HADM_6100_concepts_raw.json
+HADM_6100,topic,International Healthcare Systems Comparison,International Healthcare Systems Comparison,1,inferred,International Healthcare Systems Comparison,HADM_6100_concepts_raw.json
+HADM_6100,concept,US Healthcare System Structure,US Healthcare System Structure,1,inferred,US Healthcare System Structure,HADM_6100_concepts_raw.json
+HADM_6100,concept,Evolution of Healthcare Delivery,Evolution of Healthcare Delivery,1,inferred,Evolution of Healthcare Delivery,HADM_6100_concepts_raw.json
+HADM_6100,concept,Organization and Management,Organization and Management,1,inferred,Organization and Management,HADM_6100_concepts_raw.json
+HADM_6100,concept,Effective Communication Techniques,Effective Communication Techniques,1,inferred,Effective Communication Techniques,HADM_6100_concepts_raw.json
+HADM_6100,concept,Audience Characteristics and Goals,Audience Characteristics and Goals,1,inferred,Audience Characteristics and Goals,HADM_6100_concepts_raw.json
+HADM_6100,concept,Goal-Oriented Communication Planning,Goal-Oriented Communication Planning,1,inferred,Goal-Oriented Communication Planning,HADM_6100_concepts_raw.json
+HADM_6100,concept,Application Software in Healthcare,Application Software in Healthcare,1,inferred,Application Software in Healthcare,HADM_6100_concepts_raw.json
+HADM_6100,concept,Database Technology for Healthcare,Database Technology for Healthcare,1,inferred,Database Technology for Healthcare,HADM_6100_concepts_raw.json
+HADM_6100,concept,Managing Computer Systems,Managing Computer Systems,1,inferred,Managing Computer Systems,HADM_6100_concepts_raw.json
+HADM_6100,concept,Systems Thinking in Public Health,Systems Thinking in Public Health,1,inferred,Systems Thinking in Public Health,HADM_6100_concepts_raw.json
+HADM_6100,concept,Strategic Planning in Healthcare,Strategic Planning in Healthcare,1,inferred,Strategic Planning in Healthcare,HADM_6100_concepts_raw.json
+HADM_6100,concept,Organizational Change Management,Organizational Change Management,1,inferred,Organizational Change Management,HADM_6100_concepts_raw.json
+HADM_6100,concept,Effective Governance Structures,Effective Governance Structures,1,inferred,Effective Governance Structures,HADM_6100_concepts_raw.json
+HADM_6100,concept,Working with Boards and Stakeholders,Working with Boards and Stakeholders,1,inferred,Working with Boards and Stakeholders,HADM_6100_concepts_raw.json
+HADM_6100,concept,Board-Management Relationships,Board-Management Relationships,1,inferred,Board-Management Relationships,HADM_6100_concepts_raw.json
+HADM_6100,concept,Identifying Major Healthcare Stakeholders,Identifying Major Healthcare Stakeholders,1,inferred,Identifying Major Healthcare Stakeholders,HADM_6100_concepts_raw.json
+HADM_6100,concept,Stakeholder Analysis in Healthcare,Stakeholder Analysis in Healthcare,1,inferred,Stakeholder Analysis in Healthcare,HADM_6100_concepts_raw.json
+HADM_6100,concept,Managing Stakeholder Expectations,Managing Stakeholder Expectations,1,inferred,Managing Stakeholder Expectations,HADM_6100_concepts_raw.json
+HADM_6100,concept,Impact of Legal and Regulatory Environments,Impact of Legal and Regulatory Environments,1,inferred,Impact of Legal and Regulatory Environments,HADM_6100_concepts_raw.json
+HADM_6100,concept,Political Influences on Healthcare Policy,Political Influences on Healthcare Policy,1,inferred,Political Influences on Healthcare Policy,HADM_6100_concepts_raw.json
+HADM_6100,concept,Navigating Complex Regulatory Systems,Navigating Complex Regulatory Systems,1,inferred,Navigating Complex Regulatory Systems,HADM_6100_concepts_raw.json
+HADM_6100,concept,Applying Public Health Principles to Healthcare,Applying Public Health Principles to Healthcare,1,inferred,Applying Public Health Principles to Healthcare,HADM_6100_concepts_raw.json
+HADM_6100,concept,Population-Based Healthcare Approaches,Population-Based Healthcare Approaches,1,inferred,Population-Based Healthcare Approaches,HADM_6100_concepts_raw.json
+HADM_6100,concept,Health Equity and Social Determinants,Health Equity and Social Determinants,1,inferred,Health Equity and Social Determinants,HADM_6100_concepts_raw.json
+HADM_6100,concept,Organization and Work Design,Organization and Work Design,1,inferred,Organization and Work Design,HADM_6100_concepts_raw.json
+HADM_6100,concept,Economics and Finance in Healthcare,Economics and Finance in Healthcare,1,inferred,Economics and Finance in Healthcare,HADM_6100_concepts_raw.json
+HADM_6100,concept,Decision Theory and Analysis,Decision Theory and Analysis,1,inferred,Decision Theory and Analysis,HADM_6100_concepts_raw.json
+HADM_6100,concept,Effective Teamwork and Collaboration,Effective Teamwork and Collaboration,1,inferred,Effective Teamwork and Collaboration,HADM_6100_concepts_raw.json
+HADM_6100,concept,Communication Strategies for Conflict Resolution,Communication Strategies for Conflict Resolution,1,inferred,Communication Strategies for Conflict Resolution,HADM_6100_concepts_raw.json
+HADM_6100,concept,Negotiation and Consensus Building,Negotiation and Consensus Building,1,inferred,Negotiation and Consensus Building,HADM_6100_concepts_raw.json

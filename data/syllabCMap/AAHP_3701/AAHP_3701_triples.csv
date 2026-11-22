@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AAHP_3701,archival research,method,PREREQUISITE_OF,participant/observation,method,same unit,,AAHP_3701_triples_raw.json
+AAHP_3701,archival research,method,PREREQUISITE_OF,review of literature,method,same unit,,AAHP_3701_triples_raw.json
+AAHP_3701,interviews,method,PREREQUISITE_OF,participant/observation,method,A taught first,,AAHP_3701_triples_raw.json
+AAHP_3701,critical self-reflection,method,PREREQUISITE_OF,choreographic,method,A mentioned first,,AAHP_3701_triples_raw.json
+AAHP_3701,cultural critique,method,PREREQUISITE_OF,discursive analysis,method,A taught first,,AAHP_3701_triples_raw.json
+AAHP_3701,close reading,method,PREREQUISITE_OF,discursive analysis,method,same unit,,AAHP_3701_triples_raw.json
+AAHP_3701,archival research,method,USED_FOR,review of literature,method,,,AAHP_3701_triples_raw.json
+AAHP_3701,interviews,method,USED_FOR,cultural critique,method,,,AAHP_3701_triples_raw.json

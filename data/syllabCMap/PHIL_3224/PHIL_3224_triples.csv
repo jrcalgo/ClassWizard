@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_3224,moral aspects of data science,concept,PART_OF,Data Ethics,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,ethical considerations in analytics,concept,PART_OF,Data Ethics,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,equality in data collection,concept,PART_OF,Thick Concepts and Values,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,morality in data thinking,concept,PART_OF,Thick Concepts and Values,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,philosophy of data science,concept,PART_OF,Interdisciplinary Approaches to Data Ethics,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,data breaches and consequences,concept,PART_OF,Recent Examples of Ethical Failures,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,bias in algorithmic decision-making,concept,PART_OF,Recent Examples of Ethical Failures,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,framing ethical policy decisions,concept,PART_OF,Making Moral Arguments in Data Science,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,Thick Concepts and Values,topic,SUBTYPE_OF,Data Ethics,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,Recent Examples of Ethical Failures,topic,SUBTYPE_OF,Data Ethics,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,Making Moral Arguments in Data Science,topic,SUBTYPE_OF,Data Ethics,topic,,,PHIL_3224_triples_raw.json
+PHIL_3224,Stakes of a Data-Driven Society,topic,SUBTYPE_OF,Data Ethics,topic,,,PHIL_3224_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOL_3130,deformation,concept,PREREQUISITE_OF,stress,concept,A taught first,,GEOL_3130_triples_raw.json
+GEOL_3130,deformation,concept,PREREQUISITE_OF,strain,concept,A taught first,,GEOL_3130_triples_raw.json
+GEOL_3130,stress,concept,PREREQUISITE_OF,statics,concept,A mentioned first,,GEOL_3130_triples_raw.json
+GEOL_3130,strain,concept,PREREQUISITE_OF,flow,concept,A mentioned first,,GEOL_3130_triples_raw.json
+GEOL_3130,masses,concept,PREREQUISITE_OF,kinematics,concept,B mentioned first,,GEOL_3130_triples_raw.json
+GEOL_3130,mechanics,concept,PREREQUISITE_OF,dynamics,concept,same unit,,GEOL_3130_triples_raw.json
+GEOL_3130,statics,concept,PREREQUISITE_OF,dynamics,concept,B mentioned first,,GEOL_3130_triples_raw.json
+GEOL_3130,displacement,concept,PART_OF,strain,concept,,,GEOL_3130_triples_raw.json
+GEOL_3130,forces,concept,PART_OF,stress,concept,,,GEOL_3130_triples_raw.json
+GEOL_3130,flow,concept,SUBTYPE_OF,strain,concept,,,GEOL_3130_triples_raw.json
+GEOL_3130,motion,concept,SUBTYPE_OF,dynamics,concept,,,GEOL_3130_triples_raw.json

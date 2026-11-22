@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_2131,bonding principles,topic,PART_OF,functional groups,topic,,,CHEM_2131_triples_raw.json
+CHEM_2131,isomerism,topic,PART_OF,stereochemistry,topic,,,CHEM_2131_triples_raw.json
+CHEM_2131,synthesis and reactions of alkyl halides,topic,PART_OF,radical chemistry,topic,,,CHEM_2131_triples_raw.json
+CHEM_2131,mechanisms of addition,topic,PART_OF,substitution reactions,topic,,,CHEM_2131_triples_raw.json
+CHEM_2131,elimination,topic,PART_OF,substitution reactions,topic,,,CHEM_2131_triples_raw.json
+CHEM_2131,rearrangement,topic,PART_OF,substitution reactions,topic,,,CHEM_2131_triples_raw.json

@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_6637,Creativity,topic,PREREQUISITE_OF,Components of Creativity,topic,A taught first,,SPED_6637_triples_raw.json
+SPED_6637,Creativity,topic,PREREQUISITE_OF,Measuring Creativity,topic,A taught first,,SPED_6637_triples_raw.json
+SPED_6637,Creativity,topic,PREREQUISITE_OF,Theories of Creativity,topic,A taught first,,SPED_6637_triples_raw.json
+SPED_6637,Creativity,topic,PREREQUISITE_OF,Practical Applications,topic,A taught first,,SPED_6637_triples_raw.json
+SPED_6637,Creativity,topic,PREREQUISITE_OF,Preparing Materials and Resources,topic,A taught first,,SPED_6637_triples_raw.json
+SPED_6637,Definition of Creativity,concept,PART_OF,Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Importance in Education,concept,PART_OF,Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Divergent Thinking Skills,concept,PART_OF,Components of Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Convergent Thinking Processes,concept,PART_OF,Components of Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Creative Personality Traits,concept,PART_OF,Components of Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Assessment Tools and Techniques,concept,PART_OF,Measuring Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Standardized Tests for Creativity,concept,PART_OF,Measuring Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Self-Assessment Strategies,concept,PART_OF,Measuring Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Gestalt Theory Principles,concept,PART_OF,Theories of Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Maslow's Hierarchy Model,concept,PART_OF,Theories of Creativity,topic,,,SPED_6637_triples_raw.json
+SPED_6637,Torrance Test Theories,concept,PART_OF,Theories of Creativity,topic,,,SPED_6637_triples_raw.json

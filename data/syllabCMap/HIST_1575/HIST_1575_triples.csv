@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_1575,American History,topic,PREREQUISITE_OF,Exam 1 Preparation,topic,A taught first,,HIST_1575_triples_raw.json
+HIST_1575,American History,topic,PREREQUISITE_OF,Mid-Semester Review,topic,A taught first,,HIST_1575_triples_raw.json
+HIST_1575,American History,topic,PREREQUISITE_OF,Exam 2 Preparation,topic,A taught first,,HIST_1575_triples_raw.json
+HIST_1575,American History,topic,PREREQUISITE_OF,Final Exam Preparation,topic,A taught first,,HIST_1575_triples_raw.json
+HIST_1575,Charlotte Core,topic,PREREQUISITE_OF,Engagement Across Perspectives,topic,A taught first,,HIST_1575_triples_raw.json
+HIST_1575,Critical Thinking Skills,topic,PREREQUISITE_OF,Exam 1 Preparation,topic,A taught first,,HIST_1575_triples_raw.json
+HIST_1575,Critical Thinking Skills,topic,PREREQUISITE_OF,Mid-Semester Review,topic,A taught first,,HIST_1575_triples_raw.json
+HIST_1575,Critical Thinking Skills,topic,PREREQUISITE_OF,Exam 2 Preparation,topic,A taught first,,HIST_1575_triples_raw.json
+HIST_1575,Analyzing Primary Sources,concept,PART_OF,American History Documents,topic,,,HIST_1575_triples_raw.json
+HIST_1575,Evaluating Historical Context,concept,PART_OF,American History Documents,topic,,,HIST_1575_triples_raw.json
+HIST_1575,Identifying Bias and Perspective,concept,PART_OF,American History Documents,topic,,,HIST_1575_triples_raw.json
+HIST_1575,Recognizing Cultural Differences,concept,PART_OF,Engagement Across Perspectives,topic,,,HIST_1575_triples_raw.json
+HIST_1575,Approaching Problems Creatively,concept,PART_OF,Engagement Across Perspectives,topic,,,HIST_1575_triples_raw.json
+HIST_1575,Context of Historical Documents,concept,PART_OF,American History Documents,topic,,,HIST_1575_triples_raw.json
+HIST_1575,Creation and Legacy of Documents,concept,PART_OF,American History Documents,topic,,,HIST_1575_triples_raw.json
+HIST_1575,Significance of Key Documents,concept,PART_OF,American History Documents,topic,,,HIST_1575_triples_raw.json

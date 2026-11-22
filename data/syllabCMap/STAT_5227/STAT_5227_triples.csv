@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_5227,Charles Sanders Peirce Ideas,concept,PREREQUISITE_OF,Pragmatism Emergence,topic,same unit,,STAT_5227_triples_raw.json
+STAT_5227,Late 19th Century Context,topic,PREREQUISITE_OF,Pragmatism Emergence,topic,same unit,,STAT_5227_triples_raw.json
+STAT_5227,Progressive Era Reforms,concept,PREREQUISITE_OF,Women's Suffrage Movement,concept,same unit,,STAT_5227_triples_raw.json
+STAT_5227,Progressive Era Reforms,concept,PREREQUISITE_OF,Racial Equality Advocacy,concept,same unit,,STAT_5227_triples_raw.json
+STAT_5227,John Dewey Philosophy,concept,PREREQUISITE_OF,Democracy in Education,topic,same unit,,STAT_5227_triples_raw.json
+STAT_5227,John Dewey Philosophy,concept,PREREQUISITE_OF,Social Change through Action,topic,same unit,,STAT_5227_triples_raw.json
+STAT_5227,National Identity Formation,concept,PART_OF,American Destiny,topic,,,STAT_5227_triples_raw.json
+STAT_5227,Racial Hierarchy Justification,concept,PART_OF,American Destiny,topic,,,STAT_5227_triples_raw.json
+STAT_5227,Manifest Destiny Concept,concept,PART_OF,American Destiny,topic,,,STAT_5227_triples_raw.json
+STAT_5227,Late 19th Century Context,topic,PART_OF,Pragmatism Emergence,topic,,,STAT_5227_triples_raw.json
+STAT_5227,John Dewey Philosophy,concept,PART_OF,Education and Activism,topic,,,STAT_5227_triples_raw.json
+STAT_5227,Democracy in Education,topic,PART_OF,Education and Activism,topic,,,STAT_5227_triples_raw.json
+STAT_5227,Social Change through Action,topic,PART_OF,Education and Activism,topic,,,STAT_5227_triples_raw.json
+STAT_5227,Pragmatic Social Critique,concept,PART_OF,Pragmatism and Reform,topic,,,STAT_5227_triples_raw.json
+STAT_5227,Instrumental Value Theory,concept,USED_FOR,Pragmatic Social Critique,concept,,,STAT_5227_triples_raw.json

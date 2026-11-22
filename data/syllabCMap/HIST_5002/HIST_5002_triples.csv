@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_5002,gender,topic,PREREQUISITE_OF,gender and sexuality,concept,same unit,,HIST_5002_triples_raw.json
+HIST_5002,historiography,topic,PREREQUISITE_OF,historiography techniques,method,A taught first,,HIST_5002_triples_raw.json
+HIST_5002,historiography,topic,PREREQUISITE_OF,historiography methods,concept,A taught first,,HIST_5002_triples_raw.json
+HIST_5002,historiography,topic,PREREQUISITE_OF,graduate writing skills,concept,A taught first,,HIST_5002_triples_raw.json
+HIST_5002,gender and sexuality,concept,PREREQUISITE_OF,gender performativity,topic,A taught first,,HIST_5002_triples_raw.json
+HIST_5002,race,topic,PREREQUISITE_OF,racialized identities,topic,A taught first,,HIST_5002_triples_raw.json
+HIST_5002,gender and state power,concept,PART_OF,gender and sexuality,concept,,,HIST_5002_triples_raw.json
+HIST_5002,emotions in historical analysis,concept,PART_OF,historiography techniques,method,,part is broader than whole - check direction,HIST_5002_triples_raw.json
+HIST_5002,research methods,method,PART_OF,historiography,topic,,,HIST_5002_triples_raw.json
+HIST_5002,cultural studies approach,method,PART_OF,historiography techniques,method,,,HIST_5002_triples_raw.json
+HIST_5002,critical theory approaches,method,PART_OF,historiography methods development,method,,,HIST_5002_triples_raw.json
+HIST_5002,critical race theory,method,PART_OF,historiography,topic,,,HIST_5002_triples_raw.json
+HIST_5002,intersectionality analysis,method,PART_OF,historiography techniques,method,,,HIST_5002_triples_raw.json
+HIST_5002,gender performativity,topic,SUBTYPE_OF,gender and sexuality,concept,,,HIST_5002_triples_raw.json
+HIST_5002,racialized identities,topic,SUBTYPE_OF,race,topic,,,HIST_5002_triples_raw.json
+HIST_5002,historical contextualization,method,USED_FOR,historiography evolution overview,concept,,,HIST_5002_triples_raw.json
+HIST_5002,intersectionality analysis,method,USED_FOR,historiography techniques,method,,,HIST_5002_triples_raw.json
+HIST_5002,critical theory approaches,method,USED_FOR,historiography methods development,method,,,HIST_5002_triples_raw.json
+HIST_5002,graduate-level writing,method,USED_FOR,historiography methods,concept,,,HIST_5002_triples_raw.json

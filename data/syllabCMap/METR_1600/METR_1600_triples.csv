@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_1600,Time Management,topic,PART_OF,Study Skills,topic,,,METR_1600_triples_raw.json
+METR_1600,Internship Opportunities in Meteorology,topic,PART_OF,Career,topic,,,METR_1600_triples_raw.json
+METR_1600,Atmospheric Sciences,topic,PART_OF,Meteorology,topic,,,METR_1600_triples_raw.json

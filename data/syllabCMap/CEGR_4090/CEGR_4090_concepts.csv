@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_4090,topic,Geographic Information Systems,Geographic Information Systems,1,verified,Geographic Information Systems,CEGR_4090_concepts_raw.json
+CEGR_4090,topic,GIS,GIS,4,verified,Introduction to GIS,CEGR_4090_concepts_raw.json
+CEGR_4090,method,analyzing,analyzing,2,verified,analyzing and visualizing geographic information,CEGR_4090_concepts_raw.json
+CEGR_4090,tool,ArcGIS Pro,ArcGIS Pro,2,verified,ArcGIS Pro,CEGR_4090_concepts_raw.json
+CEGR_4090,method,acquiring spatial data,Acquiring Spatial Data,1,inferred,acquiring spatial data,CEGR_4090_concepts_raw.json
+CEGR_4090,method,organizing and documenting data,Organizing and Documenting Data,1,inferred,organizing and documenting data,CEGR_4090_concepts_raw.json
+CEGR_4090,topic,Creating Maps with ArcGIS Pro,Creating Maps with ArcGIS Pro,1,inferred,Creating Maps with ArcGIS Pro,CEGR_4090_concepts_raw.json
+CEGR_4090,topic,Vector Analysis in GIS,Vector Analysis in GIS,1,inferred,Vector Analysis in GIS,CEGR_4090_concepts_raw.json
+CEGR_4090,topic,Raster Analysis in GIS,Raster Analysis in GIS,1,inferred,Raster Analysis in GIS,CEGR_4090_concepts_raw.json
+CEGR_4090,method,communicating spatial results,Communicating Spatial Results,1,inferred,communicating spatial results,CEGR_4090_concepts_raw.json
+CEGR_4090,topic,Independent GIS Project Planning,Independent GIS Project Planning,1,inferred,Independent GIS Project Planning,CEGR_4090_concepts_raw.json
+CEGR_4090,topic,Independent GIS Project Implementation,Independent GIS Project Implementation,1,inferred,Independent GIS Project Implementation,CEGR_4090_concepts_raw.json
+CEGR_4090,topic,Independent GIS Project Interpretation,Independent GIS Project Interpretation,1,inferred,Independent GIS Project Interpretation,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,GIS definition and history,GIS definition and history,1,inferred,GIS definition and history,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,spatial data types and structures,Spatial data types and structures,1,inferred,spatial data types and structures,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,GIS applications and benefits,GIS applications and benefits,1,inferred,GIS applications and benefits,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,data sources and formats,Data sources and formats,1,inferred,data sources and formats,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,data collection methods and tools,Data collection methods and tools,1,inferred,data collection methods and tools,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,data quality and validation,Data quality and validation,1,inferred,data quality and validation,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,spatial database management,Spatial database management,1,inferred,spatial database management,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,data documentation and metadata,Data documentation and metadata,1,inferred,data documentation and metadata,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,data sharing and collaboration,Data sharing and collaboration,1,inferred,data sharing and collaboration,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,map design principles and best practices,Map design principles and best practices,1,inferred,map design principles and best practices,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,cartographic symbols and labels,Cartographic symbols and labels,1,inferred,cartographic symbols and labels,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,map layout and composition,Map layout and composition,1,inferred,map layout and composition,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,point,Point,1,inferred,"point, line, and polygon operations",CEGR_4090_concepts_raw.json
+CEGR_4090,concept,line,line,1,inferred,"point, line, and polygon operations",CEGR_4090_concepts_raw.json
+CEGR_4090,concept,polygon operations,polygon operations,1,inferred,"point, line, and polygon operations",CEGR_4090_concepts_raw.json
+CEGR_4090,concept,spatial joins and unions,Spatial joins and unions,1,inferred,spatial joins and unions,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,buffering and proximity analysis,Buffering and proximity analysis,1,inferred,buffering and proximity analysis,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,raster data types and formats,Raster data types and formats,1,inferred,raster data types and formats,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,image processing and enhancement,Image processing and enhancement,1,inferred,image processing and enhancement,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,spatial autocorrelation and regression,Spatial autocorrelation and regression,1,inferred,spatial autocorrelation and regression,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,map visualization and storytelling,Map visualization and storytelling,1,inferred,map visualization and storytelling,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,dashboard design and development,Dashboard design and development,1,inferred,dashboard design and development,CEGR_4090_concepts_raw.json
+CEGR_4090,concept,report writing and presentation,Report writing and presentation,1,inferred,report writing and presentation,CEGR_4090_concepts_raw.json
+CEGR_4090,method,creating maps,Creating Maps,1,inferred,creating maps,CEGR_4090_concepts_raw.json
+CEGR_4090,method,reports,Report,1,inferred,designing dashboards and reports,CEGR_4090_concepts_raw.json

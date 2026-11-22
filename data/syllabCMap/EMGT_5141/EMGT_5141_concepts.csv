@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EMGT_5141,topic,Engineering Experimental Design,Engineering Experimental Design,1,verified,Engineering Experimental Design,EMGT_5141_concepts_raw.json
+EMGT_5141,topic,Design of Experiments,design of experiments,2,verified,Design of Experiments,EMGT_5141_concepts_raw.json
+EMGT_5141,topic,Taguchi Methods,Taguchi methods,2,verified,Taguchi Methods,EMGT_5141_concepts_raw.json
+EMGT_5141,topic,Response Surface Methods,response surface methods,1,verified,Response Surface Methods,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Design of Experiments Basics,Design of Experiments Basics,1,inferred,Design of Experiments Basics,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Experimental Planning Process,Experimental Planning Process,1,inferred,Experimental Planning Process,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Full Factorial Designs,Full Factorial Designs,1,inferred,Full Factorial Designs,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Fractional Factorial Design Types,Fractional Factorial Design Types,1,inferred,Fractional Factorial Design Types,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Resolution and Confounding,Resolution and Confounding,1,inferred,Resolution and Confounding,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Blocking and Randomization,Blocking and Randomization,1,inferred,Blocking and Randomization,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Taguchi Parameter Design Basics,Taguchi Parameter Design Basics,1,inferred,Taguchi Parameter Design Basics,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Robust Design Principles,Robust Design Principles,1,inferred,Robust Design Principles,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Signal-to-Noise Ratio,Signal-to-Noise Ratio,1,inferred,Signal-to-Noise Ratio,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Orthogonal Arrays and Fractional Factorials,Orthogonal Arrays and Fractional Factorials,1,inferred,Orthogonal Arrays and Fractional Factorials,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Parameter Design for Robustness,Parameter Design for Robustness,1,inferred,Parameter Design for Robustness,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Optimization of Performance Characteristics,Optimization of Performance Characteristics,1,inferred,Optimization of Performance Characteristics,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Response Surface Methodology Basics,Response Surface Methodology Basics,1,inferred,Response Surface Methodology Basics,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Polynomial Regression Models,Polynomial Regression Models,1,inferred,Polynomial Regression Models,EMGT_5141_concepts_raw.json
+EMGT_5141,concept,Model Validation and Verification,Model Validation and Verification,1,inferred,Model Validation and Verification,EMGT_5141_concepts_raw.json

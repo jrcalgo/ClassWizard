@@ -1,0 +1,45 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5121,topic,Antennas,Antennas,17,verified,Antennas,ECGR_5121_concepts_raw.json
+ECGR_5121,topic,Antenna Theory and Design,Antenna theory and design,1,verified,Introduction to Antenna Theory and Design,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Type of antenna,Type of antenna,2,verified,Type of antenna,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Radiation mechanism,radiation mechanisms,2,verified,Radiation mechanism,ECGR_5121_concepts_raw.json
+ECGR_5121,topic,current distribution of thin wire antenna,current distribution of thin wire antenna,1,verified,current distribution of thin wire antenna,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Radiation Patterns,radiation patterns,14,verified,Radiation Patterns,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Radiation Intensity,radiation intensity,5,verified,Radiation Intensity,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Directivity and Gain,Directivity and Gain,4,verified,Directivity and Gain,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Antenna Efficiency,Antenna Efficiency,5,verified,Antenna Efficiency,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Bandwidth and Polarization,Bandwidth and Polarization,1,verified,Bandwidth and Polarization,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Input Impedance,input impedance,15,verified,Input Impedance,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Effective Aperture,effective aperture,14,verified,Effective Aperture,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Friis Transmission Equation,Friis transmission equation,9,verified,Friis Transmission Equation,ECGR_5121_concepts_raw.json
+ECGR_5121,topic,Parameters and FoM of Antennas,Parameters and FoM of Antennas,4,verified,Parameters and FoM of Antennas,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Huygens' Principle,Huygens' principle,10,verified,Huygens' Principle,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Babinet's Principle,Babinet's principle,11,verified,Babinet's Principle,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Fourier-Transform Methods,Fourier-transform methods,9,verified,Fourier-Transform Methods,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Aperture Analysis Methods,Aperture Analysis Methods,1,verified,Aperture Analysis Methods,ECGR_5121_concepts_raw.json
+ECGR_5121,topic,Linear Waved Antenna,Linear Waved Antenna,2,verified,Linear Waved Antenna,ECGR_5121_concepts_raw.json
+ECGR_5121,topic,Loop antennas,loop antennas,4,verified,Loop antennas,ECGR_5121_concepts_raw.json
+ECGR_5121,topic,Aperture Antenna,aperture antennas,2,verified,Aperture Antenna,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Current distribution,current distribution,3,verified,Current distribution,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Thin wire antenna,thin wire antenna,2,verified,Thin wire antenna,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Infinite Small Dipole,Infinite small dipole,2,verified,Infinite Small Dipole,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Small Dipole Antenna,Small Dipole Antenna,1,verified,Small Dipole Antenna,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Finite Length Dipole,Finite length dipole,2,verified,Finite Length Dipole,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Half-Wavelength Dipole,half-wavelength dipole,2,verified,Half-Wavelength Dipole,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Ground Plane Effects,Ground Plane Effects,1,verified,Ground Plane Effects,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Radiation Resistance Calculation,Radiation Resistance Calculation,1,verified,Radiation Resistance Calculation,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Loop Antenna Radiation,Loop Antenna Radiation,1,verified,Loop Antenna Radiation,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Magnetic Dipole Moment,Magnetic Dipole Moment,1,verified,Magnetic Dipole Moment,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Electric Field Lines,Electric Field Lines,1,verified,Electric Field Lines,ECGR_5121_concepts_raw.json
+ECGR_5121,concept,Current Distribution Effects,Current Distribution Effects,1,verified,Current Distribution Effects,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Directivity,directivity,16,verified,Directivity,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Gain,gain,12,verified,Gain,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Efficiency,efficiency,14,verified,Efficiency,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Bandwidth,bandwidth,7,verified,Bandwidth,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Beam Width,beam width,2,verified,Beam Width,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Polarization States,Polarization States,2,verified,Polarization States,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Input Impedance Matching,Input Impedance Matching,1,verified,Input Impedance Matching,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Effective Aperture Concept,Effective Aperture Concept,1,verified,Effective Aperture Concept,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Max Directivity,Max directivity,2,verified,Max Directivity,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Effective Area,effective area,2,verified,Effective Area,ECGR_5121_concepts_raw.json
+ECGR_5121,measure,Antenna Temperature,antenna temperature,5,verified,Antenna Temperature,ECGR_5121_concepts_raw.json

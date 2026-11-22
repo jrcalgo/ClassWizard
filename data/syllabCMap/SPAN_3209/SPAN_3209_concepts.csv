@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPAN_3209,topic,Spanish Civilization and Culture,Spanish Civilization and Culture,1,verified,Spanish Civilization and Culture,SPAN_3209_concepts_raw.json
+SPAN_3209,topic,Spanish Culture,Spanish Culture,3,inferred,Introduction to Spanish Culture,SPAN_3209_concepts_raw.json
+SPAN_3209,topic,Ancient Spain and the Roman Empire,Ancient Spain and the Roman Empire,1,inferred,Ancient Spain and the Roman Empire,SPAN_3209_concepts_raw.json
+SPAN_3209,topic,Middle Ages in Spain,Middle Ages in Spain,1,inferred,Middle Ages in Spain,SPAN_3209_concepts_raw.json
+SPAN_3209,topic,Golden Age of Spanish Art,Golden Age of Spanish Art,1,inferred,Golden Age of Spanish Art,SPAN_3209_concepts_raw.json
+SPAN_3209,topic,Baroque and Rococo Periods,Baroque and Rococo Periods,1,inferred,Baroque and Rococo Periods,SPAN_3209_concepts_raw.json
+SPAN_3209,topic,Romanticism and Realism in Spain,Romanticism and Realism in Spain,1,inferred,Romanticism and Realism in Spain,SPAN_3209_concepts_raw.json
+SPAN_3209,topic,Modern Spanish Culture,Modern Spanish Culture,1,inferred,Modern Spanish Culture,SPAN_3209_concepts_raw.json
+SPAN_3209,topic,Contemporary Spanish Society,Contemporary Spanish Society,1,inferred,Contemporary Spanish Society,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Pre-Roman Iberian Cultures,Pre-Roman Iberian Cultures,1,inferred,Pre-Roman Iberian Cultures,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Roman Conquest and Legacy,Roman Conquest and Legacy,1,inferred,Roman Conquest and Legacy,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Early Christian Influence,Early Christian Influence,1,inferred,Early Christian Influence,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Visigothic Kingdom and Culture,Visigothic Kingdom and Culture,1,inferred,Visigothic Kingdom and Culture,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Islamic Conquest of Iberia,Islamic Conquest of Iberia,1,inferred,Islamic Conquest of Iberia,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Christian Reconquista Movement,Christian Reconquista Movement,1,inferred,Christian Reconquista Movement,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Gothic Architecture in Spain,Gothic Architecture in Spain,1,inferred,Gothic Architecture in Spain,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Moorish Influence on Art,Moorish Influence on Art,1,inferred,Moorish Influence on Art,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,El Greco and Velazquez,El Greco and Velazquez,1,inferred,El Greco and Velazquez,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Spanish Baroque Art and Architecture,Spanish Baroque Art and Architecture,1,inferred,Spanish Baroque Art and Architecture,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Rococo Style in Spanish Art,Rococo Style in Spanish Art,1,inferred,Rococo Style in Spanish Art,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Goya's Contribution to Spanish Culture,Goya's Contribution to Spanish Culture,1,inferred,Goya's Contribution to Spanish Culture,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Romantic Movement in Spanish Literature,Romantic Movement in Spanish Literature,1,inferred,Romantic Movement in Spanish Literature,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Realist Art and Literature in Spain,Realist Art and Literature in Spain,1,inferred,Realist Art and Literature in Spain,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Impressionism and Modern Art in Spain,Impressionism and Modern Art in Spain,1,inferred,Impressionism and Modern Art in Spain,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,Spanish Avant-Garde Movement,Spanish Avant-Garde Movement,1,inferred,Spanish Avant-Garde Movement,SPAN_3209_concepts_raw.json
+SPAN_3209,concept,20th-Century Spanish Literature,20th-Century Spanish Literature,1,inferred,20th-Century Spanish Literature,SPAN_3209_concepts_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_2270,Multicultural Sensitivity,concept,PREREQUISITE_OF,Interdisciplinary Artistic Collaboration,topic,A taught first,,THEA_2270_triples_raw.json
+THEA_2270,Multicultural Sensitivity,concept,PREREQUISITE_OF,Transferable Learned Skills,topic,A taught first,,THEA_2270_triples_raw.json
+THEA_2270,Transferable Learned Skills,topic,PART_OF,Acting II,topic,,,THEA_2270_triples_raw.json
+THEA_2270,Presentational Skills,topic,PART_OF,Acting II,topic,,,THEA_2270_triples_raw.json
+THEA_2270,Interdisciplinary Artistic Collaboration,topic,PART_OF,Acting II,topic,,,THEA_2270_triples_raw.json
+THEA_2270,Multicultural Sensitivity,concept,PART_OF,Acting II,topic,,,THEA_2270_triples_raw.json
+THEA_2270,Konstantin Stanislavski,work,PART_OF,Stanislavski,topic,,,THEA_2270_triples_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_3100,IEP Process Steps,concept,PART_OF,IEP Process,concept,,,SPED_3100_triples_raw.json
+SPED_3100,Disability Service Networks,concept,PART_OF,Services for Individuals with Disabilities,concept,,,SPED_3100_triples_raw.json
+SPED_3100,Charter Schools Services,concept,PART_OF,Services for Individuals with Disabilities,concept,,,SPED_3100_triples_raw.json
+SPED_3100,Private School Options,concept,PART_OF,Services for Individuals with Disabilities,concept,,,SPED_3100_triples_raw.json
+SPED_3100,Trauma in Students,concept,PART_OF,Services for Individuals with Disabilities,concept,,,SPED_3100_triples_raw.json
+SPED_3100,Student Support Services,concept,PART_OF,Services for Individuals with Disabilities,concept,,,SPED_3100_triples_raw.json
+SPED_3100,Mental Health Services,concept,PART_OF,Services for Individuals with Disabilities,concept,,,SPED_3100_triples_raw.json
+SPED_3100,Disability Legislation,concept,USED_FOR,Legislation and Litigation,concept,,,SPED_3100_triples_raw.json
+SPED_3100,Litigation and Case Law,concept,USED_FOR,Legislation and Litigation,concept,,,SPED_3100_triples_raw.json

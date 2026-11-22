@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TESL_4204,Teaching Philosophy Statement,concept,PART_OF,Teacher Identity,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Personal Teaching Beliefs,concept,PART_OF,Teacher Identity,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Equitable Access to Education,concept,PART_OF,Teacher Identity,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Student Characteristics Analysis,concept,PART_OF,Culturally Responsive Teaching,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Instructional Unit Design,concept,PART_OF,Culturally Responsive Teaching,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Professional Growth Guidance,concept,PART_OF,Collaborative Leadership,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Peer Collaboration Strategies,concept,PART_OF,Collaborative Leadership,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Education Content Analysis,concept,PART_OF,Research in Education,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Pedagogy Synthesis and Application,concept,PART_OF,Research in Education,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Contribution to Educational Knowledge Base,concept,PART_OF,Research in Education,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Community Service Project Planning,concept,PART_OF,Community Engagement,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Reflection on Community Experiences,concept,PART_OF,Community Engagement,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Teaching Philosophy Statement,concept,USED_FOR,Teacher Identity,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Personal Teaching Beliefs,concept,USED_FOR,Teacher Identity,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Equitable Access to Education,concept,USED_FOR,Teacher Identity,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Student Characteristics Analysis,concept,USED_FOR,Culturally Responsive Teaching,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Instructional Unit Design,concept,USED_FOR,Culturally Responsive Teaching,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Professional Growth Guidance,concept,USED_FOR,Collaborative Leadership,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Education Content Analysis,concept,USED_FOR,Research in Education,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Pedagogy Synthesis and Application,concept,USED_FOR,Research in Education,topic,,,TESL_4204_triples_raw.json
+TESL_4204,Community Service Project Planning,concept,USED_FOR,Community Engagement,topic,,,TESL_4204_triples_raw.json

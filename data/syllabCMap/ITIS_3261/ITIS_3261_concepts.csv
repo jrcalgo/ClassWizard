@@ -1,0 +1,108 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_3261,topic,Cloud Computing,Cloud Computing,16,verified,Cloud Computing,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Data at Rest and Symmetric Encryption,Data at rest and symmetric encryption,1,verified,Data at Rest and Symmetric Encryption,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Cloud Concept Overview,Cloud concept overview,1,verified,Cloud Concept Overview,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Cloud Economics,Cloud economics,1,verified,Cloud Economics and PKI,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,PKI,PKI,2,verified,Cloud Economics and PKI,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Cloud Infrastructure Overview,Cloud infrastructure overview,1,verified,Cloud Infrastructure Overview,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Identity and Access Management,identity and access management,3,verified,Identity and Access Management,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Networking,networking,6,verified,Networking,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,VPC,VPC,4,verified,VPC,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,"DNS, CDN","DNS, CDN",1,verified,"DNS, CDN",ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Compute,Compute,2,verified,Compute,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,"Containers, Serverless Computing","Containers, Serverless Computing",1,verified,"Containers, Serverless Computing",ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Storage,storage,15,verified,Storage,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,DB,DB,1,verified,DB,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Autoscaling,Autoscaling,4,verified,Autoscaling,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Load Balancing,Load Balancing,5,verified,Load Balancing,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Cloud Architecture,Cloud Architecture,5,verified,Cloud Architecture,ITIS_3261_concepts_raw.json
+ITIS_3261,topic,Cloud Security,Cloud Security,21,verified,Cloud Security,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Computing Definition,Cloud Computing Definition,1,verified,Cloud Computing Definition,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Service Models Types,Service Models Types,1,verified,Service Models Types,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Deployment Models Overview,Deployment Models Overview,1,verified,Deployment Models Overview,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Benefits and Risks,Cloud Benefits and Risks,1,verified,Cloud Benefits and Risks,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Symmetric Encryption,symmetric encryption,2,verified,Symmetric Encryption,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Data at Rest,Data at rest,2,verified,Data at Rest,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Key Exchange Protocols,Key Exchange Protocols,2,verified,Key Exchange Protocols,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Block Ciphers,Block Ciphers,1,verified,Block Ciphers,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cipher Modes,Cipher Modes,1,verified,Cipher Modes,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Encryption Algorithms,Encryption Algorithms,1,verified,Encryption Algorithms,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,HTTPS protocol,HTTPS protocol,1,verified,HTTPS protocol,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Public key cryptography,Public key cryptography,1,verified,Public key cryptography,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Certificate authority,Certificate authority,1,verified,Certificate authority,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Digital certificates,Digital certificates,1,verified,Digital certificates,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Key exchange algorithms,Key exchange algorithms,1,verified,Key exchange algorithms,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Cost Models,Cloud Cost Models,1,verified,Cloud Cost Models,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Private Key Management,Private Key Management,1,verified,Private Key Management,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Passkey Billing Systems,Passkey Billing Systems,1,verified,Passkey Billing Systems,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Pricing Strategies,Cloud Pricing Strategies,1,verified,Cloud Pricing Strategies,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Economic Benefits of Cloud,Economic Benefits of Cloud,1,verified,Economic Benefits of Cloud,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Security Risks,Cloud Security Risks,9,verified,Cloud Security Risks,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,IaaS PaaS SaaS,IaaS PaaS SaaS,1,verified,IaaS PaaS SaaS,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Computing Layers,Cloud Computing Layers,1,verified,Cloud Computing Layers,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Virtualization Techniques,Virtualization Techniques,7,verified,Virtualization Techniques,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Resource Provisioning,Resource Provisioning,11,verified,Resource Provisioning,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Scalability and Elasticity,Scalability and Elasticity,1,verified,Scalability and Elasticity,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Service Models,Cloud Service Models,32,verified,Cloud Service Models,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Deployment Strategies,Deployment Strategies,27,verified,Deployment Strategies,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Security Measures,Cloud Security Measures,10,verified,Cloud Security Measures,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Identity Management,Identity Management,3,verified,Identity Management,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Access Control Models,Access Control Models,3,verified,Access Control Models,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Authentication Protocols,Authentication Protocols,3,verified,Authentication Protocols,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Authorization Mechanisms,Authorization Mechanisms,3,verified,Authorization Mechanisms,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Role-Based Access Control,Role-Based Access Control,3,verified,Role-Based Access Control,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Attribute-Based Access Control,Attribute-Based Access Control,1,verified,Attribute-Based Access Control,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Claims-Based Identity,Claims-Based Identity,1,verified,Claims-Based Identity,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Permission Systems,Permission Systems,1,verified,Permission Systems,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,User Account Management,User Account Management,1,verified,User Account Management,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Networking Models,Cloud Networking Models,2,verified,Cloud Networking Models,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Virtual Private Networks,Virtual Private Networks,1,verified,Virtual Private Networks,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Network Topology Design,Network Topology Design,2,verified,Network Topology Design,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Computing Security,cloud computing security,2,verified,Cloud Computing Security,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Data Center Interconnects,Data Center Interconnects,1,verified,Data Center Interconnects,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,VPC Security Groups,VPC Security Groups,1,verified,VPC Security Groups,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Subnet Configuration Options,Subnet Configuration Options,1,verified,Subnet Configuration Options,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Route Table Settings,Route Table Settings,1,verified,Route Table Settings,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Network ACLs,Network ACLs,1,verified,Network ACLs,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Storage Services,Cloud Storage Services,1,verified,Cloud Storage Services,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Data Persistence Models,Data Persistence Models,1,verified,Data Persistence Models,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Storage Service Levels,Storage Service Levels,1,verified,Storage Service Levels,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Data Management,Cloud Data Management,1,verified,Cloud Data Management,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Object Storage Systems,Object Storage Systems,1,verified,Object Storage Systems,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Block Storage,Block storage,2,verified,Block Storage,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Object Storage,Object Storage,2,verified,Object Storage,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,EBS storage,EBS storage,2,verified,EBS storage,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,S3 storage,S3 storage,1,verified,S3 storage,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Static website,Static website,1,verified,Static website,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Dynamic website,dynamic website,2,verified,Dynamic website,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Relational database,Relational database,2,verified,Relational database,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Database schema,Database schema,1,verified,Database schema,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,SQL queries,SQL queries,1,verified,SQL queries,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Database Architecture,Cloud Database Architecture,1,verified,Cloud Database Architecture,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,NoSQL Data Modeling,NoSQL Data Modeling,1,verified,NoSQL Data Modeling,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Database Server Configuration,Database Server Configuration,1,verified,Database Server Configuration,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Storage Options,Cloud Storage Options,1,verified,Cloud Storage Options,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Data Consistency Models,Data Consistency Models,1,verified,Data Consistency Models,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Database Scalability Techniques,Database Scalability Techniques,1,verified,Database Scalability Techniques,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Database Backup Strategies,Database Backup Strategies,1,verified,Database Backup Strategies,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Autoscaling Strategies,Autoscaling Strategies,1,verified,Autoscaling Strategies,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Resource Management,Cloud Resource Management,1,verified,Cloud Resource Management,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Scalability Metrics Analysis,Scalability Metrics Analysis,1,verified,Scalability Metrics Analysis,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Load Balancing Techniques,Load Balancing Techniques,3,verified,Load Balancing Techniques,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Horizontal Scaling Methods,Horizontal Scaling Methods,1,verified,Horizontal Scaling Methods,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Round Robin Algorithm,Round Robin Algorithm,1,verified,Round Robin Algorithm,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Least Connection Method,Least Connection Method,1,verified,Least Connection Method,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,IP Hashing Strategy,IP Hashing Strategy,1,verified,IP Hashing Strategy,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Architecture Design,Cloud Architecture Design,1,verified,Cloud Architecture Design,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Horizontal Scaling,Horizontal Scaling,2,verified,Horizontal Scaling,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Vertical Scaling,Vertical Scaling,1,verified,Vertical Scaling,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Resource Utilization,Resource Utilization,1,verified,Resource Utilization,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Server Clustering,Server Clustering,2,verified,Server Clustering,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Auto Scaling Strategies,Autoscaling Strategies,1,verified,Auto Scaling Strategies,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Service-Oriented Design,Service-Oriented Design,1,verified,Service-Oriented Design,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Microservices Architecture,Microservices Architecture,1,verified,Microservices Architecture,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Cloud Architecture Models,Cloud Architecture Models,1,verified,Cloud Architecture Models,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Data Encryption Methods,Data Encryption Methods,1,verified,Data Encryption Methods,ITIS_3261_concepts_raw.json
+ITIS_3261,concept,Access Control Mechanisms,Access Control Mechanisms,1,verified,Access Control Mechanisms,ITIS_3261_concepts_raw.json
+ITIS_3261,tool,AWS Certified Cloud Practitioner Practice Tests,AWS Certified Cloud Practitioner Practice Tests,1,verified,AWS Certified Cloud Practitioner Practice Tests,ITIS_3261_concepts_raw.json
+ITIS_3261,tool,AWS Academy,AWS Academy,1,verified,AWS Academy,ITIS_3261_concepts_raw.json

@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_4050,Claim and Evidence,concept,PREREQUISITE_OF,Counterargument Response,concept,same unit,,COMM_4050_triples_raw.json
+COMM_4050,Claim and Evidence,concept,PREREQUISITE_OF,Warrant and Assumption,concept,same unit,,COMM_4050_triples_raw.json
+COMM_4050,Classical Rhetoric Overview,concept,PREREQUISITE_OF,Rhetorical Theory Basics,concept,same unit,,COMM_4050_triples_raw.json
+COMM_4050,Rhetorical Theory Basics,concept,PART_OF,Rhetoric,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Argumentation Strategies,topic,PART_OF,Rhetoric,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Persuasive Writing Techniques,topic,PART_OF,Rhetoric,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Analyzing Texts for Rhetoric,topic,PART_OF,Rhetoric,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Oral Communication Skills,topic,PART_OF,Rhetoric,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Claim and Evidence,concept,PART_OF,Argumentation Strategies,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Counterargument Response,concept,PART_OF,Argumentation Strategies,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Tone and Audience Analysis,concept,PART_OF,Persuasive Writing Techniques,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Emotional Appeal Methods,concept,PART_OF,Persuasive Writing Techniques,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Author's Purpose Identification,concept,PART_OF,Analyzing Texts for Rhetoric,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Rhetorical Devices Recognition,concept,PART_OF,Analyzing Texts for Rhetoric,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Public Speaking Fundamentals,concept,PART_OF,Oral Communication Skills,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Delivery and Body Language,concept,PART_OF,Oral Communication Skills,topic,,,COMM_4050_triples_raw.json
+COMM_4050,Audience Engagement Strategies,concept,PART_OF,Oral Communication Skills,topic,,,COMM_4050_triples_raw.json

@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6120,topic,Computer Graphics,Computer Graphics,2,verified,Computer Graphics,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,world coordinate system,world coordinate system,1,verified,world coordinate system,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,camera coordinate system,camera coordinate system,1,verified,camera coordinate system,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,perspective coordinate system,perspective coordinate system,1,verified,perspective coordinate system,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,screen coordinate system,screen coordinate system,1,verified,screen coordinate system,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,global illumination model,global illumination models,1,verified,global illumination model,ITCS_6120_concepts_raw.json
+ITCS_6120,topic,Global Illumination Algorithms,global illumination algorithms,1,verified,Global Illumination Algorithms,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,graphics applications,graphics applications,1,verified,graphics applications,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,primitive affine transforms,primitive affine transforms,1,verified,primitive affine transforms,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,Vector,vector,3,verified,"Vector, Affine and Euclidean spaces",ITCS_6120_concepts_raw.json
+ITCS_6120,concept,Affine,affine,2,verified,"Vector, Affine and Euclidean spaces",ITCS_6120_concepts_raw.json
+ITCS_6120,concept,Euclidean spaces,Euclidean spaces,1,verified,"Vector, Affine and Euclidean spaces",ITCS_6120_concepts_raw.json
+ITCS_6120,concept,vector and math operations,vector and math operations,1,verified,vector and math operations,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,parallel and perspective projections,parallel and perspective projections,1,verified,parallel and perspective projections,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,rendering equation,rendering equation,1,verified,rendering equation,ITCS_6120_concepts_raw.json
+ITCS_6120,concept,texture mapping,texture mapping,2,verified,texture mapping,ITCS_6120_concepts_raw.json

@@ -91,6 +91,7 @@ def main() -> None:
     with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
         conn.autocommit = True
         run_psql(SCHEMA_SQL)
+        migrate_course_career_scores(conn)
         load_catalogs(conn)
         load_onet(conn)
         load_programs(conn)
@@ -122,6 +123,45 @@ def main() -> None:
         except Exception as exc:
             print(f"syllabus_triples embedding failed, /chat retrieval limited: {exc!r}", file=sys.stderr)
         print_counts(conn)
+
+
+def migrate_course_career_scores(conn) -> None:
+    """Upgrade the legacy derived score cache to catalog-qualified identities.
+
+    Legacy scores cannot be attributed to a catalog reliably. Invalidate them
+    rather than guessing; the catalog-aware Spark publisher must rebuild them.
+    The transaction makes this safe to retry after an interrupted startup.
+    """
+    with conn.transaction():
+        conn.execute(
+            """
+            DO $$
+            BEGIN
+              IF NOT EXISTS (
+                SELECT 1 FROM pg_attribute
+                WHERE attrelid = 'course_career_scores'::regclass
+                  AND attname = 'catalog_name' AND NOT attisdropped
+              ) THEN
+                LOCK TABLE course_career_scores IN ACCESS EXCLUSIVE MODE;
+                TRUNCATE course_career_scores;
+                ALTER TABLE course_career_scores ADD COLUMN catalog_name text NOT NULL;
+                ALTER TABLE course_career_scores DROP CONSTRAINT course_career_scores_pkey;
+                ALTER TABLE course_career_scores
+                  ADD PRIMARY KEY (catalog_name, soc_code, course_code);
+                DELETE FROM ingest_runs WHERE source = 'spark_als';
+              END IF;
+            END $$;
+            """
+        )
+
+        conn.execute("""
+            ALTER TABLE course_career_scores ALTER COLUMN als_score DROP NOT NULL;
+            ALTER TABLE course_career_scores ALTER COLUMN als_score TYPE double precision;
+            ALTER TABLE course_career_scores ADD COLUMN IF NOT EXISTS normalized_als_score double precision;
+            ALTER TABLE course_career_scores ADD COLUMN IF NOT EXISTS blended_rating double precision;
+            DELETE FROM ingest_runs WHERE source IN ('spark_als', 'spark_als_count')
+              AND NOT EXISTS (SELECT 1 FROM ingest_runs WHERE source='spark_training_fingerprint');
+        """)
 
 
 def ensure_pgpassword() -> None:
@@ -739,14 +779,14 @@ def load_syllabus_records(conn) -> None:
     if not SYLLABUS_RECORDS_ZIP.is_file():
         print(f"{SYLLABUS_RECORDS_ZIP.name} not found, skipping syllabus records")
         return
-    from backend.storage.database.syllabus_records import PARSER_VERSION
+    from backend.storage.database.operations.syllabus_records import PARSER_VERSION
 
     # The parser version is part of the key, so a parser fix reloads the records.
     digest = f"{file_fingerprint(SYLLABUS_RECORDS_ZIP)}:p{PARSER_VERSION}"
     if already_loaded(conn, "syllabus_records", digest):
         print(f"syllabus records unchanged ({digest[:12]})")
         return
-    from backend.storage.database.syllabus_records import read_zip
+    from backend.storage.database.operations.syllabus_records import read_zip
 
     records = read_zip(SYLLABUS_RECORDS_ZIP)
     rows = {key: [row for r in records for row in r[key]]

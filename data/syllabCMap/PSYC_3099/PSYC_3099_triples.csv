@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_3099,Disinformation,concept,PREREQUISITE_OF,Fake News,concept,same unit,,PSYC_3099_triples_raw.json
+PSYC_3099,Disinformation,concept,PREREQUISITE_OF,Conspiracy Theories,concept,same unit,,PSYC_3099_triples_raw.json
+PSYC_3099,Fake News,concept,PREREQUISITE_OF,Conspiracy Theories,concept,same unit,,PSYC_3099_triples_raw.json
+PSYC_3099,Motivated Cognition,concept,PREREQUISITE_OF,Echo Chambers,concept,same unit,,PSYC_3099_triples_raw.json
+PSYC_3099,Echo Chambers,concept,PREREQUISITE_OF,Confirmation Bias,concept,same unit,,PSYC_3099_triples_raw.json
+PSYC_3099,Confirmation Bias,concept,PREREQUISITE_OF,Cognitive Biases,concept,A taught first,,PSYC_3099_triples_raw.json
+PSYC_3099,Cognitive Biases,concept,PREREQUISITE_OF,Information Overload,concept,same unit,,PSYC_3099_triples_raw.json
+PSYC_3099,Expertise and Democracy,concept,PREREQUISITE_OF,Social Media Amplification,concept,same unit,,PSYC_3099_triples_raw.json
+PSYC_3099,Disinformation,concept,PART_OF,Fake News Dynamics,concept,,,PSYC_3099_triples_raw.json
+PSYC_3099,Conspiracy Theories,concept,PART_OF,Fake News Dynamics,concept,,,PSYC_3099_triples_raw.json
+PSYC_3099,Social Media Influence,concept,PART_OF,Echo Chambers,concept,,,PSYC_3099_triples_raw.json
+PSYC_3099,Critical Thinking Skills,concept,PART_OF,Online Information Literacy,concept,,,PSYC_3099_triples_raw.json
+PSYC_3099,Counterspeech Strategies,concept,PART_OF,Disinformation Tactics Online,concept,,,PSYC_3099_triples_raw.json
+PSYC_3099,Critical Thinking Skills,concept,USED_FOR,Critical Online Evaluation,concept,,,PSYC_3099_triples_raw.json
+PSYC_3099,Media Manipulation,concept,USED_FOR,Fake News Spread,concept,,,PSYC_3099_triples_raw.json
+PSYC_3099,Cognitive Biases,concept,USED_FOR,Confirmation Bias,concept,,,PSYC_3099_triples_raw.json
+PSYC_3099,Information Overload,concept,USED_FOR,Disinformation Spread,concept,,,PSYC_3099_triples_raw.json

@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_6167,topic,network security background and motivation,network security background and motivation,2,verified,network security background and motivation,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,network centric threats,network centric threats,2,verified,network centric threats,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,network authentication and identification,network authentication and identification,2,verified,network authentication and identification,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,network security protocols,network security protocols,2,verified,network security protocols,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,firewall,Firewalls,1,verified,firewall,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,IDS,IDS,2,verified,IDS,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,security in wireless environments,security in wireless environments,2,verified,security in wireless environments,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,email security,email security,2,verified,email security,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,instant message security,instant message security,2,verified,instant message security,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,network application security,network application security,2,verified,network application security,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,network-based storage security,network-based storage security,2,verified,network-based storage security,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,SDN and CDN security,SDN and CDN security,1,verified,SDN and CDN security,ITIS_6167_concepts_raw.json
+ITIS_6167,topic,AI in network security,AI in network security,1,verified,AI in network security,ITIS_6167_concepts_raw.json
+ITIS_6167,concept,TCP/IP vulnerabilities,TCP/IP vulnerabilities,1,verified,TCP/IP vulnerabilities,ITIS_6167_concepts_raw.json
+ITIS_6167,concept,Authentication basics,authentication basics,1,verified,Authentication basics,ITIS_6167_concepts_raw.json
+ITIS_6167,concept,Basic network security mechanisms,basic network security mechanisms,1,verified,Basic network security mechanisms,ITIS_6167_concepts_raw.json
+ITIS_6167,method,traffic scanning and detection techniques,traffic scanning and detection techniques,1,verified,traffic scanning and detection techniques,ITIS_6167_concepts_raw.json

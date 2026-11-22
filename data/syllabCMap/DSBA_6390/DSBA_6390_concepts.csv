@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6390,topic,Data Science Practicum,Data Science Practicum,3,verified,Data Science Practicum,DSBA_6390_concepts_raw.json
+DSBA_6390,topic,Software Engineering Practices,software engineering practices,2,verified,Software Engineering Practices,DSBA_6390_concepts_raw.json
+DSBA_6390,method,predictive analytics,predictive analytics,1,verified,predictive analytics,DSBA_6390_concepts_raw.json
+DSBA_6390,method,machine learning,machine learning,2,verified,machine learning,DSBA_6390_concepts_raw.json
+DSBA_6390,method,visualization,visualization,3,verified,visualization,DSBA_6390_concepts_raw.json
+DSBA_6390,method,GitHub,GitHub,2,verified,GitHub,DSBA_6390_concepts_raw.json
+DSBA_6390,method,branching,branching,2,verified,branching,DSBA_6390_concepts_raw.json
+DSBA_6390,method,version control,version control,1,verified,version control,DSBA_6390_concepts_raw.json
+DSBA_6390,method,documentation,documentation,4,verified,documentation,DSBA_6390_concepts_raw.json
+DSBA_6390,method,integrated testing,integrated testing,2,verified,integrated testing,DSBA_6390_concepts_raw.json
+DSBA_6390,method,delivery cadence,delivery cadence,1,verified,delivery cadence,DSBA_6390_concepts_raw.json
+DSBA_6390,method,professional delivery practices,professional delivery practices,1,verified,professional delivery practices,DSBA_6390_concepts_raw.json
+DSBA_6390,method,project management frameworks,project management frameworks,1,verified,project management frameworks,DSBA_6390_concepts_raw.json
+DSBA_6390,tool,ChatGPT,ChatGPT,1,verified,ChatGPT,DSBA_6390_concepts_raw.json
+DSBA_6390,tool,Gemini,Gemini,1,verified,Gemini,DSBA_6390_concepts_raw.json

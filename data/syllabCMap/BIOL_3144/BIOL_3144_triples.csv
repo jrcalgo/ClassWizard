@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_3144,Living Components of Environment,concept,PART_OF,Environmental Relationships,topic,,,BIOL_3144_triples_raw.json
+BIOL_3144,Causes of Ecological Patterns,concept,PART_OF,Ecological Patterns,topic,,,BIOL_3144_triples_raw.json
+BIOL_3144,Changes in Population Size,concept,PART_OF,Population Dynamics,topic,,,BIOL_3144_triples_raw.json
+BIOL_3144,Species and Community Changes,concept,PART_OF,Population Dynamics,topic,,,BIOL_3144_triples_raw.json
+BIOL_3144,Non-Living Components of Environment,concept,PART_OF,Environmental Relationships,topic,,,BIOL_3144_triples_raw.json
+BIOL_3144,Evaluating Hypotheses in Ecology,concept,PART_OF,Scientific Process in Ecology,topic,,,BIOL_3144_triples_raw.json
+BIOL_3144,Conservation Principles and Human Welfare,concept,PART_OF,Environmental Challenges and Conservation,topic,,,BIOL_3144_triples_raw.json
+BIOL_3144,Personal Life and Ecological Principles,concept,PART_OF,Environmental Challenges and Conservation,topic,,,BIOL_3144_triples_raw.json
+BIOL_3144,Evolutionary Mechanisms Leading to Species Change,concept,PART_OF,Mechanisms of Evolution,topic,,,BIOL_3144_triples_raw.json

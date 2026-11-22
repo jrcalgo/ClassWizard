@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPEL_3173,curriculum-based measurement,concept,PREREQUISITE_OF,special education eligibility,topic,same unit,,SPEL_3173_triples_raw.json
+SPEL_3173,curriculum-based measurement,concept,PART_OF,curriculum-based assessment,topic,,,SPEL_3173_triples_raw.json
+SPEL_3173,curriculum-based measurement,concept,USED_FOR,special education eligibility,topic,,,SPEL_3173_triples_raw.json

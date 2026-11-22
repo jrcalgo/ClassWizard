@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_8302,NIH guidelines,concept,PREREQUISITE_OF,NSF requirements,concept,same unit,,GRAD_8302_triples_raw.json
+GRAD_8302,NIH guidelines,concept,PREREQUISITE_OF,responsible conduct of research,concept,A mentioned first,,GRAD_8302_triples_raw.json
+GRAD_8302,NSF requirements,concept,PREREQUISITE_OF,responsible conduct of research,concept,A mentioned first,,GRAD_8302_triples_raw.json
+GRAD_8302,responsible conduct of research,concept,PREREQUISITE_OF,professionalism skills,concept,B mentioned first,,GRAD_8302_triples_raw.json
+GRAD_8302,responsible conduct of research,concept,PREREQUISITE_OF,research integrity,concept,B mentioned first,,GRAD_8302_triples_raw.json
+GRAD_8302,responsible conduct of research,concept,PREREQUISITE_OF,authorship practices,concept,B mentioned first,,GRAD_8302_triples_raw.json
+GRAD_8302,NIH guidelines,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,NSF requirements,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,responsible conduct of research,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,professionalism skills,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,research integrity,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,authorship practices,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,conflicts of interests and commitments,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,protection of human subjects,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,lab animal welfare,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,mentor and trainee responsibilities,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json
+GRAD_8302,authorship and publication,concept,PART_OF,Research Ethics,topic,,,GRAD_8302_triples_raw.json

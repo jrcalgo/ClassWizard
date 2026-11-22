@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_4115,Kinesiology,topic,PREREQUISITE_OF,Health,topic,B mentioned first,,EXER_4115_triples_raw.json
+EXER_4115,Health,topic,PREREQUISITE_OF,Clinical Sciences,topic,A mentioned first,,EXER_4115_triples_raw.json
+EXER_4115,Study Design Variables,concept,PART_OF,Research Methods in Applied Physiology,topic,,,EXER_4115_triples_raw.json
+EXER_4115,Data Collection Procedures,concept,PART_OF,Research Methods in Applied Physiology,topic,,,EXER_4115_triples_raw.json
+EXER_4115,Evidence-Based Practice,topic,PART_OF,Scientific Method,topic,,,EXER_4115_triples_raw.json
+EXER_4115,Kinesiology,topic,PART_OF,Health,topic,,,EXER_4115_triples_raw.json
+EXER_4115,Clinical Sciences,topic,PART_OF,Health,topic,,,EXER_4115_triples_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JAPN_3202,Japanese II,topic,PREREQUISITE_OF,Upper Intermediate Japanese II,topic,B mentioned first,,JAPN_3202_triples_raw.json
+JAPN_3202,Formal and Informal Speech Styles,concept,SUBTYPE_OF,Formal and Informal Speech,topic,,,JAPN_3202_triples_raw.json

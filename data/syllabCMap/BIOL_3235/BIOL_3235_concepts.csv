@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_3235,topic,Insects,insects,1,verified,Introduction to Insects,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,importance of insects,importance of insects,1,verified,importance of insects,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,insect diversity,Insect Diversity,1,inferred,insect diversity,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,body segmentation,Body Segmentation,1,inferred,body segmentation,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,respiratory system,Respiratory System,1,inferred,respiratory system,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,circulatory system,Circulatory System,1,inferred,circulatory system,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,nervous system overview,Nervous System Overview,1,inferred,nervous system overview,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,embryonic development,Embryonic Development,1,inferred,embryonic development,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,metamorphosis process,Metamorphosis Process,1,inferred,metamorphosis process,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,social insect colonies,Social Insect Colonies,1,inferred,social insect colonies,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,pollination process,Pollination Process,1,inferred,pollination process,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,decomposition role,Decomposition Role,1,inferred,decomposition role,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,vector-borne diseases,Vector-Borne Diseases,1,inferred,vector-borne diseases,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,agricultural pests,Agricultural Pests,1,inferred,agricultural pests,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,entomological research,Entomological Research,1,inferred,entomological research,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,classification system,Classification System,1,inferred,classification system,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,exoskeleton function,Exoskeleton Function,1,inferred,exoskeleton function,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,mouthpart adaptations,Mouthpart Adaptations,1,inferred,mouthpart adaptations,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,hormonal regulation,Hormonal Regulation,1,inferred,hormonal regulation,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,communication methods,Communication Methods,1,inferred,communication methods,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,mating and reproduction,Mating and Reproduction,1,inferred,mating and reproduction,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,food chain position,Food Chain Position,1,inferred,food chain position,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,pest control methods,Pest Control Methods,1,inferred,pest control methods,BIOL_3235_concepts_raw.json
+BIOL_3235,concept,insect allergies,Insect Allergies,1,inferred,insect allergies,BIOL_3235_concepts_raw.json

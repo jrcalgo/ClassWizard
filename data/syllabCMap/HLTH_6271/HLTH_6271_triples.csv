@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6271,types of data,concept,PREREQUISITE_OF,measures of central tendency,concept,A taught first,,HLTH_6271_triples_raw.json
+HLTH_6271,types of data,concept,PREREQUISITE_OF,measures of variability,concept,A taught first,,HLTH_6271_triples_raw.json
+HLTH_6271,types of data,concept,PART_OF,Data,topic,,,HLTH_6271_triples_raw.json
+HLTH_6271,measures of central tendency,concept,PART_OF,Public Health Data Analysis,topic,,,HLTH_6271_triples_raw.json
+HLTH_6271,measures of variability,concept,PART_OF,Public Health Data Analysis,topic,,,HLTH_6271_triples_raw.json

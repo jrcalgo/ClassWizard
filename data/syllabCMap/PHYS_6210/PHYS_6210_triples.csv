@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_6210,Mathematical Fundamentals,topic,PART_OF,Differential Equations,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Mathematical Fundamentals,topic,PART_OF,Linear Algebra Techniques,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Optical Physics Methods,topic,PART_OF,Differential Equations,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Ordinary Differential Equations,concept,PART_OF,Differential Equations,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Partial Differential Equations,concept,PART_OF,Differential Equations,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Separable Differential Equations,concept,PART_OF,Differential Equations,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Eigenvalue Problems,concept,PART_OF,Linear Algebra Techniques,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Matrix Diagonalization,concept,PART_OF,Linear Algebra Techniques,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Vector Space Operations,concept,PART_OF,Linear Algebra Techniques,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Wave Equation Solutions,concept,PART_OF,Optical Physics Methods,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Fourier Transform Applications,concept,PART_OF,Optical Physics Methods,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Helmholtz Equation Derivations,concept,PART_OF,Optical Physics Methods,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Laplace Transform Properties,concept,PART_OF,Integral Transforms,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Fourier Integral Theorem,concept,PART_OF,Integral Transforms,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Convolution Theorems,concept,PART_OF,Integral Transforms,topic,,,PHYS_6210_triples_raw.json
+PHYS_6210,Taylor Series Convergence,concept,PART_OF,Special Functions and Series,topic,,,PHYS_6210_triples_raw.json

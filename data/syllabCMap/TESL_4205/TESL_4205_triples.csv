@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TESL_4205,second language acquisition process,concept,PREREQUISITE_OF,First and Second Language Acquisition Processes,topic,A taught first,,TESL_4205_triples_raw.json
+TESL_4205,Second Language Acquisition & Linguistics in K-12 Schools,topic,USED_FOR,First and Second Language Acquisition Processes,topic,,topic used for something - check direction,TESL_4205_triples_raw.json

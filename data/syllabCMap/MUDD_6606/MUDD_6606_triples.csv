@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUDD_6606,geographic projection,concept,PREREQUISITE_OF,coordinate systems,concept,same unit,,MUDD_6606_triples_raw.json
+MUDD_6606,coordinate systems,concept,PREREQUISITE_OF,models of spatial data,concept,A mentioned first,,MUDD_6606_triples_raw.json
+MUDD_6606,data management,concept,PREREQUISITE_OF,GIS implementation issues,concept,A mentioned first,,MUDD_6606_triples_raw.json
+MUDD_6606,data management,concept,PREREQUISITE_OF,models of spatial data,concept,A mentioned first,,MUDD_6606_triples_raw.json
+MUDD_6606,geographic projection,concept,PART_OF,Geographic Projection and Coordinate Systems,topic,,,MUDD_6606_triples_raw.json
+MUDD_6606,coordinate systems,concept,PART_OF,Geographic Projection and Coordinate Systems,topic,,,MUDD_6606_triples_raw.json
+MUDD_6606,data management,concept,PART_OF,Geographic Projection and Coordinate Systems,topic,,,MUDD_6606_triples_raw.json
+MUDD_6606,data management,concept,PART_OF,Making Base Maps,topic,,,MUDD_6606_triples_raw.json
+MUDD_6606,spatial analysis techniques,concept,PART_OF,Geographic Projection and Coordinate Systems,topic,,,MUDD_6606_triples_raw.json
+MUDD_6606,GIS implementation issues,concept,PART_OF,Geographic Projection and Coordinate Systems,topic,,,MUDD_6606_triples_raw.json
+MUDD_6606,GIS,tool,USED_FOR,Geographic Projection and Coordinate Systems,topic,,,MUDD_6606_triples_raw.json

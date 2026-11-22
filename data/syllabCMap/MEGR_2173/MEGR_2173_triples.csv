@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2173,mechatronics,topic,PREREQUISITE_OF,linear systems theory,concept,A mentioned first,,MEGR_2173_triples_raw.json
+MEGR_2173,mechatronics,topic,PREREQUISITE_OF,pneumatic devices,concept,A mentioned first,,MEGR_2173_triples_raw.json
+MEGR_2173,mechatronics,topic,PREREQUISITE_OF,active components,concept,A mentioned first,,MEGR_2173_triples_raw.json
+MEGR_2173,mechatronics,topic,PREREQUISITE_OF,circuit simulation programs,concept,A mentioned first,,MEGR_2173_triples_raw.json

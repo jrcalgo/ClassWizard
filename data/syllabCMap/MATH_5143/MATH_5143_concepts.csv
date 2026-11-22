@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_5143,concept,Real Number System Basics,Real Number System Basics,1,inferred,Real Number System Basics,MATH_5143_concepts_raw.json
+MATH_5143,concept,Completeness Axiom Definition,Completeness Axiom Definition,1,inferred,Completeness Axiom Definition,MATH_5143_concepts_raw.json
+MATH_5143,concept,Least Upper Bound Property,Least Upper Bound Property,1,inferred,Least Upper Bound Property,MATH_5143_concepts_raw.json
+MATH_5143,concept,Sequence Convergence Criteria,Sequence Convergence Criteria,1,inferred,Sequence Convergence Criteria,MATH_5143_concepts_raw.json
+MATH_5143,concept,Series Convergence Tests,Series Convergence Tests,1,inferred,Series Convergence Tests,MATH_5143_concepts_raw.json
+MATH_5143,concept,Absolute Convergence Theorem,Absolute Convergence Theorem,1,inferred,Absolute Convergence Theorem,MATH_5143_concepts_raw.json
+MATH_5143,concept,Limit Definition and Properties,Limit Definition and Properties,1,inferred,Limit Definition and Properties,MATH_5143_concepts_raw.json
+MATH_5143,concept,Continuity at a Point,Continuity at a Point,1,inferred,Continuity at a Point,MATH_5143_concepts_raw.json
+MATH_5143,concept,Continuity on an Interval,Continuity on an Interval,1,inferred,Continuity on an Interval,MATH_5143_concepts_raw.json
+MATH_5143,concept,Derivative Definition and Notation,Derivative Definition and Notation,1,inferred,Derivative Definition and Notation,MATH_5143_concepts_raw.json
+MATH_5143,concept,Power Rule and Product Rule,Power Rule and Product Rule,1,inferred,Power Rule and Product Rule,MATH_5143_concepts_raw.json
+MATH_5143,concept,Chain Rule Application,Chain Rule Application,1,inferred,Chain Rule Application,MATH_5143_concepts_raw.json
+MATH_5143,concept,Basic Integration Rules and Formulas,Basic Integration Rules and Formulas,1,inferred,Basic Integration Rules and Formulas,MATH_5143_concepts_raw.json
+MATH_5143,concept,Substitution Method and Integration by Parts,Substitution Method and Integration by Parts,1,inferred,Substitution Method and Integration by Parts,MATH_5143_concepts_raw.json
+MATH_5143,concept,Improper Integrals and Applications,Improper Integrals and Applications,1,inferred,Improper Integrals and Applications,MATH_5143_concepts_raw.json
+MATH_5143,concept,Metric Space Definition and Properties,Metric Space Definition and Properties,1,inferred,Metric Space Definition and Properties,MATH_5143_concepts_raw.json
+MATH_5143,concept,Open and Closed Sets in a Metric Space,Open and Closed Sets in a Metric Space,1,inferred,Open and Closed Sets in a Metric Space,MATH_5143_concepts_raw.json
+MATH_5143,concept,Convergence of Sequences in a Metric Space,Convergence of Sequences in a Metric Space,1,inferred,Convergence of Sequences in a Metric Space,MATH_5143_concepts_raw.json

@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_5090,topic,Nonlinear Systems,Nonlinear Systems,1,verified,Nonlinear Systems,MEGR_5090_concepts_raw.json
+MEGR_5090,topic,Mathematical Modeling of NL Systems,Mathematical Modeling of NL Systems,1,inferred,Mathematical Modeling of NL Systems,MEGR_5090_concepts_raw.json
+MEGR_5090,topic,Stability Analysis Techniques,Stability Analysis Techniques,1,inferred,Stability Analysis Techniques,MEGR_5090_concepts_raw.json
+MEGR_5090,topic,Feedback Control Design Methods,Feedback Control Design Methods,1,inferred,Feedback Control Design Methods,MEGR_5090_concepts_raw.json
+MEGR_5090,topic,Advanced NL System Analysis Tools,Advanced NL System Analysis Tools,1,inferred,Advanced NL System Analysis Tools,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,Linear vs. Nonlinear Systems,Linear vs. Nonlinear Systems,1,inferred,Linear vs. Nonlinear Systems,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,Lyapunov Functions,Lyapunov Functions,1,inferred,Lyapunov Functions,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,Lyapunov Stability Criteria,Lyapunov Stability Criteria,1,inferred,Lyapunov Stability Criteria,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,LaSalle's Invariance Principle,LaSalle's Invariance Principle,1,inferred,LaSalle's Invariance Principle,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,Stable Manifolds,Stable Manifolds,1,inferred,Stable Manifolds,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,State Space Representation,State Space Representation,1,inferred,State Space Representation,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,NL Differential Equations,NL Differential Equations,1,inferred,NL Differential Equations,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,Bifurcation Theory,Bifurcation Theory,1,inferred,Bifurcation Theory,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,Center Manifold Theory,Center Manifold Theory,1,inferred,Center Manifold Theory,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,Normal Form Methods,Normal Form Methods,1,inferred,Normal Form Methods,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,Model Predictive Control,Model Predictive Control,1,inferred,Model Predictive Control,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,State Feedback Controllers,State Feedback Controllers,1,inferred,State Feedback Controllers,MEGR_5090_concepts_raw.json
+MEGR_5090,concept,Output Feedback Controllers,Output Feedback Controllers,1,inferred,Output Feedback Controllers,MEGR_5090_concepts_raw.json

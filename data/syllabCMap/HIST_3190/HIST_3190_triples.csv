@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3190,Forms of Dependence,concept,PREREQUISITE_OF,Characteristics of Slavery,concept,same unit,,HIST_3190_triples_raw.json
+HIST_3190,Characteristics of Slavery,concept,PREREQUISITE_OF,Slave Trade,topic,A taught first,,HIST_3190_triples_raw.json
+HIST_3190,Characteristics of Slavery,concept,PREREQUISITE_OF,Plantation Slavery,topic,A taught first,,HIST_3190_triples_raw.json
+HIST_3190,Characteristics of Slavery,concept,PREREQUISITE_OF,Military Slavery,topic,A taught first,,HIST_3190_triples_raw.json
+HIST_3190,Characteristics of Slavery,concept,PREREQUISITE_OF,Africa and the Diaspora,topic,A taught first,,HIST_3190_triples_raw.json
+HIST_3190,Forms of Dependence,concept,PART_OF,Characteristics of Slavery,concept,,,HIST_3190_triples_raw.json
+HIST_3190,Slave Trade,topic,PART_OF,Plantation Slavery,topic,,,HIST_3190_triples_raw.json
+HIST_3190,Slave Trade,topic,PART_OF,Military Slavery,topic,,,HIST_3190_triples_raw.json
+HIST_3190,Plantation Slavery,topic,SUBTYPE_OF,Slavery,topic,,,HIST_3190_triples_raw.json
+HIST_3190,Military Slavery,topic,SUBTYPE_OF,Slavery,topic,,,HIST_3190_triples_raw.json

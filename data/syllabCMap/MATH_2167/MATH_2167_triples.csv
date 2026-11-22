@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_2167,mathematical induction,concept,PREREQUISITE_OF,proofs by contrapositive,concept,B taught first,B is taught before A - check,MATH_2167_triples_raw.json
+MATH_2167,mathematical induction,concept,PREREQUISITE_OF,proofs by contradiction,concept,B taught first,B is taught before A - check,MATH_2167_triples_raw.json
+MATH_2167,direct proofs,concept,PREREQUISITE_OF,counter-examples,concept,same unit,,MATH_2167_triples_raw.json
+MATH_2167,direct proofs,concept,PREREQUISITE_OF,proofs by contrapositive,concept,A taught first,,MATH_2167_triples_raw.json
+MATH_2167,direct proofs,concept,PREREQUISITE_OF,proofs by contradiction,concept,A taught first,,MATH_2167_triples_raw.json
+MATH_2167,quantifiers,concept,PREREQUISITE_OF,truth tables,concept,same unit,,MATH_2167_triples_raw.json
+MATH_2167,symbolic logic,topic,PREREQUISITE_OF,relations,topic,A taught first,,MATH_2167_triples_raw.json
+MATH_2167,set theory,topic,PREREQUISITE_OF,functions,topic,A taught first,,MATH_2167_triples_raw.json
+MATH_2167,truth tables,concept,PART_OF,symbolic logic,topic,,,MATH_2167_triples_raw.json
+MATH_2167,quantifiers,concept,PART_OF,symbolic logic,topic,,,MATH_2167_triples_raw.json
+MATH_2167,direct proofs,concept,PART_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json
+MATH_2167,counter-examples,concept,PART_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json
+MATH_2167,proofs by contrapositive,concept,PART_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json
+MATH_2167,proofs by contradiction,concept,PART_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json
+MATH_2167,mathematical induction,concept,PART_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json
+MATH_2167,direct proofs,concept,SUBTYPE_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json
+MATH_2167,proofs by contrapositive,concept,SUBTYPE_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json
+MATH_2167,proofs by contradiction,concept,SUBTYPE_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json
+MATH_2167,counter-examples,concept,SUBTYPE_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json
+MATH_2167,mathematical induction,concept,SUBTYPE_OF,mathematical proof-writing,topic,,,MATH_2167_triples_raw.json

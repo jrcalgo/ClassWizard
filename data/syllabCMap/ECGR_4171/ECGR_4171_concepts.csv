@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4171,topic,Energy Efficiency Concepts,energy efficiency concepts,1,verified,Energy Efficiency Concepts,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Electrical Energy Generation,electrical energy generation,1,verified,Electrical Energy Generation,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Smart Grid Technologies,smart grid technologies,1,verified,Smart Grid Technologies,ECGR_4171_concepts_raw.json
+ECGR_4171,topic,Energy Types Overview,Energy Types Overview,1,inferred,Energy Types Overview,ECGR_4171_concepts_raw.json
+ECGR_4171,topic,Energy Generation Methods,Energy Generation Methods,1,inferred,Energy Generation Methods,ECGR_4171_concepts_raw.json
+ECGR_4171,topic,Energy Storage and Transmission,Energy Storage and Transmission,1,inferred,Energy Storage and Transmission,ECGR_4171_concepts_raw.json
+ECGR_4171,topic,Renewable Energy Technologies,Renewable Energy Technologies,1,inferred,Renewable Energy Technologies,ECGR_4171_concepts_raw.json
+ECGR_4171,topic,Fossil Fuel and Nuclear Energy,Fossil Fuel and Nuclear Energy,1,inferred,Fossil Fuel and Nuclear Energy,ECGR_4171_concepts_raw.json
+ECGR_4171,topic,Environmental Impacts and Regulations,Environmental Impacts and Regulations,1,inferred,Environmental Impacts and Regulations,ECGR_4171_concepts_raw.json
+ECGR_4171,topic,Grid Reliability and Smart Grids,Grid Reliability and Smart Grids,1,inferred,Grid Reliability and Smart Grids,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Fossil Fuel Energy Sources,Fossil Fuel Energy Sources,1,inferred,Fossil Fuel Energy Sources,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Renewable Energy Sources,Renewable Energy Sources,1,inferred,Renewable Energy Sources,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Nuclear Energy Generation,Nuclear Energy Generation,1,inferred,Nuclear Energy Generation,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Thermal Energy Conversion,Thermal Energy Conversion,1,inferred,Thermal Energy Conversion,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Transportation Energy Options,Transportation Energy Options,1,inferred,Transportation Energy Options,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Battery Energy Storage,Battery Energy Storage,1,inferred,Battery Energy Storage,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Pumped Hydro Storage,Pumped Hydro Storage,1,inferred,Pumped Hydro Storage,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Grid Transmission Systems,Grid Transmission Systems,1,inferred,Grid Transmission Systems,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Solar Photovoltaic Systems,Solar Photovoltaic Systems,1,inferred,Solar Photovoltaic Systems,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Wind Turbine Generation,Wind Turbine Generation,1,inferred,Wind Turbine Generation,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Geothermal Energy Production,Geothermal Energy Production,1,inferred,Geothermal Energy Production,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Coal Fired Power Plants,Coal Fired Power Plants,1,inferred,Coal Fired Power Plants,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Nuclear Reactor Safety,Nuclear Reactor Safety,1,inferred,Nuclear Reactor Safety,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Oil Refining Processes,Oil Refining Processes,1,inferred,Oil Refining Processes,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Life Cycle Analysis Metrics,Life Cycle Analysis Metrics,1,inferred,Life Cycle Analysis Metrics,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Energy Efficiency Standards,Energy Efficiency Standards,1,inferred,Energy Efficiency Standards,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Carbon Emissions Reduction,Carbon Emissions Reduction,1,inferred,Carbon Emissions Reduction,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Air Pollution Control Measures,Air Pollution Control Measures,1,inferred,Air Pollution Control Measures,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Federal and State Energy Laws,Federal and State Energy Laws,1,inferred,Federal and State Energy Laws,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Grid Stability and Balance,Grid Stability and Balance,1,inferred,Grid Stability and Balance,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Smart Metering Systems,Smart Metering Systems,1,inferred,Smart Metering Systems,ECGR_4171_concepts_raw.json
+ECGR_4171,concept,Demand Response Management,Demand Response Management,1,inferred,Demand Response Management,ECGR_4171_concepts_raw.json

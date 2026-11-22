@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DTSC_2302,data science definition,concept,PART_OF,Data Science,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,Data Collection and Ethics,topic,PART_OF,Data Science,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,Relational Databases,topic,PART_OF,Data Science,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,Exploratory Data Analysis,topic,PART_OF,Data Science,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,database structure,concept,PART_OF,Relational Databases,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,SQL basics,concept,PART_OF,Relational Databases,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,descriptive statistics,concept,PART_OF,Statistical Methods and Tools,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,inferential statistics,concept,PART_OF,Statistical Methods and Tools,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,data privacy concerns,concept,PART_OF,Data Collection and Ethics,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,ethical data collection,concept,PART_OF,Data Collection and Ethics,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,data source evaluation,concept,PART_OF,Data Collection and Ethics,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,SQL query writing,concept,PART_OF,Querying Relational Databases,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,database query optimization,concept,PART_OF,Querying Relational Databases,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,data retrieval techniques,concept,PART_OF,Querying Relational Databases,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,data visualization best practices,concept,PART_OF,Exploratory Data Analysis,topic,,,DTSC_2302_triples_raw.json
+DTSC_2302,insight generation strategies,concept,PART_OF,Exploratory Data Analysis,topic,,,DTSC_2302_triples_raw.json

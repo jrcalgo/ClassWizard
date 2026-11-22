@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_5280,Alzheimer's disease,concept,PREREQUISITE_OF,dementia types,concept,same unit,,SOWK_5280_triples_raw.json
+SOWK_5280,Alzheimer's disease,concept,PREREQUISITE_OF,cognitive decline,concept,A taught first,,SOWK_5280_triples_raw.json
+SOWK_5280,Alzheimer's disease,concept,PREREQUISITE_OF,caregiver burden,concept,A taught first,,SOWK_5280_triples_raw.json
+SOWK_5280,Alzheimer's disease,concept,PREREQUISITE_OF,biological aspects,concept,same unit,,SOWK_5280_triples_raw.json
+SOWK_5280,Alzheimer's disease,concept,PREREQUISITE_OF,neurological factors,concept,same unit,,SOWK_5280_triples_raw.json
+SOWK_5280,dementia types,concept,PREREQUISITE_OF,cognitive impairment,concept,A taught first,,SOWK_5280_triples_raw.json
+SOWK_5280,dementia types,concept,PREREQUISITE_OF,personhood loss,concept,A taught first,,SOWK_5280_triples_raw.json
+SOWK_5280,dementia types,concept,PREREQUISITE_OF,identity changes,concept,A taught first,,SOWK_5280_triples_raw.json
+SOWK_5280,Alzheimer's disease,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_5280_triples_raw.json
+SOWK_5280,biological aspects,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_5280_triples_raw.json
+SOWK_5280,neurological factors,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_5280_triples_raw.json
+SOWK_5280,social implications,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_5280_triples_raw.json
+SOWK_5280,cognitive decline,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_5280_triples_raw.json
+SOWK_5280,caregiver burden,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_5280_triples_raw.json
+SOWK_5280,person-centered care,concept,PART_OF,Experience Of Dementia,topic,,,SOWK_5280_triples_raw.json
+SOWK_5280,Alzheimer's disease,concept,SUBTYPE_OF,dementia types,concept,,,SOWK_5280_triples_raw.json
+SOWK_5280,amyloid plaques formation,concept,SUBTYPE_OF,biological aspects,concept,,,SOWK_5280_triples_raw.json
+SOWK_5280,tau protein aggregation,concept,SUBTYPE_OF,biological aspects,concept,,,SOWK_5280_triples_raw.json
+SOWK_5280,synaptic loss mechanisms,concept,SUBTYPE_OF,biological aspects,concept,,,SOWK_5280_triples_raw.json

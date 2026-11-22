@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5411,topic,Control Systems Theory I,Control Systems Theory I,1,verified,Control Systems Theory I,ECGR_5411_concepts_raw.json
+ECGR_5411,topic,Control Systems,Control Systems,9,verified,Introduction to Control Systems,ECGR_5411_concepts_raw.json
+ECGR_5411,topic,Time-Domain Analysis Methods,time-domain analysis methods,1,verified,Time-Domain Analysis Methods,ECGR_5411_concepts_raw.json
+ECGR_5411,topic,"Controllability, Observability, and Stability","Controllability, Observability, and Stability",1,verified,"Controllability, Observability, and Stability",ECGR_5411_concepts_raw.json
+ECGR_5411,topic,Frequency-Domain Analysis Tools,frequency-domain analysis tools,1,verified,Frequency-Domain Analysis Tools,ECGR_5411_concepts_raw.json
+ECGR_5411,concept,feedback control systems,feedback control systems,1,verified,feedback control systems,ECGR_5411_concepts_raw.json
+ECGR_5411,concept,block diagrams,block diagrams,1,verified,block diagrams,ECGR_5411_concepts_raw.json
+ECGR_5411,concept,signal flow graphs,signal flow graphs,1,verified,signal flow graphs,ECGR_5411_concepts_raw.json
+ECGR_5411,concept,state-variables and state-space methods,state-variables and state-space methods,1,verified,state-variables and state-space methods,ECGR_5411_concepts_raw.json
+ECGR_5411,concept,state transition matrices,state transition matrices,1,verified,state transition matrices,ECGR_5411_concepts_raw.json
+ECGR_5411,concept,frequency response methods,frequency response methods,1,verified,frequency response methods,ECGR_5411_concepts_raw.json
+ECGR_5411,tool,MATLAB,MATLAB,1,verified,MATLAB,ECGR_5411_concepts_raw.json
+ECGR_5411,tool,SIMULINK,SIMULINK,1,verified,SIMULINK,ECGR_5411_concepts_raw.json

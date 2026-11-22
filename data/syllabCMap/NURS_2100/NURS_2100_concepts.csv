@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_2100,topic,General Nutrition,General Nutrition,2,verified,General Nutrition,NURS_2100_concepts_raw.json
+NURS_2100,topic,Behavioral Aspects,behavioral aspects,1,verified,Behavioral Aspects,NURS_2100_concepts_raw.json
+NURS_2100,topic,Nutrition Fundamentals,Nutrition Fundamentals,1,inferred,Nutrition Fundamentals,NURS_2100_concepts_raw.json
+NURS_2100,topic,Life Cycle Nutrition,Life Cycle Nutrition,1,inferred,Life Cycle Nutrition,NURS_2100_concepts_raw.json
+NURS_2100,topic,Nutrition Assessment,Nutrition Assessment,1,inferred,Nutrition Assessment,NURS_2100_concepts_raw.json
+NURS_2100,topic,Health Team Roles,Health Team Roles,1,inferred,Health Team Roles,NURS_2100_concepts_raw.json
+NURS_2100,topic,Research and Evidence,Research and Evidence,1,inferred,Research and Evidence,NURS_2100_concepts_raw.json
+NURS_2100,topic,Population Nutrition,Population Nutrition,1,inferred,Population Nutrition,NURS_2100_concepts_raw.json
+NURS_2100,topic,Professional Responsibility,Professional Responsibility,1,inferred,Professional Responsibility,NURS_2100_concepts_raw.json
+NURS_2100,concept,Macronutrients and Energy,Macronutrients and Energy,1,inferred,Macronutrients and Energy,NURS_2100_concepts_raw.json
+NURS_2100,concept,Micronutrients and Functions,Micronutrients and Functions,1,inferred,Micronutrients and Functions,NURS_2100_concepts_raw.json
+NURS_2100,concept,Water and Electrolytes Balance,Water and Electrolytes Balance,1,inferred,Water and Electrolytes Balance,NURS_2100_concepts_raw.json
+NURS_2100,concept,Prenatal and Perinatal Nutrition,Prenatal and Perinatal Nutrition,1,inferred,Prenatal and Perinatal Nutrition,NURS_2100_concepts_raw.json
+NURS_2100,concept,Infant and Toddler Nutrition,Infant and Toddler Nutrition,1,inferred,Infant and Toddler Nutrition,NURS_2100_concepts_raw.json
+NURS_2100,concept,Childhood and Adolescent Nutrition,Childhood and Adolescent Nutrition,1,inferred,Childhood and Adolescent Nutrition,NURS_2100_concepts_raw.json
+NURS_2100,concept,Diet History Collection Methods,Diet History Collection Methods,1,inferred,Diet History Collection Methods,NURS_2100_concepts_raw.json
+NURS_2100,concept,Anthropometric Measurements Techniques,Anthropometric Measurements Techniques,1,inferred,Anthropometric Measurements Techniques,NURS_2100_concepts_raw.json
+NURS_2100,concept,Lab Values and Interpretation,Lab Values and Interpretation,1,inferred,Lab Values and Interpretation,NURS_2100_concepts_raw.json
+NURS_2100,concept,Cultural Influences on Nutrition,Cultural Influences on Nutrition,1,inferred,Cultural Influences on Nutrition,NURS_2100_concepts_raw.json
+NURS_2100,concept,Socioeconomic Factors Affecting Nutrition,Socioeconomic Factors Affecting Nutrition,1,inferred,Socioeconomic Factors Affecting Nutrition,NURS_2100_concepts_raw.json
+NURS_2100,concept,Psychological Barriers to Healthy Eating,Psychological Barriers to Healthy Eating,1,inferred,Psychological Barriers to Healthy Eating,NURS_2100_concepts_raw.json
+NURS_2100,concept,Registered Dietitian Responsibilities,Registered Dietitian Responsibilities,1,inferred,Registered Dietitian Responsibilities,NURS_2100_concepts_raw.json
+NURS_2100,concept,Nutrition Support in Hospitals,Nutrition Support in Hospitals,1,inferred,Nutrition Support in Hospitals,NURS_2100_concepts_raw.json
+NURS_2100,concept,Community Health Worker Involvement,Community Health Worker Involvement,1,inferred,Community Health Worker Involvement,NURS_2100_concepts_raw.json
+NURS_2100,concept,Study Design and Methodology,Study Design and Methodology,1,inferred,Study Design and Methodology,NURS_2100_concepts_raw.json
+NURS_2100,concept,Data Analysis and Interpretation,Data Analysis and Interpretation,1,inferred,Data Analysis and Interpretation,NURS_2100_concepts_raw.json
+NURS_2100,concept,Evidence-Based Practice Guidelines,Evidence-Based Practice Guidelines,1,inferred,Evidence-Based Practice Guidelines,NURS_2100_concepts_raw.json
+NURS_2100,concept,Global Food Security Issues,Global Food Security Issues,1,inferred,Global Food Security Issues,NURS_2100_concepts_raw.json
+NURS_2100,concept,Food Insecurity and Poverty,Food Insecurity and Poverty,1,inferred,Food Insecurity and Poverty,NURS_2100_concepts_raw.json
+NURS_2100,concept,Nutrition Policy and Advocacy,Nutrition Policy and Advocacy,1,inferred,Nutrition Policy and Advocacy,NURS_2100_concepts_raw.json

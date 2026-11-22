@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTC_3274,Formal and Conceptual Relationships,concept,PREREQUISITE_OF,Interdependent Artistic Elements,concept,same unit,,ARTC_3274_triples_raw.json
+ARTC_3274,Formal and Conceptual Relationships,concept,PREREQUISITE_OF,Personal Expression in Art,concept,same unit,,ARTC_3274_triples_raw.json
+ARTC_3274,Organizing Digital Content,concept,PREREQUISITE_OF,Documenting Artwork Effectively,concept,same unit,,ARTC_3274_triples_raw.json
+ARTC_3274,Designing Student Learning Experiences,concept,PREREQUISITE_OF,Assessing Student Artistic Growth,concept,same unit,,ARTC_3274_triples_raw.json
+ARTC_3274,Organizing Digital Content,concept,PART_OF,Documenting Artwork Effectively,concept,,,ARTC_3274_triples_raw.json
+ARTC_3274,Organizing Digital Content,concept,PART_OF,Labeling Artwork for Presentation,concept,,,ARTC_3274_triples_raw.json

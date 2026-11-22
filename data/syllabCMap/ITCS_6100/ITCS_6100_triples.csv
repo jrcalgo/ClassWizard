@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_6100,Big Data Analytics,concept,PREREQUISITE_OF,Generative AI,topic,A taught first,,ITCS_6100_triples_raw.json
+ITCS_6100,Big Data Analytics,concept,PREREQUISITE_OF,Agentic AI,topic,A taught first,,ITCS_6100_triples_raw.json
+ITCS_6100,Big Data Analytics,concept,PREREQUISITE_OF,Automating the Pipeline,topic,A taught first,,ITCS_6100_triples_raw.json
+ITCS_6100,Big Data Analytics,concept,PREREQUISITE_OF,ETL,topic,A taught first,,ITCS_6100_triples_raw.json
+ITCS_6100,Big Data Analytics,concept,PREREQUISITE_OF,Data Warehousing,topic,A taught first,,ITCS_6100_triples_raw.json
+ITCS_6100,Big Data Analytics,concept,PREREQUISITE_OF,Big Data Processing,topic,A taught first,,ITCS_6100_triples_raw.json
+ITCS_6100,Big Data Analytics,concept,PREREQUISITE_OF,MapReduce Programming Model,topic,A taught first,,ITCS_6100_triples_raw.json
+ITCS_6100,Generative AI Models,concept,PART_OF,Generative AI,topic,,,ITCS_6100_triples_raw.json
+ITCS_6100,Data Warehousing,topic,PART_OF,Big Data Processing,topic,,,ITCS_6100_triples_raw.json
+ITCS_6100,MapReduce Programming Model,topic,PART_OF,Big Data Processing,topic,,,ITCS_6100_triples_raw.json
+ITCS_6100,Predictive AI with Linear Regression,topic,SUBTYPE_OF,Predictive AI Models,concept,,,ITCS_6100_triples_raw.json
+ITCS_6100,Generative AI,topic,SUBTYPE_OF,Generative AI Models,concept,,,ITCS_6100_triples_raw.json
+ITCS_6100,Automating the Pipeline,topic,SUBTYPE_OF,Machine Learning Pipelines,topic,,,ITCS_6100_triples_raw.json
+ITCS_6100,Design Principles and Patterns for Data Pipelines,topic,SUBTYPE_OF,ETL,topic,,,ITCS_6100_triples_raw.json
+ITCS_6100,Big Data Processing,topic,SUBTYPE_OF,Big Data Analytics,concept,,,ITCS_6100_triples_raw.json
+ITCS_6100,Python,tool,USED_FOR,Big Data Analytics,concept,,,ITCS_6100_triples_raw.json
+ITCS_6100,AWS Academy,tool,USED_FOR,Big Data Analytics,concept,,,ITCS_6100_triples_raw.json
+ITCS_6100,Hadoop Distributed File System,tool,USED_FOR,Big Data Processing,topic,,,ITCS_6100_triples_raw.json
+ITCS_6100,Jupyter Notebook,tool,USED_FOR,Big Data Analytics,concept,,,ITCS_6100_triples_raw.json

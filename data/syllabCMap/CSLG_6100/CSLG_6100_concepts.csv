@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CSLG_6100,topic,Counseling Theories,Counseling Theories,1,verified,Counseling Theories,CSLG_6100_concepts_raw.json
+CSLG_6100,topic,Client-Centered Theory,Client-Centered Theory,1,inferred,Client-Centered Theory,CSLG_6100_concepts_raw.json
+CSLG_6100,topic,Psychoanalytic Theory,Psychoanalytic Theory,1,inferred,Psychoanalytic Theory,CSLG_6100_concepts_raw.json
+CSLG_6100,topic,Gestalt Theory Overview,Gestalt Theory Overview,1,inferred,Gestalt Theory Overview,CSLG_6100_concepts_raw.json
+CSLG_6100,topic,Transactional Analysis Theory,Transactional Analysis Theory,1,inferred,Transactional Analysis Theory,CSLG_6100_concepts_raw.json
+CSLG_6100,topic,Rational Emotive Theory,Rational Emotive Theory,1,inferred,Rational Emotive Theory,CSLG_6100_concepts_raw.json
+CSLG_6100,topic,Reality Therapy Overview,Reality Therapy Overview,1,inferred,Reality Therapy Overview,CSLG_6100_concepts_raw.json
+CSLG_6100,topic,Behavioral Theory Overview,Behavioral Theory Overview,1,inferred,Behavioral Theory Overview,CSLG_6100_concepts_raw.json
+CSLG_6100,topic,Family Development Theories,Family Development Theories,1,inferred,Family Development Theories,CSLG_6100_concepts_raw.json
+CSLG_6100,topic,Theoretical Integration and Application,Theoretical Integration and Application,1,inferred,Theoretical Integration and Application,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Person-Centered Approach Principles,Person-Centered Approach Principles,1,inferred,Person-Centered Approach Principles,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Empathy and Congruence in Counseling,Empathy and Congruence in Counseling,1,inferred,Empathy and Congruence in Counseling,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Unconditional Positive Regard Concept,Unconditional Positive Regard Concept,1,inferred,Unconditional Positive Regard Concept,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Id,Id,1,inferred,"Id, Ego, Superego Structure",CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Ego,Ego,2,inferred,"Id, Ego, Superego Structure",CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Superego Structure,Superego Structure,1,inferred,"Id, Ego, Superego Structure",CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Defense Mechanisms Explanation,Defense Mechanisms Explanation,1,inferred,Defense Mechanisms Explanation,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Oedipus Complex and Its Impact,Oedipus Complex and Its Impact,1,inferred,Oedipus Complex and Its Impact,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Awareness of Self and Others,Awareness of Self and Others,1,inferred,Awareness of Self and Others,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Contact and Resistance in Counseling,Contact and Resistance in Counseling,1,inferred,Contact and Resistance in Counseling,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Experimentation and Spontaneity Techniques,Experimentation and Spontaneity Techniques,1,inferred,Experimentation and Spontaneity Techniques,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Parent,Parent,1,inferred,"Parent, Adult, Child Ego States",CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Adult,Adult,1,inferred,"Parent, Adult, Child Ego States",CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Child Ego States,Child Ego States,1,inferred,"Parent, Adult, Child Ego States",CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Life Script and Its Impact,Life Script and Its Impact,1,inferred,Life Script and Its Impact,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Games People Play Explanation,Games People Play Explanation,1,inferred,Games People Play Explanation,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Cognitive Distortions Identification,Cognitive Distortions Identification,1,inferred,Cognitive Distortions Identification,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Rational Thinking and Emotional Control,Rational Thinking and Emotional Control,1,inferred,Rational Thinking and Emotional Control,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Self-Efficacy and Self-Perception,Self-Efficacy and Self-Perception,1,inferred,Self-Efficacy and Self-Perception,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Present-Focused Counseling Approach,Present-Focused Counseling Approach,1,inferred,Present-Focused Counseling Approach,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Responsibility and Expectancy in Counseling,Responsibility and Expectancy in Counseling,1,inferred,Responsibility and Expectancy in Counseling,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Future Orientation and Goal Setting,Future Orientation and Goal Setting,1,inferred,Future Orientation and Goal Setting,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Learning Theories Explanation,Learning Theories Explanation,1,inferred,Learning Theories Explanation,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Classical Conditioning Process,Classical Conditioning Process,1,inferred,Classical Conditioning Process,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Operant Conditioning Techniques,Operant Conditioning Techniques,1,inferred,Operant Conditioning Techniques,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Family Systems and Dynamics,Family Systems and Dynamics,1,inferred,Family Systems and Dynamics,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Developmental Stages of Family Life,Developmental Stages of Family Life,1,inferred,Developmental Stages of Family Life,CSLG_6100_concepts_raw.json
+CSLG_6100,concept,Cultural and Socioeconomic Factors,Cultural and Socioeconomic Factors,1,inferred,Cultural and Socioeconomic Factors,CSLG_6100_concepts_raw.json

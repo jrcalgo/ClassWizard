@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3455,topic,Design Philosophy,design philosophies,1,verified,Design Philosophy,MEGR_3455_concepts_raw.json
+MEGR_3455,topic,Team Problem-Solving,team problem-solving,1,verified,Team Problem-Solving,MEGR_3455_concepts_raw.json
+MEGR_3455,topic,Project Management,project management,1,verified,Project Management,MEGR_3455_concepts_raw.json
+MEGR_3455,topic,Social Engineering,social engineering,1,verified,Social Engineering,MEGR_3455_concepts_raw.json
+MEGR_3455,topic,Project Formation,Project Formation,1,inferred,Project Formation,MEGR_3455_concepts_raw.json
+MEGR_3455,topic,Project Execution,Project Execution,1,inferred,Project Execution,MEGR_3455_concepts_raw.json
+MEGR_3455,topic,Progress Evaluations,Progress Evaluations,1,inferred,Progress Evaluations,MEGR_3455_concepts_raw.json
+MEGR_3455,topic,Final Report Preparation,Final Report Preparation,1,inferred,Final Report Preparation,MEGR_3455_concepts_raw.json
+MEGR_3455,topic,Expo Presentation,Expo Presentation,1,inferred,Expo Presentation,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Team Formation Process,Team Formation Process,1,inferred,Team Formation Process,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Client Project Briefing,Client Project Briefing,1,inferred,Client Project Briefing,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Project Scope Definition,Project Scope Definition,1,inferred,Project Scope Definition,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Engineering Design Principles,Engineering Design Principles,1,inferred,Engineering Design Principles,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Design Standards and Guidelines,Design Standards and Guidelines,1,inferred,Design Standards and Guidelines,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Innovation and Creativity,Innovation and Creativity,1,inferred,Innovation and Creativity,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Collaborative Teamwork Skills,Collaborative Teamwork Skills,1,inferred,Collaborative Teamwork Skills,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Conflict Resolution Strategies,Conflict Resolution Strategies,1,inferred,Conflict Resolution Strategies,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Effective Communication Methods,Effective Communication Methods,1,inferred,Effective Communication Methods,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Time and Financial Planning,Time and Financial Planning,1,inferred,Time and Financial Planning,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Resource Allocation Techniques,Resource Allocation Techniques,1,inferred,Resource Allocation Techniques,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Risk Management Strategies,Risk Management Strategies,1,inferred,Risk Management Strategies,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Interpersonal Communication Skills,Interpersonal Communication Skills,1,inferred,Interpersonal Communication Skills,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Cultural Awareness and Sensitivity,Cultural Awareness and Sensitivity,1,inferred,Cultural Awareness and Sensitivity,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Professional Networking Strategies,Professional Networking Strategies,1,inferred,Professional Networking Strategies,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Task Prioritization and Scheduling,Task Prioritization and Scheduling,1,inferred,Task Prioritization and Scheduling,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Budgeting and Cost Control,Budgeting and Cost Control,1,inferred,Budgeting and Cost Control,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Quality Assurance Methods,Quality Assurance Methods,1,inferred,Quality Assurance Methods,MEGR_3455_concepts_raw.json
+MEGR_3455,measure,Performance Metrics and Indicators,Performance Metrics and Indicators,1,inferred,Performance Metrics and Indicators,MEGR_3455_concepts_raw.json
+MEGR_3455,measure,Progress Monitoring and Reporting,Progress Monitoring and Reporting,1,inferred,Progress Monitoring and Reporting,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Adjustment and Improvement Strategies,Adjustment and Improvement Strategies,1,inferred,Adjustment and Improvement Strategies,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Design Package Development,Design Package Development,1,inferred,Design Package Development,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Technical Writing and Documentation,Technical Writing and Documentation,1,inferred,Technical Writing and Documentation,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Presentation and Communication Skills,Presentation and Communication Skills,1,inferred,Presentation and Communication Skills,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Effective Public Speaking Techniques,Effective Public Speaking Techniques,1,inferred,Effective Public Speaking Techniques,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Visual Aids and Presentation Tools,Visual Aids and Presentation Tools,1,inferred,Visual Aids and Presentation Tools,MEGR_3455_concepts_raw.json
+MEGR_3455,concept,Confidence and Stage Presence,Confidence and Stage Presence,1,inferred,Confidence and Stage Presence,MEGR_3455_concepts_raw.json

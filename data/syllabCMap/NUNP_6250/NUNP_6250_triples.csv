@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUNP_6250,Stable Chronic Conditions,concept,PART_OF,Pathophysiology,topic,,,NUNP_6250_triples_raw.json
+NUNP_6250,Stable Chronic Conditions,concept,PART_OF,Pharmacotherapeutics,topic,,,NUNP_6250_triples_raw.json
+NUNP_6250,Stable Chronic Conditions,concept,PART_OF,Health Promotion,topic,,,NUNP_6250_triples_raw.json
+NUNP_6250,Stable Chronic Conditions,concept,PART_OF,Disease Prevention,topic,,,NUNP_6250_triples_raw.json
+NUNP_6250,Stable Chronic Conditions,concept,PART_OF,Health Education,topic,,,NUNP_6250_triples_raw.json

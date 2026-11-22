@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_6282,IPC,topic,PART_OF,Interprofessional Collaboration in Healthcare,topic,,,NURS_6282_triples_raw.json
+NURS_6282,Personal Values and Beliefs,topic,PART_OF,IPC,topic,,,NURS_6282_triples_raw.json
+NURS_6282,Interprofessional Team Roles,topic,PART_OF,IPC,topic,,,NURS_6282_triples_raw.json
+NURS_6282,Effective Communication Strategies,topic,PART_OF,IPC,topic,,,NURS_6282_triples_raw.json
+NURS_6282,Evidence-Based Collaboration Strategies,topic,PART_OF,IPC,topic,,,NURS_6282_triples_raw.json
+NURS_6282,Designing IPC Plans and Projects,topic,PART_OF,IPC,topic,,,NURS_6282_triples_raw.json

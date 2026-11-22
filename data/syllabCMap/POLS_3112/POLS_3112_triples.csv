@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3112,Role of the President,concept,PREREQUISITE_OF,Campaign Finance Laws,concept,A taught first,,POLS_3112_triples_raw.json
+POLS_3112,Role of the President,concept,PREREQUISITE_OF,Executive Orders and Decrees,concept,A taught first,,POLS_3112_triples_raw.json
+POLS_3112,Role of the President,concept,PREREQUISITE_OF,Judicial Review and Checks,concept,A taught first,,POLS_3112_triples_raw.json

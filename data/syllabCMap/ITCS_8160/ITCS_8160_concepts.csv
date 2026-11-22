@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_8160,topic,Database Systems,Database Systems,1,verified,Database Systems,ITCS_8160_concepts_raw.json
+ITCS_8160,topic,Relational DBMS,Relational DBMS,2,verified,Relational DBMS,ITCS_8160_concepts_raw.json
+ITCS_8160,topic,database design,database design,3,verified,database design,ITCS_8160_concepts_raw.json
+ITCS_8160,topic,SQL query languages,SQL query languages,2,verified,SQL query languages,ITCS_8160_concepts_raw.json
+ITCS_8160,topic,data warehousing,data warehousing,2,verified,data warehousing,ITCS_8160_concepts_raw.json
+ITCS_8160,topic,preprocessing,preprocessing,2,verified,preprocessing,ITCS_8160_concepts_raw.json
+ITCS_8160,topic,databases in the Cloud and NoSQL,databases in the Cloud and NoSQL,2,verified,databases in the Cloud and NoSQL,ITCS_8160_concepts_raw.json
+ITCS_8160,topic,"provenance, security, and privacy","provenance, security, and privacy",2,verified,"provenance, security, and privacy",ITCS_8160_concepts_raw.json
+ITCS_8160,topic,domain applications,domain applications,2,verified,domain applications,ITCS_8160_concepts_raw.json
+ITCS_8160,concept,Conceptual Database Design,Conceptual Database Design,1,verified,Conceptual Database Design,ITCS_8160_concepts_raw.json
+ITCS_8160,concept,Online Analytical Processing (OLAP,Online Analytical Processing (OLAP,1,verified,Online Analytical Processing (OLAP),ITCS_8160_concepts_raw.json

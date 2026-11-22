@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_5204,Diverse Student Populations,concept,PREREQUISITE_OF,Addressing Academic Barriers,concept,A taught first,,MDSK_5204_triples_raw.json
+MDSK_5204,Diverse Student Populations,concept,PREREQUISITE_OF,Gifted and Talented Education,concept,A taught first,,MDSK_5204_triples_raw.json
+MDSK_5204,Addressing Academic Barriers,concept,PART_OF,Classroom Ecology,topic,,,MDSK_5204_triples_raw.json
+MDSK_5204,Addressing Academic Barriers,concept,PART_OF,Inclusive Instruction,topic,,,MDSK_5204_triples_raw.json
+MDSK_5204,Gifted and Talented Education,concept,PART_OF,Inclusive Instruction,topic,,,MDSK_5204_triples_raw.json
+MDSK_5204,Gifted and Talented Education,concept,PART_OF,Creating a Supportive Environment,topic,,,MDSK_5204_triples_raw.json
+MDSK_5204,Disability Accommodations Strategies,concept,PART_OF,Inclusive Instruction,topic,,,MDSK_5204_triples_raw.json
+MDSK_5204,Disability Accommodations Strategies,concept,PART_OF,Creating a Supportive Environment,topic,,,MDSK_5204_triples_raw.json
+MDSK_5204,Research-Based Learning Strategies,concept,PART_OF,Student Success Factors,topic,,,MDSK_5204_triples_raw.json
+MDSK_5204,Differentiated Instruction Methods,concept,PART_OF,Addressing Diverse Needs,topic,,,MDSK_5204_triples_raw.json

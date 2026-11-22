@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MSRE_6130,land use regulations,concept,PREREQUISITE_OF,site design principles,concept,same unit,,MSRE_6130_triples_raw.json
+MSRE_6130,land use regulations,concept,PREREQUISITE_OF,zoning ordinances,method,A taught first,,MSRE_6130_triples_raw.json
+MSRE_6130,infrastructure planning,method,PREREQUISITE_OF,site design principles,concept,same unit,,MSRE_6130_triples_raw.json
+MSRE_6130,zoning laws,concept,PREREQUISITE_OF,land use controls,concept,same unit,,MSRE_6130_triples_raw.json
+MSRE_6130,zoning ordinances,method,PREREQUISITE_OF,regulatory frameworks,method,A taught first,,MSRE_6130_triples_raw.json
+MSRE_6130,site diagram techniques,concept,PART_OF,site design principles,concept,,,MSRE_6130_triples_raw.json
+MSRE_6130,sustainable site design,method,PART_OF,urban design elements,method,,,MSRE_6130_triples_raw.json
+MSRE_6130,contextual analysis,method,PART_OF,architectural building types,method,,,MSRE_6130_triples_raw.json
+MSRE_6130,regulatory frameworks,method,PART_OF,development standards,method,,,MSRE_6130_triples_raw.json
+MSRE_6130,environmental impact analysis,method,PART_OF,ecological site design,method,,,MSRE_6130_triples_raw.json
+MSRE_6130,market reviews analysis,method,PART_OF,site selection criteria,method,,,MSRE_6130_triples_raw.json
+MSRE_6130,infrastructure planning,method,USED_FOR,site design principles,concept,,,MSRE_6130_triples_raw.json

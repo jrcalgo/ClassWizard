@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_3105,origin of oceans,concept,PREREQUISITE_OF,earth's oceanic history,concept,same unit,,ESCI_3105_triples_raw.json
+ESCI_3105,origin of oceans,concept,PREREQUISITE_OF,ocean formation theories,concept,same unit,,ESCI_3105_triples_raw.json
+ESCI_3105,origin of oceans,concept,PREREQUISITE_OF,water worlds formation,concept,same unit,,ESCI_3105_triples_raw.json
+ESCI_3105,ocean currents,concept,PART_OF,physical processes controlling the Earth's oceans,topic,,,ESCI_3105_triples_raw.json
+ESCI_3105,salinity measurement,concept,PART_OF,ocean chemistry,topic,,,ESCI_3105_triples_raw.json
+ESCI_3105,density profiles,concept,PART_OF,ocean chemistry,topic,,,ESCI_3105_triples_raw.json
+ESCI_3105,oceanic circulation patterns,concept,PART_OF,physical processes controlling the Earth's oceans,topic,,,ESCI_3105_triples_raw.json
+ESCI_3105,salinity and density relationship,concept,PART_OF,ocean chemistry,topic,,,ESCI_3105_triples_raw.json
+ESCI_3105,thermohaline currents formation,concept,PART_OF,physical processes controlling the Earth's oceans,topic,,,ESCI_3105_triples_raw.json
+ESCI_3105,water mass classification,concept,PART_OF,ocean chemistry,topic,,,ESCI_3105_triples_raw.json

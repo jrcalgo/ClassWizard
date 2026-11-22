@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_2294,Exercise Professionals,topic,PART_OF,Care,topic,,,EXER_2294_triples_raw.json
+EXER_2294,Legal Liability and Insurance,topic,PART_OF,Care,topic,,,EXER_2294_triples_raw.json
+EXER_2294,Resistance Training and Conditioning,topic,PART_OF,Care,topic,,,EXER_2294_triples_raw.json
+EXER_2294,"Program Organization, Administration, and Oversight",topic,PART_OF,Care,topic,,,EXER_2294_triples_raw.json
+EXER_2294,scientific principles of strength and conditioning,concept,PART_OF,care and treatment of common injuries,concept,,,EXER_2294_triples_raw.json
+EXER_2294,management of environmental stress,concept,PART_OF,care and treatment of common injuries,concept,,,EXER_2294_triples_raw.json
+EXER_2294,rehabilitation and reconditioning strategies,concept,PART_OF,care and treatment of common injuries,concept,,,EXER_2294_triples_raw.json

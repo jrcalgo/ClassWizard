@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_2201,topic,Applied Engineering Materials,Applied Engineering Materials,1,verified,Applied Engineering Materials,MEET_2201_concepts_raw.json
+MEET_2201,topic,Materials,Materials,3,verified,Introduction to Materials,MEET_2201_concepts_raw.json
+MEET_2201,topic,Composite Materials,composite materials,1,verified,Composite Materials,MEET_2201_concepts_raw.json
+MEET_2201,topic,Material Treatments,Material treatments,1,verified,Material Treatments,MEET_2201_concepts_raw.json
+MEET_2201,topic,Metallic Materials,Metallic Materials,1,inferred,Metallic Materials,MEET_2201_concepts_raw.json
+MEET_2201,topic,Plastic Materials,Plastic Materials,1,inferred,Plastic Materials,MEET_2201_concepts_raw.json
+MEET_2201,topic,Ceramic Materials,Ceramic Materials,1,inferred,Ceramic Materials,MEET_2201_concepts_raw.json
+MEET_2201,topic,Material Testing Methods,material testing methods,3,inferred,Material Testing Methods,MEET_2201_concepts_raw.json
+MEET_2201,concept,material properties importance,Material properties importance,1,inferred,material properties importance,MEET_2201_concepts_raw.json
+MEET_2201,concept,aluminum alloy characteristics,Aluminum alloy characteristics,1,inferred,aluminum alloy characteristics,MEET_2201_concepts_raw.json
+MEET_2201,concept,steel properties and applications,Steel properties and applications,1,inferred,steel properties and applications,MEET_2201_concepts_raw.json
+MEET_2201,concept,copper material uses,Copper material uses,1,inferred,copper material uses,MEET_2201_concepts_raw.json
+MEET_2201,concept,polymer types and classification,Polymer types and classification,1,inferred,polymer types and classification,MEET_2201_concepts_raw.json
+MEET_2201,concept,thermoplastic vs thermoset,Thermoplastic vs thermoset,1,inferred,thermoplastic vs thermoset,MEET_2201_concepts_raw.json
+MEET_2201,concept,plastic material testing methods,Plastic material testing methods,1,inferred,plastic material testing methods,MEET_2201_concepts_raw.json
+MEET_2201,concept,ceramic material properties,Ceramic material properties,1,inferred,ceramic material properties,MEET_2201_concepts_raw.json
+MEET_2201,concept,alumina and silica applications,Alumina and silica applications,1,inferred,alumina and silica applications,MEET_2201_concepts_raw.json
+MEET_2201,concept,ceramic processing techniques,Ceramic processing techniques,1,inferred,ceramic processing techniques,MEET_2201_concepts_raw.json
+MEET_2201,concept,fiber reinforced polymers,Fiber reinforced polymers,1,inferred,fiber reinforced polymers,MEET_2201_concepts_raw.json
+MEET_2201,concept,matrix material selection criteria,Matrix material selection criteria,1,inferred,matrix material selection criteria,MEET_2201_concepts_raw.json
+MEET_2201,concept,composite material testing methods,Composite material testing methods,1,inferred,composite material testing methods,MEET_2201_concepts_raw.json
+MEET_2201,concept,heat treatment processes,Heat treatment processes,1,inferred,heat treatment processes,MEET_2201_concepts_raw.json
+MEET_2201,concept,surface coating techniques,Surface coating techniques,1,inferred,surface coating techniques,MEET_2201_concepts_raw.json
+MEET_2201,concept,material surface modification,Material surface modification,1,inferred,material surface modification,MEET_2201_concepts_raw.json
+MEET_2201,concept,tensile testing and results,Tensile testing and results,1,inferred,tensile testing and results,MEET_2201_concepts_raw.json
+MEET_2201,concept,hardness testing and applications,Hardness testing and applications,1,inferred,hardness testing and applications,MEET_2201_concepts_raw.json
+MEET_2201,concept,impact testing and analysis,Impact testing and analysis,1,inferred,impact testing and analysis,MEET_2201_concepts_raw.json

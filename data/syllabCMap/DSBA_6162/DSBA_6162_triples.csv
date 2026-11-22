@@ -1,0 +1,35 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6162,data preprocessing,concept,PREREQUISITE_OF,data transformation,concept,same unit,,DSBA_6162_triples_raw.json
+DSBA_6162,clustering algorithms,concept,PREREQUISITE_OF,hierarchical clustering,concept,A taught first,,DSBA_6162_triples_raw.json
+DSBA_6162,decision tree induction,concept,PREREQUISITE_OF,random forests,concept,A taught first,,DSBA_6162_triples_raw.json
+DSBA_6162,association rule mining,concept,PREREQUISITE_OF,sequential pattern mining,concept,same unit,,DSBA_6162_triples_raw.json
+DSBA_6162,frequent itemset mining,concept,PREREQUISITE_OF,sequence mining techniques,concept,same unit,,DSBA_6162_triples_raw.json
+DSBA_6162,supervised learning,concept,PREREQUISITE_OF,decision trees,concept,B taught first,B is taught before A - check,DSBA_6162_triples_raw.json
+DSBA_6162,unsupervised learning,concept,PREREQUISITE_OF,K-means algorithm,concept,A taught first,,DSBA_6162_triples_raw.json
+DSBA_6162,data quality metrics,concept,PREREQUISITE_OF,text data preprocessing,concept,A taught first,,DSBA_6162_triples_raw.json
+DSBA_6162,latent Dirichlet allocation,concept,PREREQUISITE_OF,probabilistic latent semantic analysis,concept,same unit,,DSBA_6162_triples_raw.json
+DSBA_6162,term frequency-inverse document frequency,concept,PREREQUISITE_OF,document similarity measures,concept,B taught first,B is taught before A - check,DSBA_6162_triples_raw.json
+DSBA_6162,data transformation,concept,PART_OF,Data Mining,topic,,,DSBA_6162_triples_raw.json
+DSBA_6162,pattern discovery methods,concept,PART_OF,Data Mining,topic,,,DSBA_6162_triples_raw.json
+DSBA_6162,hierarchical clustering,concept,PART_OF,Cluster Analysis,topic,,,DSBA_6162_triples_raw.json
+DSBA_6162,random forests,concept,PART_OF,machine learning,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,sequential pattern mining,concept,PART_OF,association rule mining,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,frequent itemset mining,concept,PART_OF,sequence mining techniques,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,decision trees,concept,PART_OF,supervised learning,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,K-means algorithm,concept,PART_OF,unsupervised learning,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,text data preprocessing,concept,PART_OF,Word Association Mining,topic,,,DSBA_6162_triples_raw.json
+DSBA_6162,probabilistic latent semantic analysis,concept,PART_OF,Topic Modeling,topic,,,DSBA_6162_triples_raw.json
+DSBA_6162,document similarity measures,concept,PART_OF,term frequency-inverse document frequency,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,BERT model architecture,concept,PART_OF,deep learning models,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,long short-term memory,concept,PART_OF,recurrent neural networks,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,gated recurrent units,concept,PART_OF,recurrent neural networks,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,Q-learning algorithm,concept,PART_OF,Deep Reinforcement Learning,topic,,,DSBA_6162_triples_raw.json
+DSBA_6162,policy gradient methods,concept,PART_OF,Deep Reinforcement Learning,topic,,,DSBA_6162_triples_raw.json
+DSBA_6162,actor-critic models,concept,PART_OF,Deep Reinforcement Learning,topic,,,DSBA_6162_triples_raw.json
+DSBA_6162,large language models,concept,SUBTYPE_OF,deep learning models,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,ChatGPT applications,concept,SUBTYPE_OF,large language models,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,BERT model architecture,concept,SUBTYPE_OF,deep learning models,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,recurrent neural networks,concept,SUBTYPE_OF,deep learning models,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,transformer architecture,concept,SUBTYPE_OF,deep learning models,concept,,,DSBA_6162_triples_raw.json
+DSBA_6162,BERT model components,concept,USED_FOR,Transformers and BERT,topic,,,DSBA_6162_triples_raw.json
+DSBA_6162,self-attention mechanism,concept,USED_FOR,Transformers and BERT,topic,,,DSBA_6162_triples_raw.json

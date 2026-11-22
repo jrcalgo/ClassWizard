@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTA_4901,BFA-level studio work,concept,PREREQUISITE_OF,interdependent formal and conceptual relationships,concept,B mentioned first,,ARTA_4901_triples_raw.json
+ARTA_4901,organizing,concept,PREREQUISITE_OF,Digital Portfolio Presentation,topic,A mentioned first,,ARTA_4901_triples_raw.json
+ARTA_4901,interdependent formal and conceptual relationships,concept,PART_OF,BFA-level studio work,concept,,,ARTA_4901_triples_raw.json
+ARTA_4901,Digital Portfolio Presentation,topic,PART_OF,Advanced Studio,topic,,,ARTA_4901_triples_raw.json
+ARTA_4901,ideas,method,PART_OF,Creative Research,topic,,,ARTA_4901_triples_raw.json
+ARTA_4901,organizing,concept,PART_OF,Digital Portfolio Presentation,topic,,,ARTA_4901_triples_raw.json
+ARTA_4901,ideas,method,USED_FOR,Creative Research,topic,,,ARTA_4901_triples_raw.json

@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_2310,Greek Tragedy Origins,concept,PREREQUISITE_OF,Comedy and Satire Forms,concept,same unit,,THEA_2310_triples_raw.json
+THEA_2310,Christianity's Impact on Theatre,concept,PREREQUISITE_OF,Mystery Plays Development,concept,same unit,,THEA_2310_triples_raw.json
+THEA_2310,Christianity's Impact on Theatre,concept,PREREQUISITE_OF,Morality Play Characteristics,concept,same unit,,THEA_2310_triples_raw.json
+THEA_2310,Humanism and Theatre Revival,concept,PREREQUISITE_OF,Elizabethan Drama Features,concept,same unit,,THEA_2310_triples_raw.json
+THEA_2310,Italian Opera Emergence,concept,PREREQUISITE_OF,French Classical Theatre,concept,same unit,,THEA_2310_triples_raw.json
+THEA_2310,Colonialism's Impact on Theatre,concept,PREREQUISITE_OF,Theatre as Social Commentary,concept,same unit,,THEA_2310_triples_raw.json
+THEA_2310,Greek Tragedy Origins,concept,PART_OF,Ancient Theatre,topic,,,THEA_2310_triples_raw.json
+THEA_2310,Roman Theatre Influence,concept,PART_OF,Ancient Theatre,topic,,,THEA_2310_triples_raw.json
+THEA_2310,Comedy and Satire Forms,concept,PART_OF,Ancient Theatre,topic,,,THEA_2310_triples_raw.json
+THEA_2310,Christianity's Impact on Theatre,concept,PART_OF,Medieval Theatre,topic,,,THEA_2310_triples_raw.json
+THEA_2310,Morality Play Characteristics,concept,PART_OF,Medieval Theatre,topic,,,THEA_2310_triples_raw.json
+THEA_2310,Italian Opera Emergence,concept,PART_OF,Baroque Theatre,topic,,,THEA_2310_triples_raw.json
+THEA_2310,French Classical Theatre,concept,PART_OF,Baroque Theatre,topic,,,THEA_2310_triples_raw.json
+THEA_2310,Spanish Comedia Development,concept,PART_OF,Baroque Theatre,topic,,,THEA_2310_triples_raw.json
+THEA_2310,Colonialism's Impact on Theatre,concept,PART_OF,Global Theatre Trends,topic,,,THEA_2310_triples_raw.json
+THEA_2310,Asian and African Influences,concept,PART_OF,Global Theatre Trends,topic,,,THEA_2310_triples_raw.json
+THEA_2310,Theatre as Social Commentary,concept,PART_OF,Global Theatre Trends,topic,,,THEA_2310_triples_raw.json

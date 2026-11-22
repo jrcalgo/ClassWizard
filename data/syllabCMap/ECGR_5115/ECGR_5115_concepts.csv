@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5115,topic,Convex Optimization and AI Applications,Convex Optimization and AI Applications,1,verified,Convex Optimization and AI Applications,ECGR_5115_concepts_raw.json
+ECGR_5115,concept,convex sets,convex sets,5,verified,convex sets,ECGR_5115_concepts_raw.json
+ECGR_5115,concept,convex functions,convex functions,5,verified,convex functions,ECGR_5115_concepts_raw.json
+ECGR_5115,concept,convex optimization problems,convex optimization problems,5,verified,convex optimization problems,ECGR_5115_concepts_raw.json
+ECGR_5115,concept,duality theory,duality theory,3,verified,duality theory,ECGR_5115_concepts_raw.json
+ECGR_5115,concept,optimality conditions,optimality conditions,3,verified,optimality conditions,ECGR_5115_concepts_raw.json
+ECGR_5115,topic,Algorithms for Solving Convex Problems,algorithms for solving convex problems,2,verified,Algorithms for Solving Convex Problems,ECGR_5115_concepts_raw.json
+ECGR_5115,topic,Non-Convex Optimization Problems,non-convex optimization problems,2,verified,Non-Convex Optimization Problems,ECGR_5115_concepts_raw.json
+ECGR_5115,topic,Signal Processing,signal processing,1,verified,Signal Processing,ECGR_5115_concepts_raw.json
+ECGR_5115,topic,Machine Learning,machine learning,3,verified,Machine Learning,ECGR_5115_concepts_raw.json
+ECGR_5115,topic,Linear Algebra Review,linear algebra review,1,verified,Linear Algebra Review,ECGR_5115_concepts_raw.json
+ECGR_5115,concept,Karush–Kuhn–Tucker conditions,Karush–Kuhn–Tucker conditions,2,verified,Karush–Kuhn–Tucker conditions,ECGR_5115_concepts_raw.json
+ECGR_5115,concept,primal-dual approaches,primal-dual approaches,1,verified,primal-dual approaches,ECGR_5115_concepts_raw.json
+ECGR_5115,method,formulate,Formulate,2,verified,formulate and solve convex optimization problems,ECGR_5115_concepts_raw.json
+ECGR_5115,method,apply duality theory,Apply duality theory,1,verified,apply duality theory and optimality principles,ECGR_5115_concepts_raw.json
+ECGR_5115,method,optimality principles,optimality principles,1,verified,apply duality theory and optimality principles,ECGR_5115_concepts_raw.json
+ECGR_5115,method,implement and evaluate optimization algorithms,Implement and evaluate optimization algorithms,1,verified,implement and evaluate optimization algorithms,ECGR_5115_concepts_raw.json
+ECGR_5115,method,use CVX,Use CVX,1,verified,use CVX and other state-of-the-art numerical solvers to solve large-scale optimization problems,ECGR_5115_concepts_raw.json

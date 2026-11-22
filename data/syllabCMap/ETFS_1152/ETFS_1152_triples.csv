@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETFS_1152,Understanding Statutory Language and Structure,concept,PREREQUISITE_OF,Analyzing Statute Language and Intent,topic,A taught first,,ETFS_1152_triples_raw.json
+ETFS_1152,Understanding Statutory Language and Structure,concept,PREREQUISITE_OF,Identifying Key Terms and Definitions,topic,A taught first,,ETFS_1152_triples_raw.json
+ETFS_1152,Understanding Statutory Language and Structure,concept,PREREQUISITE_OF,Applying Statutes to Real-World Scenarios,topic,A taught first,,ETFS_1152_triples_raw.json
+ETFS_1152,Understanding Regulatory Frameworks,topic,PREREQUISITE_OF,Interpreting and Applying Regulatory Language,topic,same unit,,ETFS_1152_triples_raw.json
+ETFS_1152,Case Law in Fire Protection,concept,PREREQUISITE_OF,Importance of Case Law in Fire Protection,topic,same unit,,ETFS_1152_triples_raw.json
+ETFS_1152,Judicial Decisions and Rulings,concept,PREREQUISITE_OF,Analyzing Judicial Decisions and Rulings,topic,same unit,,ETFS_1152_triples_raw.json
+ETFS_1152,Understanding Statutory Language and Structure,concept,PART_OF,Locating Relevant Statutes and Codes,concept,,,ETFS_1152_triples_raw.json
+ETFS_1152,Applying Statutes to Real-World Scenarios,topic,PART_OF,Understanding Statutory Language and Structure,concept,,part is broader than whole - check direction,ETFS_1152_triples_raw.json
+ETFS_1152,Interpreting and Applying Regulatory Language,topic,PART_OF,Understanding Regulatory Frameworks,topic,,,ETFS_1152_triples_raw.json
+ETFS_1152,Applying Case Law to Real-World Situations,topic,PART_OF,Case Law in Fire Protection,concept,,part is broader than whole - check direction,ETFS_1152_triples_raw.json
+ETFS_1152,Understanding Statutory Language and Structure,concept,USED_FOR,Locating Relevant Statutes and Codes,concept,,,ETFS_1152_triples_raw.json
+ETFS_1152,Understanding Statutory Language and Structure,concept,USED_FOR,Identifying Key Terms and Definitions,topic,,,ETFS_1152_triples_raw.json
+ETFS_1152,Understanding Statutory Language and Structure,concept,USED_FOR,Applying Statutes to Real-World Scenarios,topic,,,ETFS_1152_triples_raw.json
+ETFS_1152,Understanding Regulatory Frameworks,topic,USED_FOR,Interpreting and Applying Regulatory Language,topic,,topic used for something - check direction,ETFS_1152_triples_raw.json
+ETFS_1152,Case Law in Fire Protection,concept,USED_FOR,Importance of Case Law in Fire Protection,topic,,,ETFS_1152_triples_raw.json
+ETFS_1152,Judicial Decisions and Rulings,concept,USED_FOR,Analyzing Judicial Decisions and Rulings,topic,,,ETFS_1152_triples_raw.json

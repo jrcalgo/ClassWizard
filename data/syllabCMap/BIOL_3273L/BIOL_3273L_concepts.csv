@@ -1,0 +1,34 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_3273L,topic,Animal Physiology Laboratory,Animal Physiology Laboratory,1,verified,Animal Physiology Laboratory,BIOL_3273L_concepts_raw.json
+BIOL_3273L,topic,Physiological Parameters,physiological parameters,1,verified,Physiological Parameters,BIOL_3273L_concepts_raw.json
+BIOL_3273L,topic,Peer Review Process,peer review process,1,verified,Peer Review Process,BIOL_3273L_concepts_raw.json
+BIOL_3273L,topic,Data Collection Techniques,Data Collection Techniques,1,inferred,Data Collection Techniques,BIOL_3273L_concepts_raw.json
+BIOL_3273L,topic,Dissection and Anatomy,Dissection and Anatomy,1,inferred,Dissection and Anatomy,BIOL_3273L_concepts_raw.json
+BIOL_3273L,topic,Case Studies in Physiology,Case Studies in Physiology,1,inferred,Case Studies in Physiology,BIOL_3273L_concepts_raw.json
+BIOL_3273L,topic,Lab Report Writing,Lab Report Writing,1,inferred,Lab Report Writing,BIOL_3273L_concepts_raw.json
+BIOL_3273L,topic,Lab Project Development,Lab Project Development,1,inferred,Lab Project Development,BIOL_3273L_concepts_raw.json
+BIOL_3273L,topic,Final Lab Report Submission,Final Lab Report Submission,1,inferred,Final Lab Report Submission,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,lab safety protocols,Lab Safety Protocols,1,inferred,lab safety protocols,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,equipment familiarization,Equipment Familiarization,1,inferred,equipment familiarization,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,lab expectations,Lab Expectations,1,inferred,lab expectations,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,measuring heart rate,Measuring Heart Rate,1,inferred,measuring heart rate,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,blood pressure measurement,Blood Pressure Measurement,1,inferred,blood pressure measurement,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,respiratory rate assessment,Respiratory Rate Assessment,1,inferred,respiratory rate assessment,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,recording data accurately,Recording Data Accurately,1,inferred,recording data accurately,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,data analysis methods,Data Analysis Methods,1,inferred,data analysis methods,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,graphical representation,Graphical Representation,1,inferred,graphical representation,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,organ identification,Organ Identification,1,inferred,organ identification,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,tissue structure function,Tissue Structure Function,1,inferred,tissue structure function,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,anatomical relationships,Anatomical Relationships,1,inferred,anatomical relationships,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,physiological systems overview,Physiological Systems Overview,1,inferred,physiological systems overview,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,systemic regulation mechanisms,Systemic Regulation Mechanisms,1,inferred,systemic regulation mechanisms,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,clinical applications of physiology,Clinical Applications of Physiology,1,inferred,clinical applications of physiology,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,scientific writing style,Scientific Writing Style,1,inferred,scientific writing style,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,report structure and format,Report Structure and Format,1,inferred,report structure and format,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,effective communication skills,Effective Communication Skills,1,inferred,effective communication skills,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,giving constructive feedback,Giving Constructive Feedback,1,inferred,giving constructive feedback,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,receiving criticism productively,Receiving Criticism Productively,1,inferred,receiving criticism productively,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,collaborative learning environment,Collaborative Learning Environment,1,inferred,collaborative learning environment,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,research question formulation,Research Question Formulation,1,inferred,research question formulation,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,hypothesis generation and testing,Hypothesis Generation and Testing,1,inferred,hypothesis generation and testing,BIOL_3273L_concepts_raw.json
+BIOL_3273L,concept,experimental design principles,Experimental Design Principles,1,inferred,experimental design principles,BIOL_3273L_concepts_raw.json

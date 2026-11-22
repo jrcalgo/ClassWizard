@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_8188,wireless local area networks,concept,PREREQUISITE_OF,MAC Protocols for WLANs and MANETs,topic,A taught first,,ECGR_8188_triples_raw.json
+ECGR_8188,wireless local area networks,concept,PREREQUISITE_OF,Routing in Wireless Networks,topic,A taught first,,ECGR_8188_triples_raw.json
+ECGR_8188,wireless local area networks,concept,PREREQUISITE_OF,Reliable Transport in MANETs,topic,A taught first,,ECGR_8188_triples_raw.json
+ECGR_8188,mobile ad hoc network,concept,PREREQUISITE_OF,Reliable Transport in MANETs,topic,A taught first,,ECGR_8188_triples_raw.json
+ECGR_8188,cellular network basics,concept,PART_OF,Cellular Networks Fundamentals,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,network architecture overview,concept,PART_OF,Cellular Networks Fundamentals,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,wireless local area networks,concept,PART_OF,WLAN Fundamentals and Operations,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,IEEE 802.11 standards,concept,PART_OF,WLAN Fundamentals and Operations,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,network topology overview,concept,PART_OF,Ad Hoc Networking Basics,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,mobile internet architecture,concept,PART_OF,Mobile Internet Fundamentals,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,wireless communication protocols,concept,PART_OF,Mobile Internet Fundamentals,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,MANET MAC protocol overview,concept,PART_OF,MAC Protocols for WLANs and MANETs,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,wireless routing protocols,concept,PART_OF,Routing in Wireless Networks,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,MANET routing algorithms,concept,PART_OF,Routing in Wireless Networks,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,mobility management techniques,concept,PART_OF,Routing in Wireless Networks,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,transport layer protocols,concept,PART_OF,Reliable Transport in MANETs,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,error detection and correction,concept,PART_OF,Reliable Transport in MANETs,topic,,,ECGR_8188_triples_raw.json
+ECGR_8188,flow control mechanisms,concept,PART_OF,Reliable Transport in MANETs,topic,,,ECGR_8188_triples_raw.json

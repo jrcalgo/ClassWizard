@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_3267,Hypothesis Testing,measure,PREREQUISITE_OF,Regression Analysis,measure,A taught first,,GRNT_3267_triples_raw.json
+GRNT_3267,Hypothesis Testing,measure,PREREQUISITE_OF,Confidence Intervals,measure,same unit,,GRNT_3267_triples_raw.json
+GRNT_3267,Hypothesis Testing,measure,PREREQUISITE_OF,Sample Size Determination,measure,same unit,,GRNT_3267_triples_raw.json
+GRNT_3267,Hypothesis Testing,measure,PREREQUISITE_OF,T-Distribution Properties,concept,A taught first,,GRNT_3267_triples_raw.json
+GRNT_3267,Hypothesis Testing,measure,USED_FOR,Regression Analysis,measure,,,GRNT_3267_triples_raw.json
+GRNT_3267,Hypothesis Testing,measure,USED_FOR,Confidence Intervals,measure,,,GRNT_3267_triples_raw.json
+GRNT_3267,Hypothesis Testing,measure,USED_FOR,Standard Error Calculation,measure,,,GRNT_3267_triples_raw.json
+GRNT_3267,Hypothesis Testing,measure,USED_FOR,Sample Size Determination,measure,,,GRNT_3267_triples_raw.json
+GRNT_3267,Hypothesis Testing,measure,USED_FOR,T-Distribution Properties,concept,,,GRNT_3267_triples_raw.json

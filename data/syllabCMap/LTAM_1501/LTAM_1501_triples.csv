@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_1501,Latin American History,concept,PREREQUISITE_OF,Colonialism Impact,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Precontact Societies,concept,PREREQUISITE_OF,Spanish Conquest,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Indigenous Cultures,concept,PREREQUISITE_OF,Latin American Colonization,concept,A taught first,,LTAM_1501_triples_raw.json
+LTAM_1501,Latin American Colonization,concept,PREREQUISITE_OF,Encomienda System,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Encomienda System,concept,PREREQUISITE_OF,Hacienda Economy,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Hacienda Economy,concept,PREREQUISITE_OF,Agricultural Labor Systems,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Spanish Conquest,concept,PREREQUISITE_OF,Latin American History,concept,B taught first,B is taught before A - check,LTAM_1501_triples_raw.json
+LTAM_1501,Latin American Colonization,concept,PREREQUISITE_OF,Indigenous Population Dynamics,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Precontact Societies,concept,PREREQUISITE_OF,Regional Dynamics,concept,B taught first,B is taught before A - check,LTAM_1501_triples_raw.json
+LTAM_1501,Latin American History,concept,PREREQUISITE_OF,National Identity Formation,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Colonialism Impact,concept,PREREQUISITE_OF,Racial Hierarchy,concept,A taught first,,LTAM_1501_triples_raw.json
+LTAM_1501,Independence Movements,concept,PREREQUISITE_OF,Liberal Ideology,concept,A taught first,,LTAM_1501_triples_raw.json
+LTAM_1501,Latin American Colonization,concept,PREREQUISITE_OF,Social Stratification,concept,B taught first,B is taught before A - check,LTAM_1501_triples_raw.json
+LTAM_1501,Encomienda System,concept,PREREQUISITE_OF,Colonial Trade Networks,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Hacienda Economy,concept,PREREQUISITE_OF,Economic Dependence Theory,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Agricultural Labor Systems,concept,PREREQUISITE_OF,Indigenous Population Dynamics,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Racial Hierarchy,concept,PREREQUISITE_OF,Ethnic Identity,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,Liberal Ideology,concept,PREREQUISITE_OF,Social Dynamics Theory,concept,same unit,,LTAM_1501_triples_raw.json
+LTAM_1501,National Identity Formation,concept,PREREQUISITE_OF,Regional Integration Efforts,concept,A taught first,,LTAM_1501_triples_raw.json
+LTAM_1501,Indigenous Population Dynamics,concept,PREREQUISITE_OF,Economic Dependence Theory,concept,same unit,,LTAM_1501_triples_raw.json

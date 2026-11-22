@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+INES_8130,topic,Geosciences,geosciences,1,verified,Geosciences,INES_8130_concepts_raw.json
+INES_8130,topic,Geoscience,geosciences,1,verified,Introduction to Geoscience,INES_8130_concepts_raw.json
+INES_8130,topic,Classroom Exercises and Interventions,classroom exercises and interventions,1,verified,Classroom Exercises and Interventions,INES_8130_concepts_raw.json
+INES_8130,topic,Motivation and Self-Regulation,motivation and self-regulation,1,verified,Motivation and Self-Regulation,INES_8130_concepts_raw.json
+INES_8130,topic,Barriers to Student Learning,Barriers to Student Learning,1,inferred,Barriers to Student Learning,INES_8130_concepts_raw.json
+INES_8130,topic,Supporting All Students,Supporting All Students,1,inferred,Supporting All Students,INES_8130_concepts_raw.json
+INES_8130,topic,Assessment Design and Implementation,Assessment Design and Implementation,1,inferred,Assessment Design and Implementation,INES_8130_concepts_raw.json
+INES_8130,topic,Research-Based Pedagogy in Geoscience,Research-Based Pedagogy in Geoscience,1,inferred,Research-Based Pedagogy in Geoscience,INES_8130_concepts_raw.json
+INES_8130,topic,Course Design and Alignment,Course Design and Alignment,1,inferred,Course Design and Alignment,INES_8130_concepts_raw.json
+INES_8130,topic,Teaching Philosophy Development,Teaching Philosophy Development,1,inferred,Teaching Philosophy Development,INES_8130_concepts_raw.json
+INES_8130,concept,geoscience discipline overview,Geoscience Discipline Overview,1,inferred,geoscience discipline overview,INES_8130_concepts_raw.json
+INES_8130,concept,learning in geosciences,Learning in Geosciences,1,inferred,learning in geosciences,INES_8130_concepts_raw.json
+INES_8130,concept,science disciplines comparison,Science Disciplines Comparison,1,inferred,science disciplines comparison,INES_8130_concepts_raw.json
+INES_8130,concept,factors contributing to minimal learning,Factors Contributing to Minimal Learning,1,inferred,factors contributing to minimal learning,INES_8130_concepts_raw.json
+INES_8130,concept,student learning barriers identification,Student Learning Barriers Identification,1,inferred,student learning barriers identification,INES_8130_concepts_raw.json
+INES_8130,concept,conditions necessary for learning support,Conditions Necessary for Learning Support,1,inferred,conditions necessary for learning support,INES_8130_concepts_raw.json
+INES_8130,concept,inclusive classroom environment,Inclusive Classroom Environment,1,inferred,inclusive classroom environment,INES_8130_concepts_raw.json
+INES_8130,concept,exercises supporting student learning,Exercises Supporting Student Learning,1,inferred,exercises supporting student learning,INES_8130_concepts_raw.json
+INES_8130,concept,interventions to enhance student engagement,Interventions to Enhance Student Engagement,1,inferred,interventions to enhance student engagement,INES_8130_concepts_raw.json
+INES_8130,concept,aligning assessments with learning goals,Aligning Assessments with Learning Goals,1,inferred,aligning assessments with learning goals,INES_8130_concepts_raw.json
+INES_8130,concept,validating assessment methods,Validating Assessment Methods,1,inferred,validating assessment methods,INES_8130_concepts_raw.json
+INES_8130,concept,research-validated teaching methods,Research-Validated Teaching Methods,1,inferred,research-validated teaching methods,INES_8130_concepts_raw.json
+INES_8130,concept,applying research to classroom practice,Applying Research to Classroom Practice,1,inferred,applying research to classroom practice,INES_8130_concepts_raw.json
+INES_8130,concept,articulating teaching philosophy statement,Articulating Teaching Philosophy Statement,1,inferred,articulating teaching philosophy statement,INES_8130_concepts_raw.json

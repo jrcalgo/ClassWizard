@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_7050,topic,Set Theory,Set Theory,2,verified,Set Theory,MATH_7050_concepts_raw.json
+MATH_7050,topic,Ordinal Numbers and Cardinals,Ordinal Numbers and Cardinals,1,inferred,Ordinal Numbers and Cardinals,MATH_7050_concepts_raw.json
+MATH_7050,topic,Forcing Basics,Forcing Basics,1,inferred,Forcing Basics,MATH_7050_concepts_raw.json
+MATH_7050,topic,Partial Orders and Boolean Algebras,Partial Orders and Boolean Algebras,1,inferred,Partial Orders and Boolean Algebras,MATH_7050_concepts_raw.json
+MATH_7050,topic,Forcing Extensions and Generic Models,Forcing Extensions and Generic Models,1,inferred,Forcing Extensions and Generic Models,MATH_7050_concepts_raw.json
+MATH_7050,concept,Axioms of Zermelo-Fraenkel,Axioms of Zermelo-Fraenkel,1,inferred,Axioms of Zermelo-Fraenkel,MATH_7050_concepts_raw.json
+MATH_7050,concept,Russell's Paradox,Russell's Paradox,1,inferred,Russell's Paradox,MATH_7050_concepts_raw.json
+MATH_7050,concept,Definition of Ordinal Numbers,Definition of Ordinal Numbers,1,inferred,Definition of Ordinal Numbers,MATH_7050_concepts_raw.json
+MATH_7050,concept,Properties of Ordinals,Properties of Ordinals,1,inferred,Properties of Ordinals,MATH_7050_concepts_raw.json
+MATH_7050,concept,Cardinality of Sets,Cardinality of Sets,1,inferred,Cardinality of Sets,MATH_7050_concepts_raw.json
+MATH_7050,concept,Definition of Forcing,Definition of Forcing,1,inferred,Definition of Forcing,MATH_7050_concepts_raw.json
+MATH_7050,concept,Generic Extensions,Generic Extensions,1,inferred,Generic Extensions,MATH_7050_concepts_raw.json
+MATH_7050,concept,P-Names and Q-Names,P-Names and Q-Names,1,inferred,P-Names and Q-Names,MATH_7050_concepts_raw.json
+MATH_7050,concept,Partial Order Relations,Partial Order Relations,1,inferred,Partial Order Relations,MATH_7050_concepts_raw.json
+MATH_7050,concept,Boolean Algebra Basics,Boolean Algebra Basics,1,inferred,Boolean Algebra Basics,MATH_7050_concepts_raw.json
+MATH_7050,concept,Complete Boolean Algebras,Complete Boolean Algebras,1,inferred,Complete Boolean Algebras,MATH_7050_concepts_raw.json
+MATH_7050,concept,Generic Ultrafilters,Generic Ultrafilters,1,inferred,Generic Ultrafilters,MATH_7050_concepts_raw.json
+MATH_7050,concept,Forcing Extensions Theorem,Forcing Extensions Theorem,1,inferred,Forcing Extensions Theorem,MATH_7050_concepts_raw.json
+MATH_7050,concept,Generic Models of ZFC,Generic Models of ZFC,1,inferred,Generic Models of ZFC,MATH_7050_concepts_raw.json

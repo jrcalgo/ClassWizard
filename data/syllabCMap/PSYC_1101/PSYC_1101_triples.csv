@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_1101,learning,topic,PREREQUISITE_OF,motivation,topic,B taught first,B is taught before A - check,PSYC_1101_triples_raw.json
+PSYC_1101,motivation,topic,PREREQUISITE_OF,personality,topic,A taught first,,PSYC_1101_triples_raw.json
+PSYC_1101,personality,topic,PREREQUISITE_OF,psychological testing,topic,A taught first,,PSYC_1101_triples_raw.json
+PSYC_1101,psychological testing,topic,PREREQUISITE_OF,abnormal behavior,topic,A taught first,,PSYC_1101_triples_raw.json
+PSYC_1101,emotion,topic,PREREQUISITE_OF,learning,topic,A taught first,,PSYC_1101_triples_raw.json
+PSYC_1101,psychology,topic,PART_OF,behavioral science,topic,,,PSYC_1101_triples_raw.json
+PSYC_1101,abnormal behavior,topic,PART_OF,psychology,topic,,,PSYC_1101_triples_raw.json
+PSYC_1101,motivation,topic,PART_OF,psychology,topic,,,PSYC_1101_triples_raw.json
+PSYC_1101,personality,topic,PART_OF,psychology,topic,,,PSYC_1101_triples_raw.json
+PSYC_1101,psychological testing,topic,PART_OF,psychology,topic,,,PSYC_1101_triples_raw.json
+PSYC_1101,emotion,topic,PART_OF,psychology,topic,,,PSYC_1101_triples_raw.json
+PSYC_1101,learning,topic,PART_OF,psychology,topic,,,PSYC_1101_triples_raw.json

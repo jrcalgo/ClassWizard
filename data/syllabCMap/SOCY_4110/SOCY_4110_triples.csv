@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4110,Health Patterns Across Nations,topic,PREREQUISITE_OF,Cultural Preferences and Aging,topic,A taught first,,SOCY_4110_triples_raw.json
+SOCY_4110,Health Patterns Across Nations,topic,PREREQUISITE_OF,Aging Policy and Programs,topic,A taught first,,SOCY_4110_triples_raw.json
+SOCY_4110,Cultural Preferences and Aging,topic,PREREQUISITE_OF,Aging Policy and Programs,topic,A taught first,,SOCY_4110_triples_raw.json
+SOCY_4110,demographic transition,concept,PART_OF,Sociology of Aging,topic,,,SOCY_4110_triples_raw.json
+SOCY_4110,Modernization and Age Structure,topic,PART_OF,Sociology of Aging,topic,,,SOCY_4110_triples_raw.json
+SOCY_4110,Health Patterns Across Nations,topic,PART_OF,Sociology of Aging,topic,,,SOCY_4110_triples_raw.json
+SOCY_4110,Cultural Preferences and Aging,topic,PART_OF,Sociology of Aging,topic,,,SOCY_4110_triples_raw.json
+SOCY_4110,Aging Policy and Programs,topic,PART_OF,Sociology of Aging,topic,,,SOCY_4110_triples_raw.json
+SOCY_4110,global aging trends,concept,USED_FOR,demographic transition,concept,,,SOCY_4110_triples_raw.json
+SOCY_4110,global aging trends,concept,USED_FOR,Modernization and Age Structure,topic,,,SOCY_4110_triples_raw.json
+SOCY_4110,global aging trends,concept,USED_FOR,Health Patterns Across Nations,topic,,,SOCY_4110_triples_raw.json
+SOCY_4110,global aging trends,concept,USED_FOR,Cultural Preferences and Aging,topic,,,SOCY_4110_triples_raw.json
+SOCY_4110,global aging trends,concept,USED_FOR,Aging Policy and Programs,topic,,,SOCY_4110_triples_raw.json

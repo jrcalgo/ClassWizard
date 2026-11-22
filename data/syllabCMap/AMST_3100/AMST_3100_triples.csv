@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AMST_3100,Decade,topic,PART_OF,Major Events of the 2000s,topic,,,AMST_3100_triples_raw.json
+AMST_3100,Decade,topic,PART_OF,Notable Personalities and Events,topic,,,AMST_3100_triples_raw.json
+AMST_3100,Decade,topic,PART_OF,Analyzing the Decade's Legacy,topic,,,AMST_3100_triples_raw.json
+AMST_3100,American Culture and Values,concept,PART_OF,Historic and Cultural Context,concept,,,AMST_3100_triples_raw.json
+AMST_3100,Continuity and Change in America,concept,PART_OF,Analyzing the Decade's Legacy,topic,,,AMST_3100_triples_raw.json
+AMST_3100,Analyzing the Decade's Legacy,topic,PART_OF,Impact of Events on Society,concept,,part is broader than whole - check direction,AMST_3100_triples_raw.json
+AMST_3100,Continuity and Change in America,concept,USED_FOR,Analyzing the Decade's Legacy,topic,,,AMST_3100_triples_raw.json

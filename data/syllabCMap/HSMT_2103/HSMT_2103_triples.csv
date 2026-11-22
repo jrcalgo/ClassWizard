@@ -1,0 +1,38 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HSMT_2103,human resource management role,concept,PART_OF,Human Resources Management,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,planning and organizing tasks,concept,PART_OF,Managerial Functions,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,leading and motivating employees,concept,PART_OF,Managerial Functions,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,controlling and evaluating performance,concept,PART_OF,Managerial Functions,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,job analysis and design,concept,PART_OF,Human Resource Analysis,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,workforce planning and forecasting,concept,PART_OF,Human Resource Analysis,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,employee needs assessment,concept,PART_OF,Human Resource Analysis,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,onboarding and orientation programs,concept,PART_OF,Staffing and Recruitment,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,evaluation methods and tools,concept,PART_OF,Performance Evaluation,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,feedback and coaching techniques,concept,PART_OF,Performance Evaluation,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,salary and wage structures,concept,PART_OF,Compensation and Benefits,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,total rewards strategy,concept,PART_OF,Compensation and Benefits,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,learning needs assessment,concept,PART_OF,Training and Development,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,employee development programs,concept,PART_OF,Training and Development,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,collective bargaining agreements,concept,PART_OF,Labor Relations and Conflict,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,conflict resolution strategies,concept,PART_OF,Labor Relations and Conflict,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,cultural competence and awareness,concept,PART_OF,Diversity and Inclusion,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,workplace safety and health,concept,PART_OF,Legal Environment of HRM,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,disability accommodations and compliance,concept,PART_OF,Legal Environment of HRM,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,planning and organizing tasks,concept,USED_FOR,Managerial Functions,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,leading and motivating employees,concept,USED_FOR,Managerial Functions,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,controlling and evaluating performance,concept,USED_FOR,Managerial Functions,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,job analysis and design,concept,USED_FOR,Human Resource Analysis,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,workforce planning and forecasting,concept,USED_FOR,Human Resource Analysis,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,employee needs assessment,concept,USED_FOR,Human Resource Analysis,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,recruitment strategies and methods,concept,USED_FOR,Staffing and Recruitment,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,selection and hiring processes,concept,USED_FOR,Staffing and Recruitment,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,onboarding and orientation programs,concept,USED_FOR,Staffing and Recruitment,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,performance metrics and standards,concept,USED_FOR,Performance Evaluation,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,evaluation methods and tools,concept,USED_FOR,Performance Evaluation,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,feedback and coaching techniques,concept,USED_FOR,Performance Evaluation,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,salary and wage structures,concept,USED_FOR,Compensation and Benefits,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,benefits packages and programs,concept,USED_FOR,Compensation and Benefits,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,total rewards strategy,concept,USED_FOR,Compensation and Benefits,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,learning needs assessment,concept,USED_FOR,Training and Development,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,training methods and delivery,concept,USED_FOR,Training and Development,topic,,,HSMT_2103_triples_raw.json
+HSMT_2103,employee development programs,concept,USED_FOR,Training and Development,topic,,,HSMT_2103_triples_raw.json

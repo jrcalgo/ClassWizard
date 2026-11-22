@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2144,indeterminate systems,concept,PREREQUISITE_OF,Mohr's circle for stress,concept,A taught first,,MEGR_2144_triples_raw.json
+MEGR_2144,indeterminate systems,concept,PREREQUISITE_OF,column buckling modes,concept,A taught first,,MEGR_2144_triples_raw.json
+MEGR_2144,indeterminate systems,concept,PREREQUISITE_OF,critical load of buckling,concept,A taught first,,MEGR_2144_triples_raw.json
+MEGR_2144,nonlinear material behavior,concept,PREREQUISITE_OF,stress strain relationships,concept,same unit,,MEGR_2144_triples_raw.json
+MEGR_2144,axial loading stresses,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,pure bending stresses,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,transverse shear stresses,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,torsion stresses,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,linear material behavior,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,Mohr's circle for stress,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,beam deflection formulas,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,torsional moment diagrams,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,bending moment diagrams,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,pressure vessel design,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,thin walled cylinders,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,hoop stresses and longitudinal stresses,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,column buckling modes,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,critical load of buckling,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,principal stresses calculation,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,maximum shear stress calculation,concept,PART_OF,Deformable Solids Engineering Theory,topic,,,MEGR_2144_triples_raw.json
+MEGR_2144,Mohr's circle for stress,concept,USED_FOR,principal stresses calculation,concept,,,MEGR_2144_triples_raw.json
+MEGR_2144,Mohr's circle for stress,concept,USED_FOR,maximum shear stress calculation,concept,,,MEGR_2144_triples_raw.json

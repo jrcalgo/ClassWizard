@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EDCI_8118,topic,Euclidean Geometry,Euclidean Geometries,1,verified,Euclidean Geometry,EDCI_8118_concepts_raw.json
+EDCI_8118,topic,Transformational Geometry,Transformational Geometry,1,verified,Transformational Geometry,EDCI_8118_concepts_raw.json
+EDCI_8118,topic,Non-Euclidean Geometries,Non-Euclidean Geometries,1,verified,Non-Euclidean Geometries,EDCI_8118_concepts_raw.json
+EDCI_8118,topic,Analytical Geometry,Analytical Geometry,1,inferred,Analytical Geometry,EDCI_8118_concepts_raw.json
+EDCI_8118,topic,Coordinate Systems,Coordinate Systems,1,inferred,Coordinate Systems,EDCI_8118_concepts_raw.json
+EDCI_8118,topic,Graphing Linear Equations,Graphing Linear Equations,1,inferred,Graphing Linear Equations,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Distance and Midpoint Formulas,Distance and Midpoint Formulas,1,inferred,Distance and Midpoint Formulas,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Isometries and Symmetries,Isometries and Symmetries,1,inferred,Isometries and Symmetries,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Translations and Reflections,Translations and Reflections,1,inferred,Translations and Reflections,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Rotations and Compositions,Rotations and Compositions,1,inferred,Rotations and Compositions,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Neutral Geometry Fundamentals,Neutral Geometry Fundamentals,1,inferred,Neutral Geometry Fundamentals,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Hyperbolic and Elliptic Geometries,Hyperbolic and Elliptic Geometries,1,inferred,Hyperbolic and Elliptic Geometries,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Geodesics and Curvature,Geodesics and Curvature,1,inferred,Geodesics and Curvature,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Similarity and Congruence,Similarity and Congruence,1,inferred,Similarity and Congruence,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Angle-Sum and Exterior Angles,Angle-Sum and Exterior Angles,1,inferred,Angle-Sum and Exterior Angles,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Properties of Circles and Spheres,Properties of Circles and Spheres,1,inferred,Properties of Circles and Spheres,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Euclidean Geometry Basics,Euclidean Geometry Basics,1,inferred,Euclidean Geometry Basics,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Points and Lines Properties,Points and Lines Properties,1,inferred,Points and Lines Properties,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Angles and Measurement,Angles and Measurement,1,inferred,Angles and Measurement,EDCI_8118_concepts_raw.json
+EDCI_8118,concept,Coordinate Systems Overview,Coordinate Systems Overview,1,inferred,Coordinate Systems Overview,EDCI_8118_concepts_raw.json

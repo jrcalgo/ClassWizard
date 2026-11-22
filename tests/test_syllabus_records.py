@@ -4,7 +4,7 @@ Run from the repo root:
     python -m pytest tests/test_syllabus_records.py
 """
 
-from backend.storage.database.syllabus_records import clean_title, course_code_from_name, parse_record
+from backend.storage.database.operations.syllabus_records import clean_title, course_code_from_name, parse_record
 
 RECORD = {
     "code": "ITSC 6160",  # the file name wins: one syllabus can serve two course numbers
@@ -57,10 +57,11 @@ def test_title_and_code_helpers():
     assert clean_title("Geotechnical Lab- Section L03- 2 Credit Hours") == "Geotechnical Lab- Section L03"
     assert clean_title("Sports Business Analytics | 3 Credit Hours") == "Sports Business Analytics"
     assert clean_title(None) is None
+    assert clean_title("course, is an interdisciplinary survey of key issues " * 3) is None
 
 
 def test_staff_and_contact_text_is_dropped():
-    from backend.storage.database.syllabus_records import is_staff_text, parse_record, without_staff
+    from backend.storage.database.operations.syllabus_records import is_staff_text, parse_record, without_staff
 
     assert is_staff_text("Instructors o Jane Doe, Woodward 333F,")
     assert is_staff_text("Instructor: Jane Doe, PhD. jdoe@charlotte.edu.")

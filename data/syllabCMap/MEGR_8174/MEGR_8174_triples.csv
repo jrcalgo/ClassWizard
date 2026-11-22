@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_8174,Second-Order Linear ODEs,topic,PREREQUISITE_OF,Higher-Order Linear ODEs,topic,A taught first,,MEGR_8174_triples_raw.json
+MEGR_8174,Series Solutions of ODEs,topic,PREREQUISITE_OF,Partial Differential Equations,topic,A taught first,,MEGR_8174_triples_raw.json
+MEGR_8174,wave equation,concept,PART_OF,Partial Differential Equations,topic,,,MEGR_8174_triples_raw.json
+MEGR_8174,heat equation,concept,PART_OF,Partial Differential Equations,topic,,,MEGR_8174_triples_raw.json
+MEGR_8174,Laplace's equation,concept,PART_OF,Partial Differential Equations,topic,,,MEGR_8174_triples_raw.json
+MEGR_8174,separation of variables,method,USED_FOR,Second-Order Linear ODEs,topic,,,MEGR_8174_triples_raw.json
+MEGR_8174,d'Alembert's solution,method,USED_FOR,wave equation,concept,,,MEGR_8174_triples_raw.json
+MEGR_8174,reduction of order,method,USED_FOR,Second-Order Linear ODEs,topic,,,MEGR_8174_triples_raw.json
+MEGR_8174,undetermined coefficients,method,USED_FOR,Second-Order Linear ODEs,topic,,,MEGR_8174_triples_raw.json
+MEGR_8174,variation of parameters,method,USED_FOR,Second-Order Linear ODEs,topic,,,MEGR_8174_triples_raw.json
+MEGR_8174,power series method,method,USED_FOR,Series Solutions of ODEs,topic,,,MEGR_8174_triples_raw.json
+MEGR_8174,Frobenius method,method,USED_FOR,Series Solutions of ODEs,topic,,,MEGR_8174_triples_raw.json
+MEGR_8174,Sturm-Liouville theory,method,USED_FOR,Fourier series,concept,,,MEGR_8174_triples_raw.json

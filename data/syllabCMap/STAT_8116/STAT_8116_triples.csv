@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_8116,probability density functions,concept,USED_FOR,Continuous Random Variables,topic,,,STAT_8116_triples_raw.json
+STAT_8116,cumulative distribution functions,concept,USED_FOR,Continuous Random Variables,topic,,,STAT_8116_triples_raw.json

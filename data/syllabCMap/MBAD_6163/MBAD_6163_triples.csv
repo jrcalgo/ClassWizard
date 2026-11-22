@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6163,strategic human resources,concept,PREREQUISITE_OF,human resource planning,concept,A taught first,,MBAD_6163_triples_raw.json
+MBAD_6163,strategic human resources,concept,PREREQUISITE_OF,staffing,concept,A taught first,,MBAD_6163_triples_raw.json
+MBAD_6163,strategic human resources,concept,PREREQUISITE_OF,compensation,concept,A taught first,,MBAD_6163_triples_raw.json
+MBAD_6163,strategic human resources,concept,PREREQUISITE_OF,performance management,concept,A taught first,,MBAD_6163_triples_raw.json
+MBAD_6163,strategic human resources,concept,PREREQUISITE_OF,legal environment,concept,A taught first,,MBAD_6163_triples_raw.json
+MBAD_6163,human resource planning,concept,PART_OF,strategic human resources,concept,,,MBAD_6163_triples_raw.json
+MBAD_6163,staffing,concept,PART_OF,strategic human resources,concept,,,MBAD_6163_triples_raw.json
+MBAD_6163,training and development,concept,PART_OF,strategic human resources,concept,,,MBAD_6163_triples_raw.json
+MBAD_6163,compensation,concept,PART_OF,strategic human resources,concept,,,MBAD_6163_triples_raw.json
+MBAD_6163,performance management,concept,PART_OF,strategic human resources,concept,,,MBAD_6163_triples_raw.json
+MBAD_6163,legal environment,concept,PART_OF,strategic human resources,concept,,,MBAD_6163_triples_raw.json

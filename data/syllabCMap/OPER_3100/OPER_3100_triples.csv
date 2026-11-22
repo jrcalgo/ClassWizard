@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPER_3100,operations management,concept,USED_FOR,decision-making process,concept,,,OPER_3100_triples_raw.json
+OPER_3100,operations management,concept,USED_FOR,production processes,concept,,,OPER_3100_triples_raw.json
+OPER_3100,operations management,concept,USED_FOR,service systems,concept,,,OPER_3100_triples_raw.json

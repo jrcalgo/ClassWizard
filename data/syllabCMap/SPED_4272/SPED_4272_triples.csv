@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_4272,CBM,measure,PREREQUISITE_OF,progress monitoring,measure,same unit,,SPED_4272_triples_raw.json
+SPED_4272,curriculum content knowledge,method,PREREQUISITE_OF,instructional planning,method,same unit,,SPED_4272_triples_raw.json

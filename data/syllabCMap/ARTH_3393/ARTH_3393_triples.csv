@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_3393,Photography,topic,PREREQUISITE_OF,History of Photography,topic,A mentioned first,,ARTH_3393_triples_raw.json
+ARTH_3393,Early Experimentation,topic,PREREQUISITE_OF,Pictorialism and Modernity,topic,A taught first,,ARTH_3393_triples_raw.json
+ARTH_3393,Documentary and Social Reform,topic,PREREQUISITE_OF,Abstract Expressionism and Beyond,topic,A taught first,,ARTH_3393_triples_raw.json
+ARTH_3393,camera obscura,concept,PART_OF,Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,daguerreotype process,concept,PART_OF,Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,calotype,concept,PART_OF,Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,talbotype,concept,PART_OF,Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,pictorialist movement,concept,PART_OF,History of Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,modernist photography,concept,PART_OF,History of Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,documentary photography,concept,PART_OF,History of Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,photojournalism,concept,PART_OF,History of Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,abstract expressionist photography,concept,PART_OF,History of Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,surrealist trends,concept,PART_OF,History of Photography,topic,,,ARTH_3393_triples_raw.json
+ARTH_3393,talbotype,concept,USED_FOR,calotype,concept,,,ARTH_3393_triples_raw.json

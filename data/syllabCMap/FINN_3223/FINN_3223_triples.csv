@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3223,Financial Management Objectives,topic,PREREQUISITE_OF,International Financial Markets,topic,same unit,,FINN_3223_triples_raw.json
+FINN_3223,Export Financing Options,topic,PREREQUISITE_OF,financing of exports and imports,topic,same unit,,FINN_3223_triples_raw.json
+FINN_3223,Trade Finance Instruments,topic,PREREQUISITE_OF,financing of exports and imports,topic,same unit,,FINN_3223_triples_raw.json
+FINN_3223,Exchange Rate Determination,topic,PREREQUISITE_OF,foreign exchange rates and the impact of accounting procedures on financial management,topic,A mentioned first,,FINN_3223_triples_raw.json
+FINN_3223,Currency Risk Management,topic,PREREQUISITE_OF,foreign exchange rates and the impact of accounting procedures on financial management,topic,A mentioned first,,FINN_3223_triples_raw.json
+FINN_3223,Hedging Strategies,topic,PREREQUISITE_OF,foreign exchange rates and the impact of accounting procedures on financial management,topic,A mentioned first,,FINN_3223_triples_raw.json
+FINN_3223,Cross-Border Financing Options,topic,PREREQUISITE_OF,financing of foreign operations,topic,same unit,,FINN_3223_triples_raw.json
+FINN_3223,International Capital Structure,topic,PREREQUISITE_OF,financing of foreign operations,topic,same unit,,FINN_3223_triples_raw.json
+FINN_3223,Foreign Currency Debt,topic,PREREQUISITE_OF,financing of foreign operations,topic,same unit,,FINN_3223_triples_raw.json
+FINN_3223,Import Financing Methods,topic,PART_OF,financing of exports and imports,topic,,,FINN_3223_triples_raw.json
+FINN_3223,Exchange Rate Determination,topic,PART_OF,foreign exchange rates and the impact of accounting procedures on financial management,topic,,,FINN_3223_triples_raw.json
+FINN_3223,Currency Risk Management,topic,PART_OF,foreign exchange rates and the impact of accounting procedures on financial management,topic,,,FINN_3223_triples_raw.json
+FINN_3223,Hedging Strategies,topic,PART_OF,foreign exchange rates and the impact of accounting procedures on financial management,topic,,,FINN_3223_triples_raw.json
+FINN_3223,International Capital Structure,topic,PART_OF,financing of foreign operations,topic,,,FINN_3223_triples_raw.json
+FINN_3223,Foreign Currency Debt,topic,PART_OF,financing of foreign operations,topic,,,FINN_3223_triples_raw.json

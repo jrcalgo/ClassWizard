@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_2175,propositional calculus,concept,PART_OF,discrete mathematical structures,concept,,,ITSC_2175_triples_raw.json
+ITSC_2175,predicate calculus,concept,PART_OF,discrete mathematical structures,concept,,,ITSC_2175_triples_raw.json
+ITSC_2175,algorithms,concept,PART_OF,discrete mathematical structures,concept,,,ITSC_2175_triples_raw.json
+ITSC_2175,integer mathematics,concept,PART_OF,discrete mathematical structures,concept,,,ITSC_2175_triples_raw.json
+ITSC_2175,counting techniques,concept,PART_OF,discrete mathematical structures,concept,,,ITSC_2175_triples_raw.json
+ITSC_2175,proof techniques,concept,PART_OF,discrete mathematical structures,concept,,,ITSC_2175_triples_raw.json
+ITSC_2175,finite-state machines,concept,PART_OF,discrete mathematical structures,concept,,,ITSC_2175_triples_raw.json
+ITSC_2175,logic functions,concept,PART_OF,discrete mathematical structures,concept,,,ITSC_2175_triples_raw.json

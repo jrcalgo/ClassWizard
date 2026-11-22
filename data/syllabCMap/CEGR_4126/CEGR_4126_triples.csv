@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_4126,ASCE7,topic,PREREQUISITE_OF,IBC,topic,B mentioned first,,CEGR_4126_triples_raw.json
+CEGR_4126,ASCE7,topic,PREREQUISITE_OF,IRC,topic,B mentioned first,,CEGR_4126_triples_raw.json
+CEGR_4126,Codes,topic,PREREQUISITE_OF,Loads and Nodes,topic,A mentioned first,,CEGR_4126_triples_raw.json
+CEGR_4126,Structural Load Determination,topic,PREREQUISITE_OF,load paths,concept,B mentioned first,,CEGR_4126_triples_raw.json
+CEGR_4126,Structural Load Determination,topic,PREREQUISITE_OF,lateral loads,concept,B mentioned first,,CEGR_4126_triples_raw.json
+CEGR_4126,Structural Load Determination,topic,PREREQUISITE_OF,governing load standards,concept,A mentioned first,,CEGR_4126_triples_raw.json
+CEGR_4126,RFEM6,tool,USED_FOR,governing load standards,concept,,,CEGR_4126_triples_raw.json

@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_8610,dissertation writing challenges,concept,PREREQUISITE_OF,emotional difficulties in dissertation,concept,same unit,,GRAD_8610_triples_raw.json
+GRAD_8610,prioritizing dissertation tasks,concept,PREREQUISITE_OF,improving writing efficiency,concept,same unit,,GRAD_8610_triples_raw.json
+GRAD_8610,managing procrastination,concept,PREREQUISITE_OF,avoiding writer's block,concept,A taught first,,GRAD_8610_triples_raw.json
+GRAD_8610,healthy ways to handle stress,concept,PREREQUISITE_OF,creating work-life balance,concept,same unit,,GRAD_8610_triples_raw.json
+GRAD_8610,dissertation writing challenges,concept,PART_OF,Dissertation Writing,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,emotional difficulties in dissertation,concept,PART_OF,Dissertation Writing,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,importance of resilience,concept,PART_OF,Dissertation Writing,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,prioritizing dissertation tasks,concept,PART_OF,Time Management,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,improving writing efficiency,concept,PART_OF,Writing Productivity,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,managing procrastination,concept,PART_OF,Time Management,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,healthy ways to handle stress,concept,PART_OF,Stress Management,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,strengthening relationships with advisors,concept,PART_OF,Relationship Building,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,effective communication in dissertation process,concept,PART_OF,Relationship Building,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,avoiding writer's block,concept,PART_OF,Writing Productivity,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,importance of resilience,concept,SUBTYPE_OF,Resilience,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,prioritizing dissertation tasks,concept,SUBTYPE_OF,Time Management,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,improving writing efficiency,concept,SUBTYPE_OF,Writing Productivity,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,managing procrastination,concept,SUBTYPE_OF,Time Management,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,healthy ways to handle stress,concept,SUBTYPE_OF,Stress Management,topic,,,GRAD_8610_triples_raw.json
+GRAD_8610,creating work-life balance,concept,SUBTYPE_OF,Stress Management,topic,,,GRAD_8610_triples_raw.json

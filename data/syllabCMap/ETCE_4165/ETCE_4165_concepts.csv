@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETCE_4165,topic,Structural Steel Design,Structural Steel Design,1,verified,Structural Steel Design,ETCE_4165_concepts_raw.json
+ETCE_4165,topic,Material Behavior,material behavior,1,verified,Material Behavior,ETCE_4165_concepts_raw.json
+ETCE_4165,topic,Load and Resistance Factor Design,Load and Resistance Factor Design,1,verified,Load and Resistance Factor Design,ETCE_4165_concepts_raw.json
+ETCE_4165,topic,Tension Members,tension members,1,verified,Tension Members,ETCE_4165_concepts_raw.json
+ETCE_4165,topic,Compression Members,compression members,2,verified,Compression Members,ETCE_4165_concepts_raw.json
+ETCE_4165,topic,Beam-Columns,beam-columns,1,verified,Beam-Columns,ETCE_4165_concepts_raw.json
+ETCE_4165,topic,Basic Connections,basic connections,1,verified,Basic Connections,ETCE_4165_concepts_raw.json

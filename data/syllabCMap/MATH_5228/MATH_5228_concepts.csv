@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_5228,topic,Approved Calculators,approved calculator,3,verified,Approved Calculators,MATH_5228_concepts_raw.json
+MATH_5228,tool,Texas Instruments BA II Plus,Texas Instruments BA II Plus,1,verified,Texas Instruments BA II Plus,MATH_5228_concepts_raw.json
+MATH_5228,tool,TI-30Xa,TI-30Xa,1,verified,TI-30Xa,MATH_5228_concepts_raw.json
+MATH_5228,topic,Life Insurance Mathematics,Life Insurance Mathematics,1,inferred,Life Insurance Mathematics,MATH_5228_concepts_raw.json
+MATH_5228,topic,Textbook and Resources,Textbook and Resources,1,inferred,Textbook and Resources,MATH_5228_concepts_raw.json
+MATH_5228,topic,Calculator Policy Enforcement,Calculator Policy Enforcement,1,inferred,Calculator Policy Enforcement,MATH_5228_concepts_raw.json

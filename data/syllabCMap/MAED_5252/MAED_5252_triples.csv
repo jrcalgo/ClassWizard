@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MAED_5252,mathematical understanding development,concept,PREREQUISITE_OF,teaching practice and reflection,concept,A taught first,,MAED_5252_triples_raw.json
+MAED_5252,problem solving and communication,concept,PREREQUISITE_OF,high-quality mathematics lessons,concept,same unit,,MAED_5252_triples_raw.json
+MAED_5252,equity in mathematics education,concept,PREREQUISITE_OF,inclusive classroom environment,concept,same unit,,MAED_5252_triples_raw.json
+MAED_5252,inclusive classroom environment,concept,PART_OF,diverse student populations,topic,,,MAED_5252_triples_raw.json
+MAED_5252,teaching practice and reflection,concept,PART_OF,teaching practices and edTPA preparation,topic,,,MAED_5252_triples_raw.json
+MAED_5252,human development in mathematics classroom,concept,PART_OF,pedagogy and learning theory,topic,,,MAED_5252_triples_raw.json

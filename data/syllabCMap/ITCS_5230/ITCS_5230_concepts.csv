@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_5230,topic,game history and genres,game history and genres,2,verified,game history and genres,ITCS_5230_concepts_raw.json
+ITCS_5230,topic,game design teams and processes,game design teams and processes,2,verified,game design teams and processes,ITCS_5230_concepts_raw.json
+ITCS_5230,topic,what makes a game fun,what makes a game fun,2,verified,what makes a game fun,ITCS_5230_concepts_raw.json
+ITCS_5230,topic,level and model design,level and model design,2,verified,level and model design,ITCS_5230_concepts_raw.json
+ITCS_5230,topic,game scripting and programming,game scripting and programming,2,verified,game scripting and programming,ITCS_5230_concepts_raw.json
+ITCS_5230,topic,computer graphics,computer graphics,2,verified,computer graphics,ITCS_5230_concepts_raw.json
+ITCS_5230,topic,animation,animation,2,verified,animation,ITCS_5230_concepts_raw.json
+ITCS_5230,topic,artificial intelligence,artificial intelligence,2,verified,artificial intelligence,ITCS_5230_concepts_raw.json
+ITCS_5230,topic,industry issues,industry issues,2,verified,industry issues,ITCS_5230_concepts_raw.json
+ITCS_5230,topic,gender and games,gender and games,2,verified,gender and games,ITCS_5230_concepts_raw.json
+ITCS_5230,concept,emergent systems,emergent systems,1,verified,emergent systems,ITCS_5230_concepts_raw.json
+ITCS_5230,concept,rules,Rules,5,verified,rules and uncertainty,ITCS_5230_concepts_raw.json
+ITCS_5230,concept,uncertainty,uncertainty,1,verified,rules and uncertainty,ITCS_5230_concepts_raw.json
+ITCS_5230,concept,meaningful play,meaningful play,1,verified,meaningful play,ITCS_5230_concepts_raw.json
+ITCS_5230,concept,simulation and play,simulation and play,1,verified,simulation and play,ITCS_5230_concepts_raw.json
+ITCS_5230,concept,narrative and social play,narrative and social play,1,verified,narrative and social play,ITCS_5230_concepts_raw.json
+ITCS_5230,concept,cultural representations,cultural representations,1,verified,cultural representations,ITCS_5230_concepts_raw.json
+ITCS_5230,concept,socio-cultural issues and games,socio-cultural issues and games,1,verified,socio-cultural issues and games,ITCS_5230_concepts_raw.json
+ITCS_5230,concept,games as ethical systems,games as ethical systems,1,verified,games as ethical systems,ITCS_5230_concepts_raw.json
+ITCS_5230,method,writing specifications for games based on design concepts,Writing specifications for games based on design concepts,1,verified,writing specifications for games based on design concepts,ITCS_5230_concepts_raw.json

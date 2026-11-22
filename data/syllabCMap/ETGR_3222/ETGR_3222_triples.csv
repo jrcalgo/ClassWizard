@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_3222,Engineering Decision Making,concept,PREREQUISITE_OF,Importance of Economic Analysis,concept,same unit,,ETGR_3222_triples_raw.json
+ETGR_3222,Engineering Decision Making,concept,PREREQUISITE_OF,Net Present Worth Method,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Engineering Decision Making,concept,PREREQUISITE_OF,Equivalent Annual Cost,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Engineering Decision Making,concept,PREREQUISITE_OF,Cash Flow Diagrams,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Engineering Decision Making,concept,PREREQUISITE_OF,Probability Theory Basics,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Engineering Decision Making,concept,PREREQUISITE_OF,Expected Monetary Value,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Engineering Decision Making,concept,PREREQUISITE_OF,Sensitivity Analysis,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Economic Principles,concept,PREREQUISITE_OF,Importance of Economic Analysis,concept,same unit,,ETGR_3222_triples_raw.json
+ETGR_3222,Economic Principles,concept,PREREQUISITE_OF,Net Present Worth Method,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Economic Principles,concept,PREREQUISITE_OF,Equivalent Annual Cost,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Economic Principles,concept,PREREQUISITE_OF,Cash Flow Diagrams,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Economic Principles,concept,PREREQUISITE_OF,Probability Theory Basics,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Economic Principles,concept,PREREQUISITE_OF,Expected Monetary Value,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Economic Principles,concept,PREREQUISITE_OF,Sensitivity Analysis,concept,A taught first,,ETGR_3222_triples_raw.json
+ETGR_3222,Engineering Decision Making,concept,PART_OF,Engineering Economics,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Importance of Economic Analysis,concept,PART_OF,Engineering Economics,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Net Present Worth Method,concept,PART_OF,Engineering Project Evaluation Methods,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Equivalent Annual Cost,concept,PART_OF,Engineering Project Evaluation Methods,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Cash Flow Diagrams,concept,PART_OF,Cash Flow Analysis,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Probability Theory Basics,concept,PART_OF,Risk and Uncertainty in Engineering Projects,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Expected Monetary Value,concept,PART_OF,Risk and Uncertainty in Engineering Projects,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Sensitivity Analysis,concept,PART_OF,Risk and Uncertainty in Engineering Projects,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Inflation Rate Impact,concept,PART_OF,Inflation and Depreciation in Engineering Economics,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Depreciation Methods,concept,PART_OF,Inflation and Depreciation in Engineering Economics,topic,,,ETGR_3222_triples_raw.json
+ETGR_3222,Inflation-Adjusted Cash Flows,concept,PART_OF,Inflation and Depreciation in Engineering Economics,topic,,,ETGR_3222_triples_raw.json

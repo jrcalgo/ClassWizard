@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDUC_4200,globally competent citizen,concept,PREREQUISITE_OF,Improving Global Citizenship in Education,topic,B mentioned first,,EDUC_4200_triples_raw.json
+EDUC_4200,globally competent citizen,concept,PREREQUISITE_OF,Interviewing Global Citizens,topic,B mentioned first,,EDUC_4200_triples_raw.json
+EDUC_4200,globally competent citizen,concept,PART_OF,Global Citizenship,topic,,,EDUC_4200_triples_raw.json
+EDUC_4200,critical issues in society,concept,PART_OF,Defining Global Citizenship,topic,,,EDUC_4200_triples_raw.json
+EDUC_4200,reflective learning process,concept,PART_OF,Developing Global Competencies,topic,,,EDUC_4200_triples_raw.json
+EDUC_4200,globally situated perspective,concept,PART_OF,Improving Global Citizenship in Education,topic,,,EDUC_4200_triples_raw.json
+EDUC_4200,comparing cultural norms,concept,PART_OF,Investigating the World,topic,,,EDUC_4200_triples_raw.json
+EDUC_4200,analyzing power dynamics,concept,PART_OF,Interviewing Global Citizens,topic,,,EDUC_4200_triples_raw.json
+EDUC_4200,Interviewing Global Citizens,topic,USED_FOR,globally competent citizen,concept,,topic used for something - check direction,EDUC_4200_triples_raw.json

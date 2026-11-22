@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3142,topic,Algebra,Algebra,2,inferred,Introduction to Algebra,MATH_3142_concepts_raw.json
+MATH_3142,topic,Linear Algebra Review,Linear Algebra Review,1,inferred,Linear Algebra Review,MATH_3142_concepts_raw.json
+MATH_3142,topic,Group Theory Basics,Group Theory Basics,1,inferred,Group Theory Basics,MATH_3142_concepts_raw.json
+MATH_3142,topic,Ring and Field Concepts,Ring and Field Concepts,1,inferred,Ring and Field Concepts,MATH_3142_concepts_raw.json
+MATH_3142,topic,Galois Theory Fundamentals,Galois Theory Fundamentals,1,inferred,Galois Theory Fundamentals,MATH_3142_concepts_raw.json
+MATH_3142,concept,Polynomial Equations,Polynomial Equations,1,inferred,Polynomial Equations,MATH_3142_concepts_raw.json
+MATH_3142,concept,Algebraic Expressions,Algebraic Expressions,1,inferred,Algebraic Expressions,MATH_3142_concepts_raw.json
+MATH_3142,concept,Vector Operations,Vector Operations,1,inferred,Vector Operations,MATH_3142_concepts_raw.json
+MATH_3142,concept,Matrix Multiplication,Matrix Multiplication,1,inferred,Matrix Multiplication,MATH_3142_concepts_raw.json
+MATH_3142,concept,Determinant Calculus,Determinant Calculus,1,inferred,Determinant Calculus,MATH_3142_concepts_raw.json
+MATH_3142,concept,Group Properties,Group Properties,1,inferred,Group Properties,MATH_3142_concepts_raw.json
+MATH_3142,concept,Subgroup Examples,Subgroup Examples,1,inferred,Subgroup Examples,MATH_3142_concepts_raw.json
+MATH_3142,concept,Cyclic Groups,Cyclic Groups,1,inferred,Cyclic Groups,MATH_3142_concepts_raw.json
+MATH_3142,concept,Ring Axioms,Ring Axioms,1,inferred,Ring Axioms,MATH_3142_concepts_raw.json
+MATH_3142,concept,Field Operations,Field Operations,1,inferred,Field Operations,MATH_3142_concepts_raw.json
+MATH_3142,concept,Ideal Definitions,Ideal Definitions,1,inferred,Ideal Definitions,MATH_3142_concepts_raw.json
+MATH_3142,concept,Galois Groups,Galois Groups,1,inferred,Galois Groups,MATH_3142_concepts_raw.json
+MATH_3142,concept,Extension Fields,Extension Fields,1,inferred,Extension Fields,MATH_3142_concepts_raw.json
+MATH_3142,concept,Normal Extensions,Normal Extensions,1,inferred,Normal Extensions,MATH_3142_concepts_raw.json

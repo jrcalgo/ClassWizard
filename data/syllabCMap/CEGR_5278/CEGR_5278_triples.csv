@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5278,site investigations,method,PART_OF,bearing capacity and settlement analysis,topic,,,CEGR_5278_triples_raw.json
+CEGR_5278,soil-structure interaction,topic,PART_OF,bearing capacity and settlement analysis,topic,,,CEGR_5278_triples_raw.json
+CEGR_5278,unique challenges of foundations on problematic soils,topic,PART_OF,bearing capacity and settlement analysis,topic,,,CEGR_5278_triples_raw.json
+CEGR_5278,settlement analysis,method,USED_FOR,bearing capacity and settlement analysis,topic,,,CEGR_5278_triples_raw.json

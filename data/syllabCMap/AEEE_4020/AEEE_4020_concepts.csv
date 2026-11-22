@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+AEEE_4020,topic,fluid properties,fluid properties,2,verified,fluid properties,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,fluid statics,fluid statics,2,verified,fluid statics,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,conservation laws,conservation laws,2,verified,conservation laws,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,internal and external flows,internal and external flows,2,verified,internal and external flows,AEEE_4020_concepts_raw.json
+AEEE_4020,method,dimensional analysis,dimensional analysis,2,verified,dimensional analysis,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,pressure losses,pressure losses,2,verified,pressure losses,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,pumps,pumps,2,verified,pumps,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,flow measurement,flow measurement,2,verified,flow measurement,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,introductory computational modeling,introductory computational modeling,2,verified,introductory computational modeling,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,applications involving cooling systems,applications involving cooling systems,2,verified,applications involving cooling systems,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,fluid-handling equipment,fluid-handling equipment,2,verified,fluid-handling equipment,AEEE_4020_concepts_raw.json
+AEEE_4020,topic,electromechanical devices,electromechanical devices,2,verified,electromechanical devices,AEEE_4020_concepts_raw.json
+AEEE_4020,method,conservation of mass,conservation of mass,1,verified,"conservation of mass, momentum, and energy",AEEE_4020_concepts_raw.json
+AEEE_4020,method,momentum,momentum,1,verified,"conservation of mass, momentum, and energy",AEEE_4020_concepts_raw.json
+AEEE_4020,method,energy,energy,1,verified,"conservation of mass, momentum, and energy",AEEE_4020_concepts_raw.json
+AEEE_4020,method,computational modeling,computational modeling,2,verified,computational modeling,AEEE_4020_concepts_raw.json
+AEEE_4020,tool,MATLAB,MATLAB,1,verified,MATLAB,AEEE_4020_concepts_raw.json

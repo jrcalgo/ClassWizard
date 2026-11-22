@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_4171,topic,Urban Public Transportation,Urban Public Transportation,1,verified,Urban Public Transportation,CEGR_4171_concepts_raw.json
+CEGR_4171,topic,Public Transit,Public Transit,3,inferred,Introduction to Public Transit,CEGR_4171_concepts_raw.json
+CEGR_4171,topic,Bus System Planning,Bus System Planning,1,inferred,Bus System Planning,CEGR_4171_concepts_raw.json
+CEGR_4171,topic,Rail System Planning,Rail System Planning,1,inferred,Rail System Planning,CEGR_4171_concepts_raw.json
+CEGR_4171,topic,Funding and Finance,Funding and Finance,1,inferred,Funding and Finance,CEGR_4171_concepts_raw.json
+CEGR_4171,topic,Security and Emergency Planning,Security and Emergency Planning,1,inferred,Security and Emergency Planning,CEGR_4171_concepts_raw.json
+CEGR_4171,topic,Administrative Issues in Transit,Administrative Issues in Transit,1,inferred,Administrative Issues in Transit,CEGR_4171_concepts_raw.json
+CEGR_4171,topic,Case Studies in Public Transit,Case Studies in Public Transit,1,inferred,Case Studies in Public Transit,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Role of Public Transportation,Role of Public Transportation,1,inferred,Role of Public Transportation,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Urban Area Characteristics,Urban Area Characteristics,1,inferred,Urban Area Characteristics,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Public Transit Modes Overview,Public Transit Modes Overview,1,inferred,Public Transit Modes Overview,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Route Network Design,Route Network Design,1,inferred,Route Network Design,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Frequency and Headway Management,Frequency and Headway Management,1,inferred,Frequency and Headway Management,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Bus Fleet Sizing and Deployment,Bus Fleet Sizing and Deployment,1,inferred,Bus Fleet Sizing and Deployment,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Track and Station Layout,Track and Station Layout,1,inferred,Track and Station Layout,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Signaling and Control Systems,Signaling and Control Systems,1,inferred,Signaling and Control Systems,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Rail Vehicle Maintenance,Rail Vehicle Maintenance,1,inferred,Rail Vehicle Maintenance,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Revenue Streams for Transit Agencies,Revenue Streams for Transit Agencies,1,inferred,Revenue Streams for Transit Agencies,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Cost-Benefit Analysis of Projects,Cost-Benefit Analysis of Projects,1,inferred,Cost-Benefit Analysis of Projects,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Public-Private Partnerships in Transit,Public-Private Partnerships in Transit,1,inferred,Public-Private Partnerships in Transit,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Transit Security Threats and Vulnerabilities,Transit Security Threats and Vulnerabilities,1,inferred,Transit Security Threats and Vulnerabilities,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Emergency Response Protocols and Procedures,Emergency Response Protocols and Procedures,1,inferred,Emergency Response Protocols and Procedures,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Intelligence-Led Policing for Transit,Intelligence-Led Policing for Transit,1,inferred,Intelligence-Led Policing for Transit,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Governance Structures for Transit Agencies,Governance Structures for Transit Agencies,1,inferred,Governance Structures for Transit Agencies,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Human Resources Management in Transit,Human Resources Management in Transit,1,inferred,Human Resources Management in Transit,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Risk Management and Compliance,Risk Management and Compliance,1,inferred,Risk Management and Compliance,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Successful Transit Systems Around the World,Successful Transit Systems Around the World,1,inferred,Successful Transit Systems Around the World,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Challenges Facing Urban Transit Agencies,Challenges Facing Urban Transit Agencies,1,inferred,Challenges Facing Urban Transit Agencies,CEGR_4171_concepts_raw.json
+CEGR_4171,concept,Best Practices in Transit Planning and Operations,Best Practices in Transit Planning and Operations,1,inferred,Best Practices in Transit Planning and Operations,CEGR_4171_concepts_raw.json

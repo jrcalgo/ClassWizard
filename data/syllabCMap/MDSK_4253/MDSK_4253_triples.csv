@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_4253,social studies education definition,concept,PREREQUISITE_OF,importance of social studies,concept,same unit,,MDSK_4253_triples_raw.json
+MDSK_4253,key terms in social studies education,concept,PREREQUISITE_OF,theoretical frameworks in social studies,concept,B taught first,B is taught before A - check,MDSK_4253_triples_raw.json
+MDSK_4253,culturally responsive teaching practices,concept,PREREQUISITE_OF,differentiated instruction methods,concept,same unit,,MDSK_4253_triples_raw.json
+MDSK_4253,inquiry-based learning strategies,concept,PREREQUISITE_OF,digital technology integration in social studies,concept,same unit,,MDSK_4253_triples_raw.json
+MDSK_4253,multicultural curriculum design principles,concept,PREREQUISITE_OF,representing multiple perspectives in curriculum,concept,same unit,,MDSK_4253_triples_raw.json
+MDSK_4253,social studies education definition,concept,PART_OF,Social Studies,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,importance of social studies,concept,PART_OF,Social Studies,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,culturally responsive teaching practices,concept,PART_OF,Diverse Learners and Instruction,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,differentiated instruction methods,concept,PART_OF,Diverse Learners and Instruction,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,inquiry-based learning strategies,concept,PART_OF,Inquiry-Based Instruction,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,digital technology integration in social studies,concept,PART_OF,Inquiry-Based Instruction,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,formative and summative assessment methods,concept,PART_OF,Assessment and Evaluation,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,teaching across culture and race/ethnicity,concept,PART_OF,Curriculum Design and Implementation,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,inquiry-based learning strategies,concept,USED_FOR,Inquiry-Based Instruction,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,digital technology integration in social studies,concept,USED_FOR,Inquiry-Based Instruction,topic,,,MDSK_4253_triples_raw.json
+MDSK_4253,resource selection and evaluation,concept,USED_FOR,Inquiry-Based Instruction,topic,,,MDSK_4253_triples_raw.json

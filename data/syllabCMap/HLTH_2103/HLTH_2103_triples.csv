@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_2103,Determinants of health,concept,PREREQUISITE_OF,Nutrition Intervention Effectiveness,concept,B taught first,B is taught before A - check,HLTH_2103_triples_raw.json
+HLTH_2103,Global Health Principles,concept,PREREQUISITE_OF,Zero Hunger Target,concept,A taught first,,HLTH_2103_triples_raw.json
+HLTH_2103,Global Health Principles,concept,PREREQUISITE_OF,Good Health Indicators,concept,A taught first,,HLTH_2103_triples_raw.json
+HLTH_2103,Health System Crisis Management,concept,USED_FOR,Nutrition Intervention Effectiveness,concept,,,HLTH_2103_triples_raw.json

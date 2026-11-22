@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3251,Experiment Design Principles,concept,PART_OF,Lab Notebook Basics,topic,,,MEGR_3251_triples_raw.json
+MEGR_3251,Data Collection Techniques,concept,PART_OF,Lab Notebook Basics,topic,,,MEGR_3251_triples_raw.json
+MEGR_3251,Thorough Lab Notebooks,concept,PART_OF,Lab Notebook Basics,topic,,,MEGR_3251_triples_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5171,Public Transportation Systems,concept,PREREQUISITE_OF,Urban Area Case Study Analysis,topic,A taught first,,CEGR_5171_triples_raw.json
+CEGR_5171,Public Transportation Systems,concept,PREREQUISITE_OF,Transportation System Evaluation,topic,A taught first,,CEGR_5171_triples_raw.json
+CEGR_5171,Public Transportation Systems,concept,PREREQUISITE_OF,Best Practices in Public Transit,topic,A taught first,,CEGR_5171_triples_raw.json
+CEGR_5171,Public Transportation Systems,concept,PART_OF,Transportation Planning Process,concept,,,CEGR_5171_triples_raw.json
+CEGR_5171,Bus System Design Principles,concept,PART_OF,Bus Rapid Transit (BRT,topic,,,CEGR_5171_triples_raw.json
+CEGR_5171,Route Network Optimization,concept,PART_OF,Bus Rapid Transit (BRT,topic,,,CEGR_5171_triples_raw.json
+CEGR_5171,Traffic Signal Priority,concept,PART_OF,Bus Rapid Transit (BRT,topic,,,CEGR_5171_triples_raw.json

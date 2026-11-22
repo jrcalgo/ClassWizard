@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HPSY_8099,Clinical Interviews,topic,PREREQUISITE_OF,Conducting psychological examinations,method,A mentioned first,,HPSY_8099_triples_raw.json
+HPSY_8099,Differential diagnostic skills,method,PREREQUISITE_OF,Assessment,topic,B taught first,B is taught before A - check,HPSY_8099_triples_raw.json
+HPSY_8099,Professional liability insurance,concept,PREREQUISITE_OF,Clinic Work,topic,same unit,,HPSY_8099_triples_raw.json
+HPSY_8099,Scoring,method,PREREQUISITE_OF,Assessment,topic,same unit,,HPSY_8099_triples_raw.json
+HPSY_8099,WAIS-IV,tool,PREREQUISITE_OF,Assessment,topic,B taught first,B is taught before A - check,HPSY_8099_triples_raw.json
+HPSY_8099,WRAT-5,tool,PREREQUISITE_OF,Assessment,topic,B taught first,B is taught before A - check,HPSY_8099_triples_raw.json
+HPSY_8099,BeHealthieR Clinic policies,concept,PART_OF,Clinic Work,topic,,,HPSY_8099_triples_raw.json
+HPSY_8099,Conducting psychological examinations,method,PART_OF,Assessment,topic,,,HPSY_8099_triples_raw.json
+HPSY_8099,Differential diagnostic skills,method,PART_OF,Clinical Interviews,topic,,,HPSY_8099_triples_raw.json
+HPSY_8099,MMPI-3,tool,PART_OF,Assessment,topic,,,HPSY_8099_triples_raw.json
+HPSY_8099,Professional liability insurance,concept,PART_OF,Clinic Work,topic,,,HPSY_8099_triples_raw.json
+HPSY_8099,Scoring,method,PART_OF,Assessment,topic,,,HPSY_8099_triples_raw.json
+HPSY_8099,TOMM,tool,PART_OF,Assessment,topic,,,HPSY_8099_triples_raw.json
+HPSY_8099,Trails A & B,tool,PART_OF,Assessment,topic,,,HPSY_8099_triples_raw.json
+HPSY_8099,MMPI-3,tool,USED_FOR,Conducting psychological examinations,method,,,HPSY_8099_triples_raw.json
+HPSY_8099,WAIS-IV,tool,USED_FOR,Conducting psychological examinations,method,,,HPSY_8099_triples_raw.json
+HPSY_8099,WRAT-5,tool,USED_FOR,Conducting psychological examinations,method,,,HPSY_8099_triples_raw.json
+HPSY_8099,TOMM,tool,USED_FOR,Conducting psychological examinations,method,,,HPSY_8099_triples_raw.json
+HPSY_8099,Trails A & B,tool,USED_FOR,Conducting psychological examinations,method,,,HPSY_8099_triples_raw.json

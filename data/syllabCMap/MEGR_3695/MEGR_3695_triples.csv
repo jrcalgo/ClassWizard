@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3695,Co-op Program Requirements,topic,PART_OF,Co-op Program Overview,topic,,,MEGR_3695_triples_raw.json
+MEGR_3695,Student Responsibilities,topic,PART_OF,Co-op Program Overview,topic,,,MEGR_3695_triples_raw.json
+MEGR_3695,Employer Expectations,topic,PART_OF,Co-op Program Overview,topic,,,MEGR_3695_triples_raw.json
+MEGR_3695,Technical Writing Best Practices,topic,PART_OF,Engineering Report Writing,topic,,,MEGR_3695_triples_raw.json
+MEGR_3695,Clear Communication Techniques,topic,PART_OF,Engineering Report Writing,topic,,,MEGR_3695_triples_raw.json
+MEGR_3695,Report Structure and Format,topic,PART_OF,Engineering Report Writing,topic,,,MEGR_3695_triples_raw.json

@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETFS_3123,topic,Electrical Hazards,Electrical Hazards,1,verified,Electrical Hazards,ETFS_3123_concepts_raw.json
+ETFS_3123,topic,Electricity,Electricity,1,verified,Electricity,ETFS_3123_concepts_raw.json
+ETFS_3123,topic,Industrial Hazards,industrial hazards,1,verified,Industrial Hazards,ETFS_3123_concepts_raw.json
+ETFS_3123,topic,Radiation Sources,radiation sources,1,verified,Radiation Sources,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,AC circuit analysis methods,AC Circuit Analysis Methods,1,inferred,AC circuit analysis methods,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,DC circuit analysis techniques,DC Circuit Analysis Techniques,1,inferred,DC circuit analysis techniques,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,electrical switchgear basics,Electrical Switchgear Basics,1,inferred,electrical switchgear basics,ETFS_3123_concepts_raw.json
+ETFS_3123,topic,Rotating Machinery Safety,Rotating Machinery Safety,1,inferred,Rotating Machinery Safety,ETFS_3123_concepts_raw.json
+ETFS_3123,topic,Boilers and Ovens Safety,Boilers and Ovens Safety,1,inferred,Boilers and Ovens Safety,ETFS_3123_concepts_raw.json
+ETFS_3123,topic,OSHA Compliance Issues,OSHA Compliance Issues,1,inferred,OSHA Compliance Issues,ETFS_3123_concepts_raw.json
+ETFS_3123,topic,Safety Procedures and Equipment,Safety Procedures and Equipment,1,inferred,Safety Procedures and Equipment,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,compressed gas hazards,Compressed Gas Hazards,1,inferred,compressed gas hazards,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,chemical safety procedures,Chemical Safety Procedures,1,inferred,chemical safety procedures,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,bio-toxin exposure risks,Bio-Toxin Exposure Risks,1,inferred,bio-toxin exposure risks,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,motor and generator hazards,Motor and Generator Hazards,1,inferred,motor and generator hazards,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,gearbox and pump safety issues,Gearbox and Pump Safety Issues,1,inferred,gearbox and pump safety issues,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,bearings and lubrication risks,Bearings and Lubrication Risks,1,inferred,bearings and lubrication risks,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,ionizing radiation types,Ionizing Radiation Types,1,inferred,ionizing radiation types,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,non-ionizing radiation effects,Non-Ionizing Radiation Effects,1,inferred,non-ionizing radiation effects,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,radiation protection measures,Radiation Protection Measures,1,inferred,radiation protection measures,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,steam boiler hazards and risks,Steam Boiler Hazards and Risks,1,inferred,steam boiler hazards and risks,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,thermal energy storage safety,Thermal Energy Storage Safety,1,inferred,thermal energy storage safety,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,high-temperature equipment handling,High-Temperature Equipment Handling,1,inferred,high-temperature equipment handling,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,general industry regulations overview,General Industry Regulations Overview,1,inferred,general industry regulations overview,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,electrical safety standards compliance,Electrical Safety Standards Compliance,1,inferred,electrical safety standards compliance,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,reporting requirements for incidents,Reporting Requirements for Incidents,1,inferred,reporting requirements for incidents,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,personal protective equipment (PPE,personal protective equipment (PPE,1,inferred,personal protective equipment (PPE),ETFS_3123_concepts_raw.json
+ETFS_3123,concept,fire extinguisher training and use,Fire Extinguisher Training and Use,1,inferred,fire extinguisher training and use,ETFS_3123_concepts_raw.json
+ETFS_3123,concept,emergency response planning,Emergency Response Planning,1,inferred,emergency response planning,ETFS_3123_concepts_raw.json

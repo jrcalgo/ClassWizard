@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RSCH_8140,topic,Multivariate Statistics,Multivariate Statistics,1,verified,Multivariate Statistics,RSCH_8140_concepts_raw.json
+RSCH_8140,topic,Multivariate Stats,Multivariate Stats,1,inferred,Introduction to Multivariate Stats,RSCH_8140_concepts_raw.json
+RSCH_8140,topic,Review of Univariate Stats,Review of Univariate Stats,1,inferred,Review of Univariate Stats,RSCH_8140_concepts_raw.json
+RSCH_8140,topic,Multivariate Data Types,Multivariate Data Types,1,inferred,Multivariate Data Types,RSCH_8140_concepts_raw.json
+RSCH_8140,topic,Multivariate Distributions,Multivariate Distributions,2,inferred,Multivariate Distributions,RSCH_8140_concepts_raw.json
+RSCH_8140,topic,Multivariate Hypothesis Testing,Multivariate Hypothesis Testing,1,inferred,Multivariate Hypothesis Testing,RSCH_8140_concepts_raw.json
+RSCH_8140,topic,Multivariate Regression Analysis,Multivariate Regression Analysis,1,inferred,Multivariate Regression Analysis,RSCH_8140_concepts_raw.json
+RSCH_8140,topic,Principal Component Analysis,Principal Component Analysis,1,inferred,Principal Component Analysis,RSCH_8140_concepts_raw.json
+RSCH_8140,topic,Cluster Analysis and Classification,Cluster Analysis and Classification,1,inferred,Cluster Analysis and Classification,RSCH_8140_concepts_raw.json
+RSCH_8140,topic,Multivariate Time Series Analysis,Multivariate Time Series Analysis,1,inferred,Multivariate Time Series Analysis,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Multivariate Statistics Definition,Multivariate Statistics Definition,1,inferred,Multivariate Statistics Definition,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Importance of Multivariate Analysis,Importance of Multivariate Analysis,1,inferred,Importance of Multivariate Analysis,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Descriptive Statistics Review,Descriptive Statistics Review,1,inferred,Descriptive Statistics Review,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Inferential Statistics Review,Inferential Statistics Review,1,inferred,Inferential Statistics Review,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Hypothesis Testing Review,Hypothesis Testing Review,1,inferred,Hypothesis Testing Review,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Continuous Multivariate Variables,Continuous Multivariate Variables,1,inferred,Continuous Multivariate Variables,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Discrete Multivariate Variables,Discrete Multivariate Variables,1,inferred,Discrete Multivariate Variables,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Mixed Multivariate Variables,Mixed Multivariate Variables,1,inferred,Mixed Multivariate Variables,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Multivariate Normal Distribution,Multivariate Normal Distribution,1,inferred,Multivariate Normal Distribution,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Multivariate T-Distribution,Multivariate T-Distribution,1,inferred,Multivariate T-Distribution,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Non-Normal Multivariate Distributions,Non-Normal Multivariate Distributions,1,inferred,Non-Normal Multivariate Distributions,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Hotelling's T-Square Test,Hotelling's T-Square Test,1,inferred,Hotelling's T-Square Test,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Wilks' Lambda Test,Wilks' Lambda Test,1,inferred,Wilks' Lambda Test,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Roy's Largest Root Test,Roy's Largest Root Test,1,inferred,Roy's Largest Root Test,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Multiple Linear Regression Model,Multiple Linear Regression Model,1,inferred,Multiple Linear Regression Model,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Multivariate Generalized Linear Model,Multivariate Generalized Linear Model,1,inferred,Multivariate Generalized Linear Model,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Model Selection Criteria,Model Selection Criteria,1,inferred,Model Selection Criteria,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,PCA Methodology Overview,PCA Methodology Overview,1,inferred,PCA Methodology Overview,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Component Extraction Methods,Component Extraction Methods,1,inferred,Component Extraction Methods,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Interpretation of Components,Interpretation of Components,1,inferred,Interpretation of Components,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Hierarchical Clustering Algorithms,Hierarchical Clustering Algorithms,1,inferred,Hierarchical Clustering Algorithms,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,K-Means Clustering Algorithm,K-Means Clustering Algorithm,1,inferred,K-Means Clustering Algorithm,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,Time Series Decomposition Methods,Time Series Decomposition Methods,1,inferred,Time Series Decomposition Methods,RSCH_8140_concepts_raw.json
+RSCH_8140,concept,ARIMA Model for Multivariate TS,ARIMA Model for Multivariate TS,1,inferred,ARIMA Model for Multivariate TS,RSCH_8140_concepts_raw.json

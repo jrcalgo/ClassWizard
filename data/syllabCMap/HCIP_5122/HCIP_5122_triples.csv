@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Data Visualization,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Visual Reasoning,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Principles of Interaction,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Information Graphics,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Modern Tools,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Libraries,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Effective Visualizations,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Information-Based Narratives,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Visual Analytics,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,Statistical Analysis,topic,PREREQUISITE_OF,Interactive Visualization,topic,B mentioned first,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,PART_OF,Data Visualization,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Data Visualization,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Visual Reasoning,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Principles of Interaction,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Information Graphics,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Modern Tools,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Libraries,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Effective Visualizations,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Information-Based Narratives,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Visual Analytics,topic,,,HCIP_5122_triples_raw.json
+HCIP_5122,data visualization techniques,concept,USED_FOR,Interactive Visualization,topic,,,HCIP_5122_triples_raw.json

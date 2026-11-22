@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPTI_8381,Metrology Definition,concept,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Importance of Metrology,concept,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Measurement Uncertainty,concept,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Precision and Accuracy,topic,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Size and Form Measurement,topic,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Computational Methods in Form Measurement,topic,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Surface Texture and Roundness Measurement,topic,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Machine Tool Accuracy and Calibration,topic,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Screw Thread and Gear Measurement,topic,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Design of Precision Instruments,topic,PART_OF,Metrology,topic,,,OPTI_8381_triples_raw.json
+OPTI_8381,Calibration Standards and Procedures,concept,USED_FOR,Machine Tool Calibration Methods,method,,,OPTI_8381_triples_raw.json
+OPTI_8381,Calibration Standards and Procedures,concept,USED_FOR,Robot Calibration Techniques,method,,,OPTI_8381_triples_raw.json

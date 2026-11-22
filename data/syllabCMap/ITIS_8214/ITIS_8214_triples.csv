@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_8214,password management best practices,concept,PREREQUISITE_OF,two-factor authentication challenges,concept,same unit,,ITIS_8214_triples_raw.json
+ITIS_8214,biometric security issues,concept,PREREQUISITE_OF,usable security features in software,concept,A taught first,,ITIS_8214_triples_raw.json
+ITIS_8214,password management best practices,concept,PART_OF,two-factor authentication challenges,concept,,,ITIS_8214_triples_raw.json
+ITIS_8214,biometric security issues,concept,PART_OF,usable security features in software,concept,,,ITIS_8214_triples_raw.json
+ITIS_8214,usable security,concept,SUBTYPE_OF,human factors in security,concept,,,ITIS_8214_triples_raw.json
+ITIS_8214,usability and security trade-offs,concept,SUBTYPE_OF,usable security,concept,,,ITIS_8214_triples_raw.json
+ITIS_8214,biometric security issues,concept,SUBTYPE_OF,usable security features in software,concept,,,ITIS_8214_triples_raw.json
+ITIS_8214,human-computer interaction research methods,method,USED_FOR,Interdisciplinary Research Methods in Usable Security,topic,,,ITIS_8214_triples_raw.json

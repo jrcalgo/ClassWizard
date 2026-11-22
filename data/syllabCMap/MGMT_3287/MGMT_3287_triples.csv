@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MGMT_3287,Managerial Leadership,topic,PART_OF,Leadership,topic,,,MGMT_3287_triples_raw.json
+MGMT_3287,case analyses,method,USED_FOR,Managerial Leadership,topic,,,MGMT_3287_triples_raw.json
+MGMT_3287,self-assessment of leadership competencies,method,USED_FOR,Managerial Leadership,topic,,,MGMT_3287_triples_raw.json
+MGMT_3287,guest speakers,method,USED_FOR,Managerial Leadership,topic,,,MGMT_3287_triples_raw.json
+MGMT_3287,project presentations,method,USED_FOR,Managerial Leadership,topic,,,MGMT_3287_triples_raw.json

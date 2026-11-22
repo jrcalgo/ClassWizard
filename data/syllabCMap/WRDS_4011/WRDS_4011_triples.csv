@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WRDS_4011,language structure and use,concept,PART_OF,digital communication basics,concept,,,WRDS_4011_triples_raw.json
+WRDS_4011,Role of Context in Communication,topic,PART_OF,digital communication basics,concept,,part is broader than whole - check direction,WRDS_4011_triples_raw.json
+WRDS_4011,situational awareness,concept,PART_OF,digital contextualization,concept,,,WRDS_4011_triples_raw.json

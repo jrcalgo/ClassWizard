@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_6217,Consensus Mechanisms,topic,PREREQUISITE_OF,Decentralized Finance Applications,topic,A taught first,,FINN_6217_triples_raw.json
+FINN_6217,Blockchain Definition,concept,PREREQUISITE_OF,Blockchain Transactions,topic,A taught first,,FINN_6217_triples_raw.json
+FINN_6217,Blockchain Regulation Overview,concept,PREREQUISITE_OF,Regulatory and Legal Issues,topic,same unit,,FINN_6217_triples_raw.json
+FINN_6217,Blockchain Definition,concept,PART_OF,Blockchain Fundamentals,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Consensus Mechanisms,topic,PART_OF,Blockchain Fundamentals,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Mining Process Explanation,concept,PART_OF,Cryptocurrency Generation,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Proof of Work Algorithm,concept,PART_OF,Cryptocurrency Generation,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Cryptocurrency Supply Management,concept,PART_OF,Cryptocurrency Generation,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Transaction Validation Process,concept,PART_OF,Blockchain Transactions,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Transaction Fees and Gas,concept,PART_OF,Blockchain Transactions,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Hash Function Explanation,concept,PART_OF,Cryptography Primitives,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Public Key Cryptography Basics,concept,PART_OF,Cryptography Primitives,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Digital Signatures Overview,concept,PART_OF,Cryptography Primitives,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Proof of Work (PoW) Details,concept,PART_OF,Consensus Mechanisms,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Byzantine Fault Tolerance,concept,PART_OF,Consensus Mechanisms,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Solidity Programming Language,concept,PART_OF,Smart Contracts in Solidity,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Decentralized Exchanges (DEXs,concept,PART_OF,Decentralized Finance Applications,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Proof of Work Algorithm,concept,SUBTYPE_OF,Consensus Mechanisms,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Byzantine Fault Tolerance,concept,SUBTYPE_OF,Consensus Mechanisms,topic,,,FINN_6217_triples_raw.json
+FINN_6217,Hash Function Explanation,concept,USED_FOR,Public Key Cryptography Basics,concept,,,FINN_6217_triples_raw.json
+FINN_6217,Hash Function Explanation,concept,USED_FOR,Digital Signatures Overview,concept,,,FINN_6217_triples_raw.json

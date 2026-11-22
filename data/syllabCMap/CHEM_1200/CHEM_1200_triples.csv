@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_1200,Chemical equations,concept,PART_OF,Chemical formulas and equations,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Balancing chemical equations,concept,PART_OF,Chemical formulas and equations,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Le Chatelier's principle,concept,PART_OF,Types of chemical reactions,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Covalent bonding,concept,PART_OF,Types of chemical bonds,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Molecular geometry,concept,PART_OF,Types of chemical bonds,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Mole concept,concept,PART_OF,Mole concept and calculations,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Avogadro's number,concept,PART_OF,Mole concept and calculations,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Limiting reagents,concept,PART_OF,Stoichiometry and limiting reagents,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Empirical formulas,concept,PART_OF,Empirical and molecular formulas,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Molecular formulas,concept,PART_OF,Empirical and molecular formulas,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Percent composition,concept,PART_OF,Empirical and molecular formulas,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,pH,concept,PART_OF,Arrhenius definition of acids and bases,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,pOH,concept,PART_OF,Bronsted-Lowry theory of acids and bases,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Chemical equations,concept,USED_FOR,Chemical formulas and equations,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Balancing chemical equations,concept,USED_FOR,Chemical formulas and equations,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Le Chatelier's principle,concept,USED_FOR,Types of chemical reactions,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Covalent bonding,concept,USED_FOR,Types of chemical bonds,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Molecular geometry,concept,USED_FOR,Types of chemical bonds,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Avogadro's number,concept,USED_FOR,Mole concept and calculations,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Limiting reagents,concept,USED_FOR,Stoichiometry and limiting reagents,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Empirical formulas,concept,USED_FOR,Empirical and molecular formulas,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Molecular formulas,concept,USED_FOR,Empirical and molecular formulas,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,Percent composition,concept,USED_FOR,Empirical and molecular formulas,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,pH,concept,USED_FOR,Arrhenius definition of acids and bases,topic,,,CHEM_1200_triples_raw.json
+CHEM_1200,pOH,concept,USED_FOR,Bronsted-Lowry theory of acids and bases,topic,,,CHEM_1200_triples_raw.json

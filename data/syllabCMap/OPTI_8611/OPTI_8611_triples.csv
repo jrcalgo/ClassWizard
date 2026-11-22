@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPTI_8611,Research Methodologies,topic,PREREQUISITE_OF,Optical Science,topic,same unit,,OPTI_8611_triples_raw.json
+OPTI_8611,Presentation Skills Development,topic,PREREQUISITE_OF,Presenting Research Findings,topic,A taught first,,OPTI_8611_triples_raw.json
+OPTI_8611,Experimental Design,topic,PREREQUISITE_OF,Data Analysis Techniques for Optical Science,concept,same unit,,OPTI_8611_triples_raw.json
+OPTI_8611,Experimental Design,topic,PREREQUISITE_OF,Interpretation of Results and Discussion,concept,same unit,,OPTI_8611_triples_raw.json
+OPTI_8611,Delivery Techniques for Scientific Presentations,concept,PART_OF,Presentation Skills Development,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Content Selection and Prioritization,concept,PART_OF,Presentation Skills Development,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Citation and Reference Management,concept,PART_OF,Scientific Communication,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Proper Use of Citations in Presentations,concept,PART_OF,Scientific Communication,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Experimental Design and Protocols,concept,PART_OF,Research Methodologies,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Data Analysis Techniques for Optical Science,concept,PART_OF,Research Methodologies,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Interpretation of Results and Discussion,concept,PART_OF,Research Methodologies,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Current Trends and Developments in Optics,concept,PART_OF,Emerging Research Areas,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,New Applications and Technologies in Optics,concept,PART_OF,Emerging Research Areas,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Future Directions and Challenges in Optics,concept,PART_OF,Emerging Research Areas,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Critically Evaluating Scientific Presentations,concept,PART_OF,Peer Review and Feedback,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Providing Constructive Feedback to Colleagues,concept,PART_OF,Peer Review and Feedback,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Organizing and Delivering Effective Technical Presentations,concept,PART_OF,Preparing for Presentations,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Managing Time and Resources for Presentations,concept,PART_OF,Preparing for Presentations,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Anticipating Questions from the Audience,concept,PART_OF,Preparing for Presentations,topic,,,OPTI_8611_triples_raw.json
+OPTI_8611,Communicating Complex Ideas to a Broad Audience,concept,PART_OF,Presenting Research Findings,topic,,,OPTI_8611_triples_raw.json

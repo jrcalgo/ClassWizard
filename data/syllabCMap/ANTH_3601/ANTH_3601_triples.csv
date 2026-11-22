@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_3601,Anthropological Research Methods,concept,PREREQUISITE_OF,Theoretical Frameworks in Anthropology,concept,same unit,,ANTH_3601_triples_raw.json
+ANTH_3601,Marxist Anthropology,concept,PREREQUISITE_OF,Foucauldian Power Dynamics,concept,same unit,,ANTH_3601_triples_raw.json
+ANTH_3601,Weber's Social Action Theory,concept,PREREQUISITE_OF,Applying Theoretical Frameworks,topic,A taught first,,ANTH_3601_triples_raw.json
+ANTH_3601,Positivism,concept,PREREQUISITE_OF,Interpretivism,concept,same unit,,ANTH_3601_triples_raw.json
+ANTH_3601,Anthropological Research Methods,concept,PART_OF,Anthropology,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Structuralism,concept,PART_OF,Structuralism and Functionalism,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Functionalism,concept,PART_OF,Structuralism and Functionalism,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Positivism,concept,PART_OF,Positivism and Interpretivism,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Interpretivism,concept,PART_OF,Positivism and Interpretivism,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Marxist Anthropology,concept,PART_OF,Anthropology,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Foucauldian Power Dynamics,concept,PART_OF,Anthropology,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Weber's Social Action Theory,concept,PART_OF,Anthropology,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Theoretical Frameworks in Anthropology,concept,PART_OF,Anthropology,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Structuralism,concept,SUBTYPE_OF,Structuralism and Functionalism,topic,,,ANTH_3601_triples_raw.json
+ANTH_3601,Positivism,concept,SUBTYPE_OF,Positivism and Interpretivism,topic,,,ANTH_3601_triples_raw.json

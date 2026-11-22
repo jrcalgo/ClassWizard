@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_3112,Object-Oriented Programming,topic,PREREQUISITE_OF,class diagrams,concept,same unit,,ITCS_3112_triples_raw.json
+ITCS_3112,Object-Oriented Programming,topic,PREREQUISITE_OF,activity diagrams,concept,same unit,,ITCS_3112_triples_raw.json
+ITCS_3112,object-oriented analysis,concept,PREREQUISITE_OF,encapsulation,concept,A mentioned first,,ITCS_3112_triples_raw.json
+ITCS_3112,object-oriented analysis,concept,PREREQUISITE_OF,inheritance,concept,A mentioned first,,ITCS_3112_triples_raw.json
+ITCS_3112,object-oriented analysis,concept,PREREQUISITE_OF,polymorphism,concept,A mentioned first,,ITCS_3112_triples_raw.json
+ITCS_3112,object-oriented analysis,concept,PREREQUISITE_OF,abstraction,concept,A mentioned first,,ITCS_3112_triples_raw.json
+ITCS_3112,use case diagrams,concept,PART_OF,system design principles,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,use case diagrams,concept,PART_OF,requirements document,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,class diagrams,concept,PART_OF,Object Oriented Program Design,topic,,,ITCS_3112_triples_raw.json
+ITCS_3112,activity diagrams,concept,PART_OF,Object Oriented Program Design,topic,,,ITCS_3112_triples_raw.json
+ITCS_3112,encapsulation,concept,PART_OF,object-oriented analysis,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,inheritance,concept,PART_OF,object-oriented analysis,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,polymorphism,concept,PART_OF,object-oriented analysis,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,abstraction,concept,PART_OF,object-oriented analysis,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,use case diagrams,concept,SUBTYPE_OF,requirements document,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,class diagrams,concept,SUBTYPE_OF,use case diagrams,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,activity diagrams,concept,SUBTYPE_OF,use case diagrams,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,encapsulation,concept,SUBTYPE_OF,abstraction,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,inheritance,concept,SUBTYPE_OF,abstraction,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,polymorphism,concept,SUBTYPE_OF,abstraction,concept,,,ITCS_3112_triples_raw.json
+ITCS_3112,C#,tool,USED_FOR,Object-Oriented Programming,topic,,,ITCS_3112_triples_raw.json

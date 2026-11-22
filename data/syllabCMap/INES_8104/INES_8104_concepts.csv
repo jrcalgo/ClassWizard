@@ -1,0 +1,42 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+INES_8104,topic,Smart Cities,smart cities,1,verified,Smart Cities,INES_8104_concepts_raw.json
+INES_8104,topic,Competing Models of Smart Urbanism,competing models of smart urbanism,1,verified,Competing Models of Smart Urbanism,INES_8104_concepts_raw.json
+INES_8104,topic,Artificial Intelligence in Urban Planning,Artificial Intelligence in Urban Planning,1,inferred,Artificial Intelligence in Urban Planning,INES_8104_concepts_raw.json
+INES_8104,topic,Internet of Things (IoT) and Smart Infrastructure,Internet of Things (IoT) and Smart Infrastructure,1,inferred,Internet of Things (IoT) and Smart Infrastructure,INES_8104_concepts_raw.json
+INES_8104,topic,Digital Twins for Urban Systems,Digital Twins for Urban Systems,1,inferred,Digital Twins for Urban Systems,INES_8104_concepts_raw.json
+INES_8104,topic,Cybersecurity in Smart Cities,Cybersecurity in Smart Cities,1,inferred,Cybersecurity in Smart Cities,INES_8104_concepts_raw.json
+INES_8104,topic,Sustainability and Urban Development,Sustainability and Urban Development,1,inferred,Sustainability and Urban Development,INES_8104_concepts_raw.json
+INES_8104,topic,Public Policy and Governance Frameworks,Public Policy and Governance Frameworks,1,inferred,Public Policy and Governance Frameworks,INES_8104_concepts_raw.json
+INES_8104,topic,Algorithmic Governance in Smart Cities,Algorithmic Governance in Smart Cities,1,inferred,Algorithmic Governance in Smart Cities,INES_8104_concepts_raw.json
+INES_8104,topic,Designing and Assessing City-Scale Initiatives,Designing and Assessing City-Scale Initiatives,1,inferred,Designing and Assessing City-Scale Initiatives,INES_8104_concepts_raw.json
+INES_8104,topic,Managing Urban Systems with Digital Technologies,Managing Urban Systems with Digital Technologies,1,inferred,Managing Urban Systems with Digital Technologies,INES_8104_concepts_raw.json
+INES_8104,concept,Smart City Definition,Smart City Definition,1,inferred,Smart City Definition,INES_8104_concepts_raw.json
+INES_8104,concept,Urbanization Challenges,Urbanization Challenges,1,inferred,Urbanization Challenges,INES_8104_concepts_raw.json
+INES_8104,concept,Digital Transformation,Digital Transformation,1,inferred,Digital Transformation,INES_8104_concepts_raw.json
+INES_8104,concept,AI Applications in Cities,AI Applications in Cities,1,inferred,AI Applications in Cities,INES_8104_concepts_raw.json
+INES_8104,concept,Predictive Analytics Tools,Predictive Analytics Tools,1,inferred,Predictive Analytics Tools,INES_8104_concepts_raw.json
+INES_8104,concept,Data-Driven Decision Making,Data-Driven Decision Making,1,inferred,Data-Driven Decision Making,INES_8104_concepts_raw.json
+INES_8104,concept,IoT Network Architecture,IoT Network Architecture,1,inferred,IoT Network Architecture,INES_8104_concepts_raw.json
+INES_8104,concept,Smart Grid Technologies,Smart Grid Technologies,1,inferred,Smart Grid Technologies,INES_8104_concepts_raw.json
+INES_8104,concept,Urban IoT Applications,Urban IoT Applications,1,inferred,Urban IoT Applications,INES_8104_concepts_raw.json
+INES_8104,concept,Digital Twin Definition,Digital Twin Definition,1,inferred,Digital Twin Definition,INES_8104_concepts_raw.json
+INES_8104,concept,Simulation-Based Planning,Simulation-Based Planning,1,inferred,Simulation-Based Planning,INES_8104_concepts_raw.json
+INES_8104,concept,Real-Time Data Integration,Real-Time Data Integration,1,inferred,Real-Time Data Integration,INES_8104_concepts_raw.json
+INES_8104,concept,City Network Security Threats,City Network Security Threats,1,inferred,City Network Security Threats,INES_8104_concepts_raw.json
+INES_8104,concept,Data Protection Strategies,Data Protection Strategies,1,inferred,Data Protection Strategies,INES_8104_concepts_raw.json
+INES_8104,concept,Incident Response Planning,Incident Response Planning,1,inferred,Incident Response Planning,INES_8104_concepts_raw.json
+INES_8104,concept,Green Infrastructure Design,Green Infrastructure Design,1,inferred,Green Infrastructure Design,INES_8104_concepts_raw.json
+INES_8104,concept,Renewable Energy Systems,Renewable Energy Systems,1,inferred,Renewable Energy Systems,INES_8104_concepts_raw.json
+INES_8104,concept,Urban Climate Resilience,Urban Climate Resilience,1,inferred,Urban Climate Resilience,INES_8104_concepts_raw.json
+INES_8104,concept,Smart City Governance Models,Smart City Governance Models,1,inferred,Smart City Governance Models,INES_8104_concepts_raw.json
+INES_8104,concept,Policy-Making for Urban Development,Policy-Making for Urban Development,1,inferred,Policy-Making for Urban Development,INES_8104_concepts_raw.json
+INES_8104,concept,Participatory Budgeting Approaches,Participatory Budgeting Approaches,1,inferred,Participatory Budgeting Approaches,INES_8104_concepts_raw.json
+INES_8104,concept,Algorithmic Decision Making,Algorithmic Decision Making,1,inferred,Algorithmic Decision Making,INES_8104_concepts_raw.json
+INES_8104,concept,Bias and Fairness Concerns,Bias and Fairness Concerns,1,inferred,Bias and Fairness Concerns,INES_8104_concepts_raw.json
+INES_8104,concept,Transparency and Accountability,Transparency and Accountability,1,inferred,Transparency and Accountability,INES_8104_concepts_raw.json
+INES_8104,concept,Smart City Business Models,Smart City Business Models,1,inferred,Smart City Business Models,INES_8104_concepts_raw.json
+INES_8104,concept,Urban Innovation Ecosystems,Urban Innovation Ecosystems,1,inferred,Urban Innovation Ecosystems,INES_8104_concepts_raw.json
+INES_8104,concept,Co-Creation Strategies,Co-Creation Strategies,1,inferred,Co-Creation Strategies,INES_8104_concepts_raw.json
+INES_8104,concept,Initiative Design Principles,Initiative Design Principles,1,inferred,Initiative Design Principles,INES_8104_concepts_raw.json
+INES_8104,concept,Impact Assessment Methods,Impact Assessment Methods,1,inferred,Impact Assessment Methods,INES_8104_concepts_raw.json
+INES_8104,concept,Evaluation Frameworks,Evaluation Frameworks,1,inferred,Evaluation Frameworks,INES_8104_concepts_raw.json

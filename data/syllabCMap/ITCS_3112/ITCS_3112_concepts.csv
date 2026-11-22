@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_3112,topic,Object-Oriented Programming,object-oriented programming,4,verified,Object-Oriented Programming,ITCS_3112_concepts_raw.json
+ITCS_3112,topic,Systems Analysis and Design,Systems Analysis and Design,1,verified,Systems Analysis and Design,ITCS_3112_concepts_raw.json
+ITCS_3112,topic,SDLC & Systems Analysis Overview,SDLC & Systems Analysis Overview,1,verified,SDLC & Systems Analysis Overview,ITCS_3112_concepts_raw.json
+ITCS_3112,topic,Object Oriented Design Patterns,Object Oriented Design Patterns,1,verified,Object Oriented Design Patterns,ITCS_3112_concepts_raw.json
+ITCS_3112,topic,C# Concepts,C# Concepts,1,verified,C# Concepts,ITCS_3112_concepts_raw.json
+ITCS_3112,topic,Object Oriented Program Design,Object Oriented Program Design,1,verified,Object Oriented Program Design,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,encapsulation,encapsulation,1,verified,encapsulation,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,inheritance,inheritance,1,verified,inheritance,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,polymorphism,polymorphism,1,verified,polymorphism,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,abstraction,abstraction,1,verified,abstraction,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,object-oriented analysis,object-oriented analysis,2,verified,object-oriented analysis,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,use case diagrams,Use Case Diagrams,9,verified,use case diagrams,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,class diagrams,Class Diagrams,9,verified,class diagrams,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,activity diagrams,Activity Diagrams,9,verified,activity diagrams,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,requirements document,Requirements Documents,1,verified,requirements document,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,functional requirements,Functional Requirements,9,verified,functional requirements,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,nonfunctional requirements,nonfunctional requirements,3,verified,nonfunctional requirements,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,system design principles,System Design Principles,1,verified,system design principles,ITCS_3112_concepts_raw.json
+ITCS_3112,concept,executable program submission guidelines,Executable Program Submission Guidelines,1,verified,executable program submission guidelines,ITCS_3112_concepts_raw.json
+ITCS_3112,method,incremental software development techniques,incremental software development techniques,1,verified,incremental software development techniques,ITCS_3112_concepts_raw.json
+ITCS_3112,method,object-oriented methodologies,object-oriented methodologies,1,verified,object-oriented methodologies,ITCS_3112_concepts_raw.json
+ITCS_3112,method,refine software projects,refine software projects,1,verified,"iterative build, test, and refine software projects",ITCS_3112_concepts_raw.json
+ITCS_3112,tool,Java,Java,4,verified,Java,ITCS_3112_concepts_raw.json
+ITCS_3112,tool,C#,C#,6,verified,C#,ITCS_3112_concepts_raw.json

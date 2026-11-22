@@ -1,0 +1,42 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHNS_2201,topic,Chinese Culture,Chinese culture,2,verified,Chinese Culture,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Intermediate Chinese I,Intermediate Chinese I,1,verified,Intermediate Chinese I,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Daily Life Situations,daily life situations,1,verified,Daily Life Situations,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Renting an Apartment,renting an apartment,1,verified,Renting an Apartment,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Dating and Relationships,Dating and Relationships,1,inferred,Dating and Relationships,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Sports and Leisure,Sports and Leisure,1,inferred,Sports and Leisure,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Traveling in China,Traveling in China,1,inferred,Traveling in China,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Chinese Culture and Traditions,Chinese Culture and Traditions,1,inferred,Chinese Culture and Traditions,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Listening and Speaking Skills,Listening and Speaking Skills,1,inferred,Listening and Speaking Skills,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Reading and Writing Chinese,Reading and Writing Chinese,1,inferred,Reading and Writing Chinese,CHNS_2201_concepts_raw.json
+CHNS_2201,topic,Cultural Immersion and Integration,Cultural Immersion and Integration,1,inferred,Cultural Immersion and Integration,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Basic Phrases,Basic Phrases,1,inferred,Basic Phrases,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Formal Greetings,Formal Greetings,1,inferred,Formal Greetings,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Names and Titles,Names and Titles,1,inferred,Names and Titles,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Shopping,Shopping,1,inferred,Shopping,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Eating Out,Eating Out,1,inferred,Eating Out,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Asking Directions,Asking Directions,1,inferred,Asking Directions,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Flirting,Flirting,1,inferred,Flirting,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Dating Customs,Dating Customs,1,inferred,Dating Customs,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Romantic Gestures,Romantic Gestures,1,inferred,Romantic Gestures,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Apartment Hunting,Apartment Hunting,1,inferred,Apartment Hunting,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Lease Agreements,Lease Agreements,1,inferred,Lease Agreements,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Utilities,Utilities,1,inferred,Utilities,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Popular Sports,Popular Sports,1,inferred,Popular Sports,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Fitness Centers,Fitness Centers,1,inferred,Fitness Centers,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Hobbies,Hobbies,1,inferred,Hobbies,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Transportation,Transportation,1,inferred,Transportation,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Accommodations,Accommodations,1,inferred,Accommodations,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Cultural Etiquette,Cultural Etiquette,1,inferred,Cultural Etiquette,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Festivals,Festivals,1,inferred,Festivals,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Holidays,Holidays,1,inferred,Holidays,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Family Values,Family Values,1,inferred,Family Values,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Discourse Level Fluency,Discourse Level Fluency,1,inferred,Discourse Level Fluency,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Accurate Pronunciation,Accurate Pronunciation,1,inferred,Accurate Pronunciation,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Conversational Topics,Conversational Topics,1,inferred,Conversational Topics,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Characters,Characters,1,inferred,Characters,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Pinyin System,Pinyin System,1,inferred,Pinyin System,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Basic Sentence Patterns,Basic Sentence Patterns,1,inferred,Basic Sentence Patterns,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Cross-Cultural Communication,Cross-Cultural Communication,1,inferred,Cross-Cultural Communication,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Cultural Adaptation,Cultural Adaptation,1,inferred,Cultural Adaptation,CHNS_2201_concepts_raw.json
+CHNS_2201,concept,Community Engagement,Community Engagement,1,inferred,Community Engagement,CHNS_2201_concepts_raw.json

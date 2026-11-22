@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_2125,Urban anthropology,topic,PREREQUISITE_OF,Methods in Urban Anthropology,topic,A taught first,,ANTH_2125_triples_raw.json
+ANTH_2125,Origins and Evolution of Cities,topic,PREREQUISITE_OF,Urban Landscapes and Futures,topic,A taught first,,ANTH_2125_triples_raw.json

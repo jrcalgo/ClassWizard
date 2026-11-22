@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_1110L,method,hands-on experimentation,hands-on experimentation,1,verified,hands-on experimentation,BIOL_1110L_concepts_raw.json
+BIOL_1110L,method,observation,observations,1,verified,observation,BIOL_1110L_concepts_raw.json
+BIOL_1110L,method,scientific reasoning,scientific reasoning,1,verified,scientific reasoning,BIOL_1110L_concepts_raw.json
+BIOL_1110L,method,critical thinking,critical thinking,1,verified,critical thinking,BIOL_1110L_concepts_raw.json
+BIOL_1110L,method,problem-solving,problem-solving,1,verified,problem-solving,BIOL_1110L_concepts_raw.json
+BIOL_1110L,tool,microscopes,microscopes,1,verified,microscopes,BIOL_1110L_concepts_raw.json
+BIOL_1110L,tool,laboratory equipment,laboratory equipment,1,verified,laboratory equipment,BIOL_1110L_concepts_raw.json

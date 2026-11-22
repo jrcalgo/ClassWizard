@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_8145,parallel architectures,concept,PREREQUISITE_OF,concurrency,concept,same unit,,ITCS_8145_triples_raw.json
+ITCS_8145,parallel architectures,concept,PREREQUISITE_OF,synchronization,concept,same unit,,ITCS_8145_triples_raw.json
+ITCS_8145,parallel architectures,concept,PREREQUISITE_OF,performance analysis,concept,same unit,,ITCS_8145_triples_raw.json
+ITCS_8145,Shared-Memory Programming Models,topic,PREREQUISITE_OF,concurrency,concept,B taught first,B is taught before A - check,ITCS_8145_triples_raw.json
+ITCS_8145,Shared-Memory Programming Models,topic,PREREQUISITE_OF,synchronization,concept,B taught first,B is taught before A - check,ITCS_8145_triples_raw.json
+ITCS_8145,concurrency,concept,PART_OF,Parallel Computing,topic,,,ITCS_8145_triples_raw.json
+ITCS_8145,synchronization,concept,PART_OF,Parallel Computing,topic,,,ITCS_8145_triples_raw.json
+ITCS_8145,performance analysis,concept,PART_OF,Parallel Computing,topic,,,ITCS_8145_triples_raw.json
+ITCS_8145,parallel architectures,concept,PART_OF,Parallel Computing,topic,,,ITCS_8145_triples_raw.json
+ITCS_8145,Shared-Memory Programming Models,topic,PART_OF,Parallel Computing,topic,,,ITCS_8145_triples_raw.json

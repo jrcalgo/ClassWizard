@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_4695,primary literature overview,concept,PART_OF,Seminar,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,chemistry research methods,concept,PART_OF,Seminar,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,critical thinking skills,concept,PART_OF,Seminar,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,search strategies and databases,concept,PART_OF,Literature Review Techniques,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,article selection criteria,concept,PART_OF,Literature Review Techniques,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,synthesizing information sources,concept,PART_OF,Literature Review Techniques,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,experimental design principles,concept,PART_OF,Chemical Research Methods,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,data analysis and interpretation,concept,PART_OF,Chemical Research Methods,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,visual aids and presentations,concept,PART_OF,Oral Presentation Skills,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,question and answer sessions,concept,PART_OF,Oral Presentation Skills,topic,,,CHEM_4695_triples_raw.json
+CHEM_4695,peer review and feedback process,concept,PART_OF,Written Report Writing,topic,,,CHEM_4695_triples_raw.json

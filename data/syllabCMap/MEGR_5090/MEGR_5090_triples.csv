@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_5090,Nonlinear Systems,topic,PREREQUISITE_OF,Mathematical Modeling of NL Systems,topic,A taught first,,MEGR_5090_triples_raw.json
+MEGR_5090,Nonlinear Systems,topic,PREREQUISITE_OF,Stability Analysis Techniques,topic,A taught first,,MEGR_5090_triples_raw.json
+MEGR_5090,Nonlinear Systems,topic,PREREQUISITE_OF,Advanced NL System Analysis Tools,topic,A taught first,,MEGR_5090_triples_raw.json
+MEGR_5090,Linear vs. Nonlinear Systems,concept,PREREQUISITE_OF,Mathematical Modeling of NL Systems,topic,A taught first,,MEGR_5090_triples_raw.json
+MEGR_5090,Linear vs. Nonlinear Systems,concept,PREREQUISITE_OF,Stability Analysis Techniques,topic,A taught first,,MEGR_5090_triples_raw.json
+MEGR_5090,Linear vs. Nonlinear Systems,concept,PREREQUISITE_OF,Feedback Control Design Methods,topic,A taught first,,MEGR_5090_triples_raw.json
+MEGR_5090,Linear vs. Nonlinear Systems,concept,PREREQUISITE_OF,Advanced NL System Analysis Tools,topic,A taught first,,MEGR_5090_triples_raw.json
+MEGR_5090,NL Differential Equations,concept,PART_OF,Mathematical Modeling of NL Systems,topic,,,MEGR_5090_triples_raw.json
+MEGR_5090,State Space Representation,concept,PART_OF,Mathematical Modeling of NL Systems,topic,,,MEGR_5090_triples_raw.json
+MEGR_5090,Lyapunov Functions,concept,PART_OF,Stability Analysis Techniques,topic,,,MEGR_5090_triples_raw.json
+MEGR_5090,LaSalle's Invariance Principle,concept,PART_OF,Stability Analysis Techniques,topic,,,MEGR_5090_triples_raw.json
+MEGR_5090,Stable Manifolds,concept,PART_OF,Stability Analysis Techniques,topic,,,MEGR_5090_triples_raw.json
+MEGR_5090,State Feedback Controllers,concept,PART_OF,Feedback Control Design Methods,topic,,,MEGR_5090_triples_raw.json
+MEGR_5090,Model Predictive Control,concept,PART_OF,Feedback Control Design Methods,topic,,,MEGR_5090_triples_raw.json
+MEGR_5090,Lyapunov Functions,concept,USED_FOR,Lyapunov Stability Criteria,concept,,,MEGR_5090_triples_raw.json
+MEGR_5090,LaSalle's Invariance Principle,concept,USED_FOR,Stable Manifolds,concept,,,MEGR_5090_triples_raw.json

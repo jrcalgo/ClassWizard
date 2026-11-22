@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_8281,item development,method,PART_OF,Scale Development Process,topic,,,HLTH_8281_triples_raw.json
+HLTH_8281,response scaling,method,PART_OF,Scale Development Process,topic,,,HLTH_8281_triples_raw.json
+HLTH_8281,item selection,method,PART_OF,Scale Development Process,topic,,,HLTH_8281_triples_raw.json
+HLTH_8281,reliability and validity testing,concept,PART_OF,Scale Development Process,topic,,,HLTH_8281_triples_raw.json
+HLTH_8281,psychometric methods,method,PART_OF,Measurement Principles,topic,,,HLTH_8281_triples_raw.json

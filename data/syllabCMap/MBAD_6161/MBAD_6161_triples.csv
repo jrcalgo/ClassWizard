@@ -1,0 +1,43 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6161,Motivation,topic,PREREQUISITE_OF,Leadership,topic,A taught first,,MBAD_6161_triples_raw.json
+MBAD_6161,Motivation,topic,PREREQUISITE_OF,Personality,topic,A taught first,,MBAD_6161_triples_raw.json
+MBAD_6161,Motivation,topic,PREREQUISITE_OF,Stress,topic,A taught first,,MBAD_6161_triples_raw.json
+MBAD_6161,Becoming an,topic,PREREQUISITE_OF,Attitudes,topic,A taught first,,MBAD_6161_triples_raw.json
+MBAD_6161,Becoming an,topic,PREREQUISITE_OF,Values,topic,A taught first,,MBAD_6161_triples_raw.json
+MBAD_6161,Becoming an,topic,PREREQUISITE_OF,Health,topic,A taught first,,MBAD_6161_triples_raw.json
+MBAD_6161,Emotion,topic,PREREQUISITE_OF,Power and Politics,topic,A taught first,,MBAD_6161_triples_raw.json
+MBAD_6161,Application,topic,PREREQUISITE_OF,Carryover/Makeup,topic,A taught first,,MBAD_6161_triples_raw.json
+MBAD_6161,Motivation Theories,concept,PART_OF,Motivation,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Leadership,topic,PART_OF,Motivation,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Personality,topic,PART_OF,Motivation,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Stress,topic,PART_OF,Motivation,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Organizational Culture,concept,PART_OF,Becoming an,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Behavioral Theories,concept,PART_OF,Becoming an,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Motivation Factors,concept,PART_OF,Becoming an,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Job Satisfaction,concept,PART_OF,Attitudes,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Expectancy Theory,concept,PART_OF,Motivation Theories,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,Goal Setting Theory,concept,PART_OF,Motivation Theories,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,Behavioral Science,concept,PART_OF,What is OB,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Organizational Culture,concept,PART_OF,What is OB,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Performance Management,topic,PART_OF,What is OB,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Emotion,topic,PART_OF,Power and Politics,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Big Five Personality,concept,PART_OF,Personality,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Personal Values,concept,PART_OF,Values,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Cultural Diversity,concept,PART_OF,Values,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Value-Based Decision,concept,PART_OF,Values,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Motivational Needs Hierarchy,concept,PART_OF,Motivation Theories,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,Organizational Culture,concept,USED_FOR,Becoming an,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Behavioral Science,concept,USED_FOR,What is OB,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Expectancy Theory,concept,USED_FOR,Motivation Theories,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,Goal Setting Theory,concept,USED_FOR,Motivation Theories,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,Maslow's Hierarchy,concept,USED_FOR,Motivational Needs Hierarchy,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,McClelland Acquired Needs,concept,USED_FOR,Motivational Needs Hierarchy,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,Cognitive Dissonance Theory,concept,USED_FOR,Job Satisfaction,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,Job Characteristics Model,concept,USED_FOR,Job Satisfaction,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,Role Perception Theory,concept,USED_FOR,Job Satisfaction,concept,,,MBAD_6161_triples_raw.json
+MBAD_6161,Big Five Personality,concept,USED_FOR,Personality,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Trait Theories Model,concept,USED_FOR,Personality,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Personal Values,concept,USED_FOR,Values,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Cultural Diversity,concept,USED_FOR,Values,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Value-Based Decision,concept,USED_FOR,Values,topic,,,MBAD_6161_triples_raw.json
+MBAD_6161,Motivational Needs Hierarchy,concept,USED_FOR,Motivation Theories,concept,,,MBAD_6161_triples_raw.json

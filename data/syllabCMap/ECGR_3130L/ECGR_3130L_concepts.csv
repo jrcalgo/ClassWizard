@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3130L,topic,Electronics Laboratory,Electronics Laboratory,1,verified,Electronics Laboratory,ECGR_3130L_concepts_raw.json
+ECGR_3130L,topic,Electronics,Electronics,2,verified,Introduction to Electronics,ECGR_3130L_concepts_raw.json
+ECGR_3130L,topic,Laboratory Instruments,laboratory instruments,1,verified,Laboratory Instruments,ECGR_3130L_concepts_raw.json
+ECGR_3130L,topic,BJT Amplifiers,BJT Amplifier,2,verified,BJT Amplifiers,ECGR_3130L_concepts_raw.json
+ECGR_3130L,topic,MOSFET Amplifiers,MOSFET Amplifier,2,verified,MOSFET Amplifiers,ECGR_3130L_concepts_raw.json
+ECGR_3130L,topic,Operational Amplifiers,operational amplifier,1,verified,Operational Amplifiers,ECGR_3130L_concepts_raw.json
+ECGR_3130L,topic,Technical Reporting,technical report,1,verified,Technical Reporting,ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,electrical components,electrical components,2,verified,electrical components,ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,diode clippers and clampers,Diode Clippers and Clampers,1,verified,diode clippers and clampers,ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,BJT amplifier configurations,BJT Amplifier Configurations,1,verified,BJT amplifier configurations,ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,differential pair amplifier,Differential Pair Amplifier,1,verified,differential pair amplifier,ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,MOSFET amplifier configurations,MOSFET Amplifier Configurations,1,verified,MOSFET amplifier configurations,ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,MOSFET input/output impedances,MOSFET input/output impedances,1,verified,MOSFET input/output impedances,ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,half-wave and full-wave rectifiers,half-wave and full-wave rectifiers,1,verified,half-wave and full-wave rectifiers,ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,load and ripple requirements,load and ripple requirements,1,verified,load and ripple requirements,ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,voltage,Voltage,2,verified,"voltage, current, and power gain",ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,current,Current,2,verified,"voltage, current, and power gain",ECGR_3130L_concepts_raw.json
+ECGR_3130L,concept,power gain,power gain,1,verified,"voltage, current, and power gain",ECGR_3130L_concepts_raw.json
+ECGR_3130L,method,circuit debugging techniques,Circuit debugging techniques,1,verified,circuit debugging techniques,ECGR_3130L_concepts_raw.json
+ECGR_3130L,tool,digital multi-meters,digital multi-meters,1,verified,digital multi-meters,ECGR_3130L_concepts_raw.json
+ECGR_3130L,tool,oscilloscopes,oscilloscopes,1,verified,oscilloscopes,ECGR_3130L_concepts_raw.json
+ECGR_3130L,tool,power supplies,power supplies,1,verified,power supplies,ECGR_3130L_concepts_raw.json

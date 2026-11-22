@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_7090,Experiential Learning,topic,PART_OF,Clinical and Macro Applications for Internal Family Systems,topic,,,SOWK_7090_triples_raw.json
+SOWK_7090,Clinical and Macro Applications for Internal Family Systems,topic,PART_OF,Self-Care in IFS Practice,topic,,,SOWK_7090_triples_raw.json
+SOWK_7090,Unblending Core Technique,concept,USED_FOR,Blending and Unblending,concept,,,SOWK_7090_triples_raw.json
+SOWK_7090,Befriending Parts Process,concept,USED_FOR,Self and Subpersonalities,concept,,,SOWK_7090_triples_raw.json
+SOWK_7090,Accessing the Self State,concept,USED_FOR,Internal Family Systems Model,concept,,,SOWK_7090_triples_raw.json

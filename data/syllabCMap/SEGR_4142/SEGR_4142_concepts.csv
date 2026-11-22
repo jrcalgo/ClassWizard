@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_4142,topic,Bayesian Analysis,Bayesian Analysis,1,verified,Bayesian Analysis,SEGR_4142_concepts_raw.json
+SEGR_4142,topic,Data Surveillance,data surveillance,1,verified,Data Surveillance,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Probability Theory Basics,Probability Theory Basics,1,inferred,Probability Theory Basics,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Risk Assessment Fundamentals,Risk Assessment Fundamentals,1,inferred,Risk Assessment Fundamentals,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Data Mining Techniques,Data Mining Techniques,1,inferred,Data Mining Techniques,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Surveillance System Design,Surveillance System Design,1,inferred,Surveillance System Design,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Alternative Hypothesis Formulation,Alternative Hypothesis Formulation,1,inferred,Alternative Hypothesis Formulation,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Decision Tree Analysis Methods,Decision Tree Analysis Methods,1,inferred,Decision Tree Analysis Methods,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Cognitive Biases in Decision Making,Cognitive Biases in Decision Making,1,inferred,Cognitive Biases in Decision Making,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Bias Mitigation Strategies,Bias Mitigation Strategies,1,inferred,Bias Mitigation Strategies,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Risk Dependency Graphs,Risk Dependency Graphs,1,inferred,Risk Dependency Graphs,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Network Analysis Techniques,Network Analysis Techniques,1,inferred,Network Analysis Techniques,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Threat Aggregation Methods,Threat Aggregation Methods,1,inferred,Threat Aggregation Methods,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Uncertainty Quantification,Uncertainty Quantification,1,inferred,Uncertainty Quantification,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Risk Aggregation Models,Risk Aggregation Models,1,inferred,Risk Aggregation Models,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Bayesian Decision Making,Bayesian Decision Making,1,inferred,Bayesian Decision Making,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Probability Distribution Modeling,Probability Distribution Modeling,1,inferred,Probability Distribution Modeling,SEGR_4142_concepts_raw.json
+SEGR_4142,concept,Systemic Inequality Awareness,Systemic Inequality Awareness,1,inferred,Systemic Inequality Awareness,SEGR_4142_concepts_raw.json

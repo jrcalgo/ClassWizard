@@ -1,0 +1,41 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITLN_1502,Critical Thinking and Cultural Analysis,topic,PREREQUISITE_OF,Global Citizenship,topic,B taught first,B is taught before A - check,ITLN_1502_triples_raw.json
+ITLN_1502,Critical Thinking and Cultural Analysis,topic,PREREQUISITE_OF,Italian Culture and Identity,topic,B taught first,B is taught before A - check,ITLN_1502_triples_raw.json
+ITLN_1502,Critical Thinking and Cultural Analysis,topic,PREREQUISITE_OF,Personal Parallels and Contemporary Life,topic,A taught first,,ITLN_1502_triples_raw.json
+ITLN_1502,Critical Thinking and Cultural Analysis,topic,PREREQUISITE_OF,Formulating Questions and Hypotheses,topic,A taught first,,ITLN_1502_triples_raw.json
+ITLN_1502,Critical Thinking and Cultural Analysis,topic,PREREQUISITE_OF,Evaluating Critical Issues and Evidence,topic,A taught first,,ITLN_1502_triples_raw.json
+ITLN_1502,Critical Thinking and Cultural Analysis,topic,PREREQUISITE_OF,Composing Writing Projects,topic,A taught first,,ITLN_1502_triples_raw.json
+ITLN_1502,Critical Thinking and Cultural Analysis,topic,PREREQUISITE_OF,Final Project Preparation,topic,A taught first,,ITLN_1502_triples_raw.json
+ITLN_1502,Global Interconnectedness,concept,PART_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Cultural Awareness,concept,PART_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Citizenship Responsibilities,concept,PART_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,National Identity Formation,concept,PART_OF,Italian Culture and Identity,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Cultural Exchange Programs,concept,PART_OF,Italian Culture and Identity,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Literary Analysis Techniques,concept,PART_OF,Adventures of Pinocchio as a Global Text,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Pinocchio's Cultural Significance,concept,PART_OF,Adventures of Pinocchio as a Global Text,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Global Themes in Literature,concept,PART_OF,Adventures of Pinocchio as a Global Text,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Cultural Criticism Methods,concept,PART_OF,Critical Thinking and Cultural Analysis,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Analyzing Cultural Representations,concept,PART_OF,Critical Thinking and Cultural Analysis,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Interpreting Symbolic Meanings,concept,PART_OF,Critical Thinking and Cultural Analysis,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Italian Influence on Global Culture,concept,PART_OF,Engaging with Italian Culture Abroad,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Cultural Exchange and Diffusion,concept,PART_OF,Engaging with Italian Culture Abroad,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Globalization and Cultural Homogenization,concept,PART_OF,Engaging with Italian Culture Abroad,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Making Personal Connections to Texts,concept,PART_OF,Personal Parallels and Contemporary Life,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Reflecting on Cultural Experiences,concept,PART_OF,Personal Parallels and Contemporary Life,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Question-Formulation Techniques,concept,PART_OF,Formulating Questions and Hypotheses,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Hypothesis Development Strategies,concept,PART_OF,Formulating Questions and Hypotheses,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Critical Thinking in Research,concept,PART_OF,Formulating Questions and Hypotheses,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Identifying Claims and Supporting Evidence,concept,PART_OF,Evaluating Critical Issues and Evidence,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Analyzing Reasoning and Argumentation,concept,PART_OF,Evaluating Critical Issues and Evidence,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Evaluating Sources and Authority,concept,PART_OF,Evaluating Critical Issues and Evidence,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Writing for Different Audiences,concept,PART_OF,Composing Writing Projects,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Adapting Tone and Style,concept,PART_OF,Composing Writing Projects,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Using Evidence to Support Claims,concept,PART_OF,Composing Writing Projects,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Italian Culture and Identity,topic,SUBTYPE_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Adventures of Pinocchio as a Global Text,topic,SUBTYPE_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Engaging with Italian Culture Abroad,topic,SUBTYPE_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Formulating Questions and Hypotheses,topic,SUBTYPE_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Evaluating Critical Issues and Evidence,topic,SUBTYPE_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Composing Writing Projects,topic,SUBTYPE_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Final Project Preparation,topic,SUBTYPE_OF,Global Citizenship,topic,,,ITLN_1502_triples_raw.json
+ITLN_1502,Adventures of Pinocchio,work,USED_FOR,Adventures of Pinocchio as a Global Text,topic,,,ITLN_1502_triples_raw.json

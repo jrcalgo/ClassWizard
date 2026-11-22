@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ANTH_3141,topic,Human Osteology,Human Osteology,1,verified,Human Osteology,ANTH_3141_concepts_raw.json
+ANTH_3141,topic,Osteology,Osteology,1,verified,Introduction to Osteology,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,human skeleton,human skeleton,3,verified,human skeleton,ANTH_3141_concepts_raw.json
+ANTH_3141,topic,Bones of the Skull,Bones of the Skull,1,inferred,Bones of the Skull,ANTH_3141_concepts_raw.json
+ANTH_3141,topic,Vertebral Column,Vertebral Column,1,inferred,Vertebral Column,ANTH_3141_concepts_raw.json
+ANTH_3141,topic,Upper Limb Bones,Upper Limb Bones,1,inferred,Upper Limb Bones,ANTH_3141_concepts_raw.json
+ANTH_3141,topic,Pelvis and Lower Limb,Pelvis and Lower Limb,1,inferred,Pelvis and Lower Limb,ANTH_3141_concepts_raw.json
+ANTH_3141,topic,Teeth and Jaws,Teeth and Jaws,1,inferred,Teeth and Jaws,ANTH_3141_concepts_raw.json
+ANTH_3141,topic,Osteology in Forensic Science,Osteology in Forensic Science,1,inferred,Osteology in Forensic Science,ANTH_3141_concepts_raw.json
+ANTH_3141,topic,Bioarchaeological Applications,Bioarchaeological Applications,1,inferred,Bioarchaeological Applications,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,cranium and face bones,Cranium and Face Bones,1,inferred,cranium and face bones,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,skull sutures and foramina,Skull Sutures and Foramina,1,inferred,skull sutures and foramina,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,anatomical landmarks of skull,Anatomical Landmarks of Skull,1,inferred,anatomical landmarks of skull,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,vertebrae structure and function,Vertebrae Structure and Function,1,inferred,vertebrae structure and function,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,spinal curvatures and abnormalities,Spinal Curvatures and Abnormalities,1,inferred,spinal curvatures and abnormalities,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,scapula,Scapula,1,inferred,scapula,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,humerus,Humerus,1,inferred,humerus,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,radius,Radius,1,inferred,radius,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,ulna,Ulna,1,inferred,ulna,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,carpals and metacarpals,Carpals and Metacarpals,1,inferred,carpals and metacarpals,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,phalanges of hand,Phalanges of Hand,1,inferred,phalanges of hand,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,ilium,Ilium,1,inferred,ilium,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,ischium,Ischium,1,inferred,ischium,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,pubis bones,Pubis Bones,1,inferred,pubis bones,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,femur,Femur,1,inferred,femur,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,patella,Patella,1,inferred,patella,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,tibia,Tibia,1,inferred,tibia,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,fibula,Fibula,1,inferred,fibula,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,tarsals and metatarsals,Tarsals and Metatarsals,1,inferred,tarsals and metatarsals,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,dental anatomy and structure,Dental Anatomy and Structure,1,inferred,dental anatomy and structure,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,tooth development and eruption,Tooth Development and Eruption,1,inferred,tooth development and eruption,ANTH_3141_concepts_raw.json
+ANTH_3141,concept,jaw bones and muscles,Jaw Bones and Muscles,1,inferred,jaw bones and muscles,ANTH_3141_concepts_raw.json

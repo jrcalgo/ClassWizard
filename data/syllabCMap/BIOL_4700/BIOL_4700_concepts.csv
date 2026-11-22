@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4700,topic,Research Question Development,Research Question Development,1,inferred,Research Question Development,BIOL_4700_concepts_raw.json
+BIOL_4700,topic,Laboratory Notebook Management,Laboratory Notebook Management,1,inferred,Laboratory Notebook Management,BIOL_4700_concepts_raw.json
+BIOL_4700,topic,Honors Thesis Committee Formation,Honors Thesis Committee Formation,1,inferred,Honors Thesis Committee Formation,BIOL_4700_concepts_raw.json
+BIOL_4700,topic,Research Proposal Writing,Research Proposal Writing,1,inferred,Research Proposal Writing,BIOL_4700_concepts_raw.json
+BIOL_4700,topic,Experimental Design and Planning,Experimental Design and Planning,1,inferred,Experimental Design and Planning,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,research question formulation,Research question formulation,1,inferred,research question formulation,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,hypothesis development,Hypothesis development,1,inferred,hypothesis development,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,question of interest identification,Question of interest identification,1,inferred,question of interest identification,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,experimental design documentation,Experimental design documentation,1,inferred,experimental design documentation,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,data collection and recording,Data collection and recording,1,inferred,data collection and recording,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,notebook organization techniques,Notebook organization techniques,1,inferred,notebook organization techniques,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,committee selection criteria,Committee selection criteria,1,inferred,committee selection criteria,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,faculty advisor identification,Faculty advisor identification,1,inferred,faculty advisor identification,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,committee role explanation,Committee role explanation,1,inferred,committee role explanation,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,proposal structure and format,Proposal structure and format,1,inferred,proposal structure and format,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,research question,Research Question,3,inferred,research question,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,methodology and experimental design,Methodology and experimental design,1,inferred,methodology and experimental design,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,experimental design principles,Experimental design principles,1,inferred,experimental design principles,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,hypothesis testing strategies,Hypothesis testing strategies,1,inferred,hypothesis testing strategies,BIOL_4700_concepts_raw.json
+BIOL_4700,concept,data analysis planning,Data analysis planning,1,inferred,data analysis planning,BIOL_4700_concepts_raw.json

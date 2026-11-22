@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Geologic Structures,concept,same unit,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Metamorphism Process,concept,same unit,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Rock Identification,concept,A taught first,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Geologic Features,concept,A taught first,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Topographic Maps,topic,A taught first,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Surface Processes,topic,A taught first,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Deformation,concept,A taught first,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Seismic Waves,concept,A taught first,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Faulting Process,concept,A taught first,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Plate Tectonics,concept,PREREQUISITE_OF,Tectonic Plate Boundaries,concept,A taught first,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Metamorphism Process,concept,PART_OF,Physical Geology,topic,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Metamorphism Types,concept,PART_OF,Metamorphism Process,concept,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Rock Identification,concept,PART_OF,Surface Processes,topic,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Geologic Structures,concept,PART_OF,Surface Processes,topic,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Topographic Maps,topic,PART_OF,Surface Processes,topic,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Deformation,concept,PART_OF,Surface Processes,topic,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Seismic Waves,concept,PART_OF,Earthquake Mechanism,concept,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Faulting Process,concept,PART_OF,Plate Tectonics,concept,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Metamorphism Types,concept,SUBTYPE_OF,Metamorphism Process,concept,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Volcanic Processes,concept,SUBTYPE_OF,Plate Tectonics,concept,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Earthquake Mechanism,concept,SUBTYPE_OF,Plate Tectonics,concept,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Seismic Waves,concept,SUBTYPE_OF,Earthquake Mechanism,concept,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Faulting Process,concept,SUBTYPE_OF,Plate Tectonics,concept,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Tectonic Plate Boundaries,concept,SUBTYPE_OF,Plate Tectonics,concept,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Contour Lines,concept,USED_FOR,Topographic Maps,topic,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Map Scales,concept,USED_FOR,Topographic Maps,topic,,,GEOL_1200L_triples_raw.json
+GEOL_1200L,Elevation Profiles,concept,USED_FOR,Topographic Maps,topic,,,GEOL_1200L_triples_raw.json

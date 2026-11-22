@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_2002,Historical Context,concept,PREREQUISITE_OF,Caribbean piracy,work,same unit,,LTAM_2002_triples_raw.json
+LTAM_2002,Protestant Reformation,concept,PREREQUISITE_OF,Caribbean piracy,work,same unit,,LTAM_2002_triples_raw.json
+LTAM_2002,Oliver Cromwell,work,PREREQUISITE_OF,Caribbean piracy,work,same unit,,LTAM_2002_triples_raw.json
+LTAM_2002,Exhibit-Style Information Board,topic,USED_FOR,LTAM,topic,,topic used for something - check direction,LTAM_2002_triples_raw.json

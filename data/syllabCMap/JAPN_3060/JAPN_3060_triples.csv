@@ -1,0 +1,37 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,critical sensibility towards moving images,concept,same unit,,JAPN_3060_triples_raw.json
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,camera movement techniques,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,framing devices in film,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,visual composition principles,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,film editing styles,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,pacing techniques in cinema,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,temporal manipulation in media,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,lighting effects in film,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,sound design principles,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,dynamic viewing skills,concept,PREREQUISITE_OF,audio-visual integration,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,critical sensibility towards moving images,concept,PREREQUISITE_OF,camera movement techniques,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,critical sensibility towards moving images,concept,PREREQUISITE_OF,framing devices in film,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,critical sensibility towards moving images,concept,PREREQUISITE_OF,visual composition principles,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,critical sensibility towards moving images,concept,PREREQUISITE_OF,film editing styles,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,critical sensibility towards moving images,concept,PREREQUISITE_OF,pacing techniques in cinema,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,critical sensibility towards moving images,concept,PREREQUISITE_OF,temporal manipulation in media,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,critical sensibility towards moving images,concept,PREREQUISITE_OF,lighting effects in film,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,critical sensibility towards moving images,concept,PREREQUISITE_OF,sound design principles,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,critical sensibility towards moving images,concept,PREREQUISITE_OF,audio-visual integration,concept,A taught first,,JAPN_3060_triples_raw.json
+JAPN_3060,camera movement techniques,concept,PART_OF,Japanese Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,visual composition principles,concept,PART_OF,Japanese Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,film editing styles,concept,PART_OF,Japanese Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,pacing techniques in cinema,concept,PART_OF,Japanese Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,temporal manipulation in media,concept,PART_OF,Japanese Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,lighting effects in film,concept,PART_OF,Japanese Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,sound design principles,concept,PART_OF,Japanese Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,audio-visual integration,concept,PART_OF,Japanese Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,experimental film techniques,concept,PART_OF,Experimental and Documentary Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,non-narrative storytelling,concept,PART_OF,Experimental and Documentary Film,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,idol film conventions,concept,PART_OF,Genre Films in Japanese Cinema,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,genre subversion and play,concept,PART_OF,Genre Films in Japanese Cinema,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,short film formats and styles,concept,PART_OF,Stop-Motion Animation and Shorts,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,experimental animation methods,concept,PART_OF,Stop-Motion Animation and Shorts,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,personal filmmaking approaches,concept,PART_OF,Home Movies and Personal Cinema,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,home movie aesthetics,concept,PART_OF,Home Movies and Personal Cinema,topic,,,JAPN_3060_triples_raw.json
+JAPN_3060,intimacy in cinema,concept,PART_OF,Home Movies and Personal Cinema,topic,,,JAPN_3060_triples_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LANG_2050,behaviors,concept,PART_OF,cultural prior knowledge,concept,,,LANG_2050_triples_raw.json
+LANG_2050,expressions,concept,PART_OF,cultural prior knowledge,concept,,,LANG_2050_triples_raw.json
+LANG_2050,communication styles,concept,PART_OF,cultural prior knowledge,concept,,,LANG_2050_triples_raw.json

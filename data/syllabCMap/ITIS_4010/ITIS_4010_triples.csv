@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4010,privacy as a value,concept,PREREQUISITE_OF,equality in data collection,concept,same unit,,ITIS_4010_triples_raw.json
+ITIS_4010,privacy as a value,concept,PREREQUISITE_OF,socially informed data practices,concept,A taught first,,ITIS_4010_triples_raw.json
+ITIS_4010,moral aspects of data science,concept,PART_OF,Data Ethics,topic,,,ITIS_4010_triples_raw.json
+ITIS_4010,ethical considerations in analytics,concept,PART_OF,Data Ethics,topic,,,ITIS_4010_triples_raw.json
+ITIS_4010,privacy as a value,concept,PART_OF,Thick Concepts in Data Analysis,topic,,,ITIS_4010_triples_raw.json
+ITIS_4010,equality in data collection,concept,PART_OF,Thick Concepts in Data Analysis,topic,,,ITIS_4010_triples_raw.json
+ITIS_4010,philosophy of data science,concept,PART_OF,Interdisciplinary Approaches to Data Ethics,topic,,,ITIS_4010_triples_raw.json
+ITIS_4010,socially informed data practices,concept,PART_OF,Case Studies in Data Ethics,topic,,,ITIS_4010_triples_raw.json
+ITIS_4010,philosophy of data science,concept,USED_FOR,law and data governance,concept,,,ITIS_4010_triples_raw.json

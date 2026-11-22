@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HSMT_3104,topic,Health Information Systems,Health Information Systems,1,verified,Health Information Systems,HSMT_3104_concepts_raw.json
+HSMT_3104,topic,Health Informatics,health informatics,1,verified,Introduction to Health Informatics,HSMT_3104_concepts_raw.json
+HSMT_3104,topic,Leadership and Strategic Planning,leadership and strategic planning,1,verified,Leadership and Strategic Planning,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,health informatics concepts,health informatics concepts,1,verified,health informatics concepts,HSMT_3104_concepts_raw.json
+HSMT_3104,topic,"Laws, Regulations, and Standards","Laws, Regulations, and Standards",1,inferred,"Laws, Regulations, and Standards",HSMT_3104_concepts_raw.json
+HSMT_3104,topic,Medical Document Management,Medical Document Management,1,inferred,Medical Document Management,HSMT_3104_concepts_raw.json
+HSMT_3104,topic,Team Environments for Quality Work,Team Environments for Quality Work,1,inferred,Team Environments for Quality Work,HSMT_3104_concepts_raw.json
+HSMT_3104,topic,Health Information Technology Applications,Health Information Technology Applications,1,inferred,Health Information Technology Applications,HSMT_3104_concepts_raw.json
+HSMT_3104,topic,Data Visualization and Statistics,Data Visualization and Statistics,1,inferred,Data Visualization and Statistics,HSMT_3104_concepts_raw.json
+HSMT_3104,topic,Critical Thinking in Health IT,Critical Thinking in Health IT,1,inferred,Critical Thinking in Health IT,HSMT_3104_concepts_raw.json
+HSMT_3104,topic,Case Studies in Health Informatics,Case Studies in Health Informatics,1,inferred,Case Studies in Health Informatics,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,health information systems overview,Health Information Systems Overview,1,inferred,health information systems overview,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,digital healthcare perspectives,Digital Healthcare Perspectives,1,inferred,digital healthcare perspectives,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,applications and cases in healthcare,Applications and Cases in Healthcare,1,inferred,applications and cases in healthcare,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,healthcare laws and regulations,Healthcare Laws and Regulations,1,inferred,healthcare laws and regulations,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,industry standards for health it,Industry Standards for Health IT,1,inferred,industry standards for health it,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,hipaa compliance requirements,HIPAA Compliance Requirements,1,inferred,hipaa compliance requirements,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,categorizing medical documents,Categorizing Medical Documents,1,inferred,categorizing medical documents,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,billing practices in healthcare,Billing Practices in Healthcare,1,inferred,billing practices in healthcare,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,diagnostic codes and classification,Diagnostic Codes and Classification,1,inferred,diagnostic codes and classification,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,improving teamwork in healthcare,Improving Teamwork in Healthcare,1,inferred,improving teamwork in healthcare,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,quality of work environment factors,Quality of Work Environment Factors,1,inferred,quality of work environment factors,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,collaboration strategies for success,Collaboration Strategies for Success,1,inferred,collaboration strategies for success,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,role of leadership in health it,Role of Leadership in Health IT,1,inferred,role of leadership in health it,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,strategic planning for health projects,Strategic Planning for Health Projects,1,inferred,strategic planning for health projects,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,project selection criteria and process,Project Selection Criteria and Process,1,inferred,project selection criteria and process,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,electronic health records systems,Electronic Health Records Systems,1,inferred,electronic health records systems,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,telehealth and remote monitoring,Telehealth and Remote Monitoring,1,inferred,telehealth and remote monitoring,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,personalized medicine and genomics,Personalized Medicine and Genomics,1,inferred,personalized medicine and genomics,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,interpreting healthcare statistics,Interpreting Healthcare Statistics,1,inferred,interpreting healthcare statistics,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,data visualizations for decision making,Data Visualizations for Decision Making,1,inferred,data visualizations for decision making,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,healthcare data analysis techniques,Healthcare Data Analysis Techniques,1,inferred,healthcare data analysis techniques,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,analyzing health it project proposals,Analyzing Health IT Project Proposals,1,inferred,analyzing health it project proposals,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,evaluating health it system effectiveness,Evaluating Health IT System Effectiveness,1,inferred,evaluating health it system effectiveness,HSMT_3104_concepts_raw.json
+HSMT_3104,concept,identifying health it risks and challenges,Identifying Health IT Risks and Challenges,1,inferred,identifying health it risks and challenges,HSMT_3104_concepts_raw.json

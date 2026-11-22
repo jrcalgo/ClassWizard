@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1512,Music in American Society,concept,PREREQUISITE_OF,Musical Trends and Styles,topic,A taught first,,MUSC_1512_triples_raw.json
+MUSC_1512,Local Community Definition,concept,PREREQUISITE_OF,Regional Music Traditions,concept,A taught first,,MUSC_1512_triples_raw.json
+MUSC_1512,Cultural Influence on Music,concept,PREREQUISITE_OF,Genre Formation Process,concept,same unit,,MUSC_1512_triples_raw.json
+MUSC_1512,Music in American Society,concept,PART_OF,Music in Local Communities,topic,,,MUSC_1512_triples_raw.json
+MUSC_1512,Local Music,topic,PART_OF,Music in Local Communities,topic,,,MUSC_1512_triples_raw.json
+MUSC_1512,Musical Trends and Styles,topic,PART_OF,Music in Local Communities,topic,,,MUSC_1512_triples_raw.json
+MUSC_1512,Regional Music Traditions,concept,PART_OF,Music in U.S. Communities,topic,,,MUSC_1512_triples_raw.json
+MUSC_1512,Social Context of Music,concept,PART_OF,Music in U.S. Communities,topic,,,MUSC_1512_triples_raw.json
+MUSC_1512,Music Reflecting Society,concept,PART_OF,"Music, Culture, and Society",topic,,,MUSC_1512_triples_raw.json
+MUSC_1512,Critique of Social Issues,concept,PART_OF,"Music, Culture, and Society",topic,,,MUSC_1512_triples_raw.json
+MUSC_1512,Interdisciplinary Approach,concept,USED_FOR,Music in Local Communities,topic,,,MUSC_1512_triples_raw.json

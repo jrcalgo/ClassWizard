@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6214,types of public health narratives,concept,PART_OF,narrative approaches,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,translating data into visuals,concept,PART_OF,data visualization,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,effective use of infographics,concept,PART_OF,data visualization,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,communicating complex science,concept,PART_OF,science communication,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,audience analysis and tailoring,concept,PART_OF,science communication,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,cultural sensitivity in PH messaging,concept,PART_OF,science communication,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,differentiating narrative approaches,concept,PART_OF,narrative approaches,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,integrating scientific evidence,concept,PART_OF,public health,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,presenting data in a coherent manner,concept,PART_OF,public health,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,using storytelling to persuade,concept,PART_OF,public health,topic,,,HLTH_6214_triples_raw.json
+HLTH_6214,data visualization,topic,USED_FOR,translating data into visuals,concept,,topic used for something - check direction,HLTH_6214_triples_raw.json

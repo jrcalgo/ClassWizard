@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_6274,cellular structure and function,concept,PREREQUISITE_OF,molecular mechanisms of disease,concept,same unit,,NURS_6274_triples_raw.json
+NURS_6274,cellular structure and function,concept,PREREQUISITE_OF,genetic mutations and expression,concept,same unit,,NURS_6274_triples_raw.json
+NURS_6274,hypertension and vascular disease,concept,PREREQUISITE_OF,myocardial infarction and ischemia,concept,same unit,,NURS_6274_triples_raw.json
+NURS_6274,hypertension and vascular disease,concept,PREREQUISITE_OF,heart failure and cardiac output,concept,same unit,,NURS_6274_triples_raw.json
+NURS_6274,chronic obstructive pulmonary disease,concept,PREREQUISITE_OF,pulmonary embolism and infarction,concept,same unit,,NURS_6274_triples_raw.json
+NURS_6274,stroke and cerebrovascular disease,concept,PREREQUISITE_OF,multiple sclerosis pathophysiology,concept,same unit,,NURS_6274_triples_raw.json
+NURS_6274,stroke and cerebrovascular disease,concept,PREREQUISITE_OF,Parkinson's disease and neurodegeneration,concept,same unit,,NURS_6274_triples_raw.json
+NURS_6274,cellular structure and function,concept,PART_OF,Cellular Pathophysiology,topic,,,NURS_6274_triples_raw.json
+NURS_6274,molecular mechanisms of disease,concept,PART_OF,Cellular Pathophysiology,topic,,,NURS_6274_triples_raw.json
+NURS_6274,genetic mutations and expression,concept,PART_OF,Cellular Pathophysiology,topic,,,NURS_6274_triples_raw.json
+NURS_6274,environmental risk factors,concept,PART_OF,Etiological Factors,topic,,,NURS_6274_triples_raw.json
+NURS_6274,genetic predisposition to disease,concept,PART_OF,Etiological Factors,topic,,,NURS_6274_triples_raw.json
+NURS_6274,myocardial infarction and ischemia,concept,PART_OF,Cardiovascular Pathophysiology,topic,,,NURS_6274_triples_raw.json
+NURS_6274,chronic obstructive pulmonary disease,concept,PART_OF,Respiratory System Disorders,topic,,,NURS_6274_triples_raw.json
+NURS_6274,pulmonary embolism and infarction,concept,PART_OF,Respiratory System Disorders,topic,,,NURS_6274_triples_raw.json
+NURS_6274,evidence-based practice guidelines,concept,PART_OF,Treatment and Management,topic,,,NURS_6274_triples_raw.json

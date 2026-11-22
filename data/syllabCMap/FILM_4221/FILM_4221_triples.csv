@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_4221,recursive research methods,concept,PREREQUISITE_OF,analyzing film as rhetoric,concept,A taught first,,FILM_4221_triples_raw.json
+FILM_4221,recursive research methods,concept,PREREQUISITE_OF,evaluating film representations,concept,A taught first,,FILM_4221_triples_raw.json
+FILM_4221,critical literacy skills,concept,PREREQUISITE_OF,analyzing film as rhetoric,concept,A taught first,,FILM_4221_triples_raw.json
+FILM_4221,critical literacy skills,concept,PREREQUISITE_OF,evaluating film representations,concept,A taught first,,FILM_4221_triples_raw.json
+FILM_4221,collective community strategy,concept,USED_FOR,collaborative storytelling,concept,,,FILM_4221_triples_raw.json

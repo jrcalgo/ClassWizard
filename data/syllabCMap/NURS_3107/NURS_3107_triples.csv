@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_3107,normal physiological functioning,concept,PREREQUISITE_OF,Pathophysiology,topic,A taught first,,NURS_3107_triples_raw.json
+NURS_3107,liberal education for baccalaureate generalist,concept,PREREQUISITE_OF,Clinical Concepts of Illness and Disease,topic,B mentioned first,,NURS_3107_triples_raw.json

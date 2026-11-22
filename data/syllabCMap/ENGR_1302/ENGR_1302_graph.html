@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ENGR 1302 - Course Information Overview - concept map</title>
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:#222;background:#fff}
+ header{padding:12px 16px;border-bottom:1px solid #ddd}
+ h1{font-size:18px;margin:0 0 4px} .sub{color:#666;font-size:13px}
+ #map{height:72vh;border-bottom:1px solid #ddd}
+ .legend{display:flex;flex-wrap:wrap;gap:10px 16px;padding:8px 16px;font-size:12px}
+ .sw{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+ .ln{display:inline-block;width:18px;height:3px;margin-right:5px;vertical-align:3px}
+ section{padding:8px 16px 24px} h2{font-size:15px;margin:16px 0 6px}
+ table{border-collapse:collapse;font-size:13px} td,th{border:1px solid #ddd;padding:3px 8px;text-align:left}
+ th{background:#f5f5f5} #err{display:none;padding:16px;color:#a00}
+</style></head><body>
+<header><h1>ENGR 1302 - Course Information Overview</h1><div class="sub">10 concepts, 3 relations &middot; drag to move, scroll to zoom, hover for details</div></header>
+<div id="err">The interactive map needs internet access to load its drawing library (unpkg.com).
+Open ENGR_1302_graph.png instead; the tables below list the same content.</div>
+<div id="map"></div>
+<div class="legend"><span><span class='sw' style='background:#4C78A8'></span>topic</span><span><span class='sw' style='background:#59A14F'></span>concept</span><span><span class='sw' style='background:#E15759'></span>tool</span><span><span class='ln' style='background:#1F77B4'></span>PART_OF</span><span><span class='ln' style='background:#FF7F0E'></span>USED_FOR</span><span class='sub'>dashed border = not verified in the syllabus text</span></div>
+<section><h2>Relations</h2><table><tr><th>subject</th><th>relation</th><th>object</th></tr><tr><td>problem solving frameworks</td><td>PART_OF</td><td>Problem Solving</td></tr><tr><td>Raspberry Pi Starter Kit</td><td>USED_FOR</td><td>Real-World Engineering Problems</td></tr><tr><td>zyBooks eBook Subscription</td><td>USED_FOR</td><td>problem solving frameworks</td></tr></table><h2>Concepts</h2><table><tr><th>concept</th><th>type</th><th>status</th><th>occurrences</th></tr><tr><td>Code Organization and Documentation</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Logic and Computational Problem Solving</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>Problem Solving</td><td>topic</td><td>verified</td><td>2</td></tr><tr><td>Real-World Engineering Problems</td><td>topic</td><td>verified</td><td>1</td></tr><tr><td>logical decision making</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>problem solving frameworks</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>proficiency in coding</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>surface-level symptoms</td><td>concept</td><td>verified</td><td>1</td></tr><tr><td>Raspberry Pi Starter Kit</td><td>tool</td><td>verified</td><td>1</td></tr><tr><td>zyBooks eBook Subscription</td><td>tool</td><td>verified</td><td>1</td></tr></table></section>
+<script>
+const DATA = {"nodes": [{"id": "logic and computational problem solving", "label": "Logic and Computational Problem Solving", "title": "Logic and Computational Problem Solving\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 214.28571428571428, "y": 204.0}, {"id": "problem solving", "label": "Problem Solving", "title": "Problem Solving\ntype: topic\nstatus: verified\noccurrences in syllabus: 2", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 250.0, "y": -0.0}, {"id": "code organization and documentation", "label": "Code Organization and Documentation", "title": "Code Organization and Documentation\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 71.42857142857143, "y": 204.0}, {"id": "real-world engineering problems", "label": "Real-World Engineering Problems", "title": "Real-World Engineering Problems\ntype: topic\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#4C78A8", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 750.0, "y": -0.0}, {"id": "problem solving frameworks", "label": "problem solving frameworks", "title": "problem solving frameworks\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 250.0, "y": -170.0}, {"id": "logical decision making", "label": "logical decision making", "title": "logical decision making\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 357.14285714285717, "y": 204.0}, {"id": "surface-level symptoms", "label": "surface-level symptoms", "title": "surface-level symptoms\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 642.8571428571429, "y": 204.0}, {"id": "proficiency in coding", "label": "proficiency in coding", "title": "proficiency in coding\ntype: concept\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#59A14F", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 500.0, "y": 204.0}, {"id": "raspberry pi starter kit", "label": "Raspberry Pi Starter Kit", "title": "Raspberry Pi Starter Kit\ntype: tool\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#E15759", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 750.0, "y": -170.0}, {"id": "zybooks ebook subscription", "label": "zyBooks eBook Subscription", "title": "zyBooks eBook Subscription\ntype: tool\nstatus: verified\noccurrences in syllabus: 1", "color": {"background": "#E15759", "border": "#333"}, "shapeProperties": {"borderDashes": false}, "x": 250.0, "y": -340.0}, {"id": "__alone__", "label": "concepts with no relation:", "shape": "text", "font": {"color": "#666", "size": 13}, "x": 60.0, "y": 118.99999999999999, "fixed": true, "chosen": false}], "edges": [{"from": "problem solving frameworks", "to": "problem solving", "label": "PART_OF", "color": "#1F77B4", "smooth": {"enabled": false}, "title": "problem solving frameworks PART_OF Problem Solving"}, {"from": "zybooks ebook subscription", "to": "problem solving frameworks", "label": "USED_FOR", "color": "#FF7F0E", "smooth": {"enabled": false}, "title": "zyBooks eBook Subscription USED_FOR problem solving frameworks"}, {"from": "raspberry pi starter kit", "to": "real-world engineering problems", "label": "USED_FOR", "color": "#FF7F0E", "smooth": {"enabled": false}, "title": "Raspberry Pi Starter Kit USED_FOR Real-World Engineering Problems"}]};
+if (typeof vis === "undefined") { document.getElementById("err").style.display = "block";
+  document.getElementById("map").style.display = "none"; }
+else {
+  const nodes = new vis.DataSet(DATA.nodes), edges = new vis.DataSet(DATA.edges);
+  const net = new vis.Network(document.getElementById("map"), {nodes, edges}, {
+    nodes: {shape: "box", margin: 8, font: {color: "#fff", size: 14}, widthConstraint: {maximum: 180}},
+    edges: {arrows: {to: {enabled: true, scaleFactor: 0.7}}, font: {size: 11, align: "middle",
+            background: "rgba(255,255,255,0.85)", multi: false}, width: 1.6},
+    physics: false,          // positions come from the same layered layout as the PNG
+    layout: {improvedLayout: false},
+    interaction: {hover: true, tooltipDelay: 120}
+  });
+  net.once("afterDrawing", () => net.fit());
+}
+</script></body></html>

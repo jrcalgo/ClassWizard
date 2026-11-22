@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_5165,Nucleic Acids and DNA,topic,PART_OF,Principles of Biochemistry,topic,,,CHEM_5165_triples_raw.json
+CHEM_5165,Lipids and Membranes,topic,PART_OF,Principles of Biochemistry,topic,,,CHEM_5165_triples_raw.json
+CHEM_5165,Thermodynamics in Biochemistry,topic,PART_OF,Principles of Biochemistry,topic,,,CHEM_5165_triples_raw.json

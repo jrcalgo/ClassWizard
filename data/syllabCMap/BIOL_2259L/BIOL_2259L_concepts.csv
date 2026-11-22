@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_2259L,topic,Microscopy,microscopy,1,verified,Microscopy,BIOL_2259L_concepts_raw.json
+BIOL_2259L,topic,Aseptic Techniques,aseptic techniques,1,verified,Aseptic Techniques,BIOL_2259L_concepts_raw.json
+BIOL_2259L,topic,Staining Bacteria,staining bacteria,1,verified,Staining Bacteria,BIOL_2259L_concepts_raw.json
+BIOL_2259L,topic,Microbial Growth Control,Microbial Growth Control,1,inferred,Microbial Growth Control,BIOL_2259L_concepts_raw.json
+BIOL_2259L,topic,Bacterial Physiology,Bacterial Physiology,1,inferred,Bacterial Physiology,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Microscope parts and function,Microscope parts and function,1,inferred,Microscope parts and function,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Light microscopy techniques,Light microscopy techniques,1,inferred,Light microscopy techniques,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Sample preparation methods,Sample preparation methods,1,inferred,Sample preparation methods,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Sterilization methods and equipment,Sterilization methods and equipment,1,inferred,Sterilization methods and equipment,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Gloving and gowning procedures,Gloving and gowning procedures,1,inferred,Gloving and gowning procedures,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Laminar flow hood safety,Laminar flow hood safety,1,inferred,Laminar flow hood safety,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Gram staining procedure and results,Gram staining procedure and results,1,inferred,Gram staining procedure and results,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Special stains for bacteria morphology,Special stains for bacteria morphology,1,inferred,Special stains for bacteria morphology,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Interpreting bacterial cell wall structure,Interpreting bacterial cell wall structure,1,inferred,Interpreting bacterial cell wall structure,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Physical methods of microbial control,Physical methods of microbial control,1,inferred,Physical methods of microbial control,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Chemical disinfection and sterilization,Chemical disinfection and sterilization,1,inferred,Chemical disinfection and sterilization,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Heat and radiation as antimicrobial agents,Heat and radiation as antimicrobial agents,1,inferred,Heat and radiation as antimicrobial agents,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Bacterial cell structure and function,Bacterial cell structure and function,1,inferred,Bacterial cell structure and function,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Metabolic pathways in bacteria,Metabolic pathways in bacteria,1,inferred,Metabolic pathways in bacteria,BIOL_2259L_concepts_raw.json
+BIOL_2259L,concept,Environmental factors affecting bacterial growth,Environmental factors affecting bacterial growth,1,inferred,Environmental factors affecting bacterial growth,BIOL_2259L_concepts_raw.json

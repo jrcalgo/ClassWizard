@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_2100,communication,topic,PART_OF,communication theory,topic,,,COMM_2100_triples_raw.json
+COMM_2100,communication,topic,PART_OF,personal and professional relationships,topic,,,COMM_2100_triples_raw.json
+COMM_2100,communication,topic,PART_OF,organizations,topic,,,COMM_2100_triples_raw.json
+COMM_2100,communication,topic,PART_OF,social institutions,topic,,,COMM_2100_triples_raw.json
+COMM_2100,importance of communication,concept,PART_OF,communication theory,topic,,,COMM_2100_triples_raw.json
+COMM_2100,theoretical development,concept,PART_OF,communication theory,topic,,,COMM_2100_triples_raw.json
+COMM_2100,communication,topic,USED_FOR,personal and professional relationships,topic,,topic used for something - check direction,COMM_2100_triples_raw.json
+COMM_2100,communication,topic,USED_FOR,organizations,topic,,topic used for something - check direction,COMM_2100_triples_raw.json
+COMM_2100,communication,topic,USED_FOR,social institutions,topic,,topic used for something - check direction,COMM_2100_triples_raw.json

@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_1130,topic,Astronomy,Astronomy,3,verified,Astronomy,PHYS_1130_concepts_raw.json
+PHYS_1130,topic,Observational Methods,Observational Methods,1,inferred,Observational Methods,PHYS_1130_concepts_raw.json
+PHYS_1130,topic,Solar System,Solar System,2,inferred,The Solar System,PHYS_1130_concepts_raw.json
+PHYS_1130,topic,Stars and Stellar Evolution,Stars and Stellar Evolution,1,inferred,Stars and Stellar Evolution,PHYS_1130_concepts_raw.json
+PHYS_1130,topic,Galaxies and Cosmology,Galaxies and Cosmology,1,inferred,Galaxies and Cosmology,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Scientific Method Overview,Scientific Method Overview,1,inferred,Scientific Method Overview,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Astronomy's Historical Development,Astronomy's Historical Development,1,inferred,Astronomy's Historical Development,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Telescopes and Their Types,Telescopes and Their Types,1,inferred,Telescopes and Their Types,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Spectroscopy and Spectra Analysis,Spectroscopy and Spectra Analysis,1,inferred,Spectroscopy and Spectra Analysis,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Detection Methods in Astronomy,Detection Methods in Astronomy,1,inferred,Detection Methods in Astronomy,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Planetary Formation Theories,Planetary Formation Theories,1,inferred,Planetary Formation Theories,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Orbital Mechanics and Motion,Orbital Mechanics and Motion,1,inferred,Orbital Mechanics and Motion,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Solar System's Structure and Composition,Solar System's Structure and Composition,1,inferred,Solar System's Structure and Composition,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Stellar Life Cycles and Phases,Stellar Life Cycles and Phases,1,inferred,Stellar Life Cycles and Phases,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Nuclear Fusion and Energy,Nuclear Fusion and Energy,1,inferred,Nuclear Fusion and Energy,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Star Formation and Death Processes,Star Formation and Death Processes,1,inferred,Star Formation and Death Processes,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Galaxy Types and Morphologies,Galaxy Types and Morphologies,1,inferred,Galaxy Types and Morphologies,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Cosmic Expansion and Hubble's Law,Cosmic Expansion and Hubble's Law,1,inferred,Cosmic Expansion and Hubble's Law,PHYS_1130_concepts_raw.json
+PHYS_1130,concept,Universe's Age and Size Estimates,Universe's Age and Size Estimates,1,inferred,Universe's Age and Size Estimates,PHYS_1130_concepts_raw.json

@@ -1,0 +1,47 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_3355,demographic subgroups,concept,PREREQUISITE_OF,intersectionality,concept,A taught first,,PSYC_3355_triples_raw.json
+PSYC_3355,demographic subgroups,concept,PREREQUISITE_OF,prejudice and racism,concept,same unit,,PSYC_3355_triples_raw.json
+PSYC_3355,intersectionality,concept,PREREQUISITE_OF,implicit attitudes,concept,B taught first,B is taught before A - check,PSYC_3355_triples_raw.json
+PSYC_3355,intersectionality,concept,PREREQUISITE_OF,microaggressions,concept,B taught first,B is taught before A - check,PSYC_3355_triples_raw.json
+PSYC_3355,intersectionality,concept,PREREQUISITE_OF,stereotype threat,concept,B taught first,B is taught before A - check,PSYC_3355_triples_raw.json
+PSYC_3355,cultural differences,concept,PART_OF,diversity concepts,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,cross-cultural competence,concept,PART_OF,diversity concepts,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,intersectionality,concept,PART_OF,diversity concepts,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,stereotyping consequences,concept,PART_OF,diversity concepts,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,prejudice and racism,concept,PART_OF,diversity concepts,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,microaggressions,concept,PART_OF,diversity concepts,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,inclusion and exclusion,concept,PART_OF,diversity concepts,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,demographic subgroups,concept,PART_OF,diversity concepts,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,implicit attitudes,concept,PART_OF,intersectionality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,stereotype threat,concept,PART_OF,intersectionality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,discrimination consequences,concept,PART_OF,intersectionality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,self-awareness skills,concept,PART_OF,cross-cultural competence,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,stereotyping process,concept,PART_OF,prejudice and racism,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,power dynamics,concept,PART_OF,intersectionality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,internalized oppression,concept,PART_OF,patriarchy,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,feminist theory,concept,PART_OF,diversity concepts,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,classism and privilege,concept,PART_OF,social class stereotypes,topic,,,PSYC_3355_triples_raw.json
+PSYC_3355,cultural capital concept,concept,PART_OF,socioeconomic status inequality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,economic marginalization,concept,PART_OF,income inequality,topic,,,PSYC_3355_triples_raw.json
+PSYC_3355,resource distribution,concept,PART_OF,wealth gap,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,body image,concept,PART_OF,cultural beauty standards,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,social identity theory,concept,PART_OF,intersectionality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,diversity concepts,concept,PART_OF,diversity,topic,,,PSYC_3355_triples_raw.json
+PSYC_3355,cultural influence theories,concept,PART_OF,cross-cultural competence,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,discriminatory behavior,concept,PART_OF,prejudice and racism,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,social injustice,concept,PART_OF,intersectionality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,racial stereotypes,concept,PART_OF,ethnic identity formation,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,cultural stereotypes and prejudice,concept,PART_OF,ethnic identity formation,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,implicit attitudes,concept,SUBTYPE_OF,intersectionality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,microaggressions,concept,SUBTYPE_OF,intersectionality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,stereotype threat,concept,SUBTYPE_OF,intersectionality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,internalized oppression,concept,SUBTYPE_OF,patriarchy,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,classism and privilege,concept,SUBTYPE_OF,social class stereotypes,topic,,,PSYC_3355_triples_raw.json
+PSYC_3355,cultural capital concept,concept,SUBTYPE_OF,socioeconomic status inequality,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,economic marginalization,concept,SUBTYPE_OF,income inequality,topic,,,PSYC_3355_triples_raw.json
+PSYC_3355,resource distribution,concept,SUBTYPE_OF,wealth gap,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,intersectionality,concept,USED_FOR,implicit attitudes,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,intersectionality,concept,USED_FOR,microaggressions,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,intersectionality,concept,USED_FOR,stereotype threat,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,cross-cultural competence,concept,USED_FOR,self-awareness skills,concept,,,PSYC_3355_triples_raw.json
+PSYC_3355,stereotype threat management,concept,USED_FOR,bias reduction strategies,concept,,,PSYC_3355_triples_raw.json

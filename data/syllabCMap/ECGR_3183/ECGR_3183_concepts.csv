@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3183,topic,Computer Organization,Computer Organization,2,verified,Computer Organization,ECGR_3183_concepts_raw.json
+ECGR_3183,method,CPU performance analysis,CPU performance analysis,1,verified,CPU performance analysis,ECGR_3183_concepts_raw.json
+ECGR_3183,topic,instruction set design,instruction set design,1,verified,instruction set design,ECGR_3183_concepts_raw.json
+ECGR_3183,topic,systems-level view of computer arithmetic,systems-level view of computer arithmetic,1,verified,systems-level view of computer arithmetic,ECGR_3183_concepts_raw.json
+ECGR_3183,topic,datapath and control for a simple processor using VHDL,datapath and control for a simple processor using VHDL,1,verified,datapath and control for a simple processor using VHDL,ECGR_3183_concepts_raw.json
+ECGR_3183,method,pipelining,pipelining,3,verified,pipelining,ECGR_3183_concepts_raw.json
+ECGR_3183,topic,hierarchial memory,hierarchial memory,1,verified,hierarchial memory,ECGR_3183_concepts_raw.json
+ECGR_3183,concept,I/O systems,I/O systems,2,verified,I/O systems,ECGR_3183_concepts_raw.json
+ECGR_3183,concept,instruction set architecture,instruction set architectures,1,verified,instruction set architecture,ECGR_3183_concepts_raw.json
+ECGR_3183,method,datapath and control design,datapath and control design,1,verified,datapath and control design,ECGR_3183_concepts_raw.json
+ECGR_3183,concept,memory hierarchy,memory hierarchy,2,verified,memory hierarchy,ECGR_3183_concepts_raw.json
+ECGR_3183,method,VHDL modeling,VHDL modeling,1,verified,VHDL modeling,ECGR_3183_concepts_raw.json
+ECGR_3183,method,simulation,simulation,1,verified,simulation,ECGR_3183_concepts_raw.json
+ECGR_3183,method,programming,programming,1,verified,programming,ECGR_3183_concepts_raw.json
+ECGR_3183,method,analysis,analysis,1,verified,assembly language writing and analysis,ECGR_3183_concepts_raw.json
+ECGR_3183,method,I,I,3,verified,I/O systems design,ECGR_3183_concepts_raw.json
+ECGR_3183,tool,VHDL,VHDL,2,verified,VHDL,ECGR_3183_concepts_raw.json
+ECGR_3183,tool,zyBooks,zyBooks,1,verified,zyBooks,ECGR_3183_concepts_raw.json

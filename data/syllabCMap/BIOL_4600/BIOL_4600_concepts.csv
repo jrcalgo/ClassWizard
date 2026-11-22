@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4600,topic,Biology,Biology,2,verified,Biology,BIOL_4600_concepts_raw.json
+BIOL_4600,topic,Senior Seminar,senior seminar,1,verified,Senior Seminar,BIOL_4600_concepts_raw.json
+BIOL_4600,concept,nonverbal communication cues,nonverbal communication cues,1,verified,nonverbal communication cues,BIOL_4600_concepts_raw.json
+BIOL_4600,method,scientific presentation,scientific presentation,1,verified,scientific presentation,BIOL_4600_concepts_raw.json
+BIOL_4600,method,peer review process,peer-review process,1,verified,peer review process,BIOL_4600_concepts_raw.json
+BIOL_4600,method,constructive,constructive,1,verified,"constructive, anonymous feedback",BIOL_4600_concepts_raw.json
+BIOL_4600,method,anonymous feedback,anonymous feedback,1,verified,"constructive, anonymous feedback",BIOL_4600_concepts_raw.json

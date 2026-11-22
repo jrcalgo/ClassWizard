@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITAI_5160,topic,Databases and Cloud for AI,Databases and Cloud for AI,3,verified,Databases and Cloud for AI,ITAI_5160_concepts_raw.json
+ITAI_5160,topic,Distributed Data Processing,distributed data processing,1,verified,Distributed Data Processing,ITAI_5160_concepts_raw.json
+ITAI_5160,topic,Cloud-Based Data Pipelines,cloud-based data pipelines,1,verified,Cloud-Based Data Pipelines,ITAI_5160_concepts_raw.json
+ITAI_5160,topic,End-to-End AI Data Architectures,end-to-end AI data architectures,1,verified,End-to-End AI Data Architectures,ITAI_5160_concepts_raw.json
+ITAI_5160,concept,AI data lifecycle,AI data lifecycle,1,verified,AI data lifecycle,ITAI_5160_concepts_raw.json
+ITAI_5160,concept,NoSQL databases,NoSQL databases,1,verified,NoSQL databases,ITAI_5160_concepts_raw.json
+ITAI_5160,method,parallel query execution,parallel query execution,1,verified,parallel query execution,ITAI_5160_concepts_raw.json
+ITAI_5160,concept,ETL pipelines,ETL pipelines,1,verified,ETL pipelines,ITAI_5160_concepts_raw.json
+ITAI_5160,concept,structured data,structured data,1,verified,structured data,ITAI_5160_concepts_raw.json
+ITAI_5160,concept,unstructured data,unstructured data,1,verified,unstructured data,ITAI_5160_concepts_raw.json
+ITAI_5160,method,designing cloud-based data pipelines,designing cloud-based data pipelines,1,verified,designing cloud-based data pipelines,ITAI_5160_concepts_raw.json
+ITAI_5160,method,managing relational and NoSQL databases,managing relational and NoSQL databases,1,verified,managing relational and NoSQL databases,ITAI_5160_concepts_raw.json
+ITAI_5160,method,processing large-scale data,processing large-scale data,1,verified,processing large-scale data,ITAI_5160_concepts_raw.json
+ITAI_5160,method,building AI workflows,building AI workflows,1,verified,building AI workflows,ITAI_5160_concepts_raw.json
+ITAI_5160,method,distributed computing techniques,distributed computing techniques,1,verified,distributed computing techniques,ITAI_5160_concepts_raw.json
+ITAI_5160,method,Spark and ETL pipelines,Spark and ETL pipelines,1,verified,Spark and ETL pipelines,ITAI_5160_concepts_raw.json

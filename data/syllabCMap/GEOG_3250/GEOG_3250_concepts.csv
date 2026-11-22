@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_3250,topic,World Food Problems,World Food Problems,2,verified,World Food Problems,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Food Geographies,Food Geographies,1,verified,Introduction to Food Geographies,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Agriculture and Labor,Agriculture and Labor,1,inferred,Agriculture and Labor,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Food Culture and Identity,Food Culture and Identity,1,inferred,Food Culture and Identity,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Global Food Trade and Distribution,Global Food Trade and Distribution,1,inferred,Global Food Trade and Distribution,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Environmental Impact of Agriculture,Environmental Impact of Agriculture,1,inferred,Environmental Impact of Agriculture,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Food Consumption and Waste,Food Consumption and Waste,1,inferred,Food Consumption and Waste,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Regional Case Studies: Africa,Regional Case Studies: Africa,1,inferred,Regional Case Studies: Africa,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Regional Case Studies: Asia,Regional Case Studies: Asia,1,inferred,Regional Case Studies: Asia,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Regional Case Studies: Latin America,Regional Case Studies: Latin America,1,inferred,Regional Case Studies: Latin America,GEOG_3250_concepts_raw.json
+GEOG_3250,topic,Global Food Futures and Scenarios,Global Food Futures and Scenarios,1,inferred,Global Food Futures and Scenarios,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,food as geographic question,Food as Geographic Question,1,inferred,food as geographic question,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,complexity of food systems,Complexity of Food Systems,1,inferred,complexity of food systems,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,geographic thinking in food studies,Geographic Thinking in Food Studies,1,inferred,geographic thinking in food studies,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,global agriculture patterns,Global Agriculture Patterns,1,inferred,global agriculture patterns,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,labor migration and trade,Labor Migration and Trade,1,inferred,labor migration and trade,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,farmworker rights and conditions,Farmworker Rights and Conditions,1,inferred,farmworker rights and conditions,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,cultural significance of food,Cultural Significance of Food,1,inferred,cultural significance of food,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,food as symbolic expression,Food as Symbolic Expression,1,inferred,food as symbolic expression,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,regional cuisine and tradition,Regional Cuisine and Tradition,1,inferred,regional cuisine and tradition,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,global commodity chains,Global Commodity Chains,1,inferred,global commodity chains,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,trade agreements and policies,Trade Agreements and Policies,2,inferred,trade agreements and policies,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,food security and access,Food Security and Access,1,inferred,food security and access,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,soil degradation and erosion,Soil Degradation and Erosion,1,inferred,soil degradation and erosion,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,water scarcity and pollution,Water Scarcity and Pollution,1,inferred,water scarcity and pollution,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,climate change and food systems,Climate Change and Food Systems,1,inferred,climate change and food systems,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,global food consumption patterns,Global Food Consumption Patterns,1,inferred,global food consumption patterns,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,food waste and sustainability,Food Waste and Sustainability,1,inferred,food waste and sustainability,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,consumer culture and choice,Consumer Culture and Choice,1,inferred,consumer culture and choice,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,African agriculture and development,African Agriculture and Development,1,inferred,African agriculture and development,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,food security in sub-Saharan Africa,Food Security in Sub-Saharan Africa,1,inferred,food security in sub-Saharan Africa,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,regional trade agreements and policies,Regional Trade Agreements and Policies,1,inferred,regional trade agreements and policies,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,Asian food systems and culture,Asian Food Systems and Culture,1,inferred,Asian food systems and culture,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,rice production and trade,Rice Production and Trade,1,inferred,rice production and trade,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,food security in Southeast Asia,Food Security in Southeast Asia,1,inferred,food security in Southeast Asia,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,Latin American agriculture and development,Latin American Agriculture and Development,1,inferred,Latin American agriculture and development,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,coffee and cacao production,Coffee and Cacao Production,1,inferred,coffee and cacao production,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,food security in Central America,Food Security in Central America,1,inferred,food security in Central America,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,futures thinking in food studies,Futures Thinking in Food Studies,1,inferred,futures thinking in food studies,GEOG_3250_concepts_raw.json
+GEOG_3250,concept,scenario planning and analysis,Scenario Planning and Analysis,1,inferred,scenario planning and analysis,GEOG_3250_concepts_raw.json

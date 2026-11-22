@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4279,Cell Biology,topic,PREREQUISITE_OF,Neurobiology,topic,B mentioned first,,BIOL_4279_triples_raw.json

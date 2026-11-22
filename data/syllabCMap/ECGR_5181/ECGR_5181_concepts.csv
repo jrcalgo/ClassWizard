@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5181,topic,Computer Architecture,Computer Architectures,1,verified,Computer Architecture,ECGR_5181_concepts_raw.json
+ECGR_5181,topic,Microprocessor Design Process,Microprocessor design process,1,verified,Microprocessor Design Process,ECGR_5181_concepts_raw.json
+ECGR_5181,topic,Instruction-Level Parallelism,instruction-level parallelism,1,verified,Instruction-Level Parallelism,ECGR_5181_concepts_raw.json
+ECGR_5181,topic,Memory Hierarchy Design,Memory hierarchy design,1,verified,Memory Hierarchy Design,ECGR_5181_concepts_raw.json
+ECGR_5181,topic,Modern Processor Frontend,Modern processor frontend,1,verified,Modern Processor Frontend,ECGR_5181_concepts_raw.json
+ECGR_5181,tool,Architecture simulator tools,architecture simulator tools,2,verified,Architecture simulator tools,ECGR_5181_concepts_raw.json
+ECGR_5181,topic,Memory Hierarchy Organization,memory hierarchy organization,1,verified,Memory Hierarchy Organization,ECGR_5181_concepts_raw.json
+ECGR_5181,topic,Current Research Literature,current research literature,1,verified,Current Research Literature,ECGR_5181_concepts_raw.json
+ECGR_5181,concept,Multi-Core,Multi-Core,1,verified,"Multi-Core, Multi-Threaded, Pipelined Computer Architectures",ECGR_5181_concepts_raw.json
+ECGR_5181,concept,Multi-Threaded,Multi-Threaded,1,verified,"Multi-Core, Multi-Threaded, Pipelined Computer Architectures",ECGR_5181_concepts_raw.json
+ECGR_5181,concept,Pipelined Computer Architectures,Pipelined Computer Architectures,1,verified,"Multi-Core, Multi-Threaded, Pipelined Computer Architectures",ECGR_5181_concepts_raw.json
+ECGR_5181,concept,Branch predictors,Branch predictors,1,verified,Branch predictors,ECGR_5181_concepts_raw.json
+ECGR_5181,concept,Memory hierarchy,memory hierarchy,5,verified,Memory hierarchy,ECGR_5181_concepts_raw.json
+ECGR_5181,concept,Processor Performance and Power,Processor Performance and Power,1,verified,Processor Performance and Power,ECGR_5181_concepts_raw.json
+ECGR_5181,concept,Performance vs cost trade-off of design,performance vs cost trade-off of design,1,verified,Performance vs cost trade-off of design,ECGR_5181_concepts_raw.json
+ECGR_5181,concept,Frontend Pipelining Structures,frontend pipelining structures,1,verified,Frontend Pipelining Structures,ECGR_5181_concepts_raw.json
+ECGR_5181,concept,Architecture Simulators,architecture simulator,2,verified,Architecture Simulators,ECGR_5181_concepts_raw.json

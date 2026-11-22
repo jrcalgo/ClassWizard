@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3261,mortgage markets,concept,PREREQUISITE_OF,real estate capital markets,topic,B taught first,B is taught before A - check,FINN_3261_triples_raw.json
+FINN_3261,mortgage securitization,topic,PREREQUISITE_OF,investment analysis,topic,B mentioned first,,FINN_3261_triples_raw.json
+FINN_3261,GSEs,concept,PREREQUISITE_OF,private-label issuers,concept,same unit,,FINN_3261_triples_raw.json
+FINN_3261,net operating income,concept,PREREQUISITE_OF,capitalization rates,concept,same unit,,FINN_3261_triples_raw.json
+FINN_3261,discounted cash flow analysis,concept,PREREQUISITE_OF,loan-to-value constraints,concept,same unit,,FINN_3261_triples_raw.json
+FINN_3261,risk allocation and borrower suitability,concept,PART_OF,real estate capital markets,topic,,,FINN_3261_triples_raw.json
+FINN_3261,Ginnie Mae,concept,PART_OF,mortgage securitization,topic,,,FINN_3261_triples_raw.json
+FINN_3261,private-label issuers,concept,PART_OF,mortgage securitization,topic,,,FINN_3261_triples_raw.json
+FINN_3261,net operating income,concept,PART_OF,investment analysis,topic,,,FINN_3261_triples_raw.json
+FINN_3261,capitalization rates,concept,PART_OF,investment analysis,topic,,,FINN_3261_triples_raw.json
+FINN_3261,discounted cash flow analysis,concept,PART_OF,investment analysis,topic,,,FINN_3261_triples_raw.json
+FINN_3261,loan-to-value constraints,concept,PART_OF,investment analysis,topic,,,FINN_3261_triples_raw.json

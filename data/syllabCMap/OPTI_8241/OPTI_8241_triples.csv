@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPTI_8241,geometrical ray-tracing methods,concept,PREREQUISITE_OF,Optical System Function and Design,topic,A mentioned first,,OPTI_8241_triples_raw.json
+OPTI_8241,geometrical ray-tracing methods,concept,PREREQUISITE_OF,Zemax Code Functionality,topic,A taught first,,OPTI_8241_triples_raw.json
+OPTI_8241,geometrical ray-tracing methods,concept,PREREQUISITE_OF,Design of Optical Components,topic,A taught first,,OPTI_8241_triples_raw.json
+OPTI_8241,multiple refractive surfaces,concept,PART_OF,off-axis imaging system design,concept,,,OPTI_8241_triples_raw.json
+OPTI_8241,aperture stop functionality,concept,PART_OF,off-axis imaging system design,concept,,,OPTI_8241_triples_raw.json
+OPTI_8241,geometrical ray-tracing methods,concept,PART_OF,optical system design principles,concept,,,OPTI_8241_triples_raw.json
+OPTI_8241,geometrical ray-tracing methods,concept,PART_OF,Zemax Code Functionality,topic,,,OPTI_8241_triples_raw.json
+OPTI_8241,geometrical ray-tracing methods,concept,PART_OF,Geometric Optics Simulation Tools,topic,,,OPTI_8241_triples_raw.json
+OPTI_8241,geometrical ray-tracing methods,concept,PART_OF,Optical Design Code Selection,topic,,,OPTI_8241_triples_raw.json

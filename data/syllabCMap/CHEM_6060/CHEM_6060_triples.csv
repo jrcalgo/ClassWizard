@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_6060,nanomaterials in medicine,concept,PREREQUISITE_OF,applications of nanotechnology,concept,same unit,,CHEM_6060_triples_raw.json
+CHEM_6060,immunotherapy mechanisms explained,concept,PREREQUISITE_OF,cancer stem cell characteristics,concept,same unit,,CHEM_6060_triples_raw.json
+CHEM_6060,nano-sensors for biomarker detection,concept,PREREQUISITE_OF,ultrasound contrast agents,concept,same unit,,CHEM_6060_triples_raw.json
+CHEM_6060,nanomaterials in medicine,concept,PART_OF,applications of nanotechnology,concept,,,CHEM_6060_triples_raw.json
+CHEM_6060,applications of nanotechnology,concept,USED_FOR,nanomaterials in medicine,concept,,,CHEM_6060_triples_raw.json
+CHEM_6060,medical imaging techniques,concept,USED_FOR,tumor microenvironment dynamics,concept,,,CHEM_6060_triples_raw.json
+CHEM_6060,immunotherapy mechanisms explained,concept,USED_FOR,cancer stem cell characteristics,concept,,,CHEM_6060_triples_raw.json

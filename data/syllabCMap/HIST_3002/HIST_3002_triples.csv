@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_3002,Prehistoric Southern Levant,topic,PREREQUISITE_OF,Ancient Mesopotamian Influences,topic,A taught first,,HIST_3002_triples_raw.json
+HIST_3002,Prehistoric Southern Levant,topic,PREREQUISITE_OF,Material Culture of Ancient Israelites,topic,A taught first,,HIST_3002_triples_raw.json
+HIST_3002,Prehistoric Southern Levant,topic,PREREQUISITE_OF,Ancient Near Eastern Artifacts,topic,A taught first,,HIST_3002_triples_raw.json
+HIST_3002,Ancient Mesopotamian Influences,topic,PREREQUISITE_OF,Material Culture of Ancient Israelites,topic,A taught first,,HIST_3002_triples_raw.json
+HIST_3002,Ancient Mesopotamian Influences,topic,PREREQUISITE_OF,Ancient Near Eastern Artifacts,topic,A taught first,,HIST_3002_triples_raw.json
+HIST_3002,Material Culture of Ancient Israelites,topic,PREREQUISITE_OF,Ancient Near Eastern Societies,topic,A taught first,,HIST_3002_triples_raw.json
+HIST_3002,Ancient Near Eastern Artifacts,topic,PREREQUISITE_OF,Archaeological Methods and Theories,topic,A taught first,,HIST_3002_triples_raw.json
+HIST_3002,Ancient Near Eastern Societies,topic,PREREQUISITE_OF,Advent of Islam in the Levant,topic,A taught first,,HIST_3002_triples_raw.json
+HIST_3002,Importance of non-Western history,concept,PART_OF,Non-Western History,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Mesopotamian trade networks,concept,PART_OF,Ancient Mesopotamian Influences,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Influence on material culture,concept,PART_OF,Ancient Mesopotamian Influences,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Israelite pottery and ceramics,concept,PART_OF,Material Culture of Ancient Israelites,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Metalworking techniques and tools,concept,PART_OF,Material Culture of Ancient Israelites,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Types of ancient artifacts,concept,PART_OF,Ancient Near Eastern Artifacts,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Data-analysis procedures,method,PART_OF,Ancient Near Eastern Artifacts,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Critical examination of artifact significance,concept,PART_OF,Ancient Near Eastern Artifacts,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Excavation techniques and methods,concept,PART_OF,Archaeological Methods and Theories,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Dating methods and chronology,concept,PART_OF,Archaeological Methods and Theories,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Social hierarchies and structures,concept,PART_OF,Ancient Near Eastern Societies,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Cultural practices and traditions,concept,PART_OF,Ancient Near Eastern Societies,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Islamic conquests and expansion,concept,PART_OF,Advent of Islam in the Levant,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Impact on material culture and society,concept,PART_OF,Advent of Islam in the Levant,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Transition to Islamic rule,concept,PART_OF,Advent of Islam in the Levant,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Research Paper Preparation,topic,PART_OF,Sources and citation methods,concept,,part is broader than whole - check direction,HIST_3002_triples_raw.json
+HIST_3002,Data-analysis procedures,method,USED_FOR,Ancient Near Eastern Artifacts,topic,,,HIST_3002_triples_raw.json
+HIST_3002,Data-analysis procedures,method,USED_FOR,Archaeological Methods and Theories,topic,,,HIST_3002_triples_raw.json

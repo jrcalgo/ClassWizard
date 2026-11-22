@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITAI_4153,MLOps integration,concept,USED_FOR,Machine Learning Operations,topic,,,ITAI_4153_triples_raw.json
+ITAI_4153,data management techniques,method,USED_FOR,high-quality inputs,concept,,,ITAI_4153_triples_raw.json
+ITAI_4153,deployment strategies,concept,USED_FOR,model performance,concept,,,ITAI_4153_triples_raw.json
+ITAI_4153,AI applications,concept,USED_FOR,technical details,concept,,,ITAI_4153_triples_raw.json

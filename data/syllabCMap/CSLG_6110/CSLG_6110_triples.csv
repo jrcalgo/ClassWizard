@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_6110,self-understanding,concept,PREREQUISITE_OF,change,concept,A mentioned first,,CSLG_6110_triples_raw.json
+CSLG_6110,self-exploration,concept,PREREQUISITE_OF,change,concept,A mentioned first,,CSLG_6110_triples_raw.json
+CSLG_6110,self-exploration,concept,PREREQUISITE_OF,self-understanding,concept,A taught first,,CSLG_6110_triples_raw.json
+CSLG_6110,Facilitative counselor/client relationships,concept,PREREQUISITE_OF,Basic Techniques of Individual Counseling,topic,B mentioned first,,CSLG_6110_triples_raw.json
+CSLG_6110,Counseling Techniques,topic,PREREQUISITE_OF,change,concept,A mentioned first,,CSLG_6110_triples_raw.json
+CSLG_6110,self-exploration,concept,PART_OF,self-understanding,concept,,,CSLG_6110_triples_raw.json
+CSLG_6110,change,concept,PART_OF,self-understanding,concept,,,CSLG_6110_triples_raw.json
+CSLG_6110,Facilitative counselor/client relationships,concept,PART_OF,Counseling Techniques,topic,,,CSLG_6110_triples_raw.json

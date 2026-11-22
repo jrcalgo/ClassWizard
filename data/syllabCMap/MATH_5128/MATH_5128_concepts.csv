@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_5128,topic,probability,probabilities,2,verified,probability,MATH_5128_concepts_raw.json
+MATH_5128,topic,discrete-time Markov chains,discrete-time Markov chains,1,verified,discrete-time Markov chains,MATH_5128_concepts_raw.json
+MATH_5128,topic,Poisson Processes,Poisson Processes,5,verified,Poisson Processes,MATH_5128_concepts_raw.json
+MATH_5128,topic,compound Poisson processes,compound Poisson processes,1,verified,compound Poisson processes,MATH_5128_concepts_raw.json
+MATH_5128,topic,Cramér-Lundberg insurance model,Cramér-Lundberg insurance model,1,verified,Cramér-Lundberg insurance model,MATH_5128_concepts_raw.json
+MATH_5128,topic,nonhomogeneous Poisson processes,nonhomogeneous Poisson processes,2,verified,nonhomogeneous Poisson processes,MATH_5128_concepts_raw.json
+MATH_5128,topic,Poisson point processes,Poisson point processes,2,verified,Poisson point processes,MATH_5128_concepts_raw.json
+MATH_5128,topic,continuous time Markov chains,continuous time Markov chains,2,verified,continuous time Markov chains,MATH_5128_concepts_raw.json
+MATH_5128,concept,conditional probability,conditional probability,1,verified,conditional probability,MATH_5128_concepts_raw.json
+MATH_5128,concept,conditional expectation,conditional expectation,1,verified,conditional expectation,MATH_5128_concepts_raw.json
+MATH_5128,concept,conditional distributions,conditional distributions,1,verified,conditional distributions,MATH_5128_concepts_raw.json
+MATH_5128,concept,transition probabilities,transition probabilities,1,verified,transition probabilities,MATH_5128_concepts_raw.json
+MATH_5128,concept,stationary distributions,stationary distributions,1,verified,stationary distributions,MATH_5128_concepts_raw.json
+MATH_5128,concept,long-run behavior,long-run behavior,2,verified,long-run behavior,MATH_5128_concepts_raw.json
+MATH_5128,concept,nonhomogeneous Poisson process,nonhomogeneous Poisson processes,2,verified,nonhomogeneous Poisson process,MATH_5128_concepts_raw.json
+MATH_5128,concept,aggregate random quantities,aggregate random quantities,1,verified,aggregate random quantities,MATH_5128_concepts_raw.json
+MATH_5128,concept,replacement models,replacement models,1,verified,replacement models,MATH_5128_concepts_raw.json
+MATH_5128,concept,compound Poisson process,compound Poisson processes,1,verified,compound Poisson process,MATH_5128_concepts_raw.json
+MATH_5128,concept,ruin probabilities,ruin probabilities,1,verified,ruin probabilities,MATH_5128_concepts_raw.json
+MATH_5128,concept,Cramér-Lundberg insurance risk,Cramér–Lundberg insurance risk,1,verified,Cramér-Lundberg insurance risk,MATH_5128_concepts_raw.json
+MATH_5128,tool,R,R,1,verified,R,MATH_5128_concepts_raw.json

@@ -1,0 +1,58 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HCIP_6162,topic,Data Mining,Data Mining,6,verified,Data Mining,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,machine learning,Machine Learning,4,verified,machine learning,HCIP_6162_concepts_raw.json
+HCIP_6162,topic,Cluster Analysis,Cluster Analysis,1,verified,Cluster Analysis,HCIP_6162_concepts_raw.json
+HCIP_6162,topic,Word Association Mining,Word Association Mining,1,verified,Word Association Mining,HCIP_6162_concepts_raw.json
+HCIP_6162,topic,Topic Modeling,Topic Modeling,2,verified,Topic Modeling,HCIP_6162_concepts_raw.json
+HCIP_6162,topic,Deep Learning,deep learning,5,verified,Deep Learning,HCIP_6162_concepts_raw.json
+HCIP_6162,topic,RNN and CNN,RNN and CNN,2,verified,RNN and CNN,HCIP_6162_concepts_raw.json
+HCIP_6162,topic,Word Embedding,Word Embedding,1,verified,Word Embedding,HCIP_6162_concepts_raw.json
+HCIP_6162,topic,Deep Reinforcement Learning,Deep Reinforcement Learning,1,verified,Deep Reinforcement Learning,HCIP_6162_concepts_raw.json
+HCIP_6162,topic,Transformers and BERT,Transformers and BERT,1,verified,Transformers and BERT,HCIP_6162_concepts_raw.json
+HCIP_6162,topic,Large Language Models,large language models,8,verified,Large Language Models,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,data preprocessing,data preprocessing,2,verified,data preprocessing,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,data profiling,Data Profiling,1,verified,data profiling,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,data cleaning,Data Cleaning,1,verified,data cleaning,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,data transformation,Data Transformation,1,verified,data transformation,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,data quality metrics,Data Quality Metrics,1,verified,data quality metrics,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,association rule mining,Association Rule Mining,2,verified,association rule mining,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,sequential pattern mining,Sequential Pattern Mining,1,verified,sequential pattern mining,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,clustering algorithms,Clustering Algorithms,1,verified,clustering algorithms,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,decision tree induction,Decision Tree Induction,1,verified,decision tree induction,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,Apriori algorithm,Apriori Algorithm,1,verified,Apriori algorithm,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,frequent itemset mining,Frequent Itemset Mining,1,verified,frequent itemset mining,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,sequence mining techniques,Sequence Mining Techniques,1,verified,sequence mining techniques,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,pattern discovery methods,Pattern Discovery Methods,1,verified,pattern discovery methods,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,supervised learning,Supervised Learning,1,verified,supervised learning,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,unsupervised learning,Unsupervised Learning,1,verified,unsupervised learning,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,decision trees,Decision Trees,1,verified,decision trees,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,random forests,Random Forests,1,verified,random forests,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,support vectors,Support Vectors,1,verified,support vectors,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,neural networks,Neural Networks,7,verified,neural networks,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,activation functions,Activation Functions,3,verified,activation functions,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,backpropagation,Backpropagation,3,verified,backpropagation,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,hierarchical clustering,Hierarchical Clustering,1,verified,hierarchical clustering,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,K-means algorithm,K-Means Algorithm,1,verified,K-means algorithm,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,DBSCAN algorithm,DBSCAN Algorithm,1,verified,DBSCAN algorithm,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,silhouette coefficient,Silhouette Coefficient,1,verified,silhouette coefficient,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,dendrogram analysis,Dendrogram Analysis,1,verified,dendrogram analysis,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,word association rules,Word Association Rules,1,verified,word association rules,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,text preprocessing techniques,Text Preprocessing Techniques,1,verified,text preprocessing techniques,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,term frequency analysis,Term Frequency Analysis,1,verified,term frequency analysis,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,document similarity measures,Document Similarity Measures,1,verified,document similarity measures,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,topic modeling techniques,Topic Modeling Techniques,1,verified,topic modeling techniques,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,latent Dirichlet allocation,Latent Dirichlet Allocation,1,verified,latent Dirichlet allocation,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,probabilistic latent semantic analysis,Probabilistic Latent Semantic Analysis,1,verified,probabilistic latent semantic analysis,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,non-negative matrix factorization,Non-Negative Matrix Factorization,1,verified,non-negative matrix factorization,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,vector space model,Vector Space Model,1,verified,vector space model,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,contextualized word vectors,Contextualized Word Vectors,1,verified,contextualized word vectors,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,subword modeling,Subword Modeling,1,verified,subword modeling,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,embedding layers,Embedding Layers,1,verified,embedding layers,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,semantic similarity,Semantic Similarity,1,verified,semantic similarity,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,Q-learning algorithm,Q-Learning Algorithm,1,verified,Q-learning algorithm,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,policy gradient methods,Policy Gradient Methods,1,verified,policy gradient methods,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,actor-critic models,Actor-Critic Models,1,verified,actor-critic models,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,value function estimation,Value Function Estimation,1,verified,value function estimation,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,exploration-exploitation tradeoff,Exploration-Exploitation Tradeoff,1,verified,exploration-exploitation tradeoff,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,reward functions design,Reward Functions Design,1,verified,reward functions design,HCIP_6162_concepts_raw.json
+HCIP_6162,concept,Bellman equation derivation,Bellman Equation Derivation,1,verified,Bellman equation derivation,HCIP_6162_concepts_raw.json

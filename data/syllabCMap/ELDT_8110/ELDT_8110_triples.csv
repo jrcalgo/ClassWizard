@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELDT_8110,instructional strategies,concept,PART_OF,instructional design process,concept,,,ELDT_8110_triples_raw.json
+ELDT_8110,instructional analysis,concept,PART_OF,instructional design process,concept,,,ELDT_8110_triples_raw.json
+ELDT_8110,selection and development of instructional materials,concept,PART_OF,instructional design process,concept,,,ELDT_8110_triples_raw.json

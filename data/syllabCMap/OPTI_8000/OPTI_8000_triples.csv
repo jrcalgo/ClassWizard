@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPTI_8000,uncertainty principle,concept,PREREQUISITE_OF,Schrödinger Equation,concept,same unit,,OPTI_8000_triples_raw.json
+OPTI_8000,wave-particle duality,concept,PREREQUISITE_OF,Schrödinger Equation,concept,same unit,,OPTI_8000_triples_raw.json
+OPTI_8000,Linear Harmonic Oscillator,topic,PART_OF,Applied Quantum Mechanics,topic,,,OPTI_8000_triples_raw.json
+OPTI_8000,Central Forces and Angular Momentum,topic,PART_OF,Applied Quantum Mechanics,topic,,,OPTI_8000_triples_raw.json
+OPTI_8000,Hydrogen Atom,topic,PART_OF,Applied Quantum Mechanics,topic,,,OPTI_8000_triples_raw.json

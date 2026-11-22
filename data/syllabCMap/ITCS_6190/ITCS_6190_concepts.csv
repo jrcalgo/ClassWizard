@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6190,topic,Large-Scale Data Analysis,large-scale data analysis,1,verified,Large-Scale Data Analysis,ITCS_6190_concepts_raw.json
+ITCS_6190,concept,distributed data processing models,distributed data processing models,1,verified,distributed data processing models,ITCS_6190_concepts_raw.json
+ITCS_6190,concept,machine learning workloads,machine learning workloads,1,verified,machine learning workloads,ITCS_6190_concepts_raw.json
+ITCS_6190,tool,Apache Spark,Apache Spark,1,verified,Apache Spark,ITCS_6190_concepts_raw.json
+ITCS_6190,tool,AWS,AWS,1,verified,AWS,ITCS_6190_concepts_raw.json
+ITCS_6190,tool,Python,Python,1,verified,Python,ITCS_6190_concepts_raw.json
+ITCS_6190,tool,Java,Java,1,verified,Java,ITCS_6190_concepts_raw.json
+ITCS_6190,tool,SQL,SQL,2,verified,SQL,ITCS_6190_concepts_raw.json
+ITCS_6190,tool,Linux,Linux,1,verified,Linux,ITCS_6190_concepts_raw.json

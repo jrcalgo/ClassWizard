@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PROS_2301,topic,Human Resource Management,Human Resource Management,1,verified,Human Resource Management,PROS_2301_concepts_raw.json
+PROS_2301,topic,Workforce Planning,workforce planning,1,verified,Workforce Planning,PROS_2301_concepts_raw.json
+PROS_2301,topic,Human Resource Development,human resource development,1,verified,Human Resource Development,PROS_2301_concepts_raw.json
+PROS_2301,topic,Employee Performance Management,employee performance management,1,verified,Employee Performance Management,PROS_2301_concepts_raw.json
+PROS_2301,topic,Recruitment Strategies,Recruitment Strategies,1,inferred,Recruitment Strategies,PROS_2301_concepts_raw.json
+PROS_2301,topic,Talent Management and Retention,Talent Management and Retention,1,inferred,Talent Management and Retention,PROS_2301_concepts_raw.json
+PROS_2301,concept,Human Resource Needs Analysis,Human Resource Needs Analysis,1,inferred,Human Resource Needs Analysis,PROS_2301_concepts_raw.json
+PROS_2301,concept,Job Description and Specification,Job Description and Specification,1,inferred,Job Description and Specification,PROS_2301_concepts_raw.json
+PROS_2301,concept,Workforce Forecasting Techniques,Workforce Forecasting Techniques,1,inferred,Workforce Forecasting Techniques,PROS_2301_concepts_raw.json
+PROS_2301,concept,Sourcing Methods for Talent Acquisition,Sourcing Methods for Talent Acquisition,1,inferred,Sourcing Methods for Talent Acquisition,PROS_2301_concepts_raw.json
+PROS_2301,concept,Employee Referral Programs Effectiveness,Employee Referral Programs Effectiveness,1,inferred,Employee Referral Programs Effectiveness,PROS_2301_concepts_raw.json
+PROS_2301,concept,Diversity and Inclusion in Hiring,Diversity and Inclusion in Hiring,1,inferred,Diversity and Inclusion in Hiring,PROS_2301_concepts_raw.json
+PROS_2301,concept,Training Needs Assessment Process,Training Needs Assessment Process,1,inferred,Training Needs Assessment Process,PROS_2301_concepts_raw.json
+PROS_2301,concept,Learning and Development Strategies,Learning and Development Strategies,1,inferred,Learning and Development Strategies,PROS_2301_concepts_raw.json
+PROS_2301,concept,Performance Management Systems Design,Performance Management Systems Design,1,inferred,Performance Management Systems Design,PROS_2301_concepts_raw.json
+PROS_2301,concept,Performance Metrics and Evaluation Criteria,Performance Metrics and Evaluation Criteria,1,inferred,Performance Metrics and Evaluation Criteria,PROS_2301_concepts_raw.json
+PROS_2301,concept,Goal Setting and Achievement Planning,Goal Setting and Achievement Planning,1,inferred,Goal Setting and Achievement Planning,PROS_2301_concepts_raw.json
+PROS_2301,concept,Coaching and Feedback Techniques,Coaching and Feedback Techniques,1,inferred,Coaching and Feedback Techniques,PROS_2301_concepts_raw.json
+PROS_2301,concept,Succession Planning and Leadership Development,Succession Planning and Leadership Development,1,inferred,Succession Planning and Leadership Development,PROS_2301_concepts_raw.json
+PROS_2301,concept,Employee Engagement and Motivation Strategies,Employee Engagement and Motivation Strategies,1,inferred,Employee Engagement and Motivation Strategies,PROS_2301_concepts_raw.json
+PROS_2301,concept,Turnover Reduction and Retention Initiatives,Turnover Reduction and Retention Initiatives,1,inferred,Turnover Reduction and Retention Initiatives,PROS_2301_concepts_raw.json

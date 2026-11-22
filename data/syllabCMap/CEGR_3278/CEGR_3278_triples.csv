@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3278,Soil Composition,topic,PART_OF,Soil Compaction,topic,,,CEGR_3278_triples_raw.json
+CEGR_3278,Water in Soils,topic,PART_OF,Stress in Soils,topic,,,CEGR_3278_triples_raw.json

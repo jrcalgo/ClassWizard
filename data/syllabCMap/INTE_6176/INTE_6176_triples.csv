@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INTE_6176,Consecutive interpretation,topic,PREREQUISITE_OF,Simultaneous interpretation,topic,A taught first,,INTE_6176_triples_raw.json
+INTE_6176,Consecutive interpretation,topic,PREREQUISITE_OF,Sight translation,topic,A taught first,,INTE_6176_triples_raw.json
+INTE_6176,Spanish-English interpreting,topic,PREREQUISITE_OF,Healthcare,topic,B mentioned first,,INTE_6176_triples_raw.json
+INTE_6176,Spanish-English interpreting,topic,PREREQUISITE_OF,Legal,topic,B mentioned first,,INTE_6176_triples_raw.json
+INTE_6176,Spanish-English interpreting,topic,PREREQUISITE_OF,Educational,topic,B mentioned first,,INTE_6176_triples_raw.json
+INTE_6176,Spanish-English interpreting,topic,PREREQUISITE_OF,Social services,topic,B mentioned first,,INTE_6176_triples_raw.json
+INTE_6176,Simultaneous interpretation,topic,PART_OF,Spanish-English interpreting,topic,,,INTE_6176_triples_raw.json
+INTE_6176,Sight translation,topic,PART_OF,Spanish-English interpreting,topic,,,INTE_6176_triples_raw.json
+INTE_6176,Healthcare,topic,PART_OF,Community contexts,topic,,,INTE_6176_triples_raw.json
+INTE_6176,Legal,topic,PART_OF,Community contexts,topic,,,INTE_6176_triples_raw.json
+INTE_6176,Educational,topic,PART_OF,Community contexts,topic,,,INTE_6176_triples_raw.json
+INTE_6176,Social services,topic,PART_OF,Community contexts,topic,,,INTE_6176_triples_raw.json
+INTE_6176,Discursive aspects,topic,PART_OF,Community contexts,topic,,,INTE_6176_triples_raw.json

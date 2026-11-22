@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_8336,Programming Experience,topic,PREREQUISITE_OF,Designing Software Systems with AI,topic,B mentioned first,,ITIS_8336_triples_raw.json
+ITIS_8336,Git,method,USED_FOR,version control systems,method,,,ITIS_8336_triples_raw.json
+ITIS_8336,GitHub,method,USED_FOR,version control systems,method,,,ITIS_8336_triples_raw.json

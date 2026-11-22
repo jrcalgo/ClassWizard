@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_2110,topic,systems thinking,systems thinking,2,verified,systems thinking,SEGR_2110_concepts_raw.json
+SEGR_2110,topic,systems engineering life cycle,systems engineering life cycle,2,verified,systems engineering life cycle,SEGR_2110_concepts_raw.json
+SEGR_2110,topic,requirements development,requirements development,2,verified,requirements development,SEGR_2110_concepts_raw.json
+SEGR_2110,topic,system modeling,system modeling,2,verified,system modeling,SEGR_2110_concepts_raw.json
+SEGR_2110,topic,optimization,optimization,3,verified,optimization,SEGR_2110_concepts_raw.json
+SEGR_2110,method,project management,project management,4,verified,project management,SEGR_2110_concepts_raw.json
+SEGR_2110,method,linear programming,linear programming,2,verified,linear programming,SEGR_2110_concepts_raw.json
+SEGR_2110,method,critical path analysis,Critical path analysis,1,verified,critical path analysis,SEGR_2110_concepts_raw.json
+SEGR_2110,concept,shortest path algorithms,Shortest path algorithms,1,verified,shortest path algorithms,SEGR_2110_concepts_raw.json
+SEGR_2110,concept,maximum flow problems,Maximum flow problems,1,verified,maximum flow problems,SEGR_2110_concepts_raw.json
+SEGR_2110,method,Python programming,Python programming,1,verified,Python programming,SEGR_2110_concepts_raw.json
+SEGR_2110,method,shortest-path analysis,shortest-path analysis,1,verified,shortest-path analysis,SEGR_2110_concepts_raw.json
+SEGR_2110,method,maximum-flow models,maximum-flow models,1,verified,maximum-flow models,SEGR_2110_concepts_raw.json
+SEGR_2110,method,Dijkstra code demo,Dijkstra Code Demo,1,verified,Dijkstra code demo,SEGR_2110_concepts_raw.json
+SEGR_2110,tool,Python,Python,5,verified,Python,SEGR_2110_concepts_raw.json
+SEGR_2110,tool,Gurobi,Gurobi,1,verified,Gurobi,SEGR_2110_concepts_raw.json

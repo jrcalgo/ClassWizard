@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_2101,Electronic survey data,concept,PREREQUISITE_OF,Site parcel layouts,concept,A taught first,,CEGR_2101_triples_raw.json
+CEGR_2101,Electronic survey data,concept,PREREQUISITE_OF,Horizontal alignments,concept,A taught first,,CEGR_2101_triples_raw.json
+CEGR_2101,Electronic survey data,concept,PREREQUISITE_OF,Civil/Construction drawings,concept,A mentioned first,,CEGR_2101_triples_raw.json
+CEGR_2101,Topographic contour lines,concept,PREREQUISITE_OF,3D surface models,concept,A mentioned first,,CEGR_2101_triples_raw.json
+CEGR_2101,Topographic contour lines,concept,PREREQUISITE_OF,Topographic subdivision maps,concept,A mentioned first,,CEGR_2101_triples_raw.json
+CEGR_2101,AutoCAD Civil 3D software,concept,PREREQUISITE_OF,Site parcel layouts,concept,B mentioned first,,CEGR_2101_triples_raw.json
+CEGR_2101,AutoCAD Civil 3D software,concept,PREREQUISITE_OF,Horizontal alignments,concept,B mentioned first,,CEGR_2101_triples_raw.json
+CEGR_2101,AutoCAD Civil 3D software,concept,PREREQUISITE_OF,Storm sewer pipe networks,concept,B mentioned first,,CEGR_2101_triples_raw.json
+CEGR_2101,AutoCAD Civil 3D software,concept,PREREQUISITE_OF,Civil/Construction drawings,concept,B mentioned first,,CEGR_2101_triples_raw.json
+CEGR_2101,Site parcel layouts,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,Horizontal alignments,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,Storm sewer pipe networks,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,Civil/Construction drawings,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,Electronic survey data,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,Topographic contour lines,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,3D surface models,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,Topographic subdivision maps,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,Vertical profiles,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,Cross-sections,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json
+CEGR_2101,Earthwork quantities,concept,PART_OF,Civil Engineering Drawing,topic,,,CEGR_2101_triples_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_8422,Practicum,topic,PREREQUISITE_OF,Classroom Management Strategies,topic,A taught first,,PSYC_8422_triples_raw.json
+PSYC_8422,Lesson Planning and Design,topic,PREREQUISITE_OF,Assessment and Feedback,topic,A taught first,,PSYC_8422_triples_raw.json
+PSYC_8422,Managing Classroom Behavior and Discipline,concept,PART_OF,Classroom Management Strategies,topic,,,PSYC_8422_triples_raw.json
+PSYC_8422,Accommodating Students with Disabilities,concept,PART_OF,Teaching Diverse Learners,topic,,,PSYC_8422_triples_raw.json
+PSYC_8422,Supporting English Language Learners,concept,PART_OF,Teaching Diverse Learners,topic,,,PSYC_8422_triples_raw.json
+PSYC_8422,Developing Engaging and Interactive Lessons,concept,PART_OF,Lesson Planning and Design,topic,,,PSYC_8422_triples_raw.json
+PSYC_8422,Assessing Student Learning and Progress,concept,PART_OF,Lesson Planning and Design,topic,,,PSYC_8422_triples_raw.json
+PSYC_8422,Designing Effective Assessments and Rubrics,concept,PART_OF,Assessment and Feedback,topic,,,PSYC_8422_triples_raw.json
+PSYC_8422,Providing Constructive Feedback to Students,concept,PART_OF,Assessment and Feedback,topic,,,PSYC_8422_triples_raw.json
+PSYC_8422,Building a Supportive Mentor-Mentee Relationship,concept,PART_OF,Mentorship and Supervision,topic,,,PSYC_8422_triples_raw.json
+PSYC_8422,Supervising Student Teachers and Practicum Students,concept,PART_OF,Mentorship and Supervision,topic,,,PSYC_8422_triples_raw.json
+PSYC_8422,Reflecting on Teaching Practice and Pedagogy,concept,PART_OF,Professional Development and Reflection,topic,,,PSYC_8422_triples_raw.json

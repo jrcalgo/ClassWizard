@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENTR_3276,opportunity portfolio,concept,PART_OF,Entrepreneurial Opportunities,topic,,,ENTR_3276_triples_raw.json
+ENTR_3276,guest speakers,method,USED_FOR,opportunity portfolio,concept,,,ENTR_3276_triples_raw.json
+ENTR_3276,applied projects,method,USED_FOR,opportunity portfolio,concept,,,ENTR_3276_triples_raw.json

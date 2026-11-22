@@ -1,0 +1,57 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+INFO_3231,method,object-oriented programming,Object-Oriented Programming,7,verified,object-oriented programming,INFO_3231_concepts_raw.json
+INFO_3231,topic,C# Programming Language,C# Programming Language,1,verified,The C# Programming Language,INFO_3231_concepts_raw.json
+INFO_3231,topic,Using Data,Using Data,1,verified,Using Data,INFO_3231_concepts_raw.json
+INFO_3231,topic,Using GUI Objects & Visual Studio IDE,Using GUI Objects & Visual Studio IDE,1,verified,Using GUI Objects & Visual Studio IDE,INFO_3231_concepts_raw.json
+INFO_3231,topic,Making Decisions,Making Decisions,1,verified,Making Decisions,INFO_3231_concepts_raw.json
+INFO_3231,topic,Looping,looping,2,verified,Looping,INFO_3231_concepts_raw.json
+INFO_3231,topic,Using Arrays,Using Arrays,1,verified,Using Arrays,INFO_3231_concepts_raw.json
+INFO_3231,topic,Using Methods,Using Methods,1,verified,Using Methods,INFO_3231_concepts_raw.json
+INFO_3231,topic,Advanced Method Concepts,Advanced Method Concepts,1,verified,Advanced Method Concepts,INFO_3231_concepts_raw.json
+INFO_3231,topic,Using Classes and Objects,Using Classes and Objects,1,verified,Using Classes and Objects,INFO_3231_concepts_raw.json
+INFO_3231,topic,Inheritance,Inheritance,3,verified,Introduction to Inheritance,INFO_3231_concepts_raw.json
+INFO_3231,concept,C# syntax rules,C# Syntax Rules,1,verified,C# syntax rules,INFO_3231_concepts_raw.json
+INFO_3231,concept,variables and data types,Variables and Data Types,1,verified,variables and data types,INFO_3231_concepts_raw.json
+INFO_3231,concept,operators and expressions,Operators and Expressions,1,verified,operators and expressions,INFO_3231_concepts_raw.json
+INFO_3231,concept,control flow statements,Control Flow Statements,1,verified,control flow statements,INFO_3231_concepts_raw.json
+INFO_3231,concept,event-driven programming methods,event-driven programming methods,4,verified,event-driven programming methods,INFO_3231_concepts_raw.json
+INFO_3231,method,graphical user interface development,graphical user interface development,4,verified,graphical user interface development,INFO_3231_concepts_raw.json
+INFO_3231,method,high-level development tool,high-level development tool,4,verified,high-level development tool,INFO_3231_concepts_raw.json
+INFO_3231,method,data binding techniques,Data Binding Techniques,1,verified,data binding techniques,INFO_3231_concepts_raw.json
+INFO_3231,method,user input validation,User Input Validation,1,verified,user input validation,INFO_3231_concepts_raw.json
+INFO_3231,method,error handling mechanisms,Error Handling Mechanisms,1,verified,error handling mechanisms,INFO_3231_concepts_raw.json
+INFO_3231,concept,GUI objects,GUI Objects,2,verified,GUI objects,INFO_3231_concepts_raw.json
+INFO_3231,concept,Visual Studio IDE,Visual Studio IDE,2,verified,Visual Studio IDE,INFO_3231_concepts_raw.json
+INFO_3231,method,event-driven programming,event-driven programming,7,verified,event-driven programming,INFO_3231_concepts_raw.json
+INFO_3231,concept,windows forms,Windows Forms,1,verified,windows forms,INFO_3231_concepts_raw.json
+INFO_3231,concept,controls and buttons,Controls and Buttons,1,verified,controls and buttons,INFO_3231_concepts_raw.json
+INFO_3231,concept,layout management,Layout Management,1,verified,layout management,INFO_3231_concepts_raw.json
+INFO_3231,concept,user input handling,User Input Handling,1,verified,user input handling,INFO_3231_concepts_raw.json
+INFO_3231,method,loop control statements,Loop Control Statements,1,verified,loop control statements,INFO_3231_concepts_raw.json
+INFO_3231,method,conditional loops,Conditional Loops,1,verified,conditional loops,INFO_3231_concepts_raw.json
+INFO_3231,method,for loop syntax,For Loop Syntax,1,verified,for loop syntax,INFO_3231_concepts_raw.json
+INFO_3231,method,while loop conditions,While Loop Conditions,1,verified,while loop conditions,INFO_3231_concepts_raw.json
+INFO_3231,method,do while loops,Do While Loops,1,verified,do while loops,INFO_3231_concepts_raw.json
+INFO_3231,concept,loop iterations,Loop Iterations,1,verified,loop iterations,INFO_3231_concepts_raw.json
+INFO_3231,concept,break statement usage,Break Statement Usage,1,verified,break statement usage,INFO_3231_concepts_raw.json
+INFO_3231,concept,continue statement,Continue Statement,1,verified,continue statement,INFO_3231_concepts_raw.json
+INFO_3231,method,array declaration,Array Declaration,1,verified,array declaration,INFO_3231_concepts_raw.json
+INFO_3231,method,array indexing,Array Indexing,1,verified,array indexing,INFO_3231_concepts_raw.json
+INFO_3231,method,multidimensional arrays,Multidimensional Arrays,1,verified,multidimensional arrays,INFO_3231_concepts_raw.json
+INFO_3231,method,array initialization,Array Initialization,1,verified,array initialization,INFO_3231_concepts_raw.json
+INFO_3231,method,array iteration,Array Iteration,1,verified,array iteration,INFO_3231_concepts_raw.json
+INFO_3231,method,array manipulation,Array Manipulation,1,verified,array manipulation,INFO_3231_concepts_raw.json
+INFO_3231,concept,array data types,Array Data Types,1,verified,array data types,INFO_3231_concepts_raw.json
+INFO_3231,concept,method overloading,Method Overloading,2,verified,method overloading,INFO_3231_concepts_raw.json
+INFO_3231,concept,parameter passing,Parameter Passing,1,verified,parameter passing,INFO_3231_concepts_raw.json
+INFO_3231,concept,local variables,Local Variables,1,verified,local variables,INFO_3231_concepts_raw.json
+INFO_3231,concept,return types,Return Types,1,verified,return types,INFO_3231_concepts_raw.json
+INFO_3231,concept,method invocation,Method Invocation,1,verified,method invocation,INFO_3231_concepts_raw.json
+INFO_3231,concept,polymorphism techniques,Polymorphism Techniques,2,verified,polymorphism techniques,INFO_3231_concepts_raw.json
+INFO_3231,concept,encapsulation principles,Encapsulation Principles,2,verified,encapsulation principles,INFO_3231_concepts_raw.json
+INFO_3231,concept,class definition syntax,Class Definition Syntax,1,verified,class definition syntax,INFO_3231_concepts_raw.json
+INFO_3231,concept,inheritance mechanisms,Inheritance Mechanisms,1,verified,inheritance mechanisms,INFO_3231_concepts_raw.json
+INFO_3231,concept,GUI development methods,GUI Development Methods,1,verified,GUI development methods,INFO_3231_concepts_raw.json
+INFO_3231,concept,C# class constructors,C# Class Constructors,1,verified,C# class constructors,INFO_3231_concepts_raw.json
+INFO_3231,concept,property access modifiers,Property Access Modifiers,1,verified,property access modifiers,INFO_3231_concepts_raw.json
+INFO_3231,tool,Visual C# 2025,Visual C# 2025,2,verified,Visual C# 2025,INFO_3231_concepts_raw.json

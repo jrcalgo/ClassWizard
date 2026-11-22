@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_4121,Assessment,topic,PREREQUISITE_OF,Developing Assessment Plans,topic,A taught first,,ELED_4121_triples_raw.json
+ELED_4121,Setting Clear Goals and Objectives,concept,PREREQUISITE_OF,Choosing Appropriate Assessment Tools,concept,same unit,,ELED_4121_triples_raw.json
+ELED_4121,Importance of Assessment,concept,PART_OF,Assessment,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Types of Assessments Used,concept,PART_OF,Assessment,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Purpose of Differentiation,concept,PART_OF,Differentiation in the Elementary School,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Diverse Learning Styles,concept,PART_OF,Understanding Student Needs,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Cultural and Socioeconomic Factors,concept,PART_OF,Understanding Student Needs,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Learning Disabilities and Challenges,concept,PART_OF,Understanding Student Needs,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Choosing Appropriate Assessment Tools,concept,PART_OF,Developing Assessment Plans,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Tiered Assignments and Activities,concept,PART_OF,Differentiated Instruction Strategies,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Learning Centers and Stations,concept,PART_OF,Differentiated Instruction Strategies,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Authentic and Traditional Assessments,concept,PART_OF,Assessment Techniques and Tools,topic,,,ELED_4121_triples_raw.json
+ELED_4121,Rubrics and Scoring Guides,concept,PART_OF,Assessment Techniques and Tools,topic,,,ELED_4121_triples_raw.json

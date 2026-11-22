@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_4271,Constant Time Delay,concept,PART_OF,Constant Time Delay Instruction,topic,,,SPED_4271_triples_raw.json
+SPED_4271,High Expectations for Students,concept,PART_OF,Systematic Instruction in the Adapted Curriculum,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Collaboration with Support Specialists,concept,PART_OF,Systematic Instruction in the Adapted Curriculum,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Plan Development and Implementation,concept,PART_OF,Instructional Planning and Development,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Least Prompts System Demonstration,concept,PART_OF,Instructional Planning and Development,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Time Delay Strategies for Students,concept,PART_OF,Constant Time Delay Instruction,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Project Design and Implementation,concept,PART_OF,Systematic Instruction Project Planning,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Student Skill Development and Progress,concept,PART_OF,Systematic Instruction,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Supporting Students with Moderate and Severe Disabilities,concept,PART_OF,Clinical Field Experience Preparation,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Project Plan Implementation and Reflection,concept,PART_OF,Systematic Instruction Project Implementation,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Student Progress Monitoring and Evaluation,concept,PART_OF,Systematic Instruction Project Implementation,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Video Recording and Editing Techniques,concept,PART_OF,Video Demonstrations and Presentations,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Final Project Submission and Evaluation,concept,PART_OF,Project Completion and Reflection,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Constant Time Delay,concept,USED_FOR,Constant Time Delay Instruction,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Meeting Special Needs of Students,concept,USED_FOR,Systematic Instruction in the Adapted Curriculum,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Plan Development and Implementation,concept,USED_FOR,Instructional Planning and Development,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Least Prompts System Demonstration,concept,USED_FOR,Instructional Planning and Development,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Project Design and Implementation,concept,USED_FOR,Systematic Instruction,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Clinical Field Experience Preparation,topic,USED_FOR,Supporting Students with Moderate and Severe Disabilities,concept,,topic used for something - check direction,SPED_4271_triples_raw.json
+SPED_4271,Project Plan Implementation and Reflection,concept,USED_FOR,Systematic Instruction Project Implementation,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Video Recording and Editing Techniques,concept,USED_FOR,Video Demonstrations and Presentations,topic,,,SPED_4271_triples_raw.json
+SPED_4271,Final Project Submission and Evaluation,concept,USED_FOR,Project Completion and Reflection,topic,,,SPED_4271_triples_raw.json

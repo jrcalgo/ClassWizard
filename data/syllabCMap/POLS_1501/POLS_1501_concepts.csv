@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_1501,concept,Comparative Approach,comparative approach,1,verified,Comparative Approach,POLS_1501_concepts_raw.json
+POLS_1501,concept,Forms of Government,forms of government,1,verified,Forms of Government,POLS_1501_concepts_raw.json
+POLS_1501,concept,Political Science Theories,Political Science Theories,1,inferred,Political Science Theories,POLS_1501_concepts_raw.json
+POLS_1501,topic,Global Political Systems,Global Political Systems,1,inferred,Global Political Systems,POLS_1501_concepts_raw.json
+POLS_1501,concept,Democracy vs Authoritarianism,Democracy vs Authoritarianism,1,inferred,Democracy vs Authoritarianism,POLS_1501_concepts_raw.json
+POLS_1501,concept,Regime Types,Regime Types,1,inferred,Regime Types,POLS_1501_concepts_raw.json
+POLS_1501,concept,Wealth Inequality,Wealth Inequality,1,inferred,Wealth Inequality,POLS_1501_concepts_raw.json
+POLS_1501,concept,Poverty Reduction Strategies,Poverty Reduction Strategies,1,inferred,Poverty Reduction Strategies,POLS_1501_concepts_raw.json
+POLS_1501,concept,Economic Growth Theories,Economic Growth Theories,1,inferred,Economic Growth Theories,POLS_1501_concepts_raw.json
+POLS_1501,concept,Multi-Party vs Two-Party System,Multi-Party vs Two-Party System,1,inferred,Multi-Party vs Two-Party System,POLS_1501_concepts_raw.json
+POLS_1501,concept,Electoral Systems,Electoral Systems,1,inferred,Electoral Systems,POLS_1501_concepts_raw.json
+POLS_1501,concept,Voting Behavior,Voting Behavior,1,inferred,Voting Behavior,POLS_1501_concepts_raw.json
+POLS_1501,concept,Gender Quotas,Gender Quotas,1,inferred,Gender Quotas,POLS_1501_concepts_raw.json
+POLS_1501,concept,Women's Empowerment,Women's Empowerment,1,inferred,Women's Empowerment,POLS_1501_concepts_raw.json
+POLS_1501,concept,Representation Theories,Representation Theories,1,inferred,Representation Theories,POLS_1501_concepts_raw.json
+POLS_1501,method,Research Design,Research Design,1,inferred,Research Design,POLS_1501_concepts_raw.json
+POLS_1501,method,Data Collection Methods,Data Collection Methods,1,inferred,Data Collection Methods,POLS_1501_concepts_raw.json
+POLS_1501,method,Case Study Analysis,Case Study Analysis,1,inferred,Case Study Analysis,POLS_1501_concepts_raw.json

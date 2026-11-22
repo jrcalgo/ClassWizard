@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SEGR_2110,linear programming,method,PREREQUISITE_OF,maximum flow problems,concept,A taught first,,SEGR_2110_triples_raw.json
+SEGR_2110,systems thinking,topic,PREREQUISITE_OF,system modeling,topic,same unit,,SEGR_2110_triples_raw.json
+SEGR_2110,project management,method,PREREQUISITE_OF,requirements development,topic,same unit,,SEGR_2110_triples_raw.json
+SEGR_2110,optimization,topic,PREREQUISITE_OF,linear programming,method,same unit,,SEGR_2110_triples_raw.json
+SEGR_2110,Python programming,method,PREREQUISITE_OF,shortest path algorithms,concept,A mentioned first,,SEGR_2110_triples_raw.json
+SEGR_2110,Gurobi,tool,PREREQUISITE_OF,linear programming,method,same unit,,SEGR_2110_triples_raw.json
+SEGR_2110,systems engineering life cycle,topic,PART_OF,systems thinking,topic,,,SEGR_2110_triples_raw.json
+SEGR_2110,system modeling,topic,PART_OF,systems thinking,topic,,,SEGR_2110_triples_raw.json
+SEGR_2110,project management,method,PART_OF,systems engineering life cycle,topic,,,SEGR_2110_triples_raw.json
+SEGR_2110,optimization,topic,PART_OF,systems engineering life cycle,topic,,,SEGR_2110_triples_raw.json
+SEGR_2110,maximum flow problems,concept,PART_OF,optimization,topic,,,SEGR_2110_triples_raw.json
+SEGR_2110,shortest path algorithms,concept,PART_OF,optimization,topic,,,SEGR_2110_triples_raw.json
+SEGR_2110,critical path analysis,method,PART_OF,project management,method,,,SEGR_2110_triples_raw.json
+SEGR_2110,linear programming,method,PART_OF,optimization,topic,,,SEGR_2110_triples_raw.json
+SEGR_2110,Gurobi,tool,USED_FOR,linear programming,method,,,SEGR_2110_triples_raw.json

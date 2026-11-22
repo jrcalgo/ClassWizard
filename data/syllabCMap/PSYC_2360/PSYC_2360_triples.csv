@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2360,biopsychosocial model,concept,PREREQUISITE_OF,foundations of health psychology,topic,same unit,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,PREREQUISITE_OF,health behavior theories,concept,A taught first,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,PREREQUISITE_OF,stress and coping mechanisms,concept,A taught first,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,PREREQUISITE_OF,social support networks,concept,A taught first,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,PREREQUISITE_OF,cultural factors influence,concept,A taught first,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,PREREQUISITE_OF,behavioral risk factors,concept,same unit,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,PREREQUISITE_OF,health psychology definition,concept,same unit,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,PREREQUISITE_OF,psychological factors in health,concept,same unit,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,PREREQUISITE_OF,social determinants of health,concept,same unit,,PSYC_2360_triples_raw.json
+PSYC_2360,biomedical model,concept,PART_OF,foundations of health psychology,topic,,,PSYC_2360_triples_raw.json
+PSYC_2360,health behavior theories,concept,PART_OF,foundations of health psychology,topic,,,PSYC_2360_triples_raw.json
+PSYC_2360,social support networks,concept,PART_OF,foundations of health psychology,topic,,,PSYC_2360_triples_raw.json
+PSYC_2360,behavioral risk factors,concept,PART_OF,foundations of health psychology,topic,,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,PART_OF,foundations of health psychology,topic,,,PSYC_2360_triples_raw.json
+PSYC_2360,psychological factors in health,concept,PART_OF,foundations of health psychology,topic,,,PSYC_2360_triples_raw.json
+PSYC_2360,foundations of health psychology,topic,PART_OF,social determinants of health,concept,,part is broader than whole - check direction,PSYC_2360_triples_raw.json
+PSYC_2360,health promotion strategies,concept,PART_OF,foundations of health psychology,topic,,,PSYC_2360_triples_raw.json
+PSYC_2360,illness cognition models,concept,PART_OF,foundations of health psychology,topic,,,PSYC_2360_triples_raw.json
+PSYC_2360,biomedical model,concept,SUBTYPE_OF,biopsychosocial model,concept,,,PSYC_2360_triples_raw.json
+PSYC_2360,health behavior theories,concept,SUBTYPE_OF,biopsychosocial model,concept,,,PSYC_2360_triples_raw.json
+PSYC_2360,stress and coping mechanisms,concept,SUBTYPE_OF,biopsychosocial model,concept,,,PSYC_2360_triples_raw.json
+PSYC_2360,social support networks,concept,SUBTYPE_OF,biopsychosocial model,concept,,,PSYC_2360_triples_raw.json
+PSYC_2360,behavioral risk factors,concept,SUBTYPE_OF,biopsychosocial model,concept,,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,USED_FOR,foundations of health psychology,topic,,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,USED_FOR,health behavior theories,concept,,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,USED_FOR,stress and coping mechanisms,concept,,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,USED_FOR,social support networks,concept,,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,USED_FOR,cultural factors influence,concept,,,PSYC_2360_triples_raw.json
+PSYC_2360,biopsychosocial model,concept,USED_FOR,behavioral risk factors,concept,,,PSYC_2360_triples_raw.json

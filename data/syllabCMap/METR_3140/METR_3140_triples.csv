@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_3140,Thermodynamics Fundamentals,topic,PREREQUISITE_OF,Solar Radiation Transfer,topic,A taught first,,METR_3140_triples_raw.json
+METR_3140,Thermodynamics Fundamentals,topic,PREREQUISITE_OF,Heat Budget and Fluxes,topic,A taught first,,METR_3140_triples_raw.json
+METR_3140,Kinematics and Dynamics Review,topic,PREREQUISITE_OF,Fronts and Low-Pressure Systems,topic,A taught first,,METR_3140_triples_raw.json
+METR_3140,Atmospheric Composition Basics,topic,PART_OF,Importance of Atmospheric Science,topic,,,METR_3140_triples_raw.json

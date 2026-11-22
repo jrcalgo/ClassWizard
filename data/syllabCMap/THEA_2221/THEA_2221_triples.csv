@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_2221,Stage Management,topic,PREREQUISITE_OF,Theatrical Production,topic,same unit,,THEA_2221_triples_raw.json
+THEA_2221,Stage Management,topic,PREREQUISITE_OF,Team Leadership,topic,same unit,,THEA_2221_triples_raw.json
+THEA_2221,Time Management,topic,PREREQUISITE_OF,Resource Allocation,topic,same unit,,THEA_2221_triples_raw.json
+THEA_2221,Collaboration Techniques,topic,PREREQUISITE_OF,Teamwork in Live Performance,method,A taught first,,THEA_2221_triples_raw.json
+THEA_2221,Communication Skills,topic,PREREQUISITE_OF,Cueing and Headset Operations,concept,A taught first,,THEA_2221_triples_raw.json
+THEA_2221,Quick-change Rehearsal Techniques,concept,PART_OF,Dress Rehearsal Management,concept,,,THEA_2221_triples_raw.json
+THEA_2221,Cueing and Headset Operations,concept,PART_OF,Communication Skills,topic,,,THEA_2221_triples_raw.json
+THEA_2221,Team Leadership,topic,SUBTYPE_OF,Stage Management,topic,,,THEA_2221_triples_raw.json
+THEA_2221,Time Management,topic,SUBTYPE_OF,Resource Allocation,topic,,,THEA_2221_triples_raw.json
+THEA_2221,Scene Breakdown,method,SUBTYPE_OF,Theatrical Production Planning,concept,,,THEA_2221_triples_raw.json
+THEA_2221,Table Read Process,method,SUBTYPE_OF,Script Analysis Techniques,method,,,THEA_2221_triples_raw.json
+THEA_2221,Stage Measurement,concept,USED_FOR,Theatrical Space,concept,,,THEA_2221_triples_raw.json
+THEA_2221,Dress Rehearsal Management,concept,USED_FOR,Understudy Roles and Responsibilities,concept,,,THEA_2221_triples_raw.json

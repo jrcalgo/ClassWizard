@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTM_3101,team-based production across disciplines,topic,PREREQUISITE_OF,special concerns for 2D game design,topic,B mentioned first,,ARTM_3101_triples_raw.json
+ARTM_3101,Game Engines,topic,PART_OF,"game engines, graphics, and animation for 2D digital games",topic,,,ARTM_3101_triples_raw.json
+ARTM_3101,special concerns for 2D game design,topic,PART_OF,"game engines, graphics, and animation for 2D digital games",topic,,,ARTM_3101_triples_raw.json
+ARTM_3101,team-based production across disciplines,topic,PART_OF,"game engines, graphics, and animation for 2D digital games",topic,,,ARTM_3101_triples_raw.json
+ARTM_3101,research,method,USED_FOR,Game Engines,topic,,,ARTM_3101_triples_raw.json
+ARTM_3101,Game Engines,topic,USED_FOR,organizing,method,,topic used for something - check direction,ARTM_3101_triples_raw.json

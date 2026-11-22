@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3255,topic,Structural Materials Laboratory,Structural Materials Laboratory,1,verified,Structural Materials Laboratory,CEGR_3255_concepts_raw.json
+CEGR_3255,topic,Material Properties,material properties,1,verified,Material Properties,CEGR_3255_concepts_raw.json
+CEGR_3255,topic,Lab Test Methods,Lab Test Methods,1,inferred,Lab Test Methods,CEGR_3255_concepts_raw.json
+CEGR_3255,topic,Data Analysis and Interpretation,Data Analysis and Interpretation,1,inferred,Data Analysis and Interpretation,CEGR_3255_concepts_raw.json
+CEGR_3255,topic,Technical Writing Skills,Technical Writing Skills,1,inferred,Technical Writing Skills,CEGR_3255_concepts_raw.json
+CEGR_3255,topic,Material Selection and Specification,Material Selection and Specification,1,inferred,Material Selection and Specification,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,lab safety protocols,Lab Safety Protocols,1,inferred,lab safety protocols,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,mechanical properties,Mechanical Properties,1,inferred,mechanical properties,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,thermal expansion coefficients,Thermal Expansion Coefficients,1,inferred,thermal expansion coefficients,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,density and specific gravity,Density and Specific Gravity,1,inferred,density and specific gravity,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,tensile testing procedures,Tensile Testing Procedures,1,inferred,tensile testing procedures,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,compression testing techniques,Compression Testing Techniques,1,inferred,compression testing techniques,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,flexural strength analysis,Flexural Strength Analysis,1,inferred,flexural strength analysis,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,statistical analysis of data,Statistical Analysis of Data,1,inferred,statistical analysis of data,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,graphical representation methods,Graphical Representation Methods,1,inferred,graphical representation methods,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,error margin calculation,Error Margin Calculation,1,inferred,error margin calculation,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,report writing guidelines,Report Writing Guidelines,1,inferred,report writing guidelines,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,effective communication techniques,Effective Communication Techniques,1,inferred,effective communication techniques,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,data presentation formats,Data Presentation Formats,1,inferred,data presentation formats,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,material selection criteria,Material Selection Criteria,1,inferred,material selection criteria,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,structural design considerations,Structural Design Considerations,1,inferred,structural design considerations,CEGR_3255_concepts_raw.json
+CEGR_3255,concept,code compliance requirements,Code Compliance Requirements,1,inferred,code compliance requirements,CEGR_3255_concepts_raw.json

@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CMET_3126,topic,Project Planning,Project Planning,1,verified,Project Planning,CMET_3126_concepts_raw.json
+CMET_3126,topic,Resource Management,resource management,1,verified,Resource Management,CMET_3126_concepts_raw.json
+CMET_3126,topic,Construction Cost Control,construction cost control,1,verified,Construction Cost Control,CMET_3126_concepts_raw.json
+CMET_3126,topic,Critical Path Method (CPM,Critical Path Method (CPM,1,inferred,Critical Path Method (CPM),CMET_3126_concepts_raw.json
+CMET_3126,topic,Computer-Based Project Scheduling,Computer-Based Project Scheduling,1,inferred,Computer-Based Project Scheduling,CMET_3126_concepts_raw.json
+CMET_3126,topic,Reporting and Communication,Reporting and Communication,1,inferred,Reporting and Communication,CMET_3126_concepts_raw.json
+CMET_3126,concept,Activity Network Diagrams,Activity Network Diagrams,1,inferred,Activity Network Diagrams,CMET_3126_concepts_raw.json
+CMET_3126,concept,Precedence Relationships,Precedence Relationships,1,inferred,Precedence Relationships,CMET_3126_concepts_raw.json
+CMET_3126,concept,Earliest Finish Time,Earliest Finish Time,1,inferred,Earliest Finish Time,CMET_3126_concepts_raw.json
+CMET_3126,concept,Resource Types and Availability,Resource Types and Availability,1,inferred,Resource Types and Availability,CMET_3126_concepts_raw.json
+CMET_3126,concept,Resource Leveling Techniques,Resource Leveling Techniques,1,inferred,Resource Leveling Techniques,CMET_3126_concepts_raw.json
+CMET_3126,concept,Resource Constrained Scheduling,Resource Constrained Scheduling,1,inferred,Resource Constrained Scheduling,CMET_3126_concepts_raw.json
+CMET_3126,concept,Cost Estimation Methods,Cost Estimation Methods,1,inferred,Cost Estimation Methods,CMET_3126_concepts_raw.json
+CMET_3126,concept,Budgeting and Cost Management,Budgeting and Cost Management,1,inferred,Budgeting and Cost Management,CMET_3126_concepts_raw.json
+CMET_3126,concept,Cost Variance Analysis,Cost Variance Analysis,1,inferred,Cost Variance Analysis,CMET_3126_concepts_raw.json
+CMET_3126,concept,Scheduling Algorithms and Techniques,Scheduling Algorithms and Techniques,1,inferred,Scheduling Algorithms and Techniques,CMET_3126_concepts_raw.json
+CMET_3126,concept,Automated Reporting Practices,Automated Reporting Practices,1,inferred,Automated Reporting Practices,CMET_3126_concepts_raw.json

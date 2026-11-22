@@ -1,0 +1,59 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETGR_2101,topic,Applied Mechanics I,Applied Mechanics I,1,verified,Applied Mechanics I,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Scalars and Vectors,scalars and vectors,1,verified,Scalars and Vectors,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,Newton's laws,Newton's laws,1,verified,Newton's laws,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Systems of Units Review of Trigonometry,systems of units review of trigonometry,1,verified,Systems of Units Review of Trigonometry,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Review of Algebra,review of algebra,1,verified,Review of Algebra,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Review of Geometry,review of geometry,1,verified,Review of Geometry,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Center of Gravity and Centroids,Center of Gravity and Centroids,1,verified,Center of Gravity and Centroids,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,concurrent coplanar force systems,concurrent coplanar force systems,2,verified,concurrent coplanar force systems,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,non-concurrent coplanar force systems,non- concurrent coplanar force systems,1,verified,non-concurrent coplanar force systems,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Equilibrium of Coplanar Force Systems,Equilibrium of coplanar force systems,1,verified,Equilibrium of Coplanar Force Systems,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Analysis of Structures,Analysis of Structures,1,verified,Analysis of Structures,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Friction Forces,Friction forces,1,verified,Friction Forces,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Distributed Forces,Distributed forces,1,verified,Distributed Forces,ETGR_2101_concepts_raw.json
+ETGR_2101,topic,Area Moments of Inertia,Area Moments of Inertia,1,verified,Area Moments of Inertia,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,statics language,Statics Language,2,verified,statics language,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,scalars,scalars,1,verified,scalars,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,vectors,vectors,1,verified,vectors,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,systems of units,systems of units,1,verified,systems of units,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,line loads,line loads,1,verified,line loads,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,liquid pressure,liquid pressure,1,verified,liquid pressure,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,earth pressure,earth pressure,1,verified,earth pressure,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,resultants,resultants,1,verified,resultants,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,components of components,components of components,1,verified,components of components,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,moments,moments,2,verified,moments,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,transmissibility of forces,transmissibility of forces,1,verified,transmissibility of forces,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,couples,couples,1,verified,couples,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,equivalent force systems,equivalent force systems,2,verified,equivalent force systems,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,replacing a force-couple system by a single force,replacing a force- couple system by a single force,1,verified,replacing a force-couple system by a single force,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,resultant of a coplanar force system,resultant of a coplanar force system,1,verified,resultant of a coplanar force system,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,equilibrium equations,equilibrium equations,1,verified,equilibrium equations,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,free-body diagrams,Free Body Diagrams,3,verified,free-body diagrams,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,types of supports,types of supports,1,verified,types of supports,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,equilibrium of concurrent,equilibrium of concurrent,2,verified,equilibrium of concurrent,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,coplanar force system,coplanar force systems,3,verified,coplanar force system,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,equilibrium of a two-force body,equilibrium of a two-force body,1,verified,equilibrium of a two-force body,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,equilibrium of a three-force body,equilibrium of a three-force body,1,verified,equilibrium of a three-force body,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,general cases of equilibrium,general cases of equilibrium,1,verified,general cases of equilibrium,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,trusses,trusses,2,verified,trusses,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,method of joints in truss analysis,method of joints in truss analysis,1,verified,method of joints in truss analysis,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,method of sections in truss analysis,method of sections in truss analysis,1,verified,method of sections in truss analysis,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,frames,frames,3,verified,frames,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,machines,machines,3,verified,machines,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,laws of dry friction,laws of dry friction,1,verified,laws of dry friction,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,angle of friction,angle of friction,1,verified,angle of friction,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,types of friction problems,types of friction problems,1,verified,types of friction problems,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,sliding and tipping,sliding and tipping,2,verified,sliding and tipping,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,center of gravity of a plate,center of gravity of a plate,1,verified,center of gravity of a plate,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,centroid of a plane area,centroid of a plane area,1,verified,centroid of a plane area,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,centroids of composite areas,centroids of composite areas,2,verified,centroids of composite areas,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,distributed loads on beams,distributed loads on beams,1,verified,distributed loads on beams,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,rectangular components of a force in space,rectangular components of a force in space,1,verified,rectangular components of a force in space,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,resultant of concurrent forces in space,resultant of concurrent forces in space,1,verified,resultant of concurrent forces in space,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,moment of inertia,moment of inertia,3,verified,moment of inertia,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,radii of gyration,radii of gyration,1,verified,radii of gyration,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,parallel-axis theorem,parallel-axis theorem,1,verified,parallel-axis theorem,ETGR_2101_concepts_raw.json
+ETGR_2101,concept,built-up structural steel sections,built-up structural steel sections,2,verified,built-up structural steel sections,ETGR_2101_concepts_raw.json
+ETGR_2101,method,what if scenarios,what if scenarios,1,verified,what if scenarios,ETGR_2101_concepts_raw.json
+ETGR_2101,method,critical thinking course and problem solving information,critical thinking course and problem solving information,1,verified,critical thinking course and problem solving information,ETGR_2101_concepts_raw.json

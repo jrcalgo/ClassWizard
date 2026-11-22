@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRNT_3600,iterative drafting process,concept,PREREQUISITE_OF,field placement contract,concept,same unit,,GRNT_3600_triples_raw.json
+GRNT_3600,iterative drafting process,concept,PREREQUISITE_OF,journal entries,concept,same unit,,GRNT_3600_triples_raw.json
+GRNT_3600,resume development,concept,PREREQUISITE_OF,cover letter writing,concept,A taught first,,GRNT_3600_triples_raw.json
+GRNT_3600,field experience,concept,PART_OF,gerontology theory,concept,,,GRNT_3600_triples_raw.json
+GRNT_3600,writing competencies,concept,PART_OF,gerontology theory,concept,,,GRNT_3600_triples_raw.json
+GRNT_3600,language of aging,concept,PART_OF,gerontology theory,concept,,,GRNT_3600_triples_raw.json

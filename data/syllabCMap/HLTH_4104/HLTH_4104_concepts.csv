@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_4104,topic,Epidemiology,Epidemiology,4,verified,Epidemiology,HLTH_4104_concepts_raw.json
+HLTH_4104,topic,Public Health,Public Health,4,verified,Public Health,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,definition of epidemiology,Definition of Epidemiology,1,inferred,definition of epidemiology,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,prevalence and incidence rates,Prevalence and Incidence Rates,1,inferred,prevalence and incidence rates,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,morbidity and mortality measures,Morbidity and Mortality Measures,1,inferred,morbidity and mortality measures,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,cross-sectional study design,Cross-Sectional Study Design,1,inferred,cross-sectional study design,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,case-control study design,Case-Control Study Design,1,inferred,case-control study design,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,cohort study design,Cohort Study Design,1,inferred,cohort study design,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,association vs. causation,association vs. causation,1,inferred,association vs. causation,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,confounding variables control,Confounding Variables Control,1,inferred,confounding variables control,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,bias in epidemiologic studies,Bias in Epidemiologic Studies,1,inferred,bias in epidemiologic studies,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,descriptive statistics overview,Descriptive Statistics Overview,1,inferred,descriptive statistics overview,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,inferential statistics applications,Inferential Statistics Applications,1,inferred,inferential statistics applications,HLTH_4104_concepts_raw.json
+HLTH_4104,concept,data visualization techniques,Data Visualization Techniques,1,inferred,data visualization techniques,HLTH_4104_concepts_raw.json

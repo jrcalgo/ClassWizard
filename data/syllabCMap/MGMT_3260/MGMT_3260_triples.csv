@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MGMT_3260,Effective Communication Practices,topic,PART_OF,Organizational Importance,topic,,,MGMT_3260_triples_raw.json
+MGMT_3260,Effective Communication Practices,topic,PART_OF,Communication Value,topic,,,MGMT_3260_triples_raw.json

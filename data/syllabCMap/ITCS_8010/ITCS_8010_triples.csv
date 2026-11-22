@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_8010,Distributed System Design Principles,concept,PART_OF,Large-Scale System Design,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Scalability and Performance Metrics,concept,PART_OF,Large-Scale System Design,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Supervised and Unsupervised Learning,concept,PART_OF,Machine Learning Basics,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Neural Network Architectures Overview,concept,PART_OF,Machine Learning Basics,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Model Evaluation Metrics,concept,PART_OF,Machine Learning Basics,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Latency vs Throughput Tradeoffs,concept,PART_OF,Large-Scale System Design,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Scalability and Reliability Analysis,concept,PART_OF,Large-Scale System Design,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Resource-Constrained Device Architectures,concept,PART_OF,Edge AI Systems Design,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Optimizing AI Models for Edge Devices,concept,PART_OF,Edge AI Systems Design,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Real-Time Processing Requirements,concept,PART_OF,Edge AI Systems Design,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Retrieval-Augmented Systems Overview,concept,PART_OF,LLM System Architecture,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Agent Frameworks and Design Patterns,concept,PART_OF,LLM System Architecture,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Large Language Model Evaluation Metrics,concept,PART_OF,LLM System Architecture,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Integrating AI with HPC Infrastructure,concept,PART_OF,HPC × AI Workflows,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Emerging Workflow Architectures,concept,PART_OF,HPC × AI Workflows,topic,,,ITCS_8010_triples_raw.json
+ITCS_8010,Distributed System Design Principles,concept,USED_FOR,Traditional Systems Fundamentals,topic,,,ITCS_8010_triples_raw.json

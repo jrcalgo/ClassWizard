@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_5251,topic,Advanced Synoptic Meteorology,Advanced Synoptic Meteorology,1,verified,Advanced Synoptic Meteorology,ESCI_5251_concepts_raw.json
+ESCI_5251,topic,Midlatitude Synoptic Meteorology,Midlatitude Synoptic Meteorology,1,verified,Midlatitude Synoptic Meteorology,ESCI_5251_concepts_raw.json
+ESCI_5251,concept,dynamics-based analysis techniques,dynamics-based analysis techniques,3,verified,dynamics-based analysis techniques,ESCI_5251_concepts_raw.json
+ESCI_5251,topic,Midlatitude Weather Systems,midlatitude weather systems,1,verified,Midlatitude Weather Systems,ESCI_5251_concepts_raw.json
+ESCI_5251,topic,Regional Precipitation Events,regional precipitation events,1,verified,Regional Precipitation Events,ESCI_5251_concepts_raw.json
+ESCI_5251,topic,Synoptic Weather Briefings,synoptic weather briefing,1,verified,Synoptic Weather Briefings,ESCI_5251_concepts_raw.json
+ESCI_5251,concept,limiting assumptions,limiting assumptions,1,verified,limiting assumptions,ESCI_5251_concepts_raw.json

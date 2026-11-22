@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_2101L,Simple Harmonic Motion Fundamentals,concept,PREREQUISITE_OF,Damped and Undamped Oscillations,concept,same unit,,PHYS_2101L_triples_raw.json
+PHYS_2101L,Gravitational Force Fundamentals,concept,PREREQUISITE_OF,Free Fall and Projectile Motion,concept,same unit,,PHYS_2101L_triples_raw.json

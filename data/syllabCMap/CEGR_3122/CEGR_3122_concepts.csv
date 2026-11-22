@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3122,topic,Structural Analysis,Structural Analysis,2,verified,Structural Analysis,CEGR_3122_concepts_raw.json
+CEGR_3122,topic,Solid Mechanics,Solid Mechanics,1,verified,Introduction to Solid Mechanics,CEGR_3122_concepts_raw.json
+CEGR_3122,topic,Differential Equations,Differential Equations,1,verified,Differential Equations,CEGR_3122_concepts_raw.json
+CEGR_3122,concept,beams and frames,beams and frames,7,verified,beams and frames,CEGR_3122_concepts_raw.json
+CEGR_3122,concept,free body diagrams,free body diagrams,2,verified,free body diagrams,CEGR_3122_concepts_raw.json
+CEGR_3122,concept,determinacy and stability concepts,determinacy and stability concepts,1,verified,determinacy and stability concepts,CEGR_3122_concepts_raw.json
+CEGR_3122,concept,deflections of trusses,deflections of trusses,1,verified,"deflections of trusses, beams, and frames",CEGR_3122_concepts_raw.json
+CEGR_3122,concept,beams,beams,7,verified,"deflections of trusses, beams, and frames",CEGR_3122_concepts_raw.json
+CEGR_3122,concept,frames,frames,7,verified,"deflections of trusses, beams, and frames",CEGR_3122_concepts_raw.json
+CEGR_3122,concept,influence lines,influence lines,3,verified,influence lines,CEGR_3122_concepts_raw.json
+CEGR_3122,concept,single degree of indeterminacy,single degree of indeterminacy,2,verified,single degree of indeterminacy,CEGR_3122_concepts_raw.json
+CEGR_3122,method,application of free body diagrams to problem solution,application of free body diagrams to problem solution,1,verified,application of free body diagrams to problem solution,CEGR_3122_concepts_raw.json
+CEGR_3122,method,sketching qualitative deflected shapes,sketching qualitative deflected shapes,1,verified,sketching qualitative deflected shapes,CEGR_3122_concepts_raw.json
+CEGR_3122,method,computation of reactions,computation of reactions,1,verified,"computation of reactions, internal forces/stresses, and deflections",CEGR_3122_concepts_raw.json
+CEGR_3122,method,internal forces,internal forces,2,verified,"computation of reactions, internal forces/stresses, and deflections",CEGR_3122_concepts_raw.json
+CEGR_3122,method,stresses,stresses,2,verified,"computation of reactions, internal forces/stresses, and deflections",CEGR_3122_concepts_raw.json
+CEGR_3122,method,deflections,deflections,2,verified,"computation of reactions, internal forces/stresses, and deflections",CEGR_3122_concepts_raw.json

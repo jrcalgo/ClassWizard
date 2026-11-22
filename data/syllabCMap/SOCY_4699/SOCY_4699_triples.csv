@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4699,social theories,concept,PREREQUISITE_OF,Major Sociological Theories,topic,A taught first,,SOCY_4699_triples_raw.json
+SOCY_4699,concepts of social stratification,concept,PREREQUISITE_OF,social change and development,concept,same unit,,SOCY_4699_triples_raw.json
+SOCY_4699,cultural competence and awareness,concept,PREREQUISITE_OF,subcultural analysis and comparison,method,same unit,,SOCY_4699_triples_raw.json
+SOCY_4699,social justice and inequality,concept,PREREQUISITE_OF,subcultural analysis and comparison,method,same unit,,SOCY_4699_triples_raw.json
+SOCY_4699,concepts of social stratification,concept,PART_OF,Major Sociological Theories,topic,,,SOCY_4699_triples_raw.json

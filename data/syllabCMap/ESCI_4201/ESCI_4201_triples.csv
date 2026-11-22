@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_4201,Global Environmental Change,topic,PREREQUISITE_OF,Hydroclimatology,topic,B mentioned first,,ESCI_4201_triples_raw.json
+ESCI_4201,Hydroclimatology,topic,PREREQUISITE_OF,Regional and Global Precipitation Patterns,topic,A taught first,,ESCI_4201_triples_raw.json
+ESCI_4201,Hydroclimatology,topic,PREREQUISITE_OF,Precipitation in Tropical Weather Systems,topic,A taught first,,ESCI_4201_triples_raw.json
+ESCI_4201,Hydroclimatology,topic,PREREQUISITE_OF,Extratropical Precipitation Processes,topic,A taught first,,ESCI_4201_triples_raw.json
+ESCI_4201,Hydroclimatology,topic,PREREQUISITE_OF,Climate and Land-Surface Interactions,topic,A taught first,,ESCI_4201_triples_raw.json
+ESCI_4201,Hydroclimatology,topic,PREREQUISITE_OF,Long-Term Climate Change Impacts,topic,A taught first,,ESCI_4201_triples_raw.json
+ESCI_4201,Hydroclimatology,topic,PREREQUISITE_OF,Scientific Debate on Climate Change,topic,A taught first,,ESCI_4201_triples_raw.json
+ESCI_4201,Climatic and Meteorological Processes,concept,PART_OF,Hydroclimatology,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Importance of Water Resources,concept,PART_OF,Hydroclimatology,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Earth's Ecosystems Overview,concept,PART_OF,Hydroclimatology,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Tropical Cyclones Formation,concept,PART_OF,Precipitation in Tropical Weather Systems,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Monsoon Circulation Patterns,concept,PART_OF,Precipitation in Tropical Weather Systems,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Precipitation Intensity Variability,concept,PART_OF,Precipitation in Tropical Weather Systems,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Frontal Activity and Precipitation,concept,PART_OF,Extratropical Precipitation Processes,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Mid-Latitude Cyclone Development,concept,PART_OF,Extratropical Precipitation Processes,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Evaporation and Transpiration Rates,concept,PART_OF,Climate and Land-Surface Interactions,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Runoff and Infiltration Processes,concept,PART_OF,Climate and Land-Surface Interactions,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Greenhouse Gas Emissions Effects,concept,PART_OF,Long-Term Climate Change Impacts,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Water Resource Availability Changes,concept,PART_OF,Long-Term Climate Change Impacts,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Global Circulation Models,concept,PART_OF,Regional and Global Precipitation Patterns,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Precipitation Pattern Predictions,concept,PART_OF,Regional and Global Precipitation Patterns,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Multiple Perspectives on Climate Change,concept,PART_OF,Scientific Debate on Climate Change,topic,,,ESCI_4201_triples_raw.json
+ESCI_4201,Scientific Debate on Climate Change,topic,PART_OF,Uncertainty in Climate Projections,concept,,part is broader than whole - check direction,ESCI_4201_triples_raw.json
+ESCI_4201,Global Circulation Models,concept,USED_FOR,Regional and Global Precipitation Patterns,topic,,,ESCI_4201_triples_raw.json

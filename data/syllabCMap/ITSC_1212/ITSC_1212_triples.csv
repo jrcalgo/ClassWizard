@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_1212,computational problem solving,concept,PREREQUISITE_OF,Computational Thinking,topic,same unit,,ITSC_1212_triples_raw.json
+ITSC_1212,Computational Thinking,topic,PREREQUISITE_OF,Problem-Solving,topic,same unit,,ITSC_1212_triples_raw.json
+ITSC_1212,Problem-Solving,topic,PREREQUISITE_OF,Data Structures,topic,A taught first,,ITSC_1212_triples_raw.json
+ITSC_1212,computational thinking framework,concept,PREREQUISITE_OF,control structures,concept,A taught first,,ITSC_1212_triples_raw.json
+ITSC_1212,computational thinking framework,concept,PREREQUISITE_OF,functions,concept,A taught first,,ITSC_1212_triples_raw.json
+ITSC_1212,variables,concept,PREREQUISITE_OF,expressions,concept,same unit,,ITSC_1212_triples_raw.json
+ITSC_1212,data types,concept,PREREQUISITE_OF,literals,concept,same unit,,ITSC_1212_triples_raw.json
+ITSC_1212,operators,concept,PREREQUISITE_OF,expressions,concept,same unit,,ITSC_1212_triples_raw.json
+ITSC_1212,constants,concept,PREREQUISITE_OF,literals,concept,same unit,,ITSC_1212_triples_raw.json
+ITSC_1212,program flow,concept,PREREQUISITE_OF,control structures,concept,same unit,,ITSC_1212_triples_raw.json
+ITSC_1212,computational problem solving,concept,PART_OF,Computational Thinking,topic,,,ITSC_1212_triples_raw.json
+ITSC_1212,computational thinking framework,concept,PART_OF,Computational Thinking,topic,,,ITSC_1212_triples_raw.json
+ITSC_1212,variables,concept,PART_OF,data types,concept,,,ITSC_1212_triples_raw.json
+ITSC_1212,lists,concept,PART_OF,Data Structures,topic,,,ITSC_1212_triples_raw.json
+ITSC_1212,control structures,concept,PART_OF,program flow,concept,,,ITSC_1212_triples_raw.json
+ITSC_1212,functions,concept,PART_OF,program flow,concept,,,ITSC_1212_triples_raw.json
+ITSC_1212,file input/output,concept,PART_OF,program flow,concept,,,ITSC_1212_triples_raw.json
+ITSC_1212,arrays,concept,PART_OF,Data Structures,topic,,,ITSC_1212_triples_raw.json
+ITSC_1212,maps,concept,PART_OF,Data Structures,topic,,,ITSC_1212_triples_raw.json

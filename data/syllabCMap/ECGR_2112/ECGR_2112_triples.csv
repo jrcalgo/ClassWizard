@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_2112,sinusoids,concept,PART_OF,Sinusoidal Steady State Analysis,topic,,,ECGR_2112_triples_raw.json
+ECGR_2112,complex forcing functions,concept,PART_OF,Sinusoidal Steady State Analysis,topic,,,ECGR_2112_triples_raw.json
+ECGR_2112,phasors,concept,PART_OF,Sinusoidal Steady State Analysis,topic,,,ECGR_2112_triples_raw.json
+ECGR_2112,impedance,concept,PART_OF,AC Circuits,topic,,,ECGR_2112_triples_raw.json
+ECGR_2112,admittance,concept,PART_OF,AC Circuits,topic,,,ECGR_2112_triples_raw.json
+ECGR_2112,ideal transformer circuits,concept,PART_OF,Power and Energy in Single-Phase Circuits,topic,,,ECGR_2112_triples_raw.json
+ECGR_2112,frequency response,concept,PART_OF,Frequency-Domain Analysis,topic,,,ECGR_2112_triples_raw.json
+ECGR_2112,Bode Plots,concept,PART_OF,Frequency-Domain Analysis,topic,,,ECGR_2112_triples_raw.json
+ECGR_2112,Euler's identity,method,USED_FOR,manipulation of complex numbers,method,,,ECGR_2112_triples_raw.json
+ECGR_2112,phasor diagrams,method,USED_FOR,AC analysis using Kirchoff's laws,method,,,ECGR_2112_triples_raw.json

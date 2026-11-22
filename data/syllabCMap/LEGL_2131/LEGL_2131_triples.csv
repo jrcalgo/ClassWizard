@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_2131,forensic psychology,concept,PREREQUISITE_OF,criminal profiling,concept,A taught first,,LEGL_2131_triples_raw.json
+LEGL_2131,forensic psychology,concept,PREREQUISITE_OF,behavioral analysis,concept,A taught first,,LEGL_2131_triples_raw.json
+LEGL_2131,forensic psychology,concept,PREREQUISITE_OF,psychological assessment,concept,A taught first,,LEGL_2131_triples_raw.json
+LEGL_2131,forensic psychology,concept,PREREQUISITE_OF,expert testimony,concept,A taught first,,LEGL_2131_triples_raw.json
+LEGL_2131,forensic psychology,concept,PREREQUISITE_OF,criminal behavior theories,concept,same unit,,LEGL_2131_triples_raw.json
+LEGL_2131,forensic psychology,concept,PREREQUISITE_OF,investigative interviewing methods,concept,same unit,,LEGL_2131_triples_raw.json
+LEGL_2131,criminal behavior theories,concept,PART_OF,forensic psychology,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,criminal profiling,concept,PART_OF,forensic psychology,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,behavioral analysis,concept,PART_OF,forensic psychology,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,psychological assessment,concept,PART_OF,forensic psychology,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,expert testimony,concept,PART_OF,forensic psychology,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,criminal profiling techniques,concept,PART_OF,forensic psychology,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,behavioral analysis methods,concept,PART_OF,forensic psychology,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,psychological autopsy procedures,concept,PART_OF,forensic psychology,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,expert witness testimony,concept,PART_OF,forensic psychology,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,investigative interviewing methods,concept,USED_FOR,criminal profiling,concept,,,LEGL_2131_triples_raw.json
+LEGL_2131,psychological assessment,concept,USED_FOR,expert testimony,concept,,,LEGL_2131_triples_raw.json

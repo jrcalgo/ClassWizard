@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_4145,Parallel Computing Basics,topic,PREREQUISITE_OF,Types of Parallelism,topic,same unit,,ITCS_4145_triples_raw.json
+ITCS_4145,Motivation for Parallelism,topic,PREREQUISITE_OF,Types of Parallelism,topic,same unit,,ITCS_4145_triples_raw.json
+ITCS_4145,openMP programming model,concept,PREREQUISITE_OF,distributed memory parallelization,concept,A taught first,,ITCS_4145_triples_raw.json
+ITCS_4145,Thread Safety and Synchronization,topic,PREREQUISITE_OF,Data Sharing and Communication,topic,same unit,,ITCS_4145_triples_raw.json
+ITCS_4145,Parallel Breadth-First Search,topic,PART_OF,Graph Data Structure Overview,topic,,,ITCS_4145_triples_raw.json

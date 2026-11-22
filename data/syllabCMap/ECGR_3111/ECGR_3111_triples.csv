@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_3111,linear time-invariant systems,concept,PREREQUISITE_OF,Discrete Fourier Transform,concept,A mentioned first,,ECGR_3111_triples_raw.json
+ECGR_3111,Discrete-Time Signals,topic,PREREQUISITE_OF,Discrete Fourier Transform,concept,A mentioned first,,ECGR_3111_triples_raw.json
+ECGR_3111,elementary signals,concept,USED_FOR,linear time-invariant systems,concept,,,ECGR_3111_triples_raw.json
+ECGR_3111,convolution sum,concept,USED_FOR,convolution integral,concept,,,ECGR_3111_triples_raw.json

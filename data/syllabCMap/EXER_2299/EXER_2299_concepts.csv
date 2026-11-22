@@ -1,0 +1,42 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EXER_2299,topic,Medical Terminology,Medical Terminology,4,verified,Medical Terminology,EXER_2299_concepts_raw.json
+EXER_2299,topic,Word Building Systems,word building systems,1,verified,Word Building Systems,EXER_2299_concepts_raw.json
+EXER_2299,topic,Medical Terminology at the Professional Level,medical terminology at the professional level,1,verified,Medical Terminology at the Professional Level,EXER_2299_concepts_raw.json
+EXER_2299,topic,Medical Specialties and Health Professions,medical specialties and health professions,1,verified,Medical Specialties and Health Professions,EXER_2299_concepts_raw.json
+EXER_2299,topic,Classifying Medical Terms,Classifying Medical Terms,1,inferred,Classifying Medical Terms,EXER_2299_concepts_raw.json
+EXER_2299,topic,Medical Terms in Anatomy and Physiology,Medical Terms in Anatomy and Physiology,1,inferred,Medical Terms in Anatomy and Physiology,EXER_2299_concepts_raw.json
+EXER_2299,topic,Oncology and Cancer Terminology,Oncology and Cancer Terminology,1,inferred,Oncology and Cancer Terminology,EXER_2299_concepts_raw.json
+EXER_2299,topic,Orthopedics and Osteopathy Terms,Orthopedics and Osteopathy Terms,1,inferred,Orthopedics and Osteopathy Terms,EXER_2299_concepts_raw.json
+EXER_2299,topic,Pathology and Urology/Gynecology Terms,Pathology and Urology/Gynecology Terms,1,inferred,Pathology and Urology/Gynecology Terms,EXER_2299_concepts_raw.json
+EXER_2299,topic,"Gastroenterology, Neurology, and Psychology Terms","Gastroenterology, Neurology, and Psychology Terms",1,inferred,"Gastroenterology, Neurology, and Psychology Terms",EXER_2299_concepts_raw.json
+EXER_2299,topic,"Ophthalmology, Endocrinology, and Pulmonology Terms","Ophthalmology, Endocrinology, and Pulmonology Terms",1,inferred,"Ophthalmology, Endocrinology, and Pulmonology Terms",EXER_2299_concepts_raw.json
+EXER_2299,topic,"Anatomy, Surgery, and Pharmacology Terms","Anatomy, Surgery, and Pharmacology Terms",1,inferred,"Anatomy, Surgery, and Pharmacology Terms",EXER_2299_concepts_raw.json
+EXER_2299,concept,medical terminology word roots,Medical terminology word roots,1,inferred,medical terminology word roots,EXER_2299_concepts_raw.json
+EXER_2299,concept,prefixes functions,prefixes functions,1,inferred,prefixes functions,EXER_2299_concepts_raw.json
+EXER_2299,concept,parts of speech in medical terms,Parts of speech in medical terms,1,inferred,parts of speech in medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,plural formations in medical terms,Plural formations in medical terms,1,inferred,plural formations in medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,separating word elements in medical terms,Separating word elements in medical terms,1,inferred,separating word elements in medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,interpreting word elements in medical terms,Interpreting word elements in medical terms,1,inferred,interpreting word elements in medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,medical term classification systems,Medical term classification systems,1,inferred,medical term classification systems,EXER_2299_concepts_raw.json
+EXER_2299,concept,professional level of medical terminology usage,Professional level of medical terminology usage,1,inferred,professional level of medical terminology usage,EXER_2299_concepts_raw.json
+EXER_2299,concept,limitations of medical terminology at patient level,Limitations of medical terminology at patient level,1,inferred,limitations of medical terminology at patient level,EXER_2299_concepts_raw.json
+EXER_2299,concept,effective communication with patients,Effective communication with patients,1,inferred,effective communication with patients,EXER_2299_concepts_raw.json
+EXER_2299,concept,anatomy and physiology related medical terms,Anatomy and physiology related medical terms,1,inferred,anatomy and physiology related medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,terminology for body systems and organs,Terminology for body systems and organs,1,inferred,terminology for body systems and organs,EXER_2299_concepts_raw.json
+EXER_2299,concept,medical terms for anatomy and physiology concepts,Medical terms for anatomy and physiology concepts,1,inferred,medical terms for anatomy and physiology concepts,EXER_2299_concepts_raw.json
+EXER_2299,concept,cancer-related medical terminology,Cancer-related medical terminology,1,inferred,cancer-related medical terminology,EXER_2299_concepts_raw.json
+EXER_2299,concept,tumor classification and staging,Tumor classification and staging,1,inferred,tumor classification and staging,EXER_2299_concepts_raw.json
+EXER_2299,concept,treatment options and terminology,Treatment options and terminology,1,inferred,treatment options and terminology,EXER_2299_concepts_raw.json
+EXER_2299,concept,osteopathic principles and practices,Osteopathic principles and practices,1,inferred,osteopathic principles and practices,EXER_2299_concepts_raw.json
+EXER_2299,concept,bone and joint related medical terms,Bone and joint related medical terms,1,inferred,bone and joint related medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,urology and gynecology related medical terms,Urology and gynecology related medical terms,1,inferred,urology and gynecology related medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,terminology for diagnostic procedures,Terminology for diagnostic procedures,1,inferred,terminology for diagnostic procedures,EXER_2299_concepts_raw.json
+EXER_2299,concept,digestive system related medical terms,Digestive system related medical terms,1,inferred,digestive system related medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,neurological disorders and terminology,Neurological disorders and terminology,1,inferred,neurological disorders and terminology,EXER_2299_concepts_raw.json
+EXER_2299,concept,psychological disorders and terminology,Psychological disorders and terminology,1,inferred,psychological disorders and terminology,EXER_2299_concepts_raw.json
+EXER_2299,concept,eye-related medical terminology,Eye-related medical terminology,1,inferred,eye-related medical terminology,EXER_2299_concepts_raw.json
+EXER_2299,concept,endocrine system related medical terms,Endocrine system related medical terms,1,inferred,endocrine system related medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,respiratory system related medical terms,Respiratory system related medical terms,1,inferred,respiratory system related medical terms,EXER_2299_concepts_raw.json
+EXER_2299,concept,pharmacological agents and terminology,Pharmacological agents and terminology,1,inferred,pharmacological agents and terminology,EXER_2299_concepts_raw.json
+EXER_2299,concept,medical specialties and their terminology,Medical specialties and their terminology,1,inferred,medical specialties and their terminology,EXER_2299_concepts_raw.json
+EXER_2299,concept,health professions and their terminology,Health professions and their terminology,1,inferred,health professions and their terminology,EXER_2299_concepts_raw.json

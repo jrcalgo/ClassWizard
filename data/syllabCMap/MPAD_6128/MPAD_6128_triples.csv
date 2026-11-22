@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6128,Causal Mechanisms,topic,PREREQUISITE_OF,policymaking stages,concept,B taught first,B is taught before A - check,MPAD_6128_triples_raw.json
+MPAD_6128,agenda setting,concept,PREREQUISITE_OF,policymaking stages,concept,same unit,,MPAD_6128_triples_raw.json
+MPAD_6128,Theoretical Frameworks,topic,PREREQUISITE_OF,Global Policymaking Variations,topic,A taught first,,MPAD_6128_triples_raw.json
+MPAD_6128,agenda setting,concept,PART_OF,Policy Process Overview,topic,,,MPAD_6128_triples_raw.json
+MPAD_6128,policymaking stages,concept,PART_OF,Policy Process Overview,topic,,,MPAD_6128_triples_raw.json
+MPAD_6128,causal mechanism identification,concept,PART_OF,Evaluating Policies,topic,,,MPAD_6128_triples_raw.json
+MPAD_6128,policy impact analysis,concept,PART_OF,Evaluating Policies,topic,,,MPAD_6128_triples_raw.json
+MPAD_6128,institutional analysis,concept,PART_OF,Theoretical Frameworks,topic,,,MPAD_6128_triples_raw.json
+MPAD_6128,simplifying policy concepts,concept,PART_OF,Translating Complex Ideas,topic,,,MPAD_6128_triples_raw.json

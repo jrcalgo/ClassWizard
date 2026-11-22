@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_1221,topic,Elements of Statistics I,Elements of Statistics I,1,verified,Elements of Statistics I,STAT_1221_concepts_raw.json
+STAT_1221,topic,Descriptive Statistics,descriptive statistics,1,verified,Descriptive Statistics,STAT_1221_concepts_raw.json
+STAT_1221,topic,Continuous Random Variables,continuous random variables,1,verified,Continuous Random Variables,STAT_1221_concepts_raw.json
+STAT_1221,topic,Sampling Distribution,sampling distribution,1,verified,Sampling Distribution,STAT_1221_concepts_raw.json
+STAT_1221,topic,Probability Basics,Probability Basics,1,inferred,Probability Basics,STAT_1221_concepts_raw.json
+STAT_1221,topic,Discrete Random Variables,Discrete Random Variables,1,inferred,Discrete Random Variables,STAT_1221_concepts_raw.json
+STAT_1221,topic,Estimation and Confidence Intervals,Estimation and Confidence Intervals,1,inferred,Estimation and Confidence Intervals,STAT_1221_concepts_raw.json
+STAT_1221,topic,Hypothesis Testing,Hypothesis Testing,1,inferred,Hypothesis Testing,STAT_1221_concepts_raw.json
+STAT_1221,topic,Linear Regression Basics,Linear Regression Basics,1,inferred,Linear Regression Basics,STAT_1221_concepts_raw.json
+STAT_1221,topic,Regression Analysis Applications,Regression Analysis Applications,1,inferred,Regression Analysis Applications,STAT_1221_concepts_raw.json
+STAT_1221,concept,mean and median calculation,Mean and Median Calculation,1,inferred,mean and median calculation,STAT_1221_concepts_raw.json
+STAT_1221,concept,variance and standard deviation,Variance and Standard Deviation,1,inferred,variance and standard deviation,STAT_1221_concepts_raw.json
+STAT_1221,concept,interpreting histograms,Interpreting Histograms,1,inferred,interpreting histograms,STAT_1221_concepts_raw.json
+STAT_1221,concept,box plots and skewness,Box Plots and Skewness,1,inferred,box plots and skewness,STAT_1221_concepts_raw.json
+STAT_1221,concept,rule of probability addition,Rule of Probability Addition,1,inferred,rule of probability addition,STAT_1221_concepts_raw.json
+STAT_1221,concept,independent events,Independent Events,1,inferred,independent events,STAT_1221_concepts_raw.json
+STAT_1221,concept,conditional probability,Conditional Probability,1,inferred,conditional probability,STAT_1221_concepts_raw.json
+STAT_1221,concept,binomial distribution formula,Binomial Distribution Formula,1,inferred,binomial distribution formula,STAT_1221_concepts_raw.json
+STAT_1221,concept,expected value and variance,Expected Value and Variance,1,inferred,expected value and variance,STAT_1221_concepts_raw.json
+STAT_1221,concept,geometric distribution,Geometric Distribution,1,inferred,geometric distribution,STAT_1221_concepts_raw.json
+STAT_1221,concept,normal distribution properties,Normal Distribution Properties,1,inferred,normal distribution properties,STAT_1221_concepts_raw.json
+STAT_1221,concept,standard normal distribution,Standard Normal Distribution,1,inferred,standard normal distribution,STAT_1221_concepts_raw.json
+STAT_1221,concept,z-scores and percentiles,Z-Scores and Percentiles,1,inferred,z-scores and percentiles,STAT_1221_concepts_raw.json
+STAT_1221,concept,sample mean and population mean,Sample Mean and Population Mean,1,inferred,sample mean and population mean,STAT_1221_concepts_raw.json
+STAT_1221,concept,central limit theorem statement,Central Limit Theorem Statement,1,inferred,central limit theorem statement,STAT_1221_concepts_raw.json
+STAT_1221,concept,sampling distribution shape,Sampling Distribution Shape,1,inferred,sampling distribution shape,STAT_1221_concepts_raw.json
+STAT_1221,concept,point estimators and interval estimators,Point Estimators and Interval Estimators,1,inferred,point estimators and interval estimators,STAT_1221_concepts_raw.json
+STAT_1221,concept,confidence interval formula,Confidence Interval Formula,1,inferred,confidence interval formula,STAT_1221_concepts_raw.json
+STAT_1221,concept,margin of error calculation,Margin of Error Calculation,1,inferred,margin of error calculation,STAT_1221_concepts_raw.json
+STAT_1221,concept,null and alternative hypotheses,Null and Alternative Hypotheses,1,inferred,null and alternative hypotheses,STAT_1221_concepts_raw.json
+STAT_1221,concept,test statistics and p-values,Test Statistics and P-Values,1,inferred,test statistics and p-values,STAT_1221_concepts_raw.json
+STAT_1221,concept,type I and type II errors,Type I and Type II Errors,1,inferred,type I and type II errors,STAT_1221_concepts_raw.json
+STAT_1221,concept,simple linear regression model,Simple Linear Regression Model,1,inferred,simple linear regression model,STAT_1221_concepts_raw.json
+STAT_1221,concept,coefficient of determination,Coefficient of Determination,1,inferred,coefficient of determination,STAT_1221_concepts_raw.json
+STAT_1221,concept,residual plots and analysis,Residual Plots and Analysis,1,inferred,residual plots and analysis,STAT_1221_concepts_raw.json
+STAT_1221,concept,multiple linear regression model,Multiple Linear Regression Model,1,inferred,multiple linear regression model,STAT_1221_concepts_raw.json
+STAT_1221,concept,interpretation of coefficients,Interpretation of Coefficients,1,inferred,interpretation of coefficients,STAT_1221_concepts_raw.json
+STAT_1221,concept,model selection criteria,Model Selection Criteria,1,inferred,model selection criteria,STAT_1221_concepts_raw.json

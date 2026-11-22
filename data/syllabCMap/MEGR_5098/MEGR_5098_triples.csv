@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_5098,machining fundamentals,concept,PREREQUISITE_OF,machine tool types,concept,A taught first,,MEGR_5098_triples_raw.json
+MEGR_5098,machining fundamentals,concept,PREREQUISITE_OF,cutting tool technology,concept,A mentioned first,,MEGR_5098_triples_raw.json
+MEGR_5098,machining fundamentals,concept,PREREQUISITE_OF,tool holding systems,concept,A mentioned first,,MEGR_5098_triples_raw.json
+MEGR_5098,machining fundamentals,concept,PREREQUISITE_OF,fixtures,concept,A taught first,,MEGR_5098_triples_raw.json
+MEGR_5098,machining fundamentals,concept,PREREQUISITE_OF,Computer Numerical Control (CNC) technology,concept,A mentioned first,,MEGR_5098_triples_raw.json
+MEGR_5098,machining fundamentals,concept,PREREQUISITE_OF,sensors (IoT,concept,A mentioned first,,MEGR_5098_triples_raw.json
+MEGR_5098,machining fundamentals,concept,PREREQUISITE_OF,automation/robotics,concept,A mentioned first,,MEGR_5098_triples_raw.json
+MEGR_5098,machining fundamentals,concept,PART_OF,Precision Engineering,topic,,,MEGR_5098_triples_raw.json
+MEGR_5098,Computer Numerical Control (CNC) technology,concept,PART_OF,Intelligent and Sustainable Machining Processes,topic,,,MEGR_5098_triples_raw.json
+MEGR_5098,eco-friendly cutting fluids,concept,PART_OF,Sustainable Machining Practices,topic,,,MEGR_5098_triples_raw.json

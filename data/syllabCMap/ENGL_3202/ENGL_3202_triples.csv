@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3202,Short Story Structure,topic,PREREQUISITE_OF,Contemporary Fiction Analysis,topic,B mentioned first,,ENGL_3202_triples_raw.json
+ENGL_3202,Short Story,topic,PREREQUISITE_OF,themes in modern short stories,concept,A taught first,,ENGL_3202_triples_raw.json
+ENGL_3202,character development techniques,concept,PREREQUISITE_OF,creating compelling characters and plots,method,A taught first,,ENGL_3202_triples_raw.json
+ENGL_3202,plotting and pacing strategies,concept,PREREQUISITE_OF,developing story ideas and concepts,method,A taught first,,ENGL_3202_triples_raw.json
+ENGL_3202,exposition,concept,PREREQUISITE_OF,rising action,concept,same unit,,ENGL_3202_triples_raw.json
+ENGL_3202,resolution and denouement techniques,concept,PREREQUISITE_OF,climax,concept,same unit,,ENGL_3202_triples_raw.json
+ENGL_3202,self-editing strategies for short stories,concept,PREREQUISITE_OF,revision techniques for short stories,method,B taught first,B is taught before A - check,ENGL_3202_triples_raw.json
+ENGL_3202,exposition,concept,PART_OF,story structure basics,concept,,,ENGL_3202_triples_raw.json
+ENGL_3202,rising action,concept,PART_OF,story structure basics,concept,,,ENGL_3202_triples_raw.json
+ENGL_3202,climax,concept,PART_OF,story structure basics,concept,,,ENGL_3202_triples_raw.json
+ENGL_3202,resolution and denouement techniques,concept,PART_OF,story structure basics,concept,,,ENGL_3202_triples_raw.json
+ENGL_3202,Peer Workshops,topic,PART_OF,Contemporary Fiction Analysis,topic,,,ENGL_3202_triples_raw.json
+ENGL_3202,character development techniques,concept,PART_OF,writing original short stories,method,,part is broader than whole - check direction,ENGL_3202_triples_raw.json
+ENGL_3202,plotting and pacing strategies,concept,PART_OF,developing story ideas and concepts,method,,part is broader than whole - check direction,ENGL_3202_triples_raw.json
+ENGL_3202,freewriting and brainstorming,method,USED_FOR,developing story ideas and concepts,method,,,ENGL_3202_triples_raw.json
+ENGL_3202,character sketching and development,method,USED_FOR,creating compelling characters and plots,method,,,ENGL_3202_triples_raw.json
+ENGL_3202,plotting and outlining strategies,method,USED_FOR,developing story ideas and concepts,method,,,ENGL_3202_triples_raw.json
+ENGL_3202,giving constructive feedback,method,USED_FOR,Peer Workshops,topic,,,ENGL_3202_triples_raw.json
+ENGL_3202,receiving and incorporating feedback,method,USED_FOR,revision techniques for short stories,method,,,ENGL_3202_triples_raw.json
+ENGL_3202,writing engaging dialogue and descriptions,method,USED_FOR,writing original short stories,method,,,ENGL_3202_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4214,User Interaction with Applications,concept,PART_OF,Understanding User Behavior,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,Authentication Methods and Biometrics,concept,PART_OF,Security and Privacy Technologies,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,Encryption Techniques and Algorithms,concept,PART_OF,Security and Privacy Technologies,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,Access Control Systems and Protocols,concept,PART_OF,Security and Privacy Technologies,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,Risk assessment and mitigation,method,PART_OF,Assessing Security and Privacy,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,Threat modeling and risk management,method,PART_OF,Assessing Security and Privacy,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,Secure coding practices,method,PART_OF,Designing Secure Systems,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,User study methods,method,PART_OF,User Study Methods and Tools,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,Penetration testing,method,PART_OF,Assessing Security and Privacy,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,Applying usable security principles,method,PART_OF,Small Projects and Presentations,topic,,,ITIS_4214_triples_raw.json
+ITIS_4214,Presenting findings and recommendations,method,PART_OF,Small Projects and Presentations,topic,,,ITIS_4214_triples_raw.json

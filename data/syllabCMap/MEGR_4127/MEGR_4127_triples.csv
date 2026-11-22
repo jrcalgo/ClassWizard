@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_4127,General Concepts of System Engineering,concept,PREREQUISITE_OF,Motion Trajectory Planning,topic,A taught first,,MEGR_4127_triples_raw.json
+MEGR_4127,General Concepts of System Engineering,concept,PREREQUISITE_OF,Low-Level Robot Control,topic,A taught first,,MEGR_4127_triples_raw.json
+MEGR_4127,General Concepts of System Engineering,concept,PREREQUISITE_OF,Future of Autonomous Robots,topic,A taught first,,MEGR_4127_triples_raw.json
+MEGR_4127,Servos,concept,PREREQUISITE_OF,Linear Actuators,concept,same unit,,MEGR_4127_triples_raw.json
+MEGR_4127,Steppers,concept,PREREQUISITE_OF,Linear Actuators,concept,same unit,,MEGR_4127_triples_raw.json
+MEGR_4127,Mapping,concept,PART_OF,Localization,concept,,,MEGR_4127_triples_raw.json
+MEGR_4127,Arm Motion and Manipulation of Manufacturing Robots,concept,PART_OF,Robotics,topic,,,MEGR_4127_triples_raw.json
+MEGR_4127,Autonomy and Control in Animals and Robots,concept,PART_OF,Robotics,topic,,,MEGR_4127_triples_raw.json
+MEGR_4127,Control and Regulation in Biological Systems,concept,PART_OF,Robotics,topic,,,MEGR_4127_triples_raw.json

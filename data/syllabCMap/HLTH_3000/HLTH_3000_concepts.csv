@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_3000,topic,Medical Anthropology,Medical Anthropology,2,verified,Medical Anthropology,HLTH_3000_concepts_raw.json
+HLTH_3000,topic,Cultural Beliefs and Practices,cultural beliefs and practices,1,verified,Cultural Beliefs and Practices,HLTH_3000_concepts_raw.json
+HLTH_3000,topic,Cultural Systems of Healing,cultural systems of healing,1,verified,Cultural Systems of Healing,HLTH_3000_concepts_raw.json
+HLTH_3000,topic,Religion and Magic in Healing,Religion and Magic in Healing,1,verified,Religion and Magic in Healing,HLTH_3000_concepts_raw.json
+HLTH_3000,concept,role of disease in ecology,role of disease in ecology,1,verified,role of disease in ecology,HLTH_3000_concepts_raw.json
+HLTH_3000,concept,roles of patient and healer,roles of patient and healer,1,verified,roles of patient and healer,HLTH_3000_concepts_raw.json
+HLTH_3000,concept,culture and emotional states,culture and emotional states,1,verified,culture and emotional states,HLTH_3000_concepts_raw.json

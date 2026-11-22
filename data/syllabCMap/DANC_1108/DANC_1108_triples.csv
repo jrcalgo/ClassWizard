@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_1108,Breathing Techniques,concept,PREREQUISITE_OF,Mindfulness Practice,concept,same unit,,DANC_1108_triples_raw.json
+DANC_1108,Breathing Techniques,concept,PREREQUISITE_OF,Breath Control Techniques,concept,A taught first,,DANC_1108_triples_raw.json
+DANC_1108,Yoga Fundamentals,concept,PREREQUISITE_OF,Yoga Postures,topic,A taught first,,DANC_1108_triples_raw.json
+DANC_1108,Accessible Movement Techniques,concept,PREREQUISITE_OF,Inclusive Practice,concept,B taught first,B is taught before A - check,DANC_1108_triples_raw.json
+DANC_1108,Breathing Techniques,concept,PART_OF,Mindfulness Practice,concept,,,DANC_1108_triples_raw.json
+DANC_1108,Breath Control Techniques,concept,PART_OF,Breathing Techniques,concept,,,DANC_1108_triples_raw.json
+DANC_1108,Yoga for Performance Enhancement,concept,PART_OF,Audition Preparation,concept,,,DANC_1108_triples_raw.json
+DANC_1108,Faculty Dance Performance,concept,PART_OF,Fall Dance Concert Requirements,concept,,,DANC_1108_triples_raw.json
+DANC_1108,Accessible Movement Techniques,concept,PART_OF,Inclusive Practice,concept,,,DANC_1108_triples_raw.json
+DANC_1108,Bodiography principles,concept,PART_OF,ARC residency requirements,concept,,,DANC_1108_triples_raw.json
+DANC_1108,Body awareness techniques,concept,PART_OF,Mindfulness Practice,concept,,,DANC_1108_triples_raw.json
+DANC_1108,Accessible Movement,topic,USED_FOR,Inclusive Yoga Practices,concept,,topic used for something - check direction,DANC_1108_triples_raw.json
+DANC_1108,Accessible Movement,topic,USED_FOR,Inclusive Practice,concept,,topic used for something - check direction,DANC_1108_triples_raw.json

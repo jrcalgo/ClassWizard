@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4272,topic,Comparative Animal Physiology,Comparative Animal Physiology,1,verified,Comparative Animal Physiology,BIOL_4272_concepts_raw.json
+BIOL_4272,topic,Energy Acquisition,Energy Acquisition,2,inferred,Energy Acquisition,BIOL_4272_concepts_raw.json
+BIOL_4272,topic,Homeostasis Fundamentals,Homeostasis Fundamentals,1,inferred,Homeostasis Fundamentals,BIOL_4272_concepts_raw.json
+BIOL_4272,topic,Vertebrate Energy Strategies,Vertebrate Energy Strategies,1,inferred,Vertebrate Energy Strategies,BIOL_4272_concepts_raw.json
+BIOL_4272,topic,Invertebrate Energy Strategies,Invertebrate Energy Strategies,1,inferred,Invertebrate Energy Strategies,BIOL_4272_concepts_raw.json
+BIOL_4272,topic,Reproduction in Animals,Reproduction in Animals,1,inferred,Reproduction in Animals,BIOL_4272_concepts_raw.json
+BIOL_4272,topic,Environmental Adaptations,Environmental Adaptations,1,inferred,Environmental Adaptations,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Photosynthesis in Plants,Photosynthesis in Plants,1,inferred,Photosynthesis in Plants,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Cellular Respiration Overview,Cellular Respiration Overview,1,inferred,Cellular Respiration Overview,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Aerobic vs Anaerobic Metabolism,Aerobic vs Anaerobic Metabolism,1,inferred,Aerobic vs Anaerobic Metabolism,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Temperature Regulation Mechanisms,Temperature Regulation Mechanisms,1,inferred,Temperature Regulation Mechanisms,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Water Balance and Osmoregulation,Water Balance and Osmoregulation,1,inferred,Water Balance and Osmoregulation,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Electrolyte Balance and Homeostasis,Electrolyte Balance and Homeostasis,1,inferred,Electrolyte Balance and Homeostasis,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Endothermy in Mammals and Birds,Endothermy in Mammals and Birds,1,inferred,Endothermy in Mammals and Birds,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Ectothermy in Reptiles and Amphibians,Ectothermy in Reptiles and Amphibians,1,inferred,Ectothermy in Reptiles and Amphibians,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Fish Energy Conservation Mechanisms,Fish Energy Conservation Mechanisms,1,inferred,Fish Energy Conservation Mechanisms,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Arthropod Respiration and Metabolism,Arthropod Respiration and Metabolism,1,inferred,Arthropod Respiration and Metabolism,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Mollusk Energy Acquisition Methods,Mollusk Energy Acquisition Methods,1,inferred,Mollusk Energy Acquisition Methods,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Echinoderm Energy Conservation Techniques,Echinoderm Energy Conservation Techniques,1,inferred,Echinoderm Energy Conservation Techniques,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Gamete Formation and Fertilization,Gamete Formation and Fertilization,1,inferred,Gamete Formation and Fertilization,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Embryonic Development Stages,Embryonic Development Stages,1,inferred,Embryonic Development Stages,BIOL_4272_concepts_raw.json
+BIOL_4272,concept,Maternal Investment Strategies,Maternal Investment Strategies,1,inferred,Maternal Investment Strategies,BIOL_4272_concepts_raw.json

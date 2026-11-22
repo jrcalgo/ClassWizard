@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEAD_3030,design thinking,concept,PREREQUISITE_OF,adaptive leadership,method,A taught first,,LEAD_3030_triples_raw.json
+LEAD_3030,design thinking,concept,PREREQUISITE_OF,structured change management,method,A taught first,,LEAD_3030_triples_raw.json

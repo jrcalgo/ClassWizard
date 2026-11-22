@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_3220,topic,Air Quality,Air Quality,6,verified,Air Quality,ESCI_3220_concepts_raw.json
+ESCI_3220,topic,Criteria Air Pollutants (CAPs,Criteria Air Pollutants (CAPs,1,verified,Criteria Air Pollutants (CAPs),ESCI_3220_concepts_raw.json
+ESCI_3220,topic,Hazardous Air Pollutants (HAPs,Hazardous Air Pollutants (HAPs,1,verified,Hazardous Air Pollutants (HAPs),ESCI_3220_concepts_raw.json
+ESCI_3220,topic,National Ambient Air Quality Standards,National Ambient Air Quality Standards,1,verified,National Ambient Air Quality Standards,ESCI_3220_concepts_raw.json
+ESCI_3220,topic,US Clean Air Act Overview,US Clean Air Act Overview,1,inferred,US Clean Air Act Overview,ESCI_3220_concepts_raw.json
+ESCI_3220,topic,Air Pollution Monitoring Tools,Air Pollution Monitoring Tools,1,inferred,Air Pollution Monitoring Tools,ESCI_3220_concepts_raw.json
+ESCI_3220,topic,Global and Regional Air Quality Issues,Global and Regional Air Quality Issues,1,inferred,Global and Regional Air Quality Issues,ESCI_3220_concepts_raw.json
+ESCI_3220,topic,Social and Physical Dimensions of Air Pollution,Social and Physical Dimensions of Air Pollution,1,inferred,Social and Physical Dimensions of Air Pollution,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Air Pollution Basics,Air Pollution Basics,1,inferred,Air Pollution Basics,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Human Activities and Pollution,Human Activities and Pollution,1,inferred,Human Activities and Pollution,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Weather and Geography Factors,Weather and Geography Factors,1,inferred,Weather and Geography Factors,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Clean Air Act History,Clean Air Act History,1,inferred,Clean Air Act History,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Act Strengths and Weaknesses,Act Strengths and Weaknesses,1,inferred,Act Strengths and Weaknesses,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,National Policy Framework,National Policy Framework,1,inferred,National Policy Framework,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Nitrogen Dioxide Emissions,Nitrogen Dioxide Emissions,1,inferred,Nitrogen Dioxide Emissions,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Particulate Matter Sources,Particulate Matter Sources,1,inferred,Particulate Matter Sources,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Ozone Formation Mechanisms,Ozone Formation Mechanisms,1,inferred,Ozone Formation Mechanisms,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Air Toxics Definition,Air Toxics Definition,1,inferred,Air Toxics Definition,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Health Effects of HAPs,Health Effects of HAPs,1,inferred,Health Effects of HAPs,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Environmental Impact Assessment,Environmental Impact Assessment,1,inferred,Environmental Impact Assessment,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,NAAQS Definition and Purpose,NAAQS Definition and Purpose,1,inferred,NAAQS Definition and Purpose,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Standard Setting Process,Standard Setting Process,1,inferred,Standard Setting Process,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Monitoring and Enforcement,Monitoring and Enforcement,1,inferred,Monitoring and Enforcement,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Data Collection Methods,Data Collection Methods,1,inferred,Data Collection Methods,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Sensor Technologies Overview,Sensor Technologies Overview,1,inferred,Sensor Technologies Overview,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Air Quality Index Explanation,Air Quality Index Explanation,1,inferred,Air Quality Index Explanation,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,International Cooperation Efforts,International Cooperation Efforts,1,inferred,International Cooperation Efforts,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Regional Air Pollution Hotspots,Regional Air Pollution Hotspots,1,inferred,Regional Air Pollution Hotspots,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Climate Change Impact on AQ,Climate Change Impact on AQ,1,inferred,Climate Change Impact on AQ,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Exposure Disparities Overview,Exposure Disparities Overview,1,inferred,Exposure Disparities Overview,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Socioeconomic Factors Influence,Socioeconomic Factors Influence,1,inferred,Socioeconomic Factors Influence,ESCI_3220_concepts_raw.json
+ESCI_3220,concept,Physical Environment Impact,Physical Environment Impact,1,inferred,Physical Environment Impact,ESCI_3220_concepts_raw.json

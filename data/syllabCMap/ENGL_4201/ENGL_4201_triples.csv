@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4201,Student Diversity Awareness,concept,PREREQUISITE_OF,Building Student Relationships,concept,same unit,,ENGL_4201_triples_raw.json
+ENGL_4201,Student Diversity Awareness,concept,PREREQUISITE_OF,Culturally Responsive Teaching,concept,same unit,,ENGL_4201_triples_raw.json
+ENGL_4201,Learning Objectives Development,concept,PREREQUISITE_OF,Curriculum Design Principles,concept,same unit,,ENGL_4201_triples_raw.json
+ENGL_4201,Diverse Texts Selection Criteria,concept,PREREQUISITE_OF,Cultural Contextualization of Literature,concept,same unit,,ENGL_4201_triples_raw.json
+ENGL_4201,Discussion Strategies for Adolescents,concept,PREREQUISITE_OF,Managing Classroom Discourse,concept,same unit,,ENGL_4201_triples_raw.json
+ENGL_4201,Building Student Relationships,concept,PART_OF,Culturally Responsive Teaching,concept,,,ENGL_4201_triples_raw.json
+ENGL_4201,Learning Objectives Development,concept,PART_OF,Curriculum Design Principles,concept,,,ENGL_4201_triples_raw.json
+ENGL_4201,Diverse Texts Selection Criteria,concept,PART_OF,Cultural Contextualization of Literature,concept,,,ENGL_4201_triples_raw.json
+ENGL_4201,Discussion Strategies for Adolescents,concept,PART_OF,Managing Classroom Discourse,concept,,,ENGL_4201_triples_raw.json
+ENGL_4201,Culturally Responsive Teaching Practices,concept,PART_OF,Culturally Responsive Teaching,concept,,,ENGL_4201_triples_raw.json
+ENGL_4201,Literary Analysis Techniques,concept,USED_FOR,Cultural Contextualization of Literature,concept,,,ENGL_4201_triples_raw.json

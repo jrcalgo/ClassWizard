@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_5379,General Curriculum Standards,concept,PREREQUISITE_OF,Assessing Student Needs,topic,A taught first,,SPED_5379_triples_raw.json
+SPED_5379,General Curriculum Standards,concept,PREREQUISITE_OF,Mathematics Instruction for Students with Disabilities,topic,A taught first,,SPED_5379_triples_raw.json
+SPED_5379,General Curriculum Standards,concept,PREREQUISITE_OF,Science Instruction for Students with Disabilities,topic,A taught first,,SPED_5379_triples_raw.json
+SPED_5379,General Curriculum Standards,concept,PREREQUISITE_OF,Social Studies Instruction for Students with Disabilities,topic,A taught first,,SPED_5379_triples_raw.json
+SPED_5379,Collaborative Planning with General Education Teachers,method,PART_OF,Field Experience and Application,topic,,,SPED_5379_triples_raw.json
+SPED_5379,Data-Driven Instructional Decision Making,method,PART_OF,Assessing Student Needs,topic,,,SPED_5379_triples_raw.json
+SPED_5379,Data-Driven Instructional Decision Making,method,PART_OF,Content Enhancement Techniques,topic,,,SPED_5379_triples_raw.json
+SPED_5379,Data-Driven Instructional Decision Making,method,PART_OF,English Instruction for Students with Disabilities,topic,,,SPED_5379_triples_raw.json
+SPED_5379,Collaborative Instruction Strategies,concept,USED_FOR,Content Enhancement Techniques,topic,,,SPED_5379_triples_raw.json

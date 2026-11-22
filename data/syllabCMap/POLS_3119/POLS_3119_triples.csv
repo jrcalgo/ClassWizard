@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3119,American Federalism,concept,PART_OF,State and Local Government,topic,,,POLS_3119_triples_raw.json
+POLS_3119,Metropolitan Planning Organizations,work,PART_OF,Regional Governments,concept,,,POLS_3119_triples_raw.json
+POLS_3119,Regional Government Structure,work,PART_OF,Regional Governments,concept,,,POLS_3119_triples_raw.json
+POLS_3119,Commonwealth Model,concept,PART_OF,State and Local Government,topic,,,POLS_3119_triples_raw.json
+POLS_3119,American Federalism,concept,USED_FOR,State Policy Differences,topic,,,POLS_3119_triples_raw.json
+POLS_3119,American Federalism,concept,USED_FOR,Procedural Variations,topic,,,POLS_3119_triples_raw.json
+POLS_3119,American Federalism,concept,USED_FOR,Institutional Comparison,topic,,,POLS_3119_triples_raw.json
+POLS_3119,Daniel Elazar,work,USED_FOR,State Behavior Comparison,topic,,,POLS_3119_triples_raw.json
+POLS_3119,Lieske,work,USED_FOR,State Behavior Comparison,topic,,,POLS_3119_triples_raw.json

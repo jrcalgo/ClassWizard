@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_3000,Types of extinctions,concept,PREREQUISITE_OF,Drivers of modern biodiversity losses,concept,A taught first,,GEOG_3000_triples_raw.json
+GEOG_3000,Types of extinctions,concept,PREREQUISITE_OF,Five major mass extinctions,concept,A taught first,,GEOG_3000_triples_raw.json
+GEOG_3000,Types of extinctions,concept,PART_OF,Extinction,topic,,,GEOG_3000_triples_raw.json
+GEOG_3000,Five major mass extinctions,concept,PART_OF,Mass extinctions,topic,,,GEOG_3000_triples_raw.json
+GEOG_3000,Sixth mass extinction,topic,PART_OF,Mass extinctions,topic,,,GEOG_3000_triples_raw.json
+GEOG_3000,Habitat loss,topic,PART_OF,Environmental change,topic,,,GEOG_3000_triples_raw.json
+GEOG_3000,Global climate change,topic,PART_OF,Environmental change,topic,,,GEOG_3000_triples_raw.json

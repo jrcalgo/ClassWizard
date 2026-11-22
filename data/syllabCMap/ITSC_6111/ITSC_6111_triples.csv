@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_6111,variables,concept,PREREQUISITE_OF,data types,concept,same unit,,ITSC_6111_triples_raw.json
+ITSC_6111,expressions,concept,PREREQUISITE_OF,control structures,concept,same unit,,ITSC_6111_triples_raw.json
+ITSC_6111,functions,concept,PREREQUISITE_OF,arrays,concept,same unit,,ITSC_6111_triples_raw.json
+ITSC_6111,variables,concept,PREREQUISITE_OF,output,concept,A taught first,,ITSC_6111_triples_raw.json
+ITSC_6111,data types,concept,PREREQUISITE_OF,programming best practices,concept,A taught first,,ITSC_6111_triples_raw.json
+ITSC_6111,problem decomposition,method,PREREQUISITE_OF,algorithm development,method,same unit,,ITSC_6111_triples_raw.json
+ITSC_6111,variables,concept,PART_OF,Foundations of Programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,data types,concept,PART_OF,Foundations of Programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,expressions,concept,PART_OF,Foundations of Programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,control structures,concept,PART_OF,Foundations of Programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,functions,concept,PART_OF,Foundations of Programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,output,concept,PART_OF,Foundations of Programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,arrays,concept,PART_OF,Foundations of Programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,programming best practices,concept,PART_OF,Foundations of Programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,procedural programming,method,PART_OF,computer programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,file input,method,PART_OF,computer programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,pseudocode,method,PART_OF,Computational Thinking,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,problem decomposition,method,PART_OF,Computational Thinking,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,algorithm development,method,PART_OF,Computational Thinking,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,Python,tool,PART_OF,computational thinking and problem-solving using Python,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,procedural programming,method,SUBTYPE_OF,Programming Constructs,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,file input,method,SUBTYPE_OF,procedural programming,method,,,ITSC_6111_triples_raw.json
+ITSC_6111,pseudocode,method,SUBTYPE_OF,procedural programming,method,,,ITSC_6111_triples_raw.json
+ITSC_6111,problem decomposition,method,SUBTYPE_OF,Computational Thinking,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,algorithm development,method,SUBTYPE_OF,Computational Thinking,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,Python,tool,USED_FOR,Foundations of Programming,topic,,,ITSC_6111_triples_raw.json
+ITSC_6111,Python,tool,USED_FOR,computational thinking and problem-solving using Python,topic,,,ITSC_6111_triples_raw.json

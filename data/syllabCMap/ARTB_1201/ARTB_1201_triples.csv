@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTB_1201,Drawing,topic,PREREQUISITE_OF,2D Design,topic,A mentioned first,,ARTB_1201_triples_raw.json
+ARTB_1201,Drawing,topic,PREREQUISITE_OF,Drawing Materials and Techniques,topic,A taught first,,ARTB_1201_triples_raw.json
+ARTB_1201,drawing terminology,concept,PREREQUISITE_OF,visual organization,concept,same unit,,ARTB_1201_triples_raw.json
+ARTB_1201,formal elements,concept,PREREQUISITE_OF,principles of design,method,A mentioned first,,ARTB_1201_triples_raw.json
+ARTB_1201,drawing terminology,concept,PART_OF,Drawing,topic,,,ARTB_1201_triples_raw.json
+ARTB_1201,visual organization,concept,PART_OF,2D Design,topic,,,ARTB_1201_triples_raw.json
+ARTB_1201,formal elements,concept,PART_OF,principles of design,method,,part is broader than whole - check direction,ARTB_1201_triples_raw.json
+ARTB_1201,techniques,method,PART_OF,Drawing Materials and Techniques,topic,,,ARTB_1201_triples_raw.json

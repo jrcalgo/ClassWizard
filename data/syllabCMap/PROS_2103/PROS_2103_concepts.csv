@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PROS_2103,topic,Requirements Management,requirements management,1,verified,Requirements Management,PROS_2103_concepts_raw.json
+PROS_2103,topic,Project Management Fundamentals,Project Management Fundamentals,1,inferred,Project Management Fundamentals,PROS_2103_concepts_raw.json
+PROS_2103,topic,Project Planning,Project Planning,1,inferred,Project Planning,PROS_2103_concepts_raw.json
+PROS_2103,topic,Risk Management,Risk Management,1,inferred,Risk Management,PROS_2103_concepts_raw.json
+PROS_2103,topic,Communication Planning,Communication Planning,1,inferred,Communication Planning,PROS_2103_concepts_raw.json
+PROS_2103,topic,Project Monitoring and Control,Project Monitoring and Control,1,inferred,Project Monitoring and Control,PROS_2103_concepts_raw.json
+PROS_2103,concept,Project Life Cycle Phases,Project Life Cycle Phases,1,inferred,Project Life Cycle Phases,PROS_2103_concepts_raw.json
+PROS_2103,concept,Project Scope Statement,Project Scope Statement,1,inferred,Project Scope Statement,PROS_2103_concepts_raw.json
+PROS_2103,concept,Project Management Process Groups,Project Management Process Groups,1,inferred,Project Management Process Groups,PROS_2103_concepts_raw.json
+PROS_2103,concept,Work Breakdown Structure (WBS,Work Breakdown Structure (WBS,1,inferred,Work Breakdown Structure (WBS),PROS_2103_concepts_raw.json
+PROS_2103,concept,Resource Allocation and Assignment,Resource Allocation and Assignment,1,inferred,Resource Allocation and Assignment,PROS_2103_concepts_raw.json
+PROS_2103,concept,Project Schedule Development,Project Schedule Development,1,inferred,Project Schedule Development,PROS_2103_concepts_raw.json
+PROS_2103,concept,Identifying and Assessing Risks,Identifying and Assessing Risks,1,inferred,Identifying and Assessing Risks,PROS_2103_concepts_raw.json
+PROS_2103,concept,Developing Risk Mitigation Strategies,Developing Risk Mitigation Strategies,1,inferred,Developing Risk Mitigation Strategies,PROS_2103_concepts_raw.json
+PROS_2103,concept,Monitoring and Controlling Risks,Monitoring and Controlling Risks,1,inferred,Monitoring and Controlling Risks,PROS_2103_concepts_raw.json
+PROS_2103,concept,Eliciting and Documenting Requirements,Eliciting and Documenting Requirements,1,inferred,Eliciting and Documenting Requirements,PROS_2103_concepts_raw.json
+PROS_2103,concept,Analyzing and Validating Requirements,Analyzing and Validating Requirements,1,inferred,Analyzing and Validating Requirements,PROS_2103_concepts_raw.json
+PROS_2103,concept,Managing Change Requests,Managing Change Requests,1,inferred,Managing Change Requests,PROS_2103_concepts_raw.json
+PROS_2103,concept,Stakeholder Identification and Analysis,Stakeholder Identification and Analysis,1,inferred,Stakeholder Identification and Analysis,PROS_2103_concepts_raw.json
+PROS_2103,concept,Developing Communication Strategies,Developing Communication Strategies,1,inferred,Developing Communication Strategies,PROS_2103_concepts_raw.json
+PROS_2103,concept,Creating a Communication Plan,Creating a Communication Plan,1,inferred,Creating a Communication Plan,PROS_2103_concepts_raw.json
+PROS_2103,concept,Tracking Progress and Performance,Tracking Progress and Performance,1,inferred,Tracking Progress and Performance,PROS_2103_concepts_raw.json
+PROS_2103,concept,Identifying and Correcting Deviations,Identifying and Correcting Deviations,1,inferred,Identifying and Correcting Deviations,PROS_2103_concepts_raw.json
+PROS_2103,concept,Managing Project Scope Creep,Managing Project Scope Creep,1,inferred,Managing Project Scope Creep,PROS_2103_concepts_raw.json

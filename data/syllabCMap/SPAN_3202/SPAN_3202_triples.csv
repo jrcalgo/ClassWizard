@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_3202,socio-cultural contexts,concept,PART_OF,Advanced Conversation,topic,,,SPAN_3202_triples_raw.json
+SPAN_3202,socio-cultural contexts,concept,PART_OF,Composition,topic,,,SPAN_3202_triples_raw.json
+SPAN_3202,contemporary digital platforms,concept,PART_OF,Technological Integration & Digital Literacy,topic,,,SPAN_3202_triples_raw.json
+SPAN_3202,educational technologies,concept,PART_OF,Technological Integration & Digital Literacy,topic,,,SPAN_3202_triples_raw.json
+SPAN_3202,professional efficacy,concept,PART_OF,"Leadership, Professionalism, & Metacognitive Development",topic,,,SPAN_3202_triples_raw.json
+SPAN_3202,BOOMALANG,tool,USED_FOR,Advanced Conversation,topic,,,SPAN_3202_triples_raw.json

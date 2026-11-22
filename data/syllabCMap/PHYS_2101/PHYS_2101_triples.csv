@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_2101,kinematics and dynamics of particles,topic,PREREQUISITE_OF,work,topic,B mentioned first,,PHYS_2101_triples_raw.json
+PHYS_2101,kinematics and dynamics of particles,topic,PREREQUISITE_OF,energy,topic,B mentioned first,,PHYS_2101_triples_raw.json
+PHYS_2101,kinematics and dynamics of particles,topic,PREREQUISITE_OF,conservation laws,topic,B mentioned first,,PHYS_2101_triples_raw.json
+PHYS_2101,kinematics and dynamics of particles,topic,PREREQUISITE_OF,simple harmonic motion,topic,B mentioned first,,PHYS_2101_triples_raw.json
+PHYS_2101,kinematics and dynamics of particles,topic,PREREQUISITE_OF,mechanics of rigid bodies,topic,B mentioned first,,PHYS_2101_triples_raw.json
+PHYS_2101,force,concept,PART_OF,kinematics and dynamics of particles,topic,,,PHYS_2101_triples_raw.json
+PHYS_2101,potential energy,concept,PART_OF,energy,topic,,,PHYS_2101_triples_raw.json
+PHYS_2101,kinetic energy,concept,PART_OF,energy,topic,,,PHYS_2101_triples_raw.json
+PHYS_2101,kinetic energy,concept,SUBTYPE_OF,energy,topic,,,PHYS_2101_triples_raw.json
+PHYS_2101,potential energy,concept,SUBTYPE_OF,energy,topic,,,PHYS_2101_triples_raw.json

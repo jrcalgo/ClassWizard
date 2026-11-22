@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8460,Ongoing Research Projects,concept,PREREQUISITE_OF,Scholarly Literature Reviews,concept,A taught first,,EDCI_8460_triples_raw.json
+EDCI_8460,Ongoing Research Projects,concept,PREREQUISITE_OF,Center-Based Research Projects,concept,A taught first,,EDCI_8460_triples_raw.json
+EDCI_8460,Ongoing Research Projects,concept,PREREQUISITE_OF,Community-Facing Materials,concept,A taught first,,EDCI_8460_triples_raw.json
+EDCI_8460,Scholarly Literature Reviews,concept,USED_FOR,Center-Based Research Projects,concept,,,EDCI_8460_triples_raw.json

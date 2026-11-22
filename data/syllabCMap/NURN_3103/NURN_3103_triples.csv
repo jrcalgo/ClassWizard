@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURN_3103,nursing taxonomies,concept,PART_OF,Professional Nursing,topic,,,NURN_3103_triples_raw.json
+NURN_3103,concepts of health,concept,PART_OF,Health Promotion and Disease Prevention,topic,,,NURN_3103_triples_raw.json
+NURN_3103,wellness,method,PART_OF,Health Promotion and Disease Prevention,topic,,,NURN_3103_triples_raw.json
+NURN_3103,illness,method,PART_OF,Health Promotion and Disease Prevention,topic,,,NURN_3103_triples_raw.json

@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_3039,Feminist Bio/Ethics,topic,PREREQUISITE_OF,Reproductive/Sexual Health,topic,B taught first,B is taught before A - check,PHIL_3039_triples_raw.json
+PHIL_3039,Feminist,topic,PREREQUISITE_OF,Ethics & Genetics,topic,A taught first,,PHIL_3039_triples_raw.json
+PHIL_3039,Feminist Bio/Ethics,topic,USED_FOR,Reproductive/Sexual Health,topic,,topic used for something - check direction,PHIL_3039_triples_raw.json
+PHIL_3039,Direction,topic,USED_FOR,Complete: Discussion Board #2,topic,,topic used for something - check direction,PHIL_3039_triples_raw.json
+PHIL_3039,Advanced Applications & Institutional Critique,topic,USED_FOR,Complete: Discussion Board #3,topic,,topic used for something - check direction,PHIL_3039_triples_raw.json
+PHIL_3039,Feminist,topic,USED_FOR,Ethics & Genetics,topic,,topic used for something - check direction,PHIL_3039_triples_raw.json

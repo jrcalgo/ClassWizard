@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4405,Problem-Based Learning,topic,PREREQUISITE_OF,molecular biology techniques,concept,same unit,,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,PREREQUISITE_OF,experimental design principles,concept,A taught first,,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,PREREQUISITE_OF,data analysis methods,concept,A taught first,,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,PREREQUISITE_OF,collaborative teamwork skills,concept,A taught first,,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,PREREQUISITE_OF,academic research methods,concept,A taught first,,BIOL_4405_triples_raw.json
+BIOL_4405,molecular biology techniques,concept,PREREQUISITE_OF,experimental design principles,concept,A taught first,,BIOL_4405_triples_raw.json
+BIOL_4405,molecular biology techniques,concept,PREREQUISITE_OF,data analysis methods,concept,A taught first,,BIOL_4405_triples_raw.json
+BIOL_4405,experimental design principles,concept,PREREQUISITE_OF,data analysis methods,concept,same unit,,BIOL_4405_triples_raw.json
+BIOL_4405,molecular biology techniques,concept,PART_OF,Molecular Biology,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,PART_OF,Biotechnology Internship,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,experimental design principles,concept,PART_OF,Biotechnology Internship,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,data analysis methods,concept,PART_OF,Biotechnology Internship,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,collaborative teamwork skills,concept,PART_OF,Biotechnology Internship,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,industry sector analysis,concept,PART_OF,Biotechnology Internship,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,government agency roles,concept,PART_OF,Biotechnology Internship,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,academic research methods,concept,PART_OF,Biotechnology Internship,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,employment preparation,concept,PART_OF,Biotechnology Internship,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,graduate study readiness,concept,PART_OF,Biotechnology Internship,topic,,,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,USED_FOR,data analysis methods,concept,,topic used for something - check direction,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,USED_FOR,career pathways in biotech,concept,,topic used for something - check direction,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,USED_FOR,industry sector analysis,concept,,topic used for something - check direction,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,USED_FOR,government agency roles,concept,,topic used for something - check direction,BIOL_4405_triples_raw.json
+BIOL_4405,Problem-Based Learning,topic,USED_FOR,academic research methods,concept,,topic used for something - check direction,BIOL_4405_triples_raw.json
+BIOL_4405,molecular biology techniques,concept,USED_FOR,experimental design principles,concept,,,BIOL_4405_triples_raw.json
+BIOL_4405,molecular biology techniques,concept,USED_FOR,data analysis methods,concept,,,BIOL_4405_triples_raw.json
+BIOL_4405,experimental design principles,concept,USED_FOR,data analysis methods,concept,,,BIOL_4405_triples_raw.json

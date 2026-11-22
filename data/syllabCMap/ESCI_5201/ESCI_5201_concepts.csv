@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_5201,topic,Hydroclimatology,Hydroclimatology,1,verified,Hydroclimatology,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Climatological water cycle processes,Climatological Water Cycle Processes,1,inferred,Climatological water cycle processes,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Importance of hydroclimatology in ecosystems,Importance of Hydroclimatology in Ecosystems,1,inferred,Importance of hydroclimatology in ecosystems,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Precipitation patterns in tropical regions,Precipitation Patterns in Tropical Regions,1,inferred,Precipitation patterns in tropical regions,ESCI_5201_concepts_raw.json
+ESCI_5201,topic,Monsoon and Trade Wind Effects,Monsoon and Trade Wind Effects,1,inferred,Monsoon and Trade Wind Effects,ESCI_5201_concepts_raw.json
+ESCI_5201,topic,Mid-Latitude Cyclones and Anticyclones,Mid-Latitude Cyclones and Anticyclones,1,inferred,Mid-Latitude Cyclones and Anticyclones,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Frontal precipitation processes,Frontal Precipitation Processes,1,inferred,Frontal precipitation processes,ESCI_5201_concepts_raw.json
+ESCI_5201,topic,Evaporation and Transpiration Processes,Evaporation and Transpiration Processes,1,inferred,Evaporation and Transpiration Processes,ESCI_5201_concepts_raw.json
+ESCI_5201,topic,Runoff and Infiltration Mechanisms,Runoff and Infiltration Mechanisms,1,inferred,Runoff and Infiltration Mechanisms,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Carbon dioxide and photosynthetic rates,Carbon Dioxide and Photosynthetic Rates,1,inferred,Carbon dioxide and photosynthetic rates,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Vegetation water use efficiency,Vegetation Water Use Efficiency,1,inferred,Vegetation water use efficiency,ESCI_5201_concepts_raw.json
+ESCI_5201,topic,Climate Variability and Change Effects,Climate Variability and Change Effects,1,inferred,Climate Variability and Change Effects,ESCI_5201_concepts_raw.json
+ESCI_5201,topic,CO2-Driven Changes in Hydroclimatology,CO2-Driven Changes in Hydroclimatology,1,inferred,CO2-Driven Changes in Hydroclimatology,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Trade wind effects,Trade Wind Effects,1,inferred,Trade wind effects,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Mid-latitude cyclones,Mid-Latitude Cyclones,1,inferred,Mid-latitude cyclones,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Anticyclones,Anticyclones,1,inferred,Anticyclones,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Transpiration processes,Transpiration Processes,1,inferred,Transpiration processes,ESCI_5201_concepts_raw.json
+ESCI_5201,concept,Infiltration mechanisms,Infiltration Mechanisms,1,inferred,Infiltration mechanisms,ESCI_5201_concepts_raw.json

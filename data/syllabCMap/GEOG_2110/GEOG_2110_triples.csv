@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_2110,Quantitative Techniques,topic,PART_OF,Geographic Research,topic,,,GEOG_2110_triples_raw.json
+GEOG_2110,Statistical Problem Solving,topic,PART_OF,Geographic Research,topic,,,GEOG_2110_triples_raw.json
+GEOG_2110,Summary Statistics,topic,PART_OF,Quantitative Techniques,topic,,,GEOG_2110_triples_raw.json
+GEOG_2110,Spatial summaries,method,PART_OF,Summary Statistics,topic,,,GEOG_2110_triples_raw.json
+GEOG_2110,Spatial applications in summary statistics,method,USED_FOR,Summary Statistics,topic,,,GEOG_2110_triples_raw.json
+GEOG_2110,Spatial summaries,method,USED_FOR,Summary Statistics,topic,,,GEOG_2110_triples_raw.json

@@ -1,0 +1,81 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_6216,topic,Cognitive Science,Cognitive Science,14,verified,Cognitive Science,PSYC_6216_concepts_raw.json
+PSYC_6216,topic,Philosophy of Mind,philosophy of mind,2,verified,Philosophy of Mind,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Human Memory Processes,human memory processes,16,verified,Human Memory Processes,PSYC_6216_concepts_raw.json
+PSYC_6216,topic,Reasoning and Problem Solving,reasoning and problem solving,2,verified,Reasoning and Problem Solving,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Artificial Intelligence,artificial intelligence,21,verified,Artificial Intelligence,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Language Processing,language processing,12,verified,Language Processing,PSYC_6216_concepts_raw.json
+PSYC_6216,topic,Neural Structures and Processes,neural structures and processes,1,verified,Neural Structures and Processes,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Vision Perception,Vision Perception,7,verified,Vision Perception,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Expert Performance,Expert Performance,1,verified,Expert Performance,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Deliberate Practice,Deliberate Practice,1,verified,Deliberate Practice,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Working Memory Capacity,Working Memory Capacity,1,verified,Working Memory Capacity,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Long-Term Working Memory,Long-Term Working Memory,1,verified,Long-Term Working Memory,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Knowledge Retention Theory,Knowledge Retention Theory,1,verified,Knowledge Retention Theory,PSYC_6216_concepts_raw.json
+PSYC_6216,method,Cognitive Task Analysis,Cognitive Task Analysis,1,verified,Cognitive Task Analysis,PSYC_6216_concepts_raw.json
+PSYC_6216,method,Verbal Reporting Techniques,Verbal Reporting Techniques,1,verified,Verbal Reporting Techniques,PSYC_6216_concepts_raw.json
+PSYC_6216,method,Think-Aloud Methodology,Think-Aloud Methodology,1,verified,Think-Aloud Methodology,PSYC_6216_concepts_raw.json
+PSYC_6216,method,Data Elicitation Methods,Data Elicitation Methods,1,verified,Data Elicitation Methods,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Rationality Theories,Rationality Theories,2,verified,Rationality Theories,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Human Reasoning Models,Human Reasoning Models,2,verified,Human Reasoning Models,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Artificial Intelligence Types,Artificial Intelligence Types,1,verified,Artificial Intelligence Types,PSYC_6216_concepts_raw.json
+PSYC_6216,method,Machine Learning Algorithms,Machine Learning Algorithms,3,verified,Machine Learning Algorithms,PSYC_6216_concepts_raw.json
+PSYC_6216,method,Neural Network Architectures,Neural Network Architectures,2,verified,Neural Network Architectures,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Rationality Debate,Cognitive Rationality Debate,1,verified,Cognitive Rationality Debate,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Intelligent Action Processes,Intelligent Action Processes,1,verified,Intelligent Action Processes,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Knowledge Representation Methods,Knowledge Representation Methods,1,verified,Knowledge Representation Methods,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Perceptual Processing,Perceptual Processing,1,verified,Perceptual Processing,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Attention Mechanisms,Attention Mechanisms,1,verified,Attention Mechanisms,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Sensory Integration,Sensory Integration,1,verified,Sensory Integration,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Feature Extraction,Feature Extraction,1,verified,Feature Extraction,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Object Recognition,Object Recognition,1,verified,Object Recognition,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Embodiment Theory,Embodiment Theory,1,verified,Embodiment Theory,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Autonomous Systems,Autonomous Systems,1,verified,Autonomous Systems,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Sensorimotor Integration,Sensorimotor Integration,2,verified,Sensorimotor Integration,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Neural Plasticity,Neural Plasticity,3,verified,Neural Plasticity,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Action-Oriented Cognition,Action-Oriented Cognition,1,verified,Action-Oriented Cognition,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Autonomy,Cognitive Autonomy,1,verified,Cognitive Autonomy,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Body Schema Theory,Body Schema Theory,1,verified,Body Schema Theory,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Self-Organization Principle,Self-Organization Principle,1,verified,Self-Organization Principle,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Interoception,Interoception,2,verified,Interoception,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Adaptive Processes,Adaptive Processes,1,verified,Adaptive Processes,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Development,Cognitive Development,1,verified,Cognitive Development,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Adaptation Mechanisms,Adaptation Mechanisms,2,verified,Adaptation Mechanisms,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Knowledge Representation,Knowledge Representation,9,verified,Knowledge Representation,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Social Cognition,Social Cognition,2,verified,Social Cognition,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Theory of Mind,Theory of Mind,1,verified,Theory of Mind,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Priming Effect,Priming Effect,1,verified,Priming Effect,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Schema Theory,Schema Theory,2,verified,Schema Theory,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Attribution Theory,Attribution Theory,1,verified,Attribution Theory,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Impression Formation,Impression Formation,1,verified,Impression Formation,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Person Perception,Person Perception,1,verified,Person Perception,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Biases,Cognitive Biases,4,verified,Cognitive Biases,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Heuristics in Decision Making,Heuristics in Decision Making,1,verified,Heuristics in Decision Making,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Moral Faults,Moral Faults,1,verified,Moral Faults,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Human Moral Reasoning,Human Moral Reasoning,1,verified,Human Moral Reasoning,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Faulty Moral Judgments,Faulty Moral Judgments,1,verified,Faulty Moral Judgments,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Structure,cognitive structure,2,verified,Cognitive Structure,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Dilemmas in Cognition,Dilemmas in Cognition,1,verified,Dilemmas in Cognition,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cross-Cultural Approaches,cross-cultural approaches,6,verified,Cross-Cultural Approaches,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Human Cognitive Systems,Human Cognitive Systems,2,verified,Human Cognitive Systems,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Biological and Artificial Systems,Biological and Artificial Systems,2,verified,Biological and Artificial Systems,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Augmentation,Cognitive Augmentation,1,verified,Cognitive Augmentation,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Human-Machine Interface,Human-Machine Interface,1,verified,Human-Machine Interface,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Enhancement,Cognitive Enhancement,1,verified,Cognitive Enhancement,PSYC_6216_concepts_raw.json
+PSYC_6216,method,Brain-Computer Interface,Brain-Computer Interface,1,verified,Brain-Computer Interface,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Machine Learning,Machine Learning,4,verified,Machine Learning,PSYC_6216_concepts_raw.json
+PSYC_6216,method,Cognitive Load Theory,Cognitive Load Theory,1,verified,Cognitive Load Theory,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,External Representations,external representations,2,verified,External Representations,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Symbolic Thinking,Symbolic Thinking,1,verified,Symbolic Thinking,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Offloading,Cognitive Offloading,1,verified,Cognitive Offloading,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Embodied Cognition,embodied cognition,3,verified,Embodied Cognition,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Mind Augmentation,Mind Augmentation,1,verified,Mind Augmentation,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Representation Formats,Representation Formats,1,verified,Representation Formats,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Information Externalization,Information Externalization,1,verified,Information Externalization,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Load Management,Cognitive Load Management,1,verified,Cognitive Load Management,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Cognitive Systems,cognitive systems,15,verified,Cognitive Systems,PSYC_6216_concepts_raw.json
+PSYC_6216,topic,Intelligent Action,intelligent action,5,verified,Intelligent Action,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Neural Structures,neural structures,15,verified,Neural Structures,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Biological Representations,Biological Representations,8,verified,Biological Representations,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Reasoning Theories,Reasoning Theories,6,verified,Reasoning Theories,PSYC_6216_concepts_raw.json
+PSYC_6216,concept,Problem Solving Strategies,Problem Solving Strategies,7,verified,Problem Solving Strategies,PSYC_6216_concepts_raw.json

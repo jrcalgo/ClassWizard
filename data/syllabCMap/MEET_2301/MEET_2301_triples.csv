@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEET_2301,types of force systems,concept,PART_OF,systems of forces,topic,,,MEET_2301_triples_raw.json
+MEET_2301,equivalent force systems,concept,PART_OF,systems of forces,topic,,,MEET_2301_triples_raw.json
+MEET_2301,Free Body Diagrams (FBDs,concept,PART_OF,analysis of structures,topic,,,MEET_2301_triples_raw.json
+MEET_2301,global equilibrium,concept,PART_OF,equilibrium of particles and rigid bodies,topic,,,MEET_2301_triples_raw.json
+MEET_2301,basic structures,concept,PART_OF,analysis of structures,topic,,,MEET_2301_triples_raw.json
+MEET_2301,internal forces in members and pins,concept,PART_OF,analysis of structures,topic,,,MEET_2301_triples_raw.json
+MEET_2301,method of joints,concept,PART_OF,analysis of structures,topic,,,MEET_2301_triples_raw.json
+MEET_2301,method of sections,concept,PART_OF,analysis of structures,topic,,,MEET_2301_triples_raw.json
+MEET_2301,simple frames,concept,PART_OF,analysis of structures,topic,,,MEET_2301_triples_raw.json
+MEET_2301,mechanical advantage,concept,PART_OF,analysis of structures,topic,,,MEET_2301_triples_raw.json
+MEET_2301,dry friction,concept,PART_OF,equilibrium of particles and rigid bodies,topic,,,MEET_2301_triples_raw.json
+MEET_2301,centroids of composite areas,concept,PART_OF,centroids and moments of inertia,topic,,,MEET_2301_triples_raw.json
+MEET_2301,center of mass,concept,PART_OF,centroids and moments of inertia,topic,,,MEET_2301_triples_raw.json
+MEET_2301,center of gravity,concept,PART_OF,centroids and moments of inertia,topic,,,MEET_2301_triples_raw.json
+MEET_2301,moment of inertia (MOI,concept,PART_OF,centroids and moments of inertia,topic,,,MEET_2301_triples_raw.json
+MEET_2301,radius of gyration,concept,PART_OF,centroids and moments of inertia,topic,,,MEET_2301_triples_raw.json
+MEET_2301,analysis techniques,method,USED_FOR,systems of forces,topic,,,MEET_2301_triples_raw.json
+MEET_2301,analytical and graphical methods,method,USED_FOR,distributed force systems,topic,,,MEET_2301_triples_raw.json

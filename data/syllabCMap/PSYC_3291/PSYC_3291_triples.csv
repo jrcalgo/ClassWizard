@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_3291,main points from literature reviews,concept,PREREQUISITE_OF,evaluating quality of methods used,concept,A taught first,,PSYC_3291_triples_raw.json
+PSYC_3291,presenting coherent arguments for viewpoint,concept,PREREQUISITE_OF,main points from literature reviews,concept,B taught first,B is taught before A - check,PSYC_3291_triples_raw.json
+PSYC_3291,analytical writing style,concept,PART_OF,Developing Critical Thinking Skills,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,APA formatting guidelines,concept,PART_OF,Literature Review Basics,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,abstract structure and purpose,concept,PART_OF,Literature Review Basics,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,plagiarism in scientific writing,concept,PART_OF,Literature Review Basics,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,main points from literature reviews,concept,PART_OF,Literature Review Basics,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,psychological research literature search,concept,PART_OF,Searching for Peer-Reviewed Articles,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,evaluating quality of methods used,concept,PART_OF,Analyzing Empirical Research Articles,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,recognizing flaws in study design,concept,PART_OF,Analyzing Empirical Research Articles,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,goals and organization of discussion,concept,PART_OF,Writing a Discussion Section,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,APA formatting guidelines,concept,USED_FOR,Literature Review Basics,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,main points from literature reviews,concept,USED_FOR,Literature Review Basics,topic,,,PSYC_3291_triples_raw.json
+PSYC_3291,Writing a Discussion Section,topic,USED_FOR,goals and organization of discussion,concept,,topic used for something - check direction,PSYC_3291_triples_raw.json
+PSYC_3291,presenting coherent arguments for viewpoint,concept,USED_FOR,Writing a Discussion Section,topic,,,PSYC_3291_triples_raw.json

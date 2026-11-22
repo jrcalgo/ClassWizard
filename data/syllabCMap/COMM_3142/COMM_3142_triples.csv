@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3142,Meaningful Work Definition,concept,PREREQUISITE_OF,Career Success Strategies,concept,A taught first,,COMM_3142_triples_raw.json
+COMM_3142,Network Theory,concept,PREREQUISITE_OF,Social Network Analysis,concept,same unit,,COMM_3142_triples_raw.json
+COMM_3142,Assimilation Theory,concept,PREREQUISITE_OF,Recruiting Strategies,concept,same unit,,COMM_3142_triples_raw.json
+COMM_3142,Career Development Process,concept,PREREQUISITE_OF,Comm Degree Applications,concept,A taught first,,COMM_3142_triples_raw.json
+COMM_3142,Networking Techniques Development,concept,PREREQUISITE_OF,Personal Branding Concepts,concept,same unit,,COMM_3142_triples_raw.json
+COMM_3142,Resume Writing Skills,concept,PREREQUISITE_OF,Resume Writing Best Practices,concept,A taught first,,COMM_3142_triples_raw.json
+COMM_3142,Job Search Strategies,concept,PART_OF,Career Development Process,concept,,,COMM_3142_triples_raw.json
+COMM_3142,Parachute Methodology,concept,PART_OF,Meaningful Work Definition,concept,,,COMM_3142_triples_raw.json
+COMM_3142,Career Success Strategies,concept,PART_OF,Professional Identity Formation,concept,,,COMM_3142_triples_raw.json
+COMM_3142,Comm Degree Applications,concept,PART_OF,Career Development Process,concept,,,COMM_3142_triples_raw.json
+COMM_3142,Networking Techniques Development,concept,PART_OF,Personal Branding Concepts,concept,,,COMM_3142_triples_raw.json
+COMM_3142,Resume Writing Skills,concept,PART_OF,Resume Writing Best Practices,concept,,,COMM_3142_triples_raw.json

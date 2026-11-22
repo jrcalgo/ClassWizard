@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AFRS_3050,Reconstruction,concept,PREREQUISITE_OF,black migration,concept,B taught first,B is taught before A - check,AFRS_3050_triples_raw.json
+AFRS_3050,emigration,concept,PREREQUISITE_OF,community formation,concept,B taught first,B is taught before A - check,AFRS_3050_triples_raw.json
+AFRS_3050,Oscar Micheaux,concept,PREREQUISITE_OF,early black filmmaking,concept,same unit,,AFRS_3050_triples_raw.json
+AFRS_3050,black migration,concept,PART_OF,African American public history,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,Creating Black Public Spaces,topic,PART_OF,African American public history,concept,,part is broader than whole - check direction,AFRS_3050_triples_raw.json
+AFRS_3050,Reconstruction,concept,PART_OF,African American public history,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,community formation,concept,PART_OF,African American public history,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,early black filmmaking,concept,PART_OF,African American public history,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,Black Press,concept,PART_OF,African American public history,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,museums,concept,PART_OF,African American public history,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,monuments,concept,PART_OF,African American public history,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,digital history,concept,PART_OF,African American public history,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,Black Atlantic,concept,SUBTYPE_OF,emigration,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,Reconstruction,concept,SUBTYPE_OF,black migration,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,historic preservation,concept,SUBTYPE_OF,archaeology,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,Oscar Micheaux,concept,SUBTYPE_OF,early black filmmaking,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,Joel Augustus Rogers,concept,SUBTYPE_OF,Black Press,concept,,,AFRS_3050_triples_raw.json
+AFRS_3050,ProQuest,tool,USED_FOR,research,method,,,AFRS_3050_triples_raw.json
+AFRS_3050,Newspaper.com,tool,USED_FOR,research,method,,,AFRS_3050_triples_raw.json

@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4077,Literary Genres Overview,concept,PREREQUISITE_OF,Types of Fiction Writing,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Poetic Devices,topic,PREREQUISITE_OF,Imagery in Poetry,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Poetic Devices,topic,PREREQUISITE_OF,Metaphor and Simile Analysis,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Poetic Devices,topic,PREREQUISITE_OF,Sonnet Structure,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Narrative Techniques,topic,PREREQUISITE_OF,Point of View Explained,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Narrative Techniques,topic,PREREQUISITE_OF,Character Development Strategies,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Narrative Techniques,topic,PREREQUISITE_OF,Plot Structure Basics,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Literary Theory,topic,PREREQUISITE_OF,Marxist Literary Theory,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Literary Theory,topic,PREREQUISITE_OF,Feminist Literary Criticism,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Literary Theory,topic,PREREQUISITE_OF,Postcolonialism Overview,concept,same unit,,ENGL_4077_triples_raw.json
+ENGL_4077,Literary Genres Overview,concept,PART_OF,Literary Genres,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Types of Fiction Writing,concept,PART_OF,Literary Genres,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Imagery in Poetry,concept,PART_OF,Poetic Devices,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Metaphor and Simile Analysis,concept,PART_OF,Poetic Devices,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Sonnet Structure,concept,PART_OF,Poetic Devices,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Character Development Strategies,concept,PART_OF,Narrative Techniques,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Plot Structure Basics,concept,PART_OF,Narrative Techniques,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Marxist Literary Theory,concept,PART_OF,Literary Theory,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Feminist Literary Criticism,concept,PART_OF,Literary Theory,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Postcolonialism Overview,concept,PART_OF,Literary Theory,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Author's Purpose Explained,concept,PART_OF,Style and Tone,topic,,,ENGL_4077_triples_raw.json
+ENGL_4077,Voice in Writing Techniques,concept,PART_OF,Style and Tone,topic,,,ENGL_4077_triples_raw.json

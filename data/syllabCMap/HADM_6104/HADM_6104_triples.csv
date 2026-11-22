@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HADM_6104,case-control study methods,concept,PREREQUISITE_OF,cohort study analysis techniques,concept,same unit,,HADM_6104_triples_raw.json
+HADM_6104,definition of epidemiology,concept,PART_OF,Epidemiology Fundamentals,topic,,,HADM_6104_triples_raw.json
+HADM_6104,modes of infectious agent spread,concept,PART_OF,Infectious Disease Transmission,topic,,,HADM_6104_triples_raw.json
+HADM_6104,cross-sectional study design,concept,PART_OF,Epidemiologic Study Designs,topic,,,HADM_6104_triples_raw.json
+HADM_6104,case-control study methods,concept,PART_OF,Epidemiologic Study Designs,topic,,,HADM_6104_triples_raw.json
+HADM_6104,cohort study analysis techniques,concept,PART_OF,Epidemiologic Study Designs,topic,,,HADM_6104_triples_raw.json

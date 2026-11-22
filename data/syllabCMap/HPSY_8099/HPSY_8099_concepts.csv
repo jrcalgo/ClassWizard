@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HPSY_8099,topic,Assessment,Assessment,3,verified,Assessment,HPSY_8099_concepts_raw.json
+HPSY_8099,topic,Clinic Work,clinic work,2,verified,Clinic Work,HPSY_8099_concepts_raw.json
+HPSY_8099,topic,Clinical Interviews,clinical interviews,1,verified,Clinical Interviews,HPSY_8099_concepts_raw.json
+HPSY_8099,concept,BeHealthieR Clinic policies,BeHealthieR Clinic policies,1,verified,BeHealthieR Clinic policies,HPSY_8099_concepts_raw.json
+HPSY_8099,concept,Professional liability insurance,professional liability insurance,1,verified,Professional liability insurance,HPSY_8099_concepts_raw.json
+HPSY_8099,method,Differential diagnostic skills,differential diagnostic skills,1,verified,Differential diagnostic skills,HPSY_8099_concepts_raw.json
+HPSY_8099,method,Conducting psychological examinations,conducting psychological examinations,1,verified,Conducting psychological examinations,HPSY_8099_concepts_raw.json
+HPSY_8099,method,Scoring,score,1,verified,Scoring and interpreting tests,HPSY_8099_concepts_raw.json
+HPSY_8099,tool,MMPI-3,MMPI-3,1,verified,MMPI-3,HPSY_8099_concepts_raw.json
+HPSY_8099,tool,WAIS-IV,WAIS-IV,1,verified,WAIS-IV,HPSY_8099_concepts_raw.json
+HPSY_8099,tool,WRAT-5,WRAT-5,1,verified,WRAT-5,HPSY_8099_concepts_raw.json
+HPSY_8099,tool,TOMM,TOMM,1,verified,TOMM,HPSY_8099_concepts_raw.json
+HPSY_8099,tool,Trails A & B,Trails A & B,1,verified,Trails A & B,HPSY_8099_concepts_raw.json

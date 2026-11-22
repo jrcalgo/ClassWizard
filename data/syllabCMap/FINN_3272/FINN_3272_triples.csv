@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3272,Gamma Iota Sigma,concept,PART_OF,Life Insurance & Financial Planning,topic,,,FINN_3272_triples_raw.json
+FINN_3272,Johnson Case Study Summary,topic,PART_OF,Personal Financial Planning,topic,,,FINN_3272_triples_raw.json
+FINN_3272,"Johnson Case Cash Needs, Liquid Assets & Deficit",topic,PART_OF,Personal Financial Planning,topic,,,FINN_3272_triples_raw.json
+FINN_3272,Term Life Insurance,topic,PART_OF,Life Insurance Types,concept,,part is broader than whole - check direction,FINN_3272_triples_raw.json
+FINN_3272,Life Ins,topic,PART_OF,Life Insurance Types,concept,,part is broader than whole - check direction,FINN_3272_triples_raw.json
+FINN_3272,Legal Issues & Riders,topic,PART_OF,Life Insurance Types,concept,,part is broader than whole - check direction,FINN_3272_triples_raw.json

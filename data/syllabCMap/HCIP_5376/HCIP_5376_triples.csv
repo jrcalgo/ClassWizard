@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HCIP_5376,variables,concept,PREREQUISITE_OF,expressions,concept,same unit,,HCIP_5376_triples_raw.json
+HCIP_5376,variables,concept,PREREQUISITE_OF,control structures,concept,same unit,,HCIP_5376_triples_raw.json
+HCIP_5376,data types,concept,PREREQUISITE_OF,arrays,concept,A taught first,,HCIP_5376_triples_raw.json
+HCIP_5376,algorithm development,method,PART_OF,Computational Thinking,topic,,,HCIP_5376_triples_raw.json
+HCIP_5376,problem decomposition,method,PART_OF,Computational Thinking,topic,,,HCIP_5376_triples_raw.json
+HCIP_5376,pseudocode,concept,PART_OF,Computational Thinking,topic,,,HCIP_5376_triples_raw.json
+HCIP_5376,flowcharts,method,PART_OF,Computational Thinking,topic,,,HCIP_5376_triples_raw.json
+HCIP_5376,best practices,method,PART_OF,procedural programming,concept,,,HCIP_5376_triples_raw.json
+HCIP_5376,writing,method,PART_OF,procedural programming,concept,,,HCIP_5376_triples_raw.json
+HCIP_5376,procedural programming,concept,SUBTYPE_OF,Programming,topic,,,HCIP_5376_triples_raw.json

@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5358,topic,Physical Computing,Physical Computing,6,verified,Physical Computing,ITIS_5358_concepts_raw.json
+ITIS_5358,topic,Digital Fabrication Techniques,digital fabrication techniques,1,verified,Digital Fabrication Techniques,ITIS_5358_concepts_raw.json
+ITIS_5358,topic,Embedded Computing Platforms,embedded computing platforms,2,verified,Embedded Computing Platforms,ITIS_5358_concepts_raw.json
+ITIS_5358,topic,Programming for Embedded Computing,Programming for embedded computing,1,verified,Programming for Embedded Computing,ITIS_5358_concepts_raw.json
+ITIS_5358,topic,Tangible Interaction Design,Tangible Interaction Design,1,verified,Tangible Interaction Design,ITIS_5358_concepts_raw.json
+ITIS_5358,concept,2D and 3D modeling approaches,2D and 3D modeling approaches,1,verified,2D and 3D modeling approaches,ITIS_5358_concepts_raw.json
+ITIS_5358,concept,foundational 2D modeling,Foundational 2D modeling,1,verified,foundational 2D modeling,ITIS_5358_concepts_raw.json
+ITIS_5358,concept,subtractive digital fabrication,subtractive digital fabrication,1,verified,subtractive digital fabrication,ITIS_5358_concepts_raw.json
+ITIS_5358,concept,simulation for embedded computing design,simulation for embedded computing design,1,verified,simulation for embedded computing design,ITIS_5358_concepts_raw.json
+ITIS_5358,method,digital design,digital design,1,verified,digital design,ITIS_5358_concepts_raw.json
+ITIS_5358,method,digital fabrication,digital fabrication,6,verified,digital fabrication,ITIS_5358_concepts_raw.json
+ITIS_5358,method,small computing systems and programming,small computing systems and programming,1,verified,small computing systems and programming,ITIS_5358_concepts_raw.json
+ITIS_5358,method,physical prototyping with sensors and effectors,physical prototyping with sensors and effectors,1,verified,physical prototyping with sensors and effectors,ITIS_5358_concepts_raw.json
+ITIS_5358,method,user experience design for tangible computing systems,user experience design for tangible computing systems,1,verified,user experience design for tangible computing systems,ITIS_5358_concepts_raw.json
+ITIS_5358,tool,Arduino,Arduino,2,verified,Arduino,ITIS_5358_concepts_raw.json
+ITIS_5358,tool,3D printing,3D Printing,3,verified,3D printing,ITIS_5358_concepts_raw.json
+ITIS_5358,tool,laser cutting,laser cutting,2,verified,laser cutting,ITIS_5358_concepts_raw.json
+ITIS_5358,tool,Computer Numerical Control (CNC) techniques,Computer Numerical Control (CNC) techniques,1,verified,Computer Numerical Control (CNC) techniques,ITIS_5358_concepts_raw.json

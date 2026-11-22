@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6290,Emergency Management Agency,concept,PART_OF,Agencies and Partnerships,topic,,,MPAD_6290_triples_raw.json
+MPAD_6290,Federal Emergency Management Agency,concept,PART_OF,Agencies and Partnerships,topic,,,MPAD_6290_triples_raw.json
+MPAD_6290,State Emergency Management Agency,concept,PART_OF,Agencies and Partnerships,topic,,,MPAD_6290_triples_raw.json
+MPAD_6290,EOC Functions and Responsibilities,concept,PART_OF,Emergency Operations Center,topic,,,MPAD_6290_triples_raw.json
+MPAD_6290,Communication Systems,concept,PART_OF,Emergency Operations Center,topic,,,MPAD_6290_triples_raw.json
+MPAD_6290,Situation Room Operations,concept,PART_OF,Emergency Operations Center,topic,,,MPAD_6290_triples_raw.json
+MPAD_6290,Local Government Infrastructure,concept,PART_OF,Local Government Role,topic,,,MPAD_6290_triples_raw.json

@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5147,Urbanization Effects on Water Quality,concept,PART_OF,Stormwater Management,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Stormwater Management Principles,concept,PART_OF,Stormwater Management,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Water Pollution Sources and Types,concept,PART_OF,Stormwater Management,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Bacteria and Viruses in Water,concept,PART_OF,Stormwater Management,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Guiding Principles of LID,concept,PART_OF,Low Impact Design,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Rainwater Harvesting Systems,concept,PART_OF,Low Impact Design,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Green Infrastructure Design,concept,PART_OF,Low Impact Design,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Types and Applications of BMPs,concept,PART_OF,Best Management Practices (BMPs,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Stormwater Detention and Retention,concept,PART_OF,Best Management Practices (BMPs,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Filter Media and Treatment Options,concept,PART_OF,Best Management Practices (BMPs,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Environmental Impact Assessments,concept,PART_OF,Mitigation Methods Evaluation,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,Community Engagement and Education,concept,PART_OF,Mitigation Methods Evaluation,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,numerical model,method,USED_FOR,Numerical Modeling Fundamentals,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,hydrologic cycle simulation,method,USED_FOR,Numerical Modeling Fundamentals,topic,,,CEGR_5147_triples_raw.json
+CEGR_5147,water balance calculations,method,USED_FOR,Numerical Modeling Fundamentals,topic,,,CEGR_5147_triples_raw.json

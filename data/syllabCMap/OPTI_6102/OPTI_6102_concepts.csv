@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPTI_6102,topic,Principles of Geometrical Optics,Principles of Geometrical Optics,1,verified,Principles of Geometrical Optics,OPTI_6102_concepts_raw.json
+OPTI_6102,topic,Reflection and Refraction,reflection and refraction,2,verified,Reflection and Refraction,OPTI_6102_concepts_raw.json
+OPTI_6102,topic,Plane Surfaces,plane surfaces,1,verified,Plane Surfaces,OPTI_6102_concepts_raw.json
+OPTI_6102,topic,Paraxial Imagery,paraxial imagery,1,verified,Paraxial Imagery,OPTI_6102_concepts_raw.json
+OPTI_6102,topic,Lens Systems,lens systems,1,verified,Lens Systems,OPTI_6102_concepts_raw.json
+OPTI_6102,topic,Real Ray Tracing,real ray tracing,1,verified,Real Ray Tracing,OPTI_6102_concepts_raw.json
+OPTI_6102,topic,Modulation Transfer Function,modulation transfer functions,1,verified,Modulation Transfer Function,OPTI_6102_concepts_raw.json
+OPTI_6102,concept,Law of reflection,Law of reflection,1,verified,Law of reflection,OPTI_6102_concepts_raw.json
+OPTI_6102,concept,Principal Planes,principal planes,1,verified,Principal Planes,OPTI_6102_concepts_raw.json
+OPTI_6102,concept,Optical Invariant,optical invariant,1,verified,Optical Invariant,OPTI_6102_concepts_raw.json
+OPTI_6102,concept,Paraxial Radiometry,paraxial radiometry,1,verified,Paraxial Radiometry,OPTI_6102_concepts_raw.json

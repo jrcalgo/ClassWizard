@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GRNT_5050,topic,health communication,health communication,2,verified,health communication,GRNT_5050_concepts_raw.json
+GRNT_5050,topic,gendered health,gendered health,1,verified,gendered health,GRNT_5050_concepts_raw.json
+GRNT_5050,topic,public discourse,public discourse,1,verified,public discourse,GRNT_5050_concepts_raw.json
+GRNT_5050,topic,narrative,narrative,1,verified,narrative,GRNT_5050_concepts_raw.json
+GRNT_5050,topic,social support,social support,1,verified,social support,GRNT_5050_concepts_raw.json
+GRNT_5050,topic,prostate cancer,prostate cancer,1,verified,prostate cancer,GRNT_5050_concepts_raw.json
+GRNT_5050,topic,pregnancy/fertility,pregnancy/fertility,1,verified,pregnancy/fertility,GRNT_5050_concepts_raw.json
+GRNT_5050,topic,eating disorders,eating disorders,1,verified,eating disorders,GRNT_5050_concepts_raw.json
+GRNT_5050,topic,gerontology,Gerontology,2,verified,gerontology,GRNT_5050_concepts_raw.json
+GRNT_5050,topic,writing and thinking across disciplines,Writing and Thinking Across Disciplines,1,verified,writing and thinking across disciplines,GRNT_5050_concepts_raw.json
+GRNT_5050,concept,technology,technology,1,verified,"intersectionality of biology, technology, and communication",GRNT_5050_concepts_raw.json
+GRNT_5050,concept,communication,communication,8,verified,"intersectionality of biology, technology, and communication",GRNT_5050_concepts_raw.json
+GRNT_5050,method,critical and creative research skills,critical and creative research skills,1,verified,critical and creative research skills,GRNT_5050_concepts_raw.json

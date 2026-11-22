@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_3110,topic,simple and multiple linear regression,simple and multiple linear regression,3,verified,simple and multiple linear regression,STAT_3110_concepts_raw.json
+STAT_3110,method,parameter estimation,parameter estimation,2,verified,parameter estimation,STAT_3110_concepts_raw.json
+STAT_3110,method,statistical inference,statistical inference,3,verified,statistical inference,STAT_3110_concepts_raw.json
+STAT_3110,method,model assessment and diagnostics,model assessment and diagnostics,2,verified,model assessment and diagnostics,STAT_3110_concepts_raw.json
+STAT_3110,method,model selection,model selection,2,verified,model selection,STAT_3110_concepts_raw.json
+STAT_3110,method,using real data and statistical software,using real data and statistical software,2,verified,using real data and statistical software,STAT_3110_concepts_raw.json
+STAT_3110,topic,Poisson regression,Poisson regression,2,verified,Poisson regression,STAT_3110_concepts_raw.json
+STAT_3110,concept,Multiple Linear Regression Model,multiple linear regression models,1,verified,Multiple Linear Regression Model,STAT_3110_concepts_raw.json
+STAT_3110,tool,R,R,1,verified,R,STAT_3110_concepts_raw.json

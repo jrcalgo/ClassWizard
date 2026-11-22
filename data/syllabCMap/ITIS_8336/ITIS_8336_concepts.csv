@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_8336,topic,Software Requirements for AI,Software Requirements for AI,1,verified,Software Requirements for AI,ITIS_8336_concepts_raw.json
+ITIS_8336,topic,Software Architecture for AI,Software Architecture for AI,1,verified,Software Architecture for AI,ITIS_8336_concepts_raw.json
+ITIS_8336,topic,"Data Quality, Processing and Management for AI","Data Quality, Processing and Management for AI",1,verified,"Data Quality, Processing and Management for AI",ITIS_8336_concepts_raw.json
+ITIS_8336,topic,Explainability and Interpretability of AI,Explainability and Interpretability of AI,1,verified,Explainability and Interpretability of AI,ITIS_8336_concepts_raw.json
+ITIS_8336,topic,Designing Software Systems with AI,designing software systems with AI,1,verified,Designing Software Systems with AI,ITIS_8336_concepts_raw.json
+ITIS_8336,topic,Machine Learning/Deep Learning Experience,Machine Learning/Deep Learning Experience,1,verified,Machine Learning/Deep Learning Experience,ITIS_8336_concepts_raw.json
+ITIS_8336,topic,Programming Experience,Programming Experience,1,verified,Programming Experience,ITIS_8336_concepts_raw.json
+ITIS_8336,concept,system quality goals,system quality goals,1,verified,system quality goals,ITIS_8336_concepts_raw.json
+ITIS_8336,concept,risk-mitigating plans,risk-mitigating plans,1,verified,risk-mitigating plans,ITIS_8336_concepts_raw.json
+ITIS_8336,concept,architectural patterns,architectural patterns,2,verified,architectural patterns,ITIS_8336_concepts_raw.json
+ITIS_8336,concept,multi-agent systems,multi-agent systems,2,verified,multi-agent systems,ITIS_8336_concepts_raw.json
+ITIS_8336,concept,quality attributes,quality attributes,1,verified,quality attributes,ITIS_8336_concepts_raw.json
+ITIS_8336,concept,data drift phenomena,data drift phenomena,1,verified,data drift phenomena,ITIS_8336_concepts_raw.json
+ITIS_8336,method,version control systems,version control systems,1,verified,version control systems,ITIS_8336_concepts_raw.json
+ITIS_8336,method,Git,Git,1,verified,Git,ITIS_8336_concepts_raw.json
+ITIS_8336,method,GitHub,GitHub,1,verified,GitHub,ITIS_8336_concepts_raw.json
+ITIS_8336,method,Unix/Linux environments,Unix/Linux environments,1,verified,Unix/Linux environments,ITIS_8336_concepts_raw.json
+ITIS_8336,method,command-line operations,command -line operations,1,verified,command-line operations,ITIS_8336_concepts_raw.json
+ITIS_8336,method,Retrieval-Augmented Generation (RAG,Retrieval-Augmented Generation (RAG,1,verified,Retrieval-Augmented Generation (RAG),ITIS_8336_concepts_raw.json
+ITIS_8336,tool,scikit-learn,scikit -learn,1,verified,scikit-learn,ITIS_8336_concepts_raw.json
+ITIS_8336,tool,Jupyter Notebooks,Jupyter Notebooks,1,verified,Jupyter Notebooks,ITIS_8336_concepts_raw.json
+ITIS_8336,tool,Python,Python,2,verified,Python,ITIS_8336_concepts_raw.json

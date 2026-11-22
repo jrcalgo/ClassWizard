@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUDD_6606,topic,Geographic Projection and Coordinate Systems,geographic projection and coordinate systems,3,verified,Geographic Projection and Coordinate Systems,MUDD_6606_concepts_raw.json
+MUDD_6606,concept,data management,data management,6,verified,data management,MUDD_6606_concepts_raw.json
+MUDD_6606,concept,models of spatial data,models of spatial data,3,verified,models of spatial data,MUDD_6606_concepts_raw.json
+MUDD_6606,concept,spatial analysis techniques,spatial analysis techniques,5,verified,spatial analysis techniques,MUDD_6606_concepts_raw.json
+MUDD_6606,concept,GIS implementation issues,GIS implementation issues,3,verified,GIS implementation issues,MUDD_6606_concepts_raw.json
+MUDD_6606,topic,Making Base Maps,Making Base Maps,1,verified,Making Base Maps,MUDD_6606_concepts_raw.json
+MUDD_6606,concept,geographic projection,geographic projection,6,verified,geographic projection,MUDD_6606_concepts_raw.json
+MUDD_6606,concept,coordinate systems,coordinate systems,6,verified,coordinate systems,MUDD_6606_concepts_raw.json
+MUDD_6606,tool,ArcGIS Pro 3.2,ArcGIS Pro 3.2,1,verified,ArcGIS Pro 3.2,MUDD_6606_concepts_raw.json
+MUDD_6606,tool,GIS,GIS,8,verified,GIS,MUDD_6606_concepts_raw.json

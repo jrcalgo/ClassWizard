@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_6240,informed consent,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,privacy and confidentiality,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,risk-benefit assessments,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,mechanisms for protecting animal and human research subjects,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,international research,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,vulnerable populations,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,conflicts of interest,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,data management,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,publication ethics,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,intellectual property issues,concept,PART_OF,Research Ethics,topic,,,GRAD_6240_triples_raw.json
+GRAD_6240,informed consent,concept,USED_FOR,international research,concept,,,GRAD_6240_triples_raw.json
+GRAD_6240,informed consent,concept,USED_FOR,vulnerable populations,concept,,,GRAD_6240_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WRDS_2100,Generative AI and Large Language Models,topic,PREREQUISITE_OF,Digital Genres such as filmmaking and podcasting,topic,A mentioned first,,WRDS_2100_triples_raw.json
+WRDS_2100,relevance,concept,PART_OF,credibility,concept,,,WRDS_2100_triples_raw.json
+WRDS_2100,multimodality,concept,PART_OF,multiliteracies,concept,,,WRDS_2100_triples_raw.json
+WRDS_2100,"Digital Ethics around accessibility, algorithms, remix culture, and digital privacy",topic,PART_OF,Digital Studies in Writing,topic,,,WRDS_2100_triples_raw.json

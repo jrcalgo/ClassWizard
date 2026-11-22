@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HADM_6104,topic,Population Health and Disease,Population Health and Disease,1,verified,Population Health and Disease,HADM_6104_concepts_raw.json
+HADM_6104,topic,Risk Factors and Chronic Diseases,risk factors and chronic diseases,1,verified,Risk Factors and Chronic Diseases,HADM_6104_concepts_raw.json
+HADM_6104,topic,Epidemiology Fundamentals,Epidemiology Fundamentals,1,inferred,Epidemiology Fundamentals,HADM_6104_concepts_raw.json
+HADM_6104,topic,Infectious Disease Transmission,Infectious Disease Transmission,1,inferred,Infectious Disease Transmission,HADM_6104_concepts_raw.json
+HADM_6104,topic,Health Promotion and Prevention,Health Promotion and Prevention,1,inferred,Health Promotion and Prevention,HADM_6104_concepts_raw.json
+HADM_6104,topic,Epidemiologic Study Designs,Epidemiologic Study Designs,1,inferred,Epidemiologic Study Designs,HADM_6104_concepts_raw.json
+HADM_6104,concept,definition of epidemiology,Definition of Epidemiology,1,inferred,definition of epidemiology,HADM_6104_concepts_raw.json
+HADM_6104,concept,models of health and illness,Models of Health and Illness,1,inferred,models of health and illness,HADM_6104_concepts_raw.json
+HADM_6104,concept,disease causality theories,Disease Causality Theories,1,inferred,disease causality theories,HADM_6104_concepts_raw.json
+HADM_6104,concept,modes of infectious agent spread,Modes of Infectious Agent Spread,1,inferred,modes of infectious agent spread,HADM_6104_concepts_raw.json
+HADM_6104,concept,vector-borne diseases overview,Vector-Borne Diseases Overview,1,inferred,vector-borne diseases overview,HADM_6104_concepts_raw.json
+HADM_6104,concept,waterborne pathogens examples,Waterborne Pathogens Examples,1,inferred,waterborne pathogens examples,HADM_6104_concepts_raw.json
+HADM_6104,concept,chronic disease definition,Chronic Disease Definition,1,inferred,chronic disease definition,HADM_6104_concepts_raw.json
+HADM_6104,concept,risk factor identification methods,Risk Factor Identification Methods,1,inferred,risk factor identification methods,HADM_6104_concepts_raw.json
+HADM_6104,concept,lifestyle choices impact analysis,Lifestyle Choices Impact Analysis,1,inferred,lifestyle choices impact analysis,HADM_6104_concepts_raw.json
+HADM_6104,concept,health promotion strategies overview,Health Promotion Strategies Overview,1,inferred,health promotion strategies overview,HADM_6104_concepts_raw.json
+HADM_6104,concept,disease prevention models comparison,Disease Prevention Models Comparison,1,inferred,disease prevention models comparison,HADM_6104_concepts_raw.json
+HADM_6104,concept,paradigms of health education,Paradigms of Health Education,1,inferred,paradigms of health education,HADM_6104_concepts_raw.json
+HADM_6104,concept,cross-sectional study design,Cross-Sectional Study Design,1,inferred,cross-sectional study design,HADM_6104_concepts_raw.json
+HADM_6104,concept,case-control study methods,Case-Control Study Methods,1,inferred,case-control study methods,HADM_6104_concepts_raw.json
+HADM_6104,concept,cohort study analysis techniques,Cohort Study Analysis Techniques,1,inferred,cohort study analysis techniques,HADM_6104_concepts_raw.json

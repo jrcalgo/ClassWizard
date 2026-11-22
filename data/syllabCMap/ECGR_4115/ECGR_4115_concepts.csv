@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4115,topic,Convex Optimization and AI Applications,Convex Optimization and AI Applications,1,verified,Convex Optimization and AI Applications,ECGR_4115_concepts_raw.json
+ECGR_4115,concept,convex sets,convex sets,5,verified,convex sets,ECGR_4115_concepts_raw.json
+ECGR_4115,concept,convex functions,convex functions,5,verified,convex functions,ECGR_4115_concepts_raw.json
+ECGR_4115,concept,convex optimization problems,convex optimization problems,5,verified,convex optimization problems,ECGR_4115_concepts_raw.json
+ECGR_4115,concept,duality theory,duality theory,3,verified,duality theory,ECGR_4115_concepts_raw.json
+ECGR_4115,concept,optimality conditions,optimality conditions,3,verified,optimality conditions,ECGR_4115_concepts_raw.json
+ECGR_4115,topic,Algorithms for Solving Convex Problems,algorithms for solving convex problems,2,verified,Algorithms for Solving Convex Problems,ECGR_4115_concepts_raw.json
+ECGR_4115,topic,Non-Convex Optimization Problems,non-convex optimization problems,2,verified,Non-Convex Optimization Problems,ECGR_4115_concepts_raw.json
+ECGR_4115,topic,Signal Processing,signal processing,1,verified,Signal Processing,ECGR_4115_concepts_raw.json
+ECGR_4115,topic,Control,control,1,verified,Control,ECGR_4115_concepts_raw.json
+ECGR_4115,topic,Robotics,robotics,1,verified,Robotics,ECGR_4115_concepts_raw.json
+ECGR_4115,topic,Machine Learning,machine learning,3,verified,Machine Learning,ECGR_4115_concepts_raw.json
+ECGR_4115,topic,Statistics,statistics,1,verified,Statistics,ECGR_4115_concepts_raw.json
+ECGR_4115,topic,Linear Algebra Review,linear algebra review,1,verified,Linear Algebra Review,ECGR_4115_concepts_raw.json
+ECGR_4115,topic,Optimization,Optimization,17,verified,Introduction to Optimization,ECGR_4115_concepts_raw.json
+ECGR_4115,concept,Karush-Kuhn-Tucker conditions,Karush–Kuhn–Tucker conditions,2,verified,Karush-Kuhn-Tucker conditions,ECGR_4115_concepts_raw.json
+ECGR_4115,concept,Newton's method,Newton's method,2,verified,Newton's method,ECGR_4115_concepts_raw.json
+ECGR_4115,concept,primal-dual approaches,primal-dual approaches,1,verified,primal-dual approaches,ECGR_4115_concepts_raw.json
+ECGR_4115,method,formulate,Formulate,2,verified,formulate and solve convex optimization problems,ECGR_4115_concepts_raw.json
+ECGR_4115,method,apply duality theory,Apply duality theory,1,verified,apply duality theory and optimality principles,ECGR_4115_concepts_raw.json
+ECGR_4115,method,optimality principles,optimality principles,1,verified,apply duality theory and optimality principles,ECGR_4115_concepts_raw.json
+ECGR_4115,method,implement and evaluate optimization algorithms,Implement and evaluate optimization algorithms,1,verified,implement and evaluate optimization algorithms,ECGR_4115_concepts_raw.json
+ECGR_4115,tool,MATLAB,MATLAB,1,verified,MATLAB,ECGR_4115_concepts_raw.json
+ECGR_4115,tool,Python,Python,1,verified,Python,ECGR_4115_concepts_raw.json

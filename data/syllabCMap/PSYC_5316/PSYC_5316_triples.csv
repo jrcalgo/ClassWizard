@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_5316,cognitive neuroscience overview,concept,PART_OF,Cognitive Neuroscience,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,brain and behavior relationship,concept,PART_OF,Cognitive Neuroscience,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,neuroplasticity basics,concept,PART_OF,Cognitive Neuroscience,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,Phineas Gage case study,concept,PART_OF,Classical Research in Cognitive Neuroscience,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,split-brain experiments,concept,PART_OF,Classical Research in Cognitive Neuroscience,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,lateralization of function,concept,PART_OF,Classical Research in Cognitive Neuroscience,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,dopamine release mechanism,concept,PART_OF,Neurotransmitters and Neurotransmission,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,serotonin receptor types,concept,PART_OF,Neurotransmitters and Neurotransmission,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,synaptic plasticity theories,concept,PART_OF,Neurotransmitters and Neurotransmission,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,functional magnetic resonance imaging,concept,PART_OF,Brain Imaging Techniques,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,magnetoencephalography principles,concept,PART_OF,Brain Imaging Techniques,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,Parkinson's disease symptoms,concept,PART_OF,Clinical Neurology and Cognitive Impairment,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,artificial neural networks basics,concept,PART_OF,Computational Models of Cognition,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,connectionist models overview,concept,PART_OF,Computational Models of Cognition,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,cognitive architectures theories,concept,PART_OF,Computational Models of Cognition,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,neural oscillations and synchronization,concept,PART_OF,Current Research in Cognitive Neuroscience,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,brain-computer interface technology,concept,PART_OF,Current Research in Cognitive Neuroscience,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,neurofeedback training methods,concept,PART_OF,Current Research in Cognitive Neuroscience,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,electroencephalography basics,concept,USED_FOR,Brain Imaging Techniques,topic,,,PSYC_5316_triples_raw.json
+PSYC_5316,magnetoencephalography principles,concept,USED_FOR,Brain Imaging Techniques,topic,,,PSYC_5316_triples_raw.json

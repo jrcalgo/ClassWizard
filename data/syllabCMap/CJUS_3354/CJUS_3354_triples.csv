@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_3354,deviance and delinquency,concept,PREREQUISITE_OF,punishment,concept,B taught first,B is taught before A - check,CJUS_3354_triples_raw.json
+CJUS_3354,freedom's shortcomings,concept,PREREQUISITE_OF,deviance and delinquency,concept,same unit,,CJUS_3354_triples_raw.json
+CJUS_3354,market capitalism,concept,PREREQUISITE_OF,freedom's shortcomings,concept,A taught first,,CJUS_3354_triples_raw.json
+CJUS_3354,punitive mechanisms and techniques,concept,PREREQUISITE_OF,state control and social order,concept,same unit,,CJUS_3354_triples_raw.json
+CJUS_3354,market capitalism,concept,SUBTYPE_OF,freedom's shortcomings,concept,,,CJUS_3354_triples_raw.json
+CJUS_3354,human sacrifice and humanity,concept,SUBTYPE_OF,algorithmic captivity,concept,,,CJUS_3354_triples_raw.json
+CJUS_3354,techno-criminological critique,concept,USED_FOR,digital surveillance,concept,,,CJUS_3354_triples_raw.json

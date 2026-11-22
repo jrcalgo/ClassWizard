@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RSCH_8110,topic,research methods,research methods,1,verified,research methods,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,descriptive statistics,descriptive statistics,1,verified,descriptive statistics,RSCH_8110_concepts_raw.json
+RSCH_8110,topic,inferential statistics,inferential statistics,2,verified,inferential statistics,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,probability theory,probability theory,2,verified,probability theory,RSCH_8110_concepts_raw.json
+RSCH_8110,method,hypothesis testing,hypothesis testing,2,verified,hypothesis testing,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,sampling distributions,sampling distributions,2,verified,sampling distributions,RSCH_8110_concepts_raw.json
+RSCH_8110,method,confidence interval estimation,Confidence interval estimation,1,verified,confidence interval estimation,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,inferential methods,inferential methods,1,verified,inferential methods,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,non-parametric techniques,non-parametric techniques,1,verified,non-parametric techniques,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,random variables,random variables,1,verified,random variables,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,data processing,data processing,2,verified,data processing,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,data entry,data entry,1,verified,data entry,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,variable transformation,variable transformation,1,verified,variable transformation,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,central tendency,Central tendency,1,verified,central tendency,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,variability,variability,1,verified,variability,RSCH_8110_concepts_raw.json
+RSCH_8110,concept,frequency distribution,Frequency distributions,1,verified,frequency distribution,RSCH_8110_concepts_raw.json
+RSCH_8110,method,APA format for tables,APA format for tables,1,verified,APA format for tables,RSCH_8110_concepts_raw.json
+RSCH_8110,measure,contingency table,contingency tables,2,verified,contingency table,RSCH_8110_concepts_raw.json
+RSCH_8110,measure,descriptive statistic,descriptive statistics,1,verified,descriptive statistic,RSCH_8110_concepts_raw.json
+RSCH_8110,measure,effect size estimate,effect size estimates,1,verified,effect size estimate,RSCH_8110_concepts_raw.json
+RSCH_8110,tool,SPSS,SPSS,5,verified,SPSS,RSCH_8110_concepts_raw.json
+RSCH_8110,tool,US census,US census,1,verified,US census,RSCH_8110_concepts_raw.json
+RSCH_8110,tool,SASS,SASS,1,verified,SASS,RSCH_8110_concepts_raw.json
+RSCH_8110,tool,university-based research,university-based research,1,verified,university-based research,RSCH_8110_concepts_raw.json
+RSCH_8110,tool,hypothetical data,hypothetical data,1,verified,hypothetical data,RSCH_8110_concepts_raw.json

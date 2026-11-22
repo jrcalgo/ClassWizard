@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECON_6201,concept,Dynamic General Equilibrium Models,dynamic general equilibrium model,1,verified,Dynamic General Equilibrium Models,ECON_6201_concepts_raw.json
+ECON_6201,concept,Intertemporal Optimization Problems,intertemporal optimization problems,2,verified,Intertemporal Optimization Problems,ECON_6201_concepts_raw.json
+ECON_6201,concept,Deterministic and Stochastic Macroeconomic Models,deterministic and stochastic macroeconomic models,1,verified,Deterministic and Stochastic Macroeconomic Models,ECON_6201_concepts_raw.json
+ECON_6201,concept,Decentralized Competitive Equilibria,decentralized competitive equilibria,1,verified,Decentralized Competitive Equilibria,ECON_6201_concepts_raw.json
+ECON_6201,tool,Python,Python,2,verified,Python,ECON_6201_concepts_raw.json

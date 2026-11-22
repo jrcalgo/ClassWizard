@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HADM_6108,topic,Decision Analysis,Decision Analysis,1,verified,Decision Analysis,HADM_6108_concepts_raw.json
+HADM_6108,concept,Quantitative Management Tools,quantitative management tools,1,verified,Quantitative Management Tools,HADM_6108_concepts_raw.json
+HADM_6108,topic,Statistical Process Control,statistical process control,3,verified,Statistical Process Control,HADM_6108_concepts_raw.json
+HADM_6108,topic,Assignment Modeling and Linear Programming,Assignment Modeling and Linear Programming,1,verified,Assignment Modeling and Linear Programming,HADM_6108_concepts_raw.json
+HADM_6108,topic,Advanced Prediction Methods,Advanced prediction methods,1,verified,Advanced Prediction Methods,HADM_6108_concepts_raw.json
+HADM_6108,concept,Multiple Linear Regression,Multiple linear regression,1,verified,Multiple Linear Regression,HADM_6108_concepts_raw.json
+HADM_6108,tool,Excel,Excel,1,verified,Excel,HADM_6108_concepts_raw.json

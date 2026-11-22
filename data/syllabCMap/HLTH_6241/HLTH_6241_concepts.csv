@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_6241,topic,Quantitative Analysis,Quantitative Analysis,2,verified,Quantitative Analysis,HLTH_6241_concepts_raw.json
+HLTH_6241,topic,Health Policy Assessment,Health Policy Assessment,1,verified,Health Policy Assessment,HLTH_6241_concepts_raw.json
+HLTH_6241,topic,Econometric Models,Econometric Models,1,verified,Econometric Models,HLTH_6241_concepts_raw.json
+HLTH_6241,topic,Quantitative Analysis Techniques,Quantitative Analysis Techniques,1,verified,Quantitative Analysis Techniques,HLTH_6241_concepts_raw.json
+HLTH_6241,topic,Statistical Tools Application,Statistical Tools Application,1,verified,Statistical Tools Application,HLTH_6241_concepts_raw.json
+HLTH_6241,topic,Ordinary Least Squares,Ordinary Least Squares,3,verified,Ordinary Least Squares,HLTH_6241_concepts_raw.json
+HLTH_6241,method,hypothesis testing,Hypothesis Testing,3,verified,hypothesis testing,HLTH_6241_concepts_raw.json
+HLTH_6241,method,confidence intervals,Confidence Intervals,3,verified,confidence intervals,HLTH_6241_concepts_raw.json
+HLTH_6241,method,regression analysis,Regression Analysis,3,verified,regression analysis,HLTH_6241_concepts_raw.json
+HLTH_6241,method,dummy variables,Dummy Variables,3,verified,dummy variables,HLTH_6241_concepts_raw.json
+HLTH_6241,topic,Endogeneity Bias,Endogeneity Bias,2,verified,Endogeneity Bias,HLTH_6241_concepts_raw.json
+HLTH_6241,method,instrumental variables,Instrumental Variables,2,verified,instrumental variables,HLTH_6241_concepts_raw.json
+HLTH_6241,method,two-stage least squares,Two-Stage Least Squares,2,verified,two-stage least squares,HLTH_6241_concepts_raw.json
+HLTH_6241,topic,Interaction Terms,Interaction Terms,1,verified,Interaction Terms,HLTH_6241_concepts_raw.json
+HLTH_6241,topic,Homoscedasticity Assumption,Homoscedasticity Assumption,1,verified,Homoscedasticity Assumption,HLTH_6241_concepts_raw.json
+HLTH_6241,topic,Multicollinearity Problem,Multicollinearity Problem,1,verified,Multicollinearity Problem,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,types of data,types of data,1,verified,types of data,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,data quality and validity,data quality and validity,1,verified,data quality and validity,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,best practices for data management and analysis,best practices for data management and analysis,1,verified,best practices for data management and analysis,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,descriptive summary statistics,descriptive summary statistics,1,verified,descriptive summary statistics,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,simple linear regression,simple linear regression,1,verified,simple linear regression,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,multivariate linear regression,multivariate linear regression,1,verified,multivariate linear regression,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,logistic regression,logistic regression,1,verified,logistic regression,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,quasi-experimental designs,quasi -experimental designs,1,verified,quasi-experimental designs,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,causal inference,causal inference,1,verified,causal inference,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,study designs,study designs,1,verified,study designs,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,sources of bias,sources of bias,1,verified,sources of bias,HLTH_6241_concepts_raw.json
+HLTH_6241,concept,policy analysis tools,policy analysis tools,1,verified,policy analysis tools,HLTH_6241_concepts_raw.json
+HLTH_6241,method,data management,data management,1,verified,data management,HLTH_6241_concepts_raw.json

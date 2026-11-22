@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_3114,American Constitutional Development,concept,PREREQUISITE_OF,Founding Era Political Philosophy,concept,A taught first,,POLS_3114_triples_raw.json
+POLS_3114,American Constitutional Development,concept,PREREQUISITE_OF,Constitutional Law as Public Policy,concept,same unit,,POLS_3114_triples_raw.json
+POLS_3114,Philip Bobbitt's Modalities of Interpretation,concept,PREREQUISITE_OF,Theory of Constitutional Meaning,concept,same unit,,POLS_3114_triples_raw.json
+POLS_3114,Federalist Papers Analysis,concept,PART_OF,Founding Era Political Theory,topic,,,POLS_3114_triples_raw.json
+POLS_3114,Anti-Federalist Thought and Influence,concept,PART_OF,Founding Era Political Theory,topic,,,POLS_3114_triples_raw.json
+POLS_3114,Issue Identification and Analysis,concept,PART_OF,IRAC Approach to Case Briefing,method,,part is broader than whole - check direction,POLS_3114_triples_raw.json
+POLS_3114,Rule Application and Explanation,concept,PART_OF,IRAC Approach to Case Briefing,method,,part is broader than whole - check direction,POLS_3114_triples_raw.json

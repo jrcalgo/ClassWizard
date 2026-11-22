@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3228,marketing data analysis,concept,PREREQUISITE_OF,target market identification,concept,A taught first,,MKTG_3228_triples_raw.json
+MKTG_3228,regression analysis techniques,concept,PREREQUISITE_OF,predictive analytics methods,concept,same unit,,MKTG_3228_triples_raw.json

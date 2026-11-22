@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITLN_3650,Commedia all'Italiana Movement,concept,PREREQUISITE_OF,Arthouse and Experimental Films,concept,A taught first,,ITLN_3650_triples_raw.json
+ITLN_3650,Vittorio De Sica's Contributions,concept,PART_OF,Neorealism Movement,concept,,,ITLN_3650_triples_raw.json
+ITLN_3650,Post-War Italian Cinema Overview,concept,PART_OF,Neorealism Movement,concept,,,ITLN_3650_triples_raw.json
+ITLN_3650,Visual Storytelling Elements,concept,PART_OF,Film Analysis Techniques,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Camera Angles and Movement,concept,PART_OF,Film Analysis Techniques,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Influence of Italian Cinema on Global Culture,concept,PART_OF,Italian Cinema and Cultural Identity,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Neorealism Movement,concept,SUBTYPE_OF,Italian Cinema,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Commedia all'Italiana Movement,concept,SUBTYPE_OF,Italian Cinema,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Arthouse and Experimental Films,concept,SUBTYPE_OF,Italian Cinema,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Contemporary Italian Cinema,topic,SUBTYPE_OF,Italian Cinema,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Film Analysis Techniques,topic,SUBTYPE_OF,Italian Cinema,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Italian Cinema and Society,topic,SUBTYPE_OF,Italian Cinema,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Italian Cinema and Cultural Identity,topic,SUBTYPE_OF,Italian Cinema,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,Film Analysis and Criticism,topic,SUBTYPE_OF,Italian Cinema,topic,,,ITLN_3650_triples_raw.json
+ITLN_3650,oral and written presentation skills,method,USED_FOR,Film Analysis and Criticism,topic,,,ITLN_3650_triples_raw.json

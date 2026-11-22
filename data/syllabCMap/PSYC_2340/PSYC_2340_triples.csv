@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2340,cognitive dissonance theory,concept,PREREQUISITE_OF,self-efficacy concept,concept,same unit,,PSYC_2340_triples_raw.json
+PSYC_2340,cognitive processes,concept,PREREQUISITE_OF,working memory functions,concept,same unit,,PSYC_2340_triples_raw.json
+PSYC_2340,cognitive processes,concept,PREREQUISITE_OF,long-term memory encoding,concept,same unit,,PSYC_2340_triples_raw.json
+PSYC_2340,stress management,concept,PREREQUISITE_OF,emotional regulation,concept,A taught first,,PSYC_2340_triples_raw.json
+PSYC_2340,adjustment theories,concept,PREREQUISITE_OF,life satisfaction,concept,A taught first,,PSYC_2340_triples_raw.json
+PSYC_2340,coping mechanisms,concept,PREREQUISITE_OF,resilience factors,concept,A taught first,,PSYC_2340_triples_raw.json
+PSYC_2340,coping mechanisms,concept,PART_OF,stress management,concept,,,PSYC_2340_triples_raw.json
+PSYC_2340,emotional regulation,concept,PART_OF,stress management,concept,,,PSYC_2340_triples_raw.json
+PSYC_2340,cognitive dissonance theory,concept,PART_OF,self-efficacy concept,concept,,,PSYC_2340_triples_raw.json
+PSYC_2340,goal setting principles,concept,PART_OF,self-efficacy concept,concept,,,PSYC_2340_triples_raw.json
+PSYC_2340,happiness models,concept,PART_OF,life satisfaction,concept,,,PSYC_2340_triples_raw.json
+PSYC_2340,wellbeing indicators,concept,PART_OF,life satisfaction,concept,,,PSYC_2340_triples_raw.json
+PSYC_2340,adjustment theories overview,concept,PART_OF,adjustment theories,concept,,,PSYC_2340_triples_raw.json

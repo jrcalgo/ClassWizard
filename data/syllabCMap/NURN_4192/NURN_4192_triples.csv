@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURN_4192,Critical Thinking,topic,PREREQUISITE_OF,Clinical Judgment Development,topic,A taught first,,NURN_4192_triples_raw.json
+NURN_4192,Critical Thinking,topic,PREREQUISITE_OF,Assessment and Analysis,topic,A taught first,,NURN_4192_triples_raw.json
+NURN_4192,Critical Thinking,topic,PREREQUISITE_OF,Critical Thinking in Practice,topic,A taught first,,NURN_4192_triples_raw.json
+NURN_4192,Definition of Critical Thinking,concept,PART_OF,Critical Thinking,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Importance in Nursing Practice,concept,PART_OF,Critical Thinking,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Types of Critical Thinking,concept,PART_OF,Critical Thinking,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Rogers' Science of Unitary Humans,concept,PART_OF,Clinical Reasoning Models,topic,,,NURN_4192_triples_raw.json
+NURN_4192,King's Conceptual System Model,concept,PART_OF,Clinical Reasoning Models,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Pender's Health Promotion Model,concept,PART_OF,Clinical Reasoning Models,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Data Collection Methods,concept,PART_OF,Assessment and Analysis,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Patient Assessment Techniques,concept,PART_OF,Assessment and Analysis,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Analyzing Patient Data,concept,PART_OF,Assessment and Analysis,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Decision-Making Strategies,concept,PART_OF,Clinical Judgment Development,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Prioritizing Nursing Interventions,concept,PART_OF,Clinical Judgment Development,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Evaluating Clinical Outcomes,concept,PART_OF,Clinical Judgment Development,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Identifying Biases and Assumptions,concept,PART_OF,Critical Thinking in Practice,topic,,,NURN_4192_triples_raw.json
+NURN_4192,Developing a Critical Thinking Plan,concept,PART_OF,Critical Thinking in Practice,topic,,,NURN_4192_triples_raw.json

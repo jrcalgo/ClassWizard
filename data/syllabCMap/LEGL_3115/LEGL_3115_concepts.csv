@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LEGL_3115,topic,United States Constitutional Law,United States Constitutional Law,1,verified,United States Constitutional Law,LEGL_3115_concepts_raw.json
+LEGL_3115,topic,Constitutional Law,Constitutional Law,2,verified,Introduction to Constitutional Law,LEGL_3115_concepts_raw.json
+LEGL_3115,topic,Civil Rights and Liberties,civil rights and liberties,1,verified,Civil Rights and Liberties,LEGL_3115_concepts_raw.json
+LEGL_3115,topic,Bill of Rights Overview,Bill of Rights Overview,1,inferred,Bill of Rights Overview,LEGL_3115_concepts_raw.json
+LEGL_3115,topic,Civil Liberties Development,Civil Liberties Development,1,inferred,Civil Liberties Development,LEGL_3115_concepts_raw.json
+LEGL_3115,topic,US Supreme Court Cases,US Supreme Court Cases,1,inferred,US Supreme Court Cases,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,US Constitution Structure,US Constitution Structure,1,inferred,US Constitution Structure,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Separation of Powers,Separation of Powers,1,inferred,Separation of Powers,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Checks and Balances,Checks and Balances,1,inferred,Checks and Balances,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,First Amendment Rights,First Amendment Rights,1,inferred,First Amendment Rights,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Second Amendment Rights,Second Amendment Rights,1,inferred,Second Amendment Rights,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Due Process Clause,Due Process Clause,1,inferred,Due Process Clause,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Free Speech Protections,Free Speech Protections,1,inferred,Free Speech Protections,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Freedom of Assembly,Freedom of Assembly,1,inferred,Freedom of Assembly,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Equal Protection Clause,Equal Protection Clause,1,inferred,Equal Protection Clause,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Marbury v Madison Ruling,Marbury v Madison Ruling,1,inferred,Marbury v Madison Ruling,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,McCulloch v Maryland Decision,McCulloch v Maryland Decision,1,inferred,McCulloch v Maryland Decision,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Brown v Board of Education,Brown v Board of Education,1,inferred,Brown v Board of Education,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Racial Equality Protections,Racial Equality Protections,1,inferred,Racial Equality Protections,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Sexual Orientation Rights,Sexual Orientation Rights,1,inferred,Sexual Orientation Rights,LEGL_3115_concepts_raw.json
+LEGL_3115,concept,Religious Freedom Guarantees,Religious Freedom Guarantees,1,inferred,Religious Freedom Guarantees,LEGL_3115_concepts_raw.json
+LEGL_3115,work,US Constitution,US Constitution,1,inferred,US Constitution,LEGL_3115_concepts_raw.json
+LEGL_3115,work,Marbury v Madison,Marbury v Madison,1,inferred,Marbury v Madison,LEGL_3115_concepts_raw.json
+LEGL_3115,work,McCulloch v Maryland,McCulloch v Maryland,1,inferred,McCulloch v Maryland,LEGL_3115_concepts_raw.json

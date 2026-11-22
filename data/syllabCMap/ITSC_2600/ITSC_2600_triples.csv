@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_2600,campus resources,concept,PREREQUISITE_OF,setting academic goals,concept,same unit,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,PREREQUISITE_OF,defining career aspirations,concept,same unit,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,PREREQUISITE_OF,creating a study schedule,concept,A taught first,,ITSC_2600_triples_raw.json
+ITSC_2600,setting academic goals,concept,PREREQUISITE_OF,defining career aspirations,concept,same unit,,ITSC_2600_triples_raw.json
+ITSC_2600,setting academic goals,concept,PREREQUISITE_OF,creating a study schedule,concept,A taught first,,ITSC_2600_triples_raw.json
+ITSC_2600,defining career aspirations,concept,PREREQUISITE_OF,building effective relationships,concept,A taught first,,ITSC_2600_triples_raw.json
+ITSC_2600,defining career aspirations,concept,PREREQUISITE_OF,industry connections and partnerships,concept,A taught first,,ITSC_2600_triples_raw.json
+ITSC_2600,defining career aspirations,concept,PREREQUISITE_OF,communication skills development,concept,A taught first,,ITSC_2600_triples_raw.json
+ITSC_2600,prioritizing tasks effectively,concept,PREREQUISITE_OF,creating a study schedule,concept,same unit,,ITSC_2600_triples_raw.json
+ITSC_2600,industry connections and partnerships,concept,PREREQUISITE_OF,technical skill development plan,concept,A taught first,,ITSC_2600_triples_raw.json
+ITSC_2600,academic and career goal setting,concept,PREREQUISITE_OF,professional portfolio creation,concept,same unit,,ITSC_2600_triples_raw.json
+ITSC_2600,technical skill development plan,concept,PREREQUISITE_OF,professional portfolio creation,concept,same unit,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,PART_OF,Campus Resources Introduction,topic,,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,USED_FOR,setting academic goals,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,USED_FOR,defining career aspirations,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,USED_FOR,prioritizing tasks effectively,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,USED_FOR,creating a study schedule,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,USED_FOR,building effective relationships,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,USED_FOR,communication skills development,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,campus resources,concept,USED_FOR,student organizations and clubs,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,setting academic goals,concept,USED_FOR,defining career aspirations,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,setting academic goals,concept,USED_FOR,prioritizing tasks effectively,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,setting academic goals,concept,USED_FOR,creating a study schedule,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,defining career aspirations,concept,USED_FOR,building effective relationships,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,defining career aspirations,concept,USED_FOR,industry connections and partnerships,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,defining career aspirations,concept,USED_FOR,communication skills development,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,building effective relationships,concept,USED_FOR,industry connections and partnerships,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,building effective relationships,concept,USED_FOR,communication skills development,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,academic and career goal setting,concept,USED_FOR,technical skill development plan,concept,,,ITSC_2600_triples_raw.json
+ITSC_2600,academic and career goal setting,concept,USED_FOR,professional portfolio creation,concept,,,ITSC_2600_triples_raw.json

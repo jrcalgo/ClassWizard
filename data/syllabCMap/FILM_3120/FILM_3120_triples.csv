@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_3120,script structure,concept,PREREQUISITE_OF,scene transitions,concept,same unit,,FILM_3120_triples_raw.json
+FILM_3120,character development,concept,PREREQUISITE_OF,dialogue writing,concept,same unit,,FILM_3120_triples_raw.json
+FILM_3120,pacing techniques,concept,PREREQUISITE_OF,storytelling with editing,concept,A taught first,,FILM_3120_triples_raw.json
+FILM_3120,digital communication strategies,concept,PREREQUISITE_OF,virtual collaboration tools,concept,same unit,,FILM_3120_triples_raw.json
+FILM_3120,production schedule,concept,PREREQUISITE_OF,Script revisions,method,same unit,,FILM_3120_triples_raw.json
+FILM_3120,storyboarding techniques,concept,PREREQUISITE_OF,Scene blocking,method,A taught first,,FILM_3120_triples_raw.json
+FILM_3120,scene transitions,concept,PART_OF,Film Editing,topic,,,FILM_3120_triples_raw.json
+FILM_3120,pacing techniques,concept,PART_OF,storytelling with editing,concept,,,FILM_3120_triples_raw.json
+FILM_3120,directing performance,concept,PART_OF,storytelling with editing,concept,,,FILM_3120_triples_raw.json
+FILM_3120,Documentary Proposal,topic,SUBTYPE_OF,Visual Communication,topic,,,FILM_3120_triples_raw.json
+FILM_3120,Film Editing,topic,SUBTYPE_OF,Visual Communication,topic,,,FILM_3120_triples_raw.json
+FILM_3120,production schedule,concept,SUBTYPE_OF,scheduling strategies,concept,,,FILM_3120_triples_raw.json
+FILM_3120,Script revisions,method,SUBTYPE_OF,script revision process,concept,,,FILM_3120_triples_raw.json
+FILM_3120,Scene blocking,method,SUBTYPE_OF,scene transitions,concept,,,FILM_3120_triples_raw.json
+FILM_3120,Camera angles,method,SUBTYPE_OF,storytelling with editing,concept,,,FILM_3120_triples_raw.json
+FILM_3120,Adobe Premiere Pro,tool,USED_FOR,Film Editing,topic,,,FILM_3120_triples_raw.json
+FILM_3120,External Hard Drive,tool,USED_FOR,Cloud storage,tool,,,FILM_3120_triples_raw.json
+FILM_3120,Screenwriting software,tool,USED_FOR,script structure,concept,,,FILM_3120_triples_raw.json

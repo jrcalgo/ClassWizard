@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_4652,media history,concept,PREREQUISITE_OF,Mass Media,topic,A taught first,,COMM_4652_triples_raw.json
+COMM_4652,media history,concept,PREREQUISITE_OF,New Media Technologies,topic,A taught first,,COMM_4652_triples_raw.json
+COMM_4652,Mass Media,topic,PREREQUISITE_OF,Media Studies,topic,B taught first,B is taught before A - check,COMM_4652_triples_raw.json
+COMM_4652,Mass Media,topic,PREREQUISITE_OF,Media Ecology and Culture,topic,A taught first,,COMM_4652_triples_raw.json
+COMM_4652,Mass Media,topic,PREREQUISITE_OF,Media Governance and Ethics,topic,A taught first,,COMM_4652_triples_raw.json
+COMM_4652,Mass Media,topic,PREREQUISITE_OF,"Media, Technology, and Society",topic,A taught first,,COMM_4652_triples_raw.json
+COMM_4652,media history,concept,PART_OF,mass communication theories,concept,,,COMM_4652_triples_raw.json
+COMM_4652,media history,concept,PART_OF,media monopoly effects,concept,,,COMM_4652_triples_raw.json
+COMM_4652,media history,concept,PART_OF,advertising influence on culture,concept,,,COMM_4652_triples_raw.json
+COMM_4652,media history,concept,PART_OF,media representation issues,concept,,,COMM_4652_triples_raw.json
+COMM_4652,media history,concept,PART_OF,digital media characteristics,concept,,,COMM_4652_triples_raw.json
+COMM_4652,media history,concept,PART_OF,emergence of social media,concept,,,COMM_4652_triples_raw.json
+COMM_4652,media history,concept,PART_OF,impact of AI on society,concept,,,COMM_4652_triples_raw.json
+COMM_4652,Mass Media,topic,PART_OF,Media Studies,topic,,,COMM_4652_triples_raw.json
+COMM_4652,Mass Media,topic,PART_OF,Media Ecology and Culture,topic,,,COMM_4652_triples_raw.json
+COMM_4652,Mass Media,topic,PART_OF,Media Governance and Ethics,topic,,,COMM_4652_triples_raw.json
+COMM_4652,Mass Media,topic,PART_OF,"Media, Technology, and Society",topic,,,COMM_4652_triples_raw.json
+COMM_4652,New Media Technologies,topic,PART_OF,Media Studies,topic,,,COMM_4652_triples_raw.json
+COMM_4652,New Media Technologies,topic,PART_OF,Media Ecology and Culture,topic,,,COMM_4652_triples_raw.json
+COMM_4652,New Media Technologies,topic,PART_OF,Media Governance and Ethics,topic,,,COMM_4652_triples_raw.json
+COMM_4652,mass communication theories,concept,USED_FOR,media history,concept,,,COMM_4652_triples_raw.json
+COMM_4652,mass communication theories,concept,USED_FOR,Mass Media,topic,,,COMM_4652_triples_raw.json
+COMM_4652,mass communication theories,concept,USED_FOR,New Media Technologies,topic,,,COMM_4652_triples_raw.json
+COMM_4652,media monopoly effects,concept,USED_FOR,Mass Media,topic,,,COMM_4652_triples_raw.json
+COMM_4652,advertising influence on culture,concept,USED_FOR,Mass Media,topic,,,COMM_4652_triples_raw.json
+COMM_4652,media representation issues,concept,USED_FOR,Mass Media,topic,,,COMM_4652_triples_raw.json
+COMM_4652,digital media characteristics,concept,USED_FOR,New Media Technologies,topic,,,COMM_4652_triples_raw.json
+COMM_4652,emergence of social media,concept,USED_FOR,New Media Technologies,topic,,,COMM_4652_triples_raw.json
+COMM_4652,impact of AI on society,concept,USED_FOR,New Media Technologies,topic,,,COMM_4652_triples_raw.json

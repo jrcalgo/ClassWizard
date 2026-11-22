@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_6212,part-genres,concept,PART_OF,Academic Writing,topic,,,GRAD_6212_triples_raw.json
+GRAD_6212,Responding to Critical Feedback,topic,PART_OF,Academic Writing,topic,,,GRAD_6212_triples_raw.json

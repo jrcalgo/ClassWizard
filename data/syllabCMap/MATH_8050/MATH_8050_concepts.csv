@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_8050,topic,Spectral Theory,spectral theory,2,verified,Spectral Theory,MATH_8050_concepts_raw.json
+MATH_8050,topic,Banach Spaces Basics,Banach Spaces Basics,1,inferred,Banach Spaces Basics,MATH_8050_concepts_raw.json
+MATH_8050,topic,Linear Operators,Linear Operators,1,inferred,Linear Operators,MATH_8050_concepts_raw.json
+MATH_8050,topic,Spectral Theory I,Spectral Theory I,1,inferred,Spectral Theory I,MATH_8050_concepts_raw.json
+MATH_8050,topic,Hilbert Space Operators,Hilbert Space Operators,1,inferred,Hilbert Space Operators,MATH_8050_concepts_raw.json
+MATH_8050,topic,Applications to DEs,Applications to DEs,1,inferred,Applications to DEs,MATH_8050_concepts_raw.json
+MATH_8050,concept,Normed Vector Space Definition,Normed Vector Space Definition,1,inferred,Normed Vector Space Definition,MATH_8050_concepts_raw.json
+MATH_8050,concept,Completeness Axiom Explanation,Completeness Axiom Explanation,1,inferred,Completeness Axiom Explanation,MATH_8050_concepts_raw.json
+MATH_8050,concept,Baire Category Theorem,Baire Category Theorem,1,inferred,Baire Category Theorem,MATH_8050_concepts_raw.json
+MATH_8050,concept,Operator Norm Definition,Operator Norm Definition,1,inferred,Operator Norm Definition,MATH_8050_concepts_raw.json
+MATH_8050,concept,Continuous Linear Operator,Continuous Linear Operator,1,inferred,Continuous Linear Operator,MATH_8050_concepts_raw.json
+MATH_8050,concept,Closed Graph Theorem,Closed Graph Theorem,1,inferred,Closed Graph Theorem,MATH_8050_concepts_raw.json
+MATH_8050,concept,Spectrum of an Operator,Spectrum of an Operator,1,inferred,Spectrum of an Operator,MATH_8050_concepts_raw.json
+MATH_8050,concept,Resolvent Set Explanation,Resolvent Set Explanation,1,inferred,Resolvent Set Explanation,MATH_8050_concepts_raw.json
+MATH_8050,concept,Spectral Radius Formula,Spectral Radius Formula,1,inferred,Spectral Radius Formula,MATH_8050_concepts_raw.json
+MATH_8050,concept,Self-Adjoint Operator Definition,Self-Adjoint Operator Definition,1,inferred,Self-Adjoint Operator Definition,MATH_8050_concepts_raw.json
+MATH_8050,concept,Unitary Operator Properties,Unitary Operator Properties,1,inferred,Unitary Operator Properties,MATH_8050_concepts_raw.json
+MATH_8050,concept,Spectral Theorem Statement,Spectral Theorem Statement,1,inferred,Spectral Theorem Statement,MATH_8050_concepts_raw.json
+MATH_8050,concept,Linear Differential Equation Solution,Linear Differential Equation Solution,1,inferred,Linear Differential Equation Solution,MATH_8050_concepts_raw.json
+MATH_8050,concept,Integral Equations Formulation,Integral Equations Formulation,1,inferred,Integral Equations Formulation,MATH_8050_concepts_raw.json

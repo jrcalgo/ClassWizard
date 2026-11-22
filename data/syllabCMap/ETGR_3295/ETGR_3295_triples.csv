@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_3295,Engineering Ethics Fundamentals,topic,PREREQUISITE_OF,Identifying Ethical Issues,topic,A taught first,,ETGR_3295_triples_raw.json
+ETGR_3295,Identifying Ethical Issues,topic,PREREQUISITE_OF,Analyzing Moral Principles,topic,A taught first,,ETGR_3295_triples_raw.json
+ETGR_3295,Analyzing Moral Principles,topic,PREREQUISITE_OF,Case Studies and Applications,topic,A taught first,,ETGR_3295_triples_raw.json
+ETGR_3295,Engineering Ethics Fundamentals,topic,PREREQUISITE_OF,Analyzing Moral Principles,topic,A taught first,,ETGR_3295_triples_raw.json
+ETGR_3295,Duty to Public Safety,concept,PART_OF,Identifying Ethical Issues,topic,,,ETGR_3295_triples_raw.json
+ETGR_3295,Confidentiality and Secrecy,concept,PART_OF,Identifying Ethical Issues,topic,,,ETGR_3295_triples_raw.json
+ETGR_3295,Conflict of Interest,concept,PART_OF,Identifying Ethical Issues,topic,,,ETGR_3295_triples_raw.json
+ETGR_3295,Kant's Categorical Imperative,concept,PART_OF,Analyzing Moral Principles,topic,,,ETGR_3295_triples_raw.json
+ETGR_3295,Virtue Ethics in Engineering,concept,PART_OF,Analyzing Moral Principles,topic,,,ETGR_3295_triples_raw.json
+ETGR_3295,Real-World Ethical Scenarios,concept,PART_OF,Case Studies and Applications,topic,,,ETGR_3295_triples_raw.json
+ETGR_3295,Engineering Solutions to Dilemmas,concept,PART_OF,Case Studies and Applications,topic,,,ETGR_3295_triples_raw.json
+ETGR_3295,Collaboration and Teamwork,concept,PART_OF,Case Studies and Applications,topic,,,ETGR_3295_triples_raw.json
+ETGR_3295,Self-Awareness and Reflection,concept,PART_OF,Developing Personal Ethics,topic,,,ETGR_3295_triples_raw.json

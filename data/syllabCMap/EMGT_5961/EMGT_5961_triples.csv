@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_5961,Energy Types Overview,topic,PART_OF,Energy Generation Methods,topic,,,EMGT_5961_triples_raw.json
+EMGT_5961,Energy Generation Methods,topic,PART_OF,Energy Conversion Processes,topic,,,EMGT_5961_triples_raw.json
+EMGT_5961,Energy Conversion Processes,topic,PART_OF,Energy Storage and Transportation,topic,,,EMGT_5961_triples_raw.json
+EMGT_5961,Renewable Energy Technologies,topic,PART_OF,Energy Storage and Transportation,topic,,,EMGT_5961_triples_raw.json
+EMGT_5961,Environmental Impacts and Regulations,topic,PART_OF,Energy Storage and Transportation,topic,,,EMGT_5961_triples_raw.json
+EMGT_5961,Smart Grid Technologies and Reliability,topic,PART_OF,Energy Storage and Transportation,topic,,,EMGT_5961_triples_raw.json

@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4150,topic,Mobile Robot Kinematics,mobile robot kinematics,2,verified,Mobile Robot Kinematics,ITCS_4150_concepts_raw.json
+ITCS_4150,topic,Sensors,sensors,2,verified,Sensors,ITCS_4150_concepts_raw.json
+ITCS_4150,topic,Vehicle Localization,vehicle localization,2,verified,Vehicle Localization,ITCS_4150_concepts_raw.json
+ITCS_4150,topic,Map Building,map building,2,verified,Map Building,ITCS_4150_concepts_raw.json
+ITCS_4150,topic,Simultaneous Localization and Mapping (SLAM,Simultaneous Localization and Mapping (SLAM,2,verified,Simultaneous Localization and Mapping (SLAM),ITCS_4150_concepts_raw.json
+ITCS_4150,topic,Motion Planning,motion planning,2,verified,Motion Planning,ITCS_4150_concepts_raw.json
+ITCS_4150,concept,Autonomous Mobile Robots,Autonomous Mobile Robots,2,verified,Autonomous Mobile Robots,ITCS_4150_concepts_raw.json
+ITCS_4150,topic,Fundamental Challenges,fundamental challenges,1,verified,Fundamental Challenges,ITCS_4150_concepts_raw.json
+ITCS_4150,topic,State of the Art Solutions,state of the art solutions,1,verified,State of the Art Solutions,ITCS_4150_concepts_raw.json
+ITCS_4150,topic,Mobile Robotics,Mobile Robotics,2,verified,Introduction to Mobile Robotics,ITCS_4150_concepts_raw.json
+ITCS_4150,concept,Simultaneous Localization,simultaneous localization,2,verified,Simultaneous Localization,ITCS_4150_concepts_raw.json
+ITCS_4150,tool,Python,Python,1,verified,Python,ITCS_4150_concepts_raw.json
+ITCS_4150,tool,Linux/Unix,Linux/Unix,1,verified,Linux/Unix,ITCS_4150_concepts_raw.json

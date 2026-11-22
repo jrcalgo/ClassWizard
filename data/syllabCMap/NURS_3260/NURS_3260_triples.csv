@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_3260,Newborn Health Assessment,concept,PART_OF,Infancy Care,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Cognitive Development Stages,concept,PART_OF,Child Development,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Emotional Intelligence Growth,concept,PART_OF,Child Development,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Social Skills Acquisition,concept,PART_OF,Child Development,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Nutrition and Hydration Importance,concept,PART_OF,Health Promotion,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Exercise and Physical Activity,concept,PART_OF,Health Promotion,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Sleep Habits and Routine,concept,PART_OF,Health Promotion,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Common Childhood Infections,concept,PART_OF,Childhood Illnesses,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Respiratory Health Management,concept,PART_OF,Childhood Illnesses,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Gastrointestinal Health Issues,concept,PART_OF,Childhood Illnesses,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Puberty and Hormonal Changes,concept,PART_OF,Adolescent Development,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Body Image and Self-Esteem,concept,PART_OF,Adolescent Development,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Risk-Taking Behaviors Prevention,concept,PART_OF,Adolescent Development,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Sibling Rivalry and Conflict,concept,PART_OF,Family Dynamics,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Family Communication Styles,concept,PART_OF,Family Dynamics,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Pregnancy Complications Management,concept,PART_OF,Maternal Health,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Postpartum Care and Support,concept,PART_OF,Maternal Health,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Breastfeeding Challenges Resolution,concept,PART_OF,Maternal Health,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Fertility Awareness and Planning,concept,PART_OF,Childbearing Years,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Reproductive Health Education,concept,PART_OF,Childbearing Years,topic,,,NURS_3260_triples_raw.json
+NURS_3260,Menstrual Cycle and Hygiene,concept,PART_OF,Childbearing Years,topic,,,NURS_3260_triples_raw.json

@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LANG_1201,topic,Korean Alphabet,Korean alphabet,1,verified,Korean Alphabet,LANG_1201_concepts_raw.json
+LANG_1201,concept,Hangeul,Hangeul,1,verified,Hangeul,LANG_1201_concepts_raw.json
+LANG_1201,concept,Asking Simple Questions,asking simple questions,1,verified,Asking Simple Questions,LANG_1201_concepts_raw.json
+LANG_1201,concept,Common Cultural Practices,common cultural practices,1,verified,Common Cultural Practices,LANG_1201_concepts_raw.json
+LANG_1201,method,active learning exercises,active learning exercises,1,verified,active learning exercises,LANG_1201_concepts_raw.json
+LANG_1201,method,oral communication skills,oral communication skills,1,verified,oral communication skills,LANG_1201_concepts_raw.json
+LANG_1201,method,written communication skills,written communication skills,1,verified,written communication skills,LANG_1201_concepts_raw.json
+LANG_1201,method,reading,Reading,2,verified,reading and studying textbook,LANG_1201_concepts_raw.json

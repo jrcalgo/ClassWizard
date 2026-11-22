@@ -1,0 +1,39 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_4203,concept,Cultural Contexts,cultural contexts,1,verified,Cultural Contexts,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Architectural Theoretical Frameworks,Architectural Theoretical Frameworks,1,inferred,Architectural Theoretical Frameworks,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,International Style,International Style,1,inferred,International Style,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Brutalism and Expressionism,Brutalism and Expressionism,1,inferred,Brutalism and Expressionism,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Organic and Deconstructivism,Organic and Deconstructivism,1,inferred,Organic and Deconstructivism,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Marxist and Feminist Critiques,Marxist and Feminist Critiques,1,inferred,Marxist and Feminist Critiques,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Postmodernism and Deconstruction,Postmodernism and Deconstruction,1,inferred,Postmodernism and Deconstruction,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Social and Cultural Contexts,Social and Cultural Contexts,1,inferred,Social and Cultural Contexts,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Deconstructivist Manifesto,Deconstructivist Manifesto,1,inferred,Deconstructivist Manifesto,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Digital Architecture and Simulation,Digital Architecture and Simulation,1,inferred,Digital Architecture and Simulation,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Parametric Design and Complexity,Parametric Design and Complexity,1,inferred,Parametric Design and Complexity,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Green Building and LEED,Green Building and LEED,1,inferred,Green Building and LEED,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Ecological Design Principles,Ecological Design Principles,1,inferred,Ecological Design Principles,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Biomimicry and Biophilic Design,Biomimicry and Biophilic Design,1,inferred,Biomimicry and Biophilic Design,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Posthumanism and Non-Human Agency,Posthumanism and Non-Human Agency,1,inferred,Posthumanism and Non-Human Agency,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,New Materialisms and Assemblage Theory,New Materialisms and Assemblage Theory,1,inferred,New Materialisms and Assemblage Theory,ARCH_4203_concepts_raw.json
+ARCH_4203,topic,Speculative Architecture and Futurism,Speculative Architecture and Futurism,1,inferred,Speculative Architecture and Futurism,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Brutalism,Brutalism,1,inferred,Brutalism,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Expressionism,Expressionism,1,inferred,Expressionism,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Organic,Organic,1,inferred,Organic,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Deconstructivism,Deconstructivism,2,inferred,Deconstructivism,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Feminist Critiques,Feminist Critiques,1,inferred,Feminist Critiques,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Postmodernism,Postmodernism,1,inferred,Postmodernism,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Deconstruction,Deconstruction,1,inferred,Deconstruction,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Digital Architecture,Digital Architecture,1,inferred,Digital Architecture,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Simulation,Simulation,1,inferred,Simulation,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Parametric Design,Parametric Design,1,inferred,Parametric Design,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Complexity,Complexity,1,inferred,Complexity,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Green Building,Green Building,1,inferred,Green Building,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,LEED,LEED,1,inferred,LEED,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Biomimicry,Biomimicry,1,inferred,Biomimicry,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Biophilic Design,Biophilic Design,1,inferred,Biophilic Design,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Posthumanism,Posthumanism,1,inferred,Posthumanism,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Non-Human Agency,Non-Human Agency,1,inferred,Non-Human Agency,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,New Materialisms,New Materialisms,1,inferred,New Materialisms,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Assemblage Theory,Assemblage Theory,1,inferred,Assemblage Theory,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Speculative Architecture,Speculative Architecture,1,inferred,Speculative Architecture,ARCH_4203_concepts_raw.json
+ARCH_4203,concept,Futurism,Futurism,1,inferred,Futurism,ARCH_4203_concepts_raw.json

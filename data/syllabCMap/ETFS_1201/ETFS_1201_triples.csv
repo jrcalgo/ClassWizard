@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETFS_1201,"academic, personal, and professional development",topic,PREREQUISITE_OF,choosing career pathways,topic,A taught first,,ETFS_1201_triples_raw.json
+ETFS_1201,"academic, personal, and professional development",topic,PREREQUISITE_OF,teamwork,topic,A taught first,,ETFS_1201_triples_raw.json
+ETFS_1201,"academic, personal, and professional development",topic,PREREQUISITE_OF,computer skills,topic,A taught first,,ETFS_1201_triples_raw.json
+ETFS_1201,Occupational Safety Professions,concept,PART_OF,Occupational Safety,topic,,,ETFS_1201_triples_raw.json

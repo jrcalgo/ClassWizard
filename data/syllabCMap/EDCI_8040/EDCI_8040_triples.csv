@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8040,cognitive science,topic,PREREQUISITE_OF,literacy development,topic,A taught first,,EDCI_8040_triples_raw.json
+EDCI_8040,neuroscience,topic,PREREQUISITE_OF,reading brain,topic,same unit,,EDCI_8040_triples_raw.json
+EDCI_8040,developmental science,topic,PREREQUISITE_OF,literacy development,topic,B mentioned first,,EDCI_8040_triples_raw.json
+EDCI_8040,education,topic,PREREQUISITE_OF,effective literacy instruction,topic,B mentioned first,,EDCI_8040_triples_raw.json
+EDCI_8040,cognitive science,topic,USED_FOR,literacy development,topic,,topic used for something - check direction,EDCI_8040_triples_raw.json
+EDCI_8040,developmental science,topic,USED_FOR,literacy development,topic,,topic used for something - check direction,EDCI_8040_triples_raw.json
+EDCI_8040,education,topic,USED_FOR,effective literacy instruction,topic,,topic used for something - check direction,EDCI_8040_triples_raw.json

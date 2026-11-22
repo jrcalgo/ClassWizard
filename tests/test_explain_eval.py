@@ -90,3 +90,9 @@ def test_all_cited_flags_an_uncited_sentence():
     assert _score(_item(), "It is a project course [ITSC 4155]. It is fun.")["all_cited"] is False
     assert _score(_item(), "Projects [ITSC 4155]. Careers [15-1252.00].")["all_cited"] is True
     assert "all_cited" not in _score(_item(expect_not_found=True), "not found in the data")
+
+
+def test_cited_partial_answer_is_not_scored_as_a_complete_refusal():
+    answer='Specific scoring evidence is not found in the data [ITSC 4155]. It is a team project [ITSC 4155].'
+    assert _score(_item(),answer)['refusal']
+    assert not _score(_item(expect_not_found=True),answer)['refusal']

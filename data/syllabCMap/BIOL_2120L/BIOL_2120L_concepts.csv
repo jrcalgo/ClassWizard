@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_2120L,topic,General Biology 1 Lab,General Biology 1 Lab,1,verified,General Biology 1 Lab,BIOL_2120L_concepts_raw.json
+BIOL_2120L,method,pipetting,pipetting,1,verified,pipetting,BIOL_2120L_concepts_raw.json
+BIOL_2120L,method,microscopy,microscopy,1,verified,microscopy,BIOL_2120L_concepts_raw.json
+BIOL_2120L,method,western blotting,western blotting,1,verified,western blotting,BIOL_2120L_concepts_raw.json
+BIOL_2120L,method,Bradford assay,Bradford assay,1,verified,Bradford assay,BIOL_2120L_concepts_raw.json
+BIOL_2120L,method,scientific method,scientific method,1,verified,scientific method,BIOL_2120L_concepts_raw.json
+BIOL_2120L,method,quantitative and statistical methods,quantitative and statistical methods,1,verified,quantitative and statistical methods,BIOL_2120L_concepts_raw.json
+BIOL_2120L,work,p53,p53,2,verified,p53,BIOL_2120L_concepts_raw.json

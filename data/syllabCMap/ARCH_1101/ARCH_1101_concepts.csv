@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_1101,concept,Visual,visual,1,verified,"Visual, Physical, and Verbal Skills",ARCH_1101_concepts_raw.json
+ARCH_1101,method,physical,physical,2,verified,"Communicating design intention clearly through visual, physical, and verbal means",ARCH_1101_concepts_raw.json
+ARCH_1101,concept,Verbal Skills,verbal skills,1,verified,"Visual, Physical, and Verbal Skills",ARCH_1101_concepts_raw.json
+ARCH_1101,method,evaluation,evaluation,1,verified,"Analyzing design information through active questioning, evaluation, interpretation, and making",ARCH_1101_concepts_raw.json
+ARCH_1101,method,interpretation,interpretation,1,verified,"Analyzing design information through active questioning, evaluation, interpretation, and making",ARCH_1101_concepts_raw.json
+ARCH_1101,method,making,making,2,verified,"Analyzing design information through active questioning, evaluation, interpretation, and making",ARCH_1101_concepts_raw.json
+ARCH_1101,method,thinking,thinking,4,verified,"Synthesizing a semester of iterative investigation, thinking, and seeing to inform the production of architecture",ARCH_1101_concepts_raw.json
+ARCH_1101,method,seeing to inform the production of architecture,seeing to inform the production of architecture,1,verified,"Synthesizing a semester of iterative investigation, thinking, and seeing to inform the production of architecture",ARCH_1101_concepts_raw.json
+ARCH_1101,method,verbal means,verbal means,1,verified,"Communicating design intention clearly through visual, physical, and verbal means",ARCH_1101_concepts_raw.json

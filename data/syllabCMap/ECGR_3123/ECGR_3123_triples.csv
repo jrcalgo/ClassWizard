@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_3123,network protocol architecture,concept,PART_OF,Data Communications,topic,,,ECGR_3123_triples_raw.json
+ECGR_3123,Signal Encoding,topic,PART_OF,Transmission Media,topic,,,ECGR_3123_triples_raw.json
+ECGR_3123,Flow Control,topic,PART_OF,Network Protocols,topic,,,ECGR_3123_triples_raw.json
+ECGR_3123,Wireless Networks,topic,PART_OF,Network Protocols,topic,,,ECGR_3123_triples_raw.json

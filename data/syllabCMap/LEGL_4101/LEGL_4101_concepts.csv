@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LEGL_4101,topic,Media Law,Media Law,1,verified,Media Law,LEGL_4101_concepts_raw.json
+LEGL_4101,topic,Censorship and Reporter's Privilege,Censorship and Reporter's Privilege,2,verified,Censorship and Reporter's Privilege,LEGL_4101_concepts_raw.json
+LEGL_4101,topic,Advanced Legal Topics,advanced legal topics,2,verified,Advanced Legal Topics,LEGL_4101_concepts_raw.json
+LEGL_4101,topic,First Amendment Principles,First Amendment Principles,1,inferred,First Amendment Principles,LEGL_4101_concepts_raw.json
+LEGL_4101,topic,Privacy and Libel Laws,Privacy and Libel Laws,1,inferred,Privacy and Libel Laws,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,US Legal System Overview,US Legal System Overview,1,inferred,US Legal System Overview,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Government Framework Basics,Government Framework Basics,1,inferred,Government Framework Basics,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Legal Terminology Fundamentals,Legal Terminology Fundamentals,1,inferred,Legal Terminology Fundamentals,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Free Press and Speech Rights,Free Press and Speech Rights,1,inferred,Free Press and Speech Rights,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Prior Restraint Protection Laws,Prior Restraint Protection Laws,1,inferred,Prior Restraint Protection Laws,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Freedom of Expression Limits,Freedom of Expression Limits,1,inferred,Freedom of Expression Limits,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Defamation and Slander Basics,Defamation and Slander Basics,1,inferred,Defamation and Slander Basics,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Invasion of Privacy Protections,Invasion of Privacy Protections,1,inferred,Invasion of Privacy Protections,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Libel and Slander Differences,Libel and Slander Differences,1,inferred,Libel and Slander Differences,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Censorship in Media Contexts,Censorship in Media Contexts,1,inferred,Censorship in Media Contexts,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Reporter's Privilege Laws Overview,Reporter's Privilege Laws Overview,1,inferred,Reporter's Privilege Laws Overview,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Shield Laws and Their Implications,Shield Laws and Their Implications,1,inferred,Shield Laws and Their Implications,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Prior Restraint Case Studies,Prior Restraint Case Studies,1,inferred,Prior Restraint Case Studies,LEGL_4101_concepts_raw.json
+LEGL_4101,concept,Privacy Rights in Journalism,Privacy Rights in Journalism,1,inferred,Privacy Rights in Journalism,LEGL_4101_concepts_raw.json

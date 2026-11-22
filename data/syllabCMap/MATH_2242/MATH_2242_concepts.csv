@@ -1,0 +1,32 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_2242,topic,Limits Introduction,Limits Introduction,1,inferred,Limits Introduction,MATH_2242_concepts_raw.json
+MATH_2242,topic,Differentiation Rules,Differentiation Rules,1,inferred,Differentiation Rules,MATH_2242_concepts_raw.json
+MATH_2242,topic,Applications of Derivatives,Applications of Derivatives,1,inferred,Applications of Derivatives,MATH_2242_concepts_raw.json
+MATH_2242,topic,Integrals and Accumulation,Integrals and Accumulation,1,inferred,Integrals and Accumulation,MATH_2242_concepts_raw.json
+MATH_2242,topic,Integration Techniques,Integration Techniques,1,inferred,Integration Techniques,MATH_2242_concepts_raw.json
+MATH_2242,topic,Improper Integrals and Series,Improper Integrals and Series,1,inferred,Improper Integrals and Series,MATH_2242_concepts_raw.json
+MATH_2242,topic,Multivariable Calculus,Multivariable Calculus,1,inferred,Multivariable Calculus,MATH_2242_concepts_raw.json
+MATH_2242,topic,Vector Calculus Review,Vector Calculus Review,1,inferred,Vector Calculus Review,MATH_2242_concepts_raw.json
+MATH_2242,concept,Limit Definition,Limit Definition,1,inferred,Limit Definition,MATH_2242_concepts_raw.json
+MATH_2242,concept,Notation and Rules,Notation and Rules,1,inferred,Notation and Rules,MATH_2242_concepts_raw.json
+MATH_2242,concept,Power Rule Application,Power Rule Application,1,inferred,Power Rule Application,MATH_2242_concepts_raw.json
+MATH_2242,concept,Product Rule Statement,Product Rule Statement,1,inferred,Product Rule Statement,MATH_2242_concepts_raw.json
+MATH_2242,concept,Quotient Rule Formula,Quotient Rule Formula,1,inferred,Quotient Rule Formula,MATH_2242_concepts_raw.json
+MATH_2242,concept,Optimization Problems,Optimization Problems,1,inferred,Optimization Problems,MATH_2242_concepts_raw.json
+MATH_2242,concept,Related Rates Concept,Related Rates Concept,1,inferred,Related Rates Concept,MATH_2242_concepts_raw.json
+MATH_2242,concept,Motion Along a Line,Motion Along a Line,1,inferred,Motion Along a Line,MATH_2242_concepts_raw.json
+MATH_2242,concept,Definite Integral Notation,Definite Integral Notation,1,inferred,Definite Integral Notation,MATH_2242_concepts_raw.json
+MATH_2242,concept,Accumulation of Change,Accumulation of Change,1,inferred,Accumulation of Change,MATH_2242_concepts_raw.json
+MATH_2242,concept,Net Change Theorem,Net Change Theorem,1,inferred,Net Change Theorem,MATH_2242_concepts_raw.json
+MATH_2242,concept,Substitution Method Used,Substitution Method Used,1,inferred,Substitution Method Used,MATH_2242_concepts_raw.json
+MATH_2242,concept,Integration by Parts Formula,Integration by Parts Formula,1,inferred,Integration by Parts Formula,MATH_2242_concepts_raw.json
+MATH_2242,concept,Trigonometric Integrals,Trigonometric Integrals,1,inferred,Trigonometric Integrals,MATH_2242_concepts_raw.json
+MATH_2242,concept,Improper Integral Definition,Improper Integral Definition,1,inferred,Improper Integral Definition,MATH_2242_concepts_raw.json
+MATH_2242,concept,Series Convergence Tests,Series Convergence Tests,1,inferred,Series Convergence Tests,MATH_2242_concepts_raw.json
+MATH_2242,concept,Power Series Expansion,Power Series Expansion,1,inferred,Power Series Expansion,MATH_2242_concepts_raw.json
+MATH_2242,concept,Partial Derivatives Notation,Partial Derivatives Notation,1,inferred,Partial Derivatives Notation,MATH_2242_concepts_raw.json
+MATH_2242,concept,Gradient Vector Concept,Gradient Vector Concept,1,inferred,Gradient Vector Concept,MATH_2242_concepts_raw.json
+MATH_2242,concept,Double and Triple Integrals,Double and Triple Integrals,1,inferred,Double and Triple Integrals,MATH_2242_concepts_raw.json
+MATH_2242,concept,Vector Fields and Operations,Vector Fields and Operations,1,inferred,Vector Fields and Operations,MATH_2242_concepts_raw.json
+MATH_2242,concept,Divergence Theorem Statement,Divergence Theorem Statement,1,inferred,Divergence Theorem Statement,MATH_2242_concepts_raw.json
+MATH_2242,concept,Stokes' Theorem Application,Stokes' Theorem Application,1,inferred,Stokes' Theorem Application,MATH_2242_concepts_raw.json

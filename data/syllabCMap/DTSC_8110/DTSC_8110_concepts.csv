@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DTSC_8110,topic,Probability Theory,probability theory,2,verified,Probability Theory,DTSC_8110_concepts_raw.json
+DTSC_8110,topic,Random Variables,random variables,2,verified,Random Variables,DTSC_8110_concepts_raw.json
+DTSC_8110,topic,Probability Distributions,probability distributions,2,verified,Probability Distributions,DTSC_8110_concepts_raw.json
+DTSC_8110,topic,Random Samples and Statistical Models,random samples and statistical models,2,verified,Random Samples and Statistical Models,DTSC_8110_concepts_raw.json
+DTSC_8110,topic,Point Estimation,point estimation,2,verified,Point Estimation,DTSC_8110_concepts_raw.json
+DTSC_8110,topic,Interval Estimation,interval estimation,2,verified,Interval Estimation,DTSC_8110_concepts_raw.json
+DTSC_8110,topic,Hypothesis Testing,hypothesis testing,2,verified,Hypothesis Testing,DTSC_8110_concepts_raw.json
+DTSC_8110,topic,Variance Analysis,variance analysis,2,verified,Variance Analysis,DTSC_8110_concepts_raw.json
+DTSC_8110,topic,Regression Models,regression models,2,verified,Regression Models,DTSC_8110_concepts_raw.json
+DTSC_8110,topic,Statistics in Machine Learning,statistics in machine learning,2,verified,Statistics in Machine Learning,DTSC_8110_concepts_raw.json

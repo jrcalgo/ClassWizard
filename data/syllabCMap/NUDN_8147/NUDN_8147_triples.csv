@@ -1,0 +1,51 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUDN_8147,Descriptive Statistics,topic,PREREQUISITE_OF,Differences Between Two Groups,topic,A taught first,,NUDN_8147_triples_raw.json
+NUDN_8147,Descriptive Statistics,topic,PREREQUISITE_OF,Basis of Statistical Testing,topic,A taught first,,NUDN_8147_triples_raw.json
+NUDN_8147,Descriptive Statistics,topic,PREREQUISITE_OF,Data Screening and Cleaning,topic,A taught first,,NUDN_8147_triples_raw.json
+NUDN_8147,Null Hypothesis,concept,PREREQUISITE_OF,Alternative Hypothesis,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Null Hypothesis,concept,PREREQUISITE_OF,P-Value Calculation,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Null Hypothesis,concept,PREREQUISITE_OF,Test Statistic Formula,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Differences Between Two Groups,topic,PREREQUISITE_OF,Differences Between Three or More Conditions,topic,A taught first,,NUDN_8147_triples_raw.json
+NUDN_8147,Descriptive Statistics,topic,PREREQUISITE_OF,Analysis of Variance,concept,A taught first,,NUDN_8147_triples_raw.json
+NUDN_8147,Descriptive Statistics,topic,PREREQUISITE_OF,Kruskal-Wallis Test,concept,A taught first,,NUDN_8147_triples_raw.json
+NUDN_8147,Descriptive Statistics,topic,PREREQUISITE_OF,Dunn's Multiple Comparison,concept,A taught first,,NUDN_8147_triples_raw.json
+NUDN_8147,Descriptive Statistics,topic,PREREQUISITE_OF,Tukey's HSD Test,concept,A taught first,,NUDN_8147_triples_raw.json
+NUDN_8147,Chi-Square Test,concept,PREREQUISITE_OF,Contingency Tables,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Categorical Variables,concept,PREREQUISITE_OF,Association Measures,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Categorical Variables,concept,PREREQUISITE_OF,Odds Ratio Calculation,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Logistic Regression,concept,PREREQUISITE_OF,Survival Analysis,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Linear Regression Model,concept,PREREQUISITE_OF,Ordinary Least Squares,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Linear Regression Model,concept,PREREQUISITE_OF,Coefficient of Determination,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Linear Regression Model,concept,PREREQUISITE_OF,Residual Analysis,method,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Multiple Regression Model,concept,PREREQUISITE_OF,Independent Variables Selection,concept,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Multiple Regression Model,concept,PREREQUISITE_OF,Interaction Terms Analysis,method,same unit,,NUDN_8147_triples_raw.json
+NUDN_8147,Descriptive Statistics,topic,PART_OF,Differences Between Two Groups,topic,,,NUDN_8147_triples_raw.json
+NUDN_8147,Descriptive Statistics,topic,PART_OF,Basis of Statistical Testing,topic,,,NUDN_8147_triples_raw.json
+NUDN_8147,Null Hypothesis,concept,PART_OF,Alternative Hypothesis,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Null Hypothesis,concept,PART_OF,P-Value Calculation,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Null Hypothesis,concept,PART_OF,Test Statistic Formula,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Differences Between Two Groups,topic,PART_OF,Differences Between Three or More Conditions,topic,,,NUDN_8147_triples_raw.json
+NUDN_8147,Analysis of Variance,concept,PART_OF,Kruskal-Wallis Test,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Descriptive Statistics,topic,PART_OF,Tukey's HSD Test,concept,,part is broader than whole - check direction,NUDN_8147_triples_raw.json
+NUDN_8147,Chi-Square Test,concept,PART_OF,Contingency Tables,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Categorical Variables,concept,PART_OF,Association Measures,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Logistic Regression,concept,PART_OF,Survival Analysis,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Linear Regression Model,concept,PART_OF,Ordinary Least Squares,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Multiple Regression Model,concept,PART_OF,Independent Variables Selection,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Two-sample t-test,concept,SUBTYPE_OF,Differences Between Two Groups,topic,,,NUDN_8147_triples_raw.json
+NUDN_8147,Kruskal-Wallis Test,concept,SUBTYPE_OF,Differences Between Three or More Conditions,topic,,,NUDN_8147_triples_raw.json
+NUDN_8147,Tukey's HSD Test,concept,SUBTYPE_OF,Multiple Comparison Tests,method,,,NUDN_8147_triples_raw.json
+NUDN_8147,Chi-Square Test,concept,SUBTYPE_OF,Contingency Tables,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Logistic Regression,concept,SUBTYPE_OF,Survival Analysis,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Ordinary Least Squares,concept,SUBTYPE_OF,Linear Regression Model,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Residual Analysis,method,SUBTYPE_OF,Linear Regression Model,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,SPSS,tool,USED_FOR,Descriptive Statistics,topic,,,NUDN_8147_triples_raw.json
+NUDN_8147,SPSS,tool,USED_FOR,Basis of Statistical Testing,topic,,,NUDN_8147_triples_raw.json
+NUDN_8147,SPSS,tool,USED_FOR,Data Screening and Cleaning,topic,,,NUDN_8147_triples_raw.json
+NUDN_8147,P-Value interpretation,method,USED_FOR,Null Hypothesis,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Test Statistic Formula,concept,USED_FOR,Null Hypothesis,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Two-sample t-test,concept,USED_FOR,Differences Between Two Groups,topic,,,NUDN_8147_triples_raw.json
+NUDN_8147,Dunn's Multiple Comparison,concept,USED_FOR,Multiple Comparison Tests,method,,,NUDN_8147_triples_raw.json
+NUDN_8147,Tukey's HSD Test,concept,USED_FOR,Multiple Comparison Tests,method,,,NUDN_8147_triples_raw.json
+NUDN_8147,Ordinary Least Squares,concept,USED_FOR,Linear Regression Model,concept,,,NUDN_8147_triples_raw.json
+NUDN_8147,Residual Analysis,method,USED_FOR,Linear Regression Model,concept,,,NUDN_8147_triples_raw.json

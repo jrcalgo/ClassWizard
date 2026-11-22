@@ -122,7 +122,7 @@ services:
       AUDIT_TTL_SECONDS: ${AUDIT_TTL_SECONDS:-600}
       # 1 lets /explain use a hosted EXPLAIN_MODEL (e.g. OpenRouter); off by default
       EXPLAIN_ALLOW_REMOTE: ${EXPLAIN_ALLOW_REMOTE:-0}
-      # spark_jobs: Parquet lake path and Spark driver memory
+      # ai.recommendations.spark_jobs: Parquet lake path and Spark driver memory
       LAKE_DIR: /data/lake
       SPARK_DRIVER_MEMORY: ${SPARK_DRIVER_MEMORY:-2g}
     extra_hosts:
@@ -130,7 +130,7 @@ services:
       - "host.docker.internal:host-gateway"
     ports:
       - "8000:8000"
-      # Spark UI while spark_jobs runs
+      # Spark UI while ai.recommendations.spark_jobs runs
       - "${SPARK_UI_PORT:-4041}:4040"
     volumes:
       # Drop graduate-catalog-YYYY-YYYY.zip next to the undergraduate zip to
@@ -140,7 +140,7 @@ services:
       - ./data/catalog_out:/data/out
       - ./data/uncc-courses/syllabi:/data/syllabi:ro
       - ./data/_datasets/uncc-courses/syllabi:/data/syllabus_records:ro
-      # Parquet tables written by spark_jobs
+      # Parquet tables written by ai.recommendations.spark_jobs
       - ./data/lake:/data/lake
       - ${CLAUDE_HOME:-${HOME}/.claude}:/opt/claude:ro
       - ${CODEX_HOME:-${HOME}/.codex}:/opt/codex
@@ -158,10 +158,12 @@ services:
       BACKEND_URL: http://backend:8000
       # explain = cited answers via /explain (local Ollama); chat = syllabus chat via /chat
       CHAT_MODE: ${CHAT_MODE:-explain}
+      SYLLAB_MAP_DIR: /data/syllabCMap
     ports:
       - "8501:8501"
     volumes:
       - ./frontend/src:/app
+      - ./data/syllabCMap:/data/syllabCMap:ro
 
 volumes:
   pgdata:

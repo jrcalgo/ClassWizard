@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_5161,topic,Stream Flow Elements,Stream flow elements,1,verified,Stream Flow Elements,CEGR_5161_concepts_raw.json
+CEGR_5161,topic,Traffic Engineering Measurements,traffic engineering measurements,1,verified,Traffic Engineering Measurements,CEGR_5161_concepts_raw.json
+CEGR_5161,topic,Capacity Analysis,capacity analysis,1,verified,Capacity Analysis,CEGR_5161_concepts_raw.json
+CEGR_5161,topic,Driver Characteristics,Driver Characteristics,1,inferred,Driver Characteristics,CEGR_5161_concepts_raw.json
+CEGR_5161,topic,Vehicle Characteristics,Vehicle Characteristics,1,inferred,Vehicle Characteristics,CEGR_5161_concepts_raw.json
+CEGR_5161,topic,Roadway Characteristics,Roadway Characteristics,1,inferred,Roadway Characteristics,CEGR_5161_concepts_raw.json
+CEGR_5161,topic,Intersections and Accidents,Intersections and Accidents,1,inferred,Intersections and Accidents,CEGR_5161_concepts_raw.json
+CEGR_5161,topic,Parking and Traffic Management,Parking and Traffic Management,1,inferred,Parking and Traffic Management,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,driver behavior patterns,Driver Behavior Patterns,1,inferred,driver behavior patterns,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,driver demographics analysis,Driver Demographics Analysis,1,inferred,driver demographics analysis,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,driver fatigue factors,Driver Fatigue Factors,1,inferred,driver fatigue factors,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,vehicle types and sizes,Vehicle Types and Sizes,1,inferred,vehicle types and sizes,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,vehicle emissions impact,Vehicle Emissions Impact,1,inferred,vehicle emissions impact,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,vehicle safety features,Vehicle Safety Features,1,inferred,vehicle safety features,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,road geometry design,Road Geometry Design,1,inferred,road geometry design,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,road surface conditions,Road Surface Conditions,1,inferred,road surface conditions,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,road capacity analysis,Road Capacity Analysis,1,inferred,road capacity analysis,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,volume and density calculations,Volume and Density Calculations,1,inferred,volume and density calculations,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,speed distribution analysis,Speed Distribution Analysis,1,inferred,speed distribution analysis,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,flow rate measurements,Flow Rate Measurements,1,inferred,flow rate measurements,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,data collection methods,Data Collection Methods,1,inferred,data collection methods,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,investigation techniques used,Investigation Techniques Used,1,inferred,investigation techniques used,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,data analysis tools applied,Data Analysis Tools Applied,1,inferred,data analysis tools applied,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,intersection capacity calculations,Intersection Capacity Calculations,1,inferred,intersection capacity calculations,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,roundabout design considerations,Roundabout Design Considerations,1,inferred,roundabout design considerations,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,traffic signal timing optimization,Traffic Signal Timing Optimization,1,inferred,traffic signal timing optimization,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,intersection types and designs,Intersection Types and Designs,1,inferred,intersection types and designs,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,accident causes and prevention,Accident Causes and Prevention,1,inferred,accident causes and prevention,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,safety countermeasures implemented,Safety Countermeasures Implemented,1,inferred,safety countermeasures implemented,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,parking demand and supply analysis,Parking Demand and Supply Analysis,1,inferred,parking demand and supply analysis,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,traffic management strategies used,Traffic Management Strategies Used,1,inferred,traffic management strategies used,CEGR_5161_concepts_raw.json
+CEGR_5161,concept,transportation system planning,Transportation System Planning,1,inferred,transportation system planning,CEGR_5161_concepts_raw.json

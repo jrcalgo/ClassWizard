@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_3222L,topic,General Botany Lab,General Botany Lab,1,verified,General Botany Lab,BIOL_3222L_concepts_raw.json
+BIOL_3222L,topic,Morphology,Morphology,1,verified,Morphology,BIOL_3222L_concepts_raw.json
+BIOL_3222L,topic,Physiology,physiology,1,verified,Physiology,BIOL_3222L_concepts_raw.json
+BIOL_3222L,topic,Reproduction,reproduction,1,verified,Reproduction,BIOL_3222L_concepts_raw.json
+BIOL_3222L,topic,Phylogeny,phylogeny,1,verified,Phylogeny,BIOL_3222L_concepts_raw.json
+BIOL_3222L,topic,Ecology of Plants,ecology of plants,1,verified,Ecology of Plants,BIOL_3222L_concepts_raw.json
+BIOL_3222L,method,scientific reasoning,scientific reasoning,1,verified,scientific reasoning,BIOL_3222L_concepts_raw.json
+BIOL_3222L,tool,microscopes,microscopes,1,verified,microscopes,BIOL_3222L_concepts_raw.json
+BIOL_3222L,tool,laboratory equipment,laboratory equipment,1,verified,laboratory equipment,BIOL_3222L_concepts_raw.json

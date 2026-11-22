@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_5356,topic,Machine Learning Models,Machine Learning Models,1,verified,Machine Learning Models,ITCS_5356_concepts_raw.json
+ITCS_5356,topic,Pattern Recognition and Machine Learning,Pattern Recognition and Machine Learning,1,verified,Pattern Recognition and Machine Learning,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,perceptron model,Perceptron Model,2,verified,perceptron model,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,k-nearest neighbors,k-nearest neighbors,1,verified,k-nearest neighbors,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,k-means algorithm,K-Means Algorithm,2,verified,k-means algorithm,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,linear regression,linear regression,5,verified,linear regression,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,gradient descent,gradient descent,5,verified,gradient descent,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,naive bayes classifier,Naive Bayes Classifier,1,verified,naive bayes classifier,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,logistic regression model,Logistic Regression Model,1,verified,logistic regression model,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,neural networks,neural networks,1,verified,neural networks,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,q-learning technique,Q-Learning Technique,1,verified,q-learning technique,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,perceptron algorithm,Perceptron Algorithm,1,verified,perceptron algorithm,ITCS_5356_concepts_raw.json
+ITCS_5356,concept,k-means clustering,K-Means Clustering,1,verified,k-means clustering,ITCS_5356_concepts_raw.json
+ITCS_5356,tool,Python,Python,1,verified,Python,ITCS_5356_concepts_raw.json

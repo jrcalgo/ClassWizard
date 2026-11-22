@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5191,topic,Analog and Digital Communication,Analog and Digital Communication,1,verified,Analog and Digital Communication,ECGR_5191_concepts_raw.json
+ECGR_5191,topic,Communication,communications,1,verified,Introduction to Communication,ECGR_5191_concepts_raw.json
+ECGR_5191,topic,Quadrature Amplitude Modulation,Quadrature amplitude modulation,1,verified,Quadrature Amplitude Modulation,ECGR_5191_concepts_raw.json
+ECGR_5191,topic,Sampling and Nyquist Rate,Sampling and Nyquist rate,1,verified,Sampling and Nyquist Rate,ECGR_5191_concepts_raw.json
+ECGR_5191,topic,Modern Digital Communication Methods,modern digital communication methods,1,verified,Modern Digital Communication Methods,ECGR_5191_concepts_raw.json
+ECGR_5191,concept,Power Spectral Density,Power spectral density,1,verified,Power Spectral Density,ECGR_5191_concepts_raw.json
+ECGR_5191,concept,Double-sideband suppressed carrier amplitude modulation (DSB-SC,Double-sideband suppressed carrier amplitude modulation (DSB-SC,1,verified,Double-sideband suppressed carrier amplitude modulation (DSB-SC),ECGR_5191_concepts_raw.json
+ECGR_5191,concept,Frequency modulation (FM,Frequency modulation (FM,1,verified,Frequency modulation (FM),ECGR_5191_concepts_raw.json
+ECGR_5191,concept,Phase modulation (PM,Phase modulation (PM,1,verified,Phase modulation (PM),ECGR_5191_concepts_raw.json
+ECGR_5191,concept,Quadrature amplitude modulation (QAM,Quadrature amplitude modulation (QAM,1,verified,Quadrature amplitude modulation (QAM),ECGR_5191_concepts_raw.json
+ECGR_5191,concept,Sampling Theorem,sampling theorem,1,verified,Sampling Theorem,ECGR_5191_concepts_raw.json
+ECGR_5191,concept,Characteristics of digital transmission,Characteristics of digital transmission,1,verified,Characteristics of digital transmission,ECGR_5191_concepts_raw.json
+ECGR_5191,concept,AM,AM,1,verified,"AM, FM, QAM transmitter analysis",ECGR_5191_concepts_raw.json
+ECGR_5191,concept,FM,FM,2,verified,"AM, FM, QAM transmitter analysis",ECGR_5191_concepts_raw.json
+ECGR_5191,tool,Computer-Aided Design (CAD) tools,Computer-Aided Design (CAD) tools,1,verified,Computer-Aided Design (CAD) tools,ECGR_5191_concepts_raw.json

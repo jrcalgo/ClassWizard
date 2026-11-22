@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+RSCH_8196,Research Design Principles,concept,PREREQUISITE_OF,Research Questions Development,concept,same unit,,RSCH_8196_triples_raw.json
+RSCH_8196,Systematic Literature Search,method,PREREQUISITE_OF,Theoretical Frameworks Application,method,same unit,,RSCH_8196_triples_raw.json
+RSCH_8196,Research Questions Development,concept,PART_OF,Research Design Principles,concept,,,RSCH_8196_triples_raw.json
+RSCH_8196,Methodological Paradigms,concept,PART_OF,Research Design Principles,concept,,,RSCH_8196_triples_raw.json
+RSCH_8196,Systematic Literature Search,method,PART_OF,Literature Review Strategies,topic,,,RSCH_8196_triples_raw.json
+RSCH_8196,Conceptual Model Development,method,PART_OF,Literature Review Strategies,topic,,,RSCH_8196_triples_raw.json
+RSCH_8196,Survey Design Techniques,method,PART_OF,Quantitative Research Methods,topic,,,RSCH_8196_triples_raw.json
+RSCH_8196,Sampling Strategies Comparison,method,PART_OF,Quantitative Research Methods,topic,,,RSCH_8196_triples_raw.json
+RSCH_8196,Thematic Coding Techniques,method,PART_OF,Qualitative Research Approaches,topic,,,RSCH_8196_triples_raw.json
+RSCH_8196,Data Integration Strategies,method,PART_OF,Mixed Methods Design,topic,,,RSCH_8196_triples_raw.json
+RSCH_8196,Triangulation Techniques,method,PART_OF,Mixed Methods Design,topic,,,RSCH_8196_triples_raw.json

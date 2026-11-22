@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTL_3187,Sequential Storytelling Techniques,concept,PREREQUISITE_OF,Visual Narrative Elements,concept,same unit,,ARTL_3187_triples_raw.json
+ARTL_3187,Sequential Storytelling Techniques,concept,PREREQUISITE_OF,Story Structure Basics,concept,same unit,,ARTL_3187_triples_raw.json
+ARTL_3187,Character Design Principles,concept,PREREQUISITE_OF,Emotional Connection in Illustration,concept,same unit,,ARTL_3187_triples_raw.json
+ARTL_3187,Character Design Principles,concept,PREREQUISITE_OF,Personality Expression through Art,concept,same unit,,ARTL_3187_triples_raw.json
+ARTL_3187,Atmospheric Perspective Techniques,concept,PREREQUISITE_OF,Environmental Storytelling,concept,same unit,,ARTL_3187_triples_raw.json
+ARTL_3187,Sequential Storytelling Techniques,concept,PART_OF,Narrative Illustration for Publishing Industry,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Visual Narrative Elements,concept,PART_OF,Narrative Illustration for Publishing Industry,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Story Structure Basics,concept,PART_OF,Narrative Illustration for Publishing Industry,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Character Design Principles,concept,PART_OF,Character Development,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Personality Expression through Art,concept,PART_OF,Character Development,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Environmental Storytelling,concept,PART_OF,Mood and Atmosphere,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Documenting and Labeling Artwork,concept,PART_OF,Digital Portfolio Development,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Technical Proficiency in Digital Tools,concept,PART_OF,Digital Portfolio Development,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Speaking about Art with Confidence,concept,PART_OF,Effective Communication,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Art-Related Topic Presentations,concept,PART_OF,Effective Communication,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Analyzing Formal and Conceptual Development,concept,PART_OF,Writing About Art,topic,,,ARTL_3187_triples_raw.json
+ARTL_3187,Effective Writing about Artwork,concept,PART_OF,Writing About Art,topic,,,ARTL_3187_triples_raw.json

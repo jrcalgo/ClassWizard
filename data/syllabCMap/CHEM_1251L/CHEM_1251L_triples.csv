@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_1251L,Personal Protective Equipment,concept,PART_OF,Lab Safety,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Chemical Handling Procedures,concept,PART_OF,Lab Safety,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Emergency Response Protocols,concept,PART_OF,Lab Safety,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Microscope Use and Care,concept,PART_OF,Laboratory Equipment,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Atomic Structure and Symbols,concept,PART_OF,Chemical Terminology,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Molecular Formula and Compounds,concept,PART_OF,Chemical Terminology,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Chemical Reactions and Equations,concept,PART_OF,Chemical Terminology,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Hypothesis Development and Testing,concept,PART_OF,Scientific Method,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Experimental Design and Planning,concept,PART_OF,Scientific Method,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Data Collection and Analysis,concept,PART_OF,Scientific Method,topic,,,CHEM_1251L_triples_raw.json
+CHEM_1251L,Measurement and Error Calculation,concept,PART_OF,Investigative Techniques,topic,,,CHEM_1251L_triples_raw.json

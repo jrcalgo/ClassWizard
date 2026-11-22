@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_8190,concept,smart grid,Smart Grid,11,verified,smart grid,ECGR_8190_concepts_raw.json
+ECGR_8190,topic,Characteristics and Design,Characteristics and Design,1,verified,Characteristics and Design,ECGR_8190_concepts_raw.json
+ECGR_8190,topic,Grid Modernization Aspects,grid modernization aspects,1,verified,Grid Modernization Aspects,ECGR_8190_concepts_raw.json
+ECGR_8190,topic,Important Metrics,Important metrics,1,verified,Important Metrics,ECGR_8190_concepts_raw.json
+ECGR_8190,topic,Key Technology Areas,Key technology areas,2,verified,Key Technology Areas,ECGR_8190_concepts_raw.json
+ECGR_8190,topic,Future State,Future state,2,verified,Future State,ECGR_8190_concepts_raw.json
+ECGR_8190,topic,Challenges,Challenges,1,verified,Challenges,ECGR_8190_concepts_raw.json
+ECGR_8190,topic,Main Implementation Areas,Main implementation areas,1,verified,Main Implementation Areas,ECGR_8190_concepts_raw.json
+ECGR_8190,topic,Modeling Modern Power Grid,Modeling modern power grid,1,verified,Modeling Modern Power Grid,ECGR_8190_concepts_raw.json
+ECGR_8190,concept,distributed energy resources,distributed energy resources,1,verified,distributed energy resources,ECGR_8190_concepts_raw.json
+ECGR_8190,concept,sensors,sensors,1,verified,sensors,ECGR_8190_concepts_raw.json
+ECGR_8190,topic,Control of Smart Power Grid,control of smart power grid,1,verified,Analyzing Operation and Control of Smart Power Grid,ECGR_8190_concepts_raw.json
+ECGR_8190,concept,advanced control methods,advanced control methods,1,verified,advanced control methods,ECGR_8190_concepts_raw.json
+ECGR_8190,concept,reliability,reliability,2,verified,reliability,ECGR_8190_concepts_raw.json
+ECGR_8190,concept,resiliency,resiliency,2,verified,resiliency,ECGR_8190_concepts_raw.json

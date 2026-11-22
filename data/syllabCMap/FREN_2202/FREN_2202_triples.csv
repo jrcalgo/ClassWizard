@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FREN_2202,Verb conjugation rules,concept,PREREQUISITE_OF,Tense usage and forms,concept,same unit,,FREN_2202_triples_raw.json
+FREN_2202,Verb conjugation rules,concept,PREREQUISITE_OF,Mood and aspect review,concept,same unit,,FREN_2202_triples_raw.json
+FREN_2202,Vocabulary building strategies,concept,PREREQUISITE_OF,Author's purpose analysis,concept,same unit,,FREN_2202_triples_raw.json
+FREN_2202,Verb conjugation rules,concept,PART_OF,French Grammar Review,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Tense usage and forms,concept,PART_OF,French Grammar Review,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Mood and aspect review,concept,PART_OF,French Grammar Review,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Vocabulary building strategies,concept,PART_OF,Reading Comprehension,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Author's purpose analysis,concept,PART_OF,Reading Comprehension,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Accents and diacritical marks,concept,PART_OF,French Pronunciation,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Intonation patterns review,concept,PART_OF,French Pronunciation,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Pronunciation of vowels and consonants,concept,PART_OF,French Pronunciation,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Essay writing structure,concept,PART_OF,Writing in French,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Descriptive paragraph techniques,concept,PART_OF,Writing in French,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Formal and informal tone usage,concept,PART_OF,Writing in French,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Cultural norms and customs,concept,PART_OF,French Culture and Society,topic,,,FREN_2202_triples_raw.json
+FREN_2202,Verb conjugation rules,concept,USED_FOR,Tense usage and forms,concept,,,FREN_2202_triples_raw.json
+FREN_2202,Verb conjugation rules,concept,USED_FOR,Mood and aspect review,concept,,,FREN_2202_triples_raw.json

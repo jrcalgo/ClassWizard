@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHYS_6141,topic,Applied Quantum Mechanics,Applied Quantum Mechanics,2,verified,Applied Quantum Mechanics,PHYS_6141_concepts_raw.json
+PHYS_6141,topic,Quantum Theory I,Quantum Theory I,1,verified,Quantum Theory I,PHYS_6141_concepts_raw.json
+PHYS_6141,topic,Selected Topics in Optics,Selected Topics in Optics,1,verified,Selected Topics in Optics,PHYS_6141_concepts_raw.json
+PHYS_6141,topic,Linear Harmonic Oscillator,linear harmonic oscillator,1,verified,Linear Harmonic Oscillator,PHYS_6141_concepts_raw.json
+PHYS_6141,topic,WKB Approximation,WKB approximation,1,verified,WKB Approximation,PHYS_6141_concepts_raw.json
+PHYS_6141,topic,Central Forces and Angular Momentum,Central forces and angular momentum,1,verified,Central Forces and Angular Momentum,PHYS_6141_concepts_raw.json
+PHYS_6141,topic,Hydrogen Atom,hydrogen atom,1,verified,Hydrogen Atom,PHYS_6141_concepts_raw.json
+PHYS_6141,topic,Perturbation Theory,perturbation theories,1,verified,Perturbation Theory,PHYS_6141_concepts_raw.json
+PHYS_6141,concept,uncertainty principle,uncertainty principle,1,verified,uncertainty principle,PHYS_6141_concepts_raw.json
+PHYS_6141,concept,wave-particle duality,wave- particle duality,1,verified,wave-particle duality,PHYS_6141_concepts_raw.json
+PHYS_6141,concept,Schrödinger Equation,Schrodinger equation,1,verified,Schrödinger Equation,PHYS_6141_concepts_raw.json
+PHYS_6141,concept,photon,photon,1,verified,"photon, electronic excitation and phonon in solids",PHYS_6141_concepts_raw.json
+PHYS_6141,concept,electronic excitation,electronic excitation,1,verified,"photon, electronic excitation and phonon in solids",PHYS_6141_concepts_raw.json
+PHYS_6141,concept,phonon in solids,phonon in solids,1,verified,"photon, electronic excitation and phonon in solids",PHYS_6141_concepts_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_4090,data collection methods and tools,concept,PREREQUISITE_OF,acquiring spatial data,method,same unit,,CEGR_4090_triples_raw.json
+CEGR_4090,data quality and validation,concept,PREREQUISITE_OF,acquiring spatial data,method,same unit,,CEGR_4090_triples_raw.json
+CEGR_4090,spatial database management,concept,PREREQUISITE_OF,organizing and documenting data,method,same unit,,CEGR_4090_triples_raw.json
+CEGR_4090,line,concept,PREREQUISITE_OF,polygon operations,concept,same unit,,CEGR_4090_triples_raw.json
+CEGR_4090,creating maps,method,USED_FOR,ArcGIS Pro,tool,,,CEGR_4090_triples_raw.json

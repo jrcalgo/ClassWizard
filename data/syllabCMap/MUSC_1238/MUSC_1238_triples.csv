@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1238,Holding the guitar correctly,concept,PREREQUISITE_OF,Tuning the guitar,concept,same unit,,MUSC_1238_triples_raw.json
+MUSC_1238,Finger placement for chords,concept,PREREQUISITE_OF,Simple chord progressions for beginners,concept,A taught first,,MUSC_1238_triples_raw.json
+MUSC_1238,Tuning the guitar,concept,PART_OF,Left and right hand techniques for guitar,topic,,,MUSC_1238_triples_raw.json
+MUSC_1238,Finger placement on fretboard,concept,PART_OF,Left and right hand techniques for guitar,topic,,,MUSC_1238_triples_raw.json
+MUSC_1238,Barre chords basics,concept,PART_OF,Left and right hand techniques for guitar,topic,,,MUSC_1238_triples_raw.json
+MUSC_1238,Picking and strumming patterns,concept,PART_OF,Left and right hand techniques for guitar,topic,,,MUSC_1238_triples_raw.json
+MUSC_1238,Basic fingerpicking techniques,concept,PART_OF,Left and right hand techniques for guitar,topic,,,MUSC_1238_triples_raw.json
+MUSC_1238,Finger placement for chords,concept,PART_OF,Guitar repertoire and history,topic,,,MUSC_1238_triples_raw.json
+MUSC_1238,Simple chord progressions for beginners,concept,PART_OF,Guitar repertoire and history,topic,,,MUSC_1238_triples_raw.json
+MUSC_1238,Basic strumming patterns and rhythms,concept,PART_OF,Guitar repertoire and history,topic,,,MUSC_1238_triples_raw.json
+MUSC_1238,famous composers,concept,PART_OF,Guitar repertoire and history,topic,,,MUSC_1238_triples_raw.json

@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_5303,stability,concept,PART_OF,Structural Systems,topic,,,ARCH_5303_triples_raw.json
+ARCH_5303,stress,concept,PART_OF,Structural Systems,topic,,,ARCH_5303_triples_raw.json
+ARCH_5303,implications of tension,concept,PART_OF,Structural Systems,topic,,,ARCH_5303_triples_raw.json
+ARCH_5303,compression,concept,PART_OF,Structural Systems,topic,,,ARCH_5303_triples_raw.json
+ARCH_5303,shear,concept,PART_OF,Structural Systems,topic,,,ARCH_5303_triples_raw.json
+ARCH_5303,torsion,concept,PART_OF,Structural Systems,topic,,,ARCH_5303_triples_raw.json
+ARCH_5303,bending,concept,PART_OF,Structural Systems,topic,,,ARCH_5303_triples_raw.json

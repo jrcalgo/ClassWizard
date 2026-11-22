@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4221,authorized HTB work,concept,PART_OF,ethical security assessments,topic,,,ITIS_4221_triples_raw.json
+ITIS_4221,authorized HTB work,concept,PART_OF,logging and monitoring,topic,,,ITIS_4221_triples_raw.json
+ITIS_4221,authorized HTB work,concept,PART_OF,defense in depth,topic,,,ITIS_4221_triples_raw.json
+ITIS_4221,authorized HTB work,concept,PART_OF,secure programming practices,topic,,,ITIS_4221_triples_raw.json
+ITIS_4221,authorized HTB work,concept,PART_OF,static code analysis,method,,part is broader than whole - check direction,ITIS_4221_triples_raw.json
+ITIS_4221,authorized HTB work,concept,PART_OF,penetration testing,method,,part is broader than whole - check direction,ITIS_4221_triples_raw.json
+ITIS_4221,static code analysis,method,USED_FOR,remediation and validation,topic,,,ITIS_4221_triples_raw.json
+ITIS_4221,static code analysis,method,USED_FOR,dynamic application security testing,method,,,ITIS_4221_triples_raw.json
+ITIS_4221,static code analysis,method,USED_FOR,penetration testing,method,,,ITIS_4221_triples_raw.json
+ITIS_4221,reproducible evidence,method,USED_FOR,remediation and validation,topic,,,ITIS_4221_triples_raw.json
+ITIS_4221,reproducible evidence,method,USED_FOR,defense in depth,topic,,,ITIS_4221_triples_raw.json
+ITIS_4221,reproducible evidence,method,USED_FOR,secure programming practices,topic,,,ITIS_4221_triples_raw.json
+ITIS_4221,reproducible evidence,method,USED_FOR,dynamic application security testing,method,,,ITIS_4221_triples_raw.json
+ITIS_4221,reproducible evidence,method,USED_FOR,penetration testing,method,,,ITIS_4221_triples_raw.json

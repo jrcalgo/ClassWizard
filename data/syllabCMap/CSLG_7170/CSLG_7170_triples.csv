@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_7170,Community/Agency Settings,topic,PREREQUISITE_OF,Clinical Mental Health Counseling,topic,B mentioned first,,CSLG_7170_triples_raw.json
+CSLG_7170,cultural competence in counseling,concept,PREREQUISITE_OF,social justice in mental health,concept,same unit,,CSLG_7170_triples_raw.json
+CSLG_7170,needs assessment and service delivery planning,concept,PREREQUISITE_OF,training standards for counselors,concept,B taught first,B is taught before A - check,CSLG_7170_triples_raw.json
+CSLG_7170,professional identity development,concept,PREREQUISITE_OF,credentialing process for counselors,concept,A taught first,,CSLG_7170_triples_raw.json
+CSLG_7170,codes of ethics in community settings,concept,PREREQUISITE_OF,counseling needs of special populations,concept,B taught first,B is taught before A - check,CSLG_7170_triples_raw.json
+CSLG_7170,organizational structures in community settings,concept,PREREQUISITE_OF,public relations strategies for community counseling,concept,A taught first,,CSLG_7170_triples_raw.json
+CSLG_7170,marketing community counseling services,concept,PREREQUISITE_OF,community counseling history,concept,B taught first,B is taught before A - check,CSLG_7170_triples_raw.json
+CSLG_7170,counseling interventions for community clients,concept,PREREQUISITE_OF,diverse client characteristics in community settings,concept,A taught first,,CSLG_7170_triples_raw.json
+CSLG_7170,community resources and referral services,concept,PREREQUISITE_OF,promoting client and community understanding,concept,A taught first,,CSLG_7170_triples_raw.json
+CSLG_7170,strategies for counseling and consulting in communities,concept,PREREQUISITE_OF,advocacy on behalf of community clients,concept,same unit,,CSLG_7170_triples_raw.json
+CSLG_7170,community counseling history,concept,PART_OF,Clinical Mental Health Counseling,topic,,,CSLG_7170_triples_raw.json
+CSLG_7170,cultural competence in counseling,concept,PART_OF,social justice in mental health,concept,,,CSLG_7170_triples_raw.json
+CSLG_7170,credentialing process for counselors,concept,PART_OF,professional identity development,concept,,,CSLG_7170_triples_raw.json
+CSLG_7170,public relations strategies for community counseling,concept,PART_OF,organizational structures in community settings,concept,,,CSLG_7170_triples_raw.json
+CSLG_7170,marketing community counseling services,concept,PART_OF,community counseling history,concept,,,CSLG_7170_triples_raw.json
+CSLG_7170,mental health movement overview,concept,PART_OF,consultation and evaluation strategies,concept,,,CSLG_7170_triples_raw.json
+CSLG_7170,counseling interventions for community clients,concept,PART_OF,diverse client characteristics in community settings,concept,,,CSLG_7170_triples_raw.json
+CSLG_7170,community resources and referral services,concept,PART_OF,promoting client and community understanding,concept,,,CSLG_7170_triples_raw.json
+CSLG_7170,strategies for counseling and consulting in communities,concept,PART_OF,advocacy on behalf of community clients,concept,,,CSLG_7170_triples_raw.json

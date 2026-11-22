@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_6251,Historical Awareness Basics,concept,PREREQUISITE_OF,Interpretation of Historical Topics,concept,A taught first,,LTAM_6251_triples_raw.json
+LTAM_6251,Secondary Source Evaluation,concept,PREREQUISITE_OF,Contextualizing Research within Debates,concept,A taught first,,LTAM_6251_triples_raw.json
+LTAM_6251,Argument Construction Techniques,concept,PREREQUISITE_OF,Evidence-Based Argumentation,concept,same unit,,LTAM_6251_triples_raw.json
+LTAM_6251,Historical Awareness Basics,concept,PART_OF,Colonial Latin American History,concept,,,LTAM_6251_triples_raw.json
+LTAM_6251,Primary Source Identification,concept,PART_OF,Documentary Sources,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Secondary Source Evaluation,concept,PART_OF,Documentary Sources,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Critical Thinking Skills,concept,PART_OF,Research Methods,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Interpretation of Historical Topics,concept,PART_OF,Historiographical Debates and Theories,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Shifts in Historiographical Perspectives,concept,PART_OF,Historiographical Debates and Theories,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Argument Construction Techniques,concept,PART_OF,Constructing Sound Arguments,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Evidence-Based Argumentation,concept,PART_OF,Constructing Sound Arguments,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Persuasive Writing Strategies,concept,PART_OF,Constructing Sound Arguments,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Grammar and Style Guidelines,concept,PART_OF,Scholarly Writing and Citation,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Receiving Peer Feedback Effectively,concept,PART_OF,Peer Review and Feedback,topic,,,LTAM_6251_triples_raw.json
+LTAM_6251,Classroom Discussion Etiquette,concept,PART_OF,Peer Review and Feedback,topic,,,LTAM_6251_triples_raw.json

@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3115,ethical considerations in care,concept,PART_OF,Patient-Provider Dynamics,topic,,,COMM_3115_triples_raw.json
+COMM_3115,health beliefs across cultures,concept,PART_OF,Cultural Influences on Health,topic,,,COMM_3115_triples_raw.json
+COMM_3115,leadership styles in healthcare,concept,PART_OF,Healthcare Organizational Structure,topic,,,COMM_3115_triples_raw.json
+COMM_3115,public relations strategies,concept,PART_OF,Healthcare Organizational Structure,topic,,,COMM_3115_triples_raw.json
+COMM_3115,crisis management planning,concept,PART_OF,Healthcare Organizational Structure,topic,,,COMM_3115_triples_raw.json
+COMM_3115,impact of media on public perception,concept,PART_OF,Health Communication Technologies,topic,,,COMM_3115_triples_raw.json
+COMM_3115,access to care and technology,concept,PART_OF,Health Communication Technologies,topic,,,COMM_3115_triples_raw.json
+COMM_3115,e-health and telemedicine,concept,PART_OF,Health Communication Technologies,topic,,,COMM_3115_triples_raw.json
+COMM_3115,planning frameworks for success,concept,PART_OF,Designing Health Promotion Campaigns,topic,,,COMM_3115_triples_raw.json
+COMM_3115,assessing campaign effectiveness,concept,PART_OF,Designing Health Promotion Campaigns,topic,,,COMM_3115_triples_raw.json
+COMM_3115,target audience analysis,concept,PART_OF,Designing Health Promotion Campaigns,topic,,,COMM_3115_triples_raw.json
+COMM_3115,healthcare policy and reform,concept,PART_OF,Current Policy and Ethics in Healthcare,topic,,,COMM_3115_triples_raw.json
+COMM_3115,ethics in healthcare decision-making,concept,PART_OF,Current Policy and Ethics in Healthcare,topic,,,COMM_3115_triples_raw.json
+COMM_3115,crisis communication strategies,concept,PART_OF,Current Policy and Ethics in Healthcare,topic,,,COMM_3115_triples_raw.json

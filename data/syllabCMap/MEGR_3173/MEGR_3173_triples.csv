@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3173,Mechatronic systems,topic,PREREQUISITE_OF,Advanced circuit analysis,concept,A mentioned first,,MEGR_3173_triples_raw.json
+MEGR_3173,Mechatronic systems,topic,PREREQUISITE_OF,Control,concept,B mentioned first,,MEGR_3173_triples_raw.json
+MEGR_3173,Mechatronic systems,topic,PREREQUISITE_OF,Communication,concept,A mentioned first,,MEGR_3173_triples_raw.json
+MEGR_3173,Mechatronic systems,topic,PREREQUISITE_OF,Programming,concept,B mentioned first,,MEGR_3173_triples_raw.json
+MEGR_3173,System dynamics,concept,PREREQUISITE_OF,Error analysis,concept,A mentioned first,,MEGR_3173_triples_raw.json
+MEGR_3173,Translate circuit diagrams to a breadboard prototype,method,USED_FOR,Signal conditioning,concept,,,MEGR_3173_triples_raw.json

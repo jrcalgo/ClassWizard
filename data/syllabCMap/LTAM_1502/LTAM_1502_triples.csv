@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,Colonialism Impact,concept,same unit,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,Nationalism Rise,concept,A taught first,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,Independence Movements,concept,A taught first,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,Spanish Colonization,concept,A taught first,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,Portuguese Empire,concept,A taught first,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,African Diaspora,concept,A taught first,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,Creole Culture,concept,A taught first,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,Imperialism Effects,concept,A taught first,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,Spanish Conquest Effects,concept,same unit,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,Indigenous Peoples Role,concept,same unit,,LTAM_1502_triples_raw.json
+LTAM_1502,Latin American History,concept,PREREQUISITE_OF,African Slave Trade,concept,same unit,,LTAM_1502_triples_raw.json
+LTAM_1502,Colonialism Impact,concept,PREREQUISITE_OF,Independence Movements,concept,A taught first,,LTAM_1502_triples_raw.json
+LTAM_1502,Colonialism Impact,concept,PREREQUISITE_OF,Imperialism Effects,concept,A taught first,,LTAM_1502_triples_raw.json
+LTAM_1502,Spanish Colonization,concept,PREREQUISITE_OF,Creole Culture,concept,same unit,,LTAM_1502_triples_raw.json
+LTAM_1502,Portuguese Empire,concept,PREREQUISITE_OF,African Diaspora,concept,same unit,,LTAM_1502_triples_raw.json
+LTAM_1502,African Slave Trade,concept,PREREQUISITE_OF,Indigenous Peoples Role,concept,same unit,,LTAM_1502_triples_raw.json
+LTAM_1502,Spanish Conquest Effects,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json
+LTAM_1502,Colonialism Impact,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json
+LTAM_1502,Independence Movements,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json
+LTAM_1502,Spanish Colonization,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json
+LTAM_1502,Portuguese Empire,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json
+LTAM_1502,African Diaspora,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json
+LTAM_1502,Creole Culture,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json
+LTAM_1502,Indigenous Peoples Role,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json
+LTAM_1502,African Slave Trade,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json
+LTAM_1502,Creole Identity Formation,concept,PART_OF,Latin American History,concept,,,LTAM_1502_triples_raw.json

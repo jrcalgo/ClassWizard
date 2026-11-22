@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_6113,topic,derivation of the least-squares estimator,derivation of the least-squares estimator,3,verified,derivation of the least-squares estimator,STAT_6113_concepts_raw.json
+STAT_6113,method,maximum likelihood estimation,maximum likelihood estimation,7,verified,maximum likelihood estimation,STAT_6113_concepts_raw.json
+STAT_6113,method,instrumental variables regression,instrumental variables regression,6,verified,instrumental variables regression,STAT_6113_concepts_raw.json
+STAT_6113,topic,multicollinearity,multicollinearity,8,verified,multicollinearity,STAT_6113_concepts_raw.json
+STAT_6113,topic,heteroscedasticity,heteroscedasticity,7,verified,heteroscedasticity,STAT_6113_concepts_raw.json
+STAT_6113,topic,autocorrelation,autocorrelation,7,verified,autocorrelation,STAT_6113_concepts_raw.json
+STAT_6113,topic,time-series estimation,time-series estimation,3,verified,time-series estimation,STAT_6113_concepts_raw.json
+STAT_6113,method,ARIMA models,ARIMA models,6,verified,ARIMA models,STAT_6113_concepts_raw.json
+STAT_6113,method,basic forecasting tools,basic forecasting tools,5,verified,basic forecasting tools,STAT_6113_concepts_raw.json
+STAT_6113,topic,Simple regression,Simple regression,2,verified,Simple regression,STAT_6113_concepts_raw.json
+STAT_6113,topic,Multiple regression,Multiple regression,3,verified,Multiple regression,STAT_6113_concepts_raw.json
+STAT_6113,topic,Heteroskedasticity,Heteroskedasticity,1,verified,Heteroskedasticity,STAT_6113_concepts_raw.json
+STAT_6113,topic,Specification and Data Problems,Specification and Data Problems,1,verified,Specification and Data Problems,STAT_6113_concepts_raw.json
+STAT_6113,topic,Time Series Analysis,Time Series Analysis,1,verified,Time Series Analysis,STAT_6113_concepts_raw.json
+STAT_6113,concept,Simple Regression Model,Simple Regression Model,1,verified,Simple Regression Model,STAT_6113_concepts_raw.json
+STAT_6113,concept,Ordinary Least Squares Estimator,Ordinary Least Squares Estimator,2,verified,Ordinary Least Squares Estimator,STAT_6113_concepts_raw.json
+STAT_6113,concept,Least Squares Method,Least Squares Method,1,verified,Least Squares Method,STAT_6113_concepts_raw.json
+STAT_6113,concept,Regression Coefficients,regression coefficients,2,verified,Regression Coefficients,STAT_6113_concepts_raw.json
+STAT_6113,concept,Residual Analysis,Residual Analysis,1,verified,Residual Analysis,STAT_6113_concepts_raw.json
+STAT_6113,concept,Classical Linear Regression Model,Classical Linear Regression Model,1,verified,Classical Linear Regression Model,STAT_6113_concepts_raw.json
+STAT_6113,concept,Heteroscedasticity Problem,Heteroscedasticity Problem,1,verified,Heteroscedasticity Problem,STAT_6113_concepts_raw.json
+STAT_6113,concept,Multicollinearity Issue,Multicollinearity Issue,1,verified,Multicollinearity Issue,STAT_6113_concepts_raw.json
+STAT_6113,concept,White's Test,White's Test,1,verified,White's Test,STAT_6113_concepts_raw.json
+STAT_6113,concept,Robust Standard Errors,Robust Standard Errors,1,verified,Robust Standard Errors,STAT_6113_concepts_raw.json
+STAT_6113,concept,Generalized Least Squares,Generalized Least Squares,1,verified,Generalized Least Squares,STAT_6113_concepts_raw.json
+STAT_6113,concept,Weighted Least Squares,Weighted Least Squares,1,verified,Weighted Least Squares,STAT_6113_concepts_raw.json
+STAT_6113,method,least-squares estimator derivation,Least-squares estimator derivation,1,verified,least-squares estimator derivation,STAT_6113_concepts_raw.json

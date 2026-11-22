@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3236,African American Literary History,concept,PREREQUISITE_OF,Harlem Renaissance Overview,concept,same unit,,ENGL_3236_triples_raw.json
+ENGL_3236,African American Literary History,concept,PREREQUISITE_OF,Zora Neale Hurston's Works,concept,A taught first,,ENGL_3236_triples_raw.json
+ENGL_3236,African American Literary History,concept,PREREQUISITE_OF,Countee Cullen's Themes,concept,A taught first,,ENGL_3236_triples_raw.json
+ENGL_3236,African American Literary History,concept,PREREQUISITE_OF,Richard Wright's Racial Commentary,concept,A taught first,,ENGL_3236_triples_raw.json
+ENGL_3236,Harlem Renaissance Overview,concept,PREREQUISITE_OF,Langston Hughes' Poetry Style,concept,A taught first,,ENGL_3236_triples_raw.json
+ENGL_3236,Harlem Renaissance Overview,concept,PREREQUISITE_OF,Zora Neale Hurston's Works,concept,A taught first,,ENGL_3236_triples_raw.json
+ENGL_3236,Harlem Renaissance Overview,concept,PREREQUISITE_OF,Richard Wright's Racial Commentary,concept,A taught first,,ENGL_3236_triples_raw.json
+ENGL_3236,Close Reading Techniques,concept,PREREQUISITE_OF,Analyzing Literary Texts,concept,same unit,,ENGL_3236_triples_raw.json
+ENGL_3236,Langston Hughes' Poetry Style,concept,PREREQUISITE_OF,Zora Neale Hurston's Works,concept,same unit,,ENGL_3236_triples_raw.json
+ENGL_3236,Langston Hughes' Poetry Style,concept,PREREQUISITE_OF,Countee Cullen's Themes,concept,same unit,,ENGL_3236_triples_raw.json
+ENGL_3236,Langston Hughes' Poetry Style,concept,PREREQUISITE_OF,Richard Wright's Racial Commentary,concept,A taught first,,ENGL_3236_triples_raw.json
+ENGL_3236,Zora Neale Hurston's Works,concept,PREREQUISITE_OF,Countee Cullen's Themes,concept,same unit,,ENGL_3236_triples_raw.json
+ENGL_3236,Zora Neale Hurston's Works,concept,PREREQUISITE_OF,Richard Wright's Racial Commentary,concept,A taught first,,ENGL_3236_triples_raw.json
+ENGL_3236,African American Literary History,concept,PART_OF,African American Literature,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Harlem Renaissance,topic,PART_OF,African American Literature,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Langston Hughes' Poetry Style,concept,PART_OF,Early Harlem Renaissance Writers,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Zora Neale Hurston's Works,concept,PART_OF,Early Harlem Renaissance Writers,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Countee Cullen,work,PART_OF,Early Harlem Renaissance Writers,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Richard Wright's Racial Commentary,concept,PART_OF,Mid-Century African American Literature,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Gwendolyn Brooks' Poetry Style,concept,PART_OF,Mid-Century African American Literature,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Amiri Baraka's Poetic Themes,concept,PART_OF,Black Arts Movement and Beyond,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Audre Lorde's Feminist Perspective,concept,PART_OF,Black Arts Movement and Beyond,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Toni Morrison's Literary Style,concept,PART_OF,Black Arts Movement and Beyond,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Ta-Nehisi Coates' Nonfiction Works,concept,PART_OF,Contemporary African American Literature,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Angela Davis,work,PART_OF,Contemporary African American Literature,topic,,,ENGL_3236_triples_raw.json
+ENGL_3236,Ayana Gray's Fictional Themes,concept,PART_OF,Contemporary African American Literature,topic,,,ENGL_3236_triples_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OPRS_3111,Mathematical Modeling Techniques,concept,PREREQUISITE_OF,Optimization Problem Types,concept,A taught first,,OPRS_3111_triples_raw.json
+OPRS_3111,Mathematical Modeling Techniques,concept,PREREQUISITE_OF,Objective Function Notation,concept,A taught first,,OPRS_3111_triples_raw.json
+OPRS_3111,Mathematical Modeling Techniques,concept,PREREQUISITE_OF,Constraint Handling Methods,concept,A taught first,,OPRS_3111_triples_raw.json
+OPRS_3111,Linear Programming Basics,concept,PREREQUISITE_OF,Graphical Method Overview,concept,A taught first,,OPRS_3111_triples_raw.json
+OPRS_3111,Linear Programming Basics,concept,PREREQUISITE_OF,Simplex Algorithm Basics,concept,A taught first,,OPRS_3111_triples_raw.json

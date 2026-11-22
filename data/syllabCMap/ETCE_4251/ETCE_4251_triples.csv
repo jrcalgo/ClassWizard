@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETCE_4251,Transportation Infrastructure Planning,concept,PART_OF,Highway Planning,topic,,,ETCE_4251_triples_raw.json
+ETCE_4251,Traffic Flow Theory Basics,concept,PART_OF,Traffic Engineering,topic,,,ETCE_4251_triples_raw.json
+ETCE_4251,Roundabout and Intersection Design,concept,PART_OF,Traffic Engineering,topic,,,ETCE_4251_triples_raw.json
+ETCE_4251,Freeway and Arterial Road Capacity,concept,PART_OF,Traffic Engineering,topic,,,ETCE_4251_triples_raw.json
+ETCE_4251,Grade Separation Design Elements,concept,PART_OF,Grade Separations,topic,,,ETCE_4251_triples_raw.json
+ETCE_4251,Diamond Interchange Design Features,concept,PART_OF,Interchanges,topic,,,ETCE_4251_triples_raw.json
+ETCE_4251,Cloverleaf Interchange Design Principles,concept,PART_OF,Interchanges,topic,,,ETCE_4251_triples_raw.json
+ETCE_4251,Ramp Metering System Design,concept,PART_OF,Interchanges,topic,,,ETCE_4251_triples_raw.json
+ETCE_4251,Roundabout and Intersection Design,concept,USED_FOR,Traffic Engineering,topic,,,ETCE_4251_triples_raw.json

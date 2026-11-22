@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3135,leadership theories,concept,PART_OF,Leadership,topic,,,COMM_3135_triples_raw.json
+COMM_3135,group processes,concept,PART_OF,Leadership,topic,,,COMM_3135_triples_raw.json
+COMM_3135,personal leadership styles,concept,PART_OF,Leadership,topic,,,COMM_3135_triples_raw.json
+COMM_3135,leadership behavior dynamics,concept,PART_OF,Leadership,topic,,,COMM_3135_triples_raw.json
+COMM_3135,social change model of leadership,concept,PART_OF,Leadership,topic,,,COMM_3135_triples_raw.json
+COMM_3135,trait approach,concept,PART_OF,Leadership,topic,,,COMM_3135_triples_raw.json
+COMM_3135,trait approach,concept,SUBTYPE_OF,leadership theories,concept,,,COMM_3135_triples_raw.json

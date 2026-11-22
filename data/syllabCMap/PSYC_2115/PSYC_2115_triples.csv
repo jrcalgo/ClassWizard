@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2115,Self Concept Formation,concept,PREREQUISITE_OF,Identity Development Theories,concept,same unit,,PSYC_2115_triples_raw.json
+PSYC_2115,Erikson's Psychosocial Theory,topic,PREREQUISITE_OF,Social Learning Theory,concept,same unit,,PSYC_2115_triples_raw.json
+PSYC_2115,Erikson's Psychosocial Theory,topic,PREREQUISITE_OF,Cognitive Development Stages,concept,same unit,,PSYC_2115_triples_raw.json
+PSYC_2115,Self and Social Identity,topic,PREREQUISITE_OF,Group Membership Influence,concept,same unit,,PSYC_2115_triples_raw.json
+PSYC_2115,Cultural Identity Formation,concept,PREREQUISITE_OF,Socio-Cultural Theories Influence,concept,same unit,,PSYC_2115_triples_raw.json
+PSYC_2115,Intrinsic vs Extrinsic Motivation,concept,PREREQUISITE_OF,Self-Efficacy Theory Application,concept,same unit,,PSYC_2115_triples_raw.json
+PSYC_2115,Emotional Intelligence Development,concept,PREREQUISITE_OF,Mood Management Techniques,concept,same unit,,PSYC_2115_triples_raw.json
+PSYC_2115,Attachment Styles in Adulthood,concept,PREREQUISITE_OF,Interpersonal Relationship Dynamics,concept,same unit,,PSYC_2115_triples_raw.json
+PSYC_2115,Self Concept Formation,concept,PART_OF,Self and Identity Development,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Erikson's Psychosocial Theory,topic,PART_OF,Self and Social Identity,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Ego Identity Crisis,concept,PART_OF,Erikson's Psychosocial Theory,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Social Learning Theory,concept,PART_OF,Self and Social Identity,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Cognitive Development Stages,concept,PART_OF,Erikson's Psychosocial Theory,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Parent-Child Relationship Impact,concept,PART_OF,Attachment and Self,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Emotional Regulation Development,concept,PART_OF,Self and Emotion Regulation,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Cross-Cultural Comparison Studies,concept,PART_OF,Cultural Influences on Self,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Intrinsic vs Extrinsic Motivation,concept,PART_OF,Self and Motivation,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Self-Efficacy Theory Application,concept,PART_OF,Self and Motivation,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Goal Setting Strategies,concept,PART_OF,Self and Motivation,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Emotional Intelligence Development,concept,PART_OF,Self and Emotion Regulation,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Self-Regulation Strategies Formation,concept,PART_OF,Self and Emotion Regulation,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Mood Management Techniques,concept,PART_OF,Self and Emotion Regulation,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Interpersonal Relationship Dynamics,concept,PART_OF,Self and Relationships,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Attachment Styles in Adulthood,concept,PART_OF,Self and Relationships,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Career Choice Theories Application,concept,PART_OF,Self and Career Development,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Work-Life Balance Strategies,concept,PART_OF,Self and Career Development,topic,,,PSYC_2115_triples_raw.json
+PSYC_2115,Resilience Development Strategies,concept,PART_OF,Self and Mental Health,topic,,,PSYC_2115_triples_raw.json

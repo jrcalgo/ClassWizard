@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MDSK_6262,topic,AI and EdTech in the Classroom,AI and EdTech in the Classroom,1,verified,AI and EdTech in the Classroom,MDSK_6262_concepts_raw.json
+MDSK_6262,topic,EdTech,EdTech,3,verified,Introduction to EdTech,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Role of Education Technology,role of education technology,1,verified,Role of Education Technology,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Technology-Enhanced Assessments,technology-enhanced assessments,1,verified,Technology-Enhanced Assessments,MDSK_6262_concepts_raw.json
+MDSK_6262,topic,AI and GenAI Fundamentals,AI and GenAI Fundamentals,1,inferred,AI and GenAI Fundamentals,MDSK_6262_concepts_raw.json
+MDSK_6262,topic,Digital Literacy and Citizenship,Digital Literacy and Citizenship,1,inferred,Digital Literacy and Citizenship,MDSK_6262_concepts_raw.json
+MDSK_6262,topic,Assessment and Feedback,Assessment and Feedback,1,inferred,Assessment and Feedback,MDSK_6262_concepts_raw.json
+MDSK_6262,topic,Lesson Design with EdTech,Lesson Design with EdTech,1,inferred,Lesson Design with EdTech,MDSK_6262_concepts_raw.json
+MDSK_6262,topic,EdTech and Accessibility,EdTech and Accessibility,1,inferred,EdTech and Accessibility,MDSK_6262_concepts_raw.json
+MDSK_6262,topic,Data Security and Privacy,Data Security and Privacy,1,inferred,Data Security and Privacy,MDSK_6262_concepts_raw.json
+MDSK_6262,topic,Academic Integrity in EdTech,Academic Integrity in EdTech,1,inferred,Academic Integrity in EdTech,MDSK_6262_concepts_raw.json
+MDSK_6262,topic,EdTech Leadership and Policy,EdTech Leadership and Policy,1,inferred,EdTech Leadership and Policy,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,EdTech in K-12 Education,EdTech in K-12 Education,1,inferred,EdTech in K-12 Education,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Benefits and Challenges,Benefits and Challenges,1,inferred,Benefits and Challenges,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Artificial Intelligence Basics,Artificial Intelligence Basics,1,inferred,Artificial Intelligence Basics,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Generative AI Applications,Generative AI Applications,1,inferred,Generative AI Applications,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,AI Ethics Considerations,AI Ethics Considerations,1,inferred,AI Ethics Considerations,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Digital Literacy Skills,Digital Literacy Skills,1,inferred,Digital Literacy Skills,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Responsible Digital Behavior,Responsible Digital Behavior,1,inferred,Responsible Digital Behavior,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Cyberbullying Prevention,Cyberbullying Prevention,1,inferred,Cyberbullying Prevention,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Automated Grading Systems,Automated Grading Systems,1,inferred,Automated Grading Systems,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Feedback Strategies,Feedback Strategies,1,inferred,Feedback Strategies,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Incorporating AI Tools,Incorporating AI Tools,1,inferred,Incorporating AI Tools,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Personalized Learning Plans,Personalized Learning Plans,1,inferred,Personalized Learning Plans,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Engaging Student Activities,Engaging Student Activities,1,inferred,Engaging Student Activities,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Universal Design for Learning,Universal Design for Learning,1,inferred,Universal Design for Learning,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Accessibility Features in EdTech,Accessibility Features in EdTech,1,inferred,Accessibility Features in EdTech,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Equity and Inclusion Strategies,Equity and Inclusion Strategies,1,inferred,Equity and Inclusion Strategies,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Student Data Protection,Student Data Protection,1,inferred,Student Data Protection,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Data Analytics Best Practices,Data Analytics Best Practices,1,inferred,Data Analytics Best Practices,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Cybersecurity Measures,Cybersecurity Measures,1,inferred,Cybersecurity Measures,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Plagiarism Detection Tools,Plagiarism Detection Tools,1,inferred,Plagiarism Detection Tools,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Collaborative Learning Strategies,Collaborative Learning Strategies,1,inferred,Collaborative Learning Strategies,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Authentic Assessment Methods,Authentic Assessment Methods,1,inferred,Authentic Assessment Methods,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,EdTech Policy Frameworks,EdTech Policy Frameworks,1,inferred,EdTech Policy Frameworks,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Leadership Roles in EdTech,Leadership Roles in EdTech,1,inferred,Leadership Roles in EdTech,MDSK_6262_concepts_raw.json
+MDSK_6262,concept,Change Management Strategies,Change Management Strategies,1,inferred,Change Management Strategies,MDSK_6262_concepts_raw.json

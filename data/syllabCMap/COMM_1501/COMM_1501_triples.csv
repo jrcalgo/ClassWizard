@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_1501,responsible global citizens,concept,PART_OF,Global Citizenship,topic,,,COMM_1501_triples_raw.json
+COMM_1501,global issues and perspectives,concept,PART_OF,Global Citizenship,topic,,,COMM_1501_triples_raw.json
+COMM_1501,impact of social media on society,concept,PART_OF,Communication Technology Revolution,topic,,,COMM_1501_triples_raw.json
+COMM_1501,changes in human behavior and relationships,concept,PART_OF,Communication Technology Revolution,topic,,,COMM_1501_triples_raw.json
+COMM_1501,divergent societal values and cultures,concept,PART_OF,Globalization and Multiculturalism,topic,,,COMM_1501_triples_raw.json
+COMM_1501,human impact on the environment,concept,PART_OF,Ecological Conscience and Sustainability,topic,,,COMM_1501_triples_raw.json
+COMM_1501,sustainability in global society,concept,PART_OF,Ecological Conscience and Sustainability,topic,,,COMM_1501_triples_raw.json
+COMM_1501,strategic communications in a global context,concept,PART_OF,Global Communication and Public Relations,topic,,,COMM_1501_triples_raw.json

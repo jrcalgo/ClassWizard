@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_3181,topic,Microcontrollers,microcontrollers,1,verified,Microcontrollers,ETEM_3181_concepts_raw.json
+ETEM_3181,topic,Electromechanical Devices Interface,Electromechanical Devices Interface,1,inferred,Electromechanical Devices Interface,ETEM_3181_concepts_raw.json
+ETEM_3181,topic,Algorithm Development for Embedded Systems,Algorithm Development for Embedded Systems,1,inferred,Algorithm Development for Embedded Systems,ETEM_3181_concepts_raw.json
+ETEM_3181,topic,Microcontroller Programming Fundamentals,Microcontroller Programming Fundamentals,1,inferred,Microcontroller Programming Fundamentals,ETEM_3181_concepts_raw.json
+ETEM_3181,topic,Intelligent Embedded System Design,Intelligent Embedded System Design,1,inferred,Intelligent Embedded System Design,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Microcontroller Basics,Microcontroller Basics,1,inferred,Microcontroller Basics,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Programming Languages Overview,Programming Languages Overview,1,inferred,Programming Languages Overview,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Embedded System Fundamentals,Embedded System Fundamentals,1,inferred,Embedded System Fundamentals,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Sensor Types and Applications,Sensor Types and Applications,1,inferred,Sensor Types and Applications,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Actuator Control Methods,Actuator Control Methods,1,inferred,Actuator Control Methods,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Device Communication Protocols,Device Communication Protocols,1,inferred,Device Communication Protocols,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,State Machine Design Principles,State Machine Design Principles,1,inferred,State Machine Design Principles,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Finite State Machines,Finite State Machines,1,inferred,Finite State Machines,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Algorithms for Real-Time Systems,Algorithms for Real-Time Systems,1,inferred,Algorithms for Real-Time Systems,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,C Programming Language Basics,C Programming Language Basics,1,inferred,C Programming Language Basics,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Microcontroller Registers and Memory,Microcontroller Registers and Memory,1,inferred,Microcontroller Registers and Memory,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Interrupt Handling Techniques,Interrupt Handling Techniques,1,inferred,Interrupt Handling Techniques,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,System-on-Chip (SoC) Architecture,System-on-Chip (SoC) Architecture,1,inferred,System-on-Chip (SoC) Architecture,ETEM_3181_concepts_raw.json
+ETEM_3181,concept,Real-Time Operating Systems,Real-Time Operating Systems,1,inferred,Real-Time Operating Systems,ETEM_3181_concepts_raw.json

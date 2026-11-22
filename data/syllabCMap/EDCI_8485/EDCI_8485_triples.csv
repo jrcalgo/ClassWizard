@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8485,Curriculum Development Models,concept,PREREQUISITE_OF,Course Planning and Design,topic,same unit,,EDCI_8485_triples_raw.json
+EDCI_8485,Contractual Obligations and Expectations,concept,PREREQUISITE_OF,Internship Contract Fulfillment,topic,same unit,,EDCI_8485_triples_raw.json
+EDCI_8485,Learning Objectives Frameworks,concept,PART_OF,Course Planning and Design,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Assessment Strategies,concept,PART_OF,Course Planning and Design,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Activity Design Principles,concept,PART_OF,Syllabus Development and Implementation,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Teaching Philosophy Statements,concept,PART_OF,Teaching Enhancement Plan,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Instructional Strategies Frameworks,concept,PART_OF,Teaching Enhancement Plan,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Reflective Practice Techniques,concept,PART_OF,Teaching Enhancement Plan,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Self-Assessment Strategies,concept,PART_OF,Observation and Feedback,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Communication Strategies,concept,PART_OF,Internship Contract Fulfillment,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Seminar Facilitation Techniques,concept,PART_OF,Course Seminar Participation,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Collaborative Learning Environments,concept,PART_OF,Course Seminar Participation,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Reflective Practice Theories,concept,PART_OF,Reflective Analysis and Evaluation,topic,,,EDCI_8485_triples_raw.json
+EDCI_8485,Self-Assessment and Evaluation Methods,concept,PART_OF,Reflective Analysis and Evaluation,topic,,,EDCI_8485_triples_raw.json

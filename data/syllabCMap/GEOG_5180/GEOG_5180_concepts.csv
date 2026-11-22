@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_5180,topic,Web GIS,Web GIS,7,verified,Web GIS,GEOG_5180_concepts_raw.json
+GEOG_5180,topic,Web GIS Software Packages,Web GIS software packages,1,verified,Web GIS Software Packages,GEOG_5180_concepts_raw.json
+GEOG_5180,topic,Server-Side Web GIS Applications,server-side Web GIS applications,1,verified,Server-Side Web GIS Applications,GEOG_5180_concepts_raw.json
+GEOG_5180,concept,spatial analysis modeling,spatial analysis modeling,1,verified,spatial analysis modeling,GEOG_5180_concepts_raw.json
+GEOG_5180,method,developing and integrating client-/server-side solutions,developing and integrating client-/server-side solutions,1,verified,developing and integrating client-/server-side solutions,GEOG_5180_concepts_raw.json
+GEOG_5180,method,limitations of Web GIS dashboards,limitations of Web GIS dashboards,1,verified,evaluating strengths and limitations of Web GIS dashboards,GEOG_5180_concepts_raw.json
+GEOG_5180,method,performance,performance,1,verified,"proposing strategies to improve usability, performance, and effectiveness",GEOG_5180_concepts_raw.json
+GEOG_5180,method,effectiveness,effectiveness,1,verified,"proposing strategies to improve usability, performance, and effectiveness",GEOG_5180_concepts_raw.json

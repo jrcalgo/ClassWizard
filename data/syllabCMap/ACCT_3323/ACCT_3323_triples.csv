@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ACCT_3323,accounting cycle,concept,PART_OF,primary financial statements and disclosure,topic,,,ACCT_3323_triples_raw.json
+ACCT_3323,accounting cycle,concept,PART_OF,use of present value techniques in accounting measurement,topic,,,ACCT_3323_triples_raw.json
+ACCT_3323,conceptual framework,concept,PART_OF,primary financial statements and disclosure,topic,,,ACCT_3323_triples_raw.json
+ACCT_3323,conceptual framework,concept,PART_OF,use of present value techniques in accounting measurement,topic,,,ACCT_3323_triples_raw.json
+ACCT_3323,primary financial statements,concept,PART_OF,primary financial statements and disclosure,topic,,,ACCT_3323_triples_raw.json
+ACCT_3323,primary financial statements,concept,PART_OF,use of present value techniques in accounting measurement,topic,,,ACCT_3323_triples_raw.json
+ACCT_3323,present value techniques,concept,USED_FOR,use of present value techniques in accounting measurement,topic,,,ACCT_3323_triples_raw.json

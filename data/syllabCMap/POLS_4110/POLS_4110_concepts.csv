@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_4110,topic,legislative process,legislative process,2,verified,legislative process,POLS_4110_concepts_raw.json
+POLS_4110,topic,parliamentary procedure,parliamentary procedure,2,verified,parliamentary procedure,POLS_4110_concepts_raw.json
+POLS_4110,concept,resolution and bill drafting,resolution and bill drafting,1,verified,resolution and bill drafting,POLS_4110_concepts_raw.json
+POLS_4110,topic,interim council debates,interim council debate,1,verified,interim council debates,POLS_4110_concepts_raw.json
+POLS_4110,topic,NCSL annual session,NCSL annual session,1,verified,NCSL annual session,POLS_4110_concepts_raw.json

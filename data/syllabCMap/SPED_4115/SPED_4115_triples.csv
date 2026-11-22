@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_4115,Teaching Strategies for K-12 Students with ASD,concept,PREREQUISITE_OF,High-Quality Early Childhood Programs for Young Autistic Children,topic,B mentioned first,,SPED_4115_triples_raw.json
+SPED_4115,Diagnostic Criteria of ASD,topic,PART_OF,Autism Spectrum Disorder,topic,,,SPED_4115_triples_raw.json
+SPED_4115,Current Topics and Issues in the Field of Autism,topic,PART_OF,Autism Spectrum Disorder,topic,,,SPED_4115_triples_raw.json
+SPED_4115,Teaching Strategies for K-12 Students with ASD,concept,USED_FOR,High-Quality Early Childhood Programs for Young Autistic Children,topic,,,SPED_4115_triples_raw.json

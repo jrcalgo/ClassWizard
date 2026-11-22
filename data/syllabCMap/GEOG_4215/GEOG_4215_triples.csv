@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_4215,ecological principles,concept,PART_OF,Urban Ecology,topic,,,GEOG_4215_triples_raw.json
+GEOG_4215,Urban Ecosystems,topic,PART_OF,Urban Ecology,topic,,,GEOG_4215_triples_raw.json
+GEOG_4215,Socioeconomic Components,topic,PART_OF,Urban Ecosystems,topic,,,GEOG_4215_triples_raw.json
+GEOG_4215,Ecosystem Services,topic,PART_OF,Urban Ecosystems,topic,,,GEOG_4215_triples_raw.json
+GEOG_4215,field trips,method,PART_OF,lectures,method,,,GEOG_4215_triples_raw.json
+GEOG_4215,field trips,method,USED_FOR,lectures,method,,,GEOG_4215_triples_raw.json

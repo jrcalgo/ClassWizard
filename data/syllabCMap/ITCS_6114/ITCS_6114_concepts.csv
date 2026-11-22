@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_6114,topic,Algorithms,Algorithms,8,verified,Algorithms,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Data Structures,Data Structures,4,verified,Data Structures,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Recursion,recursion,2,verified,Recursion,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Induction,induction,2,verified,Induction,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Time and Space Complexities,time and space complexities,2,verified,Time and Space Complexities,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Searching,searching,2,verified,Searching,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Sorting,sorting,2,verified,Sorting,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Search Trees,search trees,2,verified,Search Trees,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Tries,tries,2,verified,Tries,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Hashing,hashing,2,verified,Hashing,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Heaps,heaps,2,verified,Heaps,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Dynamic Programming,dynamic programming,2,verified,Dynamic Programming,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,Graph Algorithms,graph algorithms,2,verified,Graph Algorithms,ITCS_6114_concepts_raw.json
+ITCS_6114,topic,String Matching,string matching,2,verified,String Matching,ITCS_6114_concepts_raw.json
+ITCS_6114,concept,asymptotic notations,asymptotic notations,1,verified,asymptotic notations,ITCS_6114_concepts_raw.json
+ITCS_6114,concept,amortized analysis,amortized analysis,1,verified,amortized analysis,ITCS_6114_concepts_raw.json
+ITCS_6114,concept,probabilistic methods,probabilistic methods,1,verified,probabilistic methods,ITCS_6114_concepts_raw.json

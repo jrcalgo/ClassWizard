@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FREN_3209,Analyse critique des médias,method,USED_FOR,Représentations culturelles en France,concept,,,FREN_3209_triples_raw.json
+FREN_3209,Rédaction de textes courts,method,USED_FOR,Expression personnelle et créative,concept,,,FREN_3209_triples_raw.json
+FREN_3209,Analyse de textes littéraires,method,USED_FOR,Cultures et valeurs partagées,concept,,,FREN_3209_triples_raw.json

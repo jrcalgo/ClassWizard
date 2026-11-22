@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETCE_2163L,topic,Construction Materials,Construction Materials,5,verified,Construction Materials,ETCE_2163L_concepts_raw.json
+ETCE_2163L,topic,Materials Testing,materials testing,4,verified,Introduction to Materials Testing,ETCE_2163L_concepts_raw.json
+ETCE_2163L,topic,Material Properties and Performance,material properties and performance,2,verified,Material Properties and Performance,ETCE_2163L_concepts_raw.json
+ETCE_2163L,topic,Beam and Column Behavior,beam and column behavior,2,verified,Beam and Column Behavior,ETCE_2163L_concepts_raw.json
+ETCE_2163L,topic,Materials Testing in Construction,materials testing in construction,2,verified,Materials Testing in Construction,ETCE_2163L_concepts_raw.json
+ETCE_2163L,topic,Commercial Materials Testing Laboratories,commercial materials testing laboratory,2,verified,Commercial Materials Testing Laboratories,ETCE_2163L_concepts_raw.json
+ETCE_2163L,topic,Sustainable Design Construction,sustainable design construction,2,verified,Sustainable Design Construction,ETCE_2163L_concepts_raw.json
+ETCE_2163L,concept,material properties,material properties,4,verified,material properties,ETCE_2163L_concepts_raw.json
+ETCE_2163L,concept,modes of structural failure,modes of structural failure,2,verified,modes of structural failure,ETCE_2163L_concepts_raw.json
+ETCE_2163L,concept,cradle to cradle concept,cradle to cradle concept,2,verified,cradle to cradle concept,ETCE_2163L_concepts_raw.json
+ETCE_2163L,method,laboratory tests,laboratory tests,8,verified,laboratory tests,ETCE_2163L_concepts_raw.json
+ETCE_2163L,method,standardized procedures,standardized procedures,2,verified,standardized procedures,ETCE_2163L_concepts_raw.json
+ETCE_2163L,method,data collection,data collection,2,verified,data collection,ETCE_2163L_concepts_raw.json
+ETCE_2163L,method,making informed engineering decisions,making informed engineering decisions,2,verified,making informed engineering decisions,ETCE_2163L_concepts_raw.json

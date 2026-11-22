@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_5174,topic,Partial Differential Equations,Partial Differential Equations,4,verified,Partial Differential Equations,MATH_5174_concepts_raw.json
+MATH_5174,topic,PDEs,PDEs,1,verified,Introduction to PDEs,MATH_5174_concepts_raw.json
+MATH_5174,topic,First-Order Equations,First-order equations,1,verified,First-Order Equations,MATH_5174_concepts_raw.json
+MATH_5174,topic,Linear Second-Order Equations,linear second-order equations,1,verified,Linear Second-Order Equations,MATH_5174_concepts_raw.json
+MATH_5174,topic,Separation of Variables,separation of variables,2,verified,Separation of Variables,MATH_5174_concepts_raw.json
+MATH_5174,topic,Maximum Principles and Energy Methods,maximum principles and energy methods,1,verified,Maximum Principles and Energy Methods,MATH_5174_concepts_raw.json
+MATH_5174,concept,conservation laws,conservation laws,1,verified,conservation laws,MATH_5174_concepts_raw.json
+MATH_5174,concept,characteristics,characteristics,2,verified,characteristics,MATH_5174_concepts_raw.json
+MATH_5174,concept,Laplace's equation,Laplace's equation,1,verified,Laplace's equation,MATH_5174_concepts_raw.json
+MATH_5174,concept,wave equation,wave equation,2,verified,wave equation,MATH_5174_concepts_raw.json
+MATH_5174,concept,heat equation,heat equation,1,verified,heat equation,MATH_5174_concepts_raw.json
+MATH_5174,concept,boundary value problems,boundary value problems,2,verified,boundary value problems,MATH_5174_concepts_raw.json
+MATH_5174,concept,Green's functions,Green's functions,2,verified,Green's functions,MATH_5174_concepts_raw.json
+MATH_5174,concept,maximum principles,maximum principles,1,verified,maximum principles,MATH_5174_concepts_raw.json
+MATH_5174,method,energy methods,energy methods,1,verified,"qualitative arguments regarding uniqueness, stability, and existence of solutions using maximum principles and energy methods",MATH_5174_concepts_raw.json
+MATH_5174,method,method of separation of variables,method of separation of variables,1,verified,method of separation of variables,MATH_5174_concepts_raw.json
+MATH_5174,method,method of characteristics,method of characteristics,1,verified,method of characteristics,MATH_5174_concepts_raw.json
+MATH_5174,method,stability,stability,1,verified,"qualitative arguments regarding uniqueness, stability, and existence of solutions using maximum principles and energy methods",MATH_5174_concepts_raw.json
+MATH_5174,method,existence of solutions using maximum principles,existence of solutions using maximum principles,1,verified,"qualitative arguments regarding uniqueness, stability, and existence of solutions using maximum principles and energy methods",MATH_5174_concepts_raw.json

@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPOA_1120,topic,Sports Performance Team,sports performance team,1,verified,Sports Performance Team,SPOA_1120_concepts_raw.json
+SPOA_1120,topic,Psychological Considerations,psychological considerations,2,verified,Psychological Considerations,SPOA_1120_concepts_raw.json
+SPOA_1120,topic,Neuromuscular Controls,neuromuscular controls,1,verified,Neuromuscular Controls,SPOA_1120_concepts_raw.json
+SPOA_1120,topic,Foundations of Kinesiology,Foundations of Kinesiology,1,inferred,Foundations of Kinesiology,SPOA_1120_concepts_raw.json
+SPOA_1120,topic,Cardiovascular System,Cardiovascular System,1,inferred,Cardiovascular System,SPOA_1120_concepts_raw.json
+SPOA_1120,topic,Pulmonary System Overview,Pulmonary System Overview,1,inferred,Pulmonary System Overview,SPOA_1120_concepts_raw.json
+SPOA_1120,topic,Detraining and Recovery,Detraining and Recovery,1,inferred,Detraining and Recovery,SPOA_1120_concepts_raw.json
+SPOA_1120,topic,Supplement Use and Performance,Supplement Use and Performance,1,inferred,Supplement Use and Performance,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,roles of sports analyst,Roles of Sports Analyst,1,inferred,roles of sports analyst,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,nutrition and human performance,Nutrition and Human Performance,1,inferred,nutrition and human performance,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,physiological principles overview,Physiological Principles Overview,1,inferred,physiological principles overview,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,energy systems in exercise,Energy Systems in Exercise,1,inferred,energy systems in exercise,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,motivation and confidence building,Motivation and Confidence Building,1,inferred,motivation and confidence building,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,anxiety and stress management,Anxiety and Stress Management,1,inferred,anxiety and stress management,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,goal setting strategies,Goal Setting Strategies,1,inferred,goal setting strategies,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,heart rate and blood pressure,Heart Rate and Blood Pressure,1,inferred,heart rate and blood pressure,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,cardiac output and stroke volume,Cardiac Output and Stroke Volume,1,inferred,cardiac output and stroke volume,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,vascular resistance and compliance,Vascular Resistance and Compliance,1,inferred,vascular resistance and compliance,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,breathing mechanics and control,Breathing Mechanics and Control,1,inferred,breathing mechanics and control,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,gas exchange and transport,Gas Exchange and Transport,1,inferred,gas exchange and transport,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,respiratory muscle function,Respiratory Muscle Function,1,inferred,respiratory muscle function,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,muscle fiber types and function,Muscle Fiber Types and Function,1,inferred,muscle fiber types and function,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,nerve conduction and transmission,Nerve Conduction and Transmission,1,inferred,nerve conduction and transmission,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,motor unit recruitment patterns,Motor Unit Recruitment Patterns,1,inferred,motor unit recruitment patterns,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,physiological effects of detraining,Physiological Effects of Detraining,1,inferred,physiological effects of detraining,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,recovery strategies for athletes,Recovery Strategies for Athletes,1,inferred,recovery strategies for athletes,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,periodization and training cycles,Periodization and Training Cycles,1,inferred,periodization and training cycles,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,types of sports supplements,Types of Sports Supplements,1,inferred,types of sports supplements,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,efficacy and safety concerns,Efficacy and Safety Concerns,1,inferred,efficacy and safety concerns,SPOA_1120_concepts_raw.json
+SPOA_1120,concept,regulatory guidelines and compliance,Regulatory Guidelines and Compliance,1,inferred,regulatory guidelines and compliance,SPOA_1120_concepts_raw.json

@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_3128,topic,Probability and Statistics for Engineers,Probability and Statistics for Engineers,1,verified,Probability and Statistics for Engineers,STAT_3128_concepts_raw.json
+STAT_3128,concept,probability distributions,probability distributions,1,verified,probability distributions,STAT_3128_concepts_raw.json
+STAT_3128,topic,Point and Interval Estimates,point and interval estimates,1,verified,Point and Interval Estimates,STAT_3128_concepts_raw.json
+STAT_3128,concept,probability rules,probability rules,1,verified,probability rules,STAT_3128_concepts_raw.json
+STAT_3128,method,ANOVA,ANOVA,1,verified,ANOVA,STAT_3128_concepts_raw.json
+STAT_3128,method,regression,regression,1,verified,regression,STAT_3128_concepts_raw.json

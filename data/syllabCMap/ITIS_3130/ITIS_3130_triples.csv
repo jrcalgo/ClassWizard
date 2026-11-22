@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_3130,design principles,topic,PREREQUISITE_OF,need finding,topic,A taught first,,ITIS_3130_triples_raw.json
+ITIS_3130,need finding,topic,PREREQUISITE_OF,design prototypes,topic,A taught first,,ITIS_3130_triples_raw.json
+ITIS_3130,human-centered computing,concept,PREREQUISITE_OF,user experience,concept,same unit,,ITIS_3130_triples_raw.json
+ITIS_3130,human-centered computing,concept,PART_OF,user experience,concept,,,ITIS_3130_triples_raw.json

@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_8345,oppression models,concept,PREREQUISITE_OF,diversity equity inclusion principles,concept,A taught first,,CSLG_8345_triples_raw.json
+CSLG_8345,advocacy practices in counseling,concept,PREREQUISITE_OF,client-centered advocacy,concept,A taught first,,CSLG_8345_triples_raw.json
+CSLG_8345,advocacy practices in counseling,concept,PREREQUISITE_OF,effective advocacy strategies,concept,A taught first,,CSLG_8345_triples_raw.json
+CSLG_8345,culturally appropriate research methods,topic,PART_OF,culturally competent research practices,concept,,part is broader than whole - check direction,CSLG_8345_triples_raw.json
+CSLG_8345,diversity equity inclusion principles,concept,PART_OF,social justice practices in curriculum,concept,,,CSLG_8345_triples_raw.json
+CSLG_8345,privilege and power dynamics,concept,PART_OF,oppression models,concept,,,CSLG_8345_triples_raw.json
+CSLG_8345,client-centered advocacy,concept,PART_OF,advocacy practices in counseling,concept,,,CSLG_8345_triples_raw.json
+CSLG_8345,culturally competent research practices,concept,USED_FOR,culturally appropriate research methods,topic,,,CSLG_8345_triples_raw.json

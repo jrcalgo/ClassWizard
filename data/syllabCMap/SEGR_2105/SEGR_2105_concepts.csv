@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_2105,topic,Computer Science,Computer Science,1,verified,Computer Science,SEGR_2105_concepts_raw.json
+SEGR_2105,topic,Programming,Programming,7,verified,Introduction to Programming,SEGR_2105_concepts_raw.json
+SEGR_2105,concept,programming paradigm,programming paradigm,1,verified,programming paradigm,SEGR_2105_concepts_raw.json
+SEGR_2105,concept,design,design,1,verified,design,SEGR_2105_concepts_raw.json
+SEGR_2105,concept,coding,coding,1,verified,coding,SEGR_2105_concepts_raw.json
+SEGR_2105,concept,compiling,compiling,1,verified,compiling,SEGR_2105_concepts_raw.json
+SEGR_2105,concept,debugging,debugging,1,verified,debugging,SEGR_2105_concepts_raw.json
+SEGR_2105,concept,structured query language (SQL,structured query language (SQL,1,verified,structured query language (SQL),SEGR_2105_concepts_raw.json
+SEGR_2105,concept,machine learning,machine learning,1,verified,machine learning,SEGR_2105_concepts_raw.json
+SEGR_2105,tool,Python,Python,5,verified,Python,SEGR_2105_concepts_raw.json
+SEGR_2105,tool,SQL,SQL,1,verified,SQL,SEGR_2105_concepts_raw.json

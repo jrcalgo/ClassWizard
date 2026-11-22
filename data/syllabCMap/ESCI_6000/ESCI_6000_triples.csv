@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_6000,Hydrologic Cycle,topic,PREREQUISITE_OF,Ocean Circulation,topic,A taught first,,ESCI_6000_triples_raw.json
+ESCI_6000,Global Energy Balance,topic,PREREQUISITE_OF,Energy Balance at the Surface,topic,A mentioned first,,ESCI_6000_triples_raw.json
+ESCI_6000,Energy Balance at the Surface,topic,PART_OF,Global Energy Balance,topic,,,ESCI_6000_triples_raw.json
+ESCI_6000,Hydrologic Cycle,topic,PART_OF,Global Climate System,topic,,,ESCI_6000_triples_raw.json
+ESCI_6000,Ocean Circulation,topic,PART_OF,Global Climate System,topic,,,ESCI_6000_triples_raw.json
+ESCI_6000,Climate Sensitivity and Feedback Mechanisms,topic,PART_OF,Global Climate System,topic,,,ESCI_6000_triples_raw.json
+ESCI_6000,Global Climate System,topic,PART_OF,Natural and Human-Induced Climate Variability and Change,topic,,,ESCI_6000_triples_raw.json
+ESCI_6000,computer programming,method,USED_FOR,quantitative analysis,method,,,ESCI_6000_triples_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_1241,calculating one-sided limits,concept,PART_OF,Limits Calculations,topic,,,MATH_1241_triples_raw.json
+MATH_1241,calculating infinite limits,concept,PART_OF,Limits Calculations,topic,,,MATH_1241_triples_raw.json
+MATH_1241,derivative notation and rules,concept,PART_OF,Differentiation Basics,topic,,,MATH_1241_triples_raw.json
+MATH_1241,power rule for derivatives,concept,PART_OF,Differentiation Basics,topic,,,MATH_1241_triples_raw.json
+MATH_1241,product rule for derivatives,concept,PART_OF,Differentiation Techniques,topic,,,MATH_1241_triples_raw.json
+MATH_1241,quotient rule for derivatives,concept,PART_OF,Differentiation Techniques,topic,,,MATH_1241_triples_raw.json
+MATH_1241,optimization problems,concept,PART_OF,Applications of Derivatives,topic,,,MATH_1241_triples_raw.json
+MATH_1241,motion along a line,concept,PART_OF,Applications of Derivatives,topic,,,MATH_1241_triples_raw.json
+MATH_1241,substitution rule for integrals,concept,PART_OF,Techniques of Integration,topic,,,MATH_1241_triples_raw.json
+MATH_1241,integration by parts,concept,PART_OF,Techniques of Integration,topic,,,MATH_1241_triples_raw.json

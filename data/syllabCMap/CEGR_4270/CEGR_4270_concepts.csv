@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_4270,topic,Earth Pressure and Retaining Structures,Earth Pressure and Retaining Structures,3,verified,Earth Pressure and Retaining Structures,CEGR_4270_concepts_raw.json
+CEGR_4270,topic,Earth Pressure,earth pressures,1,verified,Introduction to Earth Pressure,CEGR_4270_concepts_raw.json
+CEGR_4270,topic,Braced Excavations and Deep Walls,Braced Excavations and Deep Walls,1,verified,Braced Excavations and Deep Walls,CEGR_4270_concepts_raw.json
+CEGR_4270,topic,Real-World Applications of Retaining Structures,real-world applications of retaining structures,1,verified,Real-World Applications of Retaining Structures,CEGR_4270_concepts_raw.json
+CEGR_4270,concept,passive earth,passive earth,1,verified,passive earth,CEGR_4270_concepts_raw.json
+CEGR_4270,concept,soldier,soldier,1,verified,"soldier, secant, and contiguous piles",CEGR_4270_concepts_raw.json
+CEGR_4270,concept,secant,secant,1,verified,"soldier, secant, and contiguous piles",CEGR_4270_concepts_raw.json
+CEGR_4270,concept,contiguous piles,contiguous piles,1,verified,"soldier, secant, and contiguous piles",CEGR_4270_concepts_raw.json
+CEGR_4270,method,stability analysis,stability analysis,1,verified,stability analysis,CEGR_4270_concepts_raw.json
+CEGR_4270,method,technical reporting,technical reporting,1,verified,technical reporting,CEGR_4270_concepts_raw.json
+CEGR_4270,method,adherence to the ASCE Code of Ethics,adherence to the ASCE Code of Ethics,1,verified,adherence to the ASCE Code of Ethics,CEGR_4270_concepts_raw.json

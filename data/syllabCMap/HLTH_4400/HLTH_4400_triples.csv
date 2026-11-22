@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_4400,population-focused approach,concept,PREREQUISITE_OF,community-oriented practice,concept,same unit,,HLTH_4400_triples_raw.json
+HLTH_4400,factors contributing to health status,concept,PREREQUISITE_OF,determinants of health and illness,concept,same unit,,HLTH_4400_triples_raw.json
+HLTH_4400,planning in public health,concept,PREREQUISITE_OF,organizing in public health,concept,same unit,,HLTH_4400_triples_raw.json
+HLTH_4400,leading in public health,concept,PREREQUISITE_OF,controlling in public health,concept,same unit,,HLTH_4400_triples_raw.json
+HLTH_4400,ethical obligations in public health,concept,PREREQUISITE_OF,professional responsibilities in public health,concept,same unit,,HLTH_4400_triples_raw.json
+HLTH_4400,determinants of health and illness,concept,PART_OF,Assessing Population Health,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,factors contributing to health status,concept,PART_OF,Assessing Population Health,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,Public Health,topic,PART_OF,Management Functions in Public Health,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,controlling in public health,concept,PART_OF,Management Functions in Public Health,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,ethical obligations in public health,concept,PART_OF,Professional Responsibilities and Ethics,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,professional responsibilities in public health,concept,PART_OF,Professional Responsibilities and Ethics,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,interacting with diverse populations,concept,PART_OF,Cultural Competence in Practice,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,professionalism in interpersonal relationships,concept,PART_OF,Cultural Competence in Practice,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,writing for professional audiences,concept,PART_OF,Effective Communication in Public Health,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,oral presentation skills,concept,PART_OF,Effective Communication in Public Health,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,communicating with lay audiences,concept,PART_OF,Effective Communication in Public Health,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,demographic data analysis,concept,PART_OF,Presenting Data and Information,topic,,,HLTH_4400_triples_raw.json
+HLTH_4400,scientific information communication,concept,PART_OF,Presenting Data and Information,topic,,,HLTH_4400_triples_raw.json

@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1124,Don Giovanni Opera Overview,concept,PREREQUISITE_OF,Mozart's Life and Works,concept,same unit,,MUPF_1124_triples_raw.json
+MUPF_1124,Role Selection Process,concept,PREREQUISITE_OF,Don Giovanni Opera Overview,concept,same unit,,MUPF_1124_triples_raw.json
+MUPF_1124,Rhythm and Meter Analysis,concept,PREREQUISITE_OF,Melodic Contour and Shape,concept,same unit,,MUPF_1124_triples_raw.json
+MUPF_1124,Rhythm and Meter Analysis,concept,PREREQUISITE_OF,Harmony and Chord Progressions,concept,same unit,,MUPF_1124_triples_raw.json
+MUPF_1124,Breath Control and Support,concept,PREREQUISITE_OF,Pitch Accuracy and Intonation,concept,same unit,,MUPF_1124_triples_raw.json
+MUPF_1124,Breath Control and Support,concept,PREREQUISITE_OF,Dynamic Range and Expression,concept,same unit,,MUPF_1124_triples_raw.json
+MUPF_1124,Mozart's Life and Works,concept,PART_OF,Opera Workshop,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Don Giovanni,work,PART_OF,Opera Workshop,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Role Selection Process,concept,PART_OF,Opera Workshop,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Rhythm and Meter Analysis,concept,PART_OF,Musical Preparation,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Melodic Contour and Shape,concept,PART_OF,Musical Preparation,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Harmony and Chord Progressions,concept,PART_OF,Musical Preparation,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Breath Control and Support,concept,PART_OF,Vocal Technique Refresher,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Pitch Accuracy and Intonation,concept,PART_OF,Vocal Technique Refresher,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Dynamic Range and Expression,concept,PART_OF,Vocal Technique Refresher,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Opera Score Structure and Layout,concept,PART_OF,Score Analysis and Reading,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Reading Music Notation at Sight,concept,PART_OF,Score Analysis and Reading,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Identifying Musical Elements,concept,PART_OF,Score Analysis and Reading,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Effective Memorization Techniques,concept,PART_OF,Memorization Strategies,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Rehearsal Planning and Scheduling,concept,PART_OF,Memorization Strategies,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Performance Anxiety Management,concept,PART_OF,Memorization Strategies,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Acting and Movement Fundamentals,concept,PART_OF,Staging and Performance,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Stage Presence and Charisma,concept,PART_OF,Staging and Performance,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Finalizing Musical Details,concept,PART_OF,Performance Preparation,topic,,,MUPF_1124_triples_raw.json
+MUPF_1124,Blocking and Stage Directions,concept,PART_OF,Performance Preparation,topic,,,MUPF_1124_triples_raw.json

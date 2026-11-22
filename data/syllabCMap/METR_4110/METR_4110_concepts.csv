@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+METR_4110,topic,Atmospheric Instrumentation,Atmospheric Instrumentation,1,verified,Atmospheric Instrumentation,METR_4110_concepts_raw.json
+METR_4110,topic,Surface Weather Stations,surface weather stations,2,verified,Surface Weather Stations,METR_4110_concepts_raw.json
+METR_4110,topic,Weather Balloon Sounding Systems,weather balloon sounding systems,1,verified,Weather Balloon Sounding Systems,METR_4110_concepts_raw.json
+METR_4110,topic,Precipitation Radar Systems,precipitation radar systems,1,verified,Precipitation Radar Systems,METR_4110_concepts_raw.json
+METR_4110,topic,Weather Satellite Systems,weather satellite systems,2,verified,Weather Satellite Systems,METR_4110_concepts_raw.json

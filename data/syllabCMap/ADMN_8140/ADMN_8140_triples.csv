@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_8140,Role of Education in Society,concept,PREREQUISITE_OF,School Finance Systems,concept,same unit,,ADMN_8140_triples_raw.json
+ADMN_8140,Property Taxation and Levies,concept,PREREQUISITE_OF,State Aid and Grants,concept,same unit,,ADMN_8140_triples_raw.json
+ADMN_8140,Developing a School Budget,concept,PREREQUISITE_OF,Risk Management in Education,concept,same unit,,ADMN_8140_triples_raw.json
+ADMN_8140,Role of Education in Society,concept,PART_OF,School Finance,topic,,,ADMN_8140_triples_raw.json
+ADMN_8140,Importance of School Funding,concept,PART_OF,School Finance,topic,,,ADMN_8140_triples_raw.json

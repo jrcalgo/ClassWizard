@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+TESL_5103,standards-based instructional lessons/units,concept,PREREQUISITE_OF,authentic assessment,concept,B mentioned first,,TESL_5103_triples_raw.json
+TESL_5103,student-centered,concept,PREREQUISITE_OF,collaborative classroom strategies,concept,same unit,,TESL_5103_triples_raw.json
+TESL_5103,principles of Authentic Assessment,concept,PART_OF,authentic assessment,concept,,,TESL_5103_triples_raw.json
+TESL_5103,student-centered,concept,PART_OF,collaborative classroom strategies,concept,,,TESL_5103_triples_raw.json
+TESL_5103,standards-based instructional lessons/units,concept,SUBTYPE_OF,authentic assessment,concept,,,TESL_5103_triples_raw.json
+TESL_5103,principles of Authentic Assessment,concept,USED_FOR,authentic assessment,concept,,,TESL_5103_triples_raw.json

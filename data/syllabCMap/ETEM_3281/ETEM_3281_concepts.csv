@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_3281,topic,Electromechanical Engineering,electromechanical engineering,1,verified,Electromechanical Engineering,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,project design process,project design processes,1,verified,project design process,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,collaborative team environment,collaborative team environment,1,verified,collaborative team environment,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,engineering best practices,engineering best practices,1,verified,engineering best practices,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,complex engineering problem analysis,Complex Engineering Problem Analysis,1,inferred,complex engineering problem analysis,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,system approach requirements,System Approach Requirements,1,inferred,system approach requirements,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,project specifications development,Project Specifications Development,1,inferred,project specifications development,ETEM_3281_concepts_raw.json
+ETEM_3281,topic,Engineering Design Software Overview,Engineering Design Software Overview,1,inferred,Engineering Design Software Overview,ETEM_3281_concepts_raw.json
+ETEM_3281,method,commercial and industrial enterprise tools,Commercial and Industrial Enterprise Tools,1,inferred,commercial and industrial enterprise tools,ETEM_3281_concepts_raw.json
+ETEM_3281,method,design methodologies and techniques,Design Methodologies and Techniques,1,inferred,design methodologies and techniques,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,electromechanical component selection,Electromechanical Component Selection,1,inferred,electromechanical component selection,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,subsystem design and development,Subsystem Design and Development,1,inferred,subsystem design and development,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,integration with other components,Integration with Other Components,1,inferred,integration with other components,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,communication plan development,Communication Plan Development,1,inferred,communication plan development,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,stakeholder engagement and involvement,Stakeholder Engagement and Involvement,1,inferred,stakeholder engagement and involvement,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,design review process overview,Design Review Process Overview,1,inferred,design review process overview,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,iterative design and prototyping,Iterative Design and Prototyping,1,inferred,iterative design and prototyping,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,feedback and revision strategies,Feedback and Revision Strategies,1,inferred,feedback and revision strategies,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,project implementation and deployment,Project Implementation and Deployment,1,inferred,project implementation and deployment,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,testing and validation procedures,Testing and Validation Procedures,1,inferred,testing and validation procedures,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,troubleshooting and debugging techniques,Troubleshooting and Debugging Techniques,1,inferred,troubleshooting and debugging techniques,ETEM_3281_concepts_raw.json
+ETEM_3281,concept,effective communication of results,Effective Communication of Results,1,inferred,effective communication of results,ETEM_3281_concepts_raw.json
+ETEM_3281,topic,Presentation Skills and Strategies,Presentation Skills and Strategies,1,inferred,Presentation Skills and Strategies,ETEM_3281_concepts_raw.json
+ETEM_3281,topic,Project Evaluation and Feedback,Project Evaluation and Feedback,1,inferred,Project Evaluation and Feedback,ETEM_3281_concepts_raw.json
+ETEM_3281,method,engineering design software,Engineering Design Software,1,inferred,engineering design software,ETEM_3281_concepts_raw.json
+ETEM_3281,method,project planning and scheduling,Project Planning and Scheduling,1,inferred,project planning and scheduling,ETEM_3281_concepts_raw.json
+ETEM_3281,method,project execution and testing,Project Execution and Testing,1,inferred,project execution and testing,ETEM_3281_concepts_raw.json
+ETEM_3281,method,design review and iteration,Design Review and Iteration,1,inferred,design review and iteration,ETEM_3281_concepts_raw.json

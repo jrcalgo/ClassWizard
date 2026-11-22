@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_1217,Body alignment,topic,PART_OF,Modern dance,topic,,,DANC_1217_triples_raw.json
+DANC_1217,Standing exercises,topic,PART_OF,Modern dance,topic,,,DANC_1217_triples_raw.json
+DANC_1217,Locomotor patterns,topic,PART_OF,Modern dance,topic,,,DANC_1217_triples_raw.json
+DANC_1217,Modern technique or style,topic,PART_OF,Modern dance,topic,,,DANC_1217_triples_raw.json

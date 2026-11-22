@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+METR_4110,Surface Weather Stations,topic,PART_OF,Atmospheric Instrumentation,topic,,,METR_4110_triples_raw.json
+METR_4110,Weather Satellite Systems,topic,PART_OF,Atmospheric Instrumentation,topic,,,METR_4110_triples_raw.json
+METR_4110,Weather Balloon Sounding Systems,topic,PART_OF,Atmospheric Instrumentation,topic,,,METR_4110_triples_raw.json
+METR_4110,Precipitation Radar Systems,topic,PART_OF,Atmospheric Instrumentation,topic,,,METR_4110_triples_raw.json

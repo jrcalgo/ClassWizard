@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4105,topic,Machine Learning,Machine Learning,5,verified,Machine Learning,ECGR_4105_concepts_raw.json
+ECGR_4105,topic,Artificial Intelligence,Artificial Intelligence,1,verified,Artificial Intelligence,ECGR_4105_concepts_raw.json
+ECGR_4105,topic,Supervised Learning,supervised learning,2,verified,Supervised Learning,ECGR_4105_concepts_raw.json
+ECGR_4105,topic,Linear Regression,Linear Regression,1,verified,Linear Regression,ECGR_4105_concepts_raw.json
+ECGR_4105,topic,Gradient Descent,gradient descent,2,verified,Gradient Descent,ECGR_4105_concepts_raw.json
+ECGR_4105,topic,Backpropagation,backpropagation,2,verified,Backpropagation,ECGR_4105_concepts_raw.json
+ECGR_4105,topic,Bias,Bias,1,verified,Bias,ECGR_4105_concepts_raw.json
+ECGR_4105,topic,Overfitting,Overfitting,1,verified,Overfitting,ECGR_4105_concepts_raw.json
+ECGR_4105,topic,Regularization,Regularization,1,verified,Regularization,ECGR_4105_concepts_raw.json
+ECGR_4105,topic,Logistic Regression Classifier,Logistic Regression Classifier,1,verified,Logistic Regression Classifier,ECGR_4105_concepts_raw.json
+ECGR_4105,method,precision recall f1 score,precision recall f1 score,1,verified,precision recall f1 score,ECGR_4105_concepts_raw.json
+ECGR_4105,concept,machine learning principles,machine learning principles,1,verified,machine learning principles,ECGR_4105_concepts_raw.json
+ECGR_4105,measure,precision,Precision,1,verified,precision,ECGR_4105_concepts_raw.json
+ECGR_4105,measure,recall,Recall,1,verified,recall,ECGR_4105_concepts_raw.json
+ECGR_4105,measure,F1 score,F1 Score,1,verified,F1 score,ECGR_4105_concepts_raw.json
+ECGR_4105,measure,confusion matrix,Confusion Matrix,1,verified,confusion matrix,ECGR_4105_concepts_raw.json
+ECGR_4105,tool,PyTorch,PyTorch,2,verified,PyTorch,ECGR_4105_concepts_raw.json

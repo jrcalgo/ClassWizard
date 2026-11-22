@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_4122,Critical Thinking,concept,PREREQUISITE_OF,Visual Reasoning,concept,same unit,,ITCS_4122_triples_raw.json
+ITCS_4122,Perception/Cognition,concept,PREREQUISITE_OF,Visual Analytics,concept,same unit,,ITCS_4122_triples_raw.json
+ITCS_4122,Multidimensional Data,concept,PART_OF,Visual Analytics,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Critical Thinking,concept,PART_OF,Visual Reasoning,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Perception/Cognition,concept,PART_OF,Visual Analytics,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Integrated Workflows for Analysis,concept,PART_OF,Visual Analytics,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Seasonal Decomposition,concept,PART_OF,Time Series Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Trend Analysis Techniques,concept,PART_OF,Time Series Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Autocorrelation Coefficient,concept,PART_OF,Time Series Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Moving Averages Method,concept,PART_OF,Time Series Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Exponential Smoothing,concept,PART_OF,Time Series Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,ARIMA Model Parameters,concept,PART_OF,Time Series Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Forecasting Error Metrics,concept,PART_OF,Time Series Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Visualization Design Principles,concept,PART_OF,Visual Analytics,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Scatterplot Matrix Visualization,concept,PART_OF,Multidimensional Data Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Parallel Coordinates Plotting,concept,PART_OF,Multidimensional Data Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Interactive Dashboards Design,concept,PART_OF,Visual Analytics,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Tableau Visualization Techniques,concept,PART_OF,Visual Analytics,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Figma Interactive Visualizations,concept,PART_OF,Visual Analytics,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Observable Data Analysis,concept,PART_OF,Visual Analytics,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Data Density Visualization,concept,PART_OF,Multidimensional Data Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Tree Visualization,concept,PART_OF,Tree & Graph Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Graph Layout Algorithms,concept,PART_OF,Tree & Graph Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Node Link Diagrams,concept,PART_OF,Tree & Graph Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Edge Bundling Techniques,concept,PART_OF,Tree & Graph Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Force Directed Graphs,concept,PART_OF,Tree & Graph Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Interactive Tree Navigation,concept,PART_OF,Tree & Graph Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Graph Clustering Methods,concept,PART_OF,Tree & Graph Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Visual Hierarchy Principles,concept,PART_OF,Visual Analytics,concept,,,ITCS_4122_triples_raw.json
+ITCS_4122,Node Label Placement,concept,PART_OF,Tree & Graph Visualization,topic,,,ITCS_4122_triples_raw.json
+ITCS_4122,Tableau,tool,USED_FOR,Interactive Dashboards Design,concept,,,ITCS_4122_triples_raw.json

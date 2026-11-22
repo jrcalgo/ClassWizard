@@ -1,0 +1,31 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_1220L,concept,population vs sample,Population vs Sample,2,verified,population vs sample,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,data types,data types,2,verified,data types,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,levels of measurement,levels of measurement,2,verified,levels of measurement,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,sampling techniques,sampling techniques,2,verified,sampling techniques,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,mean,mean,2,verified,mean,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,median,median,2,verified,median,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,mode,mode,2,verified,mode,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,range,range,2,verified,range,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,standard deviation,standard deviation,2,verified,standard deviation,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,order of operations,order of operations,2,verified,order of operations,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,graphical summaries,graphical summaries,2,verified,graphical summaries,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,economic data analysis,Economic Data Analysis,1,verified,economic data analysis,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,descriptive statistics,descriptive statistics,80,verified,descriptive statistics,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,probability concepts,Probability Concepts,76,verified,probability concepts,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,confidence intervals,confidence intervals,3,verified,confidence intervals,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,hypothesis testing,hypothesis testing,3,verified,hypothesis testing,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,null hypothesis,Null Hypothesis,1,verified,null hypothesis,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,discrete probability,Discrete Probability,1,verified,discrete probability,STAT_1220L_concepts_raw.json
+STAT_1220L,concept,continuous random variables,Continuous Random Variables,1,verified,continuous random variables,STAT_1220L_concepts_raw.json
+STAT_1220L,method,data collection methods,Data Collection Methods,49,verified,data collection methods,STAT_1220L_concepts_raw.json
+STAT_1220L,method,descriptive statistics measures,Descriptive Statistics Measures,47,verified,descriptive statistics measures,STAT_1220L_concepts_raw.json
+STAT_1220L,method,data visualization techniques,Data Visualization Techniques,75,verified,data visualization techniques,STAT_1220L_concepts_raw.json
+STAT_1220L,method,probability concepts basics,Probability Concepts Basics,46,verified,probability concepts basics,STAT_1220L_concepts_raw.json
+STAT_1220L,method,inferential statistics fundamentals,Inferential Statistics Fundamentals,28,verified,inferential statistics fundamentals,STAT_1220L_concepts_raw.json
+STAT_1220L,method,career development,Career Development,2,verified,career development,STAT_1220L_concepts_raw.json
+STAT_1220L,method,research methods,Research Methods,1,verified,research methods,STAT_1220L_concepts_raw.json
+STAT_1220L,method,our departmental resources,Our Departmental Resources,1,verified,our departmental resources,STAT_1220L_concepts_raw.json
+STAT_1220L,method,academic success resources,Academic Success Resources,1,verified,academic success resources,STAT_1220L_concepts_raw.json
+STAT_1220L,method,ucae,UCAE,1,verified,ucae,STAT_1220L_concepts_raw.json
+STAT_1220L,tool,Excel,Excel,8,verified,Excel,STAT_1220L_concepts_raw.json

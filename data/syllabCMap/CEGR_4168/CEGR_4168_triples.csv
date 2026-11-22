@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_4168,airport noise,concept,PREREQUISITE_OF,environmental planning,topic,B mentioned first,,CEGR_4168_triples_raw.json
+CEGR_4168,hazardous wildlife attractants,concept,PREREQUISITE_OF,environmental planning,topic,B mentioned first,,CEGR_4168_triples_raw.json
+CEGR_4168,passenger facility charges,concept,PREREQUISITE_OF,financing options,topic,B mentioned first,,CEGR_4168_triples_raw.json
+CEGR_4168,bonds,topic,PREREQUISITE_OF,financing options,topic,B mentioned first,,CEGR_4168_triples_raw.json
+CEGR_4168,public and political impacts,topic,PREREQUISITE_OF,airport design,topic,A mentioned first,,CEGR_4168_triples_raw.json
+CEGR_4168,National Plan of Integrated Airports System,concept,PREREQUISITE_OF,state systems planning,concept,same unit,,CEGR_4168_triples_raw.json
+CEGR_4168,airport master planning,method,PART_OF,airport planning,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,geometric design,method,PART_OF,airport design,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,signage,method,PART_OF,airport design,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,forecasting,method,PART_OF,airport planning,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,layout of airfields,method,PART_OF,airport design,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,airport noise,concept,PART_OF,environmental planning,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,compatible land use,concept,PART_OF,environmental planning,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,airport master planning,method,USED_FOR,airport planning,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,geometric design,method,USED_FOR,airport design,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,signage,method,USED_FOR,airport design,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,forecasting,method,USED_FOR,airport planning,topic,,,CEGR_4168_triples_raw.json
+CEGR_4168,layout of airfields,method,USED_FOR,airport design,topic,,,CEGR_4168_triples_raw.json

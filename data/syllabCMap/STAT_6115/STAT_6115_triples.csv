@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_6115,cross-validation,concept,PREREQUISITE_OF,Bootstrap Methods,topic,A taught first,,STAT_6115_triples_raw.json
+STAT_6115,cross-validation,concept,PREREQUISITE_OF,Modern Linear Techniques,topic,A taught first,,STAT_6115_triples_raw.json
+STAT_6115,cross-validation,concept,PREREQUISITE_OF,Non-Linear Approaches,topic,A taught first,,STAT_6115_triples_raw.json
+STAT_6115,cross-validation,concept,PREREQUISITE_OF,Tree-Based Models,topic,A taught first,,STAT_6115_triples_raw.json
+STAT_6115,cross-validation,concept,PREREQUISITE_OF,Support Vector Machines,topic,A taught first,,STAT_6115_triples_raw.json
+STAT_6115,cross-validation,concept,PREREQUISITE_OF,Unsupervised Learning,topic,A taught first,,STAT_6115_triples_raw.json
+STAT_6115,statistical learning principles,concept,PART_OF,classical linear methods,concept,,,STAT_6115_triples_raw.json
+STAT_6115,statistical learning principles,concept,PART_OF,Bootstrap Methods,topic,,,STAT_6115_triples_raw.json
+STAT_6115,statistical learning principles,concept,PART_OF,Modern Linear Techniques,topic,,,STAT_6115_triples_raw.json
+STAT_6115,statistical learning principles,concept,PART_OF,Non-Linear Approaches,topic,,,STAT_6115_triples_raw.json
+STAT_6115,statistical learning principles,concept,PART_OF,Tree-Based Models,topic,,,STAT_6115_triples_raw.json
+STAT_6115,statistical learning principles,concept,PART_OF,Support Vector Machines,topic,,,STAT_6115_triples_raw.json
+STAT_6115,statistical learning principles,concept,PART_OF,Unsupervised Learning,topic,,,STAT_6115_triples_raw.json
+STAT_6115,R,tool,USED_FOR,Bootstrap Methods,topic,,,STAT_6115_triples_raw.json
+STAT_6115,R,tool,USED_FOR,Modern Linear Techniques,topic,,,STAT_6115_triples_raw.json
+STAT_6115,R,tool,USED_FOR,Non-Linear Approaches,topic,,,STAT_6115_triples_raw.json
+STAT_6115,R,tool,USED_FOR,Tree-Based Models,topic,,,STAT_6115_triples_raw.json
+STAT_6115,R,tool,USED_FOR,Support Vector Machines,topic,,,STAT_6115_triples_raw.json
+STAT_6115,R,tool,USED_FOR,Unsupervised Learning,topic,,,STAT_6115_triples_raw.json

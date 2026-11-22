@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_4203,topic,Engineering Economics,Engineering Economics,3,verified,Engineering Economics,SEGR_4203_concepts_raw.json
+SEGR_4203,topic,Decision and Bayesian Analysis,Decision and Bayesian analysis,1,verified,Decision and Bayesian Analysis,SEGR_4203_concepts_raw.json
+SEGR_4203,topic,Game Theory,Game theory,1,verified,Game Theory,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Opportunity Cost Definition,Opportunity Cost Definition,1,inferred,Opportunity Cost Definition,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Time Value of Money,Time Value of Money,1,inferred,Time Value of Money,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Present Worth Factor,Present Worth Factor,1,inferred,Present Worth Factor,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Net Present Value Calculation,Net Present Value Calculation,1,inferred,Net Present Value Calculation,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Internal Rate of Return Method,Internal Rate of Return Method,1,inferred,Internal Rate of Return Method,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Payback Period Technique,Payback Period Technique,1,inferred,Payback Period Technique,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Bayes' Theorem Application,Bayes' Theorem Application,1,inferred,Bayes' Theorem Application,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Decision Trees in Practice,Decision Trees in Practice,1,inferred,Decision Trees in Practice,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Strategic vs Tactical Decisions,Strategic vs Tactical Decisions,1,inferred,Strategic vs Tactical Decisions,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Nash Equilibrium Concept,Nash Equilibrium Concept,1,inferred,Nash Equilibrium Concept,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Pareto Optimality Principle,Pareto Optimality Principle,1,inferred,Pareto Optimality Principle,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Updating Probability Estimates,Updating Probability Estimates,1,inferred,Updating Probability Estimates,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Risk Management Strategies,Risk Management Strategies,1,inferred,Risk Management Strategies,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Cooperative vs Non-Cooperative Games,Cooperative vs Non-Cooperative Games,1,inferred,Cooperative vs Non-Cooperative Games,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Zero-Sum and Non-Zero Sum Games,Zero-Sum and Non-Zero Sum Games,1,inferred,Zero-Sum and Non-Zero Sum Games,SEGR_4203_concepts_raw.json
+SEGR_4203,concept,Nash Bargaining Solution,Nash Bargaining Solution,1,inferred,Nash Bargaining Solution,SEGR_4203_concepts_raw.json

@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8061,Research in Urban Education,concept,PREREQUISITE_OF,Quantitative Research Methods,concept,A taught first,,EDCI_8061_triples_raw.json
+EDCI_8061,Research in Urban Education,concept,PREREQUISITE_OF,Qualitative Research Design,concept,A taught first,,EDCI_8061_triples_raw.json
+EDCI_8061,Quantitative Research Methods,concept,PREREQUISITE_OF,Research-Based Decision Making,concept,A taught first,,EDCI_8061_triples_raw.json
+EDCI_8061,Interpersonal Skills for Professionals,topic,PART_OF,Professional Development Planning,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Urban School Environments,concept,PART_OF,Urban Educational Settings,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Quantitative Research Methods,concept,PART_OF,Research Methodologies,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Qualitative Research Design,concept,PART_OF,Research Methodologies,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Mixed-Methods Approaches,concept,PART_OF,Research Methodologies,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Educational Change Theories,concept,PART_OF,Aligning Research with Change,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Urban Educational Reform,concept,PART_OF,Aligning Research with Change,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Research-Based Decision Making,concept,PART_OF,Aligning Research with Change,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Strategic Career Planning,concept,PART_OF,Professional Development Planning,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Disciplinary Expertise Development,concept,PART_OF,Professional Development Planning,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Personalized Professional Growth,concept,PART_OF,Professional Development Planning,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Competitive Portfolio Development,concept,PART_OF,Portfolio Preparation and Design,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Professional Branding Techniques,concept,PART_OF,Portfolio Preparation and Design,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Effective Networking Strategies,concept,PART_OF,Interpersonal Skills for Professionals,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Conflict Resolution and Management,concept,PART_OF,Interpersonal Skills for Professionals,topic,,,EDCI_8061_triples_raw.json
+EDCI_8061,Future Research Directions,concept,PART_OF,Research Agenda Presentations,topic,,,EDCI_8061_triples_raw.json

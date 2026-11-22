@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8250,Diverse Learners,concept,PREREQUISITE_OF,Literacy Development,topic,A taught first,,EDCI_8250_triples_raw.json
+EDCI_8250,Foundational Theories,topic,PREREQUISITE_OF,Literacy Instruction,topic,A taught first,,EDCI_8250_triples_raw.json
+EDCI_8250,Literacy Development,topic,PREREQUISITE_OF,Leadership in Literacy,topic,A taught first,,EDCI_8250_triples_raw.json
+EDCI_8250,Concepts of Print,concept,PREREQUISITE_OF,Phonological Awareness,concept,same unit,,EDCI_8250_triples_raw.json
+EDCI_8250,Diverse Learners,concept,PART_OF,Foundational Theories,topic,,,EDCI_8250_triples_raw.json
+EDCI_8250,Culturally Responsive Instruction,concept,PART_OF,Foundational Theories,topic,,,EDCI_8250_triples_raw.json
+EDCI_8250,Word Recognition,concept,PART_OF,Literacy Development,topic,,,EDCI_8250_triples_raw.json

@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LANG_4690,Career Options for Foreign Language Majors,topic,PREREQUISITE_OF,Professional Development,topic,A mentioned first,,LANG_4690_triples_raw.json
+LANG_4690,Career Options for Foreign Language Majors,topic,PREREQUISITE_OF,Speaking,topic,B mentioned first,,LANG_4690_triples_raw.json
+LANG_4690,Career Options for Foreign Language Majors,topic,PREREQUISITE_OF,Reading,topic,A mentioned first,,LANG_4690_triples_raw.json
+LANG_4690,Career Options for Foreign Language Majors,topic,PREREQUISITE_OF,Writing,topic,B mentioned first,,LANG_4690_triples_raw.json
+LANG_4690,Career Options for Foreign Language Majors,topic,PREREQUISITE_OF,grammar,concept,B mentioned first,,LANG_4690_triples_raw.json
+LANG_4690,Career Options for Foreign Language Majors,topic,PREREQUISITE_OF,content knowledge of the major,concept,A mentioned first,,LANG_4690_triples_raw.json
+LANG_4690,Career Options for Foreign Language Majors,topic,PART_OF,Senior Seminar,topic,,,LANG_4690_triples_raw.json
+LANG_4690,Professional Development,topic,PART_OF,Senior Seminar,topic,,,LANG_4690_triples_raw.json
+LANG_4690,Speaking,topic,PART_OF,Senior Seminar,topic,,,LANG_4690_triples_raw.json
+LANG_4690,Reading,topic,PART_OF,Senior Seminar,topic,,,LANG_4690_triples_raw.json
+LANG_4690,Writing,topic,PART_OF,Senior Seminar,topic,,,LANG_4690_triples_raw.json
+LANG_4690,grammar,concept,PART_OF,Senior Seminar,topic,,,LANG_4690_triples_raw.json
+LANG_4690,interests,concept,PART_OF,Career Options for Foreign Language Majors,topic,,,LANG_4690_triples_raw.json
+LANG_4690,personal values,concept,PART_OF,Career Options for Foreign Language Majors,topic,,,LANG_4690_triples_raw.json
+LANG_4690,written communication proficiencies,concept,PART_OF,Career Options for Foreign Language Majors,topic,,,LANG_4690_triples_raw.json

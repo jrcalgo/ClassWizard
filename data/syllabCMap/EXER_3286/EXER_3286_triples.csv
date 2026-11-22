@@ -1,0 +1,24 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_3286,Measuring Aerobic Capacity,concept,PREREQUISITE_OF,Cardiovascular Disease Risk Factors,concept,A taught first,,EXER_3286_triples_raw.json
+EXER_3286,Body Composition Measurement,concept,PREREQUISITE_OF,Skinfold Measurements and Calculations,concept,A taught first,,EXER_3286_triples_raw.json
+EXER_3286,Body Composition Measurement,concept,PREREQUISITE_OF,Hydrostatic Weighing Method,concept,A taught first,,EXER_3286_triples_raw.json
+EXER_3286,Body Composition Measurement,concept,PREREQUISITE_OF,Bioelectrical Impedance Analysis (BIA,concept,A taught first,,EXER_3286_triples_raw.json
+EXER_3286,Anaerobic Power and Endurance,concept,PART_OF,Fitness Parameters and Assessment,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Body Composition Measurement,concept,PART_OF,Fitness Parameters and Assessment,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Maximal Oxygen Consumption Test,concept,PART_OF,Cardiovascular Exercise Testing,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Submaximal Exercise Testing Methods,concept,PART_OF,Cardiovascular Exercise Testing,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Cardiovascular Disease Risk Factors,concept,PART_OF,Cardiovascular Exercise Testing,topic,,,EXER_3286_triples_raw.json
+EXER_3286,One-Repetition Maximum (1RM) Testing,concept,PART_OF,Muscular Strength and Endurance Testing,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Muscle Power and Endurance Assessment,concept,PART_OF,Muscular Strength and Endurance Testing,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Resistance Training Protocols,concept,PART_OF,Muscular Strength and Endurance Testing,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Range of Motion Measurement,concept,PART_OF,Flexibility and Mobility Testing,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Flexibility and Mobility Assessment Tools,concept,PART_OF,Flexibility and Mobility Testing,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Stretching and Foam Rolling Techniques,concept,PART_OF,Flexibility and Mobility Testing,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Skinfold Measurements and Calculations,concept,PART_OF,Body Composition and Anthropometry,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Bioelectrical Impedance Analysis (BIA,concept,PART_OF,Body Composition and Anthropometry,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Injury Prevention and Management,concept,PART_OF,Exercise Prescription and Programming,topic,,,EXER_3286_triples_raw.json
+EXER_3286,Maximal Oxygen Consumption Test,concept,USED_FOR,Measuring Aerobic Capacity,concept,,,EXER_3286_triples_raw.json
+EXER_3286,Submaximal Exercise Testing Methods,concept,USED_FOR,Measuring Aerobic Capacity,concept,,,EXER_3286_triples_raw.json
+EXER_3286,Skinfold Measurements and Calculations,concept,USED_FOR,Body Composition Measurement,concept,,,EXER_3286_triples_raw.json
+EXER_3286,Hydrostatic Weighing Method,concept,USED_FOR,Body Composition Measurement,concept,,,EXER_3286_triples_raw.json
+EXER_3286,Bioelectrical Impedance Analysis (BIA,concept,USED_FOR,Body Composition Measurement,concept,,,EXER_3286_triples_raw.json

@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PROS_3321,Instructional Design,topic,PREREQUISITE_OF,Communication and Teamwork,topic,A taught first,,PROS_3321_triples_raw.json
+PROS_3321,Learning Theories,topic,PREREQUISITE_OF,Performance Needs Analysis,topic,A taught first,,PROS_3321_triples_raw.json
+PROS_3321,Learning Theories,topic,PREREQUISITE_OF,Setting Clear Objectives,topic,A taught first,,PROS_3321_triples_raw.json
+PROS_3321,Learning Theories,topic,PREREQUISITE_OF,Communication and Teamwork,topic,A taught first,,PROS_3321_triples_raw.json
+PROS_3321,Learning Theories Overview,concept,PART_OF,Instructional Design,topic,,,PROS_3321_triples_raw.json
+PROS_3321,Engaging with Team Members,concept,PART_OF,Collaboration and Stakeholders,topic,,,PROS_3321_triples_raw.json
+PROS_3321,Stakeholder Collaboration Strategies,concept,PART_OF,Collaboration and Stakeholders,topic,,,PROS_3321_triples_raw.json
+PROS_3321,Analyzing Business Goals and Objectives,concept,PART_OF,Performance Needs Analysis,topic,,,PROS_3321_triples_raw.json
+PROS_3321,Needs Assessment Methods,concept,PART_OF,Performance Needs Analysis,topic,,,PROS_3321_triples_raw.json
+PROS_3321,Objective-Driven Instructional Design,concept,PART_OF,Setting Clear Objectives,topic,,,PROS_3321_triples_raw.json
+PROS_3321,Collaboration Tools and Techniques,concept,PART_OF,Communication and Teamwork,topic,,,PROS_3321_triples_raw.json
+PROS_3321,Learning Experience Design Principles,concept,PART_OF,Designing Learning Experiences,topic,,,PROS_3321_triples_raw.json
+PROS_3321,Engaging Learners through Storytelling,concept,PART_OF,Designing Learning Experiences,topic,,,PROS_3321_triples_raw.json
+PROS_3321,Interactive Learning Strategies,concept,PART_OF,Designing Learning Experiences,topic,,,PROS_3321_triples_raw.json

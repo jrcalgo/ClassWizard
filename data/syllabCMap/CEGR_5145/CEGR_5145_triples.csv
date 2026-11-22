@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5145,hydraulic conductivity,concept,PREREQUISITE_OF,river-aquifer interactions,topic,B taught first,B is taught before A - check,CEGR_5145_triples_raw.json
+CEGR_5145,aquifer types,topic,PREREQUISITE_OF,well hydraulics,topic,A taught first,,CEGR_5145_triples_raw.json
+CEGR_5145,groundwater flow principles,topic,PREREQUISITE_OF,field methods for estimating hydraulic conductivity,topic,A taught first,,CEGR_5145_triples_raw.json
+CEGR_5145,hydrological processes,concept,PREREQUISITE_OF,unsaturated subsurface flow,concept,A mentioned first,,CEGR_5145_triples_raw.json
+CEGR_5145,hydraulic conductivity,concept,PART_OF,groundwater flow principles,topic,,,CEGR_5145_triples_raw.json
+CEGR_5145,river-aquifer interactions,topic,PART_OF,aquifer types,topic,,,CEGR_5145_triples_raw.json
+CEGR_5145,soil moisture dynamics,topic,PART_OF,hydrological processes,concept,,part is broader than whole - check direction,CEGR_5145_triples_raw.json
+CEGR_5145,well hydraulics,topic,PART_OF,groundwater flow principles,topic,,,CEGR_5145_triples_raw.json
+CEGR_5145,field methods for estimating hydraulic conductivity,topic,PART_OF,groundwater flow principles,topic,,,CEGR_5145_triples_raw.json
+CEGR_5145,contaminant fate and transport processes,topic,PART_OF,unsaturated subsurface flow,concept,,part is broader than whole - check direction,CEGR_5145_triples_raw.json

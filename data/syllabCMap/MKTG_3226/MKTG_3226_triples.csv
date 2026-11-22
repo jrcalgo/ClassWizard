@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3226,Selling,topic,USED_FOR,Negotiating Agreement without Giving In,topic,,topic used for something - check direction,MKTG_3226_triples_raw.json
+MKTG_3226,Selling,topic,USED_FOR,Developing Sales Techniques,topic,,topic used for something - check direction,MKTG_3226_triples_raw.json

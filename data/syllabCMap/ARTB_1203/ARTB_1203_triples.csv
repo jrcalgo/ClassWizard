@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTB_1203,drawing terminology basics,concept,PREREQUISITE_OF,elements of design principles,concept,same unit,,ARTB_1203_triples_raw.json
+ARTB_1203,drawing terminology basics,concept,PREREQUISITE_OF,perceptual drawing techniques,concept,same unit,,ARTB_1203_triples_raw.json
+ARTB_1203,one-point perspective basics,concept,PREREQUISITE_OF,two-point perspective techniques,concept,same unit,,ARTB_1203_triples_raw.json
+ARTB_1203,one-point perspective basics,concept,PREREQUISITE_OF,atmospheric perspective principles,concept,same unit,,ARTB_1203_triples_raw.json
+ARTB_1203,drawing terminology basics,concept,PART_OF,Drawing Fundamentals,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,elements of design principles,concept,PART_OF,Drawing Fundamentals,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,perceptual drawing techniques,concept,PART_OF,Drawing Fundamentals,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,drawing materials overview,concept,PART_OF,Materials and Safety,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,safety precautions in studio,concept,PART_OF,Materials and Safety,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,tool handling and maintenance,concept,PART_OF,Materials and Safety,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,one-point perspective basics,concept,PART_OF,Perspective Fundamentals,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,two-point perspective techniques,concept,PART_OF,Perspective Fundamentals,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,atmospheric perspective principles,concept,PART_OF,Perspective Fundamentals,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,understanding proportions in art,concept,PART_OF,Proportion and Measurement,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,measuring and dividing space,concept,PART_OF,Proportion and Measurement,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,grid systems for drawing,concept,PART_OF,Proportion and Measurement,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,line quality and expression,concept,PART_OF,Rendering Techniques,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,value and shading principles,concept,PART_OF,Rendering Techniques,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,texture and pattern basics,concept,PART_OF,Rendering Techniques,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,exploring personal style,concept,PART_OF,Expression and Creativity,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,experimenting with media and techniques,concept,PART_OF,Expression and Creativity,topic,,,ARTB_1203_triples_raw.json
+ARTB_1203,developing artistic voice,concept,PART_OF,Expression and Creativity,topic,,,ARTB_1203_triples_raw.json

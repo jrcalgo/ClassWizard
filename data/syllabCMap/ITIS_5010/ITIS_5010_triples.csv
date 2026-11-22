@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5010,Identity and Access,topic,PART_OF,Active Cyber Defense,topic,,,ITIS_5010_triples_raw.json
+ITIS_5010,Incident Response,topic,PART_OF,Active Cyber Defense,topic,,,ITIS_5010_triples_raw.json
+ITIS_5010,Standard Operating Procedures,topic,PART_OF,Active Cyber Defense,topic,,,ITIS_5010_triples_raw.json
+ITIS_5010,Final Examination,topic,PART_OF,Active Cyber Defense,topic,,,ITIS_5010_triples_raw.json
+ITIS_5010,Configure Firewalls,concept,PART_OF,Active Cyber Defense,topic,,,ITIS_5010_triples_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_1511,zip codes,concept,PREREQUISITE_OF,social capital,concept,same unit,,SOCY_1511_triples_raw.json
+SOCY_1511,intercultural competencies,concept,PREREQUISITE_OF,systemic inequality,concept,A taught first,,SOCY_1511_triples_raw.json
+SOCY_1511,power dynamics,concept,PREREQUISITE_OF,local structures,concept,B mentioned first,,SOCY_1511_triples_raw.json
+SOCY_1511,zip codes,concept,PART_OF,social capital,concept,,,SOCY_1511_triples_raw.json
+SOCY_1511,social capital,concept,PART_OF,local structures,concept,,,SOCY_1511_triples_raw.json
+SOCY_1511,cultural traditions,concept,PART_OF,local structures,concept,,,SOCY_1511_triples_raw.json
+SOCY_1511,economic capacity,concept,PART_OF,local structures,concept,,,SOCY_1511_triples_raw.json
+SOCY_1511,power dynamics,concept,PART_OF,local structures,concept,,,SOCY_1511_triples_raw.json
+SOCY_1511,intercultural competencies,concept,PART_OF,systemic inequality,concept,,,SOCY_1511_triples_raw.json
+SOCY_1511,systemic inequality,concept,PART_OF,Local Theme,topic,,,SOCY_1511_triples_raw.json
+SOCY_1511,marginalized communities,concept,SUBTYPE_OF,social capital,concept,,,SOCY_1511_triples_raw.json

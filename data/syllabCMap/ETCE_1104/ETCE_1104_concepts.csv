@@ -1,0 +1,86 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETCE_1104,topic,Civil/Construction CAD Applications,Civil/Construction CAD Applications,1,verified,Civil/Construction CAD Applications,ETCE_1104_concepts_raw.json
+ETCE_1104,topic,Isometric vs orthographic drawings,Isometric vs orthographic drawings,1,verified,Isometric vs orthographic drawings,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Dimensioning in AutoCAD,Dimensioning in AutoCAD,2,verified,Dimensioning in AutoCAD,ETCE_1104_concepts_raw.json
+ETCE_1104,topic,Orthographic projections by hand,Orthographic projections by hand,2,verified,Orthographic projections by hand,ETCE_1104_concepts_raw.json
+ETCE_1104,topic,Isometric drawings by hand,Isometric drawings by hand,1,verified,Isometric drawings by hand,ETCE_1104_concepts_raw.json
+ETCE_1104,topic,Building and Structures- Plan and Section Views,Building and Structures- Plan and Section Views,1,verified,Building and Structures- Plan and Section Views,ETCE_1104_concepts_raw.json
+ETCE_1104,topic,"Roadway and drainage-plan, section, and profile views","Roadway and drainage-plan, section, and profile views",1,verified,"Roadway and drainage-plan, section, and profile views",ETCE_1104_concepts_raw.json
+ETCE_1104,topic,AutoCAD 2D basics in AutoCAD,AutoCAD 2D basics in AutoCAD,1,verified,Introduction of AutoCAD 2D basics in AutoCAD,ETCE_1104_concepts_raw.json
+ETCE_1104,method,Navigating the user interface,Navigating the user interface,1,verified,Navigating the user interface,ETCE_1104_concepts_raw.json
+ETCE_1104,topic,Create points and point groups and work with survey figures,Create points and point groups and work with survey figures,1,verified,Create points and point groups and work with survey figures,ETCE_1104_concepts_raw.json
+ETCE_1104,method,Model existing terrain using surfaces,Model existing terrain using surfaces,1,verified,Model existing terrain using surfaces,ETCE_1104_concepts_raw.json
+ETCE_1104,topic,"Design, display and annotate alignments","Design, display and annotate alignments",1,verified,"Design, display and annotate alignments",ETCE_1104_concepts_raw.json
+ETCE_1104,topic,"Design, display and annotate profiles","Design, display and annotate profiles",1,verified,"Design, display and annotate profiles",ETCE_1104_concepts_raw.json
+ETCE_1104,method,Design corridors,Design corridors,1,verified,Design corridors,ETCE_1104_concepts_raw.json
+ETCE_1104,method,Create cross-sections,Create cross-sections,1,verified,Create cross-sections,ETCE_1104_concepts_raw.json
+ETCE_1104,method,Display and annotate cross-sections,Display and annotate cross-sections,1,verified,Display and annotate cross-sections,ETCE_1104_concepts_raw.json
+ETCE_1104,method,Grading and calculating earthwork volumes,Grading and calculating earthwork volumes,1,verified,Grading and calculating earthwork volumes,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Isometric drawings,Isometric drawings,2,verified,Isometric drawings,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Orthographic projections,Orthographic projections,5,verified,Orthographic projections,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,AutoCAD basics,AutoCAD basics,1,verified,AutoCAD basics,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Orthographic drawing techniques,Orthographic drawing techniques,1,verified,Orthographic drawing techniques,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Isometric Views,Isometric Views,1,verified,Isometric Views,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Perspective Drawings,Perspective Drawings,1,verified,Perspective Drawings,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Line Conventions,Line Conventions,1,verified,Line Conventions,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Point Notation System,Point Notation System,1,verified,Point Notation System,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Isometric projection,Isometric projection,1,verified,Isometric projection,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Perspective drawing techniques,Perspective drawing techniques,1,verified,Perspective drawing techniques,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Drawing scales and ratios,Drawing scales and ratios,1,verified,Drawing scales and ratios,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Point of view notation,Point of view notation,1,verified,Point of view notation,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Plan Views,Plan Views,1,verified,Plan Views,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Section Views,Section Views,3,verified,Section Views,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Profile Views,Profile Views,2,verified,Profile Views,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Building Plans,Building Plans,1,verified,Building Plans,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Structural Sections,Structural Sections,1,verified,Structural Sections,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Roadway Design,Roadway Design,1,verified,Roadway Design,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Drainage Systems,Drainage Systems,1,verified,Drainage Systems,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Civil CAD Software,Civil CAD Software,1,verified,Civil CAD Software,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Construction Drawings,Construction Drawings,1,verified,Construction Drawings,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,AutoCAD interface,AutoCAD interface,2,verified,AutoCAD interface,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Drawing units and scales,Drawing units and scales,2,verified,Drawing units and scales,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Layers and organization,Layers and organization,2,verified,Layers and organization,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Object properties and attributes,Object properties and attributes,2,verified,Object properties and attributes,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Entity types and creation,Entity types and creation,1,verified,Entity types and creation,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Line types and weights,Line types and weights,1,verified,Line types and weights,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Block attributes management,Block attributes management,1,verified,Block attributes management,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Dimensioning and annotation,Dimensioning and annotation,1,verified,Dimensioning and annotation,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Layer management techniques,Layer management techniques,1,verified,Layer management techniques,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Object properties editing,Object properties editing,1,verified,Object properties editing,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,User Interface Navigation,User Interface Navigation,1,verified,User Interface Navigation,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Menu Bar Functions,Menu Bar Functions,1,verified,Menu Bar Functions,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Toolbar Elements Overview,Toolbar Elements Overview,1,verified,Toolbar Elements Overview,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Command Line Interface,Command Line Interface,1,verified,Command Line Interface,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Keyboard Shortcuts List,Keyboard Shortcuts List,1,verified,Keyboard Shortcuts List,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Point Groups,point groups,2,verified,Point Groups,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Survey Figures,survey figures,2,verified,Survey Figures,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Coordinate Systems,Coordinate Systems,1,verified,Coordinate Systems,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Geometric Constraints,Geometric Constraints,2,verified,Geometric Constraints,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Surface modeling,Surface modeling,1,verified,Surface modeling,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Terrain representation,Terrain representation,1,verified,Terrain representation,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Triangulation methods,Triangulation methods,1,verified,Triangulation methods,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Mesh generation,Mesh generation,1,verified,Mesh generation,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Surface interpolation,Surface interpolation,1,verified,Surface interpolation,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Alignment Design,Alignment Design,2,verified,Alignment Design,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Display Techniques,Display Techniques,1,verified,Display Techniques,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Annotation Methods,Annotation Methods,1,verified,Annotation Methods,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Entity Management,Entity Management,1,verified,Entity Management,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Layer Organization,Layer Organization,2,verified,Layer Organization,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Dimensioning Rules,Dimensioning Rules,1,verified,Dimensioning Rules,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Text Styles,Text Styles,1,verified,Text Styles,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Block Attributes,Block attributes,2,verified,Block Attributes,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Alignment Control Points,Alignment Control Points,1,verified,Alignment Control Points,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Stationing and Grading,Stationing and Grading,1,verified,Stationing and Grading,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Corridor Geometry Rules,Corridor Geometry Rules,1,verified,Corridor Geometry Rules,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Horizontal Alignment Design,Horizontal Alignment Design,1,verified,Horizontal Alignment Design,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Earthwork Volume Calculations,Earthwork Volume Calculations,1,verified,Earthwork Volume Calculations,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Cut and Fill Analysis,Cut and Fill Analysis,1,verified,Cut and Fill Analysis,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Grading Plan Development,Grading Plan Development,1,verified,Grading Plan Development,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Volume of Earthworks,Volume of Earthworks,1,verified,Volume of Earthworks,ETCE_1104_concepts_raw.json
+ETCE_1104,concept,Survey Data Interpretation,Survey Data Interpretation,1,verified,Survey Data Interpretation,ETCE_1104_concepts_raw.json
+ETCE_1104,method,Hand sketch different views of civil infrastructure components,Hand sketch different views of civil infrastructure components,1,verified,Hand sketch different views of civil infrastructure components,ETCE_1104_concepts_raw.json
+ETCE_1104,method,Design,Design,7,verified,"Design, display and annotate alignments",ETCE_1104_concepts_raw.json
+ETCE_1104,method,display,display,6,verified,"Design, display and annotate alignments",ETCE_1104_concepts_raw.json
+ETCE_1104,method,annotate alignments,annotate alignments,1,verified,"Design, display and annotate alignments",ETCE_1104_concepts_raw.json
+ETCE_1104,method,annotate profiles,annotate profiles,1,verified,"Design, display and annotate profiles",ETCE_1104_concepts_raw.json
+ETCE_1104,tool,AutoCAD,AutoCAD,10,verified,AutoCAD,ETCE_1104_concepts_raw.json

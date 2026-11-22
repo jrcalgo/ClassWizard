@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3116,topic,Heat Transfer,Heat Transfer,4,verified,Heat Transfer,MEGR_3116_concepts_raw.json
+MEGR_3116,topic,Modes of heat transfer,modes of heat transfer,1,verified,Modes of heat transfer,MEGR_3116_concepts_raw.json
+MEGR_3116,topic,Heat Transfer Analysis,heat transfer analysis,1,verified,Heat Transfer Analysis,MEGR_3116_concepts_raw.json
+MEGR_3116,concept,conduction,conduction,1,verified,conduction,MEGR_3116_concepts_raw.json
+MEGR_3116,concept,convection,convection,1,verified,convection,MEGR_3116_concepts_raw.json
+MEGR_3116,concept,radiation,radiation,1,verified,radiation,MEGR_3116_concepts_raw.json

@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_6160,Language as a System,concept,PART_OF,Linguistic Research Methods,concept,,,ENGL_6160_triples_raw.json
+ENGL_6160,Sound Systems in Language,concept,PART_OF,Phonetics and Phonology,topic,,,ENGL_6160_triples_raw.json
+ENGL_6160,Word Formation Processes,concept,PART_OF,Morphology and Syntax,topic,,,ENGL_6160_triples_raw.json
+ENGL_6160,Syntactic Structures,concept,PART_OF,Morphology and Syntax,topic,,,ENGL_6160_triples_raw.json
+ENGL_6160,Phrase Structure Rules,concept,PART_OF,Morphology and Syntax,topic,,,ENGL_6160_triples_raw.json
+ENGL_6160,Meaning in Language Use,concept,PART_OF,Semantics and Pragmatics,topic,,,ENGL_6160_triples_raw.json
+ENGL_6160,Implicature and Inference,concept,PART_OF,Semantics and Pragmatics,topic,,,ENGL_6160_triples_raw.json
+ENGL_6160,Language Variation and Change,concept,PART_OF,Sociolinguistics and Language Policy,topic,,,ENGL_6160_triples_raw.json
+ENGL_6160,Corpus Linguistics Methods,concept,PART_OF,Analyzing Language in Use,topic,,,ENGL_6160_triples_raw.json
+ENGL_6160,Discourse Analysis Techniques,concept,PART_OF,Analyzing Language in Use,topic,,,ENGL_6160_triples_raw.json
+ENGL_6160,Critical Discourse Analysis,concept,PART_OF,Analyzing Language in Use,topic,,,ENGL_6160_triples_raw.json

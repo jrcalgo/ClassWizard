@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PHIL_1512,topic,Death and Dying,Death and Dying,2,verified,Death and Dying,PHIL_1512_concepts_raw.json
+PHIL_1512,topic,"Moral, Medical, and Philosophical Perspectives","Moral, Medical, and Philosophical Perspectives",1,verified,"Moral, Medical, and Philosophical Perspectives",PHIL_1512_concepts_raw.json
+PHIL_1512,topic,Death,Death,5,verified,Introduction to Death,PHIL_1512_concepts_raw.json
+PHIL_1512,topic,Philosophical Perspectives,Philosophical Perspectives,1,verified,Philosophical Perspectives,PHIL_1512_concepts_raw.json
+PHIL_1512,topic,Philosophy of Living Well,philosophy of living well,1,verified,Philosophy of Living Well,PHIL_1512_concepts_raw.json
+PHIL_1512,concept,Nature of Death,nature of death,1,verified,Nature of Death,PHIL_1512_concepts_raw.json
+PHIL_1512,concept,Personal Identity,personal identity,1,verified,Personal Identity,PHIL_1512_concepts_raw.json
+PHIL_1512,concept,End of Life,end of life,2,verified,End of Life,PHIL_1512_concepts_raw.json

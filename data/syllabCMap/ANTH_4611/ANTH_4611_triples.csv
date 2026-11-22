@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ANTH_4611,applied anthropological methods,concept,PREREQUISITE_OF,Research Design and Planning,topic,A taught first,,ANTH_4611_triples_raw.json
+ANTH_4611,applied anthropological methods,concept,PREREQUISITE_OF,Ethnographic Research Methods,topic,A taught first,,ANTH_4611_triples_raw.json
+ANTH_4611,applied anthropological methods,concept,PART_OF,Applied Anthropology,topic,,,ANTH_4611_triples_raw.json
+ANTH_4611,Research Design and Planning,topic,PART_OF,Applied Anthropology,topic,,,ANTH_4611_triples_raw.json
+ANTH_4611,Ethnographic Research Methods,topic,PART_OF,Applied Anthropology,topic,,,ANTH_4611_triples_raw.json
+ANTH_4611,Report Writing and Presentation Skills,topic,PART_OF,Applied Anthropology,topic,,,ANTH_4611_triples_raw.json
+ANTH_4611,rapid ethnographic research,method,PART_OF,Ethnographic Research Methods,topic,,,ANTH_4611_triples_raw.json
+ANTH_4611,interview construction and administration,method,PART_OF,Ethnographic Research Methods,topic,,,ANTH_4611_triples_raw.json
+ANTH_4611,rapid ethnographic research,method,USED_FOR,Ethnographic Research Methods,topic,,,ANTH_4611_triples_raw.json
+ANTH_4611,interview construction and administration,method,USED_FOR,Ethnographic Research Methods,topic,,,ANTH_4611_triples_raw.json

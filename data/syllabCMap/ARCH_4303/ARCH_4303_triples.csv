@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_4303,strain,concept,PREREQUISITE_OF,Interrelationship between Strain,topic,same unit,,ARCH_4303_triples_raw.json
+ARCH_4303,strain,concept,PART_OF,Interrelationship between Strain,topic,,,ARCH_4303_triples_raw.json
+ARCH_4303,graphic statics,concept,PART_OF,Structural Principles,topic,,,ARCH_4303_triples_raw.json
+ARCH_4303,numerical analysis,concept,PART_OF,Structural Principles,topic,,,ARCH_4303_triples_raw.json
+ARCH_4303,strength of materials,concept,PART_OF,Structural Principles,topic,,,ARCH_4303_triples_raw.json

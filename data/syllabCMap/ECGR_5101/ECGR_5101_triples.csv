@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5101,constraints facing embedded designers,concept,PART_OF,Embedded System Design,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,assessing design constraints,concept,PART_OF,Embedded System Design,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,microcontroller architecture overview,concept,PART_OF,Embedded System Design,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,operating peripheral devices with C,concept,PART_OF,C Programming for Microcontrollers,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,implementing embedded systems with peripherals,concept,PART_OF,Peripheral Devices and Interfaces,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,input device programming techniques,concept,PART_OF,Peripheral Devices and Interfaces,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,communications device interface methods,concept,PART_OF,Peripheral Devices and Interfaces,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,thread-based program design principles,concept,PART_OF,Real-Time Operating Systems,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,RTOS implementation and configuration,concept,PART_OF,Real-Time Operating Systems,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,multitasking in real-time systems,concept,PART_OF,Real-Time Operating Systems,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,quick and efficient programming methods,concept,PART_OF,Efficient Program Development,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,program optimization techniques for embedded systems,concept,PART_OF,Efficient Program Development,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,debugging and testing strategies,concept,PART_OF,Efficient Program Development,topic,,,ECGR_5101_triples_raw.json
+ECGR_5101,logic analyzer,tool,USED_FOR,debugging and testing strategies,concept,,,ECGR_5101_triples_raw.json

@@ -1,0 +1,45 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_4000,concept,Post-transcriptional gene regulation,post - transcriptional gene regulation,35,verified,Post-transcriptional gene regulation,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,RNA level control mechanisms,RNA level control mechanisms,17,verified,RNA level control mechanisms,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,MicroRNAs and their targets,MicroRNAs and their targets,26,verified,MicroRNAs and their targets,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,Small interfering RNAs function,Small interfering RNAs function,25,verified,Small interfering RNAs function,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,Gene silencing techniques used,Gene silencing techniques used,8,verified,Gene silencing techniques used,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,mRNA stability factors,mRNA Stability Factors,1,verified,mRNA stability factors,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,RNA splicing,RNA splicing,3,verified,RNA splicing,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,Alternative splicing,Alternative splicing,3,verified,Alternative splicing,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,MicroRNAs function,MicroRNAs function,4,verified,MicroRNAs function,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,Non-coding RNAs role,Non-coding RNAs role,2,verified,Non-coding RNAs role,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,mRNA capping,mRNA capping,2,verified,mRNA capping,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,polyadenylation process,polyadenylation process,1,verified,polyadenylation process,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,capping enzymes function,capping enzymes function,1,verified,capping enzymes function,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,poly(A) tail formation,poly(A) tail formation,1,verified,poly(A) tail formation,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,cap structure importance,cap structure importance,1,verified,cap structure importance,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,polyadenylation regulation mechanisms,polyadenylation regulation mechanisms,1,verified,polyadenylation regulation mechanisms,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,spliceosome structure and function,spliceosome structure and function,1,verified,spliceosome structure and function,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,pre-mRNA processing stages,pre-mRNA processing stages,1,verified,pre-mRNA processing stages,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,intron removal techniques,intron removal techniques,1,verified,intron removal techniques,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,exon recognition factors,exon recognition factors,1,verified,exon recognition factors,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,MicroRNA Functionality,MicroRNA Functionality,1,verified,MicroRNA Functionality,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,Long Noncoding RNAs,Long Noncoding RNAs,1,verified,Long Noncoding RNAs,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,Small Interfering RNAs,Small interfering RNAs,30,verified,Small Interfering RNAs,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,RNA Binding Proteins,RNA Binding Proteins,4,verified,RNA Binding Proteins,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,Post-Transcriptional Regulation,Post-Transcriptional Regulation,6,verified,Post-Transcriptional Regulation,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,Gene Expression Control,Gene expression control,9,verified,Gene Expression Control,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,mRNA Stability Mechanisms,mRNA Stability Mechanisms,1,verified,mRNA Stability Mechanisms,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,Translational Regulation Pathways,Translational Regulation Pathways,1,verified,Translational Regulation Pathways,BIOL_4000_concepts_raw.json
+BIOL_4000,concept,mRNA Decay Processes,mRNA Decay Processes,1,verified,mRNA Decay Processes,BIOL_4000_concepts_raw.json
+BIOL_4000,method,Restriction enzymes,Restriction enzymes,2,verified,"Restriction enzymes, Cloning and PCR",BIOL_4000_concepts_raw.json
+BIOL_4000,method,Cloning,Cloning,2,verified,"Restriction enzymes, Cloning and PCR",BIOL_4000_concepts_raw.json
+BIOL_4000,method,PCR,PCR,2,verified,"Restriction enzymes, Cloning and PCR",BIOL_4000_concepts_raw.json
+BIOL_4000,method,Western Blotting Techniques,Western Blotting Techniques,1,verified,Western Blotting Techniques,BIOL_4000_concepts_raw.json
+BIOL_4000,method,Mass Spectrometry Methods,Mass Spectrometry Methods,1,verified,Mass Spectrometry Methods,BIOL_4000_concepts_raw.json
+BIOL_4000,method,Next Generation Sequencing,Next Generation Sequencing,1,verified,Next Generation Sequencing,BIOL_4000_concepts_raw.json
+BIOL_4000,method,RNA Sequencing Techniques,RNA Sequencing Techniques,1,verified,RNA Sequencing Techniques,BIOL_4000_concepts_raw.json
+BIOL_4000,method,CRISPR-Cas9 mechanism,CRISPR-Cas9 mechanism,1,verified,CRISPR-Cas9 mechanism,BIOL_4000_concepts_raw.json
+BIOL_4000,method,RNA interference pathways,RNA interference pathways,1,verified,RNA interference pathways,BIOL_4000_concepts_raw.json
+BIOL_4000,method,Gene editing technologies,Gene editing technologies,1,verified,Gene editing technologies,BIOL_4000_concepts_raw.json
+BIOL_4000,method,Post-transcriptional gene silencing,Post-transcriptional gene silencing,1,verified,Post-transcriptional gene silencing,BIOL_4000_concepts_raw.json
+BIOL_4000,method,RNA Editing Mechanisms,RNA Editing Mechanisms,1,verified,RNA Editing Mechanisms,BIOL_4000_concepts_raw.json
+BIOL_4000,method,Adenosine Deaminases Function,Adenosine Deaminases Function,1,verified,Adenosine Deaminases Function,BIOL_4000_concepts_raw.json
+BIOL_4000,method,RNA Dependent RNA Polymerase,RNA Dependent RNA Polymerase,1,verified,RNA Dependent RNA Polymerase,BIOL_4000_concepts_raw.json
+BIOL_4000,method,Editing Site Recognition,Editing Site Recognition,1,verified,Editing Site Recognition,BIOL_4000_concepts_raw.json

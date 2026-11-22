@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_3253,Black dance in the Americas,concept,PREREQUISITE_OF,West and Central Africa,concept,A taught first,,DANC_3253_triples_raw.json
+DANC_3253,socioeconomic conditions,concept,PREREQUISITE_OF,cultural expression,concept,same unit,,DANC_3253_triples_raw.json
+DANC_3253,African diaspora history,concept,PREREQUISITE_OF,Black dance in the Americas,concept,same unit,,DANC_3253_triples_raw.json
+DANC_3253,polycentrism,concept,PREREQUISITE_OF,polyrhythm,concept,same unit,,DANC_3253_triples_raw.json
+DANC_3253,musicality,concept,PREREQUISITE_OF,complex rhythmic precision,concept,A taught first,,DANC_3253_triples_raw.json
+DANC_3253,West and Central Africa,concept,PART_OF,African diaspora history,concept,,,DANC_3253_triples_raw.json
+DANC_3253,socioeconomic conditions,concept,PART_OF,cultural expression,concept,,,DANC_3253_triples_raw.json
+DANC_3253,dynamic alignment to movement concepts,method,PART_OF,intermediate/advanced execution of Black dance movement aesthetics,method,,,DANC_3253_triples_raw.json
+DANC_3253,ensemble projects,method,PART_OF,collaborative skills,method,,,DANC_3253_triples_raw.json
+DANC_3253,polyrhythm,concept,SUBTYPE_OF,musicality,concept,,,DANC_3253_triples_raw.json
+DANC_3253,complex rhythmic precision,concept,SUBTYPE_OF,polyrhythm,concept,,,DANC_3253_triples_raw.json
+DANC_3253,syncopation,concept,SUBTYPE_OF,polyrhythm,concept,,,DANC_3253_triples_raw.json
+DANC_3253,improvisation,method,USED_FOR,movement analysis,method,,,DANC_3253_triples_raw.json
+DANC_3253,body isolations,method,USED_FOR,ensemble projects,method,,,DANC_3253_triples_raw.json

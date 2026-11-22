@@ -1,0 +1,60 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CJUS_2361,Theoretical Explanations for Delinquency,concept,PREREQUISITE_OF,Prevention Strategies for Delinquency,concept,same unit,,CJUS_2361_triples_raw.json
+CJUS_2361,Theoretical Explanations for Delinquency,concept,PREREQUISITE_OF,Treatment of Juvenile Offenders,concept,same unit,,CJUS_2361_triples_raw.json
+CJUS_2361,Social Factors in Delinquency,concept,PREREQUISITE_OF,Juvenile Delinquency Theories,concept,same unit,,CJUS_2361_triples_raw.json
+CJUS_2361,Micro-Level Theories of Delinquency,topic,PREREQUISITE_OF,Macro-Level Theories of Delinquency,topic,A taught first,,CJUS_2361_triples_raw.json
+CJUS_2361,Macro-Level Theories of Delinquency,topic,PREREQUISITE_OF,Critical Theories of Delinquency,topic,A taught first,,CJUS_2361_triples_raw.json
+CJUS_2361,Social Learning Theory,concept,PART_OF,Micro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Strain Theory,concept,PART_OF,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Labeling Theory,concept,PART_OF,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Control Balance Theory,concept,PART_OF,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Self-Control Theory,concept,PART_OF,Micro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Routine Activities Theory,concept,PART_OF,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,General Strain Theory,concept,PART_OF,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Peer Influence,concept,PART_OF,Peer and Gang Influences on Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Juvenile Delinquency Theories,concept,PART_OF,Theories of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Prevention Strategies for Delinquency,concept,PART_OF,Theories of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Conflict Theory,concept,PART_OF,Critical Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Subcultural Theory,concept,PART_OF,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Cultural Deviance Theory,concept,PART_OF,Critical Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Differential Association Theory,concept,PART_OF,Critical Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Family Structure,concept,PART_OF,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Parental Involvement,concept,PART_OF,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Child Abuse Factors,concept,PART_OF,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Socioeconomic Status,concept,PART_OF,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Delinquent Peer Groups,concept,PART_OF,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Family Conflict Theories,concept,PART_OF,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Juvenile Offender Types,concept,PART_OF,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,School Delinquency,concept,PART_OF,Schools and Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Juvenile Offending,concept,PART_OF,Schools and Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Delinquent Behavior,concept,PART_OF,Schools and Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Policing Juveniles,concept,PART_OF,Responses to Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Separate System Justification,concept,PART_OF,Responses to Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Preventive Interventions,concept,PART_OF,"Preventive, Rehabilitative, and Restorative Approaches to Delinquency",topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Rehabilitation Programs,concept,PART_OF,"Preventive, Rehabilitative, and Restorative Approaches to Delinquency",topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Restorative Justice,concept,PART_OF,"Preventive, Rehabilitative, and Restorative Approaches to Delinquency",topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Risk and Needs Assessment,concept,PART_OF,"Preventive, Rehabilitative, and Restorative Approaches to Delinquency",topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Community-Based Services,concept,PART_OF,"Preventive, Rehabilitative, and Restorative Approaches to Delinquency",topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Cognitive-Behavioral Treatment,concept,PART_OF,"Preventive, Rehabilitative, and Restorative Approaches to Delinquency",topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Micro-Level Theories of Delinquency,topic,SUBTYPE_OF,Theories of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Macro-Level Theories of Delinquency,topic,SUBTYPE_OF,Theories of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Responses to Juvenile Delinquency,topic,SUBTYPE_OF,Creation of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Strain Theory,concept,USED_FOR,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Labeling Theory,concept,USED_FOR,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Control Balance Theory,concept,USED_FOR,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Self-Control Theory,concept,USED_FOR,Micro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Routine Activities Theory,concept,USED_FOR,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,General Strain Theory,concept,USED_FOR,Macro-Level Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Peer Influence,concept,USED_FOR,Peer and Gang Influences on Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Juvenile Delinquency Theories,concept,USED_FOR,Theories of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Conflict Theory,concept,USED_FOR,Critical Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Differential Association Theory,concept,USED_FOR,Critical Theories of Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Family Structure,concept,USED_FOR,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Family Conflict Theories,concept,USED_FOR,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Juvenile Offender Types,concept,USED_FOR,Social Contexts of Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,School Delinquency,concept,USED_FOR,Schools and Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Juvenile Offending,concept,USED_FOR,Schools and Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Delinquent Behavior,concept,USED_FOR,Schools and Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Separate System Justification,concept,USED_FOR,Responses to Juvenile Delinquency,topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Restorative Justice,concept,USED_FOR,"Preventive, Rehabilitative, and Restorative Approaches to Delinquency",topic,,,CJUS_2361_triples_raw.json
+CJUS_2361,Community-Based Services,concept,USED_FOR,"Preventive, Rehabilitative, and Restorative Approaches to Delinquency",topic,,,CJUS_2361_triples_raw.json

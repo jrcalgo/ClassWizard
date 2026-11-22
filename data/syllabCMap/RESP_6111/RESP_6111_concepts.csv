@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RESP_6111,topic,Patient-Centered Care,Patient-Centered Care,2,verified,Patient-Centered Care,RESP_6111_concepts_raw.json
+RESP_6111,topic,Cardiopulmonary Disease Mgmt,Cardiopulmonary Disease Mgmt,2,verified,Cardiopulmonary Disease Mgmt,RESP_6111_concepts_raw.json
+RESP_6111,concept,evidence-based care plans,evidence- based care plans,1,verified,evidence-based care plans,RESP_6111_concepts_raw.json
+RESP_6111,concept,patient disease self-management,patient disease self-management,1,verified,patient disease self-management,RESP_6111_concepts_raw.json
+RESP_6111,concept,interpersonal communication skills,Interpersonal Communication Skills,1,inferred,interpersonal communication skills,RESP_6111_concepts_raw.json
+RESP_6111,concept,socioeconomic factors influence,Socioeconomic Factors Influence,1,inferred,socioeconomic factors influence,RESP_6111_concepts_raw.json
+RESP_6111,concept,healthcare access barriers,Healthcare Access Barriers,1,inferred,healthcare access barriers,RESP_6111_concepts_raw.json
+RESP_6111,concept,cultural competence in healthcare,Cultural Competence in Healthcare,1,inferred,cultural competence in healthcare,RESP_6111_concepts_raw.json
+RESP_6111,concept,motivational interviewing strategies,Motivational Interviewing Strategies,1,inferred,motivational interviewing strategies,RESP_6111_concepts_raw.json
+RESP_6111,concept,patient empowerment models,Patient Empowerment Models,1,inferred,patient empowerment models,RESP_6111_concepts_raw.json
+RESP_6111,concept,behavior change theories,Behavior Change Theories,1,inferred,behavior change theories,RESP_6111_concepts_raw.json
+RESP_6111,concept,self-management education programs,Self-Management Education Programs,1,inferred,self-management education programs,RESP_6111_concepts_raw.json
+RESP_6111,concept,chronic disease management,Chronic Disease Management,1,inferred,chronic disease management,RESP_6111_concepts_raw.json
+RESP_6111,concept,health literacy interventions,Health Literacy Interventions,1,inferred,health literacy interventions,RESP_6111_concepts_raw.json
+RESP_6111,concept,palliative care principles,Palliative Care Principles,1,inferred,palliative care principles,RESP_6111_concepts_raw.json
+RESP_6111,concept,end-of-life decision making,End-of-Life Decision Making,1,inferred,end-of-life decision making,RESP_6111_concepts_raw.json
+RESP_6111,concept,patient-centered care models,Patient-Centered Care Models,1,inferred,patient-centered care models,RESP_6111_concepts_raw.json

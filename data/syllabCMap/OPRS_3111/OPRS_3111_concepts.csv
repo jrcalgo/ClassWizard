@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+OPRS_3111,topic,Optimization,Optimization,5,inferred,Optimization,OPRS_3111_concepts_raw.json
+OPRS_3111,topic,Mathematical Modeling,Mathematical Modeling,1,inferred,Mathematical Modeling,OPRS_3111_concepts_raw.json
+OPRS_3111,topic,Problem Formulation Strategies,Problem Formulation Strategies,1,inferred,Problem Formulation Strategies,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Optimization Problem Types,Optimization Problem Types,1,inferred,Optimization Problem Types,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Objective Function Notation,Objective Function Notation,1,inferred,Objective Function Notation,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Constraint Handling Methods,Constraint Handling Methods,1,inferred,Constraint Handling Methods,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Graphical Method Overview,Graphical Method Overview,1,inferred,Graphical Method Overview,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Simplex Algorithm Basics,Simplex Algorithm Basics,1,inferred,Simplex Algorithm Basics,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Duality Theory Introduction,Duality Theory Introduction,1,inferred,Duality Theory Introduction,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Branch and Bound Methods,Branch and Bound Methods,1,inferred,Branch and Bound Methods,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Cutting Plane Algorithms,Cutting Plane Algorithms,1,inferred,Cutting Plane Algorithms,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Nonlinear Optimization Techniques,Nonlinear Optimization Techniques,1,inferred,Nonlinear Optimization Techniques,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Linear Programming Solver Tools,Linear Programming Solver Tools,1,inferred,Linear Programming Solver Tools,OPRS_3111_concepts_raw.json
+OPRS_3111,topic,Optimization Package Selection,Optimization Package Selection,1,inferred,Optimization Package Selection,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Linear Programming Basics,Linear Programming Basics,1,inferred,Linear Programming Basics,OPRS_3111_concepts_raw.json
+OPRS_3111,concept,Mathematical Modeling Techniques,Mathematical Modeling Techniques,1,inferred,Mathematical Modeling Techniques,OPRS_3111_concepts_raw.json

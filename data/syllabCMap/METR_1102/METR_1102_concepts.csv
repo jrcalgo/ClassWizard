@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+METR_1102,topic,Meteorology,Meteorology,5,verified,Introduction to Meteorology,METR_1102_concepts_raw.json
+METR_1102,topic,Large-Scale Climate Processes,large-scale climate processes,1,verified,Large-Scale Climate Processes,METR_1102_concepts_raw.json
+METR_1102,topic,Local Carolina Weather,local Carolina weather,1,verified,Local Carolina Weather,METR_1102_concepts_raw.json
+METR_1102,concept,meteorological terminology,meteorological terminology,1,verified,meteorological terminology,METR_1102_concepts_raw.json
+METR_1102,topic,Solar Radiation Basics,Solar Radiation Basics,1,inferred,Solar Radiation Basics,METR_1102_concepts_raw.json
+METR_1102,topic,Global Circulation Patterns,Global Circulation Patterns,1,inferred,Global Circulation Patterns,METR_1102_concepts_raw.json
+METR_1102,topic,Environmental Issues in Meteorology,Environmental Issues in Meteorology,1,inferred,Environmental Issues in Meteorology,METR_1102_concepts_raw.json
+METR_1102,topic,Cloud Formation and Types,Cloud Formation and Types,1,inferred,Cloud Formation and Types,METR_1102_concepts_raw.json
+METR_1102,topic,Atmospheric Stability and Precipitation,Atmospheric Stability and Precipitation,1,inferred,Atmospheric Stability and Precipitation,METR_1102_concepts_raw.json
+METR_1102,topic,Weather Systems and Forecasting,Weather Systems and Forecasting,1,inferred,Weather Systems and Forecasting,METR_1102_concepts_raw.json
+METR_1102,topic,Severe Weather Phenomena,Severe Weather Phenomena,1,inferred,Severe Weather Phenomena,METR_1102_concepts_raw.json
+METR_1102,concept,solar energy and atmosphere,Solar Energy and Atmosphere,1,inferred,solar energy and atmosphere,METR_1102_concepts_raw.json
+METR_1102,concept,radiative transfer process,Radiative Transfer Process,1,inferred,radiative transfer process,METR_1102_concepts_raw.json
+METR_1102,concept,atmospheric absorption,Atmospheric Absorption,1,inferred,atmospheric absorption,METR_1102_concepts_raw.json
+METR_1102,concept,global wind patterns formation,Global Wind Patterns Formation,1,inferred,global wind patterns formation,METR_1102_concepts_raw.json
+METR_1102,concept,trade winds and westerlies,Trade Winds and Westerlies,1,inferred,trade winds and westerlies,METR_1102_concepts_raw.json
+METR_1102,concept,jet stream and high-low pressure,Jet Stream and High-Low Pressure,1,inferred,jet stream and high-low pressure,METR_1102_concepts_raw.json
+METR_1102,concept,climate change and human impact,Climate Change and Human Impact,1,inferred,climate change and human impact,METR_1102_concepts_raw.json
+METR_1102,concept,greenhouse effect and ozone layer,Greenhouse Effect and Ozone Layer,1,inferred,greenhouse effect and ozone layer,METR_1102_concepts_raw.json
+METR_1102,concept,air pollution and atmospheric chemistry,Air Pollution and Atmospheric Chemistry,1,inferred,air pollution and atmospheric chemistry,METR_1102_concepts_raw.json
+METR_1102,concept,nimbus and cumulus clouds formation,Nimbus and Cumulus Clouds Formation,1,inferred,nimbus and cumulus clouds formation,METR_1102_concepts_raw.json
+METR_1102,concept,stratus and stratocumulus clouds,Stratus and Stratocumulus Clouds,1,inferred,stratus and stratocumulus clouds,METR_1102_concepts_raw.json
+METR_1102,concept,cirrus and altocumulus clouds,Cirrus and Altocumulus Clouds,1,inferred,cirrus and altocumulus clouds,METR_1102_concepts_raw.json
+METR_1102,concept,stability index and atmospheric conditions,Stability Index and Atmospheric Conditions,1,inferred,stability index and atmospheric conditions,METR_1102_concepts_raw.json
+METR_1102,concept,precipitation processes and types,Precipitation Processes and Types,1,inferred,precipitation processes and types,METR_1102_concepts_raw.json
+METR_1102,concept,frontal and convectional precipitation,Frontal and Convectional Precipitation,1,inferred,frontal and convectional precipitation,METR_1102_concepts_raw.json
+METR_1102,concept,high-low pressure systems formation,High-Low Pressure Systems Formation,1,inferred,high-low pressure systems formation,METR_1102_concepts_raw.json
+METR_1102,concept,fronts and weather patterns,Fronts and Weather Patterns,1,inferred,fronts and weather patterns,METR_1102_concepts_raw.json
+METR_1102,concept,forecasting techniques and models,Forecasting Techniques and Models,1,inferred,forecasting techniques and models,METR_1102_concepts_raw.json
+METR_1102,concept,El Niño and La Niña events,El Niño and La Niña Events,1,inferred,El Niño and La Niña events,METR_1102_concepts_raw.json
+METR_1102,concept,PDO and AMO climate patterns,PDO and AMO Climate Patterns,1,inferred,PDO and AMO climate patterns,METR_1102_concepts_raw.json
+METR_1102,concept,global warming and climate change,Global Warming and Climate Change,1,inferred,global warming and climate change,METR_1102_concepts_raw.json

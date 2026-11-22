@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_4051,topic,Data Analysis and Exploration,Data Analysis and Exploration,1,verified,Data Analysis and Exploration,MATH_4051_concepts_raw.json
+MATH_4051,topic,Dynamical Models and Difference Equations,Dynamical Models and Difference Equations,1,verified,Dynamical Models and Difference Equations,MATH_4051_concepts_raw.json
+MATH_4051,topic,Physical Models,Physical Models,1,verified,Physical Models,MATH_4051_concepts_raw.json
+MATH_4051,topic,Combinatorics and Probability,Combinatorics and Probability,1,verified,Combinatorics and Probability,MATH_4051_concepts_raw.json
+MATH_4051,topic,Optimization,Optimization,1,verified,Optimization,MATH_4051_concepts_raw.json
+MATH_4051,method,financial mathematics,Financial Mathematics,2,verified,financial mathematics,MATH_4051_concepts_raw.json
+MATH_4051,topic,Business Simulations,Business Simulations,1,verified,Business Simulations,MATH_4051_concepts_raw.json
+MATH_4051,method,numerical integration,numerical integration,1,verified,numerical integration,MATH_4051_concepts_raw.json
+MATH_4051,method,statistical analysis,statistical analysis,1,verified,statistical analysis,MATH_4051_concepts_raw.json
+MATH_4051,method,hypothesis testing,hypothesis testing,1,verified,hypothesis testing,MATH_4051_concepts_raw.json
+MATH_4051,method,iterated function systems,iterated function systems,1,verified,iterated function systems,MATH_4051_concepts_raw.json
+MATH_4051,method,Monte Carlo simulations,Monte Carlo simulations,1,verified,Monte Carlo simulations,MATH_4051_concepts_raw.json
+MATH_4051,concept,difference equations,Difference Equations,1,verified,difference equations,MATH_4051_concepts_raw.json
+MATH_4051,concept,dynamical systems,dynamical systems,1,verified,dynamical systems,MATH_4051_concepts_raw.json
+MATH_4051,concept,harvesting models,Harvesting Models,1,verified,harvesting models,MATH_4051_concepts_raw.json
+MATH_4051,concept,orbits of celestial bodies,orbits of celestial bodies,1,verified,orbits of celestial bodies,MATH_4051_concepts_raw.json
+MATH_4051,concept,heat propagation,heat propagation,1,verified,heat propagation,MATH_4051_concepts_raw.json
+MATH_4051,concept,birthday problem,birthday problem,1,verified,birthday problem,MATH_4051_concepts_raw.json
+MATH_4051,concept,genetics,genetics,1,verified,genetics,MATH_4051_concepts_raw.json
+MATH_4051,concept,inventory control,inventory control,1,verified,inventory control,MATH_4051_concepts_raw.json
+MATH_4051,concept,stock price simulation,Stock Price Simulation,1,verified,stock price simulation,MATH_4051_concepts_raw.json
+MATH_4051,concept,pricing of derivatives,Pricing of Derivatives,1,verified,pricing of derivatives,MATH_4051_concepts_raw.json
+MATH_4051,method,writing spreadsheet formulas,writing spreadsheet formulas,1,verified,writing spreadsheet formulas,MATH_4051_concepts_raw.json
+MATH_4051,method,associated mathematical techniques,associated mathematical techniques,1,verified,associated mathematical techniques,MATH_4051_concepts_raw.json
+MATH_4051,method,dynamical systems simulations,dynamical systems simulations,1,verified,dynamical systems simulations,MATH_4051_concepts_raw.json
+MATH_4051,method,probabilistic models,probabilistic models,1,verified,probabilistic models,MATH_4051_concepts_raw.json
+MATH_4051,method,simulation of distributions,simulation of distributions,2,verified,simulation of distributions,MATH_4051_concepts_raw.json
+MATH_4051,tool,Excel,Excel,4,verified,Excel,MATH_4051_concepts_raw.json

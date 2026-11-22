@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6156,topic,Applied Machine Learning,Applied Machine Learning,1,verified,Applied Machine Learning,DSBA_6156_concepts_raw.json
+DSBA_6156,topic,Machine Learning Methods,machine learning methods,2,verified,Machine Learning Methods,DSBA_6156_concepts_raw.json
+DSBA_6156,topic,Scikit-Learn & TensorFlow,Scikit-Learn & TensorFlow,1,verified,Scikit-Learn & TensorFlow,DSBA_6156_concepts_raw.json
+DSBA_6156,tool,Python,Python,3,verified,Python,DSBA_6156_concepts_raw.json
+DSBA_6156,tool,Scikit-Learn,Scikit-Learn,1,verified,Scikit-Learn,DSBA_6156_concepts_raw.json
+DSBA_6156,tool,TensorFlow,TensorFlow,1,verified,TensorFlow,DSBA_6156_concepts_raw.json

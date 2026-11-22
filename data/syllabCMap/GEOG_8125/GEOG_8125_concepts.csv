@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_8125,topic,Nature of spatial data,Nature of spatial data,2,verified,Nature of spatial data,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,scale,scale,2,verified,scale,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,representation,representation,2,verified,representation,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,projection,projections,2,verified,projection,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,topological relationships,topological relationships,2,verified,topological relationships,GEOG_8125_concepts_raw.json
+GEOG_8125,topic,data acquisition,data acquisition,3,verified,data acquisition,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,data uncertainty,data uncertainty,2,verified,data uncertainty,GEOG_8125_concepts_raw.json
+GEOG_8125,topic,data organization,data organization,2,verified,data organization,GEOG_8125_concepts_raw.json
+GEOG_8125,topic,spatial data manipulation and protection,spatial data manipulation and protection,2,verified,spatial data manipulation and protection,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,overlay operations,overlay operations,2,verified,overlay operations,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,network analysis,network analysis,2,verified,network analysis,GEOG_8125_concepts_raw.json
+GEOG_8125,topic,raster and terrain modeling,raster and terrain modeling,2,verified,raster and terrain modeling,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,spatial autocorrelation,spatial autocorrelation,2,verified,spatial autocorrelation,GEOG_8125_concepts_raw.json
+GEOG_8125,topic,spatial interpolation,spatial interpolation,2,verified,spatial interpolation,GEOG_8125_concepts_raw.json
+GEOG_8125,topic,spatial and space-time clustering,spatial and space-time clustering,2,verified,spatial and space-time clustering,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,spatial data,spatial data,6,verified,spatial data,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,geocoding,geocoding,2,verified,geocoding,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,GPS,GPS,2,verified,GPS,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,Volunteered Geographic Information,Volunteered Geographic Information,2,verified,Volunteered Geographic Information,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,aggregation,aggregation,2,verified,aggregation,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,terrain modeling,terrain modeling,2,verified,terrain modeling,GEOG_8125_concepts_raw.json
+GEOG_8125,concept,space-time clustering,space-time clustering,2,verified,space-time clustering,GEOG_8125_concepts_raw.json
+GEOG_8125,method,geomasking,geomasking,2,verified,geomasking,GEOG_8125_concepts_raw.json
+GEOG_8125,method,spatial join,spatial join,2,verified,spatial join,GEOG_8125_concepts_raw.json
+GEOG_8125,method,cartographic design,cartographic design,1,verified,cartographic design,GEOG_8125_concepts_raw.json

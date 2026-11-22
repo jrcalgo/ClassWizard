@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_4211,Newton's second law application,concept,PREREQUISITE_OF,Steering System Dynamics,topic,A taught first,,MEGR_4211_triples_raw.json
+MEGR_4211,Newton's second law application,concept,PREREQUISITE_OF,Tire Behavior Modeling,topic,A taught first,,MEGR_4211_triples_raw.json
+MEGR_4211,Newton's second law application,concept,PART_OF,Vehicle Dynamics,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,Steering System Dynamics,topic,PART_OF,Vehicle Dynamics,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,Tire Behavior Modeling,topic,PART_OF,Vehicle Dynamics,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,Design Evaluation and Optimization,topic,PART_OF,Vehicle Dynamics,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,acceleration performance analysis,concept,PART_OF,Acceleration and Braking,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,braking system dynamics,concept,PART_OF,Acceleration and Braking,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,energy dissipation mechanisms,concept,PART_OF,Acceleration and Braking,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,cornering forces and moments,concept,PART_OF,Steady-State Cornering,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,vehicle stability analysis,concept,PART_OF,Steady-State Cornering,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,tire-road interaction,concept,PART_OF,Steady-State Cornering,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,suspension system dynamics,concept,PART_OF,Suspension Components Modeling,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,component force analysis,concept,PART_OF,Suspension Components Modeling,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,performance criteria evaluation,concept,PART_OF,Design Evaluation and Optimization,topic,,,MEGR_4211_triples_raw.json
+MEGR_4211,design optimization techniques,concept,PART_OF,Design Evaluation and Optimization,topic,,,MEGR_4211_triples_raw.json

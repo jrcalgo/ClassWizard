@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RESP_6101,topic,Respiratory Care Leadership,Respiratory Care Leadership,2,verified,Respiratory Care Leadership,RESP_6101_concepts_raw.json
+RESP_6101,topic,Evidence-Based Management,Evidence-based management,1,verified,Evidence-Based Management,RESP_6101_concepts_raw.json
+RESP_6101,concept,leadership theories,leadership theories,1,verified,leadership theories,RESP_6101_concepts_raw.json
+RESP_6101,concept,evidence-based practice concepts,evidence-based practice concepts,1,verified,evidence-based practice concepts,RESP_6101_concepts_raw.json
+RESP_6101,topic,Foundations of Leadership,Foundations of Leadership,1,inferred,Foundations of Leadership,RESP_6101_concepts_raw.json
+RESP_6101,topic,Collaborative Decision Making,Collaborative Decision Making,1,inferred,Collaborative Decision Making,RESP_6101_concepts_raw.json
+RESP_6101,topic,Leading People and Teams,Leading People and Teams,1,inferred,Leading People and Teams,RESP_6101_concepts_raw.json
+RESP_6101,topic,Managing Resources and Change,Managing Resources and Change,1,inferred,Managing Resources and Change,RESP_6101_concepts_raw.json
+RESP_6101,concept,scholarship in leadership,Scholarship in Leadership,1,inferred,scholarship in leadership,RESP_6101_concepts_raw.json
+RESP_6101,concept,effective communication strategies,Effective Communication Strategies,1,inferred,effective communication strategies,RESP_6101_concepts_raw.json
+RESP_6101,concept,culturally competent interactions,Culturally Competent Interactions,1,inferred,culturally competent interactions,RESP_6101_concepts_raw.json
+RESP_6101,concept,decision-making processes,Decision-Making Processes,1,inferred,decision-making processes,RESP_6101_concepts_raw.json
+RESP_6101,concept,using evidence in decisions,Using Evidence in Decisions,1,inferred,using evidence in decisions,RESP_6101_concepts_raw.json
+RESP_6101,concept,organizational decision making,Organizational Decision Making,1,inferred,organizational decision making,RESP_6101_concepts_raw.json
+RESP_6101,concept,best practices in leadership,Best Practices in Leadership,1,inferred,best practices in leadership,RESP_6101_concepts_raw.json
+RESP_6101,concept,leadership styles and traits,Leadership Styles and Traits,1,inferred,leadership styles and traits,RESP_6101_concepts_raw.json
+RESP_6101,concept,team building and development,Team Building and Development,1,inferred,team building and development,RESP_6101_concepts_raw.json
+RESP_6101,concept,motivating and empowering,Motivating and Empowering,1,inferred,motivating and empowering,RESP_6101_concepts_raw.json
+RESP_6101,concept,resource allocation and management,Resource Allocation and Management,1,inferred,resource allocation and management,RESP_6101_concepts_raw.json
+RESP_6101,concept,change management strategies,Change Management Strategies,1,inferred,change management strategies,RESP_6101_concepts_raw.json

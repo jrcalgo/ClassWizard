@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_3110,parameter estimation,method,PREREQUISITE_OF,Multiple Linear Regression Model,concept,same unit,,STAT_3110_triples_raw.json
+STAT_3110,model assessment and diagnostics,method,PREREQUISITE_OF,model selection,method,B taught first,B is taught before A - check,STAT_3110_triples_raw.json
+STAT_3110,parameter estimation,method,PART_OF,simple and multiple linear regression,topic,,,STAT_3110_triples_raw.json
+STAT_3110,model assessment and diagnostics,method,PART_OF,simple and multiple linear regression,topic,,,STAT_3110_triples_raw.json
+STAT_3110,R,tool,USED_FOR,using real data and statistical software,method,,,STAT_3110_triples_raw.json

@@ -1,0 +1,50 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SOCY_3155,concept,Human Inquiry,Human Inquiry,4,verified,Human Inquiry,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Scientific Methodology,Scientific Methodology,1,verified,Scientific Methodology,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Research Paradigms,Research Paradigms,1,verified,Research Paradigms,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Informed Consent,Informed Consent,3,verified,Informed Consent,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,SimCheck Information,SimCheck Information,2,verified,SimCheck Information,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Research Ethics,Research Ethics,1,verified,Research Ethics,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Data Collection Methods,data collection methods,15,verified,Data Collection Methods,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Unobtrusive Data Collection,unobtrusive data collection,52,verified,Unobtrusive Data Collection,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Experimental Design,Experimental Design,6,verified,Experimental Design,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Survey Research Methods,Survey Research Methods,2,verified,Survey Research Methods,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Random Sampling Techniques,Random Sampling Techniques,1,verified,Random Sampling Techniques,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Questionnaire Surveys,questionnaire surveys,48,verified,Questionnaire Surveys,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Hypothesis Formulation,Hypothesis Formulation,7,verified,Hypothesis Formulation,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Measuring Variables Effectively,Measuring Variables Effectively,2,verified,Measuring Variables Effectively,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Conceptualization,Conceptualization,4,verified,Conceptualization,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Operationalization,Operationalization,4,verified,Operationalization,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Measurement,Measurement,4,verified,Measurement,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Index Construction,Index Construction,2,verified,Index Construction,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Scale Types,Scale Types,1,verified,Scale Types,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Typology Development,Typology Development,1,verified,Typology Development,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Ordinal Scales,Ordinal Scales,2,verified,Ordinal Scales,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Nominal Scales,Nominal Scales,2,verified,Nominal Scales,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Probability Sampling,Probability Sampling,2,verified,Probability Sampling,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Nonprobability Sampling,Nonprobability Sampling,2,verified,Nonprobability Sampling,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Systematic Sampling,Systematic Sampling,2,verified,Systematic Sampling,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Stratified Sampling,Stratified Sampling,2,verified,Stratified Sampling,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Cluster Sampling,Cluster Sampling,2,verified,Cluster Sampling,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Multivariate Analysis,Multivariate Analysis,4,verified,Multivariate Analysis,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Ordinary Least Squares,Ordinary Least Squares,1,verified,Ordinary Least Squares,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Multiple Regression,Multiple Regression,1,verified,Multiple Regression,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Confounding Variables,Confounding Variables,1,verified,Confounding Variables,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Interaction Effects,Interaction Effects,1,verified,Interaction Effects,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Dummy Variables,Dummy Variables,1,verified,Dummy Variables,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Standardized Coefficients,Standardized Coefficients,1,verified,Standardized Coefficients,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Data Reduction Techniques,Data Reduction Techniques,1,verified,Data Reduction Techniques,SOCY_3155_concepts_raw.json
+SOCY_3155,concept,Variable Selection Criteria,Variable Selection Criteria,1,verified,Variable Selection Criteria,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Qualitative Interviews,qualitative interviews,49,verified,Qualitative Interviews,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Experiments in Research,Experiments in Research,39,verified,Experiments in Research,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Hypothetical Research Project,hypothetical research project,8,verified,Hypothetical Research Project,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Research Design Principles,Research Design Principles,5,verified,Research Design Principles,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Participant Selection,Participant Selection,14,verified,Participant Selection,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Coding Techniques,Coding Techniques,2,verified,Coding Techniques,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Theme Identification,Theme Identification,2,verified,Theme Identification,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Data Interpretation,Data Interpretation,2,verified,Data Interpretation,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Pattern Recognition,Pattern Recognition,1,verified,Pattern Recognition,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Descriptive Statistics,Descriptive Statistics,2,verified,Descriptive Statistics,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Inferential Statistics,Inferential Statistics,2,verified,Inferential Statistics,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Hypothesis Testing,Hypothesis Testing,4,verified,Hypothesis Testing,SOCY_3155_concepts_raw.json
+SOCY_3155,method,Regression Analysis,Regression Analysis,2,verified,Regression Analysis,SOCY_3155_concepts_raw.json

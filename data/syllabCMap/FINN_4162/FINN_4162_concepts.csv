@@ -1,0 +1,33 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_4162,topic,Fintech,Fintech,6,verified,Fintech,FINN_4162_concepts_raw.json
+FINN_4162,topic,Wealth Management and AI,Wealth Management and AI,1,verified,Wealth Management and AI,FINN_4162_concepts_raw.json
+FINN_4162,method,Critical thinking,critical thinking,1,verified,Critical thinking,FINN_4162_concepts_raw.json
+FINN_4162,tool,ChatGPT,ChatGPT,2,verified,ChatGPT,FINN_4162_concepts_raw.json
+FINN_4162,topic,Payments and Transfers,Payments and Transfers,1,inferred,Payments and Transfers,FINN_4162_concepts_raw.json
+FINN_4162,topic,Lending and Credit Scoring,Lending and Credit Scoring,1,inferred,Lending and Credit Scoring,FINN_4162_concepts_raw.json
+FINN_4162,topic,Insurance and Risk Management,Insurance and Risk Management,1,inferred,Insurance and Risk Management,FINN_4162_concepts_raw.json
+FINN_4162,topic,Regulatory Challenges and Opportunities,Regulatory Challenges and Opportunities,1,inferred,Regulatory Challenges and Opportunities,FINN_4162_concepts_raw.json
+FINN_4162,topic,Emerging Trends and Solutions,Emerging Trends and Solutions,1,inferred,Emerging Trends and Solutions,FINN_4162_concepts_raw.json
+FINN_4162,concept,Evolution of Financial Technology,Evolution of Financial Technology,1,inferred,Evolution of Financial Technology,FINN_4162_concepts_raw.json
+FINN_4162,concept,Impact on Financial Services Industry,Impact on Financial Services Industry,1,inferred,Impact on Financial Services Industry,FINN_4162_concepts_raw.json
+FINN_4162,concept,Fintech and Financial Institutions,Fintech and Financial Institutions,1,inferred,Fintech and Financial Institutions,FINN_4162_concepts_raw.json
+FINN_4162,concept,Digital Payment Systems,Digital Payment Systems,1,inferred,Digital Payment Systems,FINN_4162_concepts_raw.json
+FINN_4162,concept,Mobile Wallets and Payments,Mobile Wallets and Payments,1,inferred,Mobile Wallets and Payments,FINN_4162_concepts_raw.json
+FINN_4162,concept,Cryptocurrencies and Blockchain,Cryptocurrencies and Blockchain,1,inferred,Cryptocurrencies and Blockchain,FINN_4162_concepts_raw.json
+FINN_4162,concept,Alternative Lending Platforms,Alternative Lending Platforms,1,inferred,Alternative Lending Platforms,FINN_4162_concepts_raw.json
+FINN_4162,concept,Credit Risk Assessment Models,Credit Risk Assessment Models,1,inferred,Credit Risk Assessment Models,FINN_4162_concepts_raw.json
+FINN_4162,concept,Machine Learning in Lending,Machine Learning in Lending,1,inferred,Machine Learning in Lending,FINN_4162_concepts_raw.json
+FINN_4162,concept,Robo-Advisors and Wealth Management,Robo-Advisors and Wealth Management,1,inferred,Robo-Advisors and Wealth Management,FINN_4162_concepts_raw.json
+FINN_4162,concept,AI-Powered Investment Strategies,AI-Powered Investment Strategies,1,inferred,AI-Powered Investment Strategies,FINN_4162_concepts_raw.json
+FINN_4162,concept,Portfolio Optimization Techniques,Portfolio Optimization Techniques,1,inferred,Portfolio Optimization Techniques,FINN_4162_concepts_raw.json
+FINN_4162,concept,Insurtech and Digital Insurance,Insurtech and Digital Insurance,1,inferred,Insurtech and Digital Insurance,FINN_4162_concepts_raw.json
+FINN_4162,concept,Predictive Analytics in Insurance,Predictive Analytics in Insurance,1,inferred,Predictive Analytics in Insurance,FINN_4162_concepts_raw.json
+FINN_4162,concept,Risk Assessment and Mitigation,Risk Assessment and Mitigation,1,inferred,Risk Assessment and Mitigation,FINN_4162_concepts_raw.json
+FINN_4162,concept,Fintech Regulatory Frameworks,Fintech Regulatory Frameworks,1,inferred,Fintech Regulatory Frameworks,FINN_4162_concepts_raw.json
+FINN_4162,concept,Compliance and Risk Management,Compliance and Risk Management,1,inferred,Compliance and Risk Management,FINN_4162_concepts_raw.json
+FINN_4162,concept,Blockchain and Distributed Ledger,Blockchain and Distributed Ledger,1,inferred,Blockchain and Distributed Ledger,FINN_4162_concepts_raw.json
+FINN_4162,concept,Quantum Computing in Finance,Quantum Computing in Finance,1,inferred,Quantum Computing in Finance,FINN_4162_concepts_raw.json
+FINN_4162,concept,Sustainable Fintech Practices,Sustainable Fintech Practices,1,inferred,Sustainable Fintech Practices,FINN_4162_concepts_raw.json
+FINN_4162,method,Credit risk assessment,Credit Risk Assessment,1,inferred,Credit risk assessment,FINN_4162_concepts_raw.json
+FINN_4162,method,Machine learning,Machine Learning,1,inferred,Machine learning,FINN_4162_concepts_raw.json
+FINN_4162,method,Portfolio optimization,Portfolio Optimization,1,inferred,Portfolio optimization,FINN_4162_concepts_raw.json

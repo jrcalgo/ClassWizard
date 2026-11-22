@@ -2,8 +2,8 @@
 
 Implements the "/recommend" plan in the semantic-search spec. No language
 model is involved: candidates come from the parsed DegreeWorks audit, and
-each candidate is scored by cosine similarity between its catalog
-description vector and each chosen occupation's vector (text_chunks).
+candidates use current Spark hybrid ratings when complete, otherwise cosine
+similarity between catalog and occupation vectors (text_chunks).
 
 Decisions taken (Nov 6, defaults from the spec):
   * Several careers combine by MAX: a course that strongly serves one chosen
@@ -25,6 +25,9 @@ tested without HTTP or Redis. backend/main.py wires them to POST /recommend.
 """
 
 from __future__ import annotations
+
+import math
+from ai.recommendations.scoring import release_key, SCORING_VERSION
 
 from ai.nlp.embeddings.sentence_transformer import MODEL_NAME
 
@@ -124,20 +127,6 @@ def recommend(conn, audit: dict, soc_codes: list[str], limit: int = 10, catalog:
     missing = [soc for soc in soc_codes if soc not in titles]
     if missing:
         raise MissingVectors(f"occupations not loaded: {', '.join(missing)}")
-    embedded = {
-        row[0]
-        for row in conn.execute(
-            """
-            SELECT source_key FROM text_chunks
-            WHERE source_type = 'occupation' AND source_key = ANY(%s) AND embedding IS NOT NULL
-            """,
-            (soc_codes,),
-        ).fetchall()
-    }
-    missing = [soc for soc in soc_codes if soc not in embedded]
-    if missing:
-        raise MissingVectors(f"occupation vectors missing: {', '.join(missing)}")
-
     candidates = candidate_courses(audit)
     codes = sorted(candidates)
     rows = conn.execute(
@@ -158,6 +147,7 @@ def recommend(conn, audit: dict, soc_codes: list[str], limit: int = 10, catalog:
     result = {
         "catalog": catalog,
         "model": MODEL_NAME,
+        "scoring_method": "cosine_similarity",
         "occupations": [{"soc_code": soc, "title": titles[soc]} for soc in soc_codes],
         "recommendations": [],
         "unmatched": unmatched,
@@ -166,26 +156,67 @@ def recommend(conn, audit: dict, soc_codes: list[str], limit: int = 10, catalog:
     if not matched:
         return result
 
-    # Exact cosine similarity for every (course, occupation) pair. The set is
-    # small (tens of courses x at most 5 careers), so no index is involved.
-    pairs = conn.execute(
-        """
-        SELECT c.source_key, o.source_key, 1 - (c.embedding <=> o.embedding)
-        FROM text_chunks c
-        JOIN text_chunks o
-          ON o.source_type = 'occupation' AND o.source_key = ANY(%s)
-        WHERE c.source_type = 'course' AND c.source_key = ANY(%s)
-          AND c.metadata->>'catalog' = %s
-          AND c.embedding IS NOT NULL AND o.embedding IS NOT NULL
-        """,
-        (soc_codes, matched, catalog),
-    ).fetchall()
-    similarity: dict[str, dict[str, float]] = {}
-    for course, soc, value in pairs:
-        similarity.setdefault(course, {})[soc] = round(float(value), 4)
-    missing = [code for code in matched if code not in similarity]
-    if missing:
-        raise MissingVectors(f"course vectors missing: {', '.join(missing)}")
+    from ai.recommendations.scoring import marker
+    from ai.recommendations.scoring import training_identity, BLEND_VERSION, ALS_TRAINING_VERSION
+    spark_scores, components = {}, {}
+    use_spark = False
+    if marker(conn, 'spark_hybrid') == release_key(conn):
+        rows = conn.execute("""SELECT course_code,soc_code,hybrid_rating,als_score,
+            normalized_als_score,blended_rating FROM course_career_scores
+            WHERE catalog_name=%s AND soc_code=ANY(%s)
+            AND EXISTS (SELECT 1 FROM courses c WHERE c.catalog_name=course_career_scores.catalog_name
+                        AND c.code=course_career_scores.course_code)""", (catalog,soc_codes)).fetchall()
+        catalog_count = conn.execute('SELECT count(*) FROM courses WHERE catalog_name=%s', (catalog,)).fetchone()[0]
+        expected = catalog_count * len(set(soc_codes))
+        hybrid_ok = len(rows) == expected and all(r[2] is not None and math.isfinite(r[2]) and 0 <= r[2] <= 5 for r in rows)
+        als_ok = marker(conn, 'spark_als') == training_identity(marker(conn, 'spark_training_fingerprint') or '')
+        blended_ok = hybrid_ok and als_ok and marker(conn, 'spark_blend') == BLEND_VERSION and all(all(v is not None and math.isfinite(v) for v in r[3:]) and 0 <= r[4] <= 5 and 0 <= r[5] <= 5 for r in rows)
+        if hybrid_ok:
+            use_spark = True
+            result['scoring_method'] = 'spark_blended' if blended_ok else 'spark_hybrid'
+            result['scoring_version'] = SCORING_VERSION + (':' + ALS_TRAINING_VERSION + ':' + BLEND_VERSION if blended_ok else '')
+            for code, soc, hybrid, als, normalized, blended in rows:
+                spark_scores.setdefault(code,{})[soc] = float(blended if blended_ok else hybrid)
+                components.setdefault(code,{})[soc] = dict(zip(
+                    ('hybrid_rating','als_score','normalized_als_score','blended_rating'),
+                    (hybrid, als if als_ok and als is not None and math.isfinite(als) else None, normalized if blended_ok else None, blended if blended_ok else None)))
+
+    similarity = spark_scores
+    if not use_spark:
+        embedded = {
+            row[0]
+            for row in conn.execute(
+                """
+                SELECT source_key FROM text_chunks
+                WHERE source_type = 'occupation' AND source_key = ANY(%s) AND embedding IS NOT NULL
+                """,
+                (soc_codes,),
+            ).fetchall()
+        }
+        missing = [soc for soc in soc_codes if soc not in embedded]
+        if missing:
+            raise MissingVectors(f"occupation vectors missing: {', '.join(missing)}")
+
+        # Exact cosine similarity for every (course, occupation) pair. The set is
+        # small (tens of courses x at most 5 careers), so no index is involved.
+        pairs = conn.execute(
+            """
+            SELECT c.source_key, o.source_key, 1 - (c.embedding <=> o.embedding)
+            FROM text_chunks c
+            JOIN text_chunks o
+              ON o.source_type = 'occupation' AND o.source_key = ANY(%s)
+            WHERE c.source_type = 'course' AND c.source_key = ANY(%s)
+              AND c.metadata->>'catalog' = %s
+              AND c.embedding IS NOT NULL AND o.embedding IS NOT NULL
+            """,
+            (soc_codes, matched, catalog),
+        ).fetchall()
+        similarity: dict[str, dict[str, float]] = {}
+        for course, soc, value in pairs:
+            similarity.setdefault(course, {})[soc] = round(float(value), 4)
+        missing = [code for code in matched if code not in similarity]
+        if missing:
+            raise MissingVectors(f"course vectors missing: {', '.join(missing)}")
 
     prerequisites: dict[str, list[str]] = {}
     for course, target in conn.execute(
@@ -212,7 +243,10 @@ def recommend(conn, audit: dict, soc_codes: list[str], limit: int = 10, catalog:
                 "credits": credit_hours,
                 "requirement_blocks": candidates[code],
                 "score": max(by_occupation.values()),
-                "similarity_by_occupation": by_occupation,
+                "score_by_occupation": by_occupation,
+                "score_components_by_occupation": components.get(code, {soc: dict.fromkeys(("hybrid_rating", "als_score", "normalized_als_score", "blended_rating")) for soc in soc_codes}),
+                "scoring_method": result["scoring_method"],
+                **({"similarity_by_occupation": by_occupation} if not use_spark else {}),
                 "prerequisites": [
                     {"code": target, "met": target in satisfied}
                     for target in prerequisites.get(code, [])

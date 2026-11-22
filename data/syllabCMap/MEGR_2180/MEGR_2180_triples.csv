@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_2180,economics of manufacturing,concept,PART_OF,Manufacturing Fundamentals,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,metal properties and behavior,concept,PART_OF,Materials and Characteristics,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,casting process overview,concept,PART_OF,Conventional Processes,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,forging and extrusion basics,concept,PART_OF,Conventional Processes,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,rolling and joining fundamentals,concept,PART_OF,Conventional Processes,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,EDM and ECM principles,concept,PART_OF,Non-Conventional Processes,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,laser machining techniques,concept,PART_OF,Non-Conventional Processes,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,abrasive flow process overview,concept,PART_OF,Non-Conventional Processes,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,drilling basics,concept,PART_OF,Machining Processes,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,lead time analysis,concept,PART_OF,Process Analysis and Selection,topic,,,MEGR_2180_triples_raw.json
+MEGR_2180,manufacturing process parameters,concept,USED_FOR,Process Analysis and Selection,topic,,,MEGR_2180_triples_raw.json

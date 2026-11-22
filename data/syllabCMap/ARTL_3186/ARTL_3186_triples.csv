@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTL_3186,formal and conceptual relationships,concept,PREREQUISITE_OF,natural and constructed spaces,concept,A taught first,,ARTL_3186_triples_raw.json
+ARTL_3186,formal and conceptual relationships,concept,PREREQUISITE_OF,film and television production,concept,A taught first,,ARTL_3186_triples_raw.json
+ARTL_3186,design,method,PREREQUISITE_OF,construction,method,A mentioned first,,ARTL_3186_triples_raw.json
+ARTL_3186,research,method,PREREQUISITE_OF,iterative design process,method,A mentioned first,,ARTL_3186_triples_raw.json
+ARTL_3186,planning,method,PREREQUISITE_OF,construction,method,A mentioned first,,ARTL_3186_triples_raw.json
+ARTL_3186,formal and conceptual relationships,concept,PART_OF,Visual Development,topic,,,ARTL_3186_triples_raw.json
+ARTL_3186,design,method,PART_OF,iterative design process,method,,,ARTL_3186_triples_raw.json
+ARTL_3186,research,method,PART_OF,iterative design process,method,,,ARTL_3186_triples_raw.json
+ARTL_3186,planning,method,PART_OF,iterative design process,method,,,ARTL_3186_triples_raw.json
+ARTL_3186,construction,method,PART_OF,iterative design process,method,,,ARTL_3186_triples_raw.json

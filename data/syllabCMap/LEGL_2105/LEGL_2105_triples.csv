@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_2105,Sources of Law,concept,PREREQUISITE_OF,Legal System Basics,concept,same unit,,LEGL_2105_triples_raw.json
+LEGL_2105,Legislation Creation,concept,PREREQUISITE_OF,Regulation Development,concept,same unit,,LEGL_2105_triples_raw.json
+LEGL_2105,Offer and Acceptance,concept,PREREQUISITE_OF,Consideration Requirements,concept,same unit,,LEGL_2105_triples_raw.json
+LEGL_2105,Sources of Law,concept,PART_OF,Legal System Basics,concept,,,LEGL_2105_triples_raw.json
+LEGL_2105,Legislation Creation,concept,PART_OF,Regulation Development,concept,,,LEGL_2105_triples_raw.json

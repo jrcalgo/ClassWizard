@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETGR_3171,concept,double integrals,Double Integrals,2,verified,double integrals,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,Laplace transforms,Laplace Transforms,3,verified,Laplace transforms,ETGR_3171_concepts_raw.json
+ETGR_3171,topic,Matrices and Systems,Matrices and Systems,1,verified,Matrices and Systems,ETGR_3171_concepts_raw.json
+ETGR_3171,topic,Engineering Analysis,engineering analysis,1,verified,Engineering Analysis,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,first order differential equations,First Order Differential Equations,1,verified,first order differential equations,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,general and particular solutions,General and Particular Solutions,1,verified,general and particular solutions,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,slope fields,Slope Fields,1,verified,slope fields,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,separation of variables,Separation of Variables,1,verified,separation of variables,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,substitution methods,Substitution Methods,1,verified,substitution methods,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,Bernoulli equations,Bernoulli Equations,1,verified,Bernoulli equations,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,higher-order linear differential equations,Higher-Order Linear Differential Equations,1,verified,higher-order linear differential equations,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,homogenous equations,Homogenous Equations,1,verified,homogenous equations,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,nonhomogeneous equations,Nonhomogeneous Equations,1,verified,nonhomogeneous equations,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,Euler-Cauchy equations,Euler- Cauchy Equations,1,verified,Euler-Cauchy equations,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,reduction of order,reduction of order,1,verified,reduction of order,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,inverse Laplace transforms,Inverse Laplace Transforms,1,verified,inverse Laplace transforms,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,matrix algebra,Matrix Algebra,1,verified,matrix algebra,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,matrix operations,Matrix Operations,1,verified,matrix operations,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,inverse matrices,Inverse matrices,1,verified,inverse matrices,ETGR_3171_concepts_raw.json
+ETGR_3171,concept,Cramer's rule,Cramer's rule,1,verified,Cramer's rule,ETGR_3171_concepts_raw.json

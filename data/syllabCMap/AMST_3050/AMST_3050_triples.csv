@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AMST_3050,Noble Cause Mythology,concept,PART_OF,Vietnam War Era,topic,,,AMST_3050_triples_raw.json
+AMST_3050,Noble Cause Mythology,concept,PART_OF,American Imagination,topic,,,AMST_3050_triples_raw.json
+AMST_3050,Noble Cause Mythology,concept,PART_OF,Cultural Context,topic,,,AMST_3050_triples_raw.json
+AMST_3050,Noble Cause Mythology,concept,PART_OF,Lasting Effects,topic,,,AMST_3050_triples_raw.json

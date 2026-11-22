@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITSC_2181,computer and processor architecture,topic,PREREQUISITE_OF,C programming,topic,A taught first,,ITSC_2181_triples_raw.json
+ITSC_2181,instruction set architecture and introduction to assembly language,topic,PREREQUISITE_OF,C programming,topic,B mentioned first,,ITSC_2181_triples_raw.json
+ITSC_2181,C programming,topic,PREREQUISITE_OF,system calls,topic,A taught first,,ITSC_2181_triples_raw.json
+ITSC_2181,C programming,topic,PREREQUISITE_OF,processes and process memory layout,topic,A mentioned first,,ITSC_2181_triples_raw.json
+ITSC_2181,C programming,topic,PREREQUISITE_OF,interfaces for memory allocation and file systems,topic,A mentioned first,,ITSC_2181_triples_raw.json
+ITSC_2181,C programming,topic,PREREQUISITE_OF,file and directory management via the command line,topic,A mentioned first,,ITSC_2181_triples_raw.json
+ITSC_2181,system calls,topic,PREREQUISITE_OF,interfaces for memory allocation and file systems,topic,A mentioned first,,ITSC_2181_triples_raw.json
+ITSC_2181,system calls,topic,PREREQUISITE_OF,file and directory management via the command line,topic,A mentioned first,,ITSC_2181_triples_raw.json
+ITSC_2181,C programming basics,concept,PART_OF,C programming,topic,,,ITSC_2181_triples_raw.json
+ITSC_2181,pointers,concept,PART_OF,C programming,topic,,,ITSC_2181_triples_raw.json
+ITSC_2181,Von-Neumann architecture,concept,PART_OF,computer and processor architecture,topic,,,ITSC_2181_triples_raw.json
+ITSC_2181,Component of a computer system,concept,PART_OF,computer and processor architecture,topic,,,ITSC_2181_triples_raw.json
+ITSC_2181,Moore's Law,concept,PART_OF,computer and processor architecture,topic,,,ITSC_2181_triples_raw.json
+ITSC_2181,variables and memory address (pointers,concept,PART_OF,C programming basics,concept,,,ITSC_2181_triples_raw.json
+ITSC_2181,writing,method,PART_OF,C programming,topic,,,ITSC_2181_triples_raw.json
+ITSC_2181,building,method,PART_OF,C programming,topic,,,ITSC_2181_triples_raw.json
+ITSC_2181,Unix command line,tool,USED_FOR,file and directory management via the command line,topic,,,ITSC_2181_triples_raw.json

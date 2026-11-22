@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EMGT_5201,deterministic optimization problems,concept,PREREQUISITE_OF,Integer Programming Fundamentals,topic,A taught first,,EMGT_5201_triples_raw.json
+EMGT_5201,deterministic optimization problems,concept,PREREQUISITE_OF,Dynamic Programming Principles,topic,A taught first,,EMGT_5201_triples_raw.json
+EMGT_5201,deterministic optimization problems,concept,PREREQUISITE_OF,Advanced Optimization Methods,topic,A taught first,,EMGT_5201_triples_raw.json
+EMGT_5201,linear programming formulation,concept,PREREQUISITE_OF,Integer Programming Fundamentals,topic,A taught first,,EMGT_5201_triples_raw.json
+EMGT_5201,linear programming formulation,concept,PREREQUISITE_OF,branch and bound algorithm,concept,A taught first,,EMGT_5201_triples_raw.json
+EMGT_5201,linear programming formulation,concept,PREREQUISITE_OF,cutting plane method,concept,A taught first,,EMGT_5201_triples_raw.json
+EMGT_5201,dynamic programming formulation,concept,PREREQUISITE_OF,Bellman's equation application,concept,same unit,,EMGT_5201_triples_raw.json
+EMGT_5201,Integer Programming Fundamentals,topic,PART_OF,Deterministic System Analysis,topic,,,EMGT_5201_triples_raw.json
+EMGT_5201,Dynamic Programming Principles,topic,PART_OF,Deterministic System Analysis,topic,,,EMGT_5201_triples_raw.json
+EMGT_5201,Nonlinear Programming Techniques,topic,PART_OF,Deterministic System Analysis,topic,,,EMGT_5201_triples_raw.json
+EMGT_5201,Advanced Optimization Methods,topic,PART_OF,Deterministic System Analysis,topic,,,EMGT_5201_triples_raw.json
+EMGT_5201,Linear Programming Basics,topic,PART_OF,Deterministic System Analysis,topic,,,EMGT_5201_triples_raw.json
+EMGT_5201,Bellman's equation application,concept,USED_FOR,dynamic programming formulation,concept,,,EMGT_5201_triples_raw.json
+EMGT_5201,dynamic programming formulation,concept,USED_FOR,optimal substructure property,concept,,,EMGT_5201_triples_raw.json

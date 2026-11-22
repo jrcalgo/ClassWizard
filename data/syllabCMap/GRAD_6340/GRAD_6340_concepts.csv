@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GRAD_6340,method,hypothesis testing,hypothesis testing,1,verified,hypothesis testing,GRAD_6340_concepts_raw.json
+GRAD_6340,method,sensitivity analysis,sensitivity analysis,2,verified,sensitivity analysis,GRAD_6340_concepts_raw.json
+GRAD_6340,concept,Pivot Tables,Pivot Tables,1,verified,Pivot Tables,GRAD_6340_concepts_raw.json
+GRAD_6340,concept,Formulas,formulas,2,verified,Formulas,GRAD_6340_concepts_raw.json
+GRAD_6340,method,goal seek,goal seek,1,verified,goal seek,GRAD_6340_concepts_raw.json
+GRAD_6340,tool,Excel,Excel,1,verified,Excel,GRAD_6340_concepts_raw.json
+GRAD_6340,tool,Tableau,Tableau,3,verified,Tableau,GRAD_6340_concepts_raw.json

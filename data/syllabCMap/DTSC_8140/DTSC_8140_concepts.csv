@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DTSC_8140,concept,State Graphs,State Graphs,2,verified,State Graphs,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Search Algorithms,Search Algorithms,2,verified,Search Algorithms,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Data Mining Techniques,Data Mining Techniques,2,verified,Data Mining Techniques,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Data Discretization & Data Balancing,Data Discretization & Data Balancing,2,verified,Data Discretization & Data Balancing,DTSC_8140_concepts_raw.json
+DTSC_8140,concept,Data Semantics & Ontology,Data Semantics & Ontology,2,verified,Data Semantics & Ontology,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Data Reduction,Data Reduction,2,verified,Data Reduction,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,NLP,NLP,2,verified,NLP,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Mining Distributed & Big Data,Mining Distributed & Big Data,2,verified,Mining Distributed & Big Data,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Action Rules Discovery & Meta Actions,Action Rules Discovery & Meta Actions,2,verified,Action Rules Discovery & Meta Actions,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Knowledge Graphs,Knowledge Graphs,2,verified,Knowledge Graphs,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Propositional Logic,Propositional Logic,2,verified,Propositional Logic,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,First-Order Logic,First-Order Logic,2,verified,First-Order Logic,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Gentzen Systems,Gentzen Systems,2,verified,Gentzen Systems,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Modal Logic,Modal Logic,2,verified,Modal Logic,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Large Language Models,Large Language Models,2,verified,Large Language Models,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Retrieval-Augmented Generation,Retrieval-Augmented Generation,2,verified,Retrieval-Augmented Generation,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Recommender Systems & Personalization,Recommender Systems & Personalization,2,verified,Recommender Systems & Personalization,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Knowledge Graph based Recommender Systems,Knowledge Graph based Recommender Systems,2,verified,Knowledge Graph based Recommender Systems,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,LLM based Recommender Systems,LLM based Recommender Systems,2,verified,LLM based Recommender Systems,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Examples of Recommender Systems in Business,Examples of Recommender Systems in Business,2,verified,Examples of Recommender Systems in Business,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Healthcare,Healthcare,2,verified,Healthcare,DTSC_8140_concepts_raw.json
+DTSC_8140,topic,Art,Art,2,verified,Art,DTSC_8140_concepts_raw.json

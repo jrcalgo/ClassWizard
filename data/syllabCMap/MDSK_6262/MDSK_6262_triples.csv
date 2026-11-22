@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_6262,EdTech,topic,PART_OF,AI and EdTech in the Classroom,topic,,,MDSK_6262_triples_raw.json
+MDSK_6262,EdTech,topic,PART_OF,AI and GenAI Fundamentals,topic,,,MDSK_6262_triples_raw.json
+MDSK_6262,Digital Literacy and Citizenship,topic,PART_OF,EdTech,topic,,,MDSK_6262_triples_raw.json
+MDSK_6262,Assessment and Feedback,topic,PART_OF,EdTech,topic,,,MDSK_6262_triples_raw.json
+MDSK_6262,Lesson Design with EdTech,topic,PART_OF,EdTech,topic,,,MDSK_6262_triples_raw.json
+MDSK_6262,Data Security and Privacy,topic,PART_OF,EdTech,topic,,,MDSK_6262_triples_raw.json
+MDSK_6262,EdTech Leadership and Policy,topic,PART_OF,EdTech,topic,,,MDSK_6262_triples_raw.json

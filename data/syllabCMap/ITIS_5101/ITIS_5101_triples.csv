@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_5101,primitive data types,concept,PREREQUISITE_OF,conditional statements,concept,same unit,,ITIS_5101_triples_raw.json
+ITIS_5101,primitive data types,concept,PREREQUISITE_OF,creating exceptions,concept,A taught first,,ITIS_5101_triples_raw.json
+ITIS_5101,primitive data types,concept,PREREQUISITE_OF,throwing exceptions,concept,A taught first,,ITIS_5101_triples_raw.json
+ITIS_5101,stacks and queues,concept,PREREQUISITE_OF,trees and heaps,concept,same unit,,ITIS_5101_triples_raw.json
+ITIS_5101,abstract data types,concept,PREREQUISITE_OF,inheritance and polymorphism,concept,A taught first,,ITIS_5101_triples_raw.json
+ITIS_5101,abstract data types,concept,PREREQUISITE_OF,abstract classes and interfaces,concept,A taught first,,ITIS_5101_triples_raw.json
+ITIS_5101,primitive data types,concept,PART_OF,programming,topic,,,ITIS_5101_triples_raw.json
+ITIS_5101,conditional statements,concept,PART_OF,programming,topic,,,ITIS_5101_triples_raw.json
+ITIS_5101,creating exceptions,concept,PART_OF,exception handling,method,,part is broader than whole - check direction,ITIS_5101_triples_raw.json
+ITIS_5101,throwing exceptions,concept,PART_OF,exception handling,method,,part is broader than whole - check direction,ITIS_5101_triples_raw.json
+ITIS_5101,stacks and queues,concept,PART_OF,abstract data types,concept,,,ITIS_5101_triples_raw.json
+ITIS_5101,trees and heaps,concept,PART_OF,abstract data types,concept,,,ITIS_5101_triples_raw.json
+ITIS_5101,algorithmic solution,method,USED_FOR,problem-solving approaches,method,,,ITIS_5101_triples_raw.json
+ITIS_5101,data structures,method,USED_FOR,algorithmic solution,method,,,ITIS_5101_triples_raw.json
+ITIS_5101,test cases,method,USED_FOR,testing,method,,,ITIS_5101_triples_raw.json

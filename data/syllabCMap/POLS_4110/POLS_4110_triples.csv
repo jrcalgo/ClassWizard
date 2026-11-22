@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_4110,legislative process,topic,PREREQUISITE_OF,parliamentary procedure,topic,A taught first,,POLS_4110_triples_raw.json
+POLS_4110,interim council debates,topic,PREREQUISITE_OF,NCSL annual session,topic,A taught first,,POLS_4110_triples_raw.json
+POLS_4110,legislative process,topic,PREREQUISITE_OF,resolution and bill drafting,concept,A taught first,,POLS_4110_triples_raw.json
+POLS_4110,resolution and bill drafting,concept,PART_OF,legislative process,topic,,,POLS_4110_triples_raw.json
+POLS_4110,interim council debates,topic,PART_OF,legislative process,topic,,,POLS_4110_triples_raw.json
+POLS_4110,NCSL annual session,topic,PART_OF,legislative process,topic,,,POLS_4110_triples_raw.json
+POLS_4110,parliamentary procedure,topic,PART_OF,legislative process,topic,,,POLS_4110_triples_raw.json

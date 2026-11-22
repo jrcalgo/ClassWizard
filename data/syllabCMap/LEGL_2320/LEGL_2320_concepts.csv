@@ -1,0 +1,50 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LEGL_2320,topic,court area,court area,1,verified,court area,LEGL_2320_concepts_raw.json
+LEGL_2320,topic,social science literature,social science literature,1,verified,social science literature,LEGL_2320_concepts_raw.json
+LEGL_2320,topic,prosecutors,prosecutors,1,verified,prosecutors,LEGL_2320_concepts_raw.json
+LEGL_2320,topic,defense attorneys,defense attorneys,2,verified,defense attorneys,LEGL_2320_concepts_raw.json
+LEGL_2320,topic,judges,judges,1,verified,judges,LEGL_2320_concepts_raw.json
+LEGL_2320,topic,juries,juries,1,verified,juries,LEGL_2320_concepts_raw.json
+LEGL_2320,topic,court structure,court structure,24,verified,court structure,LEGL_2320_concepts_raw.json
+LEGL_2320,topic,court reform policies,court reform policies,3,verified,court reform policies,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Prosecutorial discretion,Prosecutorial discretion,54,verified,Prosecutorial discretion,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Defense attorney roles,Defense attorney roles,21,verified,Defense attorney roles,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Judicial independence,Judicial independence,24,verified,Judicial independence,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Court structure models,Court structure models,21,verified,Court structure models,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Jury selection process,Jury selection process,27,verified,Jury selection process,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Murray Process Diagrams,Murray Process Diagrams,2,verified,Murray Process Diagrams,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,American Simulation,American Simulation,1,verified,American Simulation,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Adversarial System,Adversarial System,1,verified,Adversarial System,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Prosecution Strategies,Prosecution Strategies,1,verified,Prosecution Strategies,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Prosecutor-Defendant Relationship,Prosecutor-Defendant Relationship,1,verified,Prosecutor-Defendant Relationship,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Defense Attorney Role,Defense attorney roles,21,verified,Defense Attorney Role,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Prosecutorial Discretion Theory,Prosecutorial Discretion Theory,1,verified,Prosecutorial Discretion Theory,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Defense Attorney Ethics,Defense Attorney Ethics,1,verified,Defense Attorney Ethics,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Public Defender System,Public Defender System,2,verified,Public Defender System,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Gideon v. Wainwright,Gideon v. Wainwright,1,verified,Gideon v. Wainwright,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Right to counsel,Right to counsel,1,verified,Right to counsel,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Court-appointed attorneys,Court-appointed attorneys,1,verified,Court-appointed attorneys,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Indigent defense,Indigent defense,1,verified,Indigent defense,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Alford Plea,Alford Plea,1,verified,Alford Plea,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Change of Venue Motions,Change of Venue Motions,1,verified,Change of Venue Motions,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Venue Selection Criteria,Venue Selection Criteria,1,verified,Venue Selection Criteria,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Jurisdictional Issues,Jurisdictional Issues,1,verified,Jurisdictional Issues,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Grand Jury Process,Grand Jury Process,1,verified,Grand Jury Process,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Hearing Procedures,Hearing Procedures,1,verified,Hearing Procedures,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Brady v Ruling,Brady v Ruling,1,verified,Brady v Ruling,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Selective Prosecution,Selective Prosecution,1,verified,Selective Prosecution,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Batson Challenge,Batson Challenge,1,verified,Batson Challenge,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Racial Bias in Jury Selection,Racial Bias in Jury Selection,1,verified,Racial Bias in Jury Selection,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Equal Protection Clause,Equal Protection Clause,1,verified,Equal Protection Clause,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Due Process Rights,Due Process Rights,1,verified,Due Process Rights,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Trial Structure,Trial Structure,1,verified,Trial Structure,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Judge's Authority,Judge's Authority,1,verified,Judge's Authority,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Plea Bargaining Process,Plea Bargaining Process,2,verified,Plea Bargaining Process,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Defense Attorney Strategies,Defense attorney strategies,20,verified,Defense Attorney Strategies,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Judicial Sentencing Guidelines,Judicial Sentencing Guidelines,1,verified,Judicial Sentencing Guidelines,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Guilty Plea Negotiations,Guilty Plea Negotiations,1,verified,Guilty Plea Negotiations,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Sentence Severity,Sentence Severity,1,verified,Sentence Severity,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Punishment Theories,Punishment Theories,1,verified,Punishment Theories,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Sentencing Guidelines,Sentencing Guidelines,2,verified,Sentencing Guidelines,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Imprisonment Alternatives,Imprisonment Alternatives,1,verified,Imprisonment Alternatives,LEGL_2320_concepts_raw.json
+LEGL_2320,concept,Probation Requirements,Probation Requirements,1,verified,Probation Requirements,LEGL_2320_concepts_raw.json

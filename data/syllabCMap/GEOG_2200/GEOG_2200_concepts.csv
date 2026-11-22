@@ -1,0 +1,52 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_2200,concept,Urbanization Process,Urbanization Process,13,verified,Urbanization Process,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Transportation Infrastructure Planning,Transportation Infrastructure Planning,20,verified,Transportation Infrastructure Planning,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Sustainable Urban Development,Sustainable Urban Development,14,verified,Sustainable Urban Development,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Form Characteristics,Urban Form Characteristics,5,verified,Urban Form Characteristics,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Studies Discipline,Urban Studies Discipline,1,verified,Urban Studies Discipline,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,City Form Theory,City Form Theory,1,verified,City Form Theory,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Planning History,Urban Planning History,1,verified,Urban Planning History,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Social Justice,Urban Social Justice,1,verified,Urban Social Justice,GEOG_2200_concepts_raw.json
+GEOG_2200,topic,Urban Geography,Urban Geography,2,verified,Urban Geography,GEOG_2200_concepts_raw.json
+GEOG_2200,topic,Critical Urban Theory,Critical Urban Theory,1,verified,Critical Urban Theory,GEOG_2200_concepts_raw.json
+GEOG_2200,topic,Urban Form Analysis,Urban Form Analysis,4,verified,Urban Form Analysis,GEOG_2200_concepts_raw.json
+GEOG_2200,topic,Spatial Inequality,Spatial Inequality,2,verified,Spatial Inequality,GEOG_2200_concepts_raw.json
+GEOG_2200,topic,Urban Planning Models,Urban Planning Models,1,verified,Urban Planning Models,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urbanism as a lifestyle,Urbanism as a lifestyle,2,verified,Urbanism as a lifestyle,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Post-suburbanization trends,Post-suburbanization trends,1,verified,Post-suburbanization trends,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Gentrification effects,Gentrification effects,10,verified,Gentrification effects,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban sprawl consequences,Urban sprawl consequences,3,verified,Urban sprawl consequences,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Suburbanization patterns,Suburbanization patterns,4,verified,Suburbanization patterns,GEOG_2200_concepts_raw.json
+GEOG_2200,topic,Urban Transportation Systems,Urban Transportation Systems,55,verified,Urban Transportation Systems,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Bus Rapid Transit Design,Bus Rapid Transit Design,35,verified,Bus Rapid Transit Design,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Public Space Management,Public Space Management,35,verified,Public Space Management,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Sprawl Effects,Urban Sprawl Effects,45,verified,Urban Sprawl Effects,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Sustainable Urban Planning,Sustainable Urban Planning,27,verified,Sustainable Urban Planning,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Inequality,Urban Inequality,1,verified,Urban Inequality,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Spatial Segregation,Spatial Segregation,1,verified,Spatial Segregation,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Social Exclusion,Social Exclusion,1,verified,Social Exclusion,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Neighborhood Effects,Neighborhood Effects,1,verified,Neighborhood Effects,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Gentrification Process,Gentrification Process,1,verified,Gentrification Process,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Immigration policies,Immigration policies,1,verified,Immigration policies,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban representation models,Urban representation models,1,verified,Urban representation models,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Gentrification dynamics,Gentrification dynamics,2,verified,Gentrification dynamics,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Neighborhood revitalization strategies,Neighborhood revitalization strategies,1,verified,Neighborhood revitalization strategies,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Public transportation equity,Public transportation equity,1,verified,Public transportation equity,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Soundscapes,Urban Soundscapes,1,verified,Urban Soundscapes,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Acoustic Ecology,Acoustic Ecology,1,verified,Acoustic Ecology,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Noise Pollution,Noise Pollution,1,verified,Noise Pollution,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Sound Urbanism,Sound Urbanism,1,verified,Sound Urbanism,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,City Soundscape,City Soundscape,1,verified,City Soundscape,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Governance,Urban Governance,2,verified,Urban Governance,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Council Decision Making,Council Decision Making,1,verified,Council Decision Making,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Public Transportation Policy,Public Transportation Policy,2,verified,Public Transportation Policy,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,City Budgeting Process,City Budgeting Process,1,verified,City Budgeting Process,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Ecology,Urban Ecology,4,verified,Urban Ecology,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Social Disorganization Theory,Social Disorganization Theory,2,verified,Social Disorganization Theory,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Ecological Fallacy,Ecological Fallacy,2,verified,Ecological Fallacy,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Human Ecology Perspective,Human Ecology Perspective,2,verified,Human Ecology Perspective,GEOG_2200_concepts_raw.json
+GEOG_2200,concept,Urban Social Structure,Urban Social Structure,6,verified,Urban Social Structure,GEOG_2200_concepts_raw.json
+GEOG_2200,work,"Wirth, Urbanism as a Way of Life","Wirth, Urbanism as a Way of Life",2,verified,"Wirth, Urbanism as a Way of Life",GEOG_2200_concepts_raw.json
+GEOG_2200,work,"Robert Park, the City","Robert Park, the City",2,verified,"Robert Park, the City",GEOG_2200_concepts_raw.json
+GEOG_2200,work,Chicago School,Chicago School,2,verified,The Chicago School,GEOG_2200_concepts_raw.json
+GEOG_2200,work,Jane Jacobs vs Modern Planning,Jane Jacobs vs Modern Planning,2,verified,Jane Jacobs vs Modern Planning,GEOG_2200_concepts_raw.json

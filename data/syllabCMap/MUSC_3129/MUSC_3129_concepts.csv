@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MUSC_3129,topic,Music Theories,Music Theories,1,verified,Introduction to Music Theories,MUSC_3129_concepts_raw.json
+MUSC_3129,topic,Tuning and Notation Systems,Tuning and Notation Systems,1,inferred,Tuning and Notation Systems,MUSC_3129_concepts_raw.json
+MUSC_3129,topic,Melodic Structures and Modes,Melodic Structures and Modes,1,inferred,Melodic Structures and Modes,MUSC_3129_concepts_raw.json
+MUSC_3129,topic,Rhythmic Concepts and Patterns,Rhythmic Concepts and Patterns,1,inferred,Rhythmic Concepts and Patterns,MUSC_3129_concepts_raw.json
+MUSC_3129,topic,Form and Compositional Style,Form and Compositional Style,1,inferred,Form and Compositional Style,MUSC_3129_concepts_raw.json
+MUSC_3129,topic,Musical Instruments and Traditions,Musical Instruments and Traditions,1,inferred,Musical Instruments and Traditions,MUSC_3129_concepts_raw.json
+MUSC_3129,topic,Music in Social Contexts,Music in Social Contexts,1,inferred,Music in Social Contexts,MUSC_3129_concepts_raw.json
+MUSC_3129,topic,Comparative Analysis and Synthesis,Comparative Analysis and Synthesis,1,inferred,Comparative Analysis and Synthesis,MUSC_3129_concepts_raw.json
+MUSC_3129,topic,Engaging with Music as a Performer,Engaging with Music as a Performer,1,inferred,Engaging with Music as a Performer,MUSC_3129_concepts_raw.json
+MUSC_3129,concept,Modal Scales and Melodies,Modal Scales and Melodies,1,inferred,Modal Scales and Melodies,MUSC_3129_concepts_raw.json
+MUSC_3129,concept,Pentatonic and Hexatonic Scales,Pentatonic and Hexatonic Scales,1,inferred,Pentatonic and Hexatonic Scales,MUSC_3129_concepts_raw.json
+MUSC_3129,concept,Melodic Contour and Shape,Melodic Contour and Shape,1,inferred,Melodic Contour and Shape,MUSC_3129_concepts_raw.json
+MUSC_3129,concept,Time Signatures and Rhythm,Time Signatures and Rhythm,1,inferred,Time Signatures and Rhythm,MUSC_3129_concepts_raw.json
+MUSC_3129,concept,Polyrhythms and Polymeter,Polyrhythms and Polymeter,1,inferred,Polyrhythms and Polymeter,MUSC_3129_concepts_raw.json
+MUSC_3129,concept,Syncopation and Accentuation,Syncopation and Accentuation,1,inferred,Syncopation and Accentuation,MUSC_3129_concepts_raw.json
+MUSC_3129,concept,Binary and Ternary Form,Binary and Ternary Form,1,inferred,Binary and Ternary Form,MUSC_3129_concepts_raw.json
+MUSC_3129,concept,Rondo and Sonata Form,Rondo and Sonata Form,1,inferred,Rondo and Sonata Form,MUSC_3129_concepts_raw.json
+MUSC_3129,concept,Compositional Techniques and Devices,Compositional Techniques and Devices,1,inferred,Compositional Techniques and Devices,MUSC_3129_concepts_raw.json

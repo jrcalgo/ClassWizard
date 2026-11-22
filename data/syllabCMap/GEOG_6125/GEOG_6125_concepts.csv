@@ -1,0 +1,30 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOG_6125,topic,Nature of spatial data,Nature of spatial data,2,verified,Nature of spatial data,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,scale,scale,2,verified,scale,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,representation,representation,2,verified,representation,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,projection,projections,2,verified,projection,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,topological relationships,topological relationships,2,verified,topological relationships,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,data acquisition,data acquisition,3,verified,data acquisition,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,data uncertainty,data uncertainty,2,verified,data uncertainty,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,data organization,data organization,2,verified,data organization,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,spatial data manipulation and protection,spatial data manipulation and protection,2,verified,spatial data manipulation and protection,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,overlay operations,overlay operations,2,verified,overlay operations,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,network analysis,network analysis,2,verified,network analysis,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,raster and terrain modeling,raster and terrain modeling,2,verified,raster and terrain modeling,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,spatial autocorrelation,spatial autocorrelation,2,verified,spatial autocorrelation,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,spatial interpolation,spatial interpolation,2,verified,spatial interpolation,GEOG_6125_concepts_raw.json
+GEOG_6125,topic,spatial and space-time clustering,spatial and space-time clustering,2,verified,spatial and space-time clustering,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,spatial data,spatial data,6,verified,spatial data,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,spatial join,spatial join,2,verified,spatial join,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,geocoding,geocoding,2,verified,geocoding,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,GPS,GPS,2,verified,GPS,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,Volunteered Geographic Information,Volunteered Geographic Information,2,verified,Volunteered Geographic Information,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,geomasking,geomasking,2,verified,geomasking,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,aggregation,aggregation,2,verified,aggregation,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,coordinate systems,coordinate systems,1,verified,coordinate systems,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,attribute data,attribute data,1,verified,attribute data,GEOG_6125_concepts_raw.json
+GEOG_6125,concept,map projections,map projections,1,verified,map projections,GEOG_6125_concepts_raw.json
+GEOG_6125,method,spatial and non-spatial queries,spatial and non-spatial queries,1,verified,spatial and non-spatial queries,GEOG_6125_concepts_raw.json
+GEOG_6125,method,analytical steps,analytical steps,1,verified,analytical steps,GEOG_6125_concepts_raw.json
+GEOG_6125,method,GIS analyses,GIS analyses,1,verified,GIS analyses,GEOG_6125_concepts_raw.json
+GEOG_6125,method,models,models,1,verified,models,GEOG_6125_concepts_raw.json

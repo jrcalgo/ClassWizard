@@ -1,0 +1,14 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2141,topic,Engineering Mechanics,Engineering Mechanics,1,verified,Engineering Mechanics,MEGR_2141_concepts_raw.json
+MEGR_2141,topic,Particle and Rigid Body Mechanics,particle and rigid body mechanics,1,verified,Particle and Rigid Body Mechanics,MEGR_2141_concepts_raw.json
+MEGR_2141,topic,Force Systems,force systems,1,verified,Force Systems,MEGR_2141_concepts_raw.json
+MEGR_2141,topic,Equilibrium of Particles and Rigid Bodies,equilibrium of particles and rigid bodies,1,verified,Equilibrium of Particles and Rigid Bodies,MEGR_2141_concepts_raw.json
+MEGR_2141,topic,Friction,friction,2,verified,Friction,MEGR_2141_concepts_raw.json
+MEGR_2141,topic,Properties of Areas and Volumes,properties of areas and volumes,1,verified,Properties of Areas and Volumes,MEGR_2141_concepts_raw.json
+MEGR_2141,concept,Free-body diagrams,free-body diagrams,1,verified,Free-body diagrams,MEGR_2141_concepts_raw.json
+MEGR_2141,concept,Loads in static systems,loads in static systems,1,verified,Loads in static systems,MEGR_2141_concepts_raw.json
+MEGR_2141,concept,Method of joints,method of joints,1,verified,Method of joints,MEGR_2141_concepts_raw.json
+MEGR_2141,concept,Method of sections,method of sections,2,verified,Method of sections,MEGR_2141_concepts_raw.json
+MEGR_2141,concept,First and second moments,first and second moments,1,verified,First and second moments,MEGR_2141_concepts_raw.json
+MEGR_2141,concept,Centroid and area moment,centroid and area moment,1,verified,Centroid and area moment,MEGR_2141_concepts_raw.json
+MEGR_2141,concept,Transfer of axis theorem,transfer of axis theorem,1,verified,Transfer of axis theorem,MEGR_2141_concepts_raw.json

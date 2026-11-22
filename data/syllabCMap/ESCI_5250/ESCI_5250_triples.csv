@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_5250,Midlatitude Synoptic Meteorology,topic,PREREQUISITE_OF,Importance of Rotation,topic,B mentioned first,,ESCI_5250_triples_raw.json
+ESCI_5250,Midlatitude Synoptic Meteorology,topic,PREREQUISITE_OF,Equations of Motion,topic,B mentioned first,,ESCI_5250_triples_raw.json
+ESCI_5250,quasi-geostrophic framework,concept,PART_OF,Equations of Motion,topic,,,ESCI_5250_triples_raw.json
+ESCI_5250,quasi-geostrophic framework,concept,PART_OF,Midlatitude Synoptic Meteorology,topic,,,ESCI_5250_triples_raw.json
+ESCI_5250,Importance of Rotation,topic,PART_OF,Midlatitude Synoptic Meteorology,topic,,,ESCI_5250_triples_raw.json
+ESCI_5250,Importance of Rotation,topic,PART_OF,Equations of Motion,topic,,,ESCI_5250_triples_raw.json
+ESCI_5250,Wave Phenomena,topic,PART_OF,Midlatitude Synoptic Meteorology,topic,,,ESCI_5250_triples_raw.json

@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HHUM_4020,topic,Experience Of Dementia,Experience Of Dementia,1,verified,The Experience Of Dementia,HHUM_4020_concepts_raw.json
+HHUM_4020,topic,Dementia,dementias,1,verified,Introduction to Dementia,HHUM_4020_concepts_raw.json
+HHUM_4020,topic,Biological Aspects,Biological Aspects,1,inferred,Biological Aspects,HHUM_4020_concepts_raw.json
+HHUM_4020,topic,Neurological Implications,Neurological Implications,1,inferred,Neurological Implications,HHUM_4020_concepts_raw.json
+HHUM_4020,topic,Social Aspects of Dementia,Social Aspects of Dementia,1,inferred,Social Aspects of Dementia,HHUM_4020_concepts_raw.json
+HHUM_4020,topic,Diagnosis and Assessment,Diagnosis and Assessment,1,inferred,Diagnosis and Assessment,HHUM_4020_concepts_raw.json
+HHUM_4020,topic,Supporting Individuals with Dementia,Supporting Individuals with Dementia,1,inferred,Supporting Individuals with Dementia,HHUM_4020_concepts_raw.json
+HHUM_4020,topic,Innovations in Dementia Support,Innovations in Dementia Support,1,inferred,Innovations in Dementia Support,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Alzheimer's disease definition,Alzheimer's disease definition,1,inferred,Alzheimer's disease definition,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Dementia types and causes,Dementia types and causes,1,inferred,Dementia types and causes,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Prevalence of dementia worldwide,Prevalence of dementia worldwide,1,inferred,Prevalence of dementia worldwide,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Neurotransmitter imbalance theory,Neurotransmitter imbalance theory,1,inferred,Neurotransmitter imbalance theory,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Amyloid plaque formation process,Amyloid plaque formation process,1,inferred,Amyloid plaque formation process,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Tau protein aggregation mechanism,Tau protein aggregation mechanism,1,inferred,Tau protein aggregation mechanism,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Brain region damage effects,Brain region damage effects,1,inferred,Brain region damage effects,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Cognitive decline symptoms,Cognitive decline symptoms,1,inferred,Cognitive decline symptoms,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Motor function impairment,Motor function impairment,1,inferred,Motor function impairment,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Caregiver burden and stress,Caregiver burden and stress,1,inferred,Caregiver burden and stress,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Family dynamics and relationships,Family dynamics and relationships,1,inferred,Family dynamics and relationships,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Societal stigma and attitudes,Societal stigma and attitudes,1,inferred,Societal stigma and attitudes,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Diagnostic criteria and tools,Diagnostic criteria and tools,1,inferred,Diagnostic criteria and tools,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Dementia staging systems,Dementia staging systems,1,inferred,Dementia staging systems,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Person-centered care principles,Person-centered care principles,1,inferred,Person-centered care principles,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Non-pharmacological interventions,Non-pharmacological interventions,1,inferred,Non-pharmacological interventions,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Assistive technology devices,Assistive technology devices,1,inferred,Assistive technology devices,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Virtual reality therapy applications,Virtual reality therapy applications,1,inferred,Virtual reality therapy applications,HHUM_4020_concepts_raw.json
+HHUM_4020,concept,Art and music therapy benefits,Art and music therapy benefits,1,inferred,Art and music therapy benefits,HHUM_4020_concepts_raw.json

@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_5233,parasites,concept,PART_OF,Parasitology,topic,,,BIOL_5233_triples_raw.json
+BIOL_5233,Morphology,topic,PART_OF,Parasitology,topic,,,BIOL_5233_triples_raw.json
+BIOL_5233,life cycles,topic,PART_OF,Parasitology,topic,,,BIOL_5233_triples_raw.json
+BIOL_5233,taxonomy,topic,PART_OF,Parasitology,topic,,,BIOL_5233_triples_raw.json
+BIOL_5233,medical and economic importance of parasites,topic,PART_OF,Parasitology,topic,,,BIOL_5233_triples_raw.json
+BIOL_5233,ecology,topic,PART_OF,Parasitology,topic,,,BIOL_5233_triples_raw.json

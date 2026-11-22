@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_5090,hardware security fundamentals,concept,PREREQUISITE_OF,side-channel attacks,concept,A taught first,,ECGR_5090_triples_raw.json
+ECGR_5090,hardware security fundamentals,concept,PREREQUISITE_OF,power analysis attacks,concept,A taught first,,ECGR_5090_triples_raw.json
+ECGR_5090,hardware security fundamentals,concept,PREREQUISITE_OF,countermeasures for physical attacks,concept,A taught first,,ECGR_5090_triples_raw.json
+ECGR_5090,PUF architecture and design,concept,PREREQUISITE_OF,PUF-based authentication,concept,same unit,,ECGR_5090_triples_raw.json
+ECGR_5090,PUF architecture and design,concept,PREREQUISITE_OF,PUF security properties,concept,same unit,,ECGR_5090_triples_raw.json
+ECGR_5090,TRNG fundamentals and principles,concept,PREREQUISITE_OF,TRNG implementation in hardware,concept,same unit,,ECGR_5090_triples_raw.json
+ECGR_5090,TRNG fundamentals and principles,concept,PREREQUISITE_OF,TRNG security applications,concept,same unit,,ECGR_5090_triples_raw.json
+ECGR_5090,side-channel attacks,concept,PART_OF,hardware security fundamentals,concept,,,ECGR_5090_triples_raw.json
+ECGR_5090,power analysis attacks,concept,PART_OF,hardware security fundamentals,concept,,,ECGR_5090_triples_raw.json
+ECGR_5090,countermeasures for physical attacks,concept,PART_OF,hardware security fundamentals,concept,,,ECGR_5090_triples_raw.json
+ECGR_5090,PUF-based authentication,concept,PART_OF,PUF architecture and design,concept,,,ECGR_5090_triples_raw.json
+ECGR_5090,PUF security properties,concept,PART_OF,PUF architecture and design,concept,,,ECGR_5090_triples_raw.json
+ECGR_5090,TRNG implementation in hardware,concept,PART_OF,TRNG fundamentals and principles,concept,,,ECGR_5090_triples_raw.json
+ECGR_5090,TRNG security applications,concept,PART_OF,TRNG fundamentals and principles,concept,,,ECGR_5090_triples_raw.json

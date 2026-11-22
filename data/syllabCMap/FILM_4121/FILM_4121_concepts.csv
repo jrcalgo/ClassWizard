@@ -1,0 +1,41 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FILM_4121,method,directing,directing,1,verified,directing,FILM_4121_concepts_raw.json
+FILM_4121,method,editing,editing,1,verified,editing,FILM_4121_concepts_raw.json
+FILM_4121,concept,documentary film history,Documentary Film History,1,inferred,documentary film history,FILM_4121_concepts_raw.json
+FILM_4121,concept,nonfiction storytelling basics,Nonfiction Storytelling Basics,1,inferred,nonfiction storytelling basics,FILM_4121_concepts_raw.json
+FILM_4121,concept,personal narrative techniques,Personal Narrative Techniques,1,inferred,personal narrative techniques,FILM_4121_concepts_raw.json
+FILM_4121,concept,scriptwriting for documentaries,Scriptwriting for Documentaries,1,inferred,scriptwriting for documentaries,FILM_4121_concepts_raw.json
+FILM_4121,concept,storyboarding and planning,Storyboarding and Planning,2,inferred,storyboarding and planning,FILM_4121_concepts_raw.json
+FILM_4121,concept,location scouting and permits,Location Scouting and Permits,1,inferred,location scouting and permits,FILM_4121_concepts_raw.json
+FILM_4121,concept,camera angles and movement,Camera Angles and Movement,1,inferred,camera angles and movement,FILM_4121_concepts_raw.json
+FILM_4121,concept,lighting for documentary style,Lighting for Documentary Style,1,inferred,lighting for documentary style,FILM_4121_concepts_raw.json
+FILM_4121,concept,composition and framing,Composition and Framing,1,inferred,composition and framing,FILM_4121_concepts_raw.json
+FILM_4121,concept,set design and construction,Set Design and Construction,1,inferred,set design and construction,FILM_4121_concepts_raw.json
+FILM_4121,concept,sound recording techniques,Sound Recording Techniques,1,inferred,sound recording techniques,FILM_4121_concepts_raw.json
+FILM_4121,concept,microphone selection and placement,Microphone Selection and Placement,1,inferred,microphone selection and placement,FILM_4121_concepts_raw.json
+FILM_4121,concept,director's role and responsibilities,Director's Role and Responsibilities,1,inferred,director's role and responsibilities,FILM_4121_concepts_raw.json
+FILM_4121,concept,camera department roles and duties,Camera Department Roles and Duties,1,inferred,camera department roles and duties,FILM_4121_concepts_raw.json
+FILM_4121,concept,communication and teamwork on set,Communication and Teamwork on Set,1,inferred,communication and teamwork on set,FILM_4121_concepts_raw.json
+FILM_4121,concept,interviewing techniques for documentaries,Interviewing Techniques for Documentaries,1,inferred,interviewing techniques for documentaries,FILM_4121_concepts_raw.json
+FILM_4121,concept,observational documentary style,Observational Documentary Style,1,inferred,observational documentary style,FILM_4121_concepts_raw.json
+FILM_4121,concept,reenactment and reconstruction,Reenactment and Reconstruction,1,inferred,reenactment and reconstruction,FILM_4121_concepts_raw.json
+FILM_4121,concept,editing software and techniques,Editing Software and Techniques,1,inferred,editing software and techniques,FILM_4121_concepts_raw.json
+FILM_4121,concept,sound design and mixing,Sound Design and Mixing,1,inferred,sound design and mixing,FILM_4121_concepts_raw.json
+FILM_4121,concept,color correction and grading,Color Correction and Grading,1,inferred,color correction and grading,FILM_4121_concepts_raw.json
+FILM_4121,topic,Project Proposal and Pitch,Project Proposal and Pitch,1,inferred,Project Proposal and Pitch,FILM_4121_concepts_raw.json
+FILM_4121,topic,Storyboarding and Planning for Final Project,Storyboarding and Planning for Final Project,1,inferred,Storyboarding and Planning for Final Project,FILM_4121_concepts_raw.json
+FILM_4121,topic,Timeline and Schedule Management,Timeline and Schedule Management,1,inferred,Timeline and Schedule Management,FILM_4121_concepts_raw.json
+FILM_4121,method,scriptwriting,Scriptwriting,1,inferred,scriptwriting,FILM_4121_concepts_raw.json
+FILM_4121,method,storyboarding,Storyboarding,2,inferred,storyboarding,FILM_4121_concepts_raw.json
+FILM_4121,method,location scouting,Location Scouting,1,inferred,location scouting,FILM_4121_concepts_raw.json
+FILM_4121,method,composition,Composition,1,inferred,composition,FILM_4121_concepts_raw.json
+FILM_4121,method,framing,Framing,1,inferred,framing,FILM_4121_concepts_raw.json
+FILM_4121,method,sound recording,Sound Recording,1,inferred,sound recording,FILM_4121_concepts_raw.json
+FILM_4121,method,communication,Communication,1,inferred,communication,FILM_4121_concepts_raw.json
+FILM_4121,method,teamwork,Teamwork,1,inferred,teamwork,FILM_4121_concepts_raw.json
+FILM_4121,method,interviewing,Interviewing,1,inferred,interviewing,FILM_4121_concepts_raw.json
+FILM_4121,method,reenactment,Reenactment,1,inferred,reenactment,FILM_4121_concepts_raw.json
+FILM_4121,method,reconstruction,Reconstruction,1,inferred,reconstruction,FILM_4121_concepts_raw.json
+FILM_4121,method,sound design,Sound Design,1,inferred,sound design,FILM_4121_concepts_raw.json
+FILM_4121,method,mixing,Mixing,1,inferred,mixing,FILM_4121_concepts_raw.json
+FILM_4121,method,color correction,Color Correction,1,inferred,color correction,FILM_4121_concepts_raw.json

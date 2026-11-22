@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_3163,topic,Model United Nations,Model United Nations,1,verified,Model United Nations,POLS_3163_concepts_raw.json
+POLS_3163,topic,Model UN,Model UN,2,verified,Introduction to Model UN,POLS_3163_concepts_raw.json
+POLS_3163,concept,Role-Playing Delegates,role-playing delegates,1,verified,Role-Playing Delegates,POLS_3163_concepts_raw.json
+POLS_3163,method,public speaking,public speaking,3,verified,public speaking,POLS_3163_concepts_raw.json
+POLS_3163,method,negotiation,negotiation,2,verified,negotiation,POLS_3163_concepts_raw.json
+POLS_3163,method,policy writing,policy writing,1,verified,policy writing,POLS_3163_concepts_raw.json
+POLS_3163,method,role-playing,role-playing,1,verified,role-playing,POLS_3163_concepts_raw.json
+POLS_3163,method,diplomacy,diplomacy,2,verified,diplomacy,POLS_3163_concepts_raw.json

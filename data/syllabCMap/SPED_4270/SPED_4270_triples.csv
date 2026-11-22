@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_4270,Applied Behavior Analysis,concept,PREREQUISITE_OF,Positive Behavior Support,concept,same unit,,SPED_4270_triples_raw.json
+SPED_4270,Applied Behavior Analysis,concept,PREREQUISITE_OF,Functional Behavioral Assessment,method,same unit,,SPED_4270_triples_raw.json
+SPED_4270,Proactive Classroom Management,method,PART_OF,Classroom Management,topic,,,SPED_4270_triples_raw.json
+SPED_4270,Classwide Positive Behavior Interventions,method,PART_OF,Positive Behavior Interventions,topic,,,SPED_4270_triples_raw.json
+SPED_4270,Proactive Classroom Management,method,USED_FOR,Classroom Management,topic,,,SPED_4270_triples_raw.json

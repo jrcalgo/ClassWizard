@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,applying moral concepts,concept,same unit,,PHIL_6250_triples_raw.json
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,practical situation application,concept,same unit,,PHIL_6250_triples_raw.json
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,moral aspect of decisions,concept,A taught first,,PHIL_6250_triples_raw.json
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,ethical considerations,concept,A taught first,,PHIL_6250_triples_raw.json
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,policy solution development,concept,A taught first,,PHIL_6250_triples_raw.json
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,moral argument frameworks,concept,A taught first,,PHIL_6250_triples_raw.json
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,policy decision justification,concept,A taught first,,PHIL_6250_triples_raw.json
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,ethical reasoning skills,concept,A taught first,,PHIL_6250_triples_raw.json
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,moral theory application,concept,A taught first,,PHIL_6250_triples_raw.json
+PHIL_6250,moral theory basics,concept,PREREQUISITE_OF,theoretical frameworks,concept,A taught first,,PHIL_6250_triples_raw.json

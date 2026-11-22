@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GRAD_8102,topic,Categorical Outcomes,Categorical Outcomes,1,verified,Categorical Outcomes,GRAD_8102_concepts_raw.json
+GRAD_8102,topic,Categorical Data,Categorical Data,3,inferred,Introduction to Categorical Data,GRAD_8102_concepts_raw.json
+GRAD_8102,topic,Probability Distributions,Probability Distributions,1,inferred,Probability Distributions,GRAD_8102_concepts_raw.json
+GRAD_8102,topic,Hypothesis Testing Basics,Hypothesis Testing Basics,1,inferred,Hypothesis Testing Basics,GRAD_8102_concepts_raw.json
+GRAD_8102,topic,Categorical Data Analysis,Categorical Data Analysis,1,inferred,Categorical Data Analysis,GRAD_8102_concepts_raw.json
+GRAD_8102,topic,Logistic Regression Fundamentals,Logistic Regression Fundamentals,1,inferred,Logistic Regression Fundamentals,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,categorical data definition,Categorical data definition,1,inferred,categorical data definition,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,types of categorical variables,Types of categorical variables,1,inferred,types of categorical variables,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,nominal vs ordinal data,Nominal vs ordinal data,1,inferred,nominal vs ordinal data,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,Bernoulli distribution properties,Bernoulli distribution properties,1,inferred,Bernoulli distribution properties,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,binomial distribution formula,Binomial distribution formula,1,inferred,binomial distribution formula,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,Poisson distribution applications,Poisson distribution applications,1,inferred,Poisson distribution applications,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,null and alternative hypotheses,Null and alternative hypotheses,1,inferred,null and alternative hypotheses,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,test statistics definition,Test statistics definition,1,inferred,test statistics definition,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,p-value interpretation,p-value interpretation,1,inferred,p-value interpretation,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,chi-squared test assumptions,Chi-squared test assumptions,1,inferred,chi-squared test assumptions,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,Fisher's exact test usage,Fisher's exact test usage,1,inferred,Fisher's exact test usage,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,contingency tables analysis,Contingency tables analysis,1,inferred,contingency tables analysis,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,logistic regression model definition,Logistic regression model definition,1,inferred,logistic regression model definition,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,odds ratio interpretation,Odds ratio interpretation,1,inferred,odds ratio interpretation,GRAD_8102_concepts_raw.json
+GRAD_8102,concept,hazard ratios calculation,Hazard ratios calculation,1,inferred,hazard ratios calculation,GRAD_8102_concepts_raw.json

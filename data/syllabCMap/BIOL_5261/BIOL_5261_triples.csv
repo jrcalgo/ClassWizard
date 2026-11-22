@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_5261,Base Excision Repair Process,concept,PART_OF,DNA Repair Mechanisms,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,Nucleotide Excision Repair Pathway,concept,PART_OF,DNA Repair Mechanisms,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,Double-Strand Break Repair,concept,PART_OF,DNA Repair Mechanisms,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,Xeroderma Pigmentosum Syndrome,concept,PART_OF,Inherited DNA Repair Defects,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,Bloom Syndrome Characteristics,concept,PART_OF,Inherited DNA Repair Defects,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,Comet Assay Procedure,concept,PART_OF,Cellular Diagnostic Techniques,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,TUNEL Staining Method,concept,PART_OF,Cellular Diagnostic Techniques,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,Gel Electrophoresis Technique,concept,PART_OF,Cellular Diagnostic Techniques,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,Comet Assay Procedure,concept,USED_FOR,Cellular Diagnostic Techniques,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,TUNEL Staining Method,concept,USED_FOR,Cellular Diagnostic Techniques,topic,,,BIOL_5261_triples_raw.json
+BIOL_5261,Gel Electrophoresis Technique,concept,USED_FOR,Cellular Diagnostic Techniques,topic,,,BIOL_5261_triples_raw.json

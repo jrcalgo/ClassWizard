@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_3328,colonialism's impact on art,concept,PREREQUISITE_OF,politics of collecting art,concept,A taught first,,ARTH_3328_triples_raw.json
+ARTH_3328,cultural identity and representation,concept,PREREQUISITE_OF,nationalism and art history,concept,same unit,,ARTH_3328_triples_raw.json
+ARTH_3328,royal patronage and power dynamics,concept,PART_OF,Politics of Art Production,topic,,,ARTH_3328_triples_raw.json
+ARTH_3328,colonialism's impact on art,concept,PART_OF,Politics of Art Production,topic,,,ARTH_3328_triples_raw.json
+ARTH_3328,cultural identity and representation,concept,PART_OF,Identity in West African Art,topic,,,ARTH_3328_triples_raw.json
+ARTH_3328,femininity and masculinity in art,concept,PART_OF,Gender and Performance,topic,,,ARTH_3328_triples_raw.json
+ARTH_3328,politics of collecting art,concept,PART_OF,Collection and Display,topic,,,ARTH_3328_triples_raw.json
+ARTH_3328,analyzing visual elements in art,concept,PART_OF,Visual Analysis and Argumentation,topic,,,ARTH_3328_triples_raw.json

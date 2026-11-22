@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_3120,topic,Computer Graphics,Computer Graphics,2,verified,Computer Graphics,ITCS_3120_concepts_raw.json
+ITCS_3120,topic,Data Structures and Algorithms,Data Structures and Algorithms,1,verified,Data Structures and Algorithms,ITCS_3120_concepts_raw.json
+ITCS_3120,topic,Linear Algebra,Linear Algebra,1,verified,Linear Algebra,ITCS_3120_concepts_raw.json
+ITCS_3120,topic,Scene-Graphs-Object-Oriented-Geometry,Scene-Graphs-Object-Oriented-Geometry,1,verified,Scene-Graphs-Object-Oriented-Geometry,ITCS_3120_concepts_raw.json
+ITCS_3120,topic,OpenGL View Transform,OpenGL View Transform,3,verified,OpenGL View Transform,ITCS_3120_concepts_raw.json
+ITCS_3120,topic,Radiometry Cheat Sheet,Radiometry Cheat Sheet,1,verified,Radiometry Cheat Sheet,ITCS_3120_concepts_raw.json
+ITCS_3120,topic,3D-viewing-Part-1,3D-viewing-Part-1,1,verified,3D-viewing-Part-1,ITCS_3120_concepts_raw.json
+ITCS_3120,topic,3D-Viewing-Part-2,3D-Viewing-Part-2,1,verified,3D-Viewing-Part-2,ITCS_3120_concepts_raw.json
+ITCS_3120,topic,3D-Viewing-Part-3,3D-Viewing-Part-3,1,verified,3D-Viewing-Part-3,ITCS_3120_concepts_raw.json
+ITCS_3120,topic,3D-Viewing-Part-4,3D-Viewing-Part-4,1,verified,3D-Viewing-Part-4,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,Raster Algorithms,raster algorithms,1,verified,Raster Algorithms,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,Event-based programming,event-based programming,1,verified,Event-based programming,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,Shader programming,shader programming,1,verified,Shader programming,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,Anti-aliasing methods,anti-aliasing methods,1,verified,Anti-aliasing methods,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,Matrix algebra,matrix algebra,1,verified,Matrix algebra,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,Change of coordinates,change of coordinates,1,verified,Change of coordinates,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,Geometric transformations,geometric transformations,1,verified,Geometric transformations,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,2D/3D viewing transformation and clipping,2D/3D viewing transformation and clipping,1,verified,2D/3D viewing transformation and clipping,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,2D curves,2D curves,1,verified,2D curves,ITCS_3120_concepts_raw.json
+ITCS_3120,concept,2D splines,2D splines,1,verified,2D splines,ITCS_3120_concepts_raw.json
+ITCS_3120,tool,HTML,HTML,2,verified,HTML,ITCS_3120_concepts_raw.json
+ITCS_3120,tool,CSS,CSS,1,verified,CSS,ITCS_3120_concepts_raw.json
+ITCS_3120,tool,JavaScript,JavaScript,1,verified,JavaScript,ITCS_3120_concepts_raw.json
+ITCS_3120,tool,WebGL,WebGL,1,verified,WebGL,ITCS_3120_concepts_raw.json
+ITCS_3120,tool,OpenGL View Transform.msi,OpenGL View Transform.msi,1,verified,OpenGL View Transform.msi,ITCS_3120_concepts_raw.json
+ITCS_3120,tool,OpenGL View Transform.pdf,OpenGL View Transform.pdf,1,verified,OpenGL View Transform.pdf,ITCS_3120_concepts_raw.json
+ITCS_3120,tool,Radiometry Cheat Sheet.pdf,Radiometry Cheat Sheet.pdf,1,verified,Radiometry Cheat Sheet.pdf,ITCS_3120_concepts_raw.json

@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_4161,Financial Statement Analysis,topic,PREREQUISITE_OF,Security Valuation,topic,A taught first,,FINN_4161_triples_raw.json
+FINN_4161,Financial Statement Analysis,topic,PREREQUISITE_OF,time value of money,concept,A taught first,,FINN_4161_triples_raw.json
+FINN_4161,Corporate Finance,topic,PREREQUISITE_OF,Investments,topic,A mentioned first,,FINN_4161_triples_raw.json
+FINN_4161,mean,concept,PREREQUISITE_OF,standard deviation,concept,same unit,,FINN_4161_triples_raw.json
+FINN_4161,covariance,concept,PREREQUISITE_OF,correlation,concept,same unit,,FINN_4161_triples_raw.json
+FINN_4161,time value of money,concept,PART_OF,Financial Statement Analysis,topic,,,FINN_4161_triples_raw.json
+FINN_4161,cost of capital,concept,PART_OF,Security Valuation,topic,,,FINN_4161_triples_raw.json
+FINN_4161,capital budgeting,concept,PART_OF,Security Valuation,topic,,,FINN_4161_triples_raw.json
+FINN_4161,efficient portfolios,concept,PART_OF,Security Valuation,topic,,,FINN_4161_triples_raw.json
+FINN_4161,Excel,tool,USED_FOR,Financial Statement Analysis,topic,,,FINN_4161_triples_raw.json
+FINN_4161,Excel,tool,USED_FOR,time value of money,concept,,,FINN_4161_triples_raw.json
+FINN_4161,Excel,tool,USED_FOR,Security Valuation,topic,,,FINN_4161_triples_raw.json
+FINN_4161,Excel,tool,USED_FOR,cash budget project,concept,,,FINN_4161_triples_raw.json
+FINN_4161,Excel,tool,USED_FOR,data table,concept,,,FINN_4161_triples_raw.json

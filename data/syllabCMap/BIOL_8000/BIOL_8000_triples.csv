@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_8000,Seminar Attendance Requirements,concept,PART_OF,Well-Rounded Graduate Students,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Course Grading Policy,concept,PART_OF,Well-Rounded Graduate Students,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Oral Presentation Techniques,concept,PART_OF,Seminar Presentation Styles,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Visual Aids and Displays,concept,PART_OF,Seminar Presentation Styles,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Question and Answer Sessions,concept,PART_OF,Seminar Presentation Styles,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Experimental Design Methods,concept,PART_OF,Biological Research Approaches,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Data Analysis Techniques,concept,PART_OF,Biological Research Approaches,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Research Ethics Considerations,concept,PART_OF,Biological Research Approaches,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Diverse Biological Topics,concept,PART_OF,Seminar Content Variety,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Interdisciplinary Research Approaches,concept,PART_OF,Seminar Content Variety,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Current Research Trends,concept,PART_OF,Seminar Content Variety,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Communication Skills Development,concept,PART_OF,Well-Rounded Graduate Students,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Critical Thinking and Analysis,concept,PART_OF,Well-Rounded Graduate Students,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Time Management Strategies,concept,PART_OF,Well-Rounded Graduate Students,topic,,,BIOL_8000_triples_raw.json
+BIOL_8000,Seminar Series,topic,USED_FOR,Well-Rounded Graduate Students,topic,,topic used for something - check direction,BIOL_8000_triples_raw.json
+BIOL_8000,Biological Sciences Seminar series,topic,USED_FOR,Well-Rounded Graduate Students,topic,,topic used for something - check direction,BIOL_8000_triples_raw.json

@@ -1,0 +1,93 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HADM_6128,topic,Human Resources Management,Human Resources Management,2,verified,Human Resources Management,HADM_6128_concepts_raw.json
+HADM_6128,topic,Healthcare Human Resource Functions,Healthcare Human Resource Functions,1,verified,Healthcare Human Resource Functions,HADM_6128_concepts_raw.json
+HADM_6128,topic,Strategic Workforce Planning,strategic workforce planning,5,verified,Strategic Workforce Planning,HADM_6128_concepts_raw.json
+HADM_6128,concept,Job Analysis and Design,job analysis and design,5,verified,Job Analysis and Design,HADM_6128_concepts_raw.json
+HADM_6128,topic,Recruitment and Selection,recruitment and selection,4,verified,Recruitment and Selection,HADM_6128_concepts_raw.json
+HADM_6128,topic,Compensation and Benefits,compensation and benefits,4,verified,Compensation and Benefits,HADM_6128_concepts_raw.json
+HADM_6128,concept,Performance Management,performance management,7,verified,Performance Management,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employee Development,employee development,7,verified,Employee Development,HADM_6128_concepts_raw.json
+HADM_6128,concept,Labor Relations,labor relations,8,verified,Labor Relations,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employment Law,Employment Laws,1,verified,Employment Law,HADM_6128_concepts_raw.json
+HADM_6128,concept,Workplace Safety,workplace safety,9,verified,Workplace Safety,HADM_6128_concepts_raw.json
+HADM_6128,concept,Organizational Relations,Organizational Relations,2,verified,Organizational Relations,HADM_6128_concepts_raw.json
+HADM_6128,topic,Employee Engagement and Retention,Employee Engagement and Retention,1,verified,Employee Engagement and Retention,HADM_6128_concepts_raw.json
+HADM_6128,topic,Performance Management and Providing Feedback,Performance Management and Providing Feedback,1,verified,Performance Management and Providing Feedback,HADM_6128_concepts_raw.json
+HADM_6128,topic,Employee Relations,Employee Relations,1,verified,Employee Relations,HADM_6128_concepts_raw.json
+HADM_6128,topic,Labor Relations and Healthcare Organizations,Labor Relations and Healthcare Organizations,1,verified,Labor Relations and Healthcare Organizations,HADM_6128_concepts_raw.json
+HADM_6128,topic,"Termination, Redistribution and Restructuring","Termination, Redistribution and Restructuring",1,verified,"Termination, Redistribution and Restructuring",HADM_6128_concepts_raw.json
+HADM_6128,topic,"Compensation, Benefits and Variable Pay","Compensation, Benefits and Variable Pay",1,verified,"Compensation, Benefits and Variable Pay",HADM_6128_concepts_raw.json
+HADM_6128,topic,"Safety, Health, and Security","Safety, Health, and Security",1,verified,"Safety, Health, and Security",HADM_6128_concepts_raw.json
+HADM_6128,concept,Strategic HR Management,Strategic HR Management,2,verified,Strategic HR Management,HADM_6128_concepts_raw.json
+HADM_6128,concept,Evidence-Based Practices,Evidence-Based Practices,1,verified,Evidence-Based Practices,HADM_6128_concepts_raw.json
+HADM_6128,concept,Organizational Effectiveness,organizational effectiveness,3,verified,Organizational Effectiveness,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employee Well-being,employee wellbeing,2,verified,Employee Well-being,HADM_6128_concepts_raw.json
+HADM_6128,concept,Emotional Intelligence,emotional intelligence,3,verified,Emotional Intelligence,HADM_6128_concepts_raw.json
+HADM_6128,concept,Leadership Styles,Leadership Styles,1,verified,Leadership Styles,HADM_6128_concepts_raw.json
+HADM_6128,concept,Communication Skills,communication skills,2,verified,Communication Skills,HADM_6128_concepts_raw.json
+HADM_6128,concept,Personal Values,Personal Values,1,verified,Personal Values,HADM_6128_concepts_raw.json
+HADM_6128,concept,Self-Awareness,self-awareness,2,verified,Self-Awareness,HADM_6128_concepts_raw.json
+HADM_6128,concept,Healthcare Regulations,Healthcare Regulations,1,verified,Healthcare Regulations,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employee Rights,Employee Rights,2,verified,Employee Rights,HADM_6128_concepts_raw.json
+HADM_6128,concept,Union-Management Relations,union-management relations,4,verified,Union-Management Relations,HADM_6128_concepts_raw.json
+HADM_6128,concept,Legal Compliance,Legal Compliance,1,verified,Legal Compliance,HADM_6128_concepts_raw.json
+HADM_6128,concept,Healthcare Laws,Healthcare Laws,1,verified,Healthcare Laws,HADM_6128_concepts_raw.json
+HADM_6128,concept,Workforce Protections,Workforce Protections,1,verified,Workforce Protections,HADM_6128_concepts_raw.json
+HADM_6128,concept,Job Analysis,job analysis,7,verified,Job Analysis,HADM_6128_concepts_raw.json
+HADM_6128,concept,Job Design Principles,Job Design Principles,1,verified,Job Design Principles,HADM_6128_concepts_raw.json
+HADM_6128,concept,Work Motivation Theories,Work Motivation Theories,1,verified,Work Motivation Theories,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employee Engagement Factors,Employee Engagement Factors,1,verified,Employee Engagement Factors,HADM_6128_concepts_raw.json
+HADM_6128,concept,Task Autonomy Strategies,Task Autonomy Strategies,1,verified,Task Autonomy Strategies,HADM_6128_concepts_raw.json
+HADM_6128,concept,Job Enrichment Techniques,Job Enrichment Techniques,1,verified,Job Enrichment Techniques,HADM_6128_concepts_raw.json
+HADM_6128,concept,Role Clarification Methods,Role Clarification Methods,1,verified,Role Clarification Methods,HADM_6128_concepts_raw.json
+HADM_6128,concept,Responsibility Allocation Models,Responsibility Allocation Models,1,verified,Responsibility Allocation Models,HADM_6128_concepts_raw.json
+HADM_6128,concept,Performance Expectations Frameworks,Performance Expectations Frameworks,1,verified,Performance Expectations Frameworks,HADM_6128_concepts_raw.json
+HADM_6128,concept,Recruitment Strategies,Recruitment Strategies,1,verified,Recruitment Strategies,HADM_6128_concepts_raw.json
+HADM_6128,concept,Selection Criteria,Selection Criteria,1,verified,Selection Criteria,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employment Laws,Employment Laws,1,verified,Employment Laws,HADM_6128_concepts_raw.json
+HADM_6128,concept,Compensation Packages,Compensation Packages,2,verified,Compensation Packages,HADM_6128_concepts_raw.json
+HADM_6128,concept,Benefits Administration,Benefits Administration,2,verified,Benefits Administration,HADM_6128_concepts_raw.json
+HADM_6128,concept,Training Programs,training programs,2,verified,Training Programs,HADM_6128_concepts_raw.json
+HADM_6128,concept,Job Analysis Design,Job Analysis Design,1,verified,Job Analysis Design,HADM_6128_concepts_raw.json
+HADM_6128,concept,Workplace Learning,Workplace Learning,1,verified,Workplace Learning,HADM_6128_concepts_raw.json
+HADM_6128,concept,Skill Acquisition,Skill Acquisition,1,verified,Skill Acquisition,HADM_6128_concepts_raw.json
+HADM_6128,concept,Knowledge Transfer,Knowledge Transfer,1,verified,Knowledge Transfer,HADM_6128_concepts_raw.json
+HADM_6128,concept,Competency Based Training,Competency Based Training,1,verified,Competency Based Training,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employee Engagement,Employee Engagement,3,verified,Employee Engagement,HADM_6128_concepts_raw.json
+HADM_6128,concept,Labor Laws and Regulations,Labor Laws and Regulations,2,verified,Labor Laws and Regulations,HADM_6128_concepts_raw.json
+HADM_6128,concept,Workplace Safety Policies,Workplace Safety Policies,1,verified,Workplace Safety Policies,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employee Retention Strategies,Employee Retention Strategies,1,verified,Employee Retention Strategies,HADM_6128_concepts_raw.json
+HADM_6128,concept,Job Satisfaction Factors,Job Satisfaction Factors,1,verified,Job Satisfaction Factors,HADM_6128_concepts_raw.json
+HADM_6128,concept,Turnover Prevention Methods,Turnover Prevention Methods,1,verified,Turnover Prevention Methods,HADM_6128_concepts_raw.json
+HADM_6128,concept,Conflict Resolution Techniques,Conflict Resolution Techniques,1,verified,Conflict Resolution Techniques,HADM_6128_concepts_raw.json
+HADM_6128,concept,Job Performance Evaluation,Job Performance Evaluation,1,verified,Job Performance Evaluation,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employee Feedback Techniques,Employee Feedback Techniques,1,verified,Employee Feedback Techniques,HADM_6128_concepts_raw.json
+HADM_6128,concept,360 Degree Feedback,360 Degree Feedback,1,verified,360 Degree Feedback,HADM_6128_concepts_raw.json
+HADM_6128,concept,Constructive Criticism Methods,Constructive Criticism Methods,1,verified,Constructive Criticism Methods,HADM_6128_concepts_raw.json
+HADM_6128,concept,Grievance Procedures,Grievance Procedures,1,verified,Grievance Procedures,HADM_6128_concepts_raw.json
+HADM_6128,concept,Disciplinary Actions,Disciplinary Actions,1,verified,Disciplinary Actions,HADM_6128_concepts_raw.json
+HADM_6128,concept,Workplace Conflict Resolution,Workplace Conflict Resolution,1,verified,Workplace Conflict Resolution,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employee Rights and Responsibilities,Employee Rights and Responsibilities,1,verified,Employee Rights and Responsibilities,HADM_6128_concepts_raw.json
+HADM_6128,concept,Collective Bargaining Agreements,Collective Bargaining Agreements,1,verified,Collective Bargaining Agreements,HADM_6128_concepts_raw.json
+HADM_6128,concept,Termination Process,Termination Process,1,verified,Termination Process,HADM_6128_concepts_raw.json
+HADM_6128,concept,Redistribution Strategies,Redistribution Strategies,1,verified,Redistribution Strategies,HADM_6128_concepts_raw.json
+HADM_6128,concept,Restructuring Plans,Restructuring Plans,1,verified,Restructuring Plans,HADM_6128_concepts_raw.json
+HADM_6128,concept,Employee Separation Laws,Employee Separation Laws,1,verified,Employee Separation Laws,HADM_6128_concepts_raw.json
+HADM_6128,concept,Workforce Redistribution Models,Workforce Redistribution Models,1,verified,Workforce Redistribution Models,HADM_6128_concepts_raw.json
+HADM_6128,concept,Job Elimination Procedures,Job Elimination Procedures,1,verified,Job Elimination Procedures,HADM_6128_concepts_raw.json
+HADM_6128,concept,Organizational Restructuring Methods,Organizational Restructuring Methods,1,verified,Organizational Restructuring Methods,HADM_6128_concepts_raw.json
+HADM_6128,concept,Termination Notice Requirements,Termination Notice Requirements,1,verified,Termination Notice Requirements,HADM_6128_concepts_raw.json
+HADM_6128,concept,Variable Pay,Variable Pay,2,verified,Variable Pay,HADM_6128_concepts_raw.json
+HADM_6128,concept,Pay Equity,Pay Equity,1,verified,Pay Equity,HADM_6128_concepts_raw.json
+HADM_6128,concept,Salary Scales,Salary Scales,1,verified,Salary Scales,HADM_6128_concepts_raw.json
+HADM_6128,concept,Benefit Plans,Benefit Plans,1,verified,Benefit Plans,HADM_6128_concepts_raw.json
+HADM_6128,concept,Total Rewards,Total Rewards,1,verified,Total Rewards,HADM_6128_concepts_raw.json
+HADM_6128,concept,Cost of Living Adjustments,Cost of Living Adjustments,1,verified,Cost of Living Adjustments,HADM_6128_concepts_raw.json
+HADM_6128,concept,Occupational Health,Occupational Health,1,verified,Occupational Health,HADM_6128_concepts_raw.json
+HADM_6128,concept,Security Threats,Security Threats,1,verified,Security Threats,HADM_6128_concepts_raw.json
+HADM_6128,concept,Emergency Preparedness,Emergency Preparedness,1,verified,Emergency Preparedness,HADM_6128_concepts_raw.json
+HADM_6128,concept,Risk Management,Risk Management,1,verified,Risk Management,HADM_6128_concepts_raw.json
+HADM_6128,method,Writing job descriptions,writing job descriptions,1,verified,Writing job descriptions,HADM_6128_concepts_raw.json
+HADM_6128,method,Designing training programs,designing training programs,1,verified,Designing training programs,HADM_6128_concepts_raw.json
+HADM_6128,method,Evaluating employee performance,evaluating employee performance,1,verified,Evaluating employee performance,HADM_6128_concepts_raw.json
+HADM_6128,method,Addressing workforce challenges,addressing workforce challenges,1,verified,Addressing workforce challenges,HADM_6128_concepts_raw.json

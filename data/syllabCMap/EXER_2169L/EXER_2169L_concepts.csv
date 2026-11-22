@@ -1,0 +1,35 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EXER_2169L,topic,Human Anatomy & Physiology,Human Anatomy & Physiology,2,verified,Human Anatomy & Physiology,EXER_2169L_concepts_raw.json
+EXER_2169L,topic,Reproductive System,reproductive systems,2,verified,Reproductive System,EXER_2169L_concepts_raw.json
+EXER_2169L,tool,Digital Cadaver Technology,digital cadaver technology,1,verified,Digital Cadaver Technology,EXER_2169L_concepts_raw.json
+EXER_2169L,tool,TopHat Interactive Learning Platform,TopHat Interactive Learning Platform,1,verified,TopHat Interactive Learning Platform,EXER_2169L_concepts_raw.json
+EXER_2169L,topic,Tissue Structure,Tissue Structure,1,inferred,Tissue Structure,EXER_2169L_concepts_raw.json
+EXER_2169L,topic,Endocrine System,Endocrine System,1,inferred,Endocrine System,EXER_2169L_concepts_raw.json
+EXER_2169L,topic,Cardiovascular System,Cardiovascular System,1,inferred,Cardiovascular System,EXER_2169L_concepts_raw.json
+EXER_2169L,topic,Respiratory System,Respiratory System,1,inferred,Respiratory System,EXER_2169L_concepts_raw.json
+EXER_2169L,topic,Digestive System,Digestive System,1,inferred,Digestive System,EXER_2169L_concepts_raw.json
+EXER_2169L,topic,Urinary System,Urinary System,1,inferred,Urinary System,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Epithelial Tissue Functions,Epithelial Tissue Functions,1,inferred,Epithelial Tissue Functions,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Connective Tissue Types,Connective Tissue Types,1,inferred,Connective Tissue Types,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Muscle Tissue Characteristics,Muscle Tissue Characteristics,1,inferred,Muscle Tissue Characteristics,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Pituitary Gland Location,Pituitary Gland Location,1,inferred,Pituitary Gland Location,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Thyroid Hormone Regulation,Thyroid Hormone Regulation,1,inferred,Thyroid Hormone Regulation,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Adrenal Gland Function,Adrenal Gland Function,1,inferred,Adrenal Gland Function,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Heart Chamber Functions,Heart Chamber Functions,1,inferred,Heart Chamber Functions,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Blood Vessel Structure,Blood Vessel Structure,1,inferred,Blood Vessel Structure,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Circulatory Pathways,Circulatory Pathways,1,inferred,Circulatory Pathways,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Lung Anatomy and Function,Lung Anatomy and Function,1,inferred,Lung Anatomy and Function,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Trachea and Bronchus Structure,Trachea and Bronchus Structure,1,inferred,Trachea and Bronchus Structure,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Gas Exchange Process,Gas Exchange Process,1,inferred,Gas Exchange Process,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Esophagus and Stomach Functions,Esophagus and Stomach Functions,1,inferred,Esophagus and Stomach Functions,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Small Intestine Absorption,Small Intestine Absorption,1,inferred,Small Intestine Absorption,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Large Intestine Elimination,Large Intestine Elimination,1,inferred,Large Intestine Elimination,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Kidney Structure and Function,Kidney Structure and Function,1,inferred,Kidney Structure and Function,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Ureter and Urinary Bladder,Ureter and Urinary Bladder,1,inferred,Ureter and Urinary Bladder,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Nephron Filtration Process,Nephron Filtration Process,1,inferred,Nephron Filtration Process,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Male Reproductive Organs,Male Reproductive Organs,1,inferred,Male Reproductive Organs,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Female Reproductive Organs,Female Reproductive Organs,1,inferred,Female Reproductive Organs,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Fertilization and Implantation,Fertilization and Implantation,1,inferred,Fertilization and Implantation,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Human Anatomy Visualization,Human Anatomy Visualization,1,inferred,Human Anatomy Visualization,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,Anatomical Structure Identification,Anatomical Structure Identification,1,inferred,Anatomical Structure Identification,EXER_2169L_concepts_raw.json
+EXER_2169L,concept,3D Modeling Software,3D Modeling Software,1,inferred,3D Modeling Software,EXER_2169L_concepts_raw.json

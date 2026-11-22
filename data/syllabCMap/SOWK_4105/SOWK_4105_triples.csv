@@ -1,0 +1,32 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOWK_4105,types of substance use disorders,concept,PREREQUISITE_OF,causes and risk factors,concept,same unit,,SOWK_4105_triples_raw.json
+SOWK_4105,counseling theories and models,concept,PREREQUISITE_OF,therapeutic relationships and techniques,concept,same unit,,SOWK_4105_triples_raw.json
+SOWK_4105,assessment and diagnosis tools,concept,PREREQUISITE_OF,diagnostic criteria and tools,concept,A taught first,,SOWK_4105_triples_raw.json
+SOWK_4105,mental health definitions,concept,PART_OF,Mental Health,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,prevalence of mental illness,concept,PART_OF,Mental Health,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,impact on individuals,concept,PART_OF,Mental Health,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,historical perspectives on mental illness,concept,PART_OF,Mental Health & Substance Use,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,current societal attitudes towards mental health,concept,PART_OF,Mental Health & Substance Use,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,professional values and biases,concept,PART_OF,Mental Health & Substance Use,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,causes and risk factors,concept,PART_OF,Substance Use Disorders,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,effects on individuals and society,concept,PART_OF,Substance Use Disorders,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,community-based interventions,concept,PART_OF,Macro Practice Approaches,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,social determinants of health,concept,PART_OF,Macro Practice Approaches,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,counseling theories and models,concept,PART_OF,Micro Practice Interventions,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,therapeutic relationships and techniques,concept,PART_OF,Micro Practice Interventions,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,assessment and diagnosis tools,concept,PART_OF,Assessment and Diagnosis,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,diagnostic criteria and tools,concept,PART_OF,Assessment and Diagnosis,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,collaboration with other professionals,concept,PART_OF,Assessment and Diagnosis,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,pharmacological interventions,concept,PART_OF,Treatment Options and Modalities,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,psychotherapeutic approaches,concept,PART_OF,Treatment Options and Modalities,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,alternative and complementary therapies,concept,PART_OF,Treatment Options and Modalities,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,research design and methodology,concept,PART_OF,Final Paper Preparation,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,literature review and synthesis,concept,PART_OF,Final Paper Preparation,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,writing and presentation skills,concept,PART_OF,Final Paper Preparation,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,Treatment Options and Modalities,topic,SUBTYPE_OF,Mental Health & Substance Use,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,policy and advocacy efforts,concept,USED_FOR,Macro Practice Approaches,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,community-based interventions,concept,USED_FOR,Macro Practice Approaches,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,counseling theories and models,concept,USED_FOR,Micro Practice Interventions,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,assessment and diagnosis tools,concept,USED_FOR,Assessment and Diagnosis,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,diagnostic criteria and tools,concept,USED_FOR,Assessment and Diagnosis,topic,,,SOWK_4105_triples_raw.json
+SOWK_4105,psychotherapeutic approaches,concept,USED_FOR,Treatment Options and Modalities,topic,,,SOWK_4105_triples_raw.json

@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3171,topic,Mechatronics,Mechatronics,2,verified,Mechatronics,MEGR_3171_concepts_raw.json
+MEGR_3171,topic,Linear and Nonlinear Curve Fitting,linear and nonlinear curve fitting,1,verified,Linear and Nonlinear Curve Fitting,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,system dynamics,system dynamics,1,verified,system dynamics,MEGR_3171_concepts_raw.json
+MEGR_3171,method,advanced circuit analysis,advanced circuit analysis,1,verified,advanced circuit analysis,MEGR_3171_concepts_raw.json
+MEGR_3171,method,signal conditioning,signal conditioning,2,verified,signal conditioning,MEGR_3171_concepts_raw.json
+MEGR_3171,method,error analysis,error analysis,1,verified,error analysis,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,control,control,2,verified,control,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,communication,communication,1,verified,communication,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,programming,programming,1,verified,programming,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,measurement and data acquisition systems,measurement and data acquisition systems,1,verified,measurement and data acquisition systems,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,mechanical processes,mechanical processes,1,verified,mechanical processes,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,computer programs,computer programs,1,verified,computer programs,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,DAQ tools,DAQ tools,1,verified,DAQ tools,MEGR_3171_concepts_raw.json
+MEGR_3171,method,open and closed loop process control,open and closed loop process control,1,verified,open and closed loop process control,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,actuator circuits,actuator circuits,1,verified,actuator circuits,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,breadboard prototype,breadboard prototype,1,verified,breadboard prototype,MEGR_3171_concepts_raw.json
+MEGR_3171,concept,statistical measures,statistical measures,1,verified,statistical measures,MEGR_3171_concepts_raw.json
+MEGR_3171,method,nonlinear curve fitting,nonlinear curve fitting,1,verified,nonlinear curve fitting,MEGR_3171_concepts_raw.json
+MEGR_3171,measure,combined uncertainties,combined uncertainties,1,verified,combined uncertainties,MEGR_3171_concepts_raw.json
+MEGR_3171,measure,performance measures,performance measures,1,verified,performance measures,MEGR_3171_concepts_raw.json

@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_3186,Research Methods in Design,concept,PREREQUISITE_OF,Idea Generation Strategies,concept,same unit,,ARTG_3186_triples_raw.json
+ARTG_3186,Research Methods in Design,concept,PREREQUISITE_OF,Problem Definition Techniques,concept,same unit,,ARTG_3186_triples_raw.json
+ARTG_3186,Typography and Layout Basics,concept,PREREQUISITE_OF,Imagery and Composition,concept,same unit,,ARTG_3186_triples_raw.json
+ARTG_3186,Brand Positioning Strategies,concept,PREREQUISITE_OF,Visual Brand Language Development,concept,same unit,,ARTG_3186_triples_raw.json
+ARTG_3186,Brand Positioning Strategies,concept,PREREQUISITE_OF,Logo Design Principles,concept,same unit,,ARTG_3186_triples_raw.json
+ARTG_3186,Typography and Layout Basics,concept,PART_OF,Visual Communication Principles,topic,,,ARTG_3186_triples_raw.json
+ARTG_3186,Graphic Design Software Overview,concept,PART_OF,Design Tools and Technologies,topic,,,ARTG_3186_triples_raw.json
+ARTG_3186,Visual Brand Language Development,concept,PART_OF,Branding and Identity Design,topic,,,ARTG_3186_triples_raw.json
+ARTG_3186,Logo Design Principles,concept,PART_OF,Branding and Identity Design,topic,,,ARTG_3186_triples_raw.json
+ARTG_3186,Advertising Copywriting Techniques,concept,PART_OF,Advertising and Campaigns,topic,,,ARTG_3186_triples_raw.json
+ARTG_3186,Media Selection and Placement,concept,PART_OF,Advertising and Campaigns,topic,,,ARTG_3186_triples_raw.json
+ARTG_3186,Project Scheduling and Timeline,concept,PART_OF,Design Project Management,topic,,,ARTG_3186_triples_raw.json
+ARTG_3186,Collaboration and Teamwork Skills,concept,PART_OF,Design Project Management,topic,,,ARTG_3186_triples_raw.json
+ARTG_3186,Design Brief Development,concept,PART_OF,Design Project Management,topic,,,ARTG_3186_triples_raw.json

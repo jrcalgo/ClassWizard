@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+KNES_6320,lab setting,method,PREREQUISITE_OF,movement execution,method,B mentioned first,,KNES_6320_triples_raw.json
+KNES_6320,pedagogical strategies,method,PREREQUISITE_OF,evidence-guided programming,method,A mentioned first,,KNES_6320_triples_raw.json
+KNES_6320,industry credentialing standards,method,PREREQUISITE_OF,technical mastery,method,B mentioned first,,KNES_6320_triples_raw.json

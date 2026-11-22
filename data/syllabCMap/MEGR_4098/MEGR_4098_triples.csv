@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_4098,machining fundamentals,concept,PREREQUISITE_OF,machine tool types,concept,A taught first,,MEGR_4098_triples_raw.json
+MEGR_4098,machining fundamentals,concept,PREREQUISITE_OF,cutting tool technology,concept,A mentioned first,,MEGR_4098_triples_raw.json
+MEGR_4098,machining fundamentals,concept,PREREQUISITE_OF,tool holding systems,concept,A mentioned first,,MEGR_4098_triples_raw.json
+MEGR_4098,machining fundamentals,concept,PREREQUISITE_OF,fixtures,concept,A taught first,,MEGR_4098_triples_raw.json
+MEGR_4098,machining fundamentals,concept,PREREQUISITE_OF,Computer Numerical Control (CNC) technology,concept,A mentioned first,,MEGR_4098_triples_raw.json
+MEGR_4098,machining fundamentals,concept,PREREQUISITE_OF,sensors (IoT,concept,A mentioned first,,MEGR_4098_triples_raw.json
+MEGR_4098,machining fundamentals,concept,PREREQUISITE_OF,machine learning,concept,A taught first,,MEGR_4098_triples_raw.json
+MEGR_4098,machining fundamentals,concept,PREREQUISITE_OF,automation/robotics,concept,A mentioned first,,MEGR_4098_triples_raw.json
+MEGR_4098,Tool Geometry Parameters,topic,PART_OF,ISO standard 3002,concept,,part is broader than whole - check direction,MEGR_4098_triples_raw.json
+MEGR_4098,cutting tool technology,concept,PART_OF,machining fundamentals,concept,,,MEGR_4098_triples_raw.json
+MEGR_4098,tool holding systems,concept,PART_OF,machining fundamentals,concept,,,MEGR_4098_triples_raw.json
+MEGR_4098,fixtures,concept,PART_OF,machining fundamentals,concept,,,MEGR_4098_triples_raw.json
+MEGR_4098,Computer Numerical Control (CNC) technology,concept,PART_OF,machine tool types,concept,,,MEGR_4098_triples_raw.json

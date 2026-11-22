@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3160,communication process,concept,PREREQUISITE_OF,Internal Audiences,topic,A taught first,,COMM_3160_triples_raw.json
+COMM_3160,communication process,concept,PREREQUISITE_OF,External Audiences,topic,A taught first,,COMM_3160_triples_raw.json
+COMM_3160,communication process,concept,PREREQUISITE_OF,Writing for Business,topic,A taught first,,COMM_3160_triples_raw.json
+COMM_3160,communication process,concept,PREREQUISITE_OF,Speaking in Business,topic,A taught first,,COMM_3160_triples_raw.json
+COMM_3160,communication process,concept,PREREQUISITE_OF,Choosing Communication Mediums,topic,A taught first,,COMM_3160_triples_raw.json
+COMM_3160,message preparation techniques,concept,PART_OF,communication process,concept,,,COMM_3160_triples_raw.json
+COMM_3160,employee communication strategies,concept,PART_OF,Internal Audiences,topic,,,COMM_3160_triples_raw.json
+COMM_3160,manager-employee relationships,concept,PART_OF,Internal Audiences,topic,,,COMM_3160_triples_raw.json
+COMM_3160,company culture and values,concept,PART_OF,Internal Audiences,topic,,,COMM_3160_triples_raw.json
+COMM_3160,customer communication techniques,concept,PART_OF,External Audiences,topic,,,COMM_3160_triples_raw.json
+COMM_3160,stakeholder identification methods,concept,PART_OF,External Audiences,topic,,,COMM_3160_triples_raw.json
+COMM_3160,public relations strategies,concept,PART_OF,External Audiences,topic,,,COMM_3160_triples_raw.json
+COMM_3160,business writing styles,concept,PART_OF,Writing for Business,topic,,,COMM_3160_triples_raw.json
+COMM_3160,report and proposal writing,concept,PART_OF,Writing for Business,topic,,,COMM_3160_triples_raw.json
+COMM_3160,public speaking strategies,concept,PART_OF,Speaking in Business,topic,,,COMM_3160_triples_raw.json
+COMM_3160,meetings and negotiations,concept,PART_OF,Speaking in Business,topic,,,COMM_3160_triples_raw.json
+COMM_3160,digital vs. traditional media,concept,PART_OF,Choosing Communication Mediums,topic,,,COMM_3160_triples_raw.json
+COMM_3160,communication technology tools,concept,PART_OF,Choosing Communication Mediums,topic,,,COMM_3160_triples_raw.json
+COMM_3160,communication process,concept,USED_FOR,Internal Audiences,topic,,,COMM_3160_triples_raw.json
+COMM_3160,communication process,concept,USED_FOR,External Audiences,topic,,,COMM_3160_triples_raw.json

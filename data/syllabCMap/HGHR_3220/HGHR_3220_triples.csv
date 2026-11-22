@@ -1,0 +1,29 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HGHR_3220,Vietnamese History Overview,topic,PREREQUISITE_OF,French Colonization,topic,A taught first,,HGHR_3220_triples_raw.json
+HGHR_3220,French Colonization,topic,PREREQUISITE_OF,US Involvement Begins,topic,A taught first,,HGHR_3220_triples_raw.json
+HGHR_3220,US Involvement Begins,topic,PREREQUISITE_OF,Anti-War Movement,topic,A taught first,,HGHR_3220_triples_raw.json
+HGHR_3220,Anti-War Movement,topic,PREREQUISITE_OF,Vietnamese Perspectives,topic,A taught first,,HGHR_3220_triples_raw.json
+HGHR_3220,Vietnamese Perspectives,topic,PREREQUISITE_OF,War Escalates,topic,A taught first,,HGHR_3220_triples_raw.json
+HGHR_3220,War Escalates,topic,PREREQUISITE_OF,Turning Points and Key Events,topic,A taught first,,HGHR_3220_triples_raw.json
+HGHR_3220,Turning Points and Key Events,topic,PREREQUISITE_OF,Post-War Legacies,topic,A taught first,,HGHR_3220_triples_raw.json
+HGHR_3220,Vietnam's Long History,concept,PART_OF,Vietnamese History Overview,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Colonialism in Indochina,concept,PART_OF,French Colonization,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,French National Identity,concept,PART_OF,French Colonization,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Vietnamese Resistance,concept,PART_OF,French Colonization,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Cold War Politics,concept,PART_OF,US Involvement Begins,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,US Foreign Policy Objectives,concept,PART_OF,US Involvement Begins,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Southeast Asia Strategy,concept,PART_OF,US Involvement Begins,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,American Antiwar Sentiment,concept,PART_OF,Anti-War Movement,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Civilian Protests and Riots,concept,PART_OF,Anti-War Movement,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Military Dissent and Mutiny,concept,PART_OF,Anti-War Movement,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Nationalism in Vietnam,concept,PART_OF,Vietnamese Perspectives,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Communist Party of Vietnam,concept,PART_OF,Vietnamese Perspectives,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Ho Chi Minh's Leadership,concept,PART_OF,Vietnamese Perspectives,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,US Military Strategy and Tactics,concept,PART_OF,War Escalates,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Viet Cong Insurgency,concept,PART_OF,War Escalates,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Bombing Campaigns and Casualties,concept,PART_OF,War Escalates,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Gulf of Tonkin Incident,concept,PART_OF,Turning Points and Key Events,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Paris Peace Accords,concept,PART_OF,Turning Points and Key Events,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,US National Identity Crisis,concept,PART_OF,Post-War Legacies,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Vietnamese Reconciliation Efforts,concept,PART_OF,Post-War Legacies,topic,,,HGHR_3220_triples_raw.json
+HGHR_3220,Contested Memories and Representations,concept,USED_FOR,Post-War Legacies,topic,,,HGHR_3220_triples_raw.json

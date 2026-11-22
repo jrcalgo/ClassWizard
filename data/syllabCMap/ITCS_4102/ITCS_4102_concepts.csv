@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4102,topic,programming languages,programming languages,7,verified,programming languages,ITCS_4102_concepts_raw.json
+ITCS_4102,topic,computer science curriculum,computer science curriculum,1,verified,computer science curriculum,ITCS_4102_concepts_raw.json
+ITCS_4102,topic,language paradigms,language paradigms,1,verified,language paradigms,ITCS_4102_concepts_raw.json
+ITCS_4102,concept,programming language features,programming language features,1,verified,programming language features,ITCS_4102_concepts_raw.json
+ITCS_4102,topic,language design criteria,Language Design Criteria,1,verified,language design criteria,ITCS_4102_concepts_raw.json
+ITCS_4102,concept,control I – expressions and statements,Control I – Expressions and Statements,1,verified,control I – expressions and statements,ITCS_4102_concepts_raw.json
+ITCS_4102,concept,control II – procedures and environments,Control II – Procedures and Environments,1,verified,control II – procedures and environments,ITCS_4102_concepts_raw.json
+ITCS_4102,topic,abstract data types and modules,Abstract Data Types and Modules,1,verified,abstract data types and modules,ITCS_4102_concepts_raw.json
+ITCS_4102,concept,formal semantics,Formal Semantics,1,verified,formal semantics,ITCS_4102_concepts_raw.json
+ITCS_4102,topic,parallel programming,Parallel Programming,1,verified,parallel programming,ITCS_4102_concepts_raw.json
+ITCS_4102,topic,object-oriented programming,Object-Oriented Programming,1,verified,object-oriented programming,ITCS_4102_concepts_raw.json
+ITCS_4102,topic,functional programming,Functional Programming,1,verified,functional programming,ITCS_4102_concepts_raw.json
+ITCS_4102,topic,logic programming,Logic Programming,1,verified,logic programming,ITCS_4102_concepts_raw.json
+ITCS_4102,topic,data types,Data Types,2,verified,data types,ITCS_4102_concepts_raw.json
+ITCS_4102,concept,syntax,syntax,2,verified,syntax,ITCS_4102_concepts_raw.json
+ITCS_4102,concept,semantics,semantics,2,verified,semantics,ITCS_4102_concepts_raw.json
+ITCS_4102,concept,paradigms,paradigms,3,verified,paradigms,ITCS_4102_concepts_raw.json
+ITCS_4102,concept,abstract data types,Abstract Data Types,1,verified,abstract data types,ITCS_4102_concepts_raw.json
+ITCS_4102,concept,modules,Modules,1,verified,modules,ITCS_4102_concepts_raw.json
+ITCS_4102,method,programming,programming,15,verified,programming,ITCS_4102_concepts_raw.json
+ITCS_4102,work,FORTRAN,FORTRAN,2,verified,FORTRAN,ITCS_4102_concepts_raw.json
+ITCS_4102,work,ALGOL,ALGOL,1,verified,ALGOL,ITCS_4102_concepts_raw.json
+ITCS_4102,work,C++,C++,1,verified,C++,ITCS_4102_concepts_raw.json
+ITCS_4102,work,Java,Java,1,verified,Java,ITCS_4102_concepts_raw.json

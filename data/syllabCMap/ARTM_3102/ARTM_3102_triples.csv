@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTM_3102,Formal and Conceptual Relationships,topic,PREREQUISITE_OF,3D Modeling,topic,A mentioned first,,ARTM_3102_triples_raw.json
+ARTM_3102,Animation,topic,PREREQUISITE_OF,Digital Presentation Tools,topic,B taught first,B is taught before A - check,ARTM_3102_triples_raw.json
+ARTM_3102,designing,method,PREREQUISITE_OF,implementing,method,unknown,,ARTM_3102_triples_raw.json
+ARTM_3102,designing,method,USED_FOR,implementing,method,,,ARTM_3102_triples_raw.json

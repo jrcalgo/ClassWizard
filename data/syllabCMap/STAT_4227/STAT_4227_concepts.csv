@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_4227,tool,Texas Instruments BA II Plus,Texas Instruments BA II Plus,1,verified,Texas Instruments BA II Plus,STAT_4227_concepts_raw.json
+STAT_4227,tool,TI-30Xa,TI-30Xa,1,verified,TI-30Xa,STAT_4227_concepts_raw.json
+STAT_4227,tool,TI-30X II,TI-30X IIS,1,verified,TI-30X II,STAT_4227_concepts_raw.json
+STAT_4227,tool,TI-30X IIS,TI-30X IIS,1,verified,TI-30X IIS,STAT_4227_concepts_raw.json
+STAT_4227,tool,TI-30X IIB,TI-30X IIB,1,verified,TI-30X IIB,STAT_4227_concepts_raw.json
+STAT_4227,tool,TI-30XS MultiView,TI-30XS MultiView,1,verified,TI-30XS MultiView,STAT_4227_concepts_raw.json
+STAT_4227,tool,TI-30XB,TI-30XB,1,verified,TI-30XB,STAT_4227_concepts_raw.json

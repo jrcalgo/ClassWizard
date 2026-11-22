@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTT_3291,visual research strategies,concept,PREREQUISITE_OF,conceptual frameworks in art,concept,same unit,,ARTT_3291_triples_raw.json
+ARTT_3291,speaking effectively about art,concept,PREREQUISITE_OF,using digital presentation tools,concept,same unit,,ARTT_3291_triples_raw.json
+ARTT_3291,Formal and Conceptual Relationships,topic,PART_OF,Creative Practices in Photography,topic,,,ARTT_3291_triples_raw.json
+ARTT_3291,Research Methods for Photographers,topic,PART_OF,Photography,topic,,,ARTT_3291_triples_raw.json
+ARTT_3291,Digital Portfolio Development,topic,PART_OF,Photography,topic,,,ARTT_3291_triples_raw.json
+ARTT_3291,Effective Communication in the Arts,topic,PART_OF,Photography,topic,,,ARTT_3291_triples_raw.json
+ARTT_3291,Writing About Art and Ideas,topic,PART_OF,Photography,topic,,,ARTT_3291_triples_raw.json
+ARTT_3291,artistic vision and intent,concept,PART_OF,Formal and Conceptual Relationships,topic,,,ARTT_3291_triples_raw.json
+ARTT_3291,organizing and documenting artwork,concept,PART_OF,Digital Portfolio Development,topic,,,ARTT_3291_triples_raw.json
+ARTT_3291,speaking effectively about art,concept,PART_OF,Effective Communication in the Arts,topic,,,ARTT_3291_triples_raw.json

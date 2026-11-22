@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6122,Linear Programming,topic,PREREQUISITE_OF,Multi-Objective Optimization,topic,A taught first,,DSBA_6122_triples_raw.json
+DSBA_6122,Nonlinear Programming,topic,PREREQUISITE_OF,Integer Programming,topic,A taught first,,DSBA_6122_triples_raw.json
+DSBA_6122,Nonlinear Programming,topic,PREREQUISITE_OF,Goal Programming,topic,A taught first,,DSBA_6122_triples_raw.json
+DSBA_6122,Linear Programming,topic,PREREQUISITE_OF,Integer Programming,topic,A taught first,,DSBA_6122_triples_raw.json
+DSBA_6122,Linear Programming,topic,PREREQUISITE_OF,Goal Programming,topic,A taught first,,DSBA_6122_triples_raw.json
+DSBA_6122,Linear Programming,topic,PART_OF,Operations,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Nonlinear Programming,topic,PART_OF,Operations,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Integer Programming,topic,PART_OF,Operations,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Goal Programming,topic,PART_OF,Operations,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Multi-Objective Optimization,topic,PART_OF,Operations,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Multi-Criteria Decision Making,topic,PART_OF,Operations,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,sensitivity analysis,method,PART_OF,model interpretation,method,,,DSBA_6122_triples_raw.json
+DSBA_6122,implementing spreadsheet-based solution approaches,method,PART_OF,Decision Modeling and Analysis,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,using Microsoft Excel,method,PART_OF,Decision Modeling and Analysis,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Integer Programming,topic,SUBTYPE_OF,Linear Programming,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Goal Programming,topic,SUBTYPE_OF,Linear Programming,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Nonlinear Programming,topic,SUBTYPE_OF,Linear Programming,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Multi-Objective Optimization,topic,SUBTYPE_OF,Linear Programming,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Multi-Criteria Decision Making,topic,SUBTYPE_OF,Linear Programming,topic,,,DSBA_6122_triples_raw.json
+DSBA_6122,Solver,tool,USED_FOR,model interpretation,method,,,DSBA_6122_triples_raw.json
+DSBA_6122,Microsoft Excel,tool,USED_FOR,implementing spreadsheet-based solution approaches,method,,,DSBA_6122_triples_raw.json

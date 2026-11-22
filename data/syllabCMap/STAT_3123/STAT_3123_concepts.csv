@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+STAT_3123,topic,Point Estimation,point estimation,1,verified,Point Estimation,STAT_3123_concepts_raw.json
+STAT_3123,topic,Confidence Intervals and Hypothesis Tests for Unknown Parameters,confidence intervals and hypothesis tests for unknown parameters,2,verified,Confidence Intervals and Hypothesis Tests for Unknown Parameters,STAT_3123_concepts_raw.json
+STAT_3123,concept,proportions,proportions,2,verified,proportions,STAT_3123_concepts_raw.json
+STAT_3123,concept,means,means,4,verified,means,STAT_3123_concepts_raw.json
+STAT_3123,concept,variances,variances,2,verified,variances,STAT_3123_concepts_raw.json
+STAT_3123,concept,differences between means,differences between means,2,verified,differences between means,STAT_3123_concepts_raw.json
+STAT_3123,concept,tests of significance,tests of significance,2,verified,tests of significance,STAT_3123_concepts_raw.json
+STAT_3123,concept,ANOVA tables,ANOVA tables,2,verified,ANOVA tables,STAT_3123_concepts_raw.json
+STAT_3123,concept,linear regression,linear regression,2,verified,linear regression,STAT_3123_concepts_raw.json
+STAT_3123,concept,method of moments,method of moments,1,verified,method of moments,STAT_3123_concepts_raw.json
+STAT_3123,concept,method of maximum likelihood,method of maximum likelihood,2,verified,method of maximum likelihood,STAT_3123_concepts_raw.json
+STAT_3123,concept,unbiased estimators,unbiased estimators,2,verified,unbiased estimators,STAT_3123_concepts_raw.json
+STAT_3123,concept,efficiency,efficiency,2,verified,efficiency,STAT_3123_concepts_raw.json
+STAT_3123,concept,consistency,consistency,2,verified,consistency,STAT_3123_concepts_raw.json
+STAT_3123,concept,confidence intervals,confidence intervals,2,verified,confidence intervals,STAT_3123_concepts_raw.json
+STAT_3123,concept,hypothesis tests,hypothesis tests,2,verified,hypothesis tests,STAT_3123_concepts_raw.json

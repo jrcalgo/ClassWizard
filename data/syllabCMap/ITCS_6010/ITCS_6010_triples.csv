@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_6010,Latency,concept,PART_OF,Large-Scale System Design,topic,,,ITCS_6010_triples_raw.json
+ITCS_6010,Throughput,concept,PART_OF,Large-Scale System Design,topic,,,ITCS_6010_triples_raw.json
+ITCS_6010,HPC × AI Workflows,topic,PART_OF,AI System Design,topic,,,ITCS_6010_triples_raw.json

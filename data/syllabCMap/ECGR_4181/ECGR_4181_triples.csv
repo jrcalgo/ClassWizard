@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4181,Memory hierarchy,concept,PART_OF,Computer Architecture,topic,,,ECGR_4181_triples_raw.json
+ECGR_4181,Architecture Simulator Tools,concept,PART_OF,Computer Architecture,topic,,,ECGR_4181_triples_raw.json
+ECGR_4181,Multi-Core,concept,PART_OF,Pipelined Computer Architectures,concept,,,ECGR_4181_triples_raw.json
+ECGR_4181,Multi-Threaded,concept,PART_OF,Pipelined Computer Architectures,concept,,,ECGR_4181_triples_raw.json
+ECGR_4181,Instruction Level Parallelism,concept,PART_OF,ISA,concept,,,ECGR_4181_triples_raw.json
+ECGR_4181,Branch predictors,concept,PART_OF,Memory hierarchy,concept,,,ECGR_4181_triples_raw.json
+ECGR_4181,ISA,concept,PART_OF,Computer Architecture,topic,,,ECGR_4181_triples_raw.json
+ECGR_4181,ILP,concept,PART_OF,ISA,concept,,,ECGR_4181_triples_raw.json
+ECGR_4181,Modern processor frontend design and instruction pipelining,topic,PART_OF,Microprocessor design process and evaluation methodology,topic,,,ECGR_4181_triples_raw.json

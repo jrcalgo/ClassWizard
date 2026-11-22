@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+POLS_1575,Separation of Powers,concept,PREREQUISITE_OF,Checks and Balances,concept,same unit,,POLS_1575_triples_raw.json
+POLS_1575,Separation of Powers,concept,PREREQUISITE_OF,Judicial Review Role,concept,same unit,,POLS_1575_triples_raw.json
+POLS_1575,Federalism,topic,PREREQUISITE_OF,State Sovereignty,concept,A taught first,,POLS_1575_triples_raw.json
+POLS_1575,Civil Liberties,concept,PREREQUISITE_OF,Due Process Clause,concept,same unit,,POLS_1575_triples_raw.json
+POLS_1575,Civil Liberties,concept,PREREQUISITE_OF,Equal Protection Clause,concept,same unit,,POLS_1575_triples_raw.json
+POLS_1575,Civil Liberties,concept,PREREQUISITE_OF,First Amendment Rights,concept,same unit,,POLS_1575_triples_raw.json
+POLS_1575,Constitutional Framework,concept,PREREQUISITE_OF,Amendments Process,concept,same unit,,POLS_1575_triples_raw.json
+POLS_1575,Executive Branch Power,concept,PREREQUISITE_OF,Legislative Branch Function,concept,same unit,,POLS_1575_triples_raw.json
+POLS_1575,Federalism,topic,PART_OF,American Democracy,topic,,,POLS_1575_triples_raw.json
+POLS_1575,Constitution,topic,PART_OF,American Democracy,topic,,,POLS_1575_triples_raw.json
+POLS_1575,Federal Bureaucracy,topic,PART_OF,American Democracy,topic,,,POLS_1575_triples_raw.json
+POLS_1575,Judiciary,topic,PART_OF,American Democracy,topic,,,POLS_1575_triples_raw.json
+POLS_1575,Interest Group Politics,topic,PART_OF,American Democracy,topic,,,POLS_1575_triples_raw.json
+POLS_1575,Political Participation,topic,PART_OF,American Democracy,topic,,,POLS_1575_triples_raw.json
+POLS_1575,Campaigns and Elections,topic,PART_OF,American Democracy,topic,,,POLS_1575_triples_raw.json
+POLS_1575,Congress,topic,PART_OF,American Democracy,topic,,,POLS_1575_triples_raw.json
+POLS_1575,Presidency,topic,PART_OF,American Democracy,topic,,,POLS_1575_triples_raw.json
+POLS_1575,Judicial Review Role,concept,USED_FOR,Constitutional Framework,concept,,,POLS_1575_triples_raw.json
+POLS_1575,Bill of Rights,concept,USED_FOR,Civil Liberties,concept,,,POLS_1575_triples_raw.json
+POLS_1575,Media Influence,concept,USED_FOR,Public Opinion Formation,concept,,,POLS_1575_triples_raw.json
+POLS_1575,Federalism Structure,concept,USED_FOR,National Government Role,concept,,,POLS_1575_triples_raw.json
+POLS_1575,Due Process Clause,concept,USED_FOR,Civil Liberties,concept,,,POLS_1575_triples_raw.json
+POLS_1575,Equal Protection Clause,concept,USED_FOR,Civil Liberties,concept,,,POLS_1575_triples_raw.json
+POLS_1575,First Amendment Rights,concept,USED_FOR,Civil Liberties,concept,,,POLS_1575_triples_raw.json
+POLS_1575,Amendments Process,concept,USED_FOR,Constitutional Framework,concept,,,POLS_1575_triples_raw.json
+POLS_1575,Executive Branch Power,concept,USED_FOR,Legislative Branch Function,concept,,,POLS_1575_triples_raw.json

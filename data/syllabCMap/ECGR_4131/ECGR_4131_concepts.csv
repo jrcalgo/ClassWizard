@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4131,topic,Linear Integrated Electronics,Linear Integrated Electronics,1,verified,Linear Integrated Electronics,ECGR_4131_concepts_raw.json
+ECGR_4131,topic,Circuit Design,Circuit Design,2,verified,Circuit Design,ECGR_4131_concepts_raw.json
+ECGR_4131,topic,Analog Integrated Circuit Design,Analog Integrated Circuit Design,1,verified,Analog Integrated Circuit Design,ECGR_4131_concepts_raw.json
+ECGR_4131,topic,Computer-Aided Design (CAD) Tools,Computer-Aided Design (CAD) Tools,1,verified,Computer-Aided Design (CAD) Tools,ECGR_4131_concepts_raw.json
+ECGR_4131,topic,Control and Processing of Analog Signals,Control and Processing of Analog Signals,1,verified,Control and Processing of Analog Signals,ECGR_4131_concepts_raw.json
+ECGR_4131,concept,linear integrated circuits,linear integrated circuits,2,verified,linear integrated circuits,ECGR_4131_concepts_raw.json
+ECGR_4131,concept,MOS devices,MOS devices,1,verified,MOS devices,ECGR_4131_concepts_raw.json
+ECGR_4131,concept,small-signal methods,small-signal methods,1,verified,small-signal methods,ECGR_4131_concepts_raw.json
+ECGR_4131,method,analysis of linear integrated circuits,Analysis of linear integrated circuits,1,verified,analysis of linear integrated circuits,ECGR_4131_concepts_raw.json
+ECGR_4131,method,verification,verification,1,verified,use of Computer-Aided Design (CAD) tools for design and verification,ECGR_4131_concepts_raw.json

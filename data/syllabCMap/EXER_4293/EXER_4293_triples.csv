@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EXER_4293,musculoskeletal system basics,concept,PART_OF,Biomechanics,topic,,,EXER_4293_triples_raw.json
+EXER_4293,motor control and coordination,concept,PART_OF,Neuromuscular Control of Movement,topic,,,EXER_4293_triples_raw.json
+EXER_4293,force and motion in injuries,concept,PART_OF,Mechanical Principles in Injury,topic,,,EXER_4293_triples_raw.json
+EXER_4293,energy transfer and absorption,concept,PART_OF,Mechanical Principles in Injury,topic,,,EXER_4293_triples_raw.json
+EXER_4293,biomechanics of musculoskeletal injury,concept,PART_OF,Mechanical Principles in Injury,topic,,,EXER_4293_triples_raw.json
+EXER_4293,sex differences in muscle strength,concept,PART_OF,Influence of Gender on Biomechanics,topic,,,EXER_4293_triples_raw.json
+EXER_4293,hormonal effects on movement patterns,concept,PART_OF,Influence of Gender on Biomechanics,topic,,,EXER_4293_triples_raw.json
+EXER_4293,gender-specific injuries and pathologies,concept,PART_OF,Influence of Gender on Biomechanics,topic,,,EXER_4293_triples_raw.json
+EXER_4293,ethnic differences in body composition,concept,PART_OF,Influence of Ethnicity on Biomechanics,topic,,,EXER_4293_triples_raw.json
+EXER_4293,cultural influences on movement patterns,concept,PART_OF,Influence of Ethnicity on Biomechanics,topic,,,EXER_4293_triples_raw.json
+EXER_4293,biomechanical principles,concept,USED_FOR,Applying Biomechanical Concepts,topic,,,EXER_4293_triples_raw.json

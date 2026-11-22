@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_3141L,topic,Atomic Structure,Atomic Structure,1,inferred,Atomic Structure,CHEM_3141L_concepts_raw.json
+CHEM_3141L,topic,Periodic Table,Periodic Table,1,inferred,Periodic Table,CHEM_3141L_concepts_raw.json
+CHEM_3141L,topic,Chemical Bonding,Chemical Bonding,1,inferred,Chemical Bonding,CHEM_3141L_concepts_raw.json
+CHEM_3141L,topic,Thermodynamics I,Thermodynamics I,1,inferred,Thermodynamics I,CHEM_3141L_concepts_raw.json
+CHEM_3141L,topic,Kinetics and Equilibrium,Kinetics and Equilibrium,1,inferred,Kinetics and Equilibrium,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Electron Configuration,Electron Configuration,1,inferred,Electron Configuration,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Atomic Orbitals,Atomic Orbitals,1,inferred,Atomic Orbitals,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Quantum Numbers,Quantum Numbers,1,inferred,Quantum Numbers,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Periodic Trends,Periodic Trends,1,inferred,Periodic Trends,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Block Elements,Block Elements,1,inferred,Block Elements,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Metalloids Properties,Metalloids Properties,1,inferred,Metalloids Properties,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Ionic Bonds Formed,Ionic Bonds Formed,1,inferred,Ionic Bonds Formed,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Covalent Bond Types,Covalent Bond Types,1,inferred,Covalent Bond Types,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Molecular Polarity,Molecular Polarity,1,inferred,Molecular Polarity,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Internal Energy Changes,Internal Energy Changes,1,inferred,Internal Energy Changes,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Enthalpy and Entropy,Enthalpy and Entropy,1,inferred,Enthalpy and Entropy,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Heat Transfer Methods,Heat Transfer Methods,1,inferred,Heat Transfer Methods,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Reaction Rate Laws,Reaction Rate Laws,1,inferred,Reaction Rate Laws,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Equilibrium Constant Kc,Equilibrium Constant Kc,1,inferred,Equilibrium Constant Kc,CHEM_3141L_concepts_raw.json
+CHEM_3141L,concept,Le Chatelier's Principle,Le Chatelier's Principle,1,inferred,Le Chatelier's Principle,CHEM_3141L_concepts_raw.json

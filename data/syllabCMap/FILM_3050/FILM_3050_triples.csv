@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FILM_3050,historical,method,SUBTYPE_OF,cultural,method,,,FILM_3050_triples_raw.json
+FILM_3050,historical,method,SUBTYPE_OF,ideological perspectives,method,,,FILM_3050_triples_raw.json
+FILM_3050,Write analytical essays,method,USED_FOR,Chinese Film Studies,topic,,,FILM_3050_triples_raw.json
+FILM_3050,research,method,USED_FOR,Chinese Film Studies,topic,,,FILM_3050_triples_raw.json

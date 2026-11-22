@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GRAD_6302,Responsible Conduct of Research,topic,PREREQUISITE_OF,Lab Animal Welfare,topic,B mentioned first,,GRAD_6302_triples_raw.json
+GRAD_6302,Responsible Conduct of Research,topic,PREREQUISITE_OF,Authorship and Publication,topic,B mentioned first,,GRAD_6302_triples_raw.json
+GRAD_6302,protection of human subjects,concept,PREREQUISITE_OF,Lab Animal Welfare,topic,A taught first,,GRAD_6302_triples_raw.json
+GRAD_6302,mentor and trainee responsibilities,concept,PREREQUISITE_OF,Authorship and Publication,topic,A taught first,,GRAD_6302_triples_raw.json
+GRAD_6302,data acquisition,concept,PART_OF,"Data Acquisition, Management, Sharing and Ownership",topic,,,GRAD_6302_triples_raw.json
+GRAD_6302,Lab Animal Welfare,topic,PART_OF,Responsible Conduct of Research,topic,,,GRAD_6302_triples_raw.json
+GRAD_6302,Authorship and Publication,topic,PART_OF,Responsible Conduct of Research,topic,,,GRAD_6302_triples_raw.json
+GRAD_6302,protection of human subjects,concept,PART_OF,Responsible Conduct of Research,topic,,,GRAD_6302_triples_raw.json

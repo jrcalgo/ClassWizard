@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3173,topic,Mechatronic systems,mechatronic systems,1,verified,Mechatronic systems,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,System dynamics,system dynamics,1,verified,System dynamics,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,Advanced circuit analysis,advanced circuit analysis,1,verified,Advanced circuit analysis,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,Signal conditioning,signal conditioning,2,verified,Signal conditioning,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,Error analysis,error analysis,1,verified,Error analysis,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,Control,control,2,verified,Control,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,Communication,communication,1,verified,Communication,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,Programming,programming,1,verified,Programming,MEGR_3173_concepts_raw.json
+MEGR_3173,topic,Measurement Systems,Measurement Systems,1,verified,Measurement Systems,MEGR_3173_concepts_raw.json
+MEGR_3173,topic,Mechanical Processes,mechanical processes,1,verified,Mechanical Processes,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,Major components of measurement and data acquisition systems,major components of measurement and data acquisition systems,1,verified,Major components of measurement and data acquisition systems,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,Common components of mechanical processes,common components of mechanical processes,1,verified,Common components of mechanical processes,MEGR_3173_concepts_raw.json
+MEGR_3173,measure,Performance measures,performance measures,1,verified,Performance measures,MEGR_3173_concepts_raw.json
+MEGR_3173,measure,Combined uncertainties,combined uncertainties,1,verified,Combined uncertainties,MEGR_3173_concepts_raw.json
+MEGR_3173,concept,Nonlinear curve fitting,nonlinear curve fitting,1,verified,Nonlinear curve fitting,MEGR_3173_concepts_raw.json
+MEGR_3173,method,Compose computer programs,Compose computer programs,1,verified,Compose computer programs,MEGR_3173_concepts_raw.json
+MEGR_3173,method,Translate circuit diagrams to a breadboard prototype,translate circuit diagrams to a breadboard prototype,1,verified,Translate circuit diagrams to a breadboard prototype,MEGR_3173_concepts_raw.json
+MEGR_3173,method,Analyze data using statistical measures,Analyze data using statistical measures,1,verified,Analyze data using statistical measures,MEGR_3173_concepts_raw.json
+MEGR_3173,method,Apply linear and nonlinear curve fitting,apply linear and nonlinear curve fitting,1,verified,Apply linear and nonlinear curve fitting,MEGR_3173_concepts_raw.json
+MEGR_3173,measure,Statistical measures,statistical measures,1,verified,Statistical measures,MEGR_3173_concepts_raw.json

@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_4681,topic,Generative AI,generative AI,3,verified,Generative AI,ITSC_4681_concepts_raw.json
+ITSC_4681,concept,Large Language Models (LLMs,Large Language Models (LLMs,1,verified,Large Language Models (LLMs),ITSC_4681_concepts_raw.json
+ITSC_4681,topic,Senior Design I,Senior Design I,1,verified,Senior Design I,ITSC_4681_concepts_raw.json
+ITSC_4681,topic,Software Development Frameworks,software development frameworks,1,verified,Software Development Frameworks,ITSC_4681_concepts_raw.json
+ITSC_4681,method,Retrieval-Augmented Generation (RAG,Retrieval-Augmented Generation (RAG,2,verified,Retrieval-Augmented Generation (RAG),ITSC_4681_concepts_raw.json
+ITSC_4681,topic,Agentic Framework,agentic framework,1,verified,Agentic Framework,ITSC_4681_concepts_raw.json
+ITSC_4681,topic,Model Context Protocol (MCP,Model Context Protocol (MCP,1,verified,Model Context Protocol (MCP),ITSC_4681_concepts_raw.json
+ITSC_4681,concept,Generative AI foundational models,generative AI foundational models,1,verified,Generative AI foundational models,ITSC_4681_concepts_raw.json
+ITSC_4681,concept,Semantic retrieval techniques,semantic retrieval techniques,1,verified,Semantic retrieval techniques,ITSC_4681_concepts_raw.json
+ITSC_4681,method,Prompt engineering,prompt engineering,2,verified,Prompt engineering,ITSC_4681_concepts_raw.json
+ITSC_4681,method,Software development,software development,1,verified,Software development,ITSC_4681_concepts_raw.json
+ITSC_4681,method,Semantic retrieval,semantic retrieval,1,verified,Semantic retrieval,ITSC_4681_concepts_raw.json
+ITSC_4681,method,Multi-step reasoning,multi-step reasoning,1,verified,Multi-step reasoning,ITSC_4681_concepts_raw.json
+ITSC_4681,method,Autonomous task execution,autonomous task execution,1,verified,Autonomous task execution,ITSC_4681_concepts_raw.json
+ITSC_4681,method,Qualitative evaluation,qualitative evaluation,1,verified,Qualitative evaluation,ITSC_4681_concepts_raw.json

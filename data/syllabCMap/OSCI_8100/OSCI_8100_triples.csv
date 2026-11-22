@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+OSCI_8100,ethics,topic,PREREQUISITE_OF,integrity,topic,same unit,,OSCI_8100_triples_raw.json
+OSCI_8100,organizational science,topic,PREREQUISITE_OF,ethics,topic,same unit,,OSCI_8100_triples_raw.json
+OSCI_8100,organizational science,topic,PREREQUISITE_OF,integrity,topic,same unit,,OSCI_8100_triples_raw.json
+OSCI_8100,video-learning,method,USED_FOR,organizational science,topic,,,OSCI_8100_triples_raw.json

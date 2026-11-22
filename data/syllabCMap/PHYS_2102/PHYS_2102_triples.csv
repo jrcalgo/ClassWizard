@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_2102,Electric Circuits,topic,PREREQUISITE_OF,Magnetic Fields,topic,A taught first,,PHYS_2102_triples_raw.json
+PHYS_2102,Magnetic Fields,topic,PREREQUISITE_OF,Electromagnetic Induction,topic,A taught first,,PHYS_2102_triples_raw.json

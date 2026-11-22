@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_3112,Stata,tool,USED_FOR,data analysis,method,,,ECON_3112_triples_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6152,Discounted Cash Flow Analysis,concept,PREREQUISITE_OF,Asset Management,topic,A taught first,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted Cash Flow Analysis,concept,PREREQUISITE_OF,Cost of Capital,topic,A taught first,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted Cash Flow Analysis,concept,PREREQUISITE_OF,Capital Budgeting,topic,A taught first,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted Cash Flow Analysis,concept,PREREQUISITE_OF,Socio-economic aspects of financial management,topic,A mentioned first,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted Cash Flow Analysis,concept,PART_OF,Asset Management,topic,,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted Cash Flow Analysis,concept,PART_OF,Cost of Capital,topic,,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted Cash Flow Analysis,concept,PART_OF,Capital Budgeting,topic,,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted Cash Flow Analysis,concept,PART_OF,Optimization Problems,topic,,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted Cash Flow Analysis,concept,PART_OF,Socio-economic aspects of financial management,topic,,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted cash flow analysis (DCF,method,USED_FOR,Cost of Capital,topic,,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted cash flow analysis (DCF,method,USED_FOR,Capital Budgeting,topic,,,MBAD_6152_triples_raw.json
+MBAD_6152,Discounted cash flow analysis (DCF,method,USED_FOR,Socio-economic aspects of financial management,topic,,,MBAD_6152_triples_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_4702,Research Design Principles,concept,PART_OF,Thesis Project Overview,concept,,,PSYC_4702_triples_raw.json
+PSYC_4702,Academic Integrity Expectations,concept,PART_OF,Thesis Project Overview,concept,,,PSYC_4702_triples_raw.json
+PSYC_4702,Research Question Formulation,concept,PART_OF,Research proposal development,method,,part is broader than whole - check direction,PSYC_4702_triples_raw.json
+PSYC_4702,Hypothesis Generation and Testing,concept,PART_OF,Research proposal development,method,,part is broader than whole - check direction,PSYC_4702_triples_raw.json
+PSYC_4702,Methodology and Design Considerations,concept,PART_OF,Research proposal development,method,,part is broader than whole - check direction,PSYC_4702_triples_raw.json
+PSYC_4702,Experimental Design Principles,concept,PART_OF,Study design and data collection,method,,part is broader than whole - check direction,PSYC_4702_triples_raw.json
+PSYC_4702,Quantitative Data Analysis Methods,concept,PART_OF,Data analysis techniques,method,,part is broader than whole - check direction,PSYC_4702_triples_raw.json
+PSYC_4702,Statistical Software Applications,concept,PART_OF,Data analysis techniques,method,,part is broader than whole - check direction,PSYC_4702_triples_raw.json
+PSYC_4702,Literature search,method,USED_FOR,Systematic Literature Search,concept,,,PSYC_4702_triples_raw.json
+PSYC_4702,Research proposal development,method,USED_FOR,Research Question Formulation,concept,,,PSYC_4702_triples_raw.json

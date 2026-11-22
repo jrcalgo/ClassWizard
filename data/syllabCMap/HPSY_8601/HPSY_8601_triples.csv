@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HPSY_8601,cognitive psychology,topic,PREREQUISITE_OF,affective sciences,topic,A taught first,,HPSY_8601_triples_raw.json
+HPSY_8601,cognitive psychology,topic,PREREQUISITE_OF,classical conditioning basics,concept,same unit,,HPSY_8601_triples_raw.json
+HPSY_8601,cognitive psychology,topic,PREREQUISITE_OF,operant conditioning principles,concept,same unit,,HPSY_8601_triples_raw.json
+HPSY_8601,cognitive psychology,topic,PREREQUISITE_OF,appraisal theory of emotions,concept,A taught first,,HPSY_8601_triples_raw.json
+HPSY_8601,cognitive psychology,topic,PREREQUISITE_OF,emotional intelligence concept,concept,A taught first,,HPSY_8601_triples_raw.json
+HPSY_8601,cognitive psychology,topic,PREREQUISITE_OF,neurobiological basis of emotion,concept,A taught first,,HPSY_8601_triples_raw.json
+HPSY_8601,classical conditioning basics,concept,PART_OF,cognitive psychology,topic,,,HPSY_8601_triples_raw.json
+HPSY_8601,operant conditioning principles,concept,PART_OF,cognitive psychology,topic,,,HPSY_8601_triples_raw.json
+HPSY_8601,appraisal theory of emotions,concept,PART_OF,affective sciences,topic,,,HPSY_8601_triples_raw.json
+HPSY_8601,biological response to stress,concept,PART_OF,affective sciences,topic,,,HPSY_8601_triples_raw.json
+HPSY_8601,emotional intelligence concept,concept,PART_OF,affective sciences,topic,,,HPSY_8601_triples_raw.json
+HPSY_8601,neurobiological basis of emotion,concept,PART_OF,affective sciences,topic,,,HPSY_8601_triples_raw.json
+HPSY_8601,personality traits and emotions,concept,PART_OF,affective sciences,topic,,,HPSY_8601_triples_raw.json
+HPSY_8601,emotion regulation theories,concept,USED_FOR,emotion and motivation link,concept,,,HPSY_8601_triples_raw.json

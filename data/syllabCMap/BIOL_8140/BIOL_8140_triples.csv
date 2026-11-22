@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_8140,Natural Selection,concept,PREREQUISITE_OF,Phylogenetic trees,concept,A taught first,,BIOL_8140_triples_raw.json
+BIOL_8140,Natural Selection,concept,PREREQUISITE_OF,Adaptation mechanisms,concept,A taught first,,BIOL_8140_triples_raw.json
+BIOL_8140,Natural Selection,concept,PREREQUISITE_OF,Selection Pressure,concept,A taught first,,BIOL_8140_triples_raw.json
+BIOL_8140,Natural Selection,concept,PREREQUISITE_OF,Evolutionary Change,concept,A taught first,,BIOL_8140_triples_raw.json
+BIOL_8140,Genetic Drift,concept,PREREQUISITE_OF,Neutral Theory,concept,same unit,,BIOL_8140_triples_raw.json
+BIOL_8140,Class Phylogeny,concept,PREREQUISITE_OF,Individual Phylogeny,concept,same unit,,BIOL_8140_triples_raw.json
+BIOL_8140,Class Phylogeny,concept,PREREQUISITE_OF,Phylogenetic adaptation,concept,A taught first,,BIOL_8140_triples_raw.json
+BIOL_8140,Genome Evolution,concept,PREREQUISITE_OF,Molecular Evolution,concept,same unit,,BIOL_8140_triples_raw.json
+BIOL_8140,Natural Selection,concept,PREREQUISITE_OF,Evolutionary Optimization,concept,A taught first,,BIOL_8140_triples_raw.json
+BIOL_8140,Neutral Theory,concept,PREREQUISITE_OF,Molecular clock,concept,B taught first,B is taught before A - check,BIOL_8140_triples_raw.json
+BIOL_8140,Maximum likelihood,concept,PREREQUISITE_OF,Tree topology comparison,concept,same unit,,BIOL_8140_triples_raw.json
+BIOL_8140,Species Variation,concept,PART_OF,Descent with Modification,concept,,,BIOL_8140_triples_raw.json
+BIOL_8140,Gradualism Theory,concept,PART_OF,Evolutionary Process,concept,,,BIOL_8140_triples_raw.json
+BIOL_8140,Natural Selection Process,concept,PART_OF,Evolutionary Change Drivers,concept,,,BIOL_8140_triples_raw.json
+BIOL_8140,Phylogenetic Tree Construction,concept,PART_OF,Phylogenetic trees,concept,,,BIOL_8140_triples_raw.json
+BIOL_8140,Molecular Clock Theory,concept,PART_OF,Phylogenetic trees,concept,,,BIOL_8140_triples_raw.json
+BIOL_8140,Species Variation,concept,SUBTYPE_OF,Descent with Modification,concept,,,BIOL_8140_triples_raw.json
+BIOL_8140,Gradualism Theory,concept,SUBTYPE_OF,Evolutionary Process,concept,,,BIOL_8140_triples_raw.json
+BIOL_8140,Natural Selection Process,concept,SUBTYPE_OF,Evolutionary Change Drivers,concept,,,BIOL_8140_triples_raw.json
+BIOL_8140,Phylogenetic Tree Construction,concept,SUBTYPE_OF,Phylogenetic trees,concept,,,BIOL_8140_triples_raw.json
+BIOL_8140,Molecular Clock Theory,concept,SUBTYPE_OF,Phylogenetic trees,concept,,,BIOL_8140_triples_raw.json

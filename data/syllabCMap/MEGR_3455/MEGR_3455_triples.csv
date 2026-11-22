@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3455,Team Formation Process,concept,PART_OF,Project Formation,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Client Project Briefing,concept,PART_OF,Project Formation,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Project Scope Definition,concept,PART_OF,Project Formation,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Engineering Design Principles,concept,PART_OF,Design Philosophy,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Design Standards and Guidelines,concept,PART_OF,Design Philosophy,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Innovation and Creativity,concept,PART_OF,Design Philosophy,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Collaborative Teamwork Skills,concept,PART_OF,Team Problem-Solving,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Conflict Resolution Strategies,concept,PART_OF,Team Problem-Solving,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Effective Communication Methods,concept,PART_OF,Team Problem-Solving,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Time and Financial Planning,concept,PART_OF,Project Management,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Resource Allocation Techniques,concept,PART_OF,Project Management,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Risk Management Strategies,concept,PART_OF,Project Management,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Cultural Awareness and Sensitivity,concept,PART_OF,Social Engineering,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Professional Networking Strategies,concept,PART_OF,Social Engineering,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Task Prioritization and Scheduling,concept,PART_OF,Project Execution,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Budgeting and Cost Control,concept,PART_OF,Project Execution,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Quality Assurance Methods,concept,PART_OF,Project Execution,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Design Package Development,concept,PART_OF,Final Report Preparation,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Technical Writing and Documentation,concept,PART_OF,Final Report Preparation,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Presentation and Communication Skills,concept,PART_OF,Final Report Preparation,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Visual Aids and Presentation Tools,concept,PART_OF,Expo Presentation,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Confidence and Stage Presence,concept,PART_OF,Expo Presentation,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Performance Metrics and Indicators,measure,USED_FOR,Progress Evaluations,topic,,,MEGR_3455_triples_raw.json
+MEGR_3455,Progress Monitoring and Reporting,measure,USED_FOR,Progress Evaluations,topic,,,MEGR_3455_triples_raw.json

@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_1101,topic,Algebraic Expressions,algebraic expressions,1,verified,Algebraic Expressions,MATH_1101_concepts_raw.json
+MATH_1101,topic,Coordinate Geometry,coordinate geometry,1,verified,Coordinate Geometry,MATH_1101_concepts_raw.json
+MATH_1101,concept,piecewise-defined functions,piecewise-defined functions,1,verified,piecewise-defined functions,MATH_1101_concepts_raw.json
+MATH_1101,topic,Linear and Quadratic Equations,Linear and Quadratic Equations,1,inferred,Linear and Quadratic Equations,MATH_1101_concepts_raw.json
+MATH_1101,topic,Inequalities and Graphs,Inequalities and Graphs,1,inferred,Inequalities and Graphs,MATH_1101_concepts_raw.json
+MATH_1101,topic,Functions and Notation,Functions and Notation,1,inferred,Functions and Notation,MATH_1101_concepts_raw.json
+MATH_1101,topic,Graphing Fundamental Functions,Graphing Fundamental Functions,1,inferred,Graphing Fundamental Functions,MATH_1101_concepts_raw.json
+MATH_1101,topic,Modeling and Problem-Solving,Modeling and Problem-Solving,1,inferred,Modeling and Problem-Solving,MATH_1101_concepts_raw.json
+MATH_1101,concept,simplifying polynomials,Simplifying Polynomials,1,inferred,simplifying polynomials,MATH_1101_concepts_raw.json
+MATH_1101,concept,factoring quadratic equations,Factoring Quadratic Equations,1,inferred,factoring quadratic equations,MATH_1101_concepts_raw.json
+MATH_1101,concept,radical notation rules,Radical Notation Rules,1,inferred,radical notation rules,MATH_1101_concepts_raw.json
+MATH_1101,concept,solving linear equations,Solving Linear Equations,1,inferred,solving linear equations,MATH_1101_concepts_raw.json
+MATH_1101,concept,quadratic formula application,Quadratic Formula Application,1,inferred,quadratic formula application,MATH_1101_concepts_raw.json
+MATH_1101,concept,rational equation simplification,Rational Equation Simplification,1,inferred,rational equation simplification,MATH_1101_concepts_raw.json
+MATH_1101,concept,graphing inequalities,Graphing Inequalities,1,inferred,graphing inequalities,MATH_1101_concepts_raw.json
+MATH_1101,concept,linear inequality solutions,Linear Inequality Solutions,1,inferred,linear inequality solutions,MATH_1101_concepts_raw.json
+MATH_1101,concept,absolute value inequality rules,Absolute Value Inequality Rules,1,inferred,absolute value inequality rules,MATH_1101_concepts_raw.json
+MATH_1101,concept,function composition basics,Function Composition Basics,1,inferred,function composition basics,MATH_1101_concepts_raw.json
+MATH_1101,concept,inverse function properties,Inverse Function Properties,1,inferred,inverse function properties,MATH_1101_concepts_raw.json
+MATH_1101,concept,domain and range analysis,Domain and Range Analysis,1,inferred,domain and range analysis,MATH_1101_concepts_raw.json
+MATH_1101,concept,asymptotes and intervals of increase,Asymptotes and Intervals of Increase,1,inferred,asymptotes and intervals of increase,MATH_1101_concepts_raw.json
+MATH_1101,concept,local extrema identification,Local Extrema Identification,1,inferred,local extrema identification,MATH_1101_concepts_raw.json
+MATH_1101,concept,distance formula application,Distance Formula Application,1,inferred,distance formula application,MATH_1101_concepts_raw.json
+MATH_1101,concept,midpoint formula rules,Midpoint Formula Rules,1,inferred,midpoint formula rules,MATH_1101_concepts_raw.json
+MATH_1101,concept,equations of circles in standard form,Equations of Circles in Standard Form,1,inferred,equations of circles in standard form,MATH_1101_concepts_raw.json

@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HONR_3700,American Folk Music,topic,PART_OF,Remix Culture,topic,,,HONR_3700_triples_raw.json
+HONR_3700,regional performance traditions,concept,PART_OF,American folk song adaptation,concept,,,HONR_3700_triples_raw.json
+HONR_3700,recording industry impact,concept,PART_OF,American folk song adaptation,concept,,,HONR_3700_triples_raw.json
+HONR_3700,radio and folk music,concept,PART_OF,American folk song adaptation,concept,,,HONR_3700_triples_raw.json
+HONR_3700,ideas about history in folk songs,concept,PART_OF,labor and politics in folk music,concept,,,HONR_3700_triples_raw.json

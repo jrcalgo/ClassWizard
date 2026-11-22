@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_8166,topic,Internet Architecture,Internet architecture,1,verified,Internet Architecture,ITCS_8166_concepts_raw.json
+ITCS_8166,concept,OSI layered architectures,OSI layered architectures,1,verified,OSI layered architectures,ITCS_8166_concepts_raw.json
+ITCS_8166,concept,application protocols,application protocols,1,verified,application protocols,ITCS_8166_concepts_raw.json
+ITCS_8166,concept,software-defined networking (SDN,software-defined networking (SDN,1,verified,software-defined networking (SDN),ITCS_8166_concepts_raw.json
+ITCS_8166,concept,next-generation wireless networks,next-generation wireless networks,1,verified,next-generation wireless networks,ITCS_8166_concepts_raw.json
+ITCS_8166,concept,AI-infused protocols,AI-infused protocols,1,verified,AI-infused protocols,ITCS_8166_concepts_raw.json
+ITCS_8166,concept,AI-native networking,AI- native networking,2,verified,AI-native networking,ITCS_8166_concepts_raw.json
+ITCS_8166,concept,emerging networked applications,emerging networked applications,1,verified,emerging networked applications,ITCS_8166_concepts_raw.json

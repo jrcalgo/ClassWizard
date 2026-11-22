@@ -1,0 +1,18 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_6090,Gender,topic,PART_OF,Sociological Theory,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Labor Market Participation,topic,PART_OF,Work,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Occupational Segregation Patterns,concept,PART_OF,Organizations,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Career Advancement Barriers,concept,PART_OF,Work,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Gender Pay Gap Explanation,concept,PART_OF,Work,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Occupational Stereotypes Formation,concept,PART_OF,Organizations,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Career Aspirations and Expectations,concept,PART_OF,Work,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Sexual Harassment in Workplace,concept,PART_OF,Organizations,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Organizational Culture and Gender,concept,PART_OF,Organizations,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Work-Life Balance Challenges,concept,PART_OF,Work,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Racial and Ethnic Disparities,concept,PART_OF,Intersectionality,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Disability and Work Experiences,concept,PART_OF,Intersectionality,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,LGBTQ+ Labor Market Outcomes,concept,PART_OF,Intersectionality,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Gender and Sociological Theory,concept,PART_OF,Sociological Theory,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Intersectionality Concept,concept,PART_OF,Sociological Theory,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Patriarchy and Power Dynamics,concept,PART_OF,Sociological Theory,topic,,,SOCY_6090_triples_raw.json
+SOCY_6090,Men's and Women's Labor Force,concept,PART_OF,Labor Market Participation,topic,,,SOCY_6090_triples_raw.json

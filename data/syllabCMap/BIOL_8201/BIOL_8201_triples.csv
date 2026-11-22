@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_8201,Oral Presentation Skills,concept,PREREQUISITE_OF,Seminar,topic,same unit,,BIOL_8201_triples_raw.json
+BIOL_8201,Oral Presentation Skills,concept,PREREQUISITE_OF,Synthesizing Current Literature,topic,A taught first,,BIOL_8201_triples_raw.json
+BIOL_8201,Research Paper Analysis,concept,PART_OF,Analyzing Research Papers,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Critical Thinking Techniques,concept,PART_OF,Analyzing Research Papers,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Literature Review Strategies,concept,PART_OF,Analyzing Research Papers,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Scientific Writing Styles,concept,PART_OF,Analyzing Research Papers,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Constructive Criticism Methods,concept,PART_OF,Peer Feedback and Evaluation,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Presentation Evaluation Criteria,concept,PART_OF,Peer Feedback and Evaluation,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Research Paper Selection,concept,PART_OF,First Presentation Preparation,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Critical Analysis Frameworks,concept,PART_OF,First Presentation Preparation,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Presentation Organization,concept,PART_OF,First Presentation Preparation,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Oral Communication Strategies,concept,PART_OF,Synthesizing Current Literature,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Peer Review Process,concept,PART_OF,Synthesizing Current Literature,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Self-Assessment Techniques,concept,PART_OF,Synthesizing Current Literature,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Literature Search Methods,concept,PART_OF,Synthesizing Current Literature,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Research Synthesis Techniques,concept,PART_OF,Synthesizing Current Literature,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Dissertation Defense Strategies,concept,PART_OF,Second Presentation Preparation,topic,,,BIOL_8201_triples_raw.json
+BIOL_8201,Job Interview Presentation Skills,concept,PART_OF,Second Presentation Preparation,topic,,,BIOL_8201_triples_raw.json

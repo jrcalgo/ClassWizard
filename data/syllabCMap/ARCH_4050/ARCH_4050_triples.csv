@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARCH_4050,Design,topic,PREREQUISITE_OF,Architecture,topic,same unit,,ARCH_4050_triples_raw.json
+ARCH_4050,Role of the Architect,topic,PREREQUISITE_OF,Design as a Process,topic,A taught first,,ARCH_4050_triples_raw.json
+ARCH_4050,Case Studies in Architecture,topic,PREREQUISITE_OF,Design and Culture,topic,A taught first,,ARCH_4050_triples_raw.json
+ARCH_4050,Design Thinking Fundamentals,concept,PART_OF,Design,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Vitruvius' Ten Books,concept,PART_OF,Classics of Architectural Theory,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Alberti's Building Principles,concept,PART_OF,Classics of Architectural Theory,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Bachelard's Poetics of Space,concept,PART_OF,Classics of Architectural Theory,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Cultural Contexts in Design,concept,PART_OF,Design Discourses and References,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Implications of Early Work,concept,PART_OF,Role of the Architect,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Capacity for Growth and Expansion,concept,PART_OF,Role of the Architect,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Strategic Design Thinking,concept,PART_OF,Role of the Architect,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Iterative Design Thinking,concept,PART_OF,Design as a Process,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Prototyping and Feedback Loops,concept,PART_OF,Design as a Process,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Embracing Uncertainty in Design,concept,PART_OF,Design as a Process,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Analyzing Successful Designs,concept,PART_OF,Case Studies in Architecture,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Identifying Best Practices,concept,PART_OF,Case Studies in Architecture,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Applying Theoretical Concepts,concept,PART_OF,Case Studies in Architecture,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Alberti's Building Principles,concept,USED_FOR,Classics of Architectural Theory,topic,,,ARCH_4050_triples_raw.json
+ARCH_4050,Bachelard's Poetics of Space,concept,USED_FOR,Classics of Architectural Theory,topic,,,ARCH_4050_triples_raw.json

@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DSBA_6160,topic,database systems,database systems,1,verified,database systems,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,relational databases,relational databases,1,verified,relational databases,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,data science,data science,4,verified,data science,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,analytics workflows,analytics workflows,1,verified,analytics workflows,DSBA_6160_concepts_raw.json
+DSBA_6160,method,database design,database design,1,verified,database design,DSBA_6160_concepts_raw.json
+DSBA_6160,method,querying,querying,1,verified,querying,DSBA_6160_concepts_raw.json
+DSBA_6160,method,execution choices,execution choices,1,verified,execution choices,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,analytical performance,analytical performance,1,verified,analytical performance,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,correctness,correctness,1,verified,correctness,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,computational engines,computational engines,1,verified,computational engines,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,integration,integration,1,verified,integration,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,Python-based environments,Python-based environments,1,verified,Python-based environments,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,local analytics databases,local analytics databases,1,verified,local analytics databases,DSBA_6160_concepts_raw.json
+DSBA_6160,method,cloud-scale analytical platforms,cloud-scale analytical platforms,1,verified,cloud-scale analytical platforms,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,specialized data systems,specialized data systems,2,verified,specialized data systems,DSBA_6160_concepts_raw.json
+DSBA_6160,concept,graph databases,graph databases,1,verified,graph databases,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,data warehouses,data warehouses,1,verified,data warehouses,DSBA_6160_concepts_raw.json
+DSBA_6160,topic,data lakes,data lakes,1,verified,data lakes,DSBA_6160_concepts_raw.json
+DSBA_6160,method,MPP systems,MPP systems,1,verified,MPP systems,DSBA_6160_concepts_raw.json
+DSBA_6160,method,PySpark,PySpark,1,verified,PySpark,DSBA_6160_concepts_raw.json
+DSBA_6160,method,Apache Iceberg,Apache Iceberg,1,verified,Apache Iceberg,DSBA_6160_concepts_raw.json
+DSBA_6160,concept,relational database management system,Relational Database Management Systems,1,verified,relational database management system,DSBA_6160_concepts_raw.json
+DSBA_6160,concept,structured query language,Structured Query Language,2,verified,structured query language,DSBA_6160_concepts_raw.json
+DSBA_6160,method,entity-relationship modeling,entity-relationship modeling,1,verified,entity-relationship modeling,DSBA_6160_concepts_raw.json
+DSBA_6160,tool,MySQL,MySQL,2,verified,MySQL,DSBA_6160_concepts_raw.json
+DSBA_6160,tool,Python,Python,2,verified,Python,DSBA_6160_concepts_raw.json
+DSBA_6160,tool,Jupyter notebooks,Jupyter notebooks,1,verified,Jupyter notebooks,DSBA_6160_concepts_raw.json

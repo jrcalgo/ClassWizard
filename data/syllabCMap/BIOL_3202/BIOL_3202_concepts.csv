@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_3202,topic,Greenhouse Management,greenhouse management,1,verified,Greenhouse Management,BIOL_3202_concepts_raw.json
+BIOL_3202,topic,Plant Identification,Plant Identification,1,inferred,Plant Identification,BIOL_3202_concepts_raw.json
+BIOL_3202,topic,Plant Structures and Functions,Plant Structures and Functions,1,inferred,Plant Structures and Functions,BIOL_3202_concepts_raw.json
+BIOL_3202,topic,Plant Physiology Basics,Plant Physiology Basics,1,inferred,Plant Physiology Basics,BIOL_3202_concepts_raw.json
+BIOL_3202,topic,Environmental Factors I,Environmental Factors I,1,inferred,Environmental Factors I,BIOL_3202_concepts_raw.json
+BIOL_3202,topic,Environmental Factors II,Environmental Factors II,1,inferred,Environmental Factors II,BIOL_3202_concepts_raw.json
+BIOL_3202,topic,Indoor Plant Maintenance,Indoor Plant Maintenance,1,inferred,Indoor Plant Maintenance,BIOL_3202_concepts_raw.json
+BIOL_3202,topic,Outdoor Plant Care,Outdoor Plant Care,1,inferred,Outdoor Plant Care,BIOL_3202_concepts_raw.json
+BIOL_3202,topic,Landscaping Principles,Landscaping Principles,1,inferred,Landscaping Principles,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Botanical Naming Systems,Botanical Naming Systems,1,inferred,Botanical Naming Systems,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Plant Classification Methods,Plant Classification Methods,1,inferred,Plant Classification Methods,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Taxonomic Hierarchy Levels,Taxonomic Hierarchy Levels,1,inferred,Taxonomic Hierarchy Levels,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Leaf Structure and Function,Leaf Structure and Function,1,inferred,Leaf Structure and Function,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Root System Development,Root System Development,1,inferred,Root System Development,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Stem Tissue Types,Stem Tissue Types,1,inferred,Stem Tissue Types,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Photosynthesis Process Overview,Photosynthesis Process Overview,1,inferred,Photosynthesis Process Overview,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Respiration and Transpiration,Respiration and Transpiration,1,inferred,Respiration and Transpiration,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Water Absorption Mechanisms,Water Absorption Mechanisms,1,inferred,Water Absorption Mechanisms,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Temperature Effects on Plants,Temperature Effects on Plants,1,inferred,Temperature Effects on Plants,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Light Spectrum and Intensity,Light Spectrum and Intensity,1,inferred,Light Spectrum and Intensity,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Precipitation Patterns and Impact,Precipitation Patterns and Impact,1,inferred,Precipitation Patterns and Impact,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Nutrient Deficiency Symptoms,Nutrient Deficiency Symptoms,1,inferred,Nutrient Deficiency Symptoms,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Pest Management Strategies,Pest Management Strategies,1,inferred,Pest Management Strategies,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Soil pH and Plant Growth,Soil pH and Plant Growth,1,inferred,Soil pH and Plant Growth,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Heating and Cooling Systems,Heating and Cooling Systems,1,inferred,Heating and Cooling Systems,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Ventilation and Air Circulation,Ventilation and Air Circulation,1,inferred,Ventilation and Air Circulation,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Irrigation System Design,Irrigation System Design,1,inferred,Irrigation System Design,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Lighting for Indoor Plants,Lighting for Indoor Plants,1,inferred,Lighting for Indoor Plants,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Watering Schedules and Techniques,Watering Schedules and Techniques,1,inferred,Watering Schedules and Techniques,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Pest Control Methods Indoors,Pest Control Methods Indoors,1,inferred,Pest Control Methods Indoors,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Soil Preparation and Mulching,Soil Preparation and Mulching,1,inferred,Soil Preparation and Mulching,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Pruning and Training Techniques,Pruning and Training Techniques,1,inferred,Pruning and Training Techniques,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Disease Management Strategies,Disease Management Strategies,1,inferred,Disease Management Strategies,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Designing for Climate and Soil,Designing for Climate and Soil,1,inferred,Designing for Climate and Soil,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Plant Selection for Erosion Control,Plant Selection for Erosion Control,1,inferred,Plant Selection for Erosion Control,BIOL_3202_concepts_raw.json
+BIOL_3202,concept,Water Conservation Methods,Water Conservation Methods,1,inferred,Water Conservation Methods,BIOL_3202_concepts_raw.json

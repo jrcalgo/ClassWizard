@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURN_3104,healthcare disparities,concept,PREREQUISITE_OF,social justice,concept,A taught first,,NURN_3104_triples_raw.json
+NURN_3104,healthcare disparities,concept,PREREQUISITE_OF,minority health needs,concept,A taught first,,NURN_3104_triples_raw.json
+NURN_3104,vulnerable populations,concept,PREREQUISITE_OF,social justice,concept,same unit,,NURN_3104_triples_raw.json
+NURN_3104,vulnerable populations,concept,PREREQUISITE_OF,minority health needs,concept,same unit,,NURN_3104_triples_raw.json
+NURN_3104,cultural health trends,concept,PART_OF,Cultural Health Environment,topic,,,NURN_3104_triples_raw.json
+NURN_3104,culturally competent care models,concept,PART_OF,Models of Culturally Competent Care,topic,,,NURN_3104_triples_raw.json
+NURN_3104,diversity and inclusion strategies,concept,PART_OF,Models of Culturally Competent Care,topic,,,NURN_3104_triples_raw.json
+NURN_3104,cultural humility,concept,PART_OF,Models of Culturally Competent Care,topic,,,NURN_3104_triples_raw.json
+NURN_3104,personal values and biases,concept,PART_OF,Values and Beliefs in Nursing,topic,,,NURN_3104_triples_raw.json
+NURN_3104,vulnerable populations,concept,PART_OF,Social Justice and Health Disparities,topic,,,NURN_3104_triples_raw.json
+NURN_3104,cultural humility,concept,USED_FOR,culturally competent care models,concept,,,NURN_3104_triples_raw.json

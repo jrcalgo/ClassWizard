@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_6211,advanced nursing practice,concept,PREREQUISITE_OF,cultural competence,concept,B mentioned first,,NURS_6211_triples_raw.json
+NURS_6211,regulatory standards,concept,PREREQUISITE_OF,health disparities,concept,B mentioned first,,NURS_6211_triples_raw.json
+NURS_6211,social stratification,concept,PREREQUISITE_OF,health disparities,concept,B mentioned first,,NURS_6211_triples_raw.json
+NURS_6211,ethnic heritage,concept,PREREQUISITE_OF,cultural environment,concept,A mentioned first,,NURS_6211_triples_raw.json
+NURS_6211,Social Determinants of Health,topic,PART_OF,health disparities,concept,,part is broader than whole - check direction,NURS_6211_triples_raw.json
+NURS_6211,Nursing Workforce Diversity,topic,PART_OF,health disparities,concept,,part is broader than whole - check direction,NURS_6211_triples_raw.json
+NURS_6211,Environment and Health,topic,PART_OF,health disparities,concept,,part is broader than whole - check direction,NURS_6211_triples_raw.json
+NURS_6211,Health Care Organizations,topic,PART_OF,health disparities,concept,,part is broader than whole - check direction,NURS_6211_triples_raw.json
+NURS_6211,Implicit Bias in Healthcare,topic,PART_OF,health disparities,concept,,part is broader than whole - check direction,NURS_6211_triples_raw.json
+NURS_6211,Ethics and Healthcare,topic,PART_OF,health disparities,concept,,part is broader than whole - check direction,NURS_6211_triples_raw.json
+NURS_6211,discovery-based learning,method,USED_FOR,advanced nursing practice,concept,,,NURS_6211_triples_raw.json
+NURS_6211,literature databases,method,USED_FOR,cultural competence,concept,,,NURS_6211_triples_raw.json
+NURS_6211,credible websites,method,USED_FOR,cultural competence,concept,,,NURS_6211_triples_raw.json

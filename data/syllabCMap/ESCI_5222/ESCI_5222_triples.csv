@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ESCI_5222,Evapo-Transpiration,topic,PREREQUISITE_OF,Runoff Processes,topic,B mentioned first,,ESCI_5222_triples_raw.json
+ESCI_5222,Biogeochemical Processes,topic,PREREQUISITE_OF,Landscape Controls of Runoff and Surface water Chemistry,topic,A mentioned first,,ESCI_5222_triples_raw.json
+ESCI_5222,Watershed Science,topic,PREREQUISITE_OF,Use of the Watershed as a System to Measure Environmental Change,topic,A mentioned first,,ESCI_5222_triples_raw.json
+ESCI_5222,Runoff Processes,topic,PART_OF,Watershed Science,topic,,,ESCI_5222_triples_raw.json
+ESCI_5222,Evapo-Transpiration,topic,PART_OF,Watershed Science,topic,,,ESCI_5222_triples_raw.json
+ESCI_5222,Riparian and Hyporheic Zone Hydrochemical Dynamics,topic,PART_OF,Watershed Science,topic,,,ESCI_5222_triples_raw.json
+ESCI_5222,Biogeochemical Processes,topic,PART_OF,Watershed Science,topic,,,ESCI_5222_triples_raw.json
+ESCI_5222,Chemistry of Natural Waters and Water Quality Concepts,topic,PART_OF,Watershed Science,topic,,,ESCI_5222_triples_raw.json
+ESCI_5222,Landscape Controls of Runoff and Surface water Chemistry,topic,PART_OF,Watershed Science,topic,,,ESCI_5222_triples_raw.json
+ESCI_5222,Stream Ecosystem Theory,topic,PART_OF,Watershed Science,topic,,,ESCI_5222_triples_raw.json

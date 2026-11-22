@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AFRS_2170,social determinants of health,concept,PREREQUISITE_OF,racial and ethnic differences,concept,same unit,,AFRS_2170_triples_raw.json
+AFRS_2170,health insurance and access,concept,PREREQUISITE_OF,primary care and preventive services,concept,same unit,,AFRS_2170_triples_raw.json
+AFRS_2170,air and water pollution effects,concept,PREREQUISITE_OF,climate change and health impacts,concept,same unit,,AFRS_2170_triples_raw.json
+AFRS_2170,epidemiology and data analysis,concept,USED_FOR,health equity and social justice,concept,,,AFRS_2170_triples_raw.json

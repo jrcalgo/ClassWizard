@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DTSC_2301,data science approach,concept,PART_OF,Data Science,topic,,,DTSC_2301_triples_raw.json
+DTSC_2301,Data Collection and Ethics,topic,PART_OF,Data Science,topic,,,DTSC_2301_triples_raw.json
+DTSC_2301,Statistical Methods and Tools,topic,PART_OF,Data Science,topic,,,DTSC_2301_triples_raw.json
+DTSC_2301,descriptive statistics overview,concept,PART_OF,Statistical Methods and Tools,topic,,,DTSC_2301_triples_raw.json
+DTSC_2301,hypothesis testing fundamentals,concept,PART_OF,Statistical Methods and Tools,topic,,,DTSC_2301_triples_raw.json
+DTSC_2301,regression analysis fundamentals,concept,PART_OF,Statistical Methods and Tools,topic,,,DTSC_2301_triples_raw.json
+DTSC_2301,correlation coefficient,concept,PART_OF,statistical inference methods,concept,,,DTSC_2301_triples_raw.json
+DTSC_2301,SQL query writing,concept,USED_FOR,database query languages,concept,,,DTSC_2301_triples_raw.json
+DTSC_2301,join operations basics,concept,USED_FOR,database query languages,concept,,,DTSC_2301_triples_raw.json
+DTSC_2301,subqueries introduction,concept,USED_FOR,database query languages,concept,,,DTSC_2301_triples_raw.json

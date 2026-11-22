@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GERM_1502,Black Germans from the Middle Ages to contemporary Germany,topic,PREREQUISITE_OF,Afro-Germans,topic,B mentioned first,,GERM_1502_triples_raw.json
+GERM_1502,Afro-German Literature Overview,concept,PREREQUISITE_OF,Notable Authors and Works,concept,same unit,,GERM_1502_triples_raw.json
+GERM_1502,Afro-German Cinema History,concept,PREREQUISITE_OF,Notable Films and Directors,concept,same unit,,GERM_1502_triples_raw.json
+GERM_1502,Interpreting Primary Sources,concept,PREREQUISITE_OF,Analyzing Historical Documents,concept,same unit,,GERM_1502_triples_raw.json
+GERM_1502,Contextualizing Afro-German Experiences,concept,PREREQUISITE_OF,Analyzing Historical Documents,concept,same unit,,GERM_1502_triples_raw.json
+GERM_1502,Question Formulation Strategies,concept,PREREQUISITE_OF,Thesis Statement Crafting,concept,same unit,,GERM_1502_triples_raw.json
+GERM_1502,Black Germans in History,concept,PART_OF,Black Germans from the Middle Ages to contemporary Germany,topic,,,GERM_1502_triples_raw.json
+GERM_1502,Racial Identity Formation,concept,PART_OF,Black Germans from the Middle Ages to contemporary Germany,topic,,,GERM_1502_triples_raw.json
+GERM_1502,Colonialism and Imperialism,concept,PART_OF,Black Germans from the Middle Ages to contemporary Germany,topic,,,GERM_1502_triples_raw.json
+GERM_1502,Nazi Racist Ideology,concept,PART_OF,Black Germans from the Middle Ages to contemporary Germany,topic,,,GERM_1502_triples_raw.json
+GERM_1502,Post-War Migration Patterns,concept,PART_OF,Black Germans from the Middle Ages to contemporary Germany,topic,,,GERM_1502_triples_raw.json
+GERM_1502,Afro-German Literature Overview,concept,PART_OF,Afro-Germans,topic,,,GERM_1502_triples_raw.json
+GERM_1502,Notable Authors and Works,concept,PART_OF,Afro-German Literature Overview,concept,,,GERM_1502_triples_raw.json
+GERM_1502,Themes of Identity and Belonging,concept,PART_OF,Afro-German Literature Overview,concept,,,GERM_1502_triples_raw.json
+GERM_1502,Notable Films and Directors,concept,PART_OF,Afro-German Cinema History,concept,,,GERM_1502_triples_raw.json

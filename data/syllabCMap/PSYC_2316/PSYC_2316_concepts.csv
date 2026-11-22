@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_2316,topic,Cognitive Processes,Cognitive Processes,2,verified,Cognitive Processes,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,cognition,Cognition,1,verified,cognition,PSYC_2316_concepts_raw.json
+PSYC_2316,topic,Attention and Perception,Attention and Perception,1,inferred,Attention and Perception,PSYC_2316_concepts_raw.json
+PSYC_2316,topic,Language Processes,Language Processes,1,inferred,Language Processes,PSYC_2316_concepts_raw.json
+PSYC_2316,topic,Memory and Encoding,Memory and Encoding,1,inferred,Memory and Encoding,PSYC_2316_concepts_raw.json
+PSYC_2316,topic,Problem Solving and Decision Making,Problem Solving and Decision Making,1,inferred,Problem Solving and Decision Making,PSYC_2316_concepts_raw.json
+PSYC_2316,topic,Cognitive Development,Cognitive Development,3,inferred,Cognitive Development,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,selective attention mechanisms,Selective Attention Mechanisms,1,inferred,selective attention mechanisms,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,perceptual processing theories,Perceptual Processing Theories,1,inferred,perceptual processing theories,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,sensory memory capacity,Sensory Memory Capacity,1,inferred,sensory memory capacity,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,language acquisition theories,Language Acquisition Theories,1,inferred,language acquisition theories,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,language comprehension models,Language Comprehension Models,1,inferred,language comprehension models,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,speech production mechanisms,Speech Production Mechanisms,1,inferred,speech production mechanisms,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,types of memory,Types of Memory,1,inferred,types of memory,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,encoding strategies and techniques,Encoding Strategies and Techniques,1,inferred,encoding strategies and techniques,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,cognitive biases in decision making,Cognitive Biases in Decision Making,1,inferred,cognitive biases in decision making,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,heuristics for problem solving,Heuristics for Problem Solving,1,inferred,heuristics for problem solving,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,Piaget's Cognitive Development Theory,Piaget's Cognitive Development Theory,1,inferred,Piaget's Cognitive Development Theory,PSYC_2316_concepts_raw.json
+PSYC_2316,concept,Vygotsky's Sociocultural Theory,Vygotsky's Sociocultural Theory,1,inferred,Vygotsky's Sociocultural Theory,PSYC_2316_concepts_raw.json

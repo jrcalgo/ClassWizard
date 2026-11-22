@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_1234,chord inversions,concept,PREREQUISITE_OF,primary chord progression,concept,same unit,,MUSC_1234_triples_raw.json
+MUSC_1234,IV,concept,PART_OF,major and minor scales,concept,,,MUSC_1234_triples_raw.json
+MUSC_1234,chord inversions,concept,PART_OF,primary chord progression,concept,,,MUSC_1234_triples_raw.json

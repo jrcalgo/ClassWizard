@@ -1,0 +1,33 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WRDS_1103,writing,topic,PREREQUISITE_OF,critical thinking,topic,same unit,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,rhetorical contexts,topic,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,formatting and stylistic choices,topic,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,conventions,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,genre,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,purpose,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,tone,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,structure,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,modality,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,audience expectations,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,needs,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,technological developments,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,digital literacy,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,information literacy,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PREREQUISITE_OF,research strategies,concept,A taught first,,WRDS_1103_triples_raw.json
+WRDS_1103,writing,topic,PART_OF,literacy,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,critical thinking,topic,PART_OF,literacy,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,rhetorical contexts,topic,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,digital literacy and information literacy,topic,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,conventions,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,genre,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,purpose,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,tone,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,structure,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,modality,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,audience expectations,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,needs,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,technological developments,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,digital literacy,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,information literacy,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,research strategies,concept,PART_OF,writing,topic,,,WRDS_1103_triples_raw.json
+WRDS_1103,generative AI,concept,USED_FOR,digital literacy,concept,,,WRDS_1103_triples_raw.json

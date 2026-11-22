@@ -1,0 +1,18 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HCIP_5376,topic,Foundations of Programming,Foundations of Programming,1,verified,Foundations of Programming,HCIP_5376_concepts_raw.json
+HCIP_5376,topic,Programming,Programming,9,verified,Introduction to Programming,HCIP_5376_concepts_raw.json
+HCIP_5376,topic,Computational Thinking,computational thinking,1,verified,Computational Thinking,HCIP_5376_concepts_raw.json
+HCIP_5376,concept,procedural programming,procedural programming,1,verified,procedural programming,HCIP_5376_concepts_raw.json
+HCIP_5376,concept,variables,variables,1,verified,variables,HCIP_5376_concepts_raw.json
+HCIP_5376,concept,data types,data types,1,verified,data types,HCIP_5376_concepts_raw.json
+HCIP_5376,concept,expressions,expressions,1,verified,expressions,HCIP_5376_concepts_raw.json
+HCIP_5376,concept,control structures,control structures,1,verified,control structures,HCIP_5376_concepts_raw.json
+HCIP_5376,concept,functions,functions,1,verified,functions,HCIP_5376_concepts_raw.json
+HCIP_5376,concept,arrays,arrays,1,verified,arrays,HCIP_5376_concepts_raw.json
+HCIP_5376,concept,pseudocode,pseudocode,1,verified,pseudocode,HCIP_5376_concepts_raw.json
+HCIP_5376,method,flowcharts,flowcharts,1,verified,design solutions using pseudocode and flowcharts,HCIP_5376_concepts_raw.json
+HCIP_5376,method,algorithm development,algorithm development,1,verified,algorithm development,HCIP_5376_concepts_raw.json
+HCIP_5376,method,problem decomposition,problem decomposition,1,verified,problem decomposition,HCIP_5376_concepts_raw.json
+HCIP_5376,method,best practices,best practices,1,verified,applying basic programming constructs and best practices,HCIP_5376_concepts_raw.json
+HCIP_5376,method,writing,write,1,verified,writing and debugging programs,HCIP_5376_concepts_raw.json
+HCIP_5376,tool,Python,Python,1,verified,Python,HCIP_5376_concepts_raw.json

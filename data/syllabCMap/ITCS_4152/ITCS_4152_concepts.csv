@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4152,topic,Computer Vision,Computer Vision,10,verified,Computer Vision,ITCS_4152_concepts_raw.json
+ITCS_4152,topic,Basic Image Processing Algorithms,basic image processing algorithms,1,verified,Basic Image Processing Algorithms,ITCS_4152_concepts_raw.json
+ITCS_4152,topic,Computer Vision Algorithms,computer vision algorithms,2,verified,Computer Vision Algorithms,ITCS_4152_concepts_raw.json
+ITCS_4152,topic,Visual Representation Learning,visual representation learning,1,verified,Visual Representation Learning,ITCS_4152_concepts_raw.json
+ITCS_4152,topic,Image Formation and Modelling,Image Formation and Modelling,1,inferred,Image Formation and Modelling,ITCS_4152_concepts_raw.json
+ITCS_4152,topic,Human Vision Systems,Human Vision Systems,1,inferred,Human Vision Systems,ITCS_4152_concepts_raw.json
+ITCS_4152,topic,State-of-the-Art Approaches,State-of-the-Art Approaches,1,inferred,State-of-the-Art Approaches,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,computer vision definition,Computer vision definition,1,inferred,computer vision definition,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,applications of computer vision,Applications of computer vision,1,inferred,applications of computer vision,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,history of computer vision,History of computer vision,1,inferred,history of computer vision,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,camera models and calibration,Camera models and calibration,1,inferred,camera models and calibration,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,radiometric and geometric transformations,Radiometric and geometric transformations,1,inferred,radiometric and geometric transformations,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,image formation equations,Image formation equations,1,inferred,image formation equations,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,image filtering techniques,Image filtering techniques,1,inferred,image filtering techniques,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,edge detection methods,Edge detection methods,1,inferred,edge detection methods,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,thresholding and segmentation,Thresholding and segmentation,1,inferred,thresholding and segmentation,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,visual perception and cognition,Visual perception and cognition,1,inferred,visual perception and cognition,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,color vision and color models,Color vision and color models,1,inferred,color vision and color models,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,motion perception and tracking,Motion perception and tracking,1,inferred,motion perception and tracking,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,feature extraction and description,Feature extraction and description,1,inferred,feature extraction and description,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,object recognition and classification,Object recognition and classification,1,inferred,object recognition and classification,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,image registration and matching,Image registration and matching,1,inferred,image registration and matching,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,convolutional neural networks,Convolutional neural networks,1,inferred,convolutional neural networks,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,deep learning architectures,Deep learning architectures,1,inferred,deep learning architectures,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,transfer learning and fine-tuning,Transfer learning and fine-tuning,1,inferred,transfer learning and fine-tuning,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,recent advances in computer vision,Recent advances in computer vision,1,inferred,recent advances in computer vision,ITCS_4152_concepts_raw.json
+ITCS_4152,concept,applications of deep learning,Applications of deep learning,1,inferred,applications of deep learning,ITCS_4152_concepts_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LTAM_3001,Qualitative and Quantitative Methods,topic,PREREQUISITE_OF,Case Study Research Design,method,same unit,,LTAM_3001_triples_raw.json
+LTAM_3001,Colonialism and Food Trade,concept,PART_OF,Food Systems Analysis,concept,,,LTAM_3001_triples_raw.json
+LTAM_3001,Regional Food Systems Worldwide,concept,PART_OF,Food Systems Analysis,concept,,,LTAM_3001_triples_raw.json
+LTAM_3001,Climate and Food Production,concept,PART_OF,Food Systems Analysis,concept,,,LTAM_3001_triples_raw.json
+LTAM_3001,Cultural Influences on Cuisine,concept,PART_OF,Food Systems Analysis,concept,,,LTAM_3001_triples_raw.json
+LTAM_3001,Food Waste and Loss Issues,concept,PART_OF,Food Systems Analysis,concept,,,LTAM_3001_triples_raw.json
+LTAM_3001,Consumer Behavior,concept,PART_OF,Food Systems Analysis,concept,,,LTAM_3001_triples_raw.json
+LTAM_3001,Case Study Research Design,method,USED_FOR,Qualitative and Quantitative Methods,topic,,,LTAM_3001_triples_raw.json
+LTAM_3001,Case Study Research Design,method,USED_FOR,Survey and Interview Techniques,topic,,,LTAM_3001_triples_raw.json

@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DTSC_1302,Python,tool,USED_FOR,data-driven decision-making,method,,,DTSC_1302_triples_raw.json

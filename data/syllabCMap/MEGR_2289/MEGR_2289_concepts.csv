@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_2289,topic,Precision Engineering and Metrology,precision engineering and metrology,3,verified,Precision Engineering and Metrology,MEGR_2289_concepts_raw.json
+MEGR_2289,concept,defining the measurand,defining the measurand,1,verified,defining the measurand,MEGR_2289_concepts_raw.json
+MEGR_2289,method,accurately,accurately,1,verified,operating metrology equipment safely and accurately,MEGR_2289_concepts_raw.json
+MEGR_2289,method,collecting,Collect,1,verified,"collecting, processing, and analyzing measurement data",MEGR_2289_concepts_raw.json
+MEGR_2289,method,processing,process,1,verified,"collecting, processing, and analyzing measurement data",MEGR_2289_concepts_raw.json
+MEGR_2289,tool,structured light scanners,structured light scanners,1,verified,structured light scanners,MEGR_2289_concepts_raw.json
+MEGR_2289,tool,hand gages,hand gages,1,verified,hand gages,MEGR_2289_concepts_raw.json
+MEGR_2289,tool,surface instruments,surface instruments,1,verified,surface instruments,MEGR_2289_concepts_raw.json

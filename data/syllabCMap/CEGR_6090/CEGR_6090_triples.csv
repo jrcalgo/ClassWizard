@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_6090,wildfire exposure mechanisms,concept,PREREQUISITE_OF,defensible space,topic,A taught first,,CEGR_6090_triples_raw.json
+CEGR_6090,laboratory testing,method,USED_FOR,laboratory test methods,topic,,,CEGR_6090_triples_raw.json

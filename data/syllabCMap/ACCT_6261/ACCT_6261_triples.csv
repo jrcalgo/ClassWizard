@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ACCT_6261,Income tax accounting,concept,PREREQUISITE_OF,Leases,concept,same unit,,ACCT_6261_triples_raw.json
+ACCT_6261,Fair value measurements,concept,PART_OF,Special purpose frameworks,concept,,,ACCT_6261_triples_raw.json
+ACCT_6261,Intercompany transactions,concept,PART_OF,Post-acquisition accounting,concept,,,ACCT_6261_triples_raw.json
+ACCT_6261,Consolidated financial statements,concept,PART_OF,Financial statement analysis,topic,,,ACCT_6261_triples_raw.json
+ACCT_6261,Not-for-profit entities,concept,PART_OF,Financial reporting,topic,,,ACCT_6261_triples_raw.json
+ACCT_6261,Equity method accounting,concept,PART_OF,Post-acquisition accounting,concept,,,ACCT_6261_triples_raw.json
+ACCT_6261,Leases,concept,PART_OF,Income tax accounting,concept,,,ACCT_6261_triples_raw.json
+ACCT_6261,Financial statement analysis,topic,USED_FOR,Consolidated financial statements,concept,,topic used for something - check direction,ACCT_6261_triples_raw.json
+ACCT_6261,Fair value measurements,concept,USED_FOR,Special purpose frameworks,concept,,,ACCT_6261_triples_raw.json
+ACCT_6261,Equity method accounting,concept,USED_FOR,Non-controlling interests,concept,,,ACCT_6261_triples_raw.json
+ACCT_6261,Income tax accounting,concept,USED_FOR,Leases,concept,,,ACCT_6261_triples_raw.json

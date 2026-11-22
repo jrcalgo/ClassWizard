@@ -1,0 +1,34 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CSLG_7142,Child-Centered Play Therapy,concept,PREREQUISITE_OF,Philosophy of Play Therapy,concept,same unit,,CSLG_7142_triples_raw.json
+CSLG_7142,Child-Centered Play Therapy,concept,PREREQUISITE_OF,Child's Perspective on Life,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child-Centered Play Therapy,concept,PREREQUISITE_OF,Child's Emotional Experience,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child-Centered Play Therapy,concept,PREREQUISITE_OF,Child's Cognitive Development,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Philosophy of Play Therapy,concept,PREREQUISITE_OF,Building Trust with Children,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Philosophy of Play Therapy,concept,PREREQUISITE_OF,Empathy in Play Therapy,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Philosophy of Play Therapy,concept,PREREQUISITE_OF,Active Listening Skills,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child's Perspective on Life,concept,PREREQUISITE_OF,Building Trust with Children,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child's Perspective on Life,concept,PREREQUISITE_OF,Empathy in Play Therapy,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child's Perspective on Life,concept,PREREQUISITE_OF,Active Listening Skills,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child's Emotional Experience,concept,PREREQUISITE_OF,Building Trust with Children,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child's Emotional Experience,concept,PREREQUISITE_OF,Empathy in Play Therapy,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child's Emotional Experience,concept,PREREQUISITE_OF,Active Listening Skills,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child's Cognitive Development,concept,PREREQUISITE_OF,Building Trust with Children,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child's Cognitive Development,concept,PREREQUISITE_OF,Empathy in Play Therapy,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Child's Cognitive Development,concept,PREREQUISITE_OF,Active Listening Skills,concept,A taught first,,CSLG_7142_triples_raw.json
+CSLG_7142,Building Trust with Children,concept,PART_OF,Approach to Play Therapy,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Active Listening Skills,concept,PART_OF,Approach to Play Therapy,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Building Trust with Children,concept,PART_OF,Philosophy of Play Therapy,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Empathy in Play Therapy,concept,PART_OF,Philosophy of Play Therapy,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Active Listening Skills,concept,PART_OF,Philosophy of Play Therapy,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Building Trust with Children,concept,PART_OF,Child's Perspective on Life,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Empathy in Play Therapy,concept,PART_OF,Child's Perspective on Life,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Active Listening Skills,concept,PART_OF,Child's Perspective on Life,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Building Trust with Children,concept,PART_OF,Child's Emotional Experience,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Active Listening Skills,concept,PART_OF,Child's Emotional Experience,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Building Trust with Children,concept,PART_OF,Child's Cognitive Development,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Building Trust with Children,concept,PART_OF,Play Therapy Interventions,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Empathy in Play Therapy,concept,PART_OF,Play Therapy Interventions,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Active Listening Skills,concept,PART_OF,Play Therapy Interventions,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Building Trust with Children,concept,PART_OF,Relationship-Based Play Therapy,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Empathy in Play Therapy,concept,PART_OF,Relationship-Based Play Therapy,concept,,,CSLG_7142_triples_raw.json
+CSLG_7142,Active Listening Skills,concept,PART_OF,Relationship-Based Play Therapy,concept,,,CSLG_7142_triples_raw.json

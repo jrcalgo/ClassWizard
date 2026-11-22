@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_5075,Evolutionary Linguistics,topic,PREREQUISITE_OF,Origins of Language,topic,A taught first,,ENGL_5075_triples_raw.json
+ENGL_5075,Paleolinguistics,topic,PREREQUISITE_OF,Origins of Language,topic,same unit,,ENGL_5075_triples_raw.json
+ENGL_5075,Neurolinguistics,topic,PREREQUISITE_OF,Origins of Language,topic,B taught first,B is taught before A - check,ENGL_5075_triples_raw.json
+ENGL_5075,Emergence of Human Language,concept,PART_OF,Origins of Language,topic,,,ENGL_5075_triples_raw.json

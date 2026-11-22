@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MBAD_6201,topic,Business Intelligence Concepts,business intelligence concepts,1,verified,Business Intelligence Concepts,MBAD_6201_concepts_raw.json
+MBAD_6201,topic,Management Perspective,management perspectives,1,verified,Management Perspective,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Data and Knowledge Assets,data and knowledge assets,1,verified,Data and Knowledge Assets,MBAD_6201_concepts_raw.json
+MBAD_6201,topic,Data Management,Data Management,2,inferred,Data Management,MBAD_6201_concepts_raw.json
+MBAD_6201,topic,Data Warehousing Fundamentals,Data Warehousing Fundamentals,1,inferred,Data Warehousing Fundamentals,MBAD_6201_concepts_raw.json
+MBAD_6201,topic,Data Mining Techniques,Data Mining Techniques,1,inferred,Data Mining Techniques,MBAD_6201_concepts_raw.json
+MBAD_6201,topic,Organizational Perspective,Organizational Perspective,1,inferred,Organizational Perspective,MBAD_6201_concepts_raw.json
+MBAD_6201,topic,Technological Perspective,Technological Perspective,1,inferred,Technological Perspective,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Business Approach to Data,Business Approach to Data,1,inferred,Business Approach to Data,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Enterprise Data Management,Enterprise Data Management,1,inferred,Enterprise Data Management,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Data Warehouse Design Principles,Data Warehouse Design Principles,1,inferred,Data Warehouse Design Principles,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Star and Snowflake Schemas,Star and Snowflake Schemas,1,inferred,Star and Snowflake Schemas,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Rule-Based Systems Overview,Rule-Based Systems Overview,1,inferred,Rule-Based Systems Overview,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Decision Trees and Neural Networks,Decision Trees and Neural Networks,1,inferred,Decision Trees and Neural Networks,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Clustering and Association Rules,Clustering and Association Rules,1,inferred,Clustering and Association Rules,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,OLAP and Data Mining Tools,OLAP and Data Mining Tools,1,inferred,OLAP and Data Mining Tools,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Business Analytics and Decision Support,Business Analytics and Decision Support,1,inferred,Business Analytics and Decision Support,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Data Governance and Security,Data Governance and Security,1,inferred,Data Governance and Security,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Change Management and Adoption,Change Management and Adoption,1,inferred,Change Management and Adoption,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Cultural and Organizational Factors,Cultural and Organizational Factors,1,inferred,Cultural and Organizational Factors,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Data Storage and Retrieval Systems,Data Storage and Retrieval Systems,1,inferred,Data Storage and Retrieval Systems,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Database Management Systems Overview,Database Management Systems Overview,1,inferred,Database Management Systems Overview,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Cloud Computing and Big Data,Cloud Computing and Big Data,1,inferred,Cloud Computing and Big Data,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Project Management for DW/BI,Project Management for DW/BI,1,inferred,Project Management for DW/BI,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Resource Allocation and Planning,Resource Allocation and Planning,1,inferred,Resource Allocation and Planning,MBAD_6201_concepts_raw.json
+MBAD_6201,concept,Return on Investment (ROI,Return on Investment (ROI,1,inferred,Return on Investment (ROI),MBAD_6201_concepts_raw.json

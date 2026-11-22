@@ -1,0 +1,61 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITIS_5261,topic,cloud computing,Cloud Computing,6,verified,cloud computing,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,cloud security,cloud security,4,verified,cloud security,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,access and identity management,access and identity management,1,verified,access and identity management,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,network segmentation,network segmentation,12,verified,network segmentation,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,DDOS prevention,DDOS prevention,13,verified,DDOS prevention,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,encryption,encryption,8,verified,encryption,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,intrusion detection,intrusion detection,10,verified,intrusion detection,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,incidence response,incidence response,1,verified,incidence response,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,vulnerability management,vulnerability management,5,verified,vulnerability management,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,governance,governance,1,verified,governance,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,regulatory compliance,regulatory compliance,1,verified,regulatory compliance,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,storage,storage,9,verified,storage,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,computing,Computing,10,verified,computing,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,networking,networking,4,verified,networking,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,elasticity,elasticity,3,verified,elasticity,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,availability,availability,3,verified,availability,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,monitoring,monitoring,3,verified,monitoring,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,content caching,content caching,6,verified,content caching,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,microservices,microservices,6,verified,microservices,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,serverless architecture,serverless architecture,7,verified,serverless architecture,ITIS_5261_concepts_raw.json
+ITIS_5261,tool,AWS Academy Module 4,AWS Academy Module 4,1,verified,AWS Academy Module 4,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,S3 storage,S3 Storage,1,verified,S3 storage,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,cloud security best practices,Cloud Security Best Practices,2,verified,cloud security best practices,ITIS_5261_concepts_raw.json
+ITIS_5261,tool,EC2 Instances,EC2 Instances,1,verified,EC2 Instances,ITIS_5261_concepts_raw.json
+ITIS_5261,tool,EFS File Systems,EFS File Systems,1,verified,EFS File Systems,ITIS_5261_concepts_raw.json
+ITIS_5261,tool,AWS Security Groups,AWS Security Groups,1,verified,AWS Security Groups,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,DDOS Prevention Methods,DDOS Prevention Methods,1,verified,DDOS Prevention Methods,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,Encryption Techniques,Encryption Techniques,1,verified,Encryption Techniques,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,intrusion detection systems,Intrusion Detection Systems,6,verified,intrusion detection systems,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,vulnerability management tools,Vulnerability Management Tools,4,verified,vulnerability management tools,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,AWS RDS,AWS RDS,1,verified,AWS RDS,ITIS_5261_concepts_raw.json
+ITIS_5261,tool,DynamoDB,DynamoDB,2,verified,DynamoDB,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,Database Security,Database Security,1,verified,Database Security,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,Cloud Storage Options,Cloud Storage Options,1,verified,Cloud Storage Options,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,data encryption methods,Data Encryption Methods,1,verified,data encryption methods,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,VPC configuration,VPC Configuration,1,verified,VPC configuration,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,VPN configuration,VPN Configuration,1,verified,VPN configuration,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,AWS direct connect,AWS Direct Connect,1,verified,AWS direct connect,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,transit gateway,Transit gateway,2,verified,transit gateway,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,VPC peering,VPC Peering,1,verified,VPC peering,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,IAM federation,IAM Federation,2,verified,IAM federation,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,access management,Access Management,1,verified,access management,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,identity federation,Identity Federation,1,verified,identity federation,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,auto scaling,Auto scaling,2,verified,auto scaling,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,Route53 configuration,Route53 Configuration,1,verified,Route53 configuration,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,load balancing,Load balancing,2,verified,load balancing,ITIS_5261_concepts_raw.json
+ITIS_5261,tool,CloudFormation Templates,CloudFormation Templates,1,verified,CloudFormation Templates,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,data engineering patterns,Data engineering patterns,2,verified,data engineering patterns,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,Decoupled Architecture,Decoupled architecture,2,verified,Decoupled Architecture,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,Serverless Architecture Design,Serverless Architecture Design,2,verified,Serverless Architecture Design,ITIS_5261_concepts_raw.json
+ITIS_5261,topic,Microservices Deployment Models,Microservices Deployment Models,1,verified,Microservices Deployment Models,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,cloud storage,Cloud Storage,5,verified,cloud storage,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,cloud networking,Cloud Networking,1,verified,cloud networking,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,encryption methods,Encryption Methods,6,verified,encryption methods,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,incident response plan,Incident Response Plan,2,verified,incident response plan,ITIS_5261_concepts_raw.json
+ITIS_5261,concept,DynamoDB database security,DynamoDB database security,1,verified,DynamoDB database security,ITIS_5261_concepts_raw.json
+ITIS_5261,method,hands-on labs,hands-on labs,2,verified,hands-on labs,ITIS_5261_concepts_raw.json
+ITIS_5261,method,selecting appropriate components in the cloud,selecting appropriate components in the cloud,2,verified,selecting appropriate components in the cloud,ITIS_5261_concepts_raw.json
+ITIS_5261,method,securely configuring them to support a specific application,securely configuring them to support a specific application,2,verified,securely configuring them to support a specific application,ITIS_5261_concepts_raw.json
+ITIS_5261,tool,AWS Lambda Function,AWS Lambda Function,1,verified,AWS Lambda Function,ITIS_5261_concepts_raw.json

@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_6227,Needs Assessment Techniques,concept,PREREQUISITE_OF,Program Development Process,concept,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Needs Assessment Techniques,concept,PREREQUISITE_OF,Health Program Planning,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Budgeting for Health Programs,concept,PREREQUISITE_OF,Resource Management,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Evaluation Design Principles,concept,PREREQUISITE_OF,Program Evaluation,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Outcome Measurement Tools,concept,PREREQUISITE_OF,Program Evaluation,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Data Analysis Techniques,concept,PREREQUISITE_OF,Program Evaluation,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Team Building Strategies,concept,PREREQUISITE_OF,Group Dynamics and Leadership,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Leadership Styles and Effectiveness,concept,PREREQUISITE_OF,Group Dynamics and Leadership,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Communication Skills Development,concept,PREREQUISITE_OF,Group Dynamics and Leadership,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Implementation Plan Development,concept,PREREQUISITE_OF,Health Program Implementation,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Program Management Techniques,concept,PREREQUISITE_OF,Health Program Implementation,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Change Management Strategies,concept,PREREQUISITE_OF,Health Program Implementation,topic,same unit,,HLTH_6227_triples_raw.json
+HLTH_6227,Program Development Process,concept,PART_OF,Health Program Planning,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Needs Assessment Techniques,concept,PART_OF,Health Program Planning,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Community Health Needs,concept,PART_OF,Health Program Planning,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Budgeting for Health Programs,concept,PART_OF,Resource Management,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Resource Allocation Strategies,concept,PART_OF,Resource Management,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Cost-Benefit Analysis,concept,PART_OF,Resource Management,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Evaluation Design Principles,concept,PART_OF,Program Evaluation,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Outcome Measurement Tools,concept,PART_OF,Program Evaluation,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Data Analysis Techniques,concept,PART_OF,Program Evaluation,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Team Building Strategies,concept,PART_OF,Group Dynamics and Leadership,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Leadership Styles and Effectiveness,concept,PART_OF,Group Dynamics and Leadership,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Communication Skills Development,concept,PART_OF,Group Dynamics and Leadership,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Change Management Strategies,concept,PART_OF,Health Program Implementation,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Resource Reduction Strategies,concept,PART_OF,Budget Reduction Planning,topic,,,HLTH_6227_triples_raw.json
+HLTH_6227,Cost-Saving Measures,concept,PART_OF,Budget Reduction Planning,topic,,,HLTH_6227_triples_raw.json

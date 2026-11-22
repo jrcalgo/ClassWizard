@@ -1,0 +1,37 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITCS_4145,topic,Parallel Computing Basics,Parallel Computing Basics,1,inferred,Parallel Computing Basics,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Motivation for Parallelism,Motivation for Parallelism,1,inferred,Motivation for Parallelism,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Types of Parallelism,Types of Parallelism,1,inferred,Types of Parallelism,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,openMP programming model,OpenMP Programming Model,1,inferred,openMP programming model,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Thread Safety and Synchronization,Thread Safety and Synchronization,1,inferred,Thread Safety and Synchronization,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Data Sharing and Communication,Data Sharing and Communication,1,inferred,Data Sharing and Communication,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Graph Data Structure Overview,Graph Data Structure Overview,1,inferred,Graph Data Structure Overview,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Parallel Breadth-First Search,Parallel Breadth-First Search,1,inferred,Parallel Breadth-First Search,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Parallel Depth-First Search,Parallel Depth-First Search,1,inferred,Parallel Depth-First Search,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,CUDA Architecture and Memory,CUDA Architecture and Memory,1,inferred,CUDA Architecture and Memory,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Kernel Launch and Execution,Kernel Launch and Execution,1,inferred,Kernel Launch and Execution,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Memory Management on GPU,Memory Management on GPU,1,inferred,Memory Management on GPU,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Writing Efficient CUDA Kernels,Writing Efficient CUDA Kernels,1,inferred,Writing Efficient CUDA Kernels,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Data Transfer between Host and Device,Data Transfer between Host and Device,1,inferred,Data Transfer between Host and Device,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Optimizing GPU Performance,Optimizing GPU Performance,1,inferred,Optimizing GPU Performance,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,distributed memory parallelization,Distributed Memory Parallelization,1,inferred,distributed memory parallelization,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,parallel sorting algorithms,Parallel Sorting Algorithms,1,inferred,parallel sorting algorithms,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Load Balancing Techniques,Load Balancing Techniques,1,inferred,Load Balancing Techniques,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Real-World Applications of Parallelism,Real-World Applications of Parallelism,1,inferred,Real-World Applications of Parallelism,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Challenges and Limitations of Parallelism,Challenges and Limitations of Parallelism,1,inferred,Challenges and Limitations of Parallelism,ITCS_4145_concepts_raw.json
+ITCS_4145,topic,Best Practices for Parallel Programming,Best Practices for Parallel Programming,1,inferred,Best Practices for Parallel Programming,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,parallel computing,Parallel Computing,1,inferred,parallel computing,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,parallelism,Parallelism,6,inferred,parallelism,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,thread safety,Thread Safety,1,inferred,thread safety,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,synchronization,Synchronization,1,inferred,synchronization,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,data sharing,Data Sharing,1,inferred,data sharing,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,communication,Communication,1,inferred,communication,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,graph data structure,Graph Data Structure,1,inferred,graph data structure,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,breadth-first search,Breadth-First Search,1,inferred,breadth-first search,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,depth-first search,Depth-First Search,1,inferred,depth-first search,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,CUDA architecture,CUDA Architecture,1,inferred,CUDA architecture,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,memory management,Memory Management,1,inferred,memory management,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,kernel launch,Kernel Launch,1,inferred,kernel launch,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,execution,Execution,1,inferred,execution,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,data transfer,Data Transfer,1,inferred,data transfer,ITCS_4145_concepts_raw.json
+ITCS_4145,concept,load balancing,Load Balancing,1,inferred,load balancing,ITCS_4145_concepts_raw.json

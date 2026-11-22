@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURN_3104,topic,Cultural Health Environment,cultural health environment,1,verified,Cultural Health Environment,NURN_3104_concepts_raw.json
+NURN_3104,concept,vulnerable populations,vulnerable populations,1,verified,vulnerable populations,NURN_3104_concepts_raw.json
+NURN_3104,concept,minority health needs,minority health needs,1,verified,minority health needs,NURN_3104_concepts_raw.json
+NURN_3104,concept,social justice,social justice,1,verified,social justice,NURN_3104_concepts_raw.json
+NURN_3104,topic,Models of Culturally Competent Care,Models of Culturally Competent Care,1,inferred,Models of Culturally Competent Care,NURN_3104_concepts_raw.json
+NURN_3104,topic,Values and Beliefs in Nursing,Values and Beliefs in Nursing,1,inferred,Values and Beliefs in Nursing,NURN_3104_concepts_raw.json
+NURN_3104,topic,Social Justice and Health Disparities,Social Justice and Health Disparities,1,inferred,Social Justice and Health Disparities,NURN_3104_concepts_raw.json
+NURN_3104,topic,Advocacy for Cultural Health,Advocacy for Cultural Health,1,inferred,Advocacy for Cultural Health,NURN_3104_concepts_raw.json
+NURN_3104,concept,cultural health trends,cultural health trends,1,inferred,cultural health trends,NURN_3104_concepts_raw.json
+NURN_3104,concept,healthcare disparities,Healthcare disparities,2,inferred,healthcare disparities,NURN_3104_concepts_raw.json
+NURN_3104,concept,culturally competent care models,Culturally competent care models,1,inferred,culturally competent care models,NURN_3104_concepts_raw.json
+NURN_3104,concept,diversity and inclusion strategies,Diversity and inclusion strategies,1,inferred,diversity and inclusion strategies,NURN_3104_concepts_raw.json
+NURN_3104,concept,cultural humility,Cultural humility,1,inferred,cultural humility,NURN_3104_concepts_raw.json
+NURN_3104,concept,personal values and biases,Personal values and biases,1,inferred,personal values and biases,NURN_3104_concepts_raw.json
+NURN_3104,concept,professionalism and cultural awareness,Professionalism and cultural awareness,1,inferred,professionalism and cultural awareness,NURN_3104_concepts_raw.json

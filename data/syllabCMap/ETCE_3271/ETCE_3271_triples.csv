@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETCE_3271,Building System Components,concept,PREREQUISITE_OF,Heating and Cooling Systems,topic,A taught first,,ETCE_3271_triples_raw.json
+ETCE_3271,Building System Components,concept,PREREQUISITE_OF,Ventilation and Air Quality,topic,A taught first,,ETCE_3271_triples_raw.json
+ETCE_3271,Building System Components,concept,PREREQUISITE_OF,Plumbing Systems Fundamentals,topic,A taught first,,ETCE_3271_triples_raw.json
+ETCE_3271,Building System Components,concept,PREREQUISITE_OF,Electrical Systems in Buildings,topic,A taught first,,ETCE_3271_triples_raw.json
+ETCE_3271,Building System Components,concept,PREREQUISITE_OF,Fire Protection and Suppression,topic,A taught first,,ETCE_3271_triples_raw.json
+ETCE_3271,System Performance Optimization,concept,PART_OF,System Design and Integration,topic,,,ETCE_3271_triples_raw.json
+ETCE_3271,Design and Implementation Strategies,concept,PART_OF,Case Studies and Final Project Preparation,topic,,,ETCE_3271_triples_raw.json
+ETCE_3271,Project Planning and Management,concept,PART_OF,Case Studies and Final Project Preparation,topic,,,ETCE_3271_triples_raw.json

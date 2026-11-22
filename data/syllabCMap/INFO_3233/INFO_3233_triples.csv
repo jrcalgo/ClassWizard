@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INFO_3233,Database Creation with SQL,topic,PART_OF,Database Management Systems,concept,,part is broader than whole - check direction,INFO_3233_triples_raw.json
+INFO_3233,Updating,concept,PART_OF,Data Manipulation with SQL,concept,,,INFO_3233_triples_raw.json
+INFO_3233,User Authentication and Authorization,concept,PART_OF,Security Threats and Vulnerabilities,topic,,,INFO_3233_triples_raw.json
+INFO_3233,SQL Syntax and Semantics,concept,USED_FOR,Querying Database Tables,concept,,,INFO_3233_triples_raw.json
+INFO_3233,SQL Syntax and Semantics,concept,USED_FOR,Data Manipulation with SQL,concept,,,INFO_3233_triples_raw.json

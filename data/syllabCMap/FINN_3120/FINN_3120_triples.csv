@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3120,Time Value of Money,concept,USED_FOR,Financial Statement Analysis,concept,,,FINN_3120_triples_raw.json
+FINN_3120,Time Value of Money,concept,USED_FOR,Working Capital Management,concept,,,FINN_3120_triples_raw.json
+FINN_3120,Time Value of Money,concept,USED_FOR,Pricing Risks,concept,,,FINN_3120_triples_raw.json

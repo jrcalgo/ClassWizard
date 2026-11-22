@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FREN_1502,French colonial empire,concept,PART_OF,Colonialism and Its Legacy,topic,,,FREN_1502_triples_raw.json
+FREN_1502,haute couture tradition,concept,PART_OF,Fashion in French Culture,topic,,,FREN_1502_triples_raw.json
+FREN_1502,regional food specialties,concept,PART_OF,Food and French Identity,topic,,,FREN_1502_triples_raw.json
+FREN_1502,social justice in film,concept,PART_OF,Film as Social Commentary,topic,,,FREN_1502_triples_raw.json
+FREN_1502,cross-cultural communication styles,concept,PART_OF,Global Perspectives on Culture,topic,,,FREN_1502_triples_raw.json
+FREN_1502,understanding global structures,concept,PART_OF,Global Perspectives on Culture,topic,,,FREN_1502_triples_raw.json
+FREN_1502,cinematic techniques,concept,USED_FOR,film history basics,concept,,,FREN_1502_triples_raw.json

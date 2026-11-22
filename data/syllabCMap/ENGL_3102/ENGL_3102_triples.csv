@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_3102,Literature for Young Children,concept,PREREQUISITE_OF,Picture Books,topic,A taught first,,ENGL_3102_triples_raw.json
+ENGL_3102,Literature for Young Children,concept,PREREQUISITE_OF,Nursery Rhymes,topic,A taught first,,ENGL_3102_triples_raw.json
+ENGL_3102,Literature for Young Children,concept,PREREQUISITE_OF,Books for Beginning Readers,topic,A taught first,,ENGL_3102_triples_raw.json
+ENGL_3102,Literature for Young Children,concept,PREREQUISITE_OF,Critical Analysis of Children's Lit,topic,A taught first,,ENGL_3102_triples_raw.json
+ENGL_3102,Literature for Young Children,concept,PREREQUISITE_OF,Visual Readings of Children's Lit,topic,A taught first,,ENGL_3102_triples_raw.json
+ENGL_3102,Picture Books,topic,PREREQUISITE_OF,Illustration Styles in Picture Books,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Nursery Rhymes,topic,PREREQUISITE_OF,Origins of Nursery Rhymes,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Nursery Rhymes,topic,PREREQUISITE_OF,Folk Tale Themes and Motifs,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Books for Beginning Readers,topic,PREREQUISITE_OF,Early Literacy Skills Development,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Critical Analysis of Children's Lit,topic,PREREQUISITE_OF,Analyzing Text Structure and Theme,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Critical Analysis of Children's Lit,topic,PREREQUISITE_OF,Identifying Bias in Children's Literature,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Visual Readings of Children's Lit,topic,PREREQUISITE_OF,Reading Images and Illustrations,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Visual Readings of Children's Lit,topic,PREREQUISITE_OF,Interpreting Visual Metaphors,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Diverse Perspectives on Children's Lit,topic,PREREQUISITE_OF,Cultural Representation in Children's Books,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Teaching and Evaluating Children's Lit,topic,PREREQUISITE_OF,Literacy Instruction Methods,concept,same unit,,ENGL_3102_triples_raw.json
+ENGL_3102,Picture Books,topic,PART_OF,Literature for Young Children,concept,,part is broader than whole - check direction,ENGL_3102_triples_raw.json
+ENGL_3102,Nursery Rhymes,topic,PART_OF,Literature for Young Children,concept,,part is broader than whole - check direction,ENGL_3102_triples_raw.json
+ENGL_3102,Books for Beginning Readers,topic,PART_OF,Literature for Young Children,concept,,part is broader than whole - check direction,ENGL_3102_triples_raw.json
+ENGL_3102,Critical Analysis of Children's Lit,topic,PART_OF,Literature for Young Children,concept,,part is broader than whole - check direction,ENGL_3102_triples_raw.json
+ENGL_3102,Visual Readings of Children's Lit,topic,PART_OF,Literature for Young Children,concept,,part is broader than whole - check direction,ENGL_3102_triples_raw.json
+ENGL_3102,Diverse Perspectives on Children's Lit,topic,PART_OF,Literature for Young Children,concept,,part is broader than whole - check direction,ENGL_3102_triples_raw.json
+ENGL_3102,Origins of Nursery Rhymes,concept,PART_OF,Nursery Rhymes,topic,,,ENGL_3102_triples_raw.json
+ENGL_3102,Folk Tale Themes and Motifs,concept,PART_OF,Nursery Rhymes,topic,,,ENGL_3102_triples_raw.json
+ENGL_3102,Phonics and Decoding Strategies,concept,PART_OF,Books for Beginning Readers,topic,,,ENGL_3102_triples_raw.json
+ENGL_3102,Identifying Bias in Children's Literature,concept,PART_OF,Critical Analysis of Children's Lit,topic,,,ENGL_3102_triples_raw.json
+ENGL_3102,Reading Images and Illustrations,concept,PART_OF,Visual Readings of Children's Lit,topic,,,ENGL_3102_triples_raw.json
+ENGL_3102,Interpreting Visual Metaphors,concept,PART_OF,Visual Readings of Children's Lit,topic,,,ENGL_3102_triples_raw.json
+ENGL_3102,Cultural Representation in Children's Books,concept,PART_OF,Diverse Perspectives on Children's Lit,topic,,,ENGL_3102_triples_raw.json
+ENGL_3102,Inclusive Storytelling Practices,concept,PART_OF,Diverse Perspectives on Children's Lit,topic,,,ENGL_3102_triples_raw.json
+ENGL_3102,Literacy Instruction Methods,concept,PART_OF,Teaching and Evaluating Children's Lit,topic,,,ENGL_3102_triples_raw.json

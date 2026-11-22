@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DTSC_2301,topic,Data Science,data science,1,verified,Data Science,DTSC_2301_concepts_raw.json
+DTSC_2301,topic,Relational Databases,relational databases,1,verified,Relational Databases,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,data science approach,data science approach,1,verified,data science approach,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,socially relevant challenges,socially relevant challenges,1,verified,socially relevant challenges,DTSC_2301_concepts_raw.json
+DTSC_2301,topic,Statistical Methods and Tools,Statistical Methods and Tools,1,inferred,Statistical Methods and Tools,DTSC_2301_concepts_raw.json
+DTSC_2301,topic,Data Collection and Ethics,Data Collection and Ethics,1,inferred,Data Collection and Ethics,DTSC_2301_concepts_raw.json
+DTSC_2301,topic,Querying Relational Databases,Querying Relational Databases,1,inferred,Querying Relational Databases,DTSC_2301_concepts_raw.json
+DTSC_2301,topic,Data Analysis and Interpretation,Data Analysis and Interpretation,1,inferred,Data Analysis and Interpretation,DTSC_2301_concepts_raw.json
+DTSC_2301,topic,Case Studies in Social Science,Case Studies in Social Science,1,inferred,Case Studies in Social Science,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,ethical considerations,Ethical Considerations,1,inferred,ethical considerations,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,database query languages,Database Query Languages,1,inferred,database query languages,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,SQL syntax basics,SQL Syntax Basics,1,inferred,SQL syntax basics,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,table relationships,Table Relationships,1,inferred,table relationships,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,descriptive statistics overview,Descriptive Statistics Overview,1,inferred,descriptive statistics overview,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,data visualization techniques,Data Visualization Techniques,1,inferred,data visualization techniques,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,hypothesis testing fundamentals,Hypothesis Testing Fundamentals,1,inferred,hypothesis testing fundamentals,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,data source evaluation,Data Source Evaluation,1,inferred,data source evaluation,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,privacy and confidentiality,Privacy and Confidentiality,1,inferred,privacy and confidentiality,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,informed consent principles,Informed Consent Principles,1,inferred,informed consent principles,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,SQL query writing,SQL Query Writing,1,inferred,SQL query writing,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,join operations basics,Join Operations Basics,1,inferred,join operations basics,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,subqueries introduction,Subqueries Introduction,1,inferred,subqueries introduction,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,statistical inference methods,Statistical Inference Methods,1,inferred,statistical inference methods,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,regression analysis fundamentals,Regression Analysis Fundamentals,1,inferred,regression analysis fundamentals,DTSC_2301_concepts_raw.json
+DTSC_2301,concept,correlation coefficient,Correlation Coefficient,1,inferred,correlation coefficient,DTSC_2301_concepts_raw.json

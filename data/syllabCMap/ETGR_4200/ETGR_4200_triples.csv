@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETGR_4200,Team Formation,topic,PART_OF,Team Problem-Solving,topic,,,ETGR_4200_triples_raw.json
+ETGR_4200,Design Philosophy,topic,PART_OF,Project Management,topic,,,ETGR_4200_triples_raw.json
+ETGR_4200,Prototype Development,topic,PART_OF,Project Management,topic,,,ETGR_4200_triples_raw.json
+ETGR_4200,Progress Evaluations,topic,PART_OF,Project Management,topic,,,ETGR_4200_triples_raw.json
+ETGR_4200,Final Report Preparation,topic,PART_OF,Project Management,topic,,,ETGR_4200_triples_raw.json
+ETGR_4200,Prototype Completion,topic,PART_OF,Project Management,topic,,,ETGR_4200_triples_raw.json
+ETGR_4200,Expo Preparation,topic,PART_OF,Project Management,topic,,,ETGR_4200_triples_raw.json

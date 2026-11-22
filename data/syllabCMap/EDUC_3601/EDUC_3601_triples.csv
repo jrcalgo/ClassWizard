@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDUC_3601,Professional Learning Community,topic,PREREQUISITE_OF,Clinical Training,topic,A taught first,,EDUC_3601_triples_raw.json
+EDUC_3601,Enhanced Clinical Practice Experience,concept,PREREQUISITE_OF,Instructional Mentoring Techniques,topic,A taught first,,EDUC_3601_triples_raw.json
+EDUC_3601,Early Literacy Education Goals,concept,PART_OF,Early Literacy Education,topic,,,EDUC_3601_triples_raw.json
+EDUC_3601,Professional Learning Community Benefits,concept,PART_OF,Professional Learning Community,topic,,,EDUC_3601_triples_raw.json
+EDUC_3601,Enhanced Clinical Practice Experience,concept,PART_OF,Clinical Training,topic,,,EDUC_3601_triples_raw.json
+EDUC_3601,Family-Engagement Event Organization,concept,PART_OF,Community Engagement Planning,topic,,,EDUC_3601_triples_raw.json
+EDUC_3601,Literacy Development in Young Children,concept,PART_OF,Early Literacy Education Fundamentals,topic,,,EDUC_3601_triples_raw.json
+EDUC_3601,Clinical Training,topic,USED_FOR,Professional Learning Community Benefits,concept,,topic used for something - check direction,EDUC_3601_triples_raw.json
+EDUC_3601,Instructional Mentoring Techniques,topic,USED_FOR,Mentorship in Literacy Education,concept,,topic used for something - check direction,EDUC_3601_triples_raw.json

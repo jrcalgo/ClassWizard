@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_4210,authentication,concept,PREREQUISITE_OF,authorization,concept,same unit,,ITIS_4210_triples_raw.json
+ITIS_4210,standards in digital identity,concept,PREREQUISITE_OF,federation,concept,same unit,,ITIS_4210_triples_raw.json
+ITIS_4210,handson labs,method,USED_FOR,building and integrating systems,method,,,ITIS_4210_triples_raw.json

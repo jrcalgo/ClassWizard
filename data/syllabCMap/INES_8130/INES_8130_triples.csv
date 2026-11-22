@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INES_8130,Geosciences,topic,PREREQUISITE_OF,geoscience discipline overview,concept,same unit,,INES_8130_triples_raw.json
+INES_8130,Geosciences,topic,PREREQUISITE_OF,learning in geosciences,concept,same unit,,INES_8130_triples_raw.json
+INES_8130,Geosciences,topic,PREREQUISITE_OF,science disciplines comparison,concept,same unit,,INES_8130_triples_raw.json
+INES_8130,Barriers to Student Learning,topic,PREREQUISITE_OF,Supporting All Students,topic,A taught first,,INES_8130_triples_raw.json
+INES_8130,Assessment Design and Implementation,topic,PREREQUISITE_OF,Course Design and Alignment,topic,A taught first,,INES_8130_triples_raw.json
+INES_8130,geoscience discipline overview,concept,PART_OF,Geosciences,topic,,,INES_8130_triples_raw.json
+INES_8130,science disciplines comparison,concept,PART_OF,Geosciences,topic,,,INES_8130_triples_raw.json
+INES_8130,factors contributing to minimal learning,concept,PART_OF,Barriers to Student Learning,topic,,,INES_8130_triples_raw.json
+INES_8130,student learning barriers identification,concept,PART_OF,Barriers to Student Learning,topic,,,INES_8130_triples_raw.json
+INES_8130,conditions necessary for learning support,concept,PART_OF,Supporting All Students,topic,,,INES_8130_triples_raw.json
+INES_8130,inclusive classroom environment,concept,PART_OF,Supporting All Students,topic,,,INES_8130_triples_raw.json
+INES_8130,interventions to enhance student engagement,concept,PART_OF,Classroom Exercises and Interventions,topic,,,INES_8130_triples_raw.json
+INES_8130,aligning assessments with learning goals,concept,PART_OF,Assessment Design and Implementation,topic,,,INES_8130_triples_raw.json
+INES_8130,validating assessment methods,concept,PART_OF,Assessment Design and Implementation,topic,,,INES_8130_triples_raw.json
+INES_8130,applying research to classroom practice,concept,PART_OF,Research-Based Pedagogy in Geoscience,topic,,,INES_8130_triples_raw.json
+INES_8130,articulating teaching philosophy statement,concept,PART_OF,Teaching Philosophy Development,topic,,,INES_8130_triples_raw.json

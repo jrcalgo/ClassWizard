@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3225,topic,Reinforced Concrete Design I,Reinforced Concrete Design I,1,verified,Reinforced Concrete Design I,CEGR_3225_concepts_raw.json
+CEGR_3225,topic,Structural Analysis,Structural Analysis,1,verified,Structural Analysis,CEGR_3225_concepts_raw.json
+CEGR_3225,topic,Structural,Structural,2,verified,Structural,CEGR_3225_concepts_raw.json
+CEGR_3225,topic,Shear in Beams and Columns,shear in beams and columns,1,verified,Shear in Beams and Columns,CEGR_3225_concepts_raw.json
+CEGR_3225,topic,RC Design,RC Design,1,inferred,Introduction to RC Design,CEGR_3225_concepts_raw.json
+CEGR_3225,topic,Flexural Behavior of Beams,Flexural Behavior of Beams,1,inferred,Flexural Behavior of Beams,CEGR_3225_concepts_raw.json
+CEGR_3225,topic,Reinforcing Steel Development,Reinforcing Steel Development,1,inferred,Reinforcing Steel Development,CEGR_3225_concepts_raw.json
+CEGR_3225,topic,Short Column Design,Short Column Design,1,inferred,Short Column Design,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,reinforced concrete basics,Reinforced Concrete Basics,1,inferred,reinforced concrete basics,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,ACI 318 code overview,ACI 318 Code Overview,1,inferred,ACI 318 code overview,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,design process fundamentals,Design Process Fundamentals,1,inferred,design process fundamentals,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,singly reinforced beam analysis,Singly Reinforced Beam Analysis,1,inferred,singly reinforced beam analysis,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,doubly reinforced beam design,Doubly Reinforced Beam Design,1,inferred,doubly reinforced beam design,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,rectangular and T-beam mechanics,Rectangular and T-Beam Mechanics,1,inferred,rectangular and T-beam mechanics,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,shear force and bending moment,Shear Force and Bending Moment,1,inferred,shear force and bending moment,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,column shear resistance,Column Shear Resistance,1,inferred,column shear resistance,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,beam shear capacity calculation,Beam Shear Capacity Calculation,1,inferred,beam shear capacity calculation,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,development length of reinforcement,Development Length of Reinforcement,1,inferred,development length of reinforcement,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,splicing and anchorage requirements,Splicing and Anchorage Requirements,1,inferred,splicing and anchorage requirements,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,rebar spacing and cover rules,Rebar Spacing and Cover Rules,1,inferred,rebar spacing and cover rules,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,uniaxial and biaxial bending analysis,Uniaxial and Biaxial Bending Analysis,1,inferred,uniaxial and biaxial bending analysis,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,column interaction diagrams construction,Column Interaction Diagrams Construction,1,inferred,column interaction diagrams construction,CEGR_3225_concepts_raw.json
+CEGR_3225,concept,axial load and moment capacity,Axial Load and Moment Capacity,1,inferred,axial load and moment capacity,CEGR_3225_concepts_raw.json

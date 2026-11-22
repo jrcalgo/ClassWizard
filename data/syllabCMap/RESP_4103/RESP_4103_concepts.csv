@@ -1,0 +1,26 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+RESP_4103,topic,Evidence-Based Practices in Respiratory Care,Evidence-Based Practices in Respiratory Care,1,verified,Evidence-Based Practices in Respiratory Care,RESP_4103_concepts_raw.json
+RESP_4103,topic,Clinical Question Framing,clinical question framing,1,verified,Clinical Question Framing,RESP_4103_concepts_raw.json
+RESP_4103,concept,literature search techniques,literature search techniques,1,verified,literature search techniques,RESP_4103_concepts_raw.json
+RESP_4103,topic,EBP,EBP,3,inferred,Introduction to EBP,RESP_4103_concepts_raw.json
+RESP_4103,topic,Research Methods and Statistics,Research Methods and Statistics,1,inferred,Research Methods and Statistics,RESP_4103_concepts_raw.json
+RESP_4103,topic,Literature Appraisal and Critique,Literature Appraisal and Critique,1,inferred,Literature Appraisal and Critique,RESP_4103_concepts_raw.json
+RESP_4103,topic,Literature Search Strategies,Literature Search Strategies,1,inferred,Literature Search Strategies,RESP_4103_concepts_raw.json
+RESP_4103,topic,Clinical Decision Making and EBP,Clinical Decision Making and EBP,1,inferred,Clinical Decision Making and EBP,RESP_4103_concepts_raw.json
+RESP_4103,topic,Evidence-Based Project Development,Evidence-Based Project Development,1,inferred,Evidence-Based Project Development,RESP_4103_concepts_raw.json
+RESP_4103,concept,evidence-based practice definition,Evidence-Based Practice Definition,1,inferred,evidence-based practice definition,RESP_4103_concepts_raw.json
+RESP_4103,concept,importance of ebp in respiratory care,Importance of EBP in Respiratory Care,1,inferred,importance of ebp in respiratory care,RESP_4103_concepts_raw.json
+RESP_4103,concept,pico creation guidelines,PICO Creation Guidelines,1,inferred,pico creation guidelines,RESP_4103_concepts_raw.json
+RESP_4103,concept,formulating clinical questions,Formulating Clinical Questions,1,inferred,formulating clinical questions,RESP_4103_concepts_raw.json
+RESP_4103,concept,quantitative research design,Quantitative Research Design,1,inferred,quantitative research design,RESP_4103_concepts_raw.json
+RESP_4103,concept,qualitative research design,Qualitative Research Design,1,inferred,qualitative research design,RESP_4103_concepts_raw.json
+RESP_4103,concept,statistical methodology interpretation,Statistical Methodology Interpretation,1,inferred,statistical methodology interpretation,RESP_4103_concepts_raw.json
+RESP_4103,concept,evaluating study quality,Evaluating Study Quality,1,inferred,evaluating study quality,RESP_4103_concepts_raw.json
+RESP_4103,concept,assessing literature review relevance,Assessing Literature Review Relevance,1,inferred,assessing literature review relevance,RESP_4103_concepts_raw.json
+RESP_4103,concept,critiquing statistical analysis,Critiquing Statistical Analysis,1,inferred,critiquing statistical analysis,RESP_4103_concepts_raw.json
+RESP_4103,concept,database selection for search,Database Selection for Search,1,inferred,database selection for search,RESP_4103_concepts_raw.json
+RESP_4103,concept,search filter application,Search Filter Application,1,inferred,search filter application,RESP_4103_concepts_raw.json
+RESP_4103,concept,evidence-based search techniques,Evidence-Based Search Techniques,1,inferred,evidence-based search techniques,RESP_4103_concepts_raw.json
+RESP_4103,concept,applying research findings to practice,Applying Research Findings to Practice,1,inferred,applying research findings to practice,RESP_4103_concepts_raw.json
+RESP_4103,concept,integrating clinical expertise with research,Integrating Clinical Expertise with Research,1,inferred,integrating clinical expertise with research,RESP_4103_concepts_raw.json
+RESP_4103,concept,patient-centered care approach,Patient-Centered Care Approach,1,inferred,patient-centered care approach,RESP_4103_concepts_raw.json

@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4146,field-programmable gate arrays (FPGAs,concept,PREREQUISITE_OF,VHDL design flow,concept,B mentioned first,,ECGR_4146_triples_raw.json
+ECGR_4146,VHDL design flow,concept,PREREQUISITE_OF,synthesis,concept,same unit,,ECGR_4146_triples_raw.json
+ECGR_4146,VHDL design flow,concept,PREREQUISITE_OF,placement and routing,concept,A mentioned first,,ECGR_4146_triples_raw.json
+ECGR_4146,VHDL,tool,PREREQUISITE_OF,Xilinx Vivado/SDK FPGA development tools,tool,A mentioned first,,ECGR_4146_triples_raw.json
+ECGR_4146,VHDL design flow,concept,PART_OF,Digital Design Components,topic,,,ECGR_4146_triples_raw.json
+ECGR_4146,field-programmable gate arrays (FPGAs,concept,PART_OF,FPGA Architecture,topic,,,ECGR_4146_triples_raw.json
+ECGR_4146,synthesis,concept,PART_OF,VHDL design flow,concept,,,ECGR_4146_triples_raw.json
+ECGR_4146,placement and routing,concept,PART_OF,VHDL design flow,concept,,,ECGR_4146_triples_raw.json
+ECGR_4146,Xilinx Vivado/SDK FPGA development tools,tool,USED_FOR,VHDL design flow,concept,,,ECGR_4146_triples_raw.json

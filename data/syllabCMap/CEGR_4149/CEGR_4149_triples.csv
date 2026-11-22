@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_4149,units and dimensional analysis,topic,PREREQUISITE_OF,adsorption and ion exchange,topic,A taught first,,CEGR_4149_triples_raw.json
+CEGR_4149,units and dimensional analysis,topic,PREREQUISITE_OF,oxidation–reduction chemistry,topic,A taught first,,CEGR_4149_triples_raw.json
+CEGR_4149,units and dimensional analysis,topic,PREREQUISITE_OF,risk analysis,topic,A taught first,,CEGR_4149_triples_raw.json
+CEGR_4149,reaction kinetics and reactor behavior,concept,PART_OF,mass transport,topic,,,CEGR_4149_triples_raw.json
+CEGR_4149,adsorption and ion exchange,topic,PART_OF,mass transport,topic,,,CEGR_4149_triples_raw.json
+CEGR_4149,oxidation–reduction chemistry,topic,PART_OF,mass transport,topic,,,CEGR_4149_triples_raw.json
+CEGR_4149,risk analysis,topic,PART_OF,mass transport,topic,,,CEGR_4149_triples_raw.json

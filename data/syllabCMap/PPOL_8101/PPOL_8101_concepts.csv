@@ -1,0 +1,88 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PPOL_8101,topic,Public Policy Studio I,Public Policy Studio I,1,verified,Public Policy Studio I,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Statistics Refresher I,Statistics Refresher I,1,verified,Statistics Refresher I,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,descriptive statistics,descriptive statistics,8,verified,descriptive statistics,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,parameter vs. statistic,Parameter vs Statistic,2,verified,parameter vs. statistic,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,when each is appropriate,when each is appropriate,1,verified,when each is appropriate,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,dispersion,Dispersion,2,verified,dispersion,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,distribution shape,Distribution shape,2,verified,distribution shape,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Standardization,Standardization,2,verified,Standardization,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,sampling distributions,sampling distributions,7,verified,sampling distributions,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,probability theory,Probability Theory,3,verified,probability theory,PPOL_8101_concepts_raw.json
+PPOL_8101,method,estimation techniques,Estimation Techniques,2,verified,estimation techniques,PPOL_8101_concepts_raw.json
+PPOL_8101,method,hypothesis testing,hypothesis testing,7,verified,hypothesis testing,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Conceptualization and Operationalization of Variables,conceptualization and operationalization of variables,1,verified,Conceptualization and Operationalization of Variables,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,levels of measurement,Levels of Measurement,3,verified,levels of measurement,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,"Finding, Importing & Cleaning Policy Data in Python","Finding, Importing & Cleaning Policy Data in Python",1,verified,"Finding, Importing & Cleaning Policy Data in Python",PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Estimation,estimation,10,verified,Estimation,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Point Estimates & Confidence Intervals,Point Estimates & Confidence Intervals,1,verified,Point Estimates & Confidence Intervals,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Hypothesis Testing I,Hypothesis Testing I,1,verified,Hypothesis Testing I,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Measuring Association,Measuring Association,1,verified,Measuring Association,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Correlation,correlation,15,verified,Correlation,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Simple Linear Regression,Simple Linear Regression,1,verified,Introduction to Simple Linear Regression,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Multiple Linear Regression,Multiple Linear Regression,2,verified,Multiple Linear Regression,PPOL_8101_concepts_raw.json
+PPOL_8101,topic,Regression Diagnostics & Becoming Regression-Ready,Regression Diagnostics & Becoming Regression-Ready,1,verified,Regression Diagnostics & Becoming Regression-Ready,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,statistical reasoning,statistical reasoning,2,verified,statistical reasoning,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,central tendency,Central tendency,2,verified,central tendency,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,mean value,Mean Value,1,verified,mean value,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,median value,Median Value,1,verified,median value,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,mode value,Mode Value,1,verified,mode value,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,variance calculation,Variance Calculation,1,verified,variance calculation,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,standard deviation,Standard Deviation,5,verified,standard deviation,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,interquartile range,interquartile range,2,verified,interquartile range,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,symmetry,symmetry,2,verified,symmetry,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,skewness,skewness,2,verified,skewness,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,kurtosis,kurtosis,2,verified,kurtosis,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,outliers,outliers,4,verified,outliers,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,z-scores and their interpretation,z-scores and their interpretation,1,verified,z-scores and their interpretation,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,conceptualization,conceptualization,4,verified,conceptualization,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,operationalization,operationalization,4,verified,operationalization,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,nominal scale,Nominal Scale,1,verified,nominal scale,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,ordinal scale,Ordinal Scale,1,verified,ordinal scale,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,interval scale,Interval Scale,1,verified,interval scale,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,ratio scale,Ratio Scale,1,verified,ratio scale,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,reliability vs. validity of a measure,reliability vs. validity of a measure,1,verified,reliability vs. validity of a measure,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,proxy variables,proxy variables,2,verified,proxy variables,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,index construction,index construction,2,verified,index construction,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,measurement error,measurement error,2,verified,measurement error,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,point estimation,Point Estimation,3,verified,point estimation,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,confidence intervals,confidence intervals,7,verified,confidence intervals,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,standard error,Standard error,5,verified,standard error,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,margin of error,margin of error,2,verified,margin of error,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,null hypothesis,Null Hypothesis,2,verified,null hypothesis,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,alternative hypothesis,Alternative Hypothesis,2,verified,alternative hypothesis,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,test statistic,Test Statistics,1,verified,test statistic,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,p-value calculation,P-Value Calculation,1,verified,p-value calculation,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,correlation coefficient,correlation coefficients,2,verified,correlation coefficient,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,spearman rank order,Spearman Rank Order,1,verified,spearman rank order,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,pearson product moment,Pearson Product Moment,1,verified,pearson product moment,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,coefficient of determination,Coefficient of Determination,1,verified,coefficient of determination,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,covariance and correlation,Covariance and correlation,1,verified,covariance and correlation,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,confounding variables,Confounding variables,2,verified,confounding variables,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,spurious correlation,spurious correlation,2,verified,spurious correlation,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,correlation matrices,Correlation matrices,2,verified,correlation matrices,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,candidate predictors,candidate predictors,2,verified,candidate predictors,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,ordinary least squares,ordinary least squares,2,verified,ordinary least squares,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,intercept coefficient,Intercept Coefficient,1,verified,intercept coefficient,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,slope coefficient,slope coefficient,2,verified,slope coefficient,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,r-squared value,R-Squared Value,1,verified,r-squared value,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,classical assumptions,classical assumptions,2,verified,classical assumptions,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,linearity assumption,Linearity Assumption,1,verified,linearity assumption,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,independence assumption,Independence Assumption,1,verified,independence assumption,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,homoscedasticity assumption,Homoscedasticity Assumption,1,verified,homoscedasticity assumption,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,normal residuals,Normal Residuals,1,verified,normal residuals,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,omitted variable bias,omitted variable bias,2,verified,omitted variable bias,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,multicollinearity,multicollinearity,2,verified,multicollinearity,PPOL_8101_concepts_raw.json
+PPOL_8101,concept,dummy variables,dummy variables,2,verified,dummy variables,PPOL_8101_concepts_raw.json
+PPOL_8101,method,project-based learning model,project-based learning model,1,verified,project-based learning model,PPOL_8101_concepts_raw.json
+PPOL_8101,method,simple and multiple OLS regression,simple and multiple OLS regression,2,verified,simple and multiple OLS regression,PPOL_8101_concepts_raw.json
+PPOL_8101,method,residual plots,residual plots,2,verified,residual plots,PPOL_8101_concepts_raw.json
+PPOL_8101,method,Q-Q plots,Q-Q plots,2,verified,Q-Q plots,PPOL_8101_concepts_raw.json
+PPOL_8101,method,heteroskedasticity checks,heteroskedasticity checks,2,verified,heteroskedasticity checks,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,p-value,P-Values,1,verified,p-value,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,mean distribution,Mean Distribution,1,verified,mean distribution,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,central limit theorem,Central Limit Theorem,4,verified,central limit theorem,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,sampling distribution concept,Sampling Distribution Concept,1,verified,sampling distribution concept,PPOL_8101_concepts_raw.json
+PPOL_8101,measure,probability distributions theory,Probability Distributions Theory,1,verified,probability distributions theory,PPOL_8101_concepts_raw.json
+PPOL_8101,tool,Python,Python,3,verified,Python,PPOL_8101_concepts_raw.json
+PPOL_8101,tool,Google Colab,Google Colab,1,verified,Google Colab,PPOL_8101_concepts_raw.json

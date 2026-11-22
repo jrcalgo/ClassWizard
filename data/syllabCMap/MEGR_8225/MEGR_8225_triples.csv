@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_8225,linearization,topic,PREREQUISITE_OF,state-space representations,concept,B taught first,B is taught before A - check,MEGR_8225_triples_raw.json
+MEGR_8225,linear algebra,topic,PREREQUISITE_OF,canonical forms,topic,A taught first,,MEGR_8225_triples_raw.json
+MEGR_8225,linearization,topic,PREREQUISITE_OF,stability criteria,topic,A taught first,,MEGR_8225_triples_raw.json
+MEGR_8225,linear state-space equations,topic,PREREQUISITE_OF,controllability,topic,B mentioned first,,MEGR_8225_triples_raw.json
+MEGR_8225,linear state-space equations,topic,PREREQUISITE_OF,observability,topic,B mentioned first,,MEGR_8225_triples_raw.json
+MEGR_8225,linear state-space equations,topic,PREREQUISITE_OF,realizations,topic,A mentioned first,,MEGR_8225_triples_raw.json
+MEGR_8225,linear state-space equations,topic,PREREQUISITE_OF,similarity transforms,topic,B mentioned first,,MEGR_8225_triples_raw.json
+MEGR_8225,state equation solutions,topic,PART_OF,state transition matrices,topic,,,MEGR_8225_triples_raw.json
+MEGR_8225,stability criteria,topic,PART_OF,linear systems theory,topic,,,MEGR_8225_triples_raw.json
+MEGR_8225,realizations,topic,PART_OF,linear systems theory,topic,,,MEGR_8225_triples_raw.json
+MEGR_8225,similarity transforms,topic,PART_OF,linear systems theory,topic,,,MEGR_8225_triples_raw.json
+MEGR_8225,numerical simulations,topic,PART_OF,linear systems theory,topic,,,MEGR_8225_triples_raw.json
+MEGR_8225,controller implementation in MATLAB,topic,PART_OF,linear systems theory,topic,,,MEGR_8225_triples_raw.json
+MEGR_8225,linearization,topic,PART_OF,linear systems theory,topic,,,MEGR_8225_triples_raw.json
+MEGR_8225,canonical forms,topic,PART_OF,linear systems theory,topic,,,MEGR_8225_triples_raw.json

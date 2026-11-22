@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MPAD_6350,Managerial Accounting for Revenues,topic,PREREQUISITE_OF,Budgeting and Financial Management,topic,A taught first,,MPAD_6350_triples_raw.json
+MPAD_6350,Managerial Accounting for Revenues,topic,PREREQUISITE_OF,Revenue Policy and Administration,topic,A taught first,,MPAD_6350_triples_raw.json
+MPAD_6350,Managerial Accounting for Revenues,topic,PART_OF,Public Sector Financial Management,topic,,,MPAD_6350_triples_raw.json
+MPAD_6350,Budgeting and Financial Management,topic,PART_OF,Public Sector Financial Management,topic,,,MPAD_6350_triples_raw.json
+MPAD_6350,Financial Strategy for Public Managers,topic,PART_OF,Public Sector Financial Management,topic,,,MPAD_6350_triples_raw.json

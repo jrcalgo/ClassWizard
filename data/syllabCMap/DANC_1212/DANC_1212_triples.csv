@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DANC_1212,alignment,concept,PREREQUISITE_OF,external rotation (turnout,concept,A taught first,,DANC_1212_triples_raw.json
+DANC_1212,foundational movement vocabulary,concept,PREREQUISITE_OF,body positions at the barre,concept,same unit,,DANC_1212_triples_raw.json
+DANC_1212,ballet center work,concept,PREREQUISITE_OF,vocabulary and musicality,concept,same unit,,DANC_1212_triples_raw.json
+DANC_1212,barre work,method,PART_OF,Classical Ballet Technique,topic,,,DANC_1212_triples_raw.json
+DANC_1212,center practice,method,PART_OF,Classical Ballet Technique,topic,,,DANC_1212_triples_raw.json
+DANC_1212,class practice,method,PART_OF,Classical Ballet Technique,topic,,,DANC_1212_triples_raw.json
+DANC_1212,outside assignments,method,PART_OF,Classical Ballet Technique,topic,,,DANC_1212_triples_raw.json
+DANC_1212,critical thinking,method,PART_OF,communication skills,method,,,DANC_1212_triples_raw.json

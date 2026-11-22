@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITAI_5154,manual coding techniques,method,PREREQUISITE_OF,integrating AI with software,method,A taught first,,ITAI_5154_triples_raw.json
+ITAI_5154,manual coding techniques,method,PREREQUISITE_OF,designing AI-driven systems,method,A taught first,,ITAI_5154_triples_raw.json
+ITAI_5154,supervised learning techniques,method,PREREQUISITE_OF,model evaluation metrics,method,same unit,,ITAI_5154_triples_raw.json
+ITAI_5154,supervised learning techniques,method,PREREQUISITE_OF,unsupervised learning methods,method,same unit,,ITAI_5154_triples_raw.json
+ITAI_5154,code writing best practices,method,PREREQUISITE_OF,integrating AI with software,method,A taught first,,ITAI_5154_triples_raw.json
+ITAI_5154,code writing best practices,method,PREREQUISITE_OF,designing AI-driven systems,method,A taught first,,ITAI_5154_triples_raw.json

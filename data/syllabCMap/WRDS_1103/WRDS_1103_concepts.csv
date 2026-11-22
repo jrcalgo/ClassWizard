@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+WRDS_1103,topic,literacy,literacy,3,verified,literacy,WRDS_1103_concepts_raw.json
+WRDS_1103,topic,writing,writing,9,verified,writing,WRDS_1103_concepts_raw.json
+WRDS_1103,topic,critical thinking,critical thinking,2,verified,critical thinking,WRDS_1103_concepts_raw.json
+WRDS_1103,topic,rhetorical contexts,rhetorical contexts,1,verified,rhetorical contexts,WRDS_1103_concepts_raw.json
+WRDS_1103,topic,formatting and stylistic choices,formatting and stylistic choices,1,verified,formatting and stylistic choices,WRDS_1103_concepts_raw.json
+WRDS_1103,topic,digital literacy and information literacy,digital literacy and information literacy,1,verified,digital literacy and information literacy,WRDS_1103_concepts_raw.json
+WRDS_1103,topic,information literacy strategies,information literacy strategies,1,verified,information literacy strategies,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,writing skills,writing skills,1,verified,writing skills,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,purpose,purpose,1,verified,purpose,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,rhetorical context,rhetorical contexts,1,verified,rhetorical context,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,conventions,conventions,2,verified,conventions,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,tone,tone,1,verified,tone,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,structure,structure,1,verified,structure,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,modality,modality,1,verified,modality,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,audience expectations,audience expectations,1,verified,audience expectations,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,needs,need,1,verified,needs,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,genre,genres,2,verified,genre,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,technological developments,technological developments,1,verified,technological developments,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,digital literacy,digital literacy,1,verified,digital literacy,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,information literacy,information literacy,1,verified,information literacy,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,research strategies,research strategies,1,verified,research strategies,WRDS_1103_concepts_raw.json
+WRDS_1103,concept,generative AI,generative AI,1,verified,generative AI,WRDS_1103_concepts_raw.json

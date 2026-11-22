@@ -1,0 +1,23 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HLTH_8605,topic,Healthcare System Overview,Healthcare System Overview,1,inferred,Healthcare System Overview,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Global Health Issues,Global Health Issues,1,inferred,Global Health Issues,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Public Health Importance,Public Health Importance,1,inferred,Public Health Importance,HLTH_8605_concepts_raw.json
+HLTH_8605,topic,Disease Surveillance Methods,Disease Surveillance Methods,1,inferred,Disease Surveillance Methods,HLTH_8605_concepts_raw.json
+HLTH_8605,topic,Infection Control Principles,Infection Control Principles,1,inferred,Infection Control Principles,HLTH_8605_concepts_raw.json
+HLTH_8605,topic,Outbreak Investigation Techniques,Outbreak Investigation Techniques,1,inferred,Outbreak Investigation Techniques,HLTH_8605_concepts_raw.json
+HLTH_8605,topic,Regulatory Framework Overview,Regulatory Framework Overview,1,inferred,Regulatory Framework Overview,HLTH_8605_concepts_raw.json
+HLTH_8605,topic,Healthcare Reform Initiatives,Healthcare Reform Initiatives,1,inferred,Healthcare Reform Initiatives,HLTH_8605_concepts_raw.json
+HLTH_8605,topic,Ethics in Healthcare Practice,Ethics in Healthcare Practice,1,inferred,Ethics in Healthcare Practice,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Behavioral Change Theories,Behavioral Change Theories,1,inferred,Behavioral Change Theories,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Community-Based Interventions,Community-Based Interventions,1,inferred,Community-Based Interventions,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Health Education Principles,Health Education Principles,1,inferred,Health Education Principles,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Infectious Disease Control,Infectious Disease Control,1,inferred,Infectious Disease Control,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Non-Communicable Disease Prevention,Non-Communicable Disease Prevention,1,inferred,Non-Communicable Disease Prevention,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Disaster Response Planning,Disaster Response Planning,1,inferred,Disaster Response Planning,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Healthcare System,Healthcare System,1,inferred,Healthcare System,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Disease Surveillance,Disease Surveillance,1,inferred,Disease Surveillance,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Infection Control,Infection Control,1,inferred,Infection Control,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Outbreak Investigation,Outbreak Investigation,1,inferred,Outbreak Investigation,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Regulatory Framework,Regulatory Framework,1,inferred,Regulatory Framework,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Healthcare Reform,Healthcare Reform,1,inferred,Healthcare Reform,HLTH_8605_concepts_raw.json
+HLTH_8605,concept,Ethics in Healthcare,Ethics in Healthcare,1,inferred,Ethics in Healthcare,HLTH_8605_concepts_raw.json

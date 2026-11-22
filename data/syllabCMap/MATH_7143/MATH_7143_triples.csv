@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_7143,Lebesgue measure space,concept,PREREQUISITE_OF,outer measure definition,concept,same unit,,MATH_7143_triples_raw.json
+MATH_7143,Lebesgue measure space,concept,PREREQUISITE_OF,measurable sets properties,concept,same unit,,MATH_7143_triples_raw.json
+MATH_7143,measurable function definition,concept,PREREQUISITE_OF,measurability of limits,concept,same unit,,MATH_7143_triples_raw.json
+MATH_7143,Lp space definition,concept,PREREQUISITE_OF,normed vector spaces,concept,same unit,,MATH_7143_triples_raw.json
+MATH_7143,Lp space definition,concept,PREREQUISITE_OF,Cauchy-Schwarz inequality,concept,same unit,,MATH_7143_triples_raw.json
+MATH_7143,Lebesgue integral definition,concept,PREREQUISITE_OF,linearity and monotonicity,concept,same unit,,MATH_7143_triples_raw.json
+MATH_7143,outer measure definition,concept,PART_OF,Lebesgue measure,topic,,,MATH_7143_triples_raw.json
+MATH_7143,measurable function definition,concept,PART_OF,measurable functions,topic,,,MATH_7143_triples_raw.json
+MATH_7143,measurability of limits,concept,PART_OF,measurable functions,topic,,,MATH_7143_triples_raw.json
+MATH_7143,Lebesgue integral definition,concept,PART_OF,Lebesgue integral,topic,,,MATH_7143_triples_raw.json
+MATH_7143,Lp space definition,concept,PART_OF,Lp spaces,topic,,,MATH_7143_triples_raw.json
+MATH_7143,normed vector spaces,concept,PART_OF,Lp spaces,topic,,,MATH_7143_triples_raw.json
+MATH_7143,Cauchy-Schwarz inequality,concept,PART_OF,Lp spaces,topic,,,MATH_7143_triples_raw.json
+MATH_7143,Lp spaces,topic,PART_OF,Lp space properties,topic,,,MATH_7143_triples_raw.json
+MATH_7143,approximation by simple functions,concept,PART_OF,Lp space properties,topic,,,MATH_7143_triples_raw.json
+MATH_7143,Holder's inequality,concept,PART_OF,Lp space properties,topic,,,MATH_7143_triples_raw.json
+MATH_7143,sigma-algebra definition,concept,PART_OF,general measure and integration theory,topic,,,MATH_7143_triples_raw.json
+MATH_7143,measurable space properties,concept,PART_OF,general measure and integration theory,topic,,,MATH_7143_triples_raw.json
+MATH_7143,Lebesgue integral definition,concept,USED_FOR,Lebesgue integration,topic,,,MATH_7143_triples_raw.json
+MATH_7143,Lp space definition,concept,USED_FOR,Lp spaces,topic,,,MATH_7143_triples_raw.json
+MATH_7143,normed vector spaces,concept,USED_FOR,Lp spaces,topic,,,MATH_7143_triples_raw.json
+MATH_7143,Cauchy-Schwarz inequality,concept,USED_FOR,Lp spaces,topic,,,MATH_7143_triples_raw.json
+MATH_7143,completeness of Lp spaces,concept,USED_FOR,Lp space properties,topic,,,MATH_7143_triples_raw.json
+MATH_7143,Holder's inequality,concept,USED_FOR,Lp space properties,topic,,,MATH_7143_triples_raw.json

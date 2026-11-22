@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+AMST_2050,Historical context of LGBTQ+ rights,concept,PREREQUISITE_OF,Societal attitudes towards queerness,concept,A taught first,,AMST_2050_triples_raw.json
+AMST_2050,Queer love and relationships,concept,PREREQUISITE_OF,Queer male experiences and perspectives,concept,A taught first,,AMST_2050_triples_raw.json
+AMST_2050,Queer love and relationships,concept,PREREQUISITE_OF,Queer female identities and experiences,concept,A taught first,,AMST_2050_triples_raw.json
+AMST_2050,LGBTQ+ identity formation,concept,PREREQUISITE_OF,Queer experiences and perspectives,concept,same unit,,AMST_2050_triples_raw.json
+AMST_2050,Importance of representation,concept,PREREQUISITE_OF,Queer activism and community building,concept,A taught first,,AMST_2050_triples_raw.json
+AMST_2050,Visual storytelling techniques,concept,PART_OF,Graphic novel as literary form,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Female same-sex attraction and desire,concept,PART_OF,Queer female identities and experiences,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Queer Asian American experiences,concept,PART_OF,Queer Chinese American experiences,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Societal attitudes towards queerness,concept,PART_OF,Historical context of LGBTQ+ rights,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Importance of representation,concept,PART_OF,Queer experiences and perspectives,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Comic book conventions and norms,concept,PART_OF,Graphic novel as literary form,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Identity formation and self-discovery,concept,PART_OF,LGBTQ+ identity formation,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Queer love and relationships,concept,SUBTYPE_OF,Queer male experiences and perspectives,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Queer Asian American experiences,concept,SUBTYPE_OF,Queer Chinese American experiences,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Queer activism and community building,concept,SUBTYPE_OF,Queer experiences and perspectives,concept,,,AMST_2050_triples_raw.json
+AMST_2050,Visual storytelling techniques,concept,USED_FOR,Graphic novel as literary form,concept,,,AMST_2050_triples_raw.json

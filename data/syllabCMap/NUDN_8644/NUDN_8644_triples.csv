@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUDN_8644,Sustainability Planning,concept,PREREQUISITE_OF,Project Termination,topic,same unit,,NUDN_8644_triples_raw.json
+NUDN_8644,Project Development IV,topic,PREREQUISITE_OF,Graduation and Submission,topic,B mentioned first,,NUDN_8644_triples_raw.json
+NUDN_8644,Project Termination,topic,PREREQUISITE_OF,Preparing for Defense,topic,A taught first,,NUDN_8644_triples_raw.json
+NUDN_8644,Sustainability Planning,concept,PREREQUISITE_OF,Sustaining Practice Change,concept,A taught first,,NUDN_8644_triples_raw.json
+NUDN_8644,Terminating Projects Successfully,concept,PART_OF,Project Termination,topic,,,NUDN_8644_triples_raw.json
+NUDN_8644,Project Closure Strategies,concept,PART_OF,Project Termination,topic,,,NUDN_8644_triples_raw.json
+NUDN_8644,Ensuring Long-Term Impact,concept,PART_OF,Sustainability Planning,concept,,,NUDN_8644_triples_raw.json
+NUDN_8644,Sustaining Practice Change,concept,PART_OF,Sustainability Planning,concept,,,NUDN_8644_triples_raw.json
+NUDN_8644,Creating a Defense PowerPoint,concept,PART_OF,Preparing for Defense,topic,,,NUDN_8644_triples_raw.json
+NUDN_8644,Finalizing the Project Report,concept,PART_OF,Finalizing the Project,topic,,,NUDN_8644_triples_raw.json
+NUDN_8644,Dissemination Activity Planning,concept,PART_OF,Dissemination and Reporting,topic,,,NUDN_8644_triples_raw.json
+NUDN_8644,DNP Final Defense Report,concept,PART_OF,Graduation and Submission,topic,,,NUDN_8644_triples_raw.json
+NUDN_8644,Revised Final Scholarly Project Paper,concept,PART_OF,Graduation and Submission,topic,,,NUDN_8644_triples_raw.json

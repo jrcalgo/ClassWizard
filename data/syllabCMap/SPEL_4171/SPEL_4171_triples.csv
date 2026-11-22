@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPEL_4171,IEPs,concept,PREREQUISITE_OF,Specially Designed Instruction,concept,A mentioned first,,SPEL_4171_triples_raw.json
+SPEL_4171,IEPs,concept,PREREQUISITE_OF,Respectful Environment,concept,same unit,,SPEL_4171_triples_raw.json
+SPEL_4171,Specially Designed Instruction,concept,PART_OF,IEPs,concept,,,SPEL_4171_triples_raw.json
+SPEL_4171,Respectful Environment,concept,PART_OF,IEPs,concept,,,SPEL_4171_triples_raw.json
+SPEL_4171,Instruction,method,PART_OF,IEPs,concept,,,SPEL_4171_triples_raw.json
+SPEL_4171,Paraprofessionals,topic,PART_OF,Special Education Collaboration & Consultation,topic,,,SPEL_4171_triples_raw.json
+SPEL_4171,Elementary Schools,topic,PART_OF,Special Education Collaboration & Consultation,topic,,,SPEL_4171_triples_raw.json

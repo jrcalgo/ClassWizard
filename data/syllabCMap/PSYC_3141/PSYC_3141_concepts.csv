@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PSYC_3141,topic,Clinical Psychology,Clinical Psychology,2,verified,Clinical Psychology,PSYC_3141_concepts_raw.json
+PSYC_3141,method,evidence-based practice,evidence-based practice,1,verified,evidence-based practice,PSYC_3141_concepts_raw.json
+PSYC_3141,topic,"Ethical, Cultural, and Individual Factors","Ethical, Cultural, and Individual Factors",1,verified,"Ethical, Cultural, and Individual Factors",PSYC_3141_concepts_raw.json
+PSYC_3141,concept,roles and functions of clinical psychologists,roles and functions of clinical psychologists,1,verified,roles and functions of clinical psychologists,PSYC_3141_concepts_raw.json
+PSYC_3141,method,biopsychosocial case conceptualization,biopsychosocial case conceptualizations,1,verified,biopsychosocial case conceptualization,PSYC_3141_concepts_raw.json
+PSYC_3141,method,clinical observation,clinical observation,2,verified,clinical observation,PSYC_3141_concepts_raw.json
+PSYC_3141,method,diagnostic reasoning,diagnostic reasoning,2,verified,diagnostic reasoning,PSYC_3141_concepts_raw.json

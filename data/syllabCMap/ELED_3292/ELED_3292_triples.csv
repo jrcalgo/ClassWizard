@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_3292,urban educational settings,concept,PREREQUISITE_OF,critical thinking strategies,concept,A taught first,,ELED_3292_triples_raw.json
+ELED_3292,urban educational settings,concept,PREREQUISITE_OF,analytical reasoning skills,concept,A taught first,,ELED_3292_triples_raw.json
+ELED_3292,urban educational settings,concept,PREREQUISITE_OF,cultural competence in education,concept,A taught first,,ELED_3292_triples_raw.json
+ELED_3292,multiple intelligences theory,concept,PART_OF,learning style assessment methods,concept,,,ELED_3292_triples_raw.json
+ELED_3292,critical thinking strategies,concept,PART_OF,problem solving techniques,concept,,,ELED_3292_triples_raw.json
+ELED_3292,analytical reasoning skills,concept,PART_OF,critical thinking strategies,concept,,,ELED_3292_triples_raw.json
+ELED_3292,data-driven instruction methods,concept,PART_OF,student progress monitoring,concept,,,ELED_3292_triples_raw.json
+ELED_3292,cultural competence in education,concept,PART_OF,diverse family backgrounds,concept,,,ELED_3292_triples_raw.json
+ELED_3292,interdisciplinary collaboration models,concept,PART_OF,effective communication strategies,concept,,,ELED_3292_triples_raw.json

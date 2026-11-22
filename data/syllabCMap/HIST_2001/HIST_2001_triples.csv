@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_2001,Women's Experiences in War,concept,PREREQUISITE_OF,National Identity Emergence,concept,A taught first,,HIST_2001_triples_raw.json
+HIST_2001,Women's Experiences in War,concept,PREREQUISITE_OF,Nation State Formation,concept,B taught first,B is taught before A - check,HIST_2001_triples_raw.json
+HIST_2001,Women's Experiences in War,concept,PREREQUISITE_OF,Global Empire Expansion,concept,B taught first,B is taught before A - check,HIST_2001_triples_raw.json
+HIST_2001,Civilian Effects of Warfare,concept,PREREQUISITE_OF,National Identity Development,concept,B taught first,B is taught before A - check,HIST_2001_triples_raw.json
+HIST_2001,Philosophy and Laws of War,concept,PREREQUISITE_OF,Nation State Formation,concept,B taught first,B is taught before A - check,HIST_2001_triples_raw.json
+HIST_2001,Women's Experiences in War,concept,PREREQUISITE_OF,Civilian Effects of Warfare,concept,same unit,,HIST_2001_triples_raw.json
+HIST_2001,National Identity Development,concept,PREREQUISITE_OF,Religious War Dynamics,concept,same unit,,HIST_2001_triples_raw.json
+HIST_2001,Philosophy and Laws of War,concept,PREREQUISITE_OF,Women's Experiences in War,concept,same unit,,HIST_2001_triples_raw.json
+HIST_2001,Nation State Formation,concept,PREREQUISITE_OF,National Identity Emergence,concept,A taught first,,HIST_2001_triples_raw.json
+HIST_2001,Nation State Formation,concept,PREREQUISITE_OF,Religious War Dynamics,concept,same unit,,HIST_2001_triples_raw.json
+HIST_2001,Women's Experiences in War,concept,SUBTYPE_OF,Women's roles in war,concept,,,HIST_2001_triples_raw.json
+HIST_2001,Nation State Formation,concept,SUBTYPE_OF,European Nation State,concept,,,HIST_2001_triples_raw.json
+HIST_2001,National Identity Development,concept,SUBTYPE_OF,National Identity Emergence,concept,,,HIST_2001_triples_raw.json
+HIST_2001,Military Revolution,concept,SUBTYPE_OF,Military Occupation,concept,,,HIST_2001_triples_raw.json
+HIST_2001,Thirty Years War,concept,SUBTYPE_OF,Religious Conflict Dynamics,concept,,,HIST_2001_triples_raw.json
+HIST_2001,Laws of war development,concept,SUBTYPE_OF,Laws of War Evolution,concept,,,HIST_2001_triples_raw.json

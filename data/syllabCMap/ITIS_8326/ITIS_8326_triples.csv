@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_8326,network definition and types,concept,PART_OF,Network Science,topic,,,ITIS_8326_triples_raw.json
+ITIS_8326,Basic Principles of Networks,topic,PART_OF,Network Science,topic,,,ITIS_8326_triples_raw.json
+ITIS_8326,Measuring Network Performance,topic,PART_OF,Network Science,topic,,,ITIS_8326_triples_raw.json
+ITIS_8326,Network-Based System Evaluation,topic,PART_OF,Network Science,topic,,,ITIS_8326_triples_raw.json
+ITIS_8326,Network Design and Optimization,topic,PART_OF,Network Science,topic,,,ITIS_8326_triples_raw.json
+ITIS_8326,Social Interactions and Influence,topic,PART_OF,Network Science,topic,,,ITIS_8326_triples_raw.json
+ITIS_8326,Network Science Applications,topic,PART_OF,Network Science,topic,,,ITIS_8326_triples_raw.json
+ITIS_8326,Tools for Network Analysis,topic,PART_OF,Network Science,topic,,,ITIS_8326_triples_raw.json

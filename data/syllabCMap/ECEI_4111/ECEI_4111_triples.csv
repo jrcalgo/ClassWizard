@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECEI_4111,Early Childhood Special Education,concept,PREREQUISITE_OF,Early Intervention,concept,same unit,,ECEI_4111_triples_raw.json
+ECEI_4111,Individuals with Disabilities Act,concept,PREREQUISITE_OF,Eligibility Criteria for EI/ECSE,concept,A taught first,,ECEI_4111_triples_raw.json
+ECEI_4111,Child Developmental Screening,concept,PREREQUISITE_OF,Eligibility Criteria for EI/ECSE,concept,same unit,,ECEI_4111_triples_raw.json
+ECEI_4111,Partnering with Families for Success,concept,PART_OF,Collaborative Service Delivery,concept,,,ECEI_4111_triples_raw.json
+ECEI_4111,Child Developmental Screening,concept,PART_OF,Eligibility Criteria for EI/ECSE,concept,,,ECEI_4111_triples_raw.json
+ECEI_4111,Eligibility Criteria for EI/ECSE,concept,USED_FOR,Transition Process Overview,topic,,,ECEI_4111_triples_raw.json

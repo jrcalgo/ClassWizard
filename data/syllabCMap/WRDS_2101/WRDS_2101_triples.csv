@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+WRDS_2101,analyzing academic arguments,concept,PREREQUISITE_OF,evaluating evidence and claims,concept,same unit,,WRDS_2101_triples_raw.json
+WRDS_2101,supporting arguments with evidence,concept,PREREQUISITE_OF,citing sources correctly,concept,same unit,,WRDS_2101_triples_raw.json
+WRDS_2101,academic writing strategies,concept,PART_OF,Advanced Writing,topic,,,WRDS_2101_triples_raw.json
+WRDS_2101,professional writing expectations,concept,PART_OF,Advanced Writing,topic,,,WRDS_2101_triples_raw.json
+WRDS_2101,Research Strategies,topic,PART_OF,Advanced Writing,topic,,,WRDS_2101_triples_raw.json
+WRDS_2101,Critical Analysis,topic,PART_OF,Advanced Writing,topic,,,WRDS_2101_triples_raw.json

@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3123,Inverse Laplace Transforms,topic,PREREQUISITE_OF,Lumped-Parameter Models,topic,A taught first,,MEGR_3123_triples_raw.json
+MEGR_3123,Linear Ordinary Differential Equations,concept,PART_OF,Modeling of dynamic systems,topic,,,MEGR_3123_triples_raw.json
+MEGR_3123,Inverse Laplace Transforms,topic,PART_OF,Modeling of dynamic systems,topic,,,MEGR_3123_triples_raw.json
+MEGR_3123,Lumped-Parameter Models,topic,PART_OF,Modeling of dynamic systems,topic,,,MEGR_3123_triples_raw.json

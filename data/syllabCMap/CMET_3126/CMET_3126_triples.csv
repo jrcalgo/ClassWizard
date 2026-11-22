@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CMET_3126,Resource Management,topic,PREREQUISITE_OF,Computer-Based Project Scheduling,topic,A taught first,,CMET_3126_triples_raw.json
+CMET_3126,Reporting and Communication,topic,PREREQUISITE_OF,Computer-Based Project Scheduling,topic,B taught first,B is taught before A - check,CMET_3126_triples_raw.json
+CMET_3126,Activity Network Diagrams,concept,PART_OF,Critical Path Method (CPM,topic,,,CMET_3126_triples_raw.json
+CMET_3126,Precedence Relationships,concept,PART_OF,Critical Path Method (CPM,topic,,,CMET_3126_triples_raw.json
+CMET_3126,Earliest Finish Time,concept,PART_OF,Critical Path Method (CPM,topic,,,CMET_3126_triples_raw.json
+CMET_3126,Resource Types and Availability,concept,PART_OF,Resource Management,topic,,,CMET_3126_triples_raw.json
+CMET_3126,Resource Leveling Techniques,concept,PART_OF,Resource Management,topic,,,CMET_3126_triples_raw.json
+CMET_3126,Resource Constrained Scheduling,concept,PART_OF,Resource Management,topic,,,CMET_3126_triples_raw.json
+CMET_3126,Cost Estimation Methods,concept,PART_OF,Construction Cost Control,topic,,,CMET_3126_triples_raw.json
+CMET_3126,Budgeting and Cost Management,concept,PART_OF,Construction Cost Control,topic,,,CMET_3126_triples_raw.json
+CMET_3126,Cost Variance Analysis,concept,PART_OF,Construction Cost Control,topic,,,CMET_3126_triples_raw.json
+CMET_3126,Scheduling Algorithms and Techniques,concept,PART_OF,Computer-Based Project Scheduling,topic,,,CMET_3126_triples_raw.json

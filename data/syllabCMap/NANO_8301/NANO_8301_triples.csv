@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NANO_8301,cancer biology,topic,PREREQUISITE_OF,immunotherapy,topic,A taught first,,NANO_8301_triples_raw.json
+NANO_8301,history of nanomedicine,concept,PREREQUISITE_OF,current applications,concept,same unit,,NANO_8301_triples_raw.json
+NANO_8301,tumor microenvironment,concept,PREREQUISITE_OF,angiogenesis process,concept,same unit,,NANO_8301_triples_raw.json
+NANO_8301,cancer cell metabolism,concept,PREREQUISITE_OF,angiogenesis process,concept,same unit,,NANO_8301_triples_raw.json
+NANO_8301,molecular imaging techniques,concept,PREREQUISITE_OF,targeted cancer therapies,concept,same unit,,NANO_8301_triples_raw.json
+NANO_8301,personalized medicine approaches,concept,PREREQUISITE_OF,targeted cancer therapies,concept,same unit,,NANO_8301_triples_raw.json
+NANO_8301,tumor microenvironment,concept,PART_OF,cancer biology,topic,,,NANO_8301_triples_raw.json
+NANO_8301,angiogenesis process,concept,PART_OF,cancer biology,topic,,,NANO_8301_triples_raw.json
+NANO_8301,adoptive T-cell therapy,concept,PART_OF,immunotherapy,topic,,,NANO_8301_triples_raw.json
+NANO_8301,molecular imaging techniques,concept,PART_OF,cancer diagnostics and therapeutics,topic,,,NANO_8301_triples_raw.json
+NANO_8301,targeted cancer therapies,concept,PART_OF,cancer diagnostics and therapeutics,topic,,,NANO_8301_triples_raw.json
+NANO_8301,biomaterials and biocompatibility,concept,PART_OF,nanotechnology-platforms,topic,,,NANO_8301_triples_raw.json
+NANO_8301,nanotechnology in medicine,concept,PART_OF,nanotechnology-platforms,topic,,,NANO_8301_triples_raw.json
+NANO_8301,history of nanomedicine,concept,PART_OF,nanotechnology-platforms,topic,,,NANO_8301_triples_raw.json
+NANO_8301,current applications,concept,PART_OF,nanotechnology-platforms,topic,,,NANO_8301_triples_raw.json
+NANO_8301,cancer cell metabolism,concept,PART_OF,cancer biology,topic,,,NANO_8301_triples_raw.json
+NANO_8301,immune system activation,concept,PART_OF,immunotherapy,topic,,,NANO_8301_triples_raw.json
+NANO_8301,regulatory frameworks overview,concept,PART_OF,regulatory frameworks,topic,,,NANO_8301_triples_raw.json

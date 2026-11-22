@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NURS_6305,Cellular Pathophysiology Changes,concept,PART_OF,Pathophysiology Fundamentals,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Tissue Damage and Repair,concept,PART_OF,Pathophysiology Fundamentals,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Therapeutic Index Explanation,concept,PART_OF,Pharmacology Basics,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Coronary Artery Disease Risks,concept,PART_OF,Cardiovascular Pathophysiology,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Multiple Sclerosis Overview,concept,PART_OF,Neurological System Alterations,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Chronic Obstructive Pulmonary Disease,concept,PART_OF,Respiratory System Disorders,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Peptic Ulcer Disease Pathophysiology,concept,PART_OF,Gastrointestinal System Issues,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Osteoarthritis Pathophysiology Explained,concept,PART_OF,Musculoskeletal System Disorders,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Rheumatoid Arthritis Overview,concept,PART_OF,Musculoskeletal System Disorders,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Benign Prostatic Hyperplasia Overview,concept,PART_OF,Genitourinary System Issues,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Immunodeficiency Disorders Overview,concept,PART_OF,Immune System Disorders,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Cancer Immunology,concept,PART_OF,Immune System Disorders,topic,,,NURS_6305_triples_raw.json
+NURS_6305,Therapeutic Index Explanation,concept,USED_FOR,Pharmacokinetics and Pharmacodynamics,concept,,,NURS_6305_triples_raw.json

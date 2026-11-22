@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4250L,lab safety protocols,concept,PART_OF,Microbiology Lab,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,microscope use basics,concept,PART_OF,Microbiology Lab,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,cell shape and size,concept,PART_OF,Bacterial Morphology,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,gram stain procedure,concept,PART_OF,Staining Techniques,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,media preparation methods,concept,PART_OF,Culturing Bacteria,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,inoculation techniques,concept,PART_OF,Culturing Bacteria,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,metabolism and energy sources,concept,PART_OF,Bacterial Physiology,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,nutrient requirements,concept,PART_OF,Bacterial Physiology,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,symbiotic relationships types,concept,PART_OF,Ecology of Bacteria,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,environmental adaptations,concept,PART_OF,Ecology of Bacteria,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,morphological characteristics,concept,PART_OF,Microbial Identification,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,biochemical tests used,concept,PART_OF,Microbial Identification,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,sterilization methods compared,concept,PART_OF,Lab Techniques Review,topic,,,BIOL_4250L_triples_raw.json
+BIOL_4250L,aseptic technique importance,concept,PART_OF,Lab Techniques Review,topic,,,BIOL_4250L_triples_raw.json

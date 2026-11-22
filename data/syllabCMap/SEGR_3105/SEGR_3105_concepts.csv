@@ -1,0 +1,12 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SEGR_3105,topic,Computational Methods for Systems Engineering II,Computational Methods for Systems Engineering II,1,verified,Computational Methods for Systems Engineering II,SEGR_3105_concepts_raw.json
+SEGR_3105,topic,Data Analytics,data analytics,3,verified,Data Analytics,SEGR_3105_concepts_raw.json
+SEGR_3105,topic,Basic Machine Learning Skills,basic machine learning skills,1,verified,Basic Machine Learning Skills,SEGR_3105_concepts_raw.json
+SEGR_3105,concept,regression,regression,3,verified,regression,SEGR_3105_concepts_raw.json
+SEGR_3105,concept,classification,classification,1,verified,classification,SEGR_3105_concepts_raw.json
+SEGR_3105,concept,data processing,data processing,1,verified,data processing,SEGR_3105_concepts_raw.json
+SEGR_3105,concept,model validation,model validation,1,verified,model validation,SEGR_3105_concepts_raw.json
+SEGR_3105,topic,R,R,8,verified,Introduction to R,SEGR_3105_concepts_raw.json
+SEGR_3105,topic,Basic Statistics for Data Analytics,basic statistics for data analytics,1,verified,Basic Statistics for Data Analytics,SEGR_3105_concepts_raw.json
+SEGR_3105,topic,Coding in R for Data Analytics,coding in R for data analytics,1,verified,Coding in R for Data Analytics,SEGR_3105_concepts_raw.json
+SEGR_3105,tool,R programming,R programming,2,verified,R programming,SEGR_3105_concepts_raw.json

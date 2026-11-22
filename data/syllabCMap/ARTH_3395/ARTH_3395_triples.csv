@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_3395,representation in art,concept,PREREQUISITE_OF,Racial stereotypes in colonial art,concept,A taught first,,ARTH_3395_triples_raw.json
+ARTH_3395,Enslaved Africans as artists,concept,PREREQUISITE_OF,Racial stereotypes in colonial art,concept,same unit,,ARTH_3395_triples_raw.json
+ARTH_3395,Neoclassicism and African American art,concept,PART_OF,19th-Century Art Movements,topic,,,ARTH_3395_triples_raw.json

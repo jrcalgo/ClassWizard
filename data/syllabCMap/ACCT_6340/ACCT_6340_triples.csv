@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ACCT_6340,ETL process fundamentals,concept,PREREQUISITE_OF,Relational Databases,topic,A taught first,,ACCT_6340_triples_raw.json
+ACCT_6340,ETL process steps,concept,PREREQUISITE_OF,Loading Data into Databases,topic,A taught first,,ACCT_6340_triples_raw.json
+ACCT_6340,descriptive analytics basics,concept,PREREQUISITE_OF,descriptive analytics applications,concept,A taught first,,ACCT_6340_triples_raw.json
+ACCT_6340,database design principles,concept,PART_OF,Relational Databases,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,data modeling techniques,concept,PART_OF,Relational Databases,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,SQL querying basics,concept,PART_OF,Relational Databases,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,ETL process steps,concept,PART_OF,Data Extraction and Transformation,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,data cleaning methods,concept,PART_OF,Data Extraction and Transformation,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,data standardization,concept,PART_OF,Data Extraction and Transformation,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,database loading techniques,concept,PART_OF,Loading Data into Databases,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,data quality control,concept,PART_OF,Loading Data into Databases,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,descriptive analytics basics,concept,PART_OF,Analyzing Accounting Data,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,diagnostic analytics overview,concept,PART_OF,Analyzing Accounting Data,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,descriptive analytics applications,concept,PART_OF,Analyzing Accounting Data,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,diagnostic analytics tools,concept,PART_OF,Analyzing Accounting Data,topic,,,ACCT_6340_triples_raw.json
+ACCT_6340,accounting data visualization,concept,PART_OF,Analyzing Accounting Data,topic,,,ACCT_6340_triples_raw.json

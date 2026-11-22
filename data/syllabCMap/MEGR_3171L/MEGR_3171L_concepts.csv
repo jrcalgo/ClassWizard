@@ -1,0 +1,13 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_3171L,topic,Measurement and Instrumentation Project Laboratory,Measurement and Instrumentation Project Laboratory,1,verified,Measurement and Instrumentation Project Laboratory,MEGR_3171L_concepts_raw.json
+MEGR_3171L,topic,Electronic Circuits,electronic circuit,1,verified,Electronic Circuits,MEGR_3171L_concepts_raw.json
+MEGR_3171L,topic,Data Acquisition,data acquisition,2,verified,Data Acquisition,MEGR_3171L_concepts_raw.json
+MEGR_3171L,topic,Optical Sensors,optical sensors,1,verified,Optical Sensors,MEGR_3171L_concepts_raw.json
+MEGR_3171L,concept,data analysis techniques,data analysis techniques,1,verified,data analysis techniques,MEGR_3171L_concepts_raw.json
+MEGR_3171L,concept,linear systems theory,Linear systems theory,1,verified,linear systems theory,MEGR_3171L_concepts_raw.json
+MEGR_3171L,concept,instrument front panel layouts,instrument front panel layouts,1,verified,instrument front panel layouts,MEGR_3171L_concepts_raw.json
+MEGR_3171L,concept,fiber optics and optical sensors,fiber optics and optical sensors,1,verified,fiber optics and optical sensors,MEGR_3171L_concepts_raw.json
+MEGR_3171L,method,graphical and numeric presentation of data,Graphical and numeric presentation of data,1,verified,graphical and numeric presentation of data,MEGR_3171L_concepts_raw.json
+MEGR_3171L,method,programming algorithms and data structures,Programming algorithms and data structures,1,verified,programming algorithms and data structures,MEGR_3171L_concepts_raw.json
+MEGR_3171L,method,GUI and instrument front panel layouts,GUI and instrument front panel layouts,1,verified,GUI and instrument front panel layouts,MEGR_3171L_concepts_raw.json
+MEGR_3171L,tool,spreadsheet software,spreadsheet software,1,verified,spreadsheet software,MEGR_3171L_concepts_raw.json

@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+LEGL_1100,topic,Law,laws,1,verified,Introduction to Law,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,organization of legal system,Organization of Legal System,1,inferred,organization of legal system,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,role of courts and judges,Role of Courts and Judges,1,inferred,role of courts and judges,LEGL_1100_concepts_raw.json
+LEGL_1100,topic,Sources of Law Overview,Sources of Law Overview,1,inferred,Sources of Law Overview,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,types of case law decisions,Types of Case Law Decisions,1,inferred,types of case law decisions,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,statutory law creation process,Statutory Law Creation Process,1,inferred,statutory law creation process,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,interpretation of statutes,Interpretation of Statutes,1,inferred,interpretation of statutes,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,constitutional structure and framework,Constitutional Structure and Framework,1,inferred,constitutional structure and framework,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,bill of rights and amendments,Bill of Rights and Amendments,1,inferred,bill of rights and amendments,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,judicial review and checks,Judicial Review and Checks,1,inferred,judicial review and checks,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,contract law basics and types,Contract Law Basics and Types,1,inferred,contract law basics and types,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,tort law overview and examples,Tort Law Overview and Examples,1,inferred,tort law overview and examples,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,business associations and entities,Business Associations and Entities,1,inferred,business associations and entities,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,civil procedure and court rules,Civil Procedure and Court Rules,1,inferred,civil procedure and court rules,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,criminal procedure and rights,Criminal Procedure and Rights,1,inferred,criminal procedure and rights,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,evidence and burden of proof,Evidence and Burden of Proof,1,inferred,evidence and burden of proof,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,legal terminology and definitions,Legal Terminology and Definitions,1,inferred,legal terminology and definitions,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,effective legal writing techniques,Effective Legal Writing Techniques,1,inferred,effective legal writing techniques,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,style guides and citation formats,Style Guides and Citation Formats,1,inferred,style guides and citation formats,LEGL_1100_concepts_raw.json
+LEGL_1100,concept,sources of law,Sources of Law,1,inferred,sources of law,LEGL_1100_concepts_raw.json

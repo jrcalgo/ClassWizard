@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ARCH_2101,topic,architecture,architecture,1,verified,architecture,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,recursion,Recursion,3,verified,recursion,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,generative process,generative process,1,verified,generative process,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,iteration,iteration,1,verified,iteration,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,variation,variation,2,verified,variation,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,feedback,feedback,1,verified,feedback,ARCH_2101_concepts_raw.json
+ARCH_2101,method,modeling,modeling,1,verified,modeling,ARCH_2101_concepts_raw.json
+ARCH_2101,method,scripting,scripting,1,verified,scripting,ARCH_2101_concepts_raw.json
+ARCH_2101,method,fabrication,fabrication,1,verified,fabrication,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,AI tools,AI tools,1,verified,AI tools,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,building scale,building scales,1,verified,building scale,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,critical selection,critical selection,1,verified,critical selection,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,procedural logic,procedural logic,1,verified,procedural logic,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,architectural space,architectural space,1,verified,architectural space,ARCH_2101_concepts_raw.json
+ARCH_2101,method,rule definition,rule definition,1,verified,rule definition,ARCH_2101_concepts_raw.json
+ARCH_2101,method,comparative testing,comparative testing,1,verified,comparative testing,ARCH_2101_concepts_raw.json
+ARCH_2101,method,selection,selection,2,verified,selection,ARCH_2101_concepts_raw.json
+ARCH_2101,method,refinement,refinement,1,verified,refinement,ARCH_2101_concepts_raw.json
+ARCH_2101,method,production,production,1,verified,production,ARCH_2101_concepts_raw.json
+ARCH_2101,concept,tectonic part-to-field investigation,tectonic part-to-field investigation,1,verified,tectonic part-to-field investigation,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,aggregation,aggregation,1,verified,aggregation,ARCH_2101_concepts_raw.json
+ARCH_2101,topic,collective construction,collective construction,1,verified,collective construction,ARCH_2101_concepts_raw.json
+ARCH_2101,method,recursive subdivision,recursive subdivision,1,verified,recursive subdivision,ARCH_2101_concepts_raw.json
+ARCH_2101,concept,rule-based systems,rule-based system,1,verified,rule-based systems,ARCH_2101_concepts_raw.json
+ARCH_2101,concept,emerging AI tools,emerging AI tools,1,verified,emerging AI tools,ARCH_2101_concepts_raw.json
+ARCH_2101,concept,individual rule-based systems,individual rule-based system,1,verified,individual rule-based systems,ARCH_2101_concepts_raw.json
+ARCH_2101,concept,section-to-volume investigation,section-to-volume investigation,1,verified,section-to-volume investigation,ARCH_2101_concepts_raw.json

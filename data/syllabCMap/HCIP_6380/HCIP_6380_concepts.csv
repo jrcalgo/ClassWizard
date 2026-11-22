@@ -1,0 +1,9 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HCIP_6380,topic,Health Information Exchange,health information exchange,2,verified,Health Information Exchange,HCIP_6380_concepts_raw.json
+HCIP_6380,topic,Clinical Decision Support Systems,clinical decision support system,1,verified,Clinical Decision Support Systems,HCIP_6380_concepts_raw.json
+HCIP_6380,topic,Health Data Analysis and Visualization,health data analysis and visualization,1,verified,Health Data Analysis and Visualization,HCIP_6380_concepts_raw.json
+HCIP_6380,concept,Electronic Medical Records (EMR,Electronic Medical Records (EMR,1,verified,Electronic Medical Records (EMR),HCIP_6380_concepts_raw.json
+HCIP_6380,concept,Electronic Health Records (EHR,Electronic Health Records (EHR,1,verified,Electronic Health Records (EHR),HCIP_6380_concepts_raw.json
+HCIP_6380,concept,Key Information Requirements,key information requirements,1,verified,Key Information Requirements,HCIP_6380_concepts_raw.json
+HCIP_6380,concept,Key Inputs and Outputs,key inputs and outputs,1,verified,Key Inputs and Outputs,HCIP_6380_concepts_raw.json
+HCIP_6380,concept,Conceptual Health Information Solution,conceptual health information solution,3,verified,Conceptual Health Information Solution,HCIP_6380_concepts_raw.json

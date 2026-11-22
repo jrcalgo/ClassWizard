@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6159,zoning regulations and laws,concept,PREREQUISITE_OF,permitting and approval process,concept,same unit,,MBAD_6159_triples_raw.json
+MBAD_6159,master planning and urban design,concept,PREREQUISITE_OF,building design and layout,concept,same unit,,MBAD_6159_triples_raw.json
+MBAD_6159,government incentives and grants,concept,PART_OF,Financing Options Explained,topic,,,MBAD_6159_triples_raw.json
+MBAD_6159,zoning regulations and laws,concept,PART_OF,Entitlements and Approvals,topic,,,MBAD_6159_triples_raw.json
+MBAD_6159,permitting and approval process,concept,PART_OF,Entitlements and Approvals,topic,,,MBAD_6159_triples_raw.json
+MBAD_6159,building design and layout,concept,PART_OF,Planning and Design Phase,topic,,,MBAD_6159_triples_raw.json
+MBAD_6159,project scheduling and timeline,concept,PART_OF,Construction Management,topic,,,MBAD_6159_triples_raw.json
+MBAD_6159,budgeting and cost control,concept,PART_OF,Construction Management,topic,,,MBAD_6159_triples_raw.json
+MBAD_6159,risk management strategies,concept,PART_OF,Construction Management,topic,,,MBAD_6159_triples_raw.json
+MBAD_6159,market analysis and research,concept,PART_OF,Leasing and Marketing,topic,,,MBAD_6159_triples_raw.json
+MBAD_6159,marketing and promotion strategies,concept,PART_OF,Leasing and Marketing,topic,,,MBAD_6159_triples_raw.json

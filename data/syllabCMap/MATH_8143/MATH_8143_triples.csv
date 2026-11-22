@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_8143,Lebesgue integration,topic,PREREQUISITE_OF,Lp spaces,topic,B mentioned first,,MATH_8143_triples_raw.json
+MATH_8143,Lebesgue integration,topic,PREREQUISITE_OF,general measure and integration theory,topic,A mentioned first,,MATH_8143_triples_raw.json
+MATH_8143,Outer measure definition,concept,PART_OF,Lebesgue integration,topic,,,MATH_8143_triples_raw.json
+MATH_8143,Sigma-algebra construction,concept,PART_OF,Lebesgue integration,topic,,,MATH_8143_triples_raw.json
+MATH_8143,Normed vector space definition,concept,PART_OF,Lp spaces,topic,,,MATH_8143_triples_raw.json
+MATH_8143,Lp space properties,concept,PART_OF,Lp spaces,topic,,,MATH_8143_triples_raw.json
+MATH_8143,Holder's inequality proof,concept,PART_OF,Lp spaces,topic,,,MATH_8143_triples_raw.json
+MATH_8143,Riesz representation theorem,concept,PART_OF,Lp spaces,topic,,,MATH_8143_triples_raw.json
+MATH_8143,Weak convergence concept,concept,PART_OF,Lp spaces,topic,,,MATH_8143_triples_raw.json
+MATH_8143,Sigma-finite measure definition,concept,PART_OF,general measure and integration theory,topic,,,MATH_8143_triples_raw.json
+MATH_8143,Radon-Nikodym derivative,concept,PART_OF,general measure and integration theory,topic,,,MATH_8143_triples_raw.json
+MATH_8143,Absolute continuity property,concept,PART_OF,general measure and integration theory,topic,,,MATH_8143_triples_raw.json

@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_3120,vector algebra,concept,PREREQUISITE_OF,Maxwell's Equations,topic,A taught first,,ECGR_3120_triples_raw.json
+ECGR_3120,Coulomb's law,concept,PART_OF,Static Electric Fields,topic,,,ECGR_3120_triples_raw.json
+ECGR_3120,Gauss's law,concept,PART_OF,Static Electric Fields,topic,,,ECGR_3120_triples_raw.json

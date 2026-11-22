@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MFPA_6123,concept,Fire safety signs and alarm systems,fire safety signs and alarm systems,1,verified,Fire safety signs and alarm systems,MFPA_6123_concepts_raw.json
+MFPA_6123,topic,Human Behavior in Emergencies,Human Behavior in Emergencies,1,inferred,Human Behavior in Emergencies,MFPA_6123_concepts_raw.json
+MFPA_6123,topic,Egress Prediction Methods,Egress Prediction Methods,1,inferred,Egress Prediction Methods,MFPA_6123_concepts_raw.json
+MFPA_6123,topic,Egress Design Fundamentals,Egress Design Fundamentals,1,inferred,Egress Design Fundamentals,MFPA_6123_concepts_raw.json
+MFPA_6123,topic,Evacuation Time Estimation,Evacuation time estimation,2,inferred,Evacuation Time Estimation,MFPA_6123_concepts_raw.json
+MFPA_6123,topic,Fire Safety Systems,Fire Safety Systems,1,inferred,Fire Safety Systems,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Types of human behavior,Types of human behavior,1,inferred,Types of human behavior,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Physiological impact on occupants,Physiological impact on occupants,1,inferred,Physiological impact on occupants,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Emergency respondent behavior,Emergency respondent behavior,1,inferred,Emergency respondent behavior,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Evacuation time estimation methods,Evacuation time estimation methods,1,inferred,Evacuation time estimation methods,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Modeling techniques for evacuation,Modeling techniques for evacuation,1,inferred,Modeling techniques for evacuation,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Occupant movement patterns,Occupant movement patterns,1,inferred,Occupant movement patterns,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Egress design principles,Egress design principles,1,inferred,Egress design principles,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Exit capacity and design,Exit capacity and design,1,inferred,Exit capacity and design,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Means of egress determination,Means of egress determination,1,inferred,Means of egress determination,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Occupant evacuation time calculation,Occupant evacuation time calculation,1,inferred,Occupant evacuation time calculation,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Building layout and evacuation,Building layout and evacuation,1,inferred,Building layout and evacuation,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Transportation facility evacuation,Transportation facility evacuation,1,inferred,Transportation facility evacuation,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Emergency lighting design,Emergency lighting design,1,inferred,Emergency lighting design,MFPA_6123_concepts_raw.json
+MFPA_6123,concept,Smoke management systems,Smoke management systems,1,inferred,Smoke management systems,MFPA_6123_concepts_raw.json

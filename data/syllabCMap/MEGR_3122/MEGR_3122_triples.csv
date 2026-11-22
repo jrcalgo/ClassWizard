@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3122,linear ordinary differential equations,concept,PREREQUISITE_OF,lumped-parameter models,concept,A taught first,,MEGR_3122_triples_raw.json
+MEGR_3122,free-body diagrams,concept,PREREQUISITE_OF,differential-equation models,concept,B mentioned first,,MEGR_3122_triples_raw.json
+MEGR_3122,electrical,concept,PREREQUISITE_OF,fluid systems,concept,same unit,,MEGR_3122_triples_raw.json
+MEGR_3122,thermal,concept,PREREQUISITE_OF,fluid systems,concept,same unit,,MEGR_3122_triples_raw.json
+MEGR_3122,linear ordinary differential equations,concept,PREREQUISITE_OF,second-order linear systems using Laplace transforms,method,A mentioned first,,MEGR_3122_triples_raw.json
+MEGR_3122,lumped-parameter models,concept,PART_OF,Dynamics Systems II,topic,,,MEGR_3122_triples_raw.json
+MEGR_3122,lumped-parameter models,concept,PART_OF,System Dynamics for Mechanical Engineers,topic,,,MEGR_3122_triples_raw.json
+MEGR_3122,free-body diagrams,concept,PART_OF,differential-equation models,concept,,,MEGR_3122_triples_raw.json
+MEGR_3122,electrical,concept,PART_OF,fluid systems,concept,,,MEGR_3122_triples_raw.json
+MEGR_3122,thermal,concept,PART_OF,fluid systems,concept,,,MEGR_3122_triples_raw.json
+MEGR_3122,second-order linear systems using Laplace transforms,method,PART_OF,Dynamics Systems II,topic,,,MEGR_3122_triples_raw.json
+MEGR_3122,second-order linear systems using Laplace transforms,method,PART_OF,System Dynamics for Mechanical Engineers,topic,,,MEGR_3122_triples_raw.json

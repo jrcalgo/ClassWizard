@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3265,Types of Real Estate Assets,topic,PREREQUISITE_OF,Property Classification Systems,topic,same unit,,FINN_3265_triples_raw.json
+FINN_3265,Impact on Asset Value,topic,PART_OF,Real Estate Asset and Property Management,topic,,,FINN_3265_triples_raw.json
+FINN_3265,Property Classification Systems,topic,PART_OF,Real Estate Asset and Property Management,topic,,,FINN_3265_triples_raw.json
+FINN_3265,Roles and Responsibilities,topic,PART_OF,Real Estate Asset and Property Management,topic,,,FINN_3265_triples_raw.json
+FINN_3265,asset managers,concept,PART_OF,Real Estate Asset and Property Management,topic,,,FINN_3265_triples_raw.json
+FINN_3265,Property Manager's Role in Economy,topic,PART_OF,Real Estate Asset and Property Management,topic,,,FINN_3265_triples_raw.json

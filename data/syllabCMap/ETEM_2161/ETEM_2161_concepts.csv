@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ETEM_2161,topic,Mechanics,Mechanics,1,verified,Mechanics,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Statics,statics,1,verified,Statics,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Dynamics,dynamics,1,verified,Dynamics,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,mechanical engineering principles,mechanical engineering principles,1,verified,mechanical engineering principles,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Material Properties,Material Properties,1,inferred,Material Properties,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Manufacturing Process,Manufacturing Process,1,inferred,Manufacturing Process,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Force Vectors,Force Vectors,1,inferred,Force Vectors,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Equilibrium,Equilibrium,1,inferred,Equilibrium,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Center of Gravity,Center of Gravity,1,inferred,Center of Gravity,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Moment,Moment,1,inferred,Moment,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Motion,Motion,2,inferred,Motion,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Kinematics Basics,Kinematics Basics,1,inferred,Kinematics Basics,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,Newton's laws of motion,Newton's Laws of Motion,1,inferred,Newton's laws of motion,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Gear Trains,Gear Trains,1,inferred,Gear Trains,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Mechanism Types,Mechanism Types,1,inferred,Mechanism Types,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Linkages,Linkages,1,inferred,Linkages,ETEM_2161_concepts_raw.json
+ETEM_2161,topic,Cam Follower Systems,Cam Follower Systems,1,inferred,Cam Follower Systems,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,dynamic analysis,Dynamic Analysis,1,inferred,dynamic analysis,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,static and dynamic systems,Static and Dynamic Systems,1,inferred,static and dynamic systems,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,material properties and uses,Material Properties and Uses,1,inferred,material properties and uses,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,materials in manufacturing process,Materials in Manufacturing Process,1,inferred,materials in manufacturing process,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,force vectors and equilibrium,Force Vectors and Equilibrium,1,inferred,force vectors and equilibrium,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,center of gravity and moment,Center of Gravity and Moment,1,inferred,center of gravity and moment,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,motion and kinematics basics,Motion and Kinematics Basics,1,inferred,motion and kinematics basics,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,gear trains and mechanism types,Gear Trains and Mechanism Types,1,inferred,gear trains and mechanism types,ETEM_2161_concepts_raw.json
+ETEM_2161,concept,linkages and cam follower systems,Linkages and Cam Follower Systems,1,inferred,linkages and cam follower systems,ETEM_2161_concepts_raw.json

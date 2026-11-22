@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUSC_3100,digital audio,concept,PART_OF,Music Technology,topic,,,MUSC_3100_triples_raw.json
+MUSC_3100,computer-aided instruction,concept,PART_OF,Music Technology,topic,,,MUSC_3100_triples_raw.json
+MUSC_3100,Recording and Production,topic,PART_OF,Music Technology,topic,,,MUSC_3100_triples_raw.json
+MUSC_3100,problem-solving,method,PART_OF,experimentation,method,,,MUSC_3100_triples_raw.json
+MUSC_3100,experimentation,method,USED_FOR,problem-solving,method,,,MUSC_3100_triples_raw.json

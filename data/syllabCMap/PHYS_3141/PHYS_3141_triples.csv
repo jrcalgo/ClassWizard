@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_3141,Failures of Classical Physics,concept,PREREQUISITE_OF,Special Theory of Relativity,topic,A taught first,,PHYS_3141_triples_raw.json
+PHYS_3141,Failures of Classical Physics,concept,PREREQUISITE_OF,Quantum Theory of Light,topic,A taught first,,PHYS_3141_triples_raw.json
+PHYS_3141,Failures of Classical Physics,concept,PREREQUISITE_OF,Particle Nature of Matter,topic,A taught first,,PHYS_3141_triples_raw.json
+PHYS_3141,Failures of Classical Physics,concept,PREREQUISITE_OF,Atomic Physics,topic,A taught first,,PHYS_3141_triples_raw.json
+PHYS_3141,Failures of Classical Physics,concept,PREREQUISITE_OF,Statistical Physics,topic,A taught first,,PHYS_3141_triples_raw.json
+PHYS_3141,Failures of Classical Physics,concept,PREREQUISITE_OF,Nuclear Physics,topic,A taught first,,PHYS_3141_triples_raw.json
+PHYS_3141,Failures of Classical Physics,concept,PART_OF,Modern Physics,topic,,,PHYS_3141_triples_raw.json
+PHYS_3141,Special Theory of Relativity,topic,PART_OF,Modern Physics,topic,,,PHYS_3141_triples_raw.json
+PHYS_3141,Quantum Theory of Light,topic,PART_OF,Modern Physics,topic,,,PHYS_3141_triples_raw.json
+PHYS_3141,Particle Nature of Matter,topic,PART_OF,Modern Physics,topic,,,PHYS_3141_triples_raw.json
+PHYS_3141,Atomic Physics,topic,PART_OF,Modern Physics,topic,,,PHYS_3141_triples_raw.json
+PHYS_3141,Statistical Physics,topic,PART_OF,Modern Physics,topic,,,PHYS_3141_triples_raw.json
+PHYS_3141,Nuclear Physics,topic,PART_OF,Modern Physics,topic,,,PHYS_3141_triples_raw.json

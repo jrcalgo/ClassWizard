@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_5196,topic,Robotics,Robotics,2,verified,Robotics,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,System Engineering,System Engineering,1,verified,System Engineering,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Industrial Assembly Robots,industrial assembly robots,1,verified,Industrial Assembly Robots,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Autonomous Vehicles,autonomous vehicles,1,verified,Autonomous Vehicles,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Entertainment Robots,entertainment robots,1,verified,Entertainment Robots,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Microcontrollers,microcontroller,1,verified,Microcontrollers,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Peripheral Devices,peripheral devices,1,verified,Peripheral Devices,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Robotic Power Sub-Systems,robotic power sub-systems,1,verified,Robotic Power Sub-Systems,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Sensors,sensors,1,verified,Sensors,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Motion Sub-Systems,motion sub-systems,1,verified,Motion Sub-Systems,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,DC Motors,DC motors,1,verified,DC Motors,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Servos,servos,1,verified,Servos,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Steppers,steppers,1,verified,Steppers,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Linear Actuators,linear actuators,1,verified,Linear Actuators,ECGR_5196_concepts_raw.json
+ECGR_5196,concept,Autonomy and Control in Animals and Robots,Autonomy and Control in Animals and Robots,1,verified,Autonomy and Control in Animals and Robots,ECGR_5196_concepts_raw.json
+ECGR_5196,concept,Control and Regulation in Biological Systems,Control and Regulation in Biological Systems,1,verified,Control and Regulation in Biological Systems,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Robot Learning,Robot Learning,1,verified,Robot Learning,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Locomotion,Locomotion,1,verified,Locomotion,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Localization,Localization,1,verified,Localization,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Navigation,Navigation,1,verified,Navigation,ECGR_5196_concepts_raw.json
+ECGR_5196,topic,Mapping,Mapping,1,verified,Mapping,ECGR_5196_concepts_raw.json
+ECGR_5196,concept,General Concepts of System Engineering,general Concepts of System Engineering,1,verified,General Concepts of System Engineering,ECGR_5196_concepts_raw.json
+ECGR_5196,tool,C,C,1,verified,C,ECGR_5196_concepts_raw.json

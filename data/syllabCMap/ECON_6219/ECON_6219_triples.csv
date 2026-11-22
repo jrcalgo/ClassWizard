@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_6219,Time Series Analysis,topic,PREREQUISITE_OF,Time Series Regressions,topic,A taught first,,ECON_6219_triples_raw.json
+ECON_6219,Time Series Analysis,topic,PREREQUISITE_OF,Time Series Models,topic,A mentioned first,,ECON_6219_triples_raw.json

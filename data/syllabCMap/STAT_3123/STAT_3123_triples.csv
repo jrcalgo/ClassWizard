@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+STAT_3123,method of moments,concept,PART_OF,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,method of maximum likelihood,concept,PART_OF,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,unbiased estimators,concept,PART_OF,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,efficiency,concept,PART_OF,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,consistency,concept,PART_OF,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,hypothesis tests,concept,PART_OF,Confidence Intervals and Hypothesis Tests for Unknown Parameters,topic,,,STAT_3123_triples_raw.json
+STAT_3123,proportions,concept,PART_OF,Confidence Intervals and Hypothesis Tests for Unknown Parameters,topic,,,STAT_3123_triples_raw.json
+STAT_3123,means,concept,PART_OF,Confidence Intervals and Hypothesis Tests for Unknown Parameters,topic,,,STAT_3123_triples_raw.json
+STAT_3123,variances,concept,PART_OF,Confidence Intervals and Hypothesis Tests for Unknown Parameters,topic,,,STAT_3123_triples_raw.json
+STAT_3123,tests of significance,concept,PART_OF,Confidence Intervals and Hypothesis Tests for Unknown Parameters,topic,,,STAT_3123_triples_raw.json
+STAT_3123,linear regression,concept,PART_OF,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,method of moments,concept,USED_FOR,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,method of maximum likelihood,concept,USED_FOR,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,unbiased estimators,concept,USED_FOR,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,efficiency,concept,USED_FOR,Point Estimation,topic,,,STAT_3123_triples_raw.json
+STAT_3123,consistency,concept,USED_FOR,Point Estimation,topic,,,STAT_3123_triples_raw.json

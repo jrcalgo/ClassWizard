@@ -1,0 +1,51 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CJUS_4371,topic,Criminal Data Sources,Criminal Data Sources,5,verified,Criminal Data Sources,CJUS_4371_concepts_raw.json
+CJUS_4371,topic,Management and Cleaning,Management and Cleaning,2,verified,Management and Cleaning,CJUS_4371_concepts_raw.json
+CJUS_4371,topic,Administrative data,Administrative data,2,verified,Administrative data,CJUS_4371_concepts_raw.json
+CJUS_4371,topic,Self-report data,Self-report data,1,verified,Self-report data,CJUS_4371_concepts_raw.json
+CJUS_4371,tool,Excel,Excel,3,verified,Excel,CJUS_4371_concepts_raw.json
+CJUS_4371,tool,SQL,SQL,5,verified,SQL,CJUS_4371_concepts_raw.json
+CJUS_4371,topic,Querying crime data with SQL,Querying crime data with SQL,1,verified,Querying crime data with SQL,CJUS_4371_concepts_raw.json
+CJUS_4371,tool,R,R,13,verified,R,CJUS_4371_concepts_raw.json
+CJUS_4371,topic,Visualization in R,visualization in R,1,verified,Visualization in R,CJUS_4371_concepts_raw.json
+CJUS_4371,topic,Data wrangling in R,Data wrangling in R,1,verified,Data wrangling in R,CJUS_4371_concepts_raw.json
+CJUS_4371,topic,Duplicate & outlier data in R,Duplicate & outlier data in R,1,verified,Duplicate & outlier data in R,CJUS_4371_concepts_raw.json
+CJUS_4371,topic,Extra topic: Missing data,Extra topic: Missing data,1,verified,Extra topic: Missing data,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,administrative data sources,Administrative data sources,1,verified,administrative data sources,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data extraction methods,Data extraction methods,1,verified,data extraction methods,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,record linkage techniques,Record linkage techniques,1,verified,record linkage techniques,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data quality issues,Data quality issues,1,verified,data quality issues,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data management systems,Data management systems,1,verified,data management systems,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,self-report surveys,Self-report surveys,1,verified,self-report surveys,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,survey bias types,Survey bias types,1,verified,survey bias types,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data collection methods,Data collection methods,1,verified,data collection methods,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,questionnaire design principles,Questionnaire design principles,1,verified,questionnaire design principles,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,response rate measures,Response rate measures,1,verified,response rate measures,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,Excel Formulas,Excel Formulas,1,verified,Excel Formulas,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,Data Validation Rules,Data Validation Rules,1,verified,Data Validation Rules,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,Conditional Formatting,Conditional Formatting,1,verified,Conditional Formatting,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,Pivot Tables Creation,Pivot Tables Creation,1,verified,Pivot Tables Creation,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,Filtering Data Sets,Filtering Data Sets,1,verified,Filtering Data Sets,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,Sorting and Grouping,Sorting and Grouping,1,verified,Sorting and Grouping,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,Data Cleaning Techniques,Data Cleaning Techniques,5,verified,Data Cleaning Techniques,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,Error Handling Methods,Error Handling Methods,1,verified,Error Handling Methods,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,SQL syntax,SQL syntax,1,verified,SQL syntax,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,database schema,Database schema,1,verified,database schema,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,table relationships,Table relationships,1,verified,table relationships,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data normalization,Data normalization,3,verified,data normalization,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,query optimization,Query optimization,2,verified,query optimization,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,SQL Queries,SQL Queries,1,verified,SQL Queries,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,crime data sources,Crime Data Sources,1,verified,crime data sources,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,database management,Database Management,1,verified,database management,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,R Programming Language,R Programming Language,4,verified,R Programming Language,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data types in R,Data Types in R,1,verified,data types in R,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,R data structures,R Data Structures,1,verified,R data structures,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,vector operations in R,Vector Operations in R,1,verified,vector operations in R,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data transformation methods,Data Transformation Methods,1,verified,data transformation methods,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data visualization tools,Data Visualization Tools,1,verified,data visualization tools,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,duplicate data,Duplicate Data,1,verified,duplicate data,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,outlier detection,Outlier Detection,1,verified,outlier detection,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,missing value imputation,Missing Value Imputation,1,verified,missing value imputation,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data quality metrics,Data Quality Metrics,1,verified,data quality metrics,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data transformation rules,Data Transformation Rules,1,verified,data transformation rules,CJUS_4371_concepts_raw.json
+CJUS_4371,concept,data validation procedures,Data Validation Procedures,1,verified,data validation procedures,CJUS_4371_concepts_raw.json

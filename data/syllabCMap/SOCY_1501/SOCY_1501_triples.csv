@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_1501,Sociology,topic,PREREQUISITE_OF,sociological perspectives,concept,same unit,,SOCY_1501_triples_raw.json
+SOCY_1501,Sociology,topic,PREREQUISITE_OF,social science methods,concept,same unit,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,PREREQUISITE_OF,global citizenship,concept,same unit,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,PREREQUISITE_OF,immigrant experiences,concept,A taught first,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,PREREQUISITE_OF,diversity in societies,concept,A taught first,,SOCY_1501_triples_raw.json
+SOCY_1501,global citizenship,concept,PART_OF,Sociology,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,Global Economic Systems,topic,PART_OF,Sociology,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,Social and Cultural Diversity,topic,PART_OF,Sociology,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,Global Politics and Power,topic,PART_OF,Sociology,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,undocumented status issues,concept,PART_OF,Understanding Undocumented Immigrants,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,first-generation challenges,concept,PART_OF,Understanding Undocumented Immigrants,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,globalization effects,concept,PART_OF,Global Economic Systems,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,economic inequality factors,concept,PART_OF,Global Economic Systems,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,diversity in societies,concept,PART_OF,Social and Cultural Diversity,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,social justice movements,concept,PART_OF,Social and Cultural Diversity,topic,,,SOCY_1501_triples_raw.json
+SOCY_1501,social science methods,concept,USED_FOR,sociological perspectives,concept,,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,USED_FOR,global citizenship,concept,,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,USED_FOR,immigrant experiences,concept,,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,USED_FOR,cultural exchange impacts,concept,,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,USED_FOR,diversity in societies,concept,,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,USED_FOR,cultural identity formation,concept,,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,USED_FOR,social justice movements,concept,,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,USED_FOR,power dynamics in relationships,concept,,,SOCY_1501_triples_raw.json
+SOCY_1501,sociological perspectives,concept,USED_FOR,international conflict resolution,concept,,,SOCY_1501_triples_raw.json

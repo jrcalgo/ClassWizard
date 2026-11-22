@@ -1,0 +1,19 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPED_8675,ABA,topic,PREREQUISITE_OF,Applied behavior analysis,topic,A mentioned first,,SPED_8675_triples_raw.json
+SPED_8675,Basic Behavioral Concepts,topic,PREREQUISITE_OF,Behavioral Principles in Action,topic,A taught first,,SPED_8675_triples_raw.json
+SPED_8675,Single-Subject Design Methodology,concept,PREREQUISITE_OF,Group Design Experimental Methods,concept,same unit,,SPED_8675_triples_raw.json
+SPED_8675,Functional Assessment Techniques,concept,PREREQUISITE_OF,Behavior Intervention Plans Development,concept,same unit,,SPED_8675_triples_raw.json
+SPED_8675,Data-Based Decision Making,concept,PREREQUISITE_OF,Behavior Intervention Plans Development,concept,same unit,,SPED_8675_triples_raw.json
+SPED_8675,ABA,topic,PART_OF,Applied behavior analysis,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Basic Behavioral Concepts,topic,PART_OF,Behavioral Principles in Action,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Classical Conditioning Principles,concept,PART_OF,Basic Behavioral Concepts,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Reinforcement Strategies,concept,PART_OF,Basic Behavioral Concepts,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Schedules of Reinforcement,concept,PART_OF,Basic Behavioral Concepts,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Chaining and Shaping Techniques,concept,PART_OF,Basic Behavioral Concepts,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Prompting and Fading Methods,concept,PART_OF,Basic Behavioral Concepts,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Single-Subject Design Methodology,concept,PART_OF,Applied Research in ABA,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Group Design Experimental Methods,concept,PART_OF,Applied Research in ABA,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Meta-Analytic Review Procedures,concept,PART_OF,Applied Research in ABA,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Functional Assessment Techniques,concept,PART_OF,Practice Guided by ABA,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Behavior Intervention Plans Development,concept,PART_OF,Practice Guided by ABA,topic,,,SPED_8675_triples_raw.json
+SPED_8675,Data-Based Decision Making,concept,PART_OF,Practice Guided by ABA,topic,,,SPED_8675_triples_raw.json

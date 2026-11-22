@@ -1,0 +1,19 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_2181L,topic,Logic System Design Laboratory,Logic System Design Laboratory,1,verified,Logic System Design Laboratory,ECGR_2181L_concepts_raw.json
+ECGR_2181L,topic,Breadboards and Switches,Breadboards and switches,2,verified,Breadboards and Switches,ECGR_2181L_concepts_raw.json
+ECGR_2181L,topic,VHDL and FPGAs,VHDL and FPGAs,3,verified,VHDL and FPGAs,ECGR_2181L_concepts_raw.json
+ECGR_2181L,topic,Sequential and Combinational Circuits,sequential and combinational circuits,2,verified,Sequential and Combinational Circuits,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,digital multi-meters,digital multi-meters,1,verified,digital multi-meters,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,oscilloscopes,oscilloscopes,1,verified,oscilloscopes,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,logic analyzers,logic analyzers,1,verified,logic analyzers,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,resistors,resistors,2,verified,resistors,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,capacitors,capacitors,2,verified,capacitors,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,LEDs,LEDs,1,verified,LEDs,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,NOR gates,NOR gates,1,verified,NOR gates,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,simple digital combinational circuits,simple digital combinational circuits,2,verified,simple digital combinational circuits,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,digital sequential and combinational circuits,digital sequential and combinational circuits,2,verified,digital sequential and combinational circuits,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,voltage,voltage,1,verified,voltage,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,charge,charge,1,verified,charge,ECGR_2181L_concepts_raw.json
+ECGR_2181L,concept,field programmable gate array devices,Field Programmable Gate Array devices,2,verified,field programmable gate array devices,ECGR_2181L_concepts_raw.json
+ECGR_2181L,method,circuit debugging techniques,Circuit debugging techniques,1,verified,circuit debugging techniques,ECGR_2181L_concepts_raw.json
+ECGR_2181L,tool,Electronix Express,Electronix Express,1,verified,Electronix Express,ECGR_2181L_concepts_raw.json

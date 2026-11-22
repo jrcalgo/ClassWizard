@@ -1,0 +1,16 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CHEM_2136L,topic,Organic Chemistry,Organic Chemistry,1,verified,Organic Chemistry,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Lab Safety Protocols,Lab Safety Protocols,1,inferred,Lab Safety Protocols,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Experimental Design Principles,Experimental Design Principles,1,inferred,Experimental Design Principles,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Reaction Conditions Optimization,Reaction Conditions Optimization,1,inferred,Reaction Conditions Optimization,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Yield and Purity Maximization,Yield and Purity Maximization,1,inferred,Yield and Purity Maximization,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Purification Methods Comparison,Purification Methods Comparison,1,inferred,Purification Methods Comparison,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,IR Spectrum Interpretation,IR Spectrum Interpretation,1,inferred,IR Spectrum Interpretation,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Functional Group Identification,Functional Group Identification,1,inferred,Functional Group Identification,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Molecular Structure Elucidation,Molecular Structure Elucidation,1,inferred,Molecular Structure Elucidation,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,NMR Signal Assignment,NMR Signal Assignment,1,inferred,NMR Signal Assignment,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Spectral Analysis Techniques,Spectral Analysis Techniques,1,inferred,Spectral Analysis Techniques,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Molecular Conformation Determination,Molecular Conformation Determination,1,inferred,Molecular Conformation Determination,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,MS Instrumentation Overview,MS Instrumentation Overview,1,inferred,MS Instrumentation Overview,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Ionization Methods Comparison,Ionization Methods Comparison,1,inferred,Ionization Methods Comparison,CHEM_2136L_concepts_raw.json
+CHEM_2136L,topic,Fragmentation Patterns Identification,Fragmentation Patterns Identification,1,inferred,Fragmentation Patterns Identification,CHEM_2136L_concepts_raw.json

@@ -1,0 +1,17 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4203,Contemporary Fiction,topic,PREREQUISITE_OF,Writing Original Fiction,topic,A taught first,,ENGL_4203_triples_raw.json
+ENGL_4203,Contemporary Fiction,topic,PREREQUISITE_OF,Workshopping Original Fiction,topic,A taught first,,ENGL_4203_triples_raw.json
+ENGL_4203,Contemporary Fiction,topic,PREREQUISITE_OF,Developing Novel Project Ideas,topic,A taught first,,ENGL_4203_triples_raw.json
+ENGL_4203,Contemporary Fiction,topic,PREREQUISITE_OF,Analyzing Character and Plot,topic,A taught first,,ENGL_4203_triples_raw.json
+ENGL_4203,Contemporary Fiction,topic,PREREQUISITE_OF,Reading No Country for Old Men,topic,A taught first,,ENGL_4203_triples_raw.json
+ENGL_4203,contemporary fiction characteristics,concept,PART_OF,Contemporary Fiction,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,literary devices and techniques,concept,PART_OF,Contemporary Fiction,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,author's style and voice,concept,PART_OF,Contemporary Fiction,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,themes of violence and morality,concept,PART_OF,Contemporary Fiction,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,character development and motivation,concept,PART_OF,Contemporary Fiction,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,character analysis techniques,concept,PART_OF,Analyzing Character and Plot,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,plot structure and development,concept,PART_OF,Analyzing Character and Plot,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,conflict resolution strategies,concept,PART_OF,Analyzing Character and Plot,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,plot idea generation and refinement,concept,PART_OF,Developing Novel Project Ideas,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,character concept development,concept,PART_OF,Developing Novel Project Ideas,topic,,,ENGL_4203_triples_raw.json
+ENGL_4203,creative writing techniques and tools,concept,PART_OF,Writing Original Fiction,topic,,,ENGL_4203_triples_raw.json

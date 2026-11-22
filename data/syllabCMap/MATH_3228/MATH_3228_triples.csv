@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_3228,Time Value of Money,concept,PREREQUISITE_OF,Present Value Formula,concept,same unit,,MATH_3228_triples_raw.json
+MATH_3228,Time Value of Money,concept,PREREQUISITE_OF,Future Value Formula,concept,same unit,,MATH_3228_triples_raw.json
+MATH_3228,Cash Flow Streams Definition,concept,PREREQUISITE_OF,Annuity Payments and Schedules,concept,same unit,,MATH_3228_triples_raw.json
+MATH_3228,BA II Plus calculator functions,concept,PART_OF,Calculator Applications,topic,,,MATH_3228_triples_raw.json
+MATH_3228,BA-35,tool,PART_OF,Calculator Familiarization,topic,,,MATH_3228_triples_raw.json
+MATH_3228,Time Value of Money,concept,PART_OF,Financial Math Concepts,topic,,,MATH_3228_triples_raw.json
+MATH_3228,Present Value Formula,concept,PART_OF,Financial Math Concepts,topic,,,MATH_3228_triples_raw.json
+MATH_3228,Future Value Formula,concept,PART_OF,Financial Math Concepts,topic,,,MATH_3228_triples_raw.json
+MATH_3228,Cash Flow Streams Definition,concept,PART_OF,General Cash Flows,topic,,,MATH_3228_triples_raw.json
+MATH_3228,Annuity Payments and Schedules,concept,PART_OF,General Cash Flows,topic,,,MATH_3228_triples_raw.json
+MATH_3228,Amortization Periods,concept,PART_OF,General Cash Flows,topic,,,MATH_3228_triples_raw.json
+MATH_3228,NPV and IRR Calculations,concept,PART_OF,Financial Calculations,topic,,,MATH_3228_triples_raw.json
+MATH_3228,Cash Flow Analysis Techniques,concept,PART_OF,Financial Calculations,topic,,,MATH_3228_triples_raw.json
+MATH_3228,Texas Instruments BA II Plus,tool,USED_FOR,Calculator Applications,topic,,,MATH_3228_triples_raw.json
+MATH_3228,Texas Instruments BA II Plus,tool,USED_FOR,Financial Calculations,topic,,,MATH_3228_triples_raw.json

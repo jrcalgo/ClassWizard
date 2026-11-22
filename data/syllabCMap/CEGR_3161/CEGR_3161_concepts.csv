@@ -1,0 +1,38 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3161,topic,Transportation Engineering,Transportation Engineering,2,verified,Transportation Engineering,CEGR_3161_concepts_raw.json
+CEGR_3161,topic,Transportation,Transportation,5,verified,Introduction to Transportation,CEGR_3161_concepts_raw.json
+CEGR_3161,topic,Economic Considerations,economic considerations,1,verified,Economic Considerations,CEGR_3161_concepts_raw.json
+CEGR_3161,topic,Transportation Facilities Analysis,Transportation Facilities Analysis,1,inferred,Transportation Facilities Analysis,CEGR_3161_concepts_raw.json
+CEGR_3161,topic,Location and Planning,Location and Planning,1,inferred,Location and Planning,CEGR_3161_concepts_raw.json
+CEGR_3161,topic,Safety Analysis and Design,Safety Analysis and Design,1,inferred,Safety Analysis and Design,CEGR_3161_concepts_raw.json
+CEGR_3161,topic,Intelligent Transportation Systems (ITS,Intelligent Transportation Systems (ITS,1,inferred,Intelligent Transportation Systems (ITS),CEGR_3161_concepts_raw.json
+CEGR_3161,topic,Highway Design and Operations,Highway Design and Operations,1,inferred,Highway Design and Operations,CEGR_3161_concepts_raw.json
+CEGR_3161,topic,Traffic Analysis and Modeling,Traffic Analysis and Modeling,1,inferred,Traffic Analysis and Modeling,CEGR_3161_concepts_raw.json
+CEGR_3161,topic,Systems Operations and Management,Systems Operations and Management,1,inferred,Systems Operations and Management,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,transportation engineering basics,Transportation Engineering Basics,1,inferred,transportation engineering basics,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,importance of transportation planning,Importance of Transportation Planning,1,inferred,importance of transportation planning,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,role of engineers in transportation,Role of Engineers in Transportation,1,inferred,role of engineers in transportation,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,types of transportation facilities,Types of Transportation Facilities,1,inferred,types of transportation facilities,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,capacity and demand analysis,Capacity and Demand Analysis,1,inferred,capacity and demand analysis,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,traffic flow characteristics,Traffic Flow Characteristics,1,inferred,traffic flow characteristics,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,site selection criteria,Site Selection Criteria,1,inferred,site selection criteria,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,land use planning and zoning,Land Use Planning and Zoning,1,inferred,land use planning and zoning,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,transportation infrastructure design,Transportation Infrastructure Design,1,inferred,transportation infrastructure design,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,cost-benefit analysis in transportation,Cost-Benefit Analysis in Transportation,1,inferred,cost-benefit analysis in transportation,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,funding sources for transportation projects,Funding Sources for Transportation Projects,1,inferred,funding sources for transportation projects,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,return on investment (ROI) analysis,return on investment (ROI) analysis,1,inferred,return on investment (ROI) analysis,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,transportation safety risks and hazards,Transportation Safety Risks and Hazards,1,inferred,transportation safety risks and hazards,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,designing safe roadways and intersections,Designing Safe Roadways and Intersections,1,inferred,designing safe roadways and intersections,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,crash data collection and analysis,Crash Data Collection and Analysis,1,inferred,crash data collection and analysis,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,ITS components and technologies,ITS Components and Technologies,1,inferred,ITS components and technologies,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,traffic management and control systems,Traffic Management and Control Systems,1,inferred,traffic management and control systems,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,real-time traffic information systems,Real-Time Traffic Information Systems,1,inferred,real-time traffic information systems,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,geometric design of highways,Geometric Design of Highways,1,inferred,geometric design of highways,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,pavement design and materials,Pavement Design and Materials,1,inferred,pavement design and materials,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,traffic signal timing and coordination,Traffic Signal Timing and Coordination,1,inferred,traffic signal timing and coordination,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,traffic flow theory and models,Traffic Flow Theory and Models,1,inferred,traffic flow theory and models,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,traffic simulation software and tools,Traffic Simulation Software and Tools,1,inferred,traffic simulation software and tools,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,transportation network analysis,Transportation Network Analysis,1,inferred,transportation network analysis,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,transportation system performance metrics,Transportation System Performance Metrics,1,inferred,transportation system performance metrics,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,operations research techniques in transportation,Operations Research Techniques in Transportation,1,inferred,operations research techniques in transportation,CEGR_3161_concepts_raw.json
+CEGR_3161,concept,supply chain and logistics management,Supply Chain and Logistics Management,1,inferred,supply chain and logistics management,CEGR_3161_concepts_raw.json

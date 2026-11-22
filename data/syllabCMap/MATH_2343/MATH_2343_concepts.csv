@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_2343,topic,Geometry and Measurement,Geometry and Measurement,1,verified,Geometry and Measurement,MATH_2343_concepts_raw.json
+MATH_2343,topic,Area and Perimeter,Area and Perimeter,2,verified,Area and Perimeter,MATH_2343_concepts_raw.json
+MATH_2343,topic,Euclidean Geometry Proofs,Euclidean geometry proofs,11,verified,Euclidean Geometry Proofs,MATH_2343_concepts_raw.json
+MATH_2343,topic,Perspective Drawings,perspective drawings,11,verified,Perspective Drawings,MATH_2343_concepts_raw.json
+MATH_2343,topic,Similar Triangles,similar triangles,12,verified,Similar Triangles,MATH_2343_concepts_raw.json
+MATH_2343,topic,Coordinate Geometry,coordinate geometry,12,verified,Coordinate Geometry,MATH_2343_concepts_raw.json
+MATH_2343,topic,Vectors and Matrices,vectors and matrices,3,verified,Vectors and Matrices,MATH_2343_concepts_raw.json
+MATH_2343,concept,Area of Rectangles,Area of Rectangles,2,verified,Area of Rectangles,MATH_2343_concepts_raw.json
+MATH_2343,concept,Perimeter Formulas,Perimeter Formulas,1,verified,Perimeter Formulas,MATH_2343_concepts_raw.json
+MATH_2343,concept,Similar Polygons,Similar Polygons,1,verified,Similar Polygons,MATH_2343_concepts_raw.json
+MATH_2343,concept,Congruent Triangles,Congruent Triangles,2,verified,Congruent Triangles,MATH_2343_concepts_raw.json
+MATH_2343,concept,Right Triangle Theorem,Right Triangle Theorem,2,verified,Right Triangle Theorem,MATH_2343_concepts_raw.json
+MATH_2343,concept,Pythagoras' Theorem,Pythagoras' theorem,9,verified,Pythagoras' Theorem,MATH_2343_concepts_raw.json
+MATH_2343,concept,Surface Area Formula,Surface Area Formula,2,verified,Surface Area Formula,MATH_2343_concepts_raw.json
+MATH_2343,concept,Prism Volume Calculation,Prism Volume Calculation,1,verified,Prism Volume Calculation,MATH_2343_concepts_raw.json
+MATH_2343,concept,Cylinder Surface Area,Cylinder Surface Area,1,verified,Cylinder Surface Area,MATH_2343_concepts_raw.json
+MATH_2343,concept,Lateral Surface Area,Lateral Surface Area,1,verified,Lateral Surface Area,MATH_2343_concepts_raw.json
+MATH_2343,concept,Distance Formula Derivation,Distance Formula Derivation,1,verified,Distance Formula Derivation,MATH_2343_concepts_raw.json
+MATH_2343,method,Building Thinking Classrooms approach,Building Thinking Classrooms approach,1,verified,Building Thinking Classrooms approach,MATH_2343_concepts_raw.json
+MATH_2343,method,Explaining concepts to others,explaining concepts to others,1,verified,Explaining concepts to others,MATH_2343_concepts_raw.json

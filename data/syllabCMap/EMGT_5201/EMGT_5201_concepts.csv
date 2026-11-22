@@ -1,0 +1,27 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+EMGT_5201,topic,Deterministic System Analysis,Deterministic System Analysis,2,verified,Deterministic System Analysis,EMGT_5201_concepts_raw.json
+EMGT_5201,topic,Optimization,optimization,4,verified,Introduction to Optimization,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,deterministic optimization problems,deterministic optimization problems,2,verified,deterministic optimization problems,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,nonlinear systems,nonlinear systems,1,verified,nonlinear systems,EMGT_5201_concepts_raw.json
+EMGT_5201,topic,Linear Programming Basics,Linear Programming Basics,1,inferred,Linear Programming Basics,EMGT_5201_concepts_raw.json
+EMGT_5201,topic,Integer Programming Fundamentals,Integer Programming Fundamentals,1,inferred,Integer Programming Fundamentals,EMGT_5201_concepts_raw.json
+EMGT_5201,topic,Dynamic Programming Principles,Dynamic Programming Principles,1,inferred,Dynamic Programming Principles,EMGT_5201_concepts_raw.json
+EMGT_5201,topic,Nonlinear Programming Techniques,Nonlinear Programming Techniques,1,inferred,Nonlinear Programming Techniques,EMGT_5201_concepts_raw.json
+EMGT_5201,topic,Advanced Optimization Methods,Advanced Optimization Methods,1,inferred,Advanced Optimization Methods,EMGT_5201_concepts_raw.json
+EMGT_5201,topic,Case Studies and Applications,Case Studies and Applications,1,inferred,Case Studies and Applications,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,continuous optimization methods,Continuous optimization methods,1,inferred,continuous optimization methods,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,linear programming formulation,Linear programming formulation,1,inferred,linear programming formulation,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,objective function definition,Objective function definition,1,inferred,objective function definition,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,constraints and variables,Constraints and variables,1,inferred,constraints and variables,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,integer programming formulation,Integer programming formulation,1,inferred,integer programming formulation,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,branch and bound algorithm,Branch and bound algorithm,1,inferred,branch and bound algorithm,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,cutting plane method,Cutting plane method,1,inferred,cutting plane method,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,dynamic programming formulation,Dynamic programming formulation,1,inferred,dynamic programming formulation,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,Bellman's equation application,Bellman's equation application,1,inferred,Bellman's equation application,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,optimal substructure property,Optimal substructure property,1,inferred,optimal substructure property,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,gradient-based optimization methods,Gradient-based optimization methods,1,inferred,gradient-based optimization methods,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,Newton's method application,Newton's method application,1,inferred,Newton's method application,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,quasi-Newton methods,Quasi-Newton methods,1,inferred,quasi-Newton methods,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,evolutionary algorithms application,Evolutionary algorithms application,1,inferred,evolutionary algorithms application,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,genetic programming techniques,Genetic programming techniques,1,inferred,genetic programming techniques,EMGT_5201_concepts_raw.json
+EMGT_5201,concept,simulated annealing method,Simulated annealing method,1,inferred,simulated annealing method,EMGT_5201_concepts_raw.json

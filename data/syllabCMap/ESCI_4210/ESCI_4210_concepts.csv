@@ -1,0 +1,42 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_4210,topic,Topographic Interpretation,topographic interpretation,1,verified,Topographic Interpretation,ESCI_4210_concepts_raw.json
+ESCI_4210,topic,Soil Genesis Basics,Soil Genesis Basics,1,inferred,Soil Genesis Basics,ESCI_4210_concepts_raw.json
+ESCI_4210,topic,Soil Taxonomy Fundamentals,Soil Taxonomy Fundamentals,1,inferred,Soil Taxonomy Fundamentals,ESCI_4210_concepts_raw.json
+ESCI_4210,topic,Soil Morphology Essentials,Soil Morphology Essentials,1,inferred,Soil Morphology Essentials,ESCI_4210_concepts_raw.json
+ESCI_4210,topic,Surficial Processes Overview,Surficial Processes Overview,1,inferred,Surficial Processes Overview,ESCI_4210_concepts_raw.json
+ESCI_4210,topic,Soil-Geomorphology Relationships,Soil-Geomorphology Relationships,1,inferred,Soil-Geomorphology Relationships,ESCI_4210_concepts_raw.json
+ESCI_4210,topic,Literature Review Fundamentals,Literature Review Fundamentals,1,inferred,Literature Review Fundamentals,ESCI_4210_concepts_raw.json
+ESCI_4210,topic,Field Methods and Techniques,Field Methods and Techniques,1,inferred,Field Methods and Techniques,ESCI_4210_concepts_raw.json
+ESCI_4210,topic,Midterm Review and Assessment,Midterm Review and Assessment,1,inferred,Midterm Review and Assessment,ESCI_4210_concepts_raw.json
+ESCI_4210,topic,Final Field Project Preparation,Final Field Project Preparation,1,inferred,Final Field Project Preparation,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil formation processes,Soil Formation Processes,1,inferred,soil formation processes,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,pedogenesis overview,Pedogenesis Overview,1,inferred,pedogenesis overview,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,weathering and erosion,Weathering and Erosion,1,inferred,weathering and erosion,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil parent material,Soil Parent Material,1,inferred,soil parent material,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil classification system,Soil Classification System,1,inferred,soil classification system,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,taxonomic soil orders,Taxonomic Soil Orders,1,inferred,taxonomic soil orders,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil order characteristics,Soil Order Characteristics,1,inferred,soil order characteristics,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil family descriptions,Soil Family Descriptions,1,inferred,soil family descriptions,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil horizon description,Soil Horizon Description,1,inferred,soil horizon description,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,morphological features,Morphological Features,1,inferred,morphological features,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil texture and structure,Soil Texture and Structure,1,inferred,soil texture and structure,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil color and pattern,Soil Color and Pattern,1,inferred,soil color and pattern,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,geomorphic landscapes formation,Geomorphic Landscapes Formation,1,inferred,geomorphic landscapes formation,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,erosion and deposition,Erosion and Deposition,1,inferred,erosion and deposition,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,sediment transport mechanisms,Sediment Transport Mechanisms,1,inferred,sediment transport mechanisms,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,landform evolution models,Landform Evolution Models,1,inferred,landform evolution models,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,map reading techniques,Map Reading Techniques,1,inferred,map reading techniques,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,topographic map symbols,Topographic Map Symbols,1,inferred,topographic map symbols,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,relief and elevation features,Relief and Elevation Features,1,inferred,relief and elevation features,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,drainage patterns analysis,Drainage Patterns Analysis,1,inferred,drainage patterns analysis,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil landform associations,Soil Landform Associations,1,inferred,soil landform associations,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,geomorphic processes impact,Geomorphic Processes Impact,1,inferred,geomorphic processes impact,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,pedogenic and geomorphic cycles,Pedogenic and Geomorphic Cycles,1,inferred,pedogenic and geomorphic cycles,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,scientific literature search,Scientific Literature Search,1,inferred,scientific literature search,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,peer-reviewed article analysis,Peer-Reviewed Article Analysis,1,inferred,peer-reviewed article analysis,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,critical evaluation techniques,Critical Evaluation Techniques,1,inferred,critical evaluation techniques,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,research paper writing guidelines,Research Paper Writing Guidelines,1,inferred,research paper writing guidelines,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,soil sampling strategies,Soil Sampling Strategies,1,inferred,soil sampling strategies,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,field measurement tools,Field Measurement Tools,1,inferred,field measurement tools,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,morphological feature observation,Morphological Feature Observation,1,inferred,morphological feature observation,ESCI_4210_concepts_raw.json
+ESCI_4210,concept,topographic mapping exercises,Topographic Mapping Exercises,1,inferred,topographic mapping exercises,ESCI_4210_concepts_raw.json

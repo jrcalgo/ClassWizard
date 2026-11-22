@@ -1,0 +1,25 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3201,Systems Thinking Approach,concept,PART_OF,Systems And Design,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Engineering Problem Solving,concept,PART_OF,Systems And Design,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Methodological Considerations,concept,PART_OF,Systems And Design,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Infrastructure System Design,concept,PART_OF,Civil Engineering Applications,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Transportation System Planning,concept,PART_OF,Civil Engineering Applications,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Water Resource Management,concept,PART_OF,Civil Engineering Applications,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Alternative Solutions Identification,concept,PART_OF,Systems Analysis and Evaluation,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Cost Benefit Analysis Techniques,concept,PART_OF,Systems Analysis and Evaluation,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Risk Assessment Methods,concept,PART_OF,Systems Analysis and Evaluation,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Project Planning and Scheduling,concept,PART_OF,Engineering Plan Development,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Resource Allocation Strategies,concept,PART_OF,Engineering Plan Development,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Conflict Resolution Strategies,concept,PART_OF,Teamwork and Collaboration,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Professional Conduct Expectations,concept,PART_OF,Teamwork and Collaboration,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Reflective Practice in Engineering,concept,PART_OF,Engineering Journal and Reflection,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Self-Assessment and Feedback,concept,PART_OF,Engineering Journal and Reflection,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Report Writing and Presentation,concept,PART_OF,Final Report Preparation,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Engineering Plan Documentation,concept,PART_OF,Final Report Preparation,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Presentation Skills and Delivery,concept,PART_OF,Final Presentation and Defense,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Systems Engineering,topic,USED_FOR,Civil Engineering Applications,topic,,topic used for something - check direction,CEGR_3201_triples_raw.json
+CEGR_3201,Alternative Solutions Identification,concept,USED_FOR,Systems Analysis and Evaluation,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Risk Assessment Methods,concept,USED_FOR,Systems Analysis and Evaluation,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Project Planning and Scheduling,concept,USED_FOR,Engineering Plan Development,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Resource Allocation Strategies,concept,USED_FOR,Engineering Plan Development,topic,,,CEGR_3201_triples_raw.json
+CEGR_3201,Quality Control Measures,concept,USED_FOR,Engineering Plan Development,topic,,,CEGR_3201_triples_raw.json

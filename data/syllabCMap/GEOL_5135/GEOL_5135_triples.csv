@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOL_5135,Geochronology,method,PREREQUISITE_OF,Low-Temperature Thermochronology,method,A mentioned first,,GEOL_5135_triples_raw.json
+GEOL_5135,Geochronology,method,PREREQUISITE_OF,Stable Isotope-Based Paleoaltimetry,method,A taught first,,GEOL_5135_triples_raw.json
+GEOL_5135,transform faults,work,PREREQUISITE_OF,subduction zones,work,A taught first,,GEOL_5135_triples_raw.json
+GEOL_5135,supercontinent cycle,work,PREREQUISITE_OF,oceanic spreading centers,work,A taught first,,GEOL_5135_triples_raw.json
+GEOL_5135,oceanic spreading centers,work,SUBTYPE_OF,supercontinent cycle,work,,,GEOL_5135_triples_raw.json
+GEOL_5135,transform faults,work,SUBTYPE_OF,supercontinent cycle,work,,,GEOL_5135_triples_raw.json
+GEOL_5135,subduction zones,work,SUBTYPE_OF,supercontinent cycle,work,,,GEOL_5135_triples_raw.json
+GEOL_5135,ocean-continent and continent-continent convergent zones,work,SUBTYPE_OF,supercontinent cycle,work,,,GEOL_5135_triples_raw.json
+GEOL_5135,Low-Temperature Thermochronology,method,USED_FOR,supercontinent cycle,work,,,GEOL_5135_triples_raw.json

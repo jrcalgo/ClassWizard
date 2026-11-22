@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+POLS_3173,topic,History of Modern Political Philosophy,History of Modern Political Philosophy,1,verified,History of Modern Political Philosophy,POLS_3173_concepts_raw.json
+POLS_3173,topic,Machiavelli's Realism,Machiavelli's Realism,1,inferred,Machiavelli's Realism,POLS_3173_concepts_raw.json
+POLS_3173,topic,Hobbes' Leviathan,Hobbes' Leviathan,1,inferred,Hobbes' Leviathan,POLS_3173_concepts_raw.json
+POLS_3173,topic,Locke's Liberalism,Locke's Liberalism,1,inferred,Locke's Liberalism,POLS_3173_concepts_raw.json
+POLS_3173,topic,Rousseau's General Will,Rousseau's General Will,1,inferred,Rousseau's General Will,POLS_3173_concepts_raw.json
+POLS_3173,topic,Wollstonecraft's Feminism,Wollstonecraft's Feminism,1,inferred,Wollstonecraft's Feminism,POLS_3173_concepts_raw.json
+POLS_3173,topic,Marx's Critique of Capitalism,Marx's Critique of Capitalism,1,inferred,Marx's Critique of Capitalism,POLS_3173_concepts_raw.json
+POLS_3173,concept,Machiavellian Prince,Machiavellian Prince,1,inferred,Machiavellian Prince,POLS_3173_concepts_raw.json
+POLS_3173,concept,Realist Politics,Realist Politics,1,inferred,Realist Politics,POLS_3173_concepts_raw.json
+POLS_3173,concept,Statecraft and Prudence,Statecraft and Prudence,1,inferred,Statecraft and Prudence,POLS_3173_concepts_raw.json
+POLS_3173,concept,Social Contract Theory,Social Contract Theory,1,inferred,Social Contract Theory,POLS_3173_concepts_raw.json
+POLS_3173,concept,Leviathan State,Leviathan State,1,inferred,Leviathan State,POLS_3173_concepts_raw.json
+POLS_3173,concept,Human Nature Hobbes,Human Nature Hobbes,1,inferred,Human Nature Hobbes,POLS_3173_concepts_raw.json
+POLS_3173,concept,Natural Rights Locke,Natural Rights Locke,1,inferred,Natural Rights Locke,POLS_3173_concepts_raw.json
+POLS_3173,concept,Social Contract Locke,Social Contract Locke,1,inferred,Social Contract Locke,POLS_3173_concepts_raw.json
+POLS_3173,concept,Liberal Democracy,Liberal Democracy,1,inferred,Liberal Democracy,POLS_3173_concepts_raw.json
+POLS_3173,concept,General Will Rousseau,General Will Rousseau,1,inferred,General Will Rousseau,POLS_3173_concepts_raw.json
+POLS_3173,concept,Social Contract Rousseau,Social Contract Rousseau,1,inferred,Social Contract Rousseau,POLS_3173_concepts_raw.json
+POLS_3173,concept,Emile and Education,Emile and Education,1,inferred,Emile and Education,POLS_3173_concepts_raw.json
+POLS_3173,concept,Women's Rights Wollstonecraft,Women's Rights Wollstonecraft,1,inferred,Women's Rights Wollstonecraft,POLS_3173_concepts_raw.json
+POLS_3173,concept,Feminist Philosophy,Feminist Philosophy,1,inferred,Feminist Philosophy,POLS_3173_concepts_raw.json
+POLS_3173,concept,Dialectical Materialism,Dialectical Materialism,1,inferred,Dialectical Materialism,POLS_3173_concepts_raw.json
+POLS_3173,concept,Class Struggle Marx,Class Struggle Marx,1,inferred,Class Struggle Marx,POLS_3173_concepts_raw.json
+POLS_3173,concept,Alienation and Exploitation,Alienation and Exploitation,1,inferred,Alienation and Exploitation,POLS_3173_concepts_raw.json

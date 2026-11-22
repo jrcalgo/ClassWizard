@@ -1,0 +1,27 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_3201,Vocabulary Expansion,topic,PREREQUISITE_OF,Reading Comprehension Exercises,topic,A taught first,,SPAN_3201_triples_raw.json
+SPAN_3201,Grammar Review and Practice,topic,PREREQUISITE_OF,In-Class Composition 2,topic,A taught first,,SPAN_3201_triples_raw.json
+SPAN_3201,vocabulary building techniques,concept,PART_OF,Vocabulary Expansion,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,comprehension exercises,concept,PART_OF,Reading Fluency Strategies,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,drafting and revising,concept,PART_OF,Writing Process Awareness,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,complex sentence structures,concept,PART_OF,Advanced Grammar,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,subjunctive mood usage,concept,PART_OF,Advanced Grammar,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,conditional tense review,concept,PART_OF,Advanced Grammar,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,active reading strategies,concept,PART_OF,Reading Fluency Strategies,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,pre-writing activities,concept,PART_OF,Writing Process Awareness,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,peer review guidelines,concept,PART_OF,Writing Process Awareness,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,domain-specific vocabulary,concept,PART_OF,Vocabulary Expansion,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,short passage analysis,concept,PART_OF,Reading Comprehension Exercises,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,author's purpose identification,concept,PART_OF,Reading Comprehension Exercises,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,formal and informal writing styles,concept,PART_OF,Writing for Different Purposes,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,purpose-driven writing strategies,concept,PART_OF,Writing for Different Purposes,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,tense consistency review,concept,PART_OF,Grammar Review and Practice,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,clause structure practice,concept,PART_OF,Grammar Review and Practice,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,error analysis exercises,concept,PART_OF,Grammar Review and Practice,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,drafting and revising strategies,concept,PART_OF,In-Class Composition 1,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,peer feedback techniques,concept,PART_OF,In-Class Composition 1,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,contextual learning methods,concept,PART_OF,vocabulary building techniques,concept,,,SPAN_3201_triples_raw.json
+SPAN_3201,word association exercises,concept,PART_OF,vocabulary building techniques,concept,,,SPAN_3201_triples_raw.json
+SPAN_3201,semantic field exploration,concept,PART_OF,vocabulary building techniques,concept,,,SPAN_3201_triples_raw.json
+SPAN_3201,self-assessment and revision,concept,PART_OF,In-Class Composition 2,topic,,,SPAN_3201_triples_raw.json
+SPAN_3201,final draft preparation,concept,PART_OF,In-Class Composition 2,topic,,,SPAN_3201_triples_raw.json

@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_3255,Material Properties,topic,PREREQUISITE_OF,Lab Test Methods,topic,A taught first,,CEGR_3255_triples_raw.json
+CEGR_3255,Material Properties,topic,PREREQUISITE_OF,Technical Writing Skills,topic,A taught first,,CEGR_3255_triples_raw.json
+CEGR_3255,Material Properties,topic,PREREQUISITE_OF,Material Selection and Specification,topic,A taught first,,CEGR_3255_triples_raw.json
+CEGR_3255,lab safety protocols,concept,PREREQUISITE_OF,tensile testing procedures,concept,A taught first,,CEGR_3255_triples_raw.json
+CEGR_3255,lab safety protocols,concept,PREREQUISITE_OF,compression testing techniques,concept,A taught first,,CEGR_3255_triples_raw.json
+CEGR_3255,lab safety protocols,concept,PREREQUISITE_OF,flexural strength analysis,concept,A taught first,,CEGR_3255_triples_raw.json
+CEGR_3255,lab safety protocols,concept,PART_OF,Structural Materials Laboratory,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,mechanical properties,concept,PART_OF,Material Properties,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,thermal expansion coefficients,concept,PART_OF,Material Properties,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,tensile testing procedures,concept,PART_OF,Lab Test Methods,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,compression testing techniques,concept,PART_OF,Lab Test Methods,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,flexural strength analysis,concept,PART_OF,Lab Test Methods,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,statistical analysis of data,concept,PART_OF,Data Analysis and Interpretation,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,error margin calculation,concept,PART_OF,Data Analysis and Interpretation,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,report writing guidelines,concept,PART_OF,Technical Writing Skills,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,effective communication techniques,concept,PART_OF,Technical Writing Skills,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,data presentation formats,concept,PART_OF,Technical Writing Skills,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,material selection criteria,concept,PART_OF,Material Selection and Specification,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,structural design considerations,concept,PART_OF,Material Selection and Specification,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,code compliance requirements,concept,PART_OF,Material Selection and Specification,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,statistical analysis of data,concept,USED_FOR,Data Analysis and Interpretation,topic,,,CEGR_3255_triples_raw.json
+CEGR_3255,error margin calculation,concept,USED_FOR,Data Analysis and Interpretation,topic,,,CEGR_3255_triples_raw.json

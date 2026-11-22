@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CEGR_5146,Open Channel Flow,topic,PREREQUISITE_OF,Pipe Networks,topic,A taught first,,CEGR_5146_triples_raw.json
+CEGR_5146,Open Channel Flow,topic,PREREQUISITE_OF,Dams and Spillways,topic,A taught first,,CEGR_5146_triples_raw.json
+CEGR_5146,Open Channel Flow,topic,PREREQUISITE_OF,Water Power,topic,A mentioned first,,CEGR_5146_triples_raw.json
+CEGR_5146,Pipe Networks,topic,PREREQUISITE_OF,Fire Flow,topic,A taught first,,CEGR_5146_triples_raw.json
+CEGR_5146,Pipe Networks,topic,PREREQUISITE_OF,Sewage Collection,topic,A taught first,,CEGR_5146_triples_raw.json

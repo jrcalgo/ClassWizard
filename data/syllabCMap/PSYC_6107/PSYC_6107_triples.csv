@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_6107,Ethics,topic,PREREQUISITE_OF,Knowledge and Decision-Making,topic,A taught first,,PSYC_6107_triples_raw.json
+PSYC_6107,Ethics,topic,PREREQUISITE_OF,Research Ethics,topic,A taught first,,PSYC_6107_triples_raw.json
+PSYC_6107,Critical Thinking Tools,concept,USED_FOR,Ethical Decision-Making Models,concept,,,PSYC_6107_triples_raw.json
+PSYC_6107,APA ethical code for Psychologists,concept,USED_FOR,Ethics,topic,,,PSYC_6107_triples_raw.json

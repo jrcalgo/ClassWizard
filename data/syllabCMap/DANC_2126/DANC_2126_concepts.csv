@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+DANC_2126,topic,Tap Dance,tap dance,5,verified,Tap Dance,DANC_2126_concepts_raw.json
+DANC_2126,topic,Tap,tap,8,verified,Introduction to Tap,DANC_2126_concepts_raw.json
+DANC_2126,topic,Improvisation and Collaboration,Improvisation and Collaboration,1,verified,Improvisation and Collaboration,DANC_2126_concepts_raw.json
+DANC_2126,concept,tap dance technique,tap dance technique,1,verified,tap dance technique,DANC_2126_concepts_raw.json
+DANC_2126,concept,improvisation,improvisation,1,verified,improvisation,DANC_2126_concepts_raw.json
+DANC_2126,concept,collaboration,collaboration,1,verified,collaboration,DANC_2126_concepts_raw.json

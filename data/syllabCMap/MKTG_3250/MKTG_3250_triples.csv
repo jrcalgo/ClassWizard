@@ -1,0 +1,16 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MKTG_3250,Marketing Research Methods,concept,PREREQUISITE_OF,Client Needs Assessment,concept,same unit,,MKTG_3250_triples_raw.json
+MKTG_3250,Segmentation and Targeting Strategies,concept,PREREQUISITE_OF,Positioning Statement Development,concept,same unit,,MKTG_3250_triples_raw.json
+MKTG_3250,Strategic Planning Process,concept,PREREQUISITE_OF,Marketing Objectives Setting,concept,same unit,,MKTG_3250_triples_raw.json
+MKTG_3250,Strategic Planning Process,concept,PART_OF,Marketing Strategy Framework,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,Competitor Analysis Techniques,concept,PART_OF,Competitive Marketing Analysis,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,SWOT Analysis Application,concept,PART_OF,Competitive Marketing Analysis,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,Segmentation and Targeting Strategies,concept,PART_OF,Marketing Policy Decisions,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,Positioning Statement Development,concept,PART_OF,Marketing Policy Decisions,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,Pricing Strategy Options,concept,PART_OF,Marketing Policy Decisions,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,Client Needs Assessment,concept,PART_OF,Client Consultancy Project,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,Consultancy Report Writing,concept,PART_OF,Client Consultancy Project,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,Resource Allocation Strategies,concept,PART_OF,Strategic Implementation Planning,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,Implementation Roadmap Development,concept,PART_OF,Strategic Implementation Planning,topic,,,MKTG_3250_triples_raw.json
+MKTG_3250,Marketing Research Methods,concept,USED_FOR,Client Needs Assessment,concept,,,MKTG_3250_triples_raw.json
+MKTG_3250,Consultancy Report Writing,concept,USED_FOR,Client Consultancy Project,topic,,,MKTG_3250_triples_raw.json

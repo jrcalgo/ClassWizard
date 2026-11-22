@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SPAN_4215,modernization,concept,PREREQUISITE_OF,industrial growth,concept,same unit,,SPAN_4215_triples_raw.json
+SPAN_4215,Balún Canán,concept,PREREQUISITE_OF,postrevolutionary Mexican literature,concept,A taught first,,SPAN_4215_triples_raw.json
+SPAN_4215,cinematic representation of national identity,concept,PREREQUISITE_OF,artistic engagement with politics,concept,same unit,,SPAN_4215_triples_raw.json
+SPAN_4215,Balún Canán,concept,USED_FOR,postrevolutionary Mexican literature,concept,,,SPAN_4215_triples_raw.json

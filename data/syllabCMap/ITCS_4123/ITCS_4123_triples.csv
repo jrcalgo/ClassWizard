@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITCS_4123,Visualization,topic,PREREQUISITE_OF,Geospatial Visualization,topic,A taught first,,ITCS_4123_triples_raw.json
+ITCS_4123,Visualization,topic,PREREQUISITE_OF,Time-Series Visualization,topic,A taught first,,ITCS_4123_triples_raw.json
+ITCS_4123,Visualization,topic,PREREQUISITE_OF,Social Network Visualization,topic,A taught first,,ITCS_4123_triples_raw.json

@@ -1,0 +1,25 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+SPAN_2201,topic,Intermediate Spanish I,Intermediate Spanish I,1,verified,Intermediate Spanish I,SPAN_2201_concepts_raw.json
+SPAN_2201,topic,Spanish,Spanish,11,verified,Introduction to Spanish,SPAN_2201_concepts_raw.json
+SPAN_2201,topic,Cultural Perspectives,cultural perspectives,1,verified,Cultural Perspectives,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Spanish-Speaking Communities Around the World,Spanish-speaking communities around the world,1,verified,Spanish-Speaking Communities Around the World,SPAN_2201_concepts_raw.json
+SPAN_2201,topic,Reading Comprehension,Reading Comprehension,1,inferred,Reading Comprehension,SPAN_2201_concepts_raw.json
+SPAN_2201,topic,Everyday Conversations,Everyday Conversations,1,inferred,Everyday Conversations,SPAN_2201_concepts_raw.json
+SPAN_2201,topic,Writing in Spanish,Writing in Spanish,1,inferred,Writing in Spanish,SPAN_2201_concepts_raw.json
+SPAN_2201,topic,Presenting Information,Presenting Information,1,inferred,Presenting Information,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Spanish Alphabet and Pronunciation,Spanish Alphabet and Pronunciation,1,inferred,Spanish Alphabet and Pronunciation,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Basic Phrases and Greetings,Basic Phrases and Greetings,1,inferred,Basic Phrases and Greetings,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Introductions and Self-Description,Introductions and Self-Description,1,inferred,Introductions and Self-Description,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Identifying Main Ideas in Texts,Identifying Main Ideas in Texts,1,inferred,Identifying Main Ideas in Texts,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Understanding Simple Sentences,Understanding Simple Sentences,1,inferred,Understanding Simple Sentences,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Recognizing Key Vocabulary,Recognizing Key Vocabulary,1,inferred,Recognizing Key Vocabulary,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Asking for Directions and Information,Asking for Directions and Information,1,inferred,Asking for Directions and Information,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Making Simple Requests and Apologies,Making Simple Requests and Apologies,1,inferred,Making Simple Requests and Apologies,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Discussing Daily Life and Habits,Discussing Daily Life and Habits,1,inferred,Discussing Daily Life and Habits,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Cultural Differences and Similarities,Cultural Differences and Similarities,1,inferred,Cultural Differences and Similarities,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Understanding Cultural Norms and Values,Understanding Cultural Norms and Values,1,inferred,Understanding Cultural Norms and Values,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Basic Sentence Structure and Grammar,Basic Sentence Structure and Grammar,1,inferred,Basic Sentence Structure and Grammar,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Describing Personal Experiences and Feelings,Describing Personal Experiences and Feelings,1,inferred,Describing Personal Experiences and Feelings,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Writing Short Paragraphs and Descriptions,Writing Short Paragraphs and Descriptions,1,inferred,Writing Short Paragraphs and Descriptions,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Giving Simple Presentations and Talks,Giving Simple Presentations and Talks,1,inferred,Giving Simple Presentations and Talks,SPAN_2201_concepts_raw.json
+SPAN_2201,concept,Discussing Familiar Topics with a General Audience,Discussing Familiar Topics with a General Audience,1,inferred,Discussing Familiar Topics with a General Audience,SPAN_2201_concepts_raw.json

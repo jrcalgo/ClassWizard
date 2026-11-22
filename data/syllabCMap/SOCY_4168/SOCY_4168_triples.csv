@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_4168,social context of mental health,concept,PART_OF,Mental Health Crisis in Society,topic,,,SOCY_4168_triples_raw.json
+SOCY_4168,sociological perspective on mental illness,concept,PART_OF,Mental Health Crisis in Society,topic,,,SOCY_4168_triples_raw.json
+SOCY_4168,Community Response to Mental Health Crisis,topic,PART_OF,Mental Health Crisis in Society,topic,,,SOCY_4168_triples_raw.json

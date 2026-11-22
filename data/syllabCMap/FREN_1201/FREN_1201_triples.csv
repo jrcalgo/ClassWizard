@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FREN_1201,novice-high to intermediate-low language proficiency,concept,PREREQUISITE_OF,Greetings & Introductions,topic,B mentioned first,,FREN_1201_triples_raw.json
+FREN_1201,basic greetings in French,concept,PART_OF,Greetings & Introductions,topic,,,FREN_1201_triples_raw.json
+FREN_1201,introducing oneself in French,concept,PART_OF,Greetings & Introductions,topic,,,FREN_1201_triples_raw.json
+FREN_1201,describing personal traits,concept,PART_OF,Greetings & Introductions,topic,,,FREN_1201_triples_raw.json
+FREN_1201,asking and responding to questions,concept,PART_OF,Asking Questions,topic,,,FREN_1201_triples_raw.json
+FREN_1201,expressing negation in French,concept,PART_OF,Asking Questions,topic,,,FREN_1201_triples_raw.json
+FREN_1201,ordering food and beverages,concept,PART_OF,Food & Beverages,topic,,,FREN_1201_triples_raw.json
+FREN_1201,reading short French texts,concept,PART_OF,Reading Comprehension,topic,,,FREN_1201_triples_raw.json
+FREN_1201,comprehending core meaning of texts,concept,PART_OF,Reading Comprehension,topic,,,FREN_1201_triples_raw.json
+FREN_1201,answering target questions,concept,PART_OF,Reading Comprehension,topic,,,FREN_1201_triples_raw.json
+FREN_1201,composing descriptive texts in French,concept,PART_OF,Writing Descriptions,topic,,,FREN_1201_triples_raw.json

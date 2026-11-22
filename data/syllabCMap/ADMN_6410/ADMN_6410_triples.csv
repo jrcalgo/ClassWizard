@@ -1,0 +1,10 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_6410,Strategic,concept,PREREQUISITE_OF,Instructional,concept,A mentioned first,,ADMN_6410_triples_raw.json
+ADMN_6410,Instructional,concept,PREREQUISITE_OF,Organizational,concept,B mentioned first,,ADMN_6410_triples_raw.json
+ADMN_6410,North Carolina Standards for School Executives,topic,PREREQUISITE_OF,Internship Seminars,topic,A mentioned first,,ADMN_6410_triples_raw.json
+ADMN_6410,Professional Dispositions,concept,PREREQUISITE_OF,Strategic,concept,A taught first,,ADMN_6410_triples_raw.json
+ADMN_6410,Instructional,concept,PART_OF,Contextual Leadership Program Standards,concept,,,ADMN_6410_triples_raw.json
+ADMN_6410,Organizational,concept,PART_OF,Contextual Leadership Program Standards,concept,,,ADMN_6410_triples_raw.json
+ADMN_6410,Instructional,concept,SUBTYPE_OF,Contextual Leadership Program Standards,concept,,,ADMN_6410_triples_raw.json
+ADMN_6410,Organizational,concept,SUBTYPE_OF,Contextual Leadership Program Standards,concept,,,ADMN_6410_triples_raw.json
+ADMN_6410,UNC-Charlotte Student Code of Conduct,work,USED_FOR,Licensure Requirements,topic,,,ADMN_6410_triples_raw.json

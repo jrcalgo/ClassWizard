@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_3180,Exploratory Data Analysis,topic,PREREQUISITE_OF,Predictive Analytics,topic,A mentioned first,,MATH_3180_triples_raw.json
+MATH_3180,Feature Selection Methods,topic,PREREQUISITE_OF,Model Validation Techniques,topic,A taught first,,MATH_3180_triples_raw.json
+MATH_3180,R,tool,USED_FOR,Exploratory Data Analysis,topic,,,MATH_3180_triples_raw.json
+MATH_3180,R,tool,USED_FOR,Feature Selection Methods,topic,,,MATH_3180_triples_raw.json
+MATH_3180,R,tool,USED_FOR,Model Validation Techniques,topic,,,MATH_3180_triples_raw.json
+MATH_3180,GGPLOT 2,tool,USED_FOR,Exploratory Data Analysis,topic,,,MATH_3180_triples_raw.json

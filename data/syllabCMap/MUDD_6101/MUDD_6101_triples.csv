@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUDD_6101,rigorous research and design process,method,PART_OF,design strategies and interventions,method,,,MUDD_6101_triples_raw.json
+MUDD_6101,efficient and meaningful process of design,method,PART_OF,design strategies and interventions,method,,,MUDD_6101_triples_raw.json
+MUDD_6101,rigorous research and design process,method,USED_FOR,design strategies and interventions,method,,,MUDD_6101_triples_raw.json

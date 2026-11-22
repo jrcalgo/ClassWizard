@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_4147,concept,Urbanization,urbanization,1,verified,Urbanization,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Water Quality Parameters,water quality parameters,1,verified,Water Quality Parameters,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Low Impact Design (LID,Low Impact Design (LID,1,verified,Low Impact Design (LID),CEGR_4147_concepts_raw.json
+CEGR_4147,method,Numerical modeling,numerical model,1,verified,Numerical modeling,CEGR_4147_concepts_raw.json
+CEGR_4147,topic,Urbanization and Water Quality,Urbanization and Water Quality,1,inferred,Urbanization and Water Quality,CEGR_4147_concepts_raw.json
+CEGR_4147,topic,Stormwater Management Basics,Stormwater Management Basics,1,inferred,Stormwater Management Basics,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Nutrient Loading Mechanisms,Nutrient Loading Mechanisms,1,inferred,Nutrient Loading Mechanisms,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Sediment Transport Processes,Sediment Transport Processes,1,inferred,Sediment Transport Processes,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Bacteria and Virus Impact,Bacteria and Virus Impact,1,inferred,Bacteria and Virus Impact,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Guiding Principles of LID,Guiding Principles of LID,1,inferred,Guiding Principles of LID,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Rain Garden Design Considerations,Rain Garden Design Considerations,1,inferred,Rain Garden Design Considerations,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Green Infrastructure Benefits,Green Infrastructure Benefits,1,inferred,Green Infrastructure Benefits,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Stormwater Runoff Simulation Models,Stormwater Runoff Simulation Models,1,inferred,Stormwater Runoff Simulation Models,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Model Calibration and Validation,Model Calibration and Validation,1,inferred,Model Calibration and Validation,CEGR_4147_concepts_raw.json
+CEGR_4147,concept,Sensitivity Analysis Techniques,Sensitivity Analysis Techniques,1,inferred,Sensitivity Analysis Techniques,CEGR_4147_concepts_raw.json
+CEGR_4147,topic,Available Best Management Practices,Available Best Management Practices,1,inferred,Available Best Management Practices,CEGR_4147_concepts_raw.json
+CEGR_4147,topic,LID Design for Urban Areas,LID Design for Urban Areas,1,inferred,LID Design for Urban Areas,CEGR_4147_concepts_raw.json
+CEGR_4147,topic,BMP Effectiveness Evaluation,BMP Effectiveness Evaluation,1,inferred,BMP Effectiveness Evaluation,CEGR_4147_concepts_raw.json
+CEGR_4147,topic,Stormwater Mitigation Techniques,Stormwater Mitigation Techniques,1,inferred,Stormwater Mitigation Techniques,CEGR_4147_concepts_raw.json
+CEGR_4147,topic,Numerical Modeling of BMPs,Numerical Modeling of BMPs,1,inferred,Numerical Modeling of BMPs,CEGR_4147_concepts_raw.json
+CEGR_4147,topic,Economic and Environmental Impact,Economic and Environmental Impact,1,inferred,Economic and Environmental Impact,CEGR_4147_concepts_raw.json

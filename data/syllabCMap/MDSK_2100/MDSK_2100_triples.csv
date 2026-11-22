@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MDSK_2100,educational history,concept,PREREQUISITE_OF,teaching profession,concept,B taught first,B is taught before A - check,MDSK_2100_triples_raw.json
+MDSK_2100,socio-historical context,concept,PREREQUISITE_OF,big ideas,concept,same unit,,MDSK_2100_triples_raw.json

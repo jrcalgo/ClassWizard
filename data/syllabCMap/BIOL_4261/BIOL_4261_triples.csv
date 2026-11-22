@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_4261,Base Excision Repair Process,concept,PART_OF,DNA Repair Mechanisms,topic,,,BIOL_4261_triples_raw.json
+BIOL_4261,Nucleotide Excision Repair Pathway,concept,PART_OF,DNA Repair Mechanisms,topic,,,BIOL_4261_triples_raw.json
+BIOL_4261,Double-Strand Break Repair,concept,PART_OF,DNA Repair Mechanisms,topic,,,BIOL_4261_triples_raw.json
+BIOL_4261,Xeroderma Pigmentosum Syndrome,concept,PART_OF,Inherited DNA Repair Defects,topic,,,BIOL_4261_triples_raw.json
+BIOL_4261,Bloom Syndrome Characteristics,concept,PART_OF,Inherited DNA Repair Defects,topic,,,BIOL_4261_triples_raw.json
+BIOL_4261,PARP1 and PARP2 Activity,concept,PART_OF,DNA Repair Proteins Functions,topic,,,BIOL_4261_triples_raw.json
+BIOL_4261,Comet Assay Principle,concept,PART_OF,Cellular Diagnostic Techniques,topic,,,BIOL_4261_triples_raw.json
+BIOL_4261,TUNEL Staining Method,concept,PART_OF,Cellular Diagnostic Techniques,topic,,,BIOL_4261_triples_raw.json
+BIOL_4261,Microarray Analysis,concept,PART_OF,Cellular Diagnostic Techniques,topic,,,BIOL_4261_triples_raw.json
+BIOL_4261,Microarray Analysis,concept,USED_FOR,Cellular Diagnostic Techniques,topic,,,BIOL_4261_triples_raw.json

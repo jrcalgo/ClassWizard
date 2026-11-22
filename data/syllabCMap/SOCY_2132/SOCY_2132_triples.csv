@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+SOCY_2132,Family Diversity,topic,PREREQUISITE_OF,Love and Relationships,topic,A taught first,,SOCY_2132_triples_raw.json
+SOCY_2132,Love and Relationships,topic,PREREQUISITE_OF,Communication and Sexuality,topic,A taught first,,SOCY_2132_triples_raw.json
+SOCY_2132,Communication and Sexuality,topic,PREREQUISITE_OF,Power Dynamics and Decision Making,topic,A taught first,,SOCY_2132_triples_raw.json
+SOCY_2132,Power Dynamics and Decision Making,topic,PREREQUISITE_OF,Parenthood and Childlessness,topic,A taught first,,SOCY_2132_triples_raw.json
+SOCY_2132,Conflict and Violence,topic,PREREQUISITE_OF,Marriage and Remarriage,topic,A taught first,,SOCY_2132_triples_raw.json
+SOCY_2132,Marriage and Remarriage,topic,PREREQUISITE_OF,Alternate Lifestyles,topic,A taught first,,SOCY_2132_triples_raw.json
+SOCY_2132,Alternate Lifestyles,topic,PREREQUISITE_OF,Future of the Family,topic,A taught first,,SOCY_2132_triples_raw.json
+SOCY_2132,Cultural Family Norms,concept,PART_OF,Family Diversity,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Socialization Processes,concept,PART_OF,Family Diversity,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Sex Roles and Expectations,concept,PART_OF,Family Diversity,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Mate Selection Patterns,concept,PART_OF,Love and Relationships,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Dating and Courtship Practices,concept,PART_OF,Love and Relationships,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Romantic Love Theories,concept,PART_OF,Love and Relationships,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Sexual Identity Formation,concept,PART_OF,Communication and Sexuality,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Sexual Health Education,concept,PART_OF,Communication and Sexuality,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Parental Authority and Control,concept,PART_OF,Power Dynamics and Decision Making,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Spousal Conflict Resolution,concept,PART_OF,Power Dynamics and Decision Making,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Parenting Styles and Practices,concept,PART_OF,Parenthood and Childlessness,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Intimate Partner Violence Theories,concept,PART_OF,Conflict and Violence,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Conflict Resolution Strategies,concept,PART_OF,Conflict and Violence,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Domestic Abuse Prevention,concept,PART_OF,Conflict and Violence,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Remarriage and Stepfamily Dynamics,concept,PART_OF,Marriage and Remarriage,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Blended Family Challenges,concept,PART_OF,Marriage and Remarriage,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Stepfamily Adjustment Processes,concept,PART_OF,Marriage and Remarriage,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Non-Traditional Family Forms,concept,PART_OF,Alternate Lifestyles,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,LGBTQ+ Family Experiences,concept,PART_OF,Alternate Lifestyles,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Changing Family Structures,concept,PART_OF,Future of the Family,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Demographic Shifts and Trends,concept,PART_OF,Future of the Family,topic,,,SOCY_2132_triples_raw.json
+SOCY_2132,Family Policy and Social Change,concept,PART_OF,Future of the Family,topic,,,SOCY_2132_triples_raw.json

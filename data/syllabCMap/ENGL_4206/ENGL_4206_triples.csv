@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4206,Imagery in Poetry,concept,PART_OF,Poetic Devices,topic,,,ENGL_4206_triples_raw.json
+ENGL_4206,Plot Development,concept,PART_OF,Narrative Structure,topic,,,ENGL_4206_triples_raw.json
+ENGL_4206,Characterization Methods,concept,PART_OF,Narrative Structure,topic,,,ENGL_4206_triples_raw.json

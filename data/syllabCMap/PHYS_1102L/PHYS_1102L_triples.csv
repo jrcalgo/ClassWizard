@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHYS_1102L,Scientific Method,concept,PREREQUISITE_OF,Hypothesis Formulation,concept,same unit,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Scientific Method,concept,PREREQUISITE_OF,Data Collection,concept,same unit,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Safety Protocols,concept,PREREQUISITE_OF,Emergency Procedures,concept,same unit,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Meter Calibration,concept,PREREQUISITE_OF,Measurement Uncertainty,concept,same unit,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Magnetic Fields,concept,PREREQUISITE_OF,Field Lines,concept,same unit,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Magnetic Fields,concept,PREREQUISITE_OF,Magnetic Forces,concept,same unit,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Wave Properties,concept,PREREQUISITE_OF,Reflection and Refraction,concept,same unit,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Simulation Software,concept,PREREQUISITE_OF,Data Analysis Tools,concept,same unit,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Simulation Software,concept,PREREQUISITE_OF,Physics Modeling,concept,same unit,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Safety Protocols,concept,PART_OF,Lab Safety,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Emergency Procedures,concept,PART_OF,Lab Safety,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Hypothesis Formulation,concept,PART_OF,Experimental Design,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Data Collection,concept,PART_OF,Experimental Design,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Meter Calibration,concept,PART_OF,Measuring Instruments,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Sensor Types,concept,PART_OF,Measuring Instruments,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Measurement Uncertainty,concept,PART_OF,Measuring Instruments,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Circuit Analysis,concept,PART_OF,Electricity Fundamentals,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Magnetic Fields,concept,PART_OF,Magnetism Basics,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Magnetic Forces,concept,PART_OF,Magnetism Basics,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Wave Properties,concept,PART_OF,Optics Introduction,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Light Sources,concept,PART_OF,Optics Introduction,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Simulation Software,concept,PART_OF,Computer Simulation,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Data Analysis Tools,concept,PART_OF,Computer Simulation,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Physics Modeling,concept,PART_OF,Computer Simulation,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Report Structure,concept,PART_OF,Lab Report Writing,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Data Presentation,concept,PART_OF,Lab Report Writing,topic,,,PHYS_1102L_triples_raw.json
+PHYS_1102L,Conclusion Writing,concept,PART_OF,Lab Report Writing,topic,,,PHYS_1102L_triples_raw.json

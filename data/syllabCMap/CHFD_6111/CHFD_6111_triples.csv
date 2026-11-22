@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHFD_6111,child and family studies,topic,PREREQUISITE_OF,early childhood education,topic,B mentioned first,,CHFD_6111_triples_raw.json
+CHFD_6111,child and family studies,topic,PREREQUISITE_OF,early intervention/early childhood special education,topic,A mentioned first,,CHFD_6111_triples_raw.json
+CHFD_6111,early childhood education,topic,PREREQUISITE_OF,evidence-based practice,topic,B taught first,B is taught before A - check,CHFD_6111_triples_raw.json
+CHFD_6111,early intervention/early childhood special education,topic,PREREQUISITE_OF,evidence-based practice,topic,B mentioned first,,CHFD_6111_triples_raw.json
+CHFD_6111,recommended practices in early childhood,concept,PART_OF,early intervention/early childhood special education,topic,,,CHFD_6111_triples_raw.json
+CHFD_6111,early childhood education,topic,PART_OF,child and family studies,topic,,,CHFD_6111_triples_raw.json
+CHFD_6111,early intervention/early childhood special education,topic,PART_OF,child and family studies,topic,,,CHFD_6111_triples_raw.json

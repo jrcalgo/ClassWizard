@@ -1,0 +1,45 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ITSC_8110,topic,Computing and Information Systems,Computing and Information Systems,8,verified,Computing and Information Systems,ITSC_8110_concepts_raw.json
+ITSC_8110,topic,Research,Research,13,verified,Introduction to Research,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Literature Review Fundamentals,Literature Review Fundamentals,1,inferred,Literature Review Fundamentals,ITSC_8110_concepts_raw.json
+ITSC_8110,topic,Research Design Principles,Research Design Principles,1,inferred,Research Design Principles,ITSC_8110_concepts_raw.json
+ITSC_8110,topic,Quantitative Research Methods,Quantitative Research Methods,1,inferred,Quantitative Research Methods,ITSC_8110_concepts_raw.json
+ITSC_8110,topic,Qualitative Research Approaches,Qualitative Research Approaches,1,inferred,Qualitative Research Approaches,ITSC_8110_concepts_raw.json
+ITSC_8110,topic,Mixed-Methods Research Designs,Mixed-Methods Research Designs,1,inferred,Mixed-Methods Research Designs,ITSC_8110_concepts_raw.json
+ITSC_8110,topic,Ethics in Computing Research,Ethics in Computing Research,1,inferred,Ethics in Computing Research,ITSC_8110_concepts_raw.json
+ITSC_8110,topic,Research Proposal Development,Research Proposal Development,1,inferred,Research Proposal Development,ITSC_8110_concepts_raw.json
+ITSC_8110,topic,Computing and Information Systems Theories,Computing and Information Systems Theories,1,inferred,Computing and Information Systems Theories,ITSC_8110_concepts_raw.json
+ITSC_8110,topic,Research Challenges and Future Directions,Research Challenges and Future Directions,1,inferred,Research Challenges and Future Directions,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Research Methodologies Overview,Research Methodologies Overview,1,inferred,Research Methodologies Overview,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Computing and Information Systems Field,Computing and Information Systems Field,1,inferred,Computing and Information Systems Field,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Research Questions and Hypotheses,Research Questions and Hypotheses,1,inferred,Research Questions and Hypotheses,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Scholarly Article Analysis Techniques,Scholarly Article Analysis Techniques,1,inferred,Scholarly Article Analysis Techniques,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Theoretical Frameworks in Computing Research,Theoretical Frameworks in Computing Research,1,inferred,Theoretical Frameworks in Computing Research,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Methodological Approaches to Literature Reviews,Methodological Approaches to Literature Reviews,1,inferred,Methodological Approaches to Literature Reviews,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Experimental and Non-Experimental Designs,Experimental and Non-Experimental Designs,1,inferred,Experimental and Non-Experimental Designs,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Sampling Strategies for Computing Studies,Sampling Strategies for Computing Studies,1,inferred,Sampling Strategies for Computing Studies,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Data Collection Methods Overview,Data Collection Methods Overview,1,inferred,Data Collection Methods Overview,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Statistical Analysis Techniques in Computing,Statistical Analysis Techniques in Computing,1,inferred,Statistical Analysis Techniques in Computing,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Hypothesis Testing and Confidence Intervals,Hypothesis Testing and Confidence Intervals,1,inferred,Hypothesis Testing and Confidence Intervals,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Regression Analysis Applications,Regression Analysis Applications,1,inferred,Regression Analysis Applications,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Case Study Design and Methodology,Case Study Design and Methodology,1,inferred,Case Study Design and Methodology,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Grounded Theory and Coding Techniques,Grounded Theory and Coding Techniques,1,inferred,Grounded Theory and Coding Techniques,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Phenomenological Research Methods,Phenomenological Research Methods,1,inferred,Phenomenological Research Methods,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Combining Quantitative and Qualitative Data,Combining Quantitative and Qualitative Data,1,inferred,Combining Quantitative and Qualitative Data,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Triangulation and Data Integration Strategies,Triangulation and Data Integration Strategies,1,inferred,Triangulation and Data Integration Strategies,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Informed Consent and Participant Rights,Informed Consent and Participant Rights,1,inferred,Informed Consent and Participant Rights,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Data Protection and Confidentiality Measures,Data Protection and Confidentiality Measures,1,inferred,Data Protection and Confidentiality Measures,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Avoiding Bias and Ensuring Objectivity,Avoiding Bias and Ensuring Objectivity,1,inferred,Avoiding Bias and Ensuring Objectivity,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Social Constructivist Theory Applications,Social Constructivist Theory Applications,1,inferred,Social Constructivist Theory Applications,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Actor-Network Theory in Computing Research,Actor-Network Theory in Computing Research,1,inferred,Actor-Network Theory in Computing Research,ITSC_8110_concepts_raw.json
+ITSC_8110,concept,Critical Theory Perspectives on IS,Critical Theory Perspectives on IS,1,inferred,Critical Theory Perspectives on IS,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Experimental Design,Experimental Designs,1,inferred,Experimental Design,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Non-Experimental Design,Non-Experimental Designs,1,inferred,Non-Experimental Design,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Sampling Strategy,Sampling Strategies,1,inferred,Sampling Strategy,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Data Collection Methods,Data Collection Methods,1,inferred,Data Collection Methods,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Statistical Analysis Technique,Statistical Analysis Techniques,1,inferred,Statistical Analysis Technique,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Hypothesis Testing,Hypothesis Testing,1,inferred,Hypothesis Testing,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Regression Analysis,Regression Analysis,1,inferred,Regression Analysis,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Case Study Design,Case Study Design,1,inferred,Case Study Design,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Grounded Theory and Coding,Grounded Theory and Coding,1,inferred,Grounded Theory and Coding,ITSC_8110_concepts_raw.json
+ITSC_8110,method,Phenomenological Research,Phenomenological Research,1,inferred,Phenomenological Research,ITSC_8110_concepts_raw.json

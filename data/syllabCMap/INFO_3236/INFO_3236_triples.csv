@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+INFO_3236,decision trees,method,PREREQUISITE_OF,cluster analysis,method,A taught first,,INFO_3236_triples_raw.json
+INFO_3236,decision trees,method,PREREQUISITE_OF,logistic regression,method,same unit,,INFO_3236_triples_raw.json
+INFO_3236,logistic regression,method,PREREQUISITE_OF,cluster analysis,method,A taught first,,INFO_3236_triples_raw.json
+INFO_3236,business intelligence,concept,PART_OF,Business Analytics,topic,,,INFO_3236_triples_raw.json
+INFO_3236,data management,concept,PART_OF,Business Analytics,topic,,,INFO_3236_triples_raw.json
+INFO_3236,decision support,concept,PART_OF,Business Analytics,topic,,,INFO_3236_triples_raw.json
+INFO_3236,organizational data resources,concept,PART_OF,data management,concept,,,INFO_3236_triples_raw.json
+INFO_3236,SAS Viya,tool,USED_FOR,data management,concept,,,INFO_3236_triples_raw.json

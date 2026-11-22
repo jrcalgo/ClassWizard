@@ -1,0 +1,61 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NUDN_8202,topic,Community Epidemiology,Community Epidemiology,1,verified,Community Epidemiology,NUDN_8202_concepts_raw.json
+NUDN_8202,topic,Measures of disease frequency Compare disease frequency,Measures of disease frequency Compare disease frequency,1,verified,Measures of disease frequency Compare disease frequency,NUDN_8202_concepts_raw.json
+NUDN_8202,topic,Descriptive epidemiology,Descriptive epidemiology,1,verified,Descriptive epidemiology,NUDN_8202_concepts_raw.json
+NUDN_8202,topic,Analytic epidemiology Experimental studies,Analytic epidemiology Experimental studies,1,verified,Analytic epidemiology Experimental studies,NUDN_8202_concepts_raw.json
+NUDN_8202,topic,Cohort studies Case-control studies,Cohort studies Case-control studies,1,verified,Cohort studies Case-control studies,NUDN_8202_concepts_raw.json
+NUDN_8202,topic,Bias,Bias,8,verified,Bias,NUDN_8202_concepts_raw.json
+NUDN_8202,topic,Confounding Effect measure modification,Confounding Effect measure modification,2,verified,Confounding Effect measure modification,NUDN_8202_concepts_raw.json
+NUDN_8202,topic,Random error Causation,Random error Causation,2,verified,Random error Causation,NUDN_8202_concepts_raw.json
+NUDN_8202,topic,Screening Critical review of studies,Screening Critical review of studies,1,verified,Screening Critical review of studies,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Epidemiology definition,Epidemiology definition,1,verified,Epidemiology definition,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Public health goals,Public health goals,1,verified,Public health goals,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Health models,Health models,1,verified,Health models,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Disease transmission modes,Disease transmission modes,1,verified,Disease transmission modes,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Measures of disease frequency,Measures of disease frequency,2,verified,Measures of disease frequency,NUDN_8202_concepts_raw.json
+NUDN_8202,measure,Relative risk calculation,Relative risk calculation,1,verified,Relative risk calculation,NUDN_8202_concepts_raw.json
+NUDN_8202,measure,Odds ratio estimation,Odds ratio estimation,1,verified,Odds ratio estimation,NUDN_8202_concepts_raw.json
+NUDN_8202,measure,Confidence interval construction,Confidence interval construction,1,verified,Confidence interval construction,NUDN_8202_concepts_raw.json
+NUDN_8202,measure,Poisson distribution application,Poisson distribution application,1,verified,Poisson distribution application,NUDN_8202_concepts_raw.json
+NUDN_8202,measure,Normal distribution assumption,Normal distribution assumption,1,verified,Normal distribution assumption,NUDN_8202_concepts_raw.json
+NUDN_8202,measure,Standardization methods,Standardization methods,1,verified,Standardization methods,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,At-risk population identification,At-risk population identification,1,verified,At-risk population identification,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Epidemiologic Triad,Epidemiologic Triad,1,verified,Epidemiologic Triad,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Modes of Transmission,modes of transmission,2,verified,Modes of Transmission,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Risk Factors,risk factors,2,verified,Risk Factors,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Chronic Diseases,chronic diseases,2,verified,Chronic Diseases,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Health Promotion,health promotion,2,verified,Health Promotion,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Disease Prevention,disease prevention,3,verified,Disease Prevention,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Epidemiologic Studies,Epidemiologic Studies,1,verified,Epidemiologic Studies,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Study Designs,Study Designs,1,verified,Study Designs,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Experimental study design,Experimental study design,1,verified,Experimental study design,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Randomized controlled trials,Randomized controlled trials,1,verified,Randomized controlled trials,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Confounding variables,Confounding variables,4,verified,Confounding variables,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Bias in studies,Bias in studies,1,verified,Bias in studies,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Placebo effect,Placebo effect,1,verified,Placebo effect,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Control group,Control group,1,verified,Control group,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Intervention effects,Intervention effects,1,verified,Intervention effects,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Causal inference,Causal inference,1,verified,Causal inference,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Study validity,Study validity,1,verified,Study validity,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Cohort Study Design,Cohort Study Design,1,verified,Cohort Study Design,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Case-Control Study Design,Case-Control Study Design,1,verified,Case-Control Study Design,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Risk Factor Identification,Risk Factor Identification,1,verified,Risk Factor Identification,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Disease Causality Models,Disease Causality Models,1,verified,Disease Causality Models,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Transmission Modes of Disease,Transmission Modes of Disease,1,verified,Transmission Modes of Disease,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Selection Bias,Selection Bias,2,verified,Selection Bias,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Information Bias,Information Bias,1,verified,Information Bias,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Observer Bias,Observer Bias,1,verified,Observer Bias,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Measurement Error,Measurement Error,2,verified,Measurement Error,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Sampling Frame,Sampling Frame,1,verified,Sampling Frame,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Nonresponse Bias,Nonresponse Bias,1,verified,Nonresponse Bias,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Confounding Effect,Confounding Effect,2,verified,Confounding Effect,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Measure Modification,measure modification,3,verified,Measure Modification,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Bias Types,Bias Types,1,verified,Bias Types,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Effect Measure Modification,Effect measure modification,3,verified,Effect Measure Modification,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Confounding Variable Identification,Confounding Variable Identification,1,verified,Confounding Variable Identification,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Random Error,Random error,2,verified,Random Error,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Screening Tests,Screening Tests,1,verified,Screening Tests,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Study Design Critique,Study Design Critique,1,verified,Study Design Critique,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Epidemiologic Study Types,Epidemiologic Study Types,1,verified,Epidemiologic Study Types,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Risk Factor Analysis,Risk Factor Analysis,1,verified,Risk Factor Analysis,NUDN_8202_concepts_raw.json
+NUDN_8202,concept,Disease Prevention Models,Disease Prevention Models,1,verified,Disease Prevention Models,NUDN_8202_concepts_raw.json

@@ -1,0 +1,54 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+AERO_2101,concept,Aerodynamic Forces,Aerodynamic Forces,11,verified,Aerodynamic Forces,AERO_2101_concepts_raw.json
+AERO_2101,concept,Flight Dynamics Principles,Flight Dynamics Principles,1,verified,Flight Dynamics Principles,AERO_2101_concepts_raw.json
+AERO_2101,concept,Personal Growth,Personal Growth,1,verified,Personal Growth,AERO_2101_concepts_raw.json
+AERO_2101,concept,Emotional Intelligence,Emotional Intelligence,1,verified,Emotional Intelligence,AERO_2101_concepts_raw.json
+AERO_2101,concept,Mindfulness Practices,Mindfulness Practices,1,verified,Mindfulness Practices,AERO_2101_concepts_raw.json
+AERO_2101,concept,Reflective Thinking,Reflective Thinking,1,verified,Reflective Thinking,AERO_2101_concepts_raw.json
+AERO_2101,concept,Effective Followership,Effective Followership,3,verified,Effective Followership,AERO_2101_concepts_raw.json
+AERO_2101,concept,Leadership Styles Comparison,Leadership Styles Comparison,1,verified,Leadership Styles Comparison,AERO_2101_concepts_raw.json
+AERO_2101,concept,Initiative in Teams,Initiative in Teams,1,verified,Initiative in Teams,AERO_2101_concepts_raw.json
+AERO_2101,concept,Collaborative Problem Solving,Collaborative Problem Solving,1,verified,Collaborative Problem Solving,AERO_2101_concepts_raw.json
+AERO_2101,concept,Adaptive Leadership Skills,Adaptive Leadership Skills,1,verified,Adaptive Leadership Skills,AERO_2101_concepts_raw.json
+AERO_2101,concept,Brief writing,Brief writing,2,verified,Brief writing,AERO_2101_concepts_raw.json
+AERO_2101,concept,Memo format,Memo format,1,verified,Memo format,AERO_2101_concepts_raw.json
+AERO_2101,concept,Clear concise language,Clear concise language,1,verified,Clear concise language,AERO_2101_concepts_raw.json
+AERO_2101,concept,Purpose statement,Purpose statement,1,verified,Purpose statement,AERO_2101_concepts_raw.json
+AERO_2101,concept,Scope definition,Scope definition,1,verified,Scope definition,AERO_2101_concepts_raw.json
+AERO_2101,concept,Active Listening,Active Listening,1,verified,Active Listening,AERO_2101_concepts_raw.json
+AERO_2101,concept,Listening Skills,Listening Skills,1,verified,Listening Skills,AERO_2101_concepts_raw.json
+AERO_2101,concept,Auditory Perception,Auditory Perception,1,verified,Auditory Perception,AERO_2101_concepts_raw.json
+AERO_2101,concept,Selective Attention,Selective Attention,1,verified,Selective Attention,AERO_2101_concepts_raw.json
+AERO_2101,concept,Noise Reduction,Noise Reduction,1,verified,Noise Reduction,AERO_2101_concepts_raw.json
+AERO_2101,concept,Team Dynamics,Team Dynamics,1,verified,Team Dynamics,AERO_2101_concepts_raw.json
+AERO_2101,concept,Collaborative Leadership,Collaborative Leadership,1,verified,Collaborative Leadership,AERO_2101_concepts_raw.json
+AERO_2101,concept,Communication Styles,Communication Styles,1,verified,Communication Styles,AERO_2101_concepts_raw.json
+AERO_2101,concept,Conflict Resolution,Conflict Resolution,1,verified,Conflict Resolution,AERO_2101_concepts_raw.json
+AERO_2101,concept,Group Decision Making,Group Decision Making,1,verified,Group Decision Making,AERO_2101_concepts_raw.json
+AERO_2101,concept,Octave transitions,Octave transitions,2,verified,Octave transitions,AERO_2101_concepts_raw.json
+AERO_2101,concept,Airfoil shapes,Airfoil Shapes,11,verified,Airfoil shapes,AERO_2101_concepts_raw.json
+AERO_2101,concept,Lift coefficients,Lift Coefficients,9,verified,Lift coefficients,AERO_2101_concepts_raw.json
+AERO_2101,concept,Drag forces,Drag forces,3,verified,Drag forces,AERO_2101_concepts_raw.json
+AERO_2101,concept,Angle of attack,Angle of Attack,4,verified,Angle of attack,AERO_2101_concepts_raw.json
+AERO_2101,concept,Full Range Leadership Model,Full Range Leadership Model,1,verified,Full Range Leadership Model,AERO_2101_concepts_raw.json
+AERO_2101,concept,Transformational Leadership,Transformational Leadership,1,verified,Transformational Leadership,AERO_2101_concepts_raw.json
+AERO_2101,concept,Transactional Leadership,Transactional Leadership,1,verified,Transactional Leadership,AERO_2101_concepts_raw.json
+AERO_2101,concept,Servant Leadership,Servant Leadership,1,verified,Servant Leadership,AERO_2101_concepts_raw.json
+AERO_2101,concept,Leadership Styles,Leadership Styles,4,verified,Leadership Styles,AERO_2101_concepts_raw.json
+AERO_2101,concept,Free Response Learning Model,Free Response Learning Model,2,verified,Free Response Learning Model,AERO_2101_concepts_raw.json
+AERO_2101,concept,Briefs Format Guidelines,Briefs Format Guidelines,2,verified,Briefs Format Guidelines,AERO_2101_concepts_raw.json
+AERO_2101,concept,Flight Dynamics,Flight Dynamics,2,verified,Flight Dynamics,AERO_2101_concepts_raw.json
+AERO_2101,concept,Lift and Drag,Lift and Drag,1,verified,Lift and Drag,AERO_2101_concepts_raw.json
+AERO_2101,concept,Control Surfaces,Control Surfaces,1,verified,Control Surfaces,AERO_2101_concepts_raw.json
+AERO_2101,concept,Stability Analysis,Stability Analysis,1,verified,Stability Analysis,AERO_2101_concepts_raw.json
+AERO_2101,concept,Octave analysis,Octave analysis,1,verified,Octave analysis,AERO_2101_concepts_raw.json
+AERO_2101,concept,Frequency response,Frequency response,1,verified,Frequency response,AERO_2101_concepts_raw.json
+AERO_2101,concept,Amplitude modulation,Amplitude modulation,1,verified,Amplitude modulation,AERO_2101_concepts_raw.json
+AERO_2101,concept,Phase shift,Phase shift,1,verified,Phase shift,AERO_2101_concepts_raw.json
+AERO_2101,concept,Signal filtering,Signal filtering,1,verified,Signal filtering,AERO_2101_concepts_raw.json
+AERO_2101,topic,Ethical Decision Making,Ethical Decision Making,1,verified,Ethical Decision Making,AERO_2101_concepts_raw.json
+AERO_2101,concept,Moral Principles Application,Moral Principles Application,1,verified,Moral Principles Application,AERO_2101_concepts_raw.json
+AERO_2101,concept,Consequentialism Theory,Consequentialism Theory,1,verified,Consequentialism Theory,AERO_2101_concepts_raw.json
+AERO_2101,concept,Virtue Ethics Approach,Virtue Ethics Approach,1,verified,Virtue Ethics Approach,AERO_2101_concepts_raw.json
+AERO_2101,concept,Airfoil Characteristics,Airfoil Characteristics,1,verified,Airfoil Characteristics,AERO_2101_concepts_raw.json
+AERO_2101,concept,Lift Generation Mechanisms,Lift Generation Mechanisms,2,verified,Lift Generation Mechanisms,AERO_2101_concepts_raw.json

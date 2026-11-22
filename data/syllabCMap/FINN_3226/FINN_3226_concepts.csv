@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+FINN_3226,topic,Financial Analysis,financial analysis,2,verified,Financial Analysis,FINN_3226_concepts_raw.json
+FINN_3226,topic,Credit Analysis,credit analysis,2,verified,Credit Analysis,FINN_3226_concepts_raw.json
+FINN_3226,topic,Free Cash Flow,free cash flow,2,verified,Free Cash Flow,FINN_3226_concepts_raw.json
+FINN_3226,topic,Weighted Average Cost of Capital,weighted average cost of capital,3,verified,Weighted Average Cost of Capital,FINN_3226_concepts_raw.json
+FINN_3226,topic,Project Evaluation,project evaluation,2,verified,Project Evaluation,FINN_3226_concepts_raw.json
+FINN_3226,topic,Firm Value,firm value,2,verified,Firm Value,FINN_3226_concepts_raw.json
+FINN_3226,concept,working capital components,working capital components,1,verified,working capital components,FINN_3226_concepts_raw.json

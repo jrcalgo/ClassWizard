@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GERM_3201,German Verb Conjugation,topic,PREREQUISITE_OF,Role-Playing Exercises,topic,A taught first,,GERM_3201_triples_raw.json
+GERM_3201,Tense and Aspect Review,topic,PREREQUISITE_OF,Interview Techniques in German,topic,A taught first,,GERM_3201_triples_raw.json
+GERM_3201,Case System Overview,topic,PREREQUISITE_OF,Role-Playing Exercises,topic,A taught first,,GERM_3201_triples_raw.json
+GERM_3201,German Writing Styles and Forms,topic,PREREQUISITE_OF,Essay Writing in German,topic,same unit,,GERM_3201_triples_raw.json
+GERM_3201,German Writing Styles and Forms,topic,PREREQUISITE_OF,Descriptive Paragraphs,topic,same unit,,GERM_3201_triples_raw.json
+GERM_3201,Conversation Starters in German,topic,PREREQUISITE_OF,Interview Techniques in German,topic,same unit,,GERM_3201_triples_raw.json
+GERM_3201,Conversation Starters in German,topic,PREREQUISITE_OF,Role-Playing Exercises,topic,same unit,,GERM_3201_triples_raw.json
+GERM_3201,Interview Techniques in German,topic,PREREQUISITE_OF,Role-Playing Exercises,topic,same unit,,GERM_3201_triples_raw.json

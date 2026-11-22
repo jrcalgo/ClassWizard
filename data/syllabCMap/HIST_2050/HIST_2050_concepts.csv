@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+HIST_2050,topic,Western European Conceptions,Western European conceptions,1,verified,Western European Conceptions,HIST_2050_concepts_raw.json
+HIST_2050,topic,Indigenous Health Traditions,Indigenous Health Traditions,1,inferred,Indigenous Health Traditions,HIST_2050_concepts_raw.json
+HIST_2050,topic,Colonial Encounter and Impact,Colonial Encounter and Impact,1,inferred,Colonial Encounter and Impact,HIST_2050_concepts_raw.json
+HIST_2050,topic,Built Environment and Health,Built Environment and Health,1,inferred,Built Environment and Health,HIST_2050_concepts_raw.json
+HIST_2050,topic,"Colonialism, Slavery, and Health","Colonialism, Slavery, and Health",1,inferred,"Colonialism, Slavery, and Health",HIST_2050_concepts_raw.json
+HIST_2050,topic,Revolutionary War and Its Impact,Revolutionary War and Its Impact,1,inferred,Revolutionary War and Its Impact,HIST_2050_concepts_raw.json
+HIST_2050,topic,Antebellum Period Developments,Antebellum Period Developments,1,inferred,Antebellum Period Developments,HIST_2050_concepts_raw.json
+HIST_2050,concept,Native American Healing Practices,Native American Healing Practices,1,inferred,Native American Healing Practices,HIST_2050_concepts_raw.json
+HIST_2050,concept,Medicinal Plant Knowledge Systems,Medicinal Plant Knowledge Systems,1,inferred,Medicinal Plant Knowledge Systems,HIST_2050_concepts_raw.json
+HIST_2050,concept,Embodiment and Spirituality,Embodiment and Spirituality,1,inferred,Embodiment and Spirituality,HIST_2050_concepts_raw.json
+HIST_2050,concept,Humorism and Disease Theory,Humorism and Disease Theory,1,inferred,Humorism and Disease Theory,HIST_2050_concepts_raw.json
+HIST_2050,concept,Medical Education in Europe,Medical Education in Europe,1,inferred,Medical Education in Europe,HIST_2050_concepts_raw.json
+HIST_2050,concept,Physician-Patient Relationships,Physician-Patient Relationships,1,inferred,Physician-Patient Relationships,HIST_2050_concepts_raw.json
+HIST_2050,concept,Cultural Exchange and Conflict,Cultural Exchange and Conflict,1,inferred,Cultural Exchange and Conflict,HIST_2050_concepts_raw.json
+HIST_2050,concept,Indigenous-European Health Comparisons,Indigenous-European Health Comparisons,1,inferred,Indigenous-European Health Comparisons,HIST_2050_concepts_raw.json
+HIST_2050,concept,Disease Transmission Dynamics,Disease Transmission Dynamics,1,inferred,Disease Transmission Dynamics,HIST_2050_concepts_raw.json
+HIST_2050,concept,Urban Planning and Sanitation,Urban Planning and Sanitation,1,inferred,Urban Planning and Sanitation,HIST_2050_concepts_raw.json
+HIST_2050,concept,Environmental Factors in Disease,Environmental Factors in Disease,1,inferred,Environmental Factors in Disease,HIST_2050_concepts_raw.json
+HIST_2050,concept,Health Risks of Urbanization,Health Risks of Urbanization,1,inferred,Health Risks of Urbanization,HIST_2050_concepts_raw.json
+HIST_2050,concept,Enslaved People's Health Experiences,Enslaved People's Health Experiences,1,inferred,Enslaved People's Health Experiences,HIST_2050_concepts_raw.json
+HIST_2050,concept,Racialized Healthcare Disparities,Racialized Healthcare Disparities,1,inferred,Racialized Healthcare Disparities,HIST_2050_concepts_raw.json
+HIST_2050,concept,Colonialism and Health Inequity,Colonialism and Health Inequity,1,inferred,Colonialism and Health Inequity,HIST_2050_concepts_raw.json
+HIST_2050,concept,War-Related Health Challenges,War-Related Health Challenges,1,inferred,War-Related Health Challenges,HIST_2050_concepts_raw.json
+HIST_2050,concept,Medical Advances During Conflict,Medical Advances During Conflict,1,inferred,Medical Advances During Conflict,HIST_2050_concepts_raw.json
+HIST_2050,concept,Healthcare System Changes,Healthcare System Changes,1,inferred,Healthcare System Changes,HIST_2050_concepts_raw.json
+HIST_2050,concept,Growth of Medical Education,Growth of Medical Education,1,inferred,Growth of Medical Education,HIST_2050_concepts_raw.json
+HIST_2050,concept,Emergence of New Healthcare Models,Emergence of New Healthcare Models,1,inferred,Emergence of New Healthcare Models,HIST_2050_concepts_raw.json
+HIST_2050,concept,Rise of Pharmaceutical Industry,Rise of Pharmaceutical Industry,1,inferred,Rise of Pharmaceutical Industry,HIST_2050_concepts_raw.json

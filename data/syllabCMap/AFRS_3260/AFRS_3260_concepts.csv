@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+AFRS_3260,topic,Slavery,Slavery,11,verified,Slavery,AFRS_3260_concepts_raw.json
+AFRS_3260,topic,Colonialism,Colonialism,7,verified,Colonialism,AFRS_3260_concepts_raw.json
+AFRS_3260,topic,African Diaspora,African Diaspora,1,verified,The African Diaspora,AFRS_3260_concepts_raw.json
+AFRS_3260,topic,Abolitionism,abolitionism,1,verified,Abolitionism,AFRS_3260_concepts_raw.json
+AFRS_3260,topic,Military Slavery,military slavery,1,verified,Military Slavery,AFRS_3260_concepts_raw.json
+AFRS_3260,concept,Characteristics of Slavery,characteristics of slavery,1,verified,Characteristics of Slavery,AFRS_3260_concepts_raw.json
+AFRS_3260,concept,Forms of Dependence,forms of dependence,1,verified,Forms of Dependence,AFRS_3260_concepts_raw.json

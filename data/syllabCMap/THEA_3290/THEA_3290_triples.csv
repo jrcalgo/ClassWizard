@@ -1,0 +1,6 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+THEA_3290,Film vocabulary,topic,PART_OF,Screen acting,topic,,,THEA_3290_triples_raw.json
+THEA_3290,Research and critical thinking,topic,PART_OF,Screen acting,topic,,,THEA_3290_triples_raw.json
+THEA_3290,Interdisciplinary artistic collaboration,topic,PART_OF,Screen acting,topic,,,THEA_3290_triples_raw.json
+THEA_3290,Setting up production equipment,method,PART_OF,Screen acting,topic,,,THEA_3290_triples_raw.json
+THEA_3290,Setting up production equipment,method,USED_FOR,Screen acting,topic,,,THEA_3290_triples_raw.json

@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ATRN_6118,topic,Administration for Health Care Professionals,Administration for Health Care Professionals,2,verified,Administration for Health Care Professionals,ATRN_6118_concepts_raw.json
+ATRN_6118,topic,Business Management Principles,business management principles,1,verified,Business Management Principles,ATRN_6118_concepts_raw.json
+ATRN_6118,topic,Healthcare,Healthcare,8,inferred,Introduction to Healthcare,ATRN_6118_concepts_raw.json
+ATRN_6118,topic,Leadership and Communication,Leadership and Communication,1,inferred,Leadership and Communication,ATRN_6118_concepts_raw.json
+ATRN_6118,topic,Healthcare Policy and Law,Healthcare Policy and Law,1,inferred,Healthcare Policy and Law,ATRN_6118_concepts_raw.json
+ATRN_6118,topic,Quality Improvement and Safety,Quality Improvement and Safety,1,inferred,Quality Improvement and Safety,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Healthcare System Overview,Healthcare System Overview,1,inferred,Healthcare System Overview,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Administrative Roles and Responsibilities,Administrative Roles and Responsibilities,1,inferred,Administrative Roles and Responsibilities,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Professional Development in AT,Professional Development in AT,1,inferred,Professional Development in AT,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Strategic Planning in Healthcare,Strategic Planning in Healthcare,1,inferred,Strategic Planning in Healthcare,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Financial Management in AT,Financial Management in AT,1,inferred,Financial Management in AT,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Marketing in Healthcare Settings,Marketing in Healthcare Settings,1,inferred,Marketing in Healthcare Settings,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Effective Leadership Styles,Effective Leadership Styles,1,inferred,Effective Leadership Styles,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Communication Strategies in Teams,Communication Strategies in Teams,1,inferred,Communication Strategies in Teams,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Conflict Resolution Techniques,Conflict Resolution Techniques,1,inferred,Conflict Resolution Techniques,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Regulatory Frameworks in Healthcare,Regulatory Frameworks in Healthcare,1,inferred,Regulatory Frameworks in Healthcare,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Ethics in Healthcare Decision Making,Ethics in Healthcare Decision Making,1,inferred,Ethics in Healthcare Decision Making,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Compliance with Healthcare Laws,Compliance with Healthcare Laws,1,inferred,Compliance with Healthcare Laws,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Quality Improvement Initiatives,Quality Improvement Initiatives,1,inferred,Quality Improvement Initiatives,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Patient Safety Strategies in AT,Patient Safety Strategies in AT,1,inferred,Patient Safety Strategies in AT,ATRN_6118_concepts_raw.json
+ATRN_6118,concept,Risk Management Techniques,Risk Management Techniques,1,inferred,Risk Management Techniques,ATRN_6118_concepts_raw.json

@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PHIL_3009,sympathy,concept,PART_OF,Theory of Moral Sentiments,work,,part is broader than whole - check direction,PHIL_3009_triples_raw.json
+PHIL_3009,critique of mercantilism,concept,PART_OF,Wealth of Nations,work,,part is broader than whole - check direction,PHIL_3009_triples_raw.json

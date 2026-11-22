@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_7284,Optical Microscope Basics,concept,PART_OF,Surface Metrology Fundamentals,topic,,,MEGR_7284_triples_raw.json
+MEGR_7284,Atomic Force Microscopy,concept,PART_OF,Surface Metrology Fundamentals,topic,,,MEGR_7284_triples_raw.json
+MEGR_7284,Random Process Analysis Techniques,concept,PART_OF,Surface Texture Constituents,topic,,,MEGR_7284_triples_raw.json
+MEGR_7284,Transforms for Filtering,concept,PART_OF,Surface Texture Constituents,topic,,,MEGR_7284_triples_raw.json
+MEGR_7284,Numerical Evaluation of Surface Texture,concept,PART_OF,2D and 3D Surface Measurements,topic,,,MEGR_7284_triples_raw.json
+MEGR_7284,Two-Dimensional Surface Measurement,concept,PART_OF,2D and 3D Surface Measurements,topic,,,MEGR_7284_triples_raw.json
+MEGR_7284,Three-Dimensional Surface Measurement,concept,PART_OF,2D and 3D Surface Measurements,topic,,,MEGR_7284_triples_raw.json
+MEGR_7284,Surface Texture Data Analysis,concept,PART_OF,2D and 3D Surface Measurements,topic,,,MEGR_7284_triples_raw.json
+MEGR_7284,Numerical Evaluation of Surface Texture,concept,USED_FOR,Two-Dimensional Surface Measurement,concept,,,MEGR_7284_triples_raw.json
+MEGR_7284,Numerical Evaluation of Surface Texture,concept,USED_FOR,Three-Dimensional Surface Measurement,concept,,,MEGR_7284_triples_raw.json

@@ -1,0 +1,36 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_4241,topic,Design Philosophy,design philosophies,1,verified,Design Philosophy,ECGR_4241_concepts_raw.json
+ECGR_4241,topic,Team Problem-Solving,team problem-solving,1,verified,Team Problem-Solving,ECGR_4241_concepts_raw.json
+ECGR_4241,topic,Project Management,project management,1,verified,Project Management,ECGR_4241_concepts_raw.json
+ECGR_4241,topic,Social Engineering,social engineering,1,verified,Social Engineering,ECGR_4241_concepts_raw.json
+ECGR_4241,topic,Project Formation,Project Formation,1,inferred,Project Formation,ECGR_4241_concepts_raw.json
+ECGR_4241,topic,Project Execution,Project Execution,1,inferred,Project Execution,ECGR_4241_concepts_raw.json
+ECGR_4241,topic,Progress Evaluations,Progress Evaluations,1,inferred,Progress Evaluations,ECGR_4241_concepts_raw.json
+ECGR_4241,topic,Final Report Preparation,Final Report Preparation,1,inferred,Final Report Preparation,ECGR_4241_concepts_raw.json
+ECGR_4241,topic,Expo Presentation,Expo Presentation,1,inferred,Expo Presentation,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Team Formation Process,Team Formation Process,1,inferred,Team Formation Process,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Client Project Briefing,Client Project Briefing,1,inferred,Client Project Briefing,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Project Scope Definition,Project Scope Definition,1,inferred,Project Scope Definition,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Engineering Design Principles,Engineering Design Principles,1,inferred,Engineering Design Principles,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Design Standards and Guidelines,Design Standards and Guidelines,1,inferred,Design Standards and Guidelines,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Research Methods for Engineers,Research Methods for Engineers,1,inferred,Research Methods for Engineers,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Collaborative Problem Solving,Collaborative Problem Solving,1,inferred,Collaborative Problem Solving,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Conflict Resolution Strategies,Conflict Resolution Strategies,1,inferred,Conflict Resolution Strategies,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Effective Communication Skills,Effective Communication Skills,1,inferred,Effective Communication Skills,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Time and Financial Planning,Time and Financial Planning,1,inferred,Time and Financial Planning,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Resource Allocation Techniques,Resource Allocation Techniques,1,inferred,Resource Allocation Techniques,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Risk Management Strategies,Risk Management Strategies,1,inferred,Risk Management Strategies,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Interpersonal Communication Skills,Interpersonal Communication Skills,1,inferred,Interpersonal Communication Skills,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Cultural Awareness and Sensitivity,Cultural Awareness and Sensitivity,1,inferred,Cultural Awareness and Sensitivity,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Team Building Activities,Team Building Activities,1,inferred,Team Building Activities,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Work Breakdown Structure,Work Breakdown Structure,1,inferred,Work Breakdown Structure,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Task Scheduling Methods,Task Scheduling Methods,1,inferred,Task Scheduling Methods,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Quality Control Procedures,Quality Control Procedures,1,inferred,Quality Control Procedures,ECGR_4241_concepts_raw.json
+ECGR_4241,measure,Performance Metrics and Indicators,Performance Metrics and Indicators,1,inferred,Performance Metrics and Indicators,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Progress Monitoring Techniques,Progress Monitoring Techniques,1,inferred,Progress Monitoring Techniques,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Adjustment and Improvement Strategies,Adjustment and Improvement Strategies,1,inferred,Adjustment and Improvement Strategies,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Design Package Development,Design Package Development,1,inferred,Design Package Development,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Technical Writing Skills,Technical Writing Skills,1,inferred,Technical Writing Skills,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Presentation Techniques,Presentation Techniques,1,inferred,Presentation Techniques,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Effective Communication Strategies,Effective Communication Strategies,1,inferred,Effective Communication Strategies,ECGR_4241_concepts_raw.json
+ECGR_4241,concept,Visual Aids and Presentations,Visual Aids and Presentations,1,inferred,Visual Aids and Presentations,ECGR_4241_concepts_raw.json

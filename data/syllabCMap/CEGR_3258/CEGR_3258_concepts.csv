@@ -1,0 +1,29 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CEGR_3258,topic,Geotechnical Lab,Geotechnical Lab,1,verified,Geotechnical Lab,CEGR_3258_concepts_raw.json
+CEGR_3258,topic,Soil Classification Systems,Soil Classification System,2,verified,Soil Classification Systems,CEGR_3258_concepts_raw.json
+CEGR_3258,topic,Settlement Analysis,settlement analysis,1,verified,Settlement Analysis,CEGR_3258_concepts_raw.json
+CEGR_3258,topic,Permeability Testing,permeability testing,2,verified,Permeability Testing,CEGR_3258_concepts_raw.json
+CEGR_3258,topic,Compaction Testing,compaction testing,2,verified,Compaction Testing,CEGR_3258_concepts_raw.json
+CEGR_3258,topic,Slope Stability Analysis,slope stability analysis,2,verified,Slope Stability Analysis,CEGR_3258_concepts_raw.json
+CEGR_3258,topic,Technical Mastery of Soil Behavior,Technical Mastery of Soil Behavior,1,verified,Technical Mastery of Soil Behavior,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,grain size distribution,grain size distribution,2,verified,grain size distribution,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,Unified Soil Classification System (USCS,Unified Soil Classification System (USCS,1,verified,Unified Soil Classification System (USCS),CEGR_3258_concepts_raw.json
+CEGR_3258,concept,AASHTO soil classification system,AASHTO soil classification system,1,verified,AASHTO soil classification system,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,particle size distribution,particle size distribution,1,verified,particle size distribution,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,plasticity characteristics,plasticity characteristics,1,verified,plasticity characteristics,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,triaxial tests,triaxial tests,1,verified,triaxial tests,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,unconfined compression tests,unconfined compression tests,1,verified,unconfined compression tests,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,direct shear tests,direct shear tests,1,verified,direct shear tests,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,consolidation tests,consolidation tests,2,verified,consolidation tests,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,falling head permeability test,falling head permeability tests,1,verified,falling head permeability test,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,optimum moisture content,optimum moisture content,1,verified,optimum moisture content,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,angle of internal friction,angle of internal friction,1,verified,angle of internal friction,CEGR_3258_concepts_raw.json
+CEGR_3258,concept,pore pressure characteristics,pore pressure characteristics,1,verified,pore pressure characteristics,CEGR_3258_concepts_raw.json
+CEGR_3258,method,soil testing,Soil testing,3,verified,soil testing,CEGR_3258_concepts_raw.json
+CEGR_3258,method,calculation of critical soil parameters,calculation of critical soil parameters,1,verified,calculation of critical soil parameters,CEGR_3258_concepts_raw.json
+CEGR_3258,method,graphing techniques,graphing techniques,1,verified,graphing techniques,CEGR_3258_concepts_raw.json
+CEGR_3258,method,experimentation,experimentation,1,verified,experimentation,CEGR_3258_concepts_raw.json
+CEGR_3258,method,engineering judgment,engineering judgment,1,verified,engineering judgment,CEGR_3258_concepts_raw.json
+CEGR_3258,method,peer-review processes,peer-review processes,1,verified,peer-review processes,CEGR_3258_concepts_raw.json
+CEGR_3258,method,technical reporting and documentation,technical reporting and documentation,1,verified,technical reporting and documentation,CEGR_3258_concepts_raw.json
+CEGR_3258,tool,industry-standard equipment,industry-standard equipment,1,verified,industry-standard equipment,CEGR_3258_concepts_raw.json

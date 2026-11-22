@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HLTH_3102,Determinants of Health and Illness,concept,PREREQUISITE_OF,Factors Contributing to Health Promotion,concept,A taught first,,HLTH_3102_triples_raw.json
+HLTH_3102,Alternative National Approaches,concept,PART_OF,Comparative Healthcare Systems,topic,,,HLTH_3102_triples_raw.json
+HLTH_3102,Determinants of Health and Illness,concept,PART_OF,Comparative Healthcare Systems,topic,,,HLTH_3102_triples_raw.json
+HLTH_3102,Factors Contributing to Health Promotion,concept,PART_OF,Comparative Healthcare Systems,topic,,,HLTH_3102_triples_raw.json

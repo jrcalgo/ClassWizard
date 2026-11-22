@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3180,topic,Data Structures and Algorithms in C++,Data Structures and Algorithms in C++,1,verified,Data Structures and Algorithms in C++,ECGR_3180_concepts_raw.json
+ECGR_3180,tool,C++,C++,5,verified,C++,ECGR_3180_concepts_raw.json
+ECGR_3180,tool,zyBooks,zyBooks,1,verified,zyBooks,ECGR_3180_concepts_raw.json
+ECGR_3180,tool,Algorithms in C++,Algorithms in C++,2,verified,Algorithms in C++,ECGR_3180_concepts_raw.json
+ECGR_3180,topic,Data Structures Fundamentals,Data Structures Fundamentals,1,inferred,Data Structures Fundamentals,ECGR_3180_concepts_raw.json
+ECGR_3180,topic,Sorting Algorithms,Sorting Algorithms,1,inferred,Sorting Algorithms,ECGR_3180_concepts_raw.json
+ECGR_3180,topic,Advanced Data Structures,Advanced Data Structures,1,inferred,Advanced Data Structures,ECGR_3180_concepts_raw.json
+ECGR_3180,topic,Algorithm Design Principles,Algorithm Design Principles,1,inferred,Algorithm Design Principles,ECGR_3180_concepts_raw.json
+ECGR_3180,topic,Engineering Problem Solving,Engineering Problem Solving,1,inferred,Engineering Problem Solving,ECGR_3180_concepts_raw.json

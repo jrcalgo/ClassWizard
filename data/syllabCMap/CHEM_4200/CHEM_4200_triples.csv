@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_4200,computational methods,concept,PREREQUISITE_OF,quantum chemistry models,concept,A mentioned first,,CHEM_4200_triples_raw.json
+CHEM_4200,quantum chemistry models,concept,PREREQUISITE_OF,parameterizing model Hamiltonians,concept,B mentioned first,,CHEM_4200_triples_raw.json
+CHEM_4200,Photonic Degrees of Freedom,concept,PREREQUISITE_OF,parameterizing model Hamiltonians,concept,same unit,,CHEM_4200_triples_raw.json
+CHEM_4200,parameterizing model Hamiltonians,concept,PART_OF,computational methods,concept,,,CHEM_4200_triples_raw.json
+CHEM_4200,quantum chemistry models,concept,PART_OF,computational methods,concept,,,CHEM_4200_triples_raw.json
+CHEM_4200,Photonic Degrees of Freedom,concept,PART_OF,parameterizing model Hamiltonians,concept,,,CHEM_4200_triples_raw.json

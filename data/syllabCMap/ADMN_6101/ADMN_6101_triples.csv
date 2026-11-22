@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ADMN_6101,Adult Learning Theory,topic,PREREQUISITE_OF,Instructional Decisions,topic,A mentioned first,,ADMN_6101_triples_raw.json
+ADMN_6101,Adult Learning Theory,topic,PREREQUISITE_OF,Media Selections,topic,same unit,,ADMN_6101_triples_raw.json
+ADMN_6101,Adult Education Practice,topic,PREREQUISITE_OF,Professional Standards,topic,A mentioned first,,ADMN_6101_triples_raw.json
+ADMN_6101,Program Planning Skills,topic,PREREQUISITE_OF,Instructional Decisions,topic,B mentioned first,,ADMN_6101_triples_raw.json
+ADMN_6101,Program Planning Skills,topic,PREREQUISITE_OF,Media Selections,topic,B mentioned first,,ADMN_6101_triples_raw.json
+ADMN_6101,Program Planning,method,PART_OF,Program Planning Skills,topic,,,ADMN_6101_triples_raw.json
+ADMN_6101,Project Management,method,PART_OF,Program Planning,method,,,ADMN_6101_triples_raw.json
+ADMN_6101,Instructional Decisions,topic,PART_OF,Program Planning,method,,part is broader than whole - check direction,ADMN_6101_triples_raw.json
+ADMN_6101,Media Selections,topic,PART_OF,Program Planning,method,,part is broader than whole - check direction,ADMN_6101_triples_raw.json
+ADMN_6101,Reflection and Excellence,topic,PART_OF,Adult Education Practice,topic,,,ADMN_6101_triples_raw.json
+ADMN_6101,Professional Standards,topic,PART_OF,College of Education Conceptual Framework,topic,,,ADMN_6101_triples_raw.json
+ADMN_6101,Program Planning,method,USED_FOR,Instructional Decisions,topic,,,ADMN_6101_triples_raw.json
+ADMN_6101,Program Planning,method,USED_FOR,Media Selections,topic,,,ADMN_6101_triples_raw.json
+ADMN_6101,Project Management,method,USED_FOR,Program Planning,method,,,ADMN_6101_triples_raw.json

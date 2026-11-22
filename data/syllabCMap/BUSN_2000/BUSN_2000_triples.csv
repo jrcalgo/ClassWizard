@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BUSN_2000,Campus Familiarization,topic,PART_OF,Business,topic,,,BUSN_2000_triples_raw.json
+BUSN_2000,Resource Awareness,topic,PART_OF,Business,topic,,,BUSN_2000_triples_raw.json
+BUSN_2000,Peer Mentorship Program,topic,PART_OF,Student Support Network,topic,,,BUSN_2000_triples_raw.json

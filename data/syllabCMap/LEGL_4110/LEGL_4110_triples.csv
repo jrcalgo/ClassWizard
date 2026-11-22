@@ -1,0 +1,20 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+LEGL_4110,legislative process,topic,PREREQUISITE_OF,parliamentary procedure,topic,A taught first,,LEGL_4110_triples_raw.json
+LEGL_4110,parliamentary procedure,topic,PREREQUISITE_OF,NCSL annual session preparation,topic,A taught first,,LEGL_4110_triples_raw.json
+LEGL_4110,writing and critique workshop,topic,PREREQUISITE_OF,resolution and bill drafting,topic,B taught first,B is taught before A - check,LEGL_4110_triples_raw.json
+LEGL_4110,legislative process overview,concept,PART_OF,legislative process,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,expectations and requirements,concept,PART_OF,legislative process,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,contract signing,concept,PART_OF,legislative process,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,rules of decorum and comity,concept,PART_OF,parliamentary procedure,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,order of business in legislature,concept,PART_OF,parliamentary procedure,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,motion and amendment procedures,concept,PART_OF,parliamentary procedure,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,writing effective legislation,concept,PART_OF,resolution and bill drafting,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,value dimensions for persuasion,concept,PART_OF,resolution and bill drafting,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,debate strategies and techniques,concept,PART_OF,interim council debates,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,presenting resolutions effectively,concept,PART_OF,interim council debates,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,receiving feedback and critique,concept,PART_OF,interim council debates,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,review of parliamentary procedure,concept,PART_OF,NCSL annual session preparation,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,finalizing resolution presentations,concept,PART_OF,NCSL annual session preparation,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,preparing for NCSL debates,concept,PART_OF,NCSL annual session preparation,topic,,,LEGL_4110_triples_raw.json
+LEGL_4110,parliamentary procedure,topic,USED_FOR,interim council debates,topic,,topic used for something - check direction,LEGL_4110_triples_raw.json
+LEGL_4110,parliamentary procedure,topic,USED_FOR,NCSL annual session preparation,topic,,topic used for something - check direction,LEGL_4110_triples_raw.json

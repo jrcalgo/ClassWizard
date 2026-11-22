@@ -1,0 +1,128 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_8125,spatial data,concept,PREREQUISITE_OF,overlay operations,concept,A taught first,,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PREREQUISITE_OF,network analysis,concept,A taught first,,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PREREQUISITE_OF,spatial interpolation,topic,A taught first,,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PREREQUISITE_OF,aggregation,concept,same unit,,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PREREQUISITE_OF,data uncertainty,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PREREQUISITE_OF,geocoding,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PREREQUISITE_OF,GPS,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PREREQUISITE_OF,spatial join,method,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PREREQUISITE_OF,geomasking,method,same unit,,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PREREQUISITE_OF,cartographic design,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PREREQUISITE_OF,raster and terrain modeling,topic,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PREREQUISITE_OF,spatial interpolation,topic,A taught first,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PREREQUISITE_OF,aggregation,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PREREQUISITE_OF,data uncertainty,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PREREQUISITE_OF,geocoding,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PREREQUISITE_OF,GPS,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PREREQUISITE_OF,spatial join,method,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PREREQUISITE_OF,geomasking,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PREREQUISITE_OF,cartographic design,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,PREREQUISITE_OF,spatial and space-time clustering,topic,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,PREREQUISITE_OF,aggregation,concept,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,PREREQUISITE_OF,data uncertainty,concept,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,PREREQUISITE_OF,geocoding,concept,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,PREREQUISITE_OF,GPS,concept,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,PREREQUISITE_OF,spatial join,method,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,PREREQUISITE_OF,geomasking,method,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,PREREQUISITE_OF,cartographic design,method,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PREREQUISITE_OF,spatial and space-time clustering,topic,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PREREQUISITE_OF,aggregation,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PREREQUISITE_OF,data uncertainty,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PREREQUISITE_OF,geocoding,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PREREQUISITE_OF,GPS,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PREREQUISITE_OF,Volunteered Geographic Information,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PREREQUISITE_OF,spatial join,method,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PREREQUISITE_OF,geomasking,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PREREQUISITE_OF,cartographic design,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,PREREQUISITE_OF,aggregation,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,PREREQUISITE_OF,data uncertainty,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,PREREQUISITE_OF,geocoding,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,PREREQUISITE_OF,GPS,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,PREREQUISITE_OF,Volunteered Geographic Information,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,PREREQUISITE_OF,spatial join,method,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,PREREQUISITE_OF,geomasking,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,PREREQUISITE_OF,data uncertainty,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,PREREQUISITE_OF,geocoding,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,PREREQUISITE_OF,GPS,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,PREREQUISITE_OF,spatial join,method,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,PREREQUISITE_OF,geomasking,method,same unit,,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,PREREQUISITE_OF,cartographic design,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,PREREQUISITE_OF,geocoding,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,PREREQUISITE_OF,GPS,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,PREREQUISITE_OF,Volunteered Geographic Information,concept,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,PREREQUISITE_OF,spatial join,method,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,PREREQUISITE_OF,geomasking,method,A taught first,,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,PREREQUISITE_OF,cartographic design,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,PREREQUISITE_OF,GPS,concept,same unit,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,PREREQUISITE_OF,Volunteered Geographic Information,concept,same unit,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,PREREQUISITE_OF,spatial join,method,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,PREREQUISITE_OF,geomasking,method,A taught first,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,PREREQUISITE_OF,cartographic design,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,GPS,concept,PREREQUISITE_OF,Volunteered Geographic Information,concept,same unit,,GEOG_8125_triples_raw.json
+GEOG_8125,GPS,concept,PREREQUISITE_OF,spatial join,method,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,GPS,concept,PREREQUISITE_OF,geomasking,method,A taught first,,GEOG_8125_triples_raw.json
+GEOG_8125,GPS,concept,PREREQUISITE_OF,cartographic design,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,Volunteered Geographic Information,concept,PREREQUISITE_OF,spatial join,method,A mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,Volunteered Geographic Information,concept,PREREQUISITE_OF,geomasking,method,A taught first,,GEOG_8125_triples_raw.json
+GEOG_8125,spatial join,method,PREREQUISITE_OF,geomasking,method,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,spatial join,method,PREREQUISITE_OF,cartographic design,method,B mentioned first,,GEOG_8125_triples_raw.json
+GEOG_8125,geomasking,method,PREREQUISITE_OF,cartographic design,method,B taught first,B is taught before A - check,GEOG_8125_triples_raw.json
+GEOG_8125,scale,concept,PART_OF,Nature of spatial data,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,representation,concept,PART_OF,Nature of spatial data,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,projection,concept,PART_OF,Nature of spatial data,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,topological relationships,concept,PART_OF,Nature of spatial data,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,PART_OF,data acquisition,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,GPS,concept,PART_OF,data acquisition,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,Volunteered Geographic Information,concept,PART_OF,data acquisition,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,PART_OF,spatial data manipulation and protection,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,overlay operations,concept,PART_OF,spatial data manipulation and protection,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,geomasking,method,PART_OF,spatial data manipulation and protection,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,PART_OF,raster and terrain modeling,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,PART_OF,raster and terrain modeling,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,space-time clustering,concept,PART_OF,raster and terrain modeling,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,raster and terrain modeling,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,spatial interpolation,topic,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,space-time clustering,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,aggregation,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,data uncertainty,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,geocoding,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,GPS,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,Volunteered Geographic Information,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,spatial join,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,geomasking,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,network analysis,concept,USED_FOR,cartographic design,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,USED_FOR,space-time clustering,concept,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,USED_FOR,geocoding,concept,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,USED_FOR,Volunteered Geographic Information,concept,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,raster and terrain modeling,topic,USED_FOR,spatial join,method,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,spatial interpolation,topic,USED_FOR,spatial join,method,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,USED_FOR,aggregation,concept,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,USED_FOR,data uncertainty,concept,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,USED_FOR,geocoding,concept,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,USED_FOR,GPS,concept,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,USED_FOR,spatial join,method,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,USED_FOR,geomasking,method,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,spatial and space-time clustering,topic,USED_FOR,cartographic design,method,,topic used for something - check direction,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,USED_FOR,data uncertainty,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,USED_FOR,geocoding,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,USED_FOR,GPS,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,USED_FOR,Volunteered Geographic Information,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,USED_FOR,spatial join,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,aggregation,concept,USED_FOR,cartographic design,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,USED_FOR,geocoding,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,USED_FOR,GPS,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,USED_FOR,Volunteered Geographic Information,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,USED_FOR,spatial join,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,USED_FOR,geomasking,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,data uncertainty,concept,USED_FOR,cartographic design,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,USED_FOR,GPS,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,USED_FOR,Volunteered Geographic Information,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,USED_FOR,spatial join,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,USED_FOR,geomasking,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,geocoding,concept,USED_FOR,cartographic design,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,GPS,concept,USED_FOR,Volunteered Geographic Information,concept,,,GEOG_8125_triples_raw.json
+GEOG_8125,GPS,concept,USED_FOR,cartographic design,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,Volunteered Geographic Information,concept,USED_FOR,spatial join,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,Volunteered Geographic Information,concept,USED_FOR,geomasking,method,,,GEOG_8125_triples_raw.json
+GEOG_8125,spatial join,method,USED_FOR,geomasking,method,,,GEOG_8125_triples_raw.json

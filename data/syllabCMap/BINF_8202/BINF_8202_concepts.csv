@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BINF_8202,topic,Computational Structural Biology,Computational Structural Biology,1,verified,Computational Structural Biology,BINF_8202_concepts_raw.json
+BINF_8202,concept,protein structural domains,protein structural domains,1,verified,protein structural domains,BINF_8202_concepts_raw.json
+BINF_8202,concept,chemical building blocks,chemical building blocks,1,verified,chemical building blocks,BINF_8202_concepts_raw.json
+BINF_8202,concept,structure,structures,1,verified,structure,BINF_8202_concepts_raw.json
+BINF_8202,concept,folding,folding,1,verified,folding,BINF_8202_concepts_raw.json
+BINF_8202,concept,structural databases,structural databases,1,verified,structural databases,BINF_8202_concepts_raw.json
+BINF_8202,concept,protein structure comparison,protein structure comparison,1,verified,protein structure comparison,BINF_8202_concepts_raw.json

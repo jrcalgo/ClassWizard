@@ -1,0 +1,52 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+BIOL_5000,concept,Post-transcriptional gene regulation,post - transcriptional gene regulation,34,verified,Post-transcriptional gene regulation,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA level control mechanisms,RNA level control mechanisms,12,verified,RNA level control mechanisms,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,MicroRNAs and their targets,MicroRNAs and their targets,26,verified,MicroRNAs and their targets,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Small interfering RNAs function,Small interfering RNAs function,22,verified,Small interfering RNAs function,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Gene silencing techniques used,Gene silencing techniques used,6,verified,Gene silencing techniques used,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,mRNA stability factors,mRNA Stability Factors,2,verified,mRNA stability factors,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA splicing,RNA splicing,3,verified,RNA splicing,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Alternative splicing,Alternative splicing,4,verified,Alternative splicing,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,MicroRNAs functionality,MicroRNAs Functionality,1,verified,MicroRNAs functionality,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Non-coding RNAs role,Non-coding RNAs role,2,verified,Non-coding RNAs role,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA degradation mechanisms,RNA degradation mechanisms,2,verified,RNA degradation mechanisms,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Post-transcriptional regulation types,Post-transcriptional regulation types,1,verified,Post-transcriptional regulation types,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Gene expression control,Gene expression control,11,verified,Gene expression control,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,mRNA capping,mRNA capping,2,verified,mRNA capping,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,polyadenylation process,polyadenylation process,1,verified,polyadenylation process,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,capping enzymes function,capping enzymes function,1,verified,capping enzymes function,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,poly(A) tail formation,poly(A) tail formation,1,verified,poly(A) tail formation,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,cap structure importance,cap structure importance,1,verified,cap structure importance,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,polyadenylation regulation mechanisms,polyadenylation regulation mechanisms,1,verified,polyadenylation regulation mechanisms,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,spliceosome structure and function,spliceosome structure and function,1,verified,spliceosome structure and function,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,pre-mRNA processing stages,pre-mRNA processing stages,1,verified,pre-mRNA processing stages,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,alternative splicing regulation,alternative splicing regulation,2,verified,alternative splicing regulation,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,exon definition and recognition,exon definition and recognition,2,verified,exon definition and recognition,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,MicroRNA Functionality,MicroRNA Functionality,2,verified,MicroRNA Functionality,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Long Noncoding RNAs,Long Noncoding RNAs,1,verified,Long Noncoding RNAs,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Small Interfering RNAs,Small interfering RNAs,28,verified,Small Interfering RNAs,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA Binding Proteins,RNA Binding Proteins,6,verified,RNA Binding Proteins,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Post-Transcriptional Regulation,Post-transcriptional regulation,9,verified,Post-Transcriptional Regulation,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,mRNA Stability Mechanisms,mRNA Stability Mechanisms,1,verified,mRNA Stability Mechanisms,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Restriction enzymes,Restriction enzymes,2,verified,Restriction enzymes,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Cloning techniques,Cloning techniques,1,verified,Cloning techniques,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,PCR process,PCR process,1,verified,PCR process,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Gene regulation mechanisms,Gene regulation mechanisms,1,verified,Gene regulation mechanisms,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA modification types,RNA modification types,1,verified,RNA modification types,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Western Blotting Techniques,Western Blotting Techniques,1,verified,Western Blotting Techniques,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Mass Spectrometry Methods,Mass Spectrometry Methods,1,verified,Mass Spectrometry Methods,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA Post-transcriptional Regulation,RNA Post-transcriptional Regulation,1,verified,RNA Post-transcriptional Regulation,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Protein Identification Techniques,Protein Identification Techniques,1,verified,Protein Identification Techniques,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Next Generation Sequencing,Next Generation Sequencing,1,verified,Next Generation Sequencing,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA Sequencing Techniques,RNA Sequencing Techniques,1,verified,RNA Sequencing Techniques,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Epitranscriptomics mechanisms,Epitranscriptomics mechanisms,1,verified,Epitranscriptomics mechanisms,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA modifications types,RNA modifications types,1,verified,RNA modifications types,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Non-coding RNA functions,Noncoding RNA functions,1,verified,Non-coding RNA functions,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA interference pathways,RNA interference pathways,1,verified,RNA interference pathways,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNAi mechanisms,RNAi mechanisms,1,verified,RNAi mechanisms,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,MicroRNA functions,MicroRNA functions,1,verified,MicroRNA functions,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Gene silencing methods,gene silencing methods,2,verified,Gene silencing methods,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Small interfering RNA,Small interfering RNAs,28,verified,Small interfering RNA,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,Double-stranded RNA structure,Double-stranded RNA structure,1,verified,Double-stranded RNA structure,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,RNA-induced gene expression,RNA-induced gene expression,1,verified,RNA-induced gene expression,BIOL_5000_concepts_raw.json
+BIOL_5000,concept,miRNA target recognition,miRNA target recognition,1,verified,miRNA target recognition,BIOL_5000_concepts_raw.json

@@ -1,0 +1,28 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3355,Team Formation Process,concept,PART_OF,Project Formation,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Client Project Briefing,concept,PART_OF,Project Formation,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Project Scope Definition,concept,PART_OF,Project Formation,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Engineering Design Principles,concept,PART_OF,Design Philosophy,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Design Standards and Guidelines,concept,PART_OF,Design Philosophy,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Problem-Solving Strategies,concept,PART_OF,Design Philosophy,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Time Management Techniques,concept,PART_OF,Project Planning,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Financial Budgeting Methods,concept,PART_OF,Project Planning,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Risk Assessment and Mitigation,concept,PART_OF,Project Planning,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Design Concept Development,concept,PART_OF,Conceptual Design,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Feasibility Study Analysis,concept,PART_OF,Conceptual Design,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Initial Cost Estimation,concept,PART_OF,Conceptual Design,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Design Review Process,concept,PART_OF,Preliminary Design Review,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Client Feedback and Expectations,concept,PART_OF,Preliminary Design Review,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Design Iteration and Refinement,concept,PART_OF,Preliminary Design Review,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Project Status Update,concept,PART_OF,Mid-Project Review,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Client Satisfaction and Expectations,concept,PART_OF,Mid-Project Review,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Design Refinement and Optimization,concept,PART_OF,Mid-Project Review,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Team Performance Feedback,concept,PART_OF,Progress Evaluation 2,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Project Plan Adjustment,concept,PART_OF,Progress Evaluation 2,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Risk Management Strategies,concept,PART_OF,Progress Evaluation 2,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Design Completion and Submission,concept,PART_OF,Final Design Package,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Client Review and Approval,concept,PART_OF,Final Design Package,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Project Closure and Evaluation,concept,PART_OF,Final Design Package,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Design Showcase and Promotion,concept,PART_OF,Expo Presentation,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Team Presentation Skills,concept,PART_OF,Expo Presentation,topic,,,MEGR_3355_triples_raw.json
+MEGR_3355,Effective Communication Strategies,concept,PART_OF,Expo Presentation,topic,,,MEGR_3355_triples_raw.json

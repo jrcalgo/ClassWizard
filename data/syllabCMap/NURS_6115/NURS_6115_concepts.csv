@@ -1,0 +1,15 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+NURS_6115,topic,Healthcare Policy,healthcare policy,1,verified,Healthcare Policy,NURS_6115_concepts_raw.json
+NURS_6115,topic,Health Care Delivery System,healthcare delivery system,2,verified,Health Care Delivery System,NURS_6115_concepts_raw.json
+NURS_6115,concept,Contemporary Practice Models,contemporary practice models,1,verified,Contemporary Practice Models,NURS_6115_concepts_raw.json
+NURS_6115,concept,Planning and Sociopolitical Processes,Planning and Sociopolitical Processes,1,inferred,Planning and Sociopolitical Processes,NURS_6115_concepts_raw.json
+NURS_6115,concept,Legislative Processes Involvement,Legislative Processes Involvement,1,inferred,Legislative Processes Involvement,NURS_6115_concepts_raw.json
+NURS_6115,concept,Health Policy Implementation,Health Policy Implementation,1,inferred,Health Policy Implementation,NURS_6115_concepts_raw.json
+NURS_6115,concept,Current Research Impact Analysis,Current Research Impact Analysis,1,inferred,Current Research Impact Analysis,NURS_6115_concepts_raw.json
+NURS_6115,concept,Evidence-Based Practice Application,Evidence-Based Practice Application,1,inferred,Evidence-Based Practice Application,NURS_6115_concepts_raw.json
+NURS_6115,concept,Payment Systems and Models,Payment Systems and Models,1,inferred,Payment Systems and Models,NURS_6115_concepts_raw.json
+NURS_6115,concept,Cost Containment Strategies,Cost Containment Strategies,1,inferred,Cost Containment Strategies,NURS_6115_concepts_raw.json
+NURS_6115,concept,Legal Processes Effect on Healthcare,Legal Processes Effect on Healthcare,1,inferred,Legal Processes Effect on Healthcare,NURS_6115_concepts_raw.json
+NURS_6115,concept,Regulatory Agencies Role Analysis,Regulatory Agencies Role Analysis,1,inferred,Regulatory Agencies Role Analysis,NURS_6115_concepts_raw.json
+NURS_6115,concept,Healthcare Delivery System Compliance,Healthcare Delivery System Compliance,1,inferred,Healthcare Delivery System Compliance,NURS_6115_concepts_raw.json
+NURS_6115,concept,Federal Healthcare Policy Role,Federal Healthcare Policy Role,1,inferred,Federal Healthcare Policy Role,NURS_6115_concepts_raw.json

@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDCI_8184,Social Theory Definition,concept,PREREQUISITE_OF,Classical Social Theory,topic,A taught first,,EDCI_8184_triples_raw.json
+EDCI_8184,Marxism and Capitalism,concept,PREREQUISITE_OF,Weber's Bureaucratic Theory,concept,same unit,,EDCI_8184_triples_raw.json
+EDCI_8184,Critical Race Theory,concept,PREREQUISITE_OF,Feminist Theories of Education,concept,same unit,,EDCI_8184_triples_raw.json
+EDCI_8184,Social Theory Definition,concept,PART_OF,Social Theory and Education,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Weber's Bureaucratic Theory,concept,PART_OF,Classical Social Theory,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Durkheim's Functionalism,concept,PART_OF,Classical Social Theory,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Critical Race Theory,concept,PART_OF,Multicultural Perspectives,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Feminist Theories of Education,concept,PART_OF,Multicultural Perspectives,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Socioeconomic Status and Access,concept,PART_OF,Sociological Explanations for Student Outcomes,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Cultural Relativism and Education,concept,PART_OF,Anthropological Perspectives on Education,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Symbolic Violence in Schools,concept,PART_OF,Anthropological Perspectives on Education,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Power Dynamics in Educational Settings,concept,PART_OF,Anthropological Perspectives on Education,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Inclusive Pedagogy and Practice,concept,PART_OF,Applying Social Theory to Current Issues,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Addressing Systemic Inequalities,concept,PART_OF,Applying Social Theory to Current Issues,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Research Design and Methodology,concept,PART_OF,Theoretical Frameworks for Research,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Theoretical Sampling and Data Analysis,concept,PART_OF,Theoretical Frameworks for Research,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Interpretive and Critical Paradigms,concept,PART_OF,Theoretical Frameworks for Research,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Academic Writing Styles and Conventions,concept,PART_OF,Dissertation Framing and Academic Writing,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Social Theory Definition,concept,USED_FOR,Social Theory,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Weber's Bureaucratic Theory,concept,USED_FOR,Classical Social Theory,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Durkheim's Functionalism,concept,USED_FOR,Classical Social Theory,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Feminist Theories of Education,concept,USED_FOR,Multicultural Perspectives,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Postcolonialism and Power Dynamics,concept,USED_FOR,Multicultural Perspectives,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Cultural Capital and Inequality,concept,USED_FOR,Sociological Explanations for Student Outcomes,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Socioeconomic Status and Access,concept,USED_FOR,Sociological Explanations for Student Outcomes,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Symbolic Violence in Schools,concept,USED_FOR,Anthropological Perspectives on Education,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Power Dynamics in Educational Settings,concept,USED_FOR,Anthropological Perspectives on Education,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Addressing Systemic Inequalities,concept,USED_FOR,Applying Social Theory to Current Issues,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Theoretical Sampling and Data Analysis,concept,USED_FOR,Theoretical Frameworks for Research,topic,,,EDCI_8184_triples_raw.json
+EDCI_8184,Literature Review and Theoretical Frameworks,concept,USED_FOR,Dissertation Framing and Academic Writing,topic,,,EDCI_8184_triples_raw.json

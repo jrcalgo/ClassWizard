@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOL_1200,plate tectonics,topic,PREREQUISITE_OF,natural resources,topic,A taught first,,GEOL_1200_triples_raw.json
+GEOL_1200,plate tectonics,topic,PREREQUISITE_OF,surface processes,topic,A taught first,,GEOL_1200_triples_raw.json
+GEOL_1200,minerals,topic,PREREQUISITE_OF,rock cycles,topic,A taught first,,GEOL_1200_triples_raw.json
+GEOL_1200,minerals,topic,PREREQUISITE_OF,natural resources,topic,A taught first,,GEOL_1200_triples_raw.json
+GEOL_1200,minerals,topic,PREREQUISITE_OF,surface processes,topic,A taught first,,GEOL_1200_triples_raw.json
+GEOL_1200,rock cycles,topic,PREREQUISITE_OF,natural resources,topic,A taught first,,GEOL_1200_triples_raw.json
+GEOL_1200,rock cycles,topic,PREREQUISITE_OF,surface processes,topic,A taught first,,GEOL_1200_triples_raw.json

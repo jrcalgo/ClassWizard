@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+BIOL_3275,Basic Animal Husbandry,topic,PART_OF,Animal Health,topic,,,BIOL_3275_triples_raw.json
+BIOL_3275,Major Endemic Diseases,topic,PART_OF,Animal Health,topic,,,BIOL_3275_triples_raw.json
+BIOL_3275,Communication Skills,topic,PART_OF,Animal Health,topic,,,BIOL_3275_triples_raw.json
+BIOL_3275,Digital Tools for Research,topic,PART_OF,Animal Health,topic,,,BIOL_3275_triples_raw.json

@@ -1,0 +1,35 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+NUDN_8302,Confidentiality Protocols,concept,PREREQUISITE_OF,Informed Consent Process,concept,same unit,,NUDN_8302_triples_raw.json
+NUDN_8302,Research Ethics Principles,concept,PREREQUISITE_OF,Human Subjects Protection,concept,same unit,,NUDN_8302_triples_raw.json
+NUDN_8302,Institutional Animal Care Committee,concept,PREREQUISITE_OF,Animal Welfare Standards,concept,same unit,,NUDN_8302_triples_raw.json
+NUDN_8302,Ethical Decision Making,concept,PREREQUISITE_OF,Conflict of Interest,concept,same unit,,NUDN_8302_triples_raw.json
+NUDN_8302,Research Ethics Principles,concept,PREREQUISITE_OF,Vulnerable Populations Guidelines,concept,same unit,,NUDN_8302_triples_raw.json
+NUDN_8302,Institutional Conflicts,concept,PREREQUISITE_OF,Disclosure Requirements,concept,same unit,,NUDN_8302_triples_raw.json
+NUDN_8302,Data Ownership,concept,PREREQUISITE_OF,Authorship and Attribution,concept,same unit,,NUDN_8302_triples_raw.json
+NUDN_8302,Confidentiality Protocols,concept,PART_OF,Informed Consent Process,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,IRB Approval Requirements,concept,PART_OF,Human Subjects Protection,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Animal Welfare Standards,concept,PART_OF,Animal Research Ethics,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Principles of Autonomy,concept,PART_OF,Nursing's Code of Ethics,topic,,,NUDN_8302_triples_raw.json
+NUDN_8302,Beneficence in Nursing,concept,PART_OF,Nursing's Code of Ethics,topic,,,NUDN_8302_triples_raw.json
+NUDN_8302,Justice in Healthcare,concept,PART_OF,Nursing's Code of Ethics,topic,,,NUDN_8302_triples_raw.json
+NUDN_8302,Disclosure Requirements,concept,PART_OF,Conflicts of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Financial Interests,concept,PART_OF,Conflicts of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Personal Relationships,concept,PART_OF,Conflicts of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Institutional Conflicts,concept,PART_OF,Conflicts of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Ethical Obligations,concept,PART_OF,Conflict of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Data Ownership,concept,PART_OF,Managing Data and its Ownership,topic,,,NUDN_8302_triples_raw.json
+NUDN_8302,Plagiarism Prevention,concept,PART_OF,Intellectual Property Considerations,topic,,,NUDN_8302_triples_raw.json
+NUDN_8302,Credit Attribution Standards,concept,PART_OF,Considerations in Authorship and Publishing,topic,,,NUDN_8302_triples_raw.json
+NUDN_8302,Conflicts of Interest,concept,SUBTYPE_OF,Conflict of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Institutional Conflicts,concept,SUBTYPE_OF,Conflict of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Disclosure Requirements,concept,SUBTYPE_OF,Conflict of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Financial Interests,concept,SUBTYPE_OF,Conflict of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Personal Relationships,concept,SUBTYPE_OF,Conflict of Interest,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Plagiarism Detection,concept,SUBTYPE_OF,Plagiarism Prevention,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Authorship Disputes,concept,SUBTYPE_OF,Plagiarism Prevention,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Research Misconduct,concept,SUBTYPE_OF,Scientific Misconduct,topic,,,NUDN_8302_triples_raw.json
+NUDN_8302,IRB Approval Requirements,concept,USED_FOR,Human Subjects Protection,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Informed Consent Process,concept,USED_FOR,Human Subjects Protection,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,IRB Approval Requirements,concept,USED_FOR,Vulnerable Populations Guidelines,concept,,,NUDN_8302_triples_raw.json
+NUDN_8302,Conflict of Interest,concept,USED_FOR,Identifying Conflicts of Interest,topic,,,NUDN_8302_triples_raw.json
+NUDN_8302,Plagiarism Prevention,concept,USED_FOR,Considerations in Authorship and Publishing,topic,,,NUDN_8302_triples_raw.json

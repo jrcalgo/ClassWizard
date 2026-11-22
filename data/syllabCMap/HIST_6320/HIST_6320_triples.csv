@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HIST_6320,Historic Preservation Definition,concept,PREREQUISITE_OF,Importance of Preservation,concept,same unit,,HIST_6320_triples_raw.json
+HIST_6320,Importance of Preservation,concept,PREREQUISITE_OF,Preservation vs. Restoration,concept,same unit,,HIST_6320_triples_raw.json
+HIST_6320,Identifying Historic Resources,concept,PREREQUISITE_OF,National Register Criteria,concept,same unit,,HIST_6320_triples_raw.json
+HIST_6320,Survey Techniques and Tools,concept,PREREQUISITE_OF,Identifying Historic Resources,concept,same unit,,HIST_6320_triples_raw.json
+HIST_6320,Preservation Plans and Policies,concept,PREREQUISITE_OF,Community Engagement and Outreach,concept,same unit,,HIST_6320_triples_raw.json
+HIST_6320,Traditional Building Materials,concept,PREREQUISITE_OF,Historic Building Construction Methods,concept,same unit,,HIST_6320_triples_raw.json
+HIST_6320,Conservation vs. Preservation,concept,PREREQUISITE_OF,Restoration and Reconstruction,concept,same unit,,HIST_6320_triples_raw.json
+HIST_6320,Cultural Resource Inventory,concept,PREREQUISITE_OF,National Historic Preservation Act,concept,same unit,,HIST_6320_triples_raw.json
+HIST_6320,Importance of Preservation,concept,PART_OF,Historic Preservation,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Preservation vs. Restoration,concept,PART_OF,Historic Preservation,topic,,,HIST_6320_triples_raw.json
+HIST_6320,American Architectural Styles,concept,PART_OF,US Historic Context,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Historic Periods in US History,concept,PART_OF,US Historic Context,topic,,,HIST_6320_triples_raw.json
+HIST_6320,National Register Criteria,concept,PART_OF,Survey and Identification,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Survey Techniques and Tools,concept,PART_OF,Survey and Identification,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Preservation Plans and Policies,concept,PART_OF,Preservation Planning,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Community Engagement and Outreach,concept,PART_OF,Preservation Planning,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Collaboration with Stakeholders,concept,PART_OF,Preservation Planning,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Historic Building Construction Methods,concept,PART_OF,Building Materials and Technology,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Restoration and Reconstruction,concept,PART_OF,Preservation Treatments and Interventions,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Rehabilitation and Adaptive Reuse,concept,PART_OF,Preservation Treatments and Interventions,topic,,,HIST_6320_triples_raw.json
+HIST_6320,National Historic Preservation Act,concept,PART_OF,Cultural Resource Management,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Review Process,concept,PART_OF,Cultural Resource Management,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Cultural Resource Inventory,concept,PART_OF,Cultural Resource Management,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Historic Site Analysis and Interpretation,concept,PART_OF,Fieldwork and Case Studies,topic,,,HIST_6320_triples_raw.json
+HIST_6320,Preservation Project Management,concept,PART_OF,Fieldwork and Case Studies,topic,,,HIST_6320_triples_raw.json

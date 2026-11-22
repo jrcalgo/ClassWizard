@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECGR_4290,semiconductor properties,concept,PREREQUISITE_OF,P-N Junctions,topic,A taught first,,ECGR_4290_triples_raw.json
+ECGR_4290,semiconductor properties,concept,PREREQUISITE_OF,minority carriers,concept,same unit,,ECGR_4290_triples_raw.json
+ECGR_4290,semiconductor properties,concept,PREREQUISITE_OF,solar modules,concept,A taught first,,ECGR_4290_triples_raw.json
+ECGR_4290,semiconductor properties,concept,PREREQUISITE_OF,reliability,concept,A taught first,,ECGR_4290_triples_raw.json
+ECGR_4290,minority carriers,concept,PART_OF,P-N Junctions,topic,,,ECGR_4290_triples_raw.json
+ECGR_4290,minority carrier lifetime,concept,PART_OF,P-N Junctions,topic,,,ECGR_4290_triples_raw.json
+ECGR_4290,solar modules,concept,PART_OF,Photovoltaic Systems and Applications,topic,,,ECGR_4290_triples_raw.json
+ECGR_4290,reliability,concept,PART_OF,Photovoltaic Systems and Applications,topic,,,ECGR_4290_triples_raw.json
+ECGR_4290,solar cell efficiency limits,concept,PART_OF,Efficiency Limits and Losses,topic,,,ECGR_4290_triples_raw.json
+ECGR_4290,computer simulation,method,USED_FOR,design and analysis,method,,,ECGR_4290_triples_raw.json

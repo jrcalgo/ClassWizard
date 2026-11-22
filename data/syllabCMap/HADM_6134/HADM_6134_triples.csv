@@ -1,0 +1,30 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+HADM_6134,Total Quality Management,concept,PREREQUISITE_OF,Six Sigma Methodology,concept,same unit,,HADM_6134_triples_raw.json
+HADM_6134,Total Quality Management,concept,PREREQUISITE_OF,Lean Healthcare Principles,concept,same unit,,HADM_6134_triples_raw.json
+HADM_6134,Root Cause Analysis,method,PREREQUISITE_OF,Pareto Charts,method,same unit,,HADM_6134_triples_raw.json
+HADM_6134,Root Cause Analysis,method,PREREQUISITE_OF,Fishbone Diagrams,method,same unit,,HADM_6134_triples_raw.json
+HADM_6134,Data Analysis Techniques,method,PREREQUISITE_OF,Statistical Process Control,method,same unit,,HADM_6134_triples_raw.json
+HADM_6134,Total Quality Management,concept,PART_OF,Theories and Concepts,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Six Sigma Methodology,concept,PART_OF,Theories and Concepts,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Lean Healthcare Principles,concept,PART_OF,Theories and Concepts,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Kotter's 8-Step Model,concept,PART_OF,Organizational Change Models,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Lewin's Change Theory,concept,PART_OF,Organizational Change Models,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Adoption and Diffusion,concept,PART_OF,Organizational Change Models,topic,,,HADM_6134_triples_raw.json
+HADM_6134,SWOT Analysis,concept,PART_OF,Strategic Planning and Management,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Balanced Scorecard,concept,PART_OF,Strategic Planning and Management,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Quality Improvement Frameworks,concept,PART_OF,Strategic Planning and Management,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Variation in Healthcare Practice,concept,PART_OF,Practice Variations and Improvement,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Improvement Science Principles,concept,PART_OF,Practice Variations and Improvement,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Evidence-Based Medicine,concept,PART_OF,Practice Variations and Improvement,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Root Cause Analysis,method,PART_OF,Quality Improvement Tools,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Fishbone Diagrams,method,PART_OF,Quality Improvement Tools,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Pareto Charts,method,PART_OF,Quality Improvement Tools,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Data Analysis Techniques,method,PART_OF,Analytical Tools for Decision Making,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Statistical Process Control,method,PART_OF,Analytical Tools for Decision Making,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Clinical Performance Metrics,measure,PART_OF,Outcomes and Performance Measurement,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Healthcare Outcomes Indicators,measure,PART_OF,Outcomes and Performance Measurement,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Patient Satisfaction Measures,measure,PART_OF,Outcomes and Performance Measurement,topic,,,HADM_6134_triples_raw.json
+HADM_6134,System Performance Indicators,measure,PART_OF,Healthcare Organizational Performance,topic,,,HADM_6134_triples_raw.json
+HADM_6134,Root Cause Analysis,method,USED_FOR,Pareto Charts,method,,,HADM_6134_triples_raw.json
+HADM_6134,Root Cause Analysis,method,USED_FOR,Fishbone Diagrams,method,,,HADM_6134_triples_raw.json
+HADM_6134,Data Analysis Techniques,method,USED_FOR,Statistical Process Control,method,,,HADM_6134_triples_raw.json

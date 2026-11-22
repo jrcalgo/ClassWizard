@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+DSBA_6188,Text Classification,topic,PREREQUISITE_OF,Sentiment Analysis,concept,same unit,,DSBA_6188_triples_raw.json
+DSBA_6188,topic modeling,method,PREREQUISITE_OF,Text Mining Pipeline,concept,B taught first,B is taught before A - check,DSBA_6188_triples_raw.json
+DSBA_6188,Named Entity Recognition,concept,PREREQUISITE_OF,Knowledge Graph,concept,A taught first,,DSBA_6188_triples_raw.json
+DSBA_6188,Tokenization,concept,PREREQUISITE_OF,Lemmatization,concept,A taught first,,DSBA_6188_triples_raw.json
+DSBA_6188,Stopwords,concept,PREREQUISITE_OF,Stemming,concept,B taught first,B is taught before A - check,DSBA_6188_triples_raw.json
+DSBA_6188,Bag of Words,concept,PREREQUISITE_OF,Term Frequency-Inverse Document Frequency,concept,same unit,,DSBA_6188_triples_raw.json
+DSBA_6188,Text Representation,concept,PREREQUISITE_OF,BoW Model,concept,same unit,,DSBA_6188_triples_raw.json
+DSBA_6188,Vectorization Techniques,concept,PREREQUISITE_OF,TF-IDF Vector,concept,B taught first,B is taught before A - check,DSBA_6188_triples_raw.json
+DSBA_6188,Semantic Similarity,concept,PREREQUISITE_OF,Cosine Similarity,concept,same unit,,DSBA_6188_triples_raw.json
+DSBA_6188,Text Vector Spaces,concept,PREREQUISITE_OF,Dimensionality Reduction,concept,same unit,,DSBA_6188_triples_raw.json
+DSBA_6188,Feature Extraction Methods,concept,PREREQUISITE_OF,Word Embeddings,concept,B taught first,B is taught before A - check,DSBA_6188_triples_raw.json
+DSBA_6188,Bag of Words,concept,PART_OF,Text Representation,concept,,,DSBA_6188_triples_raw.json
+DSBA_6188,TF-IDF Vector,concept,PART_OF,Text Representation,concept,,,DSBA_6188_triples_raw.json
+DSBA_6188,Word Embeddings,concept,PART_OF,Text Representation,concept,,,DSBA_6188_triples_raw.json
+DSBA_6188,Latent Dirichlet Allocation,concept,PART_OF,Probabilistic Topic Models,concept,,,DSBA_6188_triples_raw.json
+DSBA_6188,Non-Negative Matrix Factorization,concept,PART_OF,Probabilistic Topic Models,concept,,,DSBA_6188_triples_raw.json
+DSBA_6188,Ollama,tool,USED_FOR,Chatbots,topic,,,DSBA_6188_triples_raw.json
+DSBA_6188,Ollama,tool,USED_FOR,Text Classification Models,concept,,,DSBA_6188_triples_raw.json
+DSBA_6188,n8n Workflow Design,concept,USED_FOR,automated data processing pipelines,method,,,DSBA_6188_triples_raw.json
+DSBA_6188,LM Studio,tool,USED_FOR,GraphRAG,topic,,,DSBA_6188_triples_raw.json
+DSBA_6188,Python,tool,USED_FOR,Large Language Models,concept,,,DSBA_6188_triples_raw.json

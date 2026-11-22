@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+EDUC_4000,current school and community demographics,topic,PREREQUISITE_OF,contemporary learning trends,topic,B mentioned first,,EDUC_4000_triples_raw.json
+EDUC_4000,current school and community demographics,topic,PREREQUISITE_OF,connections to state and national policies,topic,B mentioned first,,EDUC_4000_triples_raw.json
+EDUC_4000,current school and community demographics,topic,PREREQUISITE_OF,academic language and literacy development patterns,topic,B mentioned first,,EDUC_4000_triples_raw.json
+EDUC_4000,current school and community demographics,topic,PREREQUISITE_OF,strategies to address the educational needs of the students with learning challenges,topic,A mentioned first,,EDUC_4000_triples_raw.json
+EDUC_4000,current school and community demographics,topic,PART_OF,Topics in Education,topic,,,EDUC_4000_triples_raw.json
+EDUC_4000,contemporary learning trends,topic,PART_OF,Topics in Education,topic,,,EDUC_4000_triples_raw.json
+EDUC_4000,strategies to address the educational needs of the students with learning challenges,topic,PART_OF,Topics in Education,topic,,,EDUC_4000_triples_raw.json

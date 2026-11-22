@@ -1,0 +1,21 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_2101,Human Use of Symbols,concept,PREREQUISITE_OF,Rhetorical Theory Definition,concept,same unit,,COMM_2101_triples_raw.json
+COMM_2101,Classical Greek Rhetoric,concept,PREREQUISITE_OF,Aristotle's Rhetoric Influence,concept,same unit,,COMM_2101_triples_raw.json
+COMM_2101,Renaissance Humanism Impact,concept,PREREQUISITE_OF,Enlightenment Era Developments,concept,same unit,,COMM_2101_triples_raw.json
+COMM_2101,Kant and Burke Contributions,concept,PREREQUISITE_OF,Postmodernism and Deconstruction,concept,A taught first,,COMM_2101_triples_raw.json
+COMM_2101,Feminist and Critical Theories,concept,PREREQUISITE_OF,Multimodal Communication,concept,same unit,,COMM_2101_triples_raw.json
+COMM_2101,Marxist and Poststructuralist Views,concept,PREREQUISITE_OF,Semiotics and Signification,concept,same unit,,COMM_2101_triples_raw.json
+COMM_2101,Symbolic Communication Basics,concept,PART_OF,Human Use of Symbols,concept,,,COMM_2101_triples_raw.json
+COMM_2101,Rhetorical Theory Definition,concept,PART_OF,Human Use of Symbols,concept,,,COMM_2101_triples_raw.json
+COMM_2101,Classical Greek Rhetoric,concept,PART_OF,Ancient Rhetorical Texts,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Aristotle's Rhetoric Influence,concept,PART_OF,Classical Greek Rhetoric,concept,,,COMM_2101_triples_raw.json
+COMM_2101,Kant and Burke Contributions,concept,PART_OF,Traditional Rhetorical Theory,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Feminist and Critical Theories,concept,PART_OF,Contemporary Rhetorical Theory,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Multimodal Communication,concept,PART_OF,Contemporary Rhetorical Theory,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Marxist and Poststructuralist Views,concept,PART_OF,Rhetorical Lenses and Theories,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Semiotics and Signification,concept,PART_OF,Rhetorical Lenses and Theories,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Narrative and Discourse Analysis,concept,PART_OF,Rhetorical Lenses and Theories,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Contextualizing Rhetorical Meaning,concept,PART_OF,Analyzing Rhetorical Artifacts,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Rhetorical Devices and Strategies,concept,PART_OF,Analyzing Rhetorical Artifacts,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Critique and Evaluation Methods,concept,PART_OF,Applying Theories to Criticism,topic,,,COMM_2101_triples_raw.json
+COMM_2101,Theoretical Frameworks for Analysis,concept,PART_OF,Applying Theories to Criticism,topic,,,COMM_2101_triples_raw.json

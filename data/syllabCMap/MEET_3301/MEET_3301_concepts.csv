@@ -1,0 +1,7 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEET_3301,topic,Strength of Materials,Strength of Materials,2,verified,Strength of Materials,MEET_3301_concepts_raw.json
+MEET_3301,concept,mechanics of deformable bodies,mechanics of deformable bodies,1,verified,mechanics of deformable bodies,MEET_3301_concepts_raw.json
+MEET_3301,concept,stress-strain relationships,Stress-strain relationships,1,verified,stress-strain relationships,MEET_3301_concepts_raw.json
+MEET_3301,concept,transformation,transformation,1,verified,transformation,MEET_3301_concepts_raw.json
+MEET_3301,concept,Mohr's circle,Mohr's circle,1,verified,Mohr's circle,MEET_3301_concepts_raw.json
+MEET_3301,concept,design stresses,design stresses,1,verified,design stresses,MEET_3301_concepts_raw.json

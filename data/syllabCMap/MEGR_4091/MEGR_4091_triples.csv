@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_4091,thermodynamics,concept,PREREQUISITE_OF,phase diagrams,concept,same unit,,MEGR_4091_triples_raw.json
+MEGR_4091,thermodynamics,concept,PREREQUISITE_OF,kinetics,concept,A taught first,,MEGR_4091_triples_raw.json
+MEGR_4091,defects in materials,concept,PREREQUISITE_OF,diffusion,concept,same unit,,MEGR_4091_triples_raw.json
+MEGR_4091,phase transformation,concept,PART_OF,Materials Manufacturing,topic,,,MEGR_4091_triples_raw.json
+MEGR_4091,phase transformation,concept,PART_OF,Additive Manufacturing,topic,,,MEGR_4091_triples_raw.json
+MEGR_4091,Ultra-Precision Machining,topic,PART_OF,Materials Manufacturing,topic,,,MEGR_4091_triples_raw.json
+MEGR_4091,phase diagrams,concept,USED_FOR,thermodynamics,concept,,,MEGR_4091_triples_raw.json

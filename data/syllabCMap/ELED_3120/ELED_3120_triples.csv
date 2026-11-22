@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ELED_3120,Child Development,topic,PREREQUISITE_OF,Pathways of Individual Student Development,topic,A taught first,,ELED_3120_triples_raw.json
+ELED_3120,Child-Centered Educational Reforms,topic,PREREQUISITE_OF,Developmental Needs and Responsibilities,topic,A taught first,,ELED_3120_triples_raw.json
+ELED_3120,Theoretical Foundations of Development,topic,PREREQUISITE_OF,Pathways of Individual Student Development,topic,A taught first,,ELED_3120_triples_raw.json
+ELED_3120,Observation Techniques and Tools,method,PREREQUISITE_OF,Recording and Analyzing Data,method,same unit,,ELED_3120_triples_raw.json
+ELED_3120,Vygotsky's Sociocultural Theory,concept,PART_OF,Theoretical Foundations of Development,topic,,,ELED_3120_triples_raw.json
+ELED_3120,Erikson's Psychosocial Theory,concept,PART_OF,Theoretical Foundations of Development,topic,,,ELED_3120_triples_raw.json
+ELED_3120,Progressive Education Movement,concept,PART_OF,Child-Centered Educational Reforms,topic,,,ELED_3120_triples_raw.json
+ELED_3120,Democratic Classroom Environment,concept,PART_OF,Child-Centered Educational Reforms,topic,,,ELED_3120_triples_raw.json
+ELED_3120,Maslow's Hierarchy of Needs,concept,PART_OF,Developmental Needs and Responsibilities,topic,,,ELED_3120_triples_raw.json
+ELED_3120,Observation Techniques and Tools,method,USED_FOR,Recording and Analyzing Data,method,,,ELED_3120_triples_raw.json

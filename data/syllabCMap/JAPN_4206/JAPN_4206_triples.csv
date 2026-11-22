@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+JAPN_4206,Japanese Business Etiquette,topic,PART_OF,Japanese Workplace Culture,topic,,,JAPN_4206_triples_raw.json
+JAPN_4206,Japanese Workplace Culture,topic,PART_OF,Practical Application of Language,topic,,,JAPN_4206_triples_raw.json
+JAPN_4206,Business Vocabulary Building,topic,PART_OF,Practical Application of Language,topic,,,JAPN_4206_triples_raw.json
+JAPN_4206,Business Communication Protocols,topic,PART_OF,Practical Application of Language,topic,,,JAPN_4206_triples_raw.json
+JAPN_4206,Conversational Strategies,topic,PART_OF,Practical Application of Language,topic,,,JAPN_4206_triples_raw.json
+JAPN_4206,Role-plays,method,USED_FOR,Business Communication Protocols,topic,,,JAPN_4206_triples_raw.json
+JAPN_4206,Presentations and Reports,method,USED_FOR,Business Communication Protocols,topic,,,JAPN_4206_triples_raw.json

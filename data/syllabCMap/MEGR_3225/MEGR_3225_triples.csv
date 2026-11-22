@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,Finite Element Analysis,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,FEM,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,Element Formulation,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,Galerkin Weighted Residuals,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,Assembly and Boundary Conditions,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,Solution Strategies and Algorithms,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,Numerical Integration and Quadrature,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,Isoparametric Mapping and Transformation,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,2D and 3D Element Formulation,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,Nonlinear Analysis and Material Models,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Solid Mechanics,topic,PREREQUISITE_OF,Dynamic Analysis and Time Integration,topic,B mentioned first,,MEGR_3225_triples_raw.json
+MEGR_3225,Finite Element Method Basics,concept,PART_OF,Finite Element Analysis,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Governing Equations Overview,concept,PART_OF,Finite Element Analysis,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Problem Types and Applications,concept,PART_OF,Finite Element Analysis,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Shape Functions and Interpolation,concept,PART_OF,Element Formulation,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Stiffness Matrix Derivation,concept,PART_OF,Element Formulation,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Mass Matrix Calculation,concept,PART_OF,Element Formulation,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Weak Form of Governing Equations,concept,PART_OF,Galerkin Weighted Residuals,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Weighted Residual Method Overview,concept,PART_OF,Galerkin Weighted Residuals,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Discretized System Equations,concept,PART_OF,Galerkin Weighted Residuals,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Global Stiffness Matrix Assembly,concept,PART_OF,Assembly and Boundary Conditions,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Boundary Condition Enforcement Methods,concept,PART_OF,Assembly and Boundary Conditions,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Linear System Solvers Comparison,concept,PART_OF,Solution Strategies and Algorithms,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Numerical Integration Techniques Overview,concept,PART_OF,Numerical Integration and Quadrature,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Quadrature Rules for 1D Elements,concept,PART_OF,Numerical Integration and Quadrature,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Element Coordinate Systems Overview,concept,PART_OF,Isoparametric Mapping and Transformation,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Isoparametric Mapping Basics,concept,PART_OF,Isoparametric Mapping and Transformation,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Transient Dynamic Response Overview,concept,PART_OF,Dynamic Analysis and Time Integration,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Time Integration Methods Overview,concept,PART_OF,Dynamic Analysis and Time Integration,topic,,,MEGR_3225_triples_raw.json
+MEGR_3225,Implicit vs. Explicit Time Integration,concept,PART_OF,Dynamic Analysis and Time Integration,topic,,,MEGR_3225_triples_raw.json

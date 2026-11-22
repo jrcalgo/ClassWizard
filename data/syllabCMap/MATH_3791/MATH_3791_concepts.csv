@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_3791,topic,Independent Research Project,independent research projects,1,verified,Independent Research Project,MATH_3791_concepts_raw.json
+MATH_3791,topic,Faculty Supervision,faculty supervision,1,verified,Faculty Supervision,MATH_3791_concepts_raw.json
+MATH_3791,topic,Research Questions,research questions,1,verified,Research Questions,MATH_3791_concepts_raw.json
+MATH_3791,tool,LaTeX,LaTeX,1,verified,LaTeX,MATH_3791_concepts_raw.json
+MATH_3791,tool,Beamer,Beamer,1,verified,Beamer,MATH_3791_concepts_raw.json

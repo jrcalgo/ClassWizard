@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_2171,Variables and Data Types,concept,PART_OF,Programming,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Input/Output Operations,concept,PART_OF,Programming,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Algorithm Design Principles,concept,PART_OF,Algorithms Fundamentals,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Problem-Solving Strategies,concept,PART_OF,Algorithms Fundamentals,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Pseudocode Notation,concept,PART_OF,Algorithms Fundamentals,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Abstract Data Types,concept,PART_OF,Data Structures and Abstraction,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Tree Data Structure Properties,concept,PART_OF,Graphs and Trees Data Structures,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Graph Algorithms Overview,concept,PART_OF,Graphs and Trees Data Structures,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Dynamic Programming Principles,concept,PART_OF,Recursion and Dynamic Programming,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Class and Object Concepts,concept,PART_OF,Object-Oriented Programming,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Encapsulation Principle,concept,PART_OF,Object-Oriented Programming,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Big O Notation Overview,concept,PART_OF,Algorithm Analysis and Complexity,topic,,,ETEM_2171_triples_raw.json
+ETEM_2171,Algorithm Efficiency Metrics,concept,PART_OF,Algorithm Analysis and Complexity,topic,,,ETEM_2171_triples_raw.json

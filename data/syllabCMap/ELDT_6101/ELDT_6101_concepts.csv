@@ -1,0 +1,22 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ELDT_6101,topic,Learning Principles,Learning Principles,1,verified,Learning Principles,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Instructional Design,instructional design,1,verified,Instructional Design and Technology,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Technology,Technology,1,verified,Instructional Design and Technology,ELDT_6101_concepts_raw.json
+ELDT_6101,concept,Adult Learning Principles,Adult Learning Principles,1,inferred,Adult Learning Principles,ELDT_6101_concepts_raw.json
+ELDT_6101,concept,Childhood Learning Theories,Childhood Learning Theories,1,inferred,Childhood Learning Theories,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Pedagogical Approaches,Pedagogical Approaches,1,inferred,Pedagogical Approaches,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Andragogy,Andragogy,1,inferred,Andragogy,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Learner Characteristics,Learner Characteristics,1,inferred,Learner Characteristics,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Instructional Settings Variety,Instructional Settings Variety,1,inferred,Instructional Settings Variety,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,"Visual, Auditory, Kinesthetic Learners","Visual, Auditory, Kinesthetic Learners",1,inferred,"Visual, Auditory, Kinesthetic Learners",ELDT_6101_concepts_raw.json
+ELDT_6101,concept,Intrinsic vs Extrinsic Motivation,Intrinsic vs Extrinsic Motivation,1,inferred,Intrinsic vs Extrinsic Motivation,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Engagement Theories,Engagement Theories,1,inferred,Engagement Theories,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Behaviorist Learning Theory,Behaviorist Learning Theory,1,inferred,Behaviorist Learning Theory,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Cognitivist Learning Theory,Cognitivist Learning Theory,1,inferred,Cognitivist Learning Theory,ELDT_6101_concepts_raw.json
+ELDT_6101,topic,Constructivist Learning Theory,Constructivist Learning Theory,1,inferred,Constructivist Learning Theory,ELDT_6101_concepts_raw.json
+ELDT_6101,concept,Learning Theories Overview,Learning Theories Overview,1,inferred,Learning Theories Overview,ELDT_6101_concepts_raw.json
+ELDT_6101,concept,Pedagogical Approaches Comparison,Pedagogical Approaches Comparison,1,inferred,Pedagogical Approaches Comparison,ELDT_6101_concepts_raw.json
+ELDT_6101,concept,Engagement Theories Overview,Engagement Theories Overview,1,inferred,Engagement Theories Overview,ELDT_6101_concepts_raw.json
+ELDT_6101,concept,Behaviorist Learning Theory Application,Behaviorist Learning Theory Application,1,inferred,Behaviorist Learning Theory Application,ELDT_6101_concepts_raw.json
+ELDT_6101,concept,Cognitivist Learning Theory Application,Cognitivist Learning Theory Application,1,inferred,Cognitivist Learning Theory Application,ELDT_6101_concepts_raw.json
+ELDT_6101,concept,Constructivist Learning Theory Application,Constructivist Learning Theory Application,1,inferred,Constructivist Learning Theory Application,ELDT_6101_concepts_raw.json

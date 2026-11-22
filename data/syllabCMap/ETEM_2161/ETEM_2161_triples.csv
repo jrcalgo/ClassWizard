@@ -1,0 +1,3 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_2161,Statics,topic,PREREQUISITE_OF,Dynamics,topic,same unit,,ETEM_2161_triples_raw.json
+ETEM_2161,Material Properties,topic,PART_OF,material properties and uses,concept,,part is broader than whole - check direction,ETEM_2161_triples_raw.json

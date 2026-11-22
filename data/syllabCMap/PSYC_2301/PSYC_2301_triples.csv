@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+PSYC_2301,criminal behavior theories,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json
+PSYC_2301,psychological profiling methods,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json
+PSYC_2301,eyewitness memory,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json
+PSYC_2301,false confessions,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json
+PSYC_2301,police interrogation techniques,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json
+PSYC_2301,credibility assessment,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json
+PSYC_2301,deception detection methods,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json
+PSYC_2301,criminal profiling techniques,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json
+PSYC_2301,psychological autopsy methodology,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json
+PSYC_2301,behavioral evidence analysis,concept,SUBTYPE_OF,forensic psychology,concept,,,PSYC_2301_triples_raw.json

@@ -1,0 +1,11 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_4165,Matrix Decompositions,topic,PREREQUISITE_OF,Eigendecomposition and Diagonalization,concept,A taught first,,MATH_4165_triples_raw.json
+MATH_4165,Direct methods for linear systems,topic,PART_OF,Numerical linear algebra,topic,,,MATH_4165_triples_raw.json
+MATH_4165,Iterative methods for large sparse linear systems,topic,PART_OF,Numerical linear algebra,topic,,,MATH_4165_triples_raw.json
+MATH_4165,Least squares methods,topic,PART_OF,Numerical linear algebra,topic,,,MATH_4165_triples_raw.json
+MATH_4165,Matrix Decompositions,topic,PART_OF,Numerical linear algebra,topic,,,MATH_4165_triples_raw.json
+MATH_4165,Efficient matrix multiplication methods,topic,PART_OF,Numerical linear algebra,topic,,,MATH_4165_triples_raw.json
+MATH_4165,Matrix approximations,topic,PART_OF,Numerical linear algebra,topic,,,MATH_4165_triples_raw.json
+MATH_4165,Matrix phylogeny,topic,PART_OF,Numerical linear algebra,topic,,,MATH_4165_triples_raw.json
+MATH_4165,Examples of numerical linear algebra in machine learning,topic,PART_OF,Numerical linear algebra,topic,,,MATH_4165_triples_raw.json
+MATH_4165,Singular Value Decomposition,concept,PART_OF,Matrix Decompositions,topic,,,MATH_4165_triples_raw.json

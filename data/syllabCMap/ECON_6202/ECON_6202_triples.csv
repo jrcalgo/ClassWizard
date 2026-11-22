@@ -1,0 +1,5 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ECON_6202,Advanced Microeconomic Theory,topic,PREREQUISITE_OF,Game theory,topic,B mentioned first,,ECON_6202_triples_raw.json
+ECON_6202,Expected Utility,concept,PART_OF,Choice under uncertainty,topic,,,ECON_6202_triples_raw.json
+ECON_6202,Standard Measures,concept,PART_OF,Choice under uncertainty,topic,,,ECON_6202_triples_raw.json
+ECON_6202,Expected Utility,concept,USED_FOR,Choice under uncertainty,topic,,,ECON_6202_triples_raw.json

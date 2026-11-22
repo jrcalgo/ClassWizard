@@ -1,0 +1,17 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECGR_3142L,topic,Electrical Energy Conversion Laboratory,Electrical Energy Conversion Laboratory,1,verified,Electrical Energy Conversion Laboratory,ECGR_3142L_concepts_raw.json
+ECGR_3142L,topic,Electromechanical Converters,electromechanical converters,1,verified,Electromechanical Converters,ECGR_3142L_concepts_raw.json
+ECGR_3142L,concept,polarity,Polarity,1,verified,polarity,ECGR_3142L_concepts_raw.json
+ECGR_3142L,concept,open and short circuit tests,Open and Short Circuit Tests,1,verified,open and short circuit tests,ECGR_3142L_concepts_raw.json
+ECGR_3142L,topic,Three-phase Transformer Connections,Three-phase Transformer Connections,1,verified,Three-phase Transformer Connections,ECGR_3142L_concepts_raw.json
+ECGR_3142L,concept,balanced three-phase networks analysis,Balanced Three-Phase Networks Analysis,1,verified,balanced three-phase networks analysis,ECGR_3142L_concepts_raw.json
+ECGR_3142L,concept,unbalanced three-phase power measurements,Unbalanced Three-Phase Power Measurements,1,verified,unbalanced three-phase power measurements,ECGR_3142L_concepts_raw.json
+ECGR_3142L,method,synchronous machines,Synchronous Machines,2,verified,calculating characteristics and model parameters for transformers and/or synchronous machines,ECGR_3142L_concepts_raw.json
+ECGR_3142L,concept,applications oriented knowledge,applications oriented knowledge,1,verified,applications oriented knowledge,ECGR_3142L_concepts_raw.json
+ECGR_3142L,concept,Performance characteristics,Performance characteristics,1,verified,Performance characteristics,ECGR_3142L_concepts_raw.json
+ECGR_3142L,method,Circuit debugging techniques,Circuit debugging techniques,1,verified,Circuit debugging techniques,ECGR_3142L_concepts_raw.json
+ECGR_3142L,concept,standard laboratory instruments,standard laboratory instruments,1,verified,standard laboratory instruments,ECGR_3142L_concepts_raw.json
+ECGR_3142L,method,model parameters for transformers,model parameters for transformers,1,verified,calculating characteristics and model parameters for transformers and/or synchronous machines,ECGR_3142L_concepts_raw.json
+ECGR_3142L,tool,digital multi-meters,digital multi-meters,1,verified,digital multi-meters,ECGR_3142L_concepts_raw.json
+ECGR_3142L,tool,oscilloscopes,oscilloscopes,1,verified,oscilloscopes,ECGR_3142L_concepts_raw.json
+ECGR_3142L,tool,power supplies,power supplies,1,verified,power supplies,ECGR_3142L_concepts_raw.json

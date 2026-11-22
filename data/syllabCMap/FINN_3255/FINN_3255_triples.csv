@@ -1,0 +1,12 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+FINN_3255,financial calculations in real estate,concept,PREREQUISITE_OF,investment analysis techniques,concept,same unit,,FINN_3255_triples_raw.json
+FINN_3255,financial calculations in real estate,concept,PREREQUISITE_OF,risk management strategies,concept,same unit,,FINN_3255_triples_raw.json
+FINN_3255,real estate terminology,concept,PART_OF,Real Estate Fundamentals,topic,,,FINN_3255_triples_raw.json
+FINN_3255,property ownership types,concept,PART_OF,Real Estate Fundamentals,topic,,,FINN_3255_triples_raw.json
+FINN_3255,land use classifications,concept,PART_OF,Real Estate Fundamentals,topic,,,FINN_3255_triples_raw.json
+FINN_3255,property market analysis,concept,PART_OF,Market Principles and Value,topic,,,FINN_3255_triples_raw.json
+FINN_3255,investment analysis techniques,concept,PART_OF,Real Estate Finance and Investment,topic,,,FINN_3255_triples_raw.json
+FINN_3255,mortgage types and options,concept,PART_OF,Real Estate Financing Alternatives,topic,,,FINN_3255_triples_raw.json
+FINN_3255,alternative financing methods,concept,PART_OF,Real Estate Financing Alternatives,topic,,,FINN_3255_triples_raw.json
+FINN_3255,quantitative investment analysis,concept,PART_OF,Investment Analysis and Decision Making,topic,,,FINN_3255_triples_raw.json
+FINN_3255,real estate investment strategies,concept,PART_OF,Investment Analysis and Decision Making,topic,,,FINN_3255_triples_raw.json

@@ -1,0 +1,28 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MEGR_4211,topic,Vehicle Dynamics,Vehicle Dynamics,3,verified,Vehicle Dynamics,MEGR_4211_concepts_raw.json
+MEGR_4211,topic,Dynamic Performance Criteria,dynamic performance criteria,1,verified,Dynamic Performance Criteria,MEGR_4211_concepts_raw.json
+MEGR_4211,topic,Acceleration and Braking,Acceleration and braking,1,verified,Acceleration and Braking,MEGR_4211_concepts_raw.json
+MEGR_4211,topic,Steady-State Cornering,steady-state cornering,1,verified,Steady-State Cornering,MEGR_4211_concepts_raw.json
+MEGR_4211,topic,Suspension Components Modeling,Suspension Components Modeling,1,inferred,Suspension Components Modeling,MEGR_4211_concepts_raw.json
+MEGR_4211,topic,Steering System Dynamics,Steering System Dynamics,1,inferred,Steering System Dynamics,MEGR_4211_concepts_raw.json
+MEGR_4211,topic,Tire Behavior Modeling,Tire Behavior Modeling,1,inferred,Tire Behavior Modeling,MEGR_4211_concepts_raw.json
+MEGR_4211,topic,Design Evaluation and Optimization,Design Evaluation and Optimization,1,inferred,Design Evaluation and Optimization,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,Newton's second law application,Newton's second law application,1,inferred,Newton's second law application,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,vehicle system analysis,Vehicle system analysis,1,inferred,vehicle system analysis,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,force and acceleration relationship,Force and acceleration relationship,1,inferred,force and acceleration relationship,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,spring and damper modeling,Spring and damper modeling,1,inferred,spring and damper modeling,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,suspension system dynamics,Suspension system dynamics,1,inferred,suspension system dynamics,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,component force analysis,Component force analysis,1,inferred,component force analysis,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,performance criteria evaluation,Performance criteria evaluation,1,inferred,performance criteria evaluation,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,design optimization techniques,Design optimization techniques,1,inferred,design optimization techniques,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,vehicle handling characteristics,Vehicle handling characteristics,1,inferred,vehicle handling characteristics,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,acceleration performance analysis,Acceleration performance analysis,1,inferred,acceleration performance analysis,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,braking system dynamics,Braking system dynamics,1,inferred,braking system dynamics,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,energy dissipation mechanisms,Energy dissipation mechanisms,1,inferred,energy dissipation mechanisms,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,cornering forces and moments,Cornering forces and moments,1,inferred,cornering forces and moments,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,vehicle stability analysis,Vehicle stability analysis,1,inferred,vehicle stability analysis,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,tire-road interaction,Tire-road interaction,2,inferred,tire-road interaction,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,torque and angle relationship,Torque and angle relationship,1,inferred,torque and angle relationship,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,system response characteristics,System response characteristics,1,inferred,system response characteristics,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,tire friction coefficient,Tire friction coefficient,1,inferred,tire friction coefficient,MEGR_4211_concepts_raw.json
+MEGR_4211,concept,tire deformation analysis,Tire deformation analysis,1,inferred,tire deformation analysis,MEGR_4211_concepts_raw.json

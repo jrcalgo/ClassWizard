@@ -1,0 +1,6 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOL_3190,topic,Geologic Principles,geologic principles,1,verified,Geologic Principles,GEOL_3190_concepts_raw.json
+GEOL_3190,concept,general geologic knowledge,general geologic knowledge,1,verified,general geologic knowledge,GEOL_3190_concepts_raw.json
+GEOL_3190,concept,major natural systems,major natural systems,1,verified,major natural systems,GEOL_3190_concepts_raw.json
+GEOL_3190,concept,minerals,minerals,1,verified,minerals,GEOL_3190_concepts_raw.json
+GEOL_3190,concept,rocks,rocks,1,verified,rocks,GEOL_3190_concepts_raw.json

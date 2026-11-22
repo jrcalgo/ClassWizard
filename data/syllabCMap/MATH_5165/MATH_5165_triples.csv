@@ -1,0 +1,9 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MATH_5165,Vector Spaces,concept,PREREQUISITE_OF,Normed Vector Spaces,concept,A taught first,,MATH_5165_triples_raw.json
+MATH_5165,Vector Spaces,concept,PREREQUISITE_OF,Inner Product Spaces,concept,A taught first,,MATH_5165_triples_raw.json
+MATH_5165,Linear Transformations,concept,PREREQUISITE_OF,Matrix Representation of Linear Transformations,topic,same unit,,MATH_5165_triples_raw.json
+MATH_5165,Vector Spaces,concept,PREREQUISITE_OF,Eigenvalue Problem and Its Solution,topic,A taught first,,MATH_5165_triples_raw.json
+MATH_5165,Eigenspaces,concept,PREREQUISITE_OF,Diagonalization of Matrices,topic,same unit,,MATH_5165_triples_raw.json
+MATH_5165,Gaussian Elimination,concept,USED_FOR,Matrix Inverse,concept,,,MATH_5165_triples_raw.json
+MATH_5165,LU Decomposition,concept,USED_FOR,Matrix Inverse,concept,,,MATH_5165_triples_raw.json
+MATH_5165,LU Decomposition,concept,USED_FOR,Determinant,concept,,,MATH_5165_triples_raw.json

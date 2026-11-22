@@ -1,0 +1,22 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GEOG_3120,Spatial Data Types,concept,PREREQUISITE_OF,Coordinate Systems,concept,same unit,,GEOG_3120_triples_raw.json
+GEOG_3120,Spatial Data Models,concept,PREREQUISITE_OF,data acquisition and management,topic,A mentioned first,,GEOG_3120_triples_raw.json
+GEOG_3120,Vector Data Model,topic,PREREQUISITE_OF,Raster Data Model,topic,A taught first,,GEOG_3120_triples_raw.json
+GEOG_3120,ArcGIS Pro interface,topic,PREREQUISITE_OF,Cartography Principles,topic,A taught first,,GEOG_3120_triples_raw.json
+GEOG_3120,Coordinate Systems,concept,PART_OF,coordinate systems and projections,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Spatial Data Models,concept,PART_OF,data acquisition and management,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Data Acquisition Methods,concept,PART_OF,data workflows,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,basic spatial analysis techniques,topic,PART_OF,data workflows,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Vector Data Model,topic,PART_OF,Geographic Information Systems,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Raster Data Model,topic,PART_OF,Geographic Information Systems,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Terrain Mapping,topic,PART_OF,Geographic Information Systems,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Suitability analysis,topic,PART_OF,Geographic Information Systems,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,ArcGIS Pro interface,topic,PART_OF,Geographic Information Systems,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Raster Data Model,topic,SUBTYPE_OF,Vector Data Model,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Viewshed Analysis,concept,SUBTYPE_OF,Terrain Mapping,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Watershed Analysis,concept,SUBTYPE_OF,Terrain Mapping,topic,,,GEOG_3120_triples_raw.json
+GEOG_3120,Inverse distance weighting,concept,SUBTYPE_OF,Spatial Interpolation,concept,,,GEOG_3120_triples_raw.json
+GEOG_3120,Kriging method,concept,SUBTYPE_OF,Spatial Interpolation,concept,,,GEOG_3120_triples_raw.json
+GEOG_3120,Cartography Principles,topic,USED_FOR,Geographic Information Systems,topic,,topic used for something - check direction,GEOG_3120_triples_raw.json
+GEOG_3120,Network Analysis Methods,topic,USED_FOR,Geographic Information Systems,topic,,topic used for something - check direction,GEOG_3120_triples_raw.json
+GEOG_3120,Geocoding Techniques,concept,USED_FOR,Geographic Information Systems,topic,,,GEOG_3120_triples_raw.json

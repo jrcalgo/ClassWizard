@@ -1,0 +1,20 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+CMET_2135,concept,BIM Software Basics,BIM Software Basics,1,verified,BIM Software Basics,CMET_2135_concepts_raw.json
+CMET_2135,concept,User Interface Elements,User Interface Elements,1,verified,User Interface Elements,CMET_2135_concepts_raw.json
+CMET_2135,concept,Navigation Tools Overview,Navigation Tools Overview,1,verified,Navigation Tools Overview,CMET_2135_concepts_raw.json
+CMET_2135,concept,Building Information Modeling,Building Information Modeling,7,verified,Building Information Modeling,CMET_2135_concepts_raw.json
+CMET_2135,concept,BIM Technologies,BIM technologies,6,verified,BIM Technologies,CMET_2135_concepts_raw.json
+CMET_2135,concept,Design Coordination,Design Coordination,3,verified,Design Coordination,CMET_2135_concepts_raw.json
+CMET_2135,concept,Construction Management,Construction Management,3,verified,Construction Management,CMET_2135_concepts_raw.json
+CMET_2135,concept,Project Delivery Systems,project delivery systems,6,verified,Project Delivery Systems,CMET_2135_concepts_raw.json
+CMET_2135,concept,Integrated Practice,integrated practice,5,verified,Integrated Practice,CMET_2135_concepts_raw.json
+CMET_2135,concept,Geometry Relationships,Geometry Relationships,2,verified,Geometry Relationships,CMET_2135_concepts_raw.json
+CMET_2135,concept,Geometric Information,geometric information,3,verified,Geometric Information,CMET_2135_concepts_raw.json
+CMET_2135,concept,Properties of Components,Properties of Components,1,verified,Properties of Components,CMET_2135_concepts_raw.json
+CMET_2135,method,Design development and coordination using BIM,Design development and coordination using BIM,1,verified,Design development and coordination using BIM,CMET_2135_concepts_raw.json
+CMET_2135,method,Model-based cost estimation,Model-based cost estimation,1,verified,Model-based cost estimation,CMET_2135_concepts_raw.json
+CMET_2135,method,System clash prevention using BIM,System clash prevention using BIM,1,verified,System clash prevention using BIM,CMET_2135_concepts_raw.json
+CMET_2135,tool,Autodesk Revit,Autodesk Revit,2,verified,Autodesk Revit,CMET_2135_concepts_raw.json
+CMET_2135,tool,Revit,Revit,4,verified,Revit,CMET_2135_concepts_raw.json
+CMET_2135,tool,EnergyPlus,EnergyPlus,1,verified,EnergyPlus,CMET_2135_concepts_raw.json
+CMET_2135,tool,OpenStudios,OpenStudios,1,verified,OpenStudios,CMET_2135_concepts_raw.json

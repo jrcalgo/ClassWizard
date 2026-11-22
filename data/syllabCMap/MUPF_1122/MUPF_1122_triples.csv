@@ -1,0 +1,2 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MUPF_1122,ARIMA model components,concept,USED_FOR,Time series analysis,topic,,,MUPF_1122_triples_raw.json

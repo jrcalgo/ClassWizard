@@ -1,0 +1,31 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHES_1200,Database Search Techniques,concept,PREREQUISITE_OF,Ethical Research Practices,topic,A taught first,,CHES_1200_triples_raw.json
+CHES_1200,Citing Sources Properly,concept,PREREQUISITE_OF,Avoiding Plagiarism,concept,same unit,,CHES_1200_triples_raw.json
+CHES_1200,Responsible Data Collection,concept,PREREQUISITE_OF,Maintaining Academic Integrity,concept,same unit,,CHES_1200_triples_raw.json
+CHES_1200,Understanding Plagiarism Consequences,concept,PREREQUISITE_OF,Academic Integrity and AI Use,topic,same unit,,CHES_1200_triples_raw.json
+CHES_1200,Research Design and Methodology,concept,PREREQUISITE_OF,Undergraduate Research Opportunities,topic,same unit,,CHES_1200_triples_raw.json
+CHES_1200,Understanding Financial Aid Options,concept,PREREQUISITE_OF,Financial Literacy for First-Year Students,topic,same unit,,CHES_1200_triples_raw.json
+CHES_1200,University Academic Policies,concept,PART_OF,Academic Expectations,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Course Requirements and Grading,concept,PART_OF,Academic Expectations,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Time Management Strategies,concept,PART_OF,Academic Expectations,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Analyzing Texts for Meaning,concept,PART_OF,Critical Reading Skills,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Identifying Author's Purpose,concept,PART_OF,Critical Reading Skills,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Database Search Techniques,concept,PART_OF,Information Literacy,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Citing Sources Properly,concept,PART_OF,Information Literacy,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Avoiding Plagiarism,concept,PART_OF,Information Literacy,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Responsible Data Collection,concept,PART_OF,Ethical Research Practices,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Informed Consent Protocols,concept,PART_OF,Ethical Research Practices,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Maintaining Academic Integrity,concept,PART_OF,Ethical Research Practices,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Understanding Plagiarism Consequences,concept,PART_OF,Academic Integrity and AI Use,topic,,,CHES_1200_triples_raw.json
+CHES_1200,AI Tools in College Research,concept,PART_OF,Academic Integrity and AI Use,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Identifying University Support Services,concept,PART_OF,Networking and Campus Resources,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Getting Involved on Campus,concept,PART_OF,Networking and Campus Resources,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Research Design and Methodology,concept,PART_OF,Undergraduate Research Opportunities,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Conducting Original Research,concept,PART_OF,Undergraduate Research Opportunities,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Presenting Research Findings,concept,PART_OF,Undergraduate Research Opportunities,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Understanding Financial Aid Options,concept,PART_OF,Financial Literacy for First-Year Students,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Managing Student Debt Responsibly,concept,PART_OF,Financial Literacy for First-Year Students,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Creating a Budget Plan,concept,PART_OF,Financial Literacy for First-Year Students,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Prioritizing Self-Care Practices,concept,PART_OF,Physical and Mental Wellbeing Strategies,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Recognizing Signs of Burnout,concept,PART_OF,Physical and Mental Wellbeing Strategies,topic,,,CHES_1200_triples_raw.json
+CHES_1200,Maintaining Healthy Relationships,concept,PART_OF,Physical and Mental Wellbeing Strategies,topic,,,CHES_1200_triples_raw.json

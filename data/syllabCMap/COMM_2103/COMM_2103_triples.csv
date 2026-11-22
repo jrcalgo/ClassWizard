@@ -1,0 +1,15 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_2103,Evidence,concept,USED_FOR,Fundamental Processes of Argumentation,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Assumptions in Argumentation,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Claim,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Warrant Structure,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Counterarguments and Refutations,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Detecting Fallacious Reasoning,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Asking Effective Questions,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Analyzing Opposing Views,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Organizing Ideas for Debate,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Verbal Expression of Ideas,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Engaging in Reflective Thinking,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Value of Open-Mindedness and Fairness,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Tolerance for Opposing Viewpoints,concept,,,COMM_2103_triples_raw.json
+COMM_2103,Evidence,concept,USED_FOR,Importance of Evidence-Based Arguments,concept,,,COMM_2103_triples_raw.json

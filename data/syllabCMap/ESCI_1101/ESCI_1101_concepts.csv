@@ -1,0 +1,11 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ESCI_1101,topic,Earth Science,Earth science,2,verified,Earth Science,ESCI_1101_concepts_raw.json
+ESCI_1101,concept,Branch of Science,branch of science,1,verified,Branch of Science,ESCI_1101_concepts_raw.json
+ESCI_1101,method,Use maps,Use maps,1,verified,"Use maps, graphs and remote sensing (GPS and GIS) to analyze and interpret data and draw conclusions.",ESCI_1101_concepts_raw.json
+ESCI_1101,method,graphs,graphs,1,verified,"Use maps, graphs and remote sensing (GPS and GIS) to analyze and interpret data and draw conclusions.",ESCI_1101_concepts_raw.json
+ESCI_1101,method,remote sensing (GPS,remote sensing (GPS,1,verified,"Use maps, graphs and remote sensing (GPS and GIS) to analyze and interpret data and draw conclusions.",ESCI_1101_concepts_raw.json
+ESCI_1101,method,GIS) to analyze,GIS) to analyze,1,verified,"Use maps, graphs and remote sensing (GPS and GIS) to analyze and interpret data and draw conclusions.",ESCI_1101_concepts_raw.json
+ESCI_1101,method,interpret data,interpret data,1,verified,"Use maps, graphs and remote sensing (GPS and GIS) to analyze and interpret data and draw conclusions.",ESCI_1101_concepts_raw.json
+ESCI_1101,method,draw conclusions,draw conclusions,1,verified,"Use maps, graphs and remote sensing (GPS and GIS) to analyze and interpret data and draw conclusions.",ESCI_1101_concepts_raw.json
+ESCI_1101,tool,GIS,GIS,1,verified,GIS,ESCI_1101_concepts_raw.json
+ESCI_1101,tool,GPS,GPS,1,verified,GPS,ESCI_1101_concepts_raw.json

@@ -1,0 +1,13 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ITIS_8230,prevent-detect-response strategy for enterprise security,concept,PREREQUISITE_OF,Infrastructure Reconnaissance,topic,A taught first,,ITIS_8230_triples_raw.json
+ITIS_8230,Risk Assessment and Management,topic,PREREQUISITE_OF,risk management techniques,concept,same unit,,ITIS_8230_triples_raw.json
+ITIS_8230,Cybersecurity Policies and Procedures,concept,PART_OF,Enterprise Security Fundamentals,topic,,,ITIS_8230_triples_raw.json
+ITIS_8230,risk management techniques,concept,PART_OF,Risk Assessment and Management,topic,,,ITIS_8230_triples_raw.json
+ITIS_8230,network infrastructure mapping,method,PART_OF,Infrastructure Reconnaissance,topic,,,ITIS_8230_triples_raw.json
+ITIS_8230,system configuration analysis,method,PART_OF,Infrastructure Reconnaissance,topic,,,ITIS_8230_triples_raw.json
+ITIS_8230,vulnerability scanning tools,method,PART_OF,Infrastructure Reconnaissance,topic,,,ITIS_8230_triples_raw.json
+ITIS_8230,business impact analysis,method,PART_OF,Disaster Recovery and Business Continuity,topic,,,ITIS_8230_triples_raw.json
+ITIS_8230,disaster recovery planning,method,PART_OF,Disaster Recovery and Business Continuity,topic,,,ITIS_8230_triples_raw.json
+ITIS_8230,vulnerability scanning tools,method,USED_FOR,Infrastructure Reconnaissance,topic,,,ITIS_8230_triples_raw.json
+ITIS_8230,business impact analysis,method,USED_FOR,Disaster Recovery and Business Continuity,topic,,,ITIS_8230_triples_raw.json
+ITIS_8230,disaster recovery planning,method,USED_FOR,Disaster Recovery and Business Continuity,topic,,,ITIS_8230_triples_raw.json

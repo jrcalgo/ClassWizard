@@ -1,0 +1,10 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+PPOL_8600,concept,public policy process,public policy processes,1,verified,public policy process,PPOL_8600_concepts_raw.json
+PPOL_8600,topic,public problems,public problems,1,verified,public problems,PPOL_8600_concepts_raw.json
+PPOL_8600,topic,policy implementation,policy implementation,1,verified,policy implementation,PPOL_8600_concepts_raw.json
+PPOL_8600,topic,growing urban regions,growing urban regions,2,verified,growing urban regions,PPOL_8600_concepts_raw.json
+PPOL_8600,concept,value conflicts,value conflicts,2,verified,value conflicts,PPOL_8600_concepts_raw.json
+PPOL_8600,topic,institutional change,Institutional Change,1,verified,institutional change,PPOL_8600_concepts_raw.json
+PPOL_8600,topic,economic performance,Economic Performance,1,verified,economic performance,PPOL_8600_concepts_raw.json
+PPOL_8600,concept,spatial context,spatial contexts,1,verified,spatial context,PPOL_8600_concepts_raw.json
+PPOL_8600,method,policy analysis,policy analysis,1,verified,policy analysis,PPOL_8600_concepts_raw.json

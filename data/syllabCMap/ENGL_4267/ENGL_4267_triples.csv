@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ENGL_4267,Digital Discourse,topic,PREREQUISITE_OF,Language and Culture in Digital Spaces,topic,A mentioned first,,ENGL_4267_triples_raw.json
+ENGL_4267,Human-AI Communication,topic,PREREQUISITE_OF,Language and Culture in Digital Spaces,topic,A mentioned first,,ENGL_4267_triples_raw.json
+ENGL_4267,multimodal analysis,method,USED_FOR,Language and Culture in Digital Spaces,topic,,,ENGL_4267_triples_raw.json

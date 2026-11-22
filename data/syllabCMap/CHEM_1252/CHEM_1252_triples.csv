@@ -1,0 +1,7 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+CHEM_1252,Molecular structure and bonding,concept,PART_OF,Liquids and Solids,topic,,,CHEM_1252_triples_raw.json
+CHEM_1252,Molecular structure and bonding,concept,PART_OF,Solutions,topic,,,CHEM_1252_triples_raw.json
+CHEM_1252,Molecular structure and bonding,concept,PART_OF,Chemical Kinetics,topic,,,CHEM_1252_triples_raw.json
+CHEM_1252,Molecular structure and bonding,concept,PART_OF,Chemical Equilibrium,topic,,,CHEM_1252_triples_raw.json
+CHEM_1252,Molecular structure and bonding,concept,PART_OF,Thermodynamics,topic,,,CHEM_1252_triples_raw.json
+CHEM_1252,Molecular structure and bonding,concept,PART_OF,Electrochemistry,topic,,,CHEM_1252_triples_raw.json

@@ -1,0 +1,14 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+GERM_1202,speaking,method,PREREQUISITE_OF,listening,method,A taught first,,GERM_1202_triples_raw.json
+GERM_1202,listening,method,PREREQUISITE_OF,writing,method,A taught first,,GERM_1202_triples_raw.json
+GERM_1202,speaking,method,PREREQUISITE_OF,writing,method,A taught first,,GERM_1202_triples_raw.json
+GERM_1202,Telling Time,topic,PART_OF,German Language,topic,,,GERM_1202_triples_raw.json
+GERM_1202,Family and Friends,topic,PART_OF,German Language,topic,,,GERM_1202_triples_raw.json
+GERM_1202,Listening Comprehension,topic,PART_OF,German Language,topic,,,GERM_1202_triples_raw.json
+GERM_1202,Speaking Tasks,topic,PART_OF,German Language,topic,,,GERM_1202_triples_raw.json
+GERM_1202,Writing Tasks,topic,PART_OF,German Language,topic,,,GERM_1202_triples_raw.json
+GERM_1202,communicative approach,method,PART_OF,German Language,topic,,,GERM_1202_triples_raw.json
+GERM_1202,reading,method,PART_OF,German Language,topic,,,GERM_1202_triples_raw.json
+GERM_1202,writing,method,USED_FOR,Writing Tasks,topic,,,GERM_1202_triples_raw.json
+GERM_1202,speaking,method,USED_FOR,Speaking Tasks,topic,,,GERM_1202_triples_raw.json
+GERM_1202,listening,method,USED_FOR,Listening Comprehension,topic,,,GERM_1202_triples_raw.json

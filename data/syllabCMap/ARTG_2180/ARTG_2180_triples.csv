@@ -1,0 +1,4 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTG_2180,design thinking process,concept,PREREQUISITE_OF,Design History,topic,A taught first,,ARTG_2180_triples_raw.json
+ARTG_2180,design thinking process,concept,PART_OF,Design History,topic,,,ARTG_2180_triples_raw.json
+ARTG_2180,visual problem-solving skills,concept,PART_OF,design thinking process,concept,,,ARTG_2180_triples_raw.json

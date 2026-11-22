@@ -1,0 +1,24 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+ECON_6113,topic,Cross Section and Time Series Econometrics,Cross Section and Time Series Econometrics,1,verified,Cross Section and Time Series Econometrics,ECON_6113_concepts_raw.json
+ECON_6113,topic,derivation of the least-squares estimator,derivation of the least-squares estimator,3,verified,derivation of the least-squares estimator,ECON_6113_concepts_raw.json
+ECON_6113,method,maximum likelihood estimation,maximum likelihood estimation,7,verified,maximum likelihood estimation,ECON_6113_concepts_raw.json
+ECON_6113,method,instrumental variables regression,instrumental variables regression,5,verified,instrumental variables regression,ECON_6113_concepts_raw.json
+ECON_6113,topic,multicollinearity,multicollinearity,8,verified,multicollinearity,ECON_6113_concepts_raw.json
+ECON_6113,topic,heteroscedasticity,heteroscedasticity,7,verified,heteroscedasticity,ECON_6113_concepts_raw.json
+ECON_6113,topic,autocorrelation,autocorrelation,7,verified,autocorrelation,ECON_6113_concepts_raw.json
+ECON_6113,topic,time-series estimation,time-series estimation,3,verified,time-series estimation,ECON_6113_concepts_raw.json
+ECON_6113,method,ARIMA models,ARIMA models,5,verified,ARIMA models,ECON_6113_concepts_raw.json
+ECON_6113,method,basic forecasting tools,basic forecasting tools,4,verified,basic forecasting tools,ECON_6113_concepts_raw.json
+ECON_6113,concept,least-squares estimator,least-squares estimator,7,verified,least-squares estimator,ECON_6113_concepts_raw.json
+ECON_6113,concept,Classical Regression Model,classical regression model,6,verified,Classical Regression Model,ECON_6113_concepts_raw.json
+ECON_6113,concept,Heteroscedasticity Problem,Heteroscedasticity Problem,1,verified,Heteroscedasticity Problem,ECON_6113_concepts_raw.json
+ECON_6113,concept,Multicollinearity Issue,Multicollinearity Issue,1,verified,Multicollinearity Issue,ECON_6113_concepts_raw.json
+ECON_6113,concept,Instrumental Variables Method,Instrumental Variables Method,1,verified,Instrumental Variables Method,ECON_6113_concepts_raw.json
+ECON_6113,concept,Regression Assumptions Violation,Regression Assumptions Violation,1,verified,Regression Assumptions Violation,ECON_6113_concepts_raw.json
+ECON_6113,concept,White's Test,White's Test,1,verified,White's Test,ECON_6113_concepts_raw.json
+ECON_6113,concept,Robust Standard Errors,Robust Standard Errors,1,verified,Robust Standard Errors,ECON_6113_concepts_raw.json
+ECON_6113,concept,Homoscedasticity Assumption,Homoscedasticity Assumption,1,verified,Homoscedasticity Assumption,ECON_6113_concepts_raw.json
+ECON_6113,concept,Generalized Least Squares,Generalized Least Squares,1,verified,Generalized Least Squares,ECON_6113_concepts_raw.json
+ECON_6113,concept,Weighted Least Squares,Weighted Least Squares,1,verified,Weighted Least Squares,ECON_6113_concepts_raw.json
+ECON_6113,concept,Heteroskedasticity-Robust Standard Error,Heteroskedasticity-Robust Standard Error,1,verified,Heteroskedasticity-Robust Standard Error,ECON_6113_concepts_raw.json
+ECON_6113,method,least-squares estimator derivation,Least-squares estimator derivation,1,verified,least-squares estimator derivation,ECON_6113_concepts_raw.json

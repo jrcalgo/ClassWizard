@@ -1,0 +1,8 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ETEM_3281,project planning and scheduling,method,PART_OF,project execution and testing,method,,,ETEM_3281_triples_raw.json
+ETEM_3281,collaborative team environment,concept,PART_OF,Electromechanical Engineering,topic,,,ETEM_3281_triples_raw.json
+ETEM_3281,communication plan development,concept,PART_OF,project planning and scheduling,method,,part is broader than whole - check direction,ETEM_3281_triples_raw.json
+ETEM_3281,stakeholder engagement and involvement,concept,PART_OF,project planning and scheduling,method,,part is broader than whole - check direction,ETEM_3281_triples_raw.json
+ETEM_3281,subsystem design and development,concept,PART_OF,electromechanical component selection,concept,,,ETEM_3281_triples_raw.json
+ETEM_3281,integration with other components,concept,PART_OF,subsystem design and development,concept,,,ETEM_3281_triples_raw.json
+ETEM_3281,troubleshooting and debugging techniques,concept,PART_OF,project execution and testing,method,,part is broader than whole - check direction,ETEM_3281_triples_raw.json

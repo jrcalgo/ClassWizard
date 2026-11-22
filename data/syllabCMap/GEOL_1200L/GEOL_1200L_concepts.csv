@@ -1,0 +1,21 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+GEOL_1200L,topic,Physical Geology,Physical Geology,2,verified,Physical Geology,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Plate Tectonics,plate tectonics,11,verified,Plate Tectonics,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Rocks and Minerals,rocks and minerals,2,verified,Rocks and Minerals,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Metamorphism Process,Metamorphism Processes,4,verified,Metamorphism Process,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Geologic Structures,geologic structures,8,verified,Geologic Structures,GEOL_1200L_concepts_raw.json
+GEOL_1200L,topic,Topographic Maps,Topographic Maps,3,verified,Topographic Maps,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Contour Lines,Contour Lines,1,verified,Contour Lines,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Map Scales,Map Scales,1,verified,Map Scales,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Elevation Profiles,Elevation Profiles,1,verified,Elevation Profiles,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Geologic Features,Geologic Features,1,verified,Geologic Features,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Volcanic Processes,Volcanic Processes,1,verified,Volcanic Processes,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Rock Identification,Rock Identification,3,verified,Rock Identification,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Metamorphism Types,Metamorphism Types,1,verified,Metamorphism Types,GEOL_1200L_concepts_raw.json
+GEOL_1200L,topic,Geologic Structures Formation,Geologic Structures Formation,1,verified,Geologic Structures Formation,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Earthquake Mechanism,Earthquake Mechanism,1,verified,Earthquake Mechanism,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Seismic Waves,Seismic Waves,1,verified,Seismic Waves,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Faulting Process,Faulting Process,1,verified,Faulting Process,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Tectonic Plate Boundaries,Tectonic Plate Boundaries,1,verified,Tectonic Plate Boundaries,GEOL_1200L_concepts_raw.json
+GEOL_1200L,concept,Deformation,Deformation,2,verified,Deformation,GEOL_1200L_concepts_raw.json
+GEOL_1200L,topic,Surface Processes,Surface Processes,2,verified,Surface Processes,GEOL_1200L_concepts_raw.json

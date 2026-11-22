@@ -1,0 +1,62 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Power Dynamics,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Organizational Culture,concept,same unit,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Communication Networks,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Boundary Spanning,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Group Dynamics,concept,same unit,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Systems Theory,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Conflict Resolution,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Resource Allocation,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Organizational Environment,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Emotional Labor,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Power and Influence,concept,same unit,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Role Theory,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Stakeholder Analysis,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Human Relations,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Affective Tone,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Emotion Regulation,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Interpersonal Conflict,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Cultural Competence,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Identity Formation,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Communication Models,concept,same unit,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Classical Approaches,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Status Hierarchy,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Power Distance,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Organizational Resources,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Cultural Approach,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Emotion Expression,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Emotion Management,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Intrapersonal Conflict,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Communication Styles,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Social Justice,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Microaggressions,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Intersectionality,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Diversity Management,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes,concept,PREREQUISITE_OF,Stereotype Threat,concept,A taught first,,COMM_3141_triples_raw.json
+COMM_3141,Organizational Communication,concept,PART_OF,Foundations of Org Comm,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Organizational Culture,concept,PART_OF,Foundations of Org Comm,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Interpersonal Communication,concept,PART_OF,Foundations of Org Comm,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Group Dynamics,concept,PART_OF,Foundations of Org Comm,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Power and Influence,concept,PART_OF,Foundations of Org Comm,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Communication Models,concept,PART_OF,Foundations of Org Comm,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Organizational Environment,concept,PART_OF,Classic Approaches,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Human Relations,concept,PART_OF,Human Relations/Resources,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Resource Allocation,concept,PART_OF,Human Relations/Resources,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Organizational Subcultures,concept,PART_OF,Systems/Culture Approaches,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Cultural Approach,concept,PART_OF,Systems/Culture Approaches,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Symbolic Interactionism,concept,PART_OF,Systems/Culture Approaches,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Social Exchange Theory,concept,PART_OF,Systems/Culture Approaches,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Communication Processes Model,concept,PART_OF,Systems/Culture Approaches,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Systemic Perspective View,concept,PART_OF,Systems/Culture Approaches,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Organizational Emotions,concept,PART_OF,Emotion Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Emotional Labor,concept,PART_OF,Emotion Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Affective Tone,concept,PART_OF,Emotion Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Emotion Regulation,concept,PART_OF,Emotion Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Interpersonal Conflict,concept,PART_OF,Conflict Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Intrapersonal Conflict,concept,PART_OF,Conflict Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Power Dynamics,concept,PART_OF,Diversity Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Cultural Competence,concept,PART_OF,Diversity Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Identity Formation,concept,PART_OF,Diversity Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Social Justice,concept,PART_OF,Diversity Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Microaggressions,concept,PART_OF,Diversity Processes,topic,,,COMM_3141_triples_raw.json
+COMM_3141,Intersectionality,concept,PART_OF,Diversity Processes,topic,,,COMM_3141_triples_raw.json

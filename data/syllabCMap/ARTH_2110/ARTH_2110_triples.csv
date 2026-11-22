@@ -1,0 +1,23 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+ARTH_2110,Abstract Expressionism,concept,PREREQUISITE_OF,Fauvist Influence Decline,concept,same unit,,ARTH_2110_triples_raw.json
+ARTH_2110,Minimalist Aesthetics Development,concept,PREREQUISITE_OF,Conceptual Art Theories,concept,same unit,,ARTH_2110_triples_raw.json
+ARTH_2110,Photorealistic Techniques Evolution,concept,PREREQUISITE_OF,Hyperrealism Artistic Style,concept,same unit,,ARTH_2110_triples_raw.json
+ARTH_2110,Globalization of Art Market,concept,PREREQUISITE_OF,Non-Western Art Movements,concept,same unit,,ARTH_2110_triples_raw.json
+ARTH_2110,Feminist Art Movement Origins,concept,PREREQUISITE_OF,Queer Art Theoretical Frameworks,concept,same unit,,ARTH_2110_triples_raw.json
+ARTH_2110,Digital Art Forms Development,concept,PREREQUISITE_OF,New Media Art Theories,concept,same unit,,ARTH_2110_triples_raw.json
+ARTH_2110,Abstract Expressionism,concept,PART_OF,Post-War Art Movements,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Fauvist Influence Decline,concept,PART_OF,Post-War Art Movements,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Minimalist Aesthetics Development,concept,PART_OF,Minimalism and Conceptualism,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Conceptual Art Theories,concept,PART_OF,Minimalism and Conceptualism,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Photorealistic Techniques Evolution,concept,PART_OF,Photorealism and Hyperrealism,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Surrealist Influence Revival,concept,PART_OF,Photorealism and Hyperrealism,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Postmodernist Theories Application,concept,PART_OF,Postmodernism and Appropriation,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Appropriation Art Strategies,concept,PART_OF,Postmodernism and Appropriation,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Globalization of Art Market,concept,PART_OF,Global Contemporary Art,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Non-Western Art Movements,concept,PART_OF,Global Contemporary Art,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Cultural Exchange and Hybridity,concept,PART_OF,Global Contemporary Art,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Feminist Art Movement Origins,concept,PART_OF,Feminist and Queer Art Histories,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Queer Art Theoretical Frameworks,concept,PART_OF,Feminist and Queer Art Histories,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Digital Art Forms Development,concept,PART_OF,Digital Art and New Media,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,New Media Art Theories,concept,PART_OF,Digital Art and New Media,topic,,,ARTH_2110_triples_raw.json
+ARTH_2110,Virtual Reality Art Applications,concept,PART_OF,Digital Art and New Media,topic,,,ARTH_2110_triples_raw.json

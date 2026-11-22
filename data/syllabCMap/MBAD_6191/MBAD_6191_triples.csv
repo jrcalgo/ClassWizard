@@ -1,0 +1,26 @@
+course,subject,subject_type,predicate,object,object_type,order_evidence,flags,source_file
+MBAD_6191,Team Building Skills,concept,PREREQUISITE_OF,Competitive Advantage Creation,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Customer Insight Development,concept,PREREQUISITE_OF,Competitive Advantage Creation,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Entrepreneurial Mindset,concept,PREREQUISITE_OF,Intrapreneurship Strategies,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Entrepreneurial Characteristics,concept,PREREQUISITE_OF,Business Idea Generation,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Entrepreneurial Characteristics,concept,PREREQUISITE_OF,Competitive Advantage Creation,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Entrepreneurial Team Building,concept,PREREQUISITE_OF,Venture Financing Options,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Feasibility Analysis,concept,PREREQUISITE_OF,Enchantment Strategy,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Market Development,concept,PREREQUISITE_OF,Venture Financing Options,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Intrapreneurship Strategies,concept,PREREQUISITE_OF,Venture Creation Process,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Business Idea Generation,concept,PREREQUISITE_OF,Competitive Advantage Creation,concept,same unit,,MBAD_6191_triples_raw.json
+MBAD_6191,Entrepreneurial Mindset,concept,PREREQUISITE_OF,Entrepreneurial Team Building,concept,A taught first,,MBAD_6191_triples_raw.json
+MBAD_6191,Entrepreneurial Characteristics,concept,PREREQUISITE_OF,Entrepreneurial Team Building,concept,A taught first,,MBAD_6191_triples_raw.json
+MBAD_6191,Customer Insight Development,concept,PREREQUISITE_OF,Enchantment Strategy,concept,A taught first,,MBAD_6191_triples_raw.json
+MBAD_6191,Team Building Skills,concept,PART_OF,Family Firms,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Entrepreneurial Mindset,concept,PART_OF,Corporate Entrepreneurship,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Intrapreneurship Strategies,concept,PART_OF,Corporate Entrepreneurship,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Venture Creation Process,concept,PART_OF,Corporate Entrepreneurship,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Business Idea Generation,concept,PART_OF,Feasibility Analysis & Enchantment,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Feasibility Analysis,concept,PART_OF,Feasibility Analysis & Enchantment,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Venture Financing Options,concept,PART_OF,Feasibility Analysis & Enchantment,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Entrepreneurial Team Building,concept,PART_OF,Family Firms,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Business Environment Factors,concept,PART_OF,Feasibility Analysis & Enchantment,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Family Firm Characteristics,concept,PART_OF,Family Firms,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Entrepreneurial Mindset Development,concept,PART_OF,Family Firms,topic,,,MBAD_6191_triples_raw.json
+MBAD_6191,Market Analysis Techniques,concept,PART_OF,Family Firms,topic,,,MBAD_6191_triples_raw.json

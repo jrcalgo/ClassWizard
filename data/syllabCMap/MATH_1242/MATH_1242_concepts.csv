@@ -1,0 +1,8 @@
+course,type,term,as_in_text,occurrences,status,extracted_as,source_file
+MATH_1242,topic,Definite Integrals,definite integrals,1,verified,Definite Integrals,MATH_1242_concepts_raw.json
+MATH_1242,topic,Improper Integrals,improper integrals,1,verified,Improper Integrals,MATH_1242_concepts_raw.json
+MATH_1242,topic,Applications of Integration,applications of integration,1,verified,Applications of Integration,MATH_1242_concepts_raw.json
+MATH_1242,topic,Infinite Series,infinite series,1,verified,Infinite Series,MATH_1242_concepts_raw.json
+MATH_1242,topic,Taylor Series,Taylor series,1,verified,Taylor Series,MATH_1242_concepts_raw.json
+MATH_1242,topic,Power Series,power series,1,verified,Power Series,MATH_1242_concepts_raw.json
+MATH_1242,topic,Differential Equations,differential equations,1,verified,Differential Equations,MATH_1242_concepts_raw.json
