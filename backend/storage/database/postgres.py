@@ -91,6 +91,7 @@ def main() -> None:
     with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
         conn.autocommit = True
         run_psql(SCHEMA_SQL)
+        migrate_course_career_scores(conn)
         load_catalogs(conn)
         load_onet(conn)
         load_programs(conn)
@@ -122,6 +123,36 @@ def main() -> None:
         except Exception as exc:
             print(f"syllabus_triples embedding failed, /chat retrieval limited: {exc!r}", file=sys.stderr)
         print_counts(conn)
+
+
+def migrate_course_career_scores(conn) -> None:
+    """Upgrade the legacy derived score cache to catalog-qualified identities.
+
+    Legacy scores cannot be attributed to a catalog reliably. Invalidate them
+    rather than guessing; the catalog-aware Spark publisher must rebuild them.
+    The transaction makes this safe to retry after an interrupted startup.
+    """
+    with conn.transaction():
+        conn.execute(
+            """
+            DO $$
+            BEGIN
+              IF NOT EXISTS (
+                SELECT 1 FROM pg_attribute
+                WHERE attrelid = 'course_career_scores'::regclass
+                  AND attname = 'catalog_name' AND NOT attisdropped
+              ) THEN
+                LOCK TABLE course_career_scores IN ACCESS EXCLUSIVE MODE;
+                TRUNCATE course_career_scores;
+                ALTER TABLE course_career_scores ADD COLUMN catalog_name text NOT NULL;
+                ALTER TABLE course_career_scores DROP CONSTRAINT course_career_scores_pkey;
+                ALTER TABLE course_career_scores
+                  ADD PRIMARY KEY (catalog_name, soc_code, course_code);
+                DELETE FROM ingest_runs WHERE source = 'spark_als';
+              END IF;
+            END $$;
+            """
+        )
 
 
 def ensure_pgpassword() -> None:
