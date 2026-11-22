@@ -10,9 +10,16 @@ from fastapi.responses import JSONResponse, PlainTextResponse
 from pydantic import BaseModel, Field
 
 from ai.nlp.explanations.llm import explain
-from ai.nlp.explanations.rag import build_messages, check_citations, generate, model_name, student_context
+from ai.nlp.explanations.rag import (
+    build_messages,
+    check_citations,
+    generate,
+    keep_cited,
+    model_name,
+    student_context,
+)
 from ai.nlp.explanations.retrieval import retrieve_evidence
-from ai.recommendations.ranking import MissingVectors, UnsupportedAudit, recommend
+from ai.recommendations.ranking import MissingVectors, UnsupportedAudit, audit_level, recommend
 from backend.storage.cache.redis import delete_audit, load_audit, ping, save_audit
 from backend.storage.database.pgvector import search_syllabus_triples
 from data.degreeworks.parser import parse_audit
@@ -135,6 +142,7 @@ def post_recommend(body: RecommendRequest):
         return JSONResponse({"detail": f"limit must be 1 to {_MAX_LIMIT}"}, status_code=422)
     try:
         with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            conn.execute("SET TRANSACTION ISOLATION LEVEL REPEATABLE READ, READ ONLY")
             result = recommend(conn, audit, soc_codes, body.limit)
     except UnsupportedAudit as exc:
         # e.g. "the Graduate 2026-2027 catalog is not loaded yet"
@@ -200,6 +208,7 @@ def post_explain(body: ExplainRequest):
     # (never trust a course list from the client), then gather evidence.
     try:
         with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            conn.execute("SET TRANSACTION ISOLATION LEVEL REPEATABLE READ, READ ONLY")
             recommendation = recommend(conn, audit, soc_codes, _MAX_LIMIT)
             evidence = retrieve_evidence(conn, question, audit, recommendation, soc_codes)
     except UnsupportedAudit as exc:
@@ -212,11 +221,15 @@ def post_explain(body: ExplainRequest):
     # the evidence so the frontend can show the facts.
     messages = build_messages(question, evidence, student_context(audit))
     try:
-        answer = generate(messages)
+        answer = keep_cited(generate(messages))
     except Exception:
+        _renew_audit(token)
         return JSONResponse(
             {"detail": "language model unavailable", "evidence": evidence}, status_code=503
         )
+    # Generation can take minutes on CPU, during which the page cannot renew
+    # the audit; renew it now so the page's next refresh still finds it.
+    _renew_audit(token)
     # 5. Citation check: every cited ID must be one of the evidence IDs.
     return {
         "session_id": token,
@@ -225,6 +238,14 @@ def post_explain(body: ExplainRequest):
         "evidence": evidence,
         "model": model_name(),
     }
+
+
+def _renew_audit(token: str) -> None:
+    """Slide the audit's TTL forward. Best effort: a cache error must not lose the answer."""
+    try:
+        load_audit(token)
+    except Exception:
+        pass
 
 
 def _session_id(value: str | None) -> str | None:
@@ -291,22 +312,14 @@ class ChatRequest(BaseModel):
     prefs: dict = Field(default_factory=dict)
 
 
-def _search_text(question: str, audit: dict) -> str:
-    parts = [question.strip()]
-    for item in audit.get("courses_not_taken") or []:
-        block = (item.get("block") or "").strip()
-        text = (item.get("text") or "").strip()
-        if block or text:
-            parts.append(f"{block}: {text}".strip())
-    return "\n".join(part for part in parts if part)
-
-
 def _retrieve(question: str, audit: dict) -> list[dict]:
+    # Search with the question alone; the audit still reaches the model in the prompt.
     if _ENCODER is None:
         raise RuntimeError("encoder not loaded")
-    vector = _ENCODER.encode(_search_text(question, audit)).tolist()
+    vector = _ENCODER.encode(question.strip()).tolist()
     with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
-        return search_syllabus_triples(conn, vector, top_k=5)
+        level = (audit_level(audit) or "").lower() or None
+        return search_syllabus_triples(conn, vector, top_k=5, level=level)
 
 
 @app.post("/chat")

@@ -26,6 +26,7 @@ SYLLAB_MAP_DIR = Path(
 # "chat": chat answers come from /chat (syllabus triples, LLM_MODEL provider).
 CHAT_MODE = os.environ.get("CHAT_MODE", "explain").strip().lower()
 RECOMMEND_LIMIT = 10
+FALLBACK_SOURCES = 3  # sources shown when the model's answer is unavailable
 
 CURRENT_COURSES = ["ITSC 1212", "STAT 1220", "WRDS 1103"]
 NEEDED_COURSES = ["ITSC 3160", "STAT 2122", "COMM 2100"]
@@ -203,9 +204,11 @@ def _recommendations_section() -> None:
         st.caption("No still-needed courses with a named course code were found in this audit.")
         return
     titles = {o["soc_code"]: o["title"] for o in result.get("occupations", [])}
+    st.caption("Career rating (0–5)" if result.get("scoring_method") in ("spark_hybrid", "spark_blended") else "Description similarity")
     top = rows[0]["score"]
     for row in rows:
-        best = max(row["similarity_by_occupation"], key=row["similarity_by_occupation"].get)
+        scores = row.get("score_by_occupation", row.get("similarity_by_occupation", {}))
+        best = max(scores, key=scores.get) if scores else "selected careers"
         map_key = row["code"].strip().upper().replace(" ", "_")
         if map_key in _syllab_map_courses():
             st.button(
@@ -264,8 +267,11 @@ def _explain_message(prefs: dict, prompt: str) -> dict:
         if exc.status == 503 and exc.body.get("evidence"):
             return {
                 "role": "assistant",
-                "content": "The language model is unavailable, so here are the facts found for your question.",
-                "sources": exc.body["evidence"],
+                "content": (
+                    "The language model is unavailable (start Ollama, or set EXPLAIN_MODEL in .env), "
+                    "so here are the facts that best match your question."
+                ),
+                "sources": exc.body["evidence"][:FALLBACK_SOURCES],
             }
         if str(exc) == "timed out":
             return {"role": "assistant", "content": "The reply timed out."}
@@ -276,9 +282,9 @@ def _explain_message(prefs: dict, prompt: str) -> dict:
     if not payload.get("grounded", False):
         content = (
             "This answer could not be checked against its sources, so here are the "
-            "facts found for your question instead."
+            "facts that best match your question instead."
         )
-        cited = list(evidence.values())
+        cited = list(evidence.values())[:FALLBACK_SOURCES]
     return {"role": "assistant", "content": content, "sources": cited}
 
 
@@ -724,6 +730,8 @@ def _chat(prefs: dict) -> None:
                 if message.get("sources"):
                     with st.expander(f"Sources ({len(message['sources'])})"):
                         for source in message["sources"]:
+                            if source.get('kind') == 'skill_match':
+                                st.markdown(f"**{source.get('label', source['id'])}**")
                             st.markdown(f"**[{source['id']}]** {source['text']}")
     prompt = st.chat_input("Ask about this plan")
     if prompt:
