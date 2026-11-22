@@ -27,7 +27,7 @@ tested without HTTP or Redis. backend/main.py wires them to POST /recommend.
 from __future__ import annotations
 
 import math
-from ai.recommendations.scoring import release_key, SCORING_VERSION, INPUTS_SQL
+from ai.recommendations.scoring import release_key, SCORING_VERSION
 
 from ai.nlp.embeddings.sentence_transformer import MODEL_NAME
 
@@ -156,22 +156,30 @@ def recommend(conn, audit: dict, soc_codes: list[str], limit: int = 10, catalog:
     if not matched:
         return result
 
-    recorded = conn.execute("SELECT release FROM ingest_runs WHERE source = 'spark_als'").fetchone()
-    spark_scores = {}
-    if recorded and recorded[0] == release_key(conn):
-        for code, soc, value in conn.execute(
-            "SELECT course_code, soc_code, hybrid_rating FROM course_career_scores "
-            "WHERE catalog_name = %s AND course_code = ANY(%s) AND soc_code = ANY(%s) "
-            "AND EXISTS (SELECT 1 FROM ingest_runs WHERE source = 'spark_als' "
-            "AND release = %s || ':' || (" + INPUTS_SQL + "))",
-            (catalog, matched, soc_codes, SCORING_VERSION),
-        ).fetchall():
-            if value is not None and math.isfinite(value) and 0 <= value <= 5:
-                spark_scores.setdefault(code, {})[soc] = float(value)
-    use_spark = all(set(spark_scores.get(code, {})) == set(soc_codes) for code in matched)
-    if use_spark:
-        result["scoring_method"] = "spark_hybrid"
-        result["scoring_version"] = SCORING_VERSION
+    from ai.recommendations.scoring import marker
+    from ai.recommendations.scoring import training_identity, BLEND_VERSION, ALS_TRAINING_VERSION
+    spark_scores, components = {}, {}
+    use_spark = False
+    if marker(conn, 'spark_hybrid') == release_key(conn):
+        rows = conn.execute("""SELECT course_code,soc_code,hybrid_rating,als_score,
+            normalized_als_score,blended_rating FROM course_career_scores
+            WHERE catalog_name=%s AND soc_code=ANY(%s)
+            AND EXISTS (SELECT 1 FROM courses c WHERE c.catalog_name=course_career_scores.catalog_name
+                        AND c.code=course_career_scores.course_code)""", (catalog,soc_codes)).fetchall()
+        catalog_count = conn.execute('SELECT count(*) FROM courses WHERE catalog_name=%s', (catalog,)).fetchone()[0]
+        expected = catalog_count * len(set(soc_codes))
+        hybrid_ok = len(rows) == expected and all(r[2] is not None and math.isfinite(r[2]) and 0 <= r[2] <= 5 for r in rows)
+        als_ok = marker(conn, 'spark_als') == training_identity(marker(conn, 'spark_training_fingerprint') or '')
+        blended_ok = hybrid_ok and als_ok and marker(conn, 'spark_blend') == BLEND_VERSION and all(all(v is not None and math.isfinite(v) for v in r[3:]) and 0 <= r[4] <= 5 and 0 <= r[5] <= 5 for r in rows)
+        if hybrid_ok:
+            use_spark = True
+            result['scoring_method'] = 'spark_blended' if blended_ok else 'spark_hybrid'
+            result['scoring_version'] = SCORING_VERSION + (':' + ALS_TRAINING_VERSION + ':' + BLEND_VERSION if blended_ok else '')
+            for code, soc, hybrid, als, normalized, blended in rows:
+                spark_scores.setdefault(code,{})[soc] = float(blended if blended_ok else hybrid)
+                components.setdefault(code,{})[soc] = dict(zip(
+                    ('hybrid_rating','als_score','normalized_als_score','blended_rating'),
+                    (hybrid, als if als_ok and als is not None and math.isfinite(als) else None, normalized if blended_ok else None, blended if blended_ok else None)))
 
     similarity = spark_scores
     if not use_spark:
@@ -236,6 +244,7 @@ def recommend(conn, audit: dict, soc_codes: list[str], limit: int = 10, catalog:
                 "requirement_blocks": candidates[code],
                 "score": max(by_occupation.values()),
                 "score_by_occupation": by_occupation,
+                "score_components_by_occupation": components.get(code, {soc: dict.fromkeys(("hybrid_rating", "als_score", "normalized_als_score", "blended_rating")) for soc in soc_codes}),
                 "scoring_method": result["scoring_method"],
                 **({"similarity_by_occupation": by_occupation} if not use_spark else {}),
                 "prerequisites": [

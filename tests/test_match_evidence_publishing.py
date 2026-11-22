@@ -29,7 +29,7 @@ def database(tmp_path):
                     predicate text, object text, subject text, confidence numeric(3,2), page_num int, section_heading text)''')
                 conn.execute("INSERT INTO ingest_runs(source,release) VALUES ('catalog:UG','input')")
                 key=release_key(conn)
-                conn.execute("INSERT INTO ingest_runs(source,release) VALUES ('spark_als',%s)",(key,))
+                conn.execute("INSERT INTO ingest_runs(source,release) VALUES ('spark_hybrid',%s)",(key,))
                 conn.execute("INSERT INTO course_career_scores VALUES ('UG','career','ITSC 3160',1,2),('GR','career','ITSC 3160',3,4)")
                 conn.execute("INSERT INTO syllabus_triples VALUES ('a','source.pdf','Programming is covered.','covers','Programming','ITSC 3160',.9,1,'Objectives')")
                 conn.execute(SCHEMA_SQL)
@@ -37,7 +37,7 @@ def database(tmp_path):
             evidence=tmp_path/'evidence'; evidence.mkdir()
             predictions=tmp_path/'predictions'; predictions.mkdir()
             with (predictions/'part-0.csv').open('w') as handle:
-                csv.writer(handle).writerows([('UG','career','ITSC 3160',1,2),('GR','career','ITSC 3160',3,4)])
+                csv.writer(handle).writerows([('UG','career','ITSC 3160',2),('GR','career','ITSC 3160',4)])
             def write(rows=None):
                 values=[]
                 for catalog in ('UG','GR'):
@@ -78,10 +78,10 @@ def test_invalid_export_rolls_back_old_evidence(database,change):
         return values
     write(mutate)
     if change=='predictions':
-        (predictions/'part-0.csv').write_text('UG,career,ITSC 3160,1,2\n')
+        (predictions/'part-0.csv').write_text('UG,career,ITSC 3160,2\n')
     if change=='concurrent_batch':
         with connect() as conn:
-            conn.execute("UPDATE ingest_runs SET loaded_at=loaded_at+interval '1 second' WHERE source='spark_als'")
+            conn.execute("UPDATE ingest_runs SET loaded_at=loaded_at+interval '1 second' WHERE source='spark_hybrid'")
     with pytest.raises((ValueError,psycopg.Error)):
         with connect() as conn:
             publish_exports(conn,evidence,predictions,batch)
@@ -97,7 +97,7 @@ def test_evidence_freshness_tracks_its_own_version_and_score_batch(database,chan
         publish_exports(conn,evidence,predictions,batch)
         if change=='version': conn.execute("UPDATE course_career_match_publication SET evidence_version='old'")
         if change=='input': conn.execute("UPDATE ingest_runs SET release='changed' WHERE source='catalog:UG'")
-        if change=='batch': conn.execute("UPDATE ingest_runs SET loaded_at=loaded_at+interval '1 second' WHERE source='spark_als'")
+        if change=='batch': conn.execute("UPDATE ingest_runs SET loaded_at=loaded_at+interval '1 second' WHERE source='spark_hybrid'")
         if change=='missing_row': conn.execute("DELETE FROM course_career_match_evidence WHERE catalog_name='GR'")
         assert not publication_current(conn)
 
@@ -114,7 +114,7 @@ def test_in_flight_score_publication_invalidates_evidence_attempt(database):
     with ThreadPoolExecutor(max_workers=1) as pool:
         with connect() as writer:
             writer.execute('LOCK TABLE ingest_runs IN SHARE ROW EXCLUSIVE MODE')
-            writer.execute("UPDATE ingest_runs SET loaded_at=loaded_at+interval '1 second' WHERE source='spark_als'")
+            writer.execute("UPDATE ingest_runs SET loaded_at=loaded_at+interval '1 second' WHERE source='spark_hybrid'")
             future=pool.submit(attempt)
             assert entered.wait(5)
         with pytest.raises(ValueError,match='changed'):
@@ -136,7 +136,7 @@ def test_retrieval_is_catalog_scoped_and_rejects_stale_or_weak_matches(database)
         conn.execute("UPDATE course_career_match_evidence SET confidence=.79 WHERE catalog_name='UG'")
         assert read()==[]
         assert read('GR')
-        conn.execute("UPDATE ingest_runs SET loaded_at=loaded_at+interval '1 second' WHERE source='spark_als'")
+        conn.execute("UPDATE ingest_runs SET loaded_at=loaded_at+interval '1 second' WHERE source='spark_hybrid'")
         assert read('GR')==[]
 
 
@@ -151,3 +151,18 @@ def test_float32_similarity_roundoff_preserves_actual_contribution(database):
     with connect() as conn:
         assert publish_exports(conn,evidence,predictions,batch)==2
         assert conn.execute("SELECT similarity FROM course_career_match_evidence WHERE catalog_name='UG'").fetchone()[0]>1
+
+
+def test_als_publication_preserves_evidence_identity(database):
+    from ai.recommendations.spark_jobs.publish import publish_predictions, record
+    from ai.recommendations.scoring import training_fingerprint, training_identity
+    connect,batch,evidence,ratings,_=database
+    with connect() as conn:
+        publish_exports(conn,evidence,ratings,batch)
+        conn.execute('ALTER TABLE course_career_scores ADD COLUMN normalized_als_score double precision, ADD COLUMN blended_rating double precision')
+        rows=conn.execute('SELECT catalog_name,soc_code,course_code,hybrid_rating FROM course_career_scores').fetchall()
+        fingerprint=training_fingerprint(rows)
+        record(conn,'spark_training_fingerprint',fingerprint)
+        assert publish_predictions(conn,[(*r[:3],1.234567) for r in rows],training_identity(fingerprint))
+        assert score_batch(conn)==batch
+        assert publication_current(conn)

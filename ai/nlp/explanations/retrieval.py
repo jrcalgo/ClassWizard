@@ -239,7 +239,7 @@ def _course_item(code, row, audit, blocks, prereqs, matches, titles, origin, sco
         )
     if matches:
         listed = ", ".join(f"{titles.get(soc, soc)} {value:.2f}" for soc, value in matches.items())
-        label = "Spark hybrid career rating (0–5)" if scoring_method == "spark_hybrid" else "Description cosine similarity"
+        label = "Spark blended career rating (0–5)" if scoring_method == "spark_blended" else "Spark hybrid career rating (0–5)" if scoring_method in ("spark_hybrid", "spark_blended") else "Description cosine similarity"
         parts.append(f"{label} (higher ranks better): {listed}.")
     if origin:
         parts.append(origin)
@@ -501,7 +501,7 @@ def retrieve_evidence(
     protected_codes = list(dict.fromkeys(named + list(by_block)))
     course_order = protected_codes or list(dict.fromkeys(focus + matched))
     matches = []
-    if recommendation.get("scoring_method") == "spark_hybrid":
+    if recommendation.get("scoring_method") in ("spark_hybrid", "spark_blended"):
         matches = retrieve_match_items(conn, catalog, course_order, soc_codes, titles, _clip)
     supported = {item['course_code'] for item in matches}
     for item in items:

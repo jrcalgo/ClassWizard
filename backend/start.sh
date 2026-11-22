@@ -46,15 +46,8 @@ PY
 cd /app
 python3 -m backend.storage.database.postgres
 
-# Spark pipeline: runs in the background on first boot and whenever its input
-# data changed, so the API starts right away. Output also goes to the lake.
-if python3 -m ai.recommendations.spark_jobs.run_all --check; then
-  mkdir -p "${LAKE_DIR:-/data/lake}"
-  (python3 -m ai.recommendations.spark_jobs.run_all 2>&1 | tee "${LAKE_DIR:-/data/lake}/sprint4_results.txt") &
-elif python3 -m ai.recommendations.spark_jobs.run_all --check-evidence; then
-  mkdir -p "${LAKE_DIR:-/data/lake}"
-  # Refresh explanation evidence from compatible artifacts; never retrain on failure.
-  (python3 -m ai.recommendations.spark_jobs.run_all --steps evidence 2>&1 | tee "${LAKE_DIR:-/data/lake}/skill_evidence_results.txt") &
-fi
+# Independent supervisors keep the API available during publication and training.
+python3 -m ai.recommendations.spark_jobs.refresh &
+python3 -m ai.recommendations.spark_jobs.worker &
 
 exec uvicorn backend.main:app --host 0.0.0.0 --port 8000

@@ -73,7 +73,7 @@ def validate_aggregates(raw, ratings):
 
 def score_batch(conn):
     from ai.recommendations.scoring import release_key
-    row = conn.execute("SELECT release, loaded_at FROM ingest_runs WHERE source='spark_als'").fetchone()
+    row = conn.execute("SELECT release, loaded_at FROM ingest_runs WHERE source='spark_hybrid'").fetchone()
     if not row or row[0] != release_key(conn):
         raise ValueError('Current published scores required; no training was started')
     return row
@@ -82,7 +82,7 @@ def score_batch(conn):
 def publish_exports(conn, evidence_dir, predictions_dir, expected_batch):
     """Validate exports and replace evidence only, in the caller's transaction."""
     from ai.recommendations.skill_evidence import SCHEMA_SQL
-    from ai.recommendations.spark_jobs.publish import COLUMNS as SCORE_COLUMNS
+    SCORE_COLUMNS = 'catalog_name, soc_code, course_code, hybrid_rating'
     conn.execute(SCHEMA_SQL)
     conn.execute('LOCK TABLE ingest_runs IN SHARE ROW EXCLUSIVE MODE')
     if score_batch(conn) != expected_batch:
@@ -98,8 +98,8 @@ def publish_exports(conn, evidence_dir, predictions_dir, expected_batch):
                         while chunk := handle.read(1024 * 1024):
                             copy.write(chunk)
     different = conn.execute('''SELECT EXISTS (
-        (SELECT * FROM match_score_stage EXCEPT SELECT * FROM course_career_scores)
-        UNION ALL (SELECT * FROM course_career_scores EXCEPT SELECT * FROM match_score_stage))''').fetchone()[0]
+        (SELECT catalog_name,soc_code,course_code,hybrid_rating FROM match_score_stage EXCEPT SELECT catalog_name,soc_code,course_code,hybrid_rating FROM course_career_scores)
+        UNION ALL (SELECT catalog_name,soc_code,course_code,hybrid_rating FROM course_career_scores EXCEPT SELECT catalog_name,soc_code,course_code,hybrid_rating FROM match_score_stage))''').fetchone()[0]
     if different:
         raise ValueError('Saved predictions differ from published scores; incompatible artifacts')
     # Normalized float32 dot products can exceed 1 by a few ulps. Preserve
@@ -145,12 +145,12 @@ def run(spark):
     import psycopg
     from ai.recommendations.scoring import SCORING_VERSION
     from ai.recommendations.spark_jobs.session import LAKE_DIR, read_table, write_table
-    from ai.recommendations.spark_jobs.publish import COLUMNS as SCORE_COLUMNS
+    SCORE_COLUMNS = 'catalog_name, soc_code, course_code, hybrid_rating'
     print('Evidence-only: validating saved manifests and score publication', flush=True)
     with psycopg.connect(os.environ['DATABASE_URL']) as conn:
         batch = score_batch(conn)
     expected = {'release': batch[0], 'scoring_version': SCORING_VERSION}
-    for stage in ('bronze', 'silver', 'gold', 'model'):
+    for stage in ('bronze', 'silver', 'gold'):
         path = LAKE_DIR / f'{stage}_manifest.json'
         if not path.exists() or json.loads(path.read_text()) != expected:
             raise ValueError(f'Compatible {stage} artifacts required; no training was started')
@@ -165,7 +165,7 @@ def run(spark):
         directory = LAKE_DIR / 'export' / 'match_evidence'
         predictions_dir = LAKE_DIR / 'export' / 'match_evidence_scores'
         evidence.write.mode('overwrite').option('escape', '"').csv(str(directory))
-        read('gold','predictions').select(*[s.strip() for s in SCORE_COLUMNS.split(',')]) \
+        read('gold','ratings').selectExpr('catalog_name','soc_code','course_code','rating AS hybrid_rating') \
             .write.mode('overwrite').csv(str(predictions_dir))
         print('Validating source references and publishing evidence atomically', flush=True)
         with psycopg.connect(os.environ['DATABASE_URL']) as conn:

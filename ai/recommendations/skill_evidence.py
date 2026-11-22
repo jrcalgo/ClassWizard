@@ -60,7 +60,7 @@ def select_match_items(rows, course_order, career_order, titles, clip):
                      f'Computed connection to O*NET {kind} '
                      f'"{career_term}" ({method}). This match contributes to the '
                      'skill-coverage component; it does not fully explain the final hybrid rating '
-                     'or prove that the syllabus explicitly names this career skill.')})
+                     'or the ALS component of a blended score, or prove that the syllabus explicitly names this career skill.')})
     selected, course_counts = [], defaultdict(int)
     for level in range(MAX_MATCHES_PER_COURSE):
         for code in course_order:
@@ -88,7 +88,7 @@ def retrieve_match_items(conn, catalog, course_order, career_order, titles, clip
         m.triple_id, m.filename, m.page_num, m.section_heading, m.source_text
         FROM course_career_match_evidence m
         JOIN course_career_match_publication p ON p.singleton
-        JOIN ingest_runs r ON r.source='spark_als' AND r.release=p.score_release
+        JOIN ingest_runs r ON r.source='spark_hybrid' AND r.release=p.score_release
           AND r.loaded_at=p.score_published_at
         WHERE p.evidence_version=%s AND p.score_release=%s || ':' || (''' + INPUTS_SQL + ''')
           AND m.catalog_name=%s AND m.course_code=ANY(%s) AND m.soc_code=ANY(%s)
@@ -118,6 +118,6 @@ def publication_current(conn):
     row = conn.execute('''SELECT p.evidence_version, p.score_release, p.row_count,
         (SELECT count(*) FROM course_career_match_evidence)
         FROM course_career_match_publication p JOIN ingest_runs r
-          ON r.source='spark_als' AND r.release=p.score_release
+          ON r.source='spark_hybrid' AND r.release=p.score_release
           AND r.loaded_at=p.score_published_at''').fetchone()
     return bool(row and row[0] == EVIDENCE_VERSION and row[1] == release_key(conn) and row[2] == row[3])

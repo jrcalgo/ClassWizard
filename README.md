@@ -67,7 +67,7 @@ Student names, IDs, and advisor names are removed when the DegreeWorks PDF is pa
 
 ## Spark pipeline (ALS recommender)
 
-`ai/recommendations/spark_jobs/` is a batch job that rates how well every course fits every career, then trains a Spark MLlib ALS recommender on those ratings. The backend runs it automatically in the background on the first boot, and again on any boot after the catalog, O*NET, or syllabi change. Runtime depends on hardware and competing work; the verified local run spent about 19 minutes in Gold scoring alone. Follow it with `docker compose logs -f backend`. While it runs, the Spark UI is available at http://localhost:4041.
+`ai/recommendations/spark_jobs/` is a batch job that rates how well every course fits every career, then trains a Spark MLlib ALS recommender on those ratings. The backend publishes hybrid ratings and evidence in a background refresh process. A separate ALS worker trains only when the canonical rating matrix or training version changes. Runtime depends on hardware and competing work; the verified local run spent about 19 minutes in Gold scoring alone. Follow it with `docker compose logs -f backend`. While it runs, the Spark UI is available at http://localhost:4041.
 
 To run it again by hand:
 
@@ -81,8 +81,10 @@ docker compose exec backend sh -c "python3 -m ai.recommendations.spark_jobs.run_
 | silver | Cleans course codes, removes nulls and duplicates, joins catalog and syllabus courses, keeps careers that need a bachelor's degree |
 | gold | Rates every career x course pair 0-5 from text similarity and matched O*NET skills |
 | queries | Two temporary Spark SQL queries: best courses for Data Scientists, and subjects covering the most in-demand technologies |
-| model | Trains ALS (80/20 split, tuned on a validation split) and prints test RMSE next to two baselines |
-| publish | Writes a score for every pair to the Postgres table `course_career_scores` |
+| publish_hybrid | Atomically publishes Gold ratings independently of ALS |
+| evidence | Publishes source-linked support for the hybrid component |
+
+Run `python3 -m ai.recommendations.spark_jobs.worker --once` in the backend container for one-shot ALS training and publication. Startup runs its retrying supervisor automatically.
 
 Tables are written to `data/lake/` and the printed results to `data/lake/sprint4_results.txt` (both git-ignored).
 
@@ -157,7 +159,7 @@ This software takes source data from the UNC- Charlotte course catalog, DegreeWo
 
 ### Recommendation scoring
 
-`/recommend` uses current Spark `hybrid_rating` values (0–5) when every remaining catalog course has scores for all selected careers. Otherwise the entire request uses catalog-to-career cosine similarity. Responses identify `scoring_method` (`spark_hybrid` or `cosine_similarity`) and include `score_by_occupation` per course. The highest selected-career score determines rank. Scores are relative ranking signals, not probabilities or student skill measurements. ALS predictions are published for comparison, but do not determine the API ranking.
+`/recommend` ranks by `0.70 × hybrid_rating + 0.30 × normalized_als_score` when complete current blended scores are available, otherwise by complete current hybrid ratings, otherwise cosine similarity for the whole request. ALS normalization is `5 × PERCENT_RANK()` over each full catalog/career partition, preserving ties. Responses identify `scoring_method` (`spark_blended`, `spark_hybrid`, or `cosine_similarity`), the applicable scoring version, active `score_by_occupation`, and nullable `score_components_by_occupation`. The highest selected-career score determines rank. Scores are relative ranking signals, not probabilities or student skill measurements.
 
 Spark keeps catalog identity through all layers. Publishing validates exact coverage of loaded catalog courses across its degree-level O*NET careers, rejects invalid batches, and atomically replaces scores and release metadata. Input-release or scoring-version changes trigger a rebuild. Partial runs require current upstream stage manifests; after a schema or scoring change, rebuild all stages:
 
@@ -165,7 +167,7 @@ Spark keeps catalog identity through all layers. Publishing validates exact cove
 docker compose exec backend python3 -m ai.recommendations.spark_jobs.run_all
 ```
 
-The publish step prints the verified row count and rejects missing, extra, duplicate, or non-finite scores. `/explain` includes the scoring method and career ratings in cited evidence.
+Hybrid and ALS publishers reject missing, extra, duplicate, or non-finite scores. `/explain` includes the scoring method and career ratings in cited evidence.
 
 ### Cited syllabus-to-career skill matches
 
@@ -179,7 +181,7 @@ Refresh evidence from compatible, already-built artifacts without embeddings or 
 docker compose exec backend python3 -m ai.recommendations.spark_jobs.run_all --steps evidence
 ```
 
-The command checks saved term aggregates and published predictions before atomically replacing evidence. It rejects incompatible artifacts rather than silently retraining. Evidence has its own version and is tied to the score publication timestamp. Startup refreshes evidence alone when scores are current; normal full pipeline runs publish it after scores.
+The command checks saved term aggregates and Gold ratings before atomically replacing evidence. It rejects incompatible artifacts rather than silently retraining. Evidence has its own version and is tied to the hybrid publication timestamp; ALS publication preserves it. Startup refreshes evidence alone when scores are current; normal full pipeline runs publish it after scores.
 
 Prepare six before/after explanation samples and the review rubric:
 

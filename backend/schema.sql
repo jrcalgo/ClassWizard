@@ -171,7 +171,9 @@ CREATE TABLE IF NOT EXISTS course_career_scores (
   catalog_name text NOT NULL,
   soc_code text NOT NULL,
   course_code text NOT NULL,
-  als_score real NOT NULL,
+  als_score double precision,
+  normalized_als_score double precision,
+  blended_rating double precision,
   hybrid_rating real NOT NULL,
   PRIMARY KEY (catalog_name, soc_code, course_code)
 );

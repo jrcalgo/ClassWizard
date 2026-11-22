@@ -52,7 +52,7 @@ Rules:
 6. Answer in at most 4 sentences.
 7. Career ratings and similarities are ranking signals, not probabilities or measures of student skill. Do not infer specific skill matches from a numeric score.
 8. Use skill_match evidence for concrete course-career connections and cite its skill: ID. Distinguish quoted syllabus content from extracted concepts and computed matches. A semantic match does not mean the syllabus explicitly names the career skill.
-9. Show a few relevant connections without weights or scoring arithmetic. These are examples supporting skill coverage, not a complete explanation of the hybrid rating (which also uses text similarity and percentiles).
+9. Show a few relevant connections without weights or scoring arithmetic. These are examples supporting skill coverage, not a complete explanation of the hybrid rating (which also uses text similarity and percentiles). For blended scores, these matches support the hybrid component only; they do not explain ALS predictions or the entire blend.
 10. When strong scoring evidence is unavailable, use other supported facts and acknowledge that they do not establish why the rating was assigned. Never claim that missing evidence means no career relevance.
 11. Attribute each skill connection to its own course and career. Never use a match from another course to explain a named course's rating.
 12. Quotes come from stored syllabus evidence records; do not describe them as independently verified verbatim PDF text.

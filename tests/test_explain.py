@@ -101,11 +101,11 @@ def test_generate_allows_hosted_model_when_opted_in(monkeypatch):
     assert "api_base" not in calls  # the Ollama URL is only used for Ollama models
 
 
-@pytest.mark.parametrize('method,label', [('spark_hybrid', 'rating (0–5)'), ('cosine_similarity', 'cosine similarity')])
+@pytest.mark.parametrize('method,label', [('spark_hybrid', 'rating (0–5)'), ('spark_blended', 'blended career rating (0–5)'), ('cosine_similarity', 'cosine similarity')])
 def test_course_evidence_labels_scoring_method(method, label):
     from ai.nlp.explanations.retrieval import _course_item
     item = _course_item('ITSC 3160', ('Databases', 'SQL', 3, 3, '3', None, None), {}, [], [],
-                        {'career': 4.5 if method == 'spark_hybrid' else .7},
+                        {'career': 4.5 if method in ('spark_hybrid', 'spark_blended') else .7},
                         {'career': 'Database Administrator'}, None, method)
     assert label in item['text']
     assert 'Database Administrator' in item['text']

@@ -154,6 +154,15 @@ def migrate_course_career_scores(conn) -> None:
             """
         )
 
+        conn.execute("""
+            ALTER TABLE course_career_scores ALTER COLUMN als_score DROP NOT NULL;
+            ALTER TABLE course_career_scores ALTER COLUMN als_score TYPE double precision;
+            ALTER TABLE course_career_scores ADD COLUMN IF NOT EXISTS normalized_als_score double precision;
+            ALTER TABLE course_career_scores ADD COLUMN IF NOT EXISTS blended_rating double precision;
+            DELETE FROM ingest_runs WHERE source IN ('spark_als', 'spark_als_count')
+              AND NOT EXISTS (SELECT 1 FROM ingest_runs WHERE source='spark_training_fingerprint');
+        """)
+
 
 def ensure_pgpassword() -> None:
     if os.environ.get("PGPASSWORD"):

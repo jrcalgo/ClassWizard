@@ -1,4 +1,4 @@
-"""Run the Spark pipeline: Bronze, Silver, Gold, Spark SQL, ALS, publish.
+"""Run the Spark pipeline: Bronze, Silver, Gold, hybrid publication and evidence.
 
 The backend runs it in the background on boot whenever the scores are missing
 or older than the loaded data (see backend/start.sh). To run it by hand:
@@ -19,14 +19,14 @@ import sys
 import time
 
 from ai.recommendations.spark_jobs.medallion import bronze, silver, gold
-from ai.recommendations.spark_jobs import model, publish, queries, match_evidence
+from ai.recommendations.spark_jobs import publish, queries, match_evidence
 from ai.recommendations.spark_jobs.session import LAKE_DIR, get_spark, read_table, section
 
 TABLES = {
     "bronze": ["catalog_courses", "catalog_links", "syllabus_triples", "onet_occupations", "onet_job_zones",
                "onet_essential_skills", "onet_transferable_skills", "onet_knowledge", "onet_software_skills"],
     "silver": ["courses", "course_concepts", "careers", "career_skills", "career_technologies"],
-    "gold": ["career_terms", "term_links", "doc_similarity", "ratings", "predictions"],
+    "gold": ["career_terms", "term_links", "doc_similarity", "ratings"],
 }
 
 STEPS = {
@@ -34,15 +34,14 @@ STEPS = {
     "silver": silver.run,
     "gold": gold.run,
     "queries": queries.run,
-    "model": model.run,
-    "publish": publish.run,
+    "publish_hybrid": publish.publish_hybrid,
     "evidence": match_evidence.run,
 }
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--steps", default=",".join(STEPS), help="comma-separated: " + ", ".join(STEPS))
+    parser.add_argument("--steps", default="bronze,silver,gold,publish_hybrid,evidence", help="comma-separated: " + ", ".join(STEPS))
     parser.add_argument("--check", action="store_true", help="exit 0 if a run is needed, 1 if scores are current")
     parser.add_argument("--check-evidence", action="store_true", help="exit 0 if evidence refresh is needed, 1 if current")
     args = parser.parse_args()
@@ -75,7 +74,8 @@ def main():
         # Invalidate old provenance before overwriting any layer.
         publish.MANIFEST.unlink(missing_ok=True)
     else:
-        manifest = json.loads(publish.MANIFEST.read_text())
+        with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
+            manifest = {"release": publish.inputs_key(conn), "scoring_version": publish.SCORING_VERSION}
     completed = set()
     spark = get_spark()
     print("Spark session started.")
@@ -85,16 +85,14 @@ def main():
     for name, step in STEPS.items():
         if name in chosen:
             started = time.time()
-            dependencies = {"silver": "bronze", "gold": "silver", "model": "gold", "publish": "model"}
+            dependencies = {"silver": "bronze", "gold": "silver", "publish_hybrid": "gold"}
             dependency = dependencies.get(name)
             if dependency and dependency not in completed:
                 saved = json.loads((LAKE_DIR / f"{dependency}_manifest.json").read_text())
                 if saved != manifest:
                     raise ValueError(f"Stale {dependency} artifacts; rebuild from Bronze")
-            if name == "publish":
-                publish.MANIFEST.write_text(json.dumps(manifest))
             stage_manifest = LAKE_DIR / f"{name}_manifest.json"
-            ordered = ["bronze", "silver", "gold", "model", "publish"]
+            ordered = ["bronze", "silver", "gold", "publish_hybrid"]
             if name in ordered:
                 for downstream in ordered[ordered.index(name):]:
                     (LAKE_DIR / f"{downstream}_manifest.json").unlink(missing_ok=True)
