@@ -5,7 +5,7 @@ from contextlib import asynccontextmanager
 from dataclasses import asdict
 
 import psycopg
-from fastapi import FastAPI, File, Form, UploadFile
+from fastapi import Depends, FastAPI, File, Form, Request, UploadFile
 from fastapi.responses import JSONResponse, PlainTextResponse
 from pydantic import BaseModel, Field
 
@@ -20,6 +20,17 @@ from ai.nlp.explanations.rag import (
 )
 from ai.nlp.explanations.retrieval import retrieve_evidence
 from ai.recommendations.ranking import MissingVectors, UnsupportedAudit, audit_level, recommend
+from backend import concept_maps
+from backend.accounts.csrf import OriginCheckMiddleware
+from backend.accounts.routes import (
+    auth_router,
+    config_router,
+    log_question,
+    me_router,
+    persist_audit,
+    persist_search,
+)
+from backend.accounts.sessions import current_user_optional
 from backend.storage.cache.redis import delete_audit, load_audit, ping, save_audit
 from backend.storage.database.pgvector import search_syllabus_triples
 from data.degreeworks.parser import parse_audit
@@ -44,6 +55,11 @@ async def _lifespan(_app: FastAPI):
 
 
 app = FastAPI(lifespan=_lifespan)
+app.add_middleware(OriginCheckMiddleware)
+app.include_router(config_router)
+app.include_router(auth_router)
+app.include_router(me_router)
+app.include_router(concept_maps.router)
 
 # Computer science and IT roles only. Order is the menu order.
 OCCUPATION_CATEGORIES = [
@@ -129,10 +145,18 @@ class RecommendRequest(BaseModel):
     session_id: str
     soc_codes: list[str]
     limit: int = 10
+    # Signed-in users only: link the saved search to its saved audit and keep the
+    # page's preferences with it. Ignored for anonymous requests.
+    audit_id: str | None = None
+    prefs: dict | None = None
 
 
 @app.post("/recommend")
-def post_recommend(body: RecommendRequest):
+def post_recommend(
+    body: RecommendRequest,
+    request: Request,
+    user: dict | None = Depends(current_user_optional),
+):
     """Rank the stored audit's still-needed courses against the chosen careers."""
     checked = _session_and_careers(body.session_id, body.soc_codes)
     if isinstance(checked, JSONResponse):
@@ -151,7 +175,8 @@ def post_recommend(body: RecommendRequest):
         return JSONResponse({"detail": str(exc)}, status_code=409)
     except psycopg.Error:
         return JSONResponse({"detail": "database unavailable"}, status_code=503)
-    return {"session_id": token, **result}
+    search_id = persist_search(user, request, body.audit_id, soc_codes, body.prefs, result)
+    return {"session_id": token, **result, "search_id": search_id}
 
 
 def _session_and_careers(session_id: str, soc_codes: list[str]):
@@ -185,10 +210,15 @@ class ExplainRequest(BaseModel):
     session_id: str
     soc_codes: list[str]
     question: str
+    search_id: str | None = None
 
 
 @app.post("/explain")
-def post_explain(body: ExplainRequest):
+def post_explain(
+    body: ExplainRequest,
+    request: Request,
+    user: dict | None = Depends(current_user_optional),
+):
     """Answer a question about the student's recommendations from cited evidence only.
 
     Runs next to /chat: /chat answers from syllabus triples through the
@@ -204,6 +234,7 @@ def post_explain(body: ExplainRequest):
     if isinstance(checked, JSONResponse):
         return checked
     token, soc_codes, audit = checked
+    log_question(user, request, "explain", body.search_id, question)
     # 1-2. Context and retrieval: recompute the recommendation server-side
     # (never trust a course list from the client), then gather evidence.
     try:
@@ -259,8 +290,10 @@ def _session_id(value: str | None) -> str | None:
 
 @app.post("/audit")
 async def post_audit(
+    request: Request,
     file: UploadFile = File(...),
     session_id: str | None = Form(None),
+    user: dict | None = Depends(current_user_optional),
 ):
     """Parse one DegreeWorks PDF and store it for this page session."""
     token = _session_id(session_id)
@@ -276,7 +309,9 @@ async def post_audit(
         save_audit(token, audit)
     except Exception:
         return JSONResponse({"detail": "audit cache unavailable"}, status_code=503)
-    return {"session_id": token, "audit": audit}
+    # Signed-in users also get an encrypted copy in Postgres (None when anonymous).
+    audit_id = persist_audit(user, request, file.filename, audit)
+    return {"session_id": token, "audit": audit, "audit_id": audit_id}
 
 
 @app.get("/audit/{session_id}")
@@ -295,7 +330,7 @@ def get_audit(session_id: str):
 
 @app.delete("/audit/{session_id}")
 def remove_audit(session_id: str):
-    """Drop the stored audit when its Streamlit session ends."""
+    """Drop the cached audit when its page session ends (saved copies are kept)."""
     if _session_id(session_id) is None:
         return JSONResponse({"detail": "audit not found"}, status_code=404)
     try:
@@ -310,6 +345,7 @@ class ChatRequest(BaseModel):
     message: str
     history: list[dict] = Field(default_factory=list)
     prefs: dict = Field(default_factory=dict)
+    search_id: str | None = None
 
 
 def _retrieve(question: str, audit: dict) -> list[dict]:
@@ -323,7 +359,11 @@ def _retrieve(question: str, audit: dict) -> list[dict]:
 
 
 @app.post("/chat")
-def post_chat(body: ChatRequest):
+def post_chat(
+    body: ChatRequest,
+    request: Request,
+    user: dict | None = Depends(current_user_optional),
+):
     """Answer from syllabus triples and the stored DegreeWorks audit."""
     if _session_id(body.session_id) is None:
         return JSONResponse({"detail": "audit not found"}, status_code=404)
@@ -335,6 +375,7 @@ def post_chat(body: ChatRequest):
         return JSONResponse({"detail": "audit cache unavailable"}, status_code=503)
     if audit is None:
         return JSONResponse({"detail": "audit not found"}, status_code=404)
+    log_question(user, request, "chat", body.search_id, body.message.strip())
     try:
         rows = _retrieve(body.message, audit)
         reply = explain(body.message, body.history, audit, body.prefs, rows)

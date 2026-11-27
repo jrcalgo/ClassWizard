@@ -17,7 +17,28 @@ cp .env.example .env
 docker compose up
 ```
 
-The API is at http://127.0.0.1:8000/health. The Streamlit page is at http://127.0.0.1:8501.
+The API is at http://127.0.0.1:8000/health. The web app is at http://localhost:8501 (use the address in `PUBLIC_BASE_URL`, so Google sign-in and email links match), and the development mail inbox (account verification and password-reset emails) is at http://127.0.0.1:8025.
+
+### Web app
+
+The frontend is a React + TypeScript single-page app in `new_frontend/` (Vite, Tailwind, Radix/shadcn-style components, React Flow, TanStack Query). In Docker it is built and served by nginx, which also proxies `/api/*` to the backend, so the page and API share one origin. The original Streamlit MVP is still in `frontend/` but is no longer started.
+
+- The search preferences (audit upload, target careers, credits, summer terms, priority) are in the menu on the left, opened by the hamburger button.
+- **Search** fills the canvas with the skill graph (current courses → courses needed → careers). Click a course to open its interactive concept map. The plan assistant chat sits under the graph; drag the divider to resize it. Recommendations, the sample sequence, skill gaps and the audit are in the collapsible results panel.
+- The theme menu (Light, Dark, System default) is next to **Sign in** in the top right.
+- Signing in is optional. Without an account, the app works as before: the audit lives in Redis for the page session only. With an account (email and password, or Google), uploaded audits are saved encrypted in Postgres, and searches, conversations and an activity log are kept. Reopen them from **Recent searches** or the account menu. Accounts can be deleted along with all of their data.
+
+To work on the frontend with hot reload, run the stack with `docker compose up`, then:
+
+```bash
+cd new_frontend
+npm install
+npm run dev          # http://localhost:5173, proxies /api to the backend on :8000
+npm test             # vitest
+npm run lint && npm run typecheck
+```
+
+Accounts need `AUDIT_ENCRYPTION_KEY` (to save audits) and, for Google, `GOOGLE_CLIENT_ID`/`GOOGLE_CLIENT_SECRET` in `.env`; see `.env.example` for how to generate keys and the Google redirect URI.
 
 The first boot unzips every catalog zip in `data/_datasets/uncc-courses/catalog/dataset/`, builds catalog JSON, and loads PostgreSQL. Zips are named `undergraduate-catalog-YYYY-YYYY.zip` and `graduate-catalog-YYYY-YYYY.zip`; each becomes its own catalog (`Undergraduate 2026-2027`, `Graduate 2026-2027`), and each DegreeWorks audit is ranked against the catalog for its level. Only the undergraduate zip is in the repo today, so graduate audits get a "Graduate 2026-2027 catalog is not loaded yet" message until a graduate zip is added. The directory inside that zip is spelled `undegraduate-catalog-2026-2027` (missing an r). Extracted PDFs and JSON stay in `data/catalog_out` and are not committed.
 
@@ -25,9 +46,9 @@ The first boot also embeds the syllabus triples from `data/uncc-courses/syllabi/
 
 After loading, the backend starts the Spark pipeline in the background (see below), so the API is usable right away and the career-course scores arrive about 7-10 minutes later. The frontend waits until the backend reports healthy.
 
-Postgres and Redis run in their own containers. The database is kept in the `pgdata` Docker volume: `docker compose down` keeps it, and `docker compose down -v` drops it so the next boot loads everything again. A later boot skips the catalog, O*NET, and programs when each source's SHA-256 is already stored in `ingest_runs`. Syllabi reload only when `SYLLABI_RELEASE` in `backend/storage/database/postgres.py` changes, and only rows without a vector are embedded. Redis is empty until a student uploads a PDF.
+Postgres, Redis and Mailpit run in their own containers. The database is kept in the `pgdata` Docker volume: `docker compose down` keeps it, and `docker compose down -v` drops it so the next boot loads everything again. A later boot skips the catalog, O*NET, and programs when each source's SHA-256 is already stored in `ingest_runs`. Syllabi reload only when `SYLLABI_RELEASE` in `backend/storage/database/postgres.py` changes, and only rows without a vector are embedded. Redis is empty until a student uploads a PDF.
 
-Postgres stores courses, requisite links, programs, and O*NET occupations and skills. O*NET is read from `data/_datasets/onet`. DegreeWorks uploads stay in Redis for the session only and are not written to Postgres.
+Postgres stores courses, requisite links, programs, and O*NET occupations and skills. O*NET is read from `data/_datasets/onet`. For anonymous visitors, DegreeWorks uploads stay in Redis for the session only and are not written to Postgres. For signed-in users, the parsed audit is also stored Fernet-encrypted in `saved_audits` (`backend/accounts_schema.sql`), and is deleted with the account.
 
 ### Rebuilds
 
@@ -139,7 +160,7 @@ What the software uses are the following:
 
 PostgreSQL, pgvector, Redis
 Python, FastAPI
-Streamlit
+React, TypeScript, Vite, Tailwind CSS, React Flow, TanStack Query, nginx
 sentence-transformers, spaCy, LLM providers (LiteLLM SDK wrapper & proxy)
 pdfplumber, poppler
 Docker
@@ -149,10 +170,10 @@ Apache Spark (PySpark 3.5, Spark SQL, MLlib ALS), Java 17
 |       Layer      |                                                                      Components                                                                      |
 |:----------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Data sources     | UNC Charlotte course catalog, course syllabi, DegreeWorks PDF, O*NET career database                                                                 |
-| Storage          | PostgreSQL (courses, programs, requirements, careers, skills, career-course scores); pgvector (embeddings for semantic search); Redis (temporary DegreeWorks session data) |
+| Storage          | PostgreSQL (courses, programs, requirements, careers, skills, career-course scores); pgvector (embeddings for semantic search); Redis (temporary DegreeWorks session data); user accounts, encrypted saved audits, searches and activity in PostgreSQL |
 | Processing       | Spark: Bronze / Silver / Gold Parquet tables in `data/lake`                                                                                          |
 | AI & planning    | Semantic skill matching, ALS career-course recommender, rule-based course recommender, constraint-based degree planner, LLM explanation layer       |
-| User application | Upload DegreeWorks, select career goal, set semester preferences, view results                                                                       |
+| User application | React web app: upload DegreeWorks, select career goals, set semester preferences, explore the skill graph and concept maps, chat, optional accounts |
 | Outputs          | Recommended courses, skill-gap view, explanations                                                                         |
 
 This software takes source data from the UNC- Charlotte course catalog, DegreeWorks PDfs submitted by the user, course syllabi, and the O*NET career database. PostgreSQL, pgvector, and Redis will be used for storage in their respective locations. Spark cleans and joins the data, and trains an ALS model that scores how well each course fits each career. AI will be used to match skills, and suggest courses between matching career pathways and produce recommended courses in a front-end.

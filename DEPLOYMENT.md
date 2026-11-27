@@ -8,6 +8,7 @@ ClassWizard runs with Docker Compose. Docker is the only thing you need to insta
    ```bash
    cp .env.example .env
    ```
+   For accounts, also set `SESSION_SECRET` and `AUDIT_ENCRYPTION_KEY` (the commands to generate them are in `.env.example`). Leaving `AUDIT_ENCRYPTION_KEY` empty keeps sign-in working but never saves audits.
 2. Give Docker Desktop 8 GB of memory or more (Settings > Resources) for the default `qwen3:8b` model. With less, pick a smaller model (see [Chatbot model](#chatbot-model)).
 
 To use a hosted model (OpenRouter) instead, see "Optional: hosted model" in the README.
@@ -21,7 +22,15 @@ The first build takes ~10-15 minutes. The first start takes several more minutes
 
 On the first start, the `ollama-pull` container also downloads the chatbot model (`qwen3:8b`, about 5 GB) into the `ollama` volume and then exits. The rest of the app works while it downloads; the chat panel answers once it finishes. Watch it with `docker compose logs -f ollama-pull`. Later starts skip the download.
 
-When it's ready, `curl http://127.0.0.1:8000/health` returns `OK`. Then open http://127.0.0.1:8501.
+When it's ready, `curl http://127.0.0.1:8000/health` returns `OK`. Then open http://127.0.0.1:8501. Verification and password-reset emails land in Mailpit at http://127.0.0.1:8025.
+
+## Accounts and email
+
+- **Public address.** Set `PUBLIC_BASE_URL` to the address people open, e.g. `https://classwizard.example.edu`. It is used for email links and the Google redirect, and it decides whether the session cookie is `Secure`. State-changing requests from any other origin are refused. Add extra origins to `ALLOWED_ORIGINS` if you need them.
+- **Google sign-in.** Create an OAuth client ID of type *Web application* in Google Cloud Console. Add `${PUBLIC_BASE_URL}/api/auth/google/callback` as an authorized redirect URI, then set `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET`.
+- **Real email.** Point `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASSWORD` and `SMTP_FROM` at your mail server. Set `SMTP_STARTTLS=1` (port 587) or `SMTP_SSL=1` (port 465), and skip the dev inbox with `--scale mailpit=0`.
+- **Encryption keys.** Saved audits are encrypted with `AUDIT_ENCRYPTION_KEY`. Losing the key makes saved audits unreadable; searches and history stay. To rotate the key, set `AUDIT_ENCRYPTION_KEY=new,old`.
+- **What is stored.** Passwords are hashed with scrypt. Sessions are stored as SHA-256 hashes of the cookie value. The account tables are created by `backend/accounts_schema.sql` on every boot.
 
 Independent background refresh and ALS supervisors publish hybrid ratings and then blended scores in `course_career_scores`. Compatible rating matrices reuse saved ALS predictions.
 

@@ -94,6 +94,9 @@ services:
       ollama-pull:
         condition: service_started
         required: false
+      mailpit:
+        condition: service_started
+        required: false
     environment:
       POSTGRES_USER: ${POSTGRES_USER:-classwizard}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-classwizard}
@@ -125,6 +128,28 @@ services:
       # ai.recommendations.spark_jobs: Parquet lake path and Spark driver memory
       LAKE_DIR: /data/lake
       SPARK_DRIVER_MEMORY: ${SPARK_DRIVER_MEMORY:-2g}
+      # explain = cited answers via /explain (local Ollama); chat = syllabus chat via /chat.
+      # Served to the frontend by GET /config.
+      CHAT_MODE: ${CHAT_MODE:-explain}
+      # Course concept maps (GET /concept-maps)
+      SYLLAB_MAP_DIR: /data/syllabCMap
+      # Accounts. PUBLIC_BASE_URL is the address users open (cookies, email
+      # links, Google redirect URI, CSRF origin check).
+      PUBLIC_BASE_URL: ${PUBLIC_BASE_URL:-http://localhost:8501}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-http://localhost:5173}
+      SESSION_SECRET: ${SESSION_SECRET:-}
+      # Fernet key(s) encrypting saved audits; empty disables saving audits.
+      AUDIT_ENCRYPTION_KEY: ${AUDIT_ENCRYPTION_KEY:-}
+      GOOGLE_CLIENT_ID: ${GOOGLE_CLIENT_ID:-}
+      GOOGLE_CLIENT_SECRET: ${GOOGLE_CLIENT_SECRET:-}
+      # Defaults deliver to the bundled Mailpit container.
+      SMTP_HOST: ${SMTP_HOST:-mailpit}
+      SMTP_PORT: ${SMTP_PORT:-1025}
+      SMTP_USER: ${SMTP_USER:-}
+      SMTP_PASSWORD: ${SMTP_PASSWORD:-}
+      SMTP_FROM: ${SMTP_FROM:-ClassWizard <no-reply@classwizard.local>}
+      SMTP_STARTTLS: ${SMTP_STARTTLS:-0}
+      SMTP_SSL: ${SMTP_SSL:-0}
     extra_hosts:
       # Lets Linux Docker resolve host.docker.internal (Docker Desktop already does)
       - "host.docker.internal:host-gateway"
@@ -142,28 +167,35 @@ services:
       - ./data/_datasets/uncc-courses/syllabi:/data/syllabus_records:ro
       # Parquet tables written by ai.recommendations.spark_jobs
       - ./data/lake:/data/lake
+      - ./data/syllabCMap:/data/syllabCMap:ro
       - ${CLAUDE_HOME:-${HOME}/.claude}:/opt/claude:ro
       - ${CODEX_HOME:-${HOME}/.codex}:/opt/codex
       - ${GITHUB_COPILOT_TOKEN_DIR:-./data/copilot-token}:/opt/copilot-token
 
+  # React + TypeScript app (new_frontend/), built by Vite and served by nginx,
+  # which also proxies /api/* to the backend. The Streamlit MVP in frontend/
+  # is no longer started.
   frontend:
     build:
-      context: ./frontend
+      context: ./new_frontend
       dockerfile: Dockerfile
     # Wait for the API, so the page never loads before the backend can answer.
     depends_on:
       backend:
         condition: service_healthy
-    environment:
-      BACKEND_URL: http://backend:8000
-      # explain = cited answers via /explain (local Ollama); chat = syllabus chat via /chat
-      CHAT_MODE: ${CHAT_MODE:-explain}
-      SYLLAB_MAP_DIR: /data/syllabCMap
     ports:
-      - "8501:8501"
-    volumes:
-      - ./frontend/src:/app
-      - ./data/syllabCMap:/data/syllabCMap:ro
+      - "${FRONTEND_PORT:-8501}:80"
+
+  # Development mail catcher for verification and password-reset emails.
+  # Inbox: http://localhost:8025. In production, point SMTP_* at a real server
+  # and skip it with --scale mailpit=0.
+  mailpit:
+    image: axllent/mailpit:v1.27
+    environment:
+      MP_SMTP_AUTH_ACCEPT_ANY: "1"
+      MP_SMTP_AUTH_ALLOW_INSECURE: "1"
+    ports:
+      - "${MAILPIT_UI_PORT:-8025}:8025"
 
 volumes:
   pgdata:

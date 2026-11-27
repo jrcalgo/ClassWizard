@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="/classwizard-logo.png" />
+    <title>ClassWizard</title>
+    <meta name="description" content="Career-aware course planning" />
+    <script>
+      // Apply the saved theme before first paint so the page never flashes.
+      (function () {
+        var pref = "system";
+        try {
+          pref = localStorage.getItem("cw-theme") || "system";
+        } catch (e) {}
+        var dark =
+          pref === "dark" ||
+          (pref !== "light" && window.matchMedia("(prefers-color-scheme: dark)").matches);
+        document.documentElement.classList.toggle("dark", dark);
+        document.documentElement.style.colorScheme = dark ? "dark" : "light";
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

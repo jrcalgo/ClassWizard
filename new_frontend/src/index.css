@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Palettes ported from the Streamlit app (frontend/src/style.py), as "R G B"
+   triples so Tailwind can apply opacity. Light is :root, Dark is .dark. */
+@layer base {
+  :root {
+    --cw-bg: 243 246 243;
+    --cw-card: 255 255 255;
+    --cw-card-alt: 247 250 248;
+    --cw-text: 23 37 30;
+    --cw-muted: 82 100 90;
+    --cw-border: 213 221 216;
+    --cw-green: 31 77 58;
+    --cw-green-hover: 42 107 79;
+    --cw-on-green: 255 255 255;
+    --cw-button: 31 77 58;
+    --cw-button-hover: 23 61 45;
+    --cw-on-button: 255 255 255;
+    --cw-selection-bg: 31 77 58;
+    --cw-selection-text: 255 255 255;
+    --cw-gold: 166 108 19;
+    --cw-link: 27 101 70;
+    --cw-danger: 180 35 24;
+    color-scheme: light;
+  }
+
+  .dark {
+    --cw-bg: 16 24 20;
+    --cw-card: 23 35 29;
+    --cw-card-alt: 29 43 36;
+    --cw-text: 237 244 238;
+    --cw-muted: 182 196 186;
+    --cw-border: 52 68 58;
+    --cw-green: 117 184 139;
+    --cw-green-hover: 145 203 163;
+    --cw-on-green: 16 32 23;
+    --cw-button: 40 107 69;
+    --cw-button-hover: 33 89 54;
+    --cw-on-button: 255 255 255;
+    --cw-selection-bg: 40 107 69;
+    --cw-selection-text: 255 255 255;
+    --cw-gold: 240 198 111;
+    --cw-link: 165 217 181;
+    --cw-danger: 249 112 102;
+    color-scheme: dark;
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-bg font-sans text-text antialiased;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  ::selection {
+    background: rgb(var(--cw-green) / 0.3);
+  }
+
+  :focus-visible {
+    outline: 2px solid rgb(var(--cw-green));
+    outline-offset: 2px;
+  }
+}
+
+/* React Flow follows the app palette in both themes. */
+.react-flow {
+  --xy-background-color: transparent;
+  --xy-edge-stroke: rgb(var(--cw-muted));
+  --xy-edge-label-background-color: rgb(var(--cw-card));
+  --xy-edge-label-color: rgb(var(--cw-muted));
+  --xy-controls-button-background-color: rgb(var(--cw-card));
+  --xy-controls-button-background-color-hover: rgb(var(--cw-card-alt));
+  --xy-controls-button-color: rgb(var(--cw-text));
+  --xy-controls-button-border-color: rgb(var(--cw-border));
+  --xy-minimap-background-color: rgb(var(--cw-card));
+  --xy-minimap-mask-background-color: rgb(var(--cw-bg) / 0.6);
+  --xy-minimap-node-background-color: rgb(var(--cw-border));
+  --xy-attribution-background-color: transparent;
+}
+
+.react-flow__controls {
+  @apply overflow-hidden rounded-btn border shadow-sm;
+}
+
+.react-flow__minimap {
+  @apply overflow-hidden rounded-btn border;
+}
+
+.cw-markdown p + p {
+  margin-top: 0.5rem;
+}
+.cw-markdown ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+}
+.cw-markdown ol {
+  list-style: decimal;
+  padding-left: 1.25rem;
+}
+.cw-markdown a {
+  @apply text-link underline;
+}
+.cw-markdown code {
+  @apply rounded bg-card-alt px-1 text-[0.9em];
+}

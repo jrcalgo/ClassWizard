@@ -40,6 +40,7 @@ PROGRAM_FILES = (
     SQL_DIR / "classes.sql",
 )
 SCHEMA_SQL = Path(__file__).resolve().parents[2] / "schema.sql"
+ACCOUNTS_SQL = Path(__file__).resolve().parents[2] / "accounts_schema.sql"
 # Bump when valid_triples_for_postgres.csv changes, so the next boot reloads it.
 SYLLABI_RELEASE = "v3"
 SYLLABI_DIR = Path(os.environ.get("SYLLABI_DIR", "/data/syllabi"))
@@ -91,6 +92,7 @@ def main() -> None:
     with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
         conn.autocommit = True
         run_psql(SCHEMA_SQL)
+        run_psql(ACCOUNTS_SQL)
         migrate_course_career_scores(conn)
         load_catalogs(conn)
         load_onet(conn)
